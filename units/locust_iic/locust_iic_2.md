@@ -15,6 +15,9 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2) 
 - **Battle Value:** 937 
 

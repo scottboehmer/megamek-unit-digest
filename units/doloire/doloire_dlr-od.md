@@ -20,6 +20,8 @@
   - AES × 2 
   - Supercharger 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6682/doloire-dlr-od) 
 - **Battle Value:** 3071 
 

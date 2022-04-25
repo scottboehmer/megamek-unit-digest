@@ -13,6 +13,8 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 4 (ammo: 48) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7598/archer-arc-5cs) 
 - **Battle Value:** 1609 
 

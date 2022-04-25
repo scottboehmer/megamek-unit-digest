@@ -18,6 +18,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2070/marauder-iic-6) 
 - **Battle Value:** 2646 
 

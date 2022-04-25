@@ -17,6 +17,9 @@
   - Inner Sphere Large Vibroblade 
 - **Equipment:** 
   - Nova CEWS 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5823/osteon-b) 
 - **Battle Value:** 2625 
 

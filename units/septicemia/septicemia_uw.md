@@ -18,6 +18,8 @@
   - Inner Sphere MASS 
   - Inner Sphere HarJel × 5 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5818/pariah-septicemia-uw) 
 - **Battle Value:** 1913 
 

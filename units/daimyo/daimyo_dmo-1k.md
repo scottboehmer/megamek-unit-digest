@@ -14,6 +14,10 @@
   - ER PPC 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/802/daimyo-dmo-1k) 
 - **Battle Value:** 1148 
 

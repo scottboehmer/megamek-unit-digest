@@ -15,6 +15,8 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/467/cataphract-ctf-2x) 
 - **Battle Value:** 1344 
 

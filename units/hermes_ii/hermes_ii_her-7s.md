@@ -17,6 +17,8 @@
   - Clan ER Flamer 
 - **Equipment:** 
   - Clan Targeting Computer 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1505/hermes-ii-her-7s) 
 - **Battle Value:** 1525 
 

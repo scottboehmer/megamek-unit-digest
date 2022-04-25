@@ -15,6 +15,10 @@
   - Large Pulse Laser × 2 
   - ER Large Laser × 3 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7448/behemoth-stone-rhino-7) 
 - **Battle Value:** 2916 
 

@@ -16,6 +16,8 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1698/jenner-iic-standard) 
 - **Battle Value:** 1047 
 

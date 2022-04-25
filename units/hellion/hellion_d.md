@@ -17,6 +17,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5657/hellion-d) 
 - **Battle Value:** 1761 
 

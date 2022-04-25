@@ -16,6 +16,8 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7606/coyotl-b) 
 - **Battle Value:** 1447 
 

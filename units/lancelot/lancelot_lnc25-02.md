@@ -16,6 +16,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1855/lancelot-lnc25-02) 
 - **Battle Value:** 1236 
 

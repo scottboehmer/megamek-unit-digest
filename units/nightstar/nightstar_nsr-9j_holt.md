@@ -19,6 +19,9 @@
   - Clan ER Small Laser 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** SO:Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619/nightstar-nsr-9j-holt) 
 - **Battle Value:** 3433 
 

@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3084/strider-sr1-o) 
 - **Battle Value:** 867 
 

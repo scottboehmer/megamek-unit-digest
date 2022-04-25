@@ -14,6 +14,10 @@
 - **Weapons:** 
   - AC/10 (ammo: 20) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7430/wolverine-wvr-6d) 
 - **Battle Value:** 1115 
 

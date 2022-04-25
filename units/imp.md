@@ -15,6 +15,9 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1607/imp-imp-1a) 
 - **Battle Value:** 2215 
 - [*More Info*](imp/imp_imp-1a.md) 
@@ -35,6 +38,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1608/imp-imp-1b) 
 - **Battle Value:** 2349 
 - [*More Info*](imp/imp_imp-1b.md) 
@@ -54,6 +60,9 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1609/imp-imp-1c) 
 - **Battle Value:** 2480 
 - [*More Info*](imp/imp_imp-1c.md) 
@@ -72,6 +81,9 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1606/imp-c) 
 - **Battle Value:** 3070 
 - [*More Info*](imp/imp_c.md) 
@@ -88,6 +100,9 @@
   - PPC × 2 
   - LRM 15 (ammo: 8) 
   - Medium Laser × 5 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4358/imp-imp-2e) 
 - **Battle Value:** 1969 
 - [*More Info*](imp/imp_imp-2e.md) 
@@ -108,6 +123,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1610/imp-imp-3e) 
 - **Battle Value:** 1906 
 - [*More Info*](imp/imp_imp-3e.md) 
@@ -128,6 +146,9 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1611/imp-imp-4e) 
 - **Battle Value:** 2263 
 - [*More Info*](imp/imp_imp-4e.md) 

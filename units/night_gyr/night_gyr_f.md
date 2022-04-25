@@ -19,6 +19,8 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2268/night-gyr-f) 
 - **Battle Value:** 2958 
 

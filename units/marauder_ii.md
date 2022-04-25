@@ -13,6 +13,9 @@
   - PPC × 2 
   - Large Laser 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2055/marauder-ii-mad-4a) 
 - **Battle Value:** 2073 
 - [*More Info*](marauder_ii/marauder_ii_mad-4a.md) 
@@ -32,6 +35,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2059/marauder-ii-mad-5a) 
 - **Battle Value:** 2058 
 - [*More Info*](marauder_ii/marauder_ii_mad-5a.md) 
@@ -49,6 +55,9 @@
   - Gauss Rifle (ammo: 24) 
   - ER PPC × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b) 
 - **Battle Value:** 2589 
 - [*More Info*](marauder_ii/marauder_ii_mad-5b.md) 
@@ -68,6 +77,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2061/marauder-ii-mad-5c) 
 - **Battle Value:** 2024 
 - [*More Info*](marauder_ii/marauder_ii_mad-5c.md) 
@@ -88,6 +100,9 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2053/marauder-ii-bounty-hunter) 
 - **Battle Value:** 3767 
 - [*More Info*](marauder_ii/marauder_ii_bounty_hunter.md) 
@@ -105,6 +120,9 @@
   - Heavy Gauss Rifle (ammo: 16) 
   - ER PPC × 2 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2058/marauder-ii-mad-4s) 
 - **Battle Value:** 2623 
 - [*More Info*](marauder_ii/marauder_ii_mad-4s.md) 
@@ -124,6 +142,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2054/marauder-ii-c) 
 - **Battle Value:** 2916 
 - [*More Info*](marauder_ii/marauder_ii_c.md) 
@@ -143,6 +164,9 @@
   - Rocket 20 × 4 
   - Rocket 15 × 6 
   - Rocket 10 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h) 
 - **Battle Value:** 2180 
 - [*More Info*](marauder_ii/marauder_ii_mad-4h.md) 
@@ -160,6 +184,9 @@
   - Gauss Rifle (ammo: 16) 
   - Heavy PPC × 2 
   - ER Small Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2057/marauder-ii-mad-4k) 
 - **Battle Value:** 2626 
 - [*More Info*](marauder_ii/marauder_ii_mad-4k.md) 
@@ -178,6 +205,9 @@
   - Snub-Nose PPC × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2062/marauder-ii-mad-5w) 
 - **Battle Value:** 2383 
 - [*More Info*](marauder_ii/marauder_ii_mad-5w.md) 
@@ -197,6 +227,9 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2064/marauder-ii-mad-6m) 
 - **Battle Value:** 2218 
 - [*More Info*](marauder_ii/marauder_ii_mad-6m.md) 
@@ -216,6 +249,9 @@
   - Light PPC × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2063/marauder-ii-mad-6d) 
 - **Battle Value:** 2378 
 - [*More Info*](marauder_ii/marauder_ii_mad-6d.md) 
@@ -234,6 +270,9 @@
   - ER PPC 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6828/marauder-ii-mad-4l) 
 - **Battle Value:** 2839 
 - [*More Info*](marauder_ii/marauder_ii_mad-4l.md) 
@@ -255,6 +294,9 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** TP Irian - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7331/marauder-ii-mad-6s) 
 - **Battle Value:** 2546 
 - [*More Info*](marauder_ii/marauder_ii_mad-6s.md) 
@@ -275,6 +317,9 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7520/marauder-ii-mad-6a) 
 - **Battle Value:** 2367 
 - [*More Info*](marauder_ii/marauder_ii_mad-6a.md) 
@@ -294,6 +339,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Command Console 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7521/marauder-ii-mad-6c) 
 - **Battle Value:** 2346 
 - [*More Info*](marauder_ii/marauder_ii_mad-6c.md) 
@@ -313,6 +361,9 @@
   - Light PPC × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7522/marauder-ii-mad-8k) 
 - **Battle Value:** 2849 
 - [*More Info*](marauder_ii/marauder_ii_mad-8k.md) 
@@ -331,6 +382,9 @@
   - Clan ER PPC × 2 
   - Large Re-Engineered Laser 
   - Medium X-Pulse Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7519/marauder-ii-mad-10d) 
 - **Battle Value:** 2741 
 - [*More Info*](marauder_ii/marauder_ii_mad-10d.md) 

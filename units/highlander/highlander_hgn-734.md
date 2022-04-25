@@ -19,6 +19,8 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1520/highlander-hgn-734) 
 - **Battle Value:** 2214 
 

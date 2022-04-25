@@ -14,6 +14,8 @@
   - LRM 20 (ammo: 12) 
   - AC/20 (ammo: 10) 
   - Medium Laser × 6 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/141/atlas-as7-d-danielle) 
 - **Battle Value:** 1976 
 

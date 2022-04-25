@@ -16,6 +16,8 @@
   - Light PPC 
   - ER Medium Laser 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2358/ostroc-osr-5c) 
 - **Battle Value:** 1788 
 

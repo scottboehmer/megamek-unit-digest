@@ -14,6 +14,8 @@
   - Medium X-Pulse Laser × 2 
   - SRM 6 w/ Artemis IV × 2 (ammo: 15) 
   - Small X-Pulse Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1947/longshot-lng-2) 
 - **Battle Value:** 1215 
 

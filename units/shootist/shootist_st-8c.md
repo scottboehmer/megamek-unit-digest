@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2940/shootist-st-8c) 
 - **Battle Value:** 1528 
 

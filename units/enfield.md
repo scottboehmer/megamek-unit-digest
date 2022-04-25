@@ -15,6 +15,8 @@
   - Inner Sphere Medium Laser 
 - **Equipment:** 
   - Inner Sphere CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7679/enfield-end-6j-ec) 
 - **Battle Value:** 1379 
 - [*More Info*](enfield/enfield_end-6j-ec.md) 
@@ -34,6 +36,8 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/973/enfield-end-6q) 
 - **Battle Value:** 1248 
 - [*More Info*](enfield/enfield_end-6q.md) 
@@ -53,6 +57,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/972/enfield-end-6j) 
 - **Battle Value:** 1417 
 - [*More Info*](enfield/enfield_end-6j.md) 
@@ -73,6 +79,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/974/enfield-end-6s) 
 - **Battle Value:** 1413 
 - [*More Info*](enfield/enfield_end-6s.md) 
@@ -93,6 +101,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/975/enfield-end-6sr) 
 - **Battle Value:** 1361 
 - [*More Info*](enfield/enfield_end-6sr.md) 

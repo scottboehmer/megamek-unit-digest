@@ -19,6 +19,8 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/968/emperor-emp-6m) 
 - **Battle Value:** 2090 
 

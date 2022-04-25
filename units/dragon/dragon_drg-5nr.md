@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/912/dragon-drg-5nr) 
 - **Battle Value:** 1252 
 

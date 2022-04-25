@@ -16,6 +16,8 @@
 - **Equipment:** 
   - ECM Suite 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/837/dasher-fire-moth-aletha) 
 - **Battle Value:** 1388 
 

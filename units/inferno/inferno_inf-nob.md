@@ -17,6 +17,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7717/inferno-inf-nob) 
 - **Battle Value:** 1658 
 

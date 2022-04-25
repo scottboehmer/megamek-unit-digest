@@ -19,6 +19,8 @@
   - Watchdog CEWS 
   - Light TAG 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #21 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6940/hankyu-arctic-cheetah-f) 
 - **Battle Value:** 1394 
 

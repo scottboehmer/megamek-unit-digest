@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8248/jenner-iic-5) 
 - **Battle Value:** 1440 
 

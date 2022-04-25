@@ -14,6 +14,7 @@
   - LRM 5 w/ Artemis IV × 2 (ammo: 48) 
   - Medium Laser × 3 
 - **Design Quirks:** 
+  - Extended Torso Twist 
   - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1366/hammer-hmr-3m) 
 - **Battle Value:** 787 

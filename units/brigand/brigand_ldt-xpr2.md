@@ -15,6 +15,8 @@
   - Medium Laser × 5 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7314/brigand-ldt-xpr2) 
 - **Battle Value:** 956 
 

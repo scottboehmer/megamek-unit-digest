@@ -17,6 +17,9 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2064/marauder-ii-mad-6m) 
 - **Battle Value:** 2218 
 

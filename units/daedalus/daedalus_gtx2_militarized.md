@@ -17,6 +17,8 @@
   - Backhoe 
   - Chainsaw 
   - Machine Gun × 4 (ammo: 200) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/793/daedalus-gtx2-militarized) 
 - **Battle Value:** 849 
 

@@ -15,6 +15,8 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/358/black-knight-bl-6-knt) 
 - **Battle Value:** 1551 
 - [*More Info*](black_knight/black_knight_bl-6-knt.md) 
@@ -34,6 +36,8 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/357/black-knight-bl-6b-knt) 
 - **Battle Value:** 1627 
 - [*More Info*](black_knight/black_knight_bl-6b-knt.md) 
@@ -51,6 +55,8 @@
   - Large Laser × 2 
   - Medium Laser × 4 
   - Small Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/360/black-knight-bl-7-knt) 
 - **Battle Value:** 1443 
 - [*More Info*](black_knight/black_knight_bl-7-knt.md) 
@@ -67,6 +73,8 @@
   - Large Laser × 3 
   - Medium Laser × 4 
   - Small Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/361/black-knight-bl-7-knt-l) 
 - **Battle Value:** 1409 
 - [*More Info*](black_knight/black_knight_bl-7-knt-l.md) 
@@ -85,6 +93,8 @@
   - Large Laser × 2 
   - Medium Laser × 4 
   - Hatchet 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/359/black-knight-bl-6-knt-ian) 
 - **Battle Value:** 1861 
 - [*More Info*](black_knight/black_knight_bl-6-knt_ian.md) 
@@ -103,6 +113,8 @@
   - Large Pulse Laser 
   - Medium Pulse Laser × 4 
   - Hatchet 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/362/black-knight-bl-9-knt) 
 - **Battle Value:** 1678 
 - [*More Info*](black_knight/black_knight_bl-9-knt.md) 
@@ -124,6 +136,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/355/black-knight-bl-10-knt-ross) 
 - **Battle Value:** 2103 
 - [*More Info*](black_knight/black_knight_bl-10-knt_ross.md) 
@@ -143,6 +157,8 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3826/black-knight-bl-6-rr) 
 - **Battle Value:** 1954 
 - [*More Info*](black_knight/black_knight_bl-6-rr.md) 
@@ -161,6 +177,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/356/black-knight-bl-12-knt) 
 - **Battle Value:** 1840 
 - [*More Info*](black_knight/black_knight_bl-12-knt.md) 

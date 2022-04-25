@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1193/ghost-gst-10) 
 - **Battle Value:** 1353 
 

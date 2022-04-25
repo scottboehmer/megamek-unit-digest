@@ -15,6 +15,8 @@
   - Clan ER Large Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7452/ostscout-ott-12r) 
 - **Battle Value:** 1209 
 

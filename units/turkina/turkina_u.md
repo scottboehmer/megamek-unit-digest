@@ -23,6 +23,8 @@
   - Armored Inner Sphere HarJel × 5 
   - CASE 
   - Armored Liquid Cargo × 2 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3333/turkina-u) 
 - **Battle Value:** 2520 
 

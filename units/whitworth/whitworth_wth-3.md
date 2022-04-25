@@ -15,6 +15,8 @@
   - LRM 5 × 4 (ammo: 96) 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3543/whitworth-wth-3) 
 - **Battle Value:** 861 
 

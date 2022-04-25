@@ -17,6 +17,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/778/cyclops-cp-11-g) 
 - **Battle Value:** 1981 
 

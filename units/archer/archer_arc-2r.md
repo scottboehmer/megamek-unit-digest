@@ -13,6 +13,8 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/74/archer-arc-2r) 
 - **Battle Value:** 1477 
 

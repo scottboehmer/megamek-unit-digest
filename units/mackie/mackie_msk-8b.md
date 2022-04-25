@@ -16,6 +16,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1974/mackie-msk-8b) 
 - **Battle Value:** 2019 
 

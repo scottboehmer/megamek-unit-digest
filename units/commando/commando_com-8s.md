@@ -17,6 +17,8 @@
   - C3 Boosted Support 
   - CASE II 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6945/commando-com-8s) 
 - **Battle Value:** 775 
 

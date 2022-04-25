@@ -21,6 +21,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/69/archangel-c-ang-od-luminos) 
 - **Battle Value:** 2105 
 

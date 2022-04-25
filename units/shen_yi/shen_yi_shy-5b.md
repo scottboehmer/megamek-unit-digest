@@ -15,6 +15,8 @@
   - Large Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6878/shen-yi-shy-5b) 
 - **Battle Value:** 1603 
 

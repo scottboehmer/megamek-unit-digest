@@ -19,6 +19,8 @@
   - Beagle Active Probe 
   - C3i 
   - TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/264/battle-cobra-btl-c-2oa) 
 - **Battle Value:** 1113 
 

@@ -13,6 +13,8 @@
 - **Weapons:** 
   - ER PPC 
   - ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4905/razorback-rzk-9t) 
 - **Battle Value:** 1149 
 

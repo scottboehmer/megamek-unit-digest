@@ -15,6 +15,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/846/dasher-fire-moth-prime) 
 - **Battle Value:** 1251 
 - [*More Info*](fire_moth/fire_moth_prime.md) 
@@ -35,6 +37,8 @@
   - MASC 
   - CASE 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/838/dasher-fire-moth-a) 
 - **Battle Value:** 639 
 - [*More Info*](fire_moth/fire_moth_a.md) 
@@ -55,6 +59,8 @@
   - A-Pod 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/839/dasher-fire-moth-b) 
 - **Battle Value:** 1064 
 - [*More Info*](fire_moth/fire_moth_b.md) 
@@ -73,6 +79,8 @@
   - Anti-Missile System (ammo: 48) 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/840/dasher-fire-moth-c) 
 - **Battle Value:** 741 
 - [*More Info*](fire_moth/fire_moth_c.md) 
@@ -91,6 +99,8 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/841/dasher-fire-moth-d) 
 - **Battle Value:** 2307 
 - [*More Info*](fire_moth/fire_moth_d.md) 
@@ -108,6 +118,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/842/dasher-fire-moth-e) 
 - **Battle Value:** 822 
 - [*More Info*](fire_moth/fire_moth_e.md) 
@@ -125,6 +137,8 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/844/dasher-fire-moth-h) 
 - **Battle Value:** 779 
 - [*More Info*](fire_moth/fire_moth_h.md) 
@@ -143,6 +157,8 @@
 - **Equipment:** 
   - ECM Suite 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/837/dasher-fire-moth-aletha) 
 - **Battle Value:** 1388 
 - [*More Info*](fire_moth/fire_moth_aletha.md) 
@@ -162,6 +178,8 @@
   - Active Probe 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/843/dasher-fire-moth-f) 
 - **Battle Value:** 1461 
 - [*More Info*](fire_moth/fire_moth_f.md) 
@@ -182,6 +200,8 @@
   - B-Pod × 2 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/845/dasher-fire-moth-k) 
 - **Battle Value:** 884 
 - [*More Info*](fire_moth/fire_moth_k.md) 
@@ -201,6 +221,8 @@
   - Supercharger 
   - Targeting Computer 
   - Coolant Pod 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6946/dasher-fire-moth-g) 
 - **Battle Value:** 2040 
 - [*More Info*](fire_moth/fire_moth_g.md) 
@@ -219,6 +241,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7580/dasher-fire-moth-m) 
 - **Battle Value:** 1200 
 - [*More Info*](fire_moth/fire_moth_m.md) 
@@ -240,6 +264,8 @@
   - Inner Sphere M-Pod 
   - MASC 
   - Inner Sphere C3 Support 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7582/dasher-fire-moth-r) 
 - **Battle Value:** 1160 
 - [*More Info*](fire_moth/fire_moth_r.md) 
@@ -257,6 +283,8 @@
 - **Equipment:** 
   - MASC 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7581/dasher-fire-moth-p) 
 - **Battle Value:** 841 
 - [*More Info*](fire_moth/fire_moth_p.md) 
@@ -276,6 +304,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7578/dasher-fire-moth-i) 
 - **Battle Value:** 1260 
 - [*More Info*](fire_moth/fire_moth_i.md) 
@@ -296,6 +326,8 @@
   - MASC 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7577/dasher-fire-moth-t) 
 - **Battle Value:** 1305 
 - [*More Info*](fire_moth/fire_moth_t.md) 
@@ -314,6 +346,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7579/dasher-fire-moth-j) 
 - **Battle Value:** 1140 
 - [*More Info*](fire_moth/fire_moth_j.md) 

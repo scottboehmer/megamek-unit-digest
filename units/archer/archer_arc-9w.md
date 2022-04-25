@@ -17,6 +17,8 @@
   - Angel ECM Suite 
   - Void-Signature System 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/89/archer-arc-9w) 
 - **Battle Value:** 1774 
 

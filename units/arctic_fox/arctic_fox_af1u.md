@@ -16,6 +16,9 @@
   - Light PPC 
 - **Equipment:** 
   - MASS 
+- **Design Quirks:** 
+  - No Torso Twist 
+  - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/98/arctic-fox-af1u) 
 - **Battle Value:** 821 
 

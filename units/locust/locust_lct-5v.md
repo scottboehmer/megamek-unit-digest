@@ -13,6 +13,9 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Rocket 10 × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1910/locust-lct-5v) 
 - **Battle Value:** 665 
 

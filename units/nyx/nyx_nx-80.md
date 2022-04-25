@@ -16,6 +16,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2307/nyx-nx-80) 
 - **Battle Value:** 924 
 

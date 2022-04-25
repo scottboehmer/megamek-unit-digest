@@ -14,6 +14,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1853/lancelot-lnc25-01) 
 - **Battle Value:** 1422 
 - [*More Info*](lancelot/lancelot_lnc25-01.md) 
@@ -32,6 +33,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1858/lancelot-lnc25-05) 
 - **Battle Value:** 1365 
 - [*More Info*](lancelot/lancelot_lnc25-05.md) 
@@ -49,6 +51,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5874/lancelot-lnc25-01sl) 
 - **Battle Value:** 1546 
 - [*More Info*](lancelot/lancelot_lnc25-01sl.md) 
@@ -68,6 +71,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1854/lancelot-lnc25-01x) 
 - **Battle Value:** 1659 
 - [*More Info*](lancelot/lancelot_lnc25-01x.md) 
@@ -84,6 +88,7 @@
   - Large Pulse Laser × 3 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7626/lancelot-c) 
 - **Battle Value:** 1960 
 - [*More Info*](lancelot/lancelot_c.md) 
@@ -104,6 +109,7 @@
   - MASC 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7627/lancelot-c-2) 
 - **Battle Value:** 2571 
 - [*More Info*](lancelot/lancelot_c_2.md) 
@@ -122,6 +128,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1855/lancelot-lnc25-02) 
 - **Battle Value:** 1236 
 - [*More Info*](lancelot/lancelot_lnc25-02.md) 
@@ -142,6 +149,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1856/lancelot-lnc25-03) 
 - **Battle Value:** 1360 
 - [*More Info*](lancelot/lancelot_lnc25-03.md) 
@@ -161,6 +169,7 @@
   - C3i 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1857/lancelot-lnc25-04) 
 - **Battle Value:** 1640 
 - [*More Info*](lancelot/lancelot_lnc25-04.md) 
@@ -183,6 +192,7 @@
   - C3i 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1859/lancelot-lnc25-06) 
 - **Battle Value:** 1661 
 - [*More Info*](lancelot/lancelot_lnc25-06.md) 
@@ -204,6 +214,7 @@
   - C3i 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1860/lancelot-lnc25-08) 
 - **Battle Value:** 1162 
 - [*More Info*](lancelot/lancelot_lnc25-08.md) 
@@ -222,6 +233,7 @@
   - Clan Medium Pulse Laser 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8417/lancelot-lnc25-09) 
 - **Battle Value:** 2099 
 - [*More Info*](lancelot/lancelot_lnc25-09.md) 

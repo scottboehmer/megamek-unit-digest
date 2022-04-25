@@ -18,6 +18,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** Source:TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/300/battlemaster-blr-k3) 
 - **Battle Value:** 1851 
 

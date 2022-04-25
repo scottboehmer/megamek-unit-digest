@@ -15,6 +15,9 @@
   - LRM 20 × 2 (ammo: 36) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Weak Legs 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5619/longbow-lgb-0c) 
 - **Battle Value:** 1295 
 

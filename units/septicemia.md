@@ -14,6 +14,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5024/pariah-septicemia-prime) 
 - **Battle Value:** 2511 
 - [*More Info*](septicemia/septicemia_prime.md) 
@@ -31,6 +33,8 @@
   - Heavy Small Laser × 6 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5019/pariah-septicemia-a) 
 - **Battle Value:** 1935 
 - [*More Info*](septicemia/septicemia_a.md) 
@@ -50,6 +54,8 @@
   - Nova CEWS 
   - Light TAG 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5812/pariah-septicemia-a-z) 
 - **Battle Value:** 2388 
 - [*More Info*](septicemia/septicemia_a-z.md) 
@@ -68,6 +74,8 @@
   - Small Pulse Laser × 3 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5020/pariah-septicemia-b) 
 - **Battle Value:** 2310 
 - [*More Info*](septicemia/septicemia_b.md) 
@@ -88,6 +96,8 @@
   - Nova CEWS 
   - Targeting Computer 
   - Light TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5813/pariah-septicemia-b-z) 
 - **Battle Value:** 2349 
 - [*More Info*](septicemia/septicemia_b-z.md) 
@@ -108,6 +118,8 @@
 - **Equipment:** 
   - Machine Gun Array × 2 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5021/pariah-septicemia-c) 
 - **Battle Value:** 2227 
 - [*More Info*](septicemia/septicemia_c.md) 
@@ -129,6 +141,8 @@
   - Nova CEWS 
   - Machine Gun Array × 2 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5814/pariah-septicemia-c-z) 
 - **Battle Value:** 2264 
 - [*More Info*](septicemia/septicemia_c-z.md) 
@@ -149,6 +163,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5022/pariah-septicemia-d) 
 - **Battle Value:** 2718 
 - [*More Info*](septicemia/septicemia_d.md) 
@@ -169,6 +185,8 @@
   - Nova CEWS 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5815/pariah-septicemia-d-z) 
 - **Battle Value:** 2704 
 - [*More Info*](septicemia/septicemia_d-z.md) 
@@ -188,6 +206,8 @@
   - Nova CEWS 
   - Light TAG 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5023/pariah-septicemia-e) 
 - **Battle Value:** 2950 
 - [*More Info*](septicemia/septicemia_e.md) 
@@ -204,6 +224,8 @@
   - Arrow IV × 2 (ammo: 20) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5816/pariah-septicemia-f) 
 - **Battle Value:** 1389 
 - [*More Info*](septicemia/septicemia_f.md) 
@@ -226,6 +248,8 @@
   - ECM Suite 
   - Talons 
   - Liquid Cargo × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5817/pariah-septicemia-us) 
 - **Battle Value:** 2298 
 - [*More Info*](septicemia/septicemia_us.md) 
@@ -246,6 +270,8 @@
   - Inner Sphere MASS 
   - Inner Sphere HarJel × 5 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5818/pariah-septicemia-uw) 
 - **Battle Value:** 1913 
 - [*More Info*](septicemia/septicemia_uw.md) 
@@ -265,6 +291,8 @@
 - **Equipment:** 
   - CASE 
   - Ground-Mobile HPG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5819/pariah-septicemia-z) 
 - **Battle Value:** 2072 
 - [*More Info*](septicemia/septicemia_z.md) 

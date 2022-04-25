@@ -17,6 +17,8 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2558/pouncer-b) 
 - **Battle Value:** 1836 
 

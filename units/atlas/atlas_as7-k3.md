@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/146/atlas-as7-k3) 
 - **Battle Value:** 2346 
 

@@ -12,6 +12,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1486/hermes-her-1b) 
 - **Battle Value:** 687 
 

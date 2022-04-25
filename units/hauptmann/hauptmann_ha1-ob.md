@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1422/hauptmann-ha1-ob) 
 - **Battle Value:** 2208 
 

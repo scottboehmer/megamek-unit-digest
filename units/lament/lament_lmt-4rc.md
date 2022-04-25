@@ -16,6 +16,9 @@
 - **Equipment:** 
   - Radical Heat Sink System 
   - C3 Support 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6724/lament-lmt-4rc) 
 - **Battle Value:** 2490 
 

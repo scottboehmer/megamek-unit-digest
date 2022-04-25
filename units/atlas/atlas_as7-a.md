@@ -15,6 +15,8 @@
   - AC/5 (ammo: 20) 
   - SRM 6 × 5 (ammo: 60) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7433/atlas-as7-a) 
 - **Battle Value:** 1787 
 

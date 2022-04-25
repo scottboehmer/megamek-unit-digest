@@ -21,6 +21,8 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n) 
 - **Battle Value:** 2575 
 

@@ -18,6 +18,8 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #24 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8459/atlas-ii-as7-dk-h) 
 - **Battle Value:** 2599 
 

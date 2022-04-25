@@ -16,6 +16,8 @@
   - ER Medium Laser 
   - Flamer 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3465/vulcan-vt-6m) 
 - **Battle Value:** 959 
 

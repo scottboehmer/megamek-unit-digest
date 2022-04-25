@@ -14,6 +14,8 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - LRM 5 × 2 (ammo: 24) 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6979/duan-gung-vaughn) 
 - **Battle Value:** 851 
 

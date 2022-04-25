@@ -15,6 +15,9 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/190/baboon-howler-2) 
 - **Battle Value:** 757 
 

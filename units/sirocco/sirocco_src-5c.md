@@ -19,6 +19,8 @@
   - Guardian ECM Suite 
   - A-Pod × 4 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2952/sirocco-src-5c) 
 - **Battle Value:** 2107 
 

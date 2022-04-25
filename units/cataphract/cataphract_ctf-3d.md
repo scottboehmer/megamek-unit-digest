@@ -17,6 +17,8 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/469/cataphract-ctf-3d) 
 - **Battle Value:** 1325 
 

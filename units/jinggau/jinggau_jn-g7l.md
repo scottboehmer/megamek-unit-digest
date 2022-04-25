@@ -14,6 +14,10 @@
 - **Weapons:** 
   - Plasma Rifle × 2 (ammo: 30) 
   - Medium Laser × 6 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1707/jinggau-jn-g7l) 
 - **Battle Value:** 2137 
 

@@ -20,6 +20,8 @@
   - C3 Main 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Difficult to Maintain 
+  - Weak Head Armor (1) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5717/sagittaire-sgt-9d) 
 - **Battle Value:** 2064 
 

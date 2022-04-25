@@ -14,6 +14,8 @@
 - **Weapons:** 
   - AC/5 × 2 (ammo: 80) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7186/emperor-emp-1a) 
 - **Battle Value:** 1453 
 

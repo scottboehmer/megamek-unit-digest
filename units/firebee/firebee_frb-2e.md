@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 2 × 4 (ammo: 100) 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1079/firebee-frb-2e) 
 - **Battle Value:** 808 
 

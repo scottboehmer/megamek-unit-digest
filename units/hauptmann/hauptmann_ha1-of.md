@@ -18,6 +18,8 @@
   - Angel ECM Suite 
   - CASE 
   - CASE II 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6839/hauptmann-ha1-of) 
 - **Battle Value:** 2484 
 

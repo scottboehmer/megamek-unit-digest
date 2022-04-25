@@ -16,6 +16,8 @@
   - AC/10 (ammo: 20) 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1517/highlander-hgn-733) 
 - **Battle Value:** 1801 
 

@@ -13,6 +13,9 @@
 - **Equipment:** 
   - Targeting Computer 
   - MASC 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/191/baboon-howler-3-devil) 
 - **Battle Value:** 1277 
 - [*More Info*](howler/howler_3.md) 

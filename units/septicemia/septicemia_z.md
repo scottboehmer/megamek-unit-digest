@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - Ground-Mobile HPG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5819/pariah-septicemia-z) 
 - **Battle Value:** 2072 
 

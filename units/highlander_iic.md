@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1524/highlander-iic-standard) 
 - **Battle Value:** 2979 
 - [*More Info*](highlander_iic/highlander_iic_standard.md) 
@@ -38,6 +40,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1525/highlander-iic-2) 
 - **Battle Value:** 2928 
 - [*More Info*](highlander_iic/highlander_iic_2.md) 
@@ -59,6 +63,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1523/highlander-iic-3) 
 - **Battle Value:** 3001 
 - [*More Info*](highlander_iic/highlander_iic_3.md) 

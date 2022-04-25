@@ -11,6 +11,8 @@
 - **Weapons:** 
   - PPC × 2 
   - Large Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1167/galahad-glh-1d) 
 - **Battle Value:** 1307 
 - [*More Info*](galahad/galahad_glh-1d.md) 
@@ -25,6 +27,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Gauss Rifle × 2 (ammo: 32) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1168/galahad-glh-2d) 
 - **Battle Value:** 1648 
 - [*More Info*](galahad/galahad_glh-2d.md) 
@@ -43,6 +47,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1169/galahad-glh-3d) 
 - **Battle Value:** 1268 
 - [*More Info*](galahad/galahad_glh-3d.md) 
@@ -64,6 +70,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6978/galahad-glh-3d-laodices) 
 - **Battle Value:** 1549 
 - [*More Info*](galahad/galahad_glh-3d_laodices.md) 

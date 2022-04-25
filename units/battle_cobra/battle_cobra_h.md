@@ -13,6 +13,8 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Heavy Medium Laser × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/272/battle-cobra-h) 
 - **Battle Value:** 1592 
 

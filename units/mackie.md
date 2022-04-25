@@ -13,6 +13,9 @@
   - PPC 
   - Large Laser 
   - AC/5 (ammo: 20) 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972/mackie-msk-5s) 
 - **Battle Value:** 1436 
 - [*More Info*](mackie/mackie_msk-5s.md) 
@@ -30,6 +33,9 @@
   - PPC 
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1973/mackie-msk-6s) 
 - **Battle Value:** 1461 
 - [*More Info*](mackie/mackie_msk-6s.md) 
@@ -46,6 +52,9 @@
   - AC/20 (ammo: 20) 
   - PPC 
   - Large Laser × 2 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** RS 3075U , [Master Unit List](http://masterunitlist.info/Unit/Details/4556/mackie-msk-7a) 
 - **Battle Value:** 1900 
 - [*More Info*](mackie/mackie_msk-7a.md) 
@@ -64,6 +73,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1974/mackie-msk-8b) 
 - **Battle Value:** 2019 
 - [*More Info*](mackie/mackie_msk-8b.md) 
@@ -83,6 +95,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975/mackie-msk-9h) 
 - **Battle Value:** 2022 
 - [*More Info*](mackie/mackie_msk-9h.md) 
@@ -101,6 +116,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5876/mackie-msh-9hkr-kill-roys-little-buddy) 
 - **Battle Value:** 2162 
 - [*More Info*](mackie/mackie_msk-9hkr_kill-roys_little_buddy.md) 

@@ -16,6 +16,9 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4463/kraken-bane-xr) 
 - **Battle Value:** 3740 
 

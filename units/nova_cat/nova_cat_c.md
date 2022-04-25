@@ -16,6 +16,8 @@
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2301/nova-cat-c) 
 - **Battle Value:** 1944 
 

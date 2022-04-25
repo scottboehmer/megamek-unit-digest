@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1024/falcon-flc-4nb-saho) 
 - **Battle Value:** 774 
 

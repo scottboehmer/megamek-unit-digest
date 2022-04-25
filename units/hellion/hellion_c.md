@@ -17,6 +17,8 @@
   - MASC 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4305/hellion-c) 
 - **Battle Value:** 2095 
 

@@ -17,6 +17,8 @@
   - MML 5 × 2 (ammo: 20 SRM, 24 LRM) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7715/inferno-inf-no) 
 - **Battle Value:** 1597 
 

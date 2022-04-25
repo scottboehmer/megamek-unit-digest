@@ -18,6 +18,8 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1762/katana-crockett-crk-5003-cj) 
 - **Battle Value:** 1844 
 

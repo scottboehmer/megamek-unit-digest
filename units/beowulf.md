@@ -16,6 +16,9 @@
   - Beagle Active Probe 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/327/beowulf-beo-12) 
 - **Battle Value:** 1319 
 - [*More Info*](beowulf/beowulf_beo-12.md) 
@@ -38,6 +41,8 @@
   - Full Head Ejection System 
   - TAG 
   - MASC 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5548/beowulf-beo-x-7a) 
 - **Battle Value:** 1473 
 - [*More Info*](beowulf/beowulf_beo-x-7a.md) 
@@ -59,6 +64,9 @@
   - Light Active Probe 
   - MASC 
   - Light TAG 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
 - **Source:** Jihad 
 - **Battle Value:** 2078 
 - [*More Info*](beowulf/beowulf_c.md) 
@@ -82,6 +90,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/328/beowulf-beo-14) 
 - **Battle Value:** 1287 
 - [*More Info*](beowulf/beowulf_beo-14.md) 

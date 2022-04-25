@@ -19,6 +19,8 @@
 - **Equipment:** 
   - AES × 2 
   - Supercharger 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3427/vindicator-vnd-3ld-dao) 
 - **Battle Value:** 1583 
 

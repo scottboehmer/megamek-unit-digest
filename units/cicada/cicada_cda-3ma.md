@@ -14,6 +14,8 @@
   - Snub-Nose PPC 
   - Medium Laser × 2 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/597/cicada-cda-3ma) 
 - **Battle Value:** 1158 
 

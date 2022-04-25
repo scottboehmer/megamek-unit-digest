@@ -17,6 +17,9 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2594/puma-adder-d) 
 - **Battle Value:** 1255 
 

@@ -24,6 +24,8 @@
   - A-Pod × 6 
   - CASE II 
   - C3 Main × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6688/ares-ars-v1c-aphrodite) 
 - **Battle Value:** 2903 
 

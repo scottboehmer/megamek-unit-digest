@@ -16,6 +16,8 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3526/wasp-wsp-3a) 
 - **Battle Value:** 401 
 

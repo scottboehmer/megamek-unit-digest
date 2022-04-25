@@ -17,6 +17,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775/king-crab-kgc-005r) 
 - **Battle Value:** 2335 
 

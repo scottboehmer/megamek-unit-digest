@@ -16,6 +16,8 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1697/jenner-jr7-k-samuli) 
 - **Battle Value:** 1001 
 

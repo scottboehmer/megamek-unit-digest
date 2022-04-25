@@ -18,6 +18,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8428/katana-crockett-crk-5006-1) 
 - **Battle Value:** 2363 
 

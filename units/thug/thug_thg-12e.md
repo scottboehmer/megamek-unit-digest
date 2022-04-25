@@ -16,6 +16,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3207/thug-thg-12e) 
 - **Battle Value:** 1751 
 

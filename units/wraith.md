@@ -12,6 +12,8 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3588/wraith-tr1) 
 - **Battle Value:** 1287 
 - [*More Info*](wraith/wraith_tr1.md) 
@@ -28,6 +30,8 @@
 - **Weapons:** 
   - ER PPC 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3589/wraith-tr2) 
 - **Battle Value:** 1485 
 - [*More Info*](wraith/wraith_tr2.md) 
@@ -46,6 +50,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3591/wraith-tr3) 
 - **Battle Value:** 1310 
 - [*More Info*](wraith/wraith_tr3.md) 
@@ -64,6 +70,8 @@
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
   - Clan Partial Wing 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3590/wraith-tr2-x-alexander) 
 - **Battle Value:** 1816 
 - [*More Info*](wraith/wraith_tr2-x_alexander.md) 
@@ -82,6 +90,8 @@
   - Hatchet 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8381/wraith-tr2-p-pocahontas) 
 - **Battle Value:** 2051 
 - [*More Info*](wraith/wraith_tr2-p_pocahontas.md) 

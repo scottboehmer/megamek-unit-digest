@@ -15,6 +15,8 @@
   - ER PPC × 2 
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 24) 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/347/black-hawk-ku-bhku-oa) 
 - **Battle Value:** 1770 
 

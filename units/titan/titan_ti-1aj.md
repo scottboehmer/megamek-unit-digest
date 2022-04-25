@@ -17,6 +17,8 @@
   - SRM 4 × 5 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6827/titan-ti-1aj) 
 - **Battle Value:** 2328 
 

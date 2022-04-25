@@ -23,6 +23,10 @@
   - Machine Gun Array 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3581/wolverine-wvr-9k) 
 - **Battle Value:** 1400 
 

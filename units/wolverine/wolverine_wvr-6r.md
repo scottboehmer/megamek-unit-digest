@@ -15,6 +15,10 @@
   - AC/5 (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3573/wolverine-wvr-6r) 
 - **Battle Value:** 1101 
 

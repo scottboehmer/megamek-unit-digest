@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6846/sunder-sd1-of) 
 - **Battle Value:** 1854 
 

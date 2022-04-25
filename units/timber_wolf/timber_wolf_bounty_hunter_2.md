@@ -24,6 +24,7 @@
   - Coolant Pod 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
+  - Weak Head Armor (1) 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5803/mad-cat-timber-wolf-bounty-hunter-2) 
 - **Battle Value:** 2799 
 

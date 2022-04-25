@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/926/dragonfly-viper-prime) 
 - **Battle Value:** 1450 
 - [*More Info*](viper/viper_prime.md) 
@@ -38,6 +40,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/917/dragonfly-viper-a) 
 - **Battle Value:** 1989 
 - [*More Info*](viper/viper_a.md) 
@@ -57,6 +61,8 @@
   - Flamer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/918/dragonfly-viper-b) 
 - **Battle Value:** 1830 
 - [*More Info*](viper/viper_b.md) 
@@ -79,6 +85,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/919/dragonfly-viper-c) 
 - **Battle Value:** 1344 
 - [*More Info*](viper/viper_c.md) 
@@ -101,6 +109,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/920/dragonfly-viper-d) 
 - **Battle Value:** 1779 
 - [*More Info*](viper/viper_d.md) 
@@ -122,6 +132,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/921/dragonfly-viper-e) 
 - **Battle Value:** 1561 
 - [*More Info*](viper/viper_e.md) 
@@ -144,6 +156,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/924/dragonfly-viper-h) 
 - **Battle Value:** 1732 
 - [*More Info*](viper/viper_h.md) 
@@ -167,6 +181,8 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/925/dragonfly-viper-i) 
 - **Battle Value:** 1580 
 - [*More Info*](viper/viper_i.md) 
@@ -188,6 +204,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/922/dragonfly-viper-f) 
 - **Battle Value:** 1689 
 - [*More Info*](viper/viper_f.md) 
@@ -210,6 +228,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/923/dragonfly-viper-g) 
 - **Battle Value:** 1574 
 - [*More Info*](viper/viper_g.md) 
@@ -233,6 +253,8 @@
   - Light TAG 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5644/dragonfly-viper-z) 
 - **Battle Value:** 1692 
 - [*More Info*](viper/viper_z.md) 
@@ -256,6 +278,8 @@
   - Liquid Cargo 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/927/dragonfly-viper-u) 
 - **Battle Value:** 1417 
 - [*More Info*](viper/viper_u.md) 
@@ -278,6 +302,8 @@
   - Light TAG 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7588/dragonfly-viper-r) 
 - **Battle Value:** 1335 
 - [*More Info*](viper/viper_r.md) 
@@ -302,6 +328,8 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7583/dragonfly-viper-t) 
 - **Battle Value:** 1704 
 - [*More Info*](viper/viper_t.md) 
@@ -322,6 +350,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7584/dragonfly-viper-j) 
 - **Battle Value:** 1259 
 - [*More Info*](viper/viper_j.md) 
@@ -345,6 +375,8 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7585/dragonfly-viper-k) 
 - **Battle Value:** 1545 
 - [*More Info*](viper/viper_k.md) 
@@ -365,6 +397,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7586/dragonfly-viper-l) 
 - **Battle Value:** 1417 
 - [*More Info*](viper/viper_l.md) 
@@ -386,6 +420,8 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7587/dragonfly-viper-m) 
 - **Battle Value:** 2054 
 - [*More Info*](viper/viper_m.md) 

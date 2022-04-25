@@ -14,6 +14,9 @@
   - ER Large Laser 
   - Light Gauss Rifle (ammo: 16) 
   - ER Medium Laser × 6 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/297/battlemaster-blr-5m) 
 - **Battle Value:** 1766 
 

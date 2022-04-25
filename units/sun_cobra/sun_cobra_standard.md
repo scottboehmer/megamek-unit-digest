@@ -15,6 +15,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3122/sun-cobra-standard) 
 - **Battle Value:** 1677 
 

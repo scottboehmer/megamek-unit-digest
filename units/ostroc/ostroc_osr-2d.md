@@ -14,6 +14,8 @@
   - ER Large Laser × 2 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #21 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2351/ostroc-osr-2d) 
 - **Battle Value:** 1396 
 

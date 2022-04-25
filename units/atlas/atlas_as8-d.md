@@ -20,6 +20,8 @@
   - Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/151/atlas-as8-d) 
 - **Battle Value:** 2432 
 

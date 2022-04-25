@@ -16,6 +16,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1514/highlander-hgn-732) 
 - **Battle Value:** 2227 
 - [*More Info*](highlander/highlander_hgn-732.md) 
@@ -36,6 +38,8 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1516/highlander-hgn-732b) 
 - **Battle Value:** 2335 
 - [*More Info*](highlander/highlander_hgn-732b.md) 
@@ -56,6 +60,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Historical: Operation Klondike - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4323/highlander-hgn-732-colleen) 
 - **Battle Value:** 2150 
 - [*More Info*](highlander/highlander_hgn-732_colleen.md) 
@@ -75,6 +81,8 @@
   - LRM 20 w/ Artemis IV (ammo: 0) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** OTP Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7309/highlander-hgn-732-jorgensson) 
 - **Battle Value:** 2481 
 - [*More Info*](highlander/highlander_hgn-732_jorgensson.md) 
@@ -93,6 +101,8 @@
   - AC/10 (ammo: 20) 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1517/highlander-hgn-733) 
 - **Battle Value:** 1801 
 - [*More Info*](highlander/highlander_hgn-733.md) 
@@ -111,6 +121,8 @@
   - AC/20 (ammo: 10) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1518/highlander-hgn-733c) 
 - **Battle Value:** 1857 
 - [*More Info*](highlander/highlander_hgn-733c.md) 
@@ -129,6 +141,8 @@
   - PPC 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1519/highlander-hgn-733p) 
 - **Battle Value:** 1865 
 - [*More Info*](highlander/highlander_hgn-733p.md) 
@@ -150,6 +164,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1521/highlander-hgn-736) 
 - **Battle Value:** 2255 
 - [*More Info*](highlander/highlander_hgn-736.md) 
@@ -168,6 +184,8 @@
   - Large Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5493/highlander-hgn-694) 
 - **Battle Value:** 2369 
 - [*More Info*](highlander/highlander_hgn-694.md) 
@@ -189,6 +207,8 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1520/highlander-hgn-734) 
 - **Battle Value:** 2214 
 - [*More Info*](highlander/highlander_hgn-734.md) 
@@ -210,6 +230,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1522/highlander-hgn-738) 
 - **Battle Value:** 2413 
 - [*More Info*](highlander/highlander_hgn-738.md) 
@@ -232,6 +254,8 @@
   - Angel ECM Suite 
   - CASE II 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5552/highlander-hgn-641-x-2) 
 - **Battle Value:** 2152 
 - [*More Info*](highlander/highlander_hgn-641-x-2.md) 
@@ -253,6 +277,8 @@
 - **Equipment:** 
   - M-Pod × 4 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7733/highlander-hgn-740) 
 - **Battle Value:** 2232 
 - [*More Info*](highlander/highlander_hgn-740.md) 

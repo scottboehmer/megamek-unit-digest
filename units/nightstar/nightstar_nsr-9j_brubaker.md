@@ -14,6 +14,9 @@
   - Clan Gauss Rifle × 2 (ammo: 48) 
   - Clan Large Pulse Laser × 3 
   - Clan ER Small Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4723/nightstar-nsr-9j-brubaker) 
 - **Battle Value:** 2838 
 

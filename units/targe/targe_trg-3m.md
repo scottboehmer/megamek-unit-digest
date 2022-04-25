@@ -17,6 +17,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6915/targe-trg-3m) 
 - **Battle Value:** 1233 
 

@@ -18,6 +18,9 @@
   - Modular Armor × 6 
   - Supercharger 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6932/uller-kit-fox-i) 
 - **Battle Value:** 1936 
 

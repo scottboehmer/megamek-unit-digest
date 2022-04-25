@@ -16,6 +16,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/488/catapult-cplt-k4) 
 - **Battle Value:** 1880 
 

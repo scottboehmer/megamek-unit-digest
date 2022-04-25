@@ -18,6 +18,8 @@
   - Full Head Ejection System 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/188/axman-axm-4d) 
 - **Battle Value:** 1222 
 

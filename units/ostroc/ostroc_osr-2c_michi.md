@@ -15,6 +15,8 @@
   - Large Laser × 2 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2349/ostroc-osr-2c-michi) 
 - **Battle Value:** 1321 
 

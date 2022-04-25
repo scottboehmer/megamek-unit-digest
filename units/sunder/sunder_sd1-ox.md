@@ -17,6 +17,8 @@
 - **Equipment:** 
   - B-Pod × 2 
   - C3 Support 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3131/sunder-sd1-ox) 
 - **Battle Value:** 1761 
 

@@ -16,6 +16,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1499/hermes-ii-her-5c) 
 - **Battle Value:** 1119 
 

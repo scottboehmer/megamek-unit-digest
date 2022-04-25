@@ -19,6 +19,9 @@
   - Clan Small Pulse Laser 
 - **Equipment:** 
   - Clan ECM Suite 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Difficult to Maintain 
 - **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240/thunderbolt-iic-2) 
 - **Battle Value:** 2177 
 

@@ -15,6 +15,8 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3369/valiant-v4-lnt-k7) 
 - **Battle Value:** 894 
 - [*More Info*](valiant/valiant_v4-lnt-k7.md) 
@@ -36,6 +38,8 @@
   - Small Shield 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3368/valiant-v4-lnt-j3) 
 - **Battle Value:** 926 
 - [*More Info*](valiant/valiant_v4-lnt-j3.md) 
@@ -56,6 +60,8 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371/valiant-vln-3t) 
 - **Battle Value:** 852 
 - [*More Info*](valiant/valiant_vln-3t.md) 
@@ -78,6 +84,8 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - Weak Head Armor (1) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3370/valiant-val-nt-jx-hot-knife) 
 - **Battle Value:** 989 
 - [*More Info*](valiant/valiant_val-nt-jx_hot_knife.md) 
@@ -99,6 +107,8 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - Weak Head Armor (1) 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7293/valiant-vlt-3e) 
 - **Battle Value:** 1019 
 - [*More Info*](valiant/valiant_vlt-3e.md) 

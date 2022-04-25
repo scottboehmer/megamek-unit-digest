@@ -20,6 +20,8 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - No Torso Twist 
 - **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6982/snake-arthur) 
 - **Battle Value:** 1477 
 

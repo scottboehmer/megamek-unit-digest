@@ -15,6 +15,8 @@
 - **Equipment:** 
   - CASE 
   - Quad Turret 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6612/jaguar-standard) 
 - **Battle Value:** 1791 
 - [*More Info*](jaguar/jaguar_standard.md) 
@@ -37,6 +39,8 @@
   - CASE 
   - Targeting Computer 
   - Light TAG 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6613/jaguar-2) 
 - **Battle Value:** 1742 
 - [*More Info*](jaguar/jaguar_2.md) 

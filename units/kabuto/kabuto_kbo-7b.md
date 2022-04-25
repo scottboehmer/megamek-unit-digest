@@ -12,6 +12,8 @@
 - **Heat Sinks:** 11 (11) 
 - **Weapons:** 
   - Light PPC × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1729/kabuto-kbo-7b) 
 - **Battle Value:** 635 
 

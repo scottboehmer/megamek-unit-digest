@@ -18,6 +18,11 @@
   - Guardian ECM Suite 
   - Anti-Missile System × 2 (ammo: 24) 
   - TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
+  - Protected Actuators 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1811/komodo-kim-2a) 
 - **Battle Value:** 1415 
 

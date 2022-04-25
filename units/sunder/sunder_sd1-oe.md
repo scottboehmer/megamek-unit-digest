@@ -15,6 +15,8 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Streak SRM 6 × 2 (ammo: 15) 
   - ER Medium Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3129/sunder-sd1-oe) 
 - **Battle Value:** 1876 
 

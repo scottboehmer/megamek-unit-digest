@@ -21,6 +21,8 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/65/archangel-c-ang-o-invictus) 
 - **Battle Value:** 2237 
 

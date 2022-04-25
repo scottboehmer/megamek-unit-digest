@@ -14,6 +14,9 @@
   - PPC 
   - Medium Laser × 4 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/282/battlemaster-blr-1d) 
 - **Battle Value:** 1522 
 

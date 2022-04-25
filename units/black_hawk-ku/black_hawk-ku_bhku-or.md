@@ -16,6 +16,8 @@
   - Clan Streak SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3825/black-hawk-ku-bhku-or) 
 - **Battle Value:** 2193 
 

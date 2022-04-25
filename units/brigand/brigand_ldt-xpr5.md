@@ -14,6 +14,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7317/brigand-ldt-xpr5) 
 - **Battle Value:** 743 
 

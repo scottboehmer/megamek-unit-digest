@@ -136,6 +136,9 @@
 - **Equipment:** 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc) 
 - **Battle Value:** 2013 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9ddc.md) 

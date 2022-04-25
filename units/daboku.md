@@ -14,6 +14,8 @@
   - AC/2 × 4 (ammo: 90) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/788/daboku-dcms-mx90-d) 
 - **Battle Value:** 1290 
 - [*More Info*](daboku/daboku_dcms-mx90-d.md) 

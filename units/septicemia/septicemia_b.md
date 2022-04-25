@@ -16,6 +16,8 @@
   - Small Pulse Laser × 3 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5020/pariah-septicemia-b) 
 - **Battle Value:** 2310 
 

@@ -15,6 +15,8 @@
   - ATM 9 × 4 (ammo: 28 Standard, 14 ER, 14 HE) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2303/nova-cat-e) 
 - **Battle Value:** 2191 
 

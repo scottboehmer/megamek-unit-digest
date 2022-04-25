@@ -15,6 +15,8 @@
   - ER Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8392/battle-cobra-j) 
 - **Battle Value:** 1272 
 

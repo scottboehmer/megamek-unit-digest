@@ -15,6 +15,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5346/verfolger-vr5-r) 
 - **Battle Value:** 1639 
 - [*More Info*](verfolger/verfolger_vr5-r.md) 
@@ -33,6 +35,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5688/verfolger-vr6-c) 
 - **Battle Value:** 1584 
 - [*More Info*](verfolger/verfolger_vr6-c.md) 
@@ -53,6 +57,8 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5689/verfolger-vr6-t) 
 - **Battle Value:** 1811 
 - [*More Info*](verfolger/verfolger_vr6-t.md) 

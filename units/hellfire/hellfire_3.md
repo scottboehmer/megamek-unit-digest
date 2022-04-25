@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5685/hellfire-3) 
 - **Battle Value:** 2138 
 

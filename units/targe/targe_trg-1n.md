@@ -17,6 +17,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3164/targe-trg-1n) 
 - **Battle Value:** 813 
 

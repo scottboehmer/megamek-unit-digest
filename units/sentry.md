@@ -16,6 +16,8 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2866/sentry-snt-04) 
 - **Battle Value:** 1069 
 - [*More Info*](sentry/sentry_snt-04.md) 
@@ -36,6 +38,8 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2867/sentry-snt-w5) 
 - **Battle Value:** 1143 
 - [*More Info*](sentry/sentry_snt-w5.md) 

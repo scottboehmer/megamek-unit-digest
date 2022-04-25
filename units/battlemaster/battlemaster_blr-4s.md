@@ -18,6 +18,9 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/294/battlemaster-blr-4s) 
 - **Battle Value:** 2018 
 

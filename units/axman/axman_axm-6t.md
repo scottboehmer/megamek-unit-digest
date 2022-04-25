@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771/axman-axm-6t) 
 - **Battle Value:** 1830 
 

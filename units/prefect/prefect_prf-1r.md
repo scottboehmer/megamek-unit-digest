@@ -15,6 +15,8 @@
   - Heavy PPC 
   - Snub-Nose PPC 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2569/prefect-prf-1r) 
 - **Battle Value:** 1847 
 

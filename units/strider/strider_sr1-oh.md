@@ -14,6 +14,8 @@
   - Clan Streak LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6917/strider-sr1-oh) 
 - **Battle Value:** 1192 
 

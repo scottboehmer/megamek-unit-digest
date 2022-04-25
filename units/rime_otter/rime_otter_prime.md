@@ -16,6 +16,8 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8309/rime-otter-prime) 
 - **Battle Value:** 2169 
 

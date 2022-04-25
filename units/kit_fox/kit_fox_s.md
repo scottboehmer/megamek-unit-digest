@@ -19,6 +19,9 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3348/uller-kit-fox-s) 
 - **Battle Value:** 1342 
 

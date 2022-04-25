@@ -17,6 +17,8 @@
   - Beagle Active Probe 
   - MASC 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2216/mongoose-ii-mon-266) 
 - **Battle Value:** 1085 
 

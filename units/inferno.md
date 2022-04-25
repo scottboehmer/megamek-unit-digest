@@ -15,6 +15,8 @@
   - MML 5 × 2 (ammo: 20 SRM, 24 LRM) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7715/inferno-inf-no) 
 - **Battle Value:** 1597 
 - [*More Info*](inferno/inferno_inf-no.md) 
@@ -34,6 +36,8 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7716/inferno-inf-noa) 
 - **Battle Value:** 1846 
 - [*More Info*](inferno/inferno_inf-noa.md) 
@@ -53,6 +57,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7717/inferno-inf-nob) 
 - **Battle Value:** 1658 
 - [*More Info*](inferno/inferno_inf-nob.md) 
@@ -72,6 +78,8 @@
   - MML 5 × 2 (ammo: 48 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7718/inferno-inf-noc) 
 - **Battle Value:** 1698 
 - [*More Info*](inferno/inferno_inf-noc.md) 
@@ -92,6 +100,8 @@
 - **Equipment:** 
   - CASE II 
   - Clan Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7719/inferno-inf-nor) 
 - **Battle Value:** 2360 
 - [*More Info*](inferno/inferno_inf-nor.md) 

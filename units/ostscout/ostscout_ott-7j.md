@@ -13,6 +13,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2366/ostscout-ott-7j) 
 - **Battle Value:** 596 
 

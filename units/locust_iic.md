@@ -11,6 +11,9 @@
 - **Weapons:** 
   - Medium Pulse Laser 
   - ER Small Laser × 8 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1914/locust-iic-standard) 
 - **Battle Value:** 1100 
 - [*More Info*](locust_iic/locust_iic_standard.md) 
@@ -28,6 +31,9 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2) 
 - **Battle Value:** 937 
 - [*More Info*](locust_iic/locust_iic_2.md) 
@@ -43,6 +49,9 @@
 - **Weapons:** 
   - ER Large Laser 
   - Small Pulse Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1916/locust-iic-3) 
 - **Battle Value:** 980 
 - [*More Info*](locust_iic/locust_iic_3.md) 
@@ -60,6 +69,9 @@
   - ATM 3 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1918/locust-iic-5) 
 - **Battle Value:** 878 
 - [*More Info*](locust_iic/locust_iic_5.md) 
@@ -75,6 +87,9 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Heavy Small Laser × 6 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1917/locust-iic-4) 
 - **Battle Value:** 795 
 - [*More Info*](locust_iic/locust_iic_4.md) 
@@ -93,6 +108,9 @@
 - **Equipment:** 
   - Machine Gun Array × 2 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1919/locust-iic-6) 
 - **Battle Value:** 730 
 - [*More Info*](locust_iic/locust_iic_6.md) 
@@ -111,6 +129,9 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1920/locust-iic-7) 
 - **Battle Value:** 980 
 - [*More Info*](locust_iic/locust_iic_7.md) 
@@ -125,6 +146,9 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Large Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1921/locust-iic-8) 
 - **Battle Value:** 1119 
 - [*More Info*](locust_iic/locust_iic_8.md) 
@@ -142,6 +166,9 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - Laser Anti-Missile System 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1922/locust-iic-9) 
 - **Battle Value:** 1133 
 - [*More Info*](locust_iic/locust_iic_9.md) 
@@ -157,6 +184,9 @@
 - **Weapons:** 
   - ER Medium Laser 
   - ER Small Laser × 8 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8203/locust-iic-10) 
 - **Battle Value:** 1248 
 - [*More Info*](locust_iic/locust_iic_10.md) 

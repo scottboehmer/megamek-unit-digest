@@ -15,6 +15,8 @@
 - **Weapons:** 
   - Light PPC 
   - MML 3 (ammo: 40 LRM, 33 SRM) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3532/wasp-wsp-8t) 
 - **Battle Value:** 439 
 

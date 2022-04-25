@@ -14,6 +14,8 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2352/ostroc-osr-2l) 
 - **Battle Value:** 1233 
 

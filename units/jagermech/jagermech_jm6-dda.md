@@ -19,6 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1667/jagermech-jm6-dda) 
 - **Battle Value:** 911 
 

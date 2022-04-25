@@ -15,6 +15,9 @@
   - NLRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Difficult to Maintain 
 - **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5562/anubis-abs-3mc) 
 - **Battle Value:** 1074 
 

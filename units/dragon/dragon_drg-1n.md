@@ -14,6 +14,8 @@
   - LRM 10 (ammo: 24) 
   - AC/5 (ammo: 40) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/909/dragon-drg-1n) 
 - **Battle Value:** 1125 
 

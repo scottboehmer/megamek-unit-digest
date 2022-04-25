@@ -18,6 +18,8 @@
   - Watchdog CEWS 
   - MASC 
   - Light TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3818/beowulf-iic-standard) 
 - **Battle Value:** 2048 
 

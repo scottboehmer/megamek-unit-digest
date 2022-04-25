@@ -18,6 +18,8 @@
 - **Equipment:** 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Op. Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/4172/firefly-ffl-3a) 
 - **Battle Value:** 797 
 

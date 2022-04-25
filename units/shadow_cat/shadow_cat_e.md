@@ -16,6 +16,8 @@
 - **Equipment:** 
   - MASC 
   - Inner Sphere Coolant Pod × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6913/shadow-cat-e) 
 - **Battle Value:** 2081 
 

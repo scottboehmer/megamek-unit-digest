@@ -17,6 +17,8 @@
   - MASC 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7494/shadow-cat-iii-c) 
 - **Battle Value:** 2153 
 

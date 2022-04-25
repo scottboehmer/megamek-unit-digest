@@ -16,6 +16,10 @@
   - AC/5 (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7408/wolverine-wvr-3r) 
 - **Battle Value:** 867 
 

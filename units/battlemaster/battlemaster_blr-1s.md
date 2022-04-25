@@ -15,6 +15,9 @@
   - Medium Laser × 4 
   - LRM 5 (ammo: 24) 
   - SRM 2 × 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/289/battlemaster-blr-1s) 
 - **Battle Value:** 1507 
 

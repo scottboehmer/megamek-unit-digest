@@ -18,6 +18,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3327/turkina-b) 
 - **Battle Value:** 3420 
 

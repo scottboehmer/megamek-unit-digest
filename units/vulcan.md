@@ -14,6 +14,8 @@
   - AC/2 (ammo: 45) 
   - Flamer 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3458/vulcan-vl-2t) 
 - **Battle Value:** 642 
 - [*More Info*](vulcan/vulcan_vl-2t.md) 
@@ -31,6 +33,8 @@
   - Medium Laser × 4 
   - Flamer 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3459/vulcan-vl-5t) 
 - **Battle Value:** 942 
 - [*More Info*](vulcan/vulcan_vl-5t.md) 
@@ -48,6 +52,8 @@
   - AC/2 (ammo: 45) 
   - Small Laser 
   - Flamer × 3 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7797/vulcan-vl-2t-timms) 
 - **Battle Value:** 603 
 - [*More Info*](vulcan/vulcan_vl-2t_timms.md) 
@@ -66,6 +72,8 @@
   - Medium Pulse Laser 
   - Flamer 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3461/vulcan-vt-5m) 
 - **Battle Value:** 811 
 - [*More Info*](vulcan/vulcan_vt-5m.md) 
@@ -87,6 +95,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3462/vulcan-vt-5s) 
 - **Battle Value:** 883 
 - [*More Info*](vulcan/vulcan_vt-5s.md) 
@@ -105,6 +115,8 @@
   - ER Medium Laser 
   - Flamer 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3465/vulcan-vt-6m) 
 - **Battle Value:** 959 
 - [*More Info*](vulcan/vulcan_vt-6m.md) 
@@ -126,6 +138,8 @@
 - **Equipment:** 
   - Machine Gun Array 
   - C3i 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3464/vulcan-vt-6c) 
 - **Battle Value:** 940 
 - [*More Info*](vulcan/vulcan_vt-6c.md) 
@@ -147,6 +161,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3463/vulcan-vt-5sr) 
 - **Battle Value:** 1210 
 - [*More Info*](vulcan/vulcan_vt-5sr.md) 
@@ -165,6 +181,8 @@
   - Retractable Blade 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8370/vulcan-vl-5ml-aladdin) 
 - **Battle Value:** 947 
 - [*More Info*](vulcan/vulcan_vt-5ml_aladdin.md) 

@@ -15,6 +15,8 @@
   - Light PPC × 2 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2365/ostscout-ott-11j) 
 - **Battle Value:** 908 
 

@@ -20,6 +20,8 @@
   - Spikes × 3 
   - Supercharger 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1361/hachiwara-hca-4t) 
 - **Battle Value:** 1728 
 

@@ -16,6 +16,8 @@
   - Watchdog CEWS 
   - MASC 
   - Light TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3818/beowulf-iic-standard) 
 - **Battle Value:** 2048 
 - [*More Info*](beowulf_iic/beowulf_iic_standard.md) 
@@ -36,6 +38,8 @@
   - Watchdog CEWS 
   - Inner Sphere C3i 
   - MASC 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7294/beowulf-iic-pr) 
 - **Battle Value:** 1992 
 - [*More Info*](beowulf_iic/beowulf_iic_pr.md) 

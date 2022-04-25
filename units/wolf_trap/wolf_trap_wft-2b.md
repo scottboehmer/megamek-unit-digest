@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
   - Medium X-Pulse Laser × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5415/wolf-trap-tora-wft-2b) 
 - **Battle Value:** 1439 
 

@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE II 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7454/bushwacker-bsw-x4) 
 - **Battle Value:** 1751 
 

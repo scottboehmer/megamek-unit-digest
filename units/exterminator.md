@@ -17,6 +17,8 @@
   - Anti-Missile System (ammo: 12) 
   - Chameleon LPS 
   - Null-Signature System 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4148/exterminator-ext-4c) 
 - **Battle Value:** 1420 
 - [*More Info*](exterminator/exterminator_ext-4c.md) 
@@ -36,6 +38,8 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1004/exterminator-ext-4d) 
 - **Battle Value:** 1385 
 - [*More Info*](exterminator/exterminator_ext-4d.md) 
@@ -53,6 +57,8 @@
   - ER Large Laser 
   - Medium Laser × 6 
   - Small Laser 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1005/exterminator-ext-4db) 
 - **Battle Value:** 1694 
 - [*More Info*](exterminator/exterminator_ext-4db.md) 
@@ -72,6 +78,9 @@
   - Anti-Missile System (ammo: 12) 
   - MASC 
   - Supercharger 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Extended Torso Twist 
 - **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7321/exterminator-ext-4dx) 
 - **Battle Value:** 1794 
 - [*More Info*](exterminator/exterminator_ext-4dx_caine.md) 
@@ -89,6 +98,8 @@
   - Inner Sphere ER Large Laser 
   - Prototype ER Medium Laser × 4 
   - Inner Sphere Small Laser 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7682/exterminator-ext-4db-ec) 
 - **Battle Value:** 1611 
 - [*More Info*](exterminator/exterminator_ext-4db-ec.md) 
@@ -107,6 +118,8 @@
   - Medium Laser × 4 
   - Small Laser 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4147/exterminator-ext-4a) 
 - **Battle Value:** 1372 
 - [*More Info*](exterminator/exterminator_ext-4a.md) 
@@ -125,6 +138,8 @@
 - **Equipment:** 
   - MASC 
   - C3i 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1006/exterminator-ext-5e) 
 - **Battle Value:** 1532 
 - [*More Info*](exterminator/exterminator_ext-5e.md) 
@@ -144,6 +159,8 @@
 - **Equipment:** 
   - MASC 
   - C3i 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1007/exterminator-ext-5f) 
 - **Battle Value:** 1485 
 - [*More Info*](exterminator/exterminator_ext-5f.md) 
@@ -164,6 +181,8 @@
   - Chameleon LPS 
   - Null-Signature System 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5551/exterminator-ext-6cs) 
 - **Battle Value:** 1592 
 - [*More Info*](exterminator/exterminator_ext-6cs.md) 
@@ -186,6 +205,8 @@
   - Laser Anti-Missile System 
   - Coolant Pod 
   - Supercharger 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8161/exterminator-ext-7x) 
 - **Battle Value:** 1674 
 - [*More Info*](exterminator/exterminator_ext-7x.md) 

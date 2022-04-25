@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - A-Pod × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2951/sirocco-src-3c) 
 - **Battle Value:** 2154 
 

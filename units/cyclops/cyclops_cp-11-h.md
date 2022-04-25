@@ -14,6 +14,8 @@
   - AC/20 (ammo: 10) 
   - Medium Laser × 2 
   - Rocket 20 × 6 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/779/cyclops-cp-11-h) 
 - **Battle Value:** 1525 
 

@@ -15,6 +15,9 @@
   - ER Large Laser 
   - Heavy Large Laser × 2 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2066/marauder-iic-2) 
 - **Battle Value:** 2358 
 

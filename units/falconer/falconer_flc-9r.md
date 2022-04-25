@@ -15,6 +15,8 @@
   - Heavy PPC 
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1034/falconer-flc-9r) 
 - **Battle Value:** 1979 
 

@@ -11,6 +11,8 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Large Laser × 3 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2306/nova-cat-prime) 
 - **Battle Value:** 2530 
 - [*More Info*](nova_cat/nova_cat_prime.md) 
@@ -28,6 +30,8 @@
   - ER Large Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2299/nova-cat-a) 
 - **Battle Value:** 2629 
 - [*More Info*](nova_cat/nova_cat_a.md) 
@@ -45,6 +49,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2300/nova-cat-b) 
 - **Battle Value:** 2492 
 - [*More Info*](nova_cat/nova_cat_b.md) 
@@ -63,6 +69,8 @@
   - LB 5-X AC (ammo: 20 Standard, 20 Cluster) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2301/nova-cat-c) 
 - **Battle Value:** 1944 
 - [*More Info*](nova_cat/nova_cat_c.md) 
@@ -81,6 +89,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2302/nova-cat-d) 
 - **Battle Value:** 2084 
 - [*More Info*](nova_cat/nova_cat_d.md) 
@@ -99,6 +109,8 @@
   - Streak SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #23 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8422/nova-cat-m) 
 - **Battle Value:** 2024 
 - [*More Info*](nova_cat/nova_cat_m.md) 
@@ -116,6 +128,8 @@
   - ATM 9 × 4 (ammo: 28 Standard, 14 ER, 14 HE) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2303/nova-cat-e) 
 - **Battle Value:** 2191 
 - [*More Info*](nova_cat/nova_cat_e.md) 
@@ -135,6 +149,8 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2304/nova-cat-f) 
 - **Battle Value:** 2706 
 - [*More Info*](nova_cat/nova_cat_f.md) 
@@ -155,6 +171,8 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2305/nova-cat-g) 
 - **Battle Value:** 2522 
 - [*More Info*](nova_cat/nova_cat_g.md) 
@@ -175,6 +193,8 @@
   - CASE 
   - Coolant Pod × 3 
   - Supercharger 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6869/nova-cat-h) 
 - **Battle Value:** 2452 
 - [*More Info*](nova_cat/nova_cat_h.md) 
@@ -193,6 +213,8 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6870/nova-cat-i) 
 - **Battle Value:** 2918 
 - [*More Info*](nova_cat/nova_cat_i.md) 
@@ -210,6 +232,8 @@
   - Large Pulse Laser × 3 
 - **Equipment:** 
   - Inner Sphere Supercharger 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8421/nova-cat-t) 
 - **Battle Value:** 2855 
 - [*More Info*](nova_cat/nova_cat_t.md) 

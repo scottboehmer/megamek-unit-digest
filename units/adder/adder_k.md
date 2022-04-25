@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7481/puma-adder-k) 
 - **Battle Value:** 1281 
 

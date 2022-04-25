@@ -15,6 +15,8 @@
   - ER Large Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1851/kyudo-ky2-d-02) 
 - **Battle Value:** 1286 
 

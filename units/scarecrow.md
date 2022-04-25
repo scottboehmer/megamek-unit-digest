@@ -21,6 +21,8 @@
   - Clan Machine Gun Array × 2 
   - Chameleon LPS 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6336/scarecrow-ucu-f4) 
 - **Battle Value:** 1429 
 - [*More Info*](scarecrow/scarecrow_ucu-f4.md) 
@@ -44,6 +46,8 @@
   - Bloodhound Active Probe 
   - B-Pod × 2 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6337/scarecrow-ucu-f4r) 
 - **Battle Value:** 1431 
 - [*More Info*](scarecrow/scarecrow_ucu-f4r_hobbled_scarecrow.md) 

@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3550/wight-wgt-2sc) 
 - **Battle Value:** 1093 
 

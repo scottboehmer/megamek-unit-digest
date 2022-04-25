@@ -14,6 +14,9 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239/thunderbolt-iic-standard) 
 - **Battle Value:** 2475 
 - [*More Info*](thunderbolt_iic/thunderbolt_iic_standard.md) 
@@ -35,6 +38,9 @@
   - Clan Small Pulse Laser 
 - **Equipment:** 
   - Clan ECM Suite 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Difficult to Maintain 
 - **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240/thunderbolt-iic-2) 
 - **Battle Value:** 2177 
 - [*More Info*](thunderbolt_iic/thunderbolt_iic_2.md) 

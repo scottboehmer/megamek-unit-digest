@@ -16,6 +16,8 @@
   - AC/2 (ammo: 45) 
   - Flamer 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3458/vulcan-vl-2t) 
 - **Battle Value:** 642 
 

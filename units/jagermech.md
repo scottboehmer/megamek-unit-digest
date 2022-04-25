@@ -14,6 +14,7 @@
   - AC/2 × 2 (ammo: 45) 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1670/jagermech-jm6-s) 
 - **Battle Value:** 901 
 - [*More Info*](jagermech/jagermech_jm6-s.md) 
@@ -32,6 +33,7 @@
   - AC/2 × 2 (ammo: 45) 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1665/jagermech-jm6-a) 
 - **Battle Value:** 1122 
 - [*More Info*](jagermech/jagermech_jm6-a.md) 
@@ -52,6 +54,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1666/jagermech-jm6-dd) 
 - **Battle Value:** 965 
 - [*More Info*](jagermech/jagermech_jm6-dd.md) 
@@ -71,6 +74,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1668/jagermech-jm6-dg) 
 - **Battle Value:** 1625 
 - [*More Info*](jagermech/jagermech_jm6-dg.md) 
@@ -91,6 +95,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4390/jagermech-jm7-d) 
 - **Battle Value:** 1500 
 - [*More Info*](jagermech/jagermech_jm7-d.md) 
@@ -110,6 +115,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4389/jagermech-jm6-dgr) 
 - **Battle Value:** 1661 
 - [*More Info*](jagermech/jagermech_jm6-dgr.md) 
@@ -131,6 +137,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4391/jagermech-jm7-f) 
 - **Battle Value:** 1774 
 - [*More Info*](jagermech/jagermech_jm7-f.md) 
@@ -149,6 +156,7 @@
   - Rocket 15 × 6 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1669/jagermech-jm6-h) 
 - **Battle Value:** 1348 
 - [*More Info*](jagermech/jagermech_jm6-h.md) 
@@ -169,6 +177,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4392/jagermech-jm7-g) 
 - **Battle Value:** 1278 
 - [*More Info*](jagermech/jagermech_jm7-g.md) 
@@ -190,6 +199,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1667/jagermech-jm6-dda) 
 - **Battle Value:** 911 
 - [*More Info*](jagermech/jagermech_jm6-dda.md) 
@@ -211,6 +221,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1671/jagermech-jm7-c3bs) 
 - **Battle Value:** 1354 
 - [*More Info*](jagermech/jagermech_jm7-c3bs.md) 

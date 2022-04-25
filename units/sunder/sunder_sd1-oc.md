@@ -17,6 +17,8 @@
   - Medium Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3127/sunder-sd1-oc) 
 - **Battle Value:** 1735 
 

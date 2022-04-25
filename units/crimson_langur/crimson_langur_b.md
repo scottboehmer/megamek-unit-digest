@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4017/crimson-langur-b) 
 - **Battle Value:** 2210 
 

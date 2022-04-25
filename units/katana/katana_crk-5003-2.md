@@ -16,6 +16,8 @@
   - Large Laser × 2 
   - SRM 6 × 2 (ammo: 30) 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1760/katana-crockett-crk-5003-2) 
 - **Battle Value:** 1629 
 

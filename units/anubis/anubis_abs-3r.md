@@ -17,6 +17,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Difficult to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3703/anubis-abs-3r) 
 - **Battle Value:** 970 
 

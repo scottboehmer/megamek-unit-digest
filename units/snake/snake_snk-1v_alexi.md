@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2975/snake-snk-1v-alexi) 
 - **Battle Value:** 1316 
 

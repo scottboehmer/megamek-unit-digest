@@ -25,6 +25,8 @@
   - CASE II 
   - C3 Support 
   - Radical Heat Sink System 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6689/ares-ars-v1d-hephaestus) 
 - **Battle Value:** 2960 
 

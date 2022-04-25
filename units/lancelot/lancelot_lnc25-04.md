@@ -17,6 +17,7 @@
   - C3i 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1857/lancelot-lnc25-04) 
 - **Battle Value:** 1640 
 

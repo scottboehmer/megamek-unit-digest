@@ -20,6 +20,9 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2071/marauder-iic-7) 
 - **Battle Value:** 2843 
 

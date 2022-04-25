@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 5 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/795/daedalus-gtx2b-navvy) 
 - **Battle Value:** 663 
 

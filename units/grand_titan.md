@@ -16,6 +16,8 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1265/grand-titan-t-it-n10m) 
 - **Battle Value:** 1817 
 - [*More Info*](grand_titan/grand_titan_t-it-n10m.md) 
@@ -37,6 +39,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1266/grand-titan-t-it-n11m) 
 - **Battle Value:** 2053 
 - [*More Info*](grand_titan/grand_titan_t-it-n11m.md) 
@@ -57,6 +61,8 @@
   - Thumper (ammo: 40) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5604/grand-titan-t-it-n14r-vengeance) 
 - **Battle Value:** 2237 
 - [*More Info*](grand_titan/grand_titan_t-it-n14r_vengeance.md) 
@@ -82,6 +88,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Armored Actuator × 16 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6830/grand-titan-t-it-n13m) 
 - **Battle Value:** 2533 
 - [*More Info*](grand_titan/grand_titan_t-it-n13m.md) 

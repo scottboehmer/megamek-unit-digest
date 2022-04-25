@@ -20,6 +20,7 @@
   - C3i 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1859/lancelot-lnc25-06) 
 - **Battle Value:** 1661 
 

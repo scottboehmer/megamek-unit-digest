@@ -20,6 +20,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/924/dragonfly-viper-h) 
 - **Battle Value:** 1732 
 

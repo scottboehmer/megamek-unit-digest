@@ -18,6 +18,8 @@
   - Snub-Nose PPC × 2 
 - **Equipment:** 
   - Radical Heat Sink System 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6865/prefect-prf-3r) 
 - **Battle Value:** 2412 
 

@@ -16,6 +16,8 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/496/cauldron-born-ebon-jaguar-prime) 
 - **Battle Value:** 1952 
 - [*More Info*](ebon_jaguar/ebon_jaguar_prime.md) 
@@ -37,6 +39,8 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/490/cauldron-born-ebon-jaguar-a) 
 - **Battle Value:** 2429 
 - [*More Info*](ebon_jaguar/ebon_jaguar_a.md) 
@@ -56,6 +60,8 @@
 - **Equipment:** 
   - Active Probe 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/491/cauldron-born-ebon-jaguar-b) 
 - **Battle Value:** 2535 
 - [*More Info*](ebon_jaguar/ebon_jaguar_b.md) 
@@ -74,6 +80,8 @@
   - SRM 6 × 2 (ammo: 60) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/492/cauldron-born-ebon-jaguar-c) 
 - **Battle Value:** 1831 
 - [*More Info*](ebon_jaguar/ebon_jaguar_c.md) 
@@ -93,6 +101,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** HTP Luzerne - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5862/cauldron-born-ebon-jaguar-samantha) 
 - **Battle Value:** 2372 
 - [*More Info*](ebon_jaguar/ebon_jaguar_samantha.md) 
@@ -111,6 +121,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/493/cauldron-born-ebon-jaguar-d) 
 - **Battle Value:** 2228 
 - [*More Info*](ebon_jaguar/ebon_jaguar_d.md) 
@@ -131,6 +143,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/495/cauldron-born-ebon-jaguar-h) 
 - **Battle Value:** 2359 
 - [*More Info*](ebon_jaguar/ebon_jaguar_h.md) 
@@ -150,6 +164,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/494/cauldron-born-ebon-jaguar-e) 
 - **Battle Value:** 2391 
 - [*More Info*](ebon_jaguar/ebon_jaguar_e.md) 
@@ -170,6 +186,8 @@
   - Inner Sphere Angel ECM Suite 
   - Targeting Computer 
   - CASE II 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x) 
 - **Battle Value:** 2435 
 - [*More Info*](ebon_jaguar/ebon_jaguar_x.md) 
@@ -189,6 +207,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/497/cauldron-born-ebon-jaguar-u) 
 - **Battle Value:** 2593 
 - [*More Info*](ebon_jaguar/ebon_jaguar_u.md) 
@@ -207,6 +227,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #16 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8210/cauldron-born-ebon-jaguar-f) 
 - **Battle Value:** 2681 
 - [*More Info*](ebon_jaguar/ebon_jaguar_f.md) 
@@ -225,6 +247,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #16 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8211/cauldron-born-ebon-jaguar-g) 
 - **Battle Value:** 2849 
 - [*More Info*](ebon_jaguar/ebon_jaguar_g.md) 
@@ -245,6 +269,8 @@
   - Inner Sphere Thunderbolt 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8209/cauldron-born-ebon-jaguar-t) 
 - **Battle Value:** 2219 
 - [*More Info*](ebon_jaguar/ebon_jaguar_t.md) 

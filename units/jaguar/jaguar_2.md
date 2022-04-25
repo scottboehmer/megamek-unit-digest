@@ -20,6 +20,8 @@
   - CASE 
   - Targeting Computer 
   - Light TAG 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6613/jaguar-2) 
 - **Battle Value:** 1742 
 

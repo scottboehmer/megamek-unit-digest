@@ -13,6 +13,9 @@
 - **Weapons:** 
   - ER PPC 
   - Large Pulse Laser 
+- **Design Quirks:** 
+  - No Torso Twist 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/94/arctic-fox-af1c) 
 - **Battle Value:** 948 
 

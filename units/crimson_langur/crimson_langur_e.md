@@ -16,6 +16,8 @@
   - ER Small Laser × 6 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5677/crimson-langur-e) 
 - **Battle Value:** 2051 
 

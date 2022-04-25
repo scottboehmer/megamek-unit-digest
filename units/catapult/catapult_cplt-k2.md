@@ -14,6 +14,8 @@
   - PPC × 2 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/487/catapult-cplt-k2) 
 - **Battle Value:** 1319 
 

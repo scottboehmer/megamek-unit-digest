@@ -18,6 +18,10 @@
 - **Equipment:** 
   - CASE II 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3583/wolverine-wvr-9w) 
 - **Battle Value:** 1387 
 

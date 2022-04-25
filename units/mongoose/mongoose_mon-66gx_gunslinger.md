@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Null-Signature System 
   - Chameleon LPS 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7318/mongoose-gunslinger-mon-66gx) 
 - **Battle Value:** 887 
 

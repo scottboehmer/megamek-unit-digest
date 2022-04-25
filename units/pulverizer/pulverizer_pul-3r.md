@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7647/pulverizer-pul-3r) 
 - **Battle Value:** 2068 
 

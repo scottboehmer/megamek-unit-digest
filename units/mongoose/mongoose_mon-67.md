@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Medium Laser × 3 
   - Small Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Easy to Pilot 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2210/mongoose-mon-67) 
 - **Battle Value:** 741 
 

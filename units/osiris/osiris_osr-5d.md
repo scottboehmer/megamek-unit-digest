@@ -14,6 +14,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Heavy PPC 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5660/osiris-osr-5d) 
 - **Battle Value:** 1226 
 

@@ -14,6 +14,8 @@
   - Clan HAG 40 (ammo: 15) 
   - Clan Medium Pulse Laser × 2 
   - Clan ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** RS 3145  NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6871/mangonel-mnl-4s) 
 - **Battle Value:** 2659 
 

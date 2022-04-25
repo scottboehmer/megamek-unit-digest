@@ -17,6 +17,9 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1609/imp-imp-1c) 
 - **Battle Value:** 2480 
 

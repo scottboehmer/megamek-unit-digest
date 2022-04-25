@@ -14,6 +14,8 @@
   - Large Laser × 2 
   - SRM 6 × 2 (ammo: 30) 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1760/katana-crockett-crk-5003-2) 
 - **Battle Value:** 1629 
 - [*More Info*](katana/katana_crk-5003-2.md) 
@@ -33,6 +35,8 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1761/katana-crockett-crk-5003-c) 
 - **Battle Value:** 1618 
 - [*More Info*](katana/katana_crk-5003-c.md) 
@@ -52,6 +56,8 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1763/katana-crockett-crk-5003-cm) 
 - **Battle Value:** 1554 
 - [*More Info*](katana/katana_crk-5003-cm.md) 
@@ -72,6 +78,8 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1762/katana-crockett-crk-5003-cj) 
 - **Battle Value:** 1844 
 - [*More Info*](katana/katana_crk-5003-cj.md) 
@@ -92,6 +100,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8428/katana-crockett-crk-5006-1) 
 - **Battle Value:** 2363 
 - [*More Info*](katana/katana_crk-5006-1.md) 

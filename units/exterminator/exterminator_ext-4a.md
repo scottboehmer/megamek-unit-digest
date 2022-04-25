@@ -16,6 +16,8 @@
   - Medium Laser × 4 
   - Small Laser 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4147/exterminator-ext-4a) 
 - **Battle Value:** 1372 
 

@@ -15,6 +15,8 @@
   - Medium Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2367/ostscout-ott-7jb) 
 - **Battle Value:** 610 
 

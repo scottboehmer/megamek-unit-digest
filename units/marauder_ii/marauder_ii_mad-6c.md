@@ -17,6 +17,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Command Console 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7521/marauder-ii-mad-6c) 
 - **Battle Value:** 2346 
 

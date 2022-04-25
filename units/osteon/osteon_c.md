@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Nova CEWS 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5824/osteon-c) 
 - **Battle Value:** 3139 
 

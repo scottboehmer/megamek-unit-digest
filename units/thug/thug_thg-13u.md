@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8171/thug-thg-13u) 
 - **Battle Value:** 2545 
 

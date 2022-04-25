@@ -12,6 +12,8 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2348/ostroc-osr-2c) 
 - **Battle Value:** 1228 
 - [*More Info*](ostroc/ostroc_osr-2c.md) 
@@ -28,6 +30,8 @@
   - ER Large Laser × 2 
   - Medium Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2350/ostroc-osr-2cb) 
 - **Battle Value:** 1478 
 - [*More Info*](ostroc/ostroc_osr-2cb.md) 
@@ -43,6 +47,8 @@
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
   - Large Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2353/ostroc-osr-2m) 
 - **Battle Value:** 1239 
 - [*More Info*](ostroc/ostroc_osr-2m.md) 
@@ -57,6 +63,8 @@
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
   - Large Laser × 3 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2354/ostroc-osr-3c) 
 - **Battle Value:** 1288 
 - [*More Info*](ostroc/ostroc_osr-3c.md) 
@@ -73,6 +81,8 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2352/ostroc-osr-2l) 
 - **Battle Value:** 1233 
 - [*More Info*](ostroc/ostroc_osr-2l.md) 
@@ -90,6 +100,8 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - SRM 2 × 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8356/ostroc-osr-9c) 
 - **Battle Value:** 1230 
 - [*More Info*](ostroc/ostroc_osr-9c.md) 
@@ -107,6 +119,8 @@
   - Large Laser × 2 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2349/ostroc-osr-2c-michi) 
 - **Battle Value:** 1321 
 - [*More Info*](ostroc/ostroc_osr-2c_michi.md) 
@@ -123,6 +137,8 @@
   - ER Large Laser × 2 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #21 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2351/ostroc-osr-2d) 
 - **Battle Value:** 1396 
 - [*More Info*](ostroc/ostroc_osr-2d.md) 
@@ -140,6 +156,8 @@
   - Medium Laser × 2 
   - Rocket 15 × 2 
   - Rocket 10 × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2355/ostroc-osr-4c) 
 - **Battle Value:** 1325 
 - [*More Info*](ostroc/ostroc_osr-4c.md) 
@@ -158,6 +176,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2357/ostroc-osr-4l) 
 - **Battle Value:** 1778 
 - [*More Info*](ostroc/ostroc_osr-4l.md) 
@@ -178,6 +198,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2359/ostroc-osr-5w) 
 - **Battle Value:** 1655 
 - [*More Info*](ostroc/ostroc_osr-5w.md) 
@@ -195,6 +217,8 @@
 - **Weapons:** 
   - Snub-Nose PPC × 2 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2356/ostroc-osr-4k) 
 - **Battle Value:** 1490 
 - [*More Info*](ostroc/ostroc_osr-4k.md) 
@@ -213,6 +237,8 @@
   - Light PPC 
   - ER Medium Laser 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2358/ostroc-osr-5c) 
 - **Battle Value:** 1788 
 - [*More Info*](ostroc/ostroc_osr-5c.md) 
@@ -232,6 +258,8 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #21 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8354/ostroc-osr-3m) 
 - **Battle Value:** 1594 
 - [*More Info*](ostroc/ostroc_osr-3m.md) 
@@ -250,6 +278,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8355/ostroc-osr-6r) 
 - **Battle Value:** 2095 
 - [*More Info*](ostroc/ostroc_osr-6r.md) 

@@ -13,6 +13,8 @@
 - **Weapons:** 
   - AC/20 (ammo: 10) 
   - PPC × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/150/atlas-as7-wgs-samsonov) 
 - **Battle Value:** 1884 
 

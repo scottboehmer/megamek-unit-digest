@@ -19,6 +19,9 @@
   - Active Probe 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7743/uller-kit-fox-t) 
 - **Battle Value:** 1380 
 

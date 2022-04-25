@@ -14,6 +14,9 @@
   - ER PPC × 2 
   - Large Pulse Laser 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/285/battlemaster-blr-1gb) 
 - **Battle Value:** 1825 
 

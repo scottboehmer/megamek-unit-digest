@@ -17,6 +17,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/497/cauldron-born-ebon-jaguar-u) 
 - **Battle Value:** 2593 
 

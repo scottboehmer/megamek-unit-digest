@@ -15,6 +15,9 @@
   - Heavy Gauss Rifle (ammo: 16) 
   - ER PPC × 2 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2058/marauder-ii-mad-4s) 
 - **Battle Value:** 2623 
 

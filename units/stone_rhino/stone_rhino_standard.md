@@ -17,6 +17,10 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318/behemoth-stone-rhino-standard) 
 - **Battle Value:** 3001 
 

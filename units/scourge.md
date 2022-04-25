@@ -32,6 +32,8 @@
   - Clan ER Medium Laser × 3 
 - **Equipment:** 
   - AES 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8109/scourge-scg-wx1) 
 - **Battle Value:** 2484 
 - [*More Info*](scourge/scourge_scg-wx1.md) 

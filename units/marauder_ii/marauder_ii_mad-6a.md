@@ -18,6 +18,9 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7520/marauder-ii-mad-6a) 
 - **Battle Value:** 2367 
 

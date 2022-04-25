@@ -14,6 +14,8 @@
 - **Weapons:** 
   - ER PPC 
   - Sword 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6393/rokurokubi-rk-4k) 
 - **Battle Value:** 1286 
 

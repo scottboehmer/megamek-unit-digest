@@ -16,6 +16,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1822/koschei-ksc-4i) 
 - **Battle Value:** 1516 
 

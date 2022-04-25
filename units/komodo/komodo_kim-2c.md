@@ -17,6 +17,11 @@
   - Guardian ECM Suite 
   - Anti-Missile System × 2 (ammo: 24) 
   - C3 Support 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
+  - Protected Actuators 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1812/komodo-kim-2c) 
 - **Battle Value:** 1533 
 

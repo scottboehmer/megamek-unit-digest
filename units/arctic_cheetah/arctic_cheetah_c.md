@@ -17,6 +17,8 @@
   - Flamer 
 - **Equipment:** 
   - Active Probe 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1380/hankyu-arctic-cheetah-c) 
 - **Battle Value:** 1840 
 

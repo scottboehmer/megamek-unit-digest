@@ -17,6 +17,9 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/291/battlemaster-blr-3m) 
 - **Battle Value:** 1679 
 

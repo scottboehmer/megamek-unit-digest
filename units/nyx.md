@@ -14,6 +14,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2307/nyx-nx-80) 
 - **Battle Value:** 924 
 - [*More Info*](nyx/nyx_nx-80.md) 
@@ -33,6 +36,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - C3 Support 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2308/nyx-nx-80c) 
 - **Battle Value:** 874 
 - [*More Info*](nyx/nyx_nx-80c.md) 
@@ -48,6 +54,9 @@
 - **Weapons:** 
   - SRM 6 (ammo: 15) 
   - Lance × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2309/nyx-nx-90) 
 - **Battle Value:** 613 
 - [*More Info*](nyx/nyx_nx-90.md) 
@@ -63,6 +72,9 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - MML 3 × 3 (ammo: 40 LRM, 33 SRM) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6937/nyx-nx-100) 
 - **Battle Value:** 917 
 - [*More Info*](nyx/nyx_nx-100.md) 
@@ -81,6 +93,9 @@
 - **Equipment:** 
   - Bloodhound Active Probe 
   - C3 Support 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6936/nyx-nx-110) 
 - **Battle Value:** 805 
 - [*More Info*](nyx/nyx_nx-110.md) 

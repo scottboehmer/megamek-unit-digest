@@ -15,6 +15,9 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6453/anubis-abs-5y) 
 - **Battle Value:** 1042 
 

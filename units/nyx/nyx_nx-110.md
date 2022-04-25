@@ -16,6 +16,9 @@
 - **Equipment:** 
   - Bloodhound Active Probe 
   - C3 Support 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6936/nyx-nx-110) 
 - **Battle Value:** 805 
 

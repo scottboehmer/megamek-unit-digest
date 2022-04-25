@@ -16,6 +16,8 @@
   - ATM 3 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1701/jenner-iic-4) 
 - **Battle Value:** 1052 
 

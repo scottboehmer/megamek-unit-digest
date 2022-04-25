@@ -18,6 +18,8 @@
   - Inner Sphere Thunderbolt 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8209/cauldron-born-ebon-jaguar-t) 
 - **Battle Value:** 2219 
 

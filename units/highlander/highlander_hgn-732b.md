@@ -18,6 +18,8 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1516/highlander-hgn-732b) 
 - **Battle Value:** 2335 
 

@@ -15,6 +15,9 @@
   - SRM 6 (ammo: 30) 
   - Medium Laser × 6 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/283/battlemaster-blr-1g) 
 - **Battle Value:** 1519 
 

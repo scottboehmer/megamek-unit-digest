@@ -16,6 +16,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #16 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8211/cauldron-born-ebon-jaguar-g) 
 - **Battle Value:** 2849 
 

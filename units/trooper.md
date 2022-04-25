@@ -13,6 +13,8 @@
   - Small Laser × 2 
   - Flamer 
   - Machine Gun (ammo: 100) 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7407/trooper-tp-1r) 
 - **Battle Value:** 261 
 - [*More Info*](trooper/trooper_tp-1r.md) 

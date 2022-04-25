@@ -17,6 +17,8 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473/hellhound-conjurer-standard) 
 - **Battle Value:** 1813 
 

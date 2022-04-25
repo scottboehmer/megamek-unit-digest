@@ -15,6 +15,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2979/snow-fox-standard) 
 - **Battle Value:** 807 
 

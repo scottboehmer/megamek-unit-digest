@@ -21,6 +21,8 @@
   - Flamer 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2873/seraph-c-srp-od-luminos) 
 - **Battle Value:** 2291 
 

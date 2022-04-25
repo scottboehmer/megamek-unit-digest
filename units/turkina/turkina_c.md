@@ -22,6 +22,8 @@
   - Active Probe 
   - Inner Sphere A-Pod × 2 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3328/turkina-c) 
 - **Battle Value:** 2798 
 

@@ -16,6 +16,8 @@
   - ER PPC 
 - **Equipment:** 
   - Quad Turret 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6834/trebaruna-tr-xh) 
 - **Battle Value:** 2453 
 

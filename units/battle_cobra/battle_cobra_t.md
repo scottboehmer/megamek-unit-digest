@@ -15,6 +15,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8389/battle-cobra-t) 
 - **Battle Value:** 1666 
 

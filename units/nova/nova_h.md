@@ -15,6 +15,8 @@
   - Heavy Medium Laser × 10 
 - **Design Quirks:** 
   - Combat Computer 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/341/black-hawk-nova-h) 
 - **Battle Value:** 1832 
 

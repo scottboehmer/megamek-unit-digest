@@ -21,6 +21,8 @@
   - Medium Shield 
   - Beagle Active Probe 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6344/centurion-cn11-od) 
 - **Battle Value:** 1153 
 

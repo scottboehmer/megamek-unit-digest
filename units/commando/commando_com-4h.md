@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Rocket 15 × 6 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/673/commando-com-4h) 
 - **Battle Value:** 691 
 

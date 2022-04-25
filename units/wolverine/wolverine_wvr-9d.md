@@ -18,6 +18,10 @@
   - MASC 
   - CASE 
   - TAG 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3580/wolverine-wvr-9d) 
 - **Battle Value:** 1369 
 

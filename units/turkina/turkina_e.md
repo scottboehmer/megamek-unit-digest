@@ -16,6 +16,8 @@
   - Streak SRM 6 × 6 (ammo: 60) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3330/turkina-e) 
 - **Battle Value:** 3147 
 

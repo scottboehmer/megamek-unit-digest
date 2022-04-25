@@ -18,6 +18,8 @@
   - Light PPC × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/67/archangel-c-ang-ob-infernus) 
 - **Battle Value:** 2069 
 

@@ -15,6 +15,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - A-Pod × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2951/sirocco-src-3c) 
 - **Battle Value:** 2154 
 - [*More Info*](sirocco/sirocco_src-3c.md) 
@@ -36,6 +38,8 @@
   - Guardian ECM Suite 
   - A-Pod × 4 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2952/sirocco-src-5c) 
 - **Battle Value:** 2107 
 - [*More Info*](sirocco/sirocco_src-5c.md) 
@@ -57,6 +61,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2953/sirocco-src-6c) 
 - **Battle Value:** 2202 
 - [*More Info*](sirocco/sirocco_src-6c.md) 

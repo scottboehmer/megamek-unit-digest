@@ -19,6 +19,8 @@
   - CASE 
 - **Design Quirks:** 
   - Combat Computer 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/337/black-hawk-nova-c) 
 - **Battle Value:** 1515 
 

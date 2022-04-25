@@ -17,6 +17,8 @@
   - Machine Gun × 12 (ammo: 400) 
 - **Equipment:** 
   - A-Pod × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3124/sunder-sd1-o-samual) 
 - **Battle Value:** 1593 
 

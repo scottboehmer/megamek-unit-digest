@@ -13,6 +13,10 @@
 - **Weapons:** 
   - ER PPC 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/805/daimyo-dmo-4k) 
 - **Battle Value:** 1150 
 

@@ -16,6 +16,8 @@
   - Hatchet 
 - **Equipment:** 
   - Liquid Cargo 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/353/black-hawk-ku-bhku-ou) 
 - **Battle Value:** 1687 
 

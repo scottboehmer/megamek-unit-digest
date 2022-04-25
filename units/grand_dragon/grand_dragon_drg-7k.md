@@ -18,6 +18,9 @@
   - C3 Support 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1260/grand-dragon-drg-7k) 
 - **Battle Value:** 1702 
 

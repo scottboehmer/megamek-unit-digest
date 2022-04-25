@@ -13,6 +13,8 @@
   - Medium Laser × 2 
   - Narc (ammo: 6) 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1946/longshot-lng-1b) 
 - **Battle Value:** 899 
 - [*More Info*](longshot/longshot_lng-1b.md) 
@@ -29,6 +31,8 @@
   - Medium X-Pulse Laser × 2 
   - SRM 6 w/ Artemis IV × 2 (ammo: 15) 
   - Small X-Pulse Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1947/longshot-lng-2) 
 - **Battle Value:** 1215 
 - [*More Info*](longshot/longshot_lng-2.md) 
@@ -46,6 +50,8 @@
   - SRM 6 × 2 (ammo: 30) 
   - Narc (ammo: 6) 
   - ER Small Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1948/longshot-lng-3) 
 - **Battle Value:** 955 
 - [*More Info*](longshot/longshot_lng-3.md) 
@@ -63,6 +69,8 @@
   - Medium X-Pulse Laser × 2 
   - SRM 4 × 2 (ammo: 50) 
   - ER Small Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1949/longshot-lng-3c) 
 - **Battle Value:** 971 
 - [*More Info*](longshot/longshot_lng-3c.md) 
@@ -79,6 +87,8 @@
   - Streak SRM 6 × 2 (ammo: 30) 
   - Medium X-Pulse Laser × 2 
   - Small X-Pulse Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1950/longshot-lng-4) 
 - **Battle Value:** 1086 
 - [*More Info*](longshot/longshot_lng-4.md) 

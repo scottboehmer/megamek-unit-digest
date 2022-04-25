@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - AES × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6678/doloire-dlr-o) 
 - **Battle Value:** 2561 
 

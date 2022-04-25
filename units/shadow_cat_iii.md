@@ -14,6 +14,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7491/shadow-cat-iii-prime) 
 - **Battle Value:** 2021 
 - [*More Info*](shadow_cat_iii/shadow_cat_iii_prime.md) 
@@ -31,6 +33,8 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7492/shadow-cat-iii-a) 
 - **Battle Value:** 2005 
 - [*More Info*](shadow_cat_iii/shadow_cat_iii_a.md) 
@@ -53,6 +57,8 @@
   - MASC 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7493/shadow-cat-iii-b) 
 - **Battle Value:** 2183 
 - [*More Info*](shadow_cat_iii/shadow_cat_iii_b.md) 
@@ -72,6 +78,8 @@
   - MASC 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7494/shadow-cat-iii-c) 
 - **Battle Value:** 2153 
 - [*More Info*](shadow_cat_iii/shadow_cat_iii_c.md) 

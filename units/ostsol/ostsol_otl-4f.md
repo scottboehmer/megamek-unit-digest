@@ -12,6 +12,8 @@
 - **Heat Sinks:** 16 (16) 
 - **Weapons:** 
   - PPC × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2372/ostsol-otl-4f) 
 - **Battle Value:** 1264 
 

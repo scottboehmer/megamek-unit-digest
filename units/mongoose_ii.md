@@ -15,6 +15,8 @@
   - Beagle Active Probe 
   - MASC 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2216/mongoose-ii-mon-266) 
 - **Battle Value:** 1085 
 - [*More Info*](mongoose_ii/mongoose_ii_mon-266.md) 
@@ -35,6 +37,8 @@
   - MASC 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2217/mongoose-ii-mon-267) 
 - **Battle Value:** 1237 
 - [*More Info*](mongoose_ii/mongoose_ii_mon-267.md) 
@@ -54,6 +58,8 @@
   - MASC 
   - C3 Main 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2218/mongoose-ii-mon-268) 
 - **Battle Value:** 1215 
 - [*More Info*](mongoose_ii/mongoose_ii_mon-268.md) 

@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Combat Computer 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6910/black-hawk-nova-x) 
 - **Battle Value:** 2761 
 

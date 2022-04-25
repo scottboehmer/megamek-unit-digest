@@ -16,6 +16,9 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1606/imp-c) 
 - **Battle Value:** 3070 
 

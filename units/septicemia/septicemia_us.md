@@ -20,6 +20,8 @@
   - ECM Suite 
   - Talons 
   - Liquid Cargo × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5817/pariah-septicemia-us) 
 - **Battle Value:** 2298 
 

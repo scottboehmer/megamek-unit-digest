@@ -18,6 +18,9 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2050/marauder-mad-9w) 
 - **Battle Value:** 1788 
 

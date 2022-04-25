@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE II 
   - Inner Sphere C3i 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5330/ursus-pr) 
 - **Battle Value:** 1194 
 

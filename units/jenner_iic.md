@@ -14,6 +14,8 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1698/jenner-iic-standard) 
 - **Battle Value:** 1047 
 - [*More Info*](jenner_iic/jenner_iic_standard.md) 
@@ -33,6 +35,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1699/jenner-iic-2) 
 - **Battle Value:** 1406 
 - [*More Info*](jenner_iic/jenner_iic_2.md) 
@@ -51,6 +55,8 @@
   - Small Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3) 
 - **Battle Value:** 788 
 - [*More Info*](jenner_iic/jenner_iic_3.md) 
@@ -69,6 +75,8 @@
   - ATM 3 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1701/jenner-iic-4) 
 - **Battle Value:** 1052 
 - [*More Info*](jenner_iic/jenner_iic_4.md) 
@@ -88,6 +96,8 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8248/jenner-iic-5) 
 - **Battle Value:** 1440 
 - [*More Info*](jenner_iic/jenner_iic_5.md) 

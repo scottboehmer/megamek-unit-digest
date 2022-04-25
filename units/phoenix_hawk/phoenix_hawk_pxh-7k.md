@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508/phoenix-hawk-pxh-7k) 
 - **Battle Value:** 1241 
 

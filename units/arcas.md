@@ -15,6 +15,8 @@
   - Streak SRM 4 × 3 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3717/arcas-standard) 
 - **Battle Value:** 2484 
 - [*More Info*](arcas/arcas_standard.md) 
@@ -31,6 +33,8 @@
 - **Weapons:** 
   - ER PPC × 2 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3718/arcas-2) 
 - **Battle Value:** 2835 
 - [*More Info*](arcas/arcas_2.md) 
@@ -51,6 +55,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5686/arcas-3) 
 - **Battle Value:** 2305 
 - [*More Info*](arcas/arcas_3.md) 

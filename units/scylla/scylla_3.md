@@ -17,6 +17,8 @@
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Oversized 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5724/scylla-3) 
 - **Battle Value:** 2820 
 

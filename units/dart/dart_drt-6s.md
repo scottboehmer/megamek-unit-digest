@@ -12,6 +12,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/830/dart-drt-6s) 
 - **Battle Value:** 641 
 

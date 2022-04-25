@@ -12,6 +12,9 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 6 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7569/baboon-howler-5) 
 - **Battle Value:** 1363 
 

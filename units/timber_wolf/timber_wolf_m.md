@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #5 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7515/mad-cat-timber-wolf-m) 
 - **Battle Value:** 2741 
 

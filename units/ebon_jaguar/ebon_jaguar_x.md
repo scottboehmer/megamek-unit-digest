@@ -18,6 +18,8 @@
   - Inner Sphere Angel ECM Suite 
   - Targeting Computer 
   - CASE II 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/498/cauldron-born-ebon-jaguar-x) 
 - **Battle Value:** 2435 
 

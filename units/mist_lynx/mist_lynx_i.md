@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7557/koshi-mist-lynx-i) 
 - **Battle Value:** 689 
 

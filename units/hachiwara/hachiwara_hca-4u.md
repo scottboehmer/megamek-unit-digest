@@ -19,6 +19,8 @@
   - M-Pod × 4 
   - Supercharger 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1362/hachiwara-hca-4u) 
 - **Battle Value:** 1786 
 

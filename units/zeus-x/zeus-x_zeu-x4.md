@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Command Console 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6630/zeus-x-zeu-x4) 
 - **Battle Value:** 2193 
 

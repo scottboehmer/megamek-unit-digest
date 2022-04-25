@@ -14,6 +14,9 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/6631/zeus-x-zeu-x) 
 - **Battle Value:** 2119 
 - [*More Info*](zeus-x/zeus-x_zeu-x.md) 
@@ -32,6 +35,9 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3646/zeus-x-zeu-9wd) 
 - **Battle Value:** 1716 
 - [*More Info*](zeus-x/zeus-x_zeu-9wd.md) 
@@ -50,6 +56,9 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Lyran Commonwealth - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6632/zeus-x-zeu-x2) 
 - **Battle Value:** 1915 
 - [*More Info*](zeus-x/zeus-x_zeu-x2.md) 
@@ -70,6 +79,9 @@
   - Blue Shield PFD 
   - AES 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3647/zeus-x-zeu-9wd-stacy) 
 - **Battle Value:** 1921 
 - [*More Info*](zeus-x/zeus-x_zeu-9wd_stacy.md) 
@@ -88,6 +100,9 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6633/zeus-x-zeu-x3) 
 - **Battle Value:** 2178 
 - [*More Info*](zeus-x/zeus-x_zeu-x3.md) 
@@ -108,6 +123,9 @@
 - **Equipment:** 
   - Command Console 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6630/zeus-x-zeu-x4) 
 - **Battle Value:** 2193 
 - [*More Info*](zeus-x/zeus-x_zeu-x4.md) 

@@ -18,6 +18,9 @@
   - Beagle Active Probe 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/327/beowulf-beo-12) 
 - **Battle Value:** 1319 
 

@@ -16,6 +16,8 @@
 - **Equipment:** 
   - MASC 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5781/fireball-alm-xf) 
 - **Battle Value:** 612 
 

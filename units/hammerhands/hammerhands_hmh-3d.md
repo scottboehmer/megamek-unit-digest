@@ -15,6 +15,8 @@
   - AC/10 × 2 (ammo: 40) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1369/hammerhands-hmh-3d) 
 - **Battle Value:** 1381 
 

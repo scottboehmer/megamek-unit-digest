@@ -14,6 +14,9 @@
   - Large Laser × 2 
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2037/marauder-mad-3m) 
 - **Battle Value:** 1335 
 

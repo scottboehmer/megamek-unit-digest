@@ -16,6 +16,8 @@
   - Large Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5493/highlander-hgn-694) 
 - **Battle Value:** 2369 
 

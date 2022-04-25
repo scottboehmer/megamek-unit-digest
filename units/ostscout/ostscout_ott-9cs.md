@@ -19,6 +19,8 @@
   - Beagle Active Probe 
   - C3i 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2369/ostscout-ott-9cs) 
 - **Battle Value:** 930 
 

@@ -15,6 +15,9 @@
   - Flamer 
 - **Equipment:** 
   - Inner Sphere Coolant Pod 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7478/puma-adder-t) 
 - **Battle Value:** 1765 
 

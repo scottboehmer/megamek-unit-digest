@@ -16,6 +16,9 @@
   - Large Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - No Torso Twist 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1772/king-crab-kgc-000b) 
 - **Battle Value:** 2039 
 

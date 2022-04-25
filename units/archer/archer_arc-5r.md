@@ -15,6 +15,8 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/79/archer-arc-5r) 
 - **Battle Value:** 1672 
 

@@ -14,6 +14,8 @@
   - MRM 20 (ammo: 12) 
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/332/bishamon-bsn-3k) 
 - **Battle Value:** 1374 
 

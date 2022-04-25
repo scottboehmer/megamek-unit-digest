@@ -17,6 +17,8 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Command Console 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4032/cyclops-cp-11-a-dc) 
 - **Battle Value:** 1507 
 

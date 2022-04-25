@@ -17,6 +17,8 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7512/hellhound-conjurer-7) 
 - **Battle Value:** 1845 
 

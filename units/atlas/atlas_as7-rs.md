@@ -15,6 +15,8 @@
   - Large Laser × 2 
   - AC/10 (ammo: 20) 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/147/atlas-as7-rs) 
 - **Battle Value:** 1849 
 

@@ -12,6 +12,8 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 15 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/794/daedalus-gtx2a-stevedore) 
 - **Battle Value:** 649 
 - [*More Info*](daedalus/daedalus_gtx2a_stevedore.md) 
@@ -31,6 +33,8 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 5 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/795/daedalus-gtx2b-navvy) 
 - **Battle Value:** 663 
 - [*More Info*](daedalus/daedalus_gtx2b_navvy.md) 
@@ -50,6 +54,8 @@
   - Backhoe 
   - Chainsaw 
   - Machine Gun × 4 (ammo: 200) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/793/daedalus-gtx2-militarized) 
 - **Battle Value:** 849 
 - [*More Info*](daedalus/daedalus_gtx2_militarized.md) 
@@ -71,6 +77,8 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/789/daedalus-dad-3c) 
 - **Battle Value:** 1070 
 - [*More Info*](daedalus/daedalus_dad-3c.md) 
@@ -92,6 +100,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/790/daedalus-dad-3d) 
 - **Battle Value:** 1729 
 - [*More Info*](daedalus/daedalus_dad-3d.md) 
@@ -114,6 +124,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/791/daedalus-dad-4a) 
 - **Battle Value:** 1466 
 - [*More Info*](daedalus/daedalus_dad-4a.md) 
@@ -136,6 +148,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/792/daedalus-dad-4b) 
 - **Battle Value:** 1431 
 - [*More Info*](daedalus/daedalus_dad-4b.md) 
@@ -157,6 +171,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8105/daedalus-dad-dx) 
 - **Battle Value:** 1606 
 - [*More Info*](daedalus/daedalus_dad-dx.md) 

@@ -17,6 +17,9 @@
   - Small Re-Engineered Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7396/hornet-hnt-181) 
 - **Battle Value:** 398 
 

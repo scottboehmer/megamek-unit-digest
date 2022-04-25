@@ -15,6 +15,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4906/red-shift-rds-2a) 
 - **Battle Value:** 626 
 

@@ -15,6 +15,8 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3534/watchman-wtc-4m) 
 - **Battle Value:** 1067 
 - [*More Info*](watchman/watchman_wtc-4m.md) 
@@ -31,6 +33,8 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3533/watchman-wtc-4dm) 
 - **Battle Value:** 1225 
 - [*More Info*](watchman/watchman_wtc-4dm.md) 
@@ -49,6 +53,8 @@
 - **Equipment:** 
   - Clan Watchdog CEWS 
   - Remote Drone Command Console 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8371/watchman-wtc-4mb-belle) 
 - **Battle Value:** 1234 
 - [*More Info*](watchman/watchman_wtc-4mb_belle.md) 

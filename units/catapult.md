@@ -12,6 +12,8 @@
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 16) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/478/catapult-cplt-c1) 
 - **Battle Value:** 1399 
 - [*More Info*](catapult/catapult_cplt-c1.md) 
@@ -27,6 +29,8 @@
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 32) 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/477/catapult-cplt-a1) 
 - **Battle Value:** 1285 
 - [*More Info*](catapult/catapult_cplt-a1.md) 
@@ -43,6 +47,8 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/482/catapult-cplt-c4) 
 - **Battle Value:** 1358 
 - [*More Info*](catapult/catapult_cplt-c4.md) 
@@ -59,6 +65,8 @@
   - PPC × 2 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/487/catapult-cplt-k2) 
 - **Battle Value:** 1319 
 - [*More Info*](catapult/catapult_cplt-k2.md) 
@@ -77,6 +85,8 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/480/catapult-cplt-c1b) 
 - **Battle Value:** 1570 
 - [*More Info*](catapult/catapult_cplt-c1b.md) 
@@ -93,6 +103,8 @@
 - **Weapons:** 
   - SRM 6 × 4 (ammo: 60) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/479/catapult-cplt-c1-jenny-butterbee) 
 - **Battle Value:** 1242 
 - [*More Info*](catapult/catapult_cplt-c1_jenny_butterbee.md) 
@@ -109,6 +121,8 @@
   - ER PPC × 2 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3903/catapult-cplt-k3) 
 - **Battle Value:** 1437 
 - [*More Info*](catapult/catapult_cplt-k3.md) 
@@ -125,6 +139,8 @@
 - **Weapons:** 
   - Arrow IV (ammo: 5) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/481/catapult-cplt-c3) 
 - **Battle Value:** 1368 
 - [*More Info*](catapult/catapult_cplt-c3.md) 
@@ -144,6 +160,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5453/catapult-cplt-c4c) 
 - **Battle Value:** 1449 
 - [*More Info*](catapult/catapult_cplt-c4c.md) 
@@ -159,6 +177,8 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5454/catapult-cplt-k2k) 
 - **Battle Value:** 1716 
 - [*More Info*](catapult/catapult_cplt-k2k.md) 
@@ -178,6 +198,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/489/catapult-cplt-k5) 
 - **Battle Value:** 1457 
 - [*More Info*](catapult/catapult_cplt-k5.md) 
@@ -196,6 +218,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/483/catapult-cplt-c5) 
 - **Battle Value:** 1748 
 - [*More Info*](catapult/catapult_cplt-c5.md) 
@@ -212,6 +236,8 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - LB 2-X AC × 2 (ammo: 45 Cluster) 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5452/catapult-cplt-c2) 
 - **Battle Value:** 1346 
 - [*More Info*](catapult/catapult_cplt-c2.md) 
@@ -229,6 +255,8 @@
   - PPC 
   - Medium Laser × 2 
   - Rocket 20 × 8 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/486/catapult-cplt-h2) 
 - **Battle Value:** 1473 
 - [*More Info*](catapult/catapult_cplt-h2.md) 
@@ -247,6 +275,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/484/catapult-cplt-c5a) 
 - **Battle Value:** 1772 
 - [*More Info*](catapult/catapult_cplt-c5a.md) 
@@ -265,6 +295,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/488/catapult-cplt-k4) 
 - **Battle Value:** 1880 
 - [*More Info*](catapult/catapult_cplt-k4.md) 
@@ -283,6 +315,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/485/catapult-cplt-c6) 
 - **Battle Value:** 1874 
 - [*More Info*](catapult/catapult_cplt-c6.md) 
@@ -301,6 +335,8 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - AES × 2 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7509/catapult-cplt-k6) 
 - **Battle Value:** 1619 
 - [*More Info*](catapult/catapult_cplt-k6.md) 

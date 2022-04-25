@@ -19,6 +19,9 @@
   - Light Active Probe 
   - MASC 
   - Light TAG 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
 - **Source:** Jihad 
 - **Battle Value:** 2078 
 

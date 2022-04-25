@@ -16,6 +16,9 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Source:** Starterbook: Sword and Dragon - Succession Wars 
 - **Battle Value:** 1394 
 

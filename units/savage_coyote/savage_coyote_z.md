@@ -19,6 +19,8 @@
   - Nova CEWS 
   - CASE 
   - CASE II 
+- **Design Quirks:** 
+  - Oversized 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5831/savage-coyote-z) 
 - **Battle Value:** 3026 
 

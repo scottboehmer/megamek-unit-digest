@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4300/hellfire-standard) 
 - **Battle Value:** 2114 
 - [*More Info*](hellfire/hellfire_standard.md) 
@@ -38,6 +40,8 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4301/hellfire-2) 
 - **Battle Value:** 2370 
 - [*More Info*](hellfire/hellfire_2.md) 
@@ -58,6 +62,8 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5685/hellfire-3) 
 - **Battle Value:** 2138 
 - [*More Info*](hellfire/hellfire_3.md) 

@@ -17,6 +17,8 @@
   - Inner Sphere Medium Laser 
 - **Equipment:** 
   - Inner Sphere CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7679/enfield-end-6j-ec) 
 - **Battle Value:** 1379 
 

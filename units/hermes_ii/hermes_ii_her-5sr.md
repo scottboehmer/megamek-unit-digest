@@ -17,6 +17,8 @@
   - Flamer 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1503/hermes-ii-her-5sr) 
 - **Battle Value:** 1242 
 

@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2590/pulverizer-pul-2v) 
 - **Battle Value:** 2065 
 

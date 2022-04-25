@@ -16,6 +16,9 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3646/zeus-x-zeu-9wd) 
 - **Battle Value:** 1716 
 

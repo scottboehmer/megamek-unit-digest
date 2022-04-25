@@ -17,6 +17,8 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2102/mauler-mal-3r) 
 - **Battle Value:** 1877 
 

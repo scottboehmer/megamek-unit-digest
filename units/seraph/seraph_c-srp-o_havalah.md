@@ -21,6 +21,8 @@
   - C3i 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2868/seraph-c-srp-o-havalah) 
 - **Battle Value:** 1927 
 

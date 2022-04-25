@@ -14,6 +14,8 @@
   - Medium Laser × 2 
   - Small Laser × 4 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/546/chameleon-trc-4b) 
 - **Battle Value:** 999 
 - [*More Info*](chameleon/chameleon_trc-4b.md) 
@@ -32,6 +34,8 @@
   - Medium Laser × 2 
   - Small Laser × 3 
   - Machine Gun × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/543/chameleon-cln-7v) 
 - **Battle Value:** 1042 
 - [*More Info*](chameleon/chameleon_cln-7v.md) 
@@ -49,6 +53,8 @@
   - ER Large Laser 
   - Medium Pulse Laser 
   - Medium Laser 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/544/chameleon-cln-7w) 
 - **Battle Value:** 1243 
 - [*More Info*](chameleon/chameleon_cln-7w.md) 
@@ -65,6 +71,8 @@
 - **Weapons:** 
   - ER Large Laser 
   - Large Laser × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/545/chameleon-cln-7z) 
 - **Battle Value:** 1527 
 - [*More Info*](chameleon/chameleon_cln-7z.md) 
@@ -84,6 +92,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Clan Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5601/chameleon-cln-7vq-q-mech) 
 - **Battle Value:** 2113 
 - [*More Info*](chameleon/chameleon_cln-7vq_q-mech.md) 

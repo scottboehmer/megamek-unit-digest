@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2563/pouncer-prime) 
 - **Battle Value:** 2557 
 

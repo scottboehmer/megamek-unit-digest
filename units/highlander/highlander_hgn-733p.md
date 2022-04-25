@@ -16,6 +16,8 @@
   - PPC 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1519/highlander-hgn-733p) 
 - **Battle Value:** 1865 
 

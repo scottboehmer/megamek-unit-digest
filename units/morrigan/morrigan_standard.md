@@ -17,6 +17,8 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2231/morrigan-standard) 
 - **Battle Value:** 1523 
 

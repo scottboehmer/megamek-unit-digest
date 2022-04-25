@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/470/cataphract-ctf-3l) 
 - **Battle Value:** 1545 
 

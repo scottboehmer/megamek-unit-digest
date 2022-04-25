@@ -18,6 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7627/lancelot-c-2) 
 - **Battle Value:** 2571 
 

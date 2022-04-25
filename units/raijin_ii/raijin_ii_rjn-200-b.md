@@ -19,6 +19,8 @@
   - Beagle Active Probe 
   - TAG 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2629/raijin-ii-rjn-200-b) 
 - **Battle Value:** 1439 
 

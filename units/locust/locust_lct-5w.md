@@ -16,6 +16,9 @@
   - C3i 
   - TAG 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1911/locust-lct-5w) 
 - **Battle Value:** 695 
 

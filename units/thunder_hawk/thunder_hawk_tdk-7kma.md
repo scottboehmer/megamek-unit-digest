@@ -14,6 +14,9 @@
   - Gauss Rifle × 2 (ammo: 32) 
   - Arrow IV (ammo: 10) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3220/thunder-hawk-tdk-7kma) 
 - **Battle Value:** 2449 
 

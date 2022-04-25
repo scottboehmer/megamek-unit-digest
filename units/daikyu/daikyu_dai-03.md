@@ -18,6 +18,8 @@
   - C3 Support 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/801/daikyu-dai-03) 
 - **Battle Value:** 1692 
 

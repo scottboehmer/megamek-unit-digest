@@ -15,6 +15,8 @@
   - Medium Laser × 2 
   - Narc (ammo: 6) 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1946/longshot-lng-1b) 
 - **Battle Value:** 899 
 

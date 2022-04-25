@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7461/commando-com-1ak) 
 - **Battle Value:** 549 
 

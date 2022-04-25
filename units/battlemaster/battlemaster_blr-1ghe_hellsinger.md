@@ -14,6 +14,9 @@
   - PPC × 2 
   - Medium Laser × 4 
   - Streak SRM 2 × 3 (ammo: 50) 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5877/battlemaster-blr-1ghe-hellslinger) 
 - **Battle Value:** 1712 
 

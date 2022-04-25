@@ -14,6 +14,7 @@
   - Large Pulse Laser × 3 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7626/lancelot-c) 
 - **Battle Value:** 1960 
 

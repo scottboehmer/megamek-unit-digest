@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2500/phoenix-hawk-pxh-3m-masters) 
 - **Battle Value:** 1154 
 

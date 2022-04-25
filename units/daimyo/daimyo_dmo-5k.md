@@ -15,6 +15,10 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/806/daimyo-dmo-5k) 
 - **Battle Value:** 1087 
 

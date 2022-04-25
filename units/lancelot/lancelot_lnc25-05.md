@@ -16,6 +16,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1858/lancelot-lnc25-05) 
 - **Battle Value:** 1365 
 

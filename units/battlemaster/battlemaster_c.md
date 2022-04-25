@@ -18,6 +18,9 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/303/battlemaster-c) 
 - **Battle Value:** 3025 
 

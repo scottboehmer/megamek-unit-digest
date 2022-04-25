@@ -15,6 +15,9 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2598/puma-adder-prime) 
 - **Battle Value:** 2083 
 

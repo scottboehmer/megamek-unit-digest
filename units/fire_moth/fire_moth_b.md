@@ -18,6 +18,8 @@
   - A-Pod 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/839/dasher-fire-moth-b) 
 - **Battle Value:** 1064 
 

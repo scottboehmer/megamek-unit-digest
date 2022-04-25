@@ -18,6 +18,8 @@
   - MASC 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2217/mongoose-ii-mon-267) 
 - **Battle Value:** 1237 
 

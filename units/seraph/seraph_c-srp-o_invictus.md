@@ -21,6 +21,8 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2869/seraph-c-srp-o-invictus) 
 - **Battle Value:** 1807 
 

@@ -18,6 +18,8 @@
   - Flamer × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/675/commando-com-7b) 
 - **Battle Value:** 602 
 

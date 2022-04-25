@@ -16,6 +16,8 @@
 - **Equipment:** 
   - CASE II 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7732/archer-arc-9r) 
 - **Battle Value:** 1668 
 

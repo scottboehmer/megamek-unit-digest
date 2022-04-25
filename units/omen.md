@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2318/omen-standard) 
 - **Battle Value:** 2750 
 - [*More Info*](omen/omen_standard.md) 
@@ -41,6 +43,8 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
   - HarJel III × 3 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6853/omen-2) 
 - **Battle Value:** 2384 
 - [*More Info*](omen/omen_2.md) 

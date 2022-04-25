@@ -16,6 +16,8 @@
 - **Weapons:** 
   - ER Medium Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3531/wasp-wsp-7maf) 
 - **Battle Value:** 488 
 

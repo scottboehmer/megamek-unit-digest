@@ -16,6 +16,9 @@
   - Medium Pulse Laser × 6 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/292/battlemaster-blr-3s) 
 - **Battle Value:** 1441 
 

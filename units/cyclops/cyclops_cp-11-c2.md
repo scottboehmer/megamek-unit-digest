@@ -17,6 +17,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - C3 Main × 2 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/776/cyclops-cp-11-c2) 
 - **Battle Value:** 1534 
 

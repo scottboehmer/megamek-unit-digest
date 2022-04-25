@@ -11,6 +11,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2366/ostscout-ott-7j) 
 - **Battle Value:** 596 
 - [*More Info*](ostscout/ostscout_ott-7j.md) 
@@ -28,6 +30,8 @@
   - Medium Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2367/ostscout-ott-7jb) 
 - **Battle Value:** 610 
 - [*More Info*](ostscout/ostscout_ott-7jb.md) 
@@ -43,6 +47,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2368/ostscout-ott-7k) 
 - **Battle Value:** 484 
 - [*More Info*](ostscout/ostscout_ott-7k.md) 
@@ -64,6 +70,8 @@
   - Beagle Active Probe 
   - C3i 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2369/ostscout-ott-9cs) 
 - **Battle Value:** 930 
 - [*More Info*](ostscout/ostscout_ott-9cs.md) 
@@ -84,6 +92,8 @@
   - Beagle Active Probe 
   - A-Pod × 2 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2370/ostscout-ott-9s) 
 - **Battle Value:** 855 
 - [*More Info*](ostscout/ostscout_ott-9s.md) 
@@ -102,6 +112,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2364/ostscout-ott-10cs) 
 - **Battle Value:** 862 
 - [*More Info*](ostscout/ostscout_ott-10cs.md) 
@@ -119,6 +131,8 @@
   - Light PPC × 2 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2365/ostscout-ott-11j) 
 - **Battle Value:** 908 
 - [*More Info*](ostscout/ostscout_ott-11j.md) 
@@ -136,6 +150,8 @@
   - Clan ER Large Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7452/ostscout-ott-12r) 
 - **Battle Value:** 1209 
 - [*More Info*](ostscout/ostscout_ott-12r.md) 
@@ -155,6 +171,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7451/ostscout-ott-8j) 
 - **Battle Value:** 894 
 - [*More Info*](ostscout/ostscout_ott-8j.md) 

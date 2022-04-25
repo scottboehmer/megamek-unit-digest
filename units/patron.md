@@ -48,6 +48,8 @@
 - **Weapons:** 
   - Rocket 10 × 3 
   - Light Machine Gun × 4 (ammo: 200) 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4795/patron-ptn-2m-patrolmech) 
 - **Battle Value:** 147 
 - [*More Info*](patron/patron_ptn-2m_militiamech.md) 

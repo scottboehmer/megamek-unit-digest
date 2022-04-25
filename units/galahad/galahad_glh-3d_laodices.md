@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6978/galahad-glh-3d-laodices) 
 - **Battle Value:** 1549 
 

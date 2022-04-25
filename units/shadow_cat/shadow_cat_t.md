@@ -18,6 +18,8 @@
   - Active Probe 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7708/shadow-cat-t) 
 - **Battle Value:** 1852 
 

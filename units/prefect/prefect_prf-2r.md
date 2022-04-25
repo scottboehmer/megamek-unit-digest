@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Snub-Nose PPC × 2 
   - Light PPC × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2571/prefect-prf-2r) 
 - **Battle Value:** 1710 
 

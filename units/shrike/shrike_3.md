@@ -19,6 +19,8 @@
   - Targeting Computer 
   - Partial Wing 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6294/shrike-3) 
 - **Battle Value:** 3698 
 

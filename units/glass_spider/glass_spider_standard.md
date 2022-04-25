@@ -16,6 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1170/galahad-glass-spider-standard) 
 - **Battle Value:** 1825 
 

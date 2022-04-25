@@ -19,6 +19,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1523/highlander-iic-3) 
 - **Battle Value:** 3001 
 

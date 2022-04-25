@@ -15,6 +15,9 @@
   - LB 10-X AC (ammo: 10) 
   - Small Pulse Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3356/urbanmech-um-r63) 
 - **Battle Value:** 540 
 

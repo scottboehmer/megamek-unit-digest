@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7584/dragonfly-viper-j) 
 - **Battle Value:** 1259 
 

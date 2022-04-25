@@ -19,6 +19,8 @@
   - Guardian ECM Suite 
   - C3 Support 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1373/hammerhands-hmh-6e) 
 - **Battle Value:** 2204 
 

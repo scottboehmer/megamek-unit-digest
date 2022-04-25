@@ -20,6 +20,8 @@
   - MASC 
   - Light TAG 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8313/rime-otter-d) 
 - **Battle Value:** 1998 
 

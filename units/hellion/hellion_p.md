@@ -19,6 +19,8 @@
   - MASC 
   - Supercharger 
   - TAG 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8327/hellion-p) 
 - **Battle Value:** 1685 
 

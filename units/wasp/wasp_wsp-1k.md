@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Medium Laser 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3522/wasp-wsp-1k) 
 - **Battle Value:** 376 
 

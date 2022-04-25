@@ -17,6 +17,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/472/cataphract-ctf-3x-sara) 
 - **Battle Value:** 1734 
 

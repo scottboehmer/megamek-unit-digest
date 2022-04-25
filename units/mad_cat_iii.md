@@ -15,6 +15,8 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4563/mad-cat-iii-x) 
 - **Battle Value:** 2232 
 - [*More Info*](mad_cat_iii/mad_cat_iii_x.md) 
@@ -35,6 +37,8 @@
   - CASE 
   - Targeting Computer 
   - TAG 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5543/mad-cat-iii-eve) 
 - **Battle Value:** 2393 
 - [*More Info*](mad_cat_iii/mad_cat_iii_eve.md) 
@@ -53,6 +57,8 @@
   - ER Micro Laser × 6 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4561/mad-cat-iii-standard) 
 - **Battle Value:** 2400 
 - [*More Info*](mad_cat_iii/mad_cat_iii_standard.md) 
@@ -71,6 +77,8 @@
   - Micro Pulse Laser × 6 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4562/mad-cat-iii-2) 
 - **Battle Value:** 1697 
 - [*More Info*](mad_cat_iii/mad_cat_iii_2.md) 
@@ -106,6 +114,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6896/mad-cat-iii-3) 
 - **Battle Value:** 2515 
 - [*More Info*](mad_cat_iii/mad_cat_iii_3.md) 
@@ -126,6 +136,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6897/mad-cat-iii-4) 
 - **Battle Value:** 2061 
 - [*More Info*](mad_cat_iii/mad_cat_iii_4.md) 
@@ -144,6 +156,8 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6898/mad-cat-iii-5) 
 - **Battle Value:** 2095 
 - [*More Info*](mad_cat_iii/mad_cat_iii_5.md) 

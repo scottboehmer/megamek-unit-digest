@@ -19,6 +19,9 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2049/marauder-mad-9s) 
 - **Battle Value:** 1786 
 

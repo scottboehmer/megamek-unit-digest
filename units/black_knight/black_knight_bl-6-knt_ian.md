@@ -16,6 +16,8 @@
   - Large Laser × 2 
   - Medium Laser × 4 
   - Hatchet 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/359/black-knight-bl-6-knt-ian) 
 - **Battle Value:** 1861 
 

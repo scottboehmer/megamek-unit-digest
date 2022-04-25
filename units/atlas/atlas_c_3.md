@@ -16,6 +16,8 @@
   - Arrow IV (ammo: 20) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/8432/atlas-c-3) 
 - **Battle Value:** 2534 
 

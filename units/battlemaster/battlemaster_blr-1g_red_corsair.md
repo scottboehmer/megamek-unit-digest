@@ -16,6 +16,9 @@
   - Medium Pulse Laser × 6 
 - **Equipment:** 
   - Command Console 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** TRO:Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/284/battlemaster-blr-1g-red-corsair) 
 - **Battle Value:** 2745 
 

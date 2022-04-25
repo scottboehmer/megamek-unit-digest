@@ -17,6 +17,8 @@
   - Narc (ammo: 6) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/80/archer-arc-5s) 
 - **Battle Value:** 1353 
 

@@ -13,6 +13,8 @@
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 32) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/655/cobra-cbr-02) 
 - **Battle Value:** 1128 
 

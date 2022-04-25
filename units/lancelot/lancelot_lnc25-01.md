@@ -16,6 +16,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1853/lancelot-lnc25-01) 
 - **Battle Value:** 1422 
 

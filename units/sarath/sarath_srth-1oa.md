@@ -19,6 +19,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Quad Turret 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6507/sarath-srth-1oa) 
 - **Battle Value:** 1738 
 

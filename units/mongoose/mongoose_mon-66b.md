@@ -16,6 +16,9 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Easy to Pilot 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2209/mongoose-mon-66b) 
 - **Battle Value:** 934 
 

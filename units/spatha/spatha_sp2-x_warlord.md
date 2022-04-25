@@ -20,6 +20,8 @@
   - Angel ECM Suite 
   - Laser Anti-Missile System 
   - Blue Shield PFD 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2999/spatha-sp2-x-warlord) 
 - **Battle Value:** 1973 
 

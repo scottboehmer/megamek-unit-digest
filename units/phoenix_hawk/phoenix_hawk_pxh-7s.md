@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - MASC 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2509/phoenix-hawk-pxh-7s) 
 - **Battle Value:** 1496 
 

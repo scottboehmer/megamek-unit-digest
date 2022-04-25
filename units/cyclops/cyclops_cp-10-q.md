@@ -14,6 +14,8 @@
   - LRM 10 × 2 (ammo: 48) 
   - Medium Laser × 3 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/771/cyclops-cp-10-q) 
 - **Battle Value:** 1584 
 

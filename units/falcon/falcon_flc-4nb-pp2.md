@@ -15,6 +15,8 @@
   - ER Large Laser 
   - Medium Pulse Laser 
   - Medium Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1026/falcon-flc-4nb-pp2) 
 - **Battle Value:** 947 
 

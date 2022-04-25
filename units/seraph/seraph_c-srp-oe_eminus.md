@@ -18,6 +18,8 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2874/seraph-c-srp-oe-eminus) 
 - **Battle Value:** 2148 
 

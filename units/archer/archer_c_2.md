@@ -16,6 +16,8 @@
   - Streak SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** ForcePack Wolfs Dragoons - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8387/archer-c-2) 
 - **Battle Value:** 2167 
 

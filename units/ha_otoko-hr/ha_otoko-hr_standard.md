@@ -16,6 +16,8 @@
   - 'Mech Mortar/8 × 2 (ammo: 16) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4258/ha-otoko-hr) 
 - **Battle Value:** 1553 
 

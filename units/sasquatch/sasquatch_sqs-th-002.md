@@ -16,6 +16,8 @@
   - Small Laser 
 - **Equipment:** 
   - Large Shield 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2799/sasquatch-sqs-th-002) 
 - **Battle Value:** 1993 
 

@@ -18,6 +18,8 @@
   - Active Probe 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #9 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2891/shadow-cat-j) 
 - **Battle Value:** 1802 
 

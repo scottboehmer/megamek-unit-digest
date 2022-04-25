@@ -17,6 +17,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8357/cyclops-c) 
 - **Battle Value:** 2252 
 

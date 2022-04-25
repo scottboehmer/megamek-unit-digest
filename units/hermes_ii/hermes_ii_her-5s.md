@@ -14,6 +14,8 @@
   - Ultra AC/5 (ammo: 20) 
   - Medium Pulse Laser 
   - Flamer 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1501/hermes-ii-her-5s) 
 - **Battle Value:** 857 
 

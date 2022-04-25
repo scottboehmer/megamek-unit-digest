@@ -14,6 +14,8 @@
   - Inner Sphere Retractable Blade 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6618/mongrel-mgl-t1) 
 - **Battle Value:** 1860 
 - [*More Info*](mongrel/mongrel_mgl-t1.md) 

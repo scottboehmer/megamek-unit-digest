@@ -15,6 +15,8 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #14 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m) 
 - **Battle Value:** 1245 
 

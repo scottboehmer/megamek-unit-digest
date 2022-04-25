@@ -19,6 +19,10 @@
 - **Equipment:** 
   - C3 Support 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
+  - Weak Head Armor (2) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1709/jinggau-jn-g8bx-rush) 
 - **Battle Value:** 1337 
 

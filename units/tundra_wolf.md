@@ -19,6 +19,8 @@
   - ECM Suite 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3315/tundra-wolf-standard) 
 - **Battle Value:** 3131 
 - [*More Info*](tundra_wolf/tundra_wolf_standard.md) 
@@ -41,6 +43,8 @@
   - Targeting Computer 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3316/tundra-wolf-2) 
 - **Battle Value:** 3626 
 - [*More Info*](tundra_wolf/tundra_wolf_2.md) 
@@ -63,6 +67,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3317/tundra-wolf-3) 
 - **Battle Value:** 3292 
 - [*More Info*](tundra_wolf/tundra_wolf_3.md) 
@@ -85,6 +91,8 @@
   - ECM Suite 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3318/tundra-wolf-4) 
 - **Battle Value:** 2873 
 - [*More Info*](tundra_wolf/tundra_wolf_4.md) 
@@ -106,6 +114,8 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6862/tundra-wolf-5) 
 - **Battle Value:** 2645 
 - [*More Info*](tundra_wolf/tundra_wolf_5.md) 

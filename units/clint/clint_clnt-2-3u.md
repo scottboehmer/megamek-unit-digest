@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/646/clint-clnt-2-3u) 
 - **Battle Value:** 1081 
 

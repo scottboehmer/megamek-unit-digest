@@ -12,6 +12,8 @@
   - MRM 20 (ammo: 12) 
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/332/bishamon-bsn-3k) 
 - **Battle Value:** 1374 
 - [*More Info*](bishamon/bishamon_bsn-3k.md) 
@@ -30,6 +32,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/333/bishamon-bsn-4k) 
 - **Battle Value:** 1105 
 - [*More Info*](bishamon/bishamon_bsn-4k.md) 
@@ -49,6 +53,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/334/bishamon-bsn-5kc) 
 - **Battle Value:** 1443 
 - [*More Info*](bishamon/bishamon_bsn-5kc.md) 

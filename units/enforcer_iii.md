@@ -161,6 +161,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7296/enforcer-iii-enf-7d) 
 - **Battle Value:** 1495 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-7d.md) 

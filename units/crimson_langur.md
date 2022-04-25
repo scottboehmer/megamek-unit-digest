@@ -15,6 +15,8 @@
 - **Equipment:** 
   - Light Active Probe 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4019/crimson-langur-prime) 
 - **Battle Value:** 1952 
 - [*More Info*](crimson_langur/crimson_langur_prime.md) 
@@ -32,6 +34,8 @@
   - LRM 15 × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4016/crimson-langur-a) 
 - **Battle Value:** 2003 
 - [*More Info*](crimson_langur/crimson_langur_a.md) 
@@ -51,6 +55,8 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4017/crimson-langur-b) 
 - **Battle Value:** 2210 
 - [*More Info*](crimson_langur/crimson_langur_b.md) 
@@ -69,6 +75,8 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4018/crimson-langur-c) 
 - **Battle Value:** 1437 
 - [*More Info*](crimson_langur/crimson_langur_c.md) 
@@ -90,6 +98,8 @@
   - CASE 
   - Light TAG 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5676/crimson-langur-d) 
 - **Battle Value:** 1867 
 - [*More Info*](crimson_langur/crimson_langur_d.md) 
@@ -108,6 +118,8 @@
   - ER Small Laser × 6 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5677/crimson-langur-e) 
 - **Battle Value:** 2051 
 - [*More Info*](crimson_langur/crimson_langur_e.md) 

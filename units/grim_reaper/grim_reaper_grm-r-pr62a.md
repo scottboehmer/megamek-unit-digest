@@ -20,6 +20,8 @@
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1331/grim-reaper-grm-r-pr62a) 
 - **Battle Value:** 1542 
 

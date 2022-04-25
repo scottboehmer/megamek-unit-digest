@@ -14,6 +14,8 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/670/commando-com-2d) 
 - **Battle Value:** 541 
 

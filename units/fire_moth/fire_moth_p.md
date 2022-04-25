@@ -15,6 +15,8 @@
 - **Equipment:** 
   - MASC 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7581/dasher-fire-moth-p) 
 - **Battle Value:** 841 
 

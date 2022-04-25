@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Medium Laser 
   - LRM 5 × 2 (ammo: 24) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1899/locust-lct-1m) 
 - **Battle Value:** 424 
 

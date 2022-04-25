@@ -19,6 +19,8 @@
   - Machine Gun Array × 2 
   - Inner Sphere B-Pod × 2 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #21 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1382/hankyu-arctic-cheetah-e) 
 - **Battle Value:** 1081 
 

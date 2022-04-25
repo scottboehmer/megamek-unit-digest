@@ -14,6 +14,8 @@
 - **Weapons:** 
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3541/whitworth-wth-2) 
 - **Battle Value:** 936 
 

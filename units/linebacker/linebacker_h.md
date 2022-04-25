@@ -15,6 +15,8 @@
   - Heavy Large Laser × 2 
   - ER Medium Laser × 2 
   - ER Small Laser 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1891/linebacker-h) 
 - **Battle Value:** 2097 
 

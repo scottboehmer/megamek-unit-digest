@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Active Probe 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/491/cauldron-born-ebon-jaguar-b) 
 - **Battle Value:** 2535 
 

@@ -17,6 +17,9 @@
   - Light PPC × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7522/marauder-ii-mad-8k) 
 - **Battle Value:** 2849 
 

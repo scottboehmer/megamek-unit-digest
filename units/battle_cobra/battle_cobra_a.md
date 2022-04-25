@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Medium Pulse Laser × 4 
   - Small Pulse Laser × 6 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/261/battle-cobra-a) 
 - **Battle Value:** 1466 
 

@@ -16,6 +16,8 @@
   - Micro Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6562/vulture-mk-iv-mad-dog-mk-iv-d) 
 - **Battle Value:** 2346 
 

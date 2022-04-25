@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 6 (ammo: 15) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/669/commando-com-1d) 
 - **Battle Value:** 558 
 

@@ -16,6 +16,8 @@
   - ER Large Laser × 2 
   - Medium Pulse Laser × 4 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/726/crockett-crk-5003-1b) 
 - **Battle Value:** 2307 
 

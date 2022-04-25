@@ -17,6 +17,8 @@
   - Nova CEWS 
   - CASE 
   - Light TAG 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5832/turkina-z) 
 - **Battle Value:** 3935 
 

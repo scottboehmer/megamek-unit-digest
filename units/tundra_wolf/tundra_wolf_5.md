@@ -19,6 +19,8 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6862/tundra-wolf-5) 
 - **Battle Value:** 2645 
 

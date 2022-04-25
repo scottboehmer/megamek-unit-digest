@@ -15,6 +15,10 @@
   - Small X-Pulse Laser × 2 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/803/daimyo-dmo-1k2-al-shahab) 
 - **Battle Value:** 1332 
 

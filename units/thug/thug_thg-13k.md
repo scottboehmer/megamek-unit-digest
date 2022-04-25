@@ -15,6 +15,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3209/thug-thg-13k) 
 - **Battle Value:** 2086 
 

@@ -16,6 +16,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3549/wight-wgt-2lawc3) 
 - **Battle Value:** 821 
 

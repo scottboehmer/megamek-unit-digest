@@ -18,6 +18,9 @@
   - Blue Shield PFD 
   - AES 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3647/zeus-x-zeu-9wd-stacy) 
 - **Battle Value:** 1921 
 

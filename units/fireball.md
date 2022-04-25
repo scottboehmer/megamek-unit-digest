@@ -11,6 +11,8 @@
 - **Weapons:** 
   - Streak SRM 2 (ammo: 50) 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1075/fireball-alm-7d) 
 - **Battle Value:** 385 
 - [*More Info*](fireball/fireball_alm-7d.md) 
@@ -26,6 +28,8 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1076/fireball-alm-8d) 
 - **Battle Value:** 574 
 - [*More Info*](fireball/fireball_alm-8d.md) 
@@ -41,6 +45,8 @@
 - **Weapons:** 
   - Medium Laser 
   - Streak SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1077/fireball-alm-9d) 
 - **Battle Value:** 527 
 - [*More Info*](fireball/fireball_alm-9d.md) 
@@ -59,6 +65,8 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1074/fireball-alm-10d) 
 - **Battle Value:** 957 
 - [*More Info*](fireball/fireball_alm-10d.md) 
@@ -77,6 +85,8 @@
 - **Equipment:** 
   - MASC 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5781/fireball-alm-xf) 
 - **Battle Value:** 612 
 - [*More Info*](fireball/fireball_alm-xf.md) 

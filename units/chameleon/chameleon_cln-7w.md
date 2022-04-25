@@ -15,6 +15,8 @@
   - ER Large Laser 
   - Medium Pulse Laser 
   - Medium Laser 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/544/chameleon-cln-7w) 
 - **Battle Value:** 1243 
 

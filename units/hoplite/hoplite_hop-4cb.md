@@ -15,6 +15,8 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1542/hoplite-hop-4cb) 
 - **Battle Value:** 1377 
 

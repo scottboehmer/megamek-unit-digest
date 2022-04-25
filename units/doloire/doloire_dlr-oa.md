@@ -18,6 +18,8 @@
   - AES × 2 
   - Radical Heat Sink System 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6679/doloire-dlr-oa) 
 - **Battle Value:** 2218 
 

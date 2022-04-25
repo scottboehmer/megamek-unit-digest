@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Machine Gun Array 
   - C3i 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3464/vulcan-vt-6c) 
 - **Battle Value:** 940 
 

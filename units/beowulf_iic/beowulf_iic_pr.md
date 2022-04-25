@@ -18,6 +18,8 @@
   - Watchdog CEWS 
   - Inner Sphere C3i 
   - MASC 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7294/beowulf-iic-pr) 
 - **Battle Value:** 1992 
 

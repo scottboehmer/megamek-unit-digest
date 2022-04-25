@@ -15,6 +15,10 @@
   - Gauss Rifle (ammo: 16) 
   - ER Medium Laser × 4 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1708/jinggau-jn-g8a) 
 - **Battle Value:** 2072 
 

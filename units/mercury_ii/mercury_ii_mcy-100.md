@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2173/mercury-ii-mcy-100) 
 - **Battle Value:** 1376 
 

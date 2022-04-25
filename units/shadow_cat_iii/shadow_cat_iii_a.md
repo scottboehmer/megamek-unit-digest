@@ -15,6 +15,8 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7492/shadow-cat-iii-a) 
 - **Battle Value:** 2005 
 

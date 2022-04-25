@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Combat Computer 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/340/black-hawk-nova-f) 
 - **Battle Value:** 1976 
 

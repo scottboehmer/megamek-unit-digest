@@ -14,6 +14,8 @@
 - **Weapons:** 
   - ER PPC × 2 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3718/arcas-2) 
 - **Battle Value:** 2835 
 

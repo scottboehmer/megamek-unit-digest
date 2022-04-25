@@ -16,6 +16,8 @@
 - **Equipment:** 
   - CASE II 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7731/archer-arc-7c) 
 - **Battle Value:** 2408 
 

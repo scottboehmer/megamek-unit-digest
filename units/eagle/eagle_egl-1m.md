@@ -16,6 +16,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/936/eagle-egl-1m) 
 - **Battle Value:** 757 
 

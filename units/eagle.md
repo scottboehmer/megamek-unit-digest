@@ -14,6 +14,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/936/eagle-egl-1m) 
 - **Battle Value:** 757 
 - [*More Info*](eagle/eagle_egl-1m.md) 
@@ -32,6 +35,9 @@
   - ER Medium Laser 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/937/eagle-egl-2m) 
 - **Battle Value:** 800 
 - [*More Info*](eagle/eagle_egl-2m.md) 
@@ -48,6 +54,9 @@
 - **Weapons:** 
   - Light PPC 
   - Medium VSP Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/938/eagle-egl-3m) 
 - **Battle Value:** 645 
 - [*More Info*](eagle/eagle_egl-3m.md) 

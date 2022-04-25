@@ -16,6 +16,9 @@
   - Clan ER PPC × 2 
   - Large Re-Engineered Laser 
   - Medium X-Pulse Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7519/marauder-ii-mad-10d) 
 - **Battle Value:** 2741 
 

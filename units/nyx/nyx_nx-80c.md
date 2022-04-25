@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - C3 Support 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Difficult to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2308/nyx-nx-80c) 
 - **Battle Value:** 874 
 

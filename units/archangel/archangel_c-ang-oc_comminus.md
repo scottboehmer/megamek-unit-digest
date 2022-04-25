@@ -20,6 +20,8 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/68/archangel-c-ang-oc-comminus) 
 - **Battle Value:** 2010 
 

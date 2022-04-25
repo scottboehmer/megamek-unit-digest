@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3350/uller-kit-fox-w) 
 - **Battle Value:** 1431 
 

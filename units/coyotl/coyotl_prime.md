@@ -17,6 +17,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/714/coyotl-prime) 
 - **Battle Value:** 1974 
 

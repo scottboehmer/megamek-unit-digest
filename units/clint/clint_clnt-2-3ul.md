@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/647/clint-clnt-2-3ul) 
 - **Battle Value:** 1245 
 

@@ -16,6 +16,8 @@
   - AC/2 × 4 (ammo: 90) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2101/mauler-mal-1r) 
 - **Battle Value:** 1460 
 

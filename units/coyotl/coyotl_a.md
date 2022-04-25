@@ -17,6 +17,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/713/coyotl-a) 
 - **Battle Value:** 1753 
 

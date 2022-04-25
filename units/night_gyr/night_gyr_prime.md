@@ -17,6 +17,8 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2270/night-gyr-prime) 
 - **Battle Value:** 2830 
 

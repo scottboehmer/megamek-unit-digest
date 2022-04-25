@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1691/jenner-jr7-c4) 
 - **Battle Value:** 703 
 

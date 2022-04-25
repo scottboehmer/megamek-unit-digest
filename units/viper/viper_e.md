@@ -19,6 +19,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/921/dragonfly-viper-e) 
 - **Battle Value:** 1561 
 

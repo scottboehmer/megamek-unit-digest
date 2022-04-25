@@ -16,6 +16,8 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6898/mad-cat-iii-5) 
 - **Battle Value:** 2095 
 

@@ -11,6 +11,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Large Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/666/commando-com-1a) 
 - **Battle Value:** 475 
 - [*More Info*](commando/commando_com-1a.md) 
@@ -26,6 +28,8 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 6 (ammo: 15) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/669/commando-com-1d) 
 - **Battle Value:** 558 
 - [*More Info*](commando/commando_com-1d.md) 
@@ -42,6 +46,8 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/670/commando-com-2d) 
 - **Battle Value:** 541 
 - [*More Info*](commando/commando_com-2d.md) 
@@ -58,6 +64,8 @@
   - Large Laser 
   - Medium Laser 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/667/commando-com-1b) 
 - **Battle Value:** 616 
 - [*More Info*](commando/commando_com-1b.md) 
@@ -73,6 +81,8 @@
 - **Weapons:** 
   - Medium Laser 
   - AC/2 (ammo: 45) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/668/commando-com-1c) 
 - **Battle Value:** 458 
 - [*More Info*](commando/commando_com-1c.md) 
@@ -89,6 +99,8 @@
   - SRM 6 × 2 (ammo: 15) 
   - Medium Laser 
   - Flamer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/672/commando-com-3a) 
 - **Battle Value:** 540 
 - [*More Info*](commando/commando_com-3a.md) 
@@ -107,6 +119,8 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/674/commando-com-5s) 
 - **Battle Value:** 557 
 - [*More Info*](commando/commando_com-5s.md) 
@@ -125,6 +139,8 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/676/commando-com-7s) 
 - **Battle Value:** 658 
 - [*More Info*](commando/commando_com-7s.md) 
@@ -140,6 +156,8 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Rocket 15 × 6 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/673/commando-com-4h) 
 - **Battle Value:** 691 
 - [*More Info*](commando/commando_com-4h.md) 
@@ -160,6 +178,8 @@
   - Flamer × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/675/commando-com-7b) 
 - **Battle Value:** 602 
 - [*More Info*](commando/commando_com-7b.md) 
@@ -180,6 +200,8 @@
   - Clan Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/677/commando-com-7s2-freyr) 
 - **Battle Value:** 1105 
 - [*More Info*](commando/commando_com-7s2_freyr.md) 
@@ -196,6 +218,8 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7461/commando-com-1ak) 
 - **Battle Value:** 549 
 - [*More Info*](commando/commando_com-1ak.md) 
@@ -213,6 +237,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/671/commando-com-2dr) 
 - **Battle Value:** 563 
 - [*More Info*](commando/commando_com-2dr.md) 
@@ -232,6 +258,8 @@
   - C3 Boosted Support 
   - CASE II 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6945/commando-com-8s) 
 - **Battle Value:** 775 
 - [*More Info*](commando/commando_com-8s.md) 
@@ -251,6 +279,8 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7439/commando-com-9s) 
 - **Battle Value:** 719 
 - [*More Info*](commando/commando_com-9s.md) 

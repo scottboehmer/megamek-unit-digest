@@ -17,6 +17,8 @@
   - Nova CEWS 
   - Light TAG 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5812/pariah-septicemia-a-z) 
 - **Battle Value:** 2388 
 

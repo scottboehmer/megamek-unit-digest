@@ -18,6 +18,8 @@
   - Nova CEWS 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5815/pariah-septicemia-d-z) 
 - **Battle Value:** 2704 
 

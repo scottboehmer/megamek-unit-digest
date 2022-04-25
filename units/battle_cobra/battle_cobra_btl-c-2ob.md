@@ -14,6 +14,8 @@
   - MRM 10 × 4 (ammo: 72) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/265/battle-cobra-btl-c-2ob) 
 - **Battle Value:** 895 
 

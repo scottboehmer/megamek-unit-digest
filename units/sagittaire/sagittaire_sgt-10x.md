@@ -17,6 +17,8 @@
   - Medium VSP Laser × 4 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Difficult to Maintain 
+  - Weak Head Armor (1) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5718/sagittaire-sgt-10x) 
 - **Battle Value:** 1794 
 

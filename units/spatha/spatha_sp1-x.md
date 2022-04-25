@@ -18,6 +18,8 @@
   - Sword 
 - **Equipment:** 
   - Laser Anti-Missile System 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2998/spatha-sp1-x) 
 - **Battle Value:** 2222 
 

@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5828/osteon-g) 
 - **Battle Value:** 2251 
 

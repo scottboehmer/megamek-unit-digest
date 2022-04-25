@@ -22,6 +22,8 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Difficult to Maintain 
+  - Weak Head Armor (1) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6835/sagittaire-sgt-14d) 
 - **Battle Value:** 1960 
 

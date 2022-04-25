@@ -15,6 +15,9 @@
   - ER Large Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/447/bushwacker-bsw-l1) 
 - **Battle Value:** 1513 
 

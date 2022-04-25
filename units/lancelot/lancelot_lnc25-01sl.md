@@ -15,6 +15,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5874/lancelot-lnc25-01sl) 
 - **Battle Value:** 1546 
 

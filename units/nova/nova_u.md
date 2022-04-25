@@ -25,6 +25,8 @@
   - Inner Sphere HarJel 
 - **Design Quirks:** 
   - Combat Computer 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/344/black-hawk-nova-u) 
 - **Battle Value:** 1413 
 

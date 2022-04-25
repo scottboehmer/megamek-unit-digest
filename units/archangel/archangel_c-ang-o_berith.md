@@ -19,6 +19,8 @@
   - Medium VSP Laser 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/64/archangel-c-ang-o-berith) 
 - **Battle Value:** 2060 
 

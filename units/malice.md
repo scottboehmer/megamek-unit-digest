@@ -27,6 +27,8 @@
   - Clan LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
   - Clan ER Medium Laser × 2 
   - Clan LB 5-X AC × 2 (ammo: 40 Cluster) 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6725/malice-mal-xp) 
 - **Battle Value:** 2016 
 - [*More Info*](malice/malice_mal-xp.md) 

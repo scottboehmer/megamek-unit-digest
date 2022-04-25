@@ -12,6 +12,8 @@
 - **Heat Sinks:** 11 (11) 
 - **Weapons:** 
   - Large Laser × 2 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1498/hermes-ii-her-4k-hermes-iii) 
 - **Battle Value:** 976 
 

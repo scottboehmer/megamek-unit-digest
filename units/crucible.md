@@ -14,6 +14,9 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7734/crucible-standard) 
 - **Battle Value:** 3108 
 - [*More Info*](crucible/crucible_standard.md) 
@@ -34,6 +37,9 @@
 - **Equipment:** 
   - CASE 
   - Inner Sphere Coolant Pod 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7735/crucible-2) 
 - **Battle Value:** 3598 
 - [*More Info*](crucible/crucible_2.md) 
@@ -53,6 +59,9 @@
 - **Equipment:** 
   - CASE 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7736/crucible-3) 
 - **Battle Value:** 3230 
 - [*More Info*](crucible/crucible_3.md) 

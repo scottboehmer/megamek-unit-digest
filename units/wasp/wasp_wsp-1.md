@@ -14,6 +14,9 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
+- **Design Quirks:** 
+  - Weak Legs 
+  - Extended Torso Twist 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3519/wasp-wsp-1) 
 - **Battle Value:** 322 
 

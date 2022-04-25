@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2371/ostsol-otl-4d) 
 - **Battle Value:** 1277 
 

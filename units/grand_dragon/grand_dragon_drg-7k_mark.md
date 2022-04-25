@@ -18,6 +18,9 @@
   - C3 Support 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1261/grand-dragon-drg-7k-mark) 
 - **Battle Value:** 1817 
 

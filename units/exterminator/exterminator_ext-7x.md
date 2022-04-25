@@ -20,6 +20,8 @@
   - Laser Anti-Missile System 
   - Coolant Pod 
   - Supercharger 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8161/exterminator-ext-7x) 
 - **Battle Value:** 1674 
 

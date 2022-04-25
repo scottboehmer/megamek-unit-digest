@@ -12,6 +12,8 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 2 × 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3276/toro-tr-a-1) 
 - **Battle Value:** 671 
 - [*More Info*](toro/toro_tr-a-1.md) 

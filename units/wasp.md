@@ -12,6 +12,9 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
+- **Design Quirks:** 
+  - Weak Legs 
+  - Extended Torso Twist 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3519/wasp-wsp-1) 
 - **Battle Value:** 322 
 - [*More Info*](wasp/wasp_wsp-1.md) 
@@ -28,6 +31,8 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3520/wasp-wsp-1a) 
 - **Battle Value:** 384 
 - [*More Info*](wasp/wasp_wsp-1a.md) 
@@ -43,6 +48,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3523/wasp-wsp-1l) 
 - **Battle Value:** 335 
 - [*More Info*](wasp/wasp_wsp-1l.md) 
@@ -59,6 +66,8 @@
 - **Weapons:** 
   - Medium Laser 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3522/wasp-wsp-1k) 
 - **Battle Value:** 376 
 - [*More Info*](wasp/wasp_wsp-1k.md) 
@@ -76,6 +85,8 @@
   - Medium Laser 
   - Small Laser × 2 
   - Flamer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3521/wasp-wsp-1d) 
 - **Battle Value:** 403 
 - [*More Info*](wasp/wasp_wsp-1d.md) 
@@ -91,6 +102,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Laser × 6 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3525/wasp-wsp-1w) 
 - **Battle Value:** 373 
 - [*More Info*](wasp/wasp_wsp-1w.md) 
@@ -108,6 +121,8 @@
   - Medium Pulse Laser 
   - Small Laser × 2 
   - Flamer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3524/wasp-wsp-1s) 
 - **Battle Value:** 423 
 - [*More Info*](wasp/wasp_wsp-1s.md) 
@@ -124,6 +139,8 @@
 - **Weapons:** 
   - Small Pulse Laser × 2 
   - Small Laser × 4 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3530/wasp-wsp-3w) 
 - **Battle Value:** 342 
 - [*More Info*](wasp/wasp_wsp-3w.md) 
@@ -142,6 +159,8 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3528/wasp-wsp-3m) 
 - **Battle Value:** 394 
 - [*More Info*](wasp/wasp_wsp-3m.md) 
@@ -158,6 +177,8 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Small Pulse Laser × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #4 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7497/wasp-wsp-4w) 
 - **Battle Value:** 551 
 - [*More Info*](wasp/wasp_wsp-4w.md) 
@@ -177,6 +198,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3527/wasp-wsp-3l) 
 - **Battle Value:** 534 
 - [*More Info*](wasp/wasp_wsp-3l.md) 
@@ -196,6 +219,8 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3529/wasp-wsp-3s) 
 - **Battle Value:** 595 
 - [*More Info*](wasp/wasp_wsp-3s.md) 
@@ -214,6 +239,8 @@
 - **Weapons:** 
   - ER Medium Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3531/wasp-wsp-7maf) 
 - **Battle Value:** 488 
 - [*More Info*](wasp/wasp_wsp-7maf.md) 
@@ -231,6 +258,8 @@
 - **Weapons:** 
   - Light PPC 
   - MML 3 (ammo: 40 LRM, 33 SRM) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3532/wasp-wsp-8t) 
 - **Battle Value:** 439 
 - [*More Info*](wasp/wasp_wsp-8t.md) 
@@ -249,6 +278,8 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3526/wasp-wsp-3a) 
 - **Battle Value:** 401 
 - [*More Info*](wasp/wasp_wsp-3a.md) 
@@ -267,6 +298,8 @@
   - Rocket 10 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6950/wasp-wsp-3p) 
 - **Battle Value:** 537 
 - [*More Info*](wasp/wasp_wsp-3p.md) 
@@ -286,6 +319,8 @@
   - Medium Laser 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8103/wasp-wsp-3x) 
 - **Battle Value:** 521 
 - [*More Info*](wasp/wasp_wsp-3x.md) 
@@ -304,6 +339,8 @@
   - Medium Laser 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6949/wasp-wsp-3k) 
 - **Battle Value:** 477 
 - [*More Info*](wasp/wasp_wsp-3k.md) 
@@ -323,6 +360,8 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7495/wasp-wsp-5a) 
 - **Battle Value:** 517 
 - [*More Info*](wasp/wasp_wsp-5a.md) 
@@ -339,6 +378,8 @@
 - **Weapons:** 
   - Clan ER Large Laser 
   - Clan Streak SRM 2 (iOS) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7496/wasp-c) 
 - **Battle Value:** 755 
 - [*More Info*](wasp/wasp_c.md) 

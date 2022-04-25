@@ -20,6 +20,9 @@
   - Nova CEWS 
   - Machine Gun Array × 2 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5827/osteon-f) 
 - **Battle Value:** 2716 
 

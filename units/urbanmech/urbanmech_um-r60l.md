@@ -14,6 +14,9 @@
 - **Weapons:** 
   - AC/20 (ammo: 5) 
   - Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3355/urbanmech-um-r60l) 
 - **Battle Value:** 470 
 

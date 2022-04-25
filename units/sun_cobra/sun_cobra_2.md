@@ -14,6 +14,8 @@
   - ER PPC × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6893/sun-cobra-2) 
 - **Battle Value:** 2394 
 

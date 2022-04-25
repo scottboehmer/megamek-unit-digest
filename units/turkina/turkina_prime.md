@@ -17,6 +17,8 @@
   - LB 5-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3332/turkina-prime) 
 - **Battle Value:** 2944 
 

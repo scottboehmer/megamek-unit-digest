@@ -58,6 +58,8 @@
   - MASC 
   - Targeting Computer 
   - Head Turret 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8107/volkh-vkh-68) 
 - **Battle Value:** 1679 
 - [*More Info*](volkh/volkh_vkh-68.md) 

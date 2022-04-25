@@ -16,6 +16,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/356/black-knight-bl-12-knt) 
 - **Battle Value:** 1840 
 

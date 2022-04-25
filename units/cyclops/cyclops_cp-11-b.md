@@ -17,6 +17,8 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/774/cyclops-cp-11-b) 
 - **Battle Value:** 2145 
 

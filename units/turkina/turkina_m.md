@@ -19,6 +19,8 @@
   - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8213/turkina-m) 
 - **Battle Value:** 2495 
 

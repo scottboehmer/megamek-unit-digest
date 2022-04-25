@@ -15,6 +15,9 @@
   - ER PPC 
   - Medium Pulse Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2286/nightstar-nsr-9j) 
 - **Battle Value:** 2399 
 

@@ -13,6 +13,8 @@
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
   - Large Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2353/ostroc-osr-2m) 
 - **Battle Value:** 1239 
 

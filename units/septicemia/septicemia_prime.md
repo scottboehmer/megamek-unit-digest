@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5024/pariah-septicemia-prime) 
 - **Battle Value:** 2511 
 

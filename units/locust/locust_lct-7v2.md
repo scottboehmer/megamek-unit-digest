@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Light PPC 
   - ER Small Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8202/locust-lct-7v2) 
 - **Battle Value:** 634 
 

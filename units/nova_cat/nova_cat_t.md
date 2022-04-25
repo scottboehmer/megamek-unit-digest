@@ -15,6 +15,8 @@
   - Large Pulse Laser × 3 
 - **Equipment:** 
   - Inner Sphere Supercharger 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8421/nova-cat-t) 
 - **Battle Value:** 2855 
 

@@ -17,6 +17,8 @@
   - Flamer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/918/dragonfly-viper-b) 
 - **Battle Value:** 1830 
 

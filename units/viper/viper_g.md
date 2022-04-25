@@ -20,6 +20,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/923/dragonfly-viper-g) 
 - **Battle Value:** 1574 
 

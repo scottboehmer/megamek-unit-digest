@@ -12,6 +12,9 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3721/archer-arc-1a) 
 - **Battle Value:** 1269 
 - [*More Info*](archer/archer_arc-1a.md) 
@@ -27,6 +30,8 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/74/archer-arc-2r) 
 - **Battle Value:** 1477 
 - [*More Info*](archer/archer_arc-2r.md) 
@@ -44,6 +49,8 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/75/archer-arc-2rb) 
 - **Battle Value:** 1705 
 - [*More Info*](archer/archer_arc-2rb.md) 
@@ -59,6 +66,8 @@
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 32) 
   - Large Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/73/archer-arc-2k) 
 - **Battle Value:** 1356 
 - [*More Info*](archer/archer_arc-2k.md) 
@@ -75,6 +84,8 @@
   - LRM 15 × 2 (ammo: 32) 
   - Medium Laser × 4 
   - SRM 4 × 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/76/archer-arc-2s) 
 - **Battle Value:** 1393 
 - [*More Info*](archer/archer_arc-2s.md) 
@@ -91,6 +102,8 @@
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/77/archer-arc-2w) 
 - **Battle Value:** 1338 
 - [*More Info*](archer/archer_arc-2w.md) 
@@ -108,6 +121,8 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/78/archer-arc-4m) 
 - **Battle Value:** 1705 
 - [*More Info*](archer/archer_arc-4m.md) 
@@ -125,6 +140,8 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/79/archer-arc-5r) 
 - **Battle Value:** 1672 
 - [*More Info*](archer/archer_arc-5r.md) 
@@ -144,6 +161,8 @@
   - Narc (ammo: 6) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/80/archer-arc-5s) 
 - **Battle Value:** 1353 
 - [*More Info*](archer/archer_arc-5s.md) 
@@ -162,6 +181,8 @@
   - Narc (ammo: 12) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/81/archer-arc-5w) 
 - **Battle Value:** 1337 
 - [*More Info*](archer/archer_arc-5w.md) 
@@ -177,6 +198,8 @@
 - **Weapons:** 
   - Clan LRM 20 × 2 (ammo: 24) 
   - Clan ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90/archer-c) 
 - **Battle Value:** 1811 
 - [*More Info*](archer/archer_c.md) 
@@ -192,6 +215,8 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 4 (ammo: 48) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7598/archer-arc-5cs) 
 - **Battle Value:** 1609 
 - [*More Info*](archer/archer_arc-5cs.md) 
@@ -212,6 +237,8 @@
   - ECM Suite 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/72/archer-wolf) 
 - **Battle Value:** 2365 
 - [*More Info*](archer/archer_wolf.md) 
@@ -230,6 +257,8 @@
   - Streak SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** ForcePack Wolfs Dragoons - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8387/archer-c-2) 
 - **Battle Value:** 2167 
 - [*More Info*](archer/archer_c_2.md) 
@@ -249,6 +278,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/82/archer-arc-6s) 
 - **Battle Value:** 1694 
 - [*More Info*](archer/archer_arc-6s.md) 
@@ -265,6 +296,8 @@
   - Medium Laser × 4 
   - Rocket 20 × 8 
   - Rocket 10 × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/83/archer-arc-6w) 
 - **Battle Value:** 1405 
 - [*More Info*](archer/archer_arc-6w.md) 
@@ -284,6 +317,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/84/archer-arc-7l) 
 - **Battle Value:** 1881 
 - [*More Info*](archer/archer_arc-7l.md) 
@@ -302,6 +337,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/86/archer-arc-8m) 
 - **Battle Value:** 1759 
 - [*More Info*](archer/archer_arc-8m.md) 
@@ -321,6 +358,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/85/archer-arc-7s) 
 - **Battle Value:** 1658 
 - [*More Info*](archer/archer_arc-7s.md) 
@@ -338,6 +377,8 @@
   - MML 5 × 4 (ammo: 72 LRM, 60 SRM) 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/87/archer-arc-9k) 
 - **Battle Value:** 1391 
 - [*More Info*](archer/archer_arc-9k.md) 
@@ -357,6 +398,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/88/archer-arc-9m) 
 - **Battle Value:** 1811 
 - [*More Info*](archer/archer_arc-9m.md) 
@@ -376,6 +419,8 @@
   - Angel ECM Suite 
   - Void-Signature System 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/89/archer-arc-9w) 
 - **Battle Value:** 1774 
 - [*More Info*](archer/archer_arc-9w.md) 
@@ -393,6 +438,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7730/archer-arc-4m2) 
 - **Battle Value:** 1742 
 - [*More Info*](archer/archer_arc-4m2.md) 
@@ -411,6 +458,8 @@
   - MML 5 × 4 (ammo: 72 LRM, 60 SRM) 
 - **Equipment:** 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6875/archer-arc-9kc) 
 - **Battle Value:** 1361 
 - [*More Info*](archer/archer_arc-9kc.md) 
@@ -429,6 +478,8 @@
 - **Equipment:** 
   - CASE II 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7731/archer-arc-7c) 
 - **Battle Value:** 2408 
 - [*More Info*](archer/archer_arc-7c.md) 
@@ -447,6 +498,8 @@
 - **Equipment:** 
   - CASE II 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7732/archer-arc-9r) 
 - **Battle Value:** 1668 
 - [*More Info*](archer/archer_arc-9r.md) 

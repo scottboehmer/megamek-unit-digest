@@ -15,6 +15,8 @@
   - Clan LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Clan Streak SRM 6 × 2 (ammo: 30) 
   - Clan ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3130/sunder-sd1-or) 
 - **Battle Value:** 2462 
 

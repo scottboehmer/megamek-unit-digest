@@ -20,6 +20,8 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - Weak Head Armor (1) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3370/valiant-val-nt-jx-hot-knife) 
 - **Battle Value:** 989 
 

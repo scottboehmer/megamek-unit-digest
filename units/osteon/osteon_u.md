@@ -18,6 +18,9 @@
   - Nova CEWS 
   - Inner Sphere HarJel × 4 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5829/osteon-u) 
 - **Battle Value:** 2647 
 

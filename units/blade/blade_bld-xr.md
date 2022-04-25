@@ -15,6 +15,8 @@
 - **Weapons:** 
   - Light PPC × 2 
   - Light AC/2 × 2 (ammo: 90) 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7345/blade-bld-xr) 
 - **Battle Value:** 1101 
 

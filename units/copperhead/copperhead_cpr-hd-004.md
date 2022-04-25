@@ -18,6 +18,8 @@
   - MagShot Gauss Rifle (ammo: 50) 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/692/copperhead-cpr-hd-004) 
 - **Battle Value:** 1151 
 

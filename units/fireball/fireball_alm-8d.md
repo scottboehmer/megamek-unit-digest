@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1076/fireball-alm-8d) 
 - **Battle Value:** 574 
 

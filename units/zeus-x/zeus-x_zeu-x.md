@@ -16,6 +16,9 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/6631/zeus-x-zeu-x) 
 - **Battle Value:** 2119 
 

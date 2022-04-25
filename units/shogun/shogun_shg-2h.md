@@ -19,6 +19,8 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2934/shogun-shg-2h) 
 - **Battle Value:** 2087 
 

@@ -15,6 +15,8 @@
   - ER Small Laser × 10 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6927/morrigan-4) 
 - **Battle Value:** 2063 
 

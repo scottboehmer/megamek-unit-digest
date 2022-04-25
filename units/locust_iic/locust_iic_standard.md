@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Medium Pulse Laser 
   - ER Small Laser × 8 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1914/locust-iic-standard) 
 - **Battle Value:** 1100 
 

@@ -15,6 +15,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1654/jackal-ja-kl-1579) 
 - **Battle Value:** 1269 
 

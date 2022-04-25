@@ -16,6 +16,9 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7734/crucible-standard) 
 - **Battle Value:** 3108 
 

@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Medium Laser 
   - AC/2 (ammo: 45) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/668/commando-com-1c) 
 - **Battle Value:** 458 
 

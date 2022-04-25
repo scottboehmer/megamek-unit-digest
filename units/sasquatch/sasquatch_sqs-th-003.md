@@ -15,6 +15,8 @@
   - Large Pulse Laser 
   - Medium X-Pulse Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2800/sasquatch-sqs-th-003) 
 - **Battle Value:** 1667 
 

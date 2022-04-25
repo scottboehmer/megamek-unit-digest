@@ -18,6 +18,10 @@
   - Machine Gun × 4 (ammo: 400) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3814/behemoth-stone-rhino-4) 
 - **Battle Value:** 2601 
 

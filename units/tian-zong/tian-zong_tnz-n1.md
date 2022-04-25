@@ -15,6 +15,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6469/tian-zong-tnz-n1) 
 - **Battle Value:** 2167 
 

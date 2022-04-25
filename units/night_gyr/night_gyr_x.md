@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8400/night-gyr-x) 
 - **Battle Value:** 2781 
 

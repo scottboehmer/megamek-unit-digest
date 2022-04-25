@@ -15,6 +15,9 @@
   - RAC/5 (ammo: 40) 
   - ER Medium Laser 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3359/urbanmech-um-r70) 
 - **Battle Value:** 724 
 

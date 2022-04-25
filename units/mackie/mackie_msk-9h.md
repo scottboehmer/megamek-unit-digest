@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975/mackie-msk-9h) 
 - **Battle Value:** 2022 
 

@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Medium Laser × 4 
   - Mace 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7315/brigand-ldt-xpr3) 
 - **Battle Value:** 752 
 

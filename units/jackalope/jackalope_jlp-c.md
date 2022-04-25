@@ -19,6 +19,8 @@
   - Light Active Probe 
   - CASE 
   - Inner Sphere C3 Support 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6711/jackalope-jlp-c) 
 - **Battle Value:** 1253 
 

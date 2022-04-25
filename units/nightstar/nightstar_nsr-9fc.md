@@ -16,6 +16,9 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2285/nightstar-nsr-9fc) 
 - **Battle Value:** 1929 
 

@@ -13,6 +13,9 @@
   - ER PPC 
   - Medium Pulse Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2286/nightstar-nsr-9j) 
 - **Battle Value:** 2399 
 - [*More Info*](nightstar/nightstar_nsr-9j.md) 
@@ -31,6 +34,9 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2285/nightstar-nsr-9fc) 
 - **Battle Value:** 1929 
 - [*More Info*](nightstar/nightstar_nsr-9fc.md) 
@@ -47,6 +53,9 @@
   - Clan Gauss Rifle × 2 (ammo: 48) 
   - Clan Large Pulse Laser × 3 
   - Clan ER Small Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4723/nightstar-nsr-9j-brubaker) 
 - **Battle Value:** 2838 
 - [*More Info*](nightstar/nightstar_nsr-9j_brubaker.md) 
@@ -68,6 +77,9 @@
   - Clan ER Small Laser 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** SO:Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619/nightstar-nsr-9j-holt) 
 - **Battle Value:** 3433 
 - [*More Info*](nightstar/nightstar_nsr-9j_holt.md) 
@@ -88,6 +100,9 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2287/nightstar-nsr-9ss) 
 - **Battle Value:** 2145 
 - [*More Info*](nightstar/nightstar_nsr-9ss.md) 
@@ -109,6 +124,9 @@
 - **Equipment:** 
   - Coolant Pod × 2 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7539/nightstar-nsr-10d) 
 - **Battle Value:** 2539 
 - [*More Info*](nightstar/nightstar_nsr-10d.md) 

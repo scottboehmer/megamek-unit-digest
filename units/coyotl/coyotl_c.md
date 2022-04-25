@@ -17,6 +17,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7607/coyotl-c) 
 - **Battle Value:** 1851 
 

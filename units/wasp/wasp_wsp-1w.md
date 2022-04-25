@@ -13,6 +13,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Laser × 6 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3525/wasp-wsp-1w) 
 - **Battle Value:** 373 
 

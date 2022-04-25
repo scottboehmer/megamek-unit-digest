@@ -18,6 +18,8 @@
   - CASE 
   - Targeting Computer 
   - TAG 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5543/mad-cat-iii-eve) 
 - **Battle Value:** 2393 
 

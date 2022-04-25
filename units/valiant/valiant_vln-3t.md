@@ -18,6 +18,8 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371/valiant-vln-3t) 
 - **Battle Value:** 852 
 

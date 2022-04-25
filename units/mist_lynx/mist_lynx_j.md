@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Active Probe 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7558/koshi-mist-lynx-j) 
 - **Battle Value:** 1704 
 

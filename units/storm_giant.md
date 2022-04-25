@@ -14,6 +14,8 @@
   - Streak SRM 6 × 2 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Oversized 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7649/storm-giant-standard) 
 - **Battle Value:** 2676 
 - [*More Info*](storm_giant/storm_giant_standard.md) 
@@ -33,6 +35,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Oversized 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5145/storm-giant-2) 
 - **Battle Value:** 2891 
 - [*More Info*](storm_giant/storm_giant_2.md) 

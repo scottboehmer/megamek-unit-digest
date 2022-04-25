@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Clan Light TAG 
   - Clan CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8111/omnimarauder-mad-br-oa) 
 - **Battle Value:** 2127 
 

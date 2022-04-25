@@ -19,6 +19,8 @@
   - Clan Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2876/seraph-c-srp-os-caelestis) 
 - **Battle Value:** 2788 
 

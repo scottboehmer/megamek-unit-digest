@@ -15,6 +15,9 @@
   - Streak SRM 4 (iOS) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1843/kraken-bane-3) 
 - **Battle Value:** 2941 
 

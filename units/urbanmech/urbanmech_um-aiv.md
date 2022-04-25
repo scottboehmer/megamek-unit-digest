@@ -16,6 +16,9 @@
 - **Weapons:** 
   - Arrow IV (ammo: 10) 
   - ER Medium Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3353/urbanmech-um-aiv) 
 - **Battle Value:** 603 
 

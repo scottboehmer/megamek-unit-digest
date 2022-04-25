@@ -15,6 +15,9 @@
   - PPC 
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1973/mackie-msk-6s) 
 - **Battle Value:** 1461 
 

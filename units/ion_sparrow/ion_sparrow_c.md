@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Partial Wing 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7741/butcherbird-ion-sparrow-c) 
 - **Battle Value:** 889 
 

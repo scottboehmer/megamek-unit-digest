@@ -16,6 +16,8 @@
   - Retractable Blade 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8370/vulcan-vl-5ml-aladdin) 
 - **Battle Value:** 947 
 

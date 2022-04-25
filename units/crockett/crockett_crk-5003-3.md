@@ -18,6 +18,8 @@
   - Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/727/crockett-crk-5003-3) 
 - **Battle Value:** 1989 
 

@@ -15,6 +15,8 @@
   - Large X-Pulse Laser 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5782/huron-warrior-hur-wo-r4x) 
 - **Battle Value:** 1728 
 

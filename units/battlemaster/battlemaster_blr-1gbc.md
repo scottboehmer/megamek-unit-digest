@@ -16,6 +16,9 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Command Console 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/286/battlemaster-blr-1gbc) 
 - **Battle Value:** 1825 
 

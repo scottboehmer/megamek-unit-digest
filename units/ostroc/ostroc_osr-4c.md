@@ -15,6 +15,8 @@
   - Medium Laser × 2 
   - Rocket 15 × 2 
   - Rocket 10 × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2355/ostroc-osr-4c) 
 - **Battle Value:** 1325 
 

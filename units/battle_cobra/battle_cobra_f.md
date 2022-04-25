@@ -16,6 +16,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/271/battle-cobra-f) 
 - **Battle Value:** 1507 
 

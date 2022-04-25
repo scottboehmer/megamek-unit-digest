@@ -15,6 +15,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3706/apollo-apl-4m) 
 - **Battle Value:** 1302 
 

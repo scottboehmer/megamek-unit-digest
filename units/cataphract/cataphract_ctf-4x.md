@@ -14,6 +14,8 @@
   - Large Laser 
   - AC/5 × 2 (ammo: 80) 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/474/cataphract-ctf-4x) 
 - **Battle Value:** 1216 
 

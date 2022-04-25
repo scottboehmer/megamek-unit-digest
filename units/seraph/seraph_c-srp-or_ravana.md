@@ -21,6 +21,8 @@
   - Laser Anti-Missile System 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2875/seraph-c-srp-or-ravana) 
 - **Battle Value:** 1954 
 

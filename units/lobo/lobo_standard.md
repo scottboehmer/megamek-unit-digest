@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Difficult to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4528/lobo-standard) 
 - **Battle Value:** 1715 
 

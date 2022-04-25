@@ -424,6 +424,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6340/centurion-cn11-o) 
 - **Battle Value:** 1236 
 - [*More Info*](centurion/centurion_cn11-o.md) 
@@ -443,6 +445,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6341/centurion-cn11-oa) 
 - **Battle Value:** 1375 
 - [*More Info*](centurion/centurion_cn11-oa.md) 
@@ -463,6 +467,8 @@
   - Guardian ECM Suite 
   - CASE II 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6342/centurion-cn11-ob) 
 - **Battle Value:** 1412 
 - [*More Info*](centurion/centurion_cn11-ob.md) 
@@ -485,6 +491,8 @@
   - Guardian ECM Suite 
   - CASE II 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6343/centurion-cn11-oc) 
 - **Battle Value:** 1628 
 - [*More Info*](centurion/centurion_cn11-oc.md) 
@@ -508,6 +516,8 @@
   - Medium Shield 
   - Beagle Active Probe 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6344/centurion-cn11-od) 
 - **Battle Value:** 1153 
 - [*More Info*](centurion/centurion_cn11-od.md) 
@@ -527,6 +537,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6345/centurion-cn11-oe) 
 - **Battle Value:** 1515 
 - [*More Info*](centurion/centurion_cn11-oe.md) 

@@ -14,6 +14,8 @@
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3540/whitworth-wth-1s) 
 - **Battle Value:** 917 
 

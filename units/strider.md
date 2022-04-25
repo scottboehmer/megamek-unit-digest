@@ -14,6 +14,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3084/strider-sr1-o) 
 - **Battle Value:** 867 
 - [*More Info*](strider/strider_sr1-o.md) 
@@ -34,6 +36,8 @@
   - CASE 
   - TAG 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3085/strider-sr1-oa) 
 - **Battle Value:** 723 
 - [*More Info*](strider/strider_sr1-oa.md) 
@@ -50,6 +54,8 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3086/strider-sr1-ob) 
 - **Battle Value:** 910 
 - [*More Info*](strider/strider_sr1-ob.md) 
@@ -68,6 +74,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3087/strider-sr1-oc) 
 - **Battle Value:** 944 
 - [*More Info*](strider/strider_sr1-oc.md) 
@@ -89,6 +97,8 @@
   - CASE 
   - TAG 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3088/strider-sr1-od) 
 - **Battle Value:** 873 
 - [*More Info*](strider/strider_sr1-od.md) 
@@ -106,6 +116,8 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3089/strider-sr1-oe) 
 - **Battle Value:** 976 
 - [*More Info*](strider/strider_sr1-oe.md) 
@@ -123,6 +135,8 @@
   - Clan Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3092/strider-sr1-or) 
 - **Battle Value:** 1339 
 - [*More Info*](strider/strider_sr1-or.md) 
@@ -141,6 +155,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3090/strider-sr1-of) 
 - **Battle Value:** 1032 
 - [*More Info*](strider/strider_sr1-of.md) 
@@ -158,6 +174,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3091/strider-sr1-og) 
 - **Battle Value:** 883 
 - [*More Info*](strider/strider_sr1-og.md) 
@@ -175,6 +193,8 @@
   - MML 3 × 2 (ammo: 40 LRM, 33 SRM) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3093/strider-sr1-ox) 
 - **Battle Value:** 889 
 - [*More Info*](strider/strider_sr1-ox.md) 
@@ -191,6 +211,8 @@
   - Clan Streak LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6917/strider-sr1-oh) 
 - **Battle Value:** 1192 
 - [*More Info*](strider/strider_sr1-oh.md) 
@@ -206,6 +228,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Main × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6916/strider-sr1-om) 
 - **Battle Value:** 607 
 - [*More Info*](strider/strider_sr1-om.md) 

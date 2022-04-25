@@ -17,6 +17,8 @@
   - CASE 
 - **Design Quirks:** 
   - Combat Computer 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8164/black-hawk-nova-t) 
 - **Battle Value:** 1579 
 

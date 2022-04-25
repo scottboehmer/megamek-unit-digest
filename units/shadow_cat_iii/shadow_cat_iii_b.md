@@ -20,6 +20,8 @@
   - MASC 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7493/shadow-cat-iii-b) 
 - **Battle Value:** 2183 
 

@@ -15,6 +15,8 @@
   - ER Large Laser 
   - Medium Laser × 6 
   - Small Laser 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1005/exterminator-ext-4db) 
 - **Battle Value:** 1694 
 

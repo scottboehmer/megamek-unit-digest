@@ -16,6 +16,9 @@
   - ER Medium Laser 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/937/eagle-egl-2m) 
 - **Battle Value:** 800 
 

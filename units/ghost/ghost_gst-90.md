@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Chainsaw 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6906/ghost-gst-90) 
 - **Battle Value:** 1012 
 

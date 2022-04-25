@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1169/galahad-glh-3d) 
 - **Battle Value:** 1268 
 

@@ -13,6 +13,9 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Heavy Small Laser × 6 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1917/locust-iic-4) 
 - **Battle Value:** 795 
 

@@ -18,6 +18,8 @@
 - **Equipment:** 
   - MASC 
   - Clan Supercharger 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/251/banzai-bnz-x) 
 - **Battle Value:** 2647 
 

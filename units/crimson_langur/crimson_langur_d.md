@@ -19,6 +19,8 @@
   - CASE 
   - Light TAG 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5676/crimson-langur-d) 
 - **Battle Value:** 1867 
 

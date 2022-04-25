@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Flamer 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/592/cicada-cda-2b) 
 - **Battle Value:** 626 
 

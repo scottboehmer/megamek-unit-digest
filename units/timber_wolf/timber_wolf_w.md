@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7518/mad-cat-timber-wolf-w) 
 - **Battle Value:** 2791 
 

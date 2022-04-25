@@ -16,6 +16,9 @@
   - Narc (ammo: 6) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3343/uller-kit-fox-d) 
 - **Battle Value:** 1142 
 

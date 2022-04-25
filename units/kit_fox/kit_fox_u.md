@@ -16,6 +16,9 @@
   - LRT 5 × 8 (ammo: 96) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3349/uller-kit-fox-u) 
 - **Battle Value:** 1486 
 

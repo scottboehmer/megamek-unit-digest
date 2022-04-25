@@ -14,6 +14,8 @@
   - Snub-Nose PPC × 2 
   - LRM 15 × 2 (ammo: 32) 
   - Light AC/5 × 4 (ammo: 80) 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2100/mauler-mal-1k) 
 - **Battle Value:** 1622 
 

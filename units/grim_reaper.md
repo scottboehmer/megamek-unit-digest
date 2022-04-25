@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1328/grim-reaper-grm-r-pr29) 
 - **Battle Value:** 1469 
 - [*More Info*](grim_reaper/grim_reaper_grm-r-pr29.md) 
@@ -37,6 +39,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1329/grim-reaper-grm-r-pr30) 
 - **Battle Value:** 1673 
 - [*More Info*](grim_reaper/grim_reaper_grm-r-pr30.md) 
@@ -58,6 +62,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1330/grim-reaper-grm-r-pr31) 
 - **Battle Value:** 1655 
 - [*More Info*](grim_reaper/grim_reaper_grm-r-pr31.md) 
@@ -80,6 +86,8 @@
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1331/grim-reaper-grm-r-pr62a) 
 - **Battle Value:** 1542 
 - [*More Info*](grim_reaper/grim_reaper_grm-r-pr62a.md) 
@@ -101,6 +109,9 @@
   - Modular Armor × 4 
   - Clan Light TAG 
   - Clan CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Difficult to Maintain 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5550/grim-reaper-grm-r-einar) 
 - **Battle Value:** 2121 
 - [*More Info*](grim_reaper/grim_reaper_grm-r_einar.md) 

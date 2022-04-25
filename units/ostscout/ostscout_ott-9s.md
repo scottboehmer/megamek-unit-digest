@@ -18,6 +18,8 @@
   - Beagle Active Probe 
   - A-Pod × 2 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2370/ostscout-ott-9s) 
 - **Battle Value:** 855 
 

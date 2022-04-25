@@ -12,6 +12,9 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Streak SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Easy to Pilot 
+  - Extended Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3160/tarantula-zph-1) 
 - **Battle Value:** 666 
 - [*More Info*](tarantula/tarantula_zph-1a.md) 
@@ -28,6 +31,9 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Streak SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Easy to Pilot 
+  - Extended Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3161/tarantula-zph-2a) 
 - **Battle Value:** 744 
 - [*More Info*](tarantula/tarantula_zph-2a.md) 
@@ -43,6 +49,9 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
+  - Extended Torso Twist 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3162/tarantula-zph-3a) 
 - **Battle Value:** 702 
 - [*More Info*](tarantula/tarantula_zph-3a.md) 
@@ -60,6 +69,9 @@
 - **Equipment:** 
   - C3 Support 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Pilot 
+  - Extended Torso Twist 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3163/tarantula-zph-4a) 
 - **Battle Value:** 967 
 - [*More Info*](tarantula/tarantula_zph-4a.md) 
@@ -77,6 +89,9 @@
 - **Equipment:** 
   - C3 Boosted Support 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Pilot 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6941/tarantula-zph-5a) 
 - **Battle Value:** 806 
 - [*More Info*](tarantula/tarantula_zph-5a.md) 

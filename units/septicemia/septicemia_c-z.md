@@ -19,6 +19,8 @@
   - Nova CEWS 
   - Machine Gun Array × 2 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5814/pariah-septicemia-c-z) 
 - **Battle Value:** 2264 
 

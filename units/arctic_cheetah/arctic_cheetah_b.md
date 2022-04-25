@@ -18,6 +18,8 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1379/hankyu-arctic-cheetah-b) 
 - **Battle Value:** 1076 
 

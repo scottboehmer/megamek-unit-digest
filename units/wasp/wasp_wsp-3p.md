@@ -16,6 +16,8 @@
   - Rocket 10 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6950/wasp-wsp-3p) 
 - **Battle Value:** 537 
 

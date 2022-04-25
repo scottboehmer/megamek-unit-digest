@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/969/emperor-emp-6me-mercury-elite) 
 - **Battle Value:** 2004 
 

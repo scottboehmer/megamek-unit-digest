@@ -15,6 +15,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - MASC 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1495/hermes-her-4wb) 
 - **Battle Value:** 1042 
 

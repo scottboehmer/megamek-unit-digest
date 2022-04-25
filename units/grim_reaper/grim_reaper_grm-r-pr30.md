@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1329/grim-reaper-grm-r-pr30) 
 - **Battle Value:** 1673 
 

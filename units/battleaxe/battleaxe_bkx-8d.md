@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/279/battleaxe-bkx-8d) 
 - **Battle Value:** 1592 
 

@@ -16,6 +16,8 @@
   - Clan ER Medium Laser × 4 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/346/black-hawk-ku-bhku-o-albert) 
 - **Battle Value:** 2377 
 

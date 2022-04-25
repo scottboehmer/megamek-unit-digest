@@ -20,6 +20,8 @@
 - **Equipment:** 
   - C3i 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/70/archangel-c-ang-oe-eminus) 
 - **Battle Value:** 2097 
 

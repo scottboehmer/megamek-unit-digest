@@ -17,6 +17,9 @@
   - C3 Support 
   - TAG 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1912/locust-lct-5w2) 
 - **Battle Value:** 787 
 

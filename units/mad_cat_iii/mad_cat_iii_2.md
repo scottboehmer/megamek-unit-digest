@@ -16,6 +16,8 @@
   - Micro Pulse Laser × 6 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4562/mad-cat-iii-2) 
 - **Battle Value:** 1697 
 

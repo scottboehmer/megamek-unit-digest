@@ -12,6 +12,9 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Large Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Easy to Pilot 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4655/mongoose-mon-68) 
 - **Battle Value:** 676 
 

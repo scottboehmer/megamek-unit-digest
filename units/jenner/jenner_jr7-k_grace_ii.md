@@ -16,6 +16,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1695/jenner-jr7-k-grace-ii) 
 - **Battle Value:** 787 
 

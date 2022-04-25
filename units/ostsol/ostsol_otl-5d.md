@@ -14,6 +14,8 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - Rocket 10 × 5 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2373/ostsol-otl-5d) 
 - **Battle Value:** 1333 
 

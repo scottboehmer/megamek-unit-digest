@@ -19,6 +19,9 @@
   - Modular Armor × 4 
   - Clan Light TAG 
   - Clan CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Difficult to Maintain 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5550/grim-reaper-grm-r-einar) 
 - **Battle Value:** 2121 
 

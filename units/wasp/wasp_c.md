@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Clan ER Large Laser 
   - Clan Streak SRM 2 (iOS) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7496/wasp-c) 
 - **Battle Value:** 755 
 

@@ -17,6 +17,8 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3826/black-knight-bl-6-rr) 
 - **Battle Value:** 1954 
 

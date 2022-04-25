@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2944/silver-fox-svr-5x) 
 - **Battle Value:** 1432 
 

@@ -20,6 +20,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3365/ursus-ii-standard) 
 - **Battle Value:** 2069 
 

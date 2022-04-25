@@ -15,6 +15,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/714/coyotl-prime) 
 - **Battle Value:** 1974 
 - [*More Info*](coyotl/coyotl_prime.md) 
@@ -34,6 +36,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/713/coyotl-a) 
 - **Battle Value:** 1753 
 - [*More Info*](coyotl/coyotl_a.md) 
@@ -52,6 +56,8 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7606/coyotl-b) 
 - **Battle Value:** 1447 
 - [*More Info*](coyotl/coyotl_b.md) 
@@ -71,6 +77,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7607/coyotl-c) 
 - **Battle Value:** 1851 
 - [*More Info*](coyotl/coyotl_c.md) 
@@ -92,6 +100,8 @@
   - Targeting Computer 
   - Supercharger 
   - TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7608/coyotl-d) 
 - **Battle Value:** 1980 
 - [*More Info*](coyotl/coyotl_d.md) 

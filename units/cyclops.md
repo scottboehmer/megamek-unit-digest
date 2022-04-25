@@ -13,6 +13,8 @@
   - LRM 10 (ammo: 12) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/772/cyclops-cp-10-z) 
 - **Battle Value:** 1317 
 - [*More Info*](cyclops/cyclops_cp-10-z.md) 
@@ -31,6 +33,8 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Collapsible Command Module 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/770/cyclops-cp-10-hq) 
 - **Battle Value:** 1113 
 - [*More Info*](cyclops/cyclops_cp-10-hq.md) 
@@ -47,6 +51,8 @@
   - LRM 10 × 2 (ammo: 48) 
   - Medium Laser × 3 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/771/cyclops-cp-10-q) 
 - **Battle Value:** 1584 
 - [*More Info*](cyclops/cyclops_cp-10-q.md) 
@@ -64,6 +70,8 @@
   - LRM 10 (ammo: 24) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/773/cyclops-cp-11-a) 
 - **Battle Value:** 1547 
 - [*More Info*](cyclops/cyclops_cp-11-a.md) 
@@ -83,6 +91,8 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Command Console 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4032/cyclops-cp-11-a-dc) 
 - **Battle Value:** 1507 
 - [*More Info*](cyclops/cyclops_cp-11-a-dc.md) 
@@ -101,6 +111,8 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/775/cyclops-cp-11-c) 
 - **Battle Value:** 1553 
 - [*More Info*](cyclops/cyclops_cp-11-c.md) 
@@ -120,6 +132,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/778/cyclops-cp-11-g) 
 - **Battle Value:** 1981 
 - [*More Info*](cyclops/cyclops_cp-11-g.md) 
@@ -139,6 +153,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/780/cyclops-cp-12-k) 
 - **Battle Value:** 1699 
 - [*More Info*](cyclops/cyclops_cp-12-k.md) 
@@ -155,6 +171,8 @@
   - AC/20 (ammo: 10) 
   - Medium Laser × 2 
   - Rocket 20 × 6 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/779/cyclops-cp-11-h) 
 - **Battle Value:** 1525 
 - [*More Info*](cyclops/cyclops_cp-11-h.md) 
@@ -174,6 +192,8 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/774/cyclops-cp-11-b) 
 - **Battle Value:** 2145 
 - [*More Info*](cyclops/cyclops_cp-11-b.md) 
@@ -193,6 +213,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - C3 Main × 2 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/776/cyclops-cp-11-c2) 
 - **Battle Value:** 1534 
 - [*More Info*](cyclops/cyclops_cp-11-c2.md) 
@@ -211,6 +233,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - C3 Boosted Main 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/777/cyclops-cp-11-c3) 
 - **Battle Value:** 1752 
 - [*More Info*](cyclops/cyclops_cp-11-c3.md) 
@@ -230,6 +254,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8357/cyclops-c) 
 - **Battle Value:** 2252 
 - [*More Info*](cyclops/cyclops_c.md) 

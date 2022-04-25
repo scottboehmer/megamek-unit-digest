@@ -15,6 +15,9 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2596/puma-adder-h) 
 - **Battle Value:** 1453 
 

@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7740/butcherbird-ion-sparrow-b) 
 - **Battle Value:** 626 
 

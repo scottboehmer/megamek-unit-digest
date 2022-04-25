@@ -18,6 +18,8 @@
   - Large Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/965/emperor-emp-6a-nerran) 
 - **Battle Value:** 2247 
 

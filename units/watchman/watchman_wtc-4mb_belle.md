@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Clan Watchdog CEWS 
   - Remote Drone Command Console 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8371/watchman-wtc-4mb-belle) 
 - **Battle Value:** 1234 
 

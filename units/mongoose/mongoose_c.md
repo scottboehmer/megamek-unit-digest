@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Active Probe 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7603/mongoose-c) 
 - **Battle Value:** 1386 
 

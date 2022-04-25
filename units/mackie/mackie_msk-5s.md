@@ -15,6 +15,9 @@
   - PPC 
   - Large Laser 
   - AC/5 (ammo: 20) 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972/mackie-msk-5s) 
 - **Battle Value:** 1436 
 

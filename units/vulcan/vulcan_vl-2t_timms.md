@@ -15,6 +15,8 @@
   - AC/2 (ammo: 45) 
   - Small Laser 
   - Flamer × 3 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7797/vulcan-vl-2t-timms) 
 - **Battle Value:** 603 
 

@@ -21,6 +21,8 @@
   - C3i 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2871/seraph-c-srp-ob-infernus) 
 - **Battle Value:** 2181 
 

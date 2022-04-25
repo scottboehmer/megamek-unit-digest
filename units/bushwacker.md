@@ -15,6 +15,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/450/bushwacker-bsw-x1) 
 - **Battle Value:** 1223 
 - [*More Info*](bushwacker/bushwacker_bsw-x1.md) 
@@ -34,6 +36,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/451/bushwacker-bsw-x2) 
 - **Battle Value:** 1193 
 - [*More Info*](bushwacker/bushwacker_bsw-x2.md) 
@@ -53,6 +57,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/448/bushwacker-bsw-s2) 
 - **Battle Value:** 1293 
 - [*More Info*](bushwacker/bushwacker_bsw-s2.md) 
@@ -70,6 +76,9 @@
   - ER Large Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/447/bushwacker-bsw-l1) 
 - **Battle Value:** 1513 
 - [*More Info*](bushwacker/bushwacker_bsw-l1.md) 
@@ -89,6 +98,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/449/bushwacker-bsw-s2r) 
 - **Battle Value:** 1339 
 - [*More Info*](bushwacker/bushwacker_bsw-s2r.md) 
@@ -109,6 +120,8 @@
 - **Equipment:** 
   - CASE II 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7454/bushwacker-bsw-x4) 
 - **Battle Value:** 1751 
 - [*More Info*](bushwacker/bushwacker_bsw-x4.md) 

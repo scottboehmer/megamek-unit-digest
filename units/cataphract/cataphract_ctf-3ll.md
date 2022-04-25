@@ -17,6 +17,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/471/cataphract-ctf-3ll) 
 - **Battle Value:** 1664 
 

@@ -19,6 +19,8 @@
   - AES 
   - Supercharger 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7445/sojourner-b) 
 - **Battle Value:** 2397 
 

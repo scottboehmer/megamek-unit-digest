@@ -14,6 +14,9 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2052/marauder-mad-sd-douglass) 
 - **Battle Value:** 1459 
 

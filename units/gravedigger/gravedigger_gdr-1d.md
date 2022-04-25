@@ -18,6 +18,8 @@
   - Angel ECM Suite 
   - Clan Active Probe 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6264/gravedigger-gdr-1d) 
 - **Battle Value:** 1707 
 

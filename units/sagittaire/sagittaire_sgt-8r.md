@@ -20,6 +20,8 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Difficult to Maintain 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4967/sagittaire-sgt-8r) 
 - **Battle Value:** 2088 
 

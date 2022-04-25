@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Medium VSP Laser 
   - Rocket 10 × 3 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/702/cossack-c-1fc) 
 - **Battle Value:** 483 
 

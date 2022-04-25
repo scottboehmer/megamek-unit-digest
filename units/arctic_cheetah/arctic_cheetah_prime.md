@@ -20,6 +20,8 @@
   - Active Probe 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1384/hankyu-arctic-cheetah-prime) 
 - **Battle Value:** 1334 
 

@@ -14,6 +14,8 @@
   - LB 10-X AC (ammo: 10 Cluster, 20 Standard) 
   - SRM 6 × 2 (ammo: 30) 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/725/crockett-crk-5003-1) 
 - **Battle Value:** 1923 
 - [*More Info*](crockett/crockett_crk-5003-1.md) 
@@ -32,6 +34,8 @@
   - ER Large Laser × 2 
   - Medium Pulse Laser × 4 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/726/crockett-crk-5003-1b) 
 - **Battle Value:** 2307 
 - [*More Info*](crockett/crockett_crk-5003-1b.md) 
@@ -50,6 +54,8 @@
   - AC/10 (ammo: 20) 
   - SRM 6 × 2 (ammo: 30) 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/724/crockett-crk-5003-0) 
 - **Battle Value:** 1704 
 - [*More Info*](crockett/crockett_crk-5003-0.md) 
@@ -70,6 +76,8 @@
   - Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/727/crockett-crk-5003-3) 
 - **Battle Value:** 1989 
 - [*More Info*](crockett/crockett_crk-5003-3.md) 
@@ -91,6 +99,8 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/728/crockett-crk-5004-1) 
 - **Battle Value:** 1955 
 - [*More Info*](crockett/crockett_crk-5004-1.md) 
@@ -112,6 +122,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/729/crockett-crk-5005-1) 
 - **Battle Value:** 1908 
 - [*More Info*](crockett/crockett_crk-5005-1.md) 

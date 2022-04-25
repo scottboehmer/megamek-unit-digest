@@ -16,6 +16,9 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Difficult to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4528/lobo-standard) 
 - **Battle Value:** 1715 
 - [*More Info*](lobo/lobo_standard.md) 
@@ -35,6 +38,9 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Difficult to Maintain 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5668/lobo-2) 
 - **Battle Value:** 1869 
 - [*More Info*](lobo/lobo_2.md) 
@@ -56,6 +62,9 @@
 - **Equipment:** 
   - Machine Gun Array × 2 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Difficult to Maintain 
 - **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5669/lobo-3) 
 - **Battle Value:** 1784 
 - [*More Info*](lobo/lobo_3.md) 

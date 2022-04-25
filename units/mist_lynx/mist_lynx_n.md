@@ -19,6 +19,8 @@
   - Active Probe 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7562/koshi-mist-lynx-n) 
 - **Battle Value:** 976 
 

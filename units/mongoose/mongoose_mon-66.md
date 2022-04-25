@@ -15,6 +15,9 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Easy to Pilot 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2208/mongoose-mon-66) 
 - **Battle Value:** 758 
 

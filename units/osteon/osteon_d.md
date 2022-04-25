@@ -15,6 +15,9 @@
   - Large Pulse Laser × 4 
 - **Equipment:** 
   - Nova CEWS 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5825/osteon-d) 
 - **Battle Value:** 2587 
 

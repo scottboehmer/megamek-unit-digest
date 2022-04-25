@@ -16,6 +16,8 @@
   - SRT 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - MASS 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1406/hatamoto-kaeru-htm-35x) 
 - **Battle Value:** 1906 
 - [*More Info*](hatamoto-kaeru/hatamoto-kaeru_htm-35x.md) 
@@ -36,6 +38,8 @@
   - SRT 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - MASS 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4266/hatamoto-kaeru-htm-35k) 
 - **Battle Value:** 1906 
 - [*More Info*](hatamoto-kaeru/hatamoto-kaeru_htm-35k.md) 

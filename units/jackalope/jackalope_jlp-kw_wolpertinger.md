@@ -19,6 +19,8 @@
   - Laser Anti-Missile System 
   - Partial Wing 
   - CASE II 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6713/jackalope-jlp-kw-wolpertinger) 
 - **Battle Value:** 1334 
 

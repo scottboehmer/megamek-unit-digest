@@ -16,6 +16,8 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1475/hellhound-conjurer-3) 
 - **Battle Value:** 1764 
 

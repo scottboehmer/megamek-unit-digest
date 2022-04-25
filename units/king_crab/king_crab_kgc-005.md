@@ -17,6 +17,9 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1774/king-crab-kgc-005) 
 - **Battle Value:** 2264 
 

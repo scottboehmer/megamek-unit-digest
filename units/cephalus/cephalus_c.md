@@ -17,6 +17,8 @@
   - Nova CEWS 
   - Inner Sphere Null-Signature System 
   - Inner Sphere Chameleon LPS 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5639/cephalus-c) 
 - **Battle Value:** 1209 
 

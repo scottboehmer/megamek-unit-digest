@@ -18,6 +18,8 @@
   - Chameleon LPS 
   - Null-Signature System 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5551/exterminator-ext-6cs) 
 - **Battle Value:** 1592 
 

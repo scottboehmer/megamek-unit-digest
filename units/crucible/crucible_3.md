@@ -17,6 +17,9 @@
 - **Equipment:** 
   - CASE 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7736/crucible-3) 
 - **Battle Value:** 3230 
 

@@ -14,6 +14,8 @@
   - Large Pulse Laser 
   - Ultra AC/5 (ammo: 20) 
   - Flamer 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1502/hermes-ii-her-5sa) 
 - **Battle Value:** 924 
 

@@ -11,6 +11,8 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Small Pulse Laser × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/273/battle-cobra-prime) 
 - **Battle Value:** 1487 
 - [*More Info*](battle_cobra/battle_cobra_prime.md) 
@@ -26,6 +28,8 @@
 - **Weapons:** 
   - Medium Pulse Laser × 4 
   - Small Pulse Laser × 6 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/261/battle-cobra-a) 
 - **Battle Value:** 1466 
 - [*More Info*](battle_cobra/battle_cobra_a.md) 
@@ -41,6 +45,8 @@
 - **Weapons:** 
   - ER PPC × 2 
   - Small Pulse Laser × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/262/battle-cobra-b) 
 - **Battle Value:** 1892 
 - [*More Info*](battle_cobra/battle_cobra_b.md) 
@@ -59,6 +65,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/271/battle-cobra-f) 
 - **Battle Value:** 1507 
 - [*More Info*](battle_cobra/battle_cobra_f.md) 
@@ -74,6 +82,8 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Heavy Medium Laser × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/272/battle-cobra-h) 
 - **Battle Value:** 1592 
 - [*More Info*](battle_cobra/battle_cobra_h.md) 
@@ -92,6 +102,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/270/battle-cobra-c) 
 - **Battle Value:** 1484 
 - [*More Info*](battle_cobra/battle_cobra_c.md) 
@@ -108,6 +120,8 @@
   - Large Pulse Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/263/battle-cobra-btl-c-2o) 
 - **Battle Value:** 944 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2o.md) 
@@ -129,6 +143,8 @@
   - Beagle Active Probe 
   - C3i 
   - TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/264/battle-cobra-btl-c-2oa) 
 - **Battle Value:** 1113 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2oa.md) 
@@ -145,6 +161,8 @@
   - MRM 10 × 4 (ammo: 72) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/265/battle-cobra-btl-c-2ob) 
 - **Battle Value:** 895 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2ob.md) 
@@ -161,6 +179,8 @@
   - iNarc × 2 (ammo: 20) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/266/battle-cobra-btl-c-2oc) 
 - **Battle Value:** 726 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2oc.md) 
@@ -178,6 +198,8 @@
 - **Equipment:** 
   - C3i 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/267/battle-cobra-btl-c-2od) 
 - **Battle Value:** 1221 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2od.md) 
@@ -194,6 +216,8 @@
   - MML 9 × 2 (ammo: 26 LRM, 11 SRM) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/268/battle-cobra-btl-c-2oe) 
 - **Battle Value:** 840 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2oe.md) 
@@ -210,6 +234,8 @@
   - Plasma Rifle × 2 (ammo: 30) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/269/battle-cobra-btl-c-2of) 
 - **Battle Value:** 1300 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2of.md) 
@@ -226,6 +252,8 @@
   - Improved Heavy Medium Laser × 5 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/274/battle-cobra-x) 
 - **Battle Value:** 1492 
 - [*More Info*](battle_cobra/battle_cobra_x.md) 
@@ -242,6 +270,8 @@
   - Plasma Cannon × 2 (ammo: 40) 
   - ER Medium Laser × 2 
   - Flamer × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8390/battle-cobra-g) 
 - **Battle Value:** 1593 
 - [*More Info*](battle_cobra/battle_cobra_g.md) 
@@ -259,6 +289,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8389/battle-cobra-t) 
 - **Battle Value:** 1666 
 - [*More Info*](battle_cobra/battle_cobra_t.md) 
@@ -275,6 +307,8 @@
   - LRM 15 w/ Artemis V × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8391/battle-cobra-i) 
 - **Battle Value:** 1385 
 - [*More Info*](battle_cobra/battle_cobra_i.md) 
@@ -292,6 +326,8 @@
   - ER Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8392/battle-cobra-j) 
 - **Battle Value:** 1272 
 - [*More Info*](battle_cobra/battle_cobra_j.md) 

@@ -15,6 +15,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1690/jenner-jr7-c3) 
 - **Battle Value:** 1069 
 

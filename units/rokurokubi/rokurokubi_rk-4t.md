@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Light AC/5 (ammo: 40) 
   - Sword 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6392/rokurokubi-rk-4t) 
 - **Battle Value:** 998 
 

@@ -16,6 +16,10 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Pulse Laser 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k) 
 - **Battle Value:** 1331 
 

@@ -19,6 +19,8 @@
   - Active Probe 
   - Partial Wing 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7739/butcherbird-ion-sparrow-a) 
 - **Battle Value:** 501 
 

@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Spikes × 2 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2226/morpheus-mrp-3s) 
 - **Battle Value:** 1437 
 

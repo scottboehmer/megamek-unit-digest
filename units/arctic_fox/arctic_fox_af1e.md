@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Light PPC × 4 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - No Torso Twist 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/96/arctic-fox-af1e) 
 - **Battle Value:** 1094 
 

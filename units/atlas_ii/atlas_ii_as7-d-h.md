@@ -18,6 +18,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/152/atlas-ii-as7-d-h) 
 - **Battle Value:** 2169 
 

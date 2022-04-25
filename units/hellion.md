@@ -15,6 +15,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4306/hellion-prime) 
 - **Battle Value:** 1873 
 - [*More Info*](hellion/hellion_prime.md) 
@@ -33,6 +35,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4303/hellion-a) 
 - **Battle Value:** 1543 
 - [*More Info*](hellion/hellion_a.md) 
@@ -51,6 +55,8 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4304/hellion-b) 
 - **Battle Value:** 1569 
 - [*More Info*](hellion/hellion_b.md) 
@@ -70,6 +76,8 @@
   - MASC 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4305/hellion-c) 
 - **Battle Value:** 2095 
 - [*More Info*](hellion/hellion_c.md) 
@@ -89,6 +97,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5657/hellion-d) 
 - **Battle Value:** 1761 
 - [*More Info*](hellion/hellion_d.md) 
@@ -111,6 +121,8 @@
   - ECM Suite 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5658/hellion-e) 
 - **Battle Value:** 1292 
 - [*More Info*](hellion/hellion_e.md) 
@@ -133,6 +145,8 @@
   - Active Probe 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5659/hellion-f) 
 - **Battle Value:** 1594 
 - [*More Info*](hellion/hellion_f.md) 
@@ -152,6 +166,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6939/hellion-g) 
 - **Battle Value:** 1513 
 - [*More Info*](hellion/hellion_g.md) 
@@ -173,6 +189,8 @@
   - MASC 
   - Supercharger 
   - TAG 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8327/hellion-p) 
 - **Battle Value:** 1685 
 - [*More Info*](hellion/hellion_p.md) 
@@ -193,6 +211,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8326/hellion-t) 
 - **Battle Value:** 1637 
 - [*More Info*](hellion/hellion_t.md) 

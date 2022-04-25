@@ -15,6 +15,8 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - SRM 2 × 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8356/ostroc-osr-9c) 
 - **Battle Value:** 1230 
 

@@ -17,6 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - Extended Torso Twist 
   - Improved Targeting (Medium) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/48/anvil-anv-3m) 
 - **Battle Value:** 1441 

@@ -19,6 +19,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/790/daedalus-dad-3d) 
 - **Battle Value:** 1729 
 

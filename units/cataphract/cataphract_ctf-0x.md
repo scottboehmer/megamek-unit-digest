@@ -17,6 +17,8 @@
 - **Equipment:** 
   - EW Equipment 
   - Remote Sensor Dispenser 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5795/cataphract-ctf-0x) 
 - **Battle Value:** 1258 
 

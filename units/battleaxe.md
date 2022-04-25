@@ -31,6 +31,8 @@
   - PPC × 2 
   - SRM 6 (ammo: 15) 
   - LRM 5 × 2 (ammo: 24) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/277/battleaxe-bkx-7k) 
 - **Battle Value:** 1329 
 - [*More Info*](battleaxe/battleaxe_bkx-7k.md) 
@@ -47,6 +49,8 @@
   - PPC × 2 
   - SRM 6 (ammo: 15) 
   - LRM 5 × 4 (ammo: 24) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/278/battleaxe-bkx-7nc) 
 - **Battle Value:** 1252 
 - [*More Info*](battleaxe/battleaxe_bkx-7nc.md) 
@@ -66,6 +70,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/279/battleaxe-bkx-8d) 
 - **Battle Value:** 1592 
 - [*More Info*](battleaxe/battleaxe_bkx-8d.md) 

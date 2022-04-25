@@ -16,6 +16,7 @@
   - AC/2 × 2 (ammo: 45) 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1665/jagermech-jm6-a) 
 - **Battle Value:** 1122 
 

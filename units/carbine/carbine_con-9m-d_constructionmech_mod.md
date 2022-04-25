@@ -15,6 +15,8 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Lift Hoist 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8098/carbine-con-9m-d-constructionmech-mod) 
 - **Battle Value:** 257 
 

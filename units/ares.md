@@ -21,6 +21,8 @@
   - A-Pod × 6 
   - CASE II 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6685/ares-ars-v1-zeus) 
 - **Battle Value:** 3247 
 - [*More Info*](ares/ares_ars-v1_zeus.md) 
@@ -45,6 +47,8 @@
 - **Equipment:** 
   - A-Pod × 6 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6686/ares-ars-v1a-hera) 
 - **Battle Value:** 2944 
 - [*More Info*](ares/ares_ars-v1a_hera.md) 
@@ -70,6 +74,8 @@
 - **Equipment:** 
   - A-Pod × 6 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6687/ares-ars-v1b-hades) 
 - **Battle Value:** 2839 
 - [*More Info*](ares/ares_ars-v1b_hades.md) 
@@ -96,6 +102,8 @@
   - A-Pod × 6 
   - CASE II 
   - C3 Main × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6688/ares-ars-v1c-aphrodite) 
 - **Battle Value:** 2903 
 - [*More Info*](ares/ares_ars-v1c_aphrodite.md) 
@@ -123,6 +131,8 @@
   - CASE II 
   - C3 Support 
   - Radical Heat Sink System 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6689/ares-ars-v1d-hephaestus) 
 - **Battle Value:** 2960 
 - [*More Info*](ares/ares_ars-v1d_hephaestus.md) 

@@ -13,6 +13,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2368/ostscout-ott-7k) 
 - **Battle Value:** 484 
 

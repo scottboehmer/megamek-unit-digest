@@ -31,6 +31,8 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6576/hawkwolf-hwk-4f) 
 - **Battle Value:** 1428 
 - [*More Info*](hawkwolf/hawkwolf_hwk-4f.md) 

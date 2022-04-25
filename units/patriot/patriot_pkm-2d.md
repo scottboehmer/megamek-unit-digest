@@ -20,6 +20,8 @@
   - Anti-Missile System (ammo: 12) 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2448/patriot-pkm-2d) 
 - **Battle Value:** 1699 
 

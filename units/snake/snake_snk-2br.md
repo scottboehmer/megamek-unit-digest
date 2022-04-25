@@ -19,6 +19,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2977/snake-snk-2br) 
 - **Battle Value:** 1577 
 

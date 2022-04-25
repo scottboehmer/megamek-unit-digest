@@ -16,6 +16,8 @@
   - Streak SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #23 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8422/nova-cat-m) 
 - **Battle Value:** 2024 
 

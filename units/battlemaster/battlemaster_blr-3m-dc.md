@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Command Console 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3806/battlemaster-blr-3m-dc) 
 - **Battle Value:** 1627 
 

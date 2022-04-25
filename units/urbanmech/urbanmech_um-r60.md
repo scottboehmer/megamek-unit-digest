@@ -14,6 +14,9 @@
 - **Weapons:** 
   - AC/10 (ammo: 10) 
   - Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3354/urbanmech-um-r60) 
 - **Battle Value:** 504 
 

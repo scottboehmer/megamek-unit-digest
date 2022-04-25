@@ -14,6 +14,9 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3721/archer-arc-1a) 
 - **Battle Value:** 1269 
 

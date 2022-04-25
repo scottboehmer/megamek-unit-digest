@@ -18,6 +18,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** RS3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/302/battlemaster-blr-m3) 
 - **Battle Value:** 1674 
 

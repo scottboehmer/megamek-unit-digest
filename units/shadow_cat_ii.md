@@ -15,6 +15,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2894/shadow-cat-ii-standard) 
 - **Battle Value:** 2064 
 - [*More Info*](shadow_cat_ii/shadow_cat_ii_standard.md) 
@@ -35,6 +37,8 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2893/shadow-cat-ii-2) 
 - **Battle Value:** 2106 
 - [*More Info*](shadow_cat_ii/shadow_cat_ii_2.md) 
@@ -54,6 +58,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6886/shadow-cat-ii-3) 
 - **Battle Value:** 2387 
 - [*More Info*](shadow_cat_ii/shadow_cat_ii_3.md) 
@@ -72,6 +78,8 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6885/shadow-cat-ii-4) 
 - **Battle Value:** 1986 
 - [*More Info*](shadow_cat_ii/shadow_cat_ii_4.md) 

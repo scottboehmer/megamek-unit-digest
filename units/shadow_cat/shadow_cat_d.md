@@ -20,6 +20,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #9 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7704/shadow-cat-d) 
 - **Battle Value:** 2298 
 

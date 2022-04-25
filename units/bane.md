@@ -13,6 +13,9 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #17 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1841/kraken-bane-standard) 
 - **Battle Value:** 1950 
 - [*More Info*](bane/bane_standard.md) 
@@ -30,6 +33,9 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1842/kraken-bane-2) 
 - **Battle Value:** 2502 
 - [*More Info*](bane/bane_2.md) 
@@ -47,6 +53,9 @@
   - Streak SRM 4 (iOS) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1843/kraken-bane-3) 
 - **Battle Value:** 2941 
 - [*More Info*](bane/bane_3.md) 
@@ -65,6 +74,9 @@
   - ATM 6 × 3 (ammo: 20 Standard, 10 ER, 10 HE) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1844/kraken-bane-4) 
 - **Battle Value:** 2709 
 - [*More Info*](bane/bane_4.md) 
@@ -83,6 +95,10 @@
   - RAC/2 × 4 (ammo: 90) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4463/kraken-bane-xr) 
 - **Battle Value:** 3055 
 - [*More Info*](bane/bane_xr.md) 
@@ -102,6 +118,9 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE II 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8242/kraken-bane-5) 
 - **Battle Value:** 2554 
 - [*More Info*](bane/bane_5.md) 
@@ -121,6 +140,9 @@
   - ECM Suite 
   - Targeting Computer 
   - CASE II 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8243/kraken-bane-6) 
 - **Battle Value:** 2339 
 - [*More Info*](bane/bane_6.md) 
@@ -139,6 +161,9 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4463/kraken-bane-xr) 
 - **Battle Value:** 3740 
 - [*More Info*](bane/bane_7.md) 

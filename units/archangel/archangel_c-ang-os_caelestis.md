@@ -20,6 +20,8 @@
   - ER Flamer × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/71/archangel-c-ang-os-caelestis) 
 - **Battle Value:** 2026 
 

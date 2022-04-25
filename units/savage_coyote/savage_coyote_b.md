@@ -18,6 +18,8 @@
   - Small Pulse Laser × 6 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Oversized 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4983/savage-coyote-b) 
 - **Battle Value:** 2284 
 

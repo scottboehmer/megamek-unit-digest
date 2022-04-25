@@ -19,6 +19,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8105/daedalus-dad-dx) 
 - **Battle Value:** 1606 
 

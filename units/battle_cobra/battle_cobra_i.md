@@ -14,6 +14,8 @@
   - LRM 15 w/ Artemis V × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8391/battle-cobra-i) 
 - **Battle Value:** 1385 
 

@@ -17,6 +17,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7648/pulverizer-standard) 
 - **Battle Value:** 2506 
 

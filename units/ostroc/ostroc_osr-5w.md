@@ -18,6 +18,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2359/ostroc-osr-5w) 
 - **Battle Value:** 1655 
 

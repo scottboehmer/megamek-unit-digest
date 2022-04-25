@@ -19,6 +19,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2976/snake-snk-2b) 
 - **Battle Value:** 1081 
 

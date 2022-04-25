@@ -15,6 +15,9 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #11 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7746/uller-kit-fox-v) 
 - **Battle Value:** 850 
 

@@ -17,6 +17,8 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2932/shogun-shg-2e) 
 - **Battle Value:** 1823 
 

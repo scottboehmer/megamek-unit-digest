@@ -21,6 +21,8 @@
   - ECM Suite 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3315/tundra-wolf-standard) 
 - **Battle Value:** 3131 
 

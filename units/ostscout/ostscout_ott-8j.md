@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7451/ostscout-ott-8j) 
 - **Battle Value:** 894 
 

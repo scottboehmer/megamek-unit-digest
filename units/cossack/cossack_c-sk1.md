@@ -15,6 +15,8 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/703/cossack-c-sk1) 
 - **Battle Value:** 465 
 

@@ -15,6 +15,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1892/linebacker-prime) 
 - **Battle Value:** 2390 
 - [*More Info*](linebacker/linebacker_prime.md) 
@@ -34,6 +36,8 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1886/linebacker-a) 
 - **Battle Value:** 2264 
 - [*More Info*](linebacker/linebacker_a.md) 
@@ -52,6 +56,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1887/linebacker-b) 
 - **Battle Value:** 2048 
 - [*More Info*](linebacker/linebacker_b.md) 
@@ -72,6 +78,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1888/linebacker-c) 
 - **Battle Value:** 2075 
 - [*More Info*](linebacker/linebacker_c.md) 
@@ -90,6 +98,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1889/linebacker-d) 
 - **Battle Value:** 2039 
 - [*More Info*](linebacker/linebacker_d.md) 
@@ -108,6 +118,8 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1890/linebacker-e) 
 - **Battle Value:** 1846 
 - [*More Info*](linebacker/linebacker_e.md) 
@@ -125,6 +137,8 @@
   - Heavy Large Laser × 2 
   - ER Medium Laser × 2 
   - ER Small Laser 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1891/linebacker-h) 
 - **Battle Value:** 2097 
 - [*More Info*](linebacker/linebacker_h.md) 
@@ -143,6 +157,8 @@
   - Narc (iOS) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4523/linebacker-f) 
 - **Battle Value:** 1928 
 - [*More Info*](linebacker/linebacker_f.md) 
@@ -161,6 +177,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6880/linebacker-g) 
 - **Battle Value:** 2433 
 - [*More Info*](linebacker/linebacker_g.md) 
@@ -181,6 +199,8 @@
   - Machine Gun Array × 6 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7525/linebacker-i) 
 - **Battle Value:** 1853 
 - [*More Info*](linebacker/linebacker_i.md) 
@@ -201,6 +221,8 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7526/linebacker-t) 
 - **Battle Value:** 1851 
 - [*More Info*](linebacker/linebacker_t.md) 

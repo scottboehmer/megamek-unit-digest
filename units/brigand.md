@@ -93,6 +93,8 @@
   - Medium Laser × 5 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7314/brigand-ldt-xpr2) 
 - **Battle Value:** 956 
 - [*More Info*](brigand/brigand_ldt-xpr2.md) 
@@ -109,6 +111,8 @@
 - **Weapons:** 
   - Medium Laser × 4 
   - Mace 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7315/brigand-ldt-xpr3) 
 - **Battle Value:** 752 
 - [*More Info*](brigand/brigand_ldt-xpr3.md) 
@@ -124,6 +128,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7316/brigand-ldt-xpr4) 
 - **Battle Value:** 739 
 - [*More Info*](brigand/brigand_ldt-xpr4.md) 
@@ -140,6 +146,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7317/brigand-ldt-xpr5) 
 - **Battle Value:** 743 
 - [*More Info*](brigand/brigand_ldt-xpr5.md) 

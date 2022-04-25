@@ -21,6 +21,8 @@
   - Angel ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Total Chaos , [Master Unit List](http://masterunitlist.info/Unit/Details/7398/atlas-ii-as7-d-h-devlin) 
 - **Battle Value:** 2474 
 

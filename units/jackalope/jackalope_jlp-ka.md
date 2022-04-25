@@ -18,6 +18,8 @@
   - Laser Anti-Missile System 
   - Light Active Probe 
   - CASE II 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6712/jackalope-jlp-ka) 
 - **Battle Value:** 1488 
 

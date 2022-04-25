@@ -16,6 +16,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Pilot 
+  - Extended Torso Twist 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/315/bear-cub-2) 
 - **Battle Value:** 988 
 

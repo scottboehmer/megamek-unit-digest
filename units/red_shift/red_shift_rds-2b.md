@@ -15,6 +15,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4907/red-shift-rds-2b) 
 - **Battle Value:** 555 
 

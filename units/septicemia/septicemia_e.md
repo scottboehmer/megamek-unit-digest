@@ -17,6 +17,8 @@
   - Nova CEWS 
   - Light TAG 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5023/pariah-septicemia-e) 
 - **Battle Value:** 2950 
 

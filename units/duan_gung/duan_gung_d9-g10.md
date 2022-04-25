@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/934/duan-gung-d9-g10) 
 - **Battle Value:** 886 
 

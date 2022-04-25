@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/184/axman-axm-1n) 
 - **Battle Value:** 1374 
 - [*More Info*](axman/axman_axm-1n.md) 
@@ -38,6 +40,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n) 
 - **Battle Value:** 1458 
 - [*More Info*](axman/axman_axm-2n.md) 
@@ -59,6 +63,8 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/186/axman-axm-3s) 
 - **Battle Value:** 1649 
 - [*More Info*](axman/axman_axm-3s.md) 
@@ -82,6 +88,8 @@
   - Full Head Ejection System 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/187/axman-axm-3sr) 
 - **Battle Value:** 1734 
 - [*More Info*](axman/axman_axm-3sr.md) 
@@ -102,6 +110,8 @@
   - Full Head Ejection System 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/188/axman-axm-4d) 
 - **Battle Value:** 1222 
 - [*More Info*](axman/axman_axm-4d.md) 
@@ -121,6 +131,8 @@
   - Full Head Ejection System 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3772/axman-axm-6x) 
 - **Battle Value:** 2132 
 - [*More Info*](axman/axman_axm-6x.md) 
@@ -139,6 +151,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771/axman-axm-6t) 
 - **Battle Value:** 1830 
 - [*More Info*](axman/axman_axm-6t.md) 
@@ -162,6 +176,8 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n) 
 - **Battle Value:** 2575 
 - [*More Info*](axman/axman_axm-5n.md) 

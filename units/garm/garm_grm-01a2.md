@@ -17,6 +17,8 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1190/garm-grm-01a2) 
 - **Battle Value:** 1078 
 

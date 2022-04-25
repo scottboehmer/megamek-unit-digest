@@ -16,6 +16,9 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239/thunderbolt-iic-standard) 
 - **Battle Value:** 2475 
 

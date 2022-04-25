@@ -20,6 +20,8 @@
   - Light TAG 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7588/dragonfly-viper-r) 
 - **Battle Value:** 1335 
 

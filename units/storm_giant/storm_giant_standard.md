@@ -16,6 +16,8 @@
   - Streak SRM 6 × 2 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Oversized 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7649/storm-giant-standard) 
 - **Battle Value:** 2676 
 

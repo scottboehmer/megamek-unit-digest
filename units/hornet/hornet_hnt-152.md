@@ -15,6 +15,9 @@
   - Medium Laser 
   - SRM 4 (ammo: 25) 
   - Small Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1546/hornet-hnt-152) 
 - **Battle Value:** 475 
 

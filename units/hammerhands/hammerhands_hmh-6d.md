@@ -18,6 +18,8 @@
 - **Equipment:** 
   - C3 Support 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1372/hammerhands-hmh-6d) 
 - **Battle Value:** 2139 
 

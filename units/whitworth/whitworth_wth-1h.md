@@ -15,6 +15,8 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
   - Rocket 10 × 8 
+- **Design Quirks:** 
+  - Weak Legs 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3539/whitworth-wth-1h) 
 - **Battle Value:** 993 
 

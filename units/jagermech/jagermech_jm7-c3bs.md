@@ -19,6 +19,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1671/jagermech-jm7-c3bs) 
 - **Battle Value:** 1354 
 

@@ -14,6 +14,8 @@
 - **Weapons:** 
   - ER Medium Laser × 5 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4764/osiris-osr-4d) 
 - **Battle Value:** 1230 
 

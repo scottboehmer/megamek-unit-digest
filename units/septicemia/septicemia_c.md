@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Machine Gun Array × 2 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5021/pariah-septicemia-c) 
 - **Battle Value:** 2227 
 

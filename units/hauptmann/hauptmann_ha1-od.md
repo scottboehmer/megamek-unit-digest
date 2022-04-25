@@ -19,6 +19,8 @@
   - CASE 
   - C3 Main 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1424/hauptmann-ha1-od) 
 - **Battle Value:** 2359 
 

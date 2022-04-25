@@ -16,6 +16,9 @@
   - SRM 2 × 2 (ammo: 50) 
   - Small Laser 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Extended Torso Twist 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1599/icarus-icr-1x) 
 - **Battle Value:** 700 
 

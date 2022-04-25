@@ -16,6 +16,9 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - Radical Heat Sink System 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Difficult to Maintain 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6676/lament-lmt-2r) 
 - **Battle Value:** 1999 
 

@@ -20,6 +20,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Clan CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8433/atlas-as8-s) 
 - **Battle Value:** 2789 
 

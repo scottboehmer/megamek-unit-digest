@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3165/targe-trg-2n) 
 - **Battle Value:** 1042 
 

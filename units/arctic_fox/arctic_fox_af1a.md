@@ -14,6 +14,9 @@
 - **Weapons:** 
   - Medium Pulse Laser × 4 
   - Small Pulse Laser × 3 
+- **Design Quirks:** 
+  - No Torso Twist 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/92/arctic-fox-af1a) 
 - **Battle Value:** 858 
 

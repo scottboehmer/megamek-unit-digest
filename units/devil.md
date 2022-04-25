@@ -12,6 +12,9 @@
   - ER PPC 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7571/devil-standard) 
 - **Battle Value:** 1691 
 - [*More Info*](devil/devil_standard.md) 

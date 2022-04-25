@@ -15,6 +15,8 @@
   - ER Medium Laser × 12 
 - **Design Quirks:** 
   - Combat Computer 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/342/black-hawk-nova-prime) 
 - **Battle Value:** 2663 
 

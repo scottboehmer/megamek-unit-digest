@@ -18,6 +18,8 @@
   - ER Small Laser × 5 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1824/koschei-ksc-5i) 
 - **Battle Value:** 1961 
 

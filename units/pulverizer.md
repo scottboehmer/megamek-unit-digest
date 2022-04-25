@@ -15,6 +15,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2590/pulverizer-pul-2v) 
 - **Battle Value:** 2065 
 - [*More Info*](pulverizer/pulverizer_pul-2v.md) 
@@ -34,6 +36,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7647/pulverizer-pul-3r) 
 - **Battle Value:** 2068 
 - [*More Info*](pulverizer/pulverizer_pul-3r.md) 
@@ -53,6 +57,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7648/pulverizer-standard) 
 - **Battle Value:** 2506 
 - [*More Info*](pulverizer/pulverizer_standard.md) 

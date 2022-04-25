@@ -14,6 +14,8 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1025/falcon-flc-4nb-pp) 
 - **Battle Value:** 881 
 

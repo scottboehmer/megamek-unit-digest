@@ -18,6 +18,8 @@
   - Guardian ECM Suite 
   - Chameleon LPS 
   - Null-Signature System 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3002/spector-spr-4f) 
 - **Battle Value:** 1224 
 

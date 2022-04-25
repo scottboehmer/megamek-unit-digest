@@ -17,6 +17,9 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Command Console 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/288/battlemaster-blr-1g-dc) 
 - **Battle Value:** 1494 
 

@@ -19,6 +19,8 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1990/maelstrom-mtr-6k) 
 - **Battle Value:** 1678 
 

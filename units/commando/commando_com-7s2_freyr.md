@@ -18,6 +18,8 @@
   - Clan Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/677/commando-com-7s2-freyr) 
 - **Battle Value:** 1105 
 

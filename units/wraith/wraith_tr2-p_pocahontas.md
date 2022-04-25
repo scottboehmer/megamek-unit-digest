@@ -16,6 +16,8 @@
   - Hatchet 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8381/wraith-tr2-p-pocahontas) 
 - **Battle Value:** 2051 
 

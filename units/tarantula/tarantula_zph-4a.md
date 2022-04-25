@@ -15,6 +15,9 @@
 - **Equipment:** 
   - C3 Support 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Pilot 
+  - Extended Torso Twist 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3163/tarantula-zph-4a) 
 - **Battle Value:** 967 
 

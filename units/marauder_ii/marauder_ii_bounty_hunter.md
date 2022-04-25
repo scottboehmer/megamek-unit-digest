@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2053/marauder-ii-bounty-hunter) 
 - **Battle Value:** 3767 
 

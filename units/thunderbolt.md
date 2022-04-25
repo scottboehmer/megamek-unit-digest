@@ -15,6 +15,8 @@
   - Medium Laser × 3 
   - SRM 2 (ammo: 50) 
   - Machine Gun × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5237/thunderbolt-tdr-1c) 
 - **Battle Value:** 1237 
 - [*More Info*](thunderbolt/thunderbolt_tdr-1c.md) 

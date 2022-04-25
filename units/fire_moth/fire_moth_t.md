@@ -18,6 +18,8 @@
   - MASC 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7577/dasher-fire-moth-t) 
 - **Battle Value:** 1305 
 

@@ -14,6 +14,8 @@
   - Large Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6265/gravedigger-gdr-1c) 
 - **Battle Value:** 1342 
 - [*More Info*](gravedigger/gravedigger_gdr-1c.md) 
@@ -34,6 +36,8 @@
   - Angel ECM Suite 
   - Clan Active Probe 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6264/gravedigger-gdr-1d) 
 - **Battle Value:** 1707 
 - [*More Info*](gravedigger/gravedigger_gdr-1d.md) 

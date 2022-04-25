@@ -12,6 +12,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Gauss Rifle × 2 (ammo: 32) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1168/galahad-glh-2d) 
 - **Battle Value:** 1648 
 

@@ -14,6 +14,8 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2348/ostroc-osr-2c) 
 - **Battle Value:** 1228 
 

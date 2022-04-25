@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1483/hercules-hrc-ls-9000-julius) 
 - **Battle Value:** 1661 
 

@@ -17,6 +17,8 @@
   - Mace 
 - **Equipment:** 
   - Shoulder Turret 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4057/deep-lord-militiamech-rcl-z1m) 
 - **Battle Value:** 686 
 

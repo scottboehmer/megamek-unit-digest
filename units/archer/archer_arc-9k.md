@@ -15,6 +15,8 @@
   - MML 5 × 4 (ammo: 72 LRM, 60 SRM) 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/87/archer-arc-9k) 
 - **Battle Value:** 1391 
 

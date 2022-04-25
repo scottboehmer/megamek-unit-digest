@@ -16,6 +16,9 @@
   - Rocket 15 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7514/king-crab-kgc-011) 
 - **Battle Value:** 2406 
 

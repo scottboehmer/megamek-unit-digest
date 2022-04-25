@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1897/locust-lct-1e) 
 - **Battle Value:** 553 
 

@@ -19,6 +19,8 @@
   - AES 
   - Inner Sphere Supercharger 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7443/sojourner-prime) 
 - **Battle Value:** 2491 
 

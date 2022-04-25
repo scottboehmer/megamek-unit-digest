@@ -16,6 +16,8 @@
   - Plasma Rifle × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3294/trebaruna-tr-xl) 
 - **Battle Value:** 2244 
 

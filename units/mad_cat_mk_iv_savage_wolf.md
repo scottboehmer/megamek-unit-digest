@@ -14,6 +14,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6574/mad-cat-mk-iv-savage-wolf-pr-standard) 
 - **Battle Value:** 2702 
 - [*More Info*](savage_wolf/savage_wolf_pr.md) 
@@ -33,6 +35,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6575/mad-cat-mk-iv-savage-wolf-pr-2) 
 - **Battle Value:** 2666 
 - [*More Info*](savage_wolf/savage_wolf_pr_2.md) 
@@ -51,6 +55,8 @@
   - Streak SRM 6 × 4 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6570/mad-cat-mk-iv-savage-wolf-prime) 
 - **Battle Value:** 2681 
 - [*More Info*](savage_wolf/savage_wolf_prime.md) 
@@ -70,6 +76,8 @@
   - Small Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6571/mad-cat-mk-iv-savage-wolf-a) 
 - **Battle Value:** 2413 
 - [*More Info*](savage_wolf/savage_wolf_a.md) 
@@ -90,6 +98,8 @@
 - **Equipment:** 
   - CASE 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6572/mad-cat-mk-iv-savage-wolf-b) 
 - **Battle Value:** 2606 
 - [*More Info*](savage_wolf/savage_wolf_b.md) 
@@ -110,6 +120,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6573/mad-cat-mk-iv-savage-wolf-c) 
 - **Battle Value:** 2796 
 - [*More Info*](savage_wolf/savage_wolf_c.md) 

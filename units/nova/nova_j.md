@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Combat Computer 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #14 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8166/black-hawk-nova-j) 
 - **Battle Value:** 2052 
 

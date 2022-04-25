@@ -16,6 +16,8 @@
   - Medium Laser × 2 
   - Small Laser × 3 
   - Machine Gun × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/543/chameleon-cln-7v) 
 - **Battle Value:** 1042 
 

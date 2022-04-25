@@ -14,6 +14,8 @@
   - iNarc × 2 (ammo: 20) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/266/battle-cobra-btl-c-2oc) 
 - **Battle Value:** 726 
 

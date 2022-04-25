@@ -17,6 +17,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6341/centurion-cn11-oa) 
 - **Battle Value:** 1375 
 

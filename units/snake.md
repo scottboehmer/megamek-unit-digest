@@ -16,6 +16,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2974/snake-snk-1v) 
 - **Battle Value:** 980 
 - [*More Info*](snake/snake_snk-1v.md) 
@@ -36,6 +38,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2975/snake-snk-1v-alexi) 
 - **Battle Value:** 1316 
 - [*More Info*](snake/snake_snk-1v_alexi.md) 
@@ -57,6 +61,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - No Torso Twist 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2976/snake-snk-2b) 
 - **Battle Value:** 1081 
 - [*More Info*](snake/snake_snk-2b.md) 
@@ -79,6 +85,8 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - No Torso Twist 
 - **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6982/snake-arthur) 
 - **Battle Value:** 1477 
 - [*More Info*](snake/snake_arthur.md) 
@@ -100,6 +108,8 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2977/snake-snk-2br) 
 - **Battle Value:** 1577 
 - [*More Info*](snake/snake_snk-2br.md) 

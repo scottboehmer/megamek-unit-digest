@@ -16,6 +16,8 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4304/hellion-b) 
 - **Battle Value:** 1569 
 

@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1983/mad-cat-timber-wolf-f) 
 - **Battle Value:** 2764 
 

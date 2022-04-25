@@ -19,6 +19,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2798/sasquatch-sqs-th-001) 
 - **Battle Value:** 1940 
 

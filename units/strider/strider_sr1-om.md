@@ -13,6 +13,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Main × 2 
+- **Design Quirks:** 
+  - Easy to Pilot 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6916/strider-sr1-om) 
 - **Battle Value:** 607 
 

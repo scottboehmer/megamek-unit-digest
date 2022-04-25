@@ -17,6 +17,8 @@
   - Lance 
 - **Equipment:** 
   - Spikes × 3 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1363/hachiwara-hca-6p) 
 - **Battle Value:** 2385 
 

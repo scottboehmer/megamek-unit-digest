@@ -18,6 +18,8 @@
   - Active Probe 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1384/hankyu-arctic-cheetah-prime) 
 - **Battle Value:** 1334 
 - [*More Info*](arctic_cheetah/arctic_cheetah_prime.md) 
@@ -37,6 +39,8 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1378/hankyu-arctic-cheetah-a) 
 - **Battle Value:** 1117 
 - [*More Info*](arctic_cheetah/arctic_cheetah_a.md) 
@@ -57,6 +61,8 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1379/hankyu-arctic-cheetah-b) 
 - **Battle Value:** 1076 
 - [*More Info*](arctic_cheetah/arctic_cheetah_b.md) 
@@ -76,6 +82,8 @@
   - Flamer 
 - **Equipment:** 
   - Active Probe 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1380/hankyu-arctic-cheetah-c) 
 - **Battle Value:** 1840 
 - [*More Info*](arctic_cheetah/arctic_cheetah_c.md) 
@@ -94,6 +102,8 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1381/hankyu-arctic-cheetah-d) 
 - **Battle Value:** 1080 
 - [*More Info*](arctic_cheetah/arctic_cheetah_d.md) 
@@ -112,6 +122,8 @@
   - Heavy Medium Laser 
   - Heavy Small Laser × 2 
   - Flamer 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1383/hankyu-arctic-cheetah-h) 
 - **Battle Value:** 1264 
 - [*More Info*](arctic_cheetah/arctic_cheetah_h.md) 
@@ -133,6 +145,8 @@
   - Machine Gun Array × 2 
   - Inner Sphere B-Pod × 2 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #21 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1382/hankyu-arctic-cheetah-e) 
 - **Battle Value:** 1081 
 - [*More Info*](arctic_cheetah/arctic_cheetah_e.md) 
@@ -154,6 +168,8 @@
   - Watchdog CEWS 
   - Light TAG 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #21 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6940/hankyu-arctic-cheetah-f) 
 - **Battle Value:** 1394 
 - [*More Info*](arctic_cheetah/arctic_cheetah_f.md) 
@@ -174,6 +190,8 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8350/hankyu-arctic-cheetah-i) 
 - **Battle Value:** 1299 
 - [*More Info*](arctic_cheetah/arctic_cheetah_i.md) 
@@ -194,6 +212,8 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8351/hankyu-arctic-cheetah-j) 
 - **Battle Value:** 1179 
 - [*More Info*](arctic_cheetah/arctic_cheetah_j.md) 
@@ -214,6 +234,8 @@
 - **Equipment:** 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8349/hankyu-arctic-cheetah-t) 
 - **Battle Value:** 1429 
 - [*More Info*](arctic_cheetah/arctic_cheetah_t.md) 

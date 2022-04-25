@@ -15,6 +15,9 @@
   - Ultra AC/10 (ammo: 10) 
   - ER Small Laser 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3358/urbanmech-um-r69) 
 - **Battle Value:** 589 
 

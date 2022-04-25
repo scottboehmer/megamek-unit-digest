@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - Clan CASE II 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6837/hauptmann-ha1-ot) 
 - **Battle Value:** 3031 
 

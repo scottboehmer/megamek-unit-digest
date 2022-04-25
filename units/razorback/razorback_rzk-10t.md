@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Heavy PPC 
   - ER Small Laser × 4 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5662/razorback-rzk-10t) 
 - **Battle Value:** 1172 
 

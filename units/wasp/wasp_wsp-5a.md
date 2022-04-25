@@ -17,6 +17,8 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7495/wasp-wsp-5a) 
 - **Battle Value:** 517 
 

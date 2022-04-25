@@ -15,6 +15,7 @@
   - Large Pulse Laser × 2 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - Extended Torso Twist 
   - Improved Targeting (Medium) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/51/anvil-anv-5q) 
 - **Battle Value:** 1336 

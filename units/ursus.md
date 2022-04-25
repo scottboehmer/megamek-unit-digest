@@ -17,6 +17,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3363/ursus-standard) 
 - **Battle Value:** 1778 
 - [*More Info*](ursus/ursus_standard.md) 
@@ -37,6 +39,8 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3364/ursus-2) 
 - **Battle Value:** 2054 
 - [*More Info*](ursus/ursus_2.md) 
@@ -57,6 +61,8 @@
 - **Equipment:** 
   - CASE II 
   - Inner Sphere C3i 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5330/ursus-pr) 
 - **Battle Value:** 1194 
 - [*More Info*](ursus/ursus_pr.md) 
@@ -77,6 +83,8 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - CASE II 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5329/ursus-3) 
 - **Battle Value:** 1284 
 - [*More Info*](ursus/ursus_3.md) 

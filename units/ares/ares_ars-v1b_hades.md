@@ -23,6 +23,8 @@
 - **Equipment:** 
   - A-Pod × 6 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6687/ares-ars-v1b-hades) 
 - **Battle Value:** 2839 
 

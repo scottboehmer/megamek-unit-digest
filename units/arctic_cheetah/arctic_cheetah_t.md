@@ -18,6 +18,8 @@
 - **Equipment:** 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8349/hankyu-arctic-cheetah-t) 
 - **Battle Value:** 1429 
 

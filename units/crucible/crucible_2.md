@@ -18,6 +18,9 @@
 - **Equipment:** 
   - CASE 
   - Inner Sphere Coolant Pod 
+- **Design Quirks:** 
+  - Protected Actuators 
+  - Oversized 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7735/crucible-2) 
 - **Battle Value:** 3598 
 

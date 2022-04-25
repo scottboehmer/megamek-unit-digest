@@ -17,6 +17,8 @@
   - ER Medium Laser × 5 
   - Mace 
   - Claw 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/768/cudgel-cdg-2b) 
 - **Battle Value:** 1762 
 

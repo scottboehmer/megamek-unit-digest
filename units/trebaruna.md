@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3292/trebaruna-tr-xb) 
 - **Battle Value:** 2223 
 - [*More Info*](trebaruna/trebaruna_tr-xb.md) 
@@ -35,6 +37,8 @@
   - Snub-Nose PPC × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3293/trebaruna-tr-xj) 
 - **Battle Value:** 2270 
 - [*More Info*](trebaruna/trebaruna_tr-xj.md) 
@@ -53,6 +57,8 @@
   - Plasma Rifle × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3294/trebaruna-tr-xl) 
 - **Battle Value:** 2244 
 - [*More Info*](trebaruna/trebaruna_tr-xl.md) 
@@ -71,6 +77,8 @@
   - ER PPC 
 - **Equipment:** 
   - Quad Turret 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6834/trebaruna-tr-xh) 
 - **Battle Value:** 2453 
 - [*More Info*](trebaruna/trebaruna_tr-xh.md) 

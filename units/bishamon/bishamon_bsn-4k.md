@@ -16,6 +16,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/333/bishamon-bsn-4k) 
 - **Battle Value:** 1105 
 

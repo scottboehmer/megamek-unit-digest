@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Medium Laser 
   - Streak SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1077/fireball-alm-9d) 
 - **Battle Value:** 527 
 

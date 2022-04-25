@@ -17,6 +17,8 @@
   - Small Laser 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1988/maelstrom-mtr-5k) 
 - **Battle Value:** 1694 
 

@@ -15,6 +15,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3838/bloodhound-b1-hnd) 
 - **Battle Value:** 1248 
 - [*More Info*](bloodhound/bloodhound_b1-hnd.md) 
@@ -35,6 +37,8 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3839/bloodhound-b2-hnd) 
 - **Battle Value:** 1363 
 - [*More Info*](bloodhound/bloodhound_b2-hnd.md) 
@@ -54,6 +58,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - B-Pod 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5671/bloodhound-b3-hnd) 
 - **Battle Value:** 1005 
 - [*More Info*](bloodhound/bloodhound_b3-hnd.md) 

@@ -18,6 +18,7 @@
 - **Equipment:** 
   - CASE II 
 - **Design Quirks:** 
+  - Difficult to Maintain 
   - Improved Targeting (Long) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6634/viking-iic-standard) 
 - **Battle Value:** 2780 

@@ -13,6 +13,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Heavy Large Laser × 2 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/722/crimson-hawk-2) 
 - **Battle Value:** 1271 
 

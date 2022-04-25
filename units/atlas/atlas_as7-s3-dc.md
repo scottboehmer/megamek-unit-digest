@@ -18,6 +18,8 @@
   - Anti-Missile System (ammo: 12) 
   - Command Console 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #24 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8437/atlas-as7-s3-dc) 
 - **Battle Value:** 2278 
 

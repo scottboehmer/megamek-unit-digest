@@ -17,6 +17,9 @@
   - Rocket 20 × 4 
   - Rocket 15 × 6 
   - Rocket 10 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h) 
 - **Battle Value:** 2180 
 

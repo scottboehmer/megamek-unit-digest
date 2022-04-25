@@ -16,6 +16,8 @@
   - Guardian ECM Suite 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1491/hermes-her-3s2) 
 - **Battle Value:** 600 
 

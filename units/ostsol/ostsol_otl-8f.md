@@ -14,6 +14,8 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f) 
 - **Battle Value:** 1698 
 

@@ -14,6 +14,8 @@
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/77/archer-arc-2w) 
 - **Battle Value:** 1338 
 

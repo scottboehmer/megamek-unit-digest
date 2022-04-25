@@ -13,6 +13,8 @@
 - **Weapons:** 
   - PPC × 2 
   - Large Laser × 2 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1167/galahad-glh-1d) 
 - **Battle Value:** 1307 
 

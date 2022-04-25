@@ -16,6 +16,8 @@
   - Large Laser 
   - LRM 10 (ammo: 12) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3627/yu-huang-y-h9gb) 
 - **Battle Value:** 2039 
 

@@ -16,6 +16,8 @@
   - Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2321/onslaught-sa-os) 
 - **Battle Value:** 1562 
 - [*More Info*](onslaught/onslaught_sa-os.md) 
@@ -37,6 +39,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2322/onslaught-sa-os2) 
 - **Battle Value:** 1693 
 - [*More Info*](onslaught/onslaught_sa-os2.md) 
@@ -57,6 +61,8 @@
   - Machine Gun × 6 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2323/onslaught-sa-os3) 
 - **Battle Value:** 1659 
 - [*More Info*](onslaught/onslaught_sa-os3.md) 

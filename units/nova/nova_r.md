@@ -19,6 +19,8 @@
   - Supercharger 
 - **Design Quirks:** 
   - Combat Computer 
+  - Narrow/Low Profile 
+  - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8169/black-hawk-nova-r) 
 - **Battle Value:** 1597 
 

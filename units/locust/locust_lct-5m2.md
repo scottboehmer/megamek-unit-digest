@@ -13,6 +13,9 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - Weak Legs 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6947/locust-lct-5m2) 
 - **Battle Value:** 693 
 

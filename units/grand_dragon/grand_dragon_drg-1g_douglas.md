@@ -15,6 +15,9 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1257/grand-dragon-drg-1g-douglas) 
 - **Battle Value:** 1076 
 

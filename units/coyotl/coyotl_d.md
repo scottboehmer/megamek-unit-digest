@@ -19,6 +19,8 @@
   - Targeting Computer 
   - Supercharger 
   - TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7608/coyotl-d) 
 - **Battle Value:** 1980 
 

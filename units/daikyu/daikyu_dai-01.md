@@ -17,6 +17,8 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/797/daikyu-dai-01) 
 - **Battle Value:** 1603 
 

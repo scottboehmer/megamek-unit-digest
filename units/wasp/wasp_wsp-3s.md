@@ -17,6 +17,8 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3529/wasp-wsp-3s) 
 - **Battle Value:** 595 
 

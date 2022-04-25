@@ -13,6 +13,10 @@
   - Gauss Rifle (ammo: 16) 
   - ER Medium Laser × 4 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1708/jinggau-jn-g8a) 
 - **Battle Value:** 2072 
 - [*More Info*](jinggau/jinggau_jn-g8a.md) 
@@ -29,6 +33,10 @@
 - **Weapons:** 
   - Plasma Rifle × 2 (ammo: 30) 
   - Medium Laser × 6 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1707/jinggau-jn-g7l) 
 - **Battle Value:** 2137 
 - [*More Info*](jinggau/jinggau_jn-g7l.md) 
@@ -50,6 +58,10 @@
 - **Equipment:** 
   - C3 Support 
   - TAG 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
+  - Weak Head Armor (2) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1709/jinggau-jn-g8bx-rush) 
 - **Battle Value:** 1337 
 - [*More Info*](jinggau/jinggau_jn-g8bx_rush.md) 
@@ -72,6 +84,10 @@
   - Beagle Active Probe 
   - Command Console 
   - MASC 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+  - No Torso Twist 
+  - Weak Head Armor (2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1710/jinggau-jn-g9cc) 
 - **Battle Value:** 1656 
 - [*More Info*](jinggau/jinggau_jn-g9cc.md) 

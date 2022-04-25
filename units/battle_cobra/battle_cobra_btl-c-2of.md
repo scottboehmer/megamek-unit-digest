@@ -14,6 +14,8 @@
   - Plasma Rifle × 2 (ammo: 30) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/269/battle-cobra-btl-c-2of) 
 - **Battle Value:** 1300 
 

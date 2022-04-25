@@ -17,6 +17,8 @@
   - Inner Sphere Null-Signature System 
   - Inner Sphere Chameleon LPS 
   - TAG 
+- **Design Quirks:** 
+  - Difficult to Maintain 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3929/cephalus-a) 
 - **Battle Value:** 809 
 

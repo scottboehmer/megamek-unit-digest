@@ -17,6 +17,8 @@
 - **Equipment:** 
   - AES × 2 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6680/doloire-dlr-ob) 
 - **Battle Value:** 2836 
 

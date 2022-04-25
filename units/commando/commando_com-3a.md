@@ -14,6 +14,8 @@
   - SRM 6 × 2 (ammo: 15) 
   - Medium Laser 
   - Flamer 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/672/commando-com-3a) 
 - **Battle Value:** 540 
 

@@ -15,6 +15,8 @@
   - AC/20 (ammo: 10) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/140/atlas-as7-d) 
 - **Battle Value:** 1897 
 

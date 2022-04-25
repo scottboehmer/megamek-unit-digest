@@ -16,6 +16,7 @@
   - Clan Medium Pulse Laser 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8417/lancelot-lnc25-09) 
 - **Battle Value:** 2099 
 

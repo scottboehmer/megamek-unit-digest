@@ -19,6 +19,8 @@
   - Small Shield 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Protected Actuators 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3368/valiant-v4-lnt-j3) 
 - **Battle Value:** 926 
 

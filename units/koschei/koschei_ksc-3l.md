@@ -14,6 +14,8 @@
   - LRM 15 (ammo: 16) 
   - Large Laser 
   - Medium Laser 
+- **Design Quirks:** 
+  - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1821/koschei-ksc-3l) 
 - **Battle Value:** 1384 
 

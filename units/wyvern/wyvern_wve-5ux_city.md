@@ -19,6 +19,8 @@
   - Command Console 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Command ’Mech 
 - **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7319/wyvern-city-wve-5ux) 
 - **Battle Value:** 1273 
 

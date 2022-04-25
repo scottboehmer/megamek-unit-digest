@@ -12,6 +12,9 @@
 - **Weapons:** 
   - AC/10 (ammo: 10) 
   - Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3354/urbanmech-um-r60) 
 - **Battle Value:** 504 
 - [*More Info*](urbanmech/urbanmech_um-r60.md) 
@@ -28,6 +31,9 @@
 - **Weapons:** 
   - AC/20 (ammo: 5) 
   - Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3355/urbanmech-um-r60l) 
 - **Battle Value:** 470 
 - [*More Info*](urbanmech/urbanmech_um-r60l.md) 
@@ -45,6 +51,9 @@
   - LB 10-X AC (ammo: 10) 
   - Small Pulse Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3356/urbanmech-um-r63) 
 - **Battle Value:** 540 
 - [*More Info*](urbanmech/urbanmech_um-r63.md) 
@@ -62,6 +71,9 @@
   - Ultra AC/10 (ammo: 10) 
   - ER Small Laser 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3358/urbanmech-um-r69) 
 - **Battle Value:** 589 
 - [*More Info*](urbanmech/urbanmech_um-r69.md) 
@@ -79,6 +91,9 @@
   - MRM 30 (ammo: 16) 
   - Small Pulse Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3357/urbanmech-um-r68) 
 - **Battle Value:** 561 
 - [*More Info*](urbanmech/urbanmech_um-r68.md) 
@@ -96,6 +111,9 @@
   - RAC/5 (ammo: 40) 
   - ER Medium Laser 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3359/urbanmech-um-r70) 
 - **Battle Value:** 724 
 - [*More Info*](urbanmech/urbanmech_um-r70.md) 
@@ -114,6 +132,9 @@
 - **Weapons:** 
   - Arrow IV (ammo: 10) 
   - ER Medium Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3353/urbanmech-um-aiv) 
 - **Battle Value:** 603 
 - [*More Info*](urbanmech/urbanmech_um-aiv.md) 
@@ -135,6 +156,9 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3360/urbanmech-um-r80) 
 - **Battle Value:** 699 
 - [*More Info*](urbanmech/urbanmech_um-r80.md) 
@@ -152,6 +176,9 @@
   - Plasma Rifle (ammo: 10) 
   - ER Medium Laser 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7344/urbanmech-um-r93) 
 - **Battle Value:** 894 
 - [*More Info*](urbanmech/urbanmech_um-r93.md) 
@@ -168,6 +195,9 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - Small X-Pulse Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #2 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7453/urbanmech-um-r96) 
 - **Battle Value:** 773 
 - [*More Info*](urbanmech/urbanmech_um-r96.md) 

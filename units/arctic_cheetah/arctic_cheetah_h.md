@@ -16,6 +16,8 @@
   - Heavy Medium Laser 
   - Heavy Small Laser × 2 
   - Flamer 
+- **Design Quirks:** 
+  - Protected Actuators 
 - **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1383/hankyu-arctic-cheetah-h) 
 - **Battle Value:** 1264 
 
