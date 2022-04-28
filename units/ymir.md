@@ -15,6 +15,8 @@
   - LRM 5 × 2 (ammo: 24) 
   - SRM 2 × 4 (ammo: 100) 
   - Vehicle Flamer × 2 (ammo: 20) 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3623/ymir-bwp-x1-bipedal-weapons-platform) 
 - **Battle Value:** 1194 
 - [*More Info*](ymir/ymir_bwp-x1_bipedal_weapons_platform.md) 
@@ -33,6 +35,8 @@
   - LRM 5 × 2 (ammo: 24) 
   - SRM 2 × 4 (ammo: 50) 
   - Small Laser 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3620/ymir-bwp-2b) 
 - **Battle Value:** 1289 
 - [*More Info*](ymir/ymir_bwp-2b.md) 
@@ -49,6 +53,8 @@
   - PPC × 2 
   - LRM 10 (ammo: 12) 
   - SRM 6 (ammo: 15) 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5429/ymir-bwp-2e) 
 - **Battle Value:** 1393 
 - [*More Info*](ymir/ymir_bwp-2e.md) 
@@ -66,6 +72,8 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3622/ymir-bwp-3a) 
 - **Battle Value:** 1491 
 - [*More Info*](ymir/ymir_bwp-3a.md) 

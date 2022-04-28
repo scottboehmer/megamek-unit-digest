@@ -14,6 +14,9 @@
   - Sniper (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Reinforced Legs 
+  - Stable 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1460/helepolis-hep-1h) 
 - **Battle Value:** 1063 
 - [*More Info*](helepolis/helepolis_hep-1h.md) 
@@ -34,6 +37,9 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Reinforced Legs 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1461/helepolis-hep-2h) 
 - **Battle Value:** 1369 
 - [*More Info*](helepolis/helepolis_hep-2h.md) 
@@ -54,6 +60,9 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Reinforced Legs 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1462/helepolis-hep-3h) 
 - **Battle Value:** 1380 
 - [*More Info*](helepolis/helepolis_hep-3h.md) 
@@ -74,6 +83,9 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Reinforced Legs 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1463/helepolis-hep-4h) 
 - **Battle Value:** 1366 
 - [*More Info*](helepolis/helepolis_hep-4h.md) 

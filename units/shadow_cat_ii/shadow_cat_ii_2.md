@@ -19,6 +19,7 @@
   - Partial Wing 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2893/shadow-cat-ii-2) 
 - **Battle Value:** 2106 

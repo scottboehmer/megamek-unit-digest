@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1257/grand-dragon-drg-1g-douglas) 
 - **Battle Value:** 1076 
 

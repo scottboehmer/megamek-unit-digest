@@ -12,6 +12,10 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Laser × 5 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/559/charger-cgr-1a1) 
 - **Battle Value:** 981 
 

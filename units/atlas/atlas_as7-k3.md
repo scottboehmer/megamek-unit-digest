@@ -20,6 +20,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/146/atlas-as7-k3) 
 - **Battle Value:** 2346 
 

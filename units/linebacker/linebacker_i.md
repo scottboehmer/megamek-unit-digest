@@ -19,6 +19,7 @@
   - CASE 
   - Supercharger 
 - **Design Quirks:** 
+  - Stable 
   - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7525/linebacker-i) 
 - **Battle Value:** 1853 

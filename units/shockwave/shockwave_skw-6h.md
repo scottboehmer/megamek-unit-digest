@@ -17,6 +17,9 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Battlefists 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6903/shockwave-skw-6h) 
 - **Battle Value:** 1364 
 

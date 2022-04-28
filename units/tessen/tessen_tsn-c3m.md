@@ -17,6 +17,8 @@
 - **Equipment:** 
   - MASC 
   - C3 Main 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5678/tessen-tsn-c3m) 
 - **Battle Value:** 1547 
 

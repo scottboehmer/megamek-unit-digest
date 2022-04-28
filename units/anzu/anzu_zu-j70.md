@@ -19,6 +19,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Improved Life Support 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6511/anzu-zu-j70) 
 - **Battle Value:** 1680 
 

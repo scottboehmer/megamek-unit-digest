@@ -16,6 +16,8 @@
   - Medium Laser 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1126/flashman-fls-9c) 
 - **Battle Value:** 1779 
 

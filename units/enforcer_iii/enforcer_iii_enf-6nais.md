@@ -19,6 +19,8 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/984/enforcer-iii-enf-6nais) 
 - **Battle Value:** 1475 
 

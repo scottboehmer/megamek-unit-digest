@@ -19,6 +19,9 @@
   - Beagle Active Probe 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2167/men-shen-ms1-ou) 
 - **Battle Value:** 1725 
 

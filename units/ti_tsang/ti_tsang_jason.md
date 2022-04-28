@@ -17,6 +17,8 @@
   - Medium Pulse Laser × 3 
   - Hatchet 
   - Small Pulse Laser × 4 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** BD: Jason Zaklan - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7395/ti-tsang-tsg-9h-jason) 
 - **Battle Value:** 1641 
 

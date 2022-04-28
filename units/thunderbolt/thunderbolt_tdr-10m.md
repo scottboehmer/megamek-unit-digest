@@ -17,6 +17,9 @@
   - Light PPC 
   - ER Medium Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3232/thunderbolt-tdr-10m) 
 - **Battle Value:** 1727 
 

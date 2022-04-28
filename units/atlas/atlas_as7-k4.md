@@ -19,6 +19,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6832/atlas-as7-k4) 
 - **Battle Value:** 2153 
 

@@ -17,6 +17,8 @@
   - Small Laser 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2743/rook-nh-3x) 
 - **Battle Value:** 1746 
 

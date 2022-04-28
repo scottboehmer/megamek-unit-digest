@@ -20,6 +20,8 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2707/rifleman-rfl-9t) 
 - **Battle Value:** 1503 
 

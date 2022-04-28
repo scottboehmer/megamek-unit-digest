@@ -19,6 +19,9 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3249/thunderbolt-tdr-9s) 
 - **Battle Value:** 1494 
 

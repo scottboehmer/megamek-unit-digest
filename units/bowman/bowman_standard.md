@@ -18,6 +18,9 @@
   - ECM Suite 
   - A-Pod × 4 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
+  - Bad Reputation (Clan) 
 - **Sources:** RS 3068 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/3857/bowman-standard) 
 - **Battle Value:** 2209 
 

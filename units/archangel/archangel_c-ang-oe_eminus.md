@@ -22,6 +22,9 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/70/archangel-c-ang-oe-eminus) 
 - **Battle Value:** 2097 
 

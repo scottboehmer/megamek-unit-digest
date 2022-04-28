@@ -14,6 +14,8 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1064/fire-falcon-b) 
 - **Battle Value:** 1570 
 

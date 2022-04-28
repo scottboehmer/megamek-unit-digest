@@ -18,6 +18,10 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6868/warhammer-whm-8d2) 
 - **Battle Value:** 1654 
 

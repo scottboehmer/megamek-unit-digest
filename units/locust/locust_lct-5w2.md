@@ -18,7 +18,9 @@
   - TAG 
   - MASC 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1912/locust-lct-5w2) 
 - **Battle Value:** 787 

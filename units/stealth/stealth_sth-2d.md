@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3054/stealth-sth-2d) 
 - **Battle Value:** 1508 
 

@@ -19,6 +19,8 @@
   - CASE 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5711/templar-tlr1-oh) 
 - **Battle Value:** 1958 
 

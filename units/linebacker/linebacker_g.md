@@ -17,6 +17,7 @@
   - Targeting Computer 
   - Supercharger 
 - **Design Quirks:** 
+  - Stable 
   - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6880/linebacker-g) 
 - **Battle Value:** 2433 

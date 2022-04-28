@@ -16,6 +16,8 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2394/pack-hunter-3) 
 - **Battle Value:** 1747 
 

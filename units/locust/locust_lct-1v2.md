@@ -14,7 +14,9 @@
   - Medium Laser 
   - Rocket 10 × 4 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1902/locust-lct-1v2) 
 - **Battle Value:** 568 

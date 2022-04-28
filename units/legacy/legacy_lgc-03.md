@@ -19,6 +19,8 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/4490/legacy-lgc-03) 
 - **Battle Value:** 2121 
 

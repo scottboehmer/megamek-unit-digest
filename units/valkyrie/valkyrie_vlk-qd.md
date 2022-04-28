@@ -16,6 +16,9 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #9 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3373/valkyrie-vlk-qd) 
 - **Battle Value:** 807 
 

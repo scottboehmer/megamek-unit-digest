@@ -15,6 +15,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4790/pathfinder-pff-2) 
 - **Battle Value:** 452 
 

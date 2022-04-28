@@ -18,6 +18,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1567/hunchback-hbk-7x-4) 
 - **Battle Value:** 1208 
 

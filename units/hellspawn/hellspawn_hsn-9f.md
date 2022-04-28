@@ -14,6 +14,8 @@
 - **Weapons:** 
   - MRM 20 × 2 (ammo: 24) 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4309/hellspawn-hsn-9f) 
 - **Battle Value:** 1118 
 

@@ -19,6 +19,9 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - MASC 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3235/thunderbolt-tdr-10se) 
 - **Battle Value:** 2008 
 

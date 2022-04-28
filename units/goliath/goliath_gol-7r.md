@@ -16,6 +16,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8408/goliath-gol-7r) 
 - **Battle Value:** 1888 
 

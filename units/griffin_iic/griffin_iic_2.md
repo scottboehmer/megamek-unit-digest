@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1311/griffin-iic-2) 
 - **Battle Value:** 1516 
 

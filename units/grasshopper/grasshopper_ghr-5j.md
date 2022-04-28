@@ -17,6 +17,8 @@
   - Streak SRM 2 (ammo: 100) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1268/grasshopper-ghr-5j) 
 - **Battle Value:** 1354 
 

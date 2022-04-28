@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/218/bandersnatch-bndr-01ar) 
 - **Battle Value:** 1522 
 

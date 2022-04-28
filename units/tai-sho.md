@@ -14,6 +14,8 @@
 - **Equipment:** 
   - C3 Main × 2 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3150/tai-sho-tsh-7s) 
 - **Battle Value:** 1774 
 - [*More Info*](tai-sho/tai-sho_tsh-7s.md) 
@@ -33,6 +35,8 @@
 - **Equipment:** 
   - C3 Support 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3151/tai-sho-tsh-8s) 
 - **Battle Value:** 2001 
 - [*More Info*](tai-sho/tai-sho_tsh-8s.md) 

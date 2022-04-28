@@ -15,6 +15,9 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/140/atlas-as7-d) 
 - **Battle Value:** 1897 
 - [*More Info*](atlas/atlas_as7-d.md) 
@@ -36,6 +39,9 @@
   - Command Console 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/142/atlas-as7-d-dc) 
 - **Battle Value:** 1858 
 - [*More Info*](atlas/atlas_as7-d-dc.md) 
@@ -57,6 +63,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c) 
 - **Battle Value:** 2340 
 - [*More Info*](atlas/atlas_c.md) 
@@ -79,6 +88,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/8431/atlas-c-2) 
 - **Battle Value:** 2736 
 - [*More Info*](atlas/atlas_c_2.md) 
@@ -99,6 +111,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/8432/atlas-c-3) 
 - **Battle Value:** 2534 
 - [*More Info*](atlas/atlas_c_3.md) 
@@ -118,6 +133,9 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/147/atlas-as7-rs) 
 - **Battle Value:** 1849 
 - [*More Info*](atlas/atlas_as7-rs.md) 
@@ -137,6 +155,9 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7433/atlas-as7-a) 
 - **Battle Value:** 1787 
 - [*More Info*](atlas/atlas_as7-a.md) 
@@ -154,6 +175,9 @@
   - PPC × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/150/atlas-as7-wgs-samsonov) 
 - **Battle Value:** 1884 
 - [*More Info*](atlas/atlas_as7-wgs_samsonov.md) 
@@ -172,6 +196,9 @@
   - Medium Laser × 6 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/141/atlas-as7-d-danielle) 
 - **Battle Value:** 1976 
 - [*More Info*](atlas/atlas_as7-d_danielle.md) 
@@ -194,6 +221,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/144/atlas-as7-k) 
 - **Battle Value:** 2175 
 - [*More Info*](atlas/atlas_as7-k.md) 
@@ -217,6 +247,9 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/138/atlas-as7-c) 
 - **Battle Value:** 2163 
 - [*More Info*](atlas/atlas_as7-c.md) 
@@ -240,6 +273,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/139/atlas-as7-cm) 
 - **Battle Value:** 2036 
 - [*More Info*](atlas/atlas_as7-cm.md) 
@@ -263,6 +299,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3749/atlas-as7-k-dc) 
 - **Battle Value:** 2158 
 - [*More Info*](atlas/atlas_as7-k-dc.md) 
@@ -283,6 +322,9 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/148/atlas-as7-s) 
 - **Battle Value:** 1929 
 - [*More Info*](atlas/atlas_as7-s.md) 
@@ -304,6 +346,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/149/atlas-as7-s2) 
 - **Battle Value:** 2389 
 - [*More Info*](atlas/atlas_as7-s2.md) 
@@ -327,6 +372,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5461/atlas-as7-s3) 
 - **Battle Value:** 2378 
 - [*More Info*](atlas/atlas_as7-s3.md) 
@@ -349,6 +397,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8437/atlas-as7-s3-dc) 
 - **Battle Value:** 2278 
 - [*More Info*](atlas/atlas_as7-s3-dc.md) 
@@ -371,6 +422,9 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/143/atlas-as7-dr) 
 - **Battle Value:** 2101 
 - [*More Info*](atlas/atlas_as7-dr.md) 
@@ -395,6 +449,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/151/atlas-as8-d) 
 - **Battle Value:** 2432 
 - [*More Info*](atlas/atlas_as8-d.md) 
@@ -420,6 +477,9 @@
   - Remote Sensor Dispenser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5564/atlas-as7-00-jurn) 
 - **Battle Value:** 2053 
 - [*More Info*](atlas/atlas_as7-00_jurn.md) 
@@ -441,6 +501,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/145/atlas-as7-k2) 
 - **Battle Value:** 2160 
 - [*More Info*](atlas/atlas_as7-k2.md) 
@@ -461,6 +524,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** DTP Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/5541/atlas-as7-k2-jedra) 
 - **Battle Value:** 1971 
 - [*More Info*](atlas/atlas_as7-k2_jedra.md) 
@@ -483,6 +549,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/146/atlas-as7-k3) 
 - **Battle Value:** 2346 
 - [*More Info*](atlas/atlas_as7-k3.md) 
@@ -504,6 +573,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6832/atlas-as7-k4) 
 - **Battle Value:** 2153 
 - [*More Info*](atlas/atlas_as7-k4.md) 
@@ -526,6 +598,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8436/atlas-as7-s4) 
 - **Battle Value:** 2568 
 - [*More Info*](atlas/atlas_as7-s4.md) 
@@ -550,6 +625,9 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8433/atlas-as8-s) 
 - **Battle Value:** 2789 
 - [*More Info*](atlas/atlas_as8-s.md) 
@@ -573,6 +651,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8435/atlas-as8-k) 
 - **Battle Value:** 2668 
 - [*More Info*](atlas/atlas_as8-k.md) 
@@ -594,6 +675,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8434/atlas-as8-ke) 
 - **Battle Value:** 2658 
 - [*More Info*](atlas/atlas_as8-ke.md) 

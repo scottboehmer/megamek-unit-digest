@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5193/templar-tlr1-o-tancred) 
 - **Battle Value:** 2273 
 

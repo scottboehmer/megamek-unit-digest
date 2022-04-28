@@ -16,6 +16,9 @@
   - Flamer 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1137/flea-fle-17) 
 - **Battle Value:** 510 
 

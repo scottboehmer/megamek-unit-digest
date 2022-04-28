@@ -17,6 +17,8 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1341/guillotine-glt-5m) 
 - **Battle Value:** 1472 
 

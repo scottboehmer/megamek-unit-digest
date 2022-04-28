@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5710/templar-tlr1-og) 
 - **Battle Value:** 1632 
 

@@ -17,6 +17,8 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5458/victor-vtr-10s) 
 - **Battle Value:** 2034 
 

@@ -17,6 +17,10 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2000/malak-c-mk-os-caelestis) 
 - **Battle Value:** 1121 
 

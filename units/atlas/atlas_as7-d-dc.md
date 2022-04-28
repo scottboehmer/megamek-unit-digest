@@ -19,6 +19,9 @@
   - Command Console 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/142/atlas-as7-d-dc) 
 - **Battle Value:** 1858 
 

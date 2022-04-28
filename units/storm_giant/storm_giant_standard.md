@@ -17,6 +17,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7649/storm-giant-standard) 
 - **Battle Value:** 2676 

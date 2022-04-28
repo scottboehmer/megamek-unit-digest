@@ -23,6 +23,8 @@
   - Beagle Active Probe 
   - Remote Sensor Dispenser 
   - C3i 
+- **Design Quirks:** 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5721/vanquisher-vqr-7u) 
 - **Battle Value:** 2144 
 

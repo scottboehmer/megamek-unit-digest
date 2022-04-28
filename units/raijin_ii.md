@@ -19,6 +19,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2628/raijin-ii-rjn-200-a) 
 - **Battle Value:** 1763 
 - [*More Info*](raijin_ii/raijin_ii_rjn-200-a.md) 
@@ -42,6 +43,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2629/raijin-ii-rjn-200-b) 
 - **Battle Value:** 1439 
 - [*More Info*](raijin_ii/raijin_ii_rjn-200-b.md) 
@@ -64,6 +66,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2630/raijin-ii-rjn-200-c) 
 - **Battle Value:** 1754 
 - [*More Info*](raijin_ii/raijin_ii_rjn-200-c.md) 

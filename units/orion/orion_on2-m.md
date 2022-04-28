@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2338/orion-on2-m) 
 - **Battle Value:** 1828 
 

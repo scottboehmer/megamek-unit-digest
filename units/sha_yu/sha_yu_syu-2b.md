@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5026/sha-yu-syu-2b) 
 - **Battle Value:** 1379 
 

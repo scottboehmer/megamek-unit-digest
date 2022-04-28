@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Coolant Pod 
+- **Design Quirks:** 
+  - Improved Life Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6825/xanthos-xnt-6o) 
 - **Battle Value:** 2320 
 

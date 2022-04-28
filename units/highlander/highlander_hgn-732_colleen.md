@@ -20,6 +20,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Cowl 
+  - Reinforced Legs 
+  - Difficult Ejection 
 - **Sources:** Historical: Operation Klondike - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4323/highlander-hgn-732-colleen) 
 - **Battle Value:** 2150 
 

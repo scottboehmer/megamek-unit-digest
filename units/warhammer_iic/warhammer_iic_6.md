@@ -16,6 +16,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
+  - Stable 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3505/warhammer-iic-6) 
 - **Battle Value:** 2661 
 

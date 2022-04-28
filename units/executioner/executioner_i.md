@@ -20,6 +20,8 @@
   - CASE 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6840/gladiator-executioner-i) 
 - **Battle Value:** 3339 
 

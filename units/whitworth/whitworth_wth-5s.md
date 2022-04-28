@@ -20,6 +20,7 @@
   - CASE II 
   - Supercharger 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3544/whitworth-wth-5s) 
 - **Battle Value:** 1230 

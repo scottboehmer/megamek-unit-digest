@@ -14,6 +14,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/391/blade-bld-xl) 
 - **Battle Value:** 1314 
 - [*More Info*](blade/blade_bld-xl.md) 
@@ -32,6 +34,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/392/blade-bld-xs) 
 - **Battle Value:** 944 
 - [*More Info*](blade/blade_bld-xs.md) 
@@ -50,6 +54,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/393/blade-bld-xx) 
 - **Battle Value:** 1064 
 - [*More Info*](blade/blade_bld-xx.md) 
@@ -66,6 +72,8 @@
   - RAC/5 (ammo: 60) 
   - ER Medium Laser 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6929/blade-bld-7r) 
 - **Battle Value:** 1227 
 - [*More Info*](blade/blade_bld-7r.md) 
@@ -84,6 +92,7 @@
   - Light PPC × 2 
   - Light AC/2 × 2 (ammo: 90) 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7345/blade-bld-xr) 
 - **Battle Value:** 1101 

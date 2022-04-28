@@ -15,6 +15,9 @@
   - ER Medium Laser × 8 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1805/kodiak-standard) 
 - **Battle Value:** 2927 
 - [*More Info*](kodiak/kodiak_standard.md) 
@@ -33,6 +36,9 @@
   - ER Medium Laser × 9 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1809/kodiak-5) 
 - **Battle Value:** 3067 
 - [*More Info*](kodiak/kodiak_5.md) 
@@ -53,6 +59,9 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1806/kodiak-2) 
 - **Battle Value:** 2856 
 - [*More Info*](kodiak/kodiak_2.md) 
@@ -71,6 +80,9 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1808/kodiak-4) 
 - **Battle Value:** 2728 
 - [*More Info*](kodiak/kodiak_4.md) 
@@ -94,6 +106,9 @@
   - Inner Sphere Beagle Active Probe 
   - Inner Sphere C3 Main 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** JTP Dieron - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1804/kodiak-cale) 
 - **Battle Value:** 2535 
 - [*More Info*](kodiak/kodiak_cale.md) 
@@ -112,6 +127,9 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1807/kodiak-3) 
 - **Battle Value:** 2615 
 - [*More Info*](kodiak/kodiak_3.md) 
@@ -132,6 +150,9 @@
 - **Equipment:** 
   - Inner Sphere Coolant Pod × 2 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8364/kodiak-6) 
 - **Battle Value:** 2922 
 - [*More Info*](kodiak/kodiak_6.md) 

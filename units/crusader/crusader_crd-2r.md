@@ -17,6 +17,9 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/748/crusader-crd-2r) 
 - **Battle Value:** 1533 
 

@@ -16,7 +16,9 @@
   - Beagle Active Probe 
   - TAG 
 - **Design Quirks:** 
+  - Improved Communications 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4907/red-shift-rds-2b) 
 - **Battle Value:** 555 
 

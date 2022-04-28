@@ -15,6 +15,9 @@
   - Large Laser 
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3642/zeus-zeu-6s) 
 - **Battle Value:** 1348 
 

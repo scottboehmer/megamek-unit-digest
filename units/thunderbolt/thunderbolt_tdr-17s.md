@@ -18,6 +18,9 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3237/thunderbolt-tdr-17s) 
 - **Battle Value:** 1803 
 

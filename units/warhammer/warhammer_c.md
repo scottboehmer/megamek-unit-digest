@@ -16,6 +16,10 @@
   - Clan ER Medium Laser × 2 
   - Clan ER Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3479/warhammer-c) 
 - **Battle Value:** 1728 
 

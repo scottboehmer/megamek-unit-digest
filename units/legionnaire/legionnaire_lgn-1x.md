@@ -17,6 +17,7 @@
   - Beagle Active Probe 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Improved Targeting (Medium) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1862/legionnaire-lgn-1x) 
 - **Battle Value:** 1322 

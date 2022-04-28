@@ -17,6 +17,7 @@
 - **Equipment:** 
   - Coolant Pod × 4 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1714/juggernaut-jg-r9t2) 
 - **Battle Value:** 1916 

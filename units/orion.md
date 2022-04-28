@@ -13,7 +13,9 @@
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Anti-Aircraft Targeting 
+  - Rugged (×2) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4755/orion-on1-c) 
 - **Battle Value:** 973 
 - [*More Info*](orion/orion_on1-c.md) 
@@ -33,7 +35,9 @@
   - LRM 5 × 2 (ammo: 24) 
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Anti-Aircraft Targeting 
+  - Rugged (×2) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7405/orion-on1-h) 
 - **Battle Value:** 1307 
 - [*More Info*](orion/orion_on1-h.md) 
@@ -53,6 +57,8 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2332/orion-on1-k) 
 - **Battle Value:** 1429 
 - [*More Info*](orion/orion_on1-k.md) 
@@ -74,6 +80,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050U - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2333/orion-on1-k-kerensky) 
 - **Battle Value:** 1821 
 - [*More Info*](orion/orion_on1-k_kerensky.md) 
@@ -93,6 +101,8 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2335/orion-on1-v) 
 - **Battle Value:** 1298 
 - [*More Info*](orion/orion_on1-v.md) 
@@ -111,6 +121,8 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2336/orion-on1-va) 
 - **Battle Value:** 1328 
 - [*More Info*](orion/orion_on1-va.md) 
@@ -132,6 +144,8 @@
   - Command Console 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2337/orion-on1-v-dc) 
 - **Battle Value:** 1310 
 - [*More Info*](orion/orion_on1-v-dc.md) 
@@ -154,6 +168,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2334/orion-on1-m) 
 - **Battle Value:** 1414 
 - [*More Info*](orion/orion_on1-m.md) 
@@ -175,6 +191,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4756/orion-on1-ma) 
 - **Battle Value:** 1501 
 - [*More Info*](orion/orion_on1-ma.md) 
@@ -198,6 +216,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4760/orion-on1-m-dc) 
 - **Battle Value:** 1444 
 - [*More Info*](orion/orion_on1-m-dc.md) 
@@ -220,6 +240,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4757/orion-on1-mb) 
 - **Battle Value:** 1472 
 - [*More Info*](orion/orion_on1-mb.md) 
@@ -242,6 +264,8 @@
   - C3 Support 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4758/orion-on1-mc) 
 - **Battle Value:** 1501 
 - [*More Info*](orion/orion_on1-mc.md) 
@@ -264,6 +288,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4759/orion-on1-md) 
 - **Battle Value:** 1597 
 - [*More Info*](orion/orion_on1-md.md) 
@@ -284,6 +310,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2338/orion-on2-m) 
 - **Battle Value:** 1828 
 - [*More Info*](orion/orion_on2-m.md) 
@@ -304,6 +332,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2339/orion-on3-mx) 
 - **Battle Value:** 1849 
 - [*More Info*](orion/orion_on3-mx.md) 
@@ -324,7 +354,10 @@
   - CASE II 
   - TAG 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Difficult Ejection 
   - Anti-Aircraft Targeting 
+  - Rugged (×2) 
 - **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m) 
 - **Battle Value:** 1826 
 - [*More Info*](orion/orion_on3-m.md) 
@@ -347,6 +380,8 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8317/orion-c-2) 
 - **Battle Value:** 2026 
 - [*More Info*](orion/orion_c_2.md) 

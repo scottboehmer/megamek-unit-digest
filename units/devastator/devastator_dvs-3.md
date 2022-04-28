@@ -15,6 +15,9 @@
   - PPC × 2 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/895/devastator-dvs-3) 
 - **Battle Value:** 2452 
 

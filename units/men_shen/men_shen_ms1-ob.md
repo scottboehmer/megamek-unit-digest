@@ -16,6 +16,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2162/men-shen-ms1-ob) 
 - **Battle Value:** 1484 
 

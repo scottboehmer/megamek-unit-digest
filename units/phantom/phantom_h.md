@@ -16,6 +16,8 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2486/phantom-h) 
 - **Battle Value:** 1178 
 

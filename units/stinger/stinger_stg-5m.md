@@ -16,6 +16,9 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** Rec Guide:ilClan #13 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3063/stinger-stg-5m) 
 - **Battle Value:** 432 
 

@@ -18,6 +18,9 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** RS 3145 NYNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6877/thunderbolt-tdr-10s) 
 - **Battle Value:** 1766 
 

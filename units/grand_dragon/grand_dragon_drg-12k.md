@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8446/grand-dragon-drg-12k) 
 - **Battle Value:** 2265 
 

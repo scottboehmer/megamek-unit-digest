@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Multi-Trac 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3418/viking-vkg-2g) 
 - **Battle Value:** 2152 
 

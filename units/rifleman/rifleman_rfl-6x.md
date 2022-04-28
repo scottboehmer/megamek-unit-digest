@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2702/rifleman-rfl-6x) 
 - **Battle Value:** 1464 
 

@@ -15,6 +15,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Fine Manipulators 
+  - Improved Sensors 
   - Improved Targeting (Long) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1725/jupiter-standard) 
 - **Battle Value:** 2784 
@@ -36,6 +38,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Fine Manipulators 
+  - Improved Sensors 
   - Improved Targeting (Long) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1726/jupiter-2) 
 - **Battle Value:** 3278 
@@ -56,6 +60,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Fine Manipulators 
+  - Improved Sensors 
   - Improved Targeting (Long) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1727/jupiter-3) 
 - **Battle Value:** 3074 
@@ -76,6 +82,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Fine Manipulators 
+  - Improved Sensors 
   - Improved Targeting (Long) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6829/jupiter-4) 
 - **Battle Value:** 2955 

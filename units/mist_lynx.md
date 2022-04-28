@@ -17,6 +17,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1836/koshi-mist-lynx-prime) 
 - **Battle Value:** 871 
@@ -41,6 +42,7 @@
   - TAG 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1827/koshi-mist-lynx-a) 
 - **Battle Value:** 608 
@@ -63,6 +65,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1828/koshi-mist-lynx-b) 
 - **Battle Value:** 1209 
@@ -86,6 +89,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1829/koshi-mist-lynx-c) 
 - **Battle Value:** 1320 
@@ -108,6 +112,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1830/koshi-mist-lynx-d) 
 - **Battle Value:** 842 
@@ -129,6 +134,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1831/koshi-mist-lynx-e) 
 - **Battle Value:** 997 
@@ -152,6 +158,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1834/koshi-mist-lynx-h) 
 - **Battle Value:** 982 
@@ -173,6 +180,7 @@
 - **Equipment:** 
   - Active Probe 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1835/koshi-mist-lynx-p) 
 - **Battle Value:** 1064 
@@ -196,6 +204,7 @@
   - Light TAG 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1832/koshi-mist-lynx-f) 
 - **Battle Value:** 1173 
@@ -218,6 +227,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1833/koshi-mist-lynx-g) 
 - **Battle Value:** 834 
@@ -240,6 +250,7 @@
   - CASE 
   - Modular Armor 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5643/koshi-mist-lynx-z) 
 - **Battle Value:** 970 
@@ -261,6 +272,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7557/koshi-mist-lynx-i) 
 - **Battle Value:** 689 
@@ -282,6 +294,7 @@
   - Active Probe 
   - Supercharger 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7558/koshi-mist-lynx-j) 
 - **Battle Value:** 1704 
@@ -303,6 +316,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7559/koshi-mist-lynx-k) 
 - **Battle Value:** 976 
@@ -326,6 +340,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7560/koshi-mist-lynx-l) 
 - **Battle Value:** 901 
@@ -349,6 +364,7 @@
   - TAG 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7562/koshi-mist-lynx-n) 
 - **Battle Value:** 976 
@@ -371,6 +387,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7561/koshi-mist-lynx-m) 
 - **Battle Value:** 961 
@@ -394,6 +411,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7556/koshi-mist-lynx-t) 
 - **Battle Value:** 971 

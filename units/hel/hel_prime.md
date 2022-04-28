@@ -17,6 +17,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6277/loki-mk-ii-hel-prime) 
 - **Battle Value:** 2189 
 

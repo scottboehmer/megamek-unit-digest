@@ -18,6 +18,8 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6875/archer-arc-9kc) 
 - **Battle Value:** 1361 
 

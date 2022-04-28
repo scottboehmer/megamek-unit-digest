@@ -19,6 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8344/mastodon-b) 
 - **Battle Value:** 2793 
 

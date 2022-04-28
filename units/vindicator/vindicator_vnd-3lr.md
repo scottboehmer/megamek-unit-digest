@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3428/vindicator-vnd-3lr) 
 - **Battle Value:** 1045 

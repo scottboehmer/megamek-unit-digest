@@ -15,6 +15,8 @@
   - Clan ER Medium Laser × 4 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90/archer-c) 
 - **Battle Value:** 1811 
 

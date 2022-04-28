@@ -16,6 +16,10 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
+  - Difficult Ejection 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7623/sun-bear-prime) 
 - **Battle Value:** 2022 
 

@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4258/ha-otoko-hr) 
 - **Battle Value:** 1553 
 

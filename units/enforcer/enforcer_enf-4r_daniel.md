@@ -15,6 +15,8 @@
   - Prototype Gauss Rifle (ammo: 16) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/977/enforcer-enf-4r-daniel) 
 - **Battle Value:** 1247 
 

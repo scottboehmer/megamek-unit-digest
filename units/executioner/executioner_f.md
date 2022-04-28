@@ -18,6 +18,8 @@
   - MASC 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6842/gladiator-executioner-f) 
 - **Battle Value:** 3606 
 

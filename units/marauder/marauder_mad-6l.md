@@ -18,6 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2045/marauder-mad-6l) 
 - **Battle Value:** 2322 

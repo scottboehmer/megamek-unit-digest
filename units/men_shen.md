@@ -14,6 +14,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2160/men-shen-ms1-o) 
 - **Battle Value:** 1550 
 - [*More Info*](men_shen/men_shen_ms1-o.md) 
@@ -33,6 +36,9 @@
   - Beagle Active Probe 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2161/men-shen-ms1-oa) 
 - **Battle Value:** 1529 
 - [*More Info*](men_shen/men_shen_ms1-oa.md) 
@@ -51,6 +57,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2162/men-shen-ms1-ob) 
 - **Battle Value:** 1484 
 - [*More Info*](men_shen/men_shen_ms1-ob.md) 
@@ -70,6 +79,9 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2163/men-shen-ms1-oc) 
 - **Battle Value:** 1435 
 - [*More Info*](men_shen/men_shen_ms1-oc.md) 
@@ -89,6 +101,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2164/men-shen-ms1-od) 
 - **Battle Value:** 1581 
 - [*More Info*](men_shen/men_shen_ms1-od.md) 
@@ -107,6 +122,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6981/men-shen-ms1-o-li) 
 - **Battle Value:** 1550 
 - [*More Info*](men_shen/men_shen_li.md) 
@@ -127,6 +145,9 @@
   - Machine Gun Array × 2 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2165/men-shen-ms1-oe) 
 - **Battle Value:** 1625 
 - [*More Info*](men_shen/men_shen_ms1-oe.md) 
@@ -146,6 +167,9 @@
   - MASC 
   - Targeting Computer 
   - TAG 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2166/men-shen-ms1-of) 
 - **Battle Value:** 1648 
 - [*More Info*](men_shen/men_shen_ms1-of.md) 
@@ -167,6 +191,9 @@
   - Beagle Active Probe 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2167/men-shen-ms1-ou) 
 - **Battle Value:** 1725 
 - [*More Info*](men_shen/men_shen_ms1-ou.md) 
@@ -186,6 +213,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6894/men-shen-ms1-og) 
 - **Battle Value:** 2267 
 - [*More Info*](men_shen/men_shen_ms1-og.md) 

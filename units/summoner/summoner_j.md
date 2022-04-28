@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7489/thor-summoner-j) 
 - **Battle Value:** 2666 
 

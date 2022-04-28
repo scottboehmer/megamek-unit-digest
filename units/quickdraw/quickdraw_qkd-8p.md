@@ -20,6 +20,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4887/quickdraw-qkd-8p) 
 - **Battle Value:** 1598 
 

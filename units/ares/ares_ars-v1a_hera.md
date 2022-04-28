@@ -24,6 +24,8 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Searchlight 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6686/ares-ars-v1a-hera) 
 - **Battle Value:** 2944 
 

@@ -17,6 +17,9 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/760/crusader-crd-5s) 
 - **Battle Value:** 1446 
 

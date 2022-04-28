@@ -22,7 +22,9 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Extended Torso Twist 
+  - Improved Communications 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3578/wolverine-wvr-8d) 
 - **Battle Value:** 1547 
 

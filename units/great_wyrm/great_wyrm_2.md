@@ -16,6 +16,8 @@
   - AP Gauss Rifle (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1285/great-wyrm-2) 
 - **Battle Value:** 1667 
 

@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4307/hellspawn-hsn-7d) 
 - **Battle Value:** 1220 
 

@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2813/scarabus-scb-9a) 
 - **Battle Value:** 846 
 

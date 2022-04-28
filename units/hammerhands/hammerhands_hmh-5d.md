@@ -18,6 +18,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Barrel Fists 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1371/hammerhands-hmh-5d) 
 - **Battle Value:** 1496 
 

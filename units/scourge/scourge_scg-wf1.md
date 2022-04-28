@@ -17,6 +17,8 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - AES 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6625/scourge-scg-wf1) 
 - **Battle Value:** 2172 
 

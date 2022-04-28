@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Flamer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7427/flea-fle-16) 
 - **Battle Value:** 506 
 

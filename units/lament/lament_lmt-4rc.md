@@ -17,6 +17,7 @@
   - Radical Heat Sink System 
   - C3 Support 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6724/lament-lmt-4rc) 

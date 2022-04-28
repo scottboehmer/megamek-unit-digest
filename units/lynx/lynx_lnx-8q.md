@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1966/lynx-lnx-8q) 
 - **Battle Value:** 1292 
 

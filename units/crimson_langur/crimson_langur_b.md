@@ -18,6 +18,8 @@
   - Light Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4017/crimson-langur-b) 
 - **Battle Value:** 2210 

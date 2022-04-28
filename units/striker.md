@@ -13,6 +13,8 @@
   - Large Laser 
   - AC/5 (ammo: 20) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3094/striker-stc-2c) 
 - **Battle Value:** 1488 
 - [*More Info*](striker/striker_stc-2c.md) 
@@ -29,6 +31,8 @@
   - PPC 
   - AC/10 (ammo: 20) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3096/striker-stc-2s) 
 - **Battle Value:** 1466 
 - [*More Info*](striker/striker_stc-2s.md) 
@@ -46,6 +50,8 @@
   - Large Laser 
   - AC/5 (ammo: 20) 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3095/striker-stc-2d) 
 - **Battle Value:** 1644 
 - [*More Info*](striker/striker_stc-2d.md) 

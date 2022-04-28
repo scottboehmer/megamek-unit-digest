@@ -17,7 +17,9 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4767/osteon-prime) 
 - **Battle Value:** 3073 
 - [*More Info*](osteon/osteon_prime.md) 
@@ -42,7 +44,9 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5830/osteon-jaguar) 
 - **Battle Value:** 2526 
 - [*More Info*](osteon/osteon_jaguar.md) 
@@ -66,7 +70,9 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4766/osteon-a) 
 - **Battle Value:** 2291 
 - [*More Info*](osteon/osteon_a.md) 
@@ -88,7 +94,9 @@
   - Nova CEWS 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5823/osteon-b) 
 - **Battle Value:** 2625 
 - [*More Info*](osteon/osteon_b.md) 
@@ -111,7 +119,9 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5824/osteon-c) 
 - **Battle Value:** 3139 
 - [*More Info*](osteon/osteon_c.md) 
@@ -131,7 +141,9 @@
   - Nova CEWS 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5825/osteon-d) 
 - **Battle Value:** 2587 
 - [*More Info*](osteon/osteon_d.md) 
@@ -155,7 +167,9 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5826/osteon-e) 
 - **Battle Value:** 2762 
 - [*More Info*](osteon/osteon_e.md) 
@@ -180,7 +194,9 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5827/osteon-f) 
 - **Battle Value:** 2716 
 - [*More Info*](osteon/osteon_f.md) 
@@ -203,7 +219,9 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5828/osteon-g) 
 - **Battle Value:** 2251 
 - [*More Info*](osteon/osteon_g.md) 
@@ -226,7 +244,9 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5829/osteon-u) 
 - **Battle Value:** 2647 
 - [*More Info*](osteon/osteon_u.md) 

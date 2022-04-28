@@ -18,6 +18,9 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Reinforced Legs 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1461/helepolis-hep-2h) 
 - **Battle Value:** 1369 
 

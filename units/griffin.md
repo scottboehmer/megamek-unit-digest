@@ -29,6 +29,9 @@
 - **Weapons:** 
   - PPC 
   - LRM 10 (ammo: 24) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1297/griffin-grf-1n) 
 - **Battle Value:** 1272 
 - [*More Info*](griffin/griffin_grf-1n.md) 
@@ -48,6 +51,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299/griffin-grf-2n) 
 - **Battle Value:** 1606 
 - [*More Info*](griffin/griffin_grf-2n.md) 
@@ -65,6 +71,9 @@
   - Large Laser 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1298/griffin-grf-1s) 
 - **Battle Value:** 1253 
 - [*More Info*](griffin/griffin_grf-1s.md) 
@@ -81,6 +90,9 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser × 5 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1295/griffin-grf-1e-sparky) 
 - **Battle Value:** 1449 
 - [*More Info*](griffin/griffin_grf-1e_sparky.md) 
@@ -99,6 +111,9 @@
   - Large Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294/griffin-grf-1ds) 
 - **Battle Value:** 1285 
 - [*More Info*](griffin/griffin_grf-1ds.md) 
@@ -118,6 +133,9 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1300/griffin-grf-3m) 
 - **Battle Value:** 1521 
 - [*More Info*](griffin/griffin_grf-3m.md) 
@@ -138,6 +156,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305/griffin-grf-5m) 
 - **Battle Value:** 1224 
 - [*More Info*](griffin/griffin_grf-5m.md) 
@@ -158,6 +179,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307/griffin-grf-6s) 
 - **Battle Value:** 1781 
 - [*More Info*](griffin/griffin_grf-6s.md) 
@@ -180,6 +204,9 @@
   - Full Head Ejection System 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306/griffin-grf-6cs) 
 - **Battle Value:** 1695 
 - [*More Info*](griffin/griffin_grf-6cs.md) 
@@ -199,6 +226,9 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1304/griffin-grf-5l) 
 - **Battle Value:** 1742 
 - [*More Info*](griffin/griffin_grf-5l.md) 
@@ -219,6 +249,9 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1309/griffin-grf-6s-francine) 
 - **Battle Value:** 1778 
 - [*More Info*](griffin/griffin_grf-6s_francine.md) 
@@ -240,6 +273,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303/griffin-grf-5k) 
 - **Battle Value:** 1390 
 - [*More Info*](griffin/griffin_grf-5k.md) 
@@ -260,6 +296,9 @@
 - **Equipment:** 
   - Supercharger 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1308/griffin-grf-6s-francine-ii) 
 - **Battle Value:** 2249 
 - [*More Info*](griffin/griffin_grf-6s_francine_ii.md) 
@@ -279,6 +318,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296/griffin-grf-1e2-sparky-20) 
 - **Battle Value:** 1862 
 - [*More Info*](griffin/griffin_grf-1e2_sparky_2.0.md) 
@@ -296,6 +338,9 @@
   - Snub-Nose PPC 
   - ER Medium Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1302/griffin-grf-4r) 
 - **Battle Value:** 1412 
 - [*More Info*](griffin/griffin_grf-4r.md) 
@@ -313,6 +358,9 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 20) 
   - ER Medium Laser × 3 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301/griffin-grf-4n) 
 - **Battle Value:** 1591 
 - [*More Info*](griffin/griffin_grf-4n.md) 
@@ -331,6 +379,9 @@
   - NLRM 10 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefist (Left Arm) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436/griffin-grf-3n) 
 - **Battle Value:** 1560 
 - [*More Info*](griffin/griffin_grf-3n.md) 
@@ -353,6 +404,9 @@
   - C3 Boosted Support 
   - Targeting Computer 
   - CASE II 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6899/griffin-grf-6s2) 
 - **Battle Value:** 1870 
 - [*More Info*](griffin/griffin_grf-6s2.md) 
@@ -371,6 +425,8 @@
   - Streak LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7437/griffin-c) 
 - **Battle Value:** 2131 
 - [*More Info*](griffin/griffin_c.md) 

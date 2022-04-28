@@ -19,6 +19,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2470/penthesilea-pen-2h) 
 - **Battle Value:** 1899 
 

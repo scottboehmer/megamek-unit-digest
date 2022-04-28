@@ -16,6 +16,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8263/crusader-crd-9s) 
 - **Battle Value:** 1642 
 

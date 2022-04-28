@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - TAG 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6501/gambit-gbt-1l) 
 - **Battle Value:** 796 
 

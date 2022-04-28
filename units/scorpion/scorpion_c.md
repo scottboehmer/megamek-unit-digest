@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Supercharger 
   - CASE II 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8316/scorpion-c) 
 - **Battle Value:** 1975 
 

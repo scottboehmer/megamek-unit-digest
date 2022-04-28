@@ -18,6 +18,8 @@
   - Active Probe 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7503/fenris-ice-ferret-t) 
 - **Battle Value:** 1825 
 

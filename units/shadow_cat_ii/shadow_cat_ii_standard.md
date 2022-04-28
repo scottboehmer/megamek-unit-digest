@@ -18,6 +18,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2894/shadow-cat-ii-standard) 
 - **Battle Value:** 2064 

@@ -16,6 +16,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1922/locust-iic-9) 

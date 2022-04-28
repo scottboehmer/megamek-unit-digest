@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2072/marauder-iic-8) 
 - **Battle Value:** 2554 

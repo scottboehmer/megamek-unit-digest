@@ -19,7 +19,9 @@
   - Nova CEWS 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5823/osteon-b) 
 - **Battle Value:** 2625 
 

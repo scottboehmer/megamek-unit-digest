@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Stable 
 - **Sources:** TRO 3075U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2447/patriot-pkm-2c) 
 - **Battle Value:** 1613 
 - [*More Info*](patriot/patriot_pkm-2c.md) 
@@ -43,6 +44,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Stable 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2448/patriot-pkm-2d) 
 - **Battle Value:** 1699 
 - [*More Info*](patriot/patriot_pkm-2d.md) 
@@ -65,6 +67,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Stable 
 - **Sources:** TRO 3075-Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2449/patriot-pkm-2e) 
 - **Battle Value:** 1398 
 - [*More Info*](patriot/patriot_pkm-2e.md) 

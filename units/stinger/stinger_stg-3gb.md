@@ -14,6 +14,9 @@
 - **Weapons:** 
   - Medium Laser × 3 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** Rec Guide:ilClan #13 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3059/stinger-stg-3gb) 
 - **Battle Value:** 674 
 

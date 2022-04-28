@@ -16,6 +16,9 @@
 - **Equipment:** 
   - C3 Main 
   - CASE 
+- **Design Quirks:** 
+  - Cowl 
+  - Stable 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2252/naginata-ng-c3a) 
 - **Battle Value:** 1954 
 

@@ -14,6 +14,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1568/hunchback-iic-standard) 
 - **Battle Value:** 1679 
 - [*More Info*](hunchback_iic/hunchback_iic_standard.md) 
@@ -30,6 +32,8 @@
 - **Weapons:** 
   - Heavy Large Laser × 4 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1569/hunchback-iic-2) 
 - **Battle Value:** 1869 
 - [*More Info*](hunchback_iic/hunchback_iic_2.md) 
@@ -48,6 +52,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1570/hunchback-iic-3) 
 - **Battle Value:** 1951 
 - [*More Info*](hunchback_iic/hunchback_iic_3.md) 
@@ -67,6 +73,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1571/hunchback-iic-4) 
 - **Battle Value:** 2097 
 - [*More Info*](hunchback_iic/hunchback_iic_4.md) 
@@ -85,6 +93,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8130/hunchback-iic-5) 
 - **Battle Value:** 1534 
 - [*More Info*](hunchback_iic/hunchback_iic_5.md) 

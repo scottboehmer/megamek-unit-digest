@@ -15,6 +15,8 @@
   - Large Laser 
   - AC/10 (ammo: 10) 
   - Small Laser 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/976/enforcer-enf-4r) 
 - **Battle Value:** 1032 
 

@@ -18,6 +18,8 @@
   - Rocket 10 × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Good Reputation 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5696/lao-hu-lhu-4e) 
 - **Battle Value:** 2123 
 

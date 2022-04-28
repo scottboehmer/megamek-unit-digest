@@ -13,6 +13,8 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Medium Laser × 3 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2757/ryoken-stormcrow-prime) 
 - **Battle Value:** 2073 
 

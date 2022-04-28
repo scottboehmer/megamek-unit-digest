@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2034/marauder-mad-2r) 
 - **Battle Value:** 1630 

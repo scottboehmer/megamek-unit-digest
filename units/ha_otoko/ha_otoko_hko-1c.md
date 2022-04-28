@@ -13,6 +13,8 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - LRM 10 × 2 (ammo: 24) 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1357/ha-otoko-hko-1c) 
 - **Battle Value:** 1288 
 

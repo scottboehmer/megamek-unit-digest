@@ -16,6 +16,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7686/devastator-dvs-2-ec) 
 - **Battle Value:** 2844 
 

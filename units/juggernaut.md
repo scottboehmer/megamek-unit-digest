@@ -16,6 +16,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1713/juggernaut-jg-r9t1) 
 - **Battle Value:** 1719 
@@ -36,6 +37,7 @@
 - **Equipment:** 
   - Coolant Pod × 4 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1714/juggernaut-jg-r9t2) 
 - **Battle Value:** 1916 
@@ -56,6 +58,7 @@
 - **Equipment:** 
   - Coolant Pod × 6 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1715/juggernaut-jg-r9t3) 
 - **Battle Value:** 1959 
@@ -79,6 +82,7 @@
   - M-Pod × 4 
   - Coolant Pod × 4 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1716/juggernaut-jg-r9tx1-leapin-lil) 
 - **Battle Value:** 1946 

@@ -18,6 +18,10 @@
 - **Equipment:** 
   - C3i 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1993/malak-c-mk-o-mi) 
 - **Battle Value:** 758 
 

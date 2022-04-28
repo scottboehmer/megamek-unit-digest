@@ -19,6 +19,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1836/koshi-mist-lynx-prime) 
 - **Battle Value:** 871 

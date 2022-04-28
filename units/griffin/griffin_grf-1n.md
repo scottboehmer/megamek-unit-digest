@@ -14,6 +14,9 @@
 - **Weapons:** 
   - PPC 
   - LRM 10 (ammo: 24) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1297/griffin-grf-1n) 
 - **Battle Value:** 1272 
 

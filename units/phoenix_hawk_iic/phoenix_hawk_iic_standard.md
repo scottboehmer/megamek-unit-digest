@@ -16,6 +16,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard) 
 - **Battle Value:** 2057 
 

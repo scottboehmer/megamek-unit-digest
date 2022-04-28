@@ -18,6 +18,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8420/guillotine-glt-7m) 
 - **Battle Value:** 1877 
 

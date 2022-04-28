@@ -16,6 +16,8 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3412/victor-vtr-9k2-stjames) 
 - **Battle Value:** 2006 
 

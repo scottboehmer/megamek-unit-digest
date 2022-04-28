@@ -18,6 +18,8 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1073/fire-scorpion-3) 
 - **Battle Value:** 1904 
 

@@ -17,6 +17,9 @@
 - **Equipment:** 
   - A-Pod × 2 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
+  - Stable 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6858/warhammer-iic-11) 
 - **Battle Value:** 2021 
 

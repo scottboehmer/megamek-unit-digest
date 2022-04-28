@@ -20,6 +20,8 @@
   - Active Probe 
   - A-Pod × 2 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1928/loki-hellbringer-h) 
 - **Battle Value:** 1952 
 

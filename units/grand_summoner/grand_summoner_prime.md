@@ -17,6 +17,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6281/thor-ii-grand-summoner-prime) 
 - **Battle Value:** 2554 
 

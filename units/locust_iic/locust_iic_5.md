@@ -16,6 +16,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1918/locust-iic-5) 

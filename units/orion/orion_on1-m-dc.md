@@ -21,6 +21,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4760/orion-on1-m-dc) 
 - **Battle Value:** 1444 
 

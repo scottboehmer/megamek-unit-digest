@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/403/blood-asp-e) 
 - **Battle Value:** 3179 
 

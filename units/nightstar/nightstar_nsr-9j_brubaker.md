@@ -16,6 +16,8 @@
   - Clan ER Small Laser 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4723/nightstar-nsr-9j-brubaker) 
 - **Battle Value:** 2838 

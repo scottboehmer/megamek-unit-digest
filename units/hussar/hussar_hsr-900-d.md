@@ -14,6 +14,9 @@
   - Light AC/2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1591/hussar-hsr-900-d) 
 - **Battle Value:** 551 
 

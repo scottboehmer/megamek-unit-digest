@@ -17,6 +17,9 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5869/dervish-dv-6md) 
 - **Battle Value:** 1251 
 

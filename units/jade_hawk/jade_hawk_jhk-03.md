@@ -20,6 +20,9 @@
   - Partial Wing 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6564/jade-hawk-jhk-03) 
 - **Battle Value:** 2160 
 

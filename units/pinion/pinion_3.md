@@ -13,6 +13,8 @@
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - Heavy Large Laser × 2 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5675/pinion-3) 
 - **Battle Value:** 1611 
 

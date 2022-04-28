@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 2 
   - ER Medium Laser × 4 
   - Flamer 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/214/balius-d) 
 - **Battle Value:** 2417 
 

@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8427/star-crusader-b) 
 - **Battle Value:** 2565 
 

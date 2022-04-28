@@ -19,6 +19,8 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1194/ghost-gst-11) 
 - **Battle Value:** 1244 
 

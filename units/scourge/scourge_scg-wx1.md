@@ -18,6 +18,7 @@
 - **Equipment:** 
   - AES 
 - **Design Quirks:** 
+  - Reinforced Legs 
   - Difficult to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8109/scourge-scg-wx1) 
 - **Battle Value:** 2484 

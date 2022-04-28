@@ -21,7 +21,9 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5826/osteon-e) 
 - **Battle Value:** 2762 
 

@@ -17,6 +17,8 @@
   - ECM Suite 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/60/arbalest-2) 
 - **Battle Value:** 1098 
 

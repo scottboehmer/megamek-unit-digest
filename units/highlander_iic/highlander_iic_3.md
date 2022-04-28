@@ -21,6 +21,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Cowl 
+  - Reinforced Legs 
+  - Difficult Ejection 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1523/highlander-iic-3) 
 - **Battle Value:** 3001 
 

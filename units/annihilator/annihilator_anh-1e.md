@@ -13,6 +13,8 @@
 - **Weapons:** 
   - PPC × 4 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/36/annihilator-anh-1e) 
 - **Battle Value:** 1625 
 

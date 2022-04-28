@@ -20,6 +20,7 @@
   - MASC 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7294/beowulf-iic-pr) 
 - **Battle Value:** 1992 
 

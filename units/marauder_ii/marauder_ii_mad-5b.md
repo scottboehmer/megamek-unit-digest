@@ -17,6 +17,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b) 
 - **Battle Value:** 2589 

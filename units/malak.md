@@ -19,6 +19,10 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1994/malak-c-mk-o-invictus) 
 - **Battle Value:** 792 
 - [*More Info*](malak/malak_c-mk-o_invictus.md) 
@@ -42,6 +46,10 @@
   - Machine Gun Array × 2 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1995/malak-c-mk-oa-dominus) 
 - **Battle Value:** 823 
 - [*More Info*](malak/malak_c-mk-oa_dominus.md) 
@@ -62,6 +70,10 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1996/malak-c-mk-ob-infernus) 
 - **Battle Value:** 1047 
 - [*More Info*](malak/malak_c-mk-ob_infernus.md) 
@@ -86,6 +98,10 @@
   - C3i 
   - Targeting Computer 
   - TAG 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1997/malak-c-mk-oc-comminus) 
 - **Battle Value:** 944 
 - [*More Info*](malak/malak_c-mk-oc_comminus.md) 
@@ -106,6 +122,10 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1998/malak-c-mk-od-luminos) 
 - **Battle Value:** 1055 
 - [*More Info*](malak/malak_c-mk-od_luminos.md) 
@@ -126,6 +146,10 @@
 - **Equipment:** 
   - C3i 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1993/malak-c-mk-o-mi) 
 - **Battle Value:** 758 
 - [*More Info*](malak/malak_c-mk-o_mi.md) 
@@ -147,6 +171,10 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1999/malak-c-mk-oe-eminus) 
 - **Battle Value:** 957 
 - [*More Info*](malak/malak_c-mk-oe_eminus.md) 
@@ -166,6 +194,10 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2000/malak-c-mk-os-caelestis) 
 - **Battle Value:** 1121 
 - [*More Info*](malak/malak_c-mk-os_caelestis.md) 

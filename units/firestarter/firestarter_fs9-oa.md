@@ -15,6 +15,8 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Small Laser 
   - Flamer × 2 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1100/firestarter-fs9-oa) 
 - **Battle Value:** 976 
 

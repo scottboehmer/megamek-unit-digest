@@ -17,6 +17,8 @@
   - TAG 
   - C3 Support 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6924/owens-ow-1g) 
 - **Battle Value:** 1761 
 

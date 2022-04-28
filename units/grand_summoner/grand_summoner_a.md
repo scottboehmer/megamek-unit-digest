@@ -18,6 +18,8 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6282/thor-ii-grand-summoner-a) 
 - **Battle Value:** 2473 
 

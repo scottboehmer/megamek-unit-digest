@@ -16,6 +16,9 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3245/thunderbolt-tdr-7se) 
 - **Battle Value:** 1809 
 

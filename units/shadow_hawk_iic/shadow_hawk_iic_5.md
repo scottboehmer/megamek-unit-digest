@@ -16,6 +16,9 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2915/shadow-hawk-iic-5) 
 - **Battle Value:** 1614 
 

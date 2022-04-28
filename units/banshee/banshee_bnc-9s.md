@@ -21,6 +21,9 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3788/banshee-bnc-9s) 
 - **Battle Value:** 2496 
 

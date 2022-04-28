@@ -19,6 +19,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Improved Targeting (Long) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/28/albatross-alb-3ur) 
 - **Battle Value:** 1902 

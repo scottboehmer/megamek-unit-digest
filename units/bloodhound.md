@@ -16,6 +16,7 @@
   - Beagle Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3838/bloodhound-b1-hnd) 
 - **Battle Value:** 1248 
@@ -38,6 +39,7 @@
   - Beagle Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3839/bloodhound-b2-hnd) 
 - **Battle Value:** 1363 
@@ -59,6 +61,7 @@
   - Beagle Active Probe 
   - B-Pod 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5671/bloodhound-b3-hnd) 
 - **Battle Value:** 1005 

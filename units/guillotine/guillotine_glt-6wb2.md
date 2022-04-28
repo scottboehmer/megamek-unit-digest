@@ -19,6 +19,8 @@
   - LRM 5 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1343/guillotine-glt-6wb2) 
 - **Battle Value:** 1635 
 

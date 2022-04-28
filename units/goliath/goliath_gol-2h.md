@@ -14,6 +14,8 @@
   - PPC 
   - LRM 10 × 2 (ammo: 24) 
   - Rocket 10 × 6 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1230/goliath-gol-2h) 
 - **Battle Value:** 1583 
 

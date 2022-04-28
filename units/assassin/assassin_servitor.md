@@ -17,6 +17,9 @@
   - Small X-Pulse Laser × 2 
   - Small Vibroblade 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3737/assassin-servitor) 
 - **Battle Value:** 1019 
 

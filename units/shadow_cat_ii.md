@@ -16,6 +16,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2894/shadow-cat-ii-standard) 
 - **Battle Value:** 2064 
@@ -38,6 +39,7 @@
   - Partial Wing 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2893/shadow-cat-ii-2) 
 - **Battle Value:** 2106 
@@ -59,6 +61,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6886/shadow-cat-ii-3) 
 - **Battle Value:** 2387 
@@ -79,6 +82,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6885/shadow-cat-ii-4) 
 - **Battle Value:** 1986 

@@ -20,6 +20,8 @@
   - Flamer 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6831/berserker-brz-d4) 
 - **Battle Value:** 2659 
 

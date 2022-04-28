@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3053/stealth-sth-1d-anna) 
 - **Battle Value:** 1540 
 

@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Medium Laser × 4 
   - Flamer × 4 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/376/blackjack-bj-1x) 
 - **Battle Value:** 964 
 

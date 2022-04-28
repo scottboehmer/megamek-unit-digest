@@ -19,6 +19,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Cowl 
+  - Reinforced Legs 
+  - Difficult Ejection 
 - **Sources:** OTP Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7309/highlander-hgn-732-jorgensson) 
 - **Battle Value:** 2481 
 

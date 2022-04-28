@@ -15,6 +15,8 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3222/thunder-hawk-tdk-7x) 
 - **Battle Value:** 2577 

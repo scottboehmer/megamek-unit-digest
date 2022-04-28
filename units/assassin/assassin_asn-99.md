@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/130/assassin-asn-99) 
 - **Battle Value:** 1116 
 

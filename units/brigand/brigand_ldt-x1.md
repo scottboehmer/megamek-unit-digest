@@ -14,6 +14,8 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3860/brigand-ldt-x1) 
 - **Battle Value:** 937 
 

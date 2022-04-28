@@ -18,6 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
 - **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5544/yu-huang-carson) 
 - **Battle Value:** 2464 
 

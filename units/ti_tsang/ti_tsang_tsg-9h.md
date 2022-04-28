@@ -18,6 +18,8 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254/ti-tsang-tsg-9h) 
 - **Battle Value:** 1880 
 

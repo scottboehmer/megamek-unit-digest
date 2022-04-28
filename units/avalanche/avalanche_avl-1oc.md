@@ -17,6 +17,8 @@
   - Small X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6399/avalanche-avl-1oc) 
 - **Battle Value:** 1341 
 

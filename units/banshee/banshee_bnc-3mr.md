@@ -14,6 +14,9 @@
   - ER PPC × 2 
   - ER Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/243/banshee-bnc-3mr) 
 - **Battle Value:** 1801 
 

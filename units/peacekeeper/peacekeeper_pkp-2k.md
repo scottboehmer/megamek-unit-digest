@@ -19,6 +19,8 @@
   - Medium X-Pulse Laser 
 - **Equipment:** 
   - C3 Emergency Main 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6836/peacekeeper-pkp-2k) 
 - **Battle Value:** 2863 
 

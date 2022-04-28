@@ -16,6 +16,8 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/77/archer-arc-2w) 
 - **Battle Value:** 1338 
 

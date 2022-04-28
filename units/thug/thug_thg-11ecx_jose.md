@@ -19,6 +19,7 @@
   - Null-Signature System 
 - **Design Quirks:** 
   - No Torso Twist 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7322/thug-thg-11ecx-jose) 
 - **Battle Value:** 1720 
 

@@ -18,6 +18,8 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
+- **Design Quirks:** 
+  - Good Reputation 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1032/falcon-hawk-fnhk-9k1b) 
 - **Battle Value:** 1116 
 

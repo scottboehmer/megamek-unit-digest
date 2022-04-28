@@ -15,6 +15,8 @@
   - LRM 5 (ammo: 24) 
   - Small Laser 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3422/vindicator-vnd-1r) 
 - **Battle Value:** 1024 
@@ -35,6 +37,8 @@
   - LRM 5 (ammo: 24) 
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3425/vindicator-vnd-1x) 
 - **Battle Value:** 1008 
@@ -55,6 +59,8 @@
   - LRM 5 (ammo: 24) 
   - Small Laser 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3421/vindicator-vnd-1aa-avenging-angel) 
 - **Battle Value:** 966 
@@ -75,6 +81,8 @@
   - LRM 5 (ammo: 24) 
   - Small Laser 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3423/vindicator-vnd-1r-vong) 
 - **Battle Value:** 1024 
@@ -95,6 +103,8 @@
   - Medium Laser 
   - Small Laser 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3424/vindicator-vnd-1sic) 
 - **Battle Value:** 1020 
@@ -116,6 +126,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3426/vindicator-vnd-3l) 
 - **Battle Value:** 1105 
@@ -139,6 +151,8 @@
   - Small Pulse Laser 
   - Small Laser 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3430/vindicator-vnd-5l) 
 - **Battle Value:** 1484 
@@ -162,6 +176,8 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3429/vindicator-vnd-4l) 
 - **Battle Value:** 1411 
@@ -186,6 +202,8 @@
   - Guardian ECM Suite 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3431/vindicator-vnd-6l) 
 - **Battle Value:** 1739 
@@ -207,6 +225,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3428/vindicator-vnd-3lr) 
 - **Battle Value:** 1045 
@@ -230,6 +250,8 @@
   - AES × 2 
   - Supercharger 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3427/vindicator-vnd-3ld-dao) 
 - **Battle Value:** 1583 

@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1231/goliath-gol-3l) 
 - **Battle Value:** 1708 
 

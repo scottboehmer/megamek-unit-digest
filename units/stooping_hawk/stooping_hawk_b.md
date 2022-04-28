@@ -15,6 +15,8 @@
   - LRM 15 w/ Artemis IV × 3 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×3) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3077/stooping-hawk-b) 
 - **Battle Value:** 2111 
 

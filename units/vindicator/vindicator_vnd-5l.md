@@ -20,6 +20,8 @@
   - Small Pulse Laser 
   - Small Laser 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3430/vindicator-vnd-5l) 
 - **Battle Value:** 1484 

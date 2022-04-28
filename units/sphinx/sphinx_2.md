@@ -16,6 +16,9 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3006/sphinx-2) 
 - **Battle Value:** 2753 
 

@@ -20,6 +20,8 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1923/loki-hellbringer-a) 
 - **Battle Value:** 1948 
 

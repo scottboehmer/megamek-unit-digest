@@ -15,6 +15,9 @@
   - Large Laser 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2179/merlin-mln-1b-porter) 
 - **Battle Value:** 1233 
 

@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3586/woodsman-a) 
 - **Battle Value:** 2741 
 

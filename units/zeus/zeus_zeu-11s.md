@@ -19,6 +19,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7455/zeus-zeu-11s) 
 - **Battle Value:** 2280 
 

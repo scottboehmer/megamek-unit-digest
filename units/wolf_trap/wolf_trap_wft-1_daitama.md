@@ -18,6 +18,8 @@
   - Beagle Active Probe 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3555/wolf-trap-tora-wft-1-daitama) 
 - **Battle Value:** 1290 
 

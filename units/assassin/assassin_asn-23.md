@@ -14,6 +14,9 @@
 - **Weapons:** 
   - LRM 5 w/ Artemis IV (ammo: 24) 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/128/assassin-asn-23) 
 - **Battle Value:** 740 
 

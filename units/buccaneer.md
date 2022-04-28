@@ -16,6 +16,7 @@
   - Hatchet 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/436/buccaneer-bcn-3r) 
 - **Battle Value:** 1434 
 - [*More Info*](buccaneer/buccaneer_bcn-3r.md) 
@@ -38,6 +39,7 @@
   - Machine Gun Array 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/437/buccaneer-bcn-5w) 
 - **Battle Value:** 1370 
 - [*More Info*](buccaneer/buccaneer_bcn-5w.md) 
@@ -58,6 +60,7 @@
   - C3i 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/438/buccaneer-bcn-6w) 
 - **Battle Value:** 1121 
 - [*More Info*](buccaneer/buccaneer_bcn-6w.md) 
@@ -79,6 +82,7 @@
   - Clan Partial Wing 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8379/buccaneer-bcn-6px-pan) 
 - **Battle Value:** 1384 
 - [*More Info*](buccaneer/buccaneer_bcn-6px_pan.md) 

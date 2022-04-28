@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1924/loki-hellbringer-b) 
 - **Battle Value:** 1592 
 

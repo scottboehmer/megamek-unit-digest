@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2753/ryoken-stormcrow-e) 
 - **Battle Value:** 2110 
 

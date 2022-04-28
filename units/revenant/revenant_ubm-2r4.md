@@ -20,6 +20,8 @@
   - C3 Support 
   - TAG 
   - Drone Operating System 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6716/revenant-ubm-2r4) 
 - **Battle Value:** 615 
 

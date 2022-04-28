@@ -13,6 +13,9 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3058/stinger-stg-3g) 
 - **Battle Value:** 497 
 

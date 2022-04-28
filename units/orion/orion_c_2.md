@@ -20,6 +20,8 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8317/orion-c-2) 
 - **Battle Value:** 2026 
 

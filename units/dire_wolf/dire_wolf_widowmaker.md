@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Difficult Ejection 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/811/daishi-dire-wolf-widowmaker) 
 - **Battle Value:** 3041 
 

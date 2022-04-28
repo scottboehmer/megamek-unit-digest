@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Difficult Ejection 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/813/daishi-dire-wolf-a) 
 - **Battle Value:** 2855 
 

@@ -17,6 +17,8 @@
   - Flamer × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1106/firestarter-fs9-og) 
 - **Battle Value:** 1063 
 

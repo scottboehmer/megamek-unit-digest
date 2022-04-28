@@ -16,6 +16,9 @@
   - ER Flamer 
 - **Equipment:** 
   - Laser Anti-Missile System 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** Rec Guide:ilClan #13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8126/stinger-stg-6m) 
 - **Battle Value:** 503 
 

@@ -19,7 +19,10 @@
   - Spikes × 5 
   - Quad Turret 
 - **Design Quirks:** 
+  - Distracting 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6506/sarath-srth-1o) 
 - **Battle Value:** 1630 
 - [*More Info*](sarath/sarath_srth-1o.md) 
@@ -42,7 +45,10 @@
 - **Equipment:** 
   - Quad Turret 
 - **Design Quirks:** 
+  - Distracting 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6507/sarath-srth-1oa) 
 - **Battle Value:** 1738 
 - [*More Info*](sarath/sarath_srth-1oa.md) 
@@ -65,7 +71,10 @@
   - Clan Talons 
   - Quad Turret 
 - **Design Quirks:** 
+  - Distracting 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6508/sarath-srth-1ob) 
 - **Battle Value:** 1475 
 - [*More Info*](sarath/sarath_srth-1ob.md) 

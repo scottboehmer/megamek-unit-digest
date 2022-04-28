@@ -14,6 +14,8 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/455/caesar-ces-3r) 
 - **Battle Value:** 1578 
 - [*More Info*](caesar/caesar_ces-3r.md) 
@@ -33,6 +35,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3883/caesar-ces-3r-archangel) 
 - **Battle Value:** 2098 
 - [*More Info*](caesar/caesar_ces-3r_archangel.md) 
@@ -51,6 +55,8 @@
   - ER Medium Laser × 8 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3884/caesar-ces-3r-gertrude) 
 - **Battle Value:** 1833 
 - [*More Info*](caesar/caesar_ces-3r_gertrude.md) 
@@ -70,6 +76,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/458/caesar-ces-4s) 
 - **Battle Value:** 1750 
 - [*More Info*](caesar/caesar_ces-4s.md) 
@@ -89,6 +97,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/456/caesar-ces-3s) 
 - **Battle Value:** 1901 
 - [*More Info*](caesar/caesar_ces-3s.md) 
@@ -109,6 +119,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/457/caesar-ces-4r) 
 - **Battle Value:** 2024 
 - [*More Info*](caesar/caesar_ces-4r.md) 

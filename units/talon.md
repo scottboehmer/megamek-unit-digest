@@ -11,6 +11,8 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3152/talon-tln-5v) 
 - **Battle Value:** 1075 
 - [*More Info*](talon/talon_tln-5v.md) 
@@ -26,6 +28,8 @@
 - **Weapons:** 
   - ER PPC 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3153/talon-tln-5w) 
 - **Battle Value:** 1175 
 - [*More Info*](talon/talon_tln-5w.md) 
@@ -41,6 +45,8 @@
 - **Weapons:** 
   - Enhanced PPC 
   - Inner Sphere Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7677/talon-tln-5w-ec) 
 - **Battle Value:** 1364 
 - [*More Info*](talon/talon_tln-5w-ec.md) 
@@ -56,6 +62,8 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Source:** WWE Scorched Earth - Clan Invasion 
 - **Battle Value:** 977 
 - [*More Info*](talon/talon_tln-5vno.md) 
@@ -72,6 +80,8 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3154/talon-tln-5z) 
 - **Battle Value:** 1168 
 - [*More Info*](talon/talon_tln-5z.md) 
@@ -87,6 +97,8 @@
 - **Weapons:** 
   - Heavy PPC 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3155/talon-tln-6w) 
 - **Battle Value:** 1341 
 - [*More Info*](talon/talon_tln-6w.md) 

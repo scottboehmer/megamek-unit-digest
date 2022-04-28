@@ -18,7 +18,10 @@
   - Angel ECM Suite 
   - Bloodhound Active Probe 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7451/ostscout-ott-8j) 
 - **Battle Value:** 894 
 

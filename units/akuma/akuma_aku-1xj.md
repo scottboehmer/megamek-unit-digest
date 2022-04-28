@@ -17,6 +17,8 @@
   - ER Large Laser 
   - Medium Pulse Laser × 2 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3692/akuma-aku-1xj) 
 - **Battle Value:** 2203 
 

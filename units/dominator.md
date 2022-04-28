@@ -19,6 +19,9 @@
   - CASE 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Reinforced Legs 
+  - Battlefist (Left Arm) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7434/dominator-standard) 
 - **Battle Value:** 3018 
 - [*More Info*](dominator/dominator_standard.md) 
@@ -41,6 +44,9 @@
   - Full Head Ejection System 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Reinforced Legs 
+  - Battlefist (Left Arm) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7435/dominator-2) 
 - **Battle Value:** 2906 
 - [*More Info*](dominator/dominator_2.md) 

@@ -17,6 +17,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296/griffin-grf-1e2-sparky-20) 
 - **Battle Value:** 1862 
 

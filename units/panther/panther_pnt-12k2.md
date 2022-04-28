@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Nimble Jumper 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2420/panther-pnt-12k2) 
 - **Battle Value:** 930 
 

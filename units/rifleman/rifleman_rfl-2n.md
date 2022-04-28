@@ -15,6 +15,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Searchlight 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7184/rifleman-rfl-2n) 
 - **Battle Value:** 1093 
 

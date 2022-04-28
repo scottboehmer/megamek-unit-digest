@@ -13,6 +13,8 @@
   - LB 2-X AC × 4 (ammo: 45 Standard, 45 Cluster) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2758/ryoken-ii-standard) 
 - **Battle Value:** 1801 
 - [*More Info*](ryoken_ii/ryoken_ii_standard.md) 
@@ -30,6 +32,8 @@
   - LRM 15 × 2 (ammo: 16) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2759/ryoken-ii-2) 
 - **Battle Value:** 2141 
 - [*More Info*](ryoken_ii/ryoken_ii_2.md) 
@@ -47,6 +51,8 @@
   - LRM 15 × 2 (ammo: 16) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2760/ryoken-ii-3) 
 - **Battle Value:** 2336 
 - [*More Info*](ryoken_ii/ryoken_ii_3.md) 
@@ -66,6 +72,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/8219/ryoken-ii-tassa) 
 - **Battle Value:** 3103 
 - [*More Info*](ryoken_ii/ryoken_ii_tassa.md) 

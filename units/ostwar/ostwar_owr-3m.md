@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2383/ostwar-owr-3m) 
 - **Battle Value:** 1557 
 

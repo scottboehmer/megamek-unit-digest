@@ -17,6 +17,9 @@
   - SRM 4 × 5 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6783/dragoon-aem-04) 
 - **Battle Value:** 1710 
 

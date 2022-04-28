@@ -17,7 +17,9 @@
   - Machine Gun Array × 2 
   - CASE 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1909/locust-lct-5t) 
 - **Battle Value:** 482 

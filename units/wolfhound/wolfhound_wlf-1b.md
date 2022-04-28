@@ -15,6 +15,9 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3562/wolfhound-wlf-1b) 
 - **Battle Value:** 967 
 

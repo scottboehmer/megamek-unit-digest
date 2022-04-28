@@ -14,6 +14,8 @@
   - Large Laser 
   - SRM 2 (ammo: 50) 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2858/sentinel-stn-3ka) 
 - **Battle Value:** 847 
 

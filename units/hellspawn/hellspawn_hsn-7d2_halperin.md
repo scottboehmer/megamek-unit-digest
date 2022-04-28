@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Coolant Pod × 3 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1478/hellspawn-hsn-7d2-halperin) 
 - **Battle Value:** 1431 
 

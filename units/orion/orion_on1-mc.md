@@ -20,6 +20,8 @@
   - C3 Support 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4758/orion-on1-mc) 
 - **Battle Value:** 1501 
 

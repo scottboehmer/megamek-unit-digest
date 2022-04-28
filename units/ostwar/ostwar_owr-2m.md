@@ -15,6 +15,8 @@
   - LRM 20 (ammo: 18) 
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4769/ostwar-owr-2m) 
 - **Battle Value:** 1205 
 

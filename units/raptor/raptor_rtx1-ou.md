@@ -14,6 +14,8 @@
 - **Weapons:** 
   - ER Medium Laser × 3 
   - SRT 4 × 2 (ammo: 25) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2656/raptor-rtx1-ou) 
 - **Battle Value:** 914 
 

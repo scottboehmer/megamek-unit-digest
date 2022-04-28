@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Nimble Jumper 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2416/panther-pnt-10k) 
 - **Battle Value:** 838 
 

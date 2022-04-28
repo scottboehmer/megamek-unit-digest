@@ -17,6 +17,8 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1564/hunchback-hbk-5s) 
 - **Battle Value:** 1350 
 

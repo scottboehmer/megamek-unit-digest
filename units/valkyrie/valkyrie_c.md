@@ -17,6 +17,9 @@
   - Clan LRM 10 (ammo: 24) 
 - **Equipment:** 
   - Clan CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7701/valkyrie-c) 
 - **Battle Value:** 936 
 

@@ -16,6 +16,8 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Shoulder Turret × 2 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8430/grand-crusader-grn-d-01-x) 
 - **Battle Value:** 1869 
 

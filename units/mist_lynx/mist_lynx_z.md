@@ -19,6 +19,7 @@
   - CASE 
   - Modular Armor 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5643/koshi-mist-lynx-z) 
 - **Battle Value:** 970 

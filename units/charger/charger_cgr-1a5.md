@@ -15,6 +15,10 @@
   - SRM 6 × 2 (ammo: 15) 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/560/charger-cgr-1a5) 
 - **Battle Value:** 1468 
 

@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Plasma Rifle × 2 (ammo: 20) 
   - MML 9 × 2 (ammo: 26 LRM, 22 SRM) 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6465/catapult-ii-cplt-l7l) 
 - **Battle Value:** 1656 
 

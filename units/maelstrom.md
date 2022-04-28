@@ -16,6 +16,7 @@
 - **Equipment:** 
   - TAG 
 - **Design Quirks:** 
+  - Good Reputation 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1988/maelstrom-mtr-5k) 
 - **Battle Value:** 1694 
@@ -39,6 +40,7 @@
   - Beagle Active Probe 
   - TAG 
 - **Design Quirks:** 
+  - Good Reputation 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1989/maelstrom-mtr-6e) 
 - **Battle Value:** 1806 
@@ -62,6 +64,7 @@
   - Beagle Active Probe 
   - TAG 
 - **Design Quirks:** 
+  - Good Reputation 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1990/maelstrom-mtr-6k) 
 - **Battle Value:** 1678 
@@ -83,6 +86,7 @@
   - Supercharger 
   - C3 Boosted Support 
 - **Design Quirks:** 
+  - Good Reputation 
   - No Torso Twist 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6867/maelstrom-mtr-7k) 
 - **Battle Value:** 2462 

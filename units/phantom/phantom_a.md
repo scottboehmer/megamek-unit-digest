@@ -16,6 +16,8 @@
   - ER Small Laser × 5 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2481/phantom-a) 
 - **Battle Value:** 1410 
 

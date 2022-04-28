@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2054/marauder-ii-c) 
 - **Battle Value:** 2916 

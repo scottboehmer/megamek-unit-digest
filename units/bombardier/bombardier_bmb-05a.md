@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/421/bombardier-bmb-05a) 
 - **Battle Value:** 1440 
 

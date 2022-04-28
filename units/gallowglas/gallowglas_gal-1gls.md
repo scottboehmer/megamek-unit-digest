@@ -16,6 +16,8 @@
   - Large Laser × 2 
   - Medium Pulse Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Good Reputation 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1182/gallowglas-gal-1gls) 
 - **Battle Value:** 1695 
 

@@ -17,6 +17,10 @@
 - **Equipment:** 
   - CASE II 
   - Coolant Pod × 2 
+- **Design Quirks:** 
+  - Distracting 
+  - Searchlight 
+  - Difficult Ejection 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6422/tenshi-tn-10-oa) 
 - **Battle Value:** 1829 
 

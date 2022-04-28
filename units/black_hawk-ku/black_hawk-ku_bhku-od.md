@@ -15,6 +15,7 @@
   - LRM 20 (ammo: 12) 
   - ER Large Laser 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/350/black-hawk-ku-bhku-od) 
 - **Battle Value:** 1539 

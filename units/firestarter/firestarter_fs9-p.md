@@ -16,6 +16,8 @@
   - SRM 2 × 2 (ammo: 50) 
   - Small Laser × 2 
   - Flamer × 4 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1095/firestarter-fs9-p) 
 - **Battle Value:** 775 
 

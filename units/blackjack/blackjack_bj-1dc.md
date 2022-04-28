@@ -14,6 +14,8 @@
   - Medium Laser × 4 
   - AC/2 × 2 (ammo: 45) 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/375/blackjack-bj-1dc) 
 - **Battle Value:** 917 
 

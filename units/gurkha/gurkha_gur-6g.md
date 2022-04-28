@@ -17,6 +17,8 @@
   - Sword 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5663/gurkha-gur-6g) 
 - **Battle Value:** 1134 
 

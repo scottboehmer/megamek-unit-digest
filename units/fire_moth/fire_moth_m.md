@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Overhead Arms 
 - **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7580/dasher-fire-moth-m) 
 - **Battle Value:** 1200 
 

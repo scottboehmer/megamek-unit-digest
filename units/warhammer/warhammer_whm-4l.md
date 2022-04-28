@@ -17,6 +17,10 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3483/warhammer-whm-4l) 
 - **Battle Value:** 1743 
 

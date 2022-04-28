@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Communications 
   - Protected Actuators 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3585/wolverine-ii-wvr-7h) 
 - **Battle Value:** 1301 

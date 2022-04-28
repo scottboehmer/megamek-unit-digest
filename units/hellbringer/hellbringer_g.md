@@ -16,6 +16,8 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6879/loki-hellbringer-g) 
 - **Battle Value:** 1956 
 

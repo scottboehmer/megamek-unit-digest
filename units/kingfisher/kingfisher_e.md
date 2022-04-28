@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1783/kingfisher-e) 
 - **Battle Value:** 2443 
 

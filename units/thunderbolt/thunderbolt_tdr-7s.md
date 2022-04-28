@@ -19,6 +19,9 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Rec Guide:ilClan #15 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8190/thunderbolt-tdr-7s) 
 - **Battle Value:** 1582 
 

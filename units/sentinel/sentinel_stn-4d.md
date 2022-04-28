@@ -15,6 +15,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2863/sentinel-stn-4d) 
 - **Battle Value:** 1179 
 

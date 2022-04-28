@@ -20,6 +20,7 @@
   - Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7556/koshi-mist-lynx-t) 
 - **Battle Value:** 971 

@@ -18,6 +18,8 @@
   - ER Large Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2453/peacekeeper-pkp-1b) 
 - **Battle Value:** 2981 
 

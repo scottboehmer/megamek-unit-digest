@@ -22,6 +22,7 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2380/ostsol-otl-9r) 
 - **Battle Value:** 1654 

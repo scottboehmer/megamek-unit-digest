@@ -16,6 +16,7 @@
   - Small Laser × 2 
   - Flamer 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3521/wasp-wsp-1d) 
 - **Battle Value:** 403 

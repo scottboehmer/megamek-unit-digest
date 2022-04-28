@@ -21,6 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Searchlight 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1934/longbow-lgb-13nais) 
 - **Battle Value:** 1804 
 

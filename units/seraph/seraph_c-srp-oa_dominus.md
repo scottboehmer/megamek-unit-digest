@@ -24,7 +24,10 @@
   - TAG 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2870/seraph-c-srp-oa-dominus) 
 - **Battle Value:** 2355 
 

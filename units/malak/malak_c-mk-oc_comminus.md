@@ -22,6 +22,10 @@
   - C3i 
   - Targeting Computer 
   - TAG 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1997/malak-c-mk-oc-comminus) 
 - **Battle Value:** 944 
 

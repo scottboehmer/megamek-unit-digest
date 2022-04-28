@@ -17,6 +17,9 @@
   - Heavy Machine Gun × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8234/crusader-crd-10s) 
 - **Battle Value:** 2264 
 

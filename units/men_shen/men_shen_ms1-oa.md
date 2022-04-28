@@ -17,6 +17,9 @@
   - Beagle Active Probe 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2161/men-shen-ms1-oa) 
 - **Battle Value:** 1529 
 

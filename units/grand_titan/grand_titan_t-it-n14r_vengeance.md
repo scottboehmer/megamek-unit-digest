@@ -19,7 +19,10 @@
 - **Equipment:** 
   - CASE II 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Difficult to Maintain 
+  - Cowl 
+  - Improved Life Support 
 - **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5604/grand-titan-t-it-n14r-vengeance) 
 - **Battle Value:** 2237 
 

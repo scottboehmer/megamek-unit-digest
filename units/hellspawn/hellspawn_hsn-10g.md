@@ -15,6 +15,8 @@
   - Light PPC 
   - MML 7 × 2 (ammo: 34 LRM, 14 SRM) 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5673/hellspawn-hsn-10g) 
 - **Battle Value:** 1188 
 

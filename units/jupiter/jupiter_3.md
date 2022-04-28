@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Fine Manipulators 
+  - Improved Sensors 
   - Improved Targeting (Long) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1727/jupiter-3) 
 - **Battle Value:** 3074 

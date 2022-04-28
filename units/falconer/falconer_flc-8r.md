@@ -16,6 +16,7 @@
   - ER PPC 
   - Medium Laser × 4 
 - **Design Quirks:** 
+  - Stable 
   - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1033/falconer-flc-8r) 
 - **Battle Value:** 2231 

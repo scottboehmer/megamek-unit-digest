@@ -21,6 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Stable 
 - **Sources:** TRO 3075U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2447/patriot-pkm-2c) 
 - **Battle Value:** 1613 
 

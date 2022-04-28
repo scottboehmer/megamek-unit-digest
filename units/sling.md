@@ -13,6 +13,8 @@
   - LRM 5 × 3 (ammo: 48) 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Cramped Cockpit 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2967/sling-sl-1g) 
 - **Battle Value:** 578 
 - [*More Info*](sling/sling_sl-1g.md) 
@@ -31,6 +33,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Cramped Cockpit 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2968/sling-sl-1h) 
 - **Battle Value:** 731 
 - [*More Info*](sling/sling_sl-1h.md) 

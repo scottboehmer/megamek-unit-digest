@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1112/firestarter-fs9-s) 
 - **Battle Value:** 754 
 

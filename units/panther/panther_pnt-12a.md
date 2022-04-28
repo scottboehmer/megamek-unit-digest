@@ -20,6 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Nimble Jumper 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2418/panther-pnt-12a) 
 - **Battle Value:** 982 
 

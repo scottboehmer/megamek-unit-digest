@@ -18,6 +18,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1420/hauptmann-ha1-o) 
 - **Battle Value:** 2157 
@@ -39,6 +40,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1421/hauptmann-ha1-oa) 
 - **Battle Value:** 2311 
@@ -59,6 +61,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1422/hauptmann-ha1-ob) 
 - **Battle Value:** 2208 
@@ -82,6 +85,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1423/hauptmann-ha1-oc) 
 - **Battle Value:** 2333 
@@ -105,6 +109,7 @@
   - C3 Main 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1424/hauptmann-ha1-od) 
 - **Battle Value:** 2359 
@@ -125,6 +130,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1425/hauptmann-ha1-oe) 
 - **Battle Value:** 2298 
@@ -147,6 +153,7 @@
   - CASE 
   - CASE II 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6839/hauptmann-ha1-of) 
 - **Battle Value:** 2484 
@@ -167,6 +174,7 @@
   - CASE 
   - C3 Boosted Main 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6838/hauptmann-ha1-om) 
 - **Battle Value:** 2214 
@@ -188,6 +196,7 @@
   - CASE 
   - Clan CASE II 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6837/hauptmann-ha1-ot) 
 - **Battle Value:** 3031 

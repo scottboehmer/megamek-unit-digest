@@ -20,6 +20,7 @@
   - Machine Gun Array 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/437/buccaneer-bcn-5w) 
 - **Battle Value:** 1370 
 

@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3 Boosted Main 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1350/gunslinger-gun-2erdr) 
 - **Battle Value:** 2371 
 

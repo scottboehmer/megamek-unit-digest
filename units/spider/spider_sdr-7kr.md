@@ -15,6 +15,9 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Nimble Jumper 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3014/spider-sdr-7kr) 
 - **Battle Value:** 775 
 

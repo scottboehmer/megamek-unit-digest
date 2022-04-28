@@ -17,6 +17,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Stable 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7406/wolverine-wvr-1r) 
 - **Battle Value:** 885 
 

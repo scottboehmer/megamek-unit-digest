@@ -15,6 +15,7 @@
 - **Equipment:** 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Improved Targeting (Medium) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1863/legionnaire-lgn-2d) 
 - **Battle Value:** 1386 

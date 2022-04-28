@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5677/crimson-langur-e) 
 - **Battle Value:** 2051 

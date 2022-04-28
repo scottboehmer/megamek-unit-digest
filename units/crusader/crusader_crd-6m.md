@@ -18,6 +18,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761/crusader-crd-6m) 
 - **Battle Value:** 1373 
 

@@ -20,6 +20,8 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - C3 Support 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/331/berserker-brz-c3) 
 - **Battle Value:** 2395 
 

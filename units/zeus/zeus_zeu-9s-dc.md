@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Command Console 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5438/zeus-zeu-9s-dc) 
 - **Battle Value:** 1612 
 

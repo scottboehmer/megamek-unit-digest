@@ -19,6 +19,10 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Distracting 
+  - Searchlight 
+  - Difficult Ejection 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6421/tenshi-tn-10-o) 
 - **Battle Value:** 2542 
 

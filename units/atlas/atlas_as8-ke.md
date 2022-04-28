@@ -19,6 +19,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8434/atlas-as8-ke) 
 - **Battle Value:** 2658 
 

@@ -16,6 +16,7 @@
   - Medium Laser × 5 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015) 
 - **Battle Value:** 1919 

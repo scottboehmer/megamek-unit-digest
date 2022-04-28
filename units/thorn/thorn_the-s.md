@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3195/thorn-the-s) 
 - **Battle Value:** 510 
 

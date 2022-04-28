@@ -19,6 +19,7 @@
 - **Equipment:** 
   - MASS 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Difficult to Maintain 
 - **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1406/hatamoto-kaeru-htm-35x) 
 - **Battle Value:** 1906 

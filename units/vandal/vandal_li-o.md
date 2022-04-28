@@ -20,6 +20,8 @@
   - Supercharger 
   - CASE II 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Variable Range Targeting 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6461/vandal-li-o) 
 - **Battle Value:** 1881 
 

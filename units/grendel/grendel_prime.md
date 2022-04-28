@@ -18,6 +18,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1293/grendel-mongrel-prime) 
 - **Battle Value:** 2290 
 

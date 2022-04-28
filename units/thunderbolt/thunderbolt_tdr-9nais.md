@@ -18,6 +18,9 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3247/thunderbolt-tdr-9nais) 
 - **Battle Value:** 1864 
 

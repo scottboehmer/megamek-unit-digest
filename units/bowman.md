@@ -14,6 +14,9 @@
   - ECM Suite 
   - A-Pod × 4 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
+  - Bad Reputation (Clan) 
 - **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5691/bowman-4) 
 - **Battle Value:** 1657 
 - [*More Info*](bowman/bowman_4.md) 
@@ -34,6 +37,9 @@
   - ECM Suite 
   - A-Pod × 4 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
+  - Bad Reputation (Clan) 
 - **Sources:** RS 3068 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/3857/bowman-standard) 
 - **Battle Value:** 2209 
 - [*More Info*](bowman/bowman_standard.md) 
@@ -54,6 +60,9 @@
   - ECM Suite 
   - A-Pod × 4 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
+  - Bad Reputation (Clan) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/3858/bowman-2) 
 - **Battle Value:** 2567 
 - [*More Info*](bowman/bowman_2.md) 
@@ -75,6 +84,9 @@
   - B-Pod × 2 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Stable 
+  - Bad Reputation (Clan) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5690/bowman-3) 
 - **Battle Value:** 2767 
 - [*More Info*](bowman/bowman_3.md) 

@@ -17,6 +17,9 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7702/valkyrie-vlk-qdd) 
 - **Battle Value:** 834 
 

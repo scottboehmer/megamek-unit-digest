@@ -16,6 +16,9 @@
 - **Equipment:** 
   - AES 
   - CASE 
+- **Design Quirks:** 
+  - Reinforced Legs 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8189/rawhide-rwd-r1) 
 - **Battle Value:** 1939 
 - [*More Info*](rawhide/rawhide_rwd-r1.md) 

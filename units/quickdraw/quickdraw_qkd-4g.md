@@ -15,6 +15,8 @@
   - LRM 10 (ammo: 12) 
   - Medium Laser × 4 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2610/quickdraw-qkd-4g) 
 - **Battle Value:** 1192 
 

@@ -16,6 +16,8 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3413/victor-vtr-9ka) 
 - **Battle Value:** 1594 
 

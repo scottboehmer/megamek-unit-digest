@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5713/akuma-aku-2x) 
 - **Battle Value:** 2122 
 

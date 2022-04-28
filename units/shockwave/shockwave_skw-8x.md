@@ -16,6 +16,9 @@
   - Thumper Cannon (ammo: 0) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Battlefists 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6902/shockwave-skw-8x) 
 - **Battle Value:** 1059 
 

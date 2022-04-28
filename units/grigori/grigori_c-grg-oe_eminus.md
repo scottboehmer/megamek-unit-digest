@@ -20,6 +20,10 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1325/grigori-c-grg-oe-eminus) 
 - **Battle Value:** 1544 
 

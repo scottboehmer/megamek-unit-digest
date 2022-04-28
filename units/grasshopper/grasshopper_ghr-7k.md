@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1270/grasshopper-ghr-7k) 
 - **Battle Value:** 1806 
 

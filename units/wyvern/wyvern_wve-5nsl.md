@@ -18,6 +18,8 @@
   - Small Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5875/wyvern-wve-5nsl) 
 - **Battle Value:** 1207 
 

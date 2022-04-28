@@ -13,6 +13,9 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Large Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Nimble Jumper 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3012/spider-sdr-7k2) 
 - **Battle Value:** 884 
 

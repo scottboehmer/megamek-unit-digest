@@ -17,6 +17,10 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2902/shadow-hawk-shd-2hb) 
 - **Battle Value:** 1354 
 

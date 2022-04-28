@@ -18,6 +18,7 @@
   - Full Head Ejection System 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2506/phoenix-hawk-pxh-6d) 
 - **Battle Value:** 1665 

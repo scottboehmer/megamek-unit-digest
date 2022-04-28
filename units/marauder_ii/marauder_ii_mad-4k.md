@@ -17,6 +17,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2057/marauder-ii-mad-4k) 
 - **Battle Value:** 2626 

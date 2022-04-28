@@ -16,7 +16,10 @@
 - **Equipment:** 
   - Beagle Active Probe 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2367/ostscout-ott-7jb) 
 - **Battle Value:** 610 
 

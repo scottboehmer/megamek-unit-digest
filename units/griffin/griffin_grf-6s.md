@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307/griffin-grf-6s) 
 - **Battle Value:** 1781 
 

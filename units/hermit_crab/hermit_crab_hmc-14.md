@@ -13,6 +13,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7722/hermit-crab-hmc-14) 
 - **Battle Value:** 844 
 

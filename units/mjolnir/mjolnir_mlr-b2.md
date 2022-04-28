@@ -16,6 +16,8 @@
   - ER Medium Laser 
   - ER Small Laser 
   - Mace 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2194/mjolnir-mlr-b2) 
 - **Battle Value:** 670 
 

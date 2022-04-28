@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Spikes 
   - Coolant Pod × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/882/dervish-dv-8d2-lightbringer) 
 - **Battle Value:** 1717 
 

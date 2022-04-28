@@ -17,6 +17,8 @@
   - LB 2-X AC (ammo: 45) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2289/nobori-nin-huntsman-a) 
 - **Battle Value:** 2034 
 

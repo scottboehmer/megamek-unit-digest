@@ -12,6 +12,9 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Large Laser 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1587/hussar-hsr-300-d) 
 - **Battle Value:** 543 
 

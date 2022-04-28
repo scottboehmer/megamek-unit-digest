@@ -16,6 +16,8 @@
   - SRM 4 (ammo: 25) 
   - Sword 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4730/no-dachi-nda-1k) 
 - **Battle Value:** 1708 
 - [*More Info*](no-dachi/no-dachi_nda-1k.md) 
@@ -37,6 +39,8 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4732/no-dachi-nda-2k) 
 - **Battle Value:** 1739 
 - [*More Info*](no-dachi/no-dachi_nda-2k.md) 
@@ -58,6 +62,8 @@
   - Small Pulse Laser 
   - Small Laser 
   - Flamer 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4733/no-dachi-nda-2ko) 
 - **Battle Value:** 1728 
 - [*More Info*](no-dachi/no-dachi_nda-2ko.md) 
@@ -81,6 +87,8 @@
   - Flamer 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2297/no-dachi-nda-2kc) 
 - **Battle Value:** 1705 
 - [*More Info*](no-dachi/no-dachi_nda-2kc.md) 
@@ -102,6 +110,8 @@
   - Large Vibroblade 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2298/no-dachi-nda-3x) 
 - **Battle Value:** 2609 
 - [*More Info*](no-dachi/no-dachi_nda-3x.md) 
@@ -124,6 +134,8 @@
   - Small Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5692/no-dachi-nda-3s) 
 - **Battle Value:** 1706 
 - [*More Info*](no-dachi/no-dachi_nda-3s.md) 

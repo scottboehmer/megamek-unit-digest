@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - MASC 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2636/rampage-rmp-4g) 
 - **Battle Value:** 2130 
 

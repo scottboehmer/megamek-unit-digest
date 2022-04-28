@@ -16,6 +16,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
 - **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5544/yu-huang-carson) 
 - **Battle Value:** 2464 
 - [*More Info*](yu_huang/yu_huang_carson.md) 
@@ -38,6 +39,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3624/yu-huang-y-h10g) 
 - **Battle Value:** 2433 
 - [*More Info*](yu_huang/yu_huang_y-h10g.md) 
@@ -59,6 +61,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3626/yu-huang-y-h9g) 
 - **Battle Value:** 2074 
 - [*More Info*](yu_huang/yu_huang_y-h9g.md) 
@@ -81,6 +84,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3628/yu-huang-y-h9gc) 
 - **Battle Value:** 2017 
 - [*More Info*](yu_huang/yu_huang_y-h9gc.md) 
@@ -101,6 +105,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3627/yu-huang-y-h9gb) 
 - **Battle Value:** 2039 
 - [*More Info*](yu_huang/yu_huang_y-h9gb.md) 
@@ -124,6 +129,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3625/yu-huang-y-h11g) 
 - **Battle Value:** 2131 
 - [*More Info*](yu_huang/yu_huang_y-h11g.md) 

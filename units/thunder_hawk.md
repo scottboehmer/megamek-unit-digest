@@ -13,6 +13,8 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3222/thunder-hawk-tdk-7x) 
 - **Battle Value:** 2577 
@@ -31,6 +33,8 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3223/thunder-hawk-tdk-7y) 
 - **Battle Value:** 2489 
@@ -50,6 +54,8 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3220/thunder-hawk-tdk-7kma) 
 - **Battle Value:** 2449 
@@ -68,6 +74,8 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3221/thunder-hawk-tdk-7s) 
 - **Battle Value:** 2440 

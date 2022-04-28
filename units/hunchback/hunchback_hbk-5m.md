@@ -16,6 +16,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1561/hunchback-hbk-5m) 
 - **Battle Value:** 1056 
 

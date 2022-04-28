@@ -18,6 +18,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2292/nobori-nin-huntsman-d) 
 - **Battle Value:** 2007 
 

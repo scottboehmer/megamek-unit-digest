@@ -13,6 +13,9 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium VSP Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Nimble Jumper 
 - **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8306/spider-sdr-9m) 
 - **Battle Value:** 687 
 

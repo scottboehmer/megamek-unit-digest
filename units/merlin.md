@@ -15,6 +15,9 @@
   - LRM 5 (ammo: 24) 
   - Flamer 
   - Machine Gun (ammo: 100) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2177/merlin-mln-1a) 
 - **Battle Value:** 1217 
 - [*More Info*](merlin/merlin_mln-1a.md) 
@@ -33,6 +36,9 @@
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
   - Flamer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2178/merlin-mln-1b) 
 - **Battle Value:** 1228 
 - [*More Info*](merlin/merlin_mln-1b.md) 
@@ -50,6 +56,9 @@
   - Large Laser 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2179/merlin-mln-1b-porter) 
 - **Battle Value:** 1233 
 - [*More Info*](merlin/merlin_mln-1b_porter.md) 
@@ -68,6 +77,9 @@
   - ER Medium Laser × 2 
   - LRM 5 (ammo: 24) 
   - Flamer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2180/merlin-mln-1c) 
 - **Battle Value:** 1267 
 - [*More Info*](merlin/merlin_mln-1c.md) 
@@ -84,6 +96,9 @@
 - **Weapons:** 
   - Bombast Laser w/ Laser Insulator 
   - Medium VSP Laser w/ Laser Insulator × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** XTRO Boondocks - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2181/merlin-mln-sx) 
 - **Battle Value:** 1121 
 - [*More Info*](merlin/merlin_mln-sx.md) 

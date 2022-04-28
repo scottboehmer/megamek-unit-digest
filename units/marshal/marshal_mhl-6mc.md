@@ -19,6 +19,9 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Machine Gun Array 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×3) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2089/marshal-mhl-6mc) 
 - **Battle Value:** 1457 
 

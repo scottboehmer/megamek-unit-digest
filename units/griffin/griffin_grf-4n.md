@@ -15,6 +15,9 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 20) 
   - ER Medium Laser × 3 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301/griffin-grf-4n) 
 - **Battle Value:** 1591 
 

@@ -16,6 +16,9 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #4 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3501/warhammer-iic-2) 
 - **Battle Value:** 2482 
 

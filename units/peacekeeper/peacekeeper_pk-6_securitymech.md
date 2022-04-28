@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7159/peacekeeper-pk-6-securitymech) 
 - **Battle Value:** 422 
 

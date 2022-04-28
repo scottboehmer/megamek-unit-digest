@@ -12,6 +12,7 @@
   - Large Laser × 2 
   - Medium Laser × 4 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2371/ostsol-otl-4d) 
 - **Battle Value:** 1277 
@@ -28,6 +29,7 @@
 - **Weapons:** 
   - PPC × 2 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2372/ostsol-otl-4f) 
 - **Battle Value:** 1264 
@@ -47,6 +49,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #14 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m) 
 - **Battle Value:** 1245 
@@ -69,6 +72,7 @@
 - **Equipment:** 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2375/ostsol-otl-6d) 
 - **Battle Value:** 1880 
@@ -87,6 +91,7 @@
   - Medium Laser × 2 
   - Rocket 10 × 5 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2373/ostsol-otl-5d) 
 - **Battle Value:** 1333 
@@ -106,6 +111,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2376/ostsol-otl-7m) 
 - **Battle Value:** 1581 
@@ -127,6 +133,7 @@
   - Medium Pulse Laser × 3 
   - ER Small Laser 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2378/ostsol-otl-8m) 
 - **Battle Value:** 1733 
@@ -149,6 +156,7 @@
   - CASE 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2377/ostsol-otl-8d) 
 - **Battle Value:** 1462 
@@ -174,6 +182,7 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2380/ostsol-otl-9r) 
 - **Battle Value:** 1654 
@@ -196,6 +205,7 @@
   - Guardian ECM Suite 
   - MASC 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2379/ostsol-otl-9m) 
 - **Battle Value:** 1871 
@@ -215,6 +225,7 @@
   - Medium X-Pulse Laser × 2 
   - ER Small Laser × 2 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e) 
 - **Battle Value:** 1552 
@@ -235,6 +246,7 @@
 - **Equipment:** 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c) 
 - **Battle Value:** 2277 
@@ -253,6 +265,7 @@
   - ER PPC × 2 
   - ER Medium Laser × 4 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f) 
 - **Battle Value:** 1698 
@@ -273,6 +286,7 @@
   - Medium X-Pulse Laser × 2 
   - ER Small Laser × 2 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8162/ostsol-otl-8e3) 
 - **Battle Value:** 1671 

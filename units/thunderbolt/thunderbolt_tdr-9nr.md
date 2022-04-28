@@ -21,6 +21,9 @@
   - B-Pod × 2 
   - C3 Support 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3248/thunderbolt-tdr-9nr) 
 - **Battle Value:** 1632 
 

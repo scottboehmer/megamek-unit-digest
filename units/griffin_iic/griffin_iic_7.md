@@ -17,6 +17,8 @@
   - ER Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1316/griffin-iic-7) 
 - **Battle Value:** 1952 
 

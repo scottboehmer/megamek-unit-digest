@@ -13,6 +13,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER PPC 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2392/pack-hunter-standard) 
 - **Battle Value:** 1369 
 

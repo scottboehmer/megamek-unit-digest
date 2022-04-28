@@ -14,6 +14,8 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser × 5 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4232/grasshopper-ghr-5n) 
 - **Battle Value:** 1511 
 

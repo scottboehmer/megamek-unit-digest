@@ -17,6 +17,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1070/fire-falcon-prime) 
 - **Battle Value:** 1451 
 

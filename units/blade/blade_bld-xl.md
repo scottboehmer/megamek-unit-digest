@@ -16,6 +16,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/391/blade-bld-xl) 
 - **Battle Value:** 1314 
 

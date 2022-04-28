@@ -18,7 +18,9 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Extended Torso Twist 
+  - Improved Communications 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3571/wolverine-wvr-6k) 
 - **Battle Value:** 1248 
 

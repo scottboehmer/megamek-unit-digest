@@ -16,6 +16,9 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Cramped Cockpit 
+  - Difficult Ejection 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2567/predator-standard) 
 - **Battle Value:** 1754 
 

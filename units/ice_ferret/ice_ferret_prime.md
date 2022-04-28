@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1053/fenris-ice-ferret-prime) 
 - **Battle Value:** 1678 
 

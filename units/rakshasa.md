@@ -14,6 +14,7 @@
   - Medium Pulse Laser 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2631/rakshasa-mdg-1a) 
 - **Battle Value:** 1795 
@@ -33,6 +34,7 @@
   - Medium Pulse Laser 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2633/rakshasa-mdg-1b) 
 - **Battle Value:** 1748 
@@ -51,6 +53,7 @@
   - Large Pulse Laser 
   - Medium Pulse Laser × 4 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2634/rakshasa-mdg-2a) 
 - **Battle Value:** 1766 
@@ -71,6 +74,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2632/rakshasa-mdg-1ar) 
 - **Battle Value:** 1675 

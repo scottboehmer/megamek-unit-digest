@@ -12,6 +12,7 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1820/koschei-ksc-3i) 
 - **Battle Value:** 1255 
@@ -30,6 +31,7 @@
   - Large Laser 
   - Medium Laser 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1821/koschei-ksc-3l) 
 - **Battle Value:** 1384 
@@ -50,6 +52,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1822/koschei-ksc-4i) 
 - **Battle Value:** 1516 
@@ -70,6 +73,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1823/koschei-ksc-4l) 
 - **Battle Value:** 1503 
@@ -92,6 +96,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1825/koschei-ksc-5mc) 
 - **Battle Value:** 1764 
@@ -114,6 +119,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1824/koschei-ksc-5i) 
 - **Battle Value:** 1961 
@@ -137,6 +143,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1826/koschei-ksc-5x) 
 - **Battle Value:** 1554 
@@ -158,6 +165,7 @@
   - CASE II 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Weak Head Armor (1) 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6881/koschei-ksc-6l) 
 - **Battle Value:** 1465 

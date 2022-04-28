@@ -19,6 +19,7 @@
   - Full Head Ejection System 
   - C3 Support 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs) 
 - **Battle Value:** 1442 

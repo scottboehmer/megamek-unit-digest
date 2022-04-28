@@ -14,6 +14,9 @@
   - PPC 
   - AC/5 (ammo: 20) 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/240/banshee-bnc-3e) 
 - **Battle Value:** 1422 
 

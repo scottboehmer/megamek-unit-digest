@@ -17,6 +17,9 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2163/men-shen-ms1-oc) 
 - **Battle Value:** 1435 
 

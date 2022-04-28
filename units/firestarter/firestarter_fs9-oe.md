@@ -17,6 +17,8 @@
   - Small Pulse Laser 
   - Sword 
   - Flamer × 2 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1104/firestarter-fs9-oe) 
 - **Battle Value:** 998 
 

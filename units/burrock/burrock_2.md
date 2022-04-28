@@ -16,6 +16,8 @@
   - Heavy Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5694/burrock-2) 
 - **Battle Value:** 2864 
 

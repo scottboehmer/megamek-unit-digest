@@ -17,6 +17,8 @@
   - Guardian ECM Suite 
   - Command Console 
   - Communications Equipment 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5594/awesome-aws-9ma) 
 - **Battle Value:** 1836 
 

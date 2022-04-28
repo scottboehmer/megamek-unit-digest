@@ -24,6 +24,7 @@
 - **Equipment:** 
   - Armored Actuator × 16 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Difficult to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6830/grand-titan-t-it-n13m) 
 - **Battle Value:** 2533 

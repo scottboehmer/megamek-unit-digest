@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6285/thor-ii-grand-summoner-d) 
 - **Battle Value:** 2878 
 

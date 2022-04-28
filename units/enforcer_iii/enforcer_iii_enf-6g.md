@@ -16,6 +16,9 @@
   - ER Medium Laser × 3 
   - Medium Pulse Laser 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/980/enforcer-iii-enf-6g) 
 - **Battle Value:** 1858 
 

@@ -18,6 +18,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/152/atlas-ii-as7-d-h) 
 - **Battle Value:** 2169 
 - [*More Info*](atlas_ii/atlas_ii_as7-d-h.md) 
@@ -40,6 +43,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/153/atlas-ii-as7-d-h2) 
 - **Battle Value:** 2340 
 - [*More Info*](atlas_ii/atlas_ii_as7-d-h2.md) 
@@ -62,6 +68,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Arano Restoration , [Master Unit List](http://masterunitlist.info/Unit/Details/7618/atlas-ii-as7-d-ht) 
 - **Battle Value:** 2205 
 - [*More Info*](atlas_ii/atlas_ii_as7-d-ht.md) 
@@ -86,6 +95,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** OTP Widowmaker - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7310/atlas-ii-as7-d-h-kerensky) 
 - **Battle Value:** 2777 
 - [*More Info*](atlas_ii/atlas_ii_as7-d-h_kerensky.md) 
@@ -111,6 +123,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Total Chaos , [Master Unit List](http://masterunitlist.info/Unit/Details/7398/atlas-ii-as7-d-h-devlin) 
 - **Battle Value:** 2474 
 - [*More Info*](atlas_ii/atlas_ii_as7-d-h_devlin.md) 
@@ -133,6 +148,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8459/atlas-ii-as7-dk-h) 
 - **Battle Value:** 2599 
 - [*More Info*](atlas_ii/atlas_ii_as7-dk-h.md) 

@@ -15,6 +15,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3066/stinger-stg-6l) 
 - **Battle Value:** 680 
 

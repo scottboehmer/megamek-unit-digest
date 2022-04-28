@@ -19,6 +19,9 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8193/thunderbolt-tdr-11s) 
 - **Battle Value:** 1570 
 

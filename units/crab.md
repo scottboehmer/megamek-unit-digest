@@ -12,6 +12,8 @@
   - Large Laser × 2 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/716/crab-crb-27) 
 - **Battle Value:** 1198 
 - [*More Info*](crab/crab_crb-27.md) 
@@ -28,6 +30,8 @@
   - ER Large Laser × 2 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/717/crab-crb-27b) 
 - **Battle Value:** 1308 
 - [*More Info*](crab/crab_crb-27b.md) 
@@ -45,6 +49,8 @@
   - Large Pulse Laser × 2 
   - Medium Pulse Laser 
   - Medium Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5873/crab-crb-27sl) 
 - **Battle Value:** 1309 
 - [*More Info*](crab/crab_crb-27sl.md) 
@@ -61,6 +67,8 @@
   - Large Laser × 2 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/715/crab-crb-20) 
 - **Battle Value:** 1143 
 - [*More Info*](crab/crab_crb-20.md) 
@@ -78,6 +86,8 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/720/crab-crb-c) 
 - **Battle Value:** 1135 
 - [*More Info*](crab/crab_crb-c.md) 
@@ -97,6 +107,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/718/crab-crb-30) 
 - **Battle Value:** 1509 
 - [*More Info*](crab/crab_crb-30.md) 
@@ -114,6 +126,8 @@
   - Light PPC × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/719/crab-crb-45) 
 - **Battle Value:** 1342 
 - [*More Info*](crab/crab_crb-45.md) 
@@ -132,6 +146,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7510/crab-crb-54) 
 - **Battle Value:** 1964 
 - [*More Info*](crab/crab_crb-54.md) 

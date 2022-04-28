@@ -15,6 +15,8 @@
   - Improved Heavy Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7554/ryoken-stormcrow-k) 
 - **Battle Value:** 2001 
 

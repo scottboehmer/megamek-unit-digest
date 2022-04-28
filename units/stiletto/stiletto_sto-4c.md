@@ -15,6 +15,9 @@
   - MML 5 (ammo: 48 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Difficult Ejection 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5666/stiletto-sto-4c) 
 - **Battle Value:** 941 
 

@@ -20,6 +20,9 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/67/archangel-c-ang-ob-infernus) 
 - **Battle Value:** 2069 
 

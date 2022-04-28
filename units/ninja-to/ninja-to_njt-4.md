@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5687/ninja-to-njt-4) 
 - **Battle Value:** 1762 
 

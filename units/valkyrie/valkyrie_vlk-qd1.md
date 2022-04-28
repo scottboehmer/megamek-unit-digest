@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3374/valkyrie-vlk-qd1) 
 - **Battle Value:** 878 
 

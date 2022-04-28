@@ -14,7 +14,10 @@
 - **Weapons:** 
   - Medium Laser 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2366/ostscout-ott-7j) 
 - **Battle Value:** 596 
 

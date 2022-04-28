@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1313/griffin-iic-4) 
 - **Battle Value:** 1475 
 

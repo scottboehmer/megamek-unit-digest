@@ -19,6 +19,7 @@
   - C3i 
   - Clan Light TAG 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Command ’Mech 
 - **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7636/doloire-dlr-oblo) 
 - **Battle Value:** 2441 

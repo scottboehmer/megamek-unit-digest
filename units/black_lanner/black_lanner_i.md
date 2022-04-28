@@ -19,6 +19,8 @@
   - MASC 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8187/black-lanner-i) 
 - **Battle Value:** 1803 
 

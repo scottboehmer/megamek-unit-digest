@@ -17,6 +17,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3528/wasp-wsp-3m) 
 - **Battle Value:** 394 

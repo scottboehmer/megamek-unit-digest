@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5821/thor-summoner-z) 
 - **Battle Value:** 2783 
 

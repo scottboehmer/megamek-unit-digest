@@ -15,6 +15,8 @@
   - PPC 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1340/guillotine-glt-4p) 
 - **Battle Value:** 1376 
 

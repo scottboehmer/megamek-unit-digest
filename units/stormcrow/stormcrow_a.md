@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2749/ryoken-stormcrow-a) 
 - **Battle Value:** 2319 
 

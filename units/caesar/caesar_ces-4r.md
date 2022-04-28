@@ -18,6 +18,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/457/caesar-ces-4r) 
 - **Battle Value:** 2024 
 

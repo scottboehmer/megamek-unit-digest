@@ -15,6 +15,8 @@
   - Large Laser 
   - Medium Laser × 4 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1267/grasshopper-ghr-5h) 
 - **Battle Value:** 1427 
 

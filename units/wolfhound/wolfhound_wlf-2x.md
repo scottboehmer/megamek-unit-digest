@@ -18,6 +18,9 @@
   - Full Head Ejection System 
   - AES 
   - Supercharger 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** XTR Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3564/wolfhound-wlf-2x) 
 - **Battle Value:** 1842 
 

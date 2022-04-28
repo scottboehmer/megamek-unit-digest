@@ -18,6 +18,8 @@
   - Beagle Active Probe 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3056/stealth-sth-2d2) 
 - **Battle Value:** 1339 
 

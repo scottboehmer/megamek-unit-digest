@@ -18,7 +18,9 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Extended Torso Twist 
+  - Improved Communications 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3572/wolverine-wvr-6m) 
 - **Battle Value:** 1291 
 

@@ -13,6 +13,10 @@
 - **Weapons:** 
   - Medium Laser 
   - Rocket 10 × 5 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/564/charger-cgr-2a2) 
 - **Battle Value:** 1109 
 

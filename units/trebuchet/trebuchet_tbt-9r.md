@@ -16,6 +16,8 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6901/trebuchet-tbt-9r) 
 - **Battle Value:** 2165 
 

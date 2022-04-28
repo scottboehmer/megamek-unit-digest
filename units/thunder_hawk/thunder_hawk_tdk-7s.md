@@ -15,6 +15,8 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3221/thunder-hawk-tdk-7s) 
 - **Battle Value:** 2440 

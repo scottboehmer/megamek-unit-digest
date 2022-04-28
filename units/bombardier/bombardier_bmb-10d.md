@@ -14,6 +14,8 @@
   - LRM 20 × 2 (ammo: 12) 
   - SRM 4 (ammo: 25) 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/422/bombardier-bmb-10d) 
 - **Battle Value:** 1340 
 

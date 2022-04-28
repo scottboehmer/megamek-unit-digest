@@ -13,6 +13,10 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2898/shadow-hawk-shd-1r) 
 - **Battle Value:** 851 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-1r.md) 
@@ -31,6 +35,10 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2901/shadow-hawk-shd-2h) 
 - **Battle Value:** 1064 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2h.md) 
@@ -50,6 +58,10 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2902/shadow-hawk-shd-2hb) 
 - **Battle Value:** 1354 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2hb.md) 
@@ -68,6 +80,10 @@
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
   - SRM 2 × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2899/shadow-hawk-shd-2d) 
 - **Battle Value:** 899 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2d.md) 
@@ -84,6 +100,10 @@
 - **Weapons:** 
   - PPC 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2903/shadow-hawk-shd-2k) 
 - **Battle Value:** 1147 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2k.md) 
@@ -104,6 +124,10 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2906/shadow-hawk-shd-5m) 
 - **Battle Value:** 1430 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5m.md) 
@@ -122,6 +146,10 @@
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
   - Streak SRM 2 × 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2900/shadow-hawk-shd-2d2) 
 - **Battle Value:** 1049 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2d2.md) 
@@ -201,6 +229,10 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2905/shadow-hawk-shd-5d) 
 - **Battle Value:** 1684 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5d.md) 
@@ -222,6 +254,10 @@
   - Full Head Ejection System 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2907/shadow-hawk-shd-7cs) 
 - **Battle Value:** 1496 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-7cs.md) 
@@ -243,6 +279,10 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2908/shadow-hawk-shd-7m) 
 - **Battle Value:** 1447 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-7m.md) 
@@ -264,6 +304,10 @@
   - Full Head Ejection System 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs) 
 - **Battle Value:** 1700 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-11cs.md) 
@@ -282,6 +326,10 @@
   - Light PPC 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5806/shadow-hawk-shd-5d-sandy) 
 - **Battle Value:** 1517 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5d_sandy.md) 
@@ -304,6 +352,10 @@
   - Targeting Computer 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2910/shadow-hawk-shd-9d) 
 - **Battle Value:** 1313 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-9d.md) 
@@ -324,6 +376,10 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2904/shadow-hawk-shd-3k) 
 - **Battle Value:** 1591 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-3k.md) 
@@ -344,6 +400,10 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2897/shadow-hawk-shd-12c) 
 - **Battle Value:** 1574 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-12c.md) 
@@ -366,6 +426,10 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2909/shadow-hawk-shd-8l) 
 - **Battle Value:** 1536 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-8l.md) 

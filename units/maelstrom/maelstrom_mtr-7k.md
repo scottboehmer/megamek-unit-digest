@@ -18,6 +18,7 @@
   - Supercharger 
   - C3 Boosted Support 
 - **Design Quirks:** 
+  - Good Reputation 
   - No Torso Twist 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6867/maelstrom-mtr-7k) 
 - **Battle Value:** 2462 

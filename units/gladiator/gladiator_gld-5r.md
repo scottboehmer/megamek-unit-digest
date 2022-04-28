@@ -19,6 +19,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1202/gladiator-gld-5r) 
 - **Battle Value:** 1412 
 

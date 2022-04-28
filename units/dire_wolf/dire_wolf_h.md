@@ -20,6 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Difficult Ejection 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/817/daishi-dire-wolf-h) 
 - **Battle Value:** 2992 
 

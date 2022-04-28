@@ -17,6 +17,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5241/ti-tsang-china-doll) 
 - **Battle Value:** 1739 
 

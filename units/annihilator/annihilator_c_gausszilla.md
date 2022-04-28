@@ -14,6 +14,8 @@
   - Gauss Rifle × 5 (ammo: 64) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/44/annihilator-c-gausszilla) 
 - **Battle Value:** 2455 
 

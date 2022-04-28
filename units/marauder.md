@@ -16,6 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2033/marauder-mad-1r) 
 - **Battle Value:** 1420 
@@ -37,6 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2034/marauder-mad-2r) 
 - **Battle Value:** 1630 
@@ -56,6 +58,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2038/marauder-mad-3r) 
 - **Battle Value:** 1363 
@@ -75,6 +78,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2035/marauder-mad-3d) 
 - **Battle Value:** 1470 
@@ -94,6 +98,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2037/marauder-mad-3m) 
 - **Battle Value:** 1335 
@@ -114,6 +119,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2036/marauder-mad-3l) 
 - **Battle Value:** 1369 
@@ -133,6 +139,7 @@
   - Medium Laser × 5 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015) 
 - **Battle Value:** 1919 
@@ -152,6 +159,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2052/marauder-mad-sd-douglass) 
 - **Battle Value:** 1459 
@@ -170,6 +178,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Design Quirks:** 
   - Combat Computer 
+  - Cramped Cockpit 
   - Difficult to Maintain 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x) 
 - **Battle Value:** 1453 
@@ -190,6 +199,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2031/marauder-bounty-hunter-3044) 
 - **Battle Value:** 2103 
@@ -213,6 +223,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2039/marauder-mad-5d) 
 - **Battle Value:** 1787 
@@ -234,6 +245,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2032/marauder-c) 
 - **Battle Value:** 1711 
@@ -256,6 +268,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2041/marauder-mad-5m) 
 - **Battle Value:** 1471 
@@ -277,6 +290,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2043/marauder-mad-5s) 
 - **Battle Value:** 1799 
@@ -335,6 +349,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2040/marauder-mad-5l) 
 - **Battle Value:** 2244 
@@ -358,6 +373,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2042/marauder-mad-5r) 
 - **Battle Value:** 1877 
@@ -380,6 +396,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2044/marauder-mad-5t) 
 - **Battle Value:** 1750 
@@ -403,6 +420,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2046/marauder-mad-7d) 
 - **Battle Value:** 1986 
@@ -424,6 +442,7 @@
   - TAG 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2047/marauder-mad-9m) 
 - **Battle Value:** 1704 
@@ -445,6 +464,7 @@
   - TAG 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2048/marauder-mad-9m2) 
 - **Battle Value:** 1875 
@@ -469,6 +489,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2049/marauder-mad-9s) 
 - **Battle Value:** 1786 
@@ -490,6 +511,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2045/marauder-mad-6l) 
 - **Battle Value:** 2322 
@@ -533,6 +555,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2050/marauder-mad-9w) 
 - **Battle Value:** 1788 
@@ -576,6 +599,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2051/marauder-mad-9w2) 
 - **Battle Value:** 1868 
@@ -673,6 +697,7 @@
   - Radical Heat Sink System 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6866/marauder-mad-9d) 
 - **Battle Value:** 1967 

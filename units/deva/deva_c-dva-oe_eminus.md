@@ -19,6 +19,10 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/890/deva-c-dva-oe-eminus) 
 - **Battle Value:** 1686 
 

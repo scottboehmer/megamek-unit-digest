@@ -16,6 +16,7 @@
   - Medium Laser × 6 
   - Small Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/345/black-hawk-ku-bhku-o) 
 - **Battle Value:** 1731 

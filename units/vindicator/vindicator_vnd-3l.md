@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3426/vindicator-vnd-3l) 
 - **Battle Value:** 1105 

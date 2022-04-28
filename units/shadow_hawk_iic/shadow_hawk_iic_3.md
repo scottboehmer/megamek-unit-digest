@@ -16,6 +16,9 @@
   - Medium Pulse Laser 
   - Micro Pulse Laser × 2 
   - ER Micro Laser × 2 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2913/shadow-hawk-iic-3) 
 - **Battle Value:** 1471 
 

@@ -15,6 +15,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6980/sha-yu-bulldog) 
 - **Battle Value:** 1379 
 

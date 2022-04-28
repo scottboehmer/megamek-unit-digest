@@ -23,6 +23,9 @@
   - Remote Sensor Dispenser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5564/atlas-as7-00-jurn) 
 - **Battle Value:** 2053 
 

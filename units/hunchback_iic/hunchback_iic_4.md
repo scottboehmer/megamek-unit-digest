@@ -17,6 +17,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1571/hunchback-iic-4) 
 - **Battle Value:** 2097 
 

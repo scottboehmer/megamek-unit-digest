@@ -19,6 +19,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1210/gladiator-executioner-p) 
 - **Battle Value:** 3052 
 

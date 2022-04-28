@@ -17,6 +17,9 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6782/dragoon-aem-03) 
 - **Battle Value:** 1562 
 

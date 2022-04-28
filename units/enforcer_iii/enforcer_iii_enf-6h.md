@@ -16,6 +16,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/981/enforcer-iii-enf-6h) 
 - **Battle Value:** 1603 
 

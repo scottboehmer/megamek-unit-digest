@@ -21,6 +21,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5461/atlas-as7-s3) 
 - **Battle Value:** 2378 
 

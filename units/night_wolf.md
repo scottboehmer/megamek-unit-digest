@@ -19,6 +19,8 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2273/night-wolf-standard) 
 - **Battle Value:** 2878 
 - [*More Info*](night_wolf/night_wolf_standard.md) 

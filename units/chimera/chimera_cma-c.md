@@ -17,6 +17,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3951/chimera-cma-c) 
 - **Battle Value:** 1182 
 

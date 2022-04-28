@@ -16,6 +16,7 @@
   - Medium X-Pulse Laser × 2 
   - ER Small Laser × 2 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e) 
 - **Battle Value:** 1552 

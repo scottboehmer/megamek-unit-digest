@@ -18,6 +18,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic-standard) 
 - **Battle Value:** 1732 
 

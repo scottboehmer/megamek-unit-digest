@@ -14,6 +14,8 @@
   - Gauss Rifle (ammo: 16) 
   - ER Large Laser 
   - Medium Laser 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1581/huron-warrior-hur-wo-r4m) 
 - **Battle Value:** 1556 
 

@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1553/hunchback-hbk-4g-hohiro) 
 - **Battle Value:** 1126 
 

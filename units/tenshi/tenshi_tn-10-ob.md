@@ -17,6 +17,10 @@
   - Heavy PPC 
   - Streak SRM 6 × 2 (ammo: 30) 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Distracting 
+  - Searchlight 
+  - Difficult Ejection 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6423/tenshi-tn-10-ob) 
 - **Battle Value:** 3002 
 

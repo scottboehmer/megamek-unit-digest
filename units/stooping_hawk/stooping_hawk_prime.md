@@ -17,6 +17,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×3) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3083/stooping-hawk-prime) 
 - **Battle Value:** 2147 
 

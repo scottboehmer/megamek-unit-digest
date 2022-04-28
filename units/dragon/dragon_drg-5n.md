@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/911/dragon-drg-5n) 
 - **Battle Value:** 1223 
 

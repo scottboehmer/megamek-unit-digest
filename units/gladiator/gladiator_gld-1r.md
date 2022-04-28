@@ -14,6 +14,9 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1198/gladiator-gld-1r) 
 - **Battle Value:** 1027 
 

@@ -20,6 +20,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** HTP New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6974/rampage-rmp-4g-benboudaoud) 
 - **Battle Value:** 1751 
 

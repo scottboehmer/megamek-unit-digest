@@ -15,6 +15,8 @@
 - **Equipment:** 
   - M-Pod × 3 
   - Supercharger 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/420/bombard-bmb-1x) 
 - **Battle Value:** 1648 
 

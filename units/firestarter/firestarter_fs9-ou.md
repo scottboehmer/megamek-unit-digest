@@ -17,6 +17,8 @@
   - Flamer × 2 
 - **Equipment:** 
   - Liquid Cargo 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1109/firestarter-fs9-ou) 
 - **Battle Value:** 1120 
 

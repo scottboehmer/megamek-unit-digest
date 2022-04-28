@@ -17,7 +17,9 @@
   - LRM 5 × 2 (ammo: 24) 
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Anti-Aircraft Targeting 
+  - Rugged (×2) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7405/orion-on1-h) 
 - **Battle Value:** 1307 
 

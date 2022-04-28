@@ -14,6 +14,8 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - Watchdog CEWS 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7508/fenris-ice-ferret-f) 
 - **Battle Value:** 1771 
 

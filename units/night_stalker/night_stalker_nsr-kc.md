@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - C3 Support 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6721/night-stalker-nsr-kc) 
 - **Battle Value:** 1037 
 

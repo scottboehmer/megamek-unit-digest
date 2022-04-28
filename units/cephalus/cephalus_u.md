@@ -19,7 +19,9 @@
   - Inner Sphere Chameleon LPS 
   - CASE 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5642/cephalus-u) 
 - **Battle Value:** 878 
 

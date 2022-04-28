@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Medium Laser 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
   - Narrow/Low Profile 
 - **Sources:** XTRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5769/flea-fle-14) 
 - **Battle Value:** 270 

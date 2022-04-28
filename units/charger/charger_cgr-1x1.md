@@ -22,6 +22,10 @@
   - C3 Boosted Support 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/563/charger-cgr-1x1) 
 - **Battle Value:** 2009 
 

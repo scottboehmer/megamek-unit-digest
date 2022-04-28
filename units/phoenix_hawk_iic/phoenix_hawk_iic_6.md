@@ -16,6 +16,8 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2516/phoenix-hawk-iic-6) 
 - **Battle Value:** 2490 
 

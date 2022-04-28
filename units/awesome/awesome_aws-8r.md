@@ -14,6 +14,8 @@
   - LRM 15 × 2 (ammo: 16) 
   - Large Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/175/awesome-aws-8r) 
 - **Battle Value:** 1470 
 

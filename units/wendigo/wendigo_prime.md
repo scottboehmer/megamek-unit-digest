@@ -18,6 +18,8 @@
   - Ultra AC/2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6402/wendigo-prime) 
 - **Battle Value:** 2122 
 

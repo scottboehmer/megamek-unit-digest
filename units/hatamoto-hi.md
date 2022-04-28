@@ -11,6 +11,8 @@
 - **Weapons:** 
   - PPC × 2 
   - Medium Pulse Laser × 4 
+- **Design Quirks:** 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1403/hatamoto-hi-htm-27u) 
 - **Battle Value:** 1627 
 - [*More Info*](hatamoto-hi/hatamoto-hi_htm-27u.md) 
@@ -28,6 +30,9 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1404/hatamoto-hi-htm-c) 
 - **Battle Value:** 1627 
 - [*More Info*](hatamoto-hi/hatamoto-hi_htm-c.md) 
@@ -45,6 +50,9 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1405/hatamoto-hi-htm-cm) 
 - **Battle Value:** 1573 
 - [*More Info*](hatamoto-hi/hatamoto-hi_htm-cm.md) 

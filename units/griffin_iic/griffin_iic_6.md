@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1315/griffin-iic-6) 
 - **Battle Value:** 1468 
 

@@ -13,6 +13,8 @@
   - LRM 5 × 3 (ammo: 24) 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2647/raptor-rtx1-o) 
 - **Battle Value:** 721 
 - [*More Info*](raptor/raptor_rtx1-o.md) 
@@ -28,6 +30,8 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Small Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2648/raptor-rtx1-oa) 
 - **Battle Value:** 783 
 - [*More Info*](raptor/raptor_rtx1-oa.md) 
@@ -43,6 +47,8 @@
 - **Weapons:** 
   - SRM 6 × 3 (ammo: 30) 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2649/raptor-rtx1-ob) 
 - **Battle Value:** 613 
 - [*More Info*](raptor/raptor_rtx1-ob.md) 
@@ -60,6 +66,8 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2650/raptor-rtx1-oc) 
 - **Battle Value:** 870 
 - [*More Info*](raptor/raptor_rtx1-oc.md) 
@@ -80,6 +88,8 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2651/raptor-rtx1-od) 
 - **Battle Value:** 490 
 - [*More Info*](raptor/raptor_rtx1-od.md) 
@@ -95,6 +105,8 @@
 - **Weapons:** 
   - MRM 10 × 3 (ammo: 48) 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2652/raptor-rtx1-oe) 
 - **Battle Value:** 597 
 - [*More Info*](raptor/raptor_rtx1-oe.md) 
@@ -113,6 +125,8 @@
   - Clan ER Small Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2655/raptor-rtx1-or) 
 - **Battle Value:** 1393 
 - [*More Info*](raptor/raptor_rtx1-or.md) 
@@ -128,6 +142,8 @@
 - **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - ER Medium Laser × 5 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2653/raptor-rtx1-of) 
 - **Battle Value:** 1029 
 - [*More Info*](raptor/raptor_rtx1-of.md) 
@@ -144,6 +160,8 @@
   - Plasma Rifle (ammo: 20) 
   - ER Small Laser 
   - Small Pulse Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2654/raptor-rtx1-og) 
 - **Battle Value:** 857 
 - [*More Info*](raptor/raptor_rtx1-og.md) 
@@ -160,6 +178,8 @@
 - **Weapons:** 
   - ER Medium Laser × 3 
   - SRT 4 × 2 (ammo: 25) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2656/raptor-rtx1-ou) 
 - **Battle Value:** 914 
 - [*More Info*](raptor/raptor_rtx1-ou.md) 

@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 8 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3242/thunderbolt-tdr-5s-t-tallman) 
 - **Battle Value:** 1447 
 

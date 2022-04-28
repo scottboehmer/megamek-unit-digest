@@ -16,6 +16,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6396/avalanche-avl-1o) 
 - **Battle Value:** 1540 
 

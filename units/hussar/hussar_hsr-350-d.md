@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1588/hussar-hsr-350-d) 
 - **Battle Value:** 731 
 

@@ -18,6 +18,8 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1345/guillotine-iic-standard) 
 - **Battle Value:** 2377 
 

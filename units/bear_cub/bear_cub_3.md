@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Extended Torso Twist 
+  - Cramped Cockpit 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/316/bear-cub-3) 
 - **Battle Value:** 1086 
 

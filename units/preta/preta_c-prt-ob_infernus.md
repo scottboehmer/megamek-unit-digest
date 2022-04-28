@@ -17,6 +17,10 @@
   - ER Medium Laser 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2575/preta-c-prt-ob-infernus) 
 - **Battle Value:** 1338 
 

@@ -18,6 +18,9 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1309/griffin-grf-6s-francine) 
 - **Battle Value:** 1778 
 

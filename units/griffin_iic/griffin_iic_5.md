@@ -17,6 +17,8 @@
   - Light Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1314/griffin-iic-5) 
 - **Battle Value:** 1344 
 

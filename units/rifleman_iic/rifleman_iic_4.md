@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Cowl 
+  - Improved Communications 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2713/rifleman-iic-4) 
 - **Battle Value:** 2140 
 

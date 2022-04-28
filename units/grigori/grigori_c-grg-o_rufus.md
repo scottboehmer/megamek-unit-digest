@@ -22,6 +22,10 @@
   - C3i 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1318/grigori-c-grg-o-rufus) 
 - **Battle Value:** 1380 
 

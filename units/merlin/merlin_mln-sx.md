@@ -14,6 +14,9 @@
 - **Weapons:** 
   - Bombast Laser w/ Laser Insulator 
   - Medium VSP Laser w/ Laser Insulator × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** XTRO Boondocks - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2181/merlin-mln-sx) 
 - **Battle Value:** 1121 
 

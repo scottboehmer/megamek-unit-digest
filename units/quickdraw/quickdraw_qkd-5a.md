@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Medium Laser × 6 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2612/quickdraw-qkd-5a) 
 - **Battle Value:** 1196 
 

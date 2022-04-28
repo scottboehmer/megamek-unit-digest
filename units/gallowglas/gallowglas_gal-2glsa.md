@@ -18,6 +18,8 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Good Reputation 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1184/gallowglas-gal-2glsa) 
 - **Battle Value:** 1771 
 

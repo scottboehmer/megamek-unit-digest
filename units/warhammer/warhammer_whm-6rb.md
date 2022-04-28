@@ -16,6 +16,10 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3489/warhammer-whm-6rb) 
 - **Battle Value:** 1431 
 

@@ -13,6 +13,9 @@
 - **Weapons:** 
   - PPC × 2 
   - AC/5 (ammo: 20) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1408/hatamoto-ku-htm-27w) 
 - **Battle Value:** 1563 
 

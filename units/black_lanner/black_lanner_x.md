@@ -16,6 +16,8 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/370/black-lanner-x) 
 - **Battle Value:** 1672 
 

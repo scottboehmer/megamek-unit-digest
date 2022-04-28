@@ -17,6 +17,10 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/567/charger-cgr-c) 
 - **Battle Value:** 1592 
 

@@ -16,6 +16,9 @@
   - ECM Suite 
   - MASC 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6864/sphinx-3) 
 - **Battle Value:** 3396 
 

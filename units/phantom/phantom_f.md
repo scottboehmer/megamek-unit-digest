@@ -17,6 +17,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4818/phantom-f) 
 - **Battle Value:** 1375 
 

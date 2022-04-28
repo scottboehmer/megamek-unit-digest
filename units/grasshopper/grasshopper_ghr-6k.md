@@ -18,6 +18,8 @@
 - **Equipment:** 
   - C3 Support 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1269/grasshopper-ghr-6k) 
 - **Battle Value:** 1597 
 

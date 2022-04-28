@@ -17,6 +17,8 @@
   - AP Gauss Rifle × 4 (ammo: 80) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2754/ryoken-stormcrow-f) 
 - **Battle Value:** 2227 
 

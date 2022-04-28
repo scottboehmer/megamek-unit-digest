@@ -18,6 +18,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2471/penthesilea-pen-2maf) 
 - **Battle Value:** 1834 
 

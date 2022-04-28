@@ -14,6 +14,8 @@
   - Large Laser × 2 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/716/crab-crb-27) 
 - **Battle Value:** 1198 
 

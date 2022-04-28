@@ -14,6 +14,8 @@
   - Medium X-Pulse Laser × 4 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6627/ursa-ura-2a) 
 - **Battle Value:** 1887 
 - [*More Info*](ursa/ursa_ura-2a.md) 
@@ -33,6 +35,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6628/ursa-ura-2c) 
 - **Battle Value:** 2570 
 - [*More Info*](ursa/ursa_ura-2c.md) 

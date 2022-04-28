@@ -19,6 +19,10 @@
   - Anti-Missile System (ammo: 12) 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2573/preta-c-prt-o-invictus) 
 - **Battle Value:** 1064 
 

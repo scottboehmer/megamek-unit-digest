@@ -11,6 +11,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7721/hermit-crab-hmc-13) 
 - **Battle Value:** 731 
 - [*More Info*](hermit_crab/hermit_crab_hmc-13.md) 
@@ -26,6 +28,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7722/hermit-crab-hmc-14) 
 - **Battle Value:** 844 
 - [*More Info*](hermit_crab/hermit_crab_hmc-14.md) 
@@ -40,6 +44,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Light PPC × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7723/hermit-crab-hmc-15) 
 - **Battle Value:** 742 
 - [*More Info*](hermit_crab/hermit_crab_hmc-15.md) 

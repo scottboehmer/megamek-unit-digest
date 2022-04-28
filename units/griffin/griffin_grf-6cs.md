@@ -20,6 +20,9 @@
   - Full Head Ejection System 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306/griffin-grf-6cs) 
 - **Battle Value:** 1695 
 

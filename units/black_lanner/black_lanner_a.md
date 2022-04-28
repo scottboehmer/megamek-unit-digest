@@ -18,6 +18,8 @@
   - Active Probe 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/363/black-lanner-a) 
 - **Battle Value:** 2308 
 

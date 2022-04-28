@@ -14,6 +14,7 @@
   - Streak SRM 2 (ammo: 50) 
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
+  - Improved Communications 
   - Narrow/Low Profile 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1075/fireball-alm-7d) 
 - **Battle Value:** 385 

@@ -14,6 +14,10 @@
 - **Weapons:** 
   - ELRM 20 × 2 (ammo: 24) 
   - Clan ER Medium Laser × 5 
+- **Design Quirks:** 
+  - Distracting 
+  - Searchlight 
+  - Difficult Ejection 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6424/tenshi-tn-10-or) 
 - **Battle Value:** 2183 
 

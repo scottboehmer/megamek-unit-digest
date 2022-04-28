@@ -11,6 +11,8 @@
 - **Weapons:** 
   - Medium Laser × 4 
   - Flamer × 4 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/376/blackjack-bj-1x) 
 - **Battle Value:** 964 
 - [*More Info*](blackjack/blackjack_bj-1x.md) 
@@ -27,6 +29,8 @@
 - **Weapons:** 
   - Medium Laser × 4 
   - AC/2 × 2 (ammo: 45) 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/373/blackjack-bj-1) 
 - **Battle Value:** 949 
 - [*More Info*](blackjack/blackjack_bj-1.md) 
@@ -43,6 +47,8 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/374/blackjack-bj-1db) 
 - **Battle Value:** 1015 
 - [*More Info*](blackjack/blackjack_bj-1db.md) 
@@ -59,6 +65,8 @@
   - Medium Laser × 4 
   - AC/2 × 2 (ammo: 45) 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/375/blackjack-bj-1dc) 
 - **Battle Value:** 917 
 - [*More Info*](blackjack/blackjack_bj-1dc.md) 
@@ -75,6 +83,8 @@
 - **Weapons:** 
   - PPC × 2 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/388/blackjack-bj-3) 
 - **Battle Value:** 1271 
 - [*More Info*](blackjack/blackjack_bj-3.md) 
@@ -91,6 +101,8 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Streak SRM 2 × 4 (ammo: 50) 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/377/blackjack-bj-2) 
 - **Battle Value:** 1148 
 - [*More Info*](blackjack/blackjack_bj-2.md) 
@@ -253,6 +265,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/389/blackjack-bj-4) 
 - **Battle Value:** 1063 
 - [*More Info*](blackjack/blackjack_bj-4.md) 
@@ -322,6 +336,8 @@
 - **Weapons:** 
   - Large Re-Engineered Laser × 2 
   - Medium Laser 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6914/blackjack-bj-2r) 
 - **Battle Value:** 1136 
 - [*More Info*](blackjack/blackjack_bj-2r.md) 

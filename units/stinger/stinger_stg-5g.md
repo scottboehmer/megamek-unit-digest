@@ -15,6 +15,9 @@
   - Light PPC w/ PPC Capacitor 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** Rec Guide:ilClan #13 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3062/stinger-stg-5g) 
 - **Battle Value:** 614 
 

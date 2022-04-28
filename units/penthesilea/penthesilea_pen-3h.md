@@ -22,6 +22,8 @@
   - AES × 2 
   - CASE II 
   - Machine Gun Array 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7347/penthesilea-pen-3h) 
 - **Battle Value:** 1654 
 

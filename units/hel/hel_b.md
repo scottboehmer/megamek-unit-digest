@@ -17,6 +17,8 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6279/loki-mk-ii-hel-b) 
 - **Battle Value:** 1798 
 

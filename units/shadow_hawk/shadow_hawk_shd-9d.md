@@ -20,6 +20,10 @@
   - Targeting Computer 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2910/shadow-hawk-shd-9d) 
 - **Battle Value:** 1313 
 

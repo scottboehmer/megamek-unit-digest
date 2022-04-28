@@ -19,6 +19,7 @@
 - **Equipment:** 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2375/ostsol-otl-6d) 
 - **Battle Value:** 1880 

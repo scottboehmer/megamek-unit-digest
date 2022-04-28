@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4021/cronus-cns-5m) 
 - **Battle Value:** 1579 
 

@@ -19,6 +19,7 @@
   - Bloodhound Active Probe 
   - TAG 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6890/black-hawk-ku-bhku-og) 
 - **Battle Value:** 1719 

@@ -18,6 +18,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Nimble Jumper 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6923/panther-pnt-12kc) 
 - **Battle Value:** 1036 
 

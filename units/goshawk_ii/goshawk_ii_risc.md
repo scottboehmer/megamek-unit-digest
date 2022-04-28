@@ -19,7 +19,10 @@
   - CASE 
   - Inner Sphere Emergency Coolant System 
 - **Design Quirks:** 
+  - Improved Life Support 
+  - Nimble Jumper 
   - Combat Computer 
+  - Cooling System Flaws 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7376/goshawk-ii-risc) 
 - **Battle Value:** 1871 
 

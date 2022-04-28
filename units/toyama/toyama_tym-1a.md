@@ -17,6 +17,8 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3278/toyama-tym-1a) 
 - **Battle Value:** 1714 
 

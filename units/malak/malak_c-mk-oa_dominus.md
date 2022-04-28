@@ -21,6 +21,10 @@
   - Machine Gun Array × 2 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1995/malak-c-mk-oa-dominus) 
 - **Battle Value:** 823 
 

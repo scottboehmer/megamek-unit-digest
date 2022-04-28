@@ -14,7 +14,9 @@
   - Medium Laser 
   - SRM 2 × 2 (ammo: 50) 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1900/locust-lct-1s) 
 - **Battle Value:** 440 

@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Good Reputation 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/914/dragon-fire-dgr-4f) 
 - **Battle Value:** 1900 
 

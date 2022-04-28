@@ -14,6 +14,7 @@
   - RAC/5 (ammo: 60) 
   - Medium Laser × 3 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Improved Targeting (Medium) 
 - **Battle Value:** 1520 
 

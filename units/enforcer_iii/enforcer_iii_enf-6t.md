@@ -16,6 +16,9 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/985/enforcer-iii-enf-6t) 
 - **Battle Value:** 1720 
 

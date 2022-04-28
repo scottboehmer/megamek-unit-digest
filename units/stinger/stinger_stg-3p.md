@@ -13,6 +13,9 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Light PPC 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3060/stinger-stg-3p) 
 - **Battle Value:** 489 
 

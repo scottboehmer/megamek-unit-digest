@@ -18,6 +18,9 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8328/shadow-hawk-iic-10) 
 - **Battle Value:** 1760 
 

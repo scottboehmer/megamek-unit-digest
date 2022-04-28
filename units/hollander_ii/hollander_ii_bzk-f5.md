@@ -14,6 +14,8 @@
   - Gauss Rifle (ammo: 16) 
   - Medium Laser 
   - Streak SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1538/hollander-ii-bzk-f5) 
 - **Battle Value:** 1214 
 

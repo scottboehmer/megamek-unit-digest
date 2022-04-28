@@ -19,6 +19,8 @@
   - Large Vibroblade 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2298/no-dachi-nda-3x) 
 - **Battle Value:** 2609 
 

@@ -12,6 +12,9 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1198/gladiator-gld-1r) 
 - **Battle Value:** 1027 
 - [*More Info*](gladiator/gladiator_gld-1r.md) 
@@ -27,6 +30,9 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1199/gladiator-gld-2r) 
 - **Battle Value:** 1184 
 - [*More Info*](gladiator/gladiator_gld-2r.md) 
@@ -43,6 +49,9 @@
 - **Weapons:** 
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1200/gladiator-gld-3r) 
 - **Battle Value:** 1282 
 - [*More Info*](gladiator/gladiator_gld-3r.md) 
@@ -60,6 +69,9 @@
   - PPC 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1201/gladiator-gld-4r) 
 - **Battle Value:** 1291 
 - [*More Info*](gladiator/gladiator_gld-4r.md) 
@@ -81,6 +93,9 @@
 - **Equipment:** 
   - C3i 
   - Supercharger 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1197/gladiator-keller) 
 - **Battle Value:** 1517 
 - [*More Info*](gladiator/gladiator_keller.md) 
@@ -102,6 +117,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1202/gladiator-gld-5r) 
 - **Battle Value:** 1412 
 - [*More Info*](gladiator/gladiator_gld-5r.md) 

@@ -14,6 +14,11 @@
   - AC/5 (ammo: 40) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Distracting 
+  - Easy to Maintain 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3785/banshee-bnc-1e) 
 - **Battle Value:** 1465 
 - [*More Info*](banshee/banshee_bnc-1e.md) 
@@ -30,6 +35,9 @@
   - PPC 
   - AC/5 (ammo: 20) 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/240/banshee-bnc-3e) 
 - **Battle Value:** 1422 
 - [*More Info*](banshee/banshee_bnc-3e.md) 
@@ -46,6 +54,9 @@
   - PPC × 2 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/241/banshee-bnc-3m) 
 - **Battle Value:** 1595 
 - [*More Info*](banshee/banshee_bnc-3m.md) 
@@ -61,6 +72,9 @@
 - **Weapons:** 
   - AC/20 (ammo: 30) 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/244/banshee-bnc-3q) 
 - **Battle Value:** 1394 
 - [*More Info*](banshee/banshee_bnc-3q.md) 
@@ -79,6 +93,9 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/245/banshee-bnc-3s) 
 - **Battle Value:** 1751 
 - [*More Info*](banshee/banshee_bnc-3s.md) 
@@ -98,6 +115,9 @@
   - Medium Laser × 4 
   - Hatchet 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/246/banshee-bnc-3s-reinesblatt) 
 - **Battle Value:** 1678 
 - [*More Info*](banshee/banshee_bnc-3s_reinesblatt.md) 
@@ -114,6 +134,9 @@
   - PPC 
   - AC/10 (ammo: 20) 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/242/banshee-bnc-3mc) 
 - **Battle Value:** 1487 
 - [*More Info*](banshee/banshee_bnc-3mc.md) 
@@ -132,6 +155,9 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/247/banshee-bnc-5s) 
 - **Battle Value:** 2065 
 - [*More Info*](banshee/banshee_bnc-5s.md) 
@@ -151,6 +177,9 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3786/banshee-bnc-5s-sawyer) 
 - **Battle Value:** 2094 
 - [*More Info*](banshee/banshee_bnc-5s_sawyer.md) 
@@ -169,6 +198,9 @@
   - LB 10-X AC (ammo: 10) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3787/banshee-bnc-5s-vandergriff) 
 - **Battle Value:** 1853 
 - [*More Info*](banshee/banshee_bnc-5s_vandergriff.md) 
@@ -187,6 +219,9 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/248/banshee-bnc-6s) 
 - **Battle Value:** 1899 
 - [*More Info*](banshee/banshee_bnc-6s.md) 
@@ -206,6 +241,9 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/249/banshee-bnc-7s) 
 - **Battle Value:** 2126 
 - [*More Info*](banshee/banshee_bnc-7s.md) 
@@ -233,6 +271,9 @@
   - Guardian ECM Suite 
   - C3 Support 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/250/banshee-bnc-8s) 
 - **Battle Value:** 2408 
 - [*More Info*](banshee/banshee_bnc-8s.md) 
@@ -256,6 +297,9 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3788/banshee-bnc-9s) 
 - **Battle Value:** 2496 
 - [*More Info*](banshee/banshee_bnc-9s.md) 
@@ -272,6 +316,9 @@
   - ER PPC × 2 
   - ER Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/243/banshee-bnc-3mr) 
 - **Battle Value:** 1801 
 - [*More Info*](banshee/banshee_bnc-3mr.md) 
@@ -292,6 +339,9 @@
 - **Equipment:** 
   - Modular Armor × 7 
   - Armored Actuator × 4 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3784/banshee-bnc-11x) 
 - **Battle Value:** 2030 
 - [*More Info*](banshee/banshee_bnc-11x.md) 
@@ -314,6 +364,9 @@
   - CASE 
   - Targeting Computer 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6844/banshee-bnc-9s2) 
 - **Battle Value:** 2426 
 - [*More Info*](banshee/banshee_bnc-9s2.md) 
@@ -334,6 +387,9 @@
   - Clan ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8246/banshee-bnc-12s) 
 - **Battle Value:** 2562 
 - [*More Info*](banshee/banshee_bnc-12s.md) 

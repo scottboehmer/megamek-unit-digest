@@ -18,6 +18,7 @@
   - Beagle Active Probe 
   - B-Pod 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5671/bloodhound-b3-hnd) 
 - **Battle Value:** 1005 

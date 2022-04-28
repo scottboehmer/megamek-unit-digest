@@ -18,6 +18,8 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8359/regent-prime) 
 - **Battle Value:** 2437 
 

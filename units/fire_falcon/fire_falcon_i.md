@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Plasma Cannon (ammo: 10) 
   - ER Medium Laser × 5 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8181/fire-falcon-i) 
 - **Battle Value:** 1678 
 

@@ -19,6 +19,8 @@
   - C3 Support 
   - CASE 
   - TAG 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3172/tessen-tsn-1cr) 
 - **Battle Value:** 1241 
 

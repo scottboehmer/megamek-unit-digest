@@ -15,6 +15,8 @@
   - ER Medium Laser 
   - Flamer 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1504/hermes-ii-her-6d) 
 - **Battle Value:** 1106 

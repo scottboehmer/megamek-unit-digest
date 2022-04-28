@@ -16,6 +16,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1568/hunchback-iic-standard) 
 - **Battle Value:** 1679 
 

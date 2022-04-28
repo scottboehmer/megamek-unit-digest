@@ -19,6 +19,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2696/rifleman-rfl-3cr) 
 - **Battle Value:** 1129 
 

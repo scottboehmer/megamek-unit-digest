@@ -16,6 +16,9 @@
   - Flamer × 2 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8225/crusader-crd-6t) 
 - **Battle Value:** 1890 
 

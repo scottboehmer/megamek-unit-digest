@@ -20,6 +20,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Arano Restoration , [Master Unit List](http://masterunitlist.info/Unit/Details/7618/atlas-ii-as7-d-ht) 
 - **Battle Value:** 2205 
 

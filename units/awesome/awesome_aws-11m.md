@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Light PPC w/ PPC Capacitor × 4 
   - Light PPC × 4 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/173/awesome-aws-11m) 
 - **Battle Value:** 1801 
 

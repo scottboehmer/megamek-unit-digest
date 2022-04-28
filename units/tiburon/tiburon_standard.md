@@ -18,6 +18,8 @@
   - Watchdog CEWS 
   - CASE II 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6552/tiburon-standard) 
 - **Battle Value:** 1841 
 

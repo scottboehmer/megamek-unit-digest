@@ -17,6 +17,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1233/goliath-gol-3s) 
 - **Battle Value:** 1792 
 

@@ -23,6 +23,8 @@
   - Inner Sphere A-Pod × 2 
   - CASE 
   - TAG 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2296/nobori-nin-huntsman-prime) 
 - **Battle Value:** 2108 
 

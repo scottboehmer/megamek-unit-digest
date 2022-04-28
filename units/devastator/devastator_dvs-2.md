@@ -14,6 +14,9 @@
   - Gauss Rifle × 2 (ammo: 32) 
   - PPC × 2 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/894/devastator-dvs-2) 
 - **Battle Value:** 2481 
 

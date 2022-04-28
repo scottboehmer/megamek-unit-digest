@@ -17,6 +17,9 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3644/zeus-zeu-9s) 
 - **Battle Value:** 1639 
 

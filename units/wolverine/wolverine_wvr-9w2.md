@@ -23,7 +23,9 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Extended Torso Twist 
+  - Improved Communications 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3584/wolverine-wvr-9w2) 
 - **Battle Value:** 1463 
 

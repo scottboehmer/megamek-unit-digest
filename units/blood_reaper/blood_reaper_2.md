@@ -17,6 +17,9 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/407/blood-reaper-2) 
 - **Battle Value:** 2521 
 

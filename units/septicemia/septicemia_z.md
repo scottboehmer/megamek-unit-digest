@@ -19,6 +19,8 @@
   - Ground-Mobile HPG 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5819/pariah-septicemia-z) 
 - **Battle Value:** 2072 
 

@@ -15,6 +15,8 @@
   - ER PPC 
   - Large Laser 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3050/starslayer-sty-3d) 
 - **Battle Value:** 1593 
 

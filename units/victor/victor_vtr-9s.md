@@ -15,6 +15,8 @@
   - AC/20 (ammo: 15) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3414/victor-vtr-9s) 
 - **Battle Value:** 1360 
 

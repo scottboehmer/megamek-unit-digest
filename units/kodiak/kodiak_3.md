@@ -16,6 +16,9 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1807/kodiak-3) 
 - **Battle Value:** 2615 
 

@@ -16,6 +16,9 @@
   - Medium Laser × 6 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/141/atlas-as7-d-danielle) 
 - **Battle Value:** 1976 
 

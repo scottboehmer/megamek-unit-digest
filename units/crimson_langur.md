@@ -16,6 +16,8 @@
   - Light Active Probe 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4019/crimson-langur-prime) 
 - **Battle Value:** 1952 
@@ -35,6 +37,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4016/crimson-langur-a) 
 - **Battle Value:** 2003 
@@ -56,6 +60,8 @@
   - Light Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4017/crimson-langur-b) 
 - **Battle Value:** 2210 
@@ -76,6 +82,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4018/crimson-langur-c) 
 - **Battle Value:** 1437 
@@ -99,6 +107,8 @@
   - Light TAG 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - Protected Actuators 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5676/crimson-langur-d) 
 - **Battle Value:** 1867 
@@ -119,6 +129,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5677/crimson-langur-e) 
 - **Battle Value:** 2051 

@@ -17,6 +17,10 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7599/warhammer-whm-7cs) 
 - **Battle Value:** 1751 
 

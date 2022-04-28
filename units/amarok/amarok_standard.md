@@ -18,6 +18,9 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8239/amarok-standard) 
 - **Battle Value:** 3016 
 

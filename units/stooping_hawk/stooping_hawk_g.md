@@ -15,6 +15,8 @@
   - ProtoMech AC/4 × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×3) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3082/stooping-hawk-g) 
 - **Battle Value:** 1657 
 

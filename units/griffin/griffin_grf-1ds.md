@@ -16,6 +16,9 @@
   - Large Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294/griffin-grf-1ds) 
 - **Battle Value:** 1285 
 

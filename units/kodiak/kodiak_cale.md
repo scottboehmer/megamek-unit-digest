@@ -21,6 +21,9 @@
   - Inner Sphere Beagle Active Probe 
   - Inner Sphere C3 Main 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** JTP Dieron - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1804/kodiak-cale) 
 - **Battle Value:** 2535 
 

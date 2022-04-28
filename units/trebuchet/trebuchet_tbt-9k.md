@@ -18,6 +18,8 @@
 - **Equipment:** 
   - C3 Support 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3302/trebuchet-tbt-9k) 
 - **Battle Value:** 1329 
 

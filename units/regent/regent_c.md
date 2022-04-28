@@ -15,6 +15,8 @@
   - Inner Sphere Improved Heavy Gauss Rifle (ammo: 12) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8362/regent-c) 
 - **Battle Value:** 2561 
 

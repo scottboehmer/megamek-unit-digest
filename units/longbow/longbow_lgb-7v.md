@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Searchlight 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1937/longbow-lgb-7v) 
 - **Battle Value:** 1816 
 

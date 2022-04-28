@@ -16,6 +16,9 @@
   - SRM 6 × 4 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
+  - Variable Range Targeting 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6272/vulture-mk-iii-mad-dog-mk-iii-a) 
 - **Battle Value:** 1880 
 

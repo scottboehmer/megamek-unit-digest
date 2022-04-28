@@ -15,6 +15,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 3 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3538/whitworth-wth-1) 
 - **Battle Value:** 982 

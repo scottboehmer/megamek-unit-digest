@@ -16,6 +16,9 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Good Reputation 
+  - Stable 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2466/penetrator-ptr-4f) 
 - **Battle Value:** 1564 
 

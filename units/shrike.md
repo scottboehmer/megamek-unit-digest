@@ -19,6 +19,8 @@
   - Partial Wing 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6292/shrike-standard) 
 - **Battle Value:** 2969 
 - [*More Info*](shrike/shrike_standard.md) 
@@ -42,6 +44,8 @@
   - Partial Wing 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6293/shrike-2) 
 - **Battle Value:** 2846 
 - [*More Info*](shrike/shrike_2.md) 
@@ -65,6 +69,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6294/shrike-3) 
 - **Battle Value:** 3698 
 - [*More Info*](shrike/shrike_3.md) 

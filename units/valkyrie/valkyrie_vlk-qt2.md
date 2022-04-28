@@ -16,6 +16,9 @@
   - Light PPC 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3380/valkyrie-vlk-qt2) 
 - **Battle Value:** 863 
 

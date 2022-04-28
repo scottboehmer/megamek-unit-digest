@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1288/grendel-mongrel-c) 
 - **Battle Value:** 1465 
 

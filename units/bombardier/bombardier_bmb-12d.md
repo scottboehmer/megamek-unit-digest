@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/423/bombardier-bmb-12d) 
 - **Battle Value:** 1480 
 

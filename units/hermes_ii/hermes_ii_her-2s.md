@@ -15,6 +15,8 @@
   - Medium Laser 
   - Flamer 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1497/hermes-ii-her-2s) 
 - **Battle Value:** 784 

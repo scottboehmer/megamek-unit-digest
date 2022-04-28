@@ -22,7 +22,10 @@
   - Targeting Computer 
   - CASE 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2868/seraph-c-srp-o-havalah) 
 - **Battle Value:** 1927 
 

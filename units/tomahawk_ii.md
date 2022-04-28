@@ -14,6 +14,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6303/tomahawk-ii-prime) 
 - **Battle Value:** 3210 
 - [*More Info*](tomahawk_ii/tomahawk_ii_prime.md) 
@@ -34,6 +36,8 @@
   - AP Gauss Rifle × 4 (ammo: 80) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6304/tomahawk-ii-a) 
 - **Battle Value:** 2697 
 - [*More Info*](tomahawk_ii/tomahawk_ii_a.md) 
@@ -55,6 +59,8 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - CASE 
+- **Design Quirks:** 
+  - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6305/tomahawk-ii-b) 
 - **Battle Value:** 3513 
 - [*More Info*](tomahawk_ii/tomahawk_ii_b.md) 
@@ -72,6 +78,8 @@
   - LRM 15 × 6 (ammo: 80) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6306/tomahawk-ii-c) 
 - **Battle Value:** 2938 
 - [*More Info*](tomahawk_ii/tomahawk_ii_c.md) 

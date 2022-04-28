@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/45/annihilator-c-2) 
 - **Battle Value:** 2722 
 

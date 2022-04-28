@@ -14,6 +14,9 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8128/stinger-c-2) 
 - **Battle Value:** 754 
 

@@ -15,6 +15,8 @@
   - Large Laser 
   - AC/5 (ammo: 20) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3094/striker-stc-2c) 
 - **Battle Value:** 1488 
 

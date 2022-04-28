@@ -17,6 +17,9 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5331/uziel-uzl-2s) 
 - **Battle Value:** 1352 
 

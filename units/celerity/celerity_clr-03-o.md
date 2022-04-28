@@ -17,6 +17,8 @@
   - Drone Operating System 
   - TAG 
   - C3 Support 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6671/celerity-clr-03-o) 
 - **Battle Value:** 187 
 

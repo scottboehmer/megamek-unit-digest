@@ -17,6 +17,10 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** XTRO:Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3499/warhammer-whm-x7-the-lich) 
 - **Battle Value:** 1785 
 

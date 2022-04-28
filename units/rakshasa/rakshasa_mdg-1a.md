@@ -16,6 +16,7 @@
   - Medium Pulse Laser 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2631/rakshasa-mdg-1a) 
 - **Battle Value:** 1795 

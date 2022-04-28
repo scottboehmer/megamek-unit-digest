@@ -16,7 +16,9 @@
   - Medium Pulse Laser × 2 
   - ER Small Laser 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/945/eisenfaust-eft-7x) 
 - **Battle Value:** 1203 
 

@@ -14,6 +14,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7186/emperor-emp-1a) 
 - **Battle Value:** 1453 
 - [*More Info*](emperor/emperor_emp-1a.md) 

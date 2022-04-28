@@ -13,6 +13,8 @@
   - Heavy Medium Laser × 6 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3878/burrock-standard) 
 - **Battle Value:** 2230 
 - [*More Info*](burrock/burrock_standard.md) 
@@ -31,6 +33,8 @@
   - Heavy Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5694/burrock-2) 
 - **Battle Value:** 2864 
 - [*More Info*](burrock/burrock_2.md) 

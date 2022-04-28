@@ -17,6 +17,9 @@
   - Guardian ECM Suite 
   - CASE II 
   - TAG 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
+  - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4338/hunchback-hbk-7r) 
 - **Battle Value:** 1248 
 

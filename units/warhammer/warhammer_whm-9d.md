@@ -16,6 +16,10 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3497/warhammer-whm-9d) 
 - **Battle Value:** 2152 
 

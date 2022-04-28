@@ -16,6 +16,10 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3488/warhammer-whm-6r) 
 - **Battle Value:** 1299 
 

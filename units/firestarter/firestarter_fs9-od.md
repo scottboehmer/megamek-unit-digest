@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1103/firestarter-fs9-od) 
 - **Battle Value:** 1322 
 

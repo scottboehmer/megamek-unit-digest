@@ -20,6 +20,8 @@
   - CASE 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8179/fire-falcon-t) 
 - **Battle Value:** 1661 
 

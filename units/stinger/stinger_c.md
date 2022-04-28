@@ -17,6 +17,9 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8127/stinger-c) 
 - **Battle Value:** 592 
 

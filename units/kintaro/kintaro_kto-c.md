@@ -17,6 +17,8 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1795/kintaro-kto-c) 
 - **Battle Value:** 1294 
 

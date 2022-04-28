@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - TAG 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rhonda's Irregulars - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2994/spartan-spt-n1) 
 - **Battle Value:** 1498 
 

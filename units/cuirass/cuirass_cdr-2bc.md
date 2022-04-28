@@ -20,6 +20,8 @@
 - **Equipment:** 
   - CASE II 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6922/cuirass-cdr-2bc3) 
 - **Battle Value:** 990 
 

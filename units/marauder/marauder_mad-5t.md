@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2044/marauder-mad-5t) 
 - **Battle Value:** 1750 

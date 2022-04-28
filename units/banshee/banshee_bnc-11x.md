@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Modular Armor × 7 
   - Armored Actuator × 4 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3784/banshee-bnc-11x) 
 - **Battle Value:** 2030 
 

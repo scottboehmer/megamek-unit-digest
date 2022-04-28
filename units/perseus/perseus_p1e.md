@@ -22,6 +22,7 @@
   - Communications Equipment × 3 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5697/perseus-p1e) 
 - **Battle Value:** 1641 
 

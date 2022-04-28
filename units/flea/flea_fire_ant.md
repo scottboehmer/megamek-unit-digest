@@ -15,6 +15,9 @@
   - Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1135/flea-fire-ant) 
 - **Battle Value:** 332 
 

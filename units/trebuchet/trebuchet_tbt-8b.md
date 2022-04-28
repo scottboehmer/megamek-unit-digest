@@ -16,6 +16,8 @@
   - MML 5 × 4 (ammo: 48 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3301/trebuchet-tbt-8b) 
 - **Battle Value:** 1314 
 

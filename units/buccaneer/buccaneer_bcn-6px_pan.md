@@ -19,6 +19,7 @@
   - Clan Partial Wing 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8379/buccaneer-bcn-6px-pan) 
 - **Battle Value:** 1384 
 

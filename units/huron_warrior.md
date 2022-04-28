@@ -12,6 +12,8 @@
   - Gauss Rifle (ammo: 16) 
   - ER Large Laser 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1580/huron-warrior-hur-wo-r4l) 
 - **Battle Value:** 1530 
 - [*More Info*](huron_warrior/huron_warrior_hur-wo-r4l.md) 
@@ -28,6 +30,8 @@
   - Gauss Rifle (ammo: 16) 
   - ER Large Laser 
   - Medium Laser 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1581/huron-warrior-hur-wo-r4m) 
 - **Battle Value:** 1556 
 - [*More Info*](huron_warrior/huron_warrior_hur-wo-r4m.md) 
@@ -46,6 +50,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1582/huron-warrior-hur-wo-r4n) 
 - **Battle Value:** 1489 
 - [*More Info*](huron_warrior/huron_warrior_hur-wo-r4n.md) 
@@ -62,6 +68,8 @@
   - Gauss Rifle (ammo: 24) 
   - ER Large Laser 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1583/huron-warrior-hur-wo-r4o) 
 - **Battle Value:** 1585 
 - [*More Info*](huron_warrior/huron_warrior_hur-wo-r4o.md) 

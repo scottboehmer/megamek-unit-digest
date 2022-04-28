@@ -17,6 +17,10 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3491/warhammer-whm-7k) 
 - **Battle Value:** 1651 
 

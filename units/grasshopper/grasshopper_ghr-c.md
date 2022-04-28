@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1272/grasshopper-ghr-c) 
 - **Battle Value:** 1366 
 

@@ -16,6 +16,8 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5684/argus-ags-6f) 
 - **Battle Value:** 1524 
 

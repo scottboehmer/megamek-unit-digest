@@ -12,6 +12,9 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LB 10-X AC (ammo: 10 Cluster) 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1589/hussar-hsr-400-d) 
 - **Battle Value:** 611 
 

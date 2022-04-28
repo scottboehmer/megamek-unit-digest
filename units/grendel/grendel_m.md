@@ -16,6 +16,8 @@
   - RAC/2 (ammo: 45) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7457/grendel-mongrel-m) 
 - **Battle Value:** 1744 
 

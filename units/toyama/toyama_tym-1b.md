@@ -19,6 +19,8 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3279/toyama-tym-1b) 
 - **Battle Value:** 1788 
 

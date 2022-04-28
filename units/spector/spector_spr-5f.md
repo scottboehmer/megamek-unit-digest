@@ -18,6 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3003/spector-spr-5f) 
 - **Battle Value:** 1183 

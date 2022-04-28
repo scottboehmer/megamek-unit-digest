@@ -16,6 +16,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3780/bandersnatch-bndr-01a-horus) 
 - **Battle Value:** 1584 
 

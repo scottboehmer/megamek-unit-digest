@@ -11,6 +11,9 @@
 - **Weapons:** 
   - PPC × 2 
   - SRM 6 × 2 (ammo: 15) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1397/hatamoto-chi-htm-26t) 
 - **Battle Value:** 1536 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-26t.md) 
@@ -28,6 +31,9 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Left Arm) 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1400/hatamoto-chi-htm-27t-daniel) 
 - **Battle Value:** 1435 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-27t_daniel.md) 
@@ -45,6 +51,9 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1398/hatamoto-chi-htm-27t) 
 - **Battle Value:** 1607 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-27t.md) 
@@ -63,6 +72,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Left Arm) 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1399/hatamoto-chi-htm-27t-daniel-ii) 
 - **Battle Value:** 1661 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-27t_daniel_ii.md) 
@@ -83,6 +95,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1401/hatamoto-chi-htm-28t) 
 - **Battle Value:** 2039 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-28t.md) 
@@ -104,6 +118,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5457/hatamoto-chi-htm-28t-shin) 
 - **Battle Value:** 2213 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-28t_shin.md) 
@@ -126,6 +143,8 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1402/hatamoto-chi-htm-28tr) 
 - **Battle Value:** 2034 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-28tr.md) 

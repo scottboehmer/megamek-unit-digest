@@ -15,6 +15,7 @@
   - Large Pulse Laser 
   - Medium Pulse Laser × 4 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2634/rakshasa-mdg-2a) 
 - **Battle Value:** 1766 

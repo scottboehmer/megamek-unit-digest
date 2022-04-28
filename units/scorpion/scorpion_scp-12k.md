@@ -16,6 +16,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k) 
 - **Battle Value:** 1260 
 

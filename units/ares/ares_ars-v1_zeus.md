@@ -25,6 +25,8 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Searchlight 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6685/ares-ars-v1-zeus) 
 - **Battle Value:** 3247 
 

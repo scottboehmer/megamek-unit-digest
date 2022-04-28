@@ -18,6 +18,9 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m) 
 - **Battle Value:** 1495 
 

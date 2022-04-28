@@ -15,6 +15,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2055/marauder-ii-mad-4a) 
 - **Battle Value:** 2073 
@@ -37,6 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2059/marauder-ii-mad-5a) 
 - **Battle Value:** 2058 
@@ -57,6 +59,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2060/marauder-ii-mad-5b) 
 - **Battle Value:** 2589 
@@ -79,6 +82,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2061/marauder-ii-mad-5c) 
 - **Battle Value:** 2024 
@@ -102,6 +106,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2053/marauder-ii-bounty-hunter) 
 - **Battle Value:** 3767 
@@ -122,6 +127,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2058/marauder-ii-mad-4s) 
 - **Battle Value:** 2623 
@@ -144,6 +150,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2054/marauder-ii-c) 
 - **Battle Value:** 2916 
@@ -166,6 +173,7 @@
   - Rocket 10 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h) 
 - **Battle Value:** 2180 
@@ -186,6 +194,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2057/marauder-ii-mad-4k) 
 - **Battle Value:** 2626 
@@ -207,6 +216,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2062/marauder-ii-mad-5w) 
 - **Battle Value:** 2383 
@@ -229,6 +239,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2064/marauder-ii-mad-6m) 
 - **Battle Value:** 2218 
@@ -251,6 +262,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2063/marauder-ii-mad-6d) 
 - **Battle Value:** 2378 
@@ -272,6 +284,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6828/marauder-ii-mad-4l) 
 - **Battle Value:** 2839 
@@ -296,6 +309,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** TP Irian - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7331/marauder-ii-mad-6s) 
 - **Battle Value:** 2546 
@@ -319,6 +333,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7520/marauder-ii-mad-6a) 
 - **Battle Value:** 2367 
@@ -341,6 +356,7 @@
   - Command Console 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7521/marauder-ii-mad-6c) 
 - **Battle Value:** 2346 
@@ -363,6 +379,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7522/marauder-ii-mad-8k) 
 - **Battle Value:** 2849 
@@ -384,6 +401,7 @@
   - Medium X-Pulse Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7519/marauder-ii-mad-10d) 
 - **Battle Value:** 2741 

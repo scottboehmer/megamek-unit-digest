@@ -17,6 +17,8 @@
   - ECM Suite 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/369/black-lanner-prime) 
 - **Battle Value:** 2268 
 - [*More Info*](black_lanner/black_lanner_prime.md) 
@@ -37,6 +39,8 @@
   - Active Probe 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/363/black-lanner-a) 
 - **Battle Value:** 2308 
 - [*More Info*](black_lanner/black_lanner_a.md) 
@@ -54,6 +58,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/364/black-lanner-b) 
 - **Battle Value:** 1961 
 - [*More Info*](black_lanner/black_lanner_b.md) 
@@ -72,6 +78,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/365/black-lanner-c) 
 - **Battle Value:** 2523 
 - [*More Info*](black_lanner/black_lanner_c.md) 
@@ -94,6 +102,8 @@
   - Active Probe 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/366/black-lanner-d) 
 - **Battle Value:** 1809 
 - [*More Info*](black_lanner/black_lanner_d.md) 
@@ -112,6 +122,8 @@
 - **Equipment:** 
   - ECM Suite 
   - MASC 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/368/black-lanner-h) 
 - **Battle Value:** 1928 
 - [*More Info*](black_lanner/black_lanner_h.md) 
@@ -130,6 +142,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/367/black-lanner-e) 
 - **Battle Value:** 2331 
 - [*More Info*](black_lanner/black_lanner_e.md) 
@@ -148,6 +162,8 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/370/black-lanner-x) 
 - **Battle Value:** 1672 
 - [*More Info*](black_lanner/black_lanner_x.md) 
@@ -168,6 +184,8 @@
   - Light Active Probe 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #15 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8185/black-lanner-f) 
 - **Battle Value:** 2154 
 - [*More Info*](black_lanner/black_lanner_f.md) 
@@ -186,6 +204,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8186/black-lanner-g) 
 - **Battle Value:** 1929 
 - [*More Info*](black_lanner/black_lanner_g.md) 
@@ -206,6 +226,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8184/black-lanner-t) 
 - **Battle Value:** 2040 
 - [*More Info*](black_lanner/black_lanner_t.md) 
@@ -227,6 +249,8 @@
   - MASC 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8187/black-lanner-i) 
 - **Battle Value:** 1803 
 - [*More Info*](black_lanner/black_lanner_i.md) 
@@ -246,6 +270,8 @@
   - MASC 
   - Supercharger 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8188/black-lanner-j) 
 - **Battle Value:** 2022 
 - [*More Info*](black_lanner/black_lanner_j.md) 

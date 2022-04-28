@@ -15,6 +15,9 @@
   - PPC × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/150/atlas-as7-wgs-samsonov) 
 - **Battle Value:** 1884 
 

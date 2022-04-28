@@ -13,6 +13,9 @@
   - LRM 15 w/ Artemis IV (ammo: 8) 
   - ER Large Laser 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3641/zeus-zeu-5t) 
 - **Battle Value:** 1729 
 - [*More Info*](zeus/zeus_zeu-5t.md) 
@@ -30,6 +33,9 @@
   - ER Large Laser 
   - Ultra AC/5 (ammo: 40) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3640/zeus-zeu-5s) 
 - **Battle Value:** 1474 
 - [*More Info*](zeus/zeus_zeu-5s.md) 
@@ -47,6 +53,9 @@
   - Large Laser 
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3642/zeus-zeu-6s) 
 - **Battle Value:** 1348 
 - [*More Info*](zeus/zeus_zeu-6s.md) 
@@ -63,6 +72,9 @@
   - Blazer Cannon 
   - LRM 10 (ammo: 12) 
   - AC/5 (ammo: 20) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772/zeus-zeu-6y) 
 - **Battle Value:** 1323 
 - [*More Info*](zeus/zeus_zeu-6y.md) 
@@ -80,6 +92,9 @@
   - Large Laser 
   - SRM 6 × 3 (ammo: 15) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7432/zeus-zeu-6a) 
 - **Battle Value:** 1405 
 - [*More Info*](zeus/zeus_zeu-6a.md) 
@@ -97,6 +112,9 @@
   - LRM 15 (ammo: 8) 
   - Large Laser 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3643/zeus-zeu-6t) 
 - **Battle Value:** 1436 
 - [*More Info*](zeus/zeus_zeu-6t.md) 
@@ -116,6 +134,9 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3644/zeus-zeu-9s) 
 - **Battle Value:** 1639 
 - [*More Info*](zeus/zeus_zeu-9s.md) 
@@ -136,6 +157,9 @@
 - **Equipment:** 
   - Command Console 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5438/zeus-zeu-9s-dc) 
 - **Battle Value:** 1612 
 - [*More Info*](zeus/zeus_zeu-9s-dc.md) 
@@ -154,6 +178,9 @@
   - LRM 15 × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5459/zeus-zeu-9s2) 
 - **Battle Value:** 1769 
 - [*More Info*](zeus/zeus_zeu-9s2.md) 
@@ -171,6 +198,9 @@
   - LRM 20 w/ Artemis IV (ammo: 12) 
   - ER Large Laser 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3638/zeus-leonidas) 
 - **Battle Value:** 1878 
 - [*More Info*](zeus/zeus_leonidas.md) 
@@ -191,6 +221,9 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3645/zeus-zeu-9t) 
 - **Battle Value:** 1832 
 - [*More Info*](zeus/zeus_zeu-9t.md) 
@@ -208,6 +241,9 @@
   - Heavy PPC × 2 
   - ER Large Laser 
   - ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3639/zeus-zeu-10wb) 
 - **Battle Value:** 2075 
 - [*More Info*](zeus/zeus_zeu-10wb.md) 
@@ -229,6 +265,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7455/zeus-zeu-11s) 
 - **Battle Value:** 2280 
 - [*More Info*](zeus/zeus_zeu-11s.md) 

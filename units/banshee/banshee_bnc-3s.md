@@ -16,6 +16,9 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/245/banshee-bnc-3s) 
 - **Battle Value:** 1751 
 

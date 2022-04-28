@@ -17,6 +17,7 @@
   - Coolant Pod × 2 
   - C3 Support 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/354/black-hawk-ku-bhku-ox) 
 - **Battle Value:** 1941 

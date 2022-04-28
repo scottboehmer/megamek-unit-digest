@@ -15,6 +15,8 @@
   - AC/10 (ammo: 20) 
   - Medium Pulse Laser × 3 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5864/victor-vtr-9b-shoji) 
 - **Battle Value:** 1531 
 

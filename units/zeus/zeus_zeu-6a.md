@@ -15,6 +15,9 @@
   - Large Laser 
   - SRM 6 × 3 (ammo: 15) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7432/zeus-zeu-6a) 
 - **Battle Value:** 1405 
 

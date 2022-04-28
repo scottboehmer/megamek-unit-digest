@@ -17,6 +17,8 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Variable Range Targeting 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4182/fox-cs-1) 
 - **Battle Value:** 1574 
 

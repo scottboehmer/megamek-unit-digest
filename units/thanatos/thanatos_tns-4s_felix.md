@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3173/thanatos-tns-4s-felix) 
 - **Battle Value:** 2122 
 

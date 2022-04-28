@@ -14,6 +14,10 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
+  - Difficult Ejection 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7623/sun-bear-prime) 
 - **Battle Value:** 2022 
 - [*More Info*](sun_bear/sun_bear_prime.md) 
@@ -28,6 +32,10 @@
 - **Heat Sinks:** 23 (46) 
 - **Weapons:** 
   - ER Medium Laser × 12 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
+  - Difficult Ejection 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7624/sun-bear-a) 
 - **Battle Value:** 2418 
 - [*More Info*](sun_bear/sun_bear_a.md) 
@@ -46,6 +54,10 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
+  - Difficult Ejection 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7625/sun-bear-b) 
 - **Battle Value:** 2144 
 - [*More Info*](sun_bear/sun_bear_b.md) 

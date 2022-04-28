@@ -15,6 +15,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3568/wolfhound-wlf-4wa) 
 - **Battle Value:** 1050 
 

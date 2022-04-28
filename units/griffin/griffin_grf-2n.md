@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299/griffin-grf-2n) 
 - **Battle Value:** 1606 
 

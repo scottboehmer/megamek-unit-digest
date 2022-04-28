@@ -14,6 +14,8 @@
   - Ultra AC/5 (ammo: 20) 
   - Medium Laser 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2862/sentinel-stn-3m) 
 - **Battle Value:** 758 
 

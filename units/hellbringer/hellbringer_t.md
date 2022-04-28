@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE II 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7441/loki-hellbringer-t) 
 - **Battle Value:** 2444 
 

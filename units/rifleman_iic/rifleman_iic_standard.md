@@ -18,6 +18,8 @@
   - Active Probe 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Cowl 
+  - Improved Communications 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2710/rifleman-iic-standard) 
 - **Battle Value:** 2307 
 

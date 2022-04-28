@@ -12,6 +12,7 @@
   - Medium Pulse Laser 
   - ER Small Laser × 8 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1914/locust-iic-standard) 
@@ -32,6 +33,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2) 
@@ -50,6 +52,7 @@
   - ER Large Laser 
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1916/locust-iic-3) 
@@ -70,6 +73,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1918/locust-iic-5) 
@@ -88,6 +92,7 @@
   - ER Medium Laser 
   - Heavy Small Laser × 6 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1917/locust-iic-4) 
@@ -109,6 +114,7 @@
   - Machine Gun Array × 2 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1919/locust-iic-6) 
@@ -130,6 +136,7 @@
   - CASE 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1920/locust-iic-7) 
@@ -147,6 +154,7 @@
 - **Weapons:** 
   - ER Large Laser 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1921/locust-iic-8) 
@@ -167,6 +175,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1922/locust-iic-9) 
@@ -185,6 +194,7 @@
   - ER Medium Laser 
   - ER Small Laser × 8 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8203/locust-iic-10) 

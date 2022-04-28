@@ -18,6 +18,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1203/gladiator-executioner-a) 
 - **Battle Value:** 3112 
 

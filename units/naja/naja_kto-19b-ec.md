@@ -16,6 +16,8 @@
   - Medium Laser × 2 
   - Clan SRM 4 × 2 (ammo: 25) 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7622/naja-kto-19b-ec) 
 - **Battle Value:** 1588 
 

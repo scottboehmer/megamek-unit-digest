@@ -17,6 +17,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Good Reputation 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1186/gallowglas-gal-4gls) 
 - **Battle Value:** 1944 
 

@@ -17,6 +17,10 @@
 - **Equipment:** 
   - C3i 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2574/preta-c-prt-oa-dominus) 
 - **Battle Value:** 1302 
 

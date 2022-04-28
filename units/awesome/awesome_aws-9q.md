@@ -15,6 +15,8 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/179/awesome-aws-9q) 
 - **Battle Value:** 1875 
 

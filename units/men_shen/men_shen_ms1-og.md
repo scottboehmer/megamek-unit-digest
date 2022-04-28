@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6894/men-shen-ms1-og) 
 - **Battle Value:** 2267 
 

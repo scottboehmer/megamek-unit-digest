@@ -16,6 +16,8 @@
   - Snub-Nose PPC 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/172/awesome-aws-10km) 
 - **Battle Value:** 1961 
 

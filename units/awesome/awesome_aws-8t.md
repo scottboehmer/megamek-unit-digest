@@ -14,6 +14,8 @@
   - LRM 15 × 2 (ammo: 16) 
   - Large Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/176/awesome-aws-8t) 
 - **Battle Value:** 1593 
 

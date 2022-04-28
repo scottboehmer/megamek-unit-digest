@@ -14,6 +14,9 @@
   - LRM 10 × 2 (ammo: 24) 
   - SRM 6 × 2 (ammo: 15) 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k) 
 - **Battle Value:** 1268 
 

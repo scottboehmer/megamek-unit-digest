@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7507/fenris-ice-ferret-g) 
 - **Battle Value:** 1196 
 

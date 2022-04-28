@@ -13,6 +13,10 @@
 - **Weapons:** 
   - Large Laser × 4 
   - Medium Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/570/charger-cgr-sb-challenger) 
 - **Battle Value:** 1604 
 

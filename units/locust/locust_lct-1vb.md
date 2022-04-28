@@ -15,7 +15,9 @@
   - Medium Laser 
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1903/locust-lct-1vb) 
 - **Battle Value:** 642 

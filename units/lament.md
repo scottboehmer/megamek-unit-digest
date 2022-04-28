@@ -15,6 +15,7 @@
 - **Equipment:** 
   - Radical Heat Sink System 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6676/lament-lmt-2r) 
@@ -37,6 +38,7 @@
   - Radical Heat Sink System 
   - C3 Support 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7400/lament-lmt-2r-manes) 
@@ -59,6 +61,7 @@
   - Radical Heat Sink System 
   - C3 Support 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6722/lament-lmt-3c) 
@@ -80,6 +83,7 @@
 - **Equipment:** 
   - Radical Heat Sink System 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6723/lament-lmt-3r) 
@@ -101,6 +105,7 @@
   - Radical Heat Sink System 
   - C3 Support 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6724/lament-lmt-4rc) 
@@ -124,6 +129,7 @@
   - Radical Heat Sink System 
   - Remote Drone Command Console 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383/lament-lmt-2d) 

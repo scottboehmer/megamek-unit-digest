@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1236/goliath-gol-5w) 
 - **Battle Value:** 2006 
 

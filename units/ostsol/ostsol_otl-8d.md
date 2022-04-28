@@ -19,6 +19,7 @@
   - CASE 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2377/ostsol-otl-8d) 
 - **Battle Value:** 1462 

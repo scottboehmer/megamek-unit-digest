@@ -17,6 +17,8 @@
   - SRM 6 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3174/thor-summoner-a) 
 - **Battle Value:** 2145 
 

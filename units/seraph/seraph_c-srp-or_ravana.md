@@ -22,7 +22,10 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2875/seraph-c-srp-or-ravana) 
 - **Battle Value:** 1954 
 

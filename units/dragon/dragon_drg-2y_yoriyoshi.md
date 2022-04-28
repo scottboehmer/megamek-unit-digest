@@ -18,6 +18,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/910/dragon-drg-2y-yoriyoshi) 
 - **Battle Value:** 1257 
 

@@ -14,7 +14,9 @@
   - Large Laser 
   - AC/5 (ammo: 20) 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972/mackie-msk-5s) 
 - **Battle Value:** 1436 
@@ -34,7 +36,9 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1973/mackie-msk-6s) 
 - **Battle Value:** 1461 
@@ -53,7 +57,9 @@
   - PPC 
   - Large Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** RS 3075U , [Master Unit List](http://masterunitlist.info/Unit/Details/4556/mackie-msk-7a) 
 - **Battle Value:** 1900 
@@ -74,7 +80,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1974/mackie-msk-8b) 
 - **Battle Value:** 2019 
@@ -96,7 +104,9 @@
   - Beagle Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975/mackie-msk-9h) 
 - **Battle Value:** 2022 
@@ -117,7 +127,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5876/mackie-msh-9hkr-kill-roys-little-buddy) 
 - **Battle Value:** 2162 

@@ -20,6 +20,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Cowl 
+  - Reinforced Legs 
+  - Difficult Ejection 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1514/highlander-hgn-732) 
 - **Battle Value:** 2227 
 

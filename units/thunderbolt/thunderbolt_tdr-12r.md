@@ -18,6 +18,9 @@
   - Small VSP Laser × 3 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Rec Guide:ilClan #15 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8194/thunderbolt-tdr-12r) 
 - **Battle Value:** 1975 
 

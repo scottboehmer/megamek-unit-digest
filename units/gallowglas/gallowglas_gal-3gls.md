@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Good Reputation 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1185/gallowglas-gal-3gls) 
 - **Battle Value:** 2291 
 

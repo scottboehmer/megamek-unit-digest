@@ -16,6 +16,9 @@
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
+  - Battle Computer 
+  - Cowl 
+  - Difficult Ejection 
   - Weak Head Armor (2) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/772/cyclops-cp-10-z) 
 - **Battle Value:** 1317 

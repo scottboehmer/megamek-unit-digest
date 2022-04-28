@@ -13,6 +13,8 @@
 - **Weapons:** 
   - PPC × 2 
   - Medium Pulse Laser × 4 
+- **Design Quirks:** 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1403/hatamoto-hi-htm-27u) 
 - **Battle Value:** 1627 
 

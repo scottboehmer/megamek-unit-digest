@@ -17,6 +17,9 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8191/thunderbolt-tdr-8m) 
 - **Battle Value:** 1644 
 

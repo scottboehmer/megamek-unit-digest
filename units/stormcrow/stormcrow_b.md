@@ -15,6 +15,8 @@
   - ER Medium Laser × 6 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2750/ryoken-stormcrow-b) 
 - **Battle Value:** 2281 
 

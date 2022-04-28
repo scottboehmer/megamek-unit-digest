@@ -15,6 +15,8 @@
   - Large Laser 
   - Medium Laser × 2 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - Good Reputation 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1031/falcon-hawk-fnhk-9k1a) 
 - **Battle Value:** 1040 
 

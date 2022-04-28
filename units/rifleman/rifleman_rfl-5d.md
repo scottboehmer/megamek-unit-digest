@@ -16,6 +16,8 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
 - **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2699/rifleman-rfl-5d) 
 - **Battle Value:** 1395 
 

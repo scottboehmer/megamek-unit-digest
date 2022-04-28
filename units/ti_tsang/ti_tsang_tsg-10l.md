@@ -20,6 +20,8 @@
   - Chaff Pod 
   - Supercharger 
   - TAG 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6884/ti-tsang-tsg-10l) 
 - **Battle Value:** 1728 
 

@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Small Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2648/raptor-rtx1-oa) 
 - **Battle Value:** 783 
 

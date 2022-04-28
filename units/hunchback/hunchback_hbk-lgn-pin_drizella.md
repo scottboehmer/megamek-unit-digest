@@ -15,6 +15,8 @@
   - Clan Medium Pulse Laser × 2 
   - Medium Laser × 2 
   - Clan Micro Pulse Laser × 4 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8375/hunchback-hbk-lgn-pin-drizella) 
 - **Battle Value:** 1492 
 

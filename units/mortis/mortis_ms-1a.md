@@ -18,6 +18,8 @@
   - Rocket 10 
 - **Equipment:** 
   - AES × 2 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6466/mortis-ms-1a) 
 - **Battle Value:** 1834 
 

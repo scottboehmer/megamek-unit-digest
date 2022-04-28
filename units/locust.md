@@ -12,7 +12,9 @@
   - Medium Laser 
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1901/locust-lct-1v) 
 - **Battle Value:** 432 
@@ -30,7 +32,9 @@
   - Medium Laser 
   - SRM 2 × 2 (ammo: 50) 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1900/locust-lct-1s) 
 - **Battle Value:** 440 
@@ -48,7 +52,9 @@
   - Medium Laser 
   - LRM 5 × 2 (ammo: 24) 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1899/locust-lct-1m) 
 - **Battle Value:** 424 
@@ -67,7 +73,9 @@
   - Medium Laser 
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1903/locust-lct-1vb) 
 - **Battle Value:** 642 
@@ -85,7 +93,9 @@
   - Medium Laser × 2 
   - Small Laser × 2 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1897/locust-lct-1e) 
 - **Battle Value:** 553 
@@ -103,7 +113,9 @@
   - Clan Medium Pulse Laser 
   - Clan ER Small Laser × 2 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c) 
 - **Battle Value:** 672 
@@ -121,7 +133,9 @@
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1907/locust-lct-3v) 
 - **Battle Value:** 490 
@@ -140,7 +154,9 @@
   - Medium Laser 
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1898/locust-lct-1l) 
 - **Battle Value:** 474 
@@ -159,7 +175,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1904/locust-lct-3d) 
 - **Battle Value:** 436 
@@ -179,7 +197,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1906/locust-lct-3s) 
 - **Battle Value:** 483 
@@ -200,7 +220,9 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1905/locust-lct-3m) 
 - **Battle Value:** 522 
@@ -218,7 +240,9 @@
   - Medium Laser 
   - Rocket 10 × 4 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1902/locust-lct-1v2) 
 - **Battle Value:** 568 
@@ -236,7 +260,9 @@
   - ER Medium Laser 
   - ER Small Laser × 4 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1908/locust-lct-5m) 
 - **Battle Value:** 719 
@@ -254,7 +280,9 @@
   - ER Medium Laser × 2 
   - Rocket 10 × 2 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1910/locust-lct-5v) 
 - **Battle Value:** 665 
@@ -275,7 +303,9 @@
   - Machine Gun Array × 2 
   - CASE 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1909/locust-lct-5t) 
 - **Battle Value:** 482 
@@ -297,7 +327,9 @@
 - **Equipment:** 
   - MASC 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1913/locust-lct-6m) 
 - **Battle Value:** 956 
@@ -317,7 +349,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8199/locust-lct-5s) 
 - **Battle Value:** 509 
@@ -338,7 +372,9 @@
   - TAG 
   - MASC 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1911/locust-lct-5w) 
 - **Battle Value:** 695 
@@ -360,7 +396,9 @@
   - TAG 
   - MASC 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1912/locust-lct-5w2) 
 - **Battle Value:** 787 
@@ -378,7 +416,9 @@
   - ER Medium Laser 
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6947/locust-lct-5m2) 
 - **Battle Value:** 693 
@@ -396,7 +436,9 @@
   - ER Large Laser 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6948/locust-lct-5m3) 
 - **Battle Value:** 929 
@@ -414,7 +456,9 @@
   - Medium X-Pulse Laser 
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8201/locust-lct-7v) 
 - **Battle Value:** 585 
@@ -432,7 +476,9 @@
   - Light PPC 
   - ER Small Laser × 2 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8202/locust-lct-7v2) 
 - **Battle Value:** 634 
@@ -452,7 +498,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8200/locust-lct-7s) 
 - **Battle Value:** 706 

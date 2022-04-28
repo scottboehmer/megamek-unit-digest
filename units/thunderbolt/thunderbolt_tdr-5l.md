@@ -18,6 +18,9 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7762/thunderbolt-tdr-5l) 
 - **Battle Value:** 1515 
 

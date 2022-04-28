@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4562/mad-cat-iii-2) 
 - **Battle Value:** 1697 
 

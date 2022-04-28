@@ -16,6 +16,8 @@
   - Medium Laser × 4 
   - Small X-Pulse Laser × 2 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2556/porcupine-prc-2n) 
 - **Battle Value:** 901 
 

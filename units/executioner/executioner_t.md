@@ -19,6 +19,8 @@
   - ECM Suite 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7714/gladiator-executioner-t) 
 - **Battle Value:** 2558 
 

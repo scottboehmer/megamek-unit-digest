@@ -17,6 +17,8 @@
   - Narc (ammo: 12) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3300/trebuchet-tbt-7m) 
 - **Battle Value:** 1348 
 

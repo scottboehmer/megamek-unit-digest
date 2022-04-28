@@ -14,6 +14,9 @@
 - **Weapons:** 
   - Medium X-Pulse Laser 
   - Machine Gun × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** Rec Guide:ilClan #13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8125/stinger-stg-6g) 
 - **Battle Value:** 503 
 

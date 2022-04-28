@@ -16,6 +16,8 @@
   - Flamer × 4 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1099/firestarter-fs9-o) 
 - **Battle Value:** 1144 
 

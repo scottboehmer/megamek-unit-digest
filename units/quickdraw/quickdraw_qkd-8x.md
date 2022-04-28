@@ -21,6 +21,8 @@
   - Lift Hoist 
   - Head Turret 
   - TAG 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2617/quickdraw-qkd-8x) 
 - **Battle Value:** 1612 
 

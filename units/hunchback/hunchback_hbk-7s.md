@@ -18,6 +18,8 @@
   - Bloodhound Active Probe 
   - Supercharger 
   - TAG 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7346/hunchback-hbk-7s) 
 - **Battle Value:** 1628 
 

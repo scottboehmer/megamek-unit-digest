@@ -15,6 +15,9 @@
   - LRM 10 × 2 (ammo: 24) 
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/879/dervish-dv-6mr) 
 - **Battle Value:** 1347 
 

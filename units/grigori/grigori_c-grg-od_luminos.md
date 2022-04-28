@@ -20,6 +20,10 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1324/grigori-c-grg-od-luminos) 
 - **Battle Value:** 1568 
 

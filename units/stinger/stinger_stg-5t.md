@@ -15,6 +15,9 @@
   - MML 3 × 2 (ammo: 40 LRM, 33 SRM) 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3065/stinger-stg-5t) 
 - **Battle Value:** 341 
 

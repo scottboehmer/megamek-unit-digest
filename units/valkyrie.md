@@ -12,6 +12,9 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3372/valkyrie-vlk-qa) 
 - **Battle Value:** 723 
 - [*More Info*](valkyrie/valkyrie_vlk-qa.md) 
@@ -28,6 +31,9 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - Flamer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3378/valkyrie-vlk-qf) 
 - **Battle Value:** 653 
 - [*More Info*](valkyrie/valkyrie_vlk-qf.md) 
@@ -46,6 +52,9 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #9 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3373/valkyrie-vlk-qd) 
 - **Battle Value:** 807 
 - [*More Info*](valkyrie/valkyrie_vlk-qd.md) 
@@ -65,6 +74,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3374/valkyrie-vlk-qd1) 
 - **Battle Value:** 878 
 - [*More Info*](valkyrie/valkyrie_vlk-qd1.md) 
@@ -84,6 +96,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3376/valkyrie-vlk-qd3) 
 - **Battle Value:** 882 
 - [*More Info*](valkyrie/valkyrie_vlk-qd3.md) 
@@ -104,6 +119,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3379/valkyrie-vlk-qs5) 
 - **Battle Value:** 745 
 - [*More Info*](valkyrie/valkyrie_vlk-qs5.md) 
@@ -123,6 +141,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3375/valkyrie-vlk-qd2) 
 - **Battle Value:** 638 
 - [*More Info*](valkyrie/valkyrie_vlk-qd2.md) 
@@ -144,6 +165,9 @@
   - Full Head Ejection System 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3381/valkyrie-vlk-qw5) 
 - **Battle Value:** 667 
 - [*More Info*](valkyrie/valkyrie_vlk-qw5.md) 
@@ -162,6 +186,9 @@
   - Light PPC 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3380/valkyrie-vlk-qt2) 
 - **Battle Value:** 863 
 - [*More Info*](valkyrie/valkyrie_vlk-qt2.md) 
@@ -182,6 +209,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3377/valkyrie-vlk-qd4) 
 - **Battle Value:** 657 
 - [*More Info*](valkyrie/valkyrie_vlk-qd4.md) 
@@ -203,6 +233,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8104/valkyrie-vlk-qd5) 
 - **Battle Value:** 690 
 - [*More Info*](valkyrie/valkyrie_vlk-qd5.md) 
@@ -222,6 +255,9 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7703/valkyrie-vlk-qd6) 
 - **Battle Value:** 827 
 - [*More Info*](valkyrie/valkyrie_vlk-qd6.md) 
@@ -241,6 +277,9 @@
   - Light PPC 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6930/valkyrie-vlk-qd8) 
 - **Battle Value:** 787 
 - [*More Info*](valkyrie/valkyrie_vlk-qd8.md) 
@@ -260,6 +299,9 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7702/valkyrie-vlk-qdd) 
 - **Battle Value:** 834 
 - [*More Info*](valkyrie/valkyrie_vlk-qdd.md) 
@@ -279,6 +321,9 @@
   - Clan LRM 10 (ammo: 24) 
 - **Equipment:** 
   - Clan CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7701/valkyrie-c) 
 - **Battle Value:** 936 
 - [*More Info*](valkyrie/valkyrie_c.md) 

@@ -19,6 +19,10 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1320/grigori-c-grg-o-invictus) 
 - **Battle Value:** 1245 
 - [*More Info*](grigori/grigori_c-grg-o_invictus.md) 
@@ -42,6 +46,10 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1321/grigori-c-grg-oa-dominus) 
 - **Battle Value:** 1536 
 - [*More Info*](grigori/grigori_c-grg-oa_dominus.md) 
@@ -65,6 +73,10 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1322/grigori-c-grg-ob-infernus) 
 - **Battle Value:** 1374 
 - [*More Info*](grigori/grigori_c-grg-ob_infernus.md) 
@@ -88,6 +100,10 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1323/grigori-c-grg-oc-comminus) 
 - **Battle Value:** 1438 
 - [*More Info*](grigori/grigori_c-grg-oc_comminus.md) 
@@ -110,6 +126,10 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1324/grigori-c-grg-od-luminos) 
 - **Battle Value:** 1568 
 - [*More Info*](grigori/grigori_c-grg-od_luminos.md) 
@@ -134,6 +154,10 @@
   - C3i 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1318/grigori-c-grg-o-rufus) 
 - **Battle Value:** 1380 
 - [*More Info*](grigori/grigori_c-grg-o_rufus.md) 
@@ -156,6 +180,10 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1319/grigori-c-grg-o-tamiel) 
 - **Battle Value:** 1426 
 - [*More Info*](grigori/grigori_c-grg-o_tamiel.md) 
@@ -178,6 +206,10 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1325/grigori-c-grg-oe-eminus) 
 - **Battle Value:** 1544 
 - [*More Info*](grigori/grigori_c-grg-oe_eminus.md) 
@@ -199,6 +231,10 @@
 - **Equipment:** 
   - C3i 
   - CASE II 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1326/grigori-c-grg-os-caelestis) 
 - **Battle Value:** 1378 
 - [*More Info*](grigori/grigori_c-grg-os_caelestis.md) 
@@ -223,6 +259,10 @@
   - Beagle Active Probe 
   - MASS 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1327/grigori-c-grg-ou-exanimus) 
 - **Battle Value:** 1604 
 - [*More Info*](grigori/grigori_c-grg-ou_exanimus.md) 

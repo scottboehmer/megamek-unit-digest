@@ -18,6 +18,9 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Stable 
+  - Distracting 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6514/neanderthal-ntl-ug) 
 - **Battle Value:** 1817 
 

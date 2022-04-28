@@ -18,6 +18,8 @@
   - Anti-Missile System (ammo: 12) 
   - CASE II 
   - Supercharger 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8445/flashman-fls-10e) 
 - **Battle Value:** 3393 
 

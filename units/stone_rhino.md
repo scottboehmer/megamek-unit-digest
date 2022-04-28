@@ -20,6 +20,7 @@
   - Protected Actuators 
   - Oversized 
   - Weak Head Armor (1) 
+  - Barrel Fists 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3814/behemoth-stone-rhino-4) 
 - **Battle Value:** 2601 
 - [*More Info*](stone_rhino/stone_rhino_4.md) 
@@ -41,6 +42,7 @@
   - Protected Actuators 
   - Oversized 
   - Weak Head Armor (1) 
+  - Barrel Fists 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3815/behemoth-stone-rhino-5) 
 - **Battle Value:** 2151 
 - [*More Info*](stone_rhino/stone_rhino_5.md) 
@@ -64,6 +66,7 @@
   - Protected Actuators 
   - Oversized 
   - Weak Head Armor (1) 
+  - Barrel Fists 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318/behemoth-stone-rhino-standard) 
 - **Battle Value:** 3001 
 - [*More Info*](stone_rhino/stone_rhino_standard.md) 
@@ -84,6 +87,7 @@
   - Protected Actuators 
   - Oversized 
   - Weak Head Armor (1) 
+  - Barrel Fists 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3816/behemoth-stone-rhino-6) 
 - **Battle Value:** 2981 
 - [*More Info*](stone_rhino/stone_rhino_6.md) 
@@ -105,6 +109,7 @@
   - Protected Actuators 
   - Oversized 
   - Weak Head Armor (1) 
+  - Barrel Fists 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7448/behemoth-stone-rhino-7) 
 - **Battle Value:** 2916 
 - [*More Info*](stone_rhino/stone_rhino_7.md) 
@@ -131,6 +136,7 @@
   - Protected Actuators 
   - Oversized 
   - Weak Head Armor (1) 
+  - Barrel Fists 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/319/behemoth-stone-rhino-2) 
 - **Battle Value:** 3107 
 - [*More Info*](stone_rhino/stone_rhino_2.md) 
@@ -154,6 +160,7 @@
   - Protected Actuators 
   - Oversized 
   - Weak Head Armor (1) 
+  - Barrel Fists 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/320/behemoth-stone-rhino-3) 
 - **Battle Value:** 3072 
 - [*More Info*](stone_rhino/stone_rhino_3.md) 
@@ -177,6 +184,7 @@
   - Protected Actuators 
   - Oversized 
   - Weak Head Armor (1) 
+  - Barrel Fists 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8) 
 - **Battle Value:** 2804 
 - [*More Info*](stone_rhino/stone_rhino_8.md) 

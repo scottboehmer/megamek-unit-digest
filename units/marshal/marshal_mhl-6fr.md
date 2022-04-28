@@ -15,6 +15,9 @@
   - Snub-Nose PPC 
   - Medium X-Pulse Laser × 3 
   - Flamer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×3) 
 - **Sources:** Fronc Reachs , [Master Unit List](http://masterunitlist.info/Unit/Details/7698/marshal-mhl-6fr) 
 - **Battle Value:** 1429 
 

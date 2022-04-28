@@ -16,6 +16,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2376/ostsol-otl-7m) 
 - **Battle Value:** 1581 

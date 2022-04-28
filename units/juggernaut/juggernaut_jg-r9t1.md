@@ -18,6 +18,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1713/juggernaut-jg-r9t1) 
 - **Battle Value:** 1719 

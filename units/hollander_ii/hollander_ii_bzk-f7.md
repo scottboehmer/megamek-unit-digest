@@ -12,6 +12,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 12) 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1539/hollander-ii-bzk-f7) 
 - **Battle Value:** 1192 
 

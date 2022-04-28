@@ -16,6 +16,8 @@
   - LRM 5 × 3 (ammo: 48) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/217/bandersnatch-bndr-01a) 
 - **Battle Value:** 1478 
 

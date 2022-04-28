@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Heavy Large Laser × 2 
   - ER Medium Laser × 3 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2756/ryoken-stormcrow-h) 
 - **Battle Value:** 2061 
 

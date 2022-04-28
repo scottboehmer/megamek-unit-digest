@@ -14,6 +14,8 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3154/talon-tln-5z) 
 - **Battle Value:** 1168 
 

@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6896/mad-cat-iii-3) 
 - **Battle Value:** 2515 
 

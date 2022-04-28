@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Overhead Arms 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/840/dasher-fire-moth-c) 
 - **Battle Value:** 741 
 

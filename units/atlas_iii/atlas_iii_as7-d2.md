@@ -22,6 +22,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
   - Protected Actuators 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6359/atlas-iii-as7-d2) 
 - **Battle Value:** 2890 

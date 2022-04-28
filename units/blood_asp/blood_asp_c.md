@@ -16,6 +16,8 @@
   - Ultra AC/10 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/401/blood-asp-c) 
 - **Battle Value:** 2270 
 

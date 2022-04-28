@@ -17,6 +17,8 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #3- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6876/thor-summoner-aa) 
 - **Battle Value:** 2216 
 

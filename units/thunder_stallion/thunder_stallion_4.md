@@ -19,6 +19,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Cramped Cockpit 
 - **Sources:** Shrapnel 3:Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7720/thunder-stallion-4) 
 - **Battle Value:** 2607 
 

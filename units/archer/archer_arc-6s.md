@@ -19,6 +19,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/82/archer-arc-6s) 
 - **Battle Value:** 1694 
 

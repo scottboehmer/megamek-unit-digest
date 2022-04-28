@@ -18,6 +18,8 @@
 - **Equipment:** 
   - B-Pod × 2 
   - C3i 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5340/vanquisher-vqr-5v) 
 - **Battle Value:** 2332 
 

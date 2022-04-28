@@ -16,6 +16,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** TRO:3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3569/wolfhound-wlf-5) 
 - **Battle Value:** 1290 
 

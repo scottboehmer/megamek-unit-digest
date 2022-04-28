@@ -18,7 +18,9 @@
   - Light TAG 
   - Modular Armor × 3 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3930/cephalus-prime) 
 - **Battle Value:** 1038 
 

@@ -15,6 +15,8 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2259/nexus-nxs1-a) 
 - **Battle Value:** 643 
 - [*More Info*](nexus/nexus_nxs1-a.md) 
@@ -33,6 +35,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2260/nexus-nxs1-b) 
 - **Battle Value:** 715 
 - [*More Info*](nexus/nexus_nxs1-b.md) 
@@ -54,6 +58,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8412/nexus-nxs1-c) 
 - **Battle Value:** 804 
 - [*More Info*](nexus/nexus_nxs1-c.md) 

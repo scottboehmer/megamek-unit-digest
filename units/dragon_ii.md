@@ -15,6 +15,8 @@
   - Medium X-Pulse Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6414/dragon-ii-drg-11k) 
 - **Battle Value:** 1598 
 - [*More Info*](dragon_ii/dragon_ii_drg-11k.md) 
@@ -36,6 +38,8 @@
   - Clan B-Pod 
   - MASC 
   - CASE II 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6415/dragon-ii-drg-11r) 
 - **Battle Value:** 2183 
 - [*More Info*](dragon_ii/dragon_ii_drg-11r.md) 

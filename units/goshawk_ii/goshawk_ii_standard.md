@@ -18,6 +18,9 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Nimble Jumper 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1249/goshawk-ii-standard) 
 - **Battle Value:** 1849 
 

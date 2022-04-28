@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1252/grand-crusader-grn-d-01) 
 - **Battle Value:** 1758 
 

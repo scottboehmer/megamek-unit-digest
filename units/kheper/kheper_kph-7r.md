@@ -19,6 +19,9 @@
   - Small VSP Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6675/kheper-khp-7r) 
 - **Battle Value:** 1568 
 

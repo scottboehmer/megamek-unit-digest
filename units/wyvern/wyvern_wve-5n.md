@@ -18,6 +18,8 @@
   - Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3597/wyvern-wve-5n) 
 - **Battle Value:** 1089 
 

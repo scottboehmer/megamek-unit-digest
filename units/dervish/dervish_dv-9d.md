@@ -17,6 +17,9 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/883/dervish-dv-9d) 
 - **Battle Value:** 1518 
 

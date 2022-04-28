@@ -16,6 +16,10 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3496/warhammer-whm-8m) 
 - **Battle Value:** 1631 
 

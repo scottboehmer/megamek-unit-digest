@@ -14,6 +14,7 @@
   - Medium Laser × 6 
   - Small Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/345/black-hawk-ku-bhku-o) 
 - **Battle Value:** 1731 
@@ -33,6 +34,7 @@
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 24) 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/347/black-hawk-ku-bhku-oa) 
 - **Battle Value:** 1770 
@@ -51,6 +53,7 @@
   - Large Pulse Laser 
   - Ultra AC/5 (ammo: 20) 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/348/black-hawk-ku-bhku-ob) 
 - **Battle Value:** 1303 
@@ -69,6 +72,7 @@
   - Gauss Rifle (ammo: 8) 
   - Medium Laser 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/349/black-hawk-ku-bhku-oc) 
 - **Battle Value:** 1597 
@@ -87,6 +91,7 @@
   - LRM 20 (ammo: 12) 
   - ER Large Laser 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/350/black-hawk-ku-bhku-od) 
 - **Battle Value:** 1539 
@@ -107,6 +112,7 @@
   - Coolant Pod × 2 
   - C3 Support 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/354/black-hawk-ku-bhku-ox) 
 - **Battle Value:** 1941 
@@ -127,6 +133,7 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3825/black-hawk-ku-bhku-or) 
 - **Battle Value:** 2193 
@@ -144,6 +151,7 @@
 - **Weapons:** 
   - ER Medium Laser × 12 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/351/black-hawk-ku-bhku-oe) 
 - **Battle Value:** 1982 
@@ -164,6 +172,7 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/352/black-hawk-ku-bhku-of) 
 - **Battle Value:** 1759 
@@ -184,6 +193,7 @@
 - **Equipment:** 
   - C3 Main 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/346/black-hawk-ku-bhku-o-albert) 
 - **Battle Value:** 2377 
@@ -204,6 +214,7 @@
 - **Equipment:** 
   - Liquid Cargo 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/353/black-hawk-ku-bhku-ou) 
 - **Battle Value:** 1687 
@@ -226,6 +237,7 @@
   - Bloodhound Active Probe 
   - TAG 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6890/black-hawk-ku-bhku-og) 
 - **Battle Value:** 1719 

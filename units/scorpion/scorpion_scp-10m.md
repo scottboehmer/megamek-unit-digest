@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Heavy PPC 
   - LRM 10 (ammo: 12) 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2833/scorpion-scp-10m) 
 - **Battle Value:** 1458 
 

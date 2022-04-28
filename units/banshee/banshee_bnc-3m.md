@@ -14,6 +14,9 @@
   - PPC × 2 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/241/banshee-bnc-3m) 
 - **Battle Value:** 1595 
 

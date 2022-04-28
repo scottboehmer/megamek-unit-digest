@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - Supercharger 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5417/wolfhound-wlf-2h) 
 - **Battle Value:** 1511 
 

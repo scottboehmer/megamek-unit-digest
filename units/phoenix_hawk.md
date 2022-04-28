@@ -14,6 +14,7 @@
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2491/phoenix-hawk-pxh-1) 
 - **Battle Value:** 1041 
@@ -32,6 +33,7 @@
   - Large Laser 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2494/phoenix-hawk-pxh-1d) 
 - **Battle Value:** 1083 
@@ -52,6 +54,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2496/phoenix-hawk-pxh-2) 
 - **Battle Value:** 1145 
@@ -70,6 +73,7 @@
   - Medium Laser × 2 
   - Small Laser 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2495/phoenix-hawk-pxh-1k) 
 - **Battle Value:** 1073 
@@ -88,6 +92,7 @@
   - Medium Pulse Laser × 2 
   - Small Laser 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5872/phoenix-hawk-pxh-1kk) 
 - **Battle Value:** 1139 
@@ -111,6 +116,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2492/phoenix-hawk-pxh-1b-special) 
 - **Battle Value:** 1512 
@@ -134,6 +140,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2493/phoenix-hawk-pxh-1c-special) 
 - **Battle Value:** 1443 
@@ -194,6 +201,7 @@
   - CASE 
   - MASC 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2502/phoenix-hawk-pxh-3s) 
 - **Battle Value:** 1237 
@@ -216,6 +224,7 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2499/phoenix-hawk-pxh-3m) 
 - **Battle Value:** 1307 
@@ -236,6 +245,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7760/phoenix-hawk-pxh-3d) 
 - **Battle Value:** 1315 
@@ -270,6 +280,7 @@
   - ER Large Laser × 2 
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2498/phoenix-hawk-pxh-3k) 
 - **Battle Value:** 1359 
@@ -293,6 +304,7 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2500/phoenix-hawk-pxh-3m-masters) 
 - **Battle Value:** 1154 
@@ -354,6 +366,7 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2503/phoenix-hawk-pxh-4l) 
 - **Battle Value:** 1282 
@@ -376,6 +389,7 @@
   - Full Head Ejection System 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2501/phoenix-hawk-pxh-3pl) 
 - **Battle Value:** 1244 
@@ -397,6 +411,7 @@
   - Full Head Ejection System 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2506/phoenix-hawk-pxh-6d) 
 - **Battle Value:** 1665 
@@ -419,6 +434,7 @@
   - Full Head Ejection System 
   - C3i 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2507/phoenix-hawk-pxh-7cs) 
 - **Battle Value:** 1281 
@@ -441,6 +457,7 @@
   - Full Head Ejection System 
   - MASC 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2509/phoenix-hawk-pxh-7s) 
 - **Battle Value:** 1496 
@@ -464,6 +481,7 @@
   - Full Head Ejection System 
   - TAG 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5807/phoenix-hawk-pxh-4l-sante) 
 - **Battle Value:** 1442 
@@ -485,6 +503,7 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2505/phoenix-hawk-pxh-5l) 
 - **Battle Value:** 1530 
@@ -506,6 +525,7 @@
   - Full Head Ejection System 
   - C3 Support 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508/phoenix-hawk-pxh-7k) 
 - **Battle Value:** 1241 
@@ -528,6 +548,7 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2504/phoenix-hawk-pxh-4w) 
 - **Battle Value:** 1395 
@@ -550,6 +571,7 @@
   - Full Head Ejection System 
   - C3 Support 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs) 
 - **Battle Value:** 1442 
@@ -610,6 +632,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - Modular Armor × 4 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8106/phoenix-hawk-pxh-99) 
 - **Battle Value:** 1444 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-99.md) 

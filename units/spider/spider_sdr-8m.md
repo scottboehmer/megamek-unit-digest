@@ -13,6 +13,9 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Nimble Jumper 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3017/spider-sdr-8m) 
 - **Battle Value:** 621 
 

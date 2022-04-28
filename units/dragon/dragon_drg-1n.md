@@ -16,6 +16,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/909/dragon-drg-1n) 
 - **Battle Value:** 1125 
 

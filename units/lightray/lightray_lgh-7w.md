@@ -17,6 +17,9 @@
   - MML 3 × 2 (ammo: 40 LRM, 33 SRM) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5681/lightray-lgh-7w) 
 - **Battle Value:** 1352 
 

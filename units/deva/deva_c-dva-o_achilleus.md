@@ -19,6 +19,10 @@
   - C3i 
   - Supercharger 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/884/deva-c-dva-o-achillius) 
 - **Battle Value:** 1595 
 

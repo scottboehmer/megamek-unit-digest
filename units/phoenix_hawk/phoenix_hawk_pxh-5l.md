@@ -18,6 +18,7 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2505/phoenix-hawk-pxh-5l) 
 - **Battle Value:** 1530 

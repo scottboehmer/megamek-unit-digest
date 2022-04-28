@@ -19,6 +19,8 @@
   - Command Console 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2337/orion-on1-v-dc) 
 - **Battle Value:** 1310 
 

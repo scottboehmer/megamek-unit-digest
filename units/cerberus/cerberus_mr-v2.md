@@ -18,6 +18,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Barrel Fists 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/528/cerberus-mr-v2) 
 - **Battle Value:** 2001 
 

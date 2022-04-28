@@ -20,6 +20,8 @@
   - Small Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5692/no-dachi-nda-3s) 
 - **Battle Value:** 1706 
 

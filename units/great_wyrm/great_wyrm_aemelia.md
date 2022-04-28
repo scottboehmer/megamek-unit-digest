@@ -15,6 +15,8 @@
   - ER Large Laser 
   - ER Medium Laser × 2 
   - ER Small Laser × 2 
+- **Design Quirks:** 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1283/great-wyrm-aemelia) 
 - **Battle Value:** 1772 
 

@@ -15,6 +15,8 @@
   - Large Laser 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1339/guillotine-glt-4l) 
 - **Battle Value:** 1400 
 

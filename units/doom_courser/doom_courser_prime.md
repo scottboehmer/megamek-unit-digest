@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Quad Turret 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8393/doom-courser-prime) 
 - **Battle Value:** 2283 
 

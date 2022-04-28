@@ -15,6 +15,8 @@
   - LB 10-X AC (ammo: 10) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3183/thor-summoner-prime) 
 - **Battle Value:** 2298 
 - [*More Info*](summoner/summoner_prime.md) 
@@ -34,6 +36,8 @@
   - SRM 6 (ammo: 30) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3174/thor-summoner-a) 
 - **Battle Value:** 2145 
 - [*More Info*](summoner/summoner_a.md) 
@@ -54,6 +58,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3175/thor-summoner-b) 
 - **Battle Value:** 2159 
 - [*More Info*](summoner/summoner_b.md) 
@@ -74,6 +80,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3176/thor-summoner-c) 
 - **Battle Value:** 2379 
 - [*More Info*](summoner/summoner_c.md) 
@@ -95,6 +103,8 @@
   - Anti-Missile System × 2 (ammo: 48) 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3177/thor-summoner-d) 
 - **Battle Value:** 2643 
 - [*More Info*](summoner/summoner_d.md) 
@@ -115,6 +125,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3182/thor-summoner-m) 
 - **Battle Value:** 2251 
 - [*More Info*](summoner/summoner_m.md) 
@@ -134,6 +146,8 @@
   - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3178/thor-summoner-e) 
 - **Battle Value:** 2612 
 - [*More Info*](summoner/summoner_e.md) 
@@ -153,6 +167,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5490/thor-summoner-f) 
 - **Battle Value:** 2186 
 - [*More Info*](summoner/summoner_f.md) 
@@ -173,6 +189,8 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3180/thor-summoner-h) 
 - **Battle Value:** 2536 
 - [*More Info*](summoner/summoner_h.md) 
@@ -193,6 +211,8 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3179/thor-summoner-g) 
 - **Battle Value:** 2452 
 - [*More Info*](summoner/summoner_g.md) 
@@ -214,6 +234,8 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3184/thor-summoner-q) 
 - **Battle Value:** 2479 
 - [*More Info*](summoner/summoner_q.md) 
@@ -235,6 +257,8 @@
   - AP Gauss Rifle (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3181/thor-summoner-hh) 
 - **Battle Value:** 2490 
 - [*More Info*](summoner/summoner_hh.md) 
@@ -255,6 +279,8 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5821/thor-summoner-z) 
 - **Battle Value:** 2783 
 - [*More Info*](summoner/summoner_z.md) 
@@ -274,6 +300,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3185/thor-summoner-u) 
 - **Battle Value:** 3092 
 - [*More Info*](summoner/summoner_u.md) 
@@ -293,6 +321,8 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #3- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6876/thor-summoner-aa) 
 - **Battle Value:** 2216 
 - [*More Info*](summoner/summoner_aa.md) 
@@ -312,6 +342,8 @@
   - ProtoMech AC/8 (ammo: 20) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7490/thor-summoner-t) 
 - **Battle Value:** 2355 
 - [*More Info*](summoner/summoner_t.md) 
@@ -331,6 +363,8 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7489/thor-summoner-j) 
 - **Battle Value:** 2666 
 - [*More Info*](summoner/summoner_j.md) 

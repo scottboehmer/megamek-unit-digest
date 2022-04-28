@@ -15,6 +15,8 @@
   - Large Pulse Laser × 2 
   - Medium Pulse Laser 
   - Medium Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5873/crab-crb-27sl) 
 - **Battle Value:** 1309 
 

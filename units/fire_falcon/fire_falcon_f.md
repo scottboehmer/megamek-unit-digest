@@ -19,6 +19,8 @@
   - Machine Gun Array × 2 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1068/fire-falcon-f) 
 - **Battle Value:** 1135 
 

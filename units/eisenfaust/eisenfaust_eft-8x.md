@@ -16,7 +16,9 @@
   - Medium Pulse Laser × 2 
   - ER Small Laser 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Battlefists 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/946/eisenfaust-eft-8x) 
 - **Battle Value:** 1039 
 

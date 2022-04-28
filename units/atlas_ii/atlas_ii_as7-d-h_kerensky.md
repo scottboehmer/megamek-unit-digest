@@ -22,6 +22,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** OTP Widowmaker - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7310/atlas-ii-as7-d-h-kerensky) 
 - **Battle Value:** 2777 
 

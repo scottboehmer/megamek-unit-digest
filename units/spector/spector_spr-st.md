@@ -18,6 +18,7 @@
   - Targeting Computer 
   - MASC 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3005/spector-spr-st) 
 - **Battle Value:** 1438 

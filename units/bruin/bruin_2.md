@@ -18,6 +18,8 @@
   - Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/429/bruin-2) 
 - **Battle Value:** 2200 
 

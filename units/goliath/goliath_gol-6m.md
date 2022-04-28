@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Quad Turret 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1238/goliath-gol-6m) 
 - **Battle Value:** 1742 
 

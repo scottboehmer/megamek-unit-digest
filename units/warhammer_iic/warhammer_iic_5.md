@@ -16,6 +16,9 @@
   - Heavy Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
+  - Stable 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3504/warhammer-iic-5) 
 - **Battle Value:** 2185 
 

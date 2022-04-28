@@ -17,6 +17,8 @@
   - SRT 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1054/fenris-ice-ferret-u) 
 - **Battle Value:** 1549 
 

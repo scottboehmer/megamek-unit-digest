@@ -18,6 +18,10 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2906/shadow-hawk-shd-5m) 
 - **Battle Value:** 1430 
 

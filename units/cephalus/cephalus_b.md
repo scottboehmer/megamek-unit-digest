@@ -19,7 +19,9 @@
   - CASE 
   - Light TAG 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5638/cephalus-b) 
 - **Battle Value:** 785 
 

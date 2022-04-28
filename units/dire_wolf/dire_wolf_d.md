@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Difficult Ejection 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/816/daishi-dire-wolf-d) 
 - **Battle Value:** 3403 
 

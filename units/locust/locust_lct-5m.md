@@ -14,7 +14,9 @@
   - ER Medium Laser 
   - ER Small Laser × 4 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1908/locust-lct-5m) 
 - **Battle Value:** 719 

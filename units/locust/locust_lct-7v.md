@@ -14,7 +14,9 @@
   - Medium X-Pulse Laser 
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8201/locust-lct-7v) 
 - **Battle Value:** 585 

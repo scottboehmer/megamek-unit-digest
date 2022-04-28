@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2528/pillager-plg-5l) 
 - **Battle Value:** 2656 
 

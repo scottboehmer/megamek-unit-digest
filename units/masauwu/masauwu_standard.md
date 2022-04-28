@@ -20,6 +20,9 @@
   - ECM Suite 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7642/masauwu-standard) 
 - **Battle Value:** 2299 
 

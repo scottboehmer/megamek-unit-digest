@@ -16,6 +16,8 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3045/stalking-spider-standard) 
 - **Battle Value:** 2232 
 - [*More Info*](stalking_spider/stalking_spider_standard.md) 
@@ -37,6 +39,8 @@
   - TAG 
   - Targeting Computer 
   - MASC 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3046/stalking-spider-2) 
 - **Battle Value:** 2056 
 - [*More Info*](stalking_spider/stalking_spider_2.md) 
@@ -57,6 +61,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3047/stalking-spider-3) 
 - **Battle Value:** 1643 
 - [*More Info*](stalking_spider/stalking_spider_3.md) 

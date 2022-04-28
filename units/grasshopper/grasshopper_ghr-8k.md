@@ -17,6 +17,8 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7450/grasshopper-ghr-8k) 
 - **Battle Value:** 1754 
 

@@ -18,6 +18,9 @@
   - LRM 5 (ammo: 24) 
   - Flamer 
   - Machine Gun × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×3) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2090/marshal-mhl-x1) 
 - **Battle Value:** 1163 
 

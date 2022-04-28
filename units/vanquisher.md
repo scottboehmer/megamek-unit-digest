@@ -15,6 +15,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5338/vanquisher-vqr-2a) 
 - **Battle Value:** 2234 
 - [*More Info*](vanquisher/vanquisher_vqr-2a.md) 
@@ -33,6 +35,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5339/vanquisher-vqr-2b) 
 - **Battle Value:** 2073 
 - [*More Info*](vanquisher/vanquisher_vqr-2b.md) 
@@ -53,6 +57,8 @@
 - **Equipment:** 
   - B-Pod × 2 
   - C3i 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5340/vanquisher-vqr-5v) 
 - **Battle Value:** 2332 
 - [*More Info*](vanquisher/vanquisher_vqr-5v.md) 
@@ -78,6 +84,8 @@
   - Beagle Active Probe 
   - Remote Sensor Dispenser 
   - C3i 
+- **Design Quirks:** 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5721/vanquisher-vqr-7u) 
 - **Battle Value:** 2144 
 - [*More Info*](vanquisher/vanquisher_vqr-7u.md) 
@@ -99,6 +107,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5722/vanquisher-vqr-7v) 
 - **Battle Value:** 2420 
 - [*More Info*](vanquisher/vanquisher_vqr-7v.md) 
@@ -121,6 +131,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TP:Arcturus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7342/vanquisher-vqr-7v-pravuil) 
 - **Battle Value:** 2073 
 - [*More Info*](vanquisher/vanquisher_vqr-7v_pravuil.md) 

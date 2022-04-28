@@ -18,6 +18,10 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3494/warhammer-whm-8d) 
 - **Battle Value:** 1744 
 

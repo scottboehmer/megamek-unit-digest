@@ -18,6 +18,9 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/148/atlas-as7-s) 
 - **Battle Value:** 1929 
 

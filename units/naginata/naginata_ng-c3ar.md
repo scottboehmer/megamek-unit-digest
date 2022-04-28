@@ -17,6 +17,9 @@
 - **Equipment:** 
   - C3 Boosted Main 
   - CASE 
+- **Design Quirks:** 
+  - Cowl 
+  - Stable 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2253/naginata-ng-c3ar) 
 - **Battle Value:** 1879 
 

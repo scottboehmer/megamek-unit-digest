@@ -16,6 +16,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Cramped Cockpit 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2968/sling-sl-1h) 
 - **Battle Value:** 731 
 

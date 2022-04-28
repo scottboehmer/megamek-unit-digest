@@ -15,6 +15,8 @@
   - Large Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/73/archer-arc-2k) 
 - **Battle Value:** 1356 
 

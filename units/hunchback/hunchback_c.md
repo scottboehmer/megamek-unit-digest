@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #21 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8353/hunchback-c) 
 - **Battle Value:** 1893 
 

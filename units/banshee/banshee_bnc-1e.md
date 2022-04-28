@@ -16,6 +16,11 @@
   - AC/5 (ammo: 40) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Distracting 
+  - Easy to Maintain 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3785/banshee-bnc-1e) 
 - **Battle Value:** 1465 
 

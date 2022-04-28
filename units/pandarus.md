@@ -32,6 +32,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4783/pandarus-lfa-1a) 
 - **Battle Value:** 1589 
 - [*More Info*](pandarus/pandarus_lfa-1a.md) 

@@ -20,7 +20,9 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Extended Torso Twist 
+  - Improved Communications 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3582/wolverine-wvr-9m) 
 - **Battle Value:** 1617 
 

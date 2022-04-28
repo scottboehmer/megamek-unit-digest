@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - Clan Targeting Computer 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6400/avalanche-avl-1on) 
 - **Battle Value:** 1873 
 

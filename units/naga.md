@@ -15,6 +15,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2251/naga-prime) 
 - **Battle Value:** 1642 
 - [*More Info*](naga/naga_prime.md) 
@@ -35,6 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2247/naga-a) 
 - **Battle Value:** 1791 
 - [*More Info*](naga/naga_a.md) 
@@ -55,6 +57,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2248/naga-b) 
 - **Battle Value:** 1824 
 - [*More Info*](naga/naga_b.md) 
@@ -75,6 +78,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2249/naga-c) 
 - **Battle Value:** 1608 
 - [*More Info*](naga/naga_c.md) 
@@ -96,6 +100,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2250/naga-d) 
 - **Battle Value:** 1662 
 - [*More Info*](naga/naga_d.md) 

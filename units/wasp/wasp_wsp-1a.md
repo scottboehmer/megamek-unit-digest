@@ -15,6 +15,7 @@
   - Medium Laser 
   - SRM 2 (ammo: 50) 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3520/wasp-wsp-1a) 
 - **Battle Value:** 384 

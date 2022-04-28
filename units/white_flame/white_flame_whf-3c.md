@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - C3i 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5405/white-flame-whf-3c) 
 - **Battle Value:** 1826 
 

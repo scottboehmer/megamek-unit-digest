@@ -15,6 +15,8 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/61/arbalest-3) 
 - **Battle Value:** 921 
 

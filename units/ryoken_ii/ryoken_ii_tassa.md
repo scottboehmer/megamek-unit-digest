@@ -17,6 +17,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/8219/ryoken-ii-tassa) 
 - **Battle Value:** 3103 
 

@@ -12,6 +12,8 @@
   - SRM 4 (ammo: 25) 
   - AC/2 (ammo: 45) 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2856/sentinel-stn-1s) 
 - **Battle Value:** 632 
 - [*More Info*](sentinel/sentinel_stn-1s.md) 
@@ -28,6 +30,8 @@
   - Ultra AC/5 (ammo: 20) 
   - Streak SRM 2 (ammo: 50) 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2860/sentinel-stn-3l) 
 - **Battle Value:** 717 
 - [*More Info*](sentinel/sentinel_stn-3l.md) 
@@ -44,6 +48,8 @@
   - Gauss Rifle (ammo: 16) 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2861/sentinel-stn-3lb) 
 - **Battle Value:** 1260 
 - [*More Info*](sentinel/sentinel_stn-3lb.md) 
@@ -60,6 +66,8 @@
   - AC/5 (ammo: 40) 
   - SRM 2 (ammo: 50) 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2857/sentinel-stn-3k) 
 - **Battle Value:** 652 
 - [*More Info*](sentinel/sentinel_stn-3k.md) 
@@ -76,6 +84,8 @@
   - Large Laser 
   - SRM 2 (ammo: 50) 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2858/sentinel-stn-3ka) 
 - **Battle Value:** 847 
 - [*More Info*](sentinel/sentinel_stn-3ka.md) 
@@ -92,6 +102,8 @@
   - PPC 
   - SRM 2 (ammo: 50) 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2859/sentinel-stn-3kb) 
 - **Battle Value:** 823 
 - [*More Info*](sentinel/sentinel_stn-3kb.md) 
@@ -108,6 +120,8 @@
   - Ultra AC/5 (ammo: 20) 
   - Medium Laser 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2862/sentinel-stn-3m) 
 - **Battle Value:** 758 
 - [*More Info*](sentinel/sentinel_stn-3m.md) 
@@ -125,6 +139,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2863/sentinel-stn-4d) 
 - **Battle Value:** 1179 
 - [*More Info*](sentinel/sentinel_stn-4d.md) 
@@ -142,6 +158,8 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2865/sentinel-stn-c) 
 - **Battle Value:** 689 
 - [*More Info*](sentinel/sentinel_stn-c.md) 
@@ -159,6 +177,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2864/sentinel-stn-5wb) 
 - **Battle Value:** 999 
 - [*More Info*](sentinel/sentinel_stn-5wb.md) 

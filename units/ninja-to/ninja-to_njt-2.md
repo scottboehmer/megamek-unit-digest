@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4726/ninja-to-njt-2) 
 - **Battle Value:** 1527 
 

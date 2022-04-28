@@ -12,6 +12,9 @@
   - Large Laser 
   - Small Laser × 2 
   - Flamer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1140/flea-fle-4) 
 - **Battle Value:** 432 
 - [*More Info*](flea/flea_fle-4.md) 
@@ -28,6 +31,8 @@
 - **Weapons:** 
   - Medium Laser 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
   - Narrow/Low Profile 
 - **Sources:** XTRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5769/flea-fle-14) 
 - **Battle Value:** 270 
@@ -46,6 +51,9 @@
   - Small Laser × 2 
   - Flamer 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1136/flea-fle-15) 
 - **Battle Value:** 430 
 - [*More Info*](flea/flea_fle-15.md) 
@@ -61,6 +69,9 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Flamer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7427/flea-fle-16) 
 - **Battle Value:** 506 
 - [*More Info*](flea/flea_fle-16.md) 
@@ -79,6 +90,9 @@
   - Flamer 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1137/flea-fle-17) 
 - **Battle Value:** 510 
 - [*More Info*](flea/flea_fle-17.md) 
@@ -96,6 +110,9 @@
   - Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1135/flea-fire-ant) 
 - **Battle Value:** 332 
 - [*More Info*](flea/flea_fire_ant.md) 
@@ -114,6 +131,9 @@
   - Light Machine Gun × 8 (ammo: 100) 
 - **Equipment:** 
   - Machine Gun Array × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1138/flea-fle-19) 
 - **Battle Value:** 341 
 - [*More Info*](flea/flea_fle-19.md) 
@@ -132,6 +152,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1139/flea-fle-20) 
 - **Battle Value:** 791 
 - [*More Info*](flea/flea_fle-20.md) 

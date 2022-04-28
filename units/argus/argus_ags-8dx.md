@@ -18,6 +18,8 @@
   - C3 Boosted Support 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/110/argus-ags-8dx) 
 - **Battle Value:** 1598 
 

@@ -14,6 +14,9 @@
   - Blazer Cannon 
   - LRM 10 (ammo: 12) 
   - AC/5 (ammo: 20) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772/zeus-zeu-6y) 
 - **Battle Value:** 1323 
 

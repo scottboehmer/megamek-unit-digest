@@ -16,6 +16,10 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Flamer × 2 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3487/warhammer-whm-6l) 
 - **Battle Value:** 1311 
 

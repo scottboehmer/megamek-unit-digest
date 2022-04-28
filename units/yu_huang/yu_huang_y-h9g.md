@@ -19,6 +19,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3626/yu-huang-y-h9g) 
 - **Battle Value:** 2074 
 

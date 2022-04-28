@@ -21,6 +21,9 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3749/atlas-as7-k-dc) 
 - **Battle Value:** 2158 
 

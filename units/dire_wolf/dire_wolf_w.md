@@ -21,6 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Difficult Ejection 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/821/daishi-dire-wolf-w) 
 - **Battle Value:** 2951 
 

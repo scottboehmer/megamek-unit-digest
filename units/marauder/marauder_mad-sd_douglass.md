@@ -16,6 +16,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2052/marauder-mad-sd-douglass) 
 - **Battle Value:** 1459 

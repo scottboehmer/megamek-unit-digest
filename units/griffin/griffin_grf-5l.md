@@ -17,6 +17,9 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1304/griffin-grf-5l) 
 - **Battle Value:** 1742 
 

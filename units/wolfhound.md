@@ -13,6 +13,9 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3560/wolfhound-wlf-1) 
 - **Battle Value:** 949 
 - [*More Info*](wolfhound/wolfhound_wlf-1.md) 
@@ -30,6 +33,9 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3561/wolfhound-wlf-1a) 
 - **Battle Value:** 967 
 - [*More Info*](wolfhound/wolfhound_wlf-1a.md) 
@@ -47,6 +53,9 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3562/wolfhound-wlf-1b) 
 - **Battle Value:** 967 
 - [*More Info*](wolfhound/wolfhound_wlf-1b.md) 
@@ -64,6 +73,9 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3563/wolfhound-wlf-2) 
 - **Battle Value:** 1061 
 - [*More Info*](wolfhound/wolfhound_wlf-2.md) 
@@ -83,6 +95,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - Clan Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5416/wolfhound-wlf-1-allard) 
 - **Battle Value:** 1941 
 - [*More Info*](wolfhound/wolfhound_wlf-1_allard.md) 
@@ -101,6 +116,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3566/wolfhound-wlf-3s) 
 - **Battle Value:** 1176 
 - [*More Info*](wolfhound/wolfhound_wlf-3s.md) 
@@ -119,6 +137,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3567/wolfhound-wlf-4w) 
 - **Battle Value:** 1090 
 - [*More Info*](wolfhound/wolfhound_wlf-4w.md) 
@@ -136,6 +157,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3568/wolfhound-wlf-4wa) 
 - **Battle Value:** 1050 
 - [*More Info*](wolfhound/wolfhound_wlf-4wa.md) 
@@ -156,6 +180,9 @@
   - Full Head Ejection System 
   - AES 
   - Supercharger 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** XTR Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3564/wolfhound-wlf-2x) 
 - **Battle Value:** 1842 
 - [*More Info*](wolfhound/wolfhound_wlf-2x.md) 
@@ -172,6 +199,9 @@
   - Light Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3565/wolfhound-wlf-3m) 
 - **Battle Value:** 786 
 - [*More Info*](wolfhound/wolfhound_wlf-3m.md) 
@@ -190,6 +220,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** TRO:3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3569/wolfhound-wlf-5) 
 - **Battle Value:** 1290 
 - [*More Info*](wolfhound/wolfhound_wlf-5.md) 
@@ -209,6 +242,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - Supercharger 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5417/wolfhound-wlf-2h) 
 - **Battle Value:** 1511 
 - [*More Info*](wolfhound/wolfhound_wlf-2h.md) 
@@ -228,6 +264,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - AES 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8223/wolfhound-wlf-6s) 
 - **Battle Value:** 1266 
 - [*More Info*](wolfhound/wolfhound_wlf-6s.md) 

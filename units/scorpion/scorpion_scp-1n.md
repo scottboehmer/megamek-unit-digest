@@ -13,6 +13,8 @@
 - **Weapons:** 
   - PPC 
   - SRM 6 (ammo: 15) 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2837/scorpion-scp-1n) 
 - **Battle Value:** 1019 
 

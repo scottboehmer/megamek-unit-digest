@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Cramped Cockpit 
+  - Difficult Ejection 
   - Combat Computer 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5135/stinger-iic-standard) 
 - **Battle Value:** 730 

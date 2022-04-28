@@ -18,6 +18,8 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3048/starslayer-sty-2c) 
 - **Battle Value:** 1365 
 

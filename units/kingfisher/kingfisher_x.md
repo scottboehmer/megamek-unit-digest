@@ -19,6 +19,8 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x) 
 - **Battle Value:** 2761 
 

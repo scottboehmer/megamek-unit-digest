@@ -18,6 +18,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7621/naja-standard) 
 - **Battle Value:** 1910 
 

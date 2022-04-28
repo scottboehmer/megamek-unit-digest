@@ -14,6 +14,8 @@
 - **Weapons:** 
   - PPC × 2 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/388/blackjack-bj-3) 
 - **Battle Value:** 1271 
 

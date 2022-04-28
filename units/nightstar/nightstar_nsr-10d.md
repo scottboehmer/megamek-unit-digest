@@ -21,6 +21,8 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7539/nightstar-nsr-10d) 
 - **Battle Value:** 2539 

@@ -20,6 +20,8 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5703/legacy-lgc-05) 
 - **Battle Value:** 1598 
 

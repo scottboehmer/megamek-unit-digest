@@ -17,6 +17,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1284/great-wyrm-standard) 
 - **Battle Value:** 1331 
 

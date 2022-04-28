@@ -14,6 +14,9 @@
   - RAC/5 (ammo: 40) 
   - ER Large Laser 
   - LRM 10 w/ Artemis IV (ammo: 12) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2929/shockwave-skw-2f) 
 - **Battle Value:** 1453 
 

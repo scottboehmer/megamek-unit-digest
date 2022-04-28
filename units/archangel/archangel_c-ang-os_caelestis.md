@@ -22,6 +22,9 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/71/archangel-c-ang-os-caelestis) 
 - **Battle Value:** 2026 
 

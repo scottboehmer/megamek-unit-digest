@@ -15,6 +15,8 @@
   - SRM 6 × 2 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2382/ostwar-owr-2mb) 
 - **Battle Value:** 1638 
 

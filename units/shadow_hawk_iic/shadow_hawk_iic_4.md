@@ -17,6 +17,9 @@
   - ATM 6 (ammo: 10 Standard, 10 ER, 10 HE) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2914/shadow-hawk-iic-4) 
 - **Battle Value:** 1698 
 

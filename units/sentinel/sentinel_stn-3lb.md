@@ -14,6 +14,8 @@
   - Gauss Rifle (ammo: 16) 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2861/sentinel-stn-3lb) 
 - **Battle Value:** 1260 
 

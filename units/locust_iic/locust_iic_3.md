@@ -14,6 +14,7 @@
   - ER Large Laser 
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1916/locust-iic-3) 

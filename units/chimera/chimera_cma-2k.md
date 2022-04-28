@@ -21,6 +21,8 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5667/chimera-cma-2k) 
 - **Battle Value:** 1528 
 

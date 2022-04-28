@@ -15,6 +15,9 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Partial Wing 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Nimble Jumper 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3019/spider-sdr-8x) 
 - **Battle Value:** 765 
 

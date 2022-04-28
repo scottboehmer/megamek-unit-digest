@@ -17,6 +17,8 @@
   - SRM 4 (OS) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2614/quickdraw-qkd-5m) 
 - **Battle Value:** 1237 
 

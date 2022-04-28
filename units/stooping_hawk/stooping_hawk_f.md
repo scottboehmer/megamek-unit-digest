@@ -18,6 +18,8 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×3) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3081/stooping-hawk-f) 
 - **Battle Value:** 1988 
 

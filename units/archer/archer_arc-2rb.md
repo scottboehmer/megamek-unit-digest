@@ -17,6 +17,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/75/archer-arc-2rb) 
 - **Battle Value:** 1705 
 

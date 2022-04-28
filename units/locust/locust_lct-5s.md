@@ -16,7 +16,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8199/locust-lct-5s) 
 - **Battle Value:** 509 

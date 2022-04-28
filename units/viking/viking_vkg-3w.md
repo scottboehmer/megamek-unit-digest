@@ -17,6 +17,9 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Multi-Trac 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3420/viking-vkg-3w) 
 - **Battle Value:** 1778 
 

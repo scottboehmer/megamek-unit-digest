@@ -17,6 +17,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Communications 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2216/mongoose-ii-mon-266) 
 - **Battle Value:** 1085 
 - [*More Info*](mongoose_ii/mongoose_ii_mon-266.md) 
@@ -39,6 +40,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Communications 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2217/mongoose-ii-mon-267) 
 - **Battle Value:** 1237 
 - [*More Info*](mongoose_ii/mongoose_ii_mon-267.md) 
@@ -60,6 +62,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Communications 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2218/mongoose-ii-mon-268) 
 - **Battle Value:** 1215 
 - [*More Info*](mongoose_ii/mongoose_ii_mon-268.md) 

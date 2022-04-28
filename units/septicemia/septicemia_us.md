@@ -22,6 +22,8 @@
   - Liquid Cargo × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5817/pariah-septicemia-us) 
 - **Battle Value:** 2298 
 

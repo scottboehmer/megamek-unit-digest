@@ -16,6 +16,8 @@
 - **Equipment:** 
   - C3 Boosted Support 
   - CASE II 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7350/hatamoto-ku-htm-27w2) 
 - **Battle Value:** 1699 
 

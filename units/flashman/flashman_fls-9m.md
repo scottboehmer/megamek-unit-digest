@@ -15,6 +15,8 @@
   - Medium Pulse Laser × 4 
   - Medium Laser × 4 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1127/flashman-fls-9m) 
 - **Battle Value:** 1895 
 

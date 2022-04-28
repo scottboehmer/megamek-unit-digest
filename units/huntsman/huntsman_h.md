@@ -19,6 +19,8 @@
   - ECM Suite 
   - Active Probe 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2294/nobori-nin-huntsman-h) 
 - **Battle Value:** 2495 
 

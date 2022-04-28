@@ -19,6 +19,9 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Battlefists 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2918/shadow-hawk-iic-8) 
 - **Battle Value:** 1940 
 

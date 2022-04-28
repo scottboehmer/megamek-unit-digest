@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Fine Manipulators 
+  - Improved Sensors 
   - Improved Targeting (Long) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6829/jupiter-4) 
 - **Battle Value:** 2955 

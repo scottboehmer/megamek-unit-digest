@@ -16,6 +16,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8130/hunchback-iic-5) 
 - **Battle Value:** 1534 
 

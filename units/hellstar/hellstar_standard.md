@@ -12,6 +12,8 @@
 - **Heat Sinks:** 30 (60) 
 - **Weapons:** 
   - ER PPC × 4 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1481/hellstar-standard) 
 - **Battle Value:** 3084 
 

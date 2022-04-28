@@ -19,7 +19,10 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2874/seraph-c-srp-oe-eminus) 
 - **Battle Value:** 2148 
 

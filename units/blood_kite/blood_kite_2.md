@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×3) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3837/blood-kite-2) 
 - **Battle Value:** 3122 
 

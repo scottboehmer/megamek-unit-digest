@@ -23,6 +23,8 @@
   - Laser Anti-Missile System 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7781/nobori-nin-huntsman-t) 
 - **Battle Value:** 2105 
 

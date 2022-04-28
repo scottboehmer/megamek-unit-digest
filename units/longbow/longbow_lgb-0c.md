@@ -17,6 +17,9 @@
   - Small Laser 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Improved Communications 
+  - Searchlight 
+  - Cramped Cockpit 
   - Weak Legs 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5619/longbow-lgb-0c) 
 - **Battle Value:** 1295 

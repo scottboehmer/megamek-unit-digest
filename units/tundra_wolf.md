@@ -20,6 +20,7 @@
   - CASE 
   - MASC 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3315/tundra-wolf-standard) 
 - **Battle Value:** 3131 
@@ -44,6 +45,7 @@
   - MASC 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3316/tundra-wolf-2) 
 - **Battle Value:** 3626 
@@ -68,6 +70,7 @@
   - MASC 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3317/tundra-wolf-3) 
 - **Battle Value:** 3292 
@@ -92,6 +95,7 @@
   - CASE 
   - MASC 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3318/tundra-wolf-4) 
 - **Battle Value:** 2873 
@@ -115,6 +119,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6862/tundra-wolf-5) 
 - **Battle Value:** 2645 

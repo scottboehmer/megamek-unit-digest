@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - Modular Armor × 4 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8106/phoenix-hawk-pxh-99) 
 - **Battle Value:** 1444 
 

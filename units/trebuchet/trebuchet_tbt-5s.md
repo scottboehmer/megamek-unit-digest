@@ -13,6 +13,8 @@
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3298/trebuchet-tbt-5s) 
 - **Battle Value:** 984 
 

@@ -19,6 +19,8 @@
   - ECM Suite 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/369/black-lanner-prime) 
 - **Battle Value:** 2268 
 

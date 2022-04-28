@@ -14,6 +14,8 @@
 - **Weapons:** 
   - ER PPC 
   - ER Micro Laser × 8 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2393/pack-hunter-2) 
 - **Battle Value:** 1598 
 

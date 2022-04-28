@@ -17,6 +17,8 @@
   - Medium X-Pulse Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6414/dragon-ii-drg-11k) 
 - **Battle Value:** 1598 
 

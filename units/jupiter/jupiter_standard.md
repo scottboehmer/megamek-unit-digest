@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Fine Manipulators 
+  - Improved Sensors 
   - Improved Targeting (Long) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1725/jupiter-standard) 
 - **Battle Value:** 2784 

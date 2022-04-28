@@ -15,6 +15,8 @@
   - LRM 15 × 4 (ammo: 64) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Cramped Cockpit 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3224/thunder-stallion-standard) 
 - **Battle Value:** 2306 
 

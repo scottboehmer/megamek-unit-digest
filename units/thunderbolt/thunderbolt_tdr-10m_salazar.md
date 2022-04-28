@@ -22,6 +22,9 @@
   - Flamer 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** TRO 3085/BD Salazar Tsakalotos - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3234/thunderbolt-tdr-10m-salazar) 
 - **Battle Value:** 1763 
 

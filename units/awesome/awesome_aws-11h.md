@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Heavy PPC × 3 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7501/awesome-aws-11h) 
 - **Battle Value:** 2036 
 

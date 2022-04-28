@@ -13,6 +13,9 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Pulse Laser × 3 
+- **Design Quirks:** 
+  - Nimble Jumper 
+  - Difficult Ejection 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3399/venom-sdr-9ka) 
 - **Battle Value:** 865 
 

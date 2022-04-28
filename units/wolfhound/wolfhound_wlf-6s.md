@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - AES 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Good Reputation 
 - **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8223/wolfhound-wlf-6s) 
 - **Battle Value:** 1266 
 

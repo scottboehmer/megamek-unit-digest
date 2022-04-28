@@ -17,6 +17,7 @@
 - **Equipment:** 
   - Radical Heat Sink System 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6676/lament-lmt-2r) 

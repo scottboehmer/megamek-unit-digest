@@ -17,6 +17,9 @@
   - ER Medium Laser × 8 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1805/kodiak-standard) 
 - **Battle Value:** 2927 
 

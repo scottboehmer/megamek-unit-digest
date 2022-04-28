@@ -15,6 +15,8 @@
   - Clan ER Large Laser × 2 
   - Clan LRM 10 w/ Artemis IV (ammo: 24) 
   - Flamer × 2 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1108/firestarter-fs9-or) 
 - **Battle Value:** 1713 
 

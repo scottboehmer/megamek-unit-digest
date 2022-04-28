@@ -15,6 +15,9 @@
   - Heavy PPC × 2 
   - ER Large Laser 
   - ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3639/zeus-zeu-10wb) 
 - **Battle Value:** 2075 
 

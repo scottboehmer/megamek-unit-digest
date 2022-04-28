@@ -18,6 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Overhead Arms 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/841/dasher-fire-moth-d) 
 - **Battle Value:** 2307 
 

@@ -14,6 +14,9 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Heavy Machine Gun × 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** Rec Guide:ilClan #13 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8124/stinger-stg-6r) 
 - **Battle Value:** 454 
 

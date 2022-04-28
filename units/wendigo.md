@@ -16,6 +16,8 @@
   - Ultra AC/2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6402/wendigo-prime) 
 - **Battle Value:** 2122 
 - [*More Info*](wendigo/wendigo_prime.md) 
@@ -34,6 +36,8 @@
   - LRM 15 (ammo: 16) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6404/wendigo-a) 
 - **Battle Value:** 2072 
 - [*More Info*](wendigo/wendigo_a.md) 
@@ -53,6 +57,8 @@
   - ER Small Laser × 5 
 - **Equipment:** 
   - ECM Suite 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6405/wendigo-b) 
 - **Battle Value:** 2369 
 - [*More Info*](wendigo/wendigo_b.md) 
@@ -74,6 +80,8 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6406/wendigo-c) 
 - **Battle Value:** 2628 
 - [*More Info*](wendigo/wendigo_c.md) 

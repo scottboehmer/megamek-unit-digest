@@ -18,6 +18,7 @@
   - C3i 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/438/buccaneer-bcn-6w) 
 - **Battle Value:** 1121 
 

@@ -16,6 +16,9 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Nimble Jumper 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1249/goshawk-ii-standard) 
 - **Battle Value:** 1849 
 - [*More Info*](goshawk_ii/goshawk_ii_standard.md) 
@@ -38,6 +41,9 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Nimble Jumper 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1247/goshawk-ii-2) 
 - **Battle Value:** 1767 
 - [*More Info*](goshawk_ii/goshawk_ii_2.md) 
@@ -58,6 +64,9 @@
 - **Equipment:** 
   - Targeting Computer 
   - Liquid Cargo 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Nimble Jumper 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1248/goshawk-ii-3) 
 - **Battle Value:** 2115 
 - [*More Info*](goshawk_ii/goshawk_ii_3.md) 
@@ -79,7 +88,10 @@
   - CASE 
   - Inner Sphere Emergency Coolant System 
 - **Design Quirks:** 
+  - Improved Life Support 
+  - Nimble Jumper 
   - Combat Computer 
+  - Cooling System Flaws 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7376/goshawk-ii-risc) 
 - **Battle Value:** 1871 
 - [*More Info*](goshawk_ii/goshawk_ii_risc.md) 

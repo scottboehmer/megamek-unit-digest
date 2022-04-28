@@ -19,6 +19,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Improved Life Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3605/xanthos-xnt-4o) 
 - **Battle Value:** 2548 
 

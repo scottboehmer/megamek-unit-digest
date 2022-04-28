@@ -15,6 +15,8 @@
   - ER Large Laser 
   - AC/10 (ammo: 30) 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/983/enforcer-iii-enf-6ma) 
 - **Battle Value:** 1275 
 

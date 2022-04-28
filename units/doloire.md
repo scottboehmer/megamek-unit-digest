@@ -16,6 +16,7 @@
   - Angel ECM Suite 
   - AES × 2 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Command ’Mech 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6678/doloire-dlr-o) 
 - **Battle Value:** 2561 
@@ -38,6 +39,7 @@
   - Radical Heat Sink System 
   - CASE II 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Command ’Mech 
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6679/doloire-dlr-oa) 
 - **Battle Value:** 2218 
@@ -59,6 +61,7 @@
   - AES × 2 
   - CASE II 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Command ’Mech 
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6680/doloire-dlr-ob) 
 - **Battle Value:** 2836 
@@ -83,6 +86,7 @@
   - C3 Main 
   - CASE II 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Command ’Mech 
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6681/doloire-dlr-oc) 
 - **Battle Value:** 2242 
@@ -107,6 +111,7 @@
   - Supercharger 
   - CASE II 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Command ’Mech 
 - **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6682/doloire-dlr-od) 
 - **Battle Value:** 3071 
@@ -129,6 +134,7 @@
   - C3i 
   - Clan Light TAG 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Command ’Mech 
 - **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7636/doloire-dlr-oblo) 
 - **Battle Value:** 2441 

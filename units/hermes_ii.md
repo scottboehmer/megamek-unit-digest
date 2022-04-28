@@ -13,6 +13,8 @@
   - Medium Laser 
   - Flamer 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1497/hermes-ii-her-2s) 
 - **Battle Value:** 784 
@@ -31,6 +33,8 @@
   - Flamer 
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1496/hermes-ii-her-2m-mercury) 
 - **Battle Value:** 910 
@@ -47,6 +51,8 @@
 - **Weapons:** 
   - Large Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1498/hermes-ii-her-4k-hermes-iii) 
 - **Battle Value:** 976 
@@ -65,6 +71,8 @@
   - Medium Pulse Laser 
   - Flamer 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1501/hermes-ii-her-5s) 
 - **Battle Value:** 857 
@@ -81,6 +89,8 @@
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 32) 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1500/hermes-ii-her-5me-mercury-elite) 
 - **Battle Value:** 847 
@@ -101,6 +111,8 @@
 - **Equipment:** 
   - C3i 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1499/hermes-ii-her-5c) 
 - **Battle Value:** 1119 
@@ -119,6 +131,8 @@
   - ER Medium Laser 
   - Flamer 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1504/hermes-ii-her-6d) 
 - **Battle Value:** 1106 
@@ -137,6 +151,8 @@
   - Ultra AC/5 (ammo: 20) 
   - Flamer 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1502/hermes-ii-her-5sa) 
 - **Battle Value:** 924 
@@ -158,6 +174,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1503/hermes-ii-her-5sr) 
 - **Battle Value:** 1242 
@@ -179,6 +197,8 @@
 - **Equipment:** 
   - Clan Targeting Computer 
 - **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
   - No Torso Twist 
 - **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1505/hermes-ii-her-7s) 
 - **Battle Value:** 1525 

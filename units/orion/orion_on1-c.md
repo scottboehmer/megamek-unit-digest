@@ -15,7 +15,9 @@
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Anti-Aircraft Targeting 
+  - Rugged (×2) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4755/orion-on1-c) 
 - **Battle Value:** 973 
 

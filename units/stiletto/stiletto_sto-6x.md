@@ -16,6 +16,9 @@
   - Bloodhound Active Probe 
   - Shoulder Turret × 2 
   - Supercharger 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Difficult Ejection 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5134/stiletto-sto-6x) 
 - **Battle Value:** 1192 
 

@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Spikes × 2 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/419/bombard-bmb-013) 
 - **Battle Value:** 1019 
 

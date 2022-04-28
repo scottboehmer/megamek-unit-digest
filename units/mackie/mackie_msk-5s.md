@@ -16,7 +16,9 @@
   - Large Laser 
   - AC/5 (ammo: 20) 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972/mackie-msk-5s) 
 - **Battle Value:** 1436 

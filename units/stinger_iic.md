@@ -15,6 +15,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Cramped Cockpit 
+  - Difficult Ejection 
   - Combat Computer 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5135/stinger-iic-standard) 
 - **Battle Value:** 730 
@@ -33,6 +35,8 @@
   - Improved Heavy Large Laser 
   - Improved Heavy Medium Laser × 2 
 - **Design Quirks:** 
+  - Cramped Cockpit 
+  - Difficult Ejection 
   - Combat Computer 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5136/stinger-iic-2) 
 - **Battle Value:** 1097 

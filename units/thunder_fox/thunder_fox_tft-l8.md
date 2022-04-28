@@ -15,6 +15,8 @@
 - **Weapons:** 
   - Snub-Nose PPC × 2 
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3219/thunder-fox-tft-l8) 
 - **Battle Value:** 1513 
 

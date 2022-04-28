@@ -14,6 +14,9 @@
 - **Weapons:** 
   - Medium Laser 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Nimble Jumper 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3009/spider-sdr-5k) 
 - **Battle Value:** 503 
 

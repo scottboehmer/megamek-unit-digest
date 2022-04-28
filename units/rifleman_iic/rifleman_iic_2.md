@@ -17,6 +17,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Cowl 
+  - Improved Communications 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2711/rifleman-iic-2) 
 - **Battle Value:** 1345 
 

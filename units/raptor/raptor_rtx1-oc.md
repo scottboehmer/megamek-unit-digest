@@ -15,6 +15,8 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2650/raptor-rtx1-oc) 
 - **Battle Value:** 870 
 

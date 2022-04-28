@@ -19,6 +19,9 @@
 - **Equipment:** 
   - Liquid Cargo × 2 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2917/shadow-hawk-iic-7) 
 - **Battle Value:** 1999 
 

@@ -20,6 +20,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7643/woodsman-b) 
 - **Battle Value:** 2414 
 

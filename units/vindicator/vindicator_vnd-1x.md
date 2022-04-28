@@ -17,6 +17,8 @@
   - LRM 5 (ammo: 24) 
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
+  - Rugged (×2) 
+  - Difficult Ejection 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3425/vindicator-vnd-1x) 
 - **Battle Value:** 1008 

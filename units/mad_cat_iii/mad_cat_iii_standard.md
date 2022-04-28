@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4561/mad-cat-iii-standard) 
 - **Battle Value:** 2400 
 

@@ -13,6 +13,9 @@
   - ER Medium Laser × 2 
   - SRM 2 × 2 (ammo: 50) 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4520/lightray-lgh-4y) 
 - **Battle Value:** 1379 
 - [*More Info*](lightray/lightray_lgh-4y.md) 
@@ -31,6 +34,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4519/lightray-lgh-4w) 
 - **Battle Value:** 1450 
 - [*More Info*](lightray/lightray_lgh-4w.md) 
@@ -49,6 +55,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4521/lightray-lgh-5w) 
 - **Battle Value:** 1674 
 - [*More Info*](lightray/lightray_lgh-5w.md) 
@@ -66,6 +75,9 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1885/lightray-lgh-6w) 
 - **Battle Value:** 1554 
 - [*More Info*](lightray/lightray_lgh-6w.md) 
@@ -85,6 +97,9 @@
   - MML 3 × 2 (ammo: 40 LRM, 33 SRM) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5681/lightray-lgh-7w) 
 - **Battle Value:** 1352 
 - [*More Info*](lightray/lightray_lgh-7w.md) 

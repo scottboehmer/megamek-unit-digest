@@ -21,7 +21,9 @@
   - Targeting Computer 
   - Supercharger 
 - **Design Quirks:** 
+  - Hyper-Extending Actuators 
   - Difficult to Maintain 
+  - Improved Life Support 
   - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc) 
 - **Battle Value:** 2013 

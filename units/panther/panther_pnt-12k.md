@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Nimble Jumper 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2419/panther-pnt-12k) 
 - **Battle Value:** 930 
 

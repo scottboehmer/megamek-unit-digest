@@ -19,6 +19,10 @@
   - Full Head Ejection System 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs) 
 - **Battle Value:** 1700 
 

@@ -14,6 +14,9 @@
 - **Weapons:** 
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1200/gladiator-gld-3r) 
 - **Battle Value:** 1282 
 

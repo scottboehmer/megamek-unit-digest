@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Inner Sphere Coolant Pod × 2 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8364/kodiak-6) 
 - **Battle Value:** 2922 
 

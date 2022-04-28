@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5218/thanatos-tns-4s) 
 - **Battle Value:** 1844 
 

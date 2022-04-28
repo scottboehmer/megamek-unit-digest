@@ -18,6 +18,8 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3179/thor-summoner-g) 
 - **Battle Value:** 2452 
 

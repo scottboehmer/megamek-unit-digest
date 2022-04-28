@@ -14,6 +14,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Difficult Ejection 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5131/stiletto-sto-4a) 
 - **Battle Value:** 859 
 - [*More Info*](stiletto/stiletto_sto-4a.md) 
@@ -32,6 +35,9 @@
   - Flamer 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Difficult Ejection 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5132/stiletto-sto-4b) 
 - **Battle Value:** 1164 
 - [*More Info*](stiletto/stiletto_sto-4b.md) 
@@ -49,6 +55,9 @@
   - MML 5 (ammo: 48 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Difficult Ejection 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5666/stiletto-sto-4c) 
 - **Battle Value:** 941 
 - [*More Info*](stiletto/stiletto_sto-4c.md) 
@@ -67,6 +76,9 @@
   - Bloodhound Active Probe 
   - Shoulder Turret × 2 
   - Supercharger 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Difficult Ejection 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5134/stiletto-sto-6x) 
 - **Battle Value:** 1192 
 - [*More Info*](stiletto/stiletto_sto-6x.md) 
@@ -85,6 +97,10 @@
   - Guardian ECM Suite 
   - Bloodhound Active Probe 
   - Shoulder Turret × 2 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Difficult Ejection 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5133/stiletto-sto-6s) 
 - **Battle Value:** 1171 
 - [*More Info*](stiletto/stiletto_sto-6s.md) 

@@ -21,7 +21,9 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Extended Torso Twist 
+  - Improved Communications 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d) 
 - **Battle Value:** 1314 
 

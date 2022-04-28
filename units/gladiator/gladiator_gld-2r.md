@@ -13,6 +13,9 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1199/gladiator-gld-2r) 
 - **Battle Value:** 1184 
 

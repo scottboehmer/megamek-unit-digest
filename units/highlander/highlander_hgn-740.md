@@ -21,6 +21,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Cowl 
+  - Reinforced Legs 
+  - Difficult Ejection 
 - **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7733/highlander-hgn-740) 
 - **Battle Value:** 2232 
 

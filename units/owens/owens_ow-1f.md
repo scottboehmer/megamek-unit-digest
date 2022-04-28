@@ -20,6 +20,8 @@
   - TAG 
   - C3 Support 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2390/owens-ow-1f) 
 - **Battle Value:** 933 
 

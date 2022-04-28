@@ -15,6 +15,9 @@
   - LRM 20 w/ Artemis IV (ammo: 12) 
   - ER Large Laser 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Right Arm) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3638/zeus-leonidas) 
 - **Battle Value:** 1878 
 

@@ -14,6 +14,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7686/devastator-dvs-2-ec) 
 - **Battle Value:** 2844 
 - [*More Info*](devastator/devastator_dvs-2-ec.md) 
@@ -30,6 +33,9 @@
   - AC/10 × 2 (ammo: 40) 
   - Large Laser × 2 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/893/devastator-dvs-1d) 
 - **Battle Value:** 1858 
 - [*More Info*](devastator/devastator_dvs-1d.md) 
@@ -46,6 +52,9 @@
   - Gauss Rifle × 2 (ammo: 32) 
   - PPC × 2 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/894/devastator-dvs-2) 
 - **Battle Value:** 2481 
 - [*More Info*](devastator/devastator_dvs-2.md) 
@@ -63,6 +72,9 @@
   - PPC × 2 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/895/devastator-dvs-3) 
 - **Battle Value:** 2452 
 - [*More Info*](devastator/devastator_dvs-3.md) 
@@ -83,6 +95,9 @@
   - MASC 
   - Armored Supercharger 
   - Armored Actuator × 4 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/896/devastator-dvs-x10-muse-earth) 
 - **Battle Value:** 3250 
 - [*More Info*](devastator/devastator_dvs-x10_muse_earth.md) 

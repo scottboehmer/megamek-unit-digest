@@ -18,6 +18,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2261/nexus-ii-nxs2-a) 
 - **Battle Value:** 702 
 

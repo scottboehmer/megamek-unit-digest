@@ -15,6 +15,8 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2865/sentinel-stn-c) 
 - **Battle Value:** 689 
 

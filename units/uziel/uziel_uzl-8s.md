@@ -16,6 +16,9 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5679/uziel-uzl-8s) 
 - **Battle Value:** 1393 
 

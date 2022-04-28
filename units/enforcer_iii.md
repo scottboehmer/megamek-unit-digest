@@ -13,6 +13,8 @@
   - Ultra AC/10 (ammo: 20) 
   - ER Large Laser 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/982/enforcer-iii-enf-6m) 
 - **Battle Value:** 1460 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6m.md) 
@@ -31,6 +33,9 @@
   - ER Medium Laser × 3 
   - Medium Pulse Laser 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/980/enforcer-iii-enf-6g) 
 - **Battle Value:** 1858 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6g.md) 
@@ -49,6 +54,9 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
+  - Barrel Fist (Right Arm) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/985/enforcer-iii-enf-6t) 
 - **Battle Value:** 1720 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6t.md) 
@@ -67,6 +75,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/981/enforcer-iii-enf-6h) 
 - **Battle Value:** 1603 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6h.md) 
@@ -84,6 +94,8 @@
   - ER Large Laser 
   - AC/10 (ammo: 30) 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/983/enforcer-iii-enf-6ma) 
 - **Battle Value:** 1275 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6ma.md) 
@@ -105,6 +117,8 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/984/enforcer-iii-enf-6nais) 
 - **Battle Value:** 1475 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6nais.md) 
@@ -121,6 +135,8 @@
 - **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - Blazer Cannon × 2 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/987/enforcer-iii-enf-7x-muse-compact) 
 - **Battle Value:** 1670 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-7x_muse_compact.md) 
@@ -141,6 +157,9 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
+  - Barrel Fist (Right Arm) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/986/enforcer-iii-enf-7c3bs) 
 - **Battle Value:** 1687 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-7c3bs.md) 
@@ -163,6 +182,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Battlefist (Left Arm) 
+  - Barrel Fist (Right Arm) 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7296/enforcer-iii-enf-7d) 
 - **Battle Value:** 1495 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-7d.md) 

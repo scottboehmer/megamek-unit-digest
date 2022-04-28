@@ -20,6 +20,10 @@
   - Targeting Computer 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3480/warhammer-whd-10ct) 
 - **Battle Value:** 1758 
 

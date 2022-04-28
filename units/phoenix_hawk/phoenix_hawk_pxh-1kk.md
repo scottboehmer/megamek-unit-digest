@@ -15,6 +15,7 @@
   - Medium Pulse Laser × 2 
   - Small Laser 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5872/phoenix-hawk-pxh-1kk) 
 - **Battle Value:** 1139 

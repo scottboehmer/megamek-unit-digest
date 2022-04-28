@@ -17,6 +17,8 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6) 
 - **Battle Value:** 1747 
 

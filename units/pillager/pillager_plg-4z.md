@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2527/pillager-plg-4z) 
 - **Battle Value:** 2868 
 

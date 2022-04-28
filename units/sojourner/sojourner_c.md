@@ -19,7 +19,9 @@
   - Supercharger 
   - CASE II 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Easy to Pilot 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7446/sojourner-c) 
 - **Battle Value:** 2235 
 

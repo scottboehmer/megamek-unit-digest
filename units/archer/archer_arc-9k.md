@@ -17,6 +17,8 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/87/archer-arc-9k) 
 - **Battle Value:** 1391 
 

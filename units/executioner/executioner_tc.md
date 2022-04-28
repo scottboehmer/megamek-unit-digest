@@ -19,6 +19,8 @@
   - Active Probe 
   - MASC 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7596/gladiator-executioner-tc) 
 - **Battle Value:** 3363 
 

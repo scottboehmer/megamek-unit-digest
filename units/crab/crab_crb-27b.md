@@ -14,6 +14,8 @@
   - ER Large Laser × 2 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/717/crab-crb-27b) 
 - **Battle Value:** 1308 
 

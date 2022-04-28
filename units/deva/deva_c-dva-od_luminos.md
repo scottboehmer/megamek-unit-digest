@@ -20,6 +20,10 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/889/deva-c-dva-od-luminos) 
 - **Battle Value:** 1711 
 

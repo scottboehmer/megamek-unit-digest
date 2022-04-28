@@ -17,6 +17,9 @@
   - LRM 5 (ammo: 24) 
   - Flamer 
   - Machine Gun (ammo: 100) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2177/merlin-mln-1a) 
 - **Battle Value:** 1217 
 

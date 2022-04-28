@@ -18,6 +18,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Bad Reputation (Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2173/mercury-ii-mcy-100) 
 - **Battle Value:** 1376 
 - [*More Info*](mercury_ii/mercury_ii_mcy-100.md) 

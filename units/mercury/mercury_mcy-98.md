@@ -14,6 +14,7 @@
   - Medium Laser × 2 
   - Small Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4624/mercury-mcy-98) 
 - **Battle Value:** 553 

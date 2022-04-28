@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Searchlight 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1935/longbow-lgb-14c) 
 - **Battle Value:** 1421 
 

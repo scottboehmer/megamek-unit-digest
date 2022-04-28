@@ -15,6 +15,8 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1053/fenris-ice-ferret-prime) 
 - **Battle Value:** 1678 
 - [*More Info*](ice_ferret/ice_ferret_prime.md) 
@@ -33,6 +35,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1046/fenris-ice-ferret-a) 
 - **Battle Value:** 1323 
 - [*More Info*](ice_ferret/ice_ferret_a.md) 
@@ -52,6 +56,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1047/fenris-ice-ferret-b) 
 - **Battle Value:** 1461 
 - [*More Info*](ice_ferret/ice_ferret_b.md) 
@@ -69,6 +75,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1048/fenris-ice-ferret-c) 
 - **Battle Value:** 1211 
 - [*More Info*](ice_ferret/ice_ferret_c.md) 
@@ -86,6 +94,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1049/fenris-ice-ferret-d) 
 - **Battle Value:** 1653 
 - [*More Info*](ice_ferret/ice_ferret_d.md) 
@@ -104,6 +114,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1050/fenris-ice-ferret-e) 
 - **Battle Value:** 1483 
 - [*More Info*](ice_ferret/ice_ferret_e.md) 
@@ -122,6 +134,8 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1051/fenris-ice-ferret-h) 
 - **Battle Value:** 1619 
 - [*More Info*](ice_ferret/ice_ferret_h.md) 
@@ -140,6 +154,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1052/fenris-ice-ferret-l) 
 - **Battle Value:** 1380 
 - [*More Info*](ice_ferret/ice_ferret_l.md) 
@@ -159,6 +175,8 @@
   - SRT 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1054/fenris-ice-ferret-u) 
 - **Battle Value:** 1549 
 - [*More Info*](ice_ferret/ice_ferret_u.md) 
@@ -175,6 +193,8 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - Watchdog CEWS 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7508/fenris-ice-ferret-f) 
 - **Battle Value:** 1771 
 - [*More Info*](ice_ferret/ice_ferret_f.md) 
@@ -194,6 +214,8 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7507/fenris-ice-ferret-g) 
 - **Battle Value:** 1196 
 - [*More Info*](ice_ferret/ice_ferret_g.md) 
@@ -213,6 +235,8 @@
   - Inner Sphere Bloodhound Active Probe 
   - Inner Sphere M-Pod × 2 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7506/fenris-ice-ferret-i) 
 - **Battle Value:** 1094 
 - [*More Info*](ice_ferret/ice_ferret_i.md) 
@@ -232,6 +256,8 @@
   - CASE 
   - Supercharger 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7505/fenris-ice-ferret-j) 
 - **Battle Value:** 1739 
 - [*More Info*](ice_ferret/ice_ferret_j.md) 
@@ -250,6 +276,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Laser Anti-Missile System 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7504/fenris-ice-ferret-k) 
 - **Battle Value:** 1769 
 - [*More Info*](ice_ferret/ice_ferret_k.md) 
@@ -270,6 +298,8 @@
   - Active Probe 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7503/fenris-ice-ferret-t) 
 - **Battle Value:** 1825 
 - [*More Info*](ice_ferret/ice_ferret_t.md) 

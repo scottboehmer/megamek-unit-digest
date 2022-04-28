@@ -15,6 +15,8 @@
   - Ultra AC/10 (ammo: 20) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1782/kingfisher-d) 
 - **Battle Value:** 2364 
 

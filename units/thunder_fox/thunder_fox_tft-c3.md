@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Command Console 
   - C3 Main 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3218/thunder-fox-tft-c3) 
 - **Battle Value:** 1104 
 

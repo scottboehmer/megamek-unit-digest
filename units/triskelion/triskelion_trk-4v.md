@@ -18,6 +18,9 @@
   - Guardian ECM Suite 
   - CASE II 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Distracting 
+  - Difficult Ejection 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7384/triskelion-trk-4v) 
 - **Battle Value:** 2702 
 

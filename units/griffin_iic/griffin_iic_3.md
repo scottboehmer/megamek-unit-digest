@@ -18,6 +18,8 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1312/griffin-iic-3) 
 - **Battle Value:** 1532 
 

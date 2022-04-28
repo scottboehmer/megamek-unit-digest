@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Machine Gun Array 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3556/wolf-trap-tora-wft-2) 
 - **Battle Value:** 1212 
 

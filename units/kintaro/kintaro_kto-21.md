@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1794/kintaro-kto-21) 
 - **Battle Value:** 1295 
 

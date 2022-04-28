@@ -13,6 +13,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER PPC 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7440/pack-hunter-5) 
 - **Battle Value:** 1644 
 

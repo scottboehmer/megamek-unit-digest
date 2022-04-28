@@ -19,6 +19,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/85/archer-arc-7s) 
 - **Battle Value:** 1658 
 

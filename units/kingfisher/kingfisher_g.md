@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8261/kingfisher-g) 
 - **Battle Value:** 2319 
 

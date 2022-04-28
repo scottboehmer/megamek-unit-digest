@@ -20,6 +20,8 @@
   - MASC 
   - Targeting Computer 
   - C3i 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5680/cronus-cns-td9) 
 - **Battle Value:** 978 
 

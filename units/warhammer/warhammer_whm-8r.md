@@ -18,6 +18,10 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #7 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7563/warhammer-whm-8r) 
 - **Battle Value:** 1697 
 

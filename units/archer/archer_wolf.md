@@ -20,6 +20,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/72/archer-wolf) 
 - **Battle Value:** 2365 
 

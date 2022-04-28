@@ -14,6 +14,8 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 4 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1555/hunchback-hbk-4h) 
 - **Battle Value:** 1067 
 

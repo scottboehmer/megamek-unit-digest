@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3190/thorn-the-f) 
 - **Battle Value:** 510 
 

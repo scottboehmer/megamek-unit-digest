@@ -17,6 +17,9 @@
 - **Equipment:** 
   - C3 Boosted Main 
 - **Design Quirks:** 
+  - Battle Computer 
+  - Cowl 
+  - Difficult Ejection 
   - Weak Head Armor (2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/777/cyclops-cp-11-c3) 
 - **Battle Value:** 1752 

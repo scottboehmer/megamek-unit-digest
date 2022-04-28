@@ -16,6 +16,8 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8405/goliath-gol-3m2) 
 - **Battle Value:** 1631 
 

@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Searchlight 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/189/baboon-howler-standard) 
 - **Battle Value:** 645 
 

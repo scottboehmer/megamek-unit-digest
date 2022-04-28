@@ -14,6 +14,8 @@
   - MML 9 (ammo: 13 LRM, 11 SRM) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6457/calliope-cal-1maf) 
 - **Battle Value:** 1125 
 - [*More Info*](calliope/calliope_cal-1maf.md) 

@@ -20,6 +20,8 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - C3i 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7397/awesome-aws-10km-cameron) 
 - **Battle Value:** 2466 
 

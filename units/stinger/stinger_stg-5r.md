@@ -16,6 +16,9 @@
   - Rocket 15 × 2 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Cramped Cockpit 
 - **Sources:** TRO Project Phoenix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3064/stinger-stg-5r) 
 - **Battle Value:** 492 
 

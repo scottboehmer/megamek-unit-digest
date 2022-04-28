@@ -16,6 +16,8 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2752/ryoken-stormcrow-d) 
 - **Battle Value:** 1863 
 

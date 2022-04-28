@@ -19,6 +19,8 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Main 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5708/templar-tlr1-oe) 
 - **Battle Value:** 1865 
 

@@ -15,6 +15,8 @@
   - Small Laser 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2286/nightstar-nsr-9j) 
 - **Battle Value:** 2399 
@@ -36,6 +38,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2285/nightstar-nsr-9fc) 
 - **Battle Value:** 1929 
@@ -55,6 +59,8 @@
   - Clan ER Small Laser 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4723/nightstar-nsr-9j-brubaker) 
 - **Battle Value:** 2838 
@@ -79,6 +85,8 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** SO:Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619/nightstar-nsr-9j-holt) 
 - **Battle Value:** 3433 
@@ -102,6 +110,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2287/nightstar-nsr-9ss) 
 - **Battle Value:** 2145 
@@ -126,6 +136,8 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
+  - Variable Range Targeting 
   - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7539/nightstar-nsr-10d) 
 - **Battle Value:** 2539 

@@ -14,6 +14,7 @@
   - AC/2 (ammo: 45) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/908/dragon-drg-1c) 
 - **Battle Value:** 1215 
 - [*More Info*](dragon/dragon_drg-1c.md) 
@@ -32,6 +33,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/909/dragon-drg-1n) 
 - **Battle Value:** 1125 
 - [*More Info*](dragon/dragon_drg-1n.md) 
@@ -52,6 +54,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/910/dragon-drg-2y-yoriyoshi) 
 - **Battle Value:** 1257 
 - [*More Info*](dragon/dragon_drg-2y_yoriyoshi.md) 
@@ -72,6 +75,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/911/dragon-drg-5n) 
 - **Battle Value:** 1223 
 - [*More Info*](dragon/dragon_drg-5n.md) 
@@ -93,6 +97,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5450/dragon-drg-7n) 
 - **Battle Value:** 1495 
 - [*More Info*](dragon/dragon_drg-7n.md) 
@@ -114,6 +119,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/912/dragon-drg-5nr) 
 - **Battle Value:** 1252 
 - [*More Info*](dragon/dragon_drg-5nr.md) 

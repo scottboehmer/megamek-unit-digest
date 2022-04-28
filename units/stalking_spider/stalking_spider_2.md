@@ -19,6 +19,8 @@
   - TAG 
   - Targeting Computer 
   - MASC 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3046/stalking-spider-2) 
 - **Battle Value:** 2056 
 

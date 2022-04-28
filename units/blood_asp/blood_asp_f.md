@@ -18,6 +18,8 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/404/blood-asp-f) 
 - **Battle Value:** 2908 
 

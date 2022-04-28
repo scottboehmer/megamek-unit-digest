@@ -20,6 +20,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #24 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8436/atlas-as7-s4) 
 - **Battle Value:** 2568 
 

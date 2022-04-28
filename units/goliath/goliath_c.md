@@ -22,6 +22,8 @@
   - Quad Turret 
   - Clan CASE II 
   - Clan Targeting Computer 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7438/goliath-c) 
 - **Battle Value:** 2222 
 

@@ -19,6 +19,8 @@
   - Active Probe 
   - CASE 
   - TAG 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2487/phantom-prime) 
 - **Battle Value:** 1159 
 

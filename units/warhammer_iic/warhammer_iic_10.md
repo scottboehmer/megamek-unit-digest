@@ -16,6 +16,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
+  - Stable 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6859/warhammer-iic-10) 
 - **Battle Value:** 2290 
 

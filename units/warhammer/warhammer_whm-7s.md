@@ -15,6 +15,10 @@
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3493/warhammer-whm-7s) 
 - **Battle Value:** 1477 
 

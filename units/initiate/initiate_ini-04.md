@@ -18,6 +18,9 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1621/initiate-ini-04) 
 - **Battle Value:** 901 
 

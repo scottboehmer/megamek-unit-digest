@@ -16,6 +16,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Stable 
   - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6558/vulture-mk-iv-mad-dog-mk-iv-prime) 
 - **Battle Value:** 2110 
@@ -37,6 +38,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Stable 
   - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6559/vulture-mk-iv-mad-dog-mk-iv-a) 
 - **Battle Value:** 2177 
@@ -58,6 +60,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Stable 
   - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6560/vulture-mk-iv-mad-dog-mk-iv-b) 
 - **Battle Value:** 2649 
@@ -79,6 +82,7 @@
   - CASE 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Stable 
   - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6561/vulture-mk-iv-mad-dog-mk-iv-c) 
 - **Battle Value:** 2584 
@@ -99,6 +103,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Stable 
   - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6562/vulture-mk-iv-mad-dog-mk-iv-d) 
 - **Battle Value:** 2346 

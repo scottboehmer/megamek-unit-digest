@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1344/guillotine-glt-8d) 
 - **Battle Value:** 1891 
 

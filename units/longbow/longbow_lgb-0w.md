@@ -16,6 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Searchlight 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1930/longbow-lgb-0w) 
 - **Battle Value:** 1337 
 

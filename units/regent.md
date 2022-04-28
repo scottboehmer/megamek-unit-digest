@@ -16,6 +16,8 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8359/regent-prime) 
 - **Battle Value:** 2437 
 - [*More Info*](regent/regent_prime.md) 
@@ -34,6 +36,8 @@
 - **Equipment:** 
   - Inner Sphere Coolant Pod 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8360/regent-a) 
 - **Battle Value:** 2897 
 - [*More Info*](regent/regent_a.md) 
@@ -53,6 +57,8 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8361/regent-b) 
 - **Battle Value:** 2744 
 - [*More Info*](regent/regent_b.md) 
@@ -70,6 +76,8 @@
   - Inner Sphere Improved Heavy Gauss Rifle (ammo: 12) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8362/regent-c) 
 - **Battle Value:** 2561 
 - [*More Info*](regent/regent_c.md) 
@@ -90,6 +98,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8363/regent-d) 
 - **Battle Value:** 2116 
 - [*More Info*](regent/regent_d.md) 

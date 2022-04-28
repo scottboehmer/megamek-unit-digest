@@ -21,7 +21,10 @@
   - Spikes × 5 
   - Quad Turret 
 - **Design Quirks:** 
+  - Distracting 
+  - Compact ’Mech 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6506/sarath-srth-1o) 
 - **Battle Value:** 1630 
 

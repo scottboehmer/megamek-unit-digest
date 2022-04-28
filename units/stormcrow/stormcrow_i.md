@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5487/ryoken-stormcrow-i) 
 - **Battle Value:** 2319 
 

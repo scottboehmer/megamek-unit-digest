@@ -16,6 +16,8 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1246/goshawk-vapor-eagle-4) 
 - **Battle Value:** 2069 
 

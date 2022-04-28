@@ -17,6 +17,9 @@
   - Laser Anti-Missile System 
   - Light Active Probe 
   - Partial Wing 
+- **Design Quirks:** 
+  - Cramped Cockpit 
+  - Reinforced Legs 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4363/incubus-ii-standard) 
 - **Battle Value:** 1261 
 

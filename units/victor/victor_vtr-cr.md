@@ -18,6 +18,8 @@
 - **Equipment:** 
   - C3 Boosted Support 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3416/victor-vtr-cr) 
 - **Battle Value:** 1465 
 

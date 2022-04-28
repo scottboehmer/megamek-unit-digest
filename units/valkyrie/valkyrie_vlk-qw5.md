@@ -19,6 +19,9 @@
   - Full Head Ejection System 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3381/valkyrie-vlk-qw5) 
 - **Battle Value:** 667 
 

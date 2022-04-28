@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6889/grand-dragon-drg-10k) 
 - **Battle Value:** 1603 
 

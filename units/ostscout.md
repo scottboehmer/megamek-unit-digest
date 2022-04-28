@@ -12,7 +12,10 @@
 - **Weapons:** 
   - Medium Laser 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2366/ostscout-ott-7j) 
 - **Battle Value:** 596 
 - [*More Info*](ostscout/ostscout_ott-7j.md) 
@@ -31,7 +34,10 @@
 - **Equipment:** 
   - Beagle Active Probe 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2367/ostscout-ott-7jb) 
 - **Battle Value:** 610 
 - [*More Info*](ostscout/ostscout_ott-7jb.md) 
@@ -48,7 +54,10 @@
 - **Equipment:** 
   - TAG 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2368/ostscout-ott-7k) 
 - **Battle Value:** 484 
 - [*More Info*](ostscout/ostscout_ott-7k.md) 
@@ -71,7 +80,10 @@
   - C3i 
   - TAG 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2369/ostscout-ott-9cs) 
 - **Battle Value:** 930 
 - [*More Info*](ostscout/ostscout_ott-9cs.md) 
@@ -93,7 +105,10 @@
   - A-Pod × 2 
   - TAG 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2370/ostscout-ott-9s) 
 - **Battle Value:** 855 
 - [*More Info*](ostscout/ostscout_ott-9s.md) 
@@ -113,7 +128,10 @@
 - **Equipment:** 
   - C3i 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2364/ostscout-ott-10cs) 
 - **Battle Value:** 862 
 - [*More Info*](ostscout/ostscout_ott-10cs.md) 
@@ -132,7 +150,10 @@
 - **Equipment:** 
   - TAG 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2365/ostscout-ott-11j) 
 - **Battle Value:** 908 
 - [*More Info*](ostscout/ostscout_ott-11j.md) 
@@ -151,7 +172,10 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7452/ostscout-ott-12r) 
 - **Battle Value:** 1209 
 - [*More Info*](ostscout/ostscout_ott-12r.md) 
@@ -172,7 +196,10 @@
   - Angel ECM Suite 
   - Bloodhound Active Probe 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7451/ostscout-ott-8j) 
 - **Battle Value:** 894 
 - [*More Info*](ostscout/ostscout_ott-8j.md) 

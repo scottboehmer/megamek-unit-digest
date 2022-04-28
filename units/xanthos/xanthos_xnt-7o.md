@@ -16,6 +16,8 @@
   - Clan ER Medium Laser × 4 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Improved Life Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6824/xanthos-xnt-7o) 
 - **Battle Value:** 2620 
 

@@ -15,6 +15,10 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2898/shadow-hawk-shd-1r) 
 - **Battle Value:** 851 
 

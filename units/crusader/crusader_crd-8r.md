@@ -18,6 +18,9 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8231/crusader-crd-8r) 
 - **Battle Value:** 1600 
 

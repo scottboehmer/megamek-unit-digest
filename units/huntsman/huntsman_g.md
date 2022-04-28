@@ -21,6 +21,8 @@
   - Supercharger 
   - Targeting Computer 
   - CASE II 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7783/nobori-nin-huntsman-g) 
 - **Battle Value:** 2377 
 

@@ -13,6 +13,8 @@
   - Gauss Rifle (ammo: 16) 
   - ER Medium Laser × 4 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6626/scourge-scg-wd1) 
 - **Battle Value:** 2061 
 - [*More Info*](scourge/scourge_scg-wd1.md) 
@@ -33,6 +35,7 @@
 - **Equipment:** 
   - AES 
 - **Design Quirks:** 
+  - Reinforced Legs 
   - Difficult to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8109/scourge-scg-wx1) 
 - **Battle Value:** 2484 
@@ -53,6 +56,8 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - AES 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6625/scourge-scg-wf1) 
 - **Battle Value:** 2172 
 - [*More Info*](scourge/scourge_scg-wf1.md) 

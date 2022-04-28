@@ -15,6 +15,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Barrel Fists 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1369/hammerhands-hmh-3d) 
 - **Battle Value:** 1381 
 - [*More Info*](hammerhands/hammerhands_hmh-3d.md) 
@@ -33,6 +34,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Barrel Fists 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1370/hammerhands-hmh-4d) 
 - **Battle Value:** 1356 
 - [*More Info*](hammerhands/hammerhands_hmh-4d.md) 
@@ -51,6 +53,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Barrel Fists 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5863/hammerhands-hmh-3d-kessem) 
 - **Battle Value:** 1413 
 - [*More Info*](hammerhands/hammerhands_hmh-3d_kessem.md) 
@@ -71,6 +74,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Barrel Fists 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1371/hammerhands-hmh-5d) 
 - **Battle Value:** 1496 
 - [*More Info*](hammerhands/hammerhands_hmh-5d.md) 
@@ -93,6 +97,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Barrel Fists 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1372/hammerhands-hmh-6d) 
 - **Battle Value:** 2139 
 - [*More Info*](hammerhands/hammerhands_hmh-6d.md) 
@@ -116,6 +121,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1373/hammerhands-hmh-6e) 
 - **Battle Value:** 2204 
 - [*More Info*](hammerhands/hammerhands_hmh-6e.md) 

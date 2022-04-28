@@ -18,6 +18,9 @@
   - ECM Suite 
   - A-Pod × 4 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
+  - Bad Reputation (Clan) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/3858/bowman-2) 
 - **Battle Value:** 2567 
 

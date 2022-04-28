@@ -20,6 +20,10 @@
   - TAG 
   - C3i 
   - Remote Sensor Dispenser 
+- **Design Quirks:** 
+  - Battle Computer 
+  - Improved Communications 
+  - Easy to Maintain 
 - **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5602/warlord-blr-2xc) 
 - **Battle Value:** 1844 
 

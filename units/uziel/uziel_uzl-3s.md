@@ -17,6 +17,9 @@
   - SRM 6 (ammo: 15) 
   - LB 2-X AC (ammo: 45) 
   - ER Small Laser × 2 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5332/uziel-uzl-3s) 
 - **Battle Value:** 1189 
 

@@ -17,6 +17,7 @@
   - Chameleon LPS 
   - Null-Signature System 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3002/spector-spr-4f) 
 - **Battle Value:** 1224 
@@ -38,6 +39,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3003/spector-spr-5f) 
 - **Battle Value:** 1183 
@@ -59,6 +61,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3004/spector-spr-5s) 
 - **Battle Value:** 1155 
@@ -80,6 +83,7 @@
   - Targeting Computer 
   - MASC 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Difficult to Maintain 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3005/spector-spr-st) 
 - **Battle Value:** 1438 

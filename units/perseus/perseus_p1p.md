@@ -23,6 +23,7 @@
   - TAG 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5698/perseus-p1p) 
 - **Battle Value:** 1777 
 

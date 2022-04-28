@@ -20,6 +20,7 @@
 - **Equipment:** 
   - MASS 
 - **Design Quirks:** 
+  - Difficult Ejection 
   - Difficult to Maintain 
 - **Sources:** XTRO Ray , [Master Unit List](http://masterunitlist.info/Unit/Details/8108/aquagladius-aqs-5-mam) 
 - **Battle Value:** 1946 

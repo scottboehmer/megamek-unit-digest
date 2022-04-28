@@ -16,6 +16,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/764/crusader-crd-8l) 
 - **Battle Value:** 1701 
 

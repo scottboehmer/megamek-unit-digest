@@ -17,6 +17,8 @@
   - Sword 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6416/shiro-sh-1v) 
 - **Battle Value:** 2016 
 

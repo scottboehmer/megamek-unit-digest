@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1620/initiate-ini-02) 
 - **Battle Value:** 1036 
 

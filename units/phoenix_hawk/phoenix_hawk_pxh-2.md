@@ -17,6 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2496/phoenix-hawk-pxh-2) 
 - **Battle Value:** 1145 

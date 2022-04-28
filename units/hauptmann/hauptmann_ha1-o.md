@@ -20,6 +20,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1420/hauptmann-ha1-o) 
 - **Battle Value:** 2157 

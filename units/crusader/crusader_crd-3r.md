@@ -15,6 +15,9 @@
   - SRM 6 × 2 (ammo: 15) 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/752/crusader-crd-3r) 
 - **Battle Value:** 1317 
 

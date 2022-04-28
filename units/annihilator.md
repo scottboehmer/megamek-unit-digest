@@ -15,6 +15,8 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/38/annihilator-anh-1x) 
 - **Battle Value:** 1926 
 - [*More Info*](annihilator/annihilator_anh-1x.md) 
@@ -30,6 +32,8 @@
 - **Weapons:** 
   - Gauss Rifle × 3 (ammo: 48) 
   - ER PPC 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/37/annihilator-anh-1g) 
 - **Battle Value:** 2274 
 - [*More Info*](annihilator/annihilator_anh-1g.md) 
@@ -46,6 +50,8 @@
   - Gauss Rifle × 5 (ammo: 64) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/44/annihilator-c-gausszilla) 
 - **Battle Value:** 2455 
 - [*More Info*](annihilator/annihilator_c_gausszilla.md) 
@@ -63,6 +69,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/43/annihilator-c) 
 - **Battle Value:** 2520 
 - [*More Info*](annihilator/annihilator_c.md) 
@@ -81,6 +89,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/45/annihilator-c-2) 
 - **Battle Value:** 2722 
 - [*More Info*](annihilator/annihilator_c_2.md) 
@@ -96,6 +106,8 @@
 - **Weapons:** 
   - AC/10 × 4 (ammo: 40) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3700/annihilator-anh-1a) 
 - **Battle Value:** 1434 
 - [*More Info*](annihilator/annihilator_anh-1a.md) 
@@ -111,6 +123,8 @@
 - **Weapons:** 
   - PPC × 4 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/36/annihilator-anh-1e) 
 - **Battle Value:** 1625 
 - [*More Info*](annihilator/annihilator_anh-1e.md) 
@@ -128,6 +142,8 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/39/annihilator-anh-2a) 
 - **Battle Value:** 1595 
 - [*More Info*](annihilator/annihilator_anh-2a.md) 
@@ -147,6 +163,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/41/annihilator-anh-3a) 
 - **Battle Value:** 1712 
 - [*More Info*](annihilator/annihilator_anh-3a.md) 
@@ -164,6 +182,8 @@
   - Heavy PPC × 2 
   - LB 10-X AC × 2 (ammo: 40) 
   - Light AC/2 × 2 (ammo: 90) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/42/annihilator-anh-4a) 
 - **Battle Value:** 1726 
 - [*More Info*](annihilator/annihilator_anh-4a.md) 
@@ -182,6 +202,8 @@
   - Improved Heavy Gauss Rifle × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/40/annihilator-anh-2ax) 
 - **Battle Value:** 2553 
 - [*More Info*](annihilator/annihilator_anh-2ax.md) 
@@ -200,6 +222,8 @@
   - Clan Medium Pulse Laser × 4 
 - **Equipment:** 
   - Clan CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8386/annihilator-anh-5w) 
 - **Battle Value:** 2595 
 - [*More Info*](annihilator/annihilator_anh-5w.md) 

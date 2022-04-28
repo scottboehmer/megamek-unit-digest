@@ -19,6 +19,9 @@
   - Angel ECM Suite 
   - C3i 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TP Epsilon Eridani - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7399/dragoon-aem-05c) 
 - **Battle Value:** 1893 
 

@@ -17,6 +17,7 @@
 - **Equipment:** 
   - C3 Main 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/346/black-hawk-ku-bhku-o-albert) 
 - **Battle Value:** 2377 

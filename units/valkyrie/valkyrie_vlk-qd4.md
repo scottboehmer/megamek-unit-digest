@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3377/valkyrie-vlk-qd4) 
 - **Battle Value:** 657 
 

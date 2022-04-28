@@ -13,6 +13,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 3 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3540/whitworth-wth-1s) 
 - **Battle Value:** 917 
@@ -31,6 +32,7 @@
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 3 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3538/whitworth-wth-1) 
 - **Battle Value:** 982 
@@ -50,6 +52,7 @@
   - Medium Laser × 2 
   - Flamer 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3537/whitworth-wth-0) 
 - **Battle Value:** 863 
@@ -68,6 +71,7 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
   - Medium Laser 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3541/whitworth-wth-2) 
 - **Battle Value:** 936 
@@ -87,6 +91,7 @@
   - Medium Laser × 3 
   - Rocket 10 × 8 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3539/whitworth-wth-1h) 
 - **Battle Value:** 993 
@@ -109,6 +114,7 @@
   - CASE 
   - C3 Support 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3542/whitworth-wth-2a) 
 - **Battle Value:** 1055 
@@ -128,6 +134,7 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3543/whitworth-wth-3) 
 - **Battle Value:** 861 
@@ -148,6 +155,7 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3545/whitworth-wth-k) 
 - **Battle Value:** 958 
@@ -171,6 +179,7 @@
   - CASE II 
   - Supercharger 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3544/whitworth-wth-5s) 
 - **Battle Value:** 1230 

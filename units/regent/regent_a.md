@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Inner Sphere Coolant Pod 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8360/regent-a) 
 - **Battle Value:** 2897 
 

@@ -17,6 +17,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Cowl 
+  - Stable 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2255/naginata-ng-c3c) 
 - **Battle Value:** 2131 
 

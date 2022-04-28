@@ -19,6 +19,7 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2499/phoenix-hawk-pxh-3m) 
 - **Battle Value:** 1307 

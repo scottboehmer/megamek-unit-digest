@@ -17,6 +17,10 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Cowl 
+  - Easy to Maintain 
+  - Reinforced Legs 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5230/thunder-thr-c4) 
 - **Battle Value:** 2028 
 

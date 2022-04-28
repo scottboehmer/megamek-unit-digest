@@ -13,6 +13,8 @@
   - Large Laser 
   - Medium Laser × 4 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1267/grasshopper-ghr-5h) 
 - **Battle Value:** 1427 
 - [*More Info*](grasshopper/grasshopper_ghr-5h.md) 
@@ -29,6 +31,8 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser × 5 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4232/grasshopper-ghr-5n) 
 - **Battle Value:** 1511 
 - [*More Info*](grasshopper/grasshopper_ghr-5n.md) 
@@ -48,6 +52,8 @@
   - Streak SRM 2 (ammo: 100) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1268/grasshopper-ghr-5j) 
 - **Battle Value:** 1354 
 - [*More Info*](grasshopper/grasshopper_ghr-5j.md) 
@@ -68,6 +74,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1272/grasshopper-ghr-c) 
 - **Battle Value:** 1366 
 - [*More Info*](grasshopper/grasshopper_ghr-c.md) 
@@ -84,6 +92,8 @@
 - **Weapons:** 
   - Clan ER Large Laser × 3 
   - Clan ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5861/grasshopper-reynolds) 
 - **Battle Value:** 2344 
 - [*More Info*](grasshopper/grasshopper_reynolds.md) 
@@ -104,6 +114,8 @@
 - **Equipment:** 
   - C3 Support 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1269/grasshopper-ghr-6k) 
 - **Battle Value:** 1597 
 - [*More Info*](grasshopper/grasshopper_ghr-6k.md) 
@@ -124,6 +136,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1270/grasshopper-ghr-7k) 
 - **Battle Value:** 1806 
 - [*More Info*](grasshopper/grasshopper_ghr-7k.md) 
@@ -144,6 +158,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4233/grasshopper-ghr-7k-gravedigger) 
 - **Battle Value:** 2084 
 - [*More Info*](grasshopper/grasshopper_ghr-7k_gravedigger.md) 
@@ -163,6 +179,8 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Bloodhound Active Probe 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1271/grasshopper-ghr-7x) 
 - **Battle Value:** 1587 
 - [*More Info*](grasshopper/grasshopper_ghr-7x.md) 
@@ -182,6 +200,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - Bloodhound Active Probe 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4234/grasshopper-ghr-7p) 
 - **Battle Value:** 1806 
 - [*More Info*](grasshopper/grasshopper_ghr-7p.md) 
@@ -201,6 +221,8 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7450/grasshopper-ghr-8k) 
 - **Battle Value:** 1754 
 - [*More Info*](grasshopper/grasshopper_ghr-8k.md) 

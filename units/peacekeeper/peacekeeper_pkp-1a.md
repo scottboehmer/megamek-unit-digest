@@ -21,6 +21,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2452/peacekeeper-pkp-1a) 
 - **Battle Value:** 2824 
 

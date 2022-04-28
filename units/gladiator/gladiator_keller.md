@@ -19,6 +19,9 @@
 - **Equipment:** 
   - C3i 
   - Supercharger 
+- **Design Quirks:** 
+  - Cowl 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1197/gladiator-keller) 
 - **Battle Value:** 1517 
 

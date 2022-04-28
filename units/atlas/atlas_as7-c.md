@@ -21,6 +21,9 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/138/atlas-as7-c) 
 - **Battle Value:** 2163 
 

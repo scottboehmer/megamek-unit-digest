@@ -16,6 +16,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Difficult Ejection 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5131/stiletto-sto-4a) 
 - **Battle Value:** 859 
 

@@ -20,6 +20,8 @@
   - Void-Signature System 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8373/ghost-gst-10a-aurora) 
 - **Battle Value:** 1371 
 

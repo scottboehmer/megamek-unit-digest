@@ -16,6 +16,8 @@
   - ATM 3 × 3 (ammo: 20 Standard, 20 ER, 20 HE) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×3) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3080/stooping-hawk-e) 
 - **Battle Value:** 1674 
 

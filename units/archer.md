@@ -14,7 +14,11 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Easy to Maintain 
   - Extended Torso Twist 
+  - Difficult Ejection 
+  - Battlefists 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3721/archer-arc-1a) 
 - **Battle Value:** 1269 
 - [*More Info*](archer/archer_arc-1a.md) 
@@ -32,6 +36,8 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/74/archer-arc-2r) 
 - **Battle Value:** 1477 
 - [*More Info*](archer/archer_arc-2r.md) 
@@ -51,6 +57,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/75/archer-arc-2rb) 
 - **Battle Value:** 1705 
 - [*More Info*](archer/archer_arc-2rb.md) 
@@ -68,6 +76,8 @@
   - Large Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/73/archer-arc-2k) 
 - **Battle Value:** 1356 
 - [*More Info*](archer/archer_arc-2k.md) 
@@ -86,6 +96,8 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/76/archer-arc-2s) 
 - **Battle Value:** 1393 
 - [*More Info*](archer/archer_arc-2s.md) 
@@ -104,6 +116,8 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/77/archer-arc-2w) 
 - **Battle Value:** 1338 
 - [*More Info*](archer/archer_arc-2w.md) 
@@ -123,6 +137,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/78/archer-arc-4m) 
 - **Battle Value:** 1705 
 - [*More Info*](archer/archer_arc-4m.md) 
@@ -142,6 +158,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/79/archer-arc-5r) 
 - **Battle Value:** 1672 
 - [*More Info*](archer/archer_arc-5r.md) 
@@ -163,6 +181,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/80/archer-arc-5s) 
 - **Battle Value:** 1353 
 - [*More Info*](archer/archer_arc-5s.md) 
@@ -183,6 +203,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/81/archer-arc-5w) 
 - **Battle Value:** 1337 
 - [*More Info*](archer/archer_arc-5w.md) 
@@ -200,6 +222,8 @@
   - Clan ER Medium Laser × 4 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90/archer-c) 
 - **Battle Value:** 1811 
 - [*More Info*](archer/archer_c.md) 
@@ -217,6 +241,8 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7598/archer-arc-5cs) 
 - **Battle Value:** 1609 
 - [*More Info*](archer/archer_arc-5cs.md) 
@@ -239,6 +265,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/72/archer-wolf) 
 - **Battle Value:** 2365 
 - [*More Info*](archer/archer_wolf.md) 
@@ -259,6 +287,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** ForcePack Wolfs Dragoons - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8387/archer-c-2) 
 - **Battle Value:** 2167 
 - [*More Info*](archer/archer_c_2.md) 
@@ -280,6 +310,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/82/archer-arc-6s) 
 - **Battle Value:** 1694 
 - [*More Info*](archer/archer_arc-6s.md) 
@@ -298,6 +330,8 @@
   - Rocket 10 × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/83/archer-arc-6w) 
 - **Battle Value:** 1405 
 - [*More Info*](archer/archer_arc-6w.md) 
@@ -319,6 +353,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/84/archer-arc-7l) 
 - **Battle Value:** 1881 
 - [*More Info*](archer/archer_arc-7l.md) 
@@ -339,6 +375,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/86/archer-arc-8m) 
 - **Battle Value:** 1759 
 - [*More Info*](archer/archer_arc-8m.md) 
@@ -360,6 +398,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/85/archer-arc-7s) 
 - **Battle Value:** 1658 
 - [*More Info*](archer/archer_arc-7s.md) 
@@ -379,6 +419,8 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/87/archer-arc-9k) 
 - **Battle Value:** 1391 
 - [*More Info*](archer/archer_arc-9k.md) 
@@ -400,6 +442,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/88/archer-arc-9m) 
 - **Battle Value:** 1811 
 - [*More Info*](archer/archer_arc-9m.md) 
@@ -421,6 +465,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/89/archer-arc-9w) 
 - **Battle Value:** 1774 
 - [*More Info*](archer/archer_arc-9w.md) 
@@ -440,6 +486,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7730/archer-arc-4m2) 
 - **Battle Value:** 1742 
 - [*More Info*](archer/archer_arc-4m2.md) 
@@ -460,6 +508,8 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6875/archer-arc-9kc) 
 - **Battle Value:** 1361 
 - [*More Info*](archer/archer_arc-9kc.md) 
@@ -480,6 +530,8 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7731/archer-arc-7c) 
 - **Battle Value:** 2408 
 - [*More Info*](archer/archer_arc-7c.md) 
@@ -500,6 +552,8 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7732/archer-arc-9r) 
 - **Battle Value:** 1668 
 - [*More Info*](archer/archer_arc-9r.md) 

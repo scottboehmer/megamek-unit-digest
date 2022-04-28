@@ -20,6 +20,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2492/phoenix-hawk-pxh-1b-special) 
 - **Battle Value:** 1512 

@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6458/raven-ii-rvn-5x) 
 - **Battle Value:** 1858 
 

@@ -17,6 +17,7 @@
 - **Equipment:** 
   - Liquid Cargo 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/353/black-hawk-ku-bhku-ou) 
 - **Battle Value:** 1687 

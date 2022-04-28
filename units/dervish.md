@@ -13,6 +13,8 @@
 - **Weapons:** 
   - LRM 10 × 2 (ammo: 24) 
   - SRM 2 × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/877/dervish-dv-1s) 
 - **Battle Value:** 864 
 - [*More Info*](dervish/dervish_dv-1s.md) 
@@ -30,6 +32,9 @@
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 2 
   - SRM 2 × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/878/dervish-dv-6m) 
 - **Battle Value:** 1146 
 - [*More Info*](dervish/dervish_dv-6m.md) 
@@ -49,6 +54,9 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5869/dervish-dv-6md) 
 - **Battle Value:** 1251 
 - [*More Info*](dervish/dervish_dv-6md.md) 
@@ -68,6 +76,9 @@
   - Streak SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/880/dervish-dv-7d) 
 - **Battle Value:** 1412 
 - [*More Info*](dervish/dervish_dv-7d.md) 
@@ -86,6 +97,9 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/881/dervish-dv-8d) 
 - **Battle Value:** 1765 
 - [*More Info*](dervish/dervish_dv-8d.md) 
@@ -105,6 +119,9 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/883/dervish-dv-9d) 
 - **Battle Value:** 1518 
 - [*More Info*](dervish/dervish_dv-9d.md) 
@@ -124,6 +141,9 @@
 - **Equipment:** 
   - Spikes 
   - Coolant Pod × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/882/dervish-dv-8d2-lightbringer) 
 - **Battle Value:** 1717 
 - [*More Info*](dervish/dervish_dv-8d2_lightbringer.md) 
@@ -141,6 +161,9 @@
   - LRM 10 × 2 (ammo: 24) 
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Hyper-Extending Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/879/dervish-dv-6mr) 
 - **Battle Value:** 1347 
 - [*More Info*](dervish/dervish_dv-6mr.md) 

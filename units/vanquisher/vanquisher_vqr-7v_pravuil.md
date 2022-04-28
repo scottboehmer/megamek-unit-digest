@@ -20,6 +20,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TP:Arcturus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7342/vanquisher-vqr-7v-pravuil) 
 - **Battle Value:** 2073 
 

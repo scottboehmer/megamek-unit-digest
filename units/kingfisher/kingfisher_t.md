@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE II 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8260/kingfisher-t) 
 - **Battle Value:** 2637 
 

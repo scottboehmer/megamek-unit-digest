@@ -19,6 +19,8 @@
   - AP Gauss Rifle (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3181/thor-summoner-hh) 
 - **Battle Value:** 2490 
 

@@ -14,6 +14,10 @@
 - **Weapons:** 
   - PPC 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2903/shadow-hawk-shd-2k) 
 - **Battle Value:** 1147 
 

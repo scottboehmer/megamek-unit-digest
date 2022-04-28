@@ -14,6 +14,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Cramped Cockpit 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3276/toro-tr-a-1) 
 - **Battle Value:** 671 
 - [*More Info*](toro/toro_tr-a-1.md) 
@@ -29,6 +30,8 @@
 - **Weapons:** 
   - PPC 
   - LRM 5 × 2 (ammo: 48) 
+- **Design Quirks:** 
+  - Cramped Cockpit 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3277/toro-tr-a-6) 
 - **Battle Value:** 864 
 - [*More Info*](toro/toro_tr-a-6.md) 

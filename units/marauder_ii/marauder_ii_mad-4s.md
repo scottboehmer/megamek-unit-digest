@@ -17,6 +17,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2058/marauder-ii-mad-4s) 
 - **Battle Value:** 2623 

@@ -15,6 +15,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Searchlight 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/189/baboon-howler-standard) 
 - **Battle Value:** 645 
 - [*More Info*](howler/howler_standard.md) 
@@ -35,6 +36,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Searchlight 
 - **Sources:** Rec Guide:ilClan #8 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7568/baboon-howler-4) 
 - **Battle Value:** 506 
 - [*More Info*](howler/howler_4.md) 
@@ -52,6 +54,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Searchlight 
 - **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7569/baboon-howler-5) 
 - **Battle Value:** 1363 
 - [*More Info*](howler/howler_5.md) 
@@ -72,6 +75,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Searchlight 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/190/baboon-howler-2) 
 - **Battle Value:** 757 
 - [*More Info*](howler/howler_2.md) 
@@ -92,6 +96,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Searchlight 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/191/baboon-howler-3-devil) 
 - **Battle Value:** 1277 
 - [*More Info*](howler/howler_3.md) 
@@ -112,6 +117,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Searchlight 
 - **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7570/baboon-howler-6) 
 - **Battle Value:** 550 
 - [*More Info*](howler/howler_6.md) 

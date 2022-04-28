@@ -17,6 +17,8 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/38/annihilator-anh-1x) 
 - **Battle Value:** 1926 
 

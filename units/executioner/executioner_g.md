@@ -20,6 +20,8 @@
   - MASC 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6841/gladiator-executioner-g) 
 - **Battle Value:** 3825 
 

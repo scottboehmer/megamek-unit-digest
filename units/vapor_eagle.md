@@ -15,6 +15,8 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6) 
 - **Battle Value:** 1747 
 - [*More Info*](vapor_eagle/vapor_eagle_6.md) 
@@ -36,6 +38,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1243/goshawk-vapor-eagle-standard) 
 - **Battle Value:** 2368 
 - [*More Info*](vapor_eagle/vapor_eagle_standard.md) 
@@ -56,6 +60,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1244/goshawk-vapor-eagle-2) 
 - **Battle Value:** 1989 
 - [*More Info*](vapor_eagle/vapor_eagle_2.md) 
@@ -76,6 +82,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7710/goshawk-vapor-eagle-5) 
 - **Battle Value:** 2572 
 - [*More Info*](vapor_eagle/vapor_eagle_5.md) 
@@ -97,6 +105,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1245/goshawk-vapor-eagle-3) 
 - **Battle Value:** 2466 
 - [*More Info*](vapor_eagle/vapor_eagle_3.md) 
@@ -115,6 +125,8 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1246/goshawk-vapor-eagle-4) 
 - **Battle Value:** 2069 
 - [*More Info*](vapor_eagle/vapor_eagle_4.md) 
@@ -136,6 +148,8 @@
   - MASC 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7711/goshawk-vapor-eagle-7) 
 - **Battle Value:** 2876 
 - [*More Info*](vapor_eagle/vapor_eagle_7.md) 

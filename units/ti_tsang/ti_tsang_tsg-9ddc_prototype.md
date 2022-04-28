@@ -20,6 +20,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc) 
 - **Battle Value:** 2013 
 

@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Machine Gun Array 
   - C3 Support 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/425/bombardier-bmb-14k) 
 - **Battle Value:** 1235 
 

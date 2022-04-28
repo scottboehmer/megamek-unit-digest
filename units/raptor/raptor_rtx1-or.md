@@ -16,6 +16,8 @@
   - Clan ER Small Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2655/raptor-rtx1-or) 
 - **Battle Value:** 1393 
 

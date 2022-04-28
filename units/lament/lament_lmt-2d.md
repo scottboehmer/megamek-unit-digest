@@ -19,6 +19,7 @@
   - Radical Heat Sink System 
   - Remote Drone Command Console 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383/lament-lmt-2d) 

@@ -19,6 +19,8 @@
   - Small Pulse Laser 
   - Small Laser 
   - Flamer 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4733/no-dachi-nda-2ko) 
 - **Battle Value:** 1728 
 

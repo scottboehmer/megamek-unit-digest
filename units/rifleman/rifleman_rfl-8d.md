@@ -16,6 +16,8 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2705/rifleman-rfl-8d) 
 - **Battle Value:** 1777 
 

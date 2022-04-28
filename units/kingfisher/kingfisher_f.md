@@ -17,6 +17,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1784/kingfisher-f) 
 - **Battle Value:** 2568 
 

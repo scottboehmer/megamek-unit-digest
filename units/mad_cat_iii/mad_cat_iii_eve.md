@@ -20,6 +20,8 @@
   - TAG 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5543/mad-cat-iii-eve) 
 - **Battle Value:** 2393 
 

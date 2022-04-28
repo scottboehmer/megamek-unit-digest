@@ -18,6 +18,10 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1998/malak-c-mk-od-luminos) 
 - **Battle Value:** 1055 
 

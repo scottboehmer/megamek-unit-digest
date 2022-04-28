@@ -19,6 +19,9 @@
   - Guardian ECM Suite 
   - C3 Main × 2 
   - CASE 
+- **Design Quirks:** 
+  - Cowl 
+  - Stable 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2254/naginata-ng-c3b) 
 - **Battle Value:** 1943 
 

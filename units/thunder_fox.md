@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3217/thunder-fox-tft-a9) 
 - **Battle Value:** 1325 
 - [*More Info*](thunder_fox/thunder_fox_tft-a9.md) 
@@ -33,6 +35,8 @@
 - **Weapons:** 
   - Snub-Nose PPC × 2 
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3219/thunder-fox-tft-l8) 
 - **Battle Value:** 1513 
 - [*More Info*](thunder_fox/thunder_fox_tft-l8.md) 
@@ -53,6 +57,8 @@
 - **Equipment:** 
   - Command Console 
   - C3 Main 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3218/thunder-fox-tft-c3) 
 - **Battle Value:** 1104 
 - [*More Info*](thunder_fox/thunder_fox_tft-c3.md) 
@@ -73,6 +79,8 @@
 - **Equipment:** 
   - Head Turret 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6892/thunder-fox-tft-f11) 
 - **Battle Value:** 2426 
 - [*More Info*](thunder_fox/thunder_fox_tft-f11.md) 

@@ -18,6 +18,9 @@
 - **Equipment:** 
   - TAG 
   - MASC 
+- **Design Quirks:** 
+  - Cowl 
+  - Improved Life Support 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6610/firestarter-fs9-m3) 
 - **Battle Value:** 866 
 

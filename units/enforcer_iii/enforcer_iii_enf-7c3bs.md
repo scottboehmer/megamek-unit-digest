@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
+  - Barrel Fist (Right Arm) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/986/enforcer-iii-enf-7c3bs) 
 - **Battle Value:** 1687 
 

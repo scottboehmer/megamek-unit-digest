@@ -15,6 +15,8 @@
   - Light Gauss Rifle × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5707/templar-tlr1-od) 
 - **Battle Value:** 1840 
 

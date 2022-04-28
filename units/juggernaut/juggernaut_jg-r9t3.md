@@ -17,6 +17,7 @@
 - **Equipment:** 
   - Coolant Pod × 6 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1715/juggernaut-jg-r9t3) 
 - **Battle Value:** 1959 

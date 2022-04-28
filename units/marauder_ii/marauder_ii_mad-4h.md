@@ -19,6 +19,7 @@
   - Rocket 10 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h) 
 - **Battle Value:** 2180 

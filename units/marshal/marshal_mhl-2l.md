@@ -18,6 +18,9 @@
   - Medium Laser 
   - Flamer 
   - Machine Gun × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×3) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2088/marshal-mhl-2l) 
 - **Battle Value:** 1313 
 

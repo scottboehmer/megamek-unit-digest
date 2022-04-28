@@ -14,6 +14,8 @@
   - AC/10 (ammo: 20) 
   - Prototype Medium Pulse Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1554/hunchback-hbk-4g-shakir) 
 - **Battle Value:** 952 
 

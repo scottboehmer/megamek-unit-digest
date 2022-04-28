@@ -16,6 +16,10 @@
   - Guardian ECM Suite 
   - Bloodhound Active Probe 
   - Shoulder Turret × 2 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Difficult Ejection 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5133/stiletto-sto-6s) 
 - **Battle Value:** 1171 
 

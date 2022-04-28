@@ -17,6 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Overhead Arms 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/844/dasher-fire-moth-h) 
 - **Battle Value:** 779 
 

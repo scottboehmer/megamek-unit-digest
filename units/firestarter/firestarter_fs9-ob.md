@@ -19,6 +19,8 @@
 - **Equipment:** 
   - C3 Support 
   - TAG 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1101/firestarter-fs9-ob) 
 - **Battle Value:** 1070 
 

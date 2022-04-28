@@ -17,6 +17,8 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7713/gladiator-executioner-l) 
 - **Battle Value:** 3132 
 

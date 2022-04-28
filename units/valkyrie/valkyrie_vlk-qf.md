@@ -14,6 +14,9 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - Flamer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3378/valkyrie-vlk-qf) 
 - **Battle Value:** 653 
 

@@ -16,6 +16,8 @@
   - Rocket 15 × 2 
   - Rocket 10 × 4 
   - Flamer × 2 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1111/firestarter-fs9-c) 
 - **Battle Value:** 940 
 

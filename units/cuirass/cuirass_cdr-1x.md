@@ -18,6 +18,8 @@
   - Sword 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/769/cuirass-cdr-1x) 
 - **Battle Value:** 1301 
 

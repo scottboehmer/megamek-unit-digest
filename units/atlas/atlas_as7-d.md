@@ -17,6 +17,9 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/140/atlas-as7-d) 
 - **Battle Value:** 1897 
 

@@ -14,6 +14,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/62/arbalest-standard) 
 - **Battle Value:** 1029 
 - [*More Info*](arbalest/arbalest_standard.md) 
@@ -33,6 +35,8 @@
   - ECM Suite 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/60/arbalest-2) 
 - **Battle Value:** 1098 
 - [*More Info*](arbalest/arbalest_2.md) 
@@ -50,6 +54,8 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/61/arbalest-3) 
 - **Battle Value:** 921 
 - [*More Info*](arbalest/arbalest_3.md) 

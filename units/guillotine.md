@@ -15,6 +15,8 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3050 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1338/guillotine-glt-3n) 
 - **Battle Value:** 1418 
 - [*More Info*](guillotine/guillotine_glt-3n.md) 
@@ -32,6 +34,8 @@
   - Large Laser 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1339/guillotine-glt-4l) 
 - **Battle Value:** 1400 
 - [*More Info*](guillotine/guillotine_glt-4l.md) 
@@ -49,6 +53,8 @@
   - PPC 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1340/guillotine-glt-4p) 
 - **Battle Value:** 1376 
 - [*More Info*](guillotine/guillotine_glt-4p.md) 
@@ -68,6 +74,8 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1341/guillotine-glt-5m) 
 - **Battle Value:** 1472 
 - [*More Info*](guillotine/guillotine_glt-5m.md) 
@@ -88,6 +96,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1344/guillotine-glt-8d) 
 - **Battle Value:** 1891 
 - [*More Info*](guillotine/guillotine_glt-8d.md) 
@@ -109,6 +119,8 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1342/guillotine-glt-6wb) 
 - **Battle Value:** 1672 
 - [*More Info*](guillotine/guillotine_glt-6wb.md) 
@@ -130,6 +142,8 @@
   - LRM 5 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1343/guillotine-glt-6wb2) 
 - **Battle Value:** 1635 
 - [*More Info*](guillotine/guillotine_glt-6wb2.md) 
@@ -152,6 +166,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5492/guillotine-glt-6wb3) 
 - **Battle Value:** 1741 
 - [*More Info*](guillotine/guillotine_glt-6wb3.md) 
@@ -172,6 +188,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8420/guillotine-glt-7m) 
 - **Battle Value:** 1877 
 - [*More Info*](guillotine/guillotine_glt-7m.md) 

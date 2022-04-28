@@ -14,6 +14,8 @@
   - Plasma Rifle (ammo: 20) 
   - ER Small Laser 
   - Small Pulse Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2654/raptor-rtx1-og) 
 - **Battle Value:** 857 
 

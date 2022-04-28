@@ -15,6 +15,7 @@
   - Large Laser 
   - Medium Laser 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1821/koschei-ksc-3l) 
 - **Battle Value:** 1384 

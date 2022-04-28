@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Heavy PPC × 2 
   - ER Medium Laser × 6 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3509/warlord-blr-2d) 
 - **Battle Value:** 2041 
 

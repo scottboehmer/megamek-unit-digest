@@ -20,6 +20,8 @@
   - Targeting Computer 
   - CASE II 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8425/star-crusader-prime) 
 - **Battle Value:** 3325 
 

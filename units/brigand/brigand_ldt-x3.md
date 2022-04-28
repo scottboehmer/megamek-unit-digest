@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Light PPC × 2 
   - Flamer × 2 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5653/brigand-ldt-x3) 
 - **Battle Value:** 695 
 

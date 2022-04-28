@@ -18,7 +18,9 @@
   - SRM 4 (ammo: 25) 
   - Small Laser × 2 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Protected Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3603/xanthos-xnt-2o) 
 - **Battle Value:** 1300 
 

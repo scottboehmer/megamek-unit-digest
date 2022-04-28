@@ -17,6 +17,8 @@
   - ProtoMech AC/4 (ammo: 20) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7458/grendel-mongrel-i) 
 - **Battle Value:** 1675 
 

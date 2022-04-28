@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1856/lancelot-lnc25-03) 
 - **Battle Value:** 1360 
 

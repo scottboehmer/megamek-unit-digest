@@ -12,6 +12,8 @@
   - AC/20 (ammo: 10) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1552/hunchback-hbk-4g) 
 - **Battle Value:** 1041 
 - [*More Info*](hunchback/hunchback_hbk-4g.md) 
@@ -28,6 +30,8 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 4 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1555/hunchback-hbk-4h) 
 - **Battle Value:** 1067 
 - [*More Info*](hunchback/hunchback_hbk-4h.md) 
@@ -44,6 +48,8 @@
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 5 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1556/hunchback-hbk-4j) 
 - **Battle Value:** 1143 
 - [*More Info*](hunchback/hunchback_hbk-4j.md) 
@@ -61,6 +67,8 @@
   - Medium Laser × 4 
   - LRM 5 × 2 (ammo: 24) 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1557/hunchback-hbk-4n) 
 - **Battle Value:** 1087 
 - [*More Info*](hunchback/hunchback_hbk-4n.md) 
@@ -76,6 +84,8 @@
 - **Weapons:** 
   - Medium Laser × 8 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1558/hunchback-hbk-4p) 
 - **Battle Value:** 1138 
 - [*More Info*](hunchback/hunchback_hbk-4p.md) 
@@ -92,6 +102,8 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 4 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1559/hunchback-hbk-4sp) 
 - **Battle Value:** 1043 
 - [*More Info*](hunchback/hunchback_hbk-4sp.md) 
@@ -108,6 +120,8 @@
   - AC/10 (ammo: 20) 
   - Prototype Medium Pulse Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1554/hunchback-hbk-4g-shakir) 
 - **Battle Value:** 952 
 - [*More Info*](hunchback/hunchback_hbk-4g_shakir.md) 
@@ -126,6 +140,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1561/hunchback-hbk-5m) 
 - **Battle Value:** 1056 
 - [*More Info*](hunchback/hunchback_hbk-5m.md) 
@@ -144,6 +160,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1553/hunchback-hbk-4g-hohiro) 
 - **Battle Value:** 1126 
 - [*More Info*](hunchback/hunchback_hbk-4g_hohiro.md) 
@@ -160,6 +178,8 @@
   - AC/20 (ammo: 10) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1562/hunchback-hbk-5n) 
 - **Battle Value:** 1041 
 - [*More Info*](hunchback/hunchback_hbk-5n.md) 
@@ -179,6 +199,8 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1564/hunchback-hbk-5s) 
 - **Battle Value:** 1350 
 - [*More Info*](hunchback/hunchback_hbk-5s.md) 
@@ -197,6 +219,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4337/hunchback-hbk-6n) 
 - **Battle Value:** 1130 
 - [*More Info*](hunchback/hunchback_hbk-6n.md) 
@@ -213,6 +237,8 @@
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster) 
   - ER Medium Laser × 2 
   - SRM 6 (ammo: 15) 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5447/hunchback-hbk-6s) 
 - **Battle Value:** 1380 
 - [*More Info*](hunchback/hunchback_hbk-6s.md) 
@@ -231,6 +257,8 @@
   - Rocket 20 × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1560/hunchback-hbk-5h) 
 - **Battle Value:** 1097 
 - [*More Info*](hunchback/hunchback_hbk-5h.md) 
@@ -249,6 +277,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #21 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8353/hunchback-c) 
 - **Battle Value:** 1893 
 - [*More Info*](hunchback/hunchback_c.md) 
@@ -269,6 +299,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1567/hunchback-hbk-7x-4) 
 - **Battle Value:** 1208 
 - [*More Info*](hunchback/hunchback_hbk-7x-4.md) 
@@ -288,6 +320,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1565/hunchback-hbk-5sg) 
 - **Battle Value:** 1577 
 - [*More Info*](hunchback/hunchback_hbk-5sg.md) 
@@ -308,6 +342,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1566/hunchback-hbk-5ss) 
 - **Battle Value:** 1295 
 - [*More Info*](hunchback/hunchback_hbk-5ss.md) 
@@ -326,6 +362,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1563/hunchback-hbk-5p) 
 - **Battle Value:** 1340 
 - [*More Info*](hunchback/hunchback_hbk-5p.md) 
@@ -345,6 +383,9 @@
   - Guardian ECM Suite 
   - CASE II 
   - TAG 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
+  - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4338/hunchback-hbk-7r) 
 - **Battle Value:** 1248 
 - [*More Info*](hunchback/hunchback_hbk-7r.md) 
@@ -362,6 +403,8 @@
   - AC/20 (ammo: 5) 
 - **Equipment:** 
   - Clan Targeting Computer 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8374/hunchback-hbk-lgn-pin-anastasia) 
 - **Battle Value:** 1289 
 - [*More Info*](hunchback/hunchback_hbk-lgn-pin_anastasia.md) 
@@ -379,6 +422,8 @@
   - Clan Medium Pulse Laser × 2 
   - Medium Laser × 2 
   - Clan Micro Pulse Laser × 4 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8375/hunchback-hbk-lgn-pin-drizella) 
 - **Battle Value:** 1492 
 - [*More Info*](hunchback/hunchback_hbk-lgn-pin_drizella.md) 
@@ -399,6 +444,8 @@
   - Bloodhound Active Probe 
   - Supercharger 
   - TAG 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7346/hunchback-hbk-7s) 
 - **Battle Value:** 1628 
 - [*More Info*](hunchback/hunchback_hbk-7s.md) 

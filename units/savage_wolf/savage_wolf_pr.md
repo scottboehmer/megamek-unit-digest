@@ -17,6 +17,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Stable 
   - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6574/mad-cat-mk-iv-savage-wolf-pr-standard) 
 - **Battle Value:** 2702 

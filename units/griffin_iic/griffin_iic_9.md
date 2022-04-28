@@ -17,6 +17,8 @@
   - Inner Sphere ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8159/griffin-iic-9) 
 - **Battle Value:** 1106 
 

@@ -18,6 +18,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/27/albatross-alb-3u) 
 - **Battle Value:** 1668 
@@ -41,6 +42,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/29/albatross-alb-4u) 
 - **Battle Value:** 1907 
@@ -67,6 +69,7 @@
   - Guardian ECM Suite 
   - Laser Anti-Missile System 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Improved Targeting (Long) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/30/albatross-alb-5w-dantalion) 
 - **Battle Value:** 2296 
@@ -89,6 +92,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Improved Targeting (Long) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/28/albatross-alb-3ur) 
 - **Battle Value:** 1902 

@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Overhead Arms 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/842/dasher-fire-moth-e) 
 - **Battle Value:** 822 
 

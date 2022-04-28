@@ -16,6 +16,8 @@
 - **Weapons:** 
   - SRM 4 × 2 (ammo: 25) 
   - Mace 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2195/mjolnir-mlr-bx) 
 - **Battle Value:** 612 
 

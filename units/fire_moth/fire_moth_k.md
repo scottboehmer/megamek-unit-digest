@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Overhead Arms 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/845/dasher-fire-moth-k) 
 - **Battle Value:** 884 
 

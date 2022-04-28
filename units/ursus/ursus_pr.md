@@ -19,7 +19,9 @@
   - CASE II 
   - Inner Sphere C3i 
 - **Design Quirks:** 
+  - Distracting 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5330/ursus-pr) 
 - **Battle Value:** 1194 
 

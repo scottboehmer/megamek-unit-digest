@@ -17,6 +17,9 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/147/atlas-as7-rs) 
 - **Battle Value:** 1849 
 

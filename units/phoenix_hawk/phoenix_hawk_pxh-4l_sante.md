@@ -20,6 +20,7 @@
   - Full Head Ejection System 
   - TAG 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5807/phoenix-hawk-pxh-4l-sante) 
 - **Battle Value:** 1442 

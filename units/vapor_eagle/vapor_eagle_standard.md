@@ -19,6 +19,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1243/goshawk-vapor-eagle-standard) 
 - **Battle Value:** 2368 
 

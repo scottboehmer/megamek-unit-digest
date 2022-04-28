@@ -20,6 +20,9 @@
   - Partial Wing 
   - MASC 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6268/gyrfalcon-3) 
 - **Battle Value:** 2228 
 

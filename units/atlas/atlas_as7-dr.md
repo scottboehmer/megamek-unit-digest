@@ -20,6 +20,9 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Distracting 
+  - Improved Communications 
+  - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/143/atlas-as7-dr) 
 - **Battle Value:** 2101 
 

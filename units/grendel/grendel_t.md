@@ -19,6 +19,8 @@
   - Improved Heavy Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7456/grendel-mongrel-t) 
 - **Battle Value:** 1936 
 

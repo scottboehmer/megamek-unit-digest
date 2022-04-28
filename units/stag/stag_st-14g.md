@@ -18,6 +18,10 @@
   - Beagle Active Probe 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3033/stag-st-14g) 
 - **Battle Value:** 1351 
 

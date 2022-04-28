@@ -17,7 +17,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Easy to Pilot 
+  - Rugged (×2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2866/sentry-snt-04) 
 - **Battle Value:** 1069 
 - [*More Info*](sentry/sentry_snt-04.md) 
@@ -39,7 +41,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Easy to Pilot 
+  - Rugged (×2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2867/sentry-snt-w5) 
 - **Battle Value:** 1143 
 - [*More Info*](sentry/sentry_snt-w5.md) 

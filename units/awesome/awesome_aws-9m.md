@@ -15,6 +15,8 @@
   - Medium Pulse Laser 
   - Streak SRM 2 × 2 (ammo: 50) 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/178/awesome-aws-9m) 
 - **Battle Value:** 1812 
 

@@ -20,6 +20,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Good Reputation 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3628/yu-huang-y-h9gc) 
 - **Battle Value:** 2017 
 

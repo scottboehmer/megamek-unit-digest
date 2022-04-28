@@ -19,6 +19,8 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3587/woodsman-prime) 
 - **Battle Value:** 2623 
 

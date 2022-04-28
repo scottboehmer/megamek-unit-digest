@@ -15,6 +15,8 @@
   - PPC 
   - Medium Laser × 6 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2741/rook-nh-1b) 
 - **Battle Value:** 1227 
 

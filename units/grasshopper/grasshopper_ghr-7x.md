@@ -17,6 +17,8 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Bloodhound Active Probe 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1271/grasshopper-ghr-7x) 
 - **Battle Value:** 1587 
 

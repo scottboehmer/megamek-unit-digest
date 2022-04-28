@@ -14,6 +14,9 @@
 - **Weapons:** 
   - RAC/2 (ammo: 45) 
   - Flamer × 3 
+- **Design Quirks:** 
+  - Cowl 
+  - Improved Life Support 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6611/firestarter-fs9-m4) 
 - **Battle Value:** 798 
 

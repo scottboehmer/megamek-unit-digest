@@ -15,6 +15,9 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/127/assassin-asn-21) 
 - **Battle Value:** 749 
 

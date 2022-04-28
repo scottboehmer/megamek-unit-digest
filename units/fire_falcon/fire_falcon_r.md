@@ -17,6 +17,8 @@
   - Micro Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8183/fire-falcon-r) 
 - **Battle Value:** 846 
 

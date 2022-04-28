@@ -13,6 +13,8 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Source:** WWE Scorched Earth - Clan Invasion 
 - **Battle Value:** 977 
 

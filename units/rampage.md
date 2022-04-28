@@ -15,6 +15,8 @@
   - Medium Laser × 2 
   - Flamer 
   - Machine Gun (ammo: 200) 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2635/rampage-rmp-2g) 
 - **Battle Value:** 1444 
 - [*More Info*](rampage/rampage_rmp-2g.md) 
@@ -36,6 +38,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - MASC 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2636/rampage-rmp-4g) 
 - **Battle Value:** 2130 
 - [*More Info*](rampage/rampage_rmp-4g.md) 
@@ -58,6 +62,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** HTP New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6974/rampage-rmp-4g-benboudaoud) 
 - **Battle Value:** 1751 
 - [*More Info*](rampage/rampage_rmp-4g_benboudaoud.md) 
@@ -80,6 +86,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - MASC 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2637/rampage-rmp-5g) 
 - **Battle Value:** 1933 
 - [*More Info*](rampage/rampage_rmp-5g.md) 

@@ -16,6 +16,7 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
 - **Design Quirks:** 
+  - Hyper-Extending Actuators 
   - Difficult to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5346/verfolger-vr5-r) 
 - **Battle Value:** 1639 
@@ -36,6 +37,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Hyper-Extending Actuators 
   - Difficult to Maintain 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5688/verfolger-vr6-c) 
 - **Battle Value:** 1584 
@@ -58,6 +60,7 @@
 - **Equipment:** 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Hyper-Extending Actuators 
   - Difficult to Maintain 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5689/verfolger-vr6-t) 
 - **Battle Value:** 1811 

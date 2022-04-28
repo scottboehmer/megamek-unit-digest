@@ -14,6 +14,8 @@
   - Ultra AC/5 (ammo: 20) 
   - Streak SRM 2 (ammo: 50) 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2860/sentinel-stn-3l) 
 - **Battle Value:** 717 
 

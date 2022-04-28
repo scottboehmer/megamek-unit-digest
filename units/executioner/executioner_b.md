@@ -19,6 +19,8 @@
   - Anti-Missile System (ammo: 24) 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1204/gladiator-executioner-b) 
 - **Battle Value:** 2940 
 

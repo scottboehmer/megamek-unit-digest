@@ -13,6 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1921/locust-iic-8) 

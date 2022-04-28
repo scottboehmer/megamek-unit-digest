@@ -20,6 +20,9 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/66/archangel-c-ang-oa-dominus) 
 - **Battle Value:** 2134 
 

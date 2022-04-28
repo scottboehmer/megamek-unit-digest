@@ -19,6 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Communications 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2218/mongoose-ii-mon-268) 
 - **Battle Value:** 1215 
 

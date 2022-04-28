@@ -16,6 +16,8 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Cowl 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3214/thunder-thr-1l) 
 - **Battle Value:** 1471 
 

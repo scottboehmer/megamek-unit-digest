@@ -17,6 +17,7 @@
   - Machine Gun Array × 2 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1919/locust-iic-6) 

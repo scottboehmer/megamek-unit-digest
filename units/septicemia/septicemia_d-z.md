@@ -20,6 +20,8 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5815/pariah-septicemia-d-z) 
 - **Battle Value:** 2704 
 

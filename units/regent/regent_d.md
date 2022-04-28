@@ -18,6 +18,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8363/regent-d) 
 - **Battle Value:** 2116 
 

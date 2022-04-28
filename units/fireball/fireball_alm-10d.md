@@ -17,6 +17,7 @@
   - MASC 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Communications 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1074/fireball-alm-10d) 
 - **Battle Value:** 957 

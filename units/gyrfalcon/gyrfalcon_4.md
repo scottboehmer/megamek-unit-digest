@@ -18,6 +18,9 @@
   - CASE 
   - Partial Wing 
   - MASC 
+- **Design Quirks:** 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6269/gyrfalcon-4) 
 - **Battle Value:** 3716 
 

@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6411/exhumer-exr-3p) 
 - **Battle Value:** 1469 
 

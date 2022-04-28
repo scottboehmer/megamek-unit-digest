@@ -15,6 +15,10 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3486/warhammer-whm-6k) 
 - **Battle Value:** 1305 
 

@@ -15,6 +15,8 @@
   - ER PPC 
   - ER Large Laser 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1969/lynx-lnx-9r) 
 - **Battle Value:** 1755 
 

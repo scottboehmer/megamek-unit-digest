@@ -16,6 +16,8 @@
   - MRM 20 (ammo: 24) 
   - ER Medium Laser 
   - Machine Gun (ammo: 100) 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3950/chimera-cma-1s) 
 - **Battle Value:** 1173 
 

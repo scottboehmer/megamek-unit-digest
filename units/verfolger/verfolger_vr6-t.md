@@ -19,6 +19,7 @@
 - **Equipment:** 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Hyper-Extending Actuators 
   - Difficult to Maintain 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5689/verfolger-vr6-t) 
 - **Battle Value:** 1811 

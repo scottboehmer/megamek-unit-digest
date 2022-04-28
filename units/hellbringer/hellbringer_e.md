@@ -17,6 +17,8 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1927/loki-hellbringer-e) 
 - **Battle Value:** 2304 
 

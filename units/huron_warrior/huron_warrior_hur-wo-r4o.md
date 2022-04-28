@@ -14,6 +14,8 @@
   - Gauss Rifle (ammo: 24) 
   - ER Large Laser 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1583/huron-warrior-hur-wo-r4o) 
 - **Battle Value:** 1585 
 

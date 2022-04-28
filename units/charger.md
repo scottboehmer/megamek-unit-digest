@@ -10,6 +10,10 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Laser × 5 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/559/charger-cgr-1a1) 
 - **Battle Value:** 981 
 - [*More Info*](charger/charger_cgr-1a1.md) 
@@ -25,6 +29,10 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/562/charger-cgr-1l) 
 - **Battle Value:** 980 
 - [*More Info*](charger/charger_cgr-1l.md) 
@@ -42,6 +50,10 @@
   - SRM 6 × 2 (ammo: 15) 
   - Medium Laser 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/560/charger-cgr-1a5) 
 - **Battle Value:** 1468 
 - [*More Info*](charger/charger_cgr-1a5.md) 
@@ -57,6 +69,10 @@
 - **Weapons:** 
   - Large Laser × 4 
   - Medium Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/570/charger-cgr-sb-challenger) 
 - **Battle Value:** 1604 
 - [*More Info*](charger/charger_cgr-sb_challenger.md) 
@@ -74,6 +90,10 @@
   - LRM 20 (ammo: 12) 
   - Medium Laser × 4 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/561/charger-cgr-1a9) 
 - **Battle Value:** 1397 
 - [*More Info*](charger/charger_cgr-1a9.md) 
@@ -92,6 +112,10 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/565/charger-cgr-3k) 
 - **Battle Value:** 1656 
 - [*More Info*](charger/charger_cgr-3k.md) 
@@ -111,6 +135,10 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/567/charger-cgr-c) 
 - **Battle Value:** 1592 
 - [*More Info*](charger/charger_cgr-c.md) 
@@ -130,6 +158,10 @@
 - **Equipment:** 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/569/charger-cgr-sa5) 
 - **Battle Value:** 2105 
 - [*More Info*](charger/charger_cgr-sa5.md) 
@@ -145,6 +177,10 @@
 - **Weapons:** 
   - Medium Laser 
   - Rocket 10 × 5 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/564/charger-cgr-2a2) 
 - **Battle Value:** 1109 
 - [*More Info*](charger/charger_cgr-2a2.md) 
@@ -165,6 +201,10 @@
   - Sword 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/568/charger-cgr-kmz) 
 - **Battle Value:** 1781 
 - [*More Info*](charger/charger_cgr-kmz.md) 
@@ -189,6 +229,10 @@
   - C3 Boosted Support 
   - MASC 
   - TAG 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/563/charger-cgr-1x1) 
 - **Battle Value:** 2009 
 - [*More Info*](charger/charger_cgr-1x1.md) 
@@ -213,6 +257,10 @@
   - Small Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566/charger-cgr-3kr) 
 - **Battle Value:** 2121 
 - [*More Info*](charger/charger_cgr-3kr.md) 

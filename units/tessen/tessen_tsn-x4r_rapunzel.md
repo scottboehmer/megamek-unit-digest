@@ -17,6 +17,8 @@
   - Chain Whip 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8377/tessen-tsn-x-4r-rapunzel) 
 - **Battle Value:** unknown 
 

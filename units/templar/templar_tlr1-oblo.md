@@ -20,6 +20,8 @@
   - Targeting Computer 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** SO:Unending Faith: Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7637/templar-trl1-oblo) 
 - **Battle Value:** 2062 
 

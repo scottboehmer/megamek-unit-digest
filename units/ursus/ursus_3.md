@@ -19,7 +19,9 @@
   - Watchdog CEWS 
   - CASE II 
 - **Design Quirks:** 
+  - Distracting 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5329/ursus-3) 
 - **Battle Value:** 1284 
 

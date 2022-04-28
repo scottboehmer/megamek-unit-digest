@@ -18,6 +18,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1292/grendel-mongrel-h) 
 - **Battle Value:** 1965 
 

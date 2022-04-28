@@ -16,6 +16,10 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3498/warhammer-whm-9s) 
 - **Battle Value:** 1653 
 

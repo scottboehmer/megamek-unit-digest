@@ -22,6 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Rugged (×2) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2318/omen-standard) 
 - **Battle Value:** 2750 
 

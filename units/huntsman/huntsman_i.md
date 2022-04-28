@@ -18,6 +18,8 @@
   - ER Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7784/nobori-nin-huntsman-i) 
 - **Battle Value:** 2277 
 

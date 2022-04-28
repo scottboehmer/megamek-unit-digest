@@ -21,6 +21,8 @@
   - Coolant Pod 
   - CASE 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/22/akuma-aku-2xc) 
 - **Battle Value:** 2134 
 

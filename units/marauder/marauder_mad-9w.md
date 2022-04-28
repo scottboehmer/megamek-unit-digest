@@ -20,6 +20,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2050/marauder-mad-9w) 
 - **Battle Value:** 1788 

@@ -19,6 +19,8 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1193/ghost-gst-10) 
 - **Battle Value:** 1353 
 

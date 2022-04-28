@@ -15,6 +15,8 @@
   - ER Flamer 
 - **Equipment:** 
   - Light TAG 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1603/icestorm-2) 
 - **Battle Value:** 868 
 

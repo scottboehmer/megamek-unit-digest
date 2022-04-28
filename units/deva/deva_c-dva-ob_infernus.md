@@ -19,6 +19,10 @@
   - Guardian ECM Suite 
   - C3i 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/887/deva-c-dva-ob-infernus) 
 - **Battle Value:** 1713 
 

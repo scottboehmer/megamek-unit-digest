@@ -16,6 +16,8 @@
   - Improved Heavy Gauss Rifle × 2 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/40/annihilator-anh-2ax) 
 - **Battle Value:** 2553 
 

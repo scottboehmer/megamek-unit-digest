@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Medium Laser × 3 
   - Mace 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7312/brigand-ldt-5) 
 - **Battle Value:** 762 
 

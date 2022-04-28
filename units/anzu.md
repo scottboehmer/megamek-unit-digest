@@ -17,6 +17,9 @@
 - **Equipment:** 
   - CASE II 
   - TAG 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Improved Life Support 
 - **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6510/anzu-zu-g60) 
 - **Battle Value:** 1503 
 - [*More Info*](anzu/anzu_zu-g60.md) 
@@ -38,6 +41,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Improved Life Support 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6511/anzu-zu-j70) 
 - **Battle Value:** 1680 
 - [*More Info*](anzu/anzu_zu-j70.md) 

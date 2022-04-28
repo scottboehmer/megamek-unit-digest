@@ -15,6 +15,9 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
+  - Variable Range Targeting 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6275/vulture-mk-iii-mad-dog-mk-iii-d) 
 - **Battle Value:** 2421 
 

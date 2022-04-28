@@ -15,6 +15,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Design Quirks:** 
   - Combat Computer 
+  - Cramped Cockpit 
   - Difficult to Maintain 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x) 
 - **Battle Value:** 1453 

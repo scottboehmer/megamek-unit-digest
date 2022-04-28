@@ -20,6 +20,8 @@
   - MASC 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1208/gladiator-executioner-h) 
 - **Battle Value:** 3059 
 

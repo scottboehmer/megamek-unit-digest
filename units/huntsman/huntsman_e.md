@@ -21,6 +21,8 @@
   - Light Active Probe 
   - Light TAG 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #12 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7782/nobori-nin-huntsman-e) 
 - **Battle Value:** 2104 
 

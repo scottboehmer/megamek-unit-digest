@@ -18,6 +18,9 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
+  - Stable 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3508/warhammer-iic-9) 
 - **Battle Value:** 2819 
 

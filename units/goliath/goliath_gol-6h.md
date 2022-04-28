@@ -18,6 +18,8 @@
   - B-Pod × 4 
   - Machine Gun Array × 2 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1237/goliath-gol-6h) 
 - **Battle Value:** 1653 
 

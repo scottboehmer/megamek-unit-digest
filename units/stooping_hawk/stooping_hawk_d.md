@@ -15,6 +15,8 @@
   - ER Medium Laser × 2 
   - Heavy Medium Laser × 3 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Rugged (×3) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3079/stooping-hawk-d) 
 - **Battle Value:** 1838 
 

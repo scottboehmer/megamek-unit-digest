@@ -18,6 +18,8 @@
   - SRM 4 (ammo: 25) 
   - Sword 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4730/no-dachi-nda-1k) 
 - **Battle Value:** 1708 
 

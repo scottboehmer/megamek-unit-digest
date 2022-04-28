@@ -20,6 +20,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Improved Targeting (Long) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/29/albatross-alb-4u) 
 - **Battle Value:** 1907 

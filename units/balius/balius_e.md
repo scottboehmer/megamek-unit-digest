@@ -18,6 +18,8 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6883/balius-e) 
 - **Battle Value:** 2158 
 

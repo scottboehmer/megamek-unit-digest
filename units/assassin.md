@@ -13,6 +13,9 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/127/assassin-asn-21) 
 - **Battle Value:** 749 
 - [*More Info*](assassin/assassin_asn-21.md) 
@@ -31,6 +34,9 @@
   - LRM 5 (ammo: 24) 
   - SRM 2 (ammo: 50) 
   - Small Laser × 3 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/126/assassin-asn-101) 
 - **Battle Value:** 757 
 - [*More Info*](assassin/assassin_asn-101.md) 
@@ -47,6 +53,9 @@
 - **Weapons:** 
   - LRM 5 w/ Artemis IV (ammo: 24) 
   - Medium Pulse Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/128/assassin-asn-23) 
 - **Battle Value:** 740 
 - [*More Info*](assassin/assassin_asn-23.md) 
@@ -63,6 +72,9 @@
 - **Weapons:** 
   - LB 5-X AC (ammo: 20 Cluster) 
   - ER Medium Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/129/assassin-asn-30) 
 - **Battle Value:** 925 
 - [*More Info*](assassin/assassin_asn-30.md) 
@@ -82,6 +94,9 @@
   - Small X-Pulse Laser × 2 
   - Small Vibroblade 
   - Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3737/assassin-servitor) 
 - **Battle Value:** 1019 
 - [*More Info*](assassin/assassin_servitor.md) 
@@ -102,6 +117,9 @@
   - Beagle Active Probe 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3738/assassin-asn-30-alice) 
 - **Battle Value:** 1507 
 - [*More Info*](assassin/assassin_asn-30_alice.md) 
@@ -122,6 +140,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Cramped Cockpit 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/130/assassin-asn-99) 
 - **Battle Value:** 1116 
 - [*More Info*](assassin/assassin_asn-99.md) 

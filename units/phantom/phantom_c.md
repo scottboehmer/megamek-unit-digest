@@ -16,6 +16,8 @@
   - Flamer 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2483/phantom-c) 
 - **Battle Value:** 1590 
 

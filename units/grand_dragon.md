@@ -15,6 +15,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1256/grand-dragon-drg-1g) 
 - **Battle Value:** 1300 
 - [*More Info*](grand_dragon/grand_dragon_drg-1g.md) 
@@ -35,6 +36,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1257/grand-dragon-drg-1g-douglas) 
 - **Battle Value:** 1076 
 - [*More Info*](grand_dragon/grand_dragon_drg-1g_douglas.md) 
@@ -56,6 +58,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Source:** Starterbook: Sword and Dragon - Succession Wars 
 - **Battle Value:** 1394 
 - [*More Info*](grand_dragon/grand_dragon_drg-1g_emory.md) 
@@ -77,6 +80,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1259/grand-dragon-drg-5k-emory) 
 - **Battle Value:** 1394 
 - [*More Info*](grand_dragon/grand_dragon_drg-5k_emory.md) 
@@ -98,6 +102,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1258/grand-dragon-drg-5k) 
 - **Battle Value:** 1358 
 - [*More Info*](grand_dragon/grand_dragon_drg-5k.md) 
@@ -120,6 +125,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4230/grand-dragon-drg-5k-dc) 
 - **Battle Value:** 1322 
 - [*More Info*](grand_dragon/grand_dragon_drg-5k-dc.md) 
@@ -142,6 +148,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1264/grand-dragon-drg-c) 
 - **Battle Value:** 1322 
 - [*More Info*](grand_dragon/grand_dragon_drg-c.md) 
@@ -165,6 +172,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1260/grand-dragon-drg-7k) 
 - **Battle Value:** 1702 
 - [*More Info*](grand_dragon/grand_dragon_drg-7k.md) 
@@ -188,6 +196,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1261/grand-dragon-drg-7k-mark) 
 - **Battle Value:** 1817 
 - [*More Info*](grand_dragon/grand_dragon_drg-7k_mark.md) 
@@ -209,6 +218,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1263/grand-dragon-drg-9kc) 
 - **Battle Value:** 1147 
 - [*More Info*](grand_dragon/grand_dragon_drg-9kc.md) 
@@ -232,6 +242,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1262/grand-dragon-drg-7kc) 
 - **Battle Value:** 1673 
 - [*More Info*](grand_dragon/grand_dragon_drg-7kc.md) 
@@ -253,6 +264,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6889/grand-dragon-drg-10k) 
 - **Battle Value:** 1603 
 - [*More Info*](grand_dragon/grand_dragon_drg-10k.md) 
@@ -275,6 +287,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8446/grand-dragon-drg-12k) 
 - **Battle Value:** 2265 
 - [*More Info*](grand_dragon/grand_dragon_drg-12k.md) 

@@ -15,6 +15,9 @@
   - ER Medium Laser × 2 
   - SRM 2 × 2 (ammo: 50) 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4520/lightray-lgh-4y) 
 - **Battle Value:** 1379 
 

@@ -16,6 +16,9 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
+  - Stable 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3503/warhammer-iic-4) 
 - **Battle Value:** 2386 
 

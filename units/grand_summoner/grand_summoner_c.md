@@ -17,6 +17,8 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6284/thor-ii-grand-summoner-c) 
 - **Battle Value:** 2351 
 

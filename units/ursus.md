@@ -18,7 +18,9 @@
   - ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - Distracting 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3363/ursus-standard) 
 - **Battle Value:** 1778 
 - [*More Info*](ursus/ursus_standard.md) 
@@ -40,7 +42,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Distracting 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3364/ursus-2) 
 - **Battle Value:** 2054 
 - [*More Info*](ursus/ursus_2.md) 
@@ -62,7 +66,9 @@
   - CASE II 
   - Inner Sphere C3i 
 - **Design Quirks:** 
+  - Distracting 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5330/ursus-pr) 
 - **Battle Value:** 1194 
 - [*More Info*](ursus/ursus_pr.md) 
@@ -84,7 +90,9 @@
   - Watchdog CEWS 
   - CASE II 
 - **Design Quirks:** 
+  - Distracting 
   - Protected Actuators 
+  - Cramped Cockpit 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5329/ursus-3) 
 - **Battle Value:** 1284 
 - [*More Info*](ursus/ursus_3.md) 

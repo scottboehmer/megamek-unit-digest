@@ -15,6 +15,9 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Left Arm) 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1400/hatamoto-chi-htm-27t-daniel) 
 - **Battle Value:** 1435 
 

@@ -15,6 +15,9 @@
   - Large Laser 
   - Medium Laser × 2 
   - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1298/griffin-grf-1s) 
 - **Battle Value:** 1253 
 

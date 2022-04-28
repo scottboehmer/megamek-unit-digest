@@ -15,6 +15,9 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Barrel Fist (Left Arm) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1404/hatamoto-hi-htm-c) 
 - **Battle Value:** 1627 
 

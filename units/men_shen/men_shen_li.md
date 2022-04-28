@@ -16,6 +16,9 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6981/men-shen-ms1-o-li) 
 - **Battle Value:** 1550 
 

@@ -17,6 +17,8 @@
   - Watchdog CEWS 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7645/woodsman-d) 
 - **Battle Value:** 1902 
 

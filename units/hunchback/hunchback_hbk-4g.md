@@ -14,6 +14,8 @@
   - AC/20 (ammo: 10) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Battlefists 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1552/hunchback-hbk-4g) 
 - **Battle Value:** 1041 
 

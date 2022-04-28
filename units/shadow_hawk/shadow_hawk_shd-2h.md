@@ -16,6 +16,10 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2901/shadow-hawk-shd-2h) 
 - **Battle Value:** 1064 
 

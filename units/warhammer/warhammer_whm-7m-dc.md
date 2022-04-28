@@ -17,6 +17,10 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Command Console 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5386/warhammer-whm-7m-dc) 
 - **Battle Value:** 1402 
 

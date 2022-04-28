@@ -17,6 +17,11 @@
   - Medium Pulse Laser × 2 
   - Small Laser × 2 
   - Machine Gun (ammo: 100) 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
+  - Stable 
+  - Barrel Fists 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/849/defiance-dfn-3c) 
 - **Battle Value:** 1817 
 - [*More Info*](defiance/defiance_dfn-3c.md) 
@@ -37,6 +42,11 @@
   - SRM 6 (ammo: 15) 
   - ER Small Laser × 2 
   - Machine Gun (ammo: 100) 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
+  - Stable 
+  - Barrel Fists 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/850/defiance-dfn-3s) 
 - **Battle Value:** 1940 
 - [*More Info*](defiance/defiance_dfn-3s.md) 
@@ -57,6 +67,11 @@
   - SRM 6 (ammo: 15) 
   - ER Small Laser × 2 
   - Machine Gun (ammo: 100) 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Searchlight 
+  - Stable 
+  - Barrel Fists 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/851/defiance-dfn-3t) 
 - **Battle Value:** 1981 
 - [*More Info*](defiance/defiance_dfn-3t.md) 

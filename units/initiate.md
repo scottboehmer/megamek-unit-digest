@@ -16,6 +16,9 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1620/initiate-ini-02) 
 - **Battle Value:** 1036 
 - [*More Info*](initiate/initiate_ini-02.md) 
@@ -36,6 +39,9 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1621/initiate-ini-04) 
 - **Battle Value:** 901 
 - [*More Info*](initiate/initiate_ini-04.md) 

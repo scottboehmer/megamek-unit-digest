@@ -19,6 +19,7 @@
 - **Equipment:** 
   - MASS 
 - **Design Quirks:** 
+  - Multi-Trac 
   - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4266/hatamoto-kaeru-htm-35k) 
 - **Battle Value:** 1906 

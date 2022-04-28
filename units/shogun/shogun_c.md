@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Barrel Fists 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2931/shogun-c) 
 - **Battle Value:** 3008 
 

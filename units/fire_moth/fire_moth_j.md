@@ -18,6 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Overhead Arms 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7579/dasher-fire-moth-j) 
 - **Battle Value:** 1140 
 

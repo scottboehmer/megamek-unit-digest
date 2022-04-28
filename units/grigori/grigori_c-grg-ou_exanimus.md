@@ -22,6 +22,10 @@
   - Beagle Active Probe 
   - MASS 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1327/grigori-c-grg-ou-exanimus) 
 - **Battle Value:** 1604 
 

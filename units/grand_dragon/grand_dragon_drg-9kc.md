@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Stable 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1263/grand-dragon-drg-9kc) 
 - **Battle Value:** 1147 
 

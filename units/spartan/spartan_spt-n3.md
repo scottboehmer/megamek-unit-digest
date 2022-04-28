@@ -17,6 +17,8 @@
 - **Equipment:** 
   - TAG 
   - C3i 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2996/spartan-spt-n3) 
 - **Battle Value:** 1631 
 

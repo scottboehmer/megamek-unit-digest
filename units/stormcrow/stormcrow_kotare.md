@@ -16,6 +16,8 @@
   - ER Medium Laser × 5 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5488/ryoken-stormcrow-kotare) 
 - **Battle Value:** 2382 
 

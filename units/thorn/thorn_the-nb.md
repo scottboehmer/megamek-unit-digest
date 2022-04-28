@@ -16,6 +16,8 @@
   - Small Laser 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3194/thorn-the-nb) 
 - **Battle Value:** 740 
 

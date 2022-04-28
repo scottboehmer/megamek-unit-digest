@@ -11,6 +11,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER PPC 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2392/pack-hunter-standard) 
 - **Battle Value:** 1369 
 - [*More Info*](pack_hunter/pack_hunter_standard.md) 
@@ -27,6 +29,8 @@
 - **Weapons:** 
   - ER PPC 
   - ER Micro Laser × 8 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2393/pack-hunter-2) 
 - **Battle Value:** 1598 
 - [*More Info*](pack_hunter/pack_hunter_2.md) 
@@ -45,6 +49,8 @@
   - ER Micro Laser × 4 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2394/pack-hunter-3) 
 - **Battle Value:** 1747 
 - [*More Info*](pack_hunter/pack_hunter_3.md) 
@@ -63,6 +69,8 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2395/pack-hunter-4) 
 - **Battle Value:** 1257 
 - [*More Info*](pack_hunter/pack_hunter_4.md) 
@@ -78,6 +86,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER PPC 
+- **Design Quirks:** 
+  - Reinforced Legs 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7440/pack-hunter-5) 
 - **Battle Value:** 1644 
 - [*More Info*](pack_hunter/pack_hunter_5.md) 

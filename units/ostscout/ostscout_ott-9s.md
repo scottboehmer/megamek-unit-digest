@@ -19,7 +19,10 @@
   - A-Pod × 2 
   - TAG 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2370/ostscout-ott-9s) 
 - **Battle Value:** 855 
 

@@ -10,6 +10,8 @@
 - **Heat Sinks:** 30 (60) 
 - **Weapons:** 
   - ER PPC × 4 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1481/hellstar-standard) 
 - **Battle Value:** 3084 
 - [*More Info*](hellstar/hellstar_standard.md) 
@@ -26,6 +28,8 @@
   - ER PPC × 4 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1479/hellstar-2) 
 - **Battle Value:** 3545 
 - [*More Info*](hellstar/hellstar_2.md) 
@@ -45,6 +49,8 @@
   - ECM Suite 
   - Active Probe 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1480/hellstar-3) 
 - **Battle Value:** 3025 
 - [*More Info*](hellstar/hellstar_3.md) 

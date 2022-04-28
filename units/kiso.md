@@ -59,6 +59,9 @@
   - Lift Hoist 
   - Collapsible Command Module 
   - Cargo Container × 2 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Stable 
 - **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5773/kiso-k-3n-krhq-commandmech) 
 - **Battle Value:** 940 
 - [*More Info*](kiso/kiso_k-3n-krhq_commandmech.md) 

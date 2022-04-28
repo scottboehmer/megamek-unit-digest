@@ -18,6 +18,8 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3045/stalking-spider-standard) 
 - **Battle Value:** 2232 
 

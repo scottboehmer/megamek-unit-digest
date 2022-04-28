@@ -16,6 +16,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Barrel Fists 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1370/hammerhands-hmh-4d) 
 - **Battle Value:** 1356 
 

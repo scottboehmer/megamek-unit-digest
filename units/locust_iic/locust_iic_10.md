@@ -14,6 +14,7 @@
   - ER Medium Laser 
   - ER Small Laser × 8 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Narrow/Low Profile 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8203/locust-iic-10) 

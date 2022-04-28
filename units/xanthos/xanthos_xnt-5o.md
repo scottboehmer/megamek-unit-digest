@@ -16,6 +16,8 @@
   - ER PPC 
   - Medium Pulse Laser × 5 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Improved Life Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3606/xanthos-xnt-5o) 
 - **Battle Value:** 2146 
 

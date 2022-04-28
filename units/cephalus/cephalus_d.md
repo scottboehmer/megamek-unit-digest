@@ -18,7 +18,9 @@
   - Inner Sphere Null-Signature System 
   - Inner Sphere Chameleon LPS 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Difficult to Maintain 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5640/cephalus-d) 
 - **Battle Value:** 1460 
 

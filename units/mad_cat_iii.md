@@ -39,6 +39,8 @@
   - TAG 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5543/mad-cat-iii-eve) 
 - **Battle Value:** 2393 
 - [*More Info*](mad_cat_iii/mad_cat_iii_eve.md) 
@@ -59,6 +61,8 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4561/mad-cat-iii-standard) 
 - **Battle Value:** 2400 
 - [*More Info*](mad_cat_iii/mad_cat_iii_standard.md) 
@@ -79,6 +83,8 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4562/mad-cat-iii-2) 
 - **Battle Value:** 1697 
 - [*More Info*](mad_cat_iii/mad_cat_iii_2.md) 
@@ -116,6 +122,8 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6896/mad-cat-iii-3) 
 - **Battle Value:** 2515 
 - [*More Info*](mad_cat_iii/mad_cat_iii_3.md) 
@@ -138,6 +146,8 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6897/mad-cat-iii-4) 
 - **Battle Value:** 2061 
 - [*More Info*](mad_cat_iii/mad_cat_iii_4.md) 
@@ -158,6 +168,8 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6898/mad-cat-iii-5) 
 - **Battle Value:** 2095 
 - [*More Info*](mad_cat_iii/mad_cat_iii_5.md) 

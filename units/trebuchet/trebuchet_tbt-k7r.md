@@ -20,6 +20,9 @@
   - Chain Whip 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5275/trebuchet-tbt-k7r) 
 - **Battle Value:** 1415 
 

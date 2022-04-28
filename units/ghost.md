@@ -17,6 +17,8 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1193/ghost-gst-10) 
 - **Battle Value:** 1353 
 - [*More Info*](ghost/ghost_gst-10.md) 
@@ -38,6 +40,8 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1194/ghost-gst-11) 
 - **Battle Value:** 1244 
 - [*More Info*](ghost/ghost_gst-11.md) 
@@ -58,6 +62,8 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6907/ghost-gst-50) 
 - **Battle Value:** 1114 
 - [*More Info*](ghost/ghost_gst-50.md) 
@@ -80,6 +86,8 @@
   - Void-Signature System 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8373/ghost-gst-10a-aurora) 
 - **Battle Value:** 1371 
 - [*More Info*](ghost/ghost_gst-10a_aurora.md) 
@@ -97,6 +105,8 @@
   - Chainsaw 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6906/ghost-gst-90) 
 - **Battle Value:** 1012 
 - [*More Info*](ghost/ghost_gst-90.md) 

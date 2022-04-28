@@ -16,6 +16,10 @@
   - Medium Laser × 2 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5871/warhammer-whm-6rk) 
 - **Battle Value:** 1621 
 

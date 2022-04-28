@@ -15,6 +15,8 @@
 - **Weapons:** 
   - Light PPC 
   - ER Medium Laser × 3 
+- **Design Quirks:** 
+  - Nimble Jumper 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5654/brigand-ldt-x4) 
 - **Battle Value:** 1038 
 

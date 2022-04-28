@@ -13,6 +13,9 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Medium Laser × 10 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3007/sphinx-standard) 
 - **Battle Value:** 2883 
 

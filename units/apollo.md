@@ -11,6 +11,8 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - Small Pulse Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/54/apollo-apl-1m) 
 - **Battle Value:** 1207 
 - [*More Info*](apollo/apollo_apl-1m.md) 
@@ -26,6 +28,8 @@
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 48) 
   - Small Pulse Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/55/apollo-apl-1r) 
 - **Battle Value:** 1148 
 - [*More Info*](apollo/apollo_apl-1r.md) 
@@ -41,6 +45,8 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/56/apollo-apl-2s) 
 - **Battle Value:** 1283 
 - [*More Info*](apollo/apollo_apl-2s.md) 
@@ -57,6 +63,8 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 48) 
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/57/apollo-apl-3t) 
 - **Battle Value:** 1240 
 - [*More Info*](apollo/apollo_apl-3t.md) 
@@ -75,6 +83,7 @@
 - **Equipment:** 
   - CASE II 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3706/apollo-apl-4m) 
 - **Battle Value:** 1302 

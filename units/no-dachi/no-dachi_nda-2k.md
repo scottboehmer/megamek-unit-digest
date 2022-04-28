@@ -19,6 +19,8 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4732/no-dachi-nda-2k) 
 - **Battle Value:** 1739 
 

@@ -18,6 +18,8 @@
   - Medium VSP Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1466/helios-hel-6x) 
 - **Battle Value:** 1761 
 

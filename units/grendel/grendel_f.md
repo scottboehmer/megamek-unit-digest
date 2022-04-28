@@ -16,6 +16,8 @@
   - ATM 6 (ammo: 20) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1291/grendel-mongrel-f) 
 - **Battle Value:** 1997 
 

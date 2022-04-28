@@ -13,6 +13,8 @@
 - **Weapons:** 
   - ER Large Laser 
   - RAC/2 × 2 (ammo: 45) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1895/lineholder-kw1-lh8-linebreaker) 
 - **Battle Value:** 1330 
 

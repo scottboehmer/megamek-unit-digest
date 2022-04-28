@@ -15,6 +15,9 @@
   - Small Laser × 2 
   - Flamer 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Life Support 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1136/flea-fle-15) 
 - **Battle Value:** 430 
 

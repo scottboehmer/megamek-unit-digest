@@ -13,6 +13,9 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Large Re-Engineered Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Nimble Jumper 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6934/spider-sdr-10k) 
 - **Battle Value:** 824 
 

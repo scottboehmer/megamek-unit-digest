@@ -19,6 +19,7 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8110/omnimarauder-mad-br-o) 
 - **Battle Value:** 2836 

@@ -18,6 +18,8 @@
   - MASC 
   - Supercharger 
 - **Design Quirks:** 
+  - Improved Sensors 
+  - Rugged (×2) 
   - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8312/rime-otter-c) 
 - **Battle Value:** 2718 

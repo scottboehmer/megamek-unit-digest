@@ -17,6 +17,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
+  - Barrel Fists 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/529/cerberus-mr-v3) 
 - **Battle Value:** 2094 
 

@@ -14,6 +14,8 @@
   - Medium Pulse Laser × 2 
   - Heavy Medium Laser × 2 
   - Heavy Small Laser × 2 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1069/fire-falcon-h) 
 - **Battle Value:** 1162 
 

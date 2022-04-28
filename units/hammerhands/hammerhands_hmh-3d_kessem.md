@@ -16,6 +16,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Barrel Fists 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5863/hammerhands-hmh-3d-kessem) 
 - **Battle Value:** 1413 
 

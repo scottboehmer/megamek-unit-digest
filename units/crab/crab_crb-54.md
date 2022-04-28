@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7510/crab-crb-54) 
 - **Battle Value:** 1964 
 

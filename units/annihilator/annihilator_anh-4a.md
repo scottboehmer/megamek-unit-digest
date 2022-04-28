@@ -15,6 +15,8 @@
   - Heavy PPC × 2 
   - LB 10-X AC × 2 (ammo: 40) 
   - Light AC/2 × 2 (ammo: 90) 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/42/annihilator-anh-4a) 
 - **Battle Value:** 1726 
 

@@ -18,6 +18,9 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Reinforced Legs 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1463/helepolis-hep-4h) 
 - **Battle Value:** 1366 
 

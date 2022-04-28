@@ -21,6 +21,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2628/raijin-ii-rjn-200-a) 
 - **Battle Value:** 1763 
 

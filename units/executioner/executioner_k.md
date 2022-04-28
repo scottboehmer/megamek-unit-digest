@@ -19,6 +19,8 @@
   - Light Active Probe 
   - MASC 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1209/gladiator-executioner-k) 
 - **Battle Value:** 3125 
 

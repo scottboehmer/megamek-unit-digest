@@ -15,6 +15,9 @@
   - Medium Pulse Laser × 5 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Searchlight 
+  - Stable 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3502/warhammer-iic-3) 
 - **Battle Value:** 2382 
 

@@ -15,6 +15,8 @@
   - Large Laser × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2698/rifleman-rfl-4d) 
 - **Battle Value:** 1173 
 

@@ -19,6 +19,8 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3184/thor-summoner-q) 
 - **Battle Value:** 2479 
 

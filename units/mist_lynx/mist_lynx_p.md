@@ -18,6 +18,7 @@
 - **Equipment:** 
   - Active Probe 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1835/koshi-mist-lynx-p) 
 - **Battle Value:** 1064 

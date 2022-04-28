@@ -22,6 +22,10 @@
   - Small Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566/charger-cgr-3kr) 
 - **Battle Value:** 2121 
 

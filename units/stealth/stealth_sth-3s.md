@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - MASC 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3057/stealth-sth-3s) 
 - **Battle Value:** 1577 
 

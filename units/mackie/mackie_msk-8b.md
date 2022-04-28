@@ -17,7 +17,9 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1974/mackie-msk-8b) 
 - **Battle Value:** 2019 

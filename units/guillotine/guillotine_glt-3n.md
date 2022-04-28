@@ -17,6 +17,8 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Searchlight 
 - **Sources:** TRO 3050 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1338/guillotine-glt-3n) 
 - **Battle Value:** 1418 
 

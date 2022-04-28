@@ -15,6 +15,8 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4726/ninja-to-njt-2) 
 - **Battle Value:** 1527 
 - [*More Info*](ninja-to/ninja-to_njt-2.md) 
@@ -32,6 +34,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4727/ninja-to-njt-3) 
 - **Battle Value:** 1605 
 - [*More Info*](ninja-to/ninja-to_njt-3.md) 
@@ -50,6 +54,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5687/ninja-to-njt-4) 
 - **Battle Value:** 1762 
 - [*More Info*](ninja-to/ninja-to_njt-4.md) 

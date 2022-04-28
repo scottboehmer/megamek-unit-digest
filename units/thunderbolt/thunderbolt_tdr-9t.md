@@ -16,6 +16,9 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3251/thunderbolt-tdr-9t) 
 - **Battle Value:** 1589 
 

@@ -20,7 +20,10 @@
   - C3i 
   - TAG 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2369/ostscout-ott-9cs) 
 - **Battle Value:** 930 
 

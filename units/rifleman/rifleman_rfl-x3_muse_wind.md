@@ -19,6 +19,8 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2708/rifleman-rfl-x3-muse-wind) 
 - **Battle Value:** 2012 
 

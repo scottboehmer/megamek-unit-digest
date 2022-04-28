@@ -17,6 +17,8 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6397/avalanche-avl-1oa) 
 - **Battle Value:** 1484 
 

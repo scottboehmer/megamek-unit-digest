@@ -14,6 +14,8 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/275/battle-hawk-bh-k305) 
 - **Battle Value:** 771 
 - [*More Info*](battle_hawk/battle_hawk_bh-k305.md) 
@@ -32,6 +34,8 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/276/battle-hawk-bh-k306) 
 - **Battle Value:** 926 
 - [*More Info*](battle_hawk/battle_hawk_bh-k306.md) 

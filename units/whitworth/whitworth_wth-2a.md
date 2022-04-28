@@ -19,6 +19,7 @@
   - CASE 
   - C3 Support 
 - **Design Quirks:** 
+  - Rugged (×2) 
   - Weak Legs 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3542/whitworth-wth-2a) 
 - **Battle Value:** 1055 

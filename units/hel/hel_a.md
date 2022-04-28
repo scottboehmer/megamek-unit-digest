@@ -20,6 +20,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6278/loki-mk-ii-hel-a) 
 - **Battle Value:** 2249 
 

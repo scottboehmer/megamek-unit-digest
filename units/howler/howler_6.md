@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - Searchlight 
 - **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7570/baboon-howler-6) 
 - **Battle Value:** 550 
 

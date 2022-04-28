@@ -21,6 +21,9 @@
   - ECM Suite 
   - CASE 
   - Cargo × 2 
+- **Design Quirks:** 
+  - Searchlight 
+  - Stable 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3506/warhammer-iic-7) 
 - **Battle Value:** 2915 
 

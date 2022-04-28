@@ -15,6 +15,8 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/720/crab-crb-c) 
 - **Battle Value:** 1135 
 

@@ -19,6 +19,7 @@
   - Guardian ECM Suite 
   - MASC 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2379/ostsol-otl-9m) 
 - **Battle Value:** 1871 

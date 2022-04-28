@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Gauss Rifle × 3 (ammo: 48) 
   - ER PPC 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/37/annihilator-anh-1g) 
 - **Battle Value:** 2274 
 

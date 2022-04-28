@@ -20,7 +20,10 @@
 - **Equipment:** 
   - C3i 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2876/seraph-c-srp-os-caelestis) 
 - **Battle Value:** 2788 
 

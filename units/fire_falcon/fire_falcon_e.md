@@ -14,6 +14,8 @@
   - ATM 12 (ammo: 5 Standard, 5 ER, 5 HE) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1067/fire-falcon-e) 
 - **Battle Value:** 1094 
 

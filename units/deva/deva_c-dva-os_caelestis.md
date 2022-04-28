@@ -20,6 +20,10 @@
   - C3i 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/891/deva-c-dva-os-caelestis) 
 - **Battle Value:** 1785 
 

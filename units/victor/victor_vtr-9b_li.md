@@ -14,6 +14,8 @@
 - **Weapons:** 
   - LRM 15 (ammo: 8) 
   - Medium Laser × 10 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3402/victor-vtr-9b-li) 
 - **Battle Value:** 1625 
 

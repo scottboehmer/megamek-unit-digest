@@ -15,6 +15,8 @@
   - Improved Heavy Large Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8262/kingfisher-i) 
 - **Battle Value:** 2348 
 

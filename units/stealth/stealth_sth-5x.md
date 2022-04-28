@@ -20,6 +20,8 @@
   - Clan Active Probe 
   - Chameleon LPS 
   - MASC 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5130/stealth-sth-5x) 
 - **Battle Value:** 2155 
 

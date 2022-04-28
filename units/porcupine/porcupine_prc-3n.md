@@ -16,6 +16,8 @@
   - Null-Signature System 
   - MASC 
   - Supercharger 
+- **Design Quirks:** 
+  - Distracting 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8102/porcupine-prc-3n) 
 - **Battle Value:** 511 
 

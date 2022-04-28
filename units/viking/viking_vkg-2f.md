@@ -17,6 +17,9 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Multi-Trac 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3417/viking-vkg-2f) 
 - **Battle Value:** 2079 
 

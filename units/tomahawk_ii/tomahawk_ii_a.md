@@ -18,6 +18,8 @@
   - AP Gauss Rifle × 4 (ammo: 80) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6304/tomahawk-ii-a) 
 - **Battle Value:** 2697 
 

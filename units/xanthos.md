@@ -16,7 +16,9 @@
   - SRM 4 (ammo: 25) 
   - Small Laser × 2 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Protected Actuators 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3603/xanthos-xnt-2o) 
 - **Battle Value:** 1300 
 - [*More Info*](xanthos/xanthos_xnt-2o.md) 
@@ -35,6 +37,8 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
   - Small Laser 
+- **Design Quirks:** 
+  - Improved Life Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3604/xanthos-xnt-3o) 
 - **Battle Value:** 1948 
 - [*More Info*](xanthos/xanthos_xnt-3o.md) 
@@ -56,6 +60,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Improved Life Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3605/xanthos-xnt-4o) 
 - **Battle Value:** 2548 
 - [*More Info*](xanthos/xanthos_xnt-4o.md) 
@@ -74,6 +80,8 @@
   - ER PPC 
   - Medium Pulse Laser × 5 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Improved Life Support 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3606/xanthos-xnt-5o) 
 - **Battle Value:** 2146 
 - [*More Info*](xanthos/xanthos_xnt-5o.md) 
@@ -95,6 +103,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Coolant Pod 
+- **Design Quirks:** 
+  - Improved Life Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6825/xanthos-xnt-6o) 
 - **Battle Value:** 2320 
 - [*More Info*](xanthos/xanthos_xnt-6o.md) 
@@ -113,6 +123,8 @@
   - Clan ER Medium Laser × 4 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Improved Life Support 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6824/xanthos-xnt-7o) 
 - **Battle Value:** 2620 
 - [*More Info*](xanthos/xanthos_xnt-7o.md) 

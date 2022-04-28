@@ -18,6 +18,9 @@
   - Machine Gun Array × 2 
   - Beagle Active Probe 
   - MASC 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2165/men-shen-ms1-oe) 
 - **Battle Value:** 1625 
 

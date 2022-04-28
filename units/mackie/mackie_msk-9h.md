@@ -18,7 +18,9 @@
   - Beagle Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975/mackie-msk-9h) 
 - **Battle Value:** 2022 

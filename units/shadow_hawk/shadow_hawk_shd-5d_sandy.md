@@ -16,6 +16,10 @@
   - Light PPC 
 - **Equipment:** 
   - TAG 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5806/shadow-hawk-shd-5d-sandy) 
 - **Battle Value:** 1517 
 

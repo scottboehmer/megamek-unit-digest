@@ -15,7 +15,9 @@
   - PPC 
   - Large Laser × 2 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Protected Actuators 
+  - Rugged (×2) 
   - Oversized 
 - **Sources:** RS 3075U , [Master Unit List](http://masterunitlist.info/Unit/Details/4556/mackie-msk-7a) 
 - **Battle Value:** 1900 

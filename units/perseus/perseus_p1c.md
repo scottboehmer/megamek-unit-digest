@@ -18,6 +18,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Easy to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4811/perseus-p1c) 
 - **Battle Value:** 1644 
 

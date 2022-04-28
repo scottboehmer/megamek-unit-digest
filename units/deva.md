@@ -17,6 +17,10 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/885/deva-c-dva-o-invictus) 
 - **Battle Value:** 1584 
 - [*More Info*](deva/deva_c-dva-o_invictus.md) 
@@ -41,6 +45,10 @@
   - C3i 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/886/deva-c-dva-oa-dominus) 
 - **Battle Value:** 1727 
 - [*More Info*](deva/deva_c-dva-oa_dominus.md) 
@@ -62,6 +70,10 @@
   - Guardian ECM Suite 
   - C3i 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/887/deva-c-dva-ob-infernus) 
 - **Battle Value:** 1713 
 - [*More Info*](deva/deva_c-dva-ob_infernus.md) 
@@ -85,6 +97,10 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/888/deva-c-dva-oc-comminus) 
 - **Battle Value:** 1749 
 - [*More Info*](deva/deva_c-dva-oc_comminus.md) 
@@ -107,6 +123,10 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/889/deva-c-dva-od-luminos) 
 - **Battle Value:** 1711 
 - [*More Info*](deva/deva_c-dva-od_luminos.md) 
@@ -128,6 +148,10 @@
   - C3i 
   - Supercharger 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/884/deva-c-dva-o-achillius) 
 - **Battle Value:** 1595 
 - [*More Info*](deva/deva_c-dva-o_achilleus.md) 
@@ -149,6 +173,10 @@
 - **Equipment:** 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/890/deva-c-dva-oe-eminus) 
 - **Battle Value:** 1686 
 - [*More Info*](deva/deva_c-dva-oe_eminus.md) 
@@ -171,6 +199,10 @@
   - C3i 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/891/deva-c-dva-os-caelestis) 
 - **Battle Value:** 1785 
 - [*More Info*](deva/deva_c-dva-os_caelestis.md) 
@@ -194,6 +226,10 @@
   - MASS 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/892/deva-c-dva-ou-exanimus) 
 - **Battle Value:** 1685 
 - [*More Info*](deva/deva_c-dva-ou_exanimus.md) 

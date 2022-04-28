@@ -15,6 +15,8 @@
   - Light PPC × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/719/crab-crb-45) 
 - **Battle Value:** 1342 
 

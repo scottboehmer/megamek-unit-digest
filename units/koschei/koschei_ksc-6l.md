@@ -18,6 +18,7 @@
   - CASE II 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Life Support 
   - Weak Head Armor (1) 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6881/koschei-ksc-6l) 
 - **Battle Value:** 1465 

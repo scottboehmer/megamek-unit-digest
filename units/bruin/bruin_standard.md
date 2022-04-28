@@ -19,6 +19,8 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/430/bruin-standard) 
 - **Battle Value:** 2630 
 

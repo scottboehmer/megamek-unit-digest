@@ -21,6 +21,7 @@
   - MASC 
   - CASE 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3317/tundra-wolf-3) 
 - **Battle Value:** 3292 

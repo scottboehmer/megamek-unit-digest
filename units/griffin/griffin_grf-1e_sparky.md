@@ -14,6 +14,9 @@
 - **Weapons:** 
   - PPC 
   - Medium Laser × 5 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1295/griffin-grf-1e-sparky) 
 - **Battle Value:** 1449 
 

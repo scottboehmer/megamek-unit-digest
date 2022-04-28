@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2247/naga-a) 
 - **Battle Value:** 1791 
 

@@ -15,6 +15,8 @@
   - Heavy Large Laser 
   - Medium Pulse Laser × 2 
   - Micro Pulse Laser × 4 
+- **Design Quirks:** 
+  - Bad Reputation (Clan) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4829/pinion-standard) 
 - **Battle Value:** 1646 
 

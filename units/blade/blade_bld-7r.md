@@ -14,6 +14,8 @@
   - RAC/5 (ammo: 60) 
   - ER Medium Laser 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6929/blade-bld-7r) 
 - **Battle Value:** 1227 
 

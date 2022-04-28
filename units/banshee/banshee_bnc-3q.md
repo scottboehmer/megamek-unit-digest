@@ -13,6 +13,9 @@
 - **Weapons:** 
   - AC/20 (ammo: 30) 
   - Small Laser 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/244/banshee-bnc-3q) 
 - **Battle Value:** 1394 
 

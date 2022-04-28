@@ -15,6 +15,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3770/awesome-aws-9q-klatt) 
 - **Battle Value:** 1805 
 

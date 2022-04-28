@@ -17,7 +17,10 @@
 - **Equipment:** 
   - C3i 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2364/ostscout-ott-10cs) 
 - **Battle Value:** 862 
 

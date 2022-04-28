@@ -19,6 +19,9 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3236/thunderbolt-tdr-11se) 
 - **Battle Value:** 1754 
 

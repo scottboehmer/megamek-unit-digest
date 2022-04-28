@@ -14,6 +14,8 @@
   - PPC × 2 
   - LRM 10 (ammo: 12) 
   - SRM 6 (ammo: 15) 
+- **Design Quirks:** 
+  - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5429/ymir-bwp-2e) 
 - **Battle Value:** 1393 
 

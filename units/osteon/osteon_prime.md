@@ -19,7 +19,9 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Multi-Trac 
   - Protected Actuators 
+  - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4767/osteon-prime) 
 - **Battle Value:** 3073 
 

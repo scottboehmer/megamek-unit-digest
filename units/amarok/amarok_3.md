@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Inner Sphere Spikes × 6 
   - CASE II 
+- **Design Quirks:** 
+  - Stable 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8241/amarok-3) 
 - **Battle Value:** 2675 
 

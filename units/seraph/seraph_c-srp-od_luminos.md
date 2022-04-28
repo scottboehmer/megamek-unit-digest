@@ -22,7 +22,10 @@
 - **Equipment:** 
   - C3i 
 - **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
   - Narrow/Low Profile 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2873/seraph-c-srp-od-luminos) 
 - **Battle Value:** 2291 
 

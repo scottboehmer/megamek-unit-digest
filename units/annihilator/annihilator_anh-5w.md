@@ -16,6 +16,8 @@
   - Clan Medium Pulse Laser × 4 
 - **Equipment:** 
   - Clan CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8386/annihilator-anh-5w) 
 - **Battle Value:** 2595 
 

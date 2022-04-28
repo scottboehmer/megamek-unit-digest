@@ -20,6 +20,9 @@
   - CASE 
   - Targeting Computer 
   - C3 Boosted Support 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Bad Reputation (Inner Sphere) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6844/banshee-bnc-9s2) 
 - **Battle Value:** 2426 
 

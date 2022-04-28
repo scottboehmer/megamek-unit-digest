@@ -17,6 +17,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Cramped Cockpit 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3226/thunder-stallion-3) 
 - **Battle Value:** 2631 
 

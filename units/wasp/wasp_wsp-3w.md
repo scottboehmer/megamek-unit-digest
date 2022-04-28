@@ -15,6 +15,7 @@
   - Small Pulse Laser × 2 
   - Small Laser × 4 
 - **Design Quirks:** 
+  - Easy to Maintain 
   - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3530/wasp-wsp-3w) 
 - **Battle Value:** 342 

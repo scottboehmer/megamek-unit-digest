@@ -14,6 +14,9 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3372/valkyrie-vlk-qa) 
 - **Battle Value:** 723 
 

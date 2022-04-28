@@ -15,6 +15,8 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Sensors 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8182/fire-falcon-l) 
 - **Battle Value:** 1665 
 

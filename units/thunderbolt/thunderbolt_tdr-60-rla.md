@@ -18,6 +18,9 @@
   - Medium Pulse Laser × 2 
   - Small Pulse Laser 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3243/thunderbolt-tdr-60-rla) 
 - **Battle Value:** 1975 
 

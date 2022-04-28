@@ -14,6 +14,9 @@
 - **Weapons:** 
   - Medium Laser 
   - Flamer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Nimble Jumper 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3008/spider-sdr-5d) 
 - **Battle Value:** 524 
 

@@ -16,6 +16,9 @@
   - Sword 
 - **Equipment:** 
   - Partial Wing 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Nimble Jumper 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6933/spider-sdr-8xr) 
 - **Battle Value:** 754 
 

@@ -19,6 +19,10 @@
   - Beagle Active Probe 
   - C3i 
   - TAG 
+- **Design Quirks:** 
+  - Improved Communications 
+  - Improved Sensors 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2576/preta-c-prt-oc-comminus) 
 - **Battle Value:** 1187 
 

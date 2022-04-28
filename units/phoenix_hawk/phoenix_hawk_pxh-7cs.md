@@ -19,6 +19,7 @@
   - Full Head Ejection System 
   - C3i 
 - **Design Quirks:** 
+  - Improved Communications 
   - Command ’Mech 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2507/phoenix-hawk-pxh-7cs) 
 - **Battle Value:** 1281 

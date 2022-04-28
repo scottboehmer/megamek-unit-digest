@@ -17,6 +17,9 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3375/valkyrie-vlk-qd2) 
 - **Battle Value:** 638 
 

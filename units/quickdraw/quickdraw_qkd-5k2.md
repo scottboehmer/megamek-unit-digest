@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Medium Laser × 6 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4886/quickdraw-qkd-5k2) 
 - **Battle Value:** 1312 
 

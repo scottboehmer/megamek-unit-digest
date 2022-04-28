@@ -20,6 +20,7 @@
   - Light TAG 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1832/koshi-mist-lynx-f) 
 - **Battle Value:** 1173 

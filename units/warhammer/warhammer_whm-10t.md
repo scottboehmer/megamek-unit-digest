@@ -14,6 +14,10 @@
 - **Weapons:** 
   - PPC × 2 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3481/warhammer-whm-10t) 
 - **Battle Value:** 1891 
 

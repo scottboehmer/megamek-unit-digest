@@ -18,6 +18,9 @@
   - Partial Wing 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6564/jade-hawk-jhk-03) 
 - **Battle Value:** 2160 
 - [*More Info*](jade_hawk/jade_hawk_jhk-03.md) 
@@ -37,6 +40,9 @@
   - Inner Sphere Claw × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6565/jade-hawk-jhk-04) 
 - **Battle Value:** 2102 
 - [*More Info*](jade_hawk/jade_hawk_jhk-04.md) 
@@ -58,6 +64,9 @@
   - CASE 
   - Partial Wing 
   - Supercharger 
+- **Design Quirks:** 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6566/jade-hawk-standard) 
 - **Battle Value:** 2523 
 - [*More Info*](jade_hawk/jade_hawk_standard.md) 
@@ -76,6 +85,9 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6567/jade-hawk-2) 
 - **Battle Value:** 2455 
 - [*More Info*](jade_hawk/jade_hawk_2.md) 
@@ -95,6 +107,9 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Reinforced Legs 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6568/jade-hawk-3) 
 - **Battle Value:** 2498 
 - [*More Info*](jade_hawk/jade_hawk_3.md) 

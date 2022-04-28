@@ -17,6 +17,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Improved Targeting (Short) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7646/spartan-c) 
 - **Battle Value:** 2514 

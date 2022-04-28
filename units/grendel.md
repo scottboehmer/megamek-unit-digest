@@ -16,6 +16,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1293/grendel-mongrel-prime) 
 - **Battle Value:** 2290 
 - [*More Info*](grendel/grendel_prime.md) 
@@ -35,6 +37,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1286/grendel-mongrel-a) 
 - **Battle Value:** 2031 
 - [*More Info*](grendel/grendel_a.md) 
@@ -55,6 +59,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1287/grendel-mongrel-b) 
 - **Battle Value:** 1903 
 - [*More Info*](grendel/grendel_b.md) 
@@ -74,6 +80,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1288/grendel-mongrel-c) 
 - **Battle Value:** 1465 
 - [*More Info*](grendel/grendel_c.md) 
@@ -95,6 +103,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1289/grendel-mongrel-d) 
 - **Battle Value:** 2212 
 - [*More Info*](grendel/grendel_d.md) 
@@ -114,6 +124,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1290/grendel-mongrel-e) 
 - **Battle Value:** 1806 
 - [*More Info*](grendel/grendel_e.md) 
@@ -134,6 +146,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1292/grendel-mongrel-h) 
 - **Battle Value:** 1965 
 - [*More Info*](grendel/grendel_h.md) 
@@ -152,6 +166,8 @@
   - ATM 6 (ammo: 20) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1291/grendel-mongrel-f) 
 - **Battle Value:** 1997 
 - [*More Info*](grendel/grendel_f.md) 
@@ -170,6 +186,8 @@
   - RAC/2 (ammo: 45) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7457/grendel-mongrel-m) 
 - **Battle Value:** 1744 
 - [*More Info*](grendel/grendel_m.md) 
@@ -189,6 +207,8 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - Supercharger 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7459/grendel-mongrel-g) 
 - **Battle Value:** 2209 
 - [*More Info*](grendel/grendel_g.md) 
@@ -208,6 +228,8 @@
   - ProtoMech AC/4 (ammo: 20) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7458/grendel-mongrel-i) 
 - **Battle Value:** 1675 
 - [*More Info*](grendel/grendel_i.md) 
@@ -227,6 +249,8 @@
   - Improved Heavy Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7460/grendel-mongrel-j) 
 - **Battle Value:** 1811 
 - [*More Info*](grendel/grendel_j.md) 
@@ -248,6 +272,8 @@
   - Improved Heavy Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7456/grendel-mongrel-t) 
 - **Battle Value:** 1936 
 - [*More Info*](grendel/grendel_t.md) 

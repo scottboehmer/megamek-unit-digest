@@ -17,6 +17,10 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3484/warhammer-whm-5l) 
 - **Battle Value:** 1896 
 

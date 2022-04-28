@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Good Reputation 
 - **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1187/gallowglas-gal-4glsa) 
 - **Battle Value:** 2017 
 
