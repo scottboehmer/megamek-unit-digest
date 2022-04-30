@@ -17,6 +17,9 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Non-Standard Parts 
+  - Poor Workmanship 
+  - Poor Life Support 
   - Weak Legs 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1078/firebee-frb-1e-wam-b) 
 - **Battle Value:** 534 

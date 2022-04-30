@@ -12,6 +12,7 @@
   - Medium Laser × 2 
   - Small Laser 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/591/cicada-cda-2a) 
 - **Battle Value:** 659 
@@ -29,6 +30,7 @@
   - Medium Laser × 2 
   - Flamer 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/592/cicada-cda-2b) 
 - **Battle Value:** 626 
@@ -46,6 +48,7 @@
   - PPC 
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/593/cicada-cda-3c) 
 - **Battle Value:** 771 
@@ -66,6 +69,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/596/cicada-cda-3m) 
 - **Battle Value:** 812 
@@ -84,6 +88,7 @@
   - ER PPC 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/594/cicada-cda-3f) 
 - **Battle Value:** 1329 
@@ -104,6 +109,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/595/cicada-cda-3g) 
 - **Battle Value:** 1270 
@@ -122,6 +128,7 @@
   - Medium Laser × 2 
   - Small Pulse Laser 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/597/cicada-cda-3ma) 
 - **Battle Value:** 1158 
@@ -139,6 +146,7 @@
   - Heavy PPC 
   - ER Medium Laser × 4 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/598/cicada-cda-3p) 
 - **Battle Value:** 1502 

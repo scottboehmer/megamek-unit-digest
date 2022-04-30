@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2) 
 - **Battle Value:** 937 

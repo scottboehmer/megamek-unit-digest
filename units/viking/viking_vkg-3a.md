@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Multi-Trac 
+  - No/Minimal Arms 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3419/viking-vkg-3a) 
 - **Battle Value:** 1849 
 

@@ -13,6 +13,9 @@
   - Large Laser 
   - Medium Laser × 2 
   - LRM 5 × 4 (ammo: 48) 
+- **Design Quirks:** 
+  - Poor Targeting (Long) 
+  - Prototype 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5583/crossbow-crs-x) 
 - **Battle Value:** 969 
 - [*More Info*](crossbow/crossbow_crs-x.md) 
@@ -29,6 +32,8 @@
   - PPC 
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Poor Targeting (Long) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/733/crossbow-crs-6b) 
 - **Battle Value:** 1210 
 - [*More Info*](crossbow/crossbow_crs-6b.md) 
@@ -45,6 +50,8 @@
   - PPC 
   - AC/10 (ammo: 10) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Poor Targeting (Long) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734/crossbow-crs-6c) 
 - **Battle Value:** 1204 
 - [*More Info*](crossbow/crossbow_crs-6c.md) 
@@ -176,6 +183,8 @@
   - ER Large Laser 
   - Streak SRM 6 × 2 (ammo: 30) 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Poor Targeting (Long) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/735/crossbow-crs-9a) 
 - **Battle Value:** 1583 
 - [*More Info*](crossbow/crossbow_crs-9a.md) 

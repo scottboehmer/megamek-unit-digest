@@ -23,6 +23,8 @@
   - Modular Armor × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Non-Standard Parts 
+  - Prototype 
 - **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5563/trebuchet-tbt-xk7) 
 - **Battle Value:** 1549 
 

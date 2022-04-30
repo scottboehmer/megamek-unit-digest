@@ -17,6 +17,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1965/lupus-prime) 
 - **Battle Value:** 2428 
 

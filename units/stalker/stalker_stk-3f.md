@@ -17,6 +17,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Combat Computer 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3035/stalker-stk-3f) 
 - **Battle Value:** 1559 
 

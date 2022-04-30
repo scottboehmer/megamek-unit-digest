@@ -13,6 +13,7 @@
   - ER Large Laser × 3 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2306/nova-cat-prime) 
 - **Battle Value:** 2530 
 - [*More Info*](nova_cat/nova_cat_prime.md) 
@@ -32,6 +33,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2299/nova-cat-a) 
 - **Battle Value:** 2629 
 - [*More Info*](nova_cat/nova_cat_a.md) 
@@ -51,6 +53,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2300/nova-cat-b) 
 - **Battle Value:** 2492 
 - [*More Info*](nova_cat/nova_cat_b.md) 
@@ -71,6 +74,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2301/nova-cat-c) 
 - **Battle Value:** 1944 
 - [*More Info*](nova_cat/nova_cat_c.md) 
@@ -91,6 +95,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2302/nova-cat-d) 
 - **Battle Value:** 2084 
 - [*More Info*](nova_cat/nova_cat_d.md) 
@@ -111,6 +116,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #23 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8422/nova-cat-m) 
 - **Battle Value:** 2024 
 - [*More Info*](nova_cat/nova_cat_m.md) 
@@ -130,6 +136,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2303/nova-cat-e) 
 - **Battle Value:** 2191 
 - [*More Info*](nova_cat/nova_cat_e.md) 
@@ -151,6 +158,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2304/nova-cat-f) 
 - **Battle Value:** 2706 
 - [*More Info*](nova_cat/nova_cat_f.md) 
@@ -173,6 +181,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2305/nova-cat-g) 
 - **Battle Value:** 2522 
 - [*More Info*](nova_cat/nova_cat_g.md) 
@@ -195,6 +204,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6869/nova-cat-h) 
 - **Battle Value:** 2452 
 - [*More Info*](nova_cat/nova_cat_h.md) 
@@ -215,6 +225,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6870/nova-cat-i) 
 - **Battle Value:** 2918 
 - [*More Info*](nova_cat/nova_cat_i.md) 
@@ -234,6 +245,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8421/nova-cat-t) 
 - **Battle Value:** 2855 
 - [*More Info*](nova_cat/nova_cat_t.md) 

@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Protected Actuators 
+  - No/Minimal Arms 
 - **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6515/stalker-ii-stk-9a) 
 - **Battle Value:** 2261 
 - [*More Info*](stalker_ii/stalker_ii_stk-9a.md) 

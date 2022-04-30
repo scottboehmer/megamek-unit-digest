@@ -15,6 +15,7 @@
   - SRM 6 × 4 (ammo: 60) 
   - Medium Laser × 4 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/479/catapult-cplt-c1-jenny-butterbee) 
 - **Battle Value:** 1242 

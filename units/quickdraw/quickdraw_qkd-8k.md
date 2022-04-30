@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
+  - Exposed Actuators 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2616/quickdraw-qkd-8k) 
 - **Battle Value:** 1583 
 

@@ -22,6 +22,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Source:** Jihad 
 - **Battle Value:** 2078 
 

@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Multi-Trac 
+  - Exposed Actuators 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1234/goliath-gol-4s) 
 - **Battle Value:** 1923 
 

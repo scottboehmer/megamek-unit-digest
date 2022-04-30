@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7396/hornet-hnt-181) 
 - **Battle Value:** 398 

@@ -15,6 +15,7 @@
 - **Equipment:** 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1479/hellstar-2) 
 - **Battle Value:** 3545 

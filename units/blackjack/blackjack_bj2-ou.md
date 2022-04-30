@@ -17,6 +17,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - HarJel × 5 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386/blackjack-bj2-ou) 
 - **Battle Value:** 1223 
 

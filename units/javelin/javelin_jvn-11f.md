@@ -16,6 +16,8 @@
   - Machine Gun × 6 (ammo: 200) 
 - **Equipment:** 
   - Machine Gun Array × 2 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1680/javelin-jvn-11f) 
 - **Battle Value:** 789 
 

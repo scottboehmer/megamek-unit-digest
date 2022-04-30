@@ -120,6 +120,8 @@
   - Ultra AC/5 × 2 (ammo: 40) 
   - Medium Laser × 4 
   - Machine Gun × 4 (ammo: 100) 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/378/blackjack-bj2-o) 
 - **Battle Value:** 1201 
 - [*More Info*](blackjack/blackjack_bj2-o.md) 
@@ -137,6 +139,8 @@
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/379/blackjack-bj2-oa) 
 - **Battle Value:** 1318 
 - [*More Info*](blackjack/blackjack_bj2-oa.md) 
@@ -156,6 +160,8 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/380/blackjack-bj2-ob) 
 - **Battle Value:** 1323 
 - [*More Info*](blackjack/blackjack_bj2-ob.md) 
@@ -173,6 +179,8 @@
   - LB 10-X AC × 2 (ammo: 10 Standard, 10 Cluster) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/381/blackjack-bj2-oc) 
 - **Battle Value:** 1189 
 - [*More Info*](blackjack/blackjack_bj2-oc.md) 
@@ -192,6 +200,8 @@
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/382/blackjack-bj2-od) 
 - **Battle Value:** 1375 
 - [*More Info*](blackjack/blackjack_bj2-od.md) 
@@ -210,6 +220,8 @@
   - Light Gauss Rifle (ammo: 32) 
   - LRM 10 (ammo: 24) 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/383/blackjack-bj2-oe) 
 - **Battle Value:** 1260 
 - [*More Info*](blackjack/blackjack_bj2-oe.md) 
@@ -228,6 +240,8 @@
   - Clan Large Pulse Laser 
   - Clan Medium Pulse Laser × 3 
   - Clan ER Small Laser 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/385/blackjack-bj2-or) 
 - **Battle Value:** 2010 
 - [*More Info*](blackjack/blackjack_bj2-or.md) 
@@ -246,6 +260,8 @@
   - Ultra AC/10 (ammo: 20) 
   - ER Medium Laser × 2 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/384/blackjack-bj2-of) 
 - **Battle Value:** 1405 
 - [*More Info*](blackjack/blackjack_bj2-of.md) 
@@ -283,6 +299,8 @@
 - **Weapons:** 
   - Light PPC w/ PPC Capacitor × 4 
   - Streak SRM 4 × 2 (ammo: 25) 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/387/blackjack-bj2-ox) 
 - **Battle Value:** 1320 
 - [*More Info*](blackjack/blackjack_bj2-ox.md) 
@@ -302,6 +320,8 @@
   - ER Small Laser 
 - **Equipment:** 
   - HarJel × 5 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386/blackjack-bj2-ou) 
 - **Battle Value:** 1223 
 - [*More Info*](blackjack/blackjack_bj2-ou.md) 
@@ -354,6 +374,8 @@
 - **Weapons:** 
   - RAC/5 × 2 (ammo: 100) 
   - Small Re-Engineered Laser 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6908/blackjack-bj2-og) 
 - **Battle Value:** 1448 
 - [*More Info*](blackjack/blackjack_bj2-og.md) 

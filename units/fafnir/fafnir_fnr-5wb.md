@@ -15,6 +15,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5719/fafnir-fnr-5wb) 
 - **Battle Value:** 2449 
 

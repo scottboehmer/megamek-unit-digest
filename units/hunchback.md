@@ -384,6 +384,7 @@
   - CASE II 
   - TAG 
 - **Design Quirks:** 
+  - Poor Sealing 
   - Bad Reputation (Inner Sphere) 
   - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4338/hunchback-hbk-7r) 

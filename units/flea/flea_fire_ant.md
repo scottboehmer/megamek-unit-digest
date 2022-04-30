@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1135/flea-fire-ant) 
 - **Battle Value:** 332 
 

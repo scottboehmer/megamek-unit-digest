@@ -14,6 +14,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3010/spider-sdr-5v) 
 - **Battle Value:** 622 
 - [*More Info*](spider/spider_sdr-5v.md) 
@@ -33,6 +34,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3009/spider-sdr-5k) 
 - **Battle Value:** 503 
 - [*More Info*](spider/spider_sdr-5k.md) 
@@ -52,6 +54,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3008/spider-sdr-5d) 
 - **Battle Value:** 524 
 - [*More Info*](spider/spider_sdr-5d.md) 
@@ -70,6 +73,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3015/spider-sdr-7m) 
 - **Battle Value:** 621 
 - [*More Info*](spider/spider_sdr-7m.md) 
@@ -91,6 +95,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3020/spider-sdr-c) 
 - **Battle Value:** 616 
 - [*More Info*](spider/spider_sdr-c.md) 
@@ -109,6 +114,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3017/spider-sdr-8m) 
 - **Battle Value:** 621 
 - [*More Info*](spider/spider_sdr-8m.md) 
@@ -127,6 +133,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3011/spider-sdr-7k) 
 - **Battle Value:** 752 
 - [*More Info*](spider/spider_sdr-7k.md) 
@@ -145,6 +152,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3012/spider-sdr-7k2) 
 - **Battle Value:** 884 
 - [*More Info*](spider/spider_sdr-7k2.md) 
@@ -165,6 +173,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3013/spider-sdr-7kc) 
 - **Battle Value:** 732 
 - [*More Info*](spider/spider_sdr-7kc.md) 
@@ -185,6 +194,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3014/spider-sdr-7kr) 
 - **Battle Value:** 775 
 - [*More Info*](spider/spider_sdr-7kr.md) 
@@ -205,6 +215,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3019/spider-sdr-8x) 
 - **Battle Value:** 765 
 - [*More Info*](spider/spider_sdr-8x.md) 
@@ -224,6 +235,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3016/spider-sdr-8k) 
 - **Battle Value:** 1007 
 - [*More Info*](spider/spider_sdr-8k.md) 
@@ -242,6 +254,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3018/spider-sdr-8r) 
 - **Battle Value:** 694 
 - [*More Info*](spider/spider_sdr-8r.md) 
@@ -260,6 +273,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8306/spider-sdr-9m) 
 - **Battle Value:** 687 
 - [*More Info*](spider/spider_sdr-9m.md) 
@@ -281,6 +295,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6933/spider-sdr-8xr) 
 - **Battle Value:** 754 
 - [*More Info*](spider/spider_sdr-8xr.md) 
@@ -299,6 +314,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6934/spider-sdr-10k) 
 - **Battle Value:** 824 
 - [*More Info*](spider/spider_sdr-10k.md) 

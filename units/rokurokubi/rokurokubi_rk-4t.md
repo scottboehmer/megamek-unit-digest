@@ -16,6 +16,7 @@
   - Sword 
 - **Design Quirks:** 
   - Protected Actuators 
+  - No Ejection System 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6392/rokurokubi-rk-4t) 
 - **Battle Value:** 998 
 

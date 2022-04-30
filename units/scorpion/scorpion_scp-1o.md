@@ -14,6 +14,7 @@
   - ER PPC 
   - SRM 6 (ammo: 15) 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o) 
 - **Battle Value:** 1098 

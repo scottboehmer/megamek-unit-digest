@@ -12,6 +12,7 @@
 - **Weapons:** 
   - Large Laser 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1687/jenner-jr7-a) 
 - **Battle Value:** 712 
@@ -29,6 +30,7 @@
 - **Weapons:** 
   - Medium Laser × 4 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1693/jenner-jr7-f) 
 - **Battle Value:** 1011 
@@ -47,6 +49,7 @@
   - Medium Laser × 4 
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1692/jenner-jr7-d) 
 - **Battle Value:** 875 
@@ -63,6 +66,7 @@
 - **Weapons:** 
   - Medium Laser × 6 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7796/jenner-jr7-f-smith) 
 - **Battle Value:** 1070 
@@ -81,6 +85,7 @@
   - Medium Laser × 2 
   - Narc (ammo: 18) 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1696/jenner-jr7-k-grace) 
 - **Battle Value:** 702 
@@ -101,6 +106,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1694/jenner-jr7-k) 
 - **Battle Value:** 889 
@@ -122,6 +128,7 @@
   - C3 Support 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1688/jenner-jr7-c) 
 - **Battle Value:** 832 
@@ -142,6 +149,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1697/jenner-jr7-k-samuli) 
 - **Battle Value:** 1001 
@@ -162,6 +170,7 @@
   - CASE 
   - C3 Support 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1695/jenner-jr7-k-grace-ii) 
 - **Battle Value:** 787 
@@ -181,6 +190,7 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1690/jenner-jr7-c3) 
 - **Battle Value:** 1069 
@@ -203,6 +213,7 @@
   - CASE 
   - C3 Support 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1689/jenner-jr7-c2) 
 - **Battle Value:** 769 
@@ -225,6 +236,7 @@
   - Angel ECM Suite 
   - Null-Signature System 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1686/jenner-jr10-x) 
 - **Battle Value:** 1269 
@@ -246,6 +258,7 @@
   - CASE 
   - C3 Boosted Support 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1691/jenner-jr7-c4) 
 - **Battle Value:** 703 
@@ -267,6 +280,7 @@
   - Beagle Active Probe 
   - CASE II 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8247/jenner-jr7-n) 
 - **Battle Value:** 1233 

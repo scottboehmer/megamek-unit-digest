@@ -16,6 +16,8 @@
   - TSEMP OS 
 - **Equipment:** 
   - Drone Operating System 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6709/celerity-clr-04-r) 
 - **Battle Value:** 384 
 

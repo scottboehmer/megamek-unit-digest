@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Exposed Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/671/commando-com-2dr) 
 - **Battle Value:** 563 
 

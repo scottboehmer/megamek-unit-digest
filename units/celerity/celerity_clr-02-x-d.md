@@ -16,6 +16,9 @@
   - MASC 
   - Drone Operating System 
   - C3i 
+- **Design Quirks:** 
+  - Prototype 
+  - Exposed Actuators 
 - **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5553/celerity-clr-02-x-d) 
 - **Battle Value:** 157 
 

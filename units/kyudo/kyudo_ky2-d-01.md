@@ -16,6 +16,7 @@
   - LRM 10 (ammo: 12) 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Exposed Actuators 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1850/kyudo-ky2-d-01) 
 - **Battle Value:** 748 
 

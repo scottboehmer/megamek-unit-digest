@@ -16,6 +16,8 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Prototype 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7610/omni-corvis-prime) 
 - **Battle Value:** 1678 
 

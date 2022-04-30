@@ -21,6 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - No/Minimal Arms 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3730/argus-ags-4d) 
 - **Battle Value:** 1638 
 

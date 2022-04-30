@@ -15,6 +15,8 @@
   - Light PPC × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5720/fafnir-fnr-6u) 
 - **Battle Value:** 2234 
 

@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
+  - No/Minimal Arms 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/913/dragon-fire-dgr-3f) 
 - **Battle Value:** 1855 
 - [*More Info*](dragon_fire/dragon_fire_dgr-3f.md) 
@@ -40,6 +41,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
+  - No/Minimal Arms 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/914/dragon-fire-dgr-4f) 
 - **Battle Value:** 1900 
 - [*More Info*](dragon_fire/dragon_fire_dgr-4f.md) 
@@ -62,6 +64,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
+  - No/Minimal Arms 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/915/dragon-fire-dgr-6fc) 
 - **Battle Value:** 1858 
 - [*More Info*](dragon_fire/dragon_fire_dgr-6fc.md) 
@@ -86,6 +89,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
+  - No/Minimal Arms 
 - **Sources:** JTP Tharkad , [Master Unit List](http://masterunitlist.info/Unit/Details/916/dragon-fire-dgr-6fc2-gregory) 
 - **Battle Value:** 2230 
 - [*More Info*](dragon_fire/dragon_fire_dgr-6fc2_gregory.md) 

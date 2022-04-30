@@ -19,6 +19,7 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Non-Standard Parts 
 - **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5601/chameleon-cln-7vq-q-mech) 
 - **Battle Value:** 2113 
 

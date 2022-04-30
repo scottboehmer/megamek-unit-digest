@@ -18,6 +18,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1898/locust-lct-1l) 
 - **Battle Value:** 474 

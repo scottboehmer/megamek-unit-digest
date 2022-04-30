@@ -15,6 +15,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Searchlight 
+  - Poor Workmanship 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7181/swordsman-swd-1) 
 - **Battle Value:** 692 
@@ -36,6 +37,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Searchlight 
+  - Poor Workmanship 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7182/swordsman-swd-2) 
 - **Battle Value:** 803 

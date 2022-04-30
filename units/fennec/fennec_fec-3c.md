@@ -15,6 +15,8 @@
   - Light PPC × 2 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1037/fennec-fec-3c) 
 - **Battle Value:** 1551 
 

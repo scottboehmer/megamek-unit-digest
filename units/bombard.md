@@ -11,6 +11,7 @@
 - **Weapons:** 
   - AC/20 × 2 (ammo: 20) 
 - **Design Quirks:** 
+  - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/418/bombard-bmb-010) 
 - **Battle Value:** 850 
@@ -31,6 +32,7 @@
   - Spikes × 2 
   - CASE 
 - **Design Quirks:** 
+  - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/419/bombard-bmb-013) 
 - **Battle Value:** 1019 
@@ -50,6 +52,7 @@
   - M-Pod × 3 
   - Supercharger 
 - **Design Quirks:** 
+  - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/420/bombard-bmb-1x) 
 - **Battle Value:** 1648 

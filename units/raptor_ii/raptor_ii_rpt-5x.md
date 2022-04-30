@@ -19,6 +19,9 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Void-Signature System 
+- **Design Quirks:** 
+  - No/Minimal Arms 
+  - No Ejection System 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2660/raptor-ii-rpt-5x) 
 - **Battle Value:** 1124 
 

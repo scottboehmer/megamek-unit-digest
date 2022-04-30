@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Exposed Actuators 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1852/kyudo-ky2-d-03) 
 - **Battle Value:** 1131 
 

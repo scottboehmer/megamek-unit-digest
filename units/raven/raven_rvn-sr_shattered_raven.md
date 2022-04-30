@@ -19,6 +19,8 @@
   - Beagle Active Probe 
   - Machine Gun Array 
   - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2670/raven-rvn-sr-shattered-raven) 
 - **Battle Value:** 581 
 

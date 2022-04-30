@@ -13,6 +13,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LRM 15 (ammo: 8) 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7429/javelin-jvn-10a) 
 - **Battle Value:** 653 
 

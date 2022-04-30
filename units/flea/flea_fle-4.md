@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1140/flea-fle-4) 
 - **Battle Value:** 432 
 

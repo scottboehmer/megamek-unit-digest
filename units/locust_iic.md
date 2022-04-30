@@ -14,6 +14,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1914/locust-iic-standard) 
 - **Battle Value:** 1100 
@@ -35,6 +36,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915/locust-iic-2) 
 - **Battle Value:** 937 
@@ -54,6 +56,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1916/locust-iic-3) 
 - **Battle Value:** 980 
@@ -75,6 +78,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1918/locust-iic-5) 
 - **Battle Value:** 878 
@@ -94,6 +98,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1917/locust-iic-4) 
 - **Battle Value:** 795 
@@ -116,6 +121,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1919/locust-iic-6) 
 - **Battle Value:** 730 
@@ -138,6 +144,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1920/locust-iic-7) 
 - **Battle Value:** 980 
@@ -156,6 +163,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1921/locust-iic-8) 
 - **Battle Value:** 1119 
@@ -177,6 +185,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1922/locust-iic-9) 
 - **Battle Value:** 1133 
@@ -196,6 +205,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8203/locust-iic-10) 
 - **Battle Value:** 1248 

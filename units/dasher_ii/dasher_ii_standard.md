@@ -12,6 +12,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Micro Laser × 6 
+- **Design Quirks:** 
+  - Poor Performance 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/848/dasher-ii-standard) 
 - **Battle Value:** 522 
 

@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/727/crockett-crk-5003-3) 
 - **Battle Value:** 1989 
 

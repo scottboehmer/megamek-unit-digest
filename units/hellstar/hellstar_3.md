@@ -18,6 +18,7 @@
   - Active Probe 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1480/hellstar-3) 
 - **Battle Value:** 3025 

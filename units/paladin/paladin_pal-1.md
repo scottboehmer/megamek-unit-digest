@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2408/paladin-pal-1) 
 - **Battle Value:** 1361 
 

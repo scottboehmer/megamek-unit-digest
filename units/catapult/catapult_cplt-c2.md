@@ -15,6 +15,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - LB 2-X AC × 2 (ammo: 45 Cluster) 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5452/catapult-cplt-c2) 
 - **Battle Value:** 1346 

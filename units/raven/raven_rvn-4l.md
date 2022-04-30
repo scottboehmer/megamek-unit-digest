@@ -18,6 +18,8 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2666/raven-rvn-4l) 
 - **Battle Value:** 873 
 

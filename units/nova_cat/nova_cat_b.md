@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2300/nova-cat-b) 
 - **Battle Value:** 2492 
 

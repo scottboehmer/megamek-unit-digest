@@ -18,6 +18,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5453/catapult-cplt-c4c) 
 - **Battle Value:** 1449 

@@ -16,6 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Exposed Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7461/commando-com-1ak) 
 - **Battle Value:** 549 
 

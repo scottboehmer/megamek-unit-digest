@@ -16,6 +16,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Multi-Trac 
+  - Exposed Actuators 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1229/goliath-gol-1h) 
 - **Battle Value:** 1449 
 

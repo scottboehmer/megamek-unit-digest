@@ -17,6 +17,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1910/locust-lct-5v) 
 - **Battle Value:** 665 

@@ -14,6 +14,8 @@
   - Heavy Large Laser 
   - Heavy Medium Laser × 2 
   - Heavy Small Laser 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5097/solitaire-standard) 
 - **Battle Value:** 1284 
 

@@ -20,6 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Unbalanced 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6550/cadaver-cvr-a1) 
 - **Battle Value:** 962 
 

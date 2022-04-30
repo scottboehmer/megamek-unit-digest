@@ -16,6 +16,7 @@
   - Rocket 10 × 6 
 - **Design Quirks:** 
   - Multi-Trac 
+  - Exposed Actuators 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1230/goliath-gol-2h) 
 - **Battle Value:** 1583 
 

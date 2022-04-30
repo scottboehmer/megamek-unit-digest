@@ -17,6 +17,8 @@
   - Inner Sphere Coolant Pod 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7628/lupus-c) 
 - **Battle Value:** 2533 
 

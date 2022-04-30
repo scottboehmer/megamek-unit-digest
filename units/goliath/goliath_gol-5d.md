@@ -19,6 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Multi-Trac 
+  - Exposed Actuators 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1235/goliath-gol-5d) 
 - **Battle Value:** 1975 
 

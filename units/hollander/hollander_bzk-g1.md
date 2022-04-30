@@ -15,6 +15,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Reinforced Legs 
+  - Unbalanced 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1537/hollander-bzk-g1) 
 - **Battle Value:** 873 
 

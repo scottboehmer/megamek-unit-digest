@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1919/locust-iic-6) 
 - **Battle Value:** 730 

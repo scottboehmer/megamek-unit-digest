@@ -15,6 +15,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3155/talon-tln-6w) 
 - **Battle Value:** 1341 
 

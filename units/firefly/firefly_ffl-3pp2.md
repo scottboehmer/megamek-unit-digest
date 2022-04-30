@@ -18,6 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1084/firefly-ffl-3pp2) 
 - **Battle Value:** 873 

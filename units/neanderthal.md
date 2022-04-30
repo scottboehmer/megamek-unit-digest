@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Stable 
   - Distracting 
+  - Non-Standard Parts 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6514/neanderthal-ntl-ug) 
 - **Battle Value:** 1817 
 - [*More Info*](neanderthal/neanderthal_ntl-ug.md) 
@@ -41,6 +42,7 @@
 - **Design Quirks:** 
   - Stable 
   - Distracting 
+  - Non-Standard Parts 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6513/neanderthal-ntl-ag) 
 - **Battle Value:** 2020 
 - [*More Info*](neanderthal/neanderthal_ntl-ag.md) 

@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
+  - Low-Mounted Arms 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/661/colossus-cl-p3) 
 - **Battle Value:** 1986 
 

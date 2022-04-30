@@ -14,6 +14,7 @@
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 32) 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/477/catapult-cplt-a1) 
 - **Battle Value:** 1285 

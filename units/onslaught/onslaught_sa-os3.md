@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2323/onslaught-sa-os3) 
 - **Battle Value:** 1659 
 

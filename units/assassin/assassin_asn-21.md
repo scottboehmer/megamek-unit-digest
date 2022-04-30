@@ -18,6 +18,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Cramped Cockpit 
+  - Non-Standard Parts 
+  - Poor Life Support 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/127/assassin-asn-21) 
 - **Battle Value:** 749 
 

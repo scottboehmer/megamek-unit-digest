@@ -17,6 +17,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
+  - Exposed Actuators 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2611/quickdraw-qkd-4h) 
 - **Battle Value:** 1242 
 

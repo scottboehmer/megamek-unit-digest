@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** Rec Guide:ilClan #2 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7453/urbanmech-um-r96) 
 - **Battle Value:** 773 
 

@@ -17,6 +17,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c) 
 - **Battle Value:** 672 

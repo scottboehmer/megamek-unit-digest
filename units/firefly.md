@@ -17,6 +17,7 @@
   - TAG 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Op. Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/4172/firefly-ffl-3a) 
 - **Battle Value:** 797 
@@ -39,6 +40,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1086/firefly-ffl-3sle) 
 - **Battle Value:** 876 
@@ -58,6 +60,7 @@
   - Medium Laser × 3 
   - Small Laser × 4 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1083/firefly-ffl-3pp) 
 - **Battle Value:** 888 
@@ -79,6 +82,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1084/firefly-ffl-3pp2) 
 - **Battle Value:** 873 
@@ -100,6 +104,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1085/firefly-ffl-3pp3) 
 - **Battle Value:** 808 
@@ -119,6 +124,7 @@
   - LRM 5 (ammo: 24) 
   - Small Laser × 4 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1087/firefly-ffl-4a) 
 - **Battle Value:** 831 
@@ -140,6 +146,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1082/firefly-c) 
 - **Battle Value:** 1290 
@@ -161,6 +168,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1088/firefly-ffl-4b) 
 - **Battle Value:** 870 
@@ -182,6 +190,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1089/firefly-ffl-4c) 
 - **Battle Value:** 806 
@@ -203,6 +212,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1090/firefly-ffl-4d) 
 - **Battle Value:** 897 
@@ -224,6 +234,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1091/firefly-ffl-4da) 
 - **Battle Value:** 921 

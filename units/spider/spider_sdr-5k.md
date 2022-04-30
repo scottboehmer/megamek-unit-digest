@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3009/spider-sdr-5k) 
 - **Battle Value:** 503 
 

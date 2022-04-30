@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1917/locust-iic-4) 
 - **Battle Value:** 795 

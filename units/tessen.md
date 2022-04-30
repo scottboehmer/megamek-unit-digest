@@ -83,6 +83,7 @@
   - Bloodhound Active Probe 
   - TAG 
 - **Design Quirks:** 
+  - Prototype 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5549/tessen-tsn-x-4) 
 - **Battle Value:** 1263 

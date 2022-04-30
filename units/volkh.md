@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Supercharger 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3447/volkh-vkh-1) 
 - **Battle Value:** 1635 
 - [*More Info*](volkh/volkh_vkh-1.md) 
@@ -36,6 +38,8 @@
 - **Equipment:** 
   - Supercharger 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3448/volkh-vkh-7) 
 - **Battle Value:** 1578 
 - [*More Info*](volkh/volkh_vkh-7.md) 
@@ -59,6 +63,7 @@
   - Targeting Computer 
   - Head Turret 
 - **Design Quirks:** 
+  - Non-Standard Parts 
   - Protected Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8107/volkh-vkh-68) 
 - **Battle Value:** 1679 

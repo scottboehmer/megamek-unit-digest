@@ -23,6 +23,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Distracting 
+  - Hard to Pilot 
+  - Poor Performance 
+  - Prototype 
 - **Sources:** XTRO Republic II - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7356/orca-oc-1x) 
 - **Battle Value:** 3357 
 - [*More Info*](orca/orca_oc-1x.md) 

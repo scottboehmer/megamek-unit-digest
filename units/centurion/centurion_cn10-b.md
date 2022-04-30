@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3921/centurion-cn10-b) 
 - **Battle Value:** 1243 
 

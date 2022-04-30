@@ -19,6 +19,7 @@
   - Anti-Missile System (ammo: 24) 
   - C3i 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5404/white-flame-whf-3b) 
 - **Battle Value:** 1637 

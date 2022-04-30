@@ -14,6 +14,8 @@
   - Claw 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2738/ronin-sa-rn) 
 - **Battle Value:** 1084 
 - [*More Info*](ronin/ronin_sa-rn.md) 
@@ -33,6 +35,8 @@
   - Claw 
 - **Equipment:** 
   - M-Pod × 2 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2739/ronin-sa-rn7) 
 - **Battle Value:** 1180 
 - [*More Info*](ronin/ronin_sa-rn7.md) 

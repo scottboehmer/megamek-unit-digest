@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Exposed Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/429/bruin-2) 
 - **Battle Value:** 2200 
 

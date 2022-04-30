@@ -17,6 +17,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6948/locust-lct-5m3) 
 - **Battle Value:** 929 

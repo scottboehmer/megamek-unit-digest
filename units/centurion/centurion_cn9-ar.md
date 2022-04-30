@@ -18,6 +18,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/519/centurion-cn9-ar) 
 - **Battle Value:** 1226 
 

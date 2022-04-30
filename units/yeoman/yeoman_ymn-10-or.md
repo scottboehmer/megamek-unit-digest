@@ -17,6 +17,8 @@
   - MML 5 × 4 (ammo: 24 LRM, 40 SRM) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3618/yeoman-ymn-10-or) 
 - **Battle Value:** 1319 
 

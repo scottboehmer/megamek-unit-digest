@@ -17,6 +17,7 @@
   - Combat Computer 
   - Cramped Cockpit 
   - Difficult to Maintain 
+  - No Ejection System 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x) 
 - **Battle Value:** 1453 
 

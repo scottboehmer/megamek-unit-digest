@@ -18,6 +18,8 @@
   - Partial Wing 
   - CASE 
   - Liquid Cargo 
+- **Design Quirks:** 
+  - Low-Mounted Arms 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/825/dark-crow-3) 
 - **Battle Value:** 1687 
 

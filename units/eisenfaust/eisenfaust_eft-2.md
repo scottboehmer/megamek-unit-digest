@@ -15,6 +15,9 @@
   - Large Laser 
   - AC/10 (ammo: 10) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Poor Performance 
+  - Prototype 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5618/eisenfaust-eft-2) 
 - **Battle Value:** 715 
 

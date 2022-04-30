@@ -16,6 +16,8 @@
   - Claw × 2 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2023/mantis-mts-s) 
 - **Battle Value:** 1128 
 

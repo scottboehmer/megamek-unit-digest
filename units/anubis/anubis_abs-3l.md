@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Exposed Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3702/anubis-abs-3l) 
 - **Battle Value:** 951 
 

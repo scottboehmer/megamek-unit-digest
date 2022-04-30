@@ -18,6 +18,8 @@
 - **Equipment:** 
   - MASC 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2024/mantis-mts-t) 
 - **Battle Value:** 1312 
 

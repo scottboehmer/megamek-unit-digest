@@ -183,6 +183,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
+  - Non-Standard Parts 
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7296/enforcer-iii-enf-7d) 

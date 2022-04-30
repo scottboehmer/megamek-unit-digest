@@ -15,6 +15,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1965/lupus-prime) 
 - **Battle Value:** 2428 
 - [*More Info*](lupus/lupus_prime.md) 
@@ -33,6 +35,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1963/lupus-a) 
 - **Battle Value:** 1927 
 - [*More Info*](lupus/lupus_a.md) 
@@ -52,6 +56,8 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1964/lupus-b) 
 - **Battle Value:** 1985 
 - [*More Info*](lupus/lupus_b.md) 
@@ -71,6 +77,8 @@
   - Inner Sphere Coolant Pod 
   - Targeting Computer 
   - Supercharger 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7628/lupus-c) 
 - **Battle Value:** 2533 
 - [*More Info*](lupus/lupus_c.md) 
@@ -89,6 +97,8 @@
   - ER Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7629/lupus-d) 
 - **Battle Value:** 2030 
 - [*More Info*](lupus/lupus_d.md) 

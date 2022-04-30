@@ -17,6 +17,8 @@
   - Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5444/raven-rvn-3m) 
 - **Battle Value:** 659 
 

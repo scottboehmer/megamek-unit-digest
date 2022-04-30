@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/553/champion-chp-3p) 
 - **Battle Value:** 1503 
 

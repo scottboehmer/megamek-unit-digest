@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Multi-Trac 
+  - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #22 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1232/goliath-gol-3m) 
 - **Battle Value:** 1537 
 

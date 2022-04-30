@@ -14,6 +14,7 @@
   - ER PPC × 2 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - Weak Head Armor (1) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5454/catapult-cplt-k2k) 
 - **Battle Value:** 1716 

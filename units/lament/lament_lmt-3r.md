@@ -20,6 +20,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
+  - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6723/lament-lmt-3r) 
 - **Battle Value:** 1888 
 

@@ -15,6 +15,7 @@
   - Large Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** Era Digest: Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4283/hector-hor-1b) 
 - **Battle Value:** 949 

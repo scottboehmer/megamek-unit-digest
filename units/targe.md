@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3164/targe-trg-1n) 
 - **Battle Value:** 813 
@@ -39,6 +40,7 @@
   - MASC 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3165/targe-trg-2n) 
 - **Battle Value:** 1042 
@@ -61,6 +63,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6915/targe-trg-3m) 
 - **Battle Value:** 1233 

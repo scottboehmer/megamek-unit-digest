@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6941/tarantula-zph-5a) 
 - **Battle Value:** 806 
 

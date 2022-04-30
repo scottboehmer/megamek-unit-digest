@@ -15,6 +15,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1545/hornet-hnt-151) 
 - **Battle Value:** 488 
@@ -35,6 +36,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1546/hornet-hnt-152) 
 - **Battle Value:** 475 
@@ -57,6 +59,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1548/hornet-hnt-171) 
 - **Battle Value:** 535 
@@ -79,6 +82,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1547/hornet-hnt-161) 
 - **Battle Value:** 511 
@@ -101,6 +105,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7396/hornet-hnt-181) 
 - **Battle Value:** 398 
@@ -122,6 +127,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7343/hornet-hnt-182) 
 - **Battle Value:** 505 

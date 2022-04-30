@@ -17,6 +17,8 @@
 - **Equipment:** 
   - MASC 
   - CASE II 
+- **Design Quirks:** 
+  - Poor Life Support 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6624/gauntlet-gtl-1oc) 
 - **Battle Value:** 2048 
 

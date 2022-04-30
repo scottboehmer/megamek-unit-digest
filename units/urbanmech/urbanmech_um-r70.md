@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3359/urbanmech-um-r70) 
 - **Battle Value:** 724 
 

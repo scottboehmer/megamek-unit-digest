@@ -36,6 +36,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
 - **Design Quirks:** 
+  - No Ejection System 
   - Multi-Trac 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5106/spindrift-aquatic-securitymech-sdt-1a) 
 - **Battle Value:** 450 

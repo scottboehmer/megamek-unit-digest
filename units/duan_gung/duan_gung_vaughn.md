@@ -16,6 +16,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Non-Standard Parts 
 - **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6979/duan-gung-vaughn) 
 - **Battle Value:** 851 
 

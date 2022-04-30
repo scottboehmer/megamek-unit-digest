@@ -15,6 +15,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1901/locust-lct-1v) 
 - **Battle Value:** 432 
@@ -35,6 +36,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1900/locust-lct-1s) 
 - **Battle Value:** 440 
@@ -55,6 +57,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1899/locust-lct-1m) 
 - **Battle Value:** 424 
@@ -76,6 +79,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1903/locust-lct-1vb) 
 - **Battle Value:** 642 
@@ -96,6 +100,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1897/locust-lct-1e) 
 - **Battle Value:** 553 
@@ -116,6 +121,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7601/locust-c) 
 - **Battle Value:** 672 
@@ -136,6 +142,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1907/locust-lct-3v) 
 - **Battle Value:** 490 
@@ -157,6 +164,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1898/locust-lct-1l) 
 - **Battle Value:** 474 
@@ -178,6 +186,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1904/locust-lct-3d) 
 - **Battle Value:** 436 
@@ -200,6 +209,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1906/locust-lct-3s) 
 - **Battle Value:** 483 
@@ -223,6 +233,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1905/locust-lct-3m) 
 - **Battle Value:** 522 
@@ -243,6 +254,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1902/locust-lct-1v2) 
 - **Battle Value:** 568 
@@ -263,6 +275,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1908/locust-lct-5m) 
 - **Battle Value:** 719 
@@ -283,6 +296,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1910/locust-lct-5v) 
 - **Battle Value:** 665 
@@ -306,6 +320,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1909/locust-lct-5t) 
 - **Battle Value:** 482 
@@ -330,6 +345,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1913/locust-lct-6m) 
 - **Battle Value:** 956 
@@ -352,6 +368,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8199/locust-lct-5s) 
 - **Battle Value:** 509 
@@ -375,6 +392,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1911/locust-lct-5w) 
 - **Battle Value:** 695 
@@ -399,6 +417,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1912/locust-lct-5w2) 
 - **Battle Value:** 787 
@@ -419,6 +438,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6947/locust-lct-5m2) 
 - **Battle Value:** 693 
@@ -439,6 +459,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6948/locust-lct-5m3) 
 - **Battle Value:** 929 
@@ -459,6 +480,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8201/locust-lct-7v) 
 - **Battle Value:** 585 
@@ -479,6 +501,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8202/locust-lct-7v2) 
 - **Battle Value:** 634 
@@ -501,6 +524,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8200/locust-lct-7s) 
 - **Battle Value:** 706 

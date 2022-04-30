@@ -16,6 +16,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1963/lupus-a) 
 - **Battle Value:** 1927 
 

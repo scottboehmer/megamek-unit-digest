@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Stable 
   - Protected Actuators 
+  - Non-Standard Parts 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6572/mad-cat-mk-iv-savage-wolf-b) 
 - **Battle Value:** 2606 
 

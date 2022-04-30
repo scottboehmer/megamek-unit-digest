@@ -17,6 +17,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Combat Computer 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3039/stalker-stk-4n) 
 - **Battle Value:** 1558 
 

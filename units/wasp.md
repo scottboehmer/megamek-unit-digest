@@ -13,6 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Weak Legs 
   - Easy to Maintain 
   - Extended Torso Twist 

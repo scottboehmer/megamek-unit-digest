@@ -17,6 +17,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Cramped Cockpit 
+  - Non-Standard Parts 
+  - Poor Life Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/129/assassin-asn-30) 
 - **Battle Value:** 925 
 

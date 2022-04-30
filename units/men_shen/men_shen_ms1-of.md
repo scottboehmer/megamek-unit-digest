@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2166/men-shen-ms1-of) 
 - **Battle Value:** 1648 
 

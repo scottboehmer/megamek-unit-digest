@@ -20,6 +20,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6869/nova-cat-h) 
 - **Battle Value:** 2452 
 

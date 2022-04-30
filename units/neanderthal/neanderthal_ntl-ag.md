@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Stable 
   - Distracting 
+  - Non-Standard Parts 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6513/neanderthal-ntl-ag) 
 - **Battle Value:** 2020 
 

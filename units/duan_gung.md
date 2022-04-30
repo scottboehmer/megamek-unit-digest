@@ -14,6 +14,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Non-Standard Parts 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/935/duan-gung-d9-g9) 
 - **Battle Value:** 737 
 - [*More Info*](duan_gung/duan_gung_d9-g9.md) 
@@ -32,6 +33,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Non-Standard Parts 
 - **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6979/duan-gung-vaughn) 
 - **Battle Value:** 851 
 - [*More Info*](duan_gung/duan_gung_vaughn.md) 
@@ -53,6 +55,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Non-Standard Parts 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/934/duan-gung-d9-g10) 
 - **Battle Value:** 886 
 - [*More Info*](duan_gung/duan_gung_d9-g10.md) 

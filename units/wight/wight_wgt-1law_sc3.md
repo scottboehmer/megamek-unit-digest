@@ -16,6 +16,7 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3547/wight-wgt-1lawsc3) 
 - **Battle Value:** 1057 

@@ -18,6 +18,8 @@
   - Clan Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
+  - Prototype 
 - **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/251/banzai-bnz-x) 
 - **Battle Value:** 2647 
 - [*More Info*](banzai/banzai_bnz-x.md) 

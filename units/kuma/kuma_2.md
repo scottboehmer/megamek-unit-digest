@@ -17,6 +17,8 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Hard to Pilot 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1847/kuma-2) 
 - **Battle Value:** 2309 
 

@@ -16,6 +16,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Prototype 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7611/omni-corvis-a) 
 - **Battle Value:** 1977 
 

@@ -17,6 +17,8 @@
   - Claw × 2 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2025/mantis-mts-t2) 
 - **Battle Value:** 1380 
 

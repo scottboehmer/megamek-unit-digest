@@ -20,6 +20,7 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** OTP Capellan Crusades - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7404/centurion-cn9-ylw3-yen-lo-wang) 
 - **Battle Value:** 1815 
 

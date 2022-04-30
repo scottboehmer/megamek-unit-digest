@@ -13,6 +13,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - EW Equipment 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2662/raven-rvn-1x) 
 - **Battle Value:** 639 
 - [*More Info*](raven/raven_rvn-1x.md) 
@@ -31,6 +33,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - EW Equipment 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2665/raven-rvn-3x) 
 - **Battle Value:** 691 
 - [*More Info*](raven/raven_rvn-3x.md) 
@@ -47,6 +51,8 @@
   - Large Laser 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2663/raven-rvn-2x) 
 - **Battle Value:** 887 
 - [*More Info*](raven/raven_rvn-2x.md) 
@@ -64,6 +70,8 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2669/raven-rvn-4x) 
 - **Battle Value:** 820 
 - [*More Info*](raven/raven_rvn-4x.md) 
@@ -85,6 +93,8 @@
   - Beagle Active Probe 
   - CASE 
   - TAG 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2664/raven-rvn-3l) 
 - **Battle Value:** 708 
 - [*More Info*](raven/raven_rvn-3l.md) 
@@ -104,6 +114,8 @@
   - Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5444/raven-rvn-3m) 
 - **Battle Value:** 659 
 - [*More Info*](raven/raven_rvn-3m.md) 
@@ -125,6 +137,8 @@
   - Guardian ECM Suite 
   - TAG 
   - C3 Support 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2667/raven-rvn-4lc) 
 - **Battle Value:** 871 
 - [*More Info*](raven/raven_rvn-4lc.md) 
@@ -145,6 +159,8 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2666/raven-rvn-4l) 
 - **Battle Value:** 873 
 - [*More Info*](raven/raven_rvn-4l.md) 
@@ -166,6 +182,8 @@
   - Beagle Active Probe 
   - Machine Gun Array 
   - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2670/raven-rvn-sr-shattered-raven) 
 - **Battle Value:** 581 
 - [*More Info*](raven/raven_rvn-sr_shattered_raven.md) 
@@ -187,6 +205,8 @@
   - Beagle Active Probe 
   - CASE 
   - TAG 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2671/raven-rvn-ss-shattered-raven) 
 - **Battle Value:** 904 
 - [*More Info*](raven/raven_rvn-ss_shattered_raven.md) 
@@ -207,6 +227,8 @@
   - Beagle Active Probe 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2668/raven-rvn-4lr) 
 - **Battle Value:** 923 
 - [*More Info*](raven/raven_rvn-4lr.md) 
@@ -227,6 +249,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7524/raven-rvn-5l) 
 - **Battle Value:** 1035 
 - [*More Info*](raven/raven_rvn-5l.md) 

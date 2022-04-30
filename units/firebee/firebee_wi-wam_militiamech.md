@@ -16,6 +16,7 @@
 - **Equipment:** 
   - Ejection Seat 
 - **Design Quirks:** 
+  - Poor Life Support 
   - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7838/firebee-wi-wam-militiamech) 
 - **Battle Value:** 456 

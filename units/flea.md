@@ -15,6 +15,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1140/flea-fle-4) 
 - **Battle Value:** 432 
 - [*More Info*](flea/flea_fle-4.md) 
@@ -33,7 +34,9 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
   - Narrow/Low Profile 
+  - Hard to Pilot 
 - **Sources:** XTRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5769/flea-fle-14) 
 - **Battle Value:** 270 
 - [*More Info*](flea/flea_fle-14.md) 
@@ -54,6 +57,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1136/flea-fle-15) 
 - **Battle Value:** 430 
 - [*More Info*](flea/flea_fle-15.md) 
@@ -72,6 +76,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
 - **Sources:** TRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7427/flea-fle-16) 
 - **Battle Value:** 506 
 - [*More Info*](flea/flea_fle-16.md) 
@@ -93,6 +98,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1137/flea-fle-17) 
 - **Battle Value:** 510 
 - [*More Info*](flea/flea_fle-17.md) 
@@ -113,6 +119,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1135/flea-fire-ant) 
 - **Battle Value:** 332 
 - [*More Info*](flea/flea_fire_ant.md) 
@@ -134,6 +141,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1138/flea-fle-19) 
 - **Battle Value:** 341 
 - [*More Info*](flea/flea_fle-19.md) 
@@ -155,6 +163,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1139/flea-fle-20) 
 - **Battle Value:** 791 
 - [*More Info*](flea/flea_fle-20.md) 

@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3014/spider-sdr-7kr) 
 - **Battle Value:** 775 
 

@@ -22,6 +22,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Reinforced Legs 
+  - Non-Standard Parts 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6566/jade-hawk-standard) 
 - **Battle Value:** 2523 
 

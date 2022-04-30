@@ -21,6 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
+  - Exposed Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2615/quickdraw-qkd-5mr) 
 - **Battle Value:** 1465 
 

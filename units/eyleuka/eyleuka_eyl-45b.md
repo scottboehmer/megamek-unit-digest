@@ -20,6 +20,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1010/eyleuka-eyl-45b) 
 - **Battle Value:** 1615 
 

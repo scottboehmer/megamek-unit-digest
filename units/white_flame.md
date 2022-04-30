@@ -17,6 +17,7 @@
   - Anti-Missile System (ammo: 24) 
   - C3i 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5404/white-flame-whf-3b) 
 - **Battle Value:** 1637 
@@ -39,6 +40,7 @@
   - Anti-Missile System (ammo: 12) 
   - C3i 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5405/white-flame-whf-3c) 
 - **Battle Value:** 1826 
@@ -62,6 +64,7 @@
   - C3i 
   - TAG 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5693/white-flame-whf-4c) 
 - **Battle Value:** 1680 

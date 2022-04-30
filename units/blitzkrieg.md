@@ -10,6 +10,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 20) 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/394/blitzkrieg-btz-3f) 
 - **Battle Value:** 1273 
 - [*More Info*](blitzkrieg/blitzkrieg_btz-3f.md) 
@@ -29,6 +31,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/395/blitzkrieg-btz-4f) 
 - **Battle Value:** 1740 
 - [*More Info*](blitzkrieg/blitzkrieg_btz-4f.md) 

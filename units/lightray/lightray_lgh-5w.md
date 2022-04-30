@@ -18,6 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4521/lightray-lgh-5w) 
 - **Battle Value:** 1674 

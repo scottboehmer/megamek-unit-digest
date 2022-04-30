@@ -22,6 +22,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2580/preta-c-prt-ou-exanimus) 
 - **Battle Value:** 1052 

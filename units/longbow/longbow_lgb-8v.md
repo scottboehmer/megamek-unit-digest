@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Searchlight 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1938/longbow-lgb-8v) 
 - **Battle Value:** 1808 
 

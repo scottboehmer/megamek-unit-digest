@@ -23,6 +23,8 @@
   - Easy to Maintain 
   - Protected Actuators 
   - Difficult to Maintain 
+  - Non-Standard Parts 
+  - Poor Sealing 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5550/grim-reaper-grm-r-einar) 
 - **Battle Value:** 2121 
 

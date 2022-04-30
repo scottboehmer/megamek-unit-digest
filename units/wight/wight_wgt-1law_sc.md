@@ -14,6 +14,7 @@
   - Heavy PPC 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3546/wight-wgt-1lawsc) 
 - **Battle Value:** 1142 

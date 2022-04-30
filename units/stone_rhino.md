@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
+  - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3814/behemoth-stone-rhino-4) 
@@ -41,6 +42,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
+  - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3815/behemoth-stone-rhino-5) 
@@ -65,6 +67,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
+  - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318/behemoth-stone-rhino-standard) 
@@ -86,6 +89,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
+  - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3816/behemoth-stone-rhino-6) 
@@ -108,6 +112,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
+  - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7448/behemoth-stone-rhino-7) 
@@ -135,6 +140,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
+  - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/319/behemoth-stone-rhino-2) 
@@ -159,6 +165,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
+  - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/320/behemoth-stone-rhino-3) 
@@ -183,6 +190,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
+  - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
 - **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8) 

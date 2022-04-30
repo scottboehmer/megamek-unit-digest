@@ -18,6 +18,9 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - Exposed Actuators 
+  - No/Minimal Arms 
+  - No Ejection System 
   - Weak Legs 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7407/trooper-tp-1r) 

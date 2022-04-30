@@ -14,6 +14,7 @@
   - Plasma Rifle (ammo: 30) 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3551/wight-wgt-3sc) 
 - **Battle Value:** 1125 

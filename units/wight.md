@@ -12,6 +12,7 @@
   - Heavy PPC 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3546/wight-wgt-1lawsc) 
 - **Battle Value:** 1142 
@@ -30,6 +31,7 @@
   - Snub-Nose PPC 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3550/wight-wgt-2sc) 
 - **Battle Value:** 1093 
@@ -49,6 +51,7 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3547/wight-wgt-1lawsc3) 
 - **Battle Value:** 1057 
@@ -74,6 +77,7 @@
   - Distracting 
   - Improved Sensors 
   - Difficult to Maintain 
+  - Exposed Actuators 
   - Weak Legs 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5600/wight-wgt-4nc-dezgra) 
@@ -93,6 +97,7 @@
   - Light PPC 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3548/wight-wgt-2law) 
 - **Battle Value:** 939 
@@ -113,6 +118,7 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3549/wight-wgt-2lawc3) 
 - **Battle Value:** 821 
@@ -130,6 +136,7 @@
   - Plasma Rifle (ammo: 30) 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3551/wight-wgt-3sc) 
 - **Battle Value:** 1125 

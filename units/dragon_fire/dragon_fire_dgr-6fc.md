@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
+  - No/Minimal Arms 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/915/dragon-fire-dgr-6fc) 
 - **Battle Value:** 1858 
 

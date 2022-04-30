@@ -19,6 +19,8 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/547/champion-c) 
 - **Battle Value:** 2191 
 

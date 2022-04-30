@@ -13,6 +13,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Stable 
+  - Illegal Design 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8100/gauss-buster-millitiamech) 
 - **Battle Value:** 675 
 - [*More Info*](gauss-buster/gauss-buster_militiamech.md) 

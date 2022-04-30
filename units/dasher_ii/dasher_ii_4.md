@@ -20,6 +20,8 @@
   - Clan ER Small Laser 
   - Clan Micro Pulse Laser 
   - Chain Whip 
+- **Design Quirks:** 
+  - Poor Performance 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6919/dasher-ii-4) 
 - **Battle Value:** 1749 
 

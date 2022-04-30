@@ -92,6 +92,8 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Narrow/Low Profile 
+  - Hard to Pilot 
+  - Non-Standard Parts 
 - **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5781/fireball-alm-xf) 
 - **Battle Value:** 612 
 - [*More Info*](fireball/fireball_alm-xf.md) 

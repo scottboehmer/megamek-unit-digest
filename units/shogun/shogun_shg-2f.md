@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
   - Barrel Fists 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2933/shogun-shg-2f) 
 - **Battle Value:** 1804 

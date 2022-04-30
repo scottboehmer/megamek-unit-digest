@@ -18,6 +18,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Unbalanced 
 - **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7775/carrion-crow-prime) 
 - **Battle Value:** 2099 
 

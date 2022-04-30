@@ -17,6 +17,9 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Non-Standard Parts 
+  - Prototype 
 - **Sources:** Unbound - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5409/wildfire-p1-wf) 
 - **Battle Value:** 1292 
 - [*More Info*](wildfire/wildfire_p1-wf.md) 

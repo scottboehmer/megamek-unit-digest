@@ -17,6 +17,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Cowl 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3367/uziel-uzl-2s-jacob) 
 - **Battle Value:** 1513 

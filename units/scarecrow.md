@@ -23,6 +23,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6336/scarecrow-ucu-f4) 
 - **Battle Value:** 1429 
@@ -49,6 +50,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6337/scarecrow-ucu-f4r) 
 - **Battle Value:** 1431 

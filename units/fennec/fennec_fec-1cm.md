@@ -15,6 +15,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1036/fennec-fec-1cm) 
 - **Battle Value:** 1395 
 

@@ -16,7 +16,9 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
   - Narrow/Low Profile 
+  - Hard to Pilot 
 - **Sources:** XTRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5769/flea-fle-14) 
 - **Battle Value:** 270 
 

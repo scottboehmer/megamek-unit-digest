@@ -20,6 +20,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Battlefist (Right Arm) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2319/onager-standard) 
 - **Battle Value:** 2732 

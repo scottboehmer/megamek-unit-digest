@@ -184,6 +184,8 @@
   - CASE II 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
+  - Sensor Ghosts 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5551/exterminator-ext-6cs) 
 - **Battle Value:** 1592 
 - [*More Info*](exterminator/exterminator_ext-6cs.md) 

@@ -17,6 +17,8 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - Null-Signature System 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3536/werewolf-wer-lf-005) 
 - **Battle Value:** 1082 
 

@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - TAG 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7524/raven-rvn-5l) 
 - **Battle Value:** 1035 
 

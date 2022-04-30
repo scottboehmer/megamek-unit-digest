@@ -16,6 +16,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Supercharger 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5780/pompier-gm-fl-firemech) 
 - **Battle Value:** 88 
 

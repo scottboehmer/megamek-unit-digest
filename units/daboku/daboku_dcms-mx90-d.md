@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - No Torso Twist 
+  - Prototype 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/788/daboku-dcms-mx90-d) 
 - **Battle Value:** 1290 
 

@@ -16,6 +16,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/516/centurion-cn9-a) 
 - **Battle Value:** 945 
 

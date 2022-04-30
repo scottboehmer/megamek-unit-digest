@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Difficult to Maintain 
+  - No/Minimal Arms 
   - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3930/cephalus-prime) 
 - **Battle Value:** 1038 
@@ -41,6 +42,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Difficult to Maintain 
+  - No/Minimal Arms 
   - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3929/cephalus-a) 
 - **Battle Value:** 809 
@@ -65,6 +67,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Difficult to Maintain 
+  - No/Minimal Arms 
   - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5638/cephalus-b) 
 - **Battle Value:** 785 
@@ -88,6 +91,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Difficult to Maintain 
+  - No/Minimal Arms 
   - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5639/cephalus-c) 
 - **Battle Value:** 1209 
@@ -111,6 +115,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Difficult to Maintain 
+  - No/Minimal Arms 
   - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5640/cephalus-d) 
 - **Battle Value:** 1460 
@@ -134,6 +139,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Difficult to Maintain 
+  - No/Minimal Arms 
   - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5641/cephalus-e) 
 - **Battle Value:** 1284 
@@ -158,6 +164,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Difficult to Maintain 
+  - No/Minimal Arms 
   - Bad Reputation (Clan) 
 - **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5642/cephalus-u) 
 - **Battle Value:** 878 

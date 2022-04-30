@@ -19,6 +19,8 @@
   - Advanced Point Defense System × 2 (ammo: 24) 
   - CASE 
   - Radical Heat Sink System 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7377/osprey-osp-36) 
 - **Battle Value:** 1450 
 

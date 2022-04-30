@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** Unbound - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4129/epimetheus-prime) 
 - **Battle Value:** 2517 
 

@@ -20,6 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Combat Computer 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3042/stalker-stk-7c3bs) 
 - **Battle Value:** 1712 
 

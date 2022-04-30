@@ -15,6 +15,8 @@
   - PPC 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3694/alfar-al-a1) 
 - **Battle Value:** 1447 
 

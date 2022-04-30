@@ -13,6 +13,8 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1674/javelin-jvn-10f-fire-javelin) 
 - **Battle Value:** 835 
 

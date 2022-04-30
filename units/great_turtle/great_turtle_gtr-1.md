@@ -20,6 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Poor Performance 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1281/great-turtle-gtr-1) 
 - **Battle Value:** 3152 
 

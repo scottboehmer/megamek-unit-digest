@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Exposed Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3702/anubis-abs-3l) 
 - **Battle Value:** 951 
 - [*More Info*](anubis/anubis_abs-3l.md) 
@@ -38,6 +39,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Exposed Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3703/anubis-abs-3r) 
 - **Battle Value:** 970 
 - [*More Info*](anubis/anubis_abs-3r.md) 
@@ -59,6 +61,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Exposed Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3704/anubis-abs-3t) 
 - **Battle Value:** 1150 
 - [*More Info*](anubis/anubis_abs-3t.md) 
@@ -79,6 +82,8 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Exposed Actuators 
+  - Prototype 
 - **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5562/anubis-abs-3mc) 
 - **Battle Value:** 1074 
 - [*More Info*](anubis/anubis_abs-3mc.md) 
@@ -99,6 +104,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Exposed Actuators 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5656/anubis-abs-4c) 
 - **Battle Value:** 833 
 - [*More Info*](anubis/anubis_abs-4c.md) 
@@ -119,6 +125,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Exposed Actuators 
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6453/anubis-abs-5y) 
 - **Battle Value:** 1042 
 - [*More Info*](anubis/anubis_abs-5y.md) 
@@ -140,6 +147,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Exposed Actuators 
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6454/anubis-abs-5z) 
 - **Battle Value:** 1066 
 - [*More Info*](anubis/anubis_abs-5z.md) 

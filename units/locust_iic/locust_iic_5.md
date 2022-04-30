@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1918/locust-iic-5) 
 - **Battle Value:** 878 

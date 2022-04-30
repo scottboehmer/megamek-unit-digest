@@ -14,6 +14,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7292/roadrunner-emerald-harrier-rd-1r) 
 - **Battle Value:** 888 

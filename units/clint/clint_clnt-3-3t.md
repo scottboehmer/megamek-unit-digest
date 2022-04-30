@@ -20,6 +20,8 @@
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
   - Difficult to Maintain 
+  - Exposed Actuators 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/649/clint-clnt-3-3t) 
 - **Battle Value:** 901 
 

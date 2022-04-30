@@ -20,6 +20,7 @@
   - C3i 
   - TAG 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5693/white-flame-whf-4c) 
 - **Battle Value:** 1680 

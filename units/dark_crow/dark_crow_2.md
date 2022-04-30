@@ -17,6 +17,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Low-Mounted Arms 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/824/dark-crow-2) 
 - **Battle Value:** 1575 
 

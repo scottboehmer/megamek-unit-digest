@@ -22,6 +22,7 @@
   - TAG 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
+  - Exposed Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4887/quickdraw-qkd-8p) 
 - **Battle Value:** 1598 
 

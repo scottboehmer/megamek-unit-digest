@@ -19,6 +19,8 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Extended Torso Twist 
+  - Poor Performance 
+  - Prototype 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1599/icarus-icr-1x) 
 - **Battle Value:** 700 
 

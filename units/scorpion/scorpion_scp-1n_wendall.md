@@ -14,6 +14,7 @@
   - Large Laser 
   - SRM 6 (ammo: 15) 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2838/scorpion-scp-1n-wendall) 
 - **Battle Value:** 1043 

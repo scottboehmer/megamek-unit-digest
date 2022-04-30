@@ -18,6 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Unbalanced 
 - **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7778/carrion-crow-c) 
 - **Battle Value:** 1826 
 

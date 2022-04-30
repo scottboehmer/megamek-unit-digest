@@ -17,6 +17,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3) 
 - **Battle Value:** 788 

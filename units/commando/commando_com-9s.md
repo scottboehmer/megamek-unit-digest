@@ -19,6 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7439/commando-com-9s) 
 - **Battle Value:** 719 
 

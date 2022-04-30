@@ -12,6 +12,8 @@
   - Thunderbolt 20 × 2 (ammo: 18) 
   - Streak SRM 4 × 2 (ammo: 50) 
   - ER Small Laser 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2343/orochi-or-2i) 
 - **Battle Value:** 2077 
 - [*More Info*](orochi/orochi_or-2i.md) 

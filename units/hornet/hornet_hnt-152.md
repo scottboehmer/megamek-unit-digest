@@ -17,6 +17,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1546/hornet-hnt-152) 
 - **Battle Value:** 475 

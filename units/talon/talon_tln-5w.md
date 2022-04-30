@@ -15,6 +15,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - No/Minimal Arms 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3153/talon-tln-5w) 
 - **Battle Value:** 1175 
 

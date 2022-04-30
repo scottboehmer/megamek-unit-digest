@@ -18,6 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Multi-Trac 
+  - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8406/goliath-gol-7c) 
 - **Battle Value:** 1790 
 

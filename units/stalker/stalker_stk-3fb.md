@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Combat Computer 
+  - No/Minimal Arms 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3037/stalker-stk-3fb) 
 - **Battle Value:** 2029 
 

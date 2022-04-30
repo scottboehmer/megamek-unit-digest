@@ -17,6 +17,7 @@
   - Rocket 10 × 5 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3922/centurion-cn9-h) 
 - **Battle Value:** 848 
 

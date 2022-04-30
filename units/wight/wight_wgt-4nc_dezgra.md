@@ -22,6 +22,7 @@
   - Distracting 
   - Improved Sensors 
   - Difficult to Maintain 
+  - Exposed Actuators 
   - Weak Legs 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5600/wight-wgt-4nc-dezgra) 

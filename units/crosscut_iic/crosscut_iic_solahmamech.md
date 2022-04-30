@@ -15,6 +15,9 @@
   - Chainsaw 
 - **Equipment:** 
   - Ejection Seat 
+- **Design Quirks:** 
+  - Hard to Pilot 
+  - Illegal Design 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8099/crosscut-iic-solahmamech) 
 - **Battle Value:** 571 
 

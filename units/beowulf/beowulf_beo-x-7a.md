@@ -22,6 +22,8 @@
   - MASC 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
+  - Prototype 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5548/beowulf-beo-x-7a) 
 - **Battle Value:** 1473 
 

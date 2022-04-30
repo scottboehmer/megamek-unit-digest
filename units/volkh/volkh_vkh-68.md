@@ -21,6 +21,7 @@
   - Targeting Computer 
   - Head Turret 
 - **Design Quirks:** 
+  - Non-Standard Parts 
   - Protected Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8107/volkh-vkh-68) 
 - **Battle Value:** 1679 

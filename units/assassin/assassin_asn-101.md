@@ -19,6 +19,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Cramped Cockpit 
+  - Non-Standard Parts 
+  - Poor Life Support 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/126/assassin-asn-101) 
 - **Battle Value:** 757 
 

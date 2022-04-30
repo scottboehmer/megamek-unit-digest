@@ -16,6 +16,8 @@
   - ER Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7629/lupus-d) 
 - **Battle Value:** 2030 
 

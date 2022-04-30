@@ -14,6 +14,8 @@
   - PPC 
   - AC/10 (ammo: 10) 
   - Medium Laser 
+- **Design Quirks:** 
+  - Poor Targeting (Long) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734/crossbow-crs-6c) 
 - **Battle Value:** 1204 
 

@@ -18,6 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5449/centurion-cn9-d4d) 
 - **Battle Value:** 1369 
 

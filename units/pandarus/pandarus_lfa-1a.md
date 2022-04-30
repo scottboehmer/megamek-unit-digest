@@ -16,6 +16,7 @@
 - **Equipment:** 
   - CASE II 
 - **Design Quirks:** 
+  - Poor Targeting (Short) 
   - Improved Targeting (Long) 
   - Easy to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4783/pandarus-lfa-1a) 

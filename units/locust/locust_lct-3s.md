@@ -19,6 +19,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Cramped Cockpit 
+  - No/Minimal Arms 
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1906/locust-lct-3s) 
 - **Battle Value:** 483 

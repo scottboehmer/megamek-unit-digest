@@ -14,6 +14,8 @@
   - ER Medium Laser × 6 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Poor Performance 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/847/dasher-ii-2) 
 - **Battle Value:** 2239 
 

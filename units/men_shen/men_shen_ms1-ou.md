@@ -22,6 +22,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2167/men-shen-ms1-ou) 
 - **Battle Value:** 1725 
 

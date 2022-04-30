@@ -18,6 +18,8 @@
   - Beagle Active Probe 
   - TAG 
   - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2668/raven-rvn-4lr) 
 - **Battle Value:** 923 
 

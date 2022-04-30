@@ -16,6 +16,7 @@
 - **Equipment:** 
   - MASC 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb) 
 - **Battle Value:** 1185 

@@ -15,6 +15,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3354/urbanmech-um-r60) 
 - **Battle Value:** 504 
 - [*More Info*](urbanmech/urbanmech_um-r60.md) 
@@ -34,6 +35,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3355/urbanmech-um-r60l) 
 - **Battle Value:** 470 
 - [*More Info*](urbanmech/urbanmech_um-r60l.md) 
@@ -54,6 +56,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3356/urbanmech-um-r63) 
 - **Battle Value:** 540 
 - [*More Info*](urbanmech/urbanmech_um-r63.md) 
@@ -74,6 +77,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3358/urbanmech-um-r69) 
 - **Battle Value:** 589 
 - [*More Info*](urbanmech/urbanmech_um-r69.md) 
@@ -94,6 +98,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3357/urbanmech-um-r68) 
 - **Battle Value:** 561 
 - [*More Info*](urbanmech/urbanmech_um-r68.md) 
@@ -114,6 +119,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3359/urbanmech-um-r70) 
 - **Battle Value:** 724 
 - [*More Info*](urbanmech/urbanmech_um-r70.md) 
@@ -135,6 +141,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3353/urbanmech-um-aiv) 
 - **Battle Value:** 603 
 - [*More Info*](urbanmech/urbanmech_um-aiv.md) 
@@ -159,6 +166,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3360/urbanmech-um-r80) 
 - **Battle Value:** 699 
 - [*More Info*](urbanmech/urbanmech_um-r80.md) 
@@ -179,6 +187,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7344/urbanmech-um-r93) 
 - **Battle Value:** 894 
 - [*More Info*](urbanmech/urbanmech_um-r93.md) 
@@ -198,6 +207,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** Rec Guide:ilClan #2 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7453/urbanmech-um-r96) 
 - **Battle Value:** 773 
 - [*More Info*](urbanmech/urbanmech_um-r96.md) 

@@ -21,6 +21,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Combat Computer 
+  - No/Minimal Arms 
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8444/stalker-stk-9f) 
 - **Battle Value:** 2469 
 

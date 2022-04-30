@@ -14,6 +14,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/516/centurion-cn9-a) 
 - **Battle Value:** 945 
 - [*More Info*](centurion/centurion_cn9-a.md) 
@@ -31,6 +32,7 @@
   - LRM 10 (ammo: 24) 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/517/centurion-cn9-ah) 
 - **Battle Value:** 945 
 - [*More Info*](centurion/centurion_cn9-ah.md) 
@@ -50,6 +52,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/518/centurion-cn9-al) 
 - **Battle Value:** 1057 
 - [*More Info*](centurion/centurion_cn9-al.md) 
@@ -68,6 +71,7 @@
   - Hatchet 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/525/centurion-cn9-ylw-yen-lo-wang) 
 - **Battle Value:** 957 
 - [*More Info*](centurion/centurion_cn9-ylw_yen_lo_wang.md) 
@@ -88,6 +92,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/520/centurion-cn9-d) 
 - **Battle Value:** 1130 
 - [*More Info*](centurion/centurion_cn9-d.md) 
@@ -107,6 +112,7 @@
   - Hatchet 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3923/centurion-cn9-ylw2-yen-lo-wang) 
 - **Battle Value:** 1435 
 - [*More Info*](centurion/centurion_cn9-ylw2_yen_lo_wang.md) 
@@ -128,6 +134,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/521/centurion-cn9-d3) 
 - **Battle Value:** 1324 
 - [*More Info*](centurion/centurion_cn9-d3.md) 
@@ -149,6 +156,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3921/centurion-cn10-b) 
 - **Battle Value:** 1243 
 - [*More Info*](centurion/centurion_cn10-b.md) 
@@ -207,6 +215,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5448/centurion-cn9-d3d) 
 - **Battle Value:** 1373 
 - [*More Info*](centurion/centurion_cn9-d3d.md) 
@@ -229,6 +238,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/522/centurion-cn9-d5) 
 - **Battle Value:** 1738 
 - [*More Info*](centurion/centurion_cn9-d5.md) 
@@ -250,6 +260,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/524/centurion-cn9-da) 
 - **Battle Value:** 1035 
 - [*More Info*](centurion/centurion_cn9-da.md) 
@@ -270,6 +281,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5449/centurion-cn9-d4d) 
 - **Battle Value:** 1369 
 - [*More Info*](centurion/centurion_cn9-d4d.md) 
@@ -292,6 +304,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/523/centurion-cn9-d9) 
 - **Battle Value:** 1638 
 - [*More Info*](centurion/centurion_cn9-d9.md) 
@@ -312,6 +325,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/519/centurion-cn9-ar) 
 - **Battle Value:** 1226 
 - [*More Info*](centurion/centurion_cn9-ar.md) 
@@ -331,6 +345,7 @@
   - Rocket 10 × 5 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3922/centurion-cn9-h) 
 - **Battle Value:** 848 
 - [*More Info*](centurion/centurion_cn9-h.md) 
@@ -405,6 +420,7 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** OTP Capellan Crusades - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7404/centurion-cn9-ylw3-yen-lo-wang) 
 - **Battle Value:** 1815 
 - [*More Info*](centurion/centurion_cn9-ylw3_yen_lo_wang.md) 

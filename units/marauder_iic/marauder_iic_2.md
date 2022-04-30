@@ -19,6 +19,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Exposed Actuators 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2066/marauder-iic-2) 
 - **Battle Value:** 2358 
 

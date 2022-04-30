@@ -18,6 +18,9 @@
   - Guardian ECM Suite 
   - Void-Signature System 
   - MASC 
+- **Design Quirks:** 
+  - No/Minimal Arms 
+  - No Ejection System 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2659/raptor-ii-rpt-3x) 
 - **Battle Value:** 1304 
 

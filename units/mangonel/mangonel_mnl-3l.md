@@ -15,6 +15,7 @@
   - ER Medium Laser × 4 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2012/mangonel-mnl-3l) 
 - **Battle Value:** 1552 
 

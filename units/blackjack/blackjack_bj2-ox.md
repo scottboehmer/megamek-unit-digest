@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Light PPC w/ PPC Capacitor × 4 
   - Streak SRM 4 × 2 (ammo: 25) 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/387/blackjack-bj2-ox) 
 - **Battle Value:** 1320 
 

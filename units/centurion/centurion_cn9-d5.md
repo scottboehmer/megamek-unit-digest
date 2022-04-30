@@ -20,6 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/522/centurion-cn9-d5) 
 - **Battle Value:** 1738 
 

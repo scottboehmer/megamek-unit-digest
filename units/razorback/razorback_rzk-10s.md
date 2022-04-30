@@ -21,6 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5661/razorback-rzk-10s) 
 - **Battle Value:** 821 
 

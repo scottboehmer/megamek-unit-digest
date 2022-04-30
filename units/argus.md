@@ -15,6 +15,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - No/Minimal Arms 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3729/argus-ags-2d) 
 - **Battle Value:** 1566 
 - [*More Info*](argus/argus_ags-2d.md) 
@@ -38,6 +39,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - No/Minimal Arms 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3730/argus-ags-4d) 
 - **Battle Value:** 1638 
 - [*More Info*](argus/argus_ags-4d.md) 
@@ -61,6 +63,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - No/Minimal Arms 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5683/argus-ags-5d) 
 - **Battle Value:** 2065 
 - [*More Info*](argus/argus_ags-5d.md) 
@@ -83,6 +86,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/110/argus-ags-8dx) 
 - **Battle Value:** 1598 
 - [*More Info*](argus/argus_ags-8dx.md) 
@@ -103,6 +107,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - No/Minimal Arms 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5684/argus-ags-6f) 
 - **Battle Value:** 1524 
 - [*More Info*](argus/argus_ags-6f.md) 

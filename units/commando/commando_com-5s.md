@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Exposed Actuators 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/674/commando-com-5s) 
 - **Battle Value:** 557 
 

@@ -21,6 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
   - Barrel Fists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2934/shogun-shg-2h) 
 - **Battle Value:** 2087 

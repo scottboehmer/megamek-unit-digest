@@ -20,6 +20,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Poor Sealing 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6390/phoenix-hawk-l-fenikkusu-taka-pxh-11k) 
 - **Battle Value:** 1563 
 

@@ -16,6 +16,7 @@
   - Clan ER Medium Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - No/Minimal Arms 
 - **Sources:** RS 3145  NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6871/mangonel-mnl-4s) 
 - **Battle Value:** 2659 
 

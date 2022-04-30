@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
+  - Low-Mounted Arms 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/662/colossus-cls-4s) 
 - **Battle Value:** 2392 
 

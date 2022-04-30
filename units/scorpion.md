@@ -12,6 +12,7 @@
   - PPC 
   - SRM 6 (ammo: 15) 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2837/scorpion-scp-1n) 
 - **Battle Value:** 1019 
@@ -29,6 +30,7 @@
   - Large Laser 
   - SRM 6 (ammo: 15) 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2838/scorpion-scp-1n-wendall) 
 - **Battle Value:** 1043 
@@ -46,6 +48,7 @@
   - ER PPC 
   - SRM 6 (ammo: 15) 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o) 
 - **Battle Value:** 1098 
@@ -65,6 +68,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2836/scorpion-scp-12s) 
 - **Battle Value:** 1109 
@@ -85,6 +89,7 @@
 - **Equipment:** 
   - C3i 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2834/scorpion-scp-12c) 
 - **Battle Value:** 1259 
@@ -105,6 +110,7 @@
 - **Equipment:** 
   - C3 Main 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k) 
 - **Battle Value:** 1260 
@@ -124,6 +130,7 @@
 - **Equipment:** 
   - MASC 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb) 
 - **Battle Value:** 1185 
@@ -142,6 +149,7 @@
   - Heavy PPC 
   - LRM 10 (ammo: 12) 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2833/scorpion-scp-10m) 
 - **Battle Value:** 1458 
@@ -162,6 +170,7 @@
   - MASC 
   - CASE 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8314/scorpion-scp-1br) 
 - **Battle Value:** 1473 
@@ -184,6 +193,7 @@
   - Supercharger 
   - CASE II 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8315/scorpion-scp-2n) 
 - **Battle Value:** 1562 
@@ -206,6 +216,7 @@
   - Supercharger 
   - CASE II 
 - **Design Quirks:** 
+  - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8316/scorpion-c) 
 - **Battle Value:** 1975 

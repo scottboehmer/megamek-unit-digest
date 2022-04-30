@@ -15,6 +15,8 @@
   - ER PPC 
 - **Equipment:** 
   - Bomb Bay × 4 
+- **Design Quirks:** 
+  - Prototype 
 - **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7320/screamer-lam-scr-1x-lam) 
 - **Battle Value:** 1475 
 - [*More Info*](screamer_lam/screamer_lam_scr-1x-lam.md) 

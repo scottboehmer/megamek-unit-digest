@@ -15,6 +15,7 @@
   - Large Laser × 2 
   - Small Laser × 2 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** Era Digest: Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4284/hector-hor-1c) 
 - **Battle Value:** 993 

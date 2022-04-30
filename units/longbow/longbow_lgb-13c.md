@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Searchlight 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1933/longbow-lgb-13c) 
 - **Battle Value:** 1307 
 

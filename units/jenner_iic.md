@@ -15,6 +15,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1698/jenner-iic-standard) 
 - **Battle Value:** 1047 
@@ -36,6 +37,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1699/jenner-iic-2) 
 - **Battle Value:** 1406 
@@ -56,6 +58,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3) 
 - **Battle Value:** 788 
@@ -76,6 +79,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1701/jenner-iic-4) 
 - **Battle Value:** 1052 
@@ -97,6 +101,7 @@
   - Light Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8248/jenner-iic-5) 
 - **Battle Value:** 1440 

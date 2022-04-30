@@ -15,6 +15,7 @@
   - Inner Sphere Medium Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - No/Minimal Arms 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7677/talon-tln-5w-ec) 
 - **Battle Value:** 1364 
 

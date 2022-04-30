@@ -22,6 +22,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Exposed Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2070/marauder-iic-6) 
 - **Battle Value:** 2646 
 

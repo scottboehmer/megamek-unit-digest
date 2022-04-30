@@ -12,6 +12,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Design Quirks:** 
   - Reinforced Legs 
+  - Unbalanced 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1536/hollander-bzk-f3) 
 - **Battle Value:** 953 
 - [*More Info*](hollander/hollander_bzk-f3.md) 
@@ -29,6 +30,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Reinforced Legs 
+  - Unbalanced 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1537/hollander-bzk-g1) 
 - **Battle Value:** 873 
 - [*More Info*](hollander/hollander_bzk-g1.md) 

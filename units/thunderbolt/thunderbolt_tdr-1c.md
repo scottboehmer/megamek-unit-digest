@@ -21,6 +21,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Difficult to Maintain 
+  - Poor Workmanship 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5237/thunderbolt-tdr-1c) 
 - **Battle Value:** 1237 
 

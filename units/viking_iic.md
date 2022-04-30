@@ -18,6 +18,8 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Improved Targeting (Long) 
+  - No/Minimal Arms 
+  - Poor Targeting (Short) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6634/viking-iic-standard) 
 - **Battle Value:** 2780 
 - [*More Info*](viking_iic/viking_iic_standard.md) 

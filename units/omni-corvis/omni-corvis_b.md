@@ -16,6 +16,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Prototype 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7612/omni-corvis-b) 
 - **Battle Value:** 1640 
 

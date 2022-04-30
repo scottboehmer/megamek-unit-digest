@@ -13,6 +13,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 7 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1677/javelin-jvn-11a-fire-javelin) 
 - **Battle Value:** 1073 
 

@@ -11,6 +11,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 30) 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1675/javelin-jvn-10n) 
 - **Battle Value:** 594 
 - [*More Info*](javelin/javelin_jvn-10n.md) 
@@ -26,6 +28,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LRM 15 (ammo: 8) 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7429/javelin-jvn-10a) 
 - **Battle Value:** 653 
 - [*More Info*](javelin/javelin_jvn-10a.md) 
@@ -41,6 +45,8 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Laser × 4 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1674/javelin-jvn-10f-fire-javelin) 
 - **Battle Value:** 835 
 - [*More Info*](javelin/javelin_jvn-10f_fire_javelin.md) 
@@ -57,6 +63,8 @@
 - **Weapons:** 
   - SRM 6 (ammo: 15) 
   - Streak SRM 2 × 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1676/javelin-jvn-10p) 
 - **Battle Value:** 590 
 - [*More Info*](javelin/javelin_jvn-10p.md) 
@@ -72,6 +80,8 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 7 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1677/javelin-jvn-11a-fire-javelin) 
 - **Battle Value:** 1073 
 - [*More Info*](javelin/javelin_jvn-11a_fire_javelin.md) 
@@ -90,6 +100,8 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1678/javelin-jvn-11b) 
 - **Battle Value:** 678 
 - [*More Info*](javelin/javelin_jvn-11b.md) 
@@ -109,6 +121,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1679/javelin-jvn-11d) 
 - **Battle Value:** 1104 
 - [*More Info*](javelin/javelin_jvn-11d.md) 
@@ -128,6 +142,8 @@
 - **Equipment:** 
   - Clan Active Probe 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5808/javelin-jvn-11d-farrell) 
 - **Battle Value:** 1155 
 - [*More Info*](javelin/javelin_jvn-11d_farrell.md) 
@@ -146,6 +162,8 @@
   - Machine Gun × 6 (ammo: 200) 
 - **Equipment:** 
   - Machine Gun Array × 2 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1680/javelin-jvn-11f) 
 - **Battle Value:** 789 
 - [*More Info*](javelin/javelin_jvn-11f.md) 
@@ -161,6 +179,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Streak SRM 2 × 4 (ammo: 50) 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6938/javelin-jvn-11p) 
 - **Battle Value:** 680 
 - [*More Info*](javelin/javelin_jvn-11p.md) 

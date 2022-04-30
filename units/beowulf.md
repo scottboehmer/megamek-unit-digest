@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/327/beowulf-beo-12) 
 - **Battle Value:** 1319 
 - [*More Info*](beowulf/beowulf_beo-12.md) 
@@ -43,6 +44,8 @@
   - MASC 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
+  - Prototype 
 - **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5548/beowulf-beo-x-7a) 
 - **Battle Value:** 1473 
 - [*More Info*](beowulf/beowulf_beo-x-7a.md) 
@@ -67,6 +70,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Source:** Jihad 
 - **Battle Value:** 2078 
 - [*More Info*](beowulf/beowulf_c.md) 
@@ -93,6 +97,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/328/beowulf-beo-14) 
 - **Battle Value:** 1287 
 - [*More Info*](beowulf/beowulf_beo-14.md) 

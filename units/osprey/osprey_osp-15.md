@@ -17,6 +17,8 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2344/osprey-osp-15) 
 - **Battle Value:** 1564 
 

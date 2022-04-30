@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3 Support 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1679/javelin-jvn-11d) 
 - **Battle Value:** 1104 
 

@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2573/preta-c-prt-o-invictus) 
 - **Battle Value:** 1064 
@@ -43,6 +44,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2574/preta-c-prt-oa-dominus) 
 - **Battle Value:** 1302 
@@ -66,6 +68,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2575/preta-c-prt-ob-infernus) 
 - **Battle Value:** 1338 
@@ -91,6 +94,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2576/preta-c-prt-oc-comminus) 
 - **Battle Value:** 1187 
@@ -115,6 +119,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2577/preta-c-prt-od-luminos) 
 - **Battle Value:** 1158 
@@ -139,6 +144,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2572/preta-c-prt-o-kendali) 
 - **Battle Value:** 999 
@@ -163,6 +169,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2578/preta-c-prt-oe-eminus) 
 - **Battle Value:** 1211 
@@ -186,6 +193,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2579/preta-c-prt-os-caelestis) 
 - **Battle Value:** 1566 
@@ -211,6 +219,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Improved Sensors 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2580/preta-c-prt-ou-exanimus) 
 - **Battle Value:** 1052 

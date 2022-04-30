@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
+  - No/Minimal Arms 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/913/dragon-fire-dgr-3f) 
 - **Battle Value:** 1855 
 

@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Multi-Trac 
+  - Exposed Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1237/goliath-gol-6h) 
 - **Battle Value:** 1653 
 

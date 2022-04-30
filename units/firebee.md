@@ -15,6 +15,9 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Non-Standard Parts 
+  - Poor Workmanship 
+  - Poor Life Support 
   - Weak Legs 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1078/firebee-frb-1e-wam-b) 
 - **Battle Value:** 534 
@@ -33,6 +36,7 @@
   - Large Laser 
   - SRM 2 × 4 (ammo: 100) 
 - **Design Quirks:** 
+  - Poor Life Support 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1079/firebee-frb-2e) 
 - **Battle Value:** 808 
@@ -55,6 +59,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - Poor Life Support 
   - Weak Legs 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1080/firebee-frb-3e) 
 - **Battle Value:** 1067 
@@ -74,6 +79,7 @@
 - **Equipment:** 
   - Ejection Seat 
 - **Design Quirks:** 
+  - Poor Life Support 
   - Weak Legs 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7838/firebee-wi-wam-militiamech) 
 - **Battle Value:** 456 

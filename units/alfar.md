@@ -13,6 +13,8 @@
   - PPC 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3694/alfar-al-a1) 
 - **Battle Value:** 1447 
 - [*More Info*](alfar/alfar_al-a1.md) 
@@ -28,6 +30,8 @@
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
   - PPC × 2 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3693/alfar-al-d1-dokkalfar) 
 - **Battle Value:** 1458 
 - [*More Info*](alfar/alfar_al-d1.md) 

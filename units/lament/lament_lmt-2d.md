@@ -22,6 +22,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Difficult to Maintain 
+  - Non-Standard Parts 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383/lament-lmt-2d) 
 - **Battle Value:** 2044 
 

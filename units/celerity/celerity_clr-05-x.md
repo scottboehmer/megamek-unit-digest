@@ -17,6 +17,8 @@
   - MASC 
   - Drone Operating System 
   - Supercharger 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6710/celerity-clr-05-x) 
 - **Battle Value:** 225 
 

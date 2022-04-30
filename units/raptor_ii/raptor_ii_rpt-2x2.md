@@ -18,6 +18,9 @@
   - Angel ECM Suite 
   - Void-Signature System 
   - MASC 
+- **Design Quirks:** 
+  - No/Minimal Arms 
+  - No Ejection System 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6918/raptor-ii-rpt-2x2) 
 - **Battle Value:** 1868 
 

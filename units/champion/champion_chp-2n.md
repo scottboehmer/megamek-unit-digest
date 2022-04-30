@@ -15,6 +15,8 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 2 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/551/champion-chp-2n) 
 - **Battle Value:** 1116 
 

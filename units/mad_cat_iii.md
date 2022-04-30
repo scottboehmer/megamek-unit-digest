@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Prototype 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4563/mad-cat-iii-x) 
 - **Battle Value:** 2232 
 - [*More Info*](mad_cat_iii/mad_cat_iii_x.md) 

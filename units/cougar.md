@@ -177,6 +177,9 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
+- **Design Quirks:** 
+  - Prototype 
+  - Unbalanced 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4013/cougar-xr-standard) 
 - **Battle Value:** 1783 
 - [*More Info*](cougar/cougar_xr.md) 

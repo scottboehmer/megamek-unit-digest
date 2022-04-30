@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Nimble Jumper 
+  - No Ejection System 
 - **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8306/spider-sdr-9m) 
 - **Battle Value:** 687 
 

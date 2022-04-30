@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
+  - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3816/behemoth-stone-rhino-6) 

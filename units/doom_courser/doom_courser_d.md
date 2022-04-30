@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
+  - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8397/doom-courser-d) 
 - **Battle Value:** 2453 
 

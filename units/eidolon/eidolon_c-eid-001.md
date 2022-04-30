@@ -16,6 +16,8 @@
   - Snub-Nose PPC × 2 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/943/eidolon-c-eid-001) 
 - **Battle Value:** 1505 
 

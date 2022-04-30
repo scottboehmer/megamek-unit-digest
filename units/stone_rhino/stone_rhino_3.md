@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
+  - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/320/behemoth-stone-rhino-3) 

@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3161/tarantula-zph-2a) 
 - **Battle Value:** 744 
 

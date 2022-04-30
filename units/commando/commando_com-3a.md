@@ -16,6 +16,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Exposed Actuators 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/672/commando-com-3a) 
 - **Battle Value:** 540 
 

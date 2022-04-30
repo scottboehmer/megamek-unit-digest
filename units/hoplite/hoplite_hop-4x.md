@@ -17,6 +17,7 @@
   - Clan Light Active Probe 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1544/hoplite-hop-4x) 
 - **Battle Value:** 1880 

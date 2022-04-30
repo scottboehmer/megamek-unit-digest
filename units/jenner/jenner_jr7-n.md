@@ -18,6 +18,7 @@
   - Beagle Active Probe 
   - CASE II 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8247/jenner-jr7-n) 
 - **Battle Value:** 1233 

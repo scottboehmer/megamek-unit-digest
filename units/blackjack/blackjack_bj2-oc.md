@@ -15,6 +15,8 @@
   - LB 10-X AC × 2 (ammo: 10 Standard, 10 Cluster) 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/381/blackjack-bj2-oc) 
 - **Battle Value:** 1189 
 

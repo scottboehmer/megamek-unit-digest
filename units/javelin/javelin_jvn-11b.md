@@ -16,6 +16,8 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - CASE 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1678/javelin-jvn-11b) 
 - **Battle Value:** 678 
 

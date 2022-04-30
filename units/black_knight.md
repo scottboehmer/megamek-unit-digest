@@ -199,6 +199,7 @@
   - Large Shield 
 - **Design Quirks:** 
   - Distracting 
+  - Unbalanced 
 - **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5783/black-knight-bl-x-knt-red-reaper) 
 - **Battle Value:** 1858 
 - [*More Info*](black_knight/black_knight_bl-x-knt_red_reaper.md) 

@@ -16,6 +16,8 @@
   - Clan ER Medium Laser × 3 
 - **Equipment:** 
   - Bomb Bay 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** J:FR , [Master Unit List](http://masterunitlist.info/Unit/Details/4882/pwwka-s-pw-1lam) 
 - **Battle Value:** 1668 
 - [*More Info*](pwwka/pwwka_s-pw-1lam.md) 

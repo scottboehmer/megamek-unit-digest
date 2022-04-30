@@ -19,6 +19,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Cowl 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5332/uziel-uzl-3s) 
 - **Battle Value:** 1189 

@@ -14,6 +14,7 @@
 - **Weapons:** 
   - Large Laser 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1687/jenner-jr7-a) 
 - **Battle Value:** 712 

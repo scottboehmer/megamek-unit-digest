@@ -17,6 +17,8 @@
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Non-Standard Parts 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/382/blackjack-bj2-od) 
 - **Battle Value:** 1375 
 

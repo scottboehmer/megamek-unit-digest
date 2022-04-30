@@ -19,6 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Exposed Actuators 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6945/commando-com-8s) 
 - **Battle Value:** 775 
 

@@ -21,6 +21,7 @@
   - Armored Actuator × 4 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Poor Performance 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1282/great-turtle-gtr-2) 
 - **Battle Value:** 2355 
 

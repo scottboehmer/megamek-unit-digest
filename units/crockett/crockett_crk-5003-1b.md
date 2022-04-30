@@ -18,6 +18,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/726/crockett-crk-5003-1b) 
 - **Battle Value:** 2307 
 

@@ -151,6 +151,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Difficult to Maintain 
+  - Non-Standard Parts 
   - Improved Life Support 
   - Protected Actuators 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc) 

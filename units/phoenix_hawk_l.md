@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Poor Sealing 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6390/phoenix-hawk-l-fenikkusu-taka-pxh-11k) 
 - **Battle Value:** 1563 
 - [*More Info*](phoenix_hawk_l/phoenix_hawk_l_pxh-11k.md) 
@@ -40,6 +42,8 @@
   - Full Head Ejection System 
   - Coolant Pod 
   - CASE II 
+- **Design Quirks:** 
+  - Poor Sealing 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6391/phoenix-hawk-l-fenikkusu-taka-pxh-11k2) 
 - **Battle Value:** 1233 
 - [*More Info*](phoenix_hawk_l/phoenix_hawk_l_pxh-11k2.md) 

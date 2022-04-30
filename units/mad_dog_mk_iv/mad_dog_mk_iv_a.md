@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Stable 
   - Protected Actuators 
+  - Non-Standard Parts 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6559/vulture-mk-iv-mad-dog-mk-iv-a) 
 - **Battle Value:** 2177 
 

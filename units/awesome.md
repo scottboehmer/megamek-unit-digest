@@ -250,6 +250,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Distracting 
+  - Poor Performance 
   - Battlefist (Left Arm) 
 - **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7349/awesome-aws-11r) 
 - **Battle Value:** 1878 

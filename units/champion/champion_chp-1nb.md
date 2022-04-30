@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
   - ER PPC 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/550/champion-chp-1nb) 
 - **Battle Value:** 1632 
 

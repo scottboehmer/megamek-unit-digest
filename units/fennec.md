@@ -13,6 +13,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Main 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1036/fennec-fec-1cm) 
 - **Battle Value:** 1395 
 - [*More Info*](fennec/fennec_fec-1cm.md) 
@@ -30,6 +32,8 @@
   - Light PPC × 2 
 - **Equipment:** 
   - C3 Support 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1037/fennec-fec-3c) 
 - **Battle Value:** 1551 
 - [*More Info*](fennec/fennec_fec-3c.md) 
@@ -49,6 +53,8 @@
   - Clan Light Active Probe 
   - Radical Heat Sink System 
   - C3 Boosted Main 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6900/fennec-fec-5cm) 
 - **Battle Value:** 1498 
 - [*More Info*](fennec/fennec_fec-5cm.md) 

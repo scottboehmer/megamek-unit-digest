@@ -18,6 +18,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
   - Bad Reputation (Clan) 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3818/beowulf-iic-standard) 
 - **Battle Value:** 2048 
@@ -41,6 +42,7 @@
   - MASC 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7294/beowulf-iic-pr) 
 - **Battle Value:** 1992 

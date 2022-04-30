@@ -69,6 +69,7 @@
   - Distracting 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Prototype 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5330/ursus-pr) 
 - **Battle Value:** 1194 
 - [*More Info*](ursus/ursus_pr.md) 

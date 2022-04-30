@@ -15,6 +15,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - No/Minimal Arms 
 - **Source:** WWE Scorched Earth - Clan Invasion 
 - **Battle Value:** 977 
 

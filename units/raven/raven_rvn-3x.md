@@ -16,6 +16,8 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - EW Equipment 
+- **Design Quirks:** 
+  - No/Minimal Arms 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2665/raven-rvn-3x) 
 - **Battle Value:** 691 
 

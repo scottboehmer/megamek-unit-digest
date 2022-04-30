@@ -16,6 +16,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
+  - Non-Standard Parts 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/935/duan-gung-d9-g9) 
 - **Battle Value:** 737 
 

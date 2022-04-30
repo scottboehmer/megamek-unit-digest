@@ -21,6 +21,7 @@
   - CASE 
   - HarJel II × 3 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Battlefist (Right Arm) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6847/onager-2) 
 - **Battle Value:** 2847 

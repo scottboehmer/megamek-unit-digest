@@ -19,6 +19,8 @@
   - Large Shield 
   - CASE II 
   - Supercharger 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5078/slagmaiden-slg-x) 
 - **Battle Value:** 1602 
 

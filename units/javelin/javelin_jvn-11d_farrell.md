@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Clan Active Probe 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Unbalanced 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5808/javelin-jvn-11d-farrell) 
 - **Battle Value:** 1155 
 

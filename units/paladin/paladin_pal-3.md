@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2410/paladin-pal-3) 
 - **Battle Value:** 1370 
 

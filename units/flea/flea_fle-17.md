@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Life Support 
+  - No/Minimal Arms 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1137/flea-fle-17) 
 - **Battle Value:** 510 
 

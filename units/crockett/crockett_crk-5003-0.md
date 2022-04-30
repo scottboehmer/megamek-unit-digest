@@ -18,6 +18,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/724/crockett-crk-5003-0) 
 - **Battle Value:** 1704 
 

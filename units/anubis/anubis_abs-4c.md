@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Exposed Actuators 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5656/anubis-abs-4c) 
 - **Battle Value:** 833 
 

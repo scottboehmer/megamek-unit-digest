@@ -18,6 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Cowl 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5679/uziel-uzl-8s) 
 - **Battle Value:** 1393 

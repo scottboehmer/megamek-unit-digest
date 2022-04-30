@@ -11,6 +11,7 @@
 - **Weapons:** 
   - ER PPC × 4 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1481/hellstar-standard) 
 - **Battle Value:** 3084 
@@ -29,6 +30,7 @@
 - **Equipment:** 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1479/hellstar-2) 
 - **Battle Value:** 3545 
@@ -50,6 +52,7 @@
   - Active Probe 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Exposed Actuators 
   - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1480/hellstar-3) 
 - **Battle Value:** 3025 

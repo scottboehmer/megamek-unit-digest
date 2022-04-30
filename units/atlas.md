@@ -479,6 +479,8 @@
   - Command ’Mech 
   - Distracting 
   - Improved Communications 
+  - Prototype 
+  - Non-Standard Parts 
   - Battlefists 
 - **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5564/atlas-as7-00-jurn) 
 - **Battle Value:** 2053 

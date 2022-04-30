@@ -18,6 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Non-Standard Parts 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5448/centurion-cn9-d3d) 
 - **Battle Value:** 1373 
 

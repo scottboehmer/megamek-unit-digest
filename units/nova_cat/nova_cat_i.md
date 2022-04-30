@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6870/nova-cat-i) 
 - **Battle Value:** 2918 
 

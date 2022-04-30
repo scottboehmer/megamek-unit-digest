@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Exposed Actuators 
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6454/anubis-abs-5z) 
 - **Battle Value:** 1066 
 

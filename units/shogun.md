@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
   - Barrel Fists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2934/shogun-shg-2h) 
 - **Battle Value:** 2087 
@@ -41,6 +42,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
   - Barrel Fists 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2931/shogun-c) 
 - **Battle Value:** 3008 
@@ -63,6 +65,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
   - Barrel Fists 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2932/shogun-shg-2e) 
 - **Battle Value:** 1823 
@@ -85,6 +88,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
   - Barrel Fists 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2933/shogun-shg-2f) 
 - **Battle Value:** 1804 
@@ -107,6 +111,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Non-Standard Parts 
   - Barrel Fists 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5058/shogun-shg-2f-trisha) 
 - **Battle Value:** 1733 

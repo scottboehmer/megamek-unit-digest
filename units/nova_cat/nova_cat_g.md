@@ -20,6 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2305/nova-cat-g) 
 - **Battle Value:** 2522 
 

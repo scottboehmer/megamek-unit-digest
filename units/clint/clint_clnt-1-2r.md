@@ -17,6 +17,8 @@
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
   - Difficult to Maintain 
+  - Exposed Actuators 
+  - Non-Standard Parts 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/643/clint-clnt-1-2r) 
 - **Battle Value:** 707 
 

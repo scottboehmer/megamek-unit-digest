@@ -17,6 +17,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/595/cicada-cda-3g) 
 - **Battle Value:** 1270 

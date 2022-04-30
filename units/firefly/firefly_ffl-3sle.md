@@ -19,6 +19,7 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
+  - No/Minimal Arms 
   - No Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1086/firefly-ffl-3sle) 
 - **Battle Value:** 876 

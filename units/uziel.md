@@ -17,6 +17,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5331/uziel-uzl-2s) 
 - **Battle Value:** 1352 
@@ -39,6 +40,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Cowl 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5332/uziel-uzl-3s) 
 - **Battle Value:** 1189 
@@ -59,6 +61,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Cowl 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3367/uziel-uzl-2s-jacob) 
 - **Battle Value:** 1513 
@@ -82,6 +85,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Cowl 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3366/uziel-uzl-2s-jacob-ii) 
 - **Battle Value:** 1271 
@@ -103,6 +107,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Cowl 
+  - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5679/uziel-uzl-8s) 
 - **Battle Value:** 1393 

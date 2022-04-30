@@ -20,6 +20,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
+  - Unbalanced 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7546/war-crow-a) 
 - **Battle Value:** 3030 
 

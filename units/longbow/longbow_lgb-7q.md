@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Searchlight 
+  - No/Minimal Arms 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1936/longbow-lgb-7q) 
 - **Battle Value:** 1618 
 

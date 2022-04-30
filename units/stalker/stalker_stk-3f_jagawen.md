@@ -16,6 +16,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Combat Computer 
+  - No/Minimal Arms 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3036/stalker-stk-3f-jagawen) 
 - **Battle Value:** 1570 
 

@@ -19,6 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
+  - Exposed Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2304/nova-cat-f) 
 - **Battle Value:** 2706 
 

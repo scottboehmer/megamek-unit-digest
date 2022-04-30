@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - No/Minimal Arms 
   - Protected Actuators 
 - **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6576/hawkwolf-hwk-4f) 
 - **Battle Value:** 1428 

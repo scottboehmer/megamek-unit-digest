@@ -16,6 +16,8 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Exposed Actuators 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5655/solitaire-2) 
 - **Battle Value:** 1471 
 

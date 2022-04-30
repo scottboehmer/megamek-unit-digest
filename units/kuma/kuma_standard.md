@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Heavy Large Laser 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Hard to Pilot 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1849/kuma-standard) 
 - **Battle Value:** 1952 
 

@@ -82,6 +82,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Cowl 
+  - Hard to Pilot 
   - Easy to Maintain 
   - Reinforced Legs 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5230/thunder-thr-c4) 
