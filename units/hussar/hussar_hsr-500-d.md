@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (ER PPC) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1590/hussar-hsr-500-d) 
 - **Battle Value:** 977 
 

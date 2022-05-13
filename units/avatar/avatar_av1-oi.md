@@ -16,6 +16,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/169/avatar-av1-oi) 
 - **Battle Value:** 1606 
 

@@ -16,6 +16,13 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Arrow IV) 
+  - Modular Weapon (Arrow IV) 
+  - Modular Weapon (Arrow IV) 
+  - Modular Weapon (Arrow IV) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2310/o-bakemono-obk-m10) 
 - **Battle Value:** 1659 
 - [*More Info*](o-bakemono/o-bakemono_obk-m10.md) 
@@ -37,6 +44,11 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (MRM 40) 
+  - Modular Weapon (MRM 40) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2311/o-bakemono-obk-m11) 
 - **Battle Value:** 1793 
 - [*More Info*](o-bakemono/o-bakemono_obk-m11.md) 
@@ -58,6 +70,11 @@
   - C3 Main 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
+  - No Cooling Jacket (MRM 40) 
+  - Modular Weapon (MRM 40) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2312/o-bakemono-obk-m12) 
 - **Battle Value:** 1732 
 - [*More Info*](o-bakemono/o-bakemono_obk-m12.md) 

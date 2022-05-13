@@ -16,6 +16,11 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (LB 5-X AC) 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (LB 5-X AC) 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2010/man-o-war-gargoyle-prime) 
 - **Battle Value:** 1537 
 

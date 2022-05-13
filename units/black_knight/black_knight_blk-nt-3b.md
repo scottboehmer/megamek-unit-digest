@@ -18,6 +18,8 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Medium Shield 
+- **Design Quirks:** 
+  - Accurate Weapon (ER PPC) 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6349/black-knight-blk-nt-3b) 
 - **Battle Value:** 1911 
 

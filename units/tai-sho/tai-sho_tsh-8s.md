@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
+  - Stabilized Weapon (Ultra AC/10) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3151/tai-sho-tsh-8s) 
 - **Battle Value:** 2001 
 

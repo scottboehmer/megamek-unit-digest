@@ -18,6 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Weak Legs 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6926/morrigan-5) 
 - **Battle Value:** 1904 
 

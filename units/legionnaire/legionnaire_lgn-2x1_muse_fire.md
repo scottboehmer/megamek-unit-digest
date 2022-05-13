@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1864/legionnaire-lgn-2x1-muse-fire) 
 - **Battle Value:** 2032 
 

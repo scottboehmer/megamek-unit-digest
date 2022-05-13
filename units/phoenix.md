@@ -16,6 +16,9 @@
 - **Design Quirks:** 
   - Poor Workmanship 
   - Weak Legs 
+  - Directional Torso Mount (SRM 2) 
+  - Directional Torso Mount (SRM 2) 
+  - EM Interference (PPC) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2488/phoenix-px-1r) 
 - **Battle Value:** 917 
 - [*More Info*](phoenix/phoenix_px-1r.md) 
@@ -32,6 +35,9 @@
 - **Weapons:** 
   - PPC 
   - SRM 2 × 2 (ammo: 100) 
+- **Design Quirks:** 
+  - Directional Torso Mount (SRM 2) 
+  - Directional Torso Mount (SRM 2) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2489/phoenix-px-3r) 
 - **Battle Value:** 1106 
 - [*More Info*](phoenix/phoenix_px-3r.md) 
@@ -48,6 +54,8 @@
 - **Weapons:** 
   - AC/10 (ammo: 10) 
   - SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Directional Torso Mount (SRM 2) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2490/phoenix-px-4r) 
 - **Battle Value:** 996 
 - [*More Info*](phoenix/phoenix_px-4r.md) 

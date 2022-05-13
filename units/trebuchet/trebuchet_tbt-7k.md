@@ -16,6 +16,7 @@
   - SRM 2 (ammo: 50) 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (AC/5) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3299/trebuchet-tbt-7k) 
 - **Battle Value:** 996 
 

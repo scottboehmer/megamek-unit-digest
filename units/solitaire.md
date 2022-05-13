@@ -14,6 +14,8 @@
   - Heavy Small Laser 
 - **Design Quirks:** 
   - Exposed Actuators 
+  - Improved Cooling Jacket (Heavy Large Laser) 
+  - Stabilized Weapon (Heavy Large Laser) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5097/solitaire-standard) 
 - **Battle Value:** 1284 
 - [*More Info*](solitaire/solitaire_standard.md) 
@@ -34,6 +36,8 @@
   - MASC 
 - **Design Quirks:** 
   - Exposed Actuators 
+  - Improved Cooling Jacket (Heavy Large Laser) 
+  - Stabilized Weapon (Heavy Large Laser) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5655/solitaire-2) 
 - **Battle Value:** 1471 
 - [*More Info*](solitaire/solitaire_2.md) 

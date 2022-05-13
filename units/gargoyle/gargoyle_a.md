@@ -16,6 +16,13 @@
   - Medium Pulse Laser 
   - ER Medium Laser 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
+  - Stabilized Weapon (ER PPC) 
+  - Stabilized Weapon (Large Pulse Laser) 
+  - Stabilized Weapon (Medium Pulse Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Small Laser) 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2002/man-o-war-gargoyle-a) 
 - **Battle Value:** 2689 
 

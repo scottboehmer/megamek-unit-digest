@@ -24,6 +24,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Battlefist (Left Arm) 
+  - Exposed Weapon Linkage (ER Large Laser) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7434/dominator-standard) 
 - **Battle Value:** 3018 
 

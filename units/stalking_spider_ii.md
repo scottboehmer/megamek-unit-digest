@@ -16,6 +16,9 @@
 - **Equipment:** 
   - CASE 
   - Quad Turret 
+- **Design Quirks:** 
+  - Ammunition Feed Problem (SRM 4) 
+  - Ammunition Feed Problem (SRM 4) 
 - **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6553/stalking-spider-ii-standard) 
 - **Battle Value:** 1362 
 - [*More Info*](stalking_spider_ii/stalking_spider_ii_standard.md) 

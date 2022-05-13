@@ -16,6 +16,9 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Exposed Weapon Linkage (RAC/5) 
+  - Modular Weapon (RAC/5) 
+  - Static Ammo Feed (RAC/5) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/391/blade-bld-xl) 
 - **Battle Value:** 1314 
 - [*More Info*](blade/blade_bld-xl.md) 
@@ -36,6 +39,11 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Exposed Weapon Linkage (AC/10) 
+  - Modular Weapon (AC/10) 
+  - Static Ammo Feed (AC/10) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/392/blade-bld-xs) 
 - **Battle Value:** 944 
 - [*More Info*](blade/blade_bld-xs.md) 
@@ -56,6 +64,11 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Exposed Weapon Linkage (LB 10-X AC) 
+  - Modular Weapon (LB 10-X AC) 
+  - Static Ammo Feed (LB 10-X AC) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (ER Medium Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/393/blade-bld-xx) 
 - **Battle Value:** 1064 
 - [*More Info*](blade/blade_bld-xx.md) 
@@ -74,6 +87,11 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Exposed Weapon Linkage (RAC/5) 
+  - Modular Weapon (RAC/5) 
+  - Static Ammo Feed (RAC/5) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (ER Small Laser) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6929/blade-bld-7r) 
 - **Battle Value:** 1227 
 - [*More Info*](blade/blade_bld-7r.md) 
@@ -94,6 +112,14 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Protected Actuators 
+  - Modular Weapon (Light PPC) 
+  - Exposed Weapon Linkage (Light AC/2) 
+  - Modular Weapon (Light AC/2) 
+  - Static Ammo Feed (Light AC/2) 
+  - Modular Weapon (Light PPC) 
+  - Exposed Weapon Linkage (Light AC/2) 
+  - Modular Weapon (Light AC/2) 
+  - Static Ammo Feed (Light AC/2) 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7345/blade-bld-xr) 
 - **Battle Value:** 1101 
 - [*More Info*](blade/blade_bld-xr.md) 

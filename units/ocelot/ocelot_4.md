@@ -14,6 +14,9 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Medium Pulse Laser) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6925/ocelot-4) 
 - **Battle Value:** 1468 
 

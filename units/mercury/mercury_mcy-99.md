@@ -18,6 +18,10 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No Torso Twist 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2172/mercury-mcy-99) 
 - **Battle Value:** 586 
 

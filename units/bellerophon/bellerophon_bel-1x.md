@@ -18,6 +18,8 @@
   - Cowl 
   - Prototype 
   - Unbalanced 
+  - EM Interference (Large Laser) 
+  - EM Interference (Large Laser) 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3817/bellerophon-bel-1x) 
 - **Battle Value:** 957 
 

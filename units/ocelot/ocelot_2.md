@@ -14,6 +14,9 @@
 - **Weapons:** 
   - ER PPC 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (ER Medium Laser) 
+  - Jettison-Capable Weapon (ER Medium Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2314/ocelot-2) 
 - **Battle Value:** 1734 
 

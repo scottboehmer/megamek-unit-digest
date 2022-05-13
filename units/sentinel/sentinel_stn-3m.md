@@ -16,6 +16,7 @@
   - SRM 2 (ammo: 50) 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ammunition Feed Problem (SRM 2) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2862/sentinel-stn-3m) 
 - **Battle Value:** 758 
 

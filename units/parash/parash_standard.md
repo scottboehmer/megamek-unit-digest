@@ -19,6 +19,7 @@
   - TAG 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2428/parash-standard) 
 - **Battle Value:** 1300 
 

@@ -21,6 +21,9 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (Plasma Rifle) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
 - **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5405/white-flame-whf-3c) 
 - **Battle Value:** 1826 
 

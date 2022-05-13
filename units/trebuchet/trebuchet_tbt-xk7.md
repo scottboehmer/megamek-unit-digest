@@ -25,6 +25,8 @@
   - Easy to Maintain 
   - Non-Standard Parts 
   - Prototype 
+  - Fast Reload (Streak SRM 6) 
+  - Jettison-Capable Weapon (Chain Whip) 
 - **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5563/trebuchet-tbt-xk7) 
 - **Battle Value:** 1549 
 

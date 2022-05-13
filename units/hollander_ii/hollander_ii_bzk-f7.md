@@ -14,6 +14,7 @@
   - Heavy Gauss Rifle (ammo: 12) 
 - **Design Quirks:** 
   - Reinforced Legs 
+  - Stabilized Weapon (Heavy Gauss Rifle) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1539/hollander-ii-bzk-f7) 
 - **Battle Value:** 1192 
 

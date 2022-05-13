@@ -261,6 +261,8 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Medium Shield 
+- **Design Quirks:** 
+  - Accurate Weapon (ER PPC) 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6349/black-knight-blk-nt-3b) 
 - **Battle Value:** 1911 
 - [*More Info*](black_knight/black_knight_blk-nt-3b.md) 
@@ -282,6 +284,8 @@
 - **Equipment:** 
   - Medium Shield 
   - Clan Angel ECM Suite 
+- **Design Quirks:** 
+  - Accurate Weapon (ER PPC) 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6350/black-knight-blk-nt-4d) 
 - **Battle Value:** 2280 
 - [*More Info*](black_knight/black_knight_blk-nt-4d.md) 
@@ -323,6 +327,8 @@
 - **Equipment:** 
   - Medium Shield 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Accurate Weapon (ER PPC) 
 - **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6351/black-knight-blk-nt-5h) 
 - **Battle Value:** 2423 
 - [*More Info*](black_knight/black_knight_blk-nt-5h.md) 

@@ -12,6 +12,8 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Stabilized Weapon (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2472/peregrine-horned-owl-standard) 
 - **Battle Value:** 1434 
 - [*More Info*](horned_owl/horned_owl_standard.md) 
@@ -48,6 +50,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2474/peregrine-horned-owl-3) 
 - **Battle Value:** 1545 
 - [*More Info*](horned_owl/horned_owl_3.md) 
@@ -66,6 +70,8 @@
   - ATM 3 × 4 (ammo: 40 Standard, 20 ER) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER Medium Laser) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2475/peregrine-horned-owl-4) 
 - **Battle Value:** 1198 
 - [*More Info*](horned_owl/horned_owl_4.md) 
@@ -82,6 +88,8 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Heavy Medium Laser 
+- **Design Quirks:** 
+  - Stabilized Weapon (Heavy Medium Laser) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2476/peregrine-horned-owl-5) 
 - **Battle Value:** 1523 
 - [*More Info*](horned_owl/horned_owl_5.md) 

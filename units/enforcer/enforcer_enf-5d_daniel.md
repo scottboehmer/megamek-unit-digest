@@ -19,6 +19,8 @@
   - CASE 
 - **Design Quirks:** 
   - Barrel Fists 
+  - Ammunition Feed Problem (Gauss Rifle) 
+  - Fast Reload (Gauss Rifle) 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/979/enforcer-enf-5d-daniel) 
 - **Battle Value:** 1738 
 

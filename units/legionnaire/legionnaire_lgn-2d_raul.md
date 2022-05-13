@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Battle Value:** 1520 
 
 ## Availability 

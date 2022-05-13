@@ -29,6 +29,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3581/wolverine-wvr-9k) 
 - **Battle Value:** 1400 
 

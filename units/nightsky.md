@@ -14,6 +14,8 @@
   - Medium Pulse Laser × 2 
   - Hatchet 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - Modular Weapon (Hatchet) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2279/nightsky-ngs-4s) 
 - **Battle Value:** 1159 
 - [*More Info*](nightsky/nightsky_ngs-4s.md) 
@@ -35,6 +37,8 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Modular Weapon (Hatchet) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2280/nightsky-ngs-4t) 
 - **Battle Value:** 1287 
 - [*More Info*](nightsky/nightsky_ngs-4t.md) 
@@ -52,6 +56,8 @@
   - Medium Pulse Laser × 2 
   - Hatchet 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - Modular Weapon (Hatchet) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2281/nightsky-ngs-5s) 
 - **Battle Value:** 1045 
 - [*More Info*](nightsky/nightsky_ngs-5s.md) 
@@ -70,6 +76,8 @@
   - Medium Pulse Laser × 2 
   - Hatchet 
   - Small Pulse Laser 
+- **Design Quirks:** 
+  - Modular Weapon (Hatchet) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2282/nightsky-ngs-5t) 
 - **Battle Value:** 1356 
 - [*More Info*](nightsky/nightsky_ngs-5t.md) 
@@ -86,6 +94,8 @@
 - **Weapons:** 
   - ER Medium Laser × 7 
   - Hatchet 
+- **Design Quirks:** 
+  - Modular Weapon (Hatchet) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2283/nightsky-ngs-6s) 
 - **Battle Value:** 1474 
 - [*More Info*](nightsky/nightsky_ngs-6s.md) 
@@ -109,6 +119,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Modular Weapon (Hatchet) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2284/nightsky-ngs-6t) 
 - **Battle Value:** 1462 
 - [*More Info*](nightsky/nightsky_ngs-6t.md) 

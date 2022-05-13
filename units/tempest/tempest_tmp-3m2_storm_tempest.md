@@ -17,6 +17,8 @@
   - Streak SRM 6 (ammo: 15) 
   - ER Medium Laser × 3 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Directional Torso Mount (ER Medium Laser) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3170/tempest-tmp-3m2-storm-tempest) 
 - **Battle Value:** 1642 
 

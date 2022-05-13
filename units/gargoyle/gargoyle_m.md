@@ -16,6 +16,9 @@
   - SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (HAG 20) 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2009/man-o-war-gargoyle-m) 
 - **Battle Value:** 2182 
 

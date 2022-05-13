@@ -18,6 +18,9 @@
 - **Equipment:** 
   - Remote Sensor Dispenser 
   - CASE II 
+- **Design Quirks:** 
+  - Stabilized Weapon (Large Re-Engineered Laser) 
+  - Stabilized Weapon (Large Re-Engineered Laser) 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6872/gallant-glt-10-0) 
 - **Battle Value:** 1537 
 

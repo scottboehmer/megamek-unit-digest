@@ -20,6 +20,14 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (Gauss Rifle) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (ER PPC) 
+  - Modular Weapon (SRM 4) 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6783/dragoon-aem-04) 
 - **Battle Value:** 1710 
 

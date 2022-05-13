@@ -19,6 +19,9 @@
   - Beagle Active Probe 
   - TAG 
   - MASC 
+- **Design Quirks:** 
+  - Accurate Weapon (TAG) 
+  - Stabilized Weapon (TAG) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1534/hitman-hm-1r) 
 - **Battle Value:** 938 
 

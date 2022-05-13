@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Medium Shield 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Accurate Weapon (ER PPC) 
 - **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6351/black-knight-blk-nt-5h) 
 - **Battle Value:** 2423 
 

@@ -15,6 +15,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (Arrow IV) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1865/legionnaire-lgn-2xa) 
 - **Battle Value:** 1172 
 

@@ -16,6 +16,8 @@
   - ATM 3 × 4 (ammo: 40 Standard, 20 ER) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER Medium Laser) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2475/peregrine-horned-owl-4) 
 - **Battle Value:** 1198 
 

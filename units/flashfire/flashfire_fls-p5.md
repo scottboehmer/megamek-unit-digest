@@ -17,6 +17,9 @@
   - Fluid Gun × 2 (ammo: 40) 
 - **Equipment:** 
   - Spikes 
+- **Design Quirks:** 
+  - Modular Weapon (Fluid Gun) 
+  - Modular Weapon (Fluid Gun) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1122/flashfire-fls-p5) 
 - **Battle Value:** 654 
 

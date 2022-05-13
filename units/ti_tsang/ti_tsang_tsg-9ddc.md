@@ -26,6 +26,7 @@
   - Non-Standard Parts 
   - Improved Life Support 
   - Protected Actuators 
+  - Jettison-Capable Weapon (Lance) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc) 
 - **Battle Value:** 2013 
 

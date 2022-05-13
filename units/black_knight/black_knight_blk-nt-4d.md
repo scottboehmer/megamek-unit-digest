@@ -19,6 +19,8 @@
 - **Equipment:** 
   - Medium Shield 
   - Clan Angel ECM Suite 
+- **Design Quirks:** 
+  - Accurate Weapon (ER PPC) 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6350/black-knight-blk-nt-4d) 
 - **Battle Value:** 2280 
 

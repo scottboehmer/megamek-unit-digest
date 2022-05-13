@@ -634,6 +634,7 @@
   - Modular Armor × 4 
 - **Design Quirks:** 
   - Improved Communications 
+  - Jettison-Capable Weapon (Large X-Pulse Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8106/phoenix-hawk-pxh-99) 
 - **Battle Value:** 1444 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-99.md) 

@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2474/peregrine-horned-owl-3) 
 - **Battle Value:** 1545 
 

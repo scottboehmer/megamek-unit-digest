@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2213/mongoose-mon-70) 
 - **Battle Value:** 750 
 

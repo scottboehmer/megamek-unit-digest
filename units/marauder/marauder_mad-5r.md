@@ -22,6 +22,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2042/marauder-mad-5r) 
 - **Battle Value:** 1877 
 

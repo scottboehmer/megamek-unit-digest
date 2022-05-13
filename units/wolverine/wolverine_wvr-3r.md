@@ -22,6 +22,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (AC/5) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7408/wolverine-wvr-3r) 
 - **Battle Value:** 867 
 

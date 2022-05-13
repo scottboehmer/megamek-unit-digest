@@ -18,6 +18,11 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Exposed Weapon Linkage (AC/10) 
+  - Modular Weapon (AC/10) 
+  - Static Ammo Feed (AC/10) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/392/blade-bld-xs) 
 - **Battle Value:** 944 
 

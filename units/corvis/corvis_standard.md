@@ -16,6 +16,10 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Modular Weapon (Ultra AC/10) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Medium Pulse Laser) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/700/corvis-standard) 
 - **Battle Value:** 1336 
 

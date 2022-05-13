@@ -180,6 +180,9 @@
 - **Design Quirks:** 
   - Prototype 
   - Unbalanced 
+  - Modular Weapon (LRM 15) 
+  - Modular Weapon (LRM 15) 
+  - Modular Weapon (ER Medium Pulse Laser) 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4013/cougar-xr-standard) 
 - **Battle Value:** 1783 
 - [*More Info*](cougar/cougar_xr.md) 

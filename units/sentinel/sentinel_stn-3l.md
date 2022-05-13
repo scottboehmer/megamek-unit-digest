@@ -16,6 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ammunition Feed Problem (Streak SRM 2) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2860/sentinel-stn-3l) 
 - **Battle Value:** 717 
 

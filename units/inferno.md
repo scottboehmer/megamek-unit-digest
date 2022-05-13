@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Battlefists 
+  - EM Interference (Heavy PPC) 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7715/inferno-inf-no) 
 - **Battle Value:** 1597 
 - [*More Info*](inferno/inferno_inf-no.md) 
@@ -40,6 +41,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Battlefists 
+  - EM Interference (ER PPC) 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7716/inferno-inf-noa) 
 - **Battle Value:** 1846 
 - [*More Info*](inferno/inferno_inf-noa.md) 
@@ -62,6 +64,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Battlefists 
+  - EM Interference (ER PPC) 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7717/inferno-inf-nob) 
 - **Battle Value:** 1658 
 - [*More Info*](inferno/inferno_inf-nob.md) 
@@ -107,6 +110,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Battlefists 
+  - EM Interference (ER Large Laser) 
 - **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7719/inferno-inf-nor) 
 - **Battle Value:** 2360 
 - [*More Info*](inferno/inferno_inf-nor.md) 

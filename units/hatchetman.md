@@ -17,6 +17,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Fast Reload (AC/10) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1410/hatchetman-hct-3f) 
 - **Battle Value:** 854 
 - [*More Info*](hatchetman/hatchetman_hct-3f.md) 
@@ -38,6 +39,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Fast Reload (Prototype LB 10-X AC) 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1411/hatchetman-hct-3f-austin) 
 - **Battle Value:** 910 
 - [*More Info*](hatchetman/hatchetman_hct-3f_austin.md) 
@@ -59,6 +61,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Fast Reload (LB 10-X AC) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1413/hatchetman-hct-5s) 
 - **Battle Value:** 1039 
 - [*More Info*](hatchetman/hatchetman_hct-5s.md) 
@@ -81,6 +84,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Fast Reload (LB 10-X AC) 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1414/hatchetman-hct-5s-austin) 
 - **Battle Value:** 1174 
 - [*More Info*](hatchetman/hatchetman_hct-5s_austin.md) 
@@ -103,6 +107,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Fast Reload (Ultra AC/10) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5445/hatchetman-hct-5d) 
 - **Battle Value:** 1012 
 - [*More Info*](hatchetman/hatchetman_hct-5d.md) 
@@ -125,6 +130,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Fast Reload (RAC/5) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1415/hatchetman-hct-6d) 
 - **Battle Value:** 1611 
 - [*More Info*](hatchetman/hatchetman_hct-6d.md) 
@@ -147,6 +153,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Fast Reload (LB 10-X AC) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1417/hatchetman-hct-6s) 
 - **Battle Value:** 1174 
 - [*More Info*](hatchetman/hatchetman_hct-6s.md) 
@@ -169,6 +176,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Fast Reload (RAC/2) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5446/hatchetman-hct-5dd) 
 - **Battle Value:** 1112 
 - [*More Info*](hatchetman/hatchetman_hct-5dd.md) 

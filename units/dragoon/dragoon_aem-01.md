@@ -19,6 +19,9 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Modular Weapon (ER PPC) 
+  - Modular Weapon (LB 10-X AC) 
+  - Modular Weapon (LB 10-X AC) 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6780/dragoon-aem-01) 
 - **Battle Value:** 1669 
 

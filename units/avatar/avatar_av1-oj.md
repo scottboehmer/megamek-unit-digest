@@ -15,6 +15,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6874/avatar-av1-oj) 
 - **Battle Value:** 2223 
 

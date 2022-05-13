@@ -19,6 +19,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
+  - Stabilized Weapon (Small Laser) 
+  - Stabilized Weapon (Medium Pulse Laser) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2214/mongoose-mon-76) 
 - **Battle Value:** 894 
 

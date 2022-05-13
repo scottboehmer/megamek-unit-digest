@@ -18,6 +18,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Large Laser) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2035/marauder-mad-3d) 
 - **Battle Value:** 1470 
 

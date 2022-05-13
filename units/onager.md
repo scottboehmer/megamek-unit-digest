@@ -20,6 +20,8 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Battlefist (Right Arm) 
+  - Exposed Weapon Linkage (HAG 30) 
+  - Exposed Weapon Linkage (HAG 30) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2319/onager-standard) 
 - **Battle Value:** 2732 
 - [*More Info*](onager/onager_standard.md) 
@@ -45,6 +47,8 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Battlefist (Right Arm) 
+  - Exposed Weapon Linkage (HAG 30) 
+  - Exposed Weapon Linkage (HAG 30) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6847/onager-2) 
 - **Battle Value:** 2847 
 - [*More Info*](onager/onager_2.md) 

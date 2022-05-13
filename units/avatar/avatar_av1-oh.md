@@ -16,6 +16,9 @@
   - MML 3 w/ Artemis IV × 2 (ammo: 80 LRM, 33 SRM) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/168/avatar-av1-oh) 
 - **Battle Value:** 1598 
 

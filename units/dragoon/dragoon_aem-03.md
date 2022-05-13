@@ -20,6 +20,14 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Modular Weapon (Small Pulse Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Small Pulse Laser) 
+  - Modular Weapon (LRM 15) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (LRM 15) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (LRM 15) 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6782/dragoon-aem-03) 
 - **Battle Value:** 1562 
 

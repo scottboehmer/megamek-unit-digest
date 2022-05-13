@@ -14,6 +14,9 @@
   - MRM 20 (ammo: 12) 
   - Streak SRM 2 (ammo: 50) 
   - Flamer 
+- **Design Quirks:** 
+  - Stabilized Weapon (Large Pulse Laser) 
+  - Stabilized Weapon (Large Pulse Laser) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1173/gallant-glt-7-0) 
 - **Battle Value:** 1436 
 - [*More Info*](gallant/gallant_glt-7-0.md) 
@@ -32,6 +35,9 @@
   - Medium X-Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium X-Pulse Laser) 
+  - Stabilized Weapon (Medium X-Pulse Laser) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1174/gallant-glt-8-0) 
 - **Battle Value:** 1666 
 - [*More Info*](gallant/gallant_glt-8-0.md) 
@@ -52,6 +58,9 @@
 - **Equipment:** 
   - Remote Sensor Dispenser 
   - CASE II 
+- **Design Quirks:** 
+  - Stabilized Weapon (Large Re-Engineered Laser) 
+  - Stabilized Weapon (Large Re-Engineered Laser) 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6872/gallant-glt-10-0) 
 - **Battle Value:** 1537 
 - [*More Info*](gallant/gallant_glt-10-0.md) 

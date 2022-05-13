@@ -16,6 +16,8 @@
   - ER PPC 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2398/pack-hunter-ii-3) 
 - **Battle Value:** 1438 
 

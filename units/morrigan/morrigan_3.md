@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Legs 
+  - Stabilized Weapon (BattleMech Taser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2230/morrigan-3) 
 - **Battle Value:** 1390 
 

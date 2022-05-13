@@ -16,6 +16,15 @@
 - **Equipment:** 
   - Inner Sphere A-Pod × 3 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (Ultra AC/20) 
+  - Stabilized Weapon (Ultra AC/20) 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2004/man-o-war-gargoyle-c) 
 - **Battle Value:** 2417 
 

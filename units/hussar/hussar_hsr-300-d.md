@@ -15,6 +15,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (Large Laser) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1587/hussar-hsr-300-d) 
 - **Battle Value:** 543 
 

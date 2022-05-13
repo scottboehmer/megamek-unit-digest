@@ -18,6 +18,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
+  - Modular Weapon (SRM 6) 
+  - Modular Weapon (SRM 6) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1398/hatamoto-chi-htm-27t) 
 - **Battle Value:** 1607 
 

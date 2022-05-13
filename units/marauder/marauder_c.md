@@ -20,6 +20,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Ultra AC/5) 
 - **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2032/marauder-c) 
 - **Battle Value:** 1711 
 

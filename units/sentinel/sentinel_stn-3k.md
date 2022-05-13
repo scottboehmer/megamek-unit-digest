@@ -16,6 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ammunition Feed Problem (SRM 2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2857/sentinel-stn-3k) 
 - **Battle Value:** 652 
 

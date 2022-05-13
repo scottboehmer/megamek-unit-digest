@@ -19,6 +19,7 @@
   - Improved Life Support 
   - Rugged (×2) 
   - Battlefists 
+  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2898/shadow-hawk-shd-1r) 
 - **Battle Value:** 851 
 

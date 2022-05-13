@@ -17,6 +17,7 @@
   - Improved Life Support 
   - Rugged (×2) 
   - Battlefists 
+  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2898/shadow-hawk-shd-1r) 
 - **Battle Value:** 851 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-1r.md) 
@@ -84,6 +85,7 @@
   - Improved Life Support 
   - Rugged (×2) 
   - Battlefists 
+  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2899/shadow-hawk-shd-2d) 
 - **Battle Value:** 899 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2d.md) 
@@ -104,6 +106,7 @@
   - Improved Life Support 
   - Rugged (×2) 
   - Battlefists 
+  - Exposed Weapon Linkage (PPC) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2903/shadow-hawk-shd-2k) 
 - **Battle Value:** 1147 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2k.md) 

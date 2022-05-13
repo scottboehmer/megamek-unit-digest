@@ -14,6 +14,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Design Quirks:** 
   - Reinforced Legs 
+  - Stabilized Weapon (Gauss Rifle) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1538/hollander-ii-bzk-f5) 
 - **Battle Value:** 1214 
 - [*More Info*](hollander_ii/hollander_ii_bzk-f5.md) 
@@ -30,6 +31,7 @@
   - Heavy Gauss Rifle (ammo: 12) 
 - **Design Quirks:** 
   - Reinforced Legs 
+  - Stabilized Weapon (Heavy Gauss Rifle) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1539/hollander-ii-bzk-f7) 
 - **Battle Value:** 1192 
 - [*More Info*](hollander_ii/hollander_ii_bzk-f7.md) 

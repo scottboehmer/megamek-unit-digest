@@ -19,6 +19,11 @@
   - C3 Main 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
+  - No Cooling Jacket (MRM 40) 
+  - Modular Weapon (MRM 40) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2312/o-bakemono-obk-m12) 
 - **Battle Value:** 1732 
 

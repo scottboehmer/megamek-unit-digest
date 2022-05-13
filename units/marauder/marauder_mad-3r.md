@@ -18,6 +18,8 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (AC/5) 
+  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2038/marauder-mad-3r) 
 - **Battle Value:** 1363 
 

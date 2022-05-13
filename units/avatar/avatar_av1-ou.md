@@ -18,6 +18,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/171/avatar-av1-ou) 
 - **Battle Value:** 1359 
 

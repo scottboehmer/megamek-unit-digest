@@ -15,6 +15,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/167/avatar-av1-og) 
 - **Battle Value:** 1775 
 

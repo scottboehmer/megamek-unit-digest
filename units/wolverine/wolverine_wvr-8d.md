@@ -25,6 +25,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (RAC/2) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3578/wolverine-wvr-8d) 
 - **Battle Value:** 1547 
 

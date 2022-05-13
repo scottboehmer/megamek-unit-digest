@@ -22,6 +22,9 @@
   - Extended Torso Twist 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
+  - EM Interference (ER Large Laser) 
+  - EM Interference (ER Medium Pulse Laser) 
+  - EM Interference (ER Medium Pulse Laser) 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7294/beowulf-iic-pr) 
 - **Battle Value:** 1992 
 

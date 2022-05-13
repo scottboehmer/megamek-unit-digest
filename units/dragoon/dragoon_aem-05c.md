@@ -22,6 +22,10 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Modular Weapon (LB 10-X AC) 
+  - Modular Weapon (Plasma Rifle) 
+  - Modular Weapon (Medium X-Pulse Laser) 
+  - Modular Weapon (Medium X-Pulse Laser) 
 - **Sources:** TP Epsilon Eridani - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7399/dragoon-aem-05c) 
 - **Battle Value:** 1893 
 

@@ -17,6 +17,12 @@
   - Active Probe 
   - CASE 
   - Light TAG 
+- **Design Quirks:** 
+  - Modular Weapon (Light TAG) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (SRM 4) 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6547/koshi-standard) 
 - **Battle Value:** 760 
 

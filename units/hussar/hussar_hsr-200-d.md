@@ -15,6 +15,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (ER Large Laser) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1585/hussar-hsr-200-d) 
 - **Battle Value:** 636 
 

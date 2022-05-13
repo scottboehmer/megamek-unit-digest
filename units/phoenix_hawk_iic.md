@@ -16,6 +16,9 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (Machine Gun) 
+  - Fast Reload (Ultra AC/10) 
+  - Fast Reload (Ultra AC/10) 
 - **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard) 
 - **Battle Value:** 2057 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_standard.md) 
@@ -35,6 +38,10 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (LRM 20) 
+  - Fast Reload (LRM 20) 
+  - Fast Reload (LRM 20) 
+  - Fast Reload (LRM 20) 
 - **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2512/phoenix-hawk-iic-2) 
 - **Battle Value:** 2892 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_2.md) 
@@ -94,6 +101,10 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (ATM 9) 
+  - Fast Reload (ATM 9) 
+  - Fast Reload (ATM 9) 
+  - Fast Reload (ATM 9) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2514/phoenix-hawk-iic-4) 
 - **Battle Value:** 2483 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_4.md) 
@@ -114,6 +125,8 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (HAG 20) 
+  - Fast Reload (HAG 20) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2515/phoenix-hawk-iic-5) 
 - **Battle Value:** 2350 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_5.md) 
@@ -155,6 +168,10 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (Streak SRM 4) 
+  - Fast Reload (Streak SRM 4) 
+  - Fast Reload (LB 10-X AC) 
+  - Fast Reload (LB 10-X AC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2517/phoenix-hawk-iic-7) 
 - **Battle Value:** 2219 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_7.md) 

@@ -13,6 +13,8 @@
   - Light PPC × 2 
   - Medium Laser 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Accurate Weapon (LB 10-X AC) 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6563/hound-hd-2f) 
 - **Battle Value:** 1389 
 - [*More Info*](hound/hound_hd-2f.md) 

@@ -19,6 +19,10 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (Large Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5404/white-flame-whf-3b) 
 - **Battle Value:** 1637 
 - [*More Info*](white_flame/white_flame_whf-3b.md) 
@@ -42,6 +46,9 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (Plasma Rifle) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
 - **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5405/white-flame-whf-3c) 
 - **Battle Value:** 1826 
 - [*More Info*](white_flame/white_flame_whf-3c.md) 
@@ -66,6 +73,10 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (Snub-Nose PPC) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5693/white-flame-whf-4c) 
 - **Battle Value:** 1680 
 - [*More Info*](white_flame/white_flame_whf-4c.md) 

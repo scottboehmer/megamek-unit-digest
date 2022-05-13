@@ -22,6 +22,14 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (LRM 20) 
+  - Directional Torso Mount (Streak SRM 4) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (LRM 20) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Small Laser) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4489/legacy-lgc-02) 
 - **Battle Value:** 2033 
 

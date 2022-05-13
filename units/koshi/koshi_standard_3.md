@@ -19,6 +19,14 @@
   - Light TAG 
   - Targeting Computer 
   - MASC 
+- **Design Quirks:** 
+  - Modular Weapon (Light TAG) 
+  - Modular Weapon (Heavy Small Laser) 
+  - Modular Weapon (Heavy Small Laser) 
+  - Modular Weapon (Heavy Small Laser) 
+  - Modular Weapon (Heavy Small Laser) 
+  - Modular Weapon (Heavy Small Laser) 
+  - Modular Weapon (Heavy Small Laser) 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6549/koshi-3) 
 - **Battle Value:** 777 
 

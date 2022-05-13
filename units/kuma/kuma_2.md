@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hard to Pilot 
+  - Accurate Weapon (Plasma Cannon) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1847/kuma-2) 
 - **Battle Value:** 2309 
 

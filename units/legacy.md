@@ -19,6 +19,12 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (Ultra AC/10) 
+  - Directional Torso Mount (Streak SRM 4) 
+  - Directional Torso Mount (Ultra AC/10) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Small Laser) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4488/legacy-lgc-01) 
 - **Battle Value:** 1967 
 - [*More Info*](legacy/legacy_lgc-01.md) 
@@ -43,6 +49,14 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (LRM 20) 
+  - Directional Torso Mount (Streak SRM 4) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (LRM 20) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Small Laser) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4489/legacy-lgc-02) 
 - **Battle Value:** 2033 
 - [*More Info*](legacy/legacy_lgc-02.md) 
@@ -66,6 +80,12 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (Heavy PPC) 
+  - Directional Torso Mount (Streak SRM 4) 
+  - Directional Torso Mount (Heavy PPC) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Small Laser) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/4490/legacy-lgc-03) 
 - **Battle Value:** 2121 
 - [*More Info*](legacy/legacy_lgc-03.md) 
@@ -88,6 +108,8 @@
   - MASC 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (Snub-Nose PPC) 
+  - Directional Torso Mount (Snub-Nose PPC) 
 - **Sources:** RS 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5702/legacy-lgc-04-wvr) 
 - **Battle Value:** 1745 
 - [*More Info*](legacy/legacy_lgc-04-wvr.md) 
@@ -112,6 +134,13 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (ER Small Laser) 
+  - Directional Torso Mount (MML 7) 
+  - Directional Torso Mount (MML 7) 
+  - Directional Torso Mount (Medium VSP Laser) 
+  - Directional Torso Mount (Light PPC) 
+  - Directional Torso Mount (Medium VSP Laser) 
+  - Directional Torso Mount (Light PPC) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5703/legacy-lgc-05) 
 - **Battle Value:** 1598 
 - [*More Info*](legacy/legacy_lgc-05.md) 

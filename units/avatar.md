@@ -16,6 +16,9 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/160/avatar-av1-o) 
 - **Battle Value:** 1395 
 - [*More Info*](avatar/avatar_av1-o.md) 
@@ -36,6 +39,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/161/avatar-av1-oa) 
 - **Battle Value:** 1481 
 - [*More Info*](avatar/avatar_av1-oa.md) 
@@ -54,6 +60,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/162/avatar-av1-ob) 
 - **Battle Value:** 1496 
 - [*More Info*](avatar/avatar_av1-ob.md) 
@@ -74,6 +83,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/163/avatar-av1-oc) 
 - **Battle Value:** 1406 
 - [*More Info*](avatar/avatar_av1-oc.md) 
@@ -91,6 +103,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/167/avatar-av1-og) 
 - **Battle Value:** 1775 
 - [*More Info*](avatar/avatar_av1-og.md) 
@@ -111,6 +126,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/170/avatar-av1-or) 
 - **Battle Value:** 1833 
 - [*More Info*](avatar/avatar_av1-or.md) 
@@ -131,6 +149,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/164/avatar-av1-od) 
 - **Battle Value:** 1475 
 - [*More Info*](avatar/avatar_av1-od.md) 
@@ -152,6 +173,9 @@
   - Guardian ECM Suite 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/165/avatar-av1-oe) 
 - **Battle Value:** 1563 
 - [*More Info*](avatar/avatar_av1-oe.md) 
@@ -171,6 +195,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/166/avatar-av1-of) 
 - **Battle Value:** 1667 
 - [*More Info*](avatar/avatar_av1-of.md) 
@@ -189,6 +216,9 @@
   - MML 3 w/ Artemis IV × 2 (ammo: 80 LRM, 33 SRM) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/168/avatar-av1-oh) 
 - **Battle Value:** 1598 
 - [*More Info*](avatar/avatar_av1-oh.md) 
@@ -209,6 +239,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/171/avatar-av1-ou) 
 - **Battle Value:** 1359 
 - [*More Info*](avatar/avatar_av1-ou.md) 
@@ -227,6 +260,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/169/avatar-av1-oi) 
 - **Battle Value:** 1606 
 - [*More Info*](avatar/avatar_av1-oi.md) 
@@ -244,6 +280,9 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6874/avatar-av1-oj) 
 - **Battle Value:** 2223 
 - [*More Info*](avatar/avatar_av1-oj.md) 
@@ -265,6 +304,9 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** SO:Unending Faith - Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7634/avatar-av1-oblo) 
 - **Battle Value:** 1550 
 - [*More Info*](avatar/avatar_av1-oblo.md) 

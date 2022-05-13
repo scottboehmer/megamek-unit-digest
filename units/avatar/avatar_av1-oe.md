@@ -19,6 +19,9 @@
   - Guardian ECM Suite 
   - CASE 
   - C3i 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/165/avatar-av1-oe) 
 - **Battle Value:** 1563 
 

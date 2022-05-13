@@ -14,6 +14,11 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (LB 5-X AC) 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (LB 5-X AC) 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2010/man-o-war-gargoyle-prime) 
 - **Battle Value:** 1537 
 - [*More Info*](gargoyle/gargoyle_prime.md) 
@@ -32,6 +37,13 @@
   - Medium Pulse Laser 
   - ER Medium Laser 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
+  - Stabilized Weapon (ER PPC) 
+  - Stabilized Weapon (Large Pulse Laser) 
+  - Stabilized Weapon (Medium Pulse Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Small Laser) 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2002/man-o-war-gargoyle-a) 
 - **Battle Value:** 2689 
 - [*More Info*](gargoyle/gargoyle_a.md) 
@@ -50,6 +62,10 @@
   - SRM 4 w/ Artemis IV (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Gauss Rifle) 
+  - Stabilized Weapon (LRM 10) 
+  - Stabilized Weapon (SRM 4) 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2003/man-o-war-gargoyle-b) 
 - **Battle Value:** 1843 
 - [*More Info*](gargoyle/gargoyle_b.md) 
@@ -68,6 +84,15 @@
 - **Equipment:** 
   - Inner Sphere A-Pod × 3 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (Ultra AC/20) 
+  - Stabilized Weapon (Ultra AC/20) 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2004/man-o-war-gargoyle-c) 
 - **Battle Value:** 2417 
 - [*More Info*](gargoyle/gargoyle_c.md) 
@@ -86,6 +111,11 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER Large Laser) 
+  - Stabilized Weapon (Medium Pulse Laser) 
+  - Stabilized Weapon (ER Large Laser) 
+  - Stabilized Weapon (Medium Pulse Laser) 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2005/man-o-war-gargoyle-d) 
 - **Battle Value:** 2499 
 - [*More Info*](gargoyle/gargoyle_d.md) 
@@ -106,6 +136,9 @@
   - A-Pod × 2 
   - CASE 
   - Light TAG 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** OTP: Red Corsair - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2001/man-o-war-gargoyle-conal) 
 - **Battle Value:** 2580 
 - [*More Info*](gargoyle/gargoyle_conal.md) 
@@ -125,6 +158,11 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Ultra AC/10) 
+  - Stabilized Weapon (Heavy Large Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2008/man-o-war-gargoyle-h) 
 - **Battle Value:** 2183 
 - [*More Info*](gargoyle/gargoyle_h.md) 
@@ -145,6 +183,10 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Stabilized Weapon (ATM 12) 
+  - Stabilized Weapon (Heavy Medium Laser) 
+  - Stabilized Weapon (Heavy Medium Laser) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2006/man-o-war-gargoyle-e) 
 - **Battle Value:** 2257 
 - [*More Info*](gargoyle/gargoyle_e.md) 
@@ -163,6 +205,9 @@
   - SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (HAG 20) 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2009/man-o-war-gargoyle-m) 
 - **Battle Value:** 2182 
 - [*More Info*](gargoyle/gargoyle_m.md) 
@@ -181,6 +226,12 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (LB 20-X AC) 
+  - Stabilized Weapon (LB 20-X AC) 
+  - Stabilized Weapon (AP Gauss Rifle) 
+  - Stabilized Weapon (AP Gauss Rifle) 
+  - Stabilized Weapon (AP Gauss Rifle) 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2007/man-o-war-gargoyle-g) 
 - **Battle Value:** 2156 
 - [*More Info*](gargoyle/gargoyle_g.md) 
@@ -307,6 +358,11 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Streak SRM 6) 
+  - Stabilized Weapon (ProtoMech AC/8) 
+  - Stabilized Weapon (Streak SRM 6) 
+  - Stabilized Weapon (ProtoMech AC/8) 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7754/man-o-war-gargoyle-t) 
 - **Battle Value:** 1635 
 - [*More Info*](gargoyle/gargoyle_t.md) 

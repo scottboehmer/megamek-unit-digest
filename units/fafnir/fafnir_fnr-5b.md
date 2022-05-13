@@ -20,6 +20,8 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Stabilized Weapon (Gauss Rifle) 
+  - Stabilized Weapon (Gauss Rifle) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4153/fafnir-fnr-5b) 
 - **Battle Value:** 2625 
 

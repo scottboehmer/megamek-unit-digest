@@ -16,6 +16,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
+  - Stabilized Weapon (Small Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2208/mongoose-mon-66) 
 - **Battle Value:** 758 
 - [*More Info*](mongoose/mongoose_mon-66.md) 
@@ -37,6 +39,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
+  - Stabilized Weapon (Small Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2209/mongoose-mon-66b) 
 - **Battle Value:** 934 
 - [*More Info*](mongoose/mongoose_mon-66b.md) 
@@ -76,6 +79,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
+  - Stabilized Weapon (Small Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4656/mongoose-mon-69) 
 - **Battle Value:** 737 
 - [*More Info*](mongoose/mongoose_mon-69.md) 
@@ -94,6 +99,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2213/mongoose-mon-70) 
 - **Battle Value:** 750 
 - [*More Info*](mongoose/mongoose_mon-70.md) 
@@ -112,6 +118,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
+  - Stabilized Weapon (Small Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2210/mongoose-mon-67) 
 - **Battle Value:** 741 
 - [*More Info*](mongoose/mongoose_mon-67.md) 
@@ -191,6 +199,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
+  - Stabilized Weapon (Small Laser) 
+  - Stabilized Weapon (Medium Pulse Laser) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2214/mongoose-mon-76) 
 - **Battle Value:** 894 
 - [*More Info*](mongoose/mongoose_mon-76.md) 
@@ -213,6 +223,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
+  - Stabilized Weapon (Small Laser) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2215/mongoose-mon-86) 
 - **Battle Value:** 887 
 - [*More Info*](mongoose/mongoose_mon-86.md) 

@@ -17,6 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Weak Legs 
+  - Improved Cooling Jacket (ER PPC) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1655/jackal-ja-kl-55) 
 - **Battle Value:** 1034 
 

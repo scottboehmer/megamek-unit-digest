@@ -17,6 +17,11 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Ultra AC/10) 
+  - Stabilized Weapon (Heavy Large Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2008/man-o-war-gargoyle-h) 
 - **Battle Value:** 2183 
 

@@ -23,6 +23,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2051/marauder-mad-9w2) 
 - **Battle Value:** 1868 
 

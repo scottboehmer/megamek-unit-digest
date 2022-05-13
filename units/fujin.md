@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - No/Minimal Arms 
+  - Directional Torso Mount (ER PPC) 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8414/fujin-rjn-301-f) 
 - **Battle Value:** 1770 
 - [*More Info*](fujin/fujin_rjn-301-f.md) 

@@ -14,6 +14,11 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Exposed Weapon Linkage (Ultra AC/10) 
+  - Static Ammo Feed (Ultra AC/10) 
+  - Exposed Weapon Linkage (Ultra AC/10) 
+  - Static Ammo Feed (Ultra AC/10) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/781/cygnus-standard) 
 - **Battle Value:** 2583 
 - [*More Info*](cygnus/cygnus_standard.md) 
@@ -31,6 +36,11 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Exposed Weapon Linkage (HAG 40) 
+  - Static Ammo Feed (HAG 40) 
+  - Exposed Weapon Linkage (HAG 40) 
+  - Static Ammo Feed (HAG 40) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/782/cygnus-2) 
 - **Battle Value:** 3421 
 - [*More Info*](cygnus/cygnus_2.md) 
@@ -47,6 +57,14 @@
   - HAG 20 × 4 (ammo: 36) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Exposed Weapon Linkage (HAG 20) 
+  - Static Ammo Feed (HAG 20) 
+  - Static Ammo Feed (HAG 20) 
+  - Exposed Weapon Linkage (HAG 20) 
+  - Static Ammo Feed (HAG 20) 
+  - Exposed Weapon Linkage (HAG 20) 
+  - Static Ammo Feed (HAG 20) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/783/cygnus-3) 
 - **Battle Value:** 2569 
 - [*More Info*](cygnus/cygnus_3.md) 
@@ -66,6 +84,11 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Exposed Weapon Linkage (LB 20-X AC) 
+  - Static Ammo Feed (LB 20-X AC) 
+  - Exposed Weapon Linkage (LB 20-X AC) 
+  - Static Ammo Feed (LB 20-X AC) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6843/cygnus-4) 
 - **Battle Value:** 2570 
 - [*More Info*](cygnus/cygnus_4.md) 

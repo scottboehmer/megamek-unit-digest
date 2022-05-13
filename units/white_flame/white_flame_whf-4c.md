@@ -22,6 +22,10 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (Snub-Nose PPC) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5693/white-flame-whf-4c) 
 - **Battle Value:** 1680 
 

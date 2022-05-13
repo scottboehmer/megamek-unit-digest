@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (Light AC/2) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1591/hussar-hsr-900-d) 
 - **Battle Value:** 551 
 

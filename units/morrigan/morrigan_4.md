@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Legs 
+  - Stabilized Weapon (TSEMP) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6927/morrigan-4) 
 - **Battle Value:** 2063 
 

@@ -20,6 +20,9 @@
   - Extended Torso Twist 
   - Exposed Actuators 
   - Bad Reputation (Clan) 
+  - EM Interference (ER Large Pulse Laser) 
+  - EM Interference (ER Medium Pulse Laser) 
+  - EM Interference (ER Medium Pulse Laser) 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3818/beowulf-iic-standard) 
 - **Battle Value:** 2048 
 - [*More Info*](beowulf_iic/beowulf_iic_standard.md) 
@@ -44,6 +47,9 @@
   - Extended Torso Twist 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
+  - EM Interference (ER Large Laser) 
+  - EM Interference (ER Medium Pulse Laser) 
+  - EM Interference (ER Medium Pulse Laser) 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7294/beowulf-iic-pr) 
 - **Battle Value:** 1992 
 - [*More Info*](beowulf_iic/beowulf_iic_pr.md) 

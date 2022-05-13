@@ -16,6 +16,9 @@
   - Medium X-Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium X-Pulse Laser) 
+  - Stabilized Weapon (Medium X-Pulse Laser) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1174/gallant-glt-8-0) 
 - **Battle Value:** 1666 
 

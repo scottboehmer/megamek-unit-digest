@@ -32,6 +32,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ammunition Feed Problem (Streak SRM 2) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2860/sentinel-stn-3l) 
 - **Battle Value:** 717 
 - [*More Info*](sentinel/sentinel_stn-3l.md) 
@@ -68,6 +69,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ammunition Feed Problem (SRM 2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2857/sentinel-stn-3k) 
 - **Battle Value:** 652 
 - [*More Info*](sentinel/sentinel_stn-3k.md) 
@@ -86,6 +88,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ammunition Feed Problem (SRM 2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2858/sentinel-stn-3ka) 
 - **Battle Value:** 847 
 - [*More Info*](sentinel/sentinel_stn-3ka.md) 
@@ -104,6 +107,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ammunition Feed Problem (SRM 2) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2859/sentinel-stn-3kb) 
 - **Battle Value:** 823 
 - [*More Info*](sentinel/sentinel_stn-3kb.md) 
@@ -122,6 +126,7 @@
   - SRM 2 (ammo: 50) 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ammunition Feed Problem (SRM 2) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2862/sentinel-stn-3m) 
 - **Battle Value:** 758 
 - [*More Info*](sentinel/sentinel_stn-3m.md) 
@@ -160,6 +165,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ammunition Feed Problem (SRM 2) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2865/sentinel-stn-c) 
 - **Battle Value:** 689 
 - [*More Info*](sentinel/sentinel_stn-c.md) 

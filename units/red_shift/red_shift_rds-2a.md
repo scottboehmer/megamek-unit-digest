@@ -19,6 +19,7 @@
   - Improved Communications 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
+  - Accurate Weapon (TAG) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4906/red-shift-rds-2a) 
 - **Battle Value:** 626 
 

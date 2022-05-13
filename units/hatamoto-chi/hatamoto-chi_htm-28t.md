@@ -20,6 +20,8 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Modular Weapon (Streak SRM 6) 
+  - Modular Weapon (Streak SRM 6) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1401/hatamoto-chi-htm-28t) 
 - **Battle Value:** 2039 
 

@@ -18,6 +18,9 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Exposed Weapon Linkage (RAC/5) 
+  - Modular Weapon (RAC/5) 
+  - Static Ammo Feed (RAC/5) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/391/blade-bld-xl) 
 - **Battle Value:** 1314 
 

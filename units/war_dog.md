@@ -19,6 +19,10 @@
   - Anti-Missile System (ammo: 24) 
 - **Design Quirks:** 
   - No Torso Twist 
+  - Accurate Weapon (Streak SRM 2 (OS)) 
+  - Fast Reload (Streak SRM 2 (OS)) 
+  - Accurate Weapon (Streak SRM 2 (OS)) 
+  - Fast Reload (Streak SRM 2 (OS)) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3476/war-dog-wr-dg-02fc) 
 - **Battle Value:** 1814 
 - [*More Info*](war_dog/war_dog_wr-dg-02fc.md) 

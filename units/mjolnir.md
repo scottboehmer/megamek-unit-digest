@@ -16,6 +16,7 @@
   - Mace 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Accurate Weapon (Mace) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2194/mjolnir-mlr-b2) 
 - **Battle Value:** 670 
 - [*More Info*](mjolnir/mjolnir_mlr-b2.md) 
@@ -36,6 +37,7 @@
   - Mace 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Accurate Weapon (Mace) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2195/mjolnir-mlr-bx) 
 - **Battle Value:** 612 
 - [*More Info*](mjolnir/mjolnir_mlr-bx.md) 

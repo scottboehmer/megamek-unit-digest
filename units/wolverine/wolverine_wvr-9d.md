@@ -24,6 +24,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (RAC/2) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3580/wolverine-wvr-9d) 
 - **Battle Value:** 1369 
 

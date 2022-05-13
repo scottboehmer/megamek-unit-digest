@@ -18,6 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Stable 
+  - Exposed Weapon Linkage (RAC/2) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6627/ursa-ura-2a) 
 - **Battle Value:** 1887 
 

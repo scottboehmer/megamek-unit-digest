@@ -75,6 +75,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
+  - Improved Cooling Jacket (Blazer Cannon) 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772/zeus-zeu-6y) 
 - **Battle Value:** 1323 
 - [*More Info*](zeus/zeus_zeu-6y.md) 

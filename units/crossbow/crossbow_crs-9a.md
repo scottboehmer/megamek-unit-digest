@@ -16,6 +16,8 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Poor Targeting (Long) 
+  - Modular Weapon (Streak SRM 6) 
+  - Modular Weapon (Streak SRM 6) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/735/crossbow-crs-9a) 
 - **Battle Value:** 1583 
 

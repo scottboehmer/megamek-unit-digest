@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
+  - Fast Reload (Ultra AC/20) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/981/enforcer-iii-enf-6h) 
 - **Battle Value:** 1603 
 

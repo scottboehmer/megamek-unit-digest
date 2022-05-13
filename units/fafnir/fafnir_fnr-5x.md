@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Stabilized Weapon (Improved Heavy Gauss Rifle) 
+  - Stabilized Weapon (Improved Heavy Gauss Rifle) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1021/fafnir-fnr-5x) 
 - **Battle Value:** 2610 
 

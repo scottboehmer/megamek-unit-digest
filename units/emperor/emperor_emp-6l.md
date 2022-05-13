@@ -21,6 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Cooling Jacket (ER PPC) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/967/emperor-emp-6l) 
 - **Battle Value:** 2681 
 

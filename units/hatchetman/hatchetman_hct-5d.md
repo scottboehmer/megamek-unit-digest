@@ -20,6 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Fast Reload (Ultra AC/10) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5445/hatchetman-hct-5d) 
 - **Battle Value:** 1012 
 

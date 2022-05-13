@@ -20,6 +20,8 @@
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Light AC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/426/brahma-brm-5a) 
 - **Battle Value:** 1572 
 

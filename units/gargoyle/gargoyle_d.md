@@ -16,6 +16,11 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER Large Laser) 
+  - Stabilized Weapon (Medium Pulse Laser) 
+  - Stabilized Weapon (ER Large Laser) 
+  - Stabilized Weapon (Medium Pulse Laser) 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2005/man-o-war-gargoyle-d) 
 - **Battle Value:** 2499 
 

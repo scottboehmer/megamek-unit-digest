@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Cooling Jacket (Large Laser) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/965/emperor-emp-6a-nerran) 
 - **Battle Value:** 2247 
 

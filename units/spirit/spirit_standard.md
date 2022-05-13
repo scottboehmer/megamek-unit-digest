@@ -19,6 +19,8 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Streak SRM 4) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5108/spirit-standard) 
 - **Battle Value:** 1673 
 

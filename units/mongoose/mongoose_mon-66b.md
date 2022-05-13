@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
+  - Stabilized Weapon (Small Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2209/mongoose-mon-66b) 
 - **Battle Value:** 934 
 

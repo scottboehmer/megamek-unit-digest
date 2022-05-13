@@ -16,6 +16,10 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No Torso Twist 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2172/mercury-mcy-99) 
 - **Battle Value:** 586 
 - [*More Info*](mercury/mercury_mcy-99.md) 
@@ -34,6 +38,10 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No Torso Twist 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4624/mercury-mcy-98) 
 - **Battle Value:** 553 
 - [*More Info*](mercury/mercury_mcy-98.md) 
@@ -55,6 +63,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No Torso Twist 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Medium Laser) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2171/mercury-mcy-97) 
 - **Battle Value:** 466 
 - [*More Info*](mercury/mercury_mcy-97.md) 
@@ -76,6 +86,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No Torso Twist 
+  - Modular Weapon (ER Small Laser) 
+  - Modular Weapon (ER Medium Laser) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2169/mercury-mcy-102) 
 - **Battle Value:** 510 
 - [*More Info*](mercury/mercury_mcy-102.md) 
@@ -98,6 +110,10 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No Torso Twist 
+  - Modular Weapon (ER Small Laser) 
+  - Modular Weapon (TAG) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (ER Medium Laser) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2170/mercury-mcy-104) 
 - **Battle Value:** 683 
 - [*More Info*](mercury/mercury_mcy-104.md) 
@@ -116,6 +132,10 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No Torso Twist 
+  - Modular Weapon (ER Small Laser) 
+  - Modular Weapon (ER Small Laser) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (ER Medium Laser) 
 - **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8305/mercury-mcy-105) 
 - **Battle Value:** 795 
 - [*More Info*](mercury/mercury_mcy-105.md) 

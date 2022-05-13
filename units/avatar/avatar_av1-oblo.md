@@ -19,6 +19,9 @@
   - Guardian ECM Suite 
   - C3i 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** SO:Unending Faith - Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7634/avatar-av1-oblo) 
 - **Battle Value:** 1550 
 

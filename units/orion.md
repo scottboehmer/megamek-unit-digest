@@ -16,6 +16,7 @@
   - Easy to Maintain 
   - Anti-Aircraft Targeting 
   - Rugged (×2) 
+  - Ammunition Feed Problem (AC/5) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4755/orion-on1-c) 
 - **Battle Value:** 973 
 - [*More Info*](orion/orion_on1-c.md) 
@@ -38,6 +39,7 @@
   - Easy to Maintain 
   - Anti-Aircraft Targeting 
   - Rugged (×2) 
+  - Ammunition Feed Problem (Primitive AC/10) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7405/orion-on1-h) 
 - **Battle Value:** 1307 
 - [*More Info*](orion/orion_on1-h.md) 

@@ -14,6 +14,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Light Active Probe 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (ER Medium Laser) 
+  - Jettison-Capable Weapon (ER Medium Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2313/ocelot-standard) 
 - **Battle Value:** 1439 
 - [*More Info*](ocelot/ocelot_standard.md) 
@@ -30,6 +33,9 @@
 - **Weapons:** 
   - ER PPC 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (ER Medium Laser) 
+  - Jettison-Capable Weapon (ER Medium Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2314/ocelot-2) 
 - **Battle Value:** 1734 
 - [*More Info*](ocelot/ocelot_2.md) 
@@ -50,6 +56,9 @@
   - ECM Suite 
   - Light Active Probe 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Modular Weapon (Heavy Medium Laser) 
+  - Modular Weapon (Heavy Medium Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2315/ocelot-3) 
 - **Battle Value:** 1594 
 - [*More Info*](ocelot/ocelot_3.md) 
@@ -66,6 +75,9 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Medium Pulse Laser) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6925/ocelot-4) 
 - **Battle Value:** 1468 
 - [*More Info*](ocelot/ocelot_4.md) 

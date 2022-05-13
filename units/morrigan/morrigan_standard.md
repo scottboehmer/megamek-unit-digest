@@ -19,6 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Weak Legs 
+  - Stabilized Weapon (Heavy Large Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2231/morrigan-standard) 
 - **Battle Value:** 1523 
 

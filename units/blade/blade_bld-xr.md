@@ -18,6 +18,14 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Protected Actuators 
+  - Modular Weapon (Light PPC) 
+  - Exposed Weapon Linkage (Light AC/2) 
+  - Modular Weapon (Light AC/2) 
+  - Static Ammo Feed (Light AC/2) 
+  - Modular Weapon (Light PPC) 
+  - Exposed Weapon Linkage (Light AC/2) 
+  - Modular Weapon (Light AC/2) 
+  - Static Ammo Feed (Light AC/2) 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7345/blade-bld-xr) 
 - **Battle Value:** 1101 
 

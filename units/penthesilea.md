@@ -19,6 +19,9 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2470/penthesilea-pen-2h) 
 - **Battle Value:** 1899 
 - [*More Info*](penthesilea/penthesilea_pen-2h.md) 
@@ -67,6 +70,7 @@
   - Machine Gun Array 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - EM Interference (Bombast Laser) 
 - **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7347/penthesilea-pen-3h) 
 - **Battle Value:** 1654 
 - [*More Info*](penthesilea/penthesilea_pen-3h.md) 

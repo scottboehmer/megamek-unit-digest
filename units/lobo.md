@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Directional Torso Mount (Anti-Missile System) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4528/lobo-standard) 
 - **Battle Value:** 1715 
 - [*More Info*](lobo/lobo_standard.md) 

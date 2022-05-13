@@ -15,6 +15,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (LRM 15) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3295/trebuchet-tbt-3c) 
 - **Battle Value:** 1342 
 - [*More Info*](trebuchet/trebuchet_tbt-3c.md) 
@@ -32,6 +33,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (LRM 15) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3297/trebuchet-tbt-5n) 
 - **Battle Value:** 1191 
 - [*More Info*](trebuchet/trebuchet_tbt-5n.md) 
@@ -50,6 +52,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (LRM 15) 
 - **Sources:** TRO SW - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3296/trebuchet-tbt-5j) 
 - **Battle Value:** 1191 
 - [*More Info*](trebuchet/trebuchet_tbt-5j.md) 
@@ -67,6 +70,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (SRM 6) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3298/trebuchet-tbt-5s) 
 - **Battle Value:** 984 
 - [*More Info*](trebuchet/trebuchet_tbt-5s.md) 
@@ -85,6 +89,7 @@
   - SRM 2 (ammo: 50) 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (AC/5) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3299/trebuchet-tbt-7k) 
 - **Battle Value:** 996 
 - [*More Info*](trebuchet/trebuchet_tbt-7k.md) 
@@ -106,6 +111,8 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (LRM 15) 
+  - Fast Reload (Narc) 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3300/trebuchet-tbt-7m) 
 - **Battle Value:** 1348 
 - [*More Info*](trebuchet/trebuchet_tbt-7m.md) 
@@ -128,6 +135,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (MRM 20) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3302/trebuchet-tbt-9k) 
 - **Battle Value:** 1329 
 - [*More Info*](trebuchet/trebuchet_tbt-9k.md) 
@@ -148,6 +156,8 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (MML 5) 
+  - Fast Reload (MML 5) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3301/trebuchet-tbt-8b) 
 - **Battle Value:** 1314 
 - [*More Info*](trebuchet/trebuchet_tbt-8b.md) 
@@ -175,6 +185,8 @@
   - Easy to Maintain 
   - Non-Standard Parts 
   - Prototype 
+  - Fast Reload (Streak SRM 6) 
+  - Jettison-Capable Weapon (Chain Whip) 
 - **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5563/trebuchet-tbt-xk7) 
 - **Battle Value:** 1549 
 - [*More Info*](trebuchet/trebuchet_tbt-xk7.md) 
@@ -201,6 +213,9 @@
   - Easy to Maintain 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
+  - Fast Reload (Streak SRM 6) 
+  - Jettison-Capable Weapon (Chain Whip) 
+  - Exposed Weapon Linkage (BattleMech Taser) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5275/trebuchet-tbt-k7r) 
 - **Battle Value:** 1415 
 - [*More Info*](trebuchet/trebuchet_tbt-k7r.md) 
@@ -239,6 +254,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (LRM 15) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6901/trebuchet-tbt-9r) 
 - **Battle Value:** 2165 
 - [*More Info*](trebuchet/trebuchet_tbt-9r.md) 

@@ -16,6 +16,8 @@
   - Sword 
 - **Equipment:** 
   - Angel ECM Suite 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Sword) 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4086/dola-dol-1a1) 
 - **Battle Value:** 950 
 

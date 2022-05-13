@@ -23,6 +23,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
+  - Directional Torso Mount (Anti-Missile System) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2273/night-wolf-standard) 
 - **Battle Value:** 2878 
 

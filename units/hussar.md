@@ -13,6 +13,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (ER Large Laser) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1585/hussar-hsr-200-d) 
 - **Battle Value:** 636 
 - [*More Info*](hussar/hussar_hsr-200-d.md) 
@@ -33,6 +34,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (ER Large Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1586/hussar-hsr-200-db) 
 - **Battle Value:** 934 
 - [*More Info*](hussar/hussar_hsr-200-db.md) 
@@ -50,6 +52,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (Large Laser) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1587/hussar-hsr-300-d) 
 - **Battle Value:** 543 
 - [*More Info*](hussar/hussar_hsr-300-d.md) 
@@ -68,6 +71,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (Large Laser) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1588/hussar-hsr-350-d) 
 - **Battle Value:** 731 
 - [*More Info*](hussar/hussar_hsr-350-d.md) 
@@ -85,6 +89,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (LB 10-X AC) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1589/hussar-hsr-400-d) 
 - **Battle Value:** 611 
 - [*More Info*](hussar/hussar_hsr-400-d.md) 
@@ -104,6 +109,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (ER PPC) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1590/hussar-hsr-500-d) 
 - **Battle Value:** 977 
 - [*More Info*](hussar/hussar_hsr-500-d.md) 
@@ -123,6 +129,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (Light AC/2) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1591/hussar-hsr-900-d) 
 - **Battle Value:** 551 
 - [*More Info*](hussar/hussar_hsr-900-d.md) 
@@ -141,6 +148,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Rugged (×2) 
+  - Directional Torso Mount (Snub-Nose PPC) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1592/hussar-hsr-950-d) 
 - **Battle Value:** 1131 
 - [*More Info*](hussar/hussar_hsr-950-d.md) 

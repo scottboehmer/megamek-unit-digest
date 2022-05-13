@@ -69,6 +69,8 @@
   - Supercharger 
 - **Design Quirks:** 
   - Non-Standard Parts 
+  - Jettison-Capable Weapon (Machine Gun) 
+  - Jettison-Capable Weapon (Machine Gun) 
 - **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5780/pompier-gm-fl-firemech) 
 - **Battle Value:** 88 
 - [*More Info*](pompier/pompier_gm-fl_firemech.md) 

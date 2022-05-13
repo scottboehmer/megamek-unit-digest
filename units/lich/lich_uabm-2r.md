@@ -21,6 +21,10 @@
   - Drone Operating System 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Modular Weapon (ER Large Laser) 
+  - Modular Weapon (Light Gauss Rifle) 
+  - Modular Weapon (ER Large Laser) 
+  - Modular Weapon (Light Gauss Rifle) 
 - **Sources:** XTRO Republic III - Dark Ag , [Master Unit List](http://masterunitlist.info/Unit/Details/7385/lich-uabm-2r) 
 - **Battle Value:** 1719 
 

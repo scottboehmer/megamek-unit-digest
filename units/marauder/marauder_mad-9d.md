@@ -21,6 +21,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Silver Bullet) 
 - **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6866/marauder-mad-9d) 
 - **Battle Value:** 1967 
 

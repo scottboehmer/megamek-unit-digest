@@ -21,6 +21,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8233/crusader-crd-9r) 
 - **Battle Value:** 1612 
 

@@ -18,6 +18,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (SRM 4) 
 - **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1400/hatamoto-chi-htm-27t-daniel) 
 - **Battle Value:** 1435 
 

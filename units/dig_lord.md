@@ -38,6 +38,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Prototype 
+  - Jettison-Capable Weapon (Medium Vibroblade) 
 - **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5565/dig-lord-rcl-z1-armed-miningmech) 
 - **Battle Value:** 681 
 - [*More Info*](dig_lord/dig_lord_rcl-z1_armed_miningmech.md) 

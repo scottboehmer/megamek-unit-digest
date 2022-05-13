@@ -21,6 +21,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (LB 10-X AC) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2041/marauder-mad-5m) 
 - **Battle Value:** 1471 
 

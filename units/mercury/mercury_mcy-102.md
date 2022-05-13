@@ -19,6 +19,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No Torso Twist 
+  - Modular Weapon (ER Small Laser) 
+  - Modular Weapon (ER Medium Laser) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2169/mercury-mcy-102) 
 - **Battle Value:** 510 
 

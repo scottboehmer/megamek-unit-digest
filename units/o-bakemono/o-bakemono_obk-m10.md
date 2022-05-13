@@ -18,6 +18,13 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Modular Weapon (Small Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Arrow IV) 
+  - Modular Weapon (Arrow IV) 
+  - Modular Weapon (Arrow IV) 
+  - Modular Weapon (Arrow IV) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2310/o-bakemono-obk-m10) 
 - **Battle Value:** 1659 
 

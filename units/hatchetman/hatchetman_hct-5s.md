@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Fast Reload (LB 10-X AC) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1413/hatchetman-hct-5s) 
 - **Battle Value:** 1039 
 

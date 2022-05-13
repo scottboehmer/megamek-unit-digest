@@ -21,6 +21,9 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
+  - Stabilized Weapon (ER Medium Laser) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2470/penthesilea-pen-2h) 
 - **Battle Value:** 1899 
 

@@ -18,6 +18,8 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Cooling Jacket (Snub-Nose PPC) 
+  - Improved Cooling Jacket (Snub-Nose PPC) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/969/emperor-emp-6me-mercury-elite) 
 - **Battle Value:** 2004 
 

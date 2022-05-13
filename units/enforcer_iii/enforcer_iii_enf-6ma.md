@@ -17,6 +17,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Barrel Fists 
+  - Fast Reload (AC/10) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/983/enforcer-iii-enf-6ma) 
 - **Battle Value:** 1275 
 

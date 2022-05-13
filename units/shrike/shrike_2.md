@@ -23,6 +23,8 @@
   - Command ’Mech 
   - Distracting 
   - Reinforced Legs 
+  - Exposed Weapon Linkage (Ultra AC/10) 
+  - Exposed Weapon Linkage (Ultra AC/10) 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6293/shrike-2) 
 - **Battle Value:** 2846 
 

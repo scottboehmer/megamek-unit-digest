@@ -20,6 +20,7 @@
   - Searchlight 
   - Poor Workmanship 
   - Bad Reputation (Inner Sphere) 
+  - Accurate Weapon (AC/5) 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7182/swordsman-swd-2) 
 - **Battle Value:** 803 
 

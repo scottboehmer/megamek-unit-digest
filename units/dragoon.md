@@ -17,6 +17,9 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Modular Weapon (ER PPC) 
+  - Modular Weapon (LB 10-X AC) 
+  - Modular Weapon (LB 10-X AC) 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6780/dragoon-aem-01) 
 - **Battle Value:** 1669 
 - [*More Info*](dragoon/dragoon_aem-01.md) 
@@ -39,6 +42,15 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Modular Weapon (Small Pulse Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (AC/20) 
+  - Modular Weapon (AC/20) 
+  - Modular Weapon (ER PPC) 
+  - Modular Weapon (Medium Laser) 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6781/dragoon-aem-02) 
 - **Battle Value:** 1691 
 - [*More Info*](dragoon/dragoon_aem-02.md) 
@@ -61,6 +73,14 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Modular Weapon (Small Pulse Laser) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (Small Pulse Laser) 
+  - Modular Weapon (LRM 15) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (LRM 15) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (LRM 15) 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6782/dragoon-aem-03) 
 - **Battle Value:** 1562 
 - [*More Info*](dragoon/dragoon_aem-03.md) 
@@ -83,6 +103,14 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Modular Weapon (Medium Laser) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (Gauss Rifle) 
+  - Modular Weapon (SRM 4) 
+  - Modular Weapon (ER PPC) 
+  - Modular Weapon (SRM 4) 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6783/dragoon-aem-04) 
 - **Battle Value:** 1710 
 - [*More Info*](dragoon/dragoon_aem-04.md) 
@@ -107,6 +135,10 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Modular Weapon (LB 10-X AC) 
+  - Modular Weapon (Plasma Rifle) 
+  - Modular Weapon (Medium X-Pulse Laser) 
+  - Modular Weapon (Medium X-Pulse Laser) 
 - **Sources:** TP Epsilon Eridani - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7399/dragoon-aem-05c) 
 - **Battle Value:** 1893 
 - [*More Info*](dragoon/dragoon_aem-05c.md) 

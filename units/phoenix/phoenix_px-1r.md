@@ -18,6 +18,9 @@
 - **Design Quirks:** 
   - Poor Workmanship 
   - Weak Legs 
+  - Directional Torso Mount (SRM 2) 
+  - Directional Torso Mount (SRM 2) 
+  - EM Interference (PPC) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2488/phoenix-px-1r) 
 - **Battle Value:** 917 
 

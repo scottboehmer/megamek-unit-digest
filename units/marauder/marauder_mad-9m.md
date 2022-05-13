@@ -20,6 +20,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Streak SRM 6) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2047/marauder-mad-9m) 
 - **Battle Value:** 1704 
 

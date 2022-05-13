@@ -18,6 +18,8 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (AC/5) 
+  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2033/marauder-mad-1r) 
 - **Battle Value:** 1420 
 - [*More Info*](marauder/marauder_mad-1r.md) 
@@ -40,6 +42,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (AC/5) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2034/marauder-mad-2r) 
 - **Battle Value:** 1630 
 - [*More Info*](marauder/marauder_mad-2r.md) 
@@ -60,6 +63,8 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (AC/5) 
+  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2038/marauder-mad-3r) 
 - **Battle Value:** 1363 
 - [*More Info*](marauder/marauder_mad-3r.md) 
@@ -80,6 +85,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Large Laser) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2035/marauder-mad-3d) 
 - **Battle Value:** 1470 
 - [*More Info*](marauder/marauder_mad-3d.md) 
@@ -100,6 +106,8 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (AC/5) 
+  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2037/marauder-mad-3m) 
 - **Battle Value:** 1335 
 - [*More Info*](marauder/marauder_mad-3m.md) 
@@ -121,6 +129,8 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (AC/5) 
+  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2036/marauder-mad-3l) 
 - **Battle Value:** 1369 
 - [*More Info*](marauder/marauder_mad-3l.md) 
@@ -141,6 +151,8 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (PPC) 
+  - Directional Torso Mount (Medium Laser) 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2030/marauder-bounty-hunter-3015) 
 - **Battle Value:** 1919 
 - [*More Info*](marauder/marauder_bounty_hunter-3015.md) 
@@ -161,6 +173,8 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (SRM 4) 
+  - Directional Torso Mount (SRM 4) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2052/marauder-mad-sd-douglass) 
 - **Battle Value:** 1459 
 - [*More Info*](marauder/marauder_mad-sd_douglass.md) 
@@ -181,6 +195,8 @@
   - Cramped Cockpit 
   - Difficult to Maintain 
   - No Ejection System 
+  - Improved Cooling Jacket (Blazer Cannon) 
+  - Improved Cooling Jacket (Blazer Cannon) 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x) 
 - **Battle Value:** 1453 
 - [*More Info*](marauder/marauder_mad-4x.md) 
@@ -202,6 +218,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2031/marauder-bounty-hunter-3044) 
 - **Battle Value:** 2103 
 - [*More Info*](marauder/marauder_bounty_hunter-3044.md) 
@@ -226,6 +243,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2039/marauder-mad-5d) 
 - **Battle Value:** 1787 
 - [*More Info*](marauder/marauder_mad-5d.md) 
@@ -248,6 +266,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Ultra AC/5) 
 - **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2032/marauder-c) 
 - **Battle Value:** 1711 
 - [*More Info*](marauder/marauder_c.md) 
@@ -271,6 +290,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (LB 10-X AC) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2041/marauder-mad-5m) 
 - **Battle Value:** 1471 
 - [*More Info*](marauder/marauder_mad-5m.md) 
@@ -293,6 +313,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2043/marauder-mad-5s) 
 - **Battle Value:** 1799 
 - [*More Info*](marauder/marauder_mad-5s.md) 
@@ -352,6 +373,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (ER PPC) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2040/marauder-mad-5l) 
 - **Battle Value:** 2244 
 - [*More Info*](marauder/marauder_mad-5l.md) 
@@ -376,6 +398,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2042/marauder-mad-5r) 
 - **Battle Value:** 1877 
 - [*More Info*](marauder/marauder_mad-5r.md) 
@@ -399,6 +422,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2044/marauder-mad-5t) 
 - **Battle Value:** 1750 
 - [*More Info*](marauder/marauder_mad-5t.md) 
@@ -423,6 +447,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2046/marauder-mad-7d) 
 - **Battle Value:** 1986 
 - [*More Info*](marauder/marauder_mad-7d.md) 
@@ -445,6 +470,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Streak SRM 6) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2047/marauder-mad-9m) 
 - **Battle Value:** 1704 
 - [*More Info*](marauder/marauder_mad-9m.md) 
@@ -492,6 +518,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (LB 10-X AC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2049/marauder-mad-9s) 
 - **Battle Value:** 1786 
 - [*More Info*](marauder/marauder_mad-9s.md) 
@@ -558,6 +585,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2050/marauder-mad-9w) 
 - **Battle Value:** 1788 
 - [*More Info*](marauder/marauder_mad-9w.md) 
@@ -602,6 +630,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2051/marauder-mad-9w2) 
 - **Battle Value:** 1868 
 - [*More Info*](marauder/marauder_mad-9w2.md) 
@@ -700,6 +729,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Silver Bullet) 
 - **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6866/marauder-mad-9d) 
 - **Battle Value:** 1967 
 - [*More Info*](marauder/marauder_mad-9d.md) 

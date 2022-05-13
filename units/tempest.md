@@ -14,6 +14,8 @@
   - Large Pulse Laser 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Directional Torso Mount (Medium Laser) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3169/tempest-tmp-3m) 
 - **Battle Value:** 1786 
 - [*More Info*](tempest/tempest_tmp-3m.md) 
@@ -32,6 +34,8 @@
   - Large Pulse Laser 
   - Medium Laser × 3 
   - SRM 4 (ammo: 25) 
+- **Design Quirks:** 
+  - Directional Torso Mount (Medium Laser) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5188/tempest-tmp-3g) 
 - **Battle Value:** 1810 
 - [*More Info*](tempest/tempest_tmp-3g.md) 
@@ -50,6 +54,8 @@
   - Large Pulse Laser 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Directional Torso Mount (Medium Laser) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5189/tempest-tmp-3ma) 
 - **Battle Value:** 1425 
 - [*More Info*](tempest/tempest_tmp-3ma.md) 
@@ -69,6 +75,8 @@
   - Streak SRM 6 (ammo: 15) 
   - ER Medium Laser × 3 
   - ER Small Laser 
+- **Design Quirks:** 
+  - Directional Torso Mount (ER Medium Laser) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3170/tempest-tmp-3m2-storm-tempest) 
 - **Battle Value:** 1642 
 - [*More Info*](tempest/tempest_tmp-3m2_storm_tempest.md) 

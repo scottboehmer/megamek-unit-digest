@@ -17,6 +17,9 @@
   - Small Laser 
 - **Design Quirks:** 
   - Barrel Fists 
+  - Ammunition Feed Problem (AC/10) 
+  - Fast Reload (AC/10) 
+  - Improved Cooling Jacket (AC/10) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/976/enforcer-enf-4r) 
 - **Battle Value:** 1032 
 

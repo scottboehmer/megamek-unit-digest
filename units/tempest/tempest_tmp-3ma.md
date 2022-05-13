@@ -16,6 +16,8 @@
   - Large Pulse Laser 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
+- **Design Quirks:** 
+  - Directional Torso Mount (Medium Laser) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5189/tempest-tmp-3ma) 
 - **Battle Value:** 1425 
 

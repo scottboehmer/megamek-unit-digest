@@ -34,6 +34,8 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Cooling Jacket (Large Laser) 
+  - Improved Cooling Jacket (Large Laser) 
 - **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/963/emperor-emp-5a) 
 - **Battle Value:** 1830 
 - [*More Info*](emperor/emperor_emp-5a.md) 
@@ -56,6 +58,8 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Cooling Jacket (Large Laser) 
+  - Improved Cooling Jacket (Large Laser) 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/964/emperor-emp-6a) 
 - **Battle Value:** 1969 
 - [*More Info*](emperor/emperor_emp-6a.md) 
@@ -99,6 +103,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Cooling Jacket (Large Laser) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/965/emperor-emp-6a-nerran) 
 - **Battle Value:** 2247 
 - [*More Info*](emperor/emperor_emp-6a_nerran.md) 
@@ -143,6 +148,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Cooling Jacket (ER PPC) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/967/emperor-emp-6l) 
 - **Battle Value:** 2681 
 - [*More Info*](emperor/emperor_emp-6l.md) 
@@ -166,6 +172,8 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Cooling Jacket (ER Large Laser) 
+  - Improved Cooling Jacket (ER Large Laser) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/968/emperor-emp-6m) 
 - **Battle Value:** 2090 
 - [*More Info*](emperor/emperor_emp-6m.md) 
@@ -229,6 +237,8 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Cooling Jacket (Snub-Nose PPC) 
+  - Improved Cooling Jacket (Snub-Nose PPC) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/969/emperor-emp-6me-mercury-elite) 
 - **Battle Value:** 2004 
 - [*More Info*](emperor/emperor_emp-6me_mercury_elite.md) 

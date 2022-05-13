@@ -18,6 +18,9 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
+- **Design Quirks:** 
+  - Stabilized Weapon (Medium Laser) 
+  - Stabilized Weapon (Medium Laser) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/163/avatar-av1-oc) 
 - **Battle Value:** 1406 
 

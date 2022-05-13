@@ -35,6 +35,8 @@
 - **Equipment:** 
   - Inner Sphere B-Pod × 2 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2396/pack-hunter-ii-standard) 
 - **Battle Value:** 1794 
 - [*More Info*](pack_hunter_ii/pack_hunter_ii_standard.md) 
@@ -53,6 +55,8 @@
 - **Equipment:** 
   - A-Pod × 2 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2397/pack-hunter-ii-2) 
 - **Battle Value:** 1457 
 - [*More Info*](pack_hunter_ii/pack_hunter_ii_2.md) 
@@ -71,6 +75,8 @@
   - ER PPC 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2398/pack-hunter-ii-3) 
 - **Battle Value:** 1438 
 - [*More Info*](pack_hunter_ii/pack_hunter_ii_3.md) 
@@ -89,6 +95,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - AES × 4 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6935/pack-hunter-ii-4) 
 - **Battle Value:** 1447 
 - [*More Info*](pack_hunter_ii/pack_hunter_ii_4.md) 

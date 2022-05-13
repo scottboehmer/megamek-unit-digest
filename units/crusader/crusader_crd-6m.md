@@ -21,6 +21,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (Streak SRM 4) 
+  - Stabilized Weapon (Streak SRM 4) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761/crusader-crd-6m) 
 - **Battle Value:** 1373 
 

@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Battlefists 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2929/shockwave-skw-2f) 
 - **Battle Value:** 1453 
 

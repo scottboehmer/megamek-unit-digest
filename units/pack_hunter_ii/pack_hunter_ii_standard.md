@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Inner Sphere B-Pod × 2 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2396/pack-hunter-ii-standard) 
 - **Battle Value:** 1794 
 

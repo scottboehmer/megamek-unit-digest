@@ -15,6 +15,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Barrel Fists 
+  - Fast Reload (Ultra AC/10) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/982/enforcer-iii-enf-6m) 
 - **Battle Value:** 1460 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6m.md) 
@@ -36,6 +37,7 @@
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
+  - Fast Reload (Gauss Rifle) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/980/enforcer-iii-enf-6g) 
 - **Battle Value:** 1858 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6g.md) 
@@ -57,6 +59,7 @@
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
+  - Fast Reload (Gauss Rifle) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/985/enforcer-iii-enf-6t) 
 - **Battle Value:** 1720 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6t.md) 
@@ -77,6 +80,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
+  - Fast Reload (Ultra AC/20) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/981/enforcer-iii-enf-6h) 
 - **Battle Value:** 1603 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6h.md) 
@@ -96,6 +100,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Barrel Fists 
+  - Fast Reload (AC/10) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/983/enforcer-iii-enf-6ma) 
 - **Battle Value:** 1275 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6ma.md) 
@@ -186,6 +191,7 @@
   - Non-Standard Parts 
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
+  - Fast Reload (LB 10-X AC) 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7296/enforcer-iii-enf-7d) 
 - **Battle Value:** 1495 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-7d.md) 

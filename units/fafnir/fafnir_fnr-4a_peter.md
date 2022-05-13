@@ -22,6 +22,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Stabilized Weapon (Heavy Gauss Rifle) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1020/fafnir-fnr-4a-peter) 
 - **Battle Value:** 2458 
 

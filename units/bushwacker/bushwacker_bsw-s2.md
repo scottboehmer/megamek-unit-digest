@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Stabilized Weapon (ER Large Laser) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/448/bushwacker-bsw-s2) 
 - **Battle Value:** 1293 
 

@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Poor Targeting (Long) 
   - Prototype 
+  - Poor Cooling Jacket (Large Laser) 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5583/crossbow-crs-x) 
 - **Battle Value:** 969 
 - [*More Info*](crossbow/crossbow_crs-x.md) 
@@ -34,6 +35,8 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Poor Targeting (Long) 
+  - Modular Weapon (LRM 10) 
+  - Modular Weapon (LRM 10) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/733/crossbow-crs-6b) 
 - **Battle Value:** 1210 
 - [*More Info*](crossbow/crossbow_crs-6b.md) 
@@ -185,6 +188,8 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Poor Targeting (Long) 
+  - Modular Weapon (Streak SRM 6) 
+  - Modular Weapon (Streak SRM 6) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/735/crossbow-crs-9a) 
 - **Battle Value:** 1583 
 - [*More Info*](crossbow/crossbow_crs-9a.md) 

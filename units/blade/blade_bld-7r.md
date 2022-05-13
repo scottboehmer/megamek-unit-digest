@@ -16,6 +16,11 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Exposed Weapon Linkage (RAC/5) 
+  - Modular Weapon (RAC/5) 
+  - Static Ammo Feed (RAC/5) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (ER Small Laser) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6929/blade-bld-7r) 
 - **Battle Value:** 1227 
 

@@ -16,6 +16,8 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3441/vixen-incubus-standard) 
 - **Battle Value:** 1596 
 

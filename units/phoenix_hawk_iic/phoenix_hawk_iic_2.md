@@ -17,6 +17,10 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (LRM 20) 
+  - Fast Reload (LRM 20) 
+  - Fast Reload (LRM 20) 
+  - Fast Reload (LRM 20) 
 - **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2512/phoenix-hawk-iic-2) 
 - **Battle Value:** 2892 
 

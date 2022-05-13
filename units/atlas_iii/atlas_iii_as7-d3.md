@@ -25,6 +25,7 @@
   - Command ’Mech 
   - Distracting 
   - Protected Actuators 
+  - Jettison-Capable Weapon (RAC/2) 
 - **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6358/atlas-iii-as7-d3) 
 - **Battle Value:** 2564 
 

@@ -19,6 +19,7 @@
   - Bomb Bay × 4 
 - **Design Quirks:** 
   - Prototype 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7320/screamer-lam-scr-1x-lam) 
 - **Battle Value:** 1475 
 

@@ -18,6 +18,10 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (Streak SRM 2) 
+  - Stabilized Weapon (Streak SRM 2) 
+  - Stabilized Weapon (Streak SRM 2) 
+  - Stabilized Weapon (Streak SRM 2) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/748/crusader-crd-2r) 
 - **Battle Value:** 1533 
 - [*More Info*](crusader/crusader_crd-2r.md) 
@@ -38,6 +42,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (SRM 6) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/752/crusader-crd-3r) 
 - **Battle Value:** 1317 
 - [*More Info*](crusader/crusader_crd-3r.md) 
@@ -59,6 +65,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (SRM 4) 
+  - Stabilized Weapon (SRM 4) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/751/crusader-crd-3l) 
 - **Battle Value:** 1297 
 - [*More Info*](crusader/crusader_crd-3l.md) 
@@ -78,6 +86,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (SRM 4) 
+  - Stabilized Weapon (SRM 4) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/749/crusader-crd-3d) 
 - **Battle Value:** 1338 
 - [*More Info*](crusader/crusader_crd-3d.md) 
@@ -97,6 +107,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (SRM 6) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/750/crusader-crd-3k) 
 - **Battle Value:** 1290 
 - [*More Info*](crusader/crusader_crd-3k.md) 
@@ -117,6 +129,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael) 
 - **Battle Value:** 1204 
 - [*More Info*](crusader/crusader_crd-3r_crael.md) 
@@ -136,6 +150,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (Streak SRM 2) 
+  - Stabilized Weapon (Streak SRM 2) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/755/crusader-crd-4d) 
 - **Battle Value:** 1309 
 - [*More Info*](crusader/crusader_crd-4d.md) 
@@ -155,6 +171,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k) 
 - **Battle Value:** 1268 
 - [*More Info*](crusader/crusader_crd-4k.md) 
@@ -174,6 +192,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (Streak SRM 2) 
+  - Stabilized Weapon (Streak SRM 2) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/757/crusader-crd-4l) 
 - **Battle Value:** 1309 
 - [*More Info*](crusader/crusader_crd-4l.md) 
@@ -199,6 +219,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (Streak SRM 2) 
+  - Stabilized Weapon (Streak SRM 2) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/759/crusader-crd-5m) 
 - **Battle Value:** 1408 
 - [*More Info*](crusader/crusader_crd-5m.md) 
@@ -221,6 +243,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/760/crusader-crd-5s) 
 - **Battle Value:** 1446 
 - [*More Info*](crusader/crusader_crd-5s.md) 
@@ -264,6 +288,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (Streak SRM 2) 
+  - Stabilized Weapon (Streak SRM 2) 
 - **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/754/crusader-crd-4br) 
 - **Battle Value:** 1407 
 - [*More Info*](crusader/crusader_crd-4br.md) 
@@ -399,6 +425,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (Streak SRM 4) 
+  - Stabilized Weapon (Streak SRM 4) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761/crusader-crd-6m) 
 - **Battle Value:** 1373 
 - [*More Info*](crusader/crusader_crd-6m.md) 
@@ -512,6 +540,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (Streak SRM 6) 
+  - Stabilized Weapon (Streak SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8231/crusader-crd-8r) 
 - **Battle Value:** 1600 
 - [*More Info*](crusader/crusader_crd-8r.md) 
@@ -560,6 +590,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (SRM 6) 
+  - Stabilized Weapon (SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8233/crusader-crd-9r) 
 - **Battle Value:** 1612 
 - [*More Info*](crusader/crusader_crd-9r.md) 

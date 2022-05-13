@@ -19,6 +19,12 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Difficult to Maintain 
+  - Modular Weapon (Streak LRM 15) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Improved Heavy Large Laser) 
+  - Modular Weapon (Improved Heavy Large Laser) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239/thunderbolt-iic-standard) 
 - **Battle Value:** 2475 
 

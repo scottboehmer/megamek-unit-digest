@@ -19,6 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Stable 
+  - Poor Cooling Jacket (ER PPC) 
 - **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6414/dragon-ii-drg-11k) 
 - **Battle Value:** 1598 
 

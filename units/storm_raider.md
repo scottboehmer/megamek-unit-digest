@@ -13,6 +13,9 @@
   - Mace 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Mace) 
+  - Jettison-Capable Weapon (AC/10) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6615/storm-raider-stm-r1) 
 - **Battle Value:** 593 
 - [*More Info*](storm_raider/storm_raider_stm-r1.md) 
@@ -31,6 +34,9 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Mace) 
+  - Jettison-Capable Weapon (Ultra AC/5) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6616/storm-raider-stm-r2) 
 - **Battle Value:** 671 
 - [*More Info*](storm_raider/storm_raider_stm-r2.md) 
@@ -49,6 +55,9 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Mace) 
+  - Jettison-Capable Weapon (RAC/2) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6614/storm-raider-stm-r3) 
 - **Battle Value:** 791 
 - [*More Info*](storm_raider/storm_raider_stm-r3.md) 
@@ -66,6 +75,9 @@
   - Mace 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Mace) 
+  - Jettison-Capable Weapon (RAC/2) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6617/storm-raider-stm-r4) 
 - **Battle Value:** 732 
 - [*More Info*](storm_raider/storm_raider_stm-r4.md) 

@@ -16,6 +16,12 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (LB 20-X AC) 
+  - Stabilized Weapon (LB 20-X AC) 
+  - Stabilized Weapon (AP Gauss Rifle) 
+  - Stabilized Weapon (AP Gauss Rifle) 
+  - Stabilized Weapon (AP Gauss Rifle) 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2007/man-o-war-gargoyle-g) 
 - **Battle Value:** 2156 
 

@@ -18,6 +18,8 @@
   - Cramped Cockpit 
   - Difficult to Maintain 
   - No Ejection System 
+  - Improved Cooling Jacket (Blazer Cannon) 
+  - Improved Cooling Jacket (Blazer Cannon) 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x) 
 - **Battle Value:** 1453 
 

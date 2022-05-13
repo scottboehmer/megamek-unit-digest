@@ -18,6 +18,9 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (Machine Gun) 
+  - Fast Reload (Ultra AC/10) 
+  - Fast Reload (Ultra AC/10) 
 - **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard) 
 - **Battle Value:** 2057 
 

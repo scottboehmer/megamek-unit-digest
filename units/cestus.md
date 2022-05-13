@@ -28,6 +28,8 @@
   - Gauss Rifle (ammo: 24) 
   - Large Laser × 2 
   - Medium Laser × 2 
+- **Design Quirks:** 
+  - Stabilized Weapon (Gauss Rifle) 
 - **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/533/cestus-cts-6y) 
 - **Battle Value:** 1701 
 - [*More Info*](cestus/cestus_cts-6y.md) 

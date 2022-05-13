@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Battlefists 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2930/shockwave-skw-4g) 
 - **Battle Value:** 1449 
 

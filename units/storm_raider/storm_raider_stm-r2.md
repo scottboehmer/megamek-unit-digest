@@ -16,6 +16,9 @@
 - **Equipment:** 
   - CASE 
   - MASC 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Mace) 
+  - Jettison-Capable Weapon (Ultra AC/5) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6616/storm-raider-stm-r2) 
 - **Battle Value:** 671 
 

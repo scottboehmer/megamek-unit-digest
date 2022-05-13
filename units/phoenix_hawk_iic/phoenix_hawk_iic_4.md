@@ -17,6 +17,10 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (ATM 9) 
+  - Fast Reload (ATM 9) 
+  - Fast Reload (ATM 9) 
+  - Fast Reload (ATM 9) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2514/phoenix-hawk-iic-4) 
 - **Battle Value:** 2483 
 

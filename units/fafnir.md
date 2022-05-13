@@ -17,6 +17,8 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Stabilized Weapon (Heavy Gauss Rifle) 
+  - Stabilized Weapon (Heavy Gauss Rifle) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4152/fafnir-fnr-5) 
 - **Battle Value:** 2636 
 - [*More Info*](fafnir/fafnir_fnr-5.md) 
@@ -39,6 +41,8 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Stabilized Weapon (Gauss Rifle) 
+  - Stabilized Weapon (Gauss Rifle) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4153/fafnir-fnr-5b) 
 - **Battle Value:** 2625 
 - [*More Info*](fafnir/fafnir_fnr-5b.md) 
@@ -63,6 +67,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Stabilized Weapon (Heavy Gauss Rifle) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1020/fafnir-fnr-4a-peter) 
 - **Battle Value:** 2458 
 - [*More Info*](fafnir/fafnir_fnr-4a_peter.md) 
@@ -102,6 +107,8 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Stabilized Weapon (Improved Heavy Gauss Rifle) 
+  - Stabilized Weapon (Improved Heavy Gauss Rifle) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1021/fafnir-fnr-5x) 
 - **Battle Value:** 2610 
 - [*More Info*](fafnir/fafnir_fnr-5x.md) 

@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Stabilized Weapon (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2472/peregrine-horned-owl-standard) 
 - **Battle Value:** 1434 
 

@@ -21,6 +21,7 @@
   - Easy to Maintain 
   - Protected Actuators 
   - Bad Reputation (Clan) 
+  - Accurate Weapon (ER PPC) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7648/pulverizer-standard) 
 - **Battle Value:** 2506 
 

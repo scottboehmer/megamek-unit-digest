@@ -18,6 +18,8 @@
   - Shoulder Turret × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (LRM 20) 
+  - Directional Torso Mount (LRM 20) 
 - **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8430/grand-crusader-grn-d-01-x) 
 - **Battle Value:** 1869 
 

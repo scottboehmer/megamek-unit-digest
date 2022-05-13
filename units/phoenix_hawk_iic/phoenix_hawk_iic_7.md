@@ -19,6 +19,10 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (Streak SRM 4) 
+  - Fast Reload (Streak SRM 4) 
+  - Fast Reload (LB 10-X AC) 
+  - Fast Reload (LB 10-X AC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2517/phoenix-hawk-iic-7) 
 - **Battle Value:** 2219 
 

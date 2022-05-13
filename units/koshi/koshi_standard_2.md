@@ -16,6 +16,10 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
+- **Design Quirks:** 
+  - Modular Weapon (Light TAG) 
+  - Modular Weapon (Streak SRM 6) 
+  - Modular Weapon (Streak SRM 6) 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6548/koshi-2) 
 - **Battle Value:** 948 
 

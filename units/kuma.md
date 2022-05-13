@@ -14,6 +14,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Hard to Pilot 
+  - Accurate Weapon (Heavy Large Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1849/kuma-standard) 
 - **Battle Value:** 1952 
 - [*More Info*](kuma/kuma_standard.md) 
@@ -35,6 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hard to Pilot 
+  - Accurate Weapon (Plasma Cannon) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1847/kuma-2) 
 - **Battle Value:** 2309 
 - [*More Info*](kuma/kuma_2.md) 

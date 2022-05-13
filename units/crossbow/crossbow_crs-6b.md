@@ -16,6 +16,8 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Poor Targeting (Long) 
+  - Modular Weapon (LRM 10) 
+  - Modular Weapon (LRM 10) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/733/crossbow-crs-6b) 
 - **Battle Value:** 1210 
 

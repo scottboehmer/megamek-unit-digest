@@ -16,6 +16,9 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Light Active Probe 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (ER Medium Laser) 
+  - Jettison-Capable Weapon (ER Medium Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2313/ocelot-standard) 
 - **Battle Value:** 1439 
 

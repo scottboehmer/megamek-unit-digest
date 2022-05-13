@@ -23,6 +23,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Stabilized Weapon (Streak SRM 2) 
+  - Stabilized Weapon (Streak SRM 2) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/759/crusader-crd-5m) 
 - **Battle Value:** 1408 
 

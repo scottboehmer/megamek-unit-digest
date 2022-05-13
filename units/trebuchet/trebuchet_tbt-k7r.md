@@ -24,6 +24,9 @@
   - Easy to Maintain 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
+  - Fast Reload (Streak SRM 6) 
+  - Jettison-Capable Weapon (Chain Whip) 
+  - Exposed Weapon Linkage (BattleMech Taser) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5275/trebuchet-tbt-k7r) 
 - **Battle Value:** 1415 
 

@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Directional Torso Mount (Gauss Rifle) 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2344/osprey-osp-15) 
 - **Battle Value:** 1564 
 

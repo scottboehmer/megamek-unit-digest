@@ -15,6 +15,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Battlefists 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2929/shockwave-skw-2f) 
 - **Battle Value:** 1453 
 - [*More Info*](shockwave/shockwave_skw-2f.md) 
@@ -34,6 +35,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Battlefists 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2930/shockwave-skw-4g) 
 - **Battle Value:** 1449 
 - [*More Info*](shockwave/shockwave_skw-4g.md) 

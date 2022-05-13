@@ -18,6 +18,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (LRM 15) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6901/trebuchet-tbt-9r) 
 - **Battle Value:** 2165 
 

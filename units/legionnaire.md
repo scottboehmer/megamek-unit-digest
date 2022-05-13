@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (RAC/2) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1862/legionnaire-lgn-1x) 
 - **Battle Value:** 1322 
 - [*More Info*](legionnaire/legionnaire_lgn-1x.md) 
@@ -36,6 +37,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1863/legionnaire-lgn-2d) 
 - **Battle Value:** 1386 
 - [*More Info*](legionnaire/legionnaire_lgn-2d.md) 
@@ -53,6 +55,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (Arrow IV) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1865/legionnaire-lgn-2xa) 
 - **Battle Value:** 1172 
 - [*More Info*](legionnaire/legionnaire_lgn-2xa.md) 
@@ -72,6 +75,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (Ultra AC/10) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1866/legionnaire-lgn-2xu) 
 - **Battle Value:** 1128 
 - [*More Info*](legionnaire/legionnaire_lgn-2xu.md) 
@@ -91,6 +95,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4491/legionnaire-lgn-2f) 
 - **Battle Value:** 1808 
 - [*More Info*](legionnaire/legionnaire_lgn-2f.md) 
@@ -110,6 +115,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1864/legionnaire-lgn-2x1-muse-fire) 
 - **Battle Value:** 2032 
 - [*More Info*](legionnaire/legionnaire_lgn-2x1_muse_fire.md) 
@@ -131,6 +137,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (ER PPC) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6905/legionnaire-lgn-2k) 
 - **Battle Value:** 1597 
 - [*More Info*](legionnaire/legionnaire_lgn-2k.md) 
@@ -149,6 +156,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Medium) 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Battle Value:** 1520 
 - [*More Info*](legionnaire/legionnaire_lgn-2d_raul.md) 
 

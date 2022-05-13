@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
+  - Directional Torso Mount (Gauss Rifle) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2345/osprey-osp-25) 
 - **Battle Value:** 1630 
 

@@ -19,6 +19,8 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
+  - Modular Weapon (Streak SRM 6) 
+  - Modular Weapon (Streak SRM 6) 
 - **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1399/hatamoto-chi-htm-27t-daniel-ii) 
 - **Battle Value:** 1661 
 

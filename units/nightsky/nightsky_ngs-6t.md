@@ -21,6 +21,8 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Modular Weapon (Hatchet) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2284/nightsky-ngs-6t) 
 - **Battle Value:** 1462 
 

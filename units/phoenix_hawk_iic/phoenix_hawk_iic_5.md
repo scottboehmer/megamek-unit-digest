@@ -18,6 +18,8 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (HAG 20) 
+  - Fast Reload (HAG 20) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2515/phoenix-hawk-iic-5) 
 - **Battle Value:** 2350 
 

@@ -16,6 +16,8 @@
   - Heavy Small Laser 
 - **Design Quirks:** 
   - Exposed Actuators 
+  - Improved Cooling Jacket (Heavy Large Laser) 
+  - Stabilized Weapon (Heavy Large Laser) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5097/solitaire-standard) 
 - **Battle Value:** 1284 
 

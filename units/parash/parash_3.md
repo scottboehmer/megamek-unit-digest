@@ -22,6 +22,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Non-Standard Parts 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** XTR Republic III - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7375/parash-3) 
 - **Battle Value:** 1785 
 

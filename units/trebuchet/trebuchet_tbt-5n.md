@@ -15,6 +15,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (LRM 15) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3297/trebuchet-tbt-5n) 
 - **Battle Value:** 1191 
 

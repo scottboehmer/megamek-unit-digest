@@ -21,6 +21,8 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Improved Cooling Jacket (ER Large Laser) 
+  - Improved Cooling Jacket (ER Large Laser) 
 - **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/968/emperor-emp-6m) 
 - **Battle Value:** 2090 
 

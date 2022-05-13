@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Stable 
+  - Jettison-Capable Weapon (AC/5) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7406/wolverine-wvr-1r) 
 - **Battle Value:** 885 
 - [*More Info*](wolverine/wolverine_wvr-1r.md) 
@@ -40,6 +41,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (AC/5) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7408/wolverine-wvr-3r) 
 - **Battle Value:** 867 
 - [*More Info*](wolverine/wolverine_wvr-3r.md) 
@@ -63,6 +65,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (AC/5) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3573/wolverine-wvr-6r) 
 - **Battle Value:** 1101 
 - [*More Info*](wolverine/wolverine_wvr-6r.md) 
@@ -86,6 +89,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (Large Laser) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3571/wolverine-wvr-6k) 
 - **Battle Value:** 1248 
 - [*More Info*](wolverine/wolverine_wvr-6k.md) 
@@ -109,6 +113,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (Large Laser) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3572/wolverine-wvr-6m) 
 - **Battle Value:** 1291 
 - [*More Info*](wolverine/wolverine_wvr-6m.md) 
@@ -131,6 +136,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (AC/10) 
 - **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7430/wolverine-wvr-6d) 
 - **Battle Value:** 1115 
 - [*More Info*](wolverine/wolverine_wvr-6d.md) 
@@ -157,6 +163,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (Ultra AC/5) 
 - **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d) 
 - **Battle Value:** 1314 
 - [*More Info*](wolverine/wolverine_wvr-7d.md) 
@@ -181,6 +188,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k) 
 - **Battle Value:** 1331 
 - [*More Info*](wolverine/wolverine_wvr-7k.md) 
@@ -206,6 +214,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3576/wolverine-wvr-7m) 
 - **Battle Value:** 1673 
 - [*More Info*](wolverine/wolverine_wvr-7m.md) 
@@ -232,6 +241,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3579/wolverine-wvr-8k) 
 - **Battle Value:** 1576 
 - [*More Info*](wolverine/wolverine_wvr-8k.md) 
@@ -259,6 +269,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (RAC/2) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3578/wolverine-wvr-8d) 
 - **Battle Value:** 1547 
 - [*More Info*](wolverine/wolverine_wvr-8d.md) 
@@ -285,6 +296,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (RAC/2) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3580/wolverine-wvr-9d) 
 - **Battle Value:** 1369 
 - [*More Info*](wolverine/wolverine_wvr-9d.md) 
@@ -311,6 +323,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3577/wolverine-wvr-8c) 
 - **Battle Value:** 1447 
 - [*More Info*](wolverine/wolverine_wvr-8c.md) 
@@ -355,6 +368,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (Heavy PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3582/wolverine-wvr-9m) 
 - **Battle Value:** 1617 
 - [*More Info*](wolverine/wolverine_wvr-9m.md) 
@@ -381,6 +395,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (Light PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3583/wolverine-wvr-9w) 
 - **Battle Value:** 1387 
 - [*More Info*](wolverine/wolverine_wvr-9w.md) 
@@ -412,6 +427,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3581/wolverine-wvr-9k) 
 - **Battle Value:** 1400 
 - [*More Info*](wolverine/wolverine_wvr-9k.md) 
@@ -440,6 +456,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Jettison-Capable Weapon (Light PPC) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3584/wolverine-wvr-9w2) 
 - **Battle Value:** 1463 
 - [*More Info*](wolverine/wolverine_wvr-9w2.md) 
