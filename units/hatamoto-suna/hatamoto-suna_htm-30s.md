@@ -18,6 +18,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Fast Reload (All Weapons) 
   - Poor Workmanship 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6418/hatamoto-suna-htm-30s) 
 - **Battle Value:** 2086 

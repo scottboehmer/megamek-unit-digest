@@ -21,6 +21,7 @@
   - Coolant Pod × 2 
 - **Design Quirks:** 
   - Poor Life Support 
+  - Rumble Seat 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6623/gauntlet-gtl-1ob) 
 - **Battle Value:** 2076 
 

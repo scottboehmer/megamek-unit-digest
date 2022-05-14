@@ -21,6 +21,7 @@
   - Anti-Aircraft Targeting 
   - Searchlight 
   - No/Minimal Arms 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6854/longbow-lgb-14c2) 
 - **Battle Value:** 1291 
 

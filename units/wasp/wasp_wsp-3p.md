@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
+  - Ubiquitous 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6950/wasp-wsp-3p) 
 - **Battle Value:** 537 
 

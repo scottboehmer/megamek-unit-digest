@@ -26,6 +26,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Ubiquitous 
   - Jettison-Capable Weapon (Light PPC) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3584/wolverine-wvr-9w2) 
 - **Battle Value:** 1463 

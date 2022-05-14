@@ -17,6 +17,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1302/griffin-grf-4r) 
 - **Battle Value:** 1412 

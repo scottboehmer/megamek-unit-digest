@@ -20,6 +20,7 @@
   - Laser Anti-Missile System 
   - CASE 
 - **Design Quirks:** 
+  - Rumble Seat 
   - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6305/tomahawk-ii-b) 
 - **Battle Value:** 3513 

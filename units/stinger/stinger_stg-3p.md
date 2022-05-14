@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Cramped Cockpit 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3060/stinger-stg-3p) 
 - **Battle Value:** 489 
 

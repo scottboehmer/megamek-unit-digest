@@ -14,6 +14,8 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Fast Reload (All Weapons) 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6512/carronade-crn-7m) 
 - **Battle Value:** 1799 
 - [*More Info*](carronade/carronade_crn-7m.md) 

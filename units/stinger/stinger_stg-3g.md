@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Cramped Cockpit 
+  - Ubiquitous 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3058/stinger-stg-3g) 
 - **Battle Value:** 497 
 

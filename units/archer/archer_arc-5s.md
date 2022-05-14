@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/80/archer-arc-5s) 
 - **Battle Value:** 1353 

@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1308/griffin-grf-6s-francine-ii) 
 - **Battle Value:** 2249 

@@ -39,6 +39,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2901/shadow-hawk-shd-2h) 
 - **Battle Value:** 1064 
@@ -62,6 +63,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2902/shadow-hawk-shd-2hb) 
 - **Battle Value:** 1354 
@@ -84,6 +86,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
   - Exposed Weapon Linkage (AC/5) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2899/shadow-hawk-shd-2d) 
@@ -105,6 +108,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
   - Exposed Weapon Linkage (PPC) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2903/shadow-hawk-shd-2k) 
@@ -130,6 +134,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2906/shadow-hawk-shd-5m) 
 - **Battle Value:** 1430 
@@ -152,6 +157,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2900/shadow-hawk-shd-2d2) 
 - **Battle Value:** 1049 
@@ -235,6 +241,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2905/shadow-hawk-shd-5d) 
 - **Battle Value:** 1684 
@@ -260,6 +267,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2907/shadow-hawk-shd-7cs) 
 - **Battle Value:** 1496 
@@ -285,6 +293,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2908/shadow-hawk-shd-7m) 
 - **Battle Value:** 1447 
@@ -310,6 +319,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs) 
 - **Battle Value:** 1700 
@@ -332,6 +342,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5806/shadow-hawk-shd-5d-sandy) 
 - **Battle Value:** 1517 
@@ -358,6 +369,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2910/shadow-hawk-shd-9d) 
 - **Battle Value:** 1313 
@@ -382,6 +394,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2904/shadow-hawk-shd-3k) 
 - **Battle Value:** 1591 
@@ -406,6 +419,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2897/shadow-hawk-shd-12c) 
 - **Battle Value:** 1574 
@@ -432,6 +446,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2909/shadow-hawk-shd-8l) 
 - **Battle Value:** 1536 

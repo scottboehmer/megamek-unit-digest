@@ -18,6 +18,7 @@
   - Targeting Computer 
   - C3 Support 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - No/Minimal Arms 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/395/blitzkrieg-btz-4f) 
 - **Battle Value:** 1740 

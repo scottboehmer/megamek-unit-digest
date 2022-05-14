@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** ForcePack Wolfs Dragoons - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8387/archer-c-2) 
 - **Battle Value:** 2167 

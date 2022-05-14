@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k) 

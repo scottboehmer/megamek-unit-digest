@@ -20,6 +20,8 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - EM Interference (All Weapons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1751/karhu-d) 
 - **Battle Value:** 3118 
 

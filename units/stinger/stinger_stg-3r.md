@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Cramped Cockpit 
+  - Ubiquitous 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3061/stinger-stg-3r) 
 - **Battle Value:** 359 
 

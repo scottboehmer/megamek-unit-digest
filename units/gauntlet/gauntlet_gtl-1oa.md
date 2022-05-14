@@ -18,6 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Poor Life Support 
+  - Rumble Seat 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6622/gauntlet-gtl-1oa) 
 - **Battle Value:** 1420 
 

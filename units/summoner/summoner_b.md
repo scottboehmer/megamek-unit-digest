@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ubiquitous (Clans) 
 - **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3175/thor-summoner-b) 
 - **Battle Value:** 2159 
 

@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8263/crusader-crd-9s) 
 - **Battle Value:** 1642 
 

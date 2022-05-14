@@ -21,6 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ubiquitous (Clans) 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3181/thor-summoner-hh) 
 - **Battle Value:** 2490 
 

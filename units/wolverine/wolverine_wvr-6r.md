@@ -21,6 +21,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Ubiquitous 
   - Jettison-Capable Weapon (AC/5) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3573/wolverine-wvr-6r) 
 - **Battle Value:** 1101 

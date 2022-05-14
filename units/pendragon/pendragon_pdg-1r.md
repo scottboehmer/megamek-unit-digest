@@ -21,6 +21,7 @@
   - No/Minimal Arms 
   - Difficult to Maintain 
   - Improved Targeting (Long) 
+  - Rumble Seat 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4799/pendragon-pdg-1r) 
 - **Battle Value:** 2151 
 

@@ -16,6 +16,8 @@
   - Ultra AC/10 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Fast Reload (All Weapons) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/459/canis-standard) 
 - **Battle Value:** 2498 
 

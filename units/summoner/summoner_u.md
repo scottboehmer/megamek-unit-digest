@@ -19,6 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ubiquitous (Clans) 
 - **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3185/thor-summoner-u) 
 - **Battle Value:** 3092 
 

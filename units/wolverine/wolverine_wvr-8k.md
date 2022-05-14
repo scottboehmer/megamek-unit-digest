@@ -24,6 +24,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Ubiquitous 
   - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3579/wolverine-wvr-8k) 
 - **Battle Value:** 1576 

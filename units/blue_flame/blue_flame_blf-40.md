@@ -18,6 +18,7 @@
   - Targeting Computer 
   - C3i 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5672/blue-flame-blf-40) 
 - **Battle Value:** 1195 

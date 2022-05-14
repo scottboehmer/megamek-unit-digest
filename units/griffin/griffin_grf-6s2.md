@@ -22,6 +22,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6899/griffin-grf-6s2) 
 - **Battle Value:** 1870 

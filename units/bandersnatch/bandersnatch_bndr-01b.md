@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/219/bandersnatch-bndr-01b) 
 - **Battle Value:** 1630 
 

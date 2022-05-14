@@ -183,6 +183,7 @@
   - Modular Armor × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
   - Non-Standard Parts 
   - Prototype 
   - Fast Reload (Streak SRM 6) 
@@ -211,6 +212,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
   - Fast Reload (Streak SRM 6) 

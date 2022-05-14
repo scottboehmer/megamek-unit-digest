@@ -16,6 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Prototype 
+  - Rumble Seat 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5771/super-griffin-grf-2n-x) 
 - **Battle Value:** 1269 
 - [*More Info*](super-griffin/super-griffin_grf-2n-x.md) 

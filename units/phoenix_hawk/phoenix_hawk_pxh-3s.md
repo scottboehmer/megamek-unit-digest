@@ -22,6 +22,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2502/phoenix-hawk-pxh-3s) 
 - **Battle Value:** 1237 
 

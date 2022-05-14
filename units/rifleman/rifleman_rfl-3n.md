@@ -18,6 +18,7 @@
   - Anti-Aircraft Targeting 
   - Improved Communications 
   - Searchlight 
+  - Ubiquitous 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2697/rifleman-rfl-3n) 
 - **Battle Value:** 1039 
 

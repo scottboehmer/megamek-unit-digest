@@ -19,6 +19,8 @@
   - Inner Sphere Guardian ECM Suite 
   - Inner Sphere Beagle Active Probe 
   - Inner Sphere C3 Support 
+- **Design Quirks:** 
+  - EM Interference (All Weapons) 
 - **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1747/karhu-syngman) 
 - **Battle Value:** 1921 
 

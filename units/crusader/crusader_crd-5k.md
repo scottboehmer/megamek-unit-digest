@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/758/crusader-crd-5k) 
 - **Battle Value:** 1463 
 

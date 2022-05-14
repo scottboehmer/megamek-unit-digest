@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Cramped Cockpit 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3067/stinger-stg-6s) 
 - **Battle Value:** 478 
 

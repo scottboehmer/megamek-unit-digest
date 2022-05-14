@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
   - Exposed Weapon Linkage (PPC) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2903/shadow-hawk-shd-2k) 

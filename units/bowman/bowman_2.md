@@ -19,6 +19,7 @@
   - A-Pod × 4 
   - CASE 
 - **Design Quirks:** 
+  - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/3858/bowman-2) 

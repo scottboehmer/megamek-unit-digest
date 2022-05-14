@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Rugged (×3) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3233/thunderbolt-tdr-10m-ilyena) 
 - **Battle Value:** 1616 
 

@@ -24,6 +24,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Ubiquitous 
   - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3577/wolverine-wvr-8c) 
 - **Battle Value:** 1447 

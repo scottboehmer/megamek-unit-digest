@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Rugged (×3) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3243/thunderbolt-tdr-60-rla) 
 - **Battle Value:** 1975 
 

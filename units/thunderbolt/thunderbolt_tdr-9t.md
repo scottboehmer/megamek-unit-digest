@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Rugged (×3) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3251/thunderbolt-tdr-9t) 
 - **Battle Value:** 1589 
 

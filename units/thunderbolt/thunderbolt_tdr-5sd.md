@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Rugged (×3) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5868/thunderbolt-tdr-5sd) 
 - **Battle Value:** 1392 
 

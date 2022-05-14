@@ -22,6 +22,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5619/longbow-lgb-0c) 
 - **Battle Value:** 1295 
 

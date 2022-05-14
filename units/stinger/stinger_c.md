@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Cramped Cockpit 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8127/stinger-c) 
 - **Battle Value:** 592 
 

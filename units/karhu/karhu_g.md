@@ -19,6 +19,8 @@
   - Light TAG 
   - CASE 
   - Supercharger 
+- **Design Quirks:** 
+  - EM Interference (All Weapons) 
 - **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6882/karhu-g) 
 - **Battle Value:** 2895 
 

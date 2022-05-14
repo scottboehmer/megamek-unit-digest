@@ -13,6 +13,8 @@
 - **Weapons:** 
   - Ultra AC/20 (ammo: 20) 
   - ER PPC 
+- **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/253/barghest-bgs-2t) 
 - **Battle Value:** 1794 
 

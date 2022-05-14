@@ -14,6 +14,7 @@
   - LRM 15 × 2 (ammo: 48) 
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
+  - Fast Reload (All Weapons) 
   - Rugged (×2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/55/apollo-apl-1r) 
 - **Battle Value:** 1148 

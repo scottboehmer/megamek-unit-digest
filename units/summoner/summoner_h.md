@@ -20,6 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ubiquitous (Clans) 
 - **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3180/thor-summoner-h) 
 - **Battle Value:** 2536 
 

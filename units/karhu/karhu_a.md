@@ -19,6 +19,8 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - EM Interference (All Weapons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1748/karhu-a) 
 - **Battle Value:** 2560 
 

@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
+  - Ubiquitous 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3522/wasp-wsp-1k) 
 - **Battle Value:** 376 
 

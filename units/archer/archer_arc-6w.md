@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/83/archer-arc-6w) 
 - **Battle Value:** 1405 

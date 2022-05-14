@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Cramped Cockpit 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3065/stinger-stg-5t) 
 - **Battle Value:** 341 
 

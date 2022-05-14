@@ -13,6 +13,8 @@
 - **Weapons:** 
   - LB 20-X AC (ammo: 10 Standard, 10 Cluster) 
   - ER Large Laser × 2 
+- **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/252/barghest-bgs-1t) 
 - **Battle Value:** 1787 
 

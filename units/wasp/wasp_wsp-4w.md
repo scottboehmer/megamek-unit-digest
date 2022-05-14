@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #4 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7497/wasp-wsp-4w) 
 - **Battle Value:** 551 
 

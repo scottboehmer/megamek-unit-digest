@@ -16,6 +16,7 @@
 - **Equipment:** 
   - C3i 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3840/blue-flame-blf-21) 
 - **Battle Value:** 1256 

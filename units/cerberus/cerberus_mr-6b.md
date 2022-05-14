@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Barrel Fists 
+  - Vestigial Hands 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/527/cerberus-mr-6b) 
 - **Battle Value:** 2128 
 

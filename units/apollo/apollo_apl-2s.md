@@ -14,6 +14,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - Medium Laser × 2 
 - **Design Quirks:** 
+  - Fast Reload (All Weapons) 
   - Rugged (×2) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/56/apollo-apl-2s) 
 - **Battle Value:** 1283 

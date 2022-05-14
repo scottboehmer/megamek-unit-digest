@@ -21,6 +21,7 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (ER Small Laser) 
   - Directional Torso Mount (MML 7) 

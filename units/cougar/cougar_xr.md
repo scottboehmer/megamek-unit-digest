@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Prototype 
   - Unbalanced 
+  - Ubiquitous (Clans) 
   - Modular Weapon (LRM 15) 
   - Modular Weapon (LRM 15) 
   - Modular Weapon (ER Medium Pulse Laser) 

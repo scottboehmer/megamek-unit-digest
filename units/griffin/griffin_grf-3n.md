@@ -18,6 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous (Inner Sphere) 
   - Battlefist (Left Arm) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436/griffin-grf-3n) 
 - **Battle Value:** 1560 

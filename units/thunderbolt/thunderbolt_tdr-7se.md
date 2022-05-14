@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Rugged (×3) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3245/thunderbolt-tdr-7se) 
 - **Battle Value:** 1809 
 

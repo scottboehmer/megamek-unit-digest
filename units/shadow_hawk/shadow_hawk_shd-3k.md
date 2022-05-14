@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2904/shadow-hawk-shd-3k) 
 - **Battle Value:** 1591 

@@ -19,6 +19,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Vestigial Hand (Right Arm) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2635/rampage-rmp-2g) 
 - **Battle Value:** 1444 
 

@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2905/shadow-hawk-shd-5d) 
 - **Battle Value:** 1684 

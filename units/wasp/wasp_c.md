@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7496/wasp-c) 
 - **Battle Value:** 755 
 

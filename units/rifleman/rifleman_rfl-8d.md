@@ -18,6 +18,7 @@
   - Anti-Aircraft Targeting 
   - Improved Communications 
   - Searchlight 
+  - Ubiquitous 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2705/rifleman-rfl-8d) 
 - **Battle Value:** 1777 
 

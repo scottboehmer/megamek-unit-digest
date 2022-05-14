@@ -19,6 +19,7 @@
   - C3i 
   - MASC 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (Snub-Nose PPC) 
   - Directional Torso Mount (Snub-Nose PPC) 

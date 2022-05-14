@@ -18,6 +18,8 @@
   - Inner Sphere Retractable Blade 
 - **Equipment:** 
   - ECM Suite 
+- **Design Quirks:** 
+  - EM Interference (All Weapons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1752/karhu-prime) 
 - **Battle Value:** 2484 
 

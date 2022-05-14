@@ -13,6 +13,8 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser 
+- **Design Quirks:** 
+  - Ubiquitous (Clans) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/705/cougar-b) 
 - **Battle Value:** 1774 
 

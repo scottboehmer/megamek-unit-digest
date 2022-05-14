@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - No/Minimal Arms 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3035/stalker-stk-3f) 
 - **Battle Value:** 1559 
 

@@ -17,6 +17,8 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Vestigial Hands 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1001/excalibur-exc-c1-cernunnos) 
 - **Battle Value:** 1778 
 

@@ -14,6 +14,8 @@
   - ER PPC 
   - ER Medium Laser × 2 
   - ER Small Laser 
+- **Design Quirks:** 
+  - EM Interference (All Weapons) 
 - **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1839/koto-kto-4a) 
 - **Battle Value:** 1073 
 

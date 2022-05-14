@@ -23,6 +23,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Cramped Cockpit 
+  - Ubiquitous 
   - Jettison-Capable Weapon (Heavy PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3582/wolverine-wvr-9m) 
 - **Battle Value:** 1617 

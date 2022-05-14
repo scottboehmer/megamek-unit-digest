@@ -16,6 +16,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - EM Interference (All Weapons) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1840/koto-kt-p2) 
 - **Battle Value:** 631 
 

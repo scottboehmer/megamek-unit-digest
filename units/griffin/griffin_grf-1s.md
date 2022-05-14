@@ -17,6 +17,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1298/griffin-grf-1s) 
 - **Battle Value:** 1253 

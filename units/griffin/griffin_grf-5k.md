@@ -21,6 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303/griffin-grf-5k) 
 - **Battle Value:** 1390 

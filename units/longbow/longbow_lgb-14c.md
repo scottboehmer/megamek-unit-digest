@@ -19,6 +19,7 @@
   - Anti-Aircraft Targeting 
   - Searchlight 
   - No/Minimal Arms 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1935/longbow-lgb-14c) 
 - **Battle Value:** 1421 
 

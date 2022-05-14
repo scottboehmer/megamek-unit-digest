@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3532/wasp-wsp-8t) 
 - **Battle Value:** 439 
 

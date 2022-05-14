@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/218/bandersnatch-bndr-01ar) 
 - **Battle Value:** 1522 
 

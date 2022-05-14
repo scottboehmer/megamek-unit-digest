@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 

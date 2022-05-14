@@ -14,6 +14,7 @@
   - Null-Signature System 
 - **Design Quirks:** 
   - Prototype 
+  - Fast Reload (All Weapons) 
   - Multi-Trac 
   - Searchlight 
 - **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7323/rifleman-iii-rf2-a) 

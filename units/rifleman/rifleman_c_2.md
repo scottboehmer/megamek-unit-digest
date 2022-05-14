@@ -18,6 +18,7 @@
   - Anti-Aircraft Targeting 
   - Improved Communications 
   - Searchlight 
+  - Ubiquitous 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2694/rifleman-c-2) 
 - **Battle Value:** 2150 
 

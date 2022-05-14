@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Barrel Fists 
+  - Vestigial Hands 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/526/cerberus-mr-5m) 
 - **Battle Value:** 2057 
 

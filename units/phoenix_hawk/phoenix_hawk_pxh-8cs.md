@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs) 
 - **Battle Value:** 1442 
 

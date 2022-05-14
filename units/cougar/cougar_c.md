@@ -15,6 +15,8 @@
   - ER Medium Laser × 5 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Ubiquitous (Clans) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/706/cougar-c) 
 - **Battle Value:** 1785 
 

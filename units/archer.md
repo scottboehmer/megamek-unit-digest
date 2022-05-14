@@ -18,6 +18,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Difficult Ejection 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3721/archer-arc-1a) 
 - **Battle Value:** 1269 
@@ -37,6 +38,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/74/archer-arc-2r) 
 - **Battle Value:** 1477 
@@ -58,6 +60,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/75/archer-arc-2rb) 
 - **Battle Value:** 1705 
@@ -77,6 +80,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/73/archer-arc-2k) 
 - **Battle Value:** 1356 
@@ -97,6 +101,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/76/archer-arc-2s) 
 - **Battle Value:** 1393 
@@ -117,6 +122,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/77/archer-arc-2w) 
 - **Battle Value:** 1338 
@@ -138,6 +144,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/78/archer-arc-4m) 
 - **Battle Value:** 1705 
@@ -159,6 +166,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/79/archer-arc-5r) 
 - **Battle Value:** 1672 
@@ -182,6 +190,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/80/archer-arc-5s) 
 - **Battle Value:** 1353 
@@ -204,6 +213,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/81/archer-arc-5w) 
 - **Battle Value:** 1337 
@@ -223,6 +233,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90/archer-c) 
 - **Battle Value:** 1811 
@@ -242,6 +253,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7598/archer-arc-5cs) 
 - **Battle Value:** 1609 
@@ -266,6 +278,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/72/archer-wolf) 
 - **Battle Value:** 2365 
@@ -288,6 +301,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** ForcePack Wolfs Dragoons - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8387/archer-c-2) 
 - **Battle Value:** 2167 
@@ -311,6 +325,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/82/archer-arc-6s) 
 - **Battle Value:** 1694 
@@ -331,6 +346,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/83/archer-arc-6w) 
 - **Battle Value:** 1405 
@@ -354,6 +370,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/84/archer-arc-7l) 
 - **Battle Value:** 1881 
@@ -376,6 +393,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/86/archer-arc-8m) 
 - **Battle Value:** 1759 
@@ -399,6 +417,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/85/archer-arc-7s) 
 - **Battle Value:** 1658 
@@ -420,6 +439,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/87/archer-arc-9k) 
 - **Battle Value:** 1391 
@@ -443,6 +463,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/88/archer-arc-9m) 
 - **Battle Value:** 1811 
@@ -466,6 +487,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/89/archer-arc-9w) 
 - **Battle Value:** 1774 
@@ -487,6 +509,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7730/archer-arc-4m2) 
 - **Battle Value:** 1742 
@@ -509,6 +532,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6875/archer-arc-9kc) 
 - **Battle Value:** 1361 
@@ -531,6 +555,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7731/archer-arc-7c) 
 - **Battle Value:** 2408 
@@ -553,6 +578,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7732/archer-arc-9r) 
 - **Battle Value:** 1668 

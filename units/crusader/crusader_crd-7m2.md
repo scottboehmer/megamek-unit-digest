@@ -22,6 +22,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8228/crusader-crd-7m2) 
 - **Battle Value:** 1397 
 

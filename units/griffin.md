@@ -34,6 +34,7 @@
   - LRM 10 (ammo: 24) 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1297/griffin-grf-1n) 
 - **Battle Value:** 1272 
@@ -56,6 +57,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299/griffin-grf-2n) 
 - **Battle Value:** 1606 
@@ -76,6 +78,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1298/griffin-grf-1s) 
 - **Battle Value:** 1253 
@@ -95,6 +98,7 @@
   - Medium Laser × 5 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1295/griffin-grf-1e-sparky) 
 - **Battle Value:** 1449 
@@ -116,6 +120,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294/griffin-grf-1ds) 
 - **Battle Value:** 1285 
@@ -138,6 +143,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1300/griffin-grf-3m) 
 - **Battle Value:** 1521 
@@ -161,6 +167,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305/griffin-grf-5m) 
 - **Battle Value:** 1224 
@@ -184,6 +191,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307/griffin-grf-6s) 
 - **Battle Value:** 1781 
@@ -209,6 +217,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306/griffin-grf-6cs) 
 - **Battle Value:** 1695 
@@ -231,6 +240,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1304/griffin-grf-5l) 
 - **Battle Value:** 1742 
@@ -254,6 +264,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1309/griffin-grf-6s-francine) 
 - **Battle Value:** 1778 
@@ -278,6 +289,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303/griffin-grf-5k) 
 - **Battle Value:** 1390 
@@ -301,6 +313,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1308/griffin-grf-6s-francine-ii) 
 - **Battle Value:** 2249 
@@ -323,6 +336,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296/griffin-grf-1e2-sparky-20) 
 - **Battle Value:** 1862 
@@ -343,6 +357,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1302/griffin-grf-4r) 
 - **Battle Value:** 1412 
@@ -363,6 +378,7 @@
   - ER Medium Laser × 3 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301/griffin-grf-4n) 
 - **Battle Value:** 1591 
@@ -384,6 +400,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous (Inner Sphere) 
   - Battlefist (Left Arm) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436/griffin-grf-3n) 
 - **Battle Value:** 1560 
@@ -409,6 +426,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6899/griffin-grf-6s2) 
 - **Battle Value:** 1870 
@@ -429,6 +447,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Ubiquitous (Inner Sphere) 
   - Battlefist (Left Arm) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7437/griffin-c) 
 - **Battle Value:** 2131 

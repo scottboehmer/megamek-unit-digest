@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2491/phoenix-hawk-pxh-1) 
 - **Battle Value:** 1041 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1.md) 
@@ -35,6 +36,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2494/phoenix-hawk-pxh-1d) 
 - **Battle Value:** 1083 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1d.md) 
@@ -56,6 +58,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2496/phoenix-hawk-pxh-2) 
 - **Battle Value:** 1145 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-2.md) 
@@ -75,6 +78,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2495/phoenix-hawk-pxh-1k) 
 - **Battle Value:** 1073 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1k.md) 
@@ -94,6 +98,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5872/phoenix-hawk-pxh-1kk) 
 - **Battle Value:** 1139 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1kk.md) 
@@ -118,6 +123,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2492/phoenix-hawk-pxh-1b-special) 
 - **Battle Value:** 1512 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1b_special.md) 
@@ -142,6 +148,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2493/phoenix-hawk-pxh-1c-special) 
 - **Battle Value:** 1443 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1c_special.md) 
@@ -203,6 +210,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2502/phoenix-hawk-pxh-3s) 
 - **Battle Value:** 1237 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3s.md) 
@@ -226,6 +234,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2499/phoenix-hawk-pxh-3m) 
 - **Battle Value:** 1307 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3m.md) 
@@ -247,6 +256,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7760/phoenix-hawk-pxh-3d) 
 - **Battle Value:** 1315 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3d.md) 
@@ -282,6 +292,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2498/phoenix-hawk-pxh-3k) 
 - **Battle Value:** 1359 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3k.md) 
@@ -306,6 +317,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2500/phoenix-hawk-pxh-3m-masters) 
 - **Battle Value:** 1154 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3m_masters.md) 
@@ -368,6 +380,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2503/phoenix-hawk-pxh-4l) 
 - **Battle Value:** 1282 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4l.md) 
@@ -391,6 +404,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2501/phoenix-hawk-pxh-3pl) 
 - **Battle Value:** 1244 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3pl.md) 
@@ -413,6 +427,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2506/phoenix-hawk-pxh-6d) 
 - **Battle Value:** 1665 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-6d.md) 
@@ -436,6 +451,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2507/phoenix-hawk-pxh-7cs) 
 - **Battle Value:** 1281 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7cs.md) 
@@ -459,6 +475,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2509/phoenix-hawk-pxh-7s) 
 - **Battle Value:** 1496 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7s.md) 
@@ -483,6 +500,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5807/phoenix-hawk-pxh-4l-sante) 
 - **Battle Value:** 1442 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4l_sante.md) 
@@ -505,6 +523,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2505/phoenix-hawk-pxh-5l) 
 - **Battle Value:** 1530 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-5l.md) 
@@ -527,6 +546,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508/phoenix-hawk-pxh-7k) 
 - **Battle Value:** 1241 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7k.md) 
@@ -550,6 +570,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2504/phoenix-hawk-pxh-4w) 
 - **Battle Value:** 1395 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4w.md) 
@@ -573,6 +594,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs) 
 - **Battle Value:** 1442 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-8cs.md) 

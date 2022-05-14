@@ -18,6 +18,8 @@
   - Inner Sphere Retractable Blade 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - EM Interference (All Weapons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1750/karhu-c) 
 - **Battle Value:** 2089 
 

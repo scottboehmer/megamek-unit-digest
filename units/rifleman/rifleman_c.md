@@ -17,6 +17,7 @@
   - Anti-Aircraft Targeting 
   - Improved Communications 
   - Searchlight 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693/rifleman-c) 
 - **Battle Value:** 1335 
 

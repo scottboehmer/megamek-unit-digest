@@ -11,6 +11,8 @@
 - **Weapons:** 
   - LB 20-X AC (ammo: 10 Standard, 10 Cluster) 
   - ER Large Laser × 2 
+- **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/252/barghest-bgs-1t) 
 - **Battle Value:** 1787 
 - [*More Info*](barghest/barghest_bgs-1t.md) 
@@ -26,6 +28,8 @@
 - **Weapons:** 
   - Ultra AC/20 (ammo: 20) 
   - ER PPC 
+- **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/253/barghest-bgs-2t) 
 - **Battle Value:** 1794 
 - [*More Info*](barghest/barghest_bgs-2t.md) 
@@ -41,6 +45,8 @@
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 16) 
   - ER Large Laser 
+- **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/254/barghest-bgs-3t) 
 - **Battle Value:** 1900 
 - [*More Info*](barghest/barghest_bgs-3t.md) 
@@ -61,6 +67,8 @@
   - ER Flamer 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/255/barghest-bgs-7s) 
 - **Battle Value:** 1507 
 - [*More Info*](barghest/barghest_bgs-7s.md) 
@@ -81,6 +89,8 @@
   - Quad Turret 
   - CASE II 
   - C3 Support 
+- **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3791/barghest-bgs-4x) 
 - **Battle Value:** 1667 
 - [*More Info*](barghest/barghest_bgs-4x.md) 
@@ -102,6 +112,8 @@
   - Quad Turret 
   - CASE II 
   - C3 Support 
+- **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3790/barghest-bgs-4t) 
 - **Battle Value:** 1734 
 - [*More Info*](barghest/barghest_bgs-4t.md) 

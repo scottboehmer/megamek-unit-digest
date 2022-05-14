@@ -15,6 +15,7 @@
   - A-Pod × 4 
   - CASE 
 - **Design Quirks:** 
+  - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
 - **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5691/bowman-4) 
@@ -38,6 +39,7 @@
   - A-Pod × 4 
   - CASE 
 - **Design Quirks:** 
+  - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
 - **Sources:** RS 3068 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/3857/bowman-standard) 
@@ -61,6 +63,7 @@
   - A-Pod × 4 
   - CASE 
 - **Design Quirks:** 
+  - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/3858/bowman-2) 
@@ -85,6 +88,7 @@
   - CASE 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5690/bowman-3) 

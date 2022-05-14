@@ -13,6 +13,7 @@
 - **Weapons:** 
   - Ultra AC/20 (ammo: 20) 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - No/Minimal Arms 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/394/blitzkrieg-btz-3f) 
 - **Battle Value:** 1273 

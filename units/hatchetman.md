@@ -268,6 +268,7 @@
   - AES × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Rumble Seat 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7295/hatchetman-hct-7r) 
 - **Battle Value:** 1521 
 - [*More Info*](hatchetman/hatchetman_hct-7r.md) 

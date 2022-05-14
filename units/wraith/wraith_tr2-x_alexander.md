@@ -18,6 +18,7 @@
   - Clan Partial Wing 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Ubiquitous (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3590/wraith-tr2-x-alexander) 
 - **Battle Value:** 1816 
 

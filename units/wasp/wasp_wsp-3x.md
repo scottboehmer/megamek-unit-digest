@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8103/wasp-wsp-3x) 
 - **Battle Value:** 521 
 

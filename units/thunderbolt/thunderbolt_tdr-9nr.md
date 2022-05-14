@@ -24,6 +24,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Rugged (×3) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3248/thunderbolt-tdr-9nr) 
 - **Battle Value:** 1632 
 

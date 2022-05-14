@@ -20,6 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305/griffin-grf-5m) 
 - **Battle Value:** 1224 

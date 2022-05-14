@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
+  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6676/lament-lmt-2r) 
@@ -41,6 +42,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
+  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7400/lament-lmt-2r-manes) 
@@ -65,6 +67,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
+  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6722/lament-lmt-3c) 
@@ -88,6 +91,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
+  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6723/lament-lmt-3r) 
@@ -111,6 +115,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
+  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6724/lament-lmt-4rc) 
@@ -136,6 +141,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
+  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383/lament-lmt-2d) 

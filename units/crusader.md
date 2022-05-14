@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
@@ -42,6 +43,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/752/crusader-crd-3r) 
@@ -65,6 +67,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (SRM 4) 
   - Stabilized Weapon (SRM 4) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/751/crusader-crd-3l) 
@@ -86,6 +89,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (SRM 4) 
   - Stabilized Weapon (SRM 4) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/749/crusader-crd-3d) 
@@ -107,6 +111,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/750/crusader-crd-3k) 
@@ -129,6 +134,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/753/crusader-crd-3r-crael) 
@@ -150,6 +156,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/755/crusader-crd-4d) 
@@ -171,6 +178,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/756/crusader-crd-4k) 
@@ -192,6 +200,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/757/crusader-crd-4l) 
@@ -219,6 +228,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/759/crusader-crd-5m) 
@@ -243,6 +253,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/760/crusader-crd-5s) 
@@ -266,6 +277,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8225/crusader-crd-6t) 
 - **Battle Value:** 1890 
 - [*More Info*](crusader/crusader_crd-6t.md) 
@@ -288,6 +300,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
 - **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/754/crusader-crd-4br) 
@@ -312,6 +325,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8224/crusader-crd-6d) 
 - **Battle Value:** 1498 
 - [*More Info*](crusader/crusader_crd-6d.md) 
@@ -335,6 +349,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/758/crusader-crd-5k) 
 - **Battle Value:** 1463 
 - [*More Info*](crusader/crusader_crd-5k.md) 
@@ -357,6 +372,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/765/crusader-crd-8s) 
 - **Battle Value:** 1698 
 - [*More Info*](crusader/crusader_crd-8s.md) 
@@ -380,6 +396,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/762/crusader-crd-7l) 
 - **Battle Value:** 1749 
 - [*More Info*](crusader/crusader_crd-7l.md) 
@@ -402,6 +419,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/763/crusader-crd-7w) 
 - **Battle Value:** 1162 
 - [*More Info*](crusader/crusader_crd-7w.md) 
@@ -425,6 +443,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (Streak SRM 4) 
   - Stabilized Weapon (Streak SRM 4) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761/crusader-crd-6m) 
@@ -448,6 +467,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/764/crusader-crd-8l) 
 - **Battle Value:** 1701 
 - [*More Info*](crusader/crusader_crd-8l.md) 
@@ -469,6 +489,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8263/crusader-crd-9s) 
 - **Battle Value:** 1642 
 - [*More Info*](crusader/crusader_crd-9s.md) 
@@ -493,6 +514,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8227/crusader-crd-7m) 
 - **Battle Value:** 1465 
 - [*More Info*](crusader/crusader_crd-7m.md) 
@@ -517,6 +539,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8228/crusader-crd-7m2) 
 - **Battle Value:** 1397 
 - [*More Info*](crusader/crusader_crd-7m2.md) 
@@ -540,6 +563,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (Streak SRM 6) 
   - Stabilized Weapon (Streak SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8231/crusader-crd-8r) 
@@ -567,6 +591,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8232/crusader-crd-9br) 
 - **Battle Value:** 1653 
 - [*More Info*](crusader/crusader_crd-9br.md) 
@@ -590,6 +615,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8233/crusader-crd-9r) 
@@ -616,6 +642,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8226/crusader-crd-7d) 
 - **Battle Value:** 1681 
 - [*More Info*](crusader/crusader_crd-7d.md) 
@@ -638,6 +665,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8234/crusader-crd-10s) 
 - **Battle Value:** 2264 
 - [*More Info*](crusader/crusader_crd-10s.md) 

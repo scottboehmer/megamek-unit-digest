@@ -18,6 +18,8 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - EM Interference (All Weapons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1749/karhu-b) 
 - **Battle Value:** 2787 
 

@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Rugged (×3) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3250/thunderbolt-tdr-9se) 
 - **Battle Value:** 1439 
 

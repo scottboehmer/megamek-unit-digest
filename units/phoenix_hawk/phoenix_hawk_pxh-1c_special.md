@@ -22,6 +22,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2493/phoenix-hawk-pxh-1c-special) 
 - **Battle Value:** 1443 
 

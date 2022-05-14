@@ -18,6 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/217/bandersnatch-bndr-01a) 
 - **Battle Value:** 1478 
 

@@ -19,6 +19,7 @@
   - TAG 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Rumble Seat 
   - Difficult Ejection 
   - Anti-Aircraft Targeting 
   - Rugged (×2) 

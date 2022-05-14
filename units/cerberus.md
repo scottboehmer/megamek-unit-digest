@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Barrel Fists 
+  - Vestigial Hands 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/528/cerberus-mr-v2) 
 - **Battle Value:** 2001 
 - [*More Info*](cerberus/cerberus_mr-v2.md) 
@@ -39,6 +40,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Barrel Fists 
+  - Vestigial Hands 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/526/cerberus-mr-5m) 
 - **Battle Value:** 2057 
 - [*More Info*](cerberus/cerberus_mr-5m.md) 
@@ -59,6 +61,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Barrel Fists 
+  - Vestigial Hands 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/529/cerberus-mr-v3) 
 - **Battle Value:** 2094 
 - [*More Info*](cerberus/cerberus_mr-v3.md) 
@@ -82,6 +85,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Barrel Fists 
+  - Vestigial Hands 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/527/cerberus-mr-6b) 
 - **Battle Value:** 2128 
 - [*More Info*](cerberus/cerberus_mr-6b.md) 

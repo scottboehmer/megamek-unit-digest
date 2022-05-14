@@ -14,6 +14,8 @@
 - **Weapons:** 
   - Clan Streak LRM 10 × 2 (ammo: 24) 
   - Clan ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Ubiquitous (Clans) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6951/cougar-x-standard) 
 - **Battle Value:** 1474 
 

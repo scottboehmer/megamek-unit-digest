@@ -19,6 +19,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2900/shadow-hawk-shd-2d2) 
 - **Battle Value:** 1049 

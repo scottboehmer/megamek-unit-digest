@@ -20,6 +20,7 @@
   - Anti-Aircraft Targeting 
   - Searchlight 
   - No/Minimal Arms 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1931/longbow-lgb-12c) 
 - **Battle Value:** 1686 
 

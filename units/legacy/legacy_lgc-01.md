@@ -20,6 +20,7 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (Ultra AC/10) 
   - Directional Torso Mount (Streak SRM 4) 

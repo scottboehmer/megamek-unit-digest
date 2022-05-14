@@ -21,6 +21,7 @@
   - MASC 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
+  - Vestigial Hand (Right Arm) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2636/rampage-rmp-4g) 
 - **Battle Value:** 2130 
 

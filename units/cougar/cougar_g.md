@@ -16,6 +16,8 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Ubiquitous (Clans) 
 - **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/710/cougar-g) 
 - **Battle Value:** 1453 
 

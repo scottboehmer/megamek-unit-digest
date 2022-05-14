@@ -18,6 +18,8 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Ubiquitous (Clans) 
 - **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/711/cougar-h) 
 - **Battle Value:** 1323 
 

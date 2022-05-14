@@ -14,6 +14,8 @@
   - Large X-Pulse Laser 
   - ER Medium Laser × 2 
   - ER Small Laser 
+- **Design Quirks:** 
+  - EM Interference (All Weapons) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1837/koto-kto-2a) 
 - **Battle Value:** 977 
 

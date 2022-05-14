@@ -22,6 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306/griffin-grf-6cs) 
 - **Battle Value:** 1695 

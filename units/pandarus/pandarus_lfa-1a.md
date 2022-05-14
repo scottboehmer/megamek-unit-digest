@@ -19,6 +19,7 @@
   - Poor Targeting (Short) 
   - Improved Targeting (Long) 
   - Easy to Maintain 
+  - Rumble Seat 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4783/pandarus-lfa-1a) 
 - **Battle Value:** 1589 
 

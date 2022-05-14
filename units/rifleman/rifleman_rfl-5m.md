@@ -20,6 +20,7 @@
   - Anti-Aircraft Targeting 
   - Improved Communications 
   - Searchlight 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #8 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2700/rifleman-rfl-5m) 
 - **Battle Value:** 1227 
 

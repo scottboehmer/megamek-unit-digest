@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Rugged (×3) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3246/thunderbolt-tdr-9m) 
 - **Battle Value:** 1648 
 

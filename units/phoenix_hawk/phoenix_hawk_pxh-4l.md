@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2503/phoenix-hawk-pxh-4l) 
 - **Battle Value:** 1282 
 

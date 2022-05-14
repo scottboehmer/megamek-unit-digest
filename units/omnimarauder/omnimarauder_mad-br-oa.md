@@ -19,6 +19,7 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Command ’Mech 
+  - Directional Torso Mount (All Weapons) 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8111/omnimarauder-mad-br-oa) 

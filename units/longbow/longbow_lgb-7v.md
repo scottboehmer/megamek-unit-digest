@@ -20,6 +20,7 @@
   - Anti-Aircraft Targeting 
   - Searchlight 
   - No/Minimal Arms 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1937/longbow-lgb-7v) 
 - **Battle Value:** 1816 
 

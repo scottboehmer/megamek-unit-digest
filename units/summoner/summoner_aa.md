@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
+  - Ubiquitous (Clans) 
 - **Sources:** Rec Guide:ilClan #3- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6876/thor-summoner-aa) 
 - **Battle Value:** 2216 
 

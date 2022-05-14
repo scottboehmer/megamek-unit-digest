@@ -18,6 +18,7 @@
 - **Design Quirks:** 
   - Poor Workmanship 
   - Weak Legs 
+  - EM Interference (All Weapons) 
   - Directional Torso Mount (SRM 2) 
   - Directional Torso Mount (SRM 2) 
   - EM Interference (PPC) 

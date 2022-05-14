@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7495/wasp-wsp-5a) 
 - **Battle Value:** 517 
 

@@ -20,6 +20,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Difficult Ejection 
+  - Ubiquitous (Inner Sphere) 
   - Battlefists 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3721/archer-arc-1a) 
 - **Battle Value:** 1269 

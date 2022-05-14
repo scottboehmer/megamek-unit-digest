@@ -17,6 +17,7 @@
   - Anti-Aircraft Targeting 
   - Improved Communications 
   - Searchlight 
+  - Ubiquitous 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2706/rifleman-rfl-8x) 
 - **Battle Value:** 1798 
 

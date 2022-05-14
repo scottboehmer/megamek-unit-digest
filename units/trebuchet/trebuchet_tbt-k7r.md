@@ -22,6 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
   - Fast Reload (Streak SRM 6) 

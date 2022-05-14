@@ -18,6 +18,7 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (Ultra AC/10) 
   - Directional Torso Mount (Streak SRM 4) 
@@ -48,6 +49,7 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (LRM 20) 
   - Directional Torso Mount (Streak SRM 4) 
@@ -79,6 +81,7 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (Heavy PPC) 
   - Directional Torso Mount (Streak SRM 4) 
@@ -107,6 +110,7 @@
   - C3i 
   - MASC 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (Snub-Nose PPC) 
   - Directional Torso Mount (Snub-Nose PPC) 
@@ -133,6 +137,7 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (ER Small Laser) 
   - Directional Torso Mount (MML 7) 

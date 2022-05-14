@@ -16,6 +16,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
+  - EM Interference (All Weapons) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8342/mastodon-prime) 
 - **Battle Value:** 3109 
 - [*More Info*](mastodon/mastodon_prime.md) 
@@ -38,6 +39,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
+  - EM Interference (All Weapons) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8343/mastodon-a) 
 - **Battle Value:** 2856 
 - [*More Info*](mastodon/mastodon_a.md) 
@@ -60,6 +62,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
+  - EM Interference (All Weapons) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8344/mastodon-b) 
 - **Battle Value:** 2793 
 - [*More Info*](mastodon/mastodon_b.md) 
@@ -83,6 +86,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
+  - EM Interference (All Weapons) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8345/mastodon-c) 
 - **Battle Value:** 3092 
 - [*More Info*](mastodon/mastodon_c.md) 
@@ -105,6 +109,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
+  - EM Interference (All Weapons) 
 - **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8346/mastodon-d) 
 - **Battle Value:** 2961 
 - [*More Info*](mastodon/mastodon_d.md) 

@@ -20,6 +20,8 @@
   - Command Console 
   - CASE II 
   - Clan Targeting Computer 
+- **Design Quirks:** 
+  - Rumble Seat 
 - **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7955/templar-iii-tlr-2j-arthur) 
 - **Battle Value:** 2722 
 

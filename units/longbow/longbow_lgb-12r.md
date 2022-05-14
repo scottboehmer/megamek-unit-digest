@@ -21,6 +21,7 @@
   - Anti-Aircraft Targeting 
   - Searchlight 
   - No/Minimal Arms 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1932/longbow-lgb-12r) 
 - **Battle Value:** 1979 
 

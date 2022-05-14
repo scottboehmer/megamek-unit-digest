@@ -18,6 +18,8 @@
   - Quad Turret 
   - CASE II 
   - C3 Support 
+- **Design Quirks:** 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3791/barghest-bgs-4x) 
 - **Battle Value:** 1667 
 

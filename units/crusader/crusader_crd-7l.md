@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/762/crusader-crd-7l) 
 - **Battle Value:** 1749 
 

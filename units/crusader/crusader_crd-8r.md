@@ -21,6 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
+  - Ubiquitous 
   - Stabilized Weapon (Streak SRM 6) 
   - Stabilized Weapon (Streak SRM 6) 
 - **Sources:** Rec Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8231/crusader-crd-8r) 

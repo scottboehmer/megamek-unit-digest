@@ -16,6 +16,8 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Ubiquitous (Clans) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/707/cougar-d) 
 - **Battle Value:** 1309 
 

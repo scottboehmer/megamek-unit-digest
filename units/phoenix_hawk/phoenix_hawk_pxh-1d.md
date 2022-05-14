@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Command ’Mech 
+  - Ubiquitous 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2494/phoenix-hawk-pxh-1d) 
 - **Battle Value:** 1083 
 

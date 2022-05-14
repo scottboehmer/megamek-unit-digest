@@ -17,6 +17,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Cramped Cockpit 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #13 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8124/stinger-stg-6r) 
 - **Battle Value:** 454 
 

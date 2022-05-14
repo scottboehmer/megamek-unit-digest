@@ -16,6 +16,8 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
+- **Design Quirks:** 
+  - Vestigial Hands 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/999/excalibur-exc-b2b) 
 - **Battle Value:** 1715 
 
