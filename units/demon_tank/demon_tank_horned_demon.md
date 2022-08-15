@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
   - Medium Laser × 4 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/873/demon-tank-horned-demon) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/873) 
 - **Battle Value:** 1179 
 
 ## Availability 

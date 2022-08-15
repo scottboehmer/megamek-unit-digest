@@ -20,7 +20,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/78/archer-arc-4m) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/78) 
 - **Battle Value:** 1705 
 
 ## Availability 
@@ -124,5 +124,17 @@
 - Pirate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

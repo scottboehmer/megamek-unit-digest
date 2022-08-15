@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/455/caesar-ces-3r) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/455) 
 - **Battle Value:** 1578 
 - [*More Info*](caesar/caesar_ces-3r.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3883/caesar-ces-3r-archangel) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3883) 
 - **Battle Value:** 2098 
 - [*More Info*](caesar/caesar_ces-3r_archangel.md) 
 
@@ -57,7 +57,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3884/caesar-ces-3r-gertrude) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3884) 
 - **Battle Value:** 1833 
 - [*More Info*](caesar/caesar_ces-3r_gertrude.md) 
 
@@ -78,7 +78,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/458/caesar-ces-4s) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/458) 
 - **Battle Value:** 1750 
 - [*More Info*](caesar/caesar_ces-4s.md) 
 
@@ -99,7 +99,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/456/caesar-ces-3s) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/456) 
 - **Battle Value:** 1901 
 - [*More Info*](caesar/caesar_ces-3s.md) 
 
@@ -121,7 +121,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/457/caesar-ces-4r) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/457) 
 - **Battle Value:** 2024 
 - [*More Info*](caesar/caesar_ces-4r.md) 
 

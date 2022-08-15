@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3541/whitworth-wth-2) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3541) 
 - **Battle Value:** 936 
 
 ## Availability 
@@ -58,4 +58,22 @@
 - Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Fronc Reaches 
+- Marian Hegemony 
+
+### Dark Ages 
+
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Marian Hegemony 
+
+### ilClan 
+
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Marian Hegemony 
 

@@ -21,12 +21,19 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Accurate Weapon (ER PPC) 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6351/black-knight-blk-nt-5h) 
+- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6351) 
 - **Battle Value:** 2423 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

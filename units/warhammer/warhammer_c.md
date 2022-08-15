@@ -20,7 +20,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3479/warhammer-c) 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3479) 
 - **Battle Value:** 1728 
 
 ## Availability 

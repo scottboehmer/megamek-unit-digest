@@ -17,7 +17,7 @@
   - Inner Sphere Coolant Pod × 4 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8132/supernova-5) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8132) 
 - **Battle Value:** 3070 
 
 ## Availability 
@@ -30,4 +30,15 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Rasalhague Dominion 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Wolf's Dragoons 
 

@@ -20,12 +20,16 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7498/warhammer-iic-13) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7498) 
 - **Battle Value:** 2715 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

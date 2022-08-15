@@ -20,7 +20,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1933/longbow-lgb-13c) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1933) 
 - **Battle Value:** 1307 
 
 ## Availability 
@@ -74,4 +74,14 @@
 - Oriente Protectorate 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
 

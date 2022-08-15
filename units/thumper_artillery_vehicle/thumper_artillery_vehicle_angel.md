@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/5229/thumper-artillery-vehicle-angel) 
+- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/5229) 
 - **Battle Value:** 758 
 
 ## Availability 
@@ -62,4 +62,13 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Vesper Marches 
 

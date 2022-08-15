@@ -22,12 +22,16 @@
   - Chain Whip 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6919/dasher-ii-4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6919) 
 - **Battle Value:** 1749 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Solaris 7 
+
+### ilClan 
 
 - Solaris 7 
 

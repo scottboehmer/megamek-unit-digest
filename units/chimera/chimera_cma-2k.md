@@ -23,7 +23,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5667/chimera-cma-2k) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5667) 
 - **Battle Value:** 1528 
 
 ## Availability 
@@ -54,4 +54,11 @@
 - Mercenary 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
 

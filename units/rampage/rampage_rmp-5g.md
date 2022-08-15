@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
   - Vestigial Hand (Right Arm) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2637/rampage-rmp-5g) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2637) 
 - **Battle Value:** 1933 
 
 ## Availability 

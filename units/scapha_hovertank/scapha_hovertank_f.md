@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6664/scapha-hovertank-f) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6664) 
 - **Battle Value:** 602 
 
 ## Availability 
@@ -27,4 +27,10 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

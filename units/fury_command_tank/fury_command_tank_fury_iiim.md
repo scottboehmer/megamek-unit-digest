@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Main 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6802/fury-command-tank-fury-iiim) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6802) 
 - **Battle Value:** 1720 
 
 ## Availability 
@@ -27,6 +27,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

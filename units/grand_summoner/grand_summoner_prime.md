@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6281/thor-ii-grand-summoner-prime) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6281) 
 - **Battle Value:** 2554 
 
 ## Availability 
@@ -53,5 +53,16 @@
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Kell Hounds 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
 - Wolf's Dragoons 
 

@@ -18,24 +18,10 @@
 - **Equipment:** 
   - CASE II 
   - MASC 
-- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8258/wolverine-wvr-11m) 
+- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8258) 
 - **Battle Value:** 1778 
 
 ## Availability 
-
-### Early Republic 
-
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
-- Marian Hegemony 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
 
 ### Late Republic 
 
@@ -65,4 +51,13 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Vesper Marches 
 

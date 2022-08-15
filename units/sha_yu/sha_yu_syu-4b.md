@@ -19,7 +19,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5027/sha-yu-syu-4b) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5027) 
 - **Battle Value:** 1267 
 
 ## Availability 
@@ -45,6 +45,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

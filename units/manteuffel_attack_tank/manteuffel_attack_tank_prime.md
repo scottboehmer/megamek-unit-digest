@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4586/manteuffel-attack-tank-prime) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4586) 
 - **Battle Value:** 1504 
 
 ## Availability 
@@ -50,4 +50,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -15,7 +15,7 @@
   - Large Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2341/oro-heavy-tank-hag) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2341) 
 - **Battle Value:** 1492 
 
 ## Availability 
@@ -38,6 +38,13 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 - Rasalhague Dominion 
 - Raven Alliance 

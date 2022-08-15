@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Good Reputation 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3626/yu-huang-y-h9g) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3626) 
 - **Battle Value:** 2074 
 
 ## Availability 
@@ -57,6 +57,13 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### ilClan 
 
 - Capellan Confederation 
 - Fronc Reaches 

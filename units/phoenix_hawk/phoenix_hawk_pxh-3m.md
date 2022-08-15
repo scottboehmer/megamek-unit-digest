@@ -22,7 +22,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2499/phoenix-hawk-pxh-3m) 
+- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2499) 
 - **Battle Value:** 1307 
 
 ## Availability 
@@ -115,4 +115,11 @@
 - Pirate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 

@@ -17,7 +17,7 @@
   - MagShot Gauss Rifle × 4 (ammo: 100) 
 - **Equipment:** 
   - Mine Dispenser × 2 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6496/bardiche-heavy-strike-tank-standard) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6496) 
 - **Battle Value:** 1086 
 
 ## Availability 
@@ -36,4 +36,10 @@
 - Clan Wolf 
 - Free Worlds League 
 - Mercenary 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
+- Wolf Empire 
 

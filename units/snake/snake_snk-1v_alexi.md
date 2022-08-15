@@ -19,8 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2975/snake-snk-1v-alexi) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2975) 
 - **Battle Value:** 1316 
 
 ## Availability 

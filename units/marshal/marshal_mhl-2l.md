@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2088/marshal-mhl-2l) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2088) 
 - **Battle Value:** 1313 
 
 ## Availability 
@@ -65,6 +65,18 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Capellan Confederation 

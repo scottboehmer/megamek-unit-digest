@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8130/hunchback-iic-5) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8130) 
 - **Battle Value:** 1534 
 
 ## Availability 
@@ -33,4 +33,9 @@
 - Clan Jade Falcon 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
 

@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2631/rakshasa-mdg-1a) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2631) 
 - **Battle Value:** 1795 
 
 ## Availability 
@@ -61,6 +61,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Mercenary 

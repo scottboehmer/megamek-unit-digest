@@ -14,7 +14,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2109/maultier-hover-apc-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2109) 
 - **Battle Value:** 209 
 
 ## Availability 
@@ -235,4 +235,26 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Taurian Concordat 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Taurian Concordat 
+- Wolf Empire 
 

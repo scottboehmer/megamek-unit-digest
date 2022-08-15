@@ -17,7 +17,7 @@
   - ECM Suite 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6298/tomahawk-prime) 
+- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6298) 
 - **Battle Value:** 3101 
 - [*More Info*](tomahawk/tomahawk_prime.md) 
 
@@ -37,7 +37,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6299/tomahawk-a) 
+- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6299) 
 - **Battle Value:** 2762 
 - [*More Info*](tomahawk/tomahawk_a.md) 
 
@@ -57,13 +57,13 @@
   - ER Medium Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6300/tomahawk-b) 
+- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6300) 
 - **Battle Value:** 3323 
 - [*More Info*](tomahawk/tomahawk_b.md) 
 
 ## Tomahawk C 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Clan (3063) 
 - **Chassis:** 100 tons 
 - **Movement:** 3 / 5, XL 
@@ -75,7 +75,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6301/tomahawk-c) 
+- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6301) 
 - **Battle Value:** 2985 
 - [*More Info*](tomahawk/tomahawk_c.md) 
 

@@ -16,7 +16,7 @@
   - Light PPC × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2571/prefect-prf-2r) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2571) 
 - **Battle Value:** 1710 
 
 ## Availability 
@@ -33,4 +33,10 @@
 
 - Free Worlds League 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
+- Star League (Wolf) 
 

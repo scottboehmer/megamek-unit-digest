@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - C3 Main 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2818/schiltron-mobile-fire-support-platform-d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2818) 
 - **Battle Value:** 1480 
 
 ## Availability 
@@ -74,4 +74,15 @@
 - Oriente Protectorate 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

@@ -7,15 +7,16 @@
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2597) 
 - **Chassis:** 25 tons VTOL 
-- **Movement:** 12 / 18, Fusion 
+- **Movement:** 14 / 21, Fusion 
 - **Armor:** 32 
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2278/nightshade-ecm-vtol-standard) 
-- **Battle Value:** 342 
+  - Cargo 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2278) 
+- **Battle Value:** 367 
 
 ## Availability 
 

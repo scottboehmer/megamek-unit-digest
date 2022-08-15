@@ -23,8 +23,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3431/vindicator-vnd-6l) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3431) 
 - **Battle Value:** 1739 
 
 ## Availability 
@@ -42,6 +41,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

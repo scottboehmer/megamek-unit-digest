@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Compact ’Mech 
   - Narrow/Low Profile 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6712/jackalope-jlp-ka) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6712) 
 - **Battle Value:** 1488 
 
 ## Availability 
@@ -30,4 +30,11 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Mercenary 
+- Star League (Smoke Jaguar) 
+- Wolf's Dragoons 
 

@@ -17,7 +17,7 @@
   - AP Gauss Rifle × 10 (ammo: 80) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5736/shoden-assault-vehicle-lb-x) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5736) 
 - **Battle Value:** 1314 
 
 ## Availability 
@@ -39,5 +39,10 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Draconis Combine 
+
+### ilClan 
+
+- Clan Protectorate 
 - Draconis Combine 
 

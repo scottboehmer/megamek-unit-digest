@@ -13,7 +13,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7721/hermit-crab-hmc-13) 
+- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7721) 
 - **Battle Value:** 731 
 - [*More Info*](hermit_crab/hermit_crab_hmc-13.md) 
 
@@ -30,7 +30,7 @@
   - ER Medium Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7722/hermit-crab-hmc-14) 
+- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7722) 
 - **Battle Value:** 844 
 - [*More Info*](hermit_crab/hermit_crab_hmc-14.md) 
 
@@ -46,7 +46,7 @@
   - Light PPC × 2 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7723/hermit-crab-hmc-15) 
+- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7723) 
 - **Battle Value:** 742 
 - [*More Info*](hermit_crab/hermit_crab_hmc-15.md) 
 

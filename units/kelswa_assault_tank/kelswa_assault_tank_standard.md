@@ -4,7 +4,7 @@
 
 ## Kelswa Assault Tank (Standard) 
 
-- **Role:** Juggernaut 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3105) 
 - **Chassis:** 95 tons Tracked 
 - **Movement:** 3 / 5, Fusion 
@@ -16,7 +16,7 @@
   - Heavy Machine Gun × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6604/kelswa-assault-tank-standard) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6604) 
 - **Battle Value:** 1748 
 
 ## Availability 
@@ -72,4 +72,17 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

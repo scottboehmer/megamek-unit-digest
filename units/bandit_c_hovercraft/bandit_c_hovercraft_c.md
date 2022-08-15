@@ -14,7 +14,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/222/bandit-c-hovercraft-c) 
+- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/222) 
 - **Battle Value:** 1231 
 
 ## Availability 
@@ -43,4 +43,10 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

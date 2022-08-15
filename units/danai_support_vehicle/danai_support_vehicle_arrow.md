@@ -15,7 +15,7 @@
   - MagShot Gauss Rifle × 4 (ammo: 50) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5568/danai-support-vehicle-arrow) 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5568) 
 - **Battle Value:** 794 
 
 ## Availability 

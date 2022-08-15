@@ -15,7 +15,7 @@
   - Salvage Arm 
   - Lift Hoist 
   - Cargo × 3 
-- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4853/powerman-sc-xvi-haulermech) 
+- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4853) 
 - **Battle Value:** 198 
 
 ## Availability 

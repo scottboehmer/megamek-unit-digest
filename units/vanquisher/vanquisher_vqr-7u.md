@@ -25,7 +25,7 @@
   - C3i 
 - **Design Quirks:** 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5721/vanquisher-vqr-7u) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5721) 
 - **Battle Value:** 2144 
 
 ## Availability 

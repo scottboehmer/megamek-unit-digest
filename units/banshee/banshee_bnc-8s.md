@@ -28,7 +28,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/250/banshee-bnc-8s) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/250) 
 - **Battle Value:** 2408 
 
 ## Availability 
@@ -52,4 +52,9 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
 

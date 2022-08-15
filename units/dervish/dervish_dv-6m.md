@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/878/dervish-dv-6m) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/878) 
 - **Battle Value:** 1146 
 
 ## Availability 
@@ -177,6 +177,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

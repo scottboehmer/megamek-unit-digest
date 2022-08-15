@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3611/yasha-vtol-interdictor) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3611) 
 - **Battle Value:** 584 
 
 ## Availability 
@@ -81,4 +81,20 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

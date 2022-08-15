@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5068/skulker-wheeled-scout-tank-x-5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5068) 
 - **Battle Value:** 491 
 
 ## Availability 

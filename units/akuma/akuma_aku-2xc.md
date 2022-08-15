@@ -23,7 +23,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/22/akuma-aku-2xc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/22) 
 - **Battle Value:** 2134 
 
 ## Availability 
@@ -46,4 +46,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

@@ -20,7 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3406/victor-vtr-11d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3406) 
 - **Battle Value:** 2021 
 
 ## Availability 
@@ -51,4 +51,9 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
 

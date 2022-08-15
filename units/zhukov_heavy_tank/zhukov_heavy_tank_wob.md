@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3651/zhukov-heavy-tank-wob) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3651) 
 - **Battle Value:** 983 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7602/phoenix-hawk-pxh-1bc) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7602) 
 - **Battle Value:** 1174 
 
 ## Availability 
@@ -52,4 +52,8 @@
 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+
+### ilClan 
+
+- Free Worlds League 
 

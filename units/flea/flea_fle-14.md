@@ -19,7 +19,7 @@
   - No/Minimal Arms 
   - Narrow/Low Profile 
   - Hard to Pilot 
-- **Sources:** XTRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5769/flea-fle-14) 
+- **Sources:** XTRO Succession Wars - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5769) 
 - **Battle Value:** 270 
 
 ## Availability 

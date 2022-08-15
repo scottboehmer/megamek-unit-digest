@@ -16,8 +16,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3205/thug-thg-11e) 
+  - Rugged (×2) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3205) 
 - **Battle Value:** 1640 
 
 ## Availability 
@@ -241,6 +241,14 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Scorpion Empire 
+
+### ilClan 
+
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

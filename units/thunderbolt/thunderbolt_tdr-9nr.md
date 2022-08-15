@@ -25,7 +25,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3248/thunderbolt-tdr-9nr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3248) 
 - **Battle Value:** 1632 
 
 ## Availability 
@@ -47,6 +47,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Mercenary 

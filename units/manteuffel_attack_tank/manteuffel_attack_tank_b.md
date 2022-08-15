@@ -15,7 +15,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4585/manteuffel-attack-tank-b) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4585) 
 - **Battle Value:** 1491 
 
 ## Availability 
@@ -48,4 +48,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -16,8 +16,7 @@
   - Large Laser 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1771/king-crab-kgc-0000) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1771) 
 - **Battle Value:** 1810 
 
 ## Availability 

@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/10 (ammo: 20) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1214/gladius-medium-hovertank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1214) 
 - **Battle Value:** 586 
 - [*More Info*](gladius_medium_hover_tank/gladius_medium_hover_tank_standard.md) 
 
@@ -28,7 +28,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Machine Gun Array 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1213/gladius-medium-hover-tank-mk-ii) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1213) 
 - **Battle Value:** 613 
 - [*More Info*](gladius_medium_hover_tank/gladius_medium_hover_tank_mk_ii.md) 
 

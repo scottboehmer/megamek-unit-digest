@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3534/watchman-wtc-4m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3534) 
 - **Battle Value:** 1067 
 
 ## Availability 
@@ -68,6 +68,12 @@
 - Filtvelt Coalition 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Federated Suns 

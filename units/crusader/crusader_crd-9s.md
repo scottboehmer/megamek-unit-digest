@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8263/crusader-crd-9s) 
+- **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8263) 
 - **Battle Value:** 1642 
 
 ## Availability 
@@ -36,4 +36,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -23,7 +23,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2492/phoenix-hawk-pxh-1b-special) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2492) 
 - **Battle Value:** 1512 
 
 ## Availability 
@@ -174,4 +174,8 @@
 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+
+### ilClan 
+
+- Free Worlds League 
 

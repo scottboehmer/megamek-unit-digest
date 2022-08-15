@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3411/victor-vtr-9k) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3411) 
 - **Battle Value:** 1717 
 
 ## Availability 
@@ -125,5 +125,16 @@
 - Oriente Protectorate 
 - Pirate 
 - Republic of the Sphere 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

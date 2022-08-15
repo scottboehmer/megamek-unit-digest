@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/27/albatross-alb-3u) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/27) 
 - **Battle Value:** 1668 
 - [*More Info*](albatross/albatross_alb-3u.md) 
 
@@ -44,7 +44,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/29/albatross-alb-4u) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/29) 
 - **Battle Value:** 1907 
 - [*More Info*](albatross/albatross_alb-4u.md) 
 
@@ -71,7 +71,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Long) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/30/albatross-alb-5w-dantalion) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/30) 
 - **Battle Value:** 2296 
 - [*More Info*](albatross/albatross_alb-5w_dantalion.md) 
 
@@ -94,7 +94,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Long) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/28/albatross-alb-3ur) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/28) 
 - **Battle Value:** 1902 
 - [*More Info*](albatross/albatross_alb-3ur.md) 
 

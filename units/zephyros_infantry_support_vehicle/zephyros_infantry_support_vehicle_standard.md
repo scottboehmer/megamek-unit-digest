@@ -16,7 +16,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3634/zephyros-infantry-support-vehicle-standard) 
+- **Sources:** TRO 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3634) 
 - **Battle Value:** 840 
 
 ## Availability 
@@ -41,4 +41,11 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Star League (Wolf) 
+- Wolf Empire 
 

@@ -14,7 +14,7 @@
   - PPC 
   - Large Laser × 2 
   - SRM 2 × 4 (ammo: 50) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/433/brutus-assault-tank-ppc-2) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/433) 
 - **Battle Value:** 979 
 
 ## Availability 
@@ -123,4 +123,16 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

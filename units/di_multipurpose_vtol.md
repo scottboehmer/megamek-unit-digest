@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Light PPC 
   - MML 7 (ammo: 17 LRM, 14 SRM) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6596/di-multipurpose-light-vtol-gunship) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6596) 
 - **Battle Value:** 711 
 - [*More Info*](di_multipurpose_vtol/di_multipurpose_vtol_gunship.md) 
 
@@ -29,7 +29,7 @@
   - Beagle Active Probe 
   - TAG 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6595/di-multipurpose-light-vtol-standard) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6595) 
 - **Battle Value:** 542 
 - [*More Info*](di_multipurpose_vtol/di_multipurpose_vtol_standard.md) 
 

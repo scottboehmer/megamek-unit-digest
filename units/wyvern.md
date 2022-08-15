@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3597/wyvern-wve-5n) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3597) 
 - **Battle Value:** 1089 
 - [*More Info*](wyvern/wyvern_wve-5n.md) 
 
@@ -41,11 +41,11 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3598/wyvern-wve-5nb) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3598) 
 - **Battle Value:** 1006 
 - [*More Info*](wyvern/wyvern_wve-5nb.md) 
 
-## Wyvern WVE-5UX (City) 
+## Wyvern WVE-5UX 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2686) 
@@ -64,11 +64,9 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-  - Command ’Mech 
-  - Distracting 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7319/wyvern-city-wve-5ux) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7319) 
 - **Battle Value:** 1273 
-- [*More Info*](wyvern/wyvern_wve-5ux_city.md) 
+- [*More Info*](wyvern/wyvern_wve-5ux.md) 
 
 ## Wyvern WVE-5Nsl 
 
@@ -88,7 +86,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5875/wyvern-wve-5nsl) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5875) 
 - **Battle Value:** 1207 
 - [*More Info*](wyvern/wyvern_wve-5nsl.md) 
 
@@ -108,7 +106,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3599/wyvern-wve-6n) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3599) 
 - **Battle Value:** 1005 
 - [*More Info*](wyvern/wyvern_wve-6n.md) 
 
@@ -130,7 +128,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3600/wyvern-wve-9n) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3600) 
 - **Battle Value:** 1067 
 - [*More Info*](wyvern/wyvern_wve-9n.md) 
 
@@ -153,7 +151,7 @@
   - C3i 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3596/wyvern-wve-10n) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3596) 
 - **Battle Value:** 1199 
 - [*More Info*](wyvern/wyvern_wve-10n.md) 
 

@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6933/spider-sdr-8xr) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6933) 
 - **Battle Value:** 754 
 
 ## Availability 
@@ -36,4 +36,9 @@
 - Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Mercenary 
 

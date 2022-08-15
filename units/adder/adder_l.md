@@ -20,8 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7482/puma-adder-l) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7482) 
 - **Battle Value:** 1738 
 
 ## Availability 
@@ -41,5 +40,22 @@
 - Raven Alliance 
 - Republic of the Sphere 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Vesper Marches 
+- Wolf Empire 
 - Wolf's Dragoons 
 

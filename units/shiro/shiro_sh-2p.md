@@ -19,12 +19,16 @@
   - Coolant Pod 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6417/shiro-sh-2p) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6417) 
 - **Battle Value:** 2570 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

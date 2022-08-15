@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Poor Life Support 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1080/firebee-frb-3e) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1080) 
 - **Battle Value:** 1067 
 
 ## Availability 
@@ -43,6 +43,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Fronc Reaches 

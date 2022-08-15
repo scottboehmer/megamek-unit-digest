@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (8 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2128/maxim-mk-ii-transport-infantry-support-shiloh) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2128) 
 - **Battle Value:** 828 
 
 ## Availability 
@@ -37,4 +37,12 @@
 - Clan Jade Falcon 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

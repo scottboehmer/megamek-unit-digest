@@ -20,7 +20,7 @@
   - AES × 2 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6466/mortis-ms-1a) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6466) 
 - **Battle Value:** 1834 
 
 ## Availability 
@@ -52,5 +52,14 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Solaris 7 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
 - Solaris 7 
 

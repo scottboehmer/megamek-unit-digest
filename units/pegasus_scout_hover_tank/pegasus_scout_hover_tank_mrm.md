@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2458/pegasus-scout-hover-tank-mrm) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2458) 
 - **Battle Value:** 781 
 
 ## Availability 
@@ -45,4 +45,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

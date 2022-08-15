@@ -20,7 +20,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2045/marauder-mad-6l) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2045) 
 - **Battle Value:** 2322 
 
 ## Availability 
@@ -41,6 +41,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

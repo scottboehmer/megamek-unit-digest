@@ -20,7 +20,7 @@
   - Clan ER Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** J:FR , [Master Unit List](http://masterunitlist.info/Unit/Details/5380/waneta-s-wn-2lam) 
+- **Sources:** J:FR , [Master Unit List](http://masterunitlist.info/Unit/Details/5380) 
 - **Battle Value:** 2760 
 
 ## Availability 

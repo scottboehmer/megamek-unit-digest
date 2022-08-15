@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Infantry (8 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3281/trajan-assault-infantry-fighting-vehicle-ice) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3281) 
 - **Battle Value:** 1043 
 - [*More Info*](trajan_assault_infantry_fighting_vehicle/trajan_assault_infantry_fighting_vehicle_ice.md) 
 
@@ -38,7 +38,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
   - C3 Support 
   - Infantry (8 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3282/trajan-assault-infantry-fighting-vehicle-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3282) 
 - **Battle Value:** 1182 
 - [*More Info*](trajan_assault_infantry_fighting_vehicle/trajan_assault_infantry_fighting_vehicle_standard.md) 
 

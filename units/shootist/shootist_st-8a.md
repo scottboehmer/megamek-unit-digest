@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2939/shootist-st-8a) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2939) 
 - **Battle Value:** 1507 
 
 ## Availability 
@@ -179,4 +179,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Wolf) 
 

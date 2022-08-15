@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Ammunition Feed Problem (SRM 4) 
   - Ammunition Feed Problem (SRM 4) 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6553/stalking-spider-ii-standard) 
+- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6553) 
 - **Battle Value:** 1362 
 
 ## Availability 
@@ -60,4 +60,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

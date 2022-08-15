@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5740/ajax-assault-tank-c) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5740) 
 - **Battle Value:** 1839 
 
 ## Availability 
@@ -42,4 +42,8 @@
 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
 

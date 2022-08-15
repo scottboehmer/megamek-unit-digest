@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - No Ejection System 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6918/raptor-ii-rpt-2x2) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6918) 
 - **Battle Value:** 1868 
 
 ## Availability 
@@ -33,4 +33,12 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Mercenary 
+- Solaris 7 
+- Star League (Smoke Jaguar) 
 

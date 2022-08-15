@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3597/wyvern-wve-5n) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3597) 
 - **Battle Value:** 1089 
 
 ## Availability 
@@ -102,6 +102,10 @@
 - Republic of the Sphere 
 
 ### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
 
 - Mercenary 
 

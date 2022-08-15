@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Cooling Jacket (ER PPC) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/967/emperor-emp-6l) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/967) 
 - **Battle Value:** 2681 
 
 ## Availability 
@@ -40,6 +40,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

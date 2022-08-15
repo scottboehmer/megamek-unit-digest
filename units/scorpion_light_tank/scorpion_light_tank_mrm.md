@@ -13,7 +13,7 @@
 - **Weapons:** 
   - MRM 20 (ammo: 24) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2845/scorpion-light-tank-mrm) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2845) 
 - **Battle Value:** 393 
 
 ## Availability 
@@ -151,5 +151,19 @@
 - Pirate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

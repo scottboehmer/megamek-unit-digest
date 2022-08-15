@@ -16,7 +16,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** JTP:Atreus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3262/tokugawa-heavy-tank-sd2) 
+- **Sources:** JTP:Atreus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3262) 
 - **Battle Value:** 961 
 
 ## Availability 

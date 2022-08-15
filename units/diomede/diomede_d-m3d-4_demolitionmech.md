@@ -23,7 +23,7 @@
   - CASE 
   - Ejection Seat 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/902/diomede-d-m3d-4-demolitionmech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/902) 
 - **Battle Value:** 1234 
 
 ## Availability 
@@ -82,5 +82,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 - Wolf's Dragoons 
 

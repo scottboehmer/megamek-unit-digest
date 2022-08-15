@@ -13,12 +13,20 @@
 - **Weapons:** 
   - MML 7 × 3 (ammo: 34 LRM, 28 SRM) 
   - Heavy Machine Gun × 2 (ammo: 50) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7828/muckraker-gmmm-2m-b-miningmech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7828) 
 - **Battle Value:** 815 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Capellan Confederation 
 - Free Worlds League 

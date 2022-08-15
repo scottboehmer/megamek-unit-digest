@@ -41,10 +41,11 @@
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
 
+- [**Flatbed Truck (AC)**](../../units/flatbed_truck/flatbed_truck_ac.md) *Scout (2580)* 
 - [**Flatbed Truck (Armor)**](../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
-- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Undefined (2580)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
@@ -224,7 +225,7 @@
 
 #### [Marsden II MBT](../../units/marsden_ii_mbt.md) 
 
-- [**Marsden II MBT (Standard)**](../../units/marsden_ii_mbt/marsden_ii_mbt_standard.md) *Undefined (2473)* 
+- [**Marsden II MBT (Standard)**](../../units/marsden_ii_mbt/marsden_ii_mbt_standard.md) *Juggernaut (2473)* 
 - [**Marsden II MBT II-A**](../../units/marsden_ii_mbt/marsden_ii_mbt_ii-a.md) *Juggernaut (2482)* 
 
 #### [SRM Carrier](../../units/srm_carrier.md) 
@@ -263,7 +264,7 @@
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Missile Boat (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
 
 #### [Von Luckner Heavy Tank](../../units/von_luckner_heavy_tank.md) 
 
@@ -294,6 +295,10 @@
 #### [Alacorn Heavy Tank](../../units/alacorn_heavy_tank.md) 
 
 - [**Alacorn Heavy Tank Mk VI**](../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) *Sniper (2590)* 
+
+#### [Mobile Long Tom Artillery (Unofficial)](../../units/mobile_long_tom_artillery_unofficial.md) 
+
+- [**Mobile Long Tom Artillery (Unofficial) (+ Carriage)**](../../units/mobile_long_tom_artillery_unofficial/mobile_long_tom_artillery_unofficial_+_carriage.md) *Missile Boat (2602)* 
 
 #### [Puma Assault Tank](../../units/puma_assault_tank.md) 
 
@@ -350,7 +355,7 @@
 #### [Crosscut](../../units/crosscut.md) 
 
 - [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
-- [**Crosscut ED-X2 LoggerMech**](../../units/crosscut/crosscut_ed-x2_loggermech.md) *Undefined (2715)* `IndustrialMech` 
+- [**Crosscut ED-X2 LoggerMech**](../../units/crosscut/crosscut_ed-x2_loggermech.md) *Ambusher (2715)* `IndustrialMech` 
 
 #### [Falcon](../../units/falcon.md) 
 
@@ -377,7 +382,7 @@
 
 #### [Powerman SC XI LoaderMech](../../units/powerman_sc_xi_loadermech.md) 
 
-- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Undefined (2764)* `IndustrialMech` 
+- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Ambusher (2764)* `IndustrialMech` 
 
 ### 40 Tons 
 

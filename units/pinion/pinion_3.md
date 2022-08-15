@@ -15,7 +15,7 @@
   - Heavy Large Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5675/pinion-3) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5675) 
 - **Battle Value:** 1611 
 
 ## Availability 

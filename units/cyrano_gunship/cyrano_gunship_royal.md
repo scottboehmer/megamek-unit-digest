@@ -16,7 +16,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/786/cyrano-gunship-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/786) 
 - **Battle Value:** 740 
 
 ## Availability 
@@ -172,6 +172,12 @@
 
 - Clan Hell's Horses 
 - Escorpión Imperio 
+- Raven Alliance 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
 - Raven Alliance 
 - Scorpion Empire 
 

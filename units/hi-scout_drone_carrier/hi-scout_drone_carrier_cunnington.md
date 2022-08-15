@@ -19,7 +19,7 @@
   - Limited Amphibious Chassis 
   - Remote Sensor Dispenser 
   - Cargo 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5608/hi-scout-drone-carrier-cunnington) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5608) 
 - **Battle Value:** 455 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Lyran Commonwealth 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+
+### ilClan 
 
 - Lyran Commonwealth 
 

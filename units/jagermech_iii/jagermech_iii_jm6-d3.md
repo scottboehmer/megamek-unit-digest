@@ -17,8 +17,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Overhead Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1672/jagermech-iii-jm6-d3) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1672) 
 - **Battle Value:** 1537 
 
 ## Availability 
@@ -63,4 +62,10 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
 

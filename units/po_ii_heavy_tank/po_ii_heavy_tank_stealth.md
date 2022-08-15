@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6795/po-ii-heavy-tank-stealth) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6795) 
 - **Battle Value:** 1310 
 
 ## Availability 
@@ -32,6 +32,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

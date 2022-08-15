@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1837/koto-kto-2a) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1837) 
 - **Battle Value:** 977 
 
 ## Availability 
@@ -44,6 +44,10 @@
 - Solaris 7 
 
 ### Dark Ages 
+
+- Solaris 7 
+
+### ilClan 
 
 - Solaris 7 
 

@@ -12,7 +12,7 @@
   - Large Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/787/cyrano-gunship-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/787) 
 - **Battle Value:** 459 
 - [*More Info*](cyrano_gunship/cyrano_gunship_standard.md) 
 
@@ -30,7 +30,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/786/cyrano-gunship-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/786) 
 - **Battle Value:** 740 
 - [*More Info*](cyrano_gunship/cyrano_gunship_royal.md) 
 
@@ -49,7 +49,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7329/cyrano-gunship-fury) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7329) 
 - **Battle Value:** 586 
 - [*More Info*](cyrano_gunship/cyrano_gunship_fury.md) 
 
@@ -66,7 +66,7 @@
   - Rocket 10 × 5 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/784/cyrano-gunship-ml) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/784) 
 - **Battle Value:** 645 
 - [*More Info*](cyrano_gunship/cyrano_gunship_ml.md) 
 
@@ -80,7 +80,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Plasma Rifle (ammo: 20) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/785/cyrano-gunship-plasma) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/785) 
 - **Battle Value:** 927 
 - [*More Info*](cyrano_gunship/cyrano_gunship_plasma.md) 
 

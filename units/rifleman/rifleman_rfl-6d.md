@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2701/rifleman-rfl-6d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2701) 
 - **Battle Value:** 1274 
 
 ## Availability 

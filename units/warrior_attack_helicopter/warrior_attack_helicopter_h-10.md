@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (5 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3512/warrior-attack-helicopter-h-10) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3512) 
 - **Battle Value:** 180 
 
 ## Availability 
@@ -60,4 +60,14 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Clan Protectorate 
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

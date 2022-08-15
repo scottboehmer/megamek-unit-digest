@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3100/striker-light-tank-laser) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3100) 
 - **Battle Value:** 860 
 
 ## Availability 
@@ -46,4 +46,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

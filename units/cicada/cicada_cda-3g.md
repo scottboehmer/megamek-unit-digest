@@ -18,8 +18,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/595/cicada-cda-3g) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/595) 
 - **Battle Value:** 1270 
 
 ## Availability 
@@ -80,4 +79,9 @@
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

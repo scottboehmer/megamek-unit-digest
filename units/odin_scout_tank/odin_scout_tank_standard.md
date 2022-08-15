@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2317/odin-scout-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2317) 
 - **Battle Value:** 691 
 
 ## Availability 
@@ -124,4 +124,22 @@
 - Raven Alliance 
 - Republic of the Sphere 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

@@ -17,8 +17,11 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2101/mauler-mal-1r) 
+  - Stabilized Weapon (AC/2) 
+  - Stabilized Weapon (AC/2) 
+  - Stabilized Weapon (AC/2) 
+  - Stabilized Weapon (AC/2) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2101) 
 - **Battle Value:** 1460 
 
 ## Availability 

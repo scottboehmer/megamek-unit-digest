@@ -22,7 +22,7 @@
   - Ammunition Feed Problem (LB 10-X AC) 
   - Fast Reload (LB 10-X AC) 
   - Improved Cooling Jacket (LB 10-X AC) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/978/enforcer-enf-5d) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/978) 
 - **Battle Value:** 1308 
 
 ## Availability 

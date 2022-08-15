@@ -4,7 +4,7 @@
 
 ## Jackrabbit JKR-9R 'Joker' 
 
-- **Role:** Brawler 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (2768) 
 - **Chassis:** 25 tons (Endo Steel) 
 - **Movement:** 6 / 9 
@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1657/jackrabbit-jkr-9r-joker) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1657) 
 - **Battle Value:** 614 
 
 ## Availability 

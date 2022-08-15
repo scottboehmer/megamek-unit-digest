@@ -4,7 +4,7 @@
 
 ## Watchman WTC-4MB 'Belle' 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere Mixed (3125) 
 - **Chassis:** 40 tons 
 - **Movement:** 5 / 8, Light 
@@ -20,12 +20,16 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8371/watchman-wtc-4mb-belle) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8371) 
 - **Battle Value:** 1234 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

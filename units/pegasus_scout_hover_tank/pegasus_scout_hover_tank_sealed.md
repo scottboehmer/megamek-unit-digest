@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - Environmentally Sealed Chassis 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2459/pegasus-scout-hover-tank-sealed) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2459) 
 - **Battle Value:** 577 
 
 ## Availability 
@@ -49,4 +49,12 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

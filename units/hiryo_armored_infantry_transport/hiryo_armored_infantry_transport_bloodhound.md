@@ -16,7 +16,7 @@
   - Bloodhound Active Probe 
   - Environmentally Sealed Chassis 
   - Infantry (4 tons) 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/4325/hiryo-armored-infantry-transport-bloodhound) 
+- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/4325) 
 - **Battle Value:** 483 
 
 ## Availability 
@@ -30,6 +30,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

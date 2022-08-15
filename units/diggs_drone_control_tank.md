@@ -15,7 +15,7 @@
   - Angel ECM Suite 
   - CASE 
   - Drone Control System 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7299/diggs-drone-control-tank-standard) 
+- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7299) 
 - **Battle Value:** 655 
 - [*More Info*](diggs_drone_control_tank/diggs_drone_control_tank_standard.md) 
 

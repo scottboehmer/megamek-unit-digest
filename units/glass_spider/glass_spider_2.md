@@ -20,7 +20,7 @@
   - Anti-Aircraft Targeting 
   - Extended Torso Twist 
   - Multi-Trac 
-- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1171/galahad-glass-spider-2) 
+- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1171) 
 - **Battle Value:** 2038 
 
 ## Availability 
@@ -81,4 +81,10 @@
 - Escorpión Imperio 
 - Republic of the Sphere 
 - Scorpion Empire 
+
+### ilClan 
+
+- Scorpion Empire 
+- Star League (Wolf) 
+- Wolf Empire 
 

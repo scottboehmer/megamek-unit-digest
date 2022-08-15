@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 6 (ammo: 15) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5008/sea-skimmer-hydrofoil-srm6) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5008) 
 - **Battle Value:** 314 
 
 ## Availability 
@@ -51,13 +51,16 @@
 
 ### Late Republic 
 
-- Clan Jade Falcon 
 - Lyran Commonwealth 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
-- Clan Jade Falcon 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
 

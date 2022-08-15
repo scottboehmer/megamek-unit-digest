@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7186/emperor-emp-1a) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7186) 
 - **Battle Value:** 1453 
 
 ## Availability 
@@ -51,6 +51,11 @@
 - Marian Hegemony 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Marian Hegemony 
+
+### ilClan 
 
 - Fronc Reaches 
 - Marian Hegemony 

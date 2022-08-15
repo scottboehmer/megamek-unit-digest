@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4194/fury-command-tank-original) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4194) 
 - **Battle Value:** 1184 
 
 ## Availability 

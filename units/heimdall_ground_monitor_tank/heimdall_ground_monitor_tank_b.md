@@ -15,7 +15,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5742/heimdall-ground-monitor-tank-b) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5742) 
 - **Battle Value:** 2254 
 
 ## Availability 
@@ -49,6 +49,14 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
+- Lyran Commonwealth 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Raven Alliance 
 

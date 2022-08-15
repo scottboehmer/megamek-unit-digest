@@ -21,7 +21,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6875/archer-arc-9kc) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6875) 
 - **Battle Value:** 1361 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

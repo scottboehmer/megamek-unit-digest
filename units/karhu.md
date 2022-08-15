@@ -18,7 +18,7 @@
   - ECM Suite 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1752/karhu-prime) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1752) 
 - **Battle Value:** 2484 
 - [*More Info*](karhu/karhu_prime.md) 
 
@@ -41,7 +41,7 @@
   - CASE 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1748/karhu-a) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1748) 
 - **Battle Value:** 2560 
 - [*More Info*](karhu/karhu_a.md) 
 
@@ -63,7 +63,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1749/karhu-b) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1749) 
 - **Battle Value:** 2787 
 - [*More Info*](karhu/karhu_b.md) 
 
@@ -85,7 +85,7 @@
   - CASE 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1750/karhu-c) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1750) 
 - **Battle Value:** 2089 
 - [*More Info*](karhu/karhu_c.md) 
 
@@ -109,7 +109,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1751/karhu-d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1751) 
 - **Battle Value:** 3118 
 - [*More Info*](karhu/karhu_d.md) 
 
@@ -132,7 +132,7 @@
   - Inner Sphere C3 Support 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1747/karhu-syngman) 
+- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1747) 
 - **Battle Value:** 1921 
 - [*More Info*](karhu/karhu_syngman.md) 
 
@@ -155,7 +155,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6882/karhu-g) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6882) 
 - **Battle Value:** 2895 
 - [*More Info*](karhu/karhu_g.md) 
 

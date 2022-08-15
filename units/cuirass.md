@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/769/cuirass-cdr-1x) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/769) 
 - **Battle Value:** 1301 
 - [*More Info*](cuirass/cuirass_cdr-1x.md) 
 
@@ -42,7 +42,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6922/cuirass-cdr-2bc3) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6922) 
 - **Battle Value:** 990 
 - [*More Info*](cuirass/cuirass_cdr-2bc.md) 
 
@@ -62,7 +62,7 @@
   - Small Re-Engineered Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6921/cuirass-cdr-2x) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6921) 
 - **Battle Value:** 1227 
 - [*More Info*](cuirass/cuirass_cdr-2x.md) 
 

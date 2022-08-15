@@ -23,7 +23,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/146/atlas-as7-k3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/146) 
 - **Battle Value:** 2346 
 
 ## Availability 
@@ -45,4 +45,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

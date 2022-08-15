@@ -19,8 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1082/firefly-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1082) 
 - **Battle Value:** 1290 
 
 ## Availability 
@@ -102,5 +101,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

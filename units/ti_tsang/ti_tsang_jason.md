@@ -4,7 +4,7 @@
 
 ## Ti Ts'ang Jason 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 60 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -19,7 +19,7 @@
   - Small Pulse Laser × 4 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** BD: Jason Zaklan - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7395/ti-tsang-tsg-9h-jason) 
+- **Sources:** BD: Jason Zaklan - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7395) 
 - **Battle Value:** 1641 
 
 ## Availability 

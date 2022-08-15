@@ -13,9 +13,8 @@
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/91/arctic-fox-af1) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/91) 
 - **Battle Value:** 983 
 - [*More Info*](arctic_fox/arctic_fox_af1.md) 
 
@@ -32,9 +31,8 @@
   - Medium Pulse Laser × 4 
   - Small Pulse Laser × 3 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/92/arctic-fox-af1a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/92) 
 - **Battle Value:** 858 
 - [*More Info*](arctic_fox/arctic_fox_af1a.md) 
 
@@ -50,9 +48,8 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Medium Laser 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/93/arctic-fox-af1b) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/93) 
 - **Battle Value:** 735 
 - [*More Info*](arctic_fox/arctic_fox_af1b.md) 
 
@@ -68,9 +65,8 @@
   - ER PPC 
   - Large Pulse Laser 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/94/arctic-fox-af1c) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/94) 
 - **Battle Value:** 948 
 - [*More Info*](arctic_fox/arctic_fox_af1c.md) 
 
@@ -85,9 +81,8 @@
 - **Weapons:** 
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/95/arctic-fox-af1d) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/95) 
 - **Battle Value:** 744 
 - [*More Info*](arctic_fox/arctic_fox_af1d.md) 
 
@@ -103,9 +98,8 @@
   - Light PPC × 4 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/96/arctic-fox-af1e) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/96) 
 - **Battle Value:** 1094 
 - [*More Info*](arctic_fox/arctic_fox_af1e.md) 
 
@@ -121,9 +115,8 @@
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 3 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/97/arctic-fox-af1f) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/97) 
 - **Battle Value:** 891 
 - [*More Info*](arctic_fox/arctic_fox_af1f.md) 
 
@@ -142,9 +135,8 @@
 - **Equipment:** 
   - MASS 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/98/arctic-fox-af1u) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/98) 
 - **Battle Value:** 821 
 - [*More Info*](arctic_fox/arctic_fox_af1u.md) 
 

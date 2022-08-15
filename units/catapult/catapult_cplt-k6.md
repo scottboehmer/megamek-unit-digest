@@ -19,12 +19,17 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7509/catapult-cplt-k6) 
+- **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7509) 
 - **Battle Value:** 1619 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Draconis Combine 
+
+### ilClan 
 
 - Capellan Confederation 
 - Draconis Combine 

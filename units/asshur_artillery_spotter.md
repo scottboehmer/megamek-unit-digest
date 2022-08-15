@@ -14,7 +14,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/133/asshur-artillery-spotter-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/133) 
 - **Battle Value:** 930 
 - [*More Info*](asshur_artillery_spotter/asshur_artillery_spotter_standard.md) 
 

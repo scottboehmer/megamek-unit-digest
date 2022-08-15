@@ -16,7 +16,7 @@
 - **Equipment:** 
   - TAG 
   - Infantry (8.0 tons) 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6444/zahn-heavy-transport-standard) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6444) 
 - **Battle Value:** 792 
 
 ## Availability 
@@ -39,4 +39,13 @@
 - Mercenary 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
 

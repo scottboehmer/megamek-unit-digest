@@ -16,7 +16,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2405/padilla-tube-artillery-tank-ltc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2405) 
 - **Battle Value:** 985 
 
 ## Availability 
@@ -52,4 +52,15 @@
 - Lyran Commonwealth 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

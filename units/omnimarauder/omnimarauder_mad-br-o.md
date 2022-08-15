@@ -22,7 +22,7 @@
   - Directional Torso Mount (All Weapons) 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8110/omnimarauder-mad-br-o) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8110) 
 - **Battle Value:** 2836 
 
 ## Availability 

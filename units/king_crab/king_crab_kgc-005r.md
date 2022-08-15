@@ -19,8 +19,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775/king-crab-kgc-005r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775) 
 - **Battle Value:** 2335 
 
 ## Availability 
@@ -44,4 +43,8 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

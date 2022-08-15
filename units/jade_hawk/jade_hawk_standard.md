@@ -23,7 +23,7 @@
   - Distracting 
   - Reinforced Legs 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6566/jade-hawk-standard) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6566) 
 - **Battle Value:** 2523 
 
 ## Availability 
@@ -31,4 +31,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
 

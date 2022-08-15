@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2838/scorpion-scp-1n-wendall) 
+- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2838) 
 - **Battle Value:** 1043 
 
 ## Availability 

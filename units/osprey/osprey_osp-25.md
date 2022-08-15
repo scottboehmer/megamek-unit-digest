@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Directional Torso Mount (Gauss Rifle) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2345/osprey-osp-25) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2345) 
 - **Battle Value:** 1630 
 
 ## Availability 
@@ -59,4 +59,13 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Wolf) 
 

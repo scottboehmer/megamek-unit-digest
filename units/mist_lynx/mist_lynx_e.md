@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1831/koshi-mist-lynx-e) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1831) 
 - **Battle Value:** 997 
 
 ## Availability 
@@ -148,5 +148,25 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 - Wolf's Dragoons 
 

@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/732/crossbow-c) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/732) 
 - **Battle Value:** 1557 
 
 ## Availability 
@@ -66,4 +66,13 @@
 - Clan Wolf 
 - Lyran Commonwealth 
 - Raven Alliance 
+
+### ilClan 
+
+- Clan Protectorate 
+- Lyran Commonwealth 
+- Raven Alliance 
+- Star League (Wolf) 
+- Tamar Pact 
+- Wolf Empire 
 

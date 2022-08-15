@@ -17,7 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3122/sun-cobra-standard) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3122) 
 - **Battle Value:** 1677 
 
 ## Availability 
@@ -44,4 +44,15 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Federated Suns 
+- Mercenary 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

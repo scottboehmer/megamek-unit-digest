@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** HTP Luzerne - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5862/cauldron-born-ebon-jaguar-samantha) 
+- **Sources:** HTP Luzerne - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5862) 
 - **Battle Value:** 2372 
 
 ## Availability 

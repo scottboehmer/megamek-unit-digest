@@ -15,7 +15,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/992/epona-pursuit-tank-b) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/992) 
 - **Battle Value:** 1255 
 
 ## Availability 
@@ -84,4 +84,12 @@
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Wolf) 
 

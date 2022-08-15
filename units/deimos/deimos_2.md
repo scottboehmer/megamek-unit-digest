@@ -20,7 +20,7 @@
   - MASC 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/852/deimos-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/852) 
 - **Battle Value:** 2394 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

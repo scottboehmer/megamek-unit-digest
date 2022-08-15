@@ -14,7 +14,7 @@
   - PPC × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/874/demon-tank-ppc) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/874) 
 - **Battle Value:** 836 
 
 ## Availability 

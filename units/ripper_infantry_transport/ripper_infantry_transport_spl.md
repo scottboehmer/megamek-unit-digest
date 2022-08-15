@@ -14,7 +14,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2724/ripper-infantry-transport-spl) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2724) 
 - **Battle Value:** 160 
 
 ## Availability 
@@ -74,4 +74,12 @@
 - Filtvelt Coalition 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

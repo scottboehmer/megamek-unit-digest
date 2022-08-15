@@ -15,7 +15,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1675/javelin-jvn-10n) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1675) 
 - **Battle Value:** 594 
 
 ## Availability 
@@ -169,4 +169,16 @@
 - Marian Hegemony 
 - Pirate 
 - Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Marian Hegemony 
+- Pirate 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Marian Hegemony 
+- Pirate 
 

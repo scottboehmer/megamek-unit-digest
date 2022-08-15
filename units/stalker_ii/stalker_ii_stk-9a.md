@@ -22,14 +22,20 @@
   - Combat Computer 
   - Protected Actuators 
   - No/Minimal Arms 
-- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6515/stalker-ii-stk-9a) 
+- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6515) 
 - **Battle Value:** 2261 
 
 ## Availability 
 
 ### Dark Ages 
 
-- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
+
 - Duchy of Andurien 
 - Free Worlds League 
 - Magistracy of Canopus 

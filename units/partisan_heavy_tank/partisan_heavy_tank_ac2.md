@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/2 × 5 (ammo: 180) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2442/partisan-heavy-tank-ac2) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2442) 
 - **Battle Value:** 580 
 
 ## Availability 
@@ -152,6 +152,17 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

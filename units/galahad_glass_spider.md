@@ -16,7 +16,7 @@
   - Anti-Aircraft Targeting 
   - Extended Torso Twist 
   - Multi-Trac 
-- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1170/galahad-glass-spider-standard) 
+- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1170) 
 - **Battle Value:** 1825 
 - [*More Info*](glass_spider/glass_spider_standard.md) 
 
@@ -38,7 +38,7 @@
   - Anti-Aircraft Targeting 
   - Extended Torso Twist 
   - Multi-Trac 
-- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1171/galahad-glass-spider-2) 
+- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1171) 
 - **Battle Value:** 2038 
 - [*More Info*](glass_spider/glass_spider_2.md) 
 
@@ -60,7 +60,7 @@
   - Anti-Aircraft Targeting 
   - Extended Torso Twist 
   - Multi-Trac 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1172/galahad-glass-spider-3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1172) 
 - **Battle Value:** 2508 
 - [*More Info*](glass_spider/glass_spider_3.md) 
 
@@ -83,7 +83,7 @@
   - Anti-Aircraft Targeting 
   - Extended Torso Twist 
   - Multi-Trac 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8131/galahad-glass-spider-4) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8131) 
 - **Battle Value:** 2309 
 - [*More Info*](galahad_glass_spider/galahad_glass_spider_4.md) 
 

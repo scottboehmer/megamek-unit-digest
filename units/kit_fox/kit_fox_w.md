@@ -15,8 +15,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3350/uller-kit-fox-w) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3350) 
 - **Battle Value:** 1431 
 
 ## Availability 
@@ -121,5 +120,15 @@
 - Mercenary 
 - Raven Alliance 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Mercenary 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 - Wolf's Dragoons 
 

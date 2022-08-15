@@ -24,7 +24,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3788/banshee-bnc-9s) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3788) 
 - **Battle Value:** 2496 
 
 ## Availability 
@@ -47,4 +47,9 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
 

@@ -13,9 +13,8 @@
 - **Weapons:** 
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/95/arctic-fox-af1d) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/95) 
 - **Battle Value:** 744 
 
 ## Availability 
@@ -72,4 +71,10 @@
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
 

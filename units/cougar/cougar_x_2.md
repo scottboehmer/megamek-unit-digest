@@ -16,7 +16,7 @@
   - Clan ER Medium Pulse Laser 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6952/cougar-x-2) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6952) 
 - **Battle Value:** 1293 
 
 ## Availability 

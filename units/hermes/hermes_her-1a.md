@@ -14,8 +14,9 @@
   - Medium Laser × 2 
   - Flamer 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1485/hermes-her-1a) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1485) 
 - **Battle Value:** 601 
 
 ## Availability 

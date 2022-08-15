@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2807/savannah-master-hovercraft-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2807) 
 - **Battle Value:** 215 
 - [*More Info*](savannah_master_hovercraft/savannah_master_hovercraft_standard.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2806/savannah-master-hovercraft-sl) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2806) 
 - **Battle Value:** 131 
 - [*More Info*](savannah_master_hovercraft/savannah_master_hovercraft_sl.md) 
 
@@ -38,7 +38,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2805/savannah-master-hovercraft-interdictor) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2805) 
 - **Battle Value:** 128 
 - [*More Info*](savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) 
 

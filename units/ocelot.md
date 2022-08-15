@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Jettison-Capable Weapon (ER Medium Laser) 
   - Jettison-Capable Weapon (ER Medium Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2313/ocelot-standard) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2313) 
 - **Battle Value:** 1439 
 - [*More Info*](ocelot/ocelot_standard.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Jettison-Capable Weapon (ER Medium Laser) 
   - Jettison-Capable Weapon (ER Medium Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2314/ocelot-2) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2314) 
 - **Battle Value:** 1734 
 - [*More Info*](ocelot/ocelot_2.md) 
 
@@ -59,7 +59,7 @@
 - **Design Quirks:** 
   - Modular Weapon (Heavy Medium Laser) 
   - Modular Weapon (Heavy Medium Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2315/ocelot-3) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2315) 
 - **Battle Value:** 1594 
 - [*More Info*](ocelot/ocelot_3.md) 
 
@@ -78,7 +78,7 @@
 - **Design Quirks:** 
   - Modular Weapon (Medium Pulse Laser) 
   - Modular Weapon (Medium Pulse Laser) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6925/ocelot-4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6925) 
 - **Battle Value:** 1468 
 - [*More Info*](ocelot/ocelot_4.md) 
 

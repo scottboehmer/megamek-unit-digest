@@ -17,7 +17,7 @@
   - Streak SRM 2 × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1967/lynx-lnx-9c) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1967) 
 - **Battle Value:** 1630 
 
 ## Availability 
@@ -60,4 +60,9 @@
 - Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Mercenary 
 

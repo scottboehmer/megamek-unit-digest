@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/765/crusader-crd-8s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/765) 
 - **Battle Value:** 1698 
 
 ## Availability 

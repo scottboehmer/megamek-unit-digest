@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/970/emperor-emp-6s) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/970) 
 - **Battle Value:** 2065 
 
 ## Availability 
@@ -41,4 +41,10 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

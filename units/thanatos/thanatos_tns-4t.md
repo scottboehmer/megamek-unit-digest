@@ -20,7 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5700/thanatos-tns-4t) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5700) 
 - **Battle Value:** 1760 
 
 ## Availability 
@@ -58,4 +58,11 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7629/lupus-d) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7629) 
 - **Battle Value:** 2030 
 
 ## Availability 
@@ -31,5 +31,16 @@
 - Free Worlds League 
 - Magistracy of Canopus 
 - Mercenary 
+- Taurian Concordat 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+- Star League (Wolf) 
 - Taurian Concordat 
 

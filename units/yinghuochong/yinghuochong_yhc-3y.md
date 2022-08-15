@@ -17,12 +17,16 @@
 - **Equipment:** 
   - TAG 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6456/yinghuochong-yhc-3y) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6456) 
 - **Battle Value:** 1548 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3839/bloodhound-b2-hnd) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3839) 
 - **Battle Value:** 1363 
 
 ## Availability 
@@ -58,6 +58,7 @@
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
@@ -66,4 +67,12 @@
 - Mercenary 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Marian Hegemony 
+- Mercenary 
+- Wolf Empire 
 

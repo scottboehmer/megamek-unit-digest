@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/13/aeron-strike-vtol-bap) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/13) 
 - **Battle Value:** 775 
 
 ## Availability 
@@ -81,4 +81,21 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

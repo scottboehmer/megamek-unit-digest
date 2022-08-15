@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/38/annihilator-anh-1x) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/38) 
 - **Battle Value:** 1926 
 - [*More Info*](annihilator/annihilator_anh-1x.md) 
 
@@ -34,7 +34,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/37/annihilator-anh-1g) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/37) 
 - **Battle Value:** 2274 
 - [*More Info*](annihilator/annihilator_anh-1g.md) 
 
@@ -52,7 +52,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/44/annihilator-c-gausszilla) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/44) 
 - **Battle Value:** 2455 
 - [*More Info*](annihilator/annihilator_c_gausszilla.md) 
 
@@ -71,7 +71,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/43/annihilator-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/43) 
 - **Battle Value:** 2520 
 - [*More Info*](annihilator/annihilator_c.md) 
 
@@ -91,7 +91,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/45/annihilator-c-2) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/45) 
 - **Battle Value:** 2722 
 - [*More Info*](annihilator/annihilator_c_2.md) 
 
@@ -108,7 +108,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3700/annihilator-anh-1a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3700) 
 - **Battle Value:** 1434 
 - [*More Info*](annihilator/annihilator_anh-1a.md) 
 
@@ -125,7 +125,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/36/annihilator-anh-1e) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/36) 
 - **Battle Value:** 1625 
 - [*More Info*](annihilator/annihilator_anh-1e.md) 
 
@@ -144,7 +144,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/39/annihilator-anh-2a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/39) 
 - **Battle Value:** 1595 
 - [*More Info*](annihilator/annihilator_anh-2a.md) 
 
@@ -165,7 +165,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/41/annihilator-anh-3a) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/41) 
 - **Battle Value:** 1712 
 - [*More Info*](annihilator/annihilator_anh-3a.md) 
 
@@ -184,7 +184,7 @@
   - Light AC/2 × 2 (ammo: 90) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/42/annihilator-anh-4a) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/42) 
 - **Battle Value:** 1726 
 - [*More Info*](annihilator/annihilator_anh-4a.md) 
 
@@ -204,7 +204,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/40/annihilator-anh-2ax) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/40) 
 - **Battle Value:** 2553 
 - [*More Info*](annihilator/annihilator_anh-2ax.md) 
 
@@ -224,7 +224,7 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8386/annihilator-anh-5w) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8386) 
 - **Battle Value:** 2595 
 - [*More Info*](annihilator/annihilator_anh-5w.md) 
 

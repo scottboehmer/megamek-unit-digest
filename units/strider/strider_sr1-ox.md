@@ -17,27 +17,69 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3093/strider-sr1-ox) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3093) 
 - **Battle Value:** 889 
 
 ## Availability 
 
-### Jihad (Unique) 
+### Jihad 
 
 - Draconis Combine 
+- Free Worlds League 
+- Mercenary 
 
 ### Early Republic 
 
+- Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Magistracy of Canopus 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Taurian Concordat 
 

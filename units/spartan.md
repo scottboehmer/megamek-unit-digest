@@ -17,7 +17,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rhonda's Irregulars - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2994/spartan-spt-n1) 
+- **Sources:** Rhonda's Irregulars - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2994) 
 - **Battle Value:** 1498 
 - [*More Info*](spartan/spartan_spt-n1.md) 
 
@@ -38,7 +38,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2995/spartan-spt-n2) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2995) 
 - **Battle Value:** 1605 
 - [*More Info*](spartan/spartan_spt-n2.md) 
 
@@ -59,7 +59,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2997/spartan-spt-nf) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2997) 
 - **Battle Value:** 1605 
 - [*More Info*](spartan/spartan_spt-nf.md) 
 
@@ -80,7 +80,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Improved Targeting (Short) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7646/spartan-c) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7646) 
 - **Battle Value:** 2514 
 - [*More Info*](spartan/spartan_c.md) 
 
@@ -101,7 +101,7 @@
   - C3i 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2996/spartan-spt-n3) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2996) 
 - **Battle Value:** 1631 
 - [*More Info*](spartan/spartan_spt-n3.md) 
 

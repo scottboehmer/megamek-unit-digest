@@ -17,7 +17,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/431/brutus-assault-tank-hppc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/431) 
 - **Battle Value:** 1186 
 
 ## Availability 
@@ -93,5 +93,23 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

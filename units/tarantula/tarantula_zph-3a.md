@@ -17,7 +17,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3162/tarantula-zph-3a) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3162) 
 - **Battle Value:** 702 
 
 ## Availability 
@@ -80,4 +80,10 @@
 - Mercenary 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
 

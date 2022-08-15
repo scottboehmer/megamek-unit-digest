@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3568/wolfhound-wlf-4wa) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3568) 
 - **Battle Value:** 1050 
 
 ## Availability 
@@ -48,5 +48,9 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Mercenary 
+
+### ilClan 
+
 - Mercenary 
 

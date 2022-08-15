@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1057/fensalir-combat-wige-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1057) 
 - **Battle Value:** 1687 
 
 ## Availability 
@@ -35,4 +35,10 @@
 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Vesper Marches 
 

@@ -19,12 +19,11 @@
   - TAG 
 - **Design Quirks:** 
   - Easy to Maintain 
-  - No Torso Twist 
   - Modular Weapon (ER Small Laser) 
   - Modular Weapon (TAG) 
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (ER Medium Laser) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2170/mercury-mcy-104) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2170) 
 - **Battle Value:** 683 
 
 ## Availability 

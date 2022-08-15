@@ -21,7 +21,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3491/warhammer-whm-7k) 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3491) 
 - **Battle Value:** 1651 
 
 ## Availability 
@@ -47,6 +47,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

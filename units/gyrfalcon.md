@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Reinforced Legs 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6266/gyrfalcon-standard) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6266) 
 - **Battle Value:** 2367 
 - [*More Info*](gyrfalcon/gyrfalcon_standard.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Reinforced Legs 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6267/gyrfalcon-2) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6267) 
 - **Battle Value:** 2105 
 - [*More Info*](gyrfalcon/gyrfalcon_2.md) 
 
@@ -68,7 +68,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Reinforced Legs 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6268/gyrfalcon-3) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6268) 
 - **Battle Value:** 2228 
 - [*More Info*](gyrfalcon/gyrfalcon_3.md) 
 
@@ -91,7 +91,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Reinforced Legs 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6269/gyrfalcon-4) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6269) 
 - **Battle Value:** 3716 
 - [*More Info*](gyrfalcon/gyrfalcon_4.md) 
 
@@ -114,7 +114,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Reinforced Legs 
-- **Sources:** Shrapnel 2 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7694/gyrfalcon-5) 
+- **Sources:** Shrapnel 2 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7694) 
 - **Battle Value:** 2151 
 - [*More Info*](gyrfalcon/gyrfalcon_5.md) 
 

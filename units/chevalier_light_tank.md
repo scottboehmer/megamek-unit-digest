@@ -11,7 +11,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/582/chevalier-light-tank-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/582) 
 - **Battle Value:** 668 
 - [*More Info*](chevalier_light_tank/chevalier_light_tank_standard.md) 
 
@@ -29,7 +29,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/579/chevalier-light-tank-bap) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/579) 
 - **Battle Value:** 583 
 - [*More Info*](chevalier_light_tank/chevalier_light_tank_bap.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/581/chevalier-light-tank-speed) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/581) 
 - **Battle Value:** 613 
 - [*More Info*](chevalier_light_tank/chevalier_light_tank_speed.md) 
 
@@ -59,7 +59,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/580/chevalier-light-tank-mml) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/580) 
 - **Battle Value:** 671 
 - [*More Info*](chevalier_light_tank/chevalier_light_tank_mml.md) 
 

@@ -19,7 +19,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2332/orion-on1-k) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2332) 
 - **Battle Value:** 1429 
 
 ## Availability 
@@ -196,6 +196,11 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Marian Hegemony 
+- Mercenary 
+
+### ilClan 
+
 - Marian Hegemony 
 - Mercenary 
 

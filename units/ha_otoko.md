@@ -15,7 +15,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1355/ha-otoko-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1355) 
 - **Battle Value:** 1873 
 - [*More Info*](ha_otoko/ha_otoko_standard.md) 
 
@@ -32,7 +32,7 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1357/ha-otoko-hko-1c) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1357) 
 - **Battle Value:** 1288 
 - [*More Info*](ha_otoko/ha_otoko_hko-1c.md) 
 
@@ -53,7 +53,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1356/ha-otoko-2) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1356) 
 - **Battle Value:** 2348 
 - [*More Info*](ha_otoko/ha_otoko_2.md) 
 
@@ -75,7 +75,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1354/ha-otoko-3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1354) 
 - **Battle Value:** 2206 
 - [*More Info*](ha_otoko/ha_otoko_3.md) 
 

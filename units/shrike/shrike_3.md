@@ -26,7 +26,7 @@
   - Rumble Seat 
   - Exposed Weapon Linkage (ER PPC) 
   - Exposed Weapon Linkage (ER PPC) 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6294/shrike-3) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6294) 
 - **Battle Value:** 3698 
 
 ## Availability 
@@ -38,4 +38,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Star League (Jade Falcon) 
 

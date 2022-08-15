@@ -25,7 +25,7 @@
   - Directional Torso Mount (Ultra AC/10) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2951/sirocco-src-3c) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2951) 
 - **Battle Value:** 2154 
 
 ## Availability 
@@ -84,4 +84,9 @@
 - Mercenary 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

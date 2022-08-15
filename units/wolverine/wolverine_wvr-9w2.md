@@ -28,10 +28,22 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Light PPC) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3584/wolverine-wvr-9w2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3584) 
 - **Battle Value:** 1463 
 
 ## Availability 
+
+### Jihad 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Lyran Alliance 
+- Mercenary 
+- Word of Blake 
 
 ### Early Republic 
 
@@ -81,4 +93,16 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

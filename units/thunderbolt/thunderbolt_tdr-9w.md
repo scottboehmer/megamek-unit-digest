@@ -21,7 +21,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8192/thunderbolt-tdr-9w) 
+- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8192) 
 - **Battle Value:** 1985 
 
 ## Availability 
@@ -47,6 +47,10 @@
 - Wolf's Dragoons 
 
 ### Dark Ages 
+
+- Wolf's Dragoons 
+
+### ilClan 
 
 - Wolf's Dragoons 
 

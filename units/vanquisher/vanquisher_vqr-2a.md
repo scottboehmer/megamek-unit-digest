@@ -19,7 +19,7 @@
   - C3i 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5338/vanquisher-vqr-2a) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5338) 
 - **Battle Value:** 2234 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/334/bishamon-bsn-5kc) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/334) 
 - **Battle Value:** 1443 
 
 ## Availability 
@@ -42,4 +42,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

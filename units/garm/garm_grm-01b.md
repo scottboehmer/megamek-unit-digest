@@ -16,7 +16,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1191/garm-grm-01b) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1191) 
 - **Battle Value:** 934 
 
 ## Availability 
@@ -54,6 +54,13 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Federated Suns 

@@ -18,7 +18,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2208/mongoose-mon-66) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2208) 
 - **Battle Value:** 758 
 - [*More Info*](mongoose/mongoose_mon-66.md) 
 
@@ -40,11 +40,11 @@
   - Command ’Mech 
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2209/mongoose-mon-66b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2209) 
 - **Battle Value:** 934 
 - [*More Info*](mongoose/mongoose_mon-66b.md) 
 
-## Mongoose MON-66GX (Gunslinger) 
+## Mongoose MON-66GX 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2766) 
@@ -58,11 +58,9 @@
 - **Equipment:** 
   - Null-Signature System 
   - Chameleon LPS 
-- **Design Quirks:** 
-  - Easy to Pilot 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7318/mongoose-gunslinger-mon-66gx) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7318) 
 - **Battle Value:** 887 
-- [*More Info*](mongoose/mongoose_mon-66gx_gunslinger.md) 
+- [*More Info*](mongoose/mongoose_mon-66gx.md) 
 
 ## Mongoose MON-69 
 
@@ -81,7 +79,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4656/mongoose-mon-69) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4656) 
 - **Battle Value:** 737 
 - [*More Info*](mongoose/mongoose_mon-69.md) 
 
@@ -100,7 +98,7 @@
   - Command ’Mech 
   - Easy to Pilot 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2213/mongoose-mon-70) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2213) 
 - **Battle Value:** 750 
 - [*More Info*](mongoose/mongoose_mon-70.md) 
 
@@ -120,7 +118,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2210/mongoose-mon-67) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2210) 
 - **Battle Value:** 741 
 - [*More Info*](mongoose/mongoose_mon-67.md) 
 
@@ -140,7 +138,7 @@
   - Active Probe 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7603/mongoose-c) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7603) 
 - **Battle Value:** 1386 
 - [*More Info*](mongoose/mongoose_c.md) 
 
@@ -161,7 +159,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7604/mongoose-c-2) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7604) 
 - **Battle Value:** 1620 
 - [*More Info*](mongoose/mongoose_c_2.md) 
 
@@ -178,7 +176,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4655/mongoose-mon-68) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4655) 
 - **Battle Value:** 676 
 - [*More Info*](mongoose/mongoose_mon-68.md) 
 
@@ -201,7 +199,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Pulse Laser) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2214/mongoose-mon-76) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2214) 
 - **Battle Value:** 894 
 - [*More Info*](mongoose/mongoose_mon-76.md) 
 
@@ -224,7 +222,7 @@
   - Command ’Mech 
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2215/mongoose-mon-86) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2215) 
 - **Battle Value:** 887 
 - [*More Info*](mongoose/mongoose_mon-86.md) 
 
@@ -242,7 +240,7 @@
 - **Equipment:** 
   - Bloodhound Active Probe 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7724/mongoose-mon-96) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7724) 
 - **Battle Value:** 1011 
 - [*More Info*](mongoose/mongoose_mon-96.md) 
 

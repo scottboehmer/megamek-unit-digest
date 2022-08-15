@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 48) 
   - CASE 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8319/iron-cheetah-prime) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8319) 
 - **Battle Value:** 3155 
 
 ## Availability 
@@ -58,4 +58,5 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Raven Alliance 
+- Star League (Smoke Jaguar) 
 

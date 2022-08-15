@@ -22,8 +22,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7589/puma-adder-tc) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7589) 
 - **Battle Value:** 1247 
 
 ## Availability 

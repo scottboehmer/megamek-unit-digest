@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1312/griffin-iic-3) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1312) 
 - **Battle Value:** 1532 
 
 ## Availability 
@@ -85,59 +85,24 @@
 
 ### Early Republic 
 
-- Capellan Confederation 
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Nova Cat 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
 
 ### Late Republic 
 
-- Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Nova Cat 
 - Clan Sea Fox 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
 
 ### Dark Ages 
 
-- Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Nova Cat 
 - Clan Sea Fox 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League 
-- Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
 

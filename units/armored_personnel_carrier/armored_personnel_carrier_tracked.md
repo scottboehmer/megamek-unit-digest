@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/120/armored-personnel-carrier-tracked) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/120) 
 - **Battle Value:** 142 
 
 ## Availability 
@@ -236,4 +236,28 @@
 - Rim Commonality 
 - Scorpion Empire 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
+- Wolf Empire 
 

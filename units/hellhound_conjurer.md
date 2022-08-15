@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473/hellhound-conjurer-standard) 
+- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473) 
 - **Battle Value:** 1813 
 - [*More Info*](conjurer/conjurer_standard.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7512/hellhound-conjurer-7) 
+- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7512) 
 - **Battle Value:** 1845 
 - [*More Info*](conjurer/conjurer_7.md) 
 
@@ -59,7 +59,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1474/hellhound-conjurer-2) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1474) 
 - **Battle Value:** 2097 
 - [*More Info*](conjurer/conjurer_2.md) 
 
@@ -79,7 +79,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1475/hellhound-conjurer-3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1475) 
 - **Battle Value:** 1764 
 - [*More Info*](conjurer/conjurer_3.md) 
 
@@ -102,7 +102,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1476/hellhound-conjurer-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1476) 
 - **Battle Value:** 2164 
 - [*More Info*](conjurer/conjurer_4.md) 
 
@@ -122,7 +122,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1477/hellhound-conjurer-5) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1477) 
 - **Battle Value:** 1722 
 - [*More Info*](conjurer/conjurer_5.md) 
 
@@ -144,7 +144,7 @@
   - MASC 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7513/hellhound-conjurer-8) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7513) 
 - **Battle Value:** 2155 
 - [*More Info*](conjurer/conjurer_8.md) 
 

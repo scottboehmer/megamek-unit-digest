@@ -16,7 +16,7 @@
   - Clan ER Medium Laser × 2 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6951/cougar-x-standard) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6951) 
 - **Battle Value:** 1474 
 
 ## Availability 

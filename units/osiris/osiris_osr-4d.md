@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4764/osiris-osr-4d) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4764) 
 - **Battle Value:** 1230 
 
 ## Availability 
@@ -52,4 +52,9 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
 

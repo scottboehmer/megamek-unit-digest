@@ -16,7 +16,7 @@
   - LRM 5 × 4 (ammo: 48) 
   - Machine Gun × 4 (ammo: 200) 
   - Vehicle Flamer × 6 (ammo: 40) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/322/behemoth-heavy-tank-flamer) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/322) 
 - **Battle Value:** 1130 
 
 ## Availability 
@@ -116,6 +116,17 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

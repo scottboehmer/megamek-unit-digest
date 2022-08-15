@@ -20,7 +20,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3495/warhammer-whm-8k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3495) 
 - **Battle Value:** 1748 
 
 ## Availability 
@@ -63,4 +63,13 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
 

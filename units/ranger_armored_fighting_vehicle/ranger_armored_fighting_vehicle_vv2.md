@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Small Laser × 2 
   - MagShot Gauss Rifle × 8 (ammo: 200) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2640/ranger-armored-fighting-vehicle-vv2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2640) 
 - **Battle Value:** 711 
 
 ## Availability 
@@ -58,4 +58,14 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

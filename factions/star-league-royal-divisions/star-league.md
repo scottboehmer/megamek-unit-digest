@@ -6,9 +6,9 @@
 
 #### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
 
-- [**Nighthawk PA(L) Mk. XXI**](../../units/nighthawk_pal/nighthawk_pal_mk._xxi.md) *Ambusher (2720)* `ECM` , `Stealth` 
-- [**Nighthawk PA(L) Mk. XXX**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx.md) *Ambusher (2744)* `Stealth` 
-- [**Nighthawk PA(L) Mk. XXII**](../../units/nighthawk_pal/nighthawk_pal_mk._xxii.md) *Ambusher (2749)* `Stealth` 
+- [**Nighthawk PA(L) Mk. XXI(Sqd4)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxisqd4.md) *Ambusher (2720)* `ECM` , `Stealth` 
+- [**Nighthawk PA(L) Mk. XXX(Sqd4)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxxsqd4.md) *Ambusher (2744)* `Stealth` 
+- [**Nighthawk PA(L) Mk. XXII(Sqd4)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxiisqd4.md) *Ambusher (2749)* `Stealth` 
 
 ## Combat Vehicles 
 
@@ -52,10 +52,11 @@
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
 
+- [**Flatbed Truck (AC)**](../../units/flatbed_truck/flatbed_truck_ac.md) *Scout (2580)* 
 - [**Flatbed Truck (Armor)**](../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
-- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Undefined (2580)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
@@ -134,12 +135,12 @@
 
 ### 22 Tons 
 
-#### [Vector](../../units/vector.md) 
+#### [Vector Combat Support VTOL](../../units/vector_combat_support_vtol.md) 
 
-- [**Vector (Attack)**](../../units/vector/vector_attack.md) *Striker (2730)* 
-- [**Vector (EW)**](../../units/vector/vector_ew.md) *Striker (2730)* `ECM` , `TAG` 
-- [**Vector (Scout)**](../../units/vector/vector_scout.md) *Undefined (2730)* `Active Probe` , `TAG` 
-- [**Vector (Transport)**](../../units/vector/vector_transport.md) *Striker (2730)* `Transport:3.0` 
+- [**Vector Combat Support VTOL (Attack)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_attack.md) *Striker (2730)* 
+- [**Vector Combat Support VTOL (EW)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_ew.md) *Striker (2730)* `ECM` , `TAG` 
+- [**Vector Combat Support VTOL (Scout)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_scout.md) *Undefined (2730)* `Active Probe` , `TAG` 
+- [**Vector Combat Support VTOL (Standard)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_standard.md) *Striker (2730)* `Transport:3.0` 
 
 ### 25 Tons 
 
@@ -298,7 +299,7 @@
 
 #### [Marsden II MBT](../../units/marsden_ii_mbt.md) 
 
-- [**Marsden II MBT (Standard)**](../../units/marsden_ii_mbt/marsden_ii_mbt_standard.md) *Undefined (2473)* 
+- [**Marsden II MBT (Standard)**](../../units/marsden_ii_mbt/marsden_ii_mbt_standard.md) *Juggernaut (2473)* 
 - [**Marsden II MBT II-A**](../../units/marsden_ii_mbt/marsden_ii_mbt_ii-a.md) *Juggernaut (2482)* 
 
 #### [SRM Carrier](../../units/srm_carrier.md) 
@@ -308,6 +309,12 @@
 #### [Thumper Artillery Vehicle](../../units/thumper_artillery_vehicle.md) 
 
 - [**Thumper Artillery Vehicle (Standard)**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_standard.md) *Missile Boat (2734)* 
+
+#### [Weapon Carrier (Tracked)](../../units/weapon_carrier_tracked.md) 
+
+- [**Weapon Carrier (Tracked) (AC/20)**](../../units/weapon_carrier_tracked/weapon_carrier_tracked_ac_20.md) *Ambusher (2775)* 
+- [**Weapon Carrier (Tracked) (LB-10X)**](../../units/weapon_carrier_tracked/weapon_carrier_tracked_lb-10x.md) *Sniper (2775)* 
+- [**Weapon Carrier (Tracked) (Ultra/5)**](../../units/weapon_carrier_tracked/weapon_carrier_tracked_ultra_5.md) *Sniper (2775)* 
 
 ### 65 Tons 
 
@@ -342,7 +349,7 @@
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Missile Boat (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
 
 #### [Padilla Heavy Artillery Tank](../../units/padilla_heavy_artillery_tank.md) 
 
@@ -385,6 +392,10 @@
 #### [Alacorn Heavy Tank](../../units/alacorn_heavy_tank.md) 
 
 - [**Alacorn Heavy Tank Mk VI**](../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) *Sniper (2590)* 
+
+#### [Mobile Long Tom Artillery (Unofficial)](../../units/mobile_long_tom_artillery_unofficial.md) 
+
+- [**Mobile Long Tom Artillery (Unofficial) (+ Carriage)**](../../units/mobile_long_tom_artillery_unofficial/mobile_long_tom_artillery_unofficial_+_carriage.md) *Missile Boat (2602)* 
 
 #### [Puma Assault Tank](../../units/puma_assault_tank.md) 
 
@@ -434,7 +445,7 @@
 
 - [**Mongoose MON-66**](../../units/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe` 
 - [**Mongoose MON-66b**](../../units/mongoose/mongoose_mon-66b.md) *Striker (2740)* `Active Probe` 
-- [**Mongoose MON-66GX (Gunslinger)**](../../units/mongoose/mongoose_mon-66gx_gunslinger.md) *Scout (2766)* `Stealth` , `Unique` 
+- [**Mongoose MON-66GX**](../../units/mongoose/mongoose_mon-66gx.md) *Scout (2766)* `Stealth` , `Unique` 
 
 #### [Sling](../../units/sling.md) 
 
@@ -512,7 +523,7 @@
 
 #### [Powerman SC XI LoaderMech](../../units/powerman_sc_xi_loadermech.md) 
 
-- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Undefined (2764)* `IndustrialMech` 
+- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Ambusher (2764)* `IndustrialMech` 
 
 #### [Spector](../../units/spector.md) 
 
@@ -564,7 +575,7 @@
 
 - [**Wyvern WVE-5N**](../../units/wyvern/wyvern_wve-5n.md) *Brawler (2660)* 
 - [**Wyvern WVE-5Nb**](../../units/wyvern/wyvern_wve-5nb.md) *Missile Boat (2660)* 
-- [**Wyvern WVE-5UX (City)**](../../units/wyvern/wyvern_wve-5ux_city.md) *Brawler (2686)* `Command Console` 
+- [**Wyvern WVE-5UX**](../../units/wyvern/wyvern_wve-5ux.md) *Brawler (2686)* `Command Console` 
 - [**Wyvern WVE-5Nsl**](../../units/wyvern/wyvern_wve-5nsl.md) *Missile Boat (2750)* 
 
 ### 50 Tons 
@@ -716,7 +727,7 @@
 - [**Exterminator EXT-4C**](../../units/exterminator/exterminator_ext-4c.md) *Skirmisher (2630)* `Stealth` 
 - [**Exterminator EXT-4D**](../../units/exterminator/exterminator_ext-4d.md) *Skirmisher (2630)* 
 - [**Exterminator EXT-4Db**](../../units/exterminator/exterminator_ext-4db.md) *Skirmisher (2718)* 
-- [**Exterminator EXT-4DX (Caine)**](../../units/exterminator/exterminator_ext-4dx_caine.md) *Skirmisher (2754)* `Unique` 
+- [**Exterminator EXT-4DX**](../../units/exterminator/exterminator_ext-4dx.md) *Skirmisher (2754)* `Unique` 
 
 #### [JagerMech](../../units/jagermech.md) 
 
@@ -776,7 +787,7 @@
 
 #### [Helepolis](../../units/helepolis.md) 
 
-- [**Helepolis HEP-2H**](../../units/helepolis/helepolis_hep-2h.md) *Missile Boat (2488)* 
+- [**Helepolis HEP-2H**](../../units/helepolis/helepolis_hep-2h.md) *Missile Boat (2567)* 
 - [**Helepolis HEP-3H**](../../units/helepolis/helepolis_hep-3h.md) *Missile Boat (2625)* 
 
 #### [Marauder](../../units/marauder.md) 
@@ -866,7 +877,7 @@
 #### [Highlander](../../units/highlander.md) 
 
 - [**Highlander HGN-732**](../../units/highlander/highlander_hgn-732.md) *Sniper (2592)* 
-- [**Highlander HGN-732b**](../../units/highlander/highlander_hgn-732b.md) *Missile Boat (2598)* 
+- [**Highlander HGN-732b**](../../units/highlander/highlander_hgn-732b.md) *Sniper (2598)* 
 
 ### 95 Tons 
 
@@ -889,7 +900,7 @@
 
 - [**Atlas II AS7-D-H**](../../units/atlas_ii/atlas_ii_as7-d-h.md) *Juggernaut (2765)* 
 - [**Atlas II AS7-D-H2**](../../units/atlas_ii/atlas_ii_as7-d-h2.md) *Juggernaut (2780)* 
-- [**Atlas II AS7-D-HT**](../../units/atlas_ii/atlas_ii_as7-d-ht.md) *Undefined (2780)* `Unique` 
+- [**Atlas II AS7-D-HT**](../../units/atlas_ii/atlas_ii_as7-d-ht.md) *Juggernaut (2780)* `Unique` 
 
 #### [King Crab](../../units/king_crab.md) 
 
@@ -899,7 +910,7 @@
 
 #### [Mackie](../../units/mackie.md) 
 
-- [**Mackie MSK-9HKR 'Kill-Roy's Little Buddy'**](../../units/mackie/mackie_msk-9hkr_kill-roys_little_buddy.md) *Undefined (2750)* 
+- [**Mackie MSK-9HKR 'Kill-Roy's Little Buddy'**](../../units/mackie/mackie_msk-9hkr_kill-roys_little_buddy.md) *Sniper (2750)* 
 
 #### [Pillager](../../units/pillager.md) 
 

@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6457/calliope-cal-1maf) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6457) 
 - **Battle Value:** 1125 
 
 ## Availability 
@@ -31,6 +31,14 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

@@ -19,7 +19,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301/griffin-grf-4n) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301) 
 - **Battle Value:** 1591 
 
 ## Availability 
@@ -35,6 +35,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

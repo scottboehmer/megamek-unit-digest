@@ -19,7 +19,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/129/assassin-asn-30) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/129) 
 - **Battle Value:** 925 
 
 ## Availability 
@@ -48,4 +48,12 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Vesper Marches 
 

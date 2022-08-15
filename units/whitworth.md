@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3540/whitworth-wth-1s) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3540) 
 - **Battle Value:** 917 
 - [*More Info*](whitworth/whitworth_wth-1s.md) 
 
@@ -34,7 +34,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3538/whitworth-wth-1) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3538) 
 - **Battle Value:** 982 
 - [*More Info*](whitworth/whitworth_wth-1.md) 
 
@@ -54,7 +54,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3537/whitworth-wth-0) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3537) 
 - **Battle Value:** 863 
 - [*More Info*](whitworth/whitworth_wth-0.md) 
 
@@ -73,7 +73,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3541/whitworth-wth-2) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3541) 
 - **Battle Value:** 936 
 - [*More Info*](whitworth/whitworth_wth-2.md) 
 
@@ -93,7 +93,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3539/whitworth-wth-1h) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3539) 
 - **Battle Value:** 993 
 - [*More Info*](whitworth/whitworth_wth-1h.md) 
 
@@ -116,7 +116,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3542/whitworth-wth-2a) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3542) 
 - **Battle Value:** 1055 
 - [*More Info*](whitworth/whitworth_wth-2a.md) 
 
@@ -136,7 +136,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3543/whitworth-wth-3) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3543) 
 - **Battle Value:** 861 
 - [*More Info*](whitworth/whitworth_wth-3.md) 
 
@@ -157,7 +157,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3545/whitworth-wth-k) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3545) 
 - **Battle Value:** 958 
 - [*More Info*](whitworth/whitworth_wth-k.md) 
 
@@ -181,7 +181,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3544/whitworth-wth-5s) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3544) 
 - **Battle Value:** 1230 
 - [*More Info*](whitworth/whitworth_wth-5s.md) 
 

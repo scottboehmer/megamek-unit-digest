@@ -17,7 +17,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6470/tian-zong-tnz-n2) 
+- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6470) 
 - **Battle Value:** 1726 
 
 ## Availability 
@@ -32,6 +32,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

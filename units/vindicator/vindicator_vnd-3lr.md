@@ -20,8 +20,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3428/vindicator-vnd-3lr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3428) 
 - **Battle Value:** 1045 
 
 ## Availability 
@@ -40,6 +39,7 @@
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -50,8 +50,20 @@
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
+- Wolf's Dragoons 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

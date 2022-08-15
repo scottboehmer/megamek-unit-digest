@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Heavy Gauss Rifle × 2 (ammo: 48) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/26/alacorn-heavy-tank-mk-vii) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/26) 
 - **Battle Value:** 2163 
 
 ## Availability 
@@ -43,4 +43,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

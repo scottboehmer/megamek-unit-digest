@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3029/srm-carrier-c3) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3029) 
 - **Battle Value:** 903 
 
 ## Availability 
@@ -134,4 +134,23 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

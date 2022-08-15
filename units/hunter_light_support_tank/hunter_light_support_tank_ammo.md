@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LRM 20 (ammo: 18) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1574/hunter-light-support-tank-ammo) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1574) 
 - **Battle Value:** 675 
 
 ## Availability 
@@ -135,6 +135,17 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

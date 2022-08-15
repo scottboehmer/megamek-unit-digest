@@ -20,8 +20,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/921/dragonfly-viper-e) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/921) 
 - **Battle Value:** 1561 
 
 ## Availability 
@@ -136,4 +135,11 @@
 - Rasalhague Dominion 
 - Republic of the Sphere 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
 

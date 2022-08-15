@@ -20,7 +20,7 @@
   - Medium Shield 
 - **Design Quirks:** 
   - Accurate Weapon (ER PPC) 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6349/black-knight-blk-nt-3b) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6349) 
 - **Battle Value:** 1911 
 
 ## Availability 
@@ -45,8 +45,6 @@
 
 ### Dark Ages 
 
-- Capellan Confederation 
-- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
@@ -59,4 +57,11 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
 

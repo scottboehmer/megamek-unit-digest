@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3260/tokugawa-heavy-tank-c3) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3260) 
 - **Battle Value:** 891 
 
 ## Availability 
@@ -47,4 +47,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

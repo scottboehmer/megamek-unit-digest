@@ -18,7 +18,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8453/ryoken-iii-skinwalker-e) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8453) 
 - **Battle Value:** 2768 
 
 ## Availability 
@@ -26,4 +26,8 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
 

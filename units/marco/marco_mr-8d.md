@@ -16,7 +16,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2073/marco-mr-8d) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2073) 
 - **Battle Value:** 436 
 
 ## Availability 

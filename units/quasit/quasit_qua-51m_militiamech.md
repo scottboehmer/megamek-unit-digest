@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2607/quasit-qua-51m-militiamech) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2607) 
 - **Battle Value:** 707 
 
 ## Availability 
@@ -54,6 +54,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

@@ -16,7 +16,7 @@
   - Medium Laser × 4 
   - Flamer × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6602/di-schmitt-tank-standard) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6602) 
 - **Battle Value:** 1457 
 
 ## Availability 
@@ -27,6 +27,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -34,4 +35,13 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

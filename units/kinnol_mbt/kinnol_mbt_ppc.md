@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1788/kinnol-mbt-ppc) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1788) 
 - **Battle Value:** 1212 
 
 ## Availability 
@@ -79,5 +79,23 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

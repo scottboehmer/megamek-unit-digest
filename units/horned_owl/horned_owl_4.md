@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stabilized Weapon (ER Medium Laser) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2475/peregrine-horned-owl-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2475) 
 - **Battle Value:** 1198 
 
 ## Availability 
@@ -47,5 +47,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

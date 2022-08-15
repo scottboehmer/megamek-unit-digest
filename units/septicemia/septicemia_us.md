@@ -24,7 +24,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5817/pariah-septicemia-us) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5817) 
 - **Battle Value:** 2298 
 
 ## Availability 

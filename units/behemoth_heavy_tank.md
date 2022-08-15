@@ -12,7 +12,7 @@
   - AC/10 × 2 (ammo: 20) 
   - SRM 6 × 2 (ammo: 30) 
   - LRM 5 × 4 (ammo: 48) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/321/behemoth-heavy-tank-armor) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/321) 
 - **Battle Value:** 1406 
 - [*More Info*](behemoth_heavy_tank/behemoth_heavy_tank_armor.md) 
 
@@ -30,7 +30,7 @@
   - LRM 5 × 4 (ammo: 48) 
   - SRM 2 × 4 (ammo: 50) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/324/behemoth-heavy-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/324) 
 - **Battle Value:** 1173 
 - [*More Info*](behemoth_heavy_tank/behemoth_heavy_tank_standard.md) 
 
@@ -48,7 +48,7 @@
   - LRM 5 × 4 (ammo: 48) 
   - Machine Gun × 4 (ammo: 200) 
   - Vehicle Flamer × 6 (ammo: 40) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/322/behemoth-heavy-tank-flamer) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/322) 
 - **Battle Value:** 1130 
 - [*More Info*](behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) 
 
@@ -65,7 +65,7 @@
   - SRM 6 w/ Artemis IV × 2 (ammo: 30) 
   - MRM 10 × 2 (ammo: 48) 
   - LRM 5 w/ Artemis IV × 2 (ammo: 24) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/323/behemoth-heavy-tank-kurita) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/323) 
 - **Battle Value:** 1336 
 - [*More Info*](behemoth_heavy_tank/behemoth_heavy_tank_kurita.md) 
 

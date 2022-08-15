@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2371/ostsol-otl-4d) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2371) 
 - **Battle Value:** 1277 
 - [*More Info*](ostsol/ostsol_otl-4d.md) 
 
@@ -31,7 +31,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2372/ostsol-otl-4f) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2372) 
 - **Battle Value:** 1264 
 - [*More Info*](ostsol/ostsol_otl-4f.md) 
 
@@ -51,7 +51,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2374/ostsol-otl-5m) 
+- **Sources:** Rec Guide:ilClan #14 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2374) 
 - **Battle Value:** 1245 
 - [*More Info*](ostsol/ostsol_otl-5m.md) 
 
@@ -74,7 +74,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2375/ostsol-otl-6d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2375) 
 - **Battle Value:** 1880 
 - [*More Info*](ostsol/ostsol_otl-6d.md) 
 
@@ -93,7 +93,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2373/ostsol-otl-5d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2373) 
 - **Battle Value:** 1333 
 - [*More Info*](ostsol/ostsol_otl-5d.md) 
 
@@ -113,7 +113,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2376/ostsol-otl-7m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2376) 
 - **Battle Value:** 1581 
 - [*More Info*](ostsol/ostsol_otl-7m.md) 
 
@@ -135,7 +135,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2378/ostsol-otl-8m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2378) 
 - **Battle Value:** 1733 
 - [*More Info*](ostsol/ostsol_otl-8m.md) 
 
@@ -158,7 +158,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2377/ostsol-otl-8d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2377) 
 - **Battle Value:** 1462 
 - [*More Info*](ostsol/ostsol_otl-8d.md) 
 
@@ -184,7 +184,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2380/ostsol-otl-9r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2380) 
 - **Battle Value:** 1654 
 - [*More Info*](ostsol/ostsol_otl-9r.md) 
 
@@ -207,7 +207,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2379/ostsol-otl-9m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2379) 
 - **Battle Value:** 1871 
 - [*More Info*](ostsol/ostsol_otl-9m.md) 
 
@@ -227,7 +227,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172) 
 - **Battle Value:** 1552 
 - [*More Info*](ostsol/ostsol_otl-8e.md) 
 
@@ -248,7 +248,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8163) 
 - **Battle Value:** 2277 
 - [*More Info*](ostsol/ostsol_c.md) 
 
@@ -267,7 +267,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8173/ostsol-otl-8f) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8173) 
 - **Battle Value:** 1698 
 - [*More Info*](ostsol/ostsol_otl-8f.md) 
 
@@ -288,7 +288,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8162/ostsol-otl-8e3) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8162) 
 - **Battle Value:** 1671 
 - [*More Info*](ostsol/ostsol_otl-8e3.md) 
 

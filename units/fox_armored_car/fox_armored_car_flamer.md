@@ -14,7 +14,7 @@
   - ER Medium Laser 
   - Small Pulse Laser 
   - Flamer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1150/fox-armored-car-flamer) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1150) 
 - **Battle Value:** 530 
 
 ## Availability 
@@ -34,4 +34,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

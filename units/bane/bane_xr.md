@@ -22,7 +22,7 @@
   - Prototype 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4463/kraken-bane-xr) 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4463) 
 - **Battle Value:** 3055 
 
 ## Availability 

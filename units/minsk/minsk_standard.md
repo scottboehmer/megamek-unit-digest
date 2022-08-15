@@ -4,7 +4,7 @@
 
 ## Minsk (Standard) 
 
-- **Role:** Brawler 
+- **Role:** Sniper 
 - **Tech Base:** Clan Mixed (2862) 
 - **Chassis:** 70 tons (Endo Steel) 
 - **Movement:** 3 / 5 
@@ -20,7 +20,7 @@
   - Active Probe 
   - Inner Sphere A-Pod × 2 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7640/minsk-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7640) 
 - **Battle Value:** 2028 
 
 ## Availability 

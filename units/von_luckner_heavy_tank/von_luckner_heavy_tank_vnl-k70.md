@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
   - Flamer 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3453/von-luckner-heavy-tank-vnl-k70) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3453) 
 - **Battle Value:** 1018 
 
 ## Availability 

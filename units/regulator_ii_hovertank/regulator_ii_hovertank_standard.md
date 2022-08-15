@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2679/regulator-ii-hovertank-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2679) 
 - **Battle Value:** 1426 
 
 ## Availability 
@@ -35,4 +35,12 @@
 
 - Capellan Confederation 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Mercenary 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

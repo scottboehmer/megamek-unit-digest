@@ -16,7 +16,7 @@
   - Liquid Cargo 
   - Searchlight 
   - Mech Sprayer 
-- **Sources:** TRO VA - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4843/pompier-gm-3cd-firemech) 
+- **Sources:** TRO VA - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4843) 
 - **Battle Value:** 118 
 
 ## Availability 
@@ -39,6 +39,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

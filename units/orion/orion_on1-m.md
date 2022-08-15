@@ -22,7 +22,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2334/orion-on1-m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2334) 
 - **Battle Value:** 1414 
 
 ## Availability 
@@ -127,11 +127,32 @@
 ### Dark Ages 
 
 - Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Pirate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Draconis Combine 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Taurian Concordat 
 

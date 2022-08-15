@@ -17,7 +17,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2491/phoenix-hawk-pxh-1) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2491) 
 - **Battle Value:** 1041 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1.md) 
 
@@ -37,7 +37,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2494/phoenix-hawk-pxh-1d) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2494) 
 - **Battle Value:** 1083 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1d.md) 
 
@@ -59,7 +59,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2496/phoenix-hawk-pxh-2) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2496) 
 - **Battle Value:** 1145 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-2.md) 
 
@@ -79,7 +79,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2495/phoenix-hawk-pxh-1k) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2495) 
 - **Battle Value:** 1073 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1k.md) 
 
@@ -99,7 +99,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5872/phoenix-hawk-pxh-1kk) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5872) 
 - **Battle Value:** 1139 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1kk.md) 
 
@@ -124,7 +124,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2492/phoenix-hawk-pxh-1b-special) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2492) 
 - **Battle Value:** 1512 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1b_special.md) 
 
@@ -149,7 +149,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2493/phoenix-hawk-pxh-1c-special) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2493) 
 - **Battle Value:** 1443 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1c_special.md) 
 
@@ -167,7 +167,7 @@
   - Clan Prototype ER Medium Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7678/phoenix-hawk-pxh-1-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7678) 
 - **Battle Value:** 1206 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1-ec.md) 
 
@@ -186,7 +186,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #11 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7752/phoenix-hawk-c) 
+- **Sources:** Rec Guide:ilClan #11 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7752) 
 - **Battle Value:** 1396 
 - [*More Info*](phoenix_hawk/phoenix_hawk_c.md) 
 
@@ -211,7 +211,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2502/phoenix-hawk-pxh-3s) 
+- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2502) 
 - **Battle Value:** 1237 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3s.md) 
 
@@ -235,7 +235,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2499/phoenix-hawk-pxh-3m) 
+- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2499) 
 - **Battle Value:** 1307 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3m.md) 
 
@@ -257,7 +257,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7760/phoenix-hawk-pxh-3d) 
+- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7760) 
 - **Battle Value:** 1315 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3d.md) 
 
@@ -273,7 +273,7 @@
   - ER Large Laser 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2497/phoenix-hawk-pxh-2k) 
+- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2497) 
 - **Battle Value:** 1271 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-2k.md) 
 
@@ -293,7 +293,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2498/phoenix-hawk-pxh-3k) 
+- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2498) 
 - **Battle Value:** 1359 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3k.md) 
 
@@ -318,7 +318,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2500/phoenix-hawk-pxh-3m-masters) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2500) 
 - **Battle Value:** 1154 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3m_masters.md) 
 
@@ -339,7 +339,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7602/phoenix-hawk-pxh-1bc) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7602) 
 - **Battle Value:** 1174 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1bc.md) 
 
@@ -357,7 +357,7 @@
   - Medium X-Pulse Laser 
 - **Equipment:** 
   - Full Head Ejection System 
-- **Sources:** Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7699/phoenix-hawk-pxh-3d-jiemin) 
+- **Sources:** Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7699) 
 - **Battle Value:** 1322 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3d_jiemin.md) 
 
@@ -381,7 +381,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2503/phoenix-hawk-pxh-4l) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2503) 
 - **Battle Value:** 1282 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4l.md) 
 
@@ -405,7 +405,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2501/phoenix-hawk-pxh-3pl) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2501) 
 - **Battle Value:** 1244 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3pl.md) 
 
@@ -428,7 +428,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2506/phoenix-hawk-pxh-6d) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2506) 
 - **Battle Value:** 1665 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-6d.md) 
 
@@ -452,7 +452,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2507/phoenix-hawk-pxh-7cs) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2507) 
 - **Battle Value:** 1281 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7cs.md) 
 
@@ -476,7 +476,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2509/phoenix-hawk-pxh-7s) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2509) 
 - **Battle Value:** 1496 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7s.md) 
 
@@ -501,7 +501,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5807/phoenix-hawk-pxh-4l-sante) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5807) 
 - **Battle Value:** 1442 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4l_sante.md) 
 
@@ -524,7 +524,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2505/phoenix-hawk-pxh-5l) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2505) 
 - **Battle Value:** 1530 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-5l.md) 
 
@@ -547,7 +547,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508/phoenix-hawk-pxh-7k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508) 
 - **Battle Value:** 1241 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7k.md) 
 
@@ -571,7 +571,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2504/phoenix-hawk-pxh-4w) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2504) 
 - **Battle Value:** 1395 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4w.md) 
 
@@ -595,7 +595,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510) 
 - **Battle Value:** 1442 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-8cs.md) 
 
@@ -612,13 +612,13 @@
   - Light PPC × 2 
   - Medium X-Pulse Laser × 2 
   - Small X-Pulse Laser × 2 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7750/phoenix-hawk-pxh-4m) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7750) 
 - **Battle Value:** 1327 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4m.md) 
 
 ## Phoenix Hawk PXH-7KJ 'Jasmine' 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3125) 
 - **Chassis:** 45 tons (Endo Steel) 
 - **Movement:** 6 / 9, Light 
@@ -633,7 +633,7 @@
   - Angel ECM Suite 
   - Full Head Ejection System 
   - Remote Drone Command Console 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8372/phoenix-hawk-pxh-7kj-jasmine) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8372) 
 - **Battle Value:** 1513 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7kj_jasmine.md) 
 
@@ -657,7 +657,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Jettison-Capable Weapon (Large X-Pulse Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8106/phoenix-hawk-pxh-99) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8106) 
 - **Battle Value:** 1444 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-99.md) 
 
@@ -677,7 +677,7 @@
 - **Equipment:** 
   - Clan Targeting Computer 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7753/phoenix-hawk-c-2) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7753) 
 - **Battle Value:** 2187 
 - [*More Info*](phoenix_hawk/phoenix_hawk_c_2.md) 
 
@@ -696,7 +696,7 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7751/phoenix-hawk-pxh-9) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7751) 
 - **Battle Value:** 1244 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-9.md) 
 

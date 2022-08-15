@@ -19,12 +19,16 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6936/nyx-nx-110) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6936) 
 - **Battle Value:** 805 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

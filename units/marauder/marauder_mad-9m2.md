@@ -20,7 +20,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2048/marauder-mad-9m2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2048) 
 - **Battle Value:** 1875 
 
 ## Availability 
@@ -58,4 +58,11 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

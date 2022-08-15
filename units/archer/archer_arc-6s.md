@@ -22,7 +22,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/82/archer-arc-6s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/82) 
 - **Battle Value:** 1694 
 
 ## Availability 
@@ -63,4 +63,12 @@
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Vesper Marches 
 

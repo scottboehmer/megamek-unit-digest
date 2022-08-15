@@ -15,7 +15,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2116/maxim-flanker-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2116) 
 - **Battle Value:** 776 
 - [*More Info*](maxim_flanker/maxim_flanker_standard.md) 
 

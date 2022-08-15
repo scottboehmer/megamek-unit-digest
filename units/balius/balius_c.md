@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/213/balius-c) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/213) 
 - **Battle Value:** 2103 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

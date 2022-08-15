@@ -23,7 +23,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/72/archer-wolf) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/72) 
 - **Battle Value:** 2365 
 
 ## Availability 
@@ -49,6 +49,10 @@
 - Wolf's Dragoons 
 
 ### Dark Ages (Unique) 
+
+- Wolf's Dragoons 
+
+### ilClan (Unique) 
 
 - Wolf's Dragoons 
 

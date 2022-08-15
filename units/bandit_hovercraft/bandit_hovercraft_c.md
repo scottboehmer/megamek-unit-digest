@@ -14,7 +14,7 @@
   - SRM 6 × 2 (ammo: 15) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/232/bandit-hovercraft-c) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/232) 
 - **Battle Value:** 792 
 
 ## Availability 

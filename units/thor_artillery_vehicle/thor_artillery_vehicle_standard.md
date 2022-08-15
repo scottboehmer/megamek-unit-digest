@@ -15,7 +15,7 @@
   - Thumper (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3189/thor-artillery-vehicle-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3189) 
 - **Battle Value:** 608 
 
 ## Availability 

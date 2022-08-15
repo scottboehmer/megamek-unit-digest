@@ -18,7 +18,7 @@
   - Distracting 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6424/tenshi-tn-10-or) 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6424) 
 - **Battle Value:** 2183 
 
 ## Availability 
@@ -32,6 +32,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

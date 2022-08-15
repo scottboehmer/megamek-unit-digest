@@ -19,7 +19,7 @@
   - Active Probe 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1380/hankyu-arctic-cheetah-c) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1380) 
 - **Battle Value:** 1840 
 
 ## Availability 
@@ -146,4 +146,12 @@
 - Draconis Combine 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Draconis Combine 
+- Rasalhague Dominion 
+- Star League (Smoke Jaguar) 
 

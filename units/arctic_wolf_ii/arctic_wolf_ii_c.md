@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/106/arctic-wolf-ii-c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/106) 
 - **Battle Value:** 1913 
 
 ## Availability 
@@ -37,4 +37,9 @@
 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
+
+### ilClan 
+
+- Kell Hounds 
+- Star League (Wolf) 
 

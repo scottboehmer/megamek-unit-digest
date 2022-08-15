@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2317/odin-scout-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2317) 
 - **Battle Value:** 691 
 - [*More Info*](odin_scout_tank/odin_scout_tank_standard.md) 
 
@@ -34,7 +34,7 @@
   - ECM Suite 
   - Active Probe 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2316/odin-scout-tank-spotter) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2316) 
 - **Battle Value:** 338 
 - [*More Info*](odin_scout_tank/odin_scout_tank_spotter.md) 
 

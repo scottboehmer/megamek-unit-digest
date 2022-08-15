@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2516/phoenix-hawk-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2516) 
 - **Battle Value:** 2490 
 
 ## Availability 
@@ -60,4 +60,21 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

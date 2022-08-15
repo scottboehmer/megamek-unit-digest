@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Arrow IV × 2 (ammo: 35) 
   - Medium Laser × 2 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/858/demolisher-heavy-tank-arrow-iv) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/858) 
 - **Battle Value:** 1297 
 
 ## Availability 
@@ -125,4 +125,27 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

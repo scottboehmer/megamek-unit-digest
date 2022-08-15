@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/717/crab-crb-27b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/717) 
 - **Battle Value:** 1308 
 
 ## Availability 
@@ -161,12 +161,8 @@
 
 ### Early Republic 
 
-- Clan Diamond Shark 
-- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -174,40 +170,28 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
 
 ### Late Republic 
 
-- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
 
 ### Dark Ages 
 
-- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -215,9 +199,16 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

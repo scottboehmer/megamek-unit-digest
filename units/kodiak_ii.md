@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Distracting 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6295/kodiak-ii-standard) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6295) 
 - **Battle Value:** 3066 
 - [*More Info*](kodiak_ii/kodiak_ii_standard.md) 
 
@@ -42,7 +42,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Distracting 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6296/kodiak-ii-2) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6296) 
 - **Battle Value:** 3150 
 - [*More Info*](kodiak_ii/kodiak_ii_2.md) 
 

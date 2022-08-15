@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
   - Micro Pulse Laser × 2 
   - ER Micro Laser × 2 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3444/vixen-incubus-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3444) 
 - **Battle Value:** 1581 
 
 ## Availability 
@@ -39,6 +39,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

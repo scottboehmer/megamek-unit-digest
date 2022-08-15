@@ -22,8 +22,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3430/vindicator-vnd-5l) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3430) 
 - **Battle Value:** 1484 
 
 ## Availability 
@@ -60,6 +59,12 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

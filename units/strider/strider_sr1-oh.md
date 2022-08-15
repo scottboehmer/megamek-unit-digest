@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6917/strider-sr1-oh) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6917) 
 - **Battle Value:** 1192 
 
 ## Availability 
@@ -42,6 +42,7 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -56,10 +57,22 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Taurian Concordat 
 

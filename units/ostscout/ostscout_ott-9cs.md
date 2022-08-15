@@ -24,7 +24,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2369/ostscout-ott-9cs) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2369) 
 - **Battle Value:** 930 
 
 ## Availability 

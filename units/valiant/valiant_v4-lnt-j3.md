@@ -21,7 +21,7 @@
   - Improved Targeting (Short) 
   - Protected Actuators 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3368/valiant-v4-lnt-j3) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3368) 
 - **Battle Value:** 926 
 
 ## Availability 
@@ -39,12 +39,14 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+- Solaris 7 
 
 ### Late Republic 
 
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+- Solaris 7 
 
 ### Dark Ages 
 
@@ -52,4 +54,12 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+- Solaris 7 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Solaris 7 
 

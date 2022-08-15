@@ -15,7 +15,7 @@
   - LRM 15 × 2 (ammo: 32) 
   - Large Laser 
   - Medium Laser × 2 
-- **Sources:** RS 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/7177/lumberjack-lm5m-militiamech) 
+- **Sources:** RS 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/7177) 
 - **Battle Value:** 1360 
 
 ## Availability 
@@ -93,4 +93,23 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

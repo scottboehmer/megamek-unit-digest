@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Machine Gun × 8 (ammo: 400) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1753/karnov-ur-gunship-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1753) 
 - **Battle Value:** 221 
 - [*More Info*](karnov_ur_gunship/karnov_ur_gunship_standard.md) 
 

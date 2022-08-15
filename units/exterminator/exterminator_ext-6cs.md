@@ -22,7 +22,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Sensor Ghosts 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5551/exterminator-ext-6cs) 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5551) 
 - **Battle Value:** 1592 
 
 ## Availability 

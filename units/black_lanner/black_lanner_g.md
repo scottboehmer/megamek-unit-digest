@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8186/black-lanner-g) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8186) 
 - **Battle Value:** 1929 
 
 ## Availability 
@@ -26,4 +26,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
 

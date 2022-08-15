@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2836/scorpion-scp-12s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2836) 
 - **Battle Value:** 1109 
 
 ## Availability 
@@ -52,4 +52,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

@@ -18,7 +18,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972/mackie-msk-5s) 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972) 
 - **Battle Value:** 1436 
 - [*More Info*](mackie/mackie_msk-5s.md) 
 
@@ -40,7 +40,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1973/mackie-msk-6s) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1973) 
 - **Battle Value:** 1461 
 - [*More Info*](mackie/mackie_msk-6s.md) 
 
@@ -61,7 +61,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** RS 3075U , [Master Unit List](http://masterunitlist.info/Unit/Details/4556/mackie-msk-7a) 
+- **Sources:** RS 3075U , [Master Unit List](http://masterunitlist.info/Unit/Details/4556) 
 - **Battle Value:** 1900 
 - [*More Info*](mackie/mackie_msk-7a.md) 
 
@@ -84,7 +84,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1974/mackie-msk-8b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1974) 
 - **Battle Value:** 2019 
 - [*More Info*](mackie/mackie_msk-8b.md) 
 
@@ -108,13 +108,13 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975/mackie-msk-9h) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975) 
 - **Battle Value:** 2022 
 - [*More Info*](mackie/mackie_msk-9h.md) 
 
 ## Mackie MSK-9HKR 'Kill-Roy's Little Buddy' 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (2750) 
 - **Chassis:** 100 tons 
 - **Movement:** 3 / 5 
@@ -131,7 +131,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5876/mackie-msh-9hkr-kill-roys-little-buddy) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5876) 
 - **Battle Value:** 2162 
 - [*More Info*](mackie/mackie_msk-9hkr_kill-roys_little_buddy.md) 
 

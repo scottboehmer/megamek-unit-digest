@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Gauss Rifle × 2 (ammo: 32) 
   - Medium Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/861/demolisher-heavy-tank-gauss) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/861) 
 - **Battle Value:** 1529 
 
 ## Availability 
@@ -124,4 +124,22 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

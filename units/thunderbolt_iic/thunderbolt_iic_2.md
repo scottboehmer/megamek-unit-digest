@@ -23,7 +23,7 @@
   - Protected Actuators 
   - Rumble Seat 
   - Difficult to Maintain 
-- **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240/thunderbolt-iic-2) 
+- **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240) 
 - **Battle Value:** 2177 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Clan Jade Falcon 
 
 ### Dark Ages 
+
+- Clan Jade Falcon 
+
+### ilClan 
 
 - Clan Jade Falcon 
 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3552/winston-combat-vehicle-lac) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3552) 
 - **Battle Value:** 1314 
 
 ## Availability 
@@ -33,4 +33,11 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

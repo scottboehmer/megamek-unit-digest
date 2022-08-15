@@ -15,7 +15,7 @@
   - Narc (ammo: 12) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2832/scimitar-medium-hover-tank-tag) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2832) 
 - **Battle Value:** 582 
 
 ## Availability 
@@ -41,6 +41,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

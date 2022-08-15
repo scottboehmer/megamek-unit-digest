@@ -15,7 +15,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6469/tian-zong-tnz-n1) 
+- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6469) 
 - **Battle Value:** 2167 
 - [*More Info*](tian-zong/tian-zong_tnz-n1.md) 
 
@@ -34,7 +34,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6470/tian-zong-tnz-n2) 
+- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6470) 
 - **Battle Value:** 1726 
 - [*More Info*](tian-zong/tian-zong_tnz-n2.md) 
 
@@ -54,7 +54,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6468/tian-zong-tnz-n3) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6468) 
 - **Battle Value:** 2072 
 - [*More Info*](tian-zong/tian-zong_tnz-n3.md) 
 
@@ -75,7 +75,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** OTP Capellan Crusades - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7402/tian-zong-tnz-n2-jasminda) 
+- **Sources:** OTP Capellan Crusades - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7402) 
 - **Battle Value:** 1826 
 - [*More Info*](tian-zong/tian-zong_tnz-n3_jasminda.md) 
 

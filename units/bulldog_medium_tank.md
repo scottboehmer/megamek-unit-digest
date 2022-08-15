@@ -12,7 +12,7 @@
   - Large Laser 
   - SRM 4 × 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/441/bulldog-medium-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/441) 
 - **Battle Value:** 605 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_standard.md) 
 
@@ -28,7 +28,7 @@
   - LRM 20 (ammo: 18) 
   - SRM 4 × 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/440/bulldog-medium-tank-lrm) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/440) 
 - **Battle Value:** 748 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_lrm.md) 
 
@@ -44,7 +44,7 @@
   - SRM 4 × 2 (ammo: 25) 
   - AC/2 × 2 (ammo: 45) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/439/bulldog-medium-tank-ac2) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/439) 
 - **Battle Value:** 556 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_ac2.md) 
 
@@ -60,7 +60,7 @@
   - Snub-Nose PPC 
   - MML 5 w/ Artemis IV × 2 (ammo: 24 LRM, 20 SRM) 
   - Machine Gun (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6792/bulldog-medium-tank-cell) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6792) 
 - **Battle Value:** 841 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_cell.md) 
 

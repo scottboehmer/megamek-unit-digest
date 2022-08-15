@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Mech Sprayer 
   - Liquid Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7844/gulon-gln-1a-miningmech) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7844) 
 - **Battle Value:** 352 
 
 ## Availability 
@@ -48,6 +48,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

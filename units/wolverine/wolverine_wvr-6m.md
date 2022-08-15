@@ -23,7 +23,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Large Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3572/wolverine-wvr-6m) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3572) 
 - **Battle Value:** 1291 
 
 ## Availability 
@@ -73,6 +73,11 @@
 - Regulan Fiefs 
 
 ### Dark Ages 
+
+- Marian Hegemony 
+- Pirate 
+
+### ilClan 
 
 - Marian Hegemony 
 - Pirate 

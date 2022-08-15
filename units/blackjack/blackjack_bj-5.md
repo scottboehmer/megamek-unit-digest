@@ -16,7 +16,7 @@
   - Light AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7499/blackjack-bj-5) 
+- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7499) 
 - **Battle Value:** 1165 
 
 ## Availability 
@@ -44,4 +44,13 @@
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
 

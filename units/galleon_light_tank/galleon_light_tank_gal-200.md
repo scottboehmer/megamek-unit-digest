@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** OP Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/1179/galleon-light-tank-gal-200) 
+- **Sources:** OP Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/1179) 
 - **Battle Value:** 345 
 
 ## Availability 
@@ -159,5 +159,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

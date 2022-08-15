@@ -18,7 +18,7 @@
   - Exposed Actuators 
   - Improved Cooling Jacket (Heavy Large Laser) 
   - Stabilized Weapon (Heavy Large Laser) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5097/solitaire-standard) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5097) 
 - **Battle Value:** 1284 
 
 ## Availability 
@@ -49,6 +49,12 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 - Rasalhague Dominion 
 

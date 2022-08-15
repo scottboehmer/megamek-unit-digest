@@ -21,7 +21,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2702/rifleman-rfl-6x) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2702) 
 - **Battle Value:** 1464 
 
 ## Availability 
@@ -55,6 +55,12 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Filtvelt Coalition 

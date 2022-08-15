@@ -23,7 +23,7 @@
   - No/Minimal Arms 
   - Inaccurate Weapon (ER Medium Laser) 
   - Inaccurate Weapon (ER Medium Laser) 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7377/osprey-osp-36) 
+- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7377) 
 - **Battle Value:** 1450 
 
 ## Availability 
@@ -31,4 +31,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Smoke Jaguar) 
 

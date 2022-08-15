@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Talons 
   - CASE 
-- **Sources:** Ice Wind Metals - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8008/vixen-incubus-6) 
+- **Sources:** Ice Wind Metals - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8008) 
 - **Battle Value:** 1578 
 
 ## Availability 
@@ -39,4 +39,15 @@
 - Federated Suns 
 - Mercenary 
 - Solaris 7 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Scorpion Empire 
+- Solaris 7 
+- Star League (Jade Falcon) 
 

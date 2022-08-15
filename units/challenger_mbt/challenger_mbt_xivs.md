@@ -21,7 +21,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/541/challenger-mbt-xivs) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/541) 
 - **Battle Value:** 1424 
 
 ## Availability 
@@ -49,4 +49,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

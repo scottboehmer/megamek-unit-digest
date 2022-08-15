@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Cargo × 2 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2565/powerman-sc-xi-m-haulermech-mod) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2565) 
 - **Battle Value:** 294 
 
 ## Availability 

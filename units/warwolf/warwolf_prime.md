@@ -20,7 +20,7 @@
   - CASE II 
   - Targeting Computer 
   - TAG 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6287/warwolf-prime) 
+- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6287) 
 - **Battle Value:** 2706 
 
 ## Availability 
@@ -28,4 +28,9 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
 

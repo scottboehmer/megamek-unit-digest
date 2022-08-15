@@ -13,7 +13,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/906/donar-assault-helicopter-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/906) 
 - **Battle Value:** 915 
 - [*More Info*](donar_assault_helicopter/donar_assault_helicopter_standard.md) 
 
@@ -31,7 +31,7 @@
   - ECM Suite 
   - Active Probe 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/905/donar-assault-helicopter-recon) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/905) 
 - **Battle Value:** 808 
 - [*More Info*](donar_assault_helicopter/donar_assault_helicopter_recon.md) 
 
@@ -50,7 +50,7 @@
   - Active Probe 
   - Light TAG 
   - Mast Mount 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/904/donar-assault-helicopter-close-support) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/904) 
 - **Battle Value:** 571 
 - [*More Info*](donar_assault_helicopter/donar_assault_helicopter_close_support.md) 
 

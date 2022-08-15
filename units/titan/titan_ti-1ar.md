@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6826/titan-ti-1ar) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6826) 
 - **Battle Value:** 2165 
 
 ## Availability 
@@ -34,4 +34,10 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Mercenary 
 

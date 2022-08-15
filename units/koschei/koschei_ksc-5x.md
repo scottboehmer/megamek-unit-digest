@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1826/koschei-ksc-5x) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1826) 
 - **Battle Value:** 1554 
 
 ## Availability 
@@ -40,6 +40,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Mercenary 
+
+### ilClan 
 
 - Capellan Confederation 
 - Mercenary 

@@ -16,8 +16,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3332/turkina-prime) 
+  - Easy to Pilot 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3332) 
 - **Battle Value:** 2944 
 - [*More Info*](turkina/turkina_prime.md) 
 
@@ -36,8 +36,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3326/turkina-a) 
+  - Easy to Pilot 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3326) 
 - **Battle Value:** 2906 
 - [*More Info*](turkina/turkina_a.md) 
 
@@ -58,8 +58,8 @@
 - **Equipment:** 
   - Targeting Computer 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3327/turkina-b) 
+  - Easy to Pilot 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3327) 
 - **Battle Value:** 3420 
 - [*More Info*](turkina/turkina_b.md) 
 
@@ -84,8 +84,8 @@
   - Inner Sphere A-Pod × 2 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3328/turkina-c) 
+  - Easy to Pilot 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3328) 
 - **Battle Value:** 2798 
 - [*More Info*](turkina/turkina_c.md) 
 
@@ -107,8 +107,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8213/turkina-m) 
+  - Easy to Pilot 
+- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8213) 
 - **Battle Value:** 2495 
 - [*More Info*](turkina/turkina_m.md) 
 
@@ -127,8 +127,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3329/turkina-d) 
+  - Easy to Pilot 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3329) 
 - **Battle Value:** 3132 
 - [*More Info*](turkina/turkina_d.md) 
 
@@ -149,8 +149,8 @@
   - CASE 
   - Targeting Computer 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3331/turkina-h) 
+  - Easy to Pilot 
+- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3331) 
 - **Battle Value:** 2712 
 - [*More Info*](turkina/turkina_h.md) 
 
@@ -169,8 +169,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3330/turkina-e) 
+  - Easy to Pilot 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3330) 
 - **Battle Value:** 3147 
 - [*More Info*](turkina/turkina_e.md) 
 
@@ -190,8 +190,8 @@
   - CASE 
   - Light TAG 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5832/turkina-z) 
+  - Easy to Pilot 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5832) 
 - **Battle Value:** 3935 
 - [*More Info*](turkina/turkina_z.md) 
 
@@ -217,8 +217,8 @@
   - CASE 
   - Armored Liquid Cargo × 2 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3333/turkina-u) 
+  - Easy to Pilot 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3333) 
 - **Battle Value:** 2520 
 - [*More Info*](turkina/turkina_u.md) 
 
@@ -239,8 +239,8 @@
   - Talons 
   - CASE II 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x) 
+  - Easy to Pilot 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3334) 
 - **Battle Value:** 3056 
 - [*More Info*](turkina/turkina_x.md) 
 
@@ -260,8 +260,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8212/turkina-t) 
+  - Easy to Pilot 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8212) 
 - **Battle Value:** 3080 
 - [*More Info*](turkina/turkina_t.md) 
 

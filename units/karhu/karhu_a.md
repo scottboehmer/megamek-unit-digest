@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1748/karhu-a) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1748) 
 - **Battle Value:** 2560 
 
 ## Availability 
@@ -39,6 +39,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ELRM 15 × 2 (ammo: 24) 
   - NLRM 15 × 2 (ammo: 24) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1439/heavy-lrm-carrier-en-variant) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1439) 
 - **Battle Value:** 961 
 
 ## Availability 

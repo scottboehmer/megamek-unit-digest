@@ -15,7 +15,7 @@
   - AP Gauss Rifle × 6 (ammo: 80) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/995/epona-pursuit-tank-e) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/995) 
 - **Battle Value:** 1436 
 
 ## Availability 
@@ -52,4 +52,12 @@
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Wolf) 
 

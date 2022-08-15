@@ -23,7 +23,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/650/clint-clnt-5u) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/650) 
 - **Battle Value:** 1275 
 
 ## Availability 
@@ -100,4 +100,23 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

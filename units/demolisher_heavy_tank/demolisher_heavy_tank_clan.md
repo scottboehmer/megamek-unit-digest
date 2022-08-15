@@ -16,7 +16,7 @@
   - Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/859/demolisher-heavy-tank-clan) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/859) 
 - **Battle Value:** 1563 
 
 ## Availability 
@@ -142,4 +142,30 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf Empire 
 

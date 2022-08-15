@@ -18,7 +18,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1111/firestarter-fs9-c) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1111) 
 - **Battle Value:** 940 
 
 ## Availability 
@@ -30,24 +30,4 @@
 ### Jihad 
 
 - Circinus Federation 
-
-### Early Republic 
-
-- Calderon Protectorate 
-- Filtvelt Coalition 
-- Fronc Reaches 
-- Magistracy of Canopus 
-- Marian Hegemony 
-- Pirate 
-- Taurian Concordat 
-
-### Late Republic 
-
-- Calderon Protectorate 
-- Filtvelt Coalition 
-- Fronc Reaches 
-- Magistracy of Canopus 
-- Marian Hegemony 
-- Pirate 
-- Taurian Concordat 
 

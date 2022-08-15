@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7476/battlemaster-blr-6c) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7476) 
 - **Battle Value:** 1557 
 
 ## Availability 
@@ -44,4 +44,10 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
+- Taurian Concordat 
 

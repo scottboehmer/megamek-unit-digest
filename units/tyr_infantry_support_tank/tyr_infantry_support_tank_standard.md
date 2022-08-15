@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5314/tyr-infantry-support-tank-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5314) 
 - **Battle Value:** 1260 
 
 ## Availability 
@@ -48,6 +48,13 @@
 ### Dark Ages 
 
 - Clan Hell's Horses 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Protectorate 
 - Clan Sea Fox 
 - Rasalhague Dominion 
 

@@ -23,7 +23,7 @@
   - Searchlight 
   - Stable 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/851/defiance-dfn-3t) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/851) 
 - **Battle Value:** 1981 
 
 ## Availability 
@@ -49,4 +49,10 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

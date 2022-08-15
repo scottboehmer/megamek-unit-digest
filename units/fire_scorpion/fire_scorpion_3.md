@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1073/fire-scorpion-3) 
+- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1073) 
 - **Battle Value:** 1904 
 
 ## Availability 
@@ -41,5 +41,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

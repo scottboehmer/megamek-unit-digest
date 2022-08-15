@@ -18,8 +18,8 @@
   - CASE 
   - C3 Support 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3208/thug-thg-12k) 
+  - Rugged (×2) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3208) 
 - **Battle Value:** 1824 
 
 ## Availability 
@@ -45,5 +45,10 @@
 
 ### Dark Ages 
 
+- Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

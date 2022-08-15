@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Hitch 
   - Cargo 
-- **Sources:** RS 3039 Unabriged , [Master Unit List](http://masterunitlist.info/Unit/Details/1645/j-27-ordnance-transport-standard) 
+- **Sources:** RS 3039 Unabriged , [Master Unit List](http://masterunitlist.info/Unit/Details/1645) 
 - **Battle Value:** 47 
 
 ## Availability 
@@ -365,4 +365,38 @@
 - Rim Commonality 
 - Scorpion Empire 
 - Taurian Concordat 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
+- Wolf Empire 
 

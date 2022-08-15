@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Improved Targeting (Medium) 
   - Exposed Weapon Linkage (ER PPC) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6905/legionnaire-lgn-2k) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6905) 
 - **Battle Value:** 1597 
 
 ## Availability 
@@ -34,4 +34,9 @@
 - Draconis Combine 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Pirate 
 

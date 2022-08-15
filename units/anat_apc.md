@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Limited Amphibious Chassis 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6245/anat-apc-standard) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6245) 
 - **Battle Value:** 282 
 - [*More Info*](anat_apc/anat_apc_standard.md) 
 

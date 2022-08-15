@@ -16,7 +16,7 @@
   - AP Gauss Rifle × 4 (ammo: 40) 
 - **Equipment:** 
   - Armored Motive System 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4310/hephaestus-jump-tank-anti-infantry) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4310) 
 - **Battle Value:** 1158 
 
 ## Availability 
@@ -30,6 +30,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

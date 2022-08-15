@@ -13,7 +13,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/207/badger-tracked-transport-prime) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/207) 
 - **Battle Value:** 549 
 - [*More Info*](badger_tracked_transport/badger_tracked_transport_prime.md) 
 
@@ -29,7 +29,7 @@
   - SRM 2 × 4 (ammo: 50) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/200/badger-tracked-transport-a) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/200) 
 - **Battle Value:** 437 
 - [*More Info*](badger_tracked_transport/badger_tracked_transport_a.md) 
 
@@ -45,7 +45,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/201/badger-tracked-transport-b) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/201) 
 - **Battle Value:** 431 
 - [*More Info*](badger_tracked_transport/badger_tracked_transport_b.md) 
 
@@ -61,7 +61,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/202/badger-tracked-transport-c) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/202) 
 - **Battle Value:** 450 
 - [*More Info*](badger_tracked_transport/badger_tracked_transport_c.md) 
 
@@ -78,7 +78,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/203/badger-tracked-transport-d) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/203) 
 - **Battle Value:** 540 
 - [*More Info*](badger_tracked_transport/badger_tracked_transport_d.md) 
 
@@ -94,7 +94,7 @@
   - Small Laser × 10 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/204/badger-tracked-transport-e) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/204) 
 - **Battle Value:** 434 
 - [*More Info*](badger_tracked_transport/badger_tracked_transport_e.md) 
 
@@ -110,7 +110,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Infantry (8.0 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/205/badger-tracked-transport-f) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/205) 
 - **Battle Value:** 399 
 - [*More Info*](badger_tracked_transport/badger_tracked_transport_f.md) 
 
@@ -127,7 +127,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/206/badger-tracked-transport-g) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/206) 
 - **Battle Value:** 474 
 - [*More Info*](badger_tracked_transport/badger_tracked_transport_g.md) 
 

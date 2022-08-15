@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/546/chameleon-trc-4b) 
+- **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/546) 
 - **Battle Value:** 999 
 - [*More Info*](chameleon/chameleon_trc-4b.md) 
 
@@ -36,7 +36,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/543/chameleon-cln-7v) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/543) 
 - **Battle Value:** 1042 
 - [*More Info*](chameleon/chameleon_cln-7v.md) 
 
@@ -55,7 +55,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/544/chameleon-cln-7w) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/544) 
 - **Battle Value:** 1243 
 - [*More Info*](chameleon/chameleon_cln-7w.md) 
 
@@ -73,7 +73,7 @@
   - Large Laser × 2 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/545/chameleon-cln-7z) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/545) 
 - **Battle Value:** 1527 
 - [*More Info*](chameleon/chameleon_cln-7z.md) 
 
@@ -95,7 +95,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Non-Standard Parts 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5601/chameleon-cln-7vq-q-mech) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5601) 
 - **Battle Value:** 2113 
 - [*More Info*](chameleon/chameleon_cln-7vq_q-mech.md) 
 

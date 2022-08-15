@@ -18,7 +18,7 @@
   - CASE 
   - Supercharger 
   - Targeting Computer 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3397/vedette-medium-tank-v-g7x) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3397) 
 - **Battle Value:** 915 
 
 ## Availability 

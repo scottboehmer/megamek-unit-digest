@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1184/gallowglas-gal-2glsa) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1184) 
 - **Battle Value:** 1771 
 
 ## Availability 
@@ -43,4 +43,8 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

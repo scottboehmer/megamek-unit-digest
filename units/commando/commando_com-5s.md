@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/674/commando-com-5s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/674) 
 - **Battle Value:** 557 
 
 ## Availability 
@@ -82,6 +82,12 @@
 - Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+
+### ilClan 
+
+- Fronc Reaches 
 - Marian Hegemony 
 - Pirate 
 

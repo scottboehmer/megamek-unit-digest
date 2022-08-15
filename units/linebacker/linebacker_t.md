@@ -20,8 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7526/linebacker-t) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7526) 
 - **Battle Value:** 1851 
 
 ## Availability 
@@ -32,5 +31,14 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Raven Alliance 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Raven Alliance 
+- Star League (Wolf) 
+- Wolf Empire 
 - Wolf's Dragoons 
 

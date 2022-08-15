@@ -20,7 +20,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2496/phoenix-hawk-pxh-2) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2496) 
 - **Battle Value:** 1145 
 
 ## Availability 

@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2089/marshal-mhl-6mc) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2089) 
 - **Battle Value:** 1457 
 
 ## Availability 
@@ -34,19 +34,21 @@
 
 ### Early Republic 
 
-- Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Late Republic 
 
-- Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Dark Ages 
 
-- Capellan Confederation 
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
+
 - Fronc Reaches 
 - Magistracy of Canopus 
 

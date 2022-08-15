@@ -15,7 +15,7 @@
   - Active Probe 
   - Infantry (4.0 tons) 
   - TAG 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4316/hephaestus-scout-tank-prime) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4316) 
 - **Battle Value:** 777 
 - [*More Info*](hephaestus_scout_tank/hephaestus_scout_tank_prime.md) 
 
@@ -34,7 +34,7 @@
   - Active Probe 
   - Infantry (4.0 tons) 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4313/hephaestus-scout-tank-a) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4313) 
 - **Battle Value:** 768 
 - [*More Info*](hephaestus_scout_tank/hephaestus_scout_tank_a.md) 
 
@@ -53,7 +53,7 @@
   - Active Probe 
   - Infantry (4.0 tons) 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4314/hephaestus-scout-tank-b) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4314) 
 - **Battle Value:** 957 
 - [*More Info*](hephaestus_scout_tank/hephaestus_scout_tank_b.md) 
 
@@ -71,7 +71,7 @@
   - Active Probe 
   - Infantry (4.0 tons) 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4315/hephaestus-scout-tank-c) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4315) 
 - **Battle Value:** 577 
 - [*More Info*](hephaestus_scout_tank/hephaestus_scout_tank_c.md) 
 
@@ -90,7 +90,7 @@
   - ECM Suite 
   - Active Probe 
   - Infantry (5.0 tons) 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5726/hephaestus-scout-tank-d) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5726) 
 - **Battle Value:** 850 
 - [*More Info*](hephaestus_scout_tank/hephaestus_scout_tank_d.md) 
 

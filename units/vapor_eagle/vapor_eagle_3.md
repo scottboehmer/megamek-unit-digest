@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1245/goshawk-vapor-eagle-3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1245) 
 - **Battle Value:** 2466 
 
 ## Availability 
@@ -46,5 +46,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+- Solaris 7 
+
+### ilClan 
+
 - Solaris 7 
 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/402/blood-asp-d) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/402) 
 - **Battle Value:** 2396 
 
 ## Availability 
@@ -54,6 +54,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

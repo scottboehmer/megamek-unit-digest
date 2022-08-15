@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1313/griffin-iic-4) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1313) 
 - **Battle Value:** 1475 
 
 ## Availability 
@@ -108,4 +108,12 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Vesper Marches 
 

@@ -22,7 +22,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/762/crusader-crd-7l) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/762) 
 - **Battle Value:** 1749 
 
 ## Availability 
@@ -46,6 +46,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

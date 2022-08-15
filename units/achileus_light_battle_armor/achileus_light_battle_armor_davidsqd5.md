@@ -1,0 +1,45 @@
+# Achileus Light Battle Armor (David)(Sqd5) 
+
+[Other Achileus Light Battle Armor variants](../achileus_light_battle_armor.md) 
+
+## Achileus Light Battle Armor (David)(Sqd5) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3064) 
+- **Chassis:** Light Battle Armor (750 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 6 (Improved Stealth) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - David Light Gauss Rifle 
+- **Equipment:** 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8473) 
+- **Battle Value:** 36 (255 for 5 suits) 
+
+## Availability 
+
+### Jihad 
+
+- Escorpión Imperio 
+
+### Early Republic 
+
+- Escorpión Imperio 
+
+### Late Republic 
+
+- Escorpión Imperio 
+
+### Dark Ages 
+
+- Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Scorpion Empire 
+

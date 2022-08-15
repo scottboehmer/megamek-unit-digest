@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Stable 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/219/bandersnatch-bndr-01b) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/219) 
 - **Battle Value:** 1630 
 
 ## Availability 
@@ -92,5 +92,20 @@
 - Mercenary 
 - Pirate 
 - Republic of the Sphere 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

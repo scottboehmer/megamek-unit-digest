@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - TAG 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3261/tokugawa-heavy-tank-mrm) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3261) 
 - **Battle Value:** 941 
 
 ## Availability 
@@ -43,4 +43,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

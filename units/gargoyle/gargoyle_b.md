@@ -20,7 +20,7 @@
   - Stabilized Weapon (Gauss Rifle) 
   - Stabilized Weapon (LRM 10) 
   - Stabilized Weapon (SRM 4) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2003/man-o-war-gargoyle-b) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2003) 
 - **Battle Value:** 1843 
 
 ## Availability 
@@ -176,4 +176,10 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Star League (Wolf) 
 

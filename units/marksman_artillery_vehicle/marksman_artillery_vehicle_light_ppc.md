@@ -14,7 +14,7 @@
   - Light PPC 
   - Sniper (ammo: 20) 
   - Heavy Machine Gun × 4 (ammo: 200) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2076/marksman-artillery-vehicle-light-ppc) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2076) 
 - **Battle Value:** 684 
 
 ## Availability 
@@ -69,4 +69,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Jade Falcon 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League (Jade Falcon) 
+- Tamar Pact 
+- Vesper Marches 
 

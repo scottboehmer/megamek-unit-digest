@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/763/crusader-crd-7w) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/763) 
 - **Battle Value:** 1162 
 
 ## Availability 

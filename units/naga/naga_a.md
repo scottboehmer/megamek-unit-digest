@@ -20,7 +20,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2247/naga-a) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2247) 
 - **Battle Value:** 1791 
 
 ## Availability 
@@ -101,4 +101,12 @@
 - Escorpión Imperio 
 - Raven Alliance 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Wolf) 
+- Wolf Empire 
 

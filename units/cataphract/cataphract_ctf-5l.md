@@ -18,7 +18,7 @@
   - Small VSP Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7527/cataphract-ctf-5l) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7527) 
 - **Battle Value:** 2090 
 
 ## Availability 
@@ -26,6 +26,13 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Mercenary 
 

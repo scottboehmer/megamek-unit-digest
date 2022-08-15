@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4305/hellion-c) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4305) 
 - **Battle Value:** 2095 
 
 ## Availability 
@@ -99,5 +99,12 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Mercenary 
 - Scorpion Empire 
 

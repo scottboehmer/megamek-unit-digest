@@ -21,7 +21,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2505/phoenix-hawk-pxh-5l) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2505) 
 - **Battle Value:** 1530 
 
 ## Availability 
@@ -42,6 +42,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

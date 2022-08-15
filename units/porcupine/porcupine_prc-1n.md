@@ -17,7 +17,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2555/porcupine-prc-1n) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2555) 
 - **Battle Value:** 870 
 
 ## Availability 

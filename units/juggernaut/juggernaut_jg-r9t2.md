@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1714/juggernaut-jg-r9t2) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1714) 
 - **Battle Value:** 1916 
 
 ## Availability 
@@ -45,6 +45,10 @@
 - Solaris 7 
 
 ### Dark Ages 
+
+- Solaris 7 
+
+### ilClan 
 
 - Solaris 7 
 

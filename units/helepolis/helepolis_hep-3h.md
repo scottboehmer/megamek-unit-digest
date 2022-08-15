@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1462/helepolis-hep-3h) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1462) 
 - **Battle Value:** 1380 
 
 ## Availability 

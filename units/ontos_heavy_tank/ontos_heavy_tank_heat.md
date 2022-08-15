@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - Combat Vehicle Escape Pod 
-- **Sources:** TR0:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4748/ontos-heavy-tank-heat) 
+- **Sources:** TR0:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4748) 
 - **Battle Value:** 1110 
 
 ## Availability 
@@ -43,4 +43,12 @@
 - Lyran Commonwealth 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

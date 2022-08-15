@@ -13,7 +13,7 @@
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
   - No/Minimal Arms 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/394/blitzkrieg-btz-3f) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/394) 
 - **Battle Value:** 1273 
 - [*More Info*](blitzkrieg/blitzkrieg_btz-3f.md) 
 
@@ -35,7 +35,7 @@
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
   - No/Minimal Arms 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/395/blitzkrieg-btz-4f) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/395) 
 - **Battle Value:** 1740 
 - [*More Info*](blitzkrieg/blitzkrieg_btz-4f.md) 
 

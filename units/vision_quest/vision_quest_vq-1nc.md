@@ -14,7 +14,7 @@
   - Clan Improved Gauss Rifle (ammo: 16) 
   - Clan ER Large Laser × 2 
   - Medium Pulse Laser × 3 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5355/vision-quest-vq-1nc) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5355) 
 - **Battle Value:** 2180 
 
 ## Availability 

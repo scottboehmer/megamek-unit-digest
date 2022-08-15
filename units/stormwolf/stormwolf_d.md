@@ -20,7 +20,7 @@
   - Supercharger 
   - Light TAG 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8208/stormwolf-d) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8208) 
 - **Battle Value:** 3122 
 
 ## Availability 
@@ -30,4 +30,13 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

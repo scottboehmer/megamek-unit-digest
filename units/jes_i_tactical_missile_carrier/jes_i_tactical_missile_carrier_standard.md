@@ -15,7 +15,7 @@
   - SRM 4 × 4 (ammo: 50) 
   - ER Small Laser 
   - Machine Gun (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1703/jes-i-tactical-missile-carrier-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1703) 
 - **Battle Value:** 752 
 
 ## Availability 
@@ -40,6 +40,13 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

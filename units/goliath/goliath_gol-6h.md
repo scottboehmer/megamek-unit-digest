@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1237/goliath-gol-6h) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1237) 
 - **Battle Value:** 1653 
 
 ## Availability 
@@ -59,6 +59,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7628/lupus-c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7628) 
 - **Battle Value:** 2533 
 
 ## Availability 
@@ -32,5 +32,16 @@
 - Free Worlds League 
 - Magistracy of Canopus 
 - Mercenary 
+- Taurian Concordat 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+- Star League (Wolf) 
 - Taurian Concordat 
 

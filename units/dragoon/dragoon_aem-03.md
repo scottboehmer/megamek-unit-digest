@@ -28,7 +28,7 @@
   - Modular Weapon (LRM 15) 
   - Modular Weapon (Medium Pulse Laser) 
   - Modular Weapon (LRM 15) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6782/dragoon-aem-03) 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6782) 
 - **Battle Value:** 1562 
 
 ## Availability 

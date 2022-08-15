@@ -26,7 +26,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3577/wolverine-wvr-8c) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3577) 
 - **Battle Value:** 1447 
 
 ## Availability 
@@ -58,4 +58,10 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
 

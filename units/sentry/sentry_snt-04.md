@@ -22,7 +22,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2866/sentry-snt-04) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2866) 
 - **Battle Value:** 1069 
 
 ## Availability 
@@ -76,4 +76,12 @@
 - Filtvelt Coalition 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
 

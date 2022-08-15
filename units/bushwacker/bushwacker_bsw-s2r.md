@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/449/bushwacker-bsw-s2r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/449) 
 - **Battle Value:** 1339 
 
 ## Availability 
@@ -50,4 +50,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
 

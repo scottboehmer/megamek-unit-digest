@@ -16,7 +16,7 @@
   - Clan Prototype ER Medium Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7678/phoenix-hawk-pxh-1-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7678) 
 - **Battle Value:** 1206 
 
 ## Availability 

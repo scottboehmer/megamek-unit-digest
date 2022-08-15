@@ -14,7 +14,7 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1387/harasser-missile-platform-mini-peggy) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1387) 
 - **Battle Value:** 351 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3044/stalker-stk-8s) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3044) 
 - **Battle Value:** 2020 
 
 ## Availability 
@@ -48,4 +48,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

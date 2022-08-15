@@ -21,12 +21,16 @@
   - Inner Sphere B-Pod × 2 
   - Inner Sphere Coolant Pod × 4 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7641/minsk-2) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7641) 
 - **Battle Value:** 2091 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

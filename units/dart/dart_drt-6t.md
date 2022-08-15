@@ -17,7 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/831/dart-drt-6t) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/831) 
 - **Battle Value:** 703 
 
 ## Availability 
@@ -49,4 +49,11 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/937/eagle-egl-2m) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/937) 
 - **Battle Value:** 800 
 
 ## Availability 
@@ -79,7 +79,6 @@
 
 ### Dark Ages 
 
-- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
@@ -89,4 +88,12 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 

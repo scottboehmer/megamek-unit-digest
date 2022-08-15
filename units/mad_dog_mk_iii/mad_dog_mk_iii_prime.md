@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Stable 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6271/vulture-mk-iii-mad-dog-mk-iii-prime) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6271) 
 - **Battle Value:** 2729 
 
 ## Availability 
@@ -36,4 +36,9 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Rasalhague Dominion 
+- Raven Alliance 
 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1805/kodiak-standard) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1805) 
 - **Battle Value:** 2927 
 
 ## Availability 
@@ -72,16 +72,28 @@
 ### Early Republic 
 
 - Escorpión Imperio 
+- Mercenary 
 - Rasalhague Dominion 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
 - Escorpión Imperio 
+- Mercenary 
 - Rasalhague Dominion 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Mercenary 
 - Rasalhague Dominion 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Wolf's Dragoons 
 

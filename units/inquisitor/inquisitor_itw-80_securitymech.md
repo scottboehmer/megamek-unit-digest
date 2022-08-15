@@ -18,7 +18,7 @@
   - Communications Equipment 
   - Searchlight 
   - Ejection Seat 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4364/inquisitor-itw-80-securitymech) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4364) 
 - **Battle Value:** 613 
 
 ## Availability 
@@ -56,4 +56,10 @@
 - Lyran Commonwealth 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
 

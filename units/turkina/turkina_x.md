@@ -19,8 +19,8 @@
   - Talons 
   - CASE II 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3334/turkina-x) 
+  - Easy to Pilot 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3334) 
 - **Battle Value:** 3056 
 
 ## Availability 
@@ -51,4 +51,15 @@
 - Clan Nova Cat 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

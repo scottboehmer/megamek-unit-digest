@@ -20,7 +20,7 @@
   - Targeting Computer 
   - CASE II 
   - Inner Sphere Supercharger 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8454/ryoken-iii-skinwalker-f) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8454) 
 - **Battle Value:** 3704 
 
 ## Availability 
@@ -28,4 +28,8 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
 

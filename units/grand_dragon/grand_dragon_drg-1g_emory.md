@@ -20,10 +20,22 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Source:** Starterbook: Sword and Dragon - Succession Wars 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1257) 
 - **Battle Value:** 1394 
 
 ## Availability 
 
-Availability Unknown 
+### Late Succession Wars - Renaissance (Unique) 
+
+- Federated Suns 
+
+### Clan Invasion (Unique) 
+
+- Federated Commonwealth 
+- Federated Suns 
+
+### Civil War (Unique) 
+
+- Federated Commonwealth 
+- Federated Suns 
 

@@ -6,7 +6,7 @@
 
 #### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
 
-- [**Gorilla Exoskeleton 'Falcata'**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_falcata.md) *Undefined (3075)* 
+- [**Gorilla Exoskeleton 'Falcata'(Sqd4)**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_falcatasqd4.md) *Undefined (3075)* 
 
 ## ’Mechs 
 

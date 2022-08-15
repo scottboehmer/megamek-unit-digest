@@ -20,7 +20,7 @@
   - Targeting Computer 
   - C3 Support 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/4256/gurteltier-mbt-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/4256) 
 - **Battle Value:** 1985 
 
 ## Availability 
@@ -42,4 +42,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

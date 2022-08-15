@@ -21,7 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2671/raven-rvn-ss-shattered-raven) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2671) 
 - **Battle Value:** 904 
 
 ## Availability 

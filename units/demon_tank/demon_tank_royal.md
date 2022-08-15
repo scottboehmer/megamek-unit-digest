@@ -16,7 +16,7 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/875/demon-tank-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/875) 
 - **Battle Value:** 1333 
 
 ## Availability 
@@ -188,4 +188,16 @@
 - Rasalhague Dominion 
 - Republic of the Sphere 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

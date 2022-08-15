@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/484/catapult-cplt-c5a) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/484) 
 - **Battle Value:** 1772 
 
 ## Availability 
@@ -36,6 +36,7 @@
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -43,8 +44,18 @@
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
+- Wolf's Dragoons 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
 
 - Capellan Confederation 
 - Fronc Reaches 

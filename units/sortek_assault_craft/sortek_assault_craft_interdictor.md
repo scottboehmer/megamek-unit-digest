@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - Armored Motive System 
   - C3 Support 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6319/sortek-assault-craft-interdictor) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6319) 
 - **Battle Value:** 830 
 
 ## Availability 
@@ -37,4 +37,9 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
 

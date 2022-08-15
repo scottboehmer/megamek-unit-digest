@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (AC/5) 
   - Exposed Weapon Linkage (AC/5) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2038/marauder-mad-3r) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2038) 
 - **Battle Value:** 1363 
 
 ## Availability 
@@ -176,7 +176,10 @@
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Taurian Concordat 
 
 ### Dark Ages 
@@ -184,6 +187,20 @@
 - Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

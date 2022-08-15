@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2261/nexus-ii-nxs2-a) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2261) 
 - **Battle Value:** 702 
 - [*More Info*](nexus_ii/nexus_ii_nxs2-a.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2262/nexus-ii-nxs2-b) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2262) 
 - **Battle Value:** 717 
 - [*More Info*](nexus_ii/nexus_ii_nxs2-b.md) 
 

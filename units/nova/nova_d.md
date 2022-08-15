@@ -19,8 +19,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/338/black-hawk-nova-d) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/338) 
 - **Battle Value:** 1450 
 
 ## Availability 
@@ -150,5 +149,18 @@
 - Raven Alliance 
 - Republic of the Sphere 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
 - Wolf's Dragoons 
 

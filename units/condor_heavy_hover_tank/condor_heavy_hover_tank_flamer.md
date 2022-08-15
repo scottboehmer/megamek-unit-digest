@@ -14,7 +14,7 @@
   - Medium Laser × 3 
   - Vehicle Flamer × 2 (ammo: 20) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/680/condor-heavy-hover-tank-flamer) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/680) 
 - **Battle Value:** 715 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1920/locust-iic-7) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1920) 
 - **Battle Value:** 980 
 
 ## Availability 
@@ -46,4 +46,9 @@
 - Clan Hell's Horses 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
 

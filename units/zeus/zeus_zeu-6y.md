@@ -19,7 +19,7 @@
   - Rumble Seat 
   - Barrel Fist (Right Arm) 
   - Improved Cooling Jacket (Blazer Cannon) 
-- **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772/zeus-zeu-6y) 
+- **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772) 
 - **Battle Value:** 1323 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/103/arctic-wolf-prime) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/103) 
 - **Battle Value:** 1641 
 
 ## Availability 
@@ -50,4 +50,8 @@
 - Kell Hounds 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Star League (Wolf) 
 

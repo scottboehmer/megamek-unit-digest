@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Streak SRM 4) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5108/spirit-standard) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5108) 
 - **Battle Value:** 1673 
 
 ## Availability 
@@ -45,6 +45,10 @@
 - Clan Jade Falcon 
 
 ### Dark Ages 
+
+- Clan Jade Falcon 
+
+### ilClan 
 
 - Clan Jade Falcon 
 

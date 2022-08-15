@@ -14,7 +14,7 @@
   - AC/20 (ammo: 10) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1510/hetzer-wheeled-assault-gun-scout) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1510) 
 - **Battle Value:** 553 
 
 ## Availability 
@@ -104,6 +104,15 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

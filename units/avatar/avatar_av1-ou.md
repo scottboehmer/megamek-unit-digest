@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Medium Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/171/avatar-av1-ou) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/171) 
 - **Battle Value:** 1359 
 
 ## Availability 
@@ -92,4 +92,20 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

@@ -19,7 +19,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2081/mars-assault-vehicle-hag) 
+- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2081) 
 - **Battle Value:** 2545 
 
 ## Availability 
@@ -48,4 +48,11 @@
 - Clan Sea Fox 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
 

@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5674/hellspawn-hsn-10sr) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5674) 
 - **Battle Value:** 1411 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

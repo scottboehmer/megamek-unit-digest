@@ -23,7 +23,7 @@
   - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
-- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/754/crusader-crd-4br) 
+- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/754) 
 - **Battle Value:** 1407 
 
 ## Availability 
@@ -60,4 +60,9 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Mercenary 
 

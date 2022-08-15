@@ -22,7 +22,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2072/marauder-iic-8) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2072) 
 - **Battle Value:** 2554 
 
 ## Availability 
@@ -117,6 +117,11 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Clan Jade Falcon 
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Clan Jade Falcon 
 - Rasalhague Dominion 

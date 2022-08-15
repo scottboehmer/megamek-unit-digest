@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (HAG 20) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2009/man-o-war-gargoyle-m) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2009) 
 - **Battle Value:** 2182 
 
 ## Availability 
@@ -69,4 +69,10 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Star League (Wolf) 
 

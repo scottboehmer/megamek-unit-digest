@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/430/bruin-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/430) 
 - **Battle Value:** 2630 
 - [*More Info*](bruin/bruin_standard.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/429/bruin-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/429) 
 - **Battle Value:** 2200 
 - [*More Info*](bruin/bruin_2.md) 
 

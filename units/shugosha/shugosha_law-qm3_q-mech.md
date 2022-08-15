@@ -15,7 +15,7 @@
   - PPC 
 - **Equipment:** 
   - Drone Operating System 
-- **Sources:** RS:VA IM Exo - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7156/shugosha-law-qm3-q-mech) 
+- **Sources:** RS:VA IM Exo - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7156) 
 - **Battle Value:** 198 
 
 ## Availability 
@@ -46,4 +46,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

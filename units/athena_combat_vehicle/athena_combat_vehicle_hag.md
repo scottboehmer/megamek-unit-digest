@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/136/athena-combat-vehicle-hag) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/136) 
 - **Battle Value:** 2132 
 
 ## Availability 
@@ -40,4 +40,8 @@
 
 - Clan Hell's Horses 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
 

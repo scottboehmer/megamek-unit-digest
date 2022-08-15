@@ -20,7 +20,7 @@
   - Anti-Aircraft Targeting 
   - Extended Torso Twist 
   - Multi-Trac 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1172/galahad-glass-spider-3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1172) 
 - **Battle Value:** 2508 
 
 ## Availability 

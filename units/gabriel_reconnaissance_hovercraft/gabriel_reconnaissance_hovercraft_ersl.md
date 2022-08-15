@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Small Laser × 2 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1164/gabriel-reconnaissance-hovercraft-ersl) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1164) 
 - **Battle Value:** 162 
 
 ## Availability 
@@ -37,6 +37,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

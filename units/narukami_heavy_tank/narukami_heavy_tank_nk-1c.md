@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6388/narukami-heavy-tank-nk-1c) 
+- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6388) 
 - **Battle Value:** 1341 
 
 ## Availability 
@@ -30,6 +30,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

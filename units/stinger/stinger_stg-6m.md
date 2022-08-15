@@ -20,7 +20,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8126/stinger-stg-6m) 
+- **Sources:** Rec Guide:ilClan #13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8126) 
 - **Battle Value:** 503 
 
 ## Availability 
@@ -55,4 +55,12 @@
 - Mercenary 
 - Oriente Protectorate 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
 

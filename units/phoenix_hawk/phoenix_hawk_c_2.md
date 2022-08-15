@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Clan Targeting Computer 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7753/phoenix-hawk-c-2) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7753) 
 - **Battle Value:** 2187 
 
 ## Availability 
@@ -28,4 +28,12 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

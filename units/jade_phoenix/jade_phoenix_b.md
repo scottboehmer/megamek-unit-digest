@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8295/jade-phoenix-b) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8295) 
 - **Battle Value:** 2998 
 
 ## Availability 
@@ -26,4 +26,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Star League (Jade Falcon) 
 

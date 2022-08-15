@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Stable 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/217/bandersnatch-bndr-01a) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/217) 
 - **Battle Value:** 1478 
 - [*More Info*](bandersnatch/bandersnatch_bndr-01a.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Stable 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3780/bandersnatch-bndr-01a-horus) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3780) 
 - **Battle Value:** 1584 
 - [*More Info*](bandersnatch/bandersnatch_bndr-01a_horus.md) 
 
@@ -61,7 +61,7 @@
 - **Design Quirks:** 
   - Stable 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/219/bandersnatch-bndr-01b) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/219) 
 - **Battle Value:** 1630 
 - [*More Info*](bandersnatch/bandersnatch_bndr-01b.md) 
 
@@ -84,7 +84,7 @@
 - **Design Quirks:** 
   - Stable 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/218/bandersnatch-bndr-01ar) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/218) 
 - **Battle Value:** 1522 
 - [*More Info*](bandersnatch/bandersnatch_bndr-01ar.md) 
 

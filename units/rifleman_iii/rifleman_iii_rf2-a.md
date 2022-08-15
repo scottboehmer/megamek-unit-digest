@@ -19,7 +19,7 @@
   - Fast Reload (All Weapons) 
   - Multi-Trac 
   - Searchlight 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7323/rifleman-iii-rf2-a) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7323) 
 - **Battle Value:** 1819 
 
 ## Availability 

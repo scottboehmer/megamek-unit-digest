@@ -22,7 +22,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2504/phoenix-hawk-pxh-4w) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2504) 
 - **Battle Value:** 1395 
 
 ## Availability 
@@ -45,6 +45,12 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Magistracy of Canopus 

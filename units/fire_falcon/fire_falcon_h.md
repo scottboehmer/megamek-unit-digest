@@ -16,13 +16,14 @@
   - Heavy Small Laser × 2 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1069/fire-falcon-h) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1069) 
 - **Battle Value:** 1162 
 
 ## Availability 
 
 ### Civil War 
 
+- Clan Coyote 
 - Clan Fire Mandrill 
 - Clan Goliath Scorpion 
 - Clan Hell's Horses 
@@ -32,6 +33,7 @@
 ### Jihad 
 
 - Clan Cloud Cobra 
+- Clan Coyote 
 - Clan Fire Mandrill 
 - Clan Goliath Scorpion 
 - Clan Hell's Horses 
@@ -53,4 +55,10 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

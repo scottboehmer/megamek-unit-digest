@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Remote Sensor Dispenser 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3731/armored-personnel-carrier-hover-sensors) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3731) 
 - **Battle Value:** 64 
 
 ## Availability 
@@ -88,6 +88,12 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Marian Hegemony 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Marian Hegemony 

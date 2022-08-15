@@ -11,7 +11,7 @@
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 30) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2541/plainsman-medium-hovertank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2541) 
 - **Battle Value:** 600 
 - [*More Info*](plainsman_medium_hovertank/plainsman_medium_hovertank_standard.md) 
 
@@ -27,7 +27,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2539/plainsman-medium-hovertank-scout) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2539) 
 - **Battle Value:** 578 
 - [*More Info*](plainsman_medium_hovertank/plainsman_medium_hovertank_scout.md) 
 
@@ -42,7 +42,7 @@
 - **Weapons:** 
   - Streak SRM 4 × 2 (ammo: 50) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2542/plainsman-medium-hovertank-streak) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2542) 
 - **Battle Value:** 600 
 - [*More Info*](plainsman_medium_hovertank/plainsman_medium_hovertank_streak.md) 
 
@@ -60,7 +60,7 @@
 - **Equipment:** 
   - Flotation Hull 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2540/plainsman-medium-hovertank-sealed) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2540) 
 - **Battle Value:** 600 
 - [*More Info*](plainsman_medium_hovertank/plainsman_medium_hovertank_sealed.md) 
 

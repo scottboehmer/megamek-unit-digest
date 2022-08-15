@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/304/battlemech-recovery-vehicle-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/304) 
 - **Battle Value:** 90 
 
 ## Availability 
@@ -361,4 +361,38 @@
 - Rim Commonality 
 - Scorpion Empire 
 - Taurian Concordat 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
+- Wolf Empire 
 

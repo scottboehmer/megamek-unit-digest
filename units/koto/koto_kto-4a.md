@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1839/koto-kto-4a) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1839) 
 - **Battle Value:** 1073 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Solaris 7 
 
 ### Dark Ages 
+
+- Solaris 7 
+
+### ilClan 
 
 - Solaris 7 
 

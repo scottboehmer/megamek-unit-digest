@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1315/griffin-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1315) 
 - **Battle Value:** 1468 
 
 ## Availability 
@@ -46,4 +46,10 @@
 - Clan Nova Cat 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
 

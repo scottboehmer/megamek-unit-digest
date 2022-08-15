@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/994/epona-pursuit-tank-d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/994) 
 - **Battle Value:** 1512 
 
 ## Availability 
@@ -53,4 +53,12 @@
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Wolf) 
 

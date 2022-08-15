@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2318/omen-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2318) 
 - **Battle Value:** 2750 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

@@ -14,7 +14,7 @@
   - MRM 20 (ammo: 36) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1527/hiryo-armored-infantry-transport-mrm) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1527) 
 - **Battle Value:** 666 
 
 ## Availability 
@@ -32,6 +32,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/422/bombardier-bmb-10d) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/422) 
 - **Battle Value:** 1340 
 
 ## Availability 

@@ -24,7 +24,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8232/crusader-crd-9br) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8232) 
 - **Battle Value:** 1653 
 
 ## Availability 
@@ -39,5 +39,11 @@
 - Capellan Confederation 
 - Mercenary 
 - Republic of the Sphere 
+- Solaris 7 
+
+### ilClan 
+
+- Capellan Confederation 
+- Mercenary 
 - Solaris 7 
 

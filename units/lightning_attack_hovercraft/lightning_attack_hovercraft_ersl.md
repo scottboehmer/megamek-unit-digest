@@ -14,7 +14,7 @@
   - ER Medium Laser 
   - Rocket 15 × 7 
   - ER Small Laser × 2 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1881/lightning-attack-hovercraft-ersl) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1881) 
 - **Battle Value:** 884 
 
 ## Availability 
@@ -38,4 +38,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
 

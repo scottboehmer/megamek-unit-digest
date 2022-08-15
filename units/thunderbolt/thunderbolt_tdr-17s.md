@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3237/thunderbolt-tdr-17s) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3237) 
 - **Battle Value:** 1803 
 
 ## Availability 
@@ -42,4 +42,9 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
 

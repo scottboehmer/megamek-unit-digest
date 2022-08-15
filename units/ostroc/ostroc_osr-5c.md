@@ -18,14 +18,10 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2358/ostroc-osr-5c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2358) 
 - **Battle Value:** 1788 
 
 ## Availability 
-
-### Jihad 
-
-- Fronc Reaches 
 
 ### Early Republic 
 
@@ -38,6 +34,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

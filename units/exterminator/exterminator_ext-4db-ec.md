@@ -17,7 +17,7 @@
   - Inner Sphere Small Laser 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7682/exterminator-ext-4db-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7682) 
 - **Battle Value:** 1611 
 
 ## Availability 

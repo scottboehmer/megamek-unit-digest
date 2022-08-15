@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 48) 
   - CASE 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8319/iron-cheetah-prime) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8319) 
 - **Battle Value:** 3155 
 - [*More Info*](iron_cheetah/iron_cheetah_prime.md) 
 
@@ -37,7 +37,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8320/iron-cheetah-a) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8320) 
 - **Battle Value:** 2708 
 - [*More Info*](iron_cheetah/iron_cheetah_a.md) 
 
@@ -56,7 +56,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8321/iron-cheetah-b) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8321) 
 - **Battle Value:** 3303 
 - [*More Info*](iron_cheetah/iron_cheetah_b.md) 
 
@@ -75,7 +75,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8322/iron-cheetah-c) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8322) 
 - **Battle Value:** 2915 
 - [*More Info*](iron_cheetah/iron_cheetah_c.md) 
 
@@ -96,7 +96,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8323/iron-cheetah-d) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8323) 
 - **Battle Value:** 2871 
 - [*More Info*](iron_cheetah/iron_cheetah_d.md) 
 
@@ -118,7 +118,7 @@
   - CASE II 
   - CASE 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8324/iron-cheetah-l) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8324) 
 - **Battle Value:** 3480 
 - [*More Info*](iron_cheetah/iron_cheetah_l.md) 
 

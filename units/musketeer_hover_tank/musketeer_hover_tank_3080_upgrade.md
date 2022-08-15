@@ -16,7 +16,7 @@
   - CASE 
   - TAG 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3067 U , [Master Unit List](http://masterunitlist.info/Unit/Details/5731/musketeer-hover-tank-3080-upgrade) 
+- **Sources:** TRO 3067 U , [Master Unit List](http://masterunitlist.info/Unit/Details/5731) 
 - **Battle Value:** 1114 
 
 ## Availability 
@@ -40,4 +40,9 @@
 - Draconis Combine 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
 

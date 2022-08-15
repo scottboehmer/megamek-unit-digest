@@ -21,7 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5713/akuma-aku-2x) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5713) 
 - **Battle Value:** 2122 
 
 ## Availability 
@@ -39,6 +39,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

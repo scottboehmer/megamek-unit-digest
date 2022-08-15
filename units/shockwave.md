@@ -16,7 +16,7 @@
   - Easy to Maintain 
   - Battlefists 
   - Exposed Weapon Linkage (RAC/5) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2929/shockwave-skw-2f) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2929) 
 - **Battle Value:** 1453 
 - [*More Info*](shockwave/shockwave_skw-2f.md) 
 
@@ -36,7 +36,7 @@
   - Easy to Maintain 
   - Battlefists 
   - Exposed Weapon Linkage (RAC/5) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2930/shockwave-skw-4g) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2930) 
 - **Battle Value:** 1449 
 - [*More Info*](shockwave/shockwave_skw-4g.md) 
 
@@ -58,7 +58,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Battlefists 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6903/shockwave-skw-6h) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6903) 
 - **Battle Value:** 1364 
 - [*More Info*](shockwave/shockwave_skw-6h.md) 
 
@@ -79,7 +79,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Battlefists 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6902/shockwave-skw-8x) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6902) 
 - **Battle Value:** 1059 
 - [*More Info*](shockwave/shockwave_skw-8x.md) 
 

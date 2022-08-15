@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1420/hauptmann-ha1-o) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1420) 
 - **Battle Value:** 2157 
 - [*More Info*](hauptmann/hauptmann_ha1-o.md) 
 
@@ -42,7 +42,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1421/hauptmann-ha1-oa) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1421) 
 - **Battle Value:** 2311 
 - [*More Info*](hauptmann/hauptmann_ha1-oa.md) 
 
@@ -63,7 +63,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1422/hauptmann-ha1-ob) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1422) 
 - **Battle Value:** 2208 
 - [*More Info*](hauptmann/hauptmann_ha1-ob.md) 
 
@@ -87,7 +87,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1423/hauptmann-ha1-oc) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1423) 
 - **Battle Value:** 2333 
 - [*More Info*](hauptmann/hauptmann_ha1-oc.md) 
 
@@ -111,7 +111,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1424/hauptmann-ha1-od) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1424) 
 - **Battle Value:** 2359 
 - [*More Info*](hauptmann/hauptmann_ha1-od.md) 
 
@@ -132,7 +132,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1425/hauptmann-ha1-oe) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1425) 
 - **Battle Value:** 2298 
 - [*More Info*](hauptmann/hauptmann_ha1-oe.md) 
 
@@ -155,7 +155,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6839/hauptmann-ha1-of) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6839) 
 - **Battle Value:** 2484 
 - [*More Info*](hauptmann/hauptmann_ha1-of.md) 
 
@@ -176,7 +176,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6838/hauptmann-ha1-om) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6838) 
 - **Battle Value:** 2214 
 - [*More Info*](hauptmann/hauptmann_ha1-om.md) 
 
@@ -198,7 +198,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6837/hauptmann-ha1-ot) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6837) 
 - **Battle Value:** 3031 
 - [*More Info*](hauptmann/hauptmann_ha1-ot.md) 
 

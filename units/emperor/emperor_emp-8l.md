@@ -20,12 +20,16 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6851/emperor-emp-8l) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6851) 
 - **Battle Value:** 2385 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

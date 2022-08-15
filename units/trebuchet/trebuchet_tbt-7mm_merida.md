@@ -4,7 +4,7 @@
 
 ## Trebuchet TBT-7MM 'Merida' 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere Mixed (3100) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
@@ -16,12 +16,16 @@
   - Small Vibroblade 
 - **Equipment:** 
   - CASE II 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8378/trebuchet-tbt-7mm-merida) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8378) 
 - **Battle Value:** 2024 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

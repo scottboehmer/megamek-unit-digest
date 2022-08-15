@@ -4,7 +4,7 @@
 
 ## Star Python (Standard) 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Clan (3150) 
 - **Chassis:** 25 tons (Endo Steel) 
 - **Movement:** 7 / 11 
@@ -18,12 +18,17 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** Rec Guide:ilClan #23 - , [Master Unit List](http://masterunitlist.info/Unit/Details/8413/star-python-standard) 
+- **Sources:** Rec Guide:ilClan #23 - , [Master Unit List](http://masterunitlist.info/Unit/Details/8413) 
 - **Battle Value:** 1234 
 
 ## Availability 
 
 ### Dark Ages 
 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Sea Fox 
 - Scorpion Empire 
 

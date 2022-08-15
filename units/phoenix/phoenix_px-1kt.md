@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Thunderbolt 10 (ammo: 12) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7470/phoenix-px-1kt) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7470) 
 - **Battle Value:** 857 
 
 ## Availability 
@@ -33,6 +33,10 @@
 - Lyran Commonwealth 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+
+### ilClan 
 
 - Lyran Commonwealth 
 

@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7721/hermit-crab-hmc-13) 
+- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7721) 
 - **Battle Value:** 731 
 
 ## Availability 
@@ -36,6 +36,22 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Draconis Combine 
+- Duchy of Tamarind-Abbey 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Draconis Combine 

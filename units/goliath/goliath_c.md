@@ -25,7 +25,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7438/goliath-c) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7438) 
 - **Battle Value:** 2222 
 
 ## Availability 
@@ -33,4 +33,11 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Star League (Wolf) 
+- Wolf Empire 
 

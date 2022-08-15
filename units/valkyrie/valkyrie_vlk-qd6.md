@@ -20,10 +20,15 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7703/valkyrie-vlk-qd6) 
+- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7703) 
 - **Battle Value:** 827 
 
 ## Availability 
+
+### Early Republic 
+
+- Federated Suns 
+- Mercenary 
 
 ### Late Republic 
 
@@ -31,6 +36,12 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

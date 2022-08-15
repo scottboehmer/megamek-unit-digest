@@ -14,7 +14,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2725/ripper-infantry-transport-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2725) 
 - **Battle Value:** 345 
 
 ## Availability 
@@ -119,4 +119,14 @@
 - Filtvelt Coalition 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

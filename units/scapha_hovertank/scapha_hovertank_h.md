@@ -14,7 +14,7 @@
   - Medium VSP Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6666/scapha-hovertank-h) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6666) 
 - **Battle Value:** 664 
 
 ## Availability 
@@ -26,4 +26,10 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

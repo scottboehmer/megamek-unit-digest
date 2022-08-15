@@ -15,7 +15,7 @@
   - Light PPC × 2 
   - Medium X-Pulse Laser × 2 
   - Small X-Pulse Laser × 2 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7750/phoenix-hawk-pxh-4m) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7750) 
 - **Battle Value:** 1327 
 
 ## Availability 
@@ -52,6 +52,20 @@
 - Marian Hegemony 
 - Mercenary 
 - Oriente Protectorate 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Taurian Concordat 
 

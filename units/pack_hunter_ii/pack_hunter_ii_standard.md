@@ -19,7 +19,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2396/pack-hunter-ii-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2396) 
 - **Battle Value:** 1794 
 
 ## Availability 
@@ -33,6 +33,7 @@
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
@@ -42,6 +43,7 @@
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
@@ -51,7 +53,17 @@
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Draconis Combine 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Wolf) 
 

@@ -15,8 +15,7 @@
   - LRM 15 (ammo: 16) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4330/hoplite-hop-4b) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4330) 
 - **Battle Value:** 1162 
 
 ## Availability 
@@ -32,19 +31,19 @@
 
 - Capellan Confederation 
 
-### Late Succession Wars - LosTech 
+### Late Succession Wars - LosTech (Unique) 
 
 - Wolf's Dragoons 
 
-### Late Succession Wars - Renaissance 
+### Late Succession Wars - Renaissance (Unique) 
 
 - Wolf's Dragoons 
 
-### Clan Invasion 
+### Clan Invasion (Unique) 
 
 - Wolf's Dragoons 
 
-### Civil War 
+### Civil War (Unique) 
 
 - Wolf's Dragoons 
 

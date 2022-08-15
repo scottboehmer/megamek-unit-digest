@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3473/vulture-mad-dog-prime) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3473) 
 - **Battle Value:** 2351 
 - [*More Info*](mad_dog/mad_dog_prime.md) 
 
@@ -36,7 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3466/vulture-mad-dog-a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3466) 
 - **Battle Value:** 1923 
 - [*More Info*](mad_dog/mad_dog_a.md) 
 
@@ -57,7 +57,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3467/vulture-mad-dog-b) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3467) 
 - **Battle Value:** 2284 
 - [*More Info*](mad_dog/mad_dog_b.md) 
 
@@ -75,7 +75,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3468/vulture-mad-dog-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3468) 
 - **Battle Value:** 1892 
 - [*More Info*](mad_dog/mad_dog_c.md) 
 
@@ -96,7 +96,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7727/vulture-mad-dog-dd) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7727) 
 - **Battle Value:** 1970 
 - [*More Info*](mad_dog/mad_dog_dd.md) 
 
@@ -116,7 +116,7 @@
   - Active Probe 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7593/vulture-mad-dog-s) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7593) 
 - **Battle Value:** 2676 
 - [*More Info*](mad_dog/mad_dog_s.md) 
 
@@ -137,7 +137,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3469/vulture-mad-dog-d) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3469) 
 - **Battle Value:** 2447 
 - [*More Info*](mad_dog/mad_dog_d.md) 
 
@@ -157,7 +157,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3472/vulture-mad-dog-h) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3472) 
 - **Battle Value:** 2097 
 - [*More Info*](mad_dog/mad_dog_h.md) 
 
@@ -175,7 +175,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3470/vulture-mad-dog-e) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3470) 
 - **Battle Value:** 2031 
 - [*More Info*](mad_dog/mad_dog_e.md) 
 
@@ -194,7 +194,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3471/vulture-mad-dog-f) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3471) 
 - **Battle Value:** 2300 
 - [*More Info*](mad_dog/mad_dog_f.md) 
 
@@ -216,7 +216,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3474/vulture-mad-dog-u) 
+- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3474) 
 - **Battle Value:** 2488 
 - [*More Info*](mad_dog/mad_dog_u.md) 
 
@@ -237,7 +237,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6891/vulture-mad-dog-g) 
+- **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6891) 
 - **Battle Value:** 2503 
 - [*More Info*](mad_dog/mad_dog_g.md) 
 
@@ -258,7 +258,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7729/vulture-mad-dog-v) 
+- **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7729) 
 - **Battle Value:** 2084 
 - [*More Info*](mad_dog/mad_dog_v.md) 
 
@@ -278,7 +278,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7726/vulture-mad-dog-t) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7726) 
 - **Battle Value:** 2555 
 - [*More Info*](mad_dog/mad_dog_t.md) 
 
@@ -297,7 +297,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7728/vulture-mad-dog-i) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7728) 
 - **Battle Value:** 1852 
 - [*More Info*](mad_dog/mad_dog_i.md) 
 

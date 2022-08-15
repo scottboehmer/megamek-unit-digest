@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7495/wasp-wsp-5a) 
+- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7495) 
 - **Battle Value:** 517 
 
 ## Availability 
@@ -75,4 +75,24 @@
 - Rim Commonality 
 - Taurian Concordat 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Protectorate 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

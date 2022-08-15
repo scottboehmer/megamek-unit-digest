@@ -20,7 +20,7 @@
   - Hard to Pilot 
   - Poor Performance 
   - Prototype 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5584/battleaxe-bkx-1x) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5584) 
 - **Battle Value:** 1079 
 
 ## Availability 

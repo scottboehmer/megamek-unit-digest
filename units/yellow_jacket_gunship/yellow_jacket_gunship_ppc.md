@@ -14,7 +14,7 @@
   - ER PPC 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3615/yellow-jacket-gunship-ppc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3615) 
 - **Battle Value:** 758 
 
 ## Availability 
@@ -74,4 +74,16 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -21,7 +21,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1919/locust-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1919) 
 - **Battle Value:** 730 
 
 ## Availability 
@@ -45,4 +45,10 @@
 
 - Clan Wolf 
 - Rasalhague Dominion 
+
+### ilClan 
+
+- Rasalhague Dominion 
+- Star League (Wolf) 
+- Wolf Empire 
 

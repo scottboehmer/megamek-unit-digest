@@ -13,7 +13,7 @@
 - **Weapons:** 
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6373/saracen-mk-ii-hcv-standard) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6373) 
 - **Battle Value:** 837 
 
 ## Availability 
@@ -21,6 +21,12 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
+
+### ilClan 
+
 - Draconis Combine 
 - Free Worlds League 
 - Mercenary 

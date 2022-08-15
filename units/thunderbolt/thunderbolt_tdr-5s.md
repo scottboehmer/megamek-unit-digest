@@ -20,7 +20,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3238/thunderbolt-tdr-5s) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3238) 
 - **Battle Value:** 1335 
 
 ## Availability 
@@ -212,6 +212,14 @@
 
 - Calderon Protectorate 
 - Escorpión Imperio 
+- Mercenary 
+- Pirate 
+- Scorpion Empire 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
 - Fronc Reaches 
 - Mercenary 
 - Pirate 

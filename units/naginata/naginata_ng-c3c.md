@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Stable 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2255/naginata-ng-c3c) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2255) 
 - **Battle Value:** 2131 
 
 ## Availability 
@@ -42,6 +42,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

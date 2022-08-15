@@ -15,7 +15,7 @@
   - EW Equipment 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2662/raven-rvn-1x) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2662) 
 - **Battle Value:** 639 
 - [*More Info*](raven/raven_rvn-1x.md) 
 
@@ -35,7 +35,7 @@
   - EW Equipment 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2665/raven-rvn-3x) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2665) 
 - **Battle Value:** 691 
 - [*More Info*](raven/raven_rvn-3x.md) 
 
@@ -53,7 +53,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2663/raven-rvn-2x) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2663) 
 - **Battle Value:** 887 
 - [*More Info*](raven/raven_rvn-2x.md) 
 
@@ -72,7 +72,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2669/raven-rvn-4x) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2669) 
 - **Battle Value:** 820 
 - [*More Info*](raven/raven_rvn-4x.md) 
 
@@ -95,7 +95,7 @@
   - TAG 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2664/raven-rvn-3l) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2664) 
 - **Battle Value:** 708 
 - [*More Info*](raven/raven_rvn-3l.md) 
 
@@ -116,13 +116,13 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5444/raven-rvn-3m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5444) 
 - **Battle Value:** 659 
 - [*More Info*](raven/raven_rvn-3m.md) 
 
 ## Raven RVN-4LC 
 
-- **Role:** Striker 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3062) 
 - **Chassis:** 35 tons 
 - **Movement:** 6 / 9, XL 
@@ -139,7 +139,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2667/raven-rvn-4lc) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2667) 
 - **Battle Value:** 871 
 - [*More Info*](raven/raven_rvn-4lc.md) 
 
@@ -161,7 +161,7 @@
   - TAG 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2666/raven-rvn-4l) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2666) 
 - **Battle Value:** 873 
 - [*More Info*](raven/raven_rvn-4l.md) 
 
@@ -184,7 +184,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2670/raven-rvn-sr-shattered-raven) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2670) 
 - **Battle Value:** 581 
 - [*More Info*](raven/raven_rvn-sr_shattered_raven.md) 
 
@@ -207,13 +207,13 @@
   - TAG 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2671/raven-rvn-ss-shattered-raven) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2671) 
 - **Battle Value:** 904 
 - [*More Info*](raven/raven_rvn-ss_shattered_raven.md) 
 
 ## Raven RVN-4Lr 
 
-- **Role:** Missile Boat 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 35 tons 
 - **Movement:** 6 / 9, XL 
@@ -229,7 +229,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2668/raven-rvn-4lr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2668) 
 - **Battle Value:** 923 
 - [*More Info*](raven/raven_rvn-4lr.md) 
 
@@ -251,7 +251,7 @@
   - TAG 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7524/raven-rvn-5l) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7524) 
 - **Battle Value:** 1035 
 - [*More Info*](raven/raven_rvn-5l.md) 
 

@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7784/nobori-nin-huntsman-i) 
+- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7784) 
 - **Battle Value:** 2277 
 
 ## Availability 
@@ -41,4 +41,11 @@
 - Clan Sea Fox 
 - Free Worlds League 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Star League (Smoke Jaguar) 
 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2308/nyx-nx-80c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2308) 
 - **Battle Value:** 874 
 
 ## Availability 
@@ -50,4 +50,10 @@
 - Free Worlds League 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
 

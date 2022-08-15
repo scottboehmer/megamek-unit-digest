@@ -21,7 +21,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8199/locust-lct-5s) 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8199) 
 - **Battle Value:** 509 
 
 ## Availability 
@@ -57,4 +57,13 @@
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
+
+### ilClan 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Vesper Marches 
 

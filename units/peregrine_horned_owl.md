@@ -14,7 +14,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Stabilized Weapon (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2472/peregrine-horned-owl-standard) 
+- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2472) 
 - **Battle Value:** 1434 
 - [*More Info*](horned_owl/horned_owl_standard.md) 
 
@@ -31,7 +31,7 @@
   - LRM 5 × 6 (ammo: 96) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2473/peregrine-horned-owl-2) 
+- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2473) 
 - **Battle Value:** 1191 
 - [*More Info*](horned_owl/horned_owl_2.md) 
 
@@ -52,7 +52,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2474/peregrine-horned-owl-3) 
+- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2474) 
 - **Battle Value:** 1545 
 - [*More Info*](horned_owl/horned_owl_3.md) 
 
@@ -72,7 +72,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stabilized Weapon (ER Medium Laser) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2475/peregrine-horned-owl-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2475) 
 - **Battle Value:** 1198 
 - [*More Info*](horned_owl/horned_owl_4.md) 
 
@@ -90,7 +90,7 @@
   - Heavy Medium Laser 
 - **Design Quirks:** 
   - Stabilized Weapon (Heavy Medium Laser) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2476/peregrine-horned-owl-5) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2476) 
 - **Battle Value:** 1523 
 - [*More Info*](horned_owl/horned_owl_5.md) 
 
@@ -110,7 +110,7 @@
   - Partial Wing 
   - Targeting Computer 
   - Light TAG 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7749/peregrine-horned-owl-7-shimafukuro) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7749) 
 - **Battle Value:** 1725 
 - [*More Info*](horned_owl/horned_owl_7.md) 
 
@@ -120,14 +120,14 @@
 - **Tech Base:** Clan (3132) 
 - **Chassis:** 35 tons (Endo Steel) 
 - **Movement:** 6 / 9 
-- **Armor:** 96 (Ferro Fibrous) 
+- **Armor:** 115 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7748/peregrine-horned-owl-6) 
-- **Battle Value:** 1413 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7748) 
+- **Battle Value:** 1475 
 - [*More Info*](horned_owl/horned_owl_6.md) 
 

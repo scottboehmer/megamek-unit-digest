@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Infantry (3 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1220/goblin-ii-infantry-support-vehicle-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1220) 
 - **Battle Value:** 839 
 
 ## Availability 
@@ -36,6 +36,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+
+### ilClan 
 
 - Capellan Confederation 
 - Federated Suns 

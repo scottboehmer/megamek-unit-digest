@@ -18,8 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1701/jenner-iic-4) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1701) 
 - **Battle Value:** 1052 
 
 ## Availability 
@@ -58,4 +57,9 @@
 - Clan Sea Fox 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
 

@@ -17,7 +17,7 @@
   - Narc (ammo: 12) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1791/kintaro-kto-19) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1791) 
 - **Battle Value:** 1160 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Sniper (ammo: 20) 
   - LRM 5 × 2 (ammo: 48) 
   - Small Pulse Laser × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2406/padilla-tube-artillery-tank-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2406) 
 - **Battle Value:** 592 
 
 ## Availability 
@@ -73,4 +73,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

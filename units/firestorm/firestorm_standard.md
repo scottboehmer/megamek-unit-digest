@@ -21,7 +21,7 @@
   - MASC 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8129/firestorm-standard) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8129) 
 - **Battle Value:** 2330 
 
 ## Availability 
@@ -31,4 +31,12 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Free Worlds League 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Star League (Wolf) 
+- Wolf Empire 
 

@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1922/locust-iic-9) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1922) 
 - **Battle Value:** 1133 
 
 ## Availability 
@@ -36,4 +36,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
 

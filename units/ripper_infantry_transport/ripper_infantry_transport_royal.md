@@ -14,7 +14,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2723/ripper-infantry-transport-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2723) 
 - **Battle Value:** 225 
 
 ## Availability 
@@ -180,4 +180,10 @@
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Star League (Wolf) 
 

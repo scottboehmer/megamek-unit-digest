@@ -4,7 +4,7 @@
 
 ## Templar III TLR2-J 'Arthur' 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere Mixed (3120) 
 - **Chassis:** 85 tons (Endo Steel) 
 - **Movement:** 4 / 6, Light 
@@ -22,12 +22,16 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Rumble Seat 
-- **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7955/templar-iii-tlr-2j-arthur) 
+- **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7955) 
 - **Battle Value:** 2722 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Federated Suns 
+
+### ilClan (Unique) 
 
 - Federated Suns 
 

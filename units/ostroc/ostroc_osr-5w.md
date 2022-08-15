@@ -20,7 +20,7 @@
   - C3i 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2359/ostroc-osr-5w) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2359) 
 - **Battle Value:** 1655 
 
 ## Availability 

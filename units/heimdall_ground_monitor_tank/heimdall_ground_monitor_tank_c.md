@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5743/heimdall-ground-monitor-tank-c) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5743) 
 - **Battle Value:** 2131 
 
 ## Availability 
@@ -50,6 +50,14 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
+- Lyran Commonwealth 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Raven Alliance 
 

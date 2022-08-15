@@ -14,8 +14,7 @@
   - Medium Laser × 6 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7796/jenner-jr7-f-smith) 
+- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7796) 
 - **Battle Value:** 1070 
 
 ## Availability 

@@ -13,7 +13,7 @@
   - Large Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1167/galahad-glh-1d) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1167) 
 - **Battle Value:** 1307 
 - [*More Info*](galahad/galahad_glh-1d.md) 
 
@@ -29,7 +29,7 @@
   - Gauss Rifle × 2 (ammo: 32) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1168/galahad-glh-2d) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1168) 
 - **Battle Value:** 1648 
 - [*More Info*](galahad/galahad_glh-2d.md) 
 
@@ -49,7 +49,7 @@
   - C3i 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1169/galahad-glh-3d) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1169) 
 - **Battle Value:** 1268 
 - [*More Info*](galahad/galahad_glh-3d.md) 
 
@@ -72,7 +72,7 @@
   - C3i 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6978/galahad-glh-3d-laodices) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6978) 
 - **Battle Value:** 1549 
 - [*More Info*](galahad/galahad_glh-3d_laodices.md) 
 

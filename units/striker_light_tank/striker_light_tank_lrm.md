@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - LRM 15 (ammo: 32) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3101/striker-light-tank-lrm) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3101) 
 - **Battle Value:** 605 
 
 ## Availability 
@@ -69,6 +69,7 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Kell Hounds 
@@ -93,6 +94,12 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Filtvelt Coalition 

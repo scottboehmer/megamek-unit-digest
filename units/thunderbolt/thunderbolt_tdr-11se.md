@@ -23,7 +23,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3236/thunderbolt-tdr-11se) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3236) 
 - **Battle Value:** 1754 
 
 ## Availability 
@@ -74,4 +74,13 @@
 - Oriente Protectorate 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Vesper Marches 
 

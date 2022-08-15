@@ -16,7 +16,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2342/oro-heavy-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2342) 
 - **Battle Value:** 1116 
 
 ## Availability 
@@ -118,4 +118,18 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Wolf Empire 
 

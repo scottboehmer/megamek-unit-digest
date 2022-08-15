@@ -21,7 +21,7 @@
   - Static Ammo Feed (RAC/5) 
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (ER Small Laser) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6929/blade-bld-7r) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6929) 
 - **Battle Value:** 1227 
 
 ## Availability 
@@ -44,4 +44,8 @@
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
+
+### ilClan 
+
+- Free Worlds League 
 

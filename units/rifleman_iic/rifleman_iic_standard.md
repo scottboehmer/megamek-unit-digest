@@ -20,7 +20,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2710/rifleman-iic-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2710) 
 - **Battle Value:** 2307 
 
 ## Availability 
@@ -109,6 +109,16 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Escorpión Imperio 
+- Federated Suns 
+- Free Worlds League 
+- Marian Hegemony 
+- Raven Alliance 
+- Scorpion Empire 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Sea Fox 
 - Federated Suns 
 - Free Worlds League 
 - Marian Hegemony 

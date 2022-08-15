@@ -17,7 +17,7 @@
   - Mech Sprayer 
   - Light Fluid Suction System 
   - Liquid Cargo × 2 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4987/scavenger-sc-v-salvagemech) 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4987) 
 - **Battle Value:** 582 
 
 ## Availability 
@@ -89,5 +89,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

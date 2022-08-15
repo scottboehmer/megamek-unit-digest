@@ -16,7 +16,7 @@
   - AC/5 (ammo: 20) 
   - SRM 4 (ammo: 25) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1745/kanga-medium-hovertank-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1745) 
 - **Battle Value:** 752 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2226/morpheus-mrp-3s) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2226) 
 - **Battle Value:** 1437 
 
 ## Availability 
@@ -43,6 +43,10 @@
 - Solaris 7 
 
 ### Dark Ages 
+
+- Solaris 7 
+
+### ilClan 
 
 - Solaris 7 
 

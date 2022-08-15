@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2095/masakari-warhawk-e) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2095) 
 - **Battle Value:** 2895 
 
 ## Availability 
@@ -70,5 +70,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

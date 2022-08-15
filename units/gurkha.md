@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/1351/gurkha-gur-2g) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/1351) 
 - **Battle Value:** 1101 
 - [*More Info*](gurkha/gurkha_gur-2g.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4254/gurkha-gur-4g) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4254) 
 - **Battle Value:** 908 
 - [*More Info*](gurkha/gurkha_gur-4g.md) 
 
@@ -60,7 +60,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5663/gurkha-gur-6g) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5663) 
 - **Battle Value:** 1134 
 - [*More Info*](gurkha/gurkha_gur-6g.md) 
 
@@ -84,7 +84,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5664/gurkha-gur-8g) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5664) 
 - **Battle Value:** 1235 
 - [*More Info*](gurkha/gurkha_gur-8g.md) 
 

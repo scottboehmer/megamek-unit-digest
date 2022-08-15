@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2743/rook-nh-3x) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2743) 
 - **Battle Value:** 1746 
 
 ## Availability 
@@ -37,6 +37,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+
+### ilClan 
 
 - Capellan Confederation 
 - Federated Suns 

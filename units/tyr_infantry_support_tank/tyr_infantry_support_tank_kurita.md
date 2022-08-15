@@ -15,7 +15,7 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5730/tyr-infantry-support-tank-kurita) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5730) 
 - **Battle Value:** 687 
 
 ## Availability 
@@ -38,4 +38,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

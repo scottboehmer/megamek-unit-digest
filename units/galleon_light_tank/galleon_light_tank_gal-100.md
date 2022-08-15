@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Small Laser × 2 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1175/galleon-light-tank-gal-100) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1175) 
 - **Battle Value:** 309 
 
 ## Availability 
@@ -220,5 +220,22 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Scorpion Empire 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Scorpion Empire 
+- Tamar Pact 
 - Taurian Concordat 
 

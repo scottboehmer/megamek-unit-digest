@@ -13,7 +13,7 @@
   - SRM 6 (ammo: 15) 
   - Small Laser × 3 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/897/devastator-heavy-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/897) 
 - **Battle Value:** 1037 
 - [*More Info*](devastator_heavy_tank/devastator_heavy_tank_standard.md) 
 

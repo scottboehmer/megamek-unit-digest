@@ -20,7 +20,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3498/warhammer-whm-9s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3498) 
 - **Battle Value:** 1653 
 
 ## Availability 
@@ -59,4 +59,12 @@
 - Marian Hegemony 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

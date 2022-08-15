@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Poor Sealing 
   - Improved Cooling Jacket (Primitive PPC) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7185/griffin-grf-1a) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7185) 
 - **Battle Value:** 1024 
 
 ## Availability 

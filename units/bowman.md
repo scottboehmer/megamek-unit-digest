@@ -18,7 +18,7 @@
   - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
-- **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5691/bowman-4) 
+- **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5691) 
 - **Battle Value:** 1657 
 - [*More Info*](bowman/bowman_4.md) 
 
@@ -42,7 +42,7 @@
   - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
-- **Sources:** RS 3068 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/3857/bowman-standard) 
+- **Sources:** RS 3068 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/3857) 
 - **Battle Value:** 2209 
 - [*More Info*](bowman/bowman_standard.md) 
 
@@ -66,7 +66,7 @@
   - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/3858/bowman-2) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/3858) 
 - **Battle Value:** 2567 
 - [*More Info*](bowman/bowman_2.md) 
 
@@ -91,7 +91,7 @@
   - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5690/bowman-3) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5690) 
 - **Battle Value:** 2767 
 - [*More Info*](bowman/bowman_3.md) 
 

@@ -22,7 +22,7 @@
   - Protected Actuators 
   - Bad Reputation (Clan) 
   - Accurate Weapon (Enhanced PPC) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7647/pulverizer-pul-3r) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7647) 
 - **Battle Value:** 2068 
 
 ## Availability 

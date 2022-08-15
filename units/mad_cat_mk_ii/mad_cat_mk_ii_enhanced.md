@@ -21,7 +21,7 @@
   - Improved Targeting (Medium) 
   - Protected Actuators 
   - Rumble Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4564/mad-cat-mk-ii-enhanced) 
+- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4564) 
 - **Battle Value:** 2732 
 
 ## Availability 
@@ -58,4 +58,21 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

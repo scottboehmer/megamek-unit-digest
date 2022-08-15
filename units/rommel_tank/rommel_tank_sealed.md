@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2736/rommel-tank-sealed) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2736) 
 - **Battle Value:** 1200 
 
 ## Availability 
@@ -48,4 +48,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

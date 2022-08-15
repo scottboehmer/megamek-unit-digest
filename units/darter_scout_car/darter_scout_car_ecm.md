@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Cargo 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/834/darter-scout-car-ecm) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/834) 
 - **Battle Value:** 193 
 
 ## Availability 
@@ -48,6 +48,12 @@
 - Filtvelt Coalition 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Federated Suns 

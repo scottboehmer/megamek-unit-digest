@@ -19,7 +19,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2391/owens-ow-1r) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2391) 
 - **Battle Value:** 1215 
 
 ## Availability 
@@ -33,32 +33,71 @@
 
 ### Civil War 
 
+- Capellan Confederation 
+- ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
 - Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
 - Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
 ### Jihad 
 
+- Capellan Confederation 
+- ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
 - Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
 ### Early Republic 
 
 - Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
 - Republic of the Sphere 
+- Rim Commonality 
 
 ### Late Republic 
 
 - Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
 - Republic of the Sphere 
+- Rim Commonality 
 
 ### Dark Ages 
 
 - Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
 - Republic of the Sphere 
+- Rim Commonality 
+
+### ilClan 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

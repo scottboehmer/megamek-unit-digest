@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/714/coyotl-prime) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/714) 
 - **Battle Value:** 1974 
 - [*More Info*](coyotl/coyotl_prime.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/713/coyotl-a) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/713) 
 - **Battle Value:** 1753 
 - [*More Info*](coyotl/coyotl_a.md) 
 
@@ -58,7 +58,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7606/coyotl-b) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7606) 
 - **Battle Value:** 1447 
 - [*More Info*](coyotl/coyotl_b.md) 
 
@@ -79,7 +79,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7607/coyotl-c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7607) 
 - **Battle Value:** 1851 
 - [*More Info*](coyotl/coyotl_c.md) 
 
@@ -102,7 +102,7 @@
   - TAG 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7608/coyotl-d) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7608) 
 - **Battle Value:** 1980 
 - [*More Info*](coyotl/coyotl_d.md) 
 

@@ -24,14 +24,13 @@
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER Medium Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2470/penthesilea-pen-2h) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2470) 
 - **Battle Value:** 1899 
 
 ## Availability 
 
 ### Early Republic 
 
-- Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
@@ -39,7 +38,6 @@
 
 ### Late Republic 
 
-- Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
@@ -47,7 +45,15 @@
 
 ### Dark Ages 
 
-- Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
+
+- Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 

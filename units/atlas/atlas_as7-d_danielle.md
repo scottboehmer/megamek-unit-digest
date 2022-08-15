@@ -19,7 +19,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/141/atlas-as7-d-danielle) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/141) 
 - **Battle Value:** 1976 
 
 ## Availability 

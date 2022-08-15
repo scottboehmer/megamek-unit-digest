@@ -15,7 +15,7 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5341/vedette-medium-tank-v7) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5341) 
 - **Battle Value:** 599 
 
 ## Availability 
@@ -40,4 +40,11 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

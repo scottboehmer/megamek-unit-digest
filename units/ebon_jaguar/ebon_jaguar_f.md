@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #16 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8210/cauldron-born-ebon-jaguar-f) 
+- **Sources:** Rec Guide:ilClan #16 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8210) 
 - **Battle Value:** 2681 
 
 ## Availability 
@@ -31,6 +31,7 @@
 - Draconis Combine 
 - Escorpión Imperio 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -42,4 +43,17 @@
 - Escorpión Imperio 
 - Raven Alliance 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Wolf's Dragoons 
 

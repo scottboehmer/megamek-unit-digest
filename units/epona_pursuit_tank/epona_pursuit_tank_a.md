@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/991/epona-pursuit-tank-a) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/991) 
 - **Battle Value:** 1976 
 
 ## Availability 
@@ -85,4 +85,12 @@
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Wolf) 
 

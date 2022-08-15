@@ -12,7 +12,7 @@
 - **Heat Sinks:** 18 (18) 
 - **Weapons:** 
   - Medium Re-Engineered Laser × 3 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6757/condor-heavy-hover-tank-laser-upgrade) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6757) 
 - **Battle Value:** 803 
 
 ## Availability 
@@ -22,6 +22,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

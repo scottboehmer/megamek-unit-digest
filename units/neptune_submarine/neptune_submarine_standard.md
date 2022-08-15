@@ -14,7 +14,7 @@
   - LRT 20 (ammo: 6) 
   - Large Laser 
   - SRT 6 × 2 (ammo: 15) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4711/neptune-submarine-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4711) 
 - **Battle Value:** 963 
 
 ## Availability 
@@ -69,4 +69,12 @@
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

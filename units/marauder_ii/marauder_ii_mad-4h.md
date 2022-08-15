@@ -21,7 +21,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2056/marauder-ii-mad-4h) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2056) 
 - **Battle Value:** 2180 
 
 ## Availability 
@@ -48,6 +48,11 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Marian Hegemony 
+- Pirate 
+
+### ilClan 
 
 - Marian Hegemony 
 - Pirate 

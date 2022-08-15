@@ -4,7 +4,7 @@
 
 ## Legionnaire LGN-2D (Raul) 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3132) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 
@@ -17,9 +17,12 @@
   - Easy to Maintain 
   - Improved Targeting (Medium) 
   - Exposed Weapon Linkage (RAC/5) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/8296) 
 - **Battle Value:** 1520 
 
 ## Availability 
 
-Availability Unknown 
+### Jihad (Unique) 
+
+- Federated Suns 
 

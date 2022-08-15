@@ -20,7 +20,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3487/warhammer-whm-6l) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3487) 
 - **Battle Value:** 1311 
 
 ## Availability 

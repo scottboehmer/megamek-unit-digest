@@ -16,7 +16,7 @@
   - ECM Suite 
   - Active Probe 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/905/donar-assault-helicopter-recon) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/905) 
 - **Battle Value:** 808 
 
 ## Availability 
@@ -65,5 +65,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

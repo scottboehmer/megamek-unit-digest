@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Armored Motive System 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3920/centipede-scout-car-commando) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3920) 
 - **Battle Value:** 322 
 
 ## Availability 
@@ -35,4 +35,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

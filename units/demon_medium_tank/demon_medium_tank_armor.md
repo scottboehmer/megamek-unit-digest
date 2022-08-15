@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Machine Gun × 4 (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6754/demon-medium-tank-armor) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6754) 
 - **Battle Value:** 636 
 
 ## Availability 
@@ -29,4 +29,9 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
+- Wolf Empire 
 

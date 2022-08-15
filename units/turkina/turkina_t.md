@@ -18,8 +18,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8212/turkina-t) 
+  - Easy to Pilot 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8212) 
 - **Battle Value:** 3080 
 
 ## Availability 
@@ -30,4 +30,15 @@
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Poor Life Support 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2581/prowler-pwr-1x) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2581) 
 - **Battle Value:** 2019 
 - [*More Info*](prowler/prowler_pwr-1x.md) 
 
@@ -40,7 +40,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Poor Life Support 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2582/prowler-pwr-1x1) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2582) 
 - **Battle Value:** 1922 
 - [*More Info*](prowler/prowler_pwr-1x1.md) 
 

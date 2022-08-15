@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1096/firestarter-fs9-h) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1096) 
 - **Battle Value:** 694 
 
 ## Availability 
@@ -202,6 +202,17 @@
 
 - Calderon Protectorate 
 - Escorpión Imperio 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Scorpion Empire 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 

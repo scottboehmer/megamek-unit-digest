@@ -4,7 +4,7 @@
 
 ## Kodiak 6 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Clan Mixed (3131) 
 - **Chassis:** 100 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -21,12 +21,16 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8364/kodiak-6) 
+- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8364) 
 - **Battle Value:** 2922 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

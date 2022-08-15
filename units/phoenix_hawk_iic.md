@@ -19,7 +19,7 @@
   - Fast Reload (Machine Gun) 
   - Fast Reload (Ultra AC/10) 
   - Fast Reload (Ultra AC/10) 
-- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2511/phoenix-hawk-iic-standard) 
+- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2511) 
 - **Battle Value:** 2057 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_standard.md) 
 
@@ -42,7 +42,7 @@
   - Fast Reload (LRM 20) 
   - Fast Reload (LRM 20) 
   - Fast Reload (LRM 20) 
-- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2512/phoenix-hawk-iic-2) 
+- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2512) 
 - **Battle Value:** 2892 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_2.md) 
 
@@ -61,7 +61,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196/phoenix-hawk-iic-9) 
+- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196) 
 - **Battle Value:** 2469 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_9.md) 
 
@@ -82,7 +82,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2513/phoenix-hawk-iic-3) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2513) 
 - **Battle Value:** 2448 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_3.md) 
 
@@ -105,7 +105,7 @@
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2514/phoenix-hawk-iic-4) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2514) 
 - **Battle Value:** 2483 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_4.md) 
 
@@ -127,7 +127,7 @@
   - Easy to Maintain 
   - Fast Reload (HAG 20) 
   - Fast Reload (HAG 20) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2515/phoenix-hawk-iic-5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2515) 
 - **Battle Value:** 2350 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_5.md) 
 
@@ -147,7 +147,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2516/phoenix-hawk-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2516) 
 - **Battle Value:** 2490 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_6.md) 
 
@@ -172,7 +172,7 @@
   - Fast Reload (Streak SRM 4) 
   - Fast Reload (LB 10-X AC) 
   - Fast Reload (LB 10-X AC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2517/phoenix-hawk-iic-7) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2517) 
 - **Battle Value:** 2219 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_7.md) 
 
@@ -192,7 +192,7 @@
   - ECM Suite 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2518/phoenix-hawk-iic-8) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2518) 
 - **Battle Value:** 2903 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_8.md) 
 
@@ -209,7 +209,7 @@
   - ER Large Laser × 2 
   - ER Medium Laser × 6 
   - Inner Sphere Hatchet 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197/phoenix-hawk-iic-10) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197) 
 - **Battle Value:** 2762 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_10.md) 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2834/scorpion-scp-12c) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2834) 
 - **Battle Value:** 1259 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5241/ti-tsang-china-doll) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5241) 
 - **Battle Value:** 1739 
 
 ## Availability 

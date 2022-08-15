@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3413/victor-vtr-9ka) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3413) 
 - **Battle Value:** 1594 
 
 ## Availability 
@@ -70,5 +70,16 @@
 - Marian Hegemony 
 - Pirate 
 - Republic of the Sphere 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Draconis Combine 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
 - Taurian Concordat 
 

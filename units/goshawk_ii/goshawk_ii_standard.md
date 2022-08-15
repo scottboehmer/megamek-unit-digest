@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Nimble Jumper 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1249/goshawk-ii-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1249) 
 - **Battle Value:** 1849 
 
 ## Availability 
@@ -36,5 +36,22 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
+- Clan Sea Fox 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
 - Raven Alliance 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
 

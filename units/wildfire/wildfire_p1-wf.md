@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Prototype 
-- **Sources:** Unbound - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5409/wildfire-p1-wf) 
+- **Sources:** Unbound - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5409) 
 - **Battle Value:** 1292 
 
 ## Availability 

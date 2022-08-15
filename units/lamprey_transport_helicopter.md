@@ -13,7 +13,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6540/lamprey-transport-helicopter-standard) 
+- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6540) 
 - **Battle Value:** 478 
 - [*More Info*](lamprey_transport_helicopter/lamprey_transport_helicopter_standard.md) 
 

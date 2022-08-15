@@ -17,7 +17,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8306/spider-sdr-9m) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8306) 
 - **Battle Value:** 687 
 
 ## Availability 
@@ -61,4 +61,14 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 

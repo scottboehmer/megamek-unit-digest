@@ -20,7 +20,7 @@
   - Infantry (5.0 tons) 
   - CASE 
   - Machine Gun Array × 2 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/226/bandit-c-hovercraft-g) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/226) 
 - **Battle Value:** 915 
 
 ## Availability 
@@ -41,4 +41,10 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

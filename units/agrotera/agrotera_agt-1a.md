@@ -21,7 +21,7 @@
   - AES 
   - Partial Wing 
   - TAG 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6459/agrotera-agt-1a) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6459) 
 - **Battle Value:** 1578 
 
 ## Availability 
@@ -32,6 +32,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

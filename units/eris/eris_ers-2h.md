@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8250/eris-ers-2h) 
+- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8250) 
 - **Battle Value:** 1674 
 
 ## Availability 
@@ -55,4 +55,10 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

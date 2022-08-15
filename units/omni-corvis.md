@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Prototype 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7610/omni-corvis-prime) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7610) 
 - **Battle Value:** 1678 
 - [*More Info*](omni-corvis/omni-corvis_prime.md) 
 
@@ -36,7 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Prototype 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7611/omni-corvis-a) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7611) 
 - **Battle Value:** 1977 
 - [*More Info*](omni-corvis/omni-corvis_a.md) 
 
@@ -56,7 +56,7 @@
   - CASE 
 - **Design Quirks:** 
   - Prototype 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7612/omni-corvis-b) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7612) 
 - **Battle Value:** 1640 
 - [*More Info*](omni-corvis/omni-corvis_b.md) 
 

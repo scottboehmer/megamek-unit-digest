@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/56/apollo-apl-2s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/56) 
 - **Battle Value:** 1283 
 
 ## Availability 

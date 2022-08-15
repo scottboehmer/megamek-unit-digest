@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1238/goliath-gol-6m) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1238) 
 - **Battle Value:** 1742 
 
 ## Availability 
@@ -61,4 +61,10 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

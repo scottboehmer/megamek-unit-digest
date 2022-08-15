@@ -19,7 +19,7 @@
   - HarJel × 5 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386/blackjack-bj2-ou) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386) 
 - **Battle Value:** 1223 
 
 ## Availability 
@@ -83,4 +83,15 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 

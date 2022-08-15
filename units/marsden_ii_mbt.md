@@ -12,13 +12,13 @@
   - AC/5 (ammo: 20) 
   - SRM 6 × 2 (ammo: 60) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2085/marsden-mbt-ii-primitive) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2085) 
 - **Battle Value:** 762 
 - [*More Info*](marsden_ii_mbt/marsden_ii_mbt_ii_primitive.md) 
 
 ## Marsden II MBT (Standard) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (2473) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -28,7 +28,7 @@
   - AC/5 (ammo: 20) 
   - SRM 6 × 2 (ammo: 60) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2084/marsden-mbt-ii) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2084) 
 - **Battle Value:** 984 
 - [*More Info*](marsden_ii_mbt/marsden_ii_mbt_standard.md) 
 
@@ -44,7 +44,7 @@
   - AC/10 (ammo: 20) 
   - SRM 6 (ammo: 30) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2086/marsden-mbt-ii-a) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2086) 
 - **Battle Value:** 980 
 - [*More Info*](marsden_ii_mbt/marsden_ii_mbt_ii-a.md) 
 
@@ -60,7 +60,7 @@
   - LB 10-X AC (ammo: 20) 
   - Streak SRM 2 × 2 (ammo: 100) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2087/marsden-mbt-ii-a-lb-x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2087) 
 - **Battle Value:** 1013 
 - [*More Info*](marsden_ii_mbt/marsden_ii_mbt_ii-a_lb-x.md) 
 

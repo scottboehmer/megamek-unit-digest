@@ -16,7 +16,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3354/urbanmech-um-r60) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3354) 
 - **Battle Value:** 504 
 - [*More Info*](urbanmech/urbanmech_um-r60.md) 
 
@@ -36,7 +36,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3355/urbanmech-um-r60l) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3355) 
 - **Battle Value:** 470 
 - [*More Info*](urbanmech/urbanmech_um-r60l.md) 
 
@@ -57,7 +57,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3356/urbanmech-um-r63) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3356) 
 - **Battle Value:** 540 
 - [*More Info*](urbanmech/urbanmech_um-r63.md) 
 
@@ -78,7 +78,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3358/urbanmech-um-r69) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3358) 
 - **Battle Value:** 589 
 - [*More Info*](urbanmech/urbanmech_um-r69.md) 
 
@@ -99,7 +99,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3357/urbanmech-um-r68) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3357) 
 - **Battle Value:** 561 
 - [*More Info*](urbanmech/urbanmech_um-r68.md) 
 
@@ -120,7 +120,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3359/urbanmech-um-r70) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3359) 
 - **Battle Value:** 724 
 - [*More Info*](urbanmech/urbanmech_um-r70.md) 
 
@@ -142,7 +142,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3353/urbanmech-um-aiv) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3353) 
 - **Battle Value:** 603 
 - [*More Info*](urbanmech/urbanmech_um-aiv.md) 
 
@@ -167,7 +167,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3360/urbanmech-um-r80) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3360) 
 - **Battle Value:** 699 
 - [*More Info*](urbanmech/urbanmech_um-r80.md) 
 
@@ -188,7 +188,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7344/urbanmech-um-r93) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7344) 
 - **Battle Value:** 894 
 - [*More Info*](urbanmech/urbanmech_um-r93.md) 
 
@@ -208,7 +208,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #2 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7453/urbanmech-um-r96) 
+- **Sources:** Rec Guide:ilClan #2 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7453) 
 - **Battle Value:** 773 
 - [*More Info*](urbanmech/urbanmech_um-r96.md) 
 

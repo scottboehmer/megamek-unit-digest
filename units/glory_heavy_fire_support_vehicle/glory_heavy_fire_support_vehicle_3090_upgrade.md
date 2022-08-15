@@ -20,7 +20,7 @@
   - C3 Support 
   - Targeting Computer 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6803/glory-heavy-fire-support-vehicle-3090-upgrade) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6803) 
 - **Battle Value:** 1887 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

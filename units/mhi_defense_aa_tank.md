@@ -14,7 +14,7 @@
 - **Equipment:** 
   - CASE 
   - Limited Amphibious Chassis 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6670/mhi-defense-aa-tank-standard) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6670) 
 - **Battle Value:** 970 
 - [*More Info*](mhi_defense_aa_tank/mhi_defense_aa_tank_standard.md) 
 

@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1368/hammer-hmr-3s-slammer) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1368) 
 - **Battle Value:** 638 
 
 ## Availability 
@@ -67,4 +67,9 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

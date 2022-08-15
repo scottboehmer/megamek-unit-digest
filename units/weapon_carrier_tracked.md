@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/20 × 2 (ammo: 15) 
   - LRM 5 (ammo: 24) 
-- **Source:** Hist LOT II 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6778) 
 - **Battle Value:** 855 
 - [*More Info*](weapon_carrier_tracked/weapon_carrier_tracked_ac_20.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
   - LRM 5 × 3 (ammo: 48) 
-- **Source:** Hist LOT II 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6776) 
 - **Battle Value:** 901 
 - [*More Info*](weapon_carrier_tracked/weapon_carrier_tracked_lb-10x.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - Ultra AC/5 × 3 (ammo: 80) 
   - LRM 5 (ammo: 24) 
-- **Source:** Hist LOT II 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6777) 
 - **Battle Value:** 825 
 - [*More Info*](weapon_carrier_tracked/weapon_carrier_tracked_ultra_5.md) 
 

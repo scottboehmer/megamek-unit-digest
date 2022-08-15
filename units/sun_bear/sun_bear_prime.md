@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7623/sun-bear-prime) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7623) 
 - **Battle Value:** 2022 
 
 ## Availability 
@@ -58,5 +58,9 @@
 ### Dark Ages (Unique) 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan (Unique) 
+
 - Scorpion Empire 
 

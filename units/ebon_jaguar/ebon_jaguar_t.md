@@ -20,7 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8209/cauldron-born-ebon-jaguar-t) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8209) 
 - **Battle Value:** 2219 
 
 ## Availability 
@@ -35,4 +35,17 @@
 - Escorpión Imperio 
 - Raven Alliance 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Wolf's Dragoons 
 

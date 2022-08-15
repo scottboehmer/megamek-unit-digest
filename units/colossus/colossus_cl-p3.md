@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Stable 
   - Low-Mounted Arms 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/661/colossus-cl-p3) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/661) 
 - **Battle Value:** 1986 
 
 ## Availability 

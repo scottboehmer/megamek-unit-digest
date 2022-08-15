@@ -8,15 +8,15 @@
 - **Tech Base:** Clan (3132) 
 - **Chassis:** 35 tons (Endo Steel) 
 - **Movement:** 6 / 9 
-- **Armor:** 96 (Ferro Fibrous) 
+- **Armor:** 115 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7748/peregrine-horned-owl-6) 
-- **Battle Value:** 1413 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7748) 
+- **Battle Value:** 1475 
 
 ## Availability 
 
@@ -27,4 +27,12 @@
 - Lyran Commonwealth 
 - Rasalhague Dominion 
 - Raven Alliance 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Wolf) 
 

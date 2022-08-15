@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System × 2 (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6606/gulltoppr-omnimonitor-prime) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6606) 
 - **Battle Value:** 3151 
 
 ## Availability 
@@ -35,6 +35,11 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
+- Lyran Commonwealth 
+
+### ilClan 
+
 - Kell Hounds 
 - Lyran Commonwealth 
 

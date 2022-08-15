@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1119/flamberge-prime) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1119) 
 - **Battle Value:** 2266 
 - [*More Info*](flamberge/flamberge_prime.md) 
 
@@ -39,7 +39,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1116/flamberge-a) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1116) 
 - **Battle Value:** 2575 
 - [*More Info*](flamberge/flamberge_a.md) 
 
@@ -62,7 +62,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1117/flamberge-b) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1117) 
 - **Battle Value:** 2750 
 - [*More Info*](flamberge/flamberge_b.md) 
 
@@ -86,7 +86,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1118/flamberge-c) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1118) 
 - **Battle Value:** 2126 
 - [*More Info*](flamberge/flamberge_c.md) 
 
@@ -109,7 +109,7 @@
   - Partial Wing 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1114/flamberge-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1114) 
 - **Battle Value:** 2468 
 - [*More Info*](flamberge/flamberge_2.md) 
 
@@ -132,7 +132,7 @@
   - Partial Wing 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1115/flamberge-3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1115) 
 - **Battle Value:** 2346 
 - [*More Info*](flamberge/flamberge_3.md) 
 
@@ -153,7 +153,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6873/flamberge-d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6873) 
 - **Battle Value:** 2357 
 - [*More Info*](flamberge/flamberge_d.md) 
 

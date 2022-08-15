@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6881/koschei-ksc-6l) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6881) 
 - **Battle Value:** 1465 
 
 ## Availability 
@@ -31,6 +31,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

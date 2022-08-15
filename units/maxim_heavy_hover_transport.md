@@ -15,7 +15,7 @@
   - Machine Gun × 3 (ammo: 200) 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2127/maxim-heavy-hover-transport-standard) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2127) 
 - **Battle Value:** 764 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_standard.md) 
 
@@ -34,7 +34,7 @@
   - Machine Gun × 3 (ammo: 200) 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2126/maxim-heavy-hover-transport-srm4) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2126) 
 - **Battle Value:** 682 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_srm4.md) 
 
@@ -53,7 +53,7 @@
   - Machine Gun × 3 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2125/maxim-heavy-hover-transport-srm2) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2125) 
 - **Battle Value:** 763 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_srm2.md) 
 
@@ -73,7 +73,7 @@
 - **Equipment:** 
   - TAG 
   - Infantry (3 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2117/maxim-heavy-hover-transport-3052-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2117) 
 - **Battle Value:** 794 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_3052_upgrade.md) 
 
@@ -91,7 +91,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2124/maxim-heavy-hover-transport-fire-support) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2124) 
 - **Battle Value:** 869 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_fire_support.md) 
 
@@ -110,7 +110,7 @@
 - **Equipment:** 
   - TAG 
   - Infantry (3 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2118/maxim-heavy-hover-transport-anti-infantry) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2118) 
 - **Battle Value:** 715 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_anti-infantry.md) 
 
@@ -129,7 +129,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2119/maxim-heavy-hover-transport-ba-factory-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2119) 
 - **Battle Value:** 794 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_ba_factory_upgrade.md) 
 
@@ -148,7 +148,7 @@
 - **Equipment:** 
   - TAG 
   - Infantry (4 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2120/maxim-heavy-hover-transport-ba-field-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2120) 
 - **Battle Value:** 817 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_ba_field_upgrade.md) 
 
@@ -169,7 +169,7 @@
   - ECM Suite 
   - CASE 
   - Infantry (6.0 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2123/maxim-heavy-hover-transport-clan) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2123) 
 - **Battle Value:** 1147 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_clan.md) 
 
@@ -187,7 +187,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2121/maxim-heavy-hover-transport-c3m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2121) 
 - **Battle Value:** 817 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3m.md) 
 
@@ -207,7 +207,7 @@
   - C3 Support 
   - TAG 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2122/maxim-heavy-hover-transport-c3s) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2122) 
 - **Battle Value:** 773 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3s.md) 
 

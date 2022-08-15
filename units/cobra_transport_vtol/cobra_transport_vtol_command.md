@@ -16,7 +16,7 @@
   - Anti-Missile System × 2 (ammo: 36) 
   - Communications Equipment 
   - Infantry (3 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/657/cobra-transport-vtol-command) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/657) 
 - **Battle Value:** 367 
 
 ## Availability 
@@ -81,4 +81,15 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

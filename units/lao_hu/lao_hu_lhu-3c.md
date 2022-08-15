@@ -16,7 +16,7 @@
   - LRM 5 × 3 (ammo: 72) 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4480/lao-hu-lhu-3c) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4480) 
 - **Battle Value:** 1878 
 
 ## Availability 
@@ -42,6 +42,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

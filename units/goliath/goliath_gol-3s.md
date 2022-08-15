@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1233/goliath-gol-3s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1233) 
 - **Battle Value:** 1792 
 
 ## Availability 
@@ -46,6 +46,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### ilClan 
 
 - Lyran Commonwealth 
 - Mercenary 

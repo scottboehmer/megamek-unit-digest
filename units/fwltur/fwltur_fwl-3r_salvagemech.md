@@ -17,7 +17,7 @@
   - Enviro-Sealing 
   - Lift Hoist 
   - Searchlight 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1162/fwltur-fwl-3r-salvagemech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1162) 
 - **Battle Value:** 255 
 
 ## Availability 
@@ -56,4 +56,15 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

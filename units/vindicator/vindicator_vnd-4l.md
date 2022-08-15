@@ -22,8 +22,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3429/vindicator-vnd-4l) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3429) 
 - **Battle Value:** 1411 
 
 ## Availability 
@@ -52,6 +51,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

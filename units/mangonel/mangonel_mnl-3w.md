@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - No/Minimal Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2013/mangonel-mnl-3w) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2013) 
 - **Battle Value:** 2657 
 
 ## Availability 
@@ -38,4 +38,9 @@
 
 - Clan Wolf-in-Exile 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Kell Hounds 
+- Star League (Wolf) 
 

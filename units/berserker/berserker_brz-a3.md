@@ -21,7 +21,7 @@
   - MASC 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/329/berserker-brz-a3) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/329) 
 - **Battle Value:** 2117 
 
 ## Availability 
@@ -77,4 +77,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
 

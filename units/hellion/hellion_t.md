@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8326/hellion-t) 
+- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8326) 
 - **Battle Value:** 1637 
 
 ## Availability 
@@ -32,5 +32,12 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Mercenary 
 - Scorpion Empire 
 

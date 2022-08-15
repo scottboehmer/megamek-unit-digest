@@ -13,7 +13,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3190/thorn-the-f) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3190) 
 - **Battle Value:** 510 
 - [*More Info*](thorn/thorn_the-f.md) 
 
@@ -32,7 +32,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3191/thorn-the-n) 
+- **Sources:** TRO 3050 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3191) 
 - **Battle Value:** 546 
 - [*More Info*](thorn/thorn_the-n.md) 
 
@@ -52,7 +52,7 @@
   - MASC 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3194/thorn-the-nb) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3194) 
 - **Battle Value:** 740 
 - [*More Info*](thorn/thorn_the-nb.md) 
 
@@ -69,7 +69,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3195/thorn-the-s) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3195) 
 - **Battle Value:** 510 
 - [*More Info*](thorn/thorn_the-s.md) 
 
@@ -86,7 +86,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3196/thorn-the-t) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3196) 
 - **Battle Value:** 500 
 - [*More Info*](thorn/thorn_the-t.md) 
 
@@ -103,7 +103,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3192/thorn-the-n1) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3192) 
 - **Battle Value:** 656 
 - [*More Info*](thorn/thorn_the-n1.md) 
 
@@ -122,7 +122,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3193/thorn-the-n2) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3193) 
 - **Battle Value:** 410 
 - [*More Info*](thorn/thorn_the-n2.md) 
 

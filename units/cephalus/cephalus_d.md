@@ -22,7 +22,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5640/cephalus-d) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5640) 
 - **Battle Value:** 1460 
 
 ## Availability 

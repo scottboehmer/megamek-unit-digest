@@ -12,7 +12,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 24) 
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2531/pilum-heavy-tank-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2531) 
 - **Battle Value:** 1121 
 - [*More Info*](pilum_heavy_tank/pilum_heavy_tank_standard.md) 
 
@@ -28,7 +28,7 @@
   - Arrow IV (ammo: 20) 
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2530/pilum-heavy-tank-arrow-iv) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2530) 
 - **Battle Value:** 1102 
 - [*More Info*](pilum_heavy_tank/pilum_heavy_tank_arrow_iv.md) 
 

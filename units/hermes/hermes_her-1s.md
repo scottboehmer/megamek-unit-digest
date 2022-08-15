@@ -14,8 +14,9 @@
   - Medium Laser × 2 
   - Flamer 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1487/hermes-her-1s) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1487) 
 - **Battle Value:** 716 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3061/stinger-stg-3r) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3061) 
 - **Battle Value:** 359 
 - [*More Info*](stinger/stinger_stg-3r.md) 
 
@@ -35,7 +35,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3058/stinger-stg-3g) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3058) 
 - **Battle Value:** 497 
 - [*More Info*](stinger/stinger_stg-3g.md) 
 
@@ -55,7 +55,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3059/stinger-stg-3gb) 
+- **Sources:** Rec Guide:ilClan #13 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3059) 
 - **Battle Value:** 674 
 - [*More Info*](stinger/stinger_stg-3gb.md) 
 
@@ -78,7 +78,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8127/stinger-c) 
+- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8127) 
 - **Battle Value:** 592 
 - [*More Info*](stinger/stinger_c.md) 
 
@@ -98,7 +98,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8128/stinger-c-2) 
+- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8128) 
 - **Battle Value:** 754 
 - [*More Info*](stinger/stinger_c_2.md) 
 
@@ -120,7 +120,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3063/stinger-stg-5m) 
+- **Sources:** Rec Guide:ilClan #13 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3063) 
 - **Battle Value:** 432 
 - [*More Info*](stinger/stinger_stg-5m.md) 
 
@@ -142,7 +142,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** TRO Project Phoenix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3064/stinger-stg-5r) 
+- **Sources:** TRO Project Phoenix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3064) 
 - **Battle Value:** 492 
 - [*More Info*](stinger/stinger_stg-5r.md) 
 
@@ -163,7 +163,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3066/stinger-stg-6l) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3066) 
 - **Battle Value:** 680 
 - [*More Info*](stinger/stinger_stg-6l.md) 
 
@@ -182,7 +182,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3060/stinger-stg-3p) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3060) 
 - **Battle Value:** 489 
 - [*More Info*](stinger/stinger_stg-3p.md) 
 
@@ -203,7 +203,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3065/stinger-stg-5t) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3065) 
 - **Battle Value:** 341 
 - [*More Info*](stinger/stinger_stg-5t.md) 
 
@@ -227,7 +227,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3067/stinger-stg-6s) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3067) 
 - **Battle Value:** 478 
 - [*More Info*](stinger/stinger_stg-6s.md) 
 
@@ -246,7 +246,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8123/stinger-stg-4g) 
+- **Sources:** Rec Guide:ilClan #13 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8123) 
 - **Battle Value:** 541 
 - [*More Info*](stinger/stinger_stg-4g.md) 
 
@@ -267,7 +267,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3062/stinger-stg-5g) 
+- **Sources:** Rec Guide:ilClan #13 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3062) 
 - **Battle Value:** 614 
 - [*More Info*](stinger/stinger_stg-5g.md) 
 
@@ -288,7 +288,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3068/stinger-stg-7s) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3068) 
 - **Battle Value:** 382 
 - [*More Info*](stinger/stinger_stg-7s.md) 
 
@@ -310,7 +310,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8126/stinger-stg-6m) 
+- **Sources:** Rec Guide:ilClan #13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8126) 
 - **Battle Value:** 503 
 - [*More Info*](stinger/stinger_stg-6m.md) 
 
@@ -330,7 +330,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8125/stinger-stg-6g) 
+- **Sources:** Rec Guide:ilClan #13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8125) 
 - **Battle Value:** 503 
 - [*More Info*](stinger/stinger_stg-6g.md) 
 
@@ -350,7 +350,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8124/stinger-stg-6r) 
+- **Sources:** Rec Guide:ilClan #13 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8124) 
 - **Battle Value:** 454 
 - [*More Info*](stinger/stinger_stg-6r.md) 
 

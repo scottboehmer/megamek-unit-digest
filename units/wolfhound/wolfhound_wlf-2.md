@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3563/wolfhound-wlf-2) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3563) 
 - **Battle Value:** 1061 
 
 ## Availability 
@@ -80,4 +80,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
 

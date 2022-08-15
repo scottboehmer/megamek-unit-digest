@@ -4,7 +4,7 @@
 
 ## Calliope CAL-1MAFSW 'Snow White' 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere Mixed (3127) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 5 / 8 
@@ -16,12 +16,16 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8368/calliope-cal-1mafw-snow-white) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8368) 
 - **Battle Value:** 1481 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

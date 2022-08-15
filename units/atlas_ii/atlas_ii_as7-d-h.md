@@ -23,7 +23,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/152/atlas-ii-as7-d-h) 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/152) 
 - **Battle Value:** 2169 
 
 ## Availability 
@@ -180,4 +180,10 @@
 - Lyran Commonwealth 
 - Republic of the Sphere 
 - Scorpion Empire 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Vesper Marches 
 

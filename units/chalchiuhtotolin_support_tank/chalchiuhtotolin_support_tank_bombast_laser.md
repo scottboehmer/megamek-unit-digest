@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/536/chalchiuhtotolin-support-tank-bombast-laser) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/536) 
 - **Battle Value:** 864 
 
 ## Availability 

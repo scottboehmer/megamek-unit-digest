@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5695/lao-hu-lhu-3l) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5695) 
 - **Battle Value:** 1995 
 
 ## Availability 
@@ -42,6 +42,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Federated Suns 

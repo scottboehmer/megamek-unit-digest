@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ammunition Feed Problem (Streak SRM 2) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2860/sentinel-stn-3l) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2860) 
 - **Battle Value:** 717 
 
 ## Availability 
@@ -212,6 +212,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
 
 - Filtvelt Coalition 
 - Mercenary 

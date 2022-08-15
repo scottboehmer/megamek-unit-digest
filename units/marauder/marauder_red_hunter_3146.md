@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7536/marauder-red-hunter-3146) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7536) 
 - **Battle Value:** 2509 
 
 ## Availability 
@@ -25,4 +25,10 @@
 ### Dark Ages (Unique) 
 
 - Mercenary 
+- Pirate 
+
+### ilClan (Unique) 
+
+- Mercenary 
+- Pirate 
 

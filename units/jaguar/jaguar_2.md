@@ -22,7 +22,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6613/jaguar-2) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6613) 
 - **Battle Value:** 1742 
 
 ## Availability 
@@ -35,4 +35,12 @@
 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Vesper Marches 
 

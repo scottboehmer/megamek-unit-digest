@@ -22,7 +22,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/88/archer-arc-9m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/88) 
 - **Battle Value:** 1811 
 
 ## Availability 
@@ -75,4 +75,13 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

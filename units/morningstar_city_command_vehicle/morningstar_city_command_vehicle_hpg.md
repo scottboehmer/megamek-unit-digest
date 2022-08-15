@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Ground-Mobile HPG 
   - Infantry (6.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5733/morningstar-city-command-vehicle-hpg) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5733) 
 - **Battle Value:** 458 
 
 ## Availability 

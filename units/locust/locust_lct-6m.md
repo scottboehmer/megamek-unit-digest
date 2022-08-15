@@ -23,7 +23,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1913/locust-lct-6m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1913) 
 - **Battle Value:** 956 
 
 ## Availability 
@@ -49,4 +49,8 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

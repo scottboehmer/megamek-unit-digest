@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - C3 Support 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1535/hitman-hm-2) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1535) 
 - **Battle Value:** 861 
 
 ## Availability 
@@ -49,4 +49,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

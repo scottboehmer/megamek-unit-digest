@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Searchlight × 2 
-- **Sources:** RS:VA IM Exo - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3994/copper-cpk-65-securitymech) 
+- **Sources:** RS:VA IM Exo - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3994) 
 - **Battle Value:** 325 
 
 ## Availability 
@@ -98,4 +98,23 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

@@ -15,7 +15,7 @@
   - Medium Laser × 7 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1677/javelin-jvn-11a-fire-javelin) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1677) 
 - **Battle Value:** 1073 
 
 ## Availability 

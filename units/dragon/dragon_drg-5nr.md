@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/912/dragon-drg-5nr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/912) 
 - **Battle Value:** 1252 
 
 ## Availability 
@@ -41,6 +41,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+
+### ilClan 
 
 - Draconis Combine 
 - Mercenary 

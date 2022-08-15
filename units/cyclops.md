@@ -18,7 +18,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/772/cyclops-cp-10-z) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/772) 
 - **Battle Value:** 1317 
 - [*More Info*](cyclops/cyclops_cp-10-z.md) 
 
@@ -41,7 +41,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/770/cyclops-cp-10-hq) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/770) 
 - **Battle Value:** 1113 
 - [*More Info*](cyclops/cyclops_cp-10-hq.md) 
 
@@ -62,7 +62,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/771/cyclops-cp-10-q) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/771) 
 - **Battle Value:** 1584 
 - [*More Info*](cyclops/cyclops_cp-10-q.md) 
 
@@ -84,7 +84,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/773/cyclops-cp-11-a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/773) 
 - **Battle Value:** 1547 
 - [*More Info*](cyclops/cyclops_cp-11-a.md) 
 
@@ -108,7 +108,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4032/cyclops-cp-11-a-dc) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4032) 
 - **Battle Value:** 1507 
 - [*More Info*](cyclops/cyclops_cp-11-a-dc.md) 
 
@@ -131,7 +131,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/775/cyclops-cp-11-c) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/775) 
 - **Battle Value:** 1553 
 - [*More Info*](cyclops/cyclops_cp-11-c.md) 
 
@@ -155,7 +155,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/778/cyclops-cp-11-g) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/778) 
 - **Battle Value:** 1981 
 - [*More Info*](cyclops/cyclops_cp-11-g.md) 
 
@@ -179,7 +179,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/780/cyclops-cp-12-k) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/780) 
 - **Battle Value:** 1699 
 - [*More Info*](cyclops/cyclops_cp-12-k.md) 
 
@@ -200,7 +200,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/779/cyclops-cp-11-h) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/779) 
 - **Battle Value:** 1525 
 - [*More Info*](cyclops/cyclops_cp-11-h.md) 
 
@@ -224,7 +224,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/774/cyclops-cp-11-b) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/774) 
 - **Battle Value:** 2145 
 - [*More Info*](cyclops/cyclops_cp-11-b.md) 
 
@@ -248,7 +248,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/776/cyclops-cp-11-c2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/776) 
 - **Battle Value:** 1534 
 - [*More Info*](cyclops/cyclops_cp-11-c2.md) 
 
@@ -271,7 +271,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/777/cyclops-cp-11-c3) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/777) 
 - **Battle Value:** 1752 
 - [*More Info*](cyclops/cyclops_cp-11-c3.md) 
 
@@ -295,7 +295,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8357/cyclops-c) 
+- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8357) 
 - **Battle Value:** 2252 
 - [*More Info*](cyclops/cyclops_c.md) 
 

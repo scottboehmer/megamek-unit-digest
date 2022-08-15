@@ -19,7 +19,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1902/locust-lct-1v2) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1902) 
 - **Battle Value:** 568 
 
 ## Availability 
@@ -47,6 +47,12 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Marian Hegemony 
 - Mercenary 

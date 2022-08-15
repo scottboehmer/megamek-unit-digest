@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Supercharger 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6326/hanse-mbt-standard) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6326) 
 - **Battle Value:** 1537 
 
 ## Availability 
@@ -33,4 +33,9 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
 

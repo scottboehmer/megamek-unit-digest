@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Design Quirks:** 
   - Hard to Pilot 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1848/kuma-3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1848) 
 - **Battle Value:** 625 
 
 ## Availability 
@@ -27,6 +27,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

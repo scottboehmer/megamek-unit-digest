@@ -21,7 +21,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3246/thunderbolt-tdr-9m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3246) 
 - **Battle Value:** 1648 
 
 ## Availability 
@@ -81,5 +81,15 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Pirate 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 - Pirate 
 

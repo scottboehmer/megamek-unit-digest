@@ -20,8 +20,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3426/vindicator-vnd-3l) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3426) 
 - **Battle Value:** 1105 
 
 ## Availability 
@@ -70,6 +69,13 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Fronc Reaches 
 - Marian Hegemony 

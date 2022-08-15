@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7570/baboon-howler-6) 
+- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7570) 
 - **Battle Value:** 550 
 
 ## Availability 
@@ -38,4 +38,11 @@
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Mercenary 
 

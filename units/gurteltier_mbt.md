@@ -18,7 +18,7 @@
   - Targeting Computer 
   - C3 Support 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/4256/gurteltier-mbt-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/4256) 
 - **Battle Value:** 1985 
 - [*More Info*](gurteltier_mbt/gurteltier_mbt_standard.md) 
 
@@ -40,7 +40,7 @@
   - C3 Main 
   - Targeting Computer 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/4255/gurteltier-mbt-c3m) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/4255) 
 - **Battle Value:** 1755 
 - [*More Info*](gurteltier_mbt/gurteltier_mbt_c3m.md) 
 

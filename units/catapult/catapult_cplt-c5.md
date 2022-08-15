@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/483/catapult-cplt-c5) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/483) 
 - **Battle Value:** 1748 
 
 ## Availability 
@@ -54,6 +54,13 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

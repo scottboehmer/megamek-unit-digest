@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/195/badger-c-tracked-transport-d) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/195) 
 - **Battle Value:** 506 
 
 ## Availability 
@@ -50,4 +50,13 @@
 - Clan Wolf 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Lyran Commonwealth 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

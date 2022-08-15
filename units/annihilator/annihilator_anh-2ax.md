@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/40/annihilator-anh-2ax) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/40) 
 - **Battle Value:** 2553 
 
 ## Availability 

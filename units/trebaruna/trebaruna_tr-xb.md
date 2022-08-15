@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3292/trebaruna-tr-xb) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3292) 
 - **Battle Value:** 2223 
 
 ## Availability 
@@ -49,4 +49,10 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Mercenary 
 

@@ -14,9 +14,8 @@
   - Light PPC × 4 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/96/arctic-fox-af1e) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/96) 
 - **Battle Value:** 1094 
 
 ## Availability 
@@ -56,4 +55,10 @@
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
 

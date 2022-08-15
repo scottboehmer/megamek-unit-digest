@@ -15,7 +15,7 @@
   - Heavy Flamer (ammo: 10) 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7858/strongarm-sc-cv-m-constructionmech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7858) 
 - **Battle Value:** 315 
 
 ## Availability 
@@ -32,4 +32,10 @@
 - Mercenary 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
+- Pirate 
 

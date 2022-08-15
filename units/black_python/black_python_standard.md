@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3432/viper-black-python-standard) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3432) 
 - **Battle Value:** 2813 
 
 ## Availability 
@@ -90,6 +90,11 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Raven Alliance 
+- Scorpion Empire 
+
+### ilClan 
+
 - Raven Alliance 
 - Scorpion Empire 
 

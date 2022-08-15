@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3717/arcas-standard) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3717) 
 - **Battle Value:** 2484 
 
 ## Availability 
@@ -53,4 +53,9 @@
 - Clan Sea Fox 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Rasalhague Dominion 
 

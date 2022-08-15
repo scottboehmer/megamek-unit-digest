@@ -19,8 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4391/jagermech-jm7-f) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4391) 
 - **Battle Value:** 1774 
 
 ## Availability 
@@ -49,4 +48,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

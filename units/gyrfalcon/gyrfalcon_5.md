@@ -21,12 +21,16 @@
 - **Design Quirks:** 
   - Distracting 
   - Reinforced Legs 
-- **Sources:** Shrapnel 2 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7694/gyrfalcon-5) 
+- **Sources:** Shrapnel 2 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7694) 
 - **Battle Value:** 2151 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Clan Jade Falcon 
+
+### ilClan 
 
 - Clan Jade Falcon 
 

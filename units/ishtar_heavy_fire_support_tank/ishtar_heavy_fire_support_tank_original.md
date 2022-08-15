@@ -16,7 +16,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1634/ishtar-heavy-fire-support-tank-original) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1634) 
 - **Battle Value:** 1072 
 
 ## Availability 

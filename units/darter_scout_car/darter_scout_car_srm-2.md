@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4050/darter-scout-car-srm2) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4050) 
 - **Battle Value:** 167 
 
 ## Availability 
@@ -60,6 +60,12 @@
 - Filtvelt Coalition 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Federated Suns 

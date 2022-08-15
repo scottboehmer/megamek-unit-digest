@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 5-X AC × 4 (ammo: 40 Standard, 40 Cluster) 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6683/malice-mal-xt) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6683) 
 - **Battle Value:** 1852 
 
 ## Availability 
@@ -22,4 +22,9 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Mercenary 
 

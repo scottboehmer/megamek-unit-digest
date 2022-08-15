@@ -15,7 +15,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3196/thorn-the-t) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3196) 
 - **Battle Value:** 500 
 
 ## Availability 

@@ -4,7 +4,7 @@
 
 ## Atlas II AS7-D-HT 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (2780) 
 - **Chassis:** 100 tons 
 - **Movement:** 3 / 5 
@@ -23,7 +23,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Arano Restoration , [Master Unit List](http://masterunitlist.info/Unit/Details/7618/atlas-ii-as7-d-ht) 
+- **Sources:** Arano Restoration , [Master Unit List](http://masterunitlist.info/Unit/Details/7618) 
 - **Battle Value:** 2205 
 
 ## Availability 

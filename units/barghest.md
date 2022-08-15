@@ -13,7 +13,7 @@
   - ER Large Laser × 2 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/252/barghest-bgs-1t) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/252) 
 - **Battle Value:** 1787 
 - [*More Info*](barghest/barghest_bgs-1t.md) 
 
@@ -30,7 +30,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/253/barghest-bgs-2t) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/253) 
 - **Battle Value:** 1794 
 - [*More Info*](barghest/barghest_bgs-2t.md) 
 
@@ -47,7 +47,7 @@
   - ER Large Laser 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/254/barghest-bgs-3t) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/254) 
 - **Battle Value:** 1900 
 - [*More Info*](barghest/barghest_bgs-3t.md) 
 
@@ -69,7 +69,7 @@
   - CASE 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/255/barghest-bgs-7s) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/255) 
 - **Battle Value:** 1507 
 - [*More Info*](barghest/barghest_bgs-7s.md) 
 
@@ -91,7 +91,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3791/barghest-bgs-4x) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3791) 
 - **Battle Value:** 1667 
 - [*More Info*](barghest/barghest_bgs-4x.md) 
 
@@ -114,7 +114,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3790/barghest-bgs-4t) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3790) 
 - **Battle Value:** 1734 
 - [*More Info*](barghest/barghest_bgs-4t.md) 
 

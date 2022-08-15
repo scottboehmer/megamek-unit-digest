@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Thunderbolt 10 × 4 (ammo: 36) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6703/jes-iii-missile-carrier-thunderbolt) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6703) 
 - **Battle Value:** 995 
 
 ## Availability 
@@ -35,4 +35,20 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Jade Falcon 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Jade Falcon) 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf Empire 
 

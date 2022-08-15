@@ -14,12 +14,24 @@
   - Medium Laser 
   - MagShot Gauss Rifle × 2 (ammo: 50) 
   - Wrecking Ball 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7839/demolitionmech-wi-dmm-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7839) 
 - **Battle Value:** 444 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Capellan Confederation 

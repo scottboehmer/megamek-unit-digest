@@ -14,7 +14,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2348/ostroc-osr-2c) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2348) 
 - **Battle Value:** 1228 
 - [*More Info*](ostroc/ostroc_osr-2c.md) 
 
@@ -32,7 +32,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2350/ostroc-osr-2cb) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2350) 
 - **Battle Value:** 1478 
 - [*More Info*](ostroc/ostroc_osr-2cb.md) 
 
@@ -49,7 +49,7 @@
   - Large Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2353/ostroc-osr-2m) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2353) 
 - **Battle Value:** 1239 
 - [*More Info*](ostroc/ostroc_osr-2m.md) 
 
@@ -65,7 +65,7 @@
   - Large Laser × 3 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2354/ostroc-osr-3c) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2354) 
 - **Battle Value:** 1288 
 - [*More Info*](ostroc/ostroc_osr-3c.md) 
 
@@ -83,7 +83,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2352/ostroc-osr-2l) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2352) 
 - **Battle Value:** 1233 
 - [*More Info*](ostroc/ostroc_osr-2l.md) 
 
@@ -102,7 +102,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8356/ostroc-osr-9c) 
+- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8356) 
 - **Battle Value:** 1230 
 - [*More Info*](ostroc/ostroc_osr-9c.md) 
 
@@ -121,7 +121,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2349/ostroc-osr-2c-michi) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2349) 
 - **Battle Value:** 1321 
 - [*More Info*](ostroc/ostroc_osr-2c_michi.md) 
 
@@ -139,7 +139,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #21 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2351/ostroc-osr-2d) 
+- **Sources:** Rec Guide:ilClan #21 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2351) 
 - **Battle Value:** 1396 
 - [*More Info*](ostroc/ostroc_osr-2d.md) 
 
@@ -158,7 +158,7 @@
   - Rocket 10 × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2355/ostroc-osr-4c) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2355) 
 - **Battle Value:** 1325 
 - [*More Info*](ostroc/ostroc_osr-4c.md) 
 
@@ -178,7 +178,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2357/ostroc-osr-4l) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2357) 
 - **Battle Value:** 1778 
 - [*More Info*](ostroc/ostroc_osr-4l.md) 
 
@@ -200,7 +200,7 @@
   - C3i 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2359/ostroc-osr-5w) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2359) 
 - **Battle Value:** 1655 
 - [*More Info*](ostroc/ostroc_osr-5w.md) 
 
@@ -219,7 +219,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2356/ostroc-osr-4k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2356) 
 - **Battle Value:** 1490 
 - [*More Info*](ostroc/ostroc_osr-4k.md) 
 
@@ -239,7 +239,7 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2358/ostroc-osr-5c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2358) 
 - **Battle Value:** 1788 
 - [*More Info*](ostroc/ostroc_osr-5c.md) 
 
@@ -260,7 +260,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #21 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8354/ostroc-osr-3m) 
+- **Sources:** Rec Guide:ilClan #21 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8354) 
 - **Battle Value:** 1594 
 - [*More Info*](ostroc/ostroc_osr-3m.md) 
 
@@ -280,7 +280,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8355/ostroc-osr-6r) 
+- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8355) 
 - **Battle Value:** 2095 
 - [*More Info*](ostroc/ostroc_osr-6r.md) 
 

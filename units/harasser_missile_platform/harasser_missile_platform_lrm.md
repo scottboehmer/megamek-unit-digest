@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - LRM 10 (ammo: 36) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1389/harasser-missile-platform-lrm) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1389) 
 - **Battle Value:** 412 
 
 ## Availability 
@@ -59,4 +59,9 @@
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
 

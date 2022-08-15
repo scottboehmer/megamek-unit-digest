@@ -12,7 +12,7 @@
 - **Heat Sinks:** 6 (6) 
 - **Weapons:** 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1385/harasser-laser-platform-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1385) 
 - **Battle Value:** 321 
 
 ## Availability 

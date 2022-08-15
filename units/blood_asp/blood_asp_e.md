@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/403/blood-asp-e) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/403) 
 - **Battle Value:** 3179 
 
 ## Availability 
@@ -50,6 +50,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

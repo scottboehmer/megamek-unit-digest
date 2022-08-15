@@ -4,7 +4,7 @@
 
 ## Rhino (Standard) 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Clan Mixed (3140) 
 - **Chassis:** 50 tons Quad (Reinforced) 
 - **Movement:** 6 / 9 (12), XL 
@@ -16,7 +16,7 @@
   - Inner Sphere Spikes × 3 
   - MASC 
   - Ram Plate 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7883/rhino-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7883) 
 - **Battle Value:** unknown 
 
 ## Availability 
@@ -24,5 +24,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

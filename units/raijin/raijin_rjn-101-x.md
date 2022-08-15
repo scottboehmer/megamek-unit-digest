@@ -18,7 +18,7 @@
   - SRM 6 (OS) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8415/raijin-rjn-101-x) 
+- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8415) 
 - **Battle Value:** 1302 
 
 ## Availability 

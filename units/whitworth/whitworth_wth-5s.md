@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3544/whitworth-wth-5s) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3544) 
 - **Battle Value:** 1230 
 
 ## Availability 

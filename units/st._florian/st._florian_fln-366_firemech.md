@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight × 2 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5118/st-florian-fln-366-firemech) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5118) 
 - **Battle Value:** 833 
 
 ## Availability 
@@ -75,4 +75,15 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

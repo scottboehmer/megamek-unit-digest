@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/252/barghest-bgs-1t) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/252) 
 - **Battle Value:** 1787 
 
 ## Availability 
@@ -55,4 +55,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

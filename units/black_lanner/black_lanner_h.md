@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/368/black-lanner-h) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/368) 
 - **Battle Value:** 1928 
 
 ## Availability 
@@ -52,4 +52,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
 

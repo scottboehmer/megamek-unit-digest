@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3294/trebaruna-tr-xl) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3294) 
 - **Battle Value:** 2244 
 
 ## Availability 
@@ -32,6 +32,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

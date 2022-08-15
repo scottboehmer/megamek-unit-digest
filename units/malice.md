@@ -11,7 +11,7 @@
 - **Weapons:** 
   - LB 5-X AC × 4 (ammo: 40 Standard, 40 Cluster) 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6683/malice-mal-xt) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6683) 
 - **Battle Value:** 1852 
 - [*More Info*](malice/malice_mal-xt.md) 
 
@@ -29,7 +29,7 @@
   - Clan LB 5-X AC × 2 (ammo: 40 Cluster) 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6725/malice-mal-xp) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6725) 
 - **Battle Value:** 2016 
 - [*More Info*](malice/malice_mal-xp.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Clan CASE II 
   - C3 Support 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6726/malice-mal-xv) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6726) 
 - **Battle Value:** 1996 
 - [*More Info*](malice/malice_mal-xv.md) 
 
@@ -72,7 +72,7 @@
   - Inner Sphere C3 Support 
   - TAG 
   - Armored Actuator × 2 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6727/malice-mal-yz) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6727) 
 - **Battle Value:** 2982 
 - [*More Info*](malice/malice_mal-yz.md) 
 

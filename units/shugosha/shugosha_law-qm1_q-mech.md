@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Booby Trap 
   - Drone Operating System 
-- **Sources:** RS:VA IM Exo - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7154/shugosha-law-qm1-q-mech) 
+- **Sources:** RS:VA IM Exo - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7154) 
 - **Battle Value:** 168 
 
 ## Availability 
@@ -47,4 +47,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

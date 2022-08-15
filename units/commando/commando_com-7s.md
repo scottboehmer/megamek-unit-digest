@@ -19,15 +19,10 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/676/commando-com-7s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/676) 
 - **Battle Value:** 658 
 
 ## Availability 
-
-### Clan Invasion 
-
-- Federated Commonwealth 
-- Lyran Alliance 
 
 ### Civil War 
 
@@ -52,4 +47,10 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

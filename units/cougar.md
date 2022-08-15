@@ -15,7 +15,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/712/cougar-prime) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/712) 
 - **Battle Value:** 1485 
 - [*More Info*](cougar/cougar_prime.md) 
 
@@ -35,7 +35,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/704/cougar-a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/704) 
 - **Battle Value:** 1697 
 - [*More Info*](cougar/cougar_a.md) 
 
@@ -52,7 +52,7 @@
   - ER Medium Laser 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/705/cougar-b) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/705) 
 - **Battle Value:** 1774 
 - [*More Info*](cougar/cougar_b.md) 
 
@@ -71,7 +71,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/706/cougar-c) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/706) 
 - **Battle Value:** 1785 
 - [*More Info*](cougar/cougar_c.md) 
 
@@ -91,7 +91,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/707/cougar-d) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/707) 
 - **Battle Value:** 1309 
 - [*More Info*](cougar/cougar_d.md) 
 
@@ -113,7 +113,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/711/cougar-h) 
+- **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/711) 
 - **Battle Value:** 1323 
 - [*More Info*](cougar/cougar_h.md) 
 
@@ -132,7 +132,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/708/cougar-e) 
+- **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/708) 
 - **Battle Value:** 1442 
 - [*More Info*](cougar/cougar_e.md) 
 
@@ -155,7 +155,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/709/cougar-f) 
+- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/709) 
 - **Battle Value:** 1401 
 - [*More Info*](cougar/cougar_f.md) 
 
@@ -175,7 +175,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/710/cougar-g) 
+- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/710) 
 - **Battle Value:** 1453 
 - [*More Info*](cougar/cougar_g.md) 
 
@@ -202,7 +202,7 @@
   - Modular Weapon (LRM 15) 
   - Modular Weapon (LRM 15) 
   - Modular Weapon (ER Medium Pulse Laser) 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4013/cougar-xr-standard) 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4013) 
 - **Battle Value:** 1783 
 - [*More Info*](cougar/cougar_xr.md) 
 
@@ -220,7 +220,7 @@
   - Clan ER Medium Pulse Laser 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6952/cougar-x-2) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6952) 
 - **Battle Value:** 1293 
 - [*More Info*](cougar/cougar_x_2.md) 
 
@@ -241,7 +241,7 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6953/cougar-x-3) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6953) 
 - **Battle Value:** 1391 
 - [*More Info*](cougar/cougar_x_3.md) 
 
@@ -262,7 +262,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928/cougar-i) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928) 
 - **Battle Value:** 1738 
 - [*More Info*](cougar/cougar_i.md) 
 
@@ -280,7 +280,7 @@
   - Clan ER Medium Laser × 2 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6951/cougar-x-standard) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6951) 
 - **Battle Value:** 1474 
 - [*More Info*](cougar/cougar_x.md) 
 
@@ -302,7 +302,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8325/cougar-t) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8325) 
 - **Battle Value:** 1748 
 - [*More Info*](cougar/cougar_t.md) 
 

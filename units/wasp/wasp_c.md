@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7496/wasp-c) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7496) 
 - **Battle Value:** 755 
 
 ## Availability 
@@ -26,4 +26,13 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

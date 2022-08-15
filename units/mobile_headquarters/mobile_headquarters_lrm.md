@@ -14,7 +14,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2200/mobile-headquarters-lrm) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2200) 
 - **Battle Value:** 402 
 
 ## Availability 

@@ -4,7 +4,7 @@
 
 ## Jade Phoenix E 
 
-- **Role:** Skirmisher 
+- **Role:** Sniper 
 - **Tech Base:** Clan Mixed (3148) 
 - **Chassis:** 85 tons (Endo Composite) 
 - **Movement:** 4 / 6 (8), XL 
@@ -18,7 +18,7 @@
   - Partial Wing 
   - CASE II 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8403/jade-phoenix-e) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8403) 
 - **Battle Value:** 2734 
 
 ## Availability 
@@ -26,4 +26,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Star League (Jade Falcon) 
 

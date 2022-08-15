@@ -18,7 +18,7 @@
   - Active Probe 
   - CASE II 
   - Inner Sphere Supercharger 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7759/man-o-war-gargoyle-k) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7759) 
 - **Battle Value:** 2182 
 
 ## Availability 
@@ -29,4 +29,10 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Star League (Wolf) 
 

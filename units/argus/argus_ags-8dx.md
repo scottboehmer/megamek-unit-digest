@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/110/argus-ags-8dx) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/110) 
 - **Battle Value:** 1598 
 
 ## Availability 
@@ -39,6 +39,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

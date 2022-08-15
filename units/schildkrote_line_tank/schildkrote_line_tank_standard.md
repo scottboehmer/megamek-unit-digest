@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - Armored Motive System 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6599/schildkrote-line-tank-standard) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6599) 
 - **Battle Value:** 940 
 
 ## Availability 
@@ -30,4 +30,11 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

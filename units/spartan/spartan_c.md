@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Improved Targeting (Short) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7646/spartan-c) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7646) 
 - **Battle Value:** 2514 
 
 ## Availability 
@@ -56,5 +56,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

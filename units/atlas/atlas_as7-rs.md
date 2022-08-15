@@ -20,7 +20,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/147/atlas-as7-rs) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/147) 
 - **Battle Value:** 1849 
 
 ## Availability 
@@ -170,6 +170,11 @@
 ### Dark Ages 
 
 - Draconis Combine 
+- Mercenary 
+- Pirate 
+
+### ilClan 
+
 - Mercenary 
 - Pirate 
 

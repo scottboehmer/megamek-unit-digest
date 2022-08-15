@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Stable 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8240/amarok-2) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8240) 
 - **Battle Value:** 3351 
 
 ## Availability 
@@ -32,4 +32,11 @@
 
 - Clan Sea Fox 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Star League (Wolf) 
+- Wolf Empire 
 

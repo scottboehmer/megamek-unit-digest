@@ -22,7 +22,7 @@
   - Protected Actuators 
   - Prototype 
   - Jettison-Capable Weapon (Medium Vibroblade) 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5565/dig-lord-rcl-z1-armed-miningmech) 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5565) 
 - **Battle Value:** 681 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Calderon Protectorate 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+
+### ilClan 
 
 - Calderon Protectorate 
 

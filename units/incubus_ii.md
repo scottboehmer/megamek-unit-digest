@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Cramped Cockpit 
   - Reinforced Legs 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4363/incubus-ii-standard) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4363) 
 - **Battle Value:** 1261 
 - [*More Info*](incubus_ii/incubus_ii_standard.md) 
 

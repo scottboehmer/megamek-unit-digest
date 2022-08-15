@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3258/titan-ii-ti-2p) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3258) 
 - **Battle Value:** 2143 
 
 ## Availability 
@@ -40,4 +40,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
 

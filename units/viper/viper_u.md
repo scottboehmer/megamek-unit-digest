@@ -22,8 +22,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/927/dragonfly-viper-u) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/927) 
 - **Battle Value:** 1417 
 
 ## Availability 
@@ -58,4 +57,11 @@
 - Rasalhague Dominion 
 - Republic of the Sphere 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
 

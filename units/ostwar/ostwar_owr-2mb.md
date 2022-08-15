@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2382/ostwar-owr-2mb) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2382) 
 - **Battle Value:** 1638 
 
 ## Availability 

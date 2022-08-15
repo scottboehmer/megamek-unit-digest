@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 4 × 2 (ammo: 25) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2479/peregrine-attack-vtol-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2479) 
 - **Battle Value:** 344 
 
 ## Availability 

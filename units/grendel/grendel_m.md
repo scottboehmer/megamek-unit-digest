@@ -18,7 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7457/grendel-mongrel-m) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7457) 
 - **Battle Value:** 1744 
 
 ## Availability 
@@ -28,23 +28,41 @@
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Escorpión Imperio 
+- Kell Hounds 
+- Mercenary 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Sea Fox 
-- Escorpión Imperio 
+- Kell Hounds 
+- Mercenary 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Sea Fox 
-- Escorpión Imperio 
+- Kell Hounds 
+- Mercenary 
+- Raven Alliance 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Wolf's Dragoons 
 

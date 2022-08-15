@@ -19,7 +19,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5718/sagittaire-sgt-10x) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5718) 
 - **Battle Value:** 1794 
 
 ## Availability 
@@ -41,4 +41,9 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
 

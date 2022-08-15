@@ -19,12 +19,29 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4463/kraken-bane-xr) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8244) 
 - **Battle Value:** 3740 
 
 ## Availability 
 
-### Jihad (Unique) 
+### Late Republic 
 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Sea Fox 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
 

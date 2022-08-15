@@ -16,7 +16,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3747/athena-combat-vehicle-xr) 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3747) 
 - **Battle Value:** 1309 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages (Unique) 
+
+- Clan Hell's Horses 
+
+### ilClan (Unique) 
 
 - Clan Hell's Horses 
 

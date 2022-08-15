@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/652/clint-iic-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/652) 
 - **Battle Value:** 1395 
 
 ## Availability 
@@ -104,6 +104,12 @@
 
 - Clan Nova Cat 
 - Clan Wolf 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Protectorate 
 - Rasalhague Dominion 
 - Raven Alliance 
 

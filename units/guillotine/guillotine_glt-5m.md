@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1341/guillotine-glt-5m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1341) 
 - **Battle Value:** 1472 
 
 ## Availability 
@@ -64,12 +64,10 @@
 ### Late Republic 
 
 - Capellan Confederation 
-- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -80,17 +78,22 @@
 ### Dark Ages 
 
 - Capellan Confederation 
-- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
 

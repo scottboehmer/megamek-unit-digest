@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2425/panther-pnt-9r) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2425) 
 - **Battle Value:** 769 
 
 ## Availability 
@@ -145,5 +145,9 @@
 ### Dark Ages 
 
 - Draconis Combine 
+- Pirate 
+
+### ilClan 
+
 - Pirate 
 

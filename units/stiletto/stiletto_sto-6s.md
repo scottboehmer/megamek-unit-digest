@@ -20,7 +20,7 @@
   - Multi-Trac 
   - Difficult Ejection 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5133/stiletto-sto-6s) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5133) 
 - **Battle Value:** 1171 
 
 ## Availability 
@@ -36,4 +36,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

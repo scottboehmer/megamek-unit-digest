@@ -19,7 +19,7 @@
   - C3 Main × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3126/sunder-sd1-ob) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3126) 
 - **Battle Value:** 1597 
 
 ## Availability 
@@ -67,6 +67,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -76,6 +77,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -85,4 +87,15 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - C3i 
   - Infantry (6.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/415/bolla-stealth-tank-dominus) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/415) 
 - **Battle Value:** 814 
 
 ## Availability 

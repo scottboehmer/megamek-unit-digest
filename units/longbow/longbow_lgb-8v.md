@@ -21,7 +21,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1938/longbow-lgb-8v) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1938) 
 - **Battle Value:** 1808 
 
 ## Availability 
@@ -85,4 +85,17 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -21,9 +21,8 @@
   - TAG 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
   - Weak Head Armor (2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1709/jinggau-jn-g8bx-rush) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1709) 
 - **Battle Value:** 1337 
 
 ## Availability 

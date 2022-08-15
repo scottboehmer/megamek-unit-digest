@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2177/merlin-mln-1a) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2177) 
 - **Battle Value:** 1217 
 
 ## Availability 
@@ -82,6 +82,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### Late Republic 
@@ -93,6 +94,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### Dark Ages 
@@ -104,5 +106,18 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 

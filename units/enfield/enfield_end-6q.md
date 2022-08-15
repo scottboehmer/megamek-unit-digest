@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/973/enfield-end-6q) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/973) 
 - **Battle Value:** 1248 
 
 ## Availability 
@@ -65,6 +65,10 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
 
 - Mercenary 
 

@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/5071/skulker-wheeled-scout-tank-mk-ii-standard) 
+- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/5071) 
 - **Battle Value:** 454 
 - [*More Info*](skulker_wheeled_scout_tank_mk_ii/skulker_wheeled_scout_tank_mk_ii_standard.md) 
 

@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Low-Mounted Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/824/dark-crow-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/824) 
 - **Battle Value:** 1575 
 
 ## Availability 
@@ -33,6 +33,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

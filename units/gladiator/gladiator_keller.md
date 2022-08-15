@@ -22,20 +22,12 @@
 - **Design Quirks:** 
   - Cowl 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1197/gladiator-keller) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1197) 
 - **Battle Value:** 1517 
 
 ## Availability 
 
 ### Early Republic (Unique) 
-
-- Mercenary 
-
-### Late Republic (Unique) 
-
-- Mercenary 
-
-### Dark Ages (Unique) 
 
 - Mercenary 
 

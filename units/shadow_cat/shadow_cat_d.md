@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #9 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7704/shadow-cat-d) 
+- **Sources:** Rec Guide:ilClan #9 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7704) 
 - **Battle Value:** 2298 
 
 ## Availability 
@@ -92,4 +92,23 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Free Worlds League 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

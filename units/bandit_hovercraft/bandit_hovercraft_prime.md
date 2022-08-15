@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/239/bandit-hovercraft-prime) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/239) 
 - **Battle Value:** 929 
 
 ## Availability 

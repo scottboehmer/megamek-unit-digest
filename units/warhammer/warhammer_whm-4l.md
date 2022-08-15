@@ -21,7 +21,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3483/warhammer-whm-4l) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3483) 
 - **Battle Value:** 1743 
 
 ## Availability 
@@ -45,6 +45,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

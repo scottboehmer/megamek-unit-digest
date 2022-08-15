@@ -18,7 +18,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3606/xanthos-xnt-5o) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3606) 
 - **Battle Value:** 2146 
 
 ## Availability 
@@ -54,4 +54,12 @@
 - Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Tamar Pact 
 

@@ -4,7 +4,7 @@
 
 ## Thunderbolt TDR-5LS 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2850) 
 - **Chassis:** 65 tons 
 - **Movement:** 4 / 6 
@@ -20,7 +20,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7763/thunderbolt-tdr-5ls) 
+- **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7763) 
 - **Battle Value:** 1374 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1825/koschei-ksc-5mc) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1825) 
 - **Battle Value:** 1764 
 
 ## Availability 
@@ -44,6 +44,12 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

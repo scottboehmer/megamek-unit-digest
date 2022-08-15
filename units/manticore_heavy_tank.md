@@ -13,13 +13,13 @@
   - LRM 10 (ammo: 12) 
   - SRM 6 (ammo: 15) 
   - Medium Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2021/manticore-heavy-tank-standard) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2021) 
 - **Battle Value:** 993 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_standard.md) 
 
 ## Manticore Heavy Tank EC 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2823) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 4 / 6, Fusion 
@@ -29,7 +29,7 @@
   - Clan Enhanced PPC 
   - Clan Improved LRM 10 (ammo: 24) 
   - SRM 6 (ammo: 15) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7675/manticore-heavy-tank-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7675) 
 - **Battle Value:** 1147 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_ec.md) 
 
@@ -46,7 +46,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2015/manticore-heavy-tank-3055-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2015) 
 - **Battle Value:** 957 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_3055_upgrade.md) 
 
@@ -62,7 +62,7 @@
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster) 
   - Streak SRM 6 (ammo: 15) 
   - Medium Pulse Laser 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2019/manticore-heavy-tank-lb-x) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2019) 
 - **Battle Value:** 961 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_lb-x.md) 
 
@@ -80,7 +80,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Main 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2016/manticore-heavy-tank-c3m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2016) 
 - **Battle Value:** 958 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_c3m.md) 
 
@@ -99,7 +99,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2017/manticore-heavy-tank-c3s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2017) 
 - **Battle Value:** 1008 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_c3s.md) 
 
@@ -117,7 +117,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2020/manticore-heavy-tank-rac) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2020) 
 - **Battle Value:** 1138 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_rac.md) 
 
@@ -135,7 +135,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2018/manticore-heavy-tank-hppc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2018) 
 - **Battle Value:** 1060 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_hppc.md) 
 

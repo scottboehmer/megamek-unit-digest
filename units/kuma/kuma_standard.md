@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Accurate Weapon (Heavy Large Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1849/kuma-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1849) 
 - **Battle Value:** 1952 
 
 ## Availability 
@@ -31,6 +31,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

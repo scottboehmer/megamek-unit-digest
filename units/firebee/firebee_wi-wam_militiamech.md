@@ -18,12 +18,18 @@
 - **Design Quirks:** 
   - Poor Life Support 
   - Weak Legs 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7838/firebee-wi-wam-militiamech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7838) 
 - **Battle Value:** 456 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Capellan Confederation 
 - Mercenary 

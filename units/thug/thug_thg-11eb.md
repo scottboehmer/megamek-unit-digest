@@ -16,8 +16,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3206/thug-thg-11eb) 
+  - Rugged (×2) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3206) 
 - **Battle Value:** 1759 
 
 ## Availability 
@@ -177,4 +177,9 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

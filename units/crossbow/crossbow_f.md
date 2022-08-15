@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8236/crossbow-f) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8236) 
 - **Battle Value:** 1854 
 
 ## Availability 
@@ -31,4 +31,13 @@
 - Clan Wolf 
 - Lyran Commonwealth 
 - Raven Alliance 
+
+### ilClan 
+
+- Clan Protectorate 
+- Lyran Commonwealth 
+- Raven Alliance 
+- Star League (Wolf) 
+- Tamar Pact 
+- Wolf Empire 
 

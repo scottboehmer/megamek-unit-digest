@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - C3i 
   - TAG 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3629/zephyr-hovertank-c3i) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3629) 
 - **Battle Value:** 820 
 
 ## Availability 

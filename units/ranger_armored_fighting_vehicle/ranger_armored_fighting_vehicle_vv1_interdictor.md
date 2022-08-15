@@ -15,7 +15,7 @@
   - Machine Gun × 8 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6755/ranger-armored-fighting-vehicle-vv1-interdictor) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6755) 
 - **Battle Value:** 688 
 
 ## Availability 
@@ -29,6 +29,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

@@ -24,7 +24,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306/griffin-grf-6cs) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306) 
 - **Battle Value:** 1695 
 
 ## Availability 

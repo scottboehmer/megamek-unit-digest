@@ -14,7 +14,7 @@
   - LB 10-X AC × 2 (ammo: 40 Standard, 30 Cluster) 
 - **Equipment:** 
   - C3 Main × 2 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2435/partisan-air-defense-tank-company-command) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2435) 
 - **Battle Value:** 920 
 
 ## Availability 
@@ -51,4 +51,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

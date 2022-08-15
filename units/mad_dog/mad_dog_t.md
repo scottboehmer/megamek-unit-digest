@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7726/vulture-mad-dog-t) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7726) 
 - **Battle Value:** 2555 
 
 ## Availability 
@@ -28,7 +28,17 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Wolf-in-Exile 
+- Mercenary 
 - Raven Alliance 
 - Republic of the Sphere 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

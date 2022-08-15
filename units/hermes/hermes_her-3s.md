@@ -16,8 +16,9 @@
   - Beagle Active Probe 
   - MASC 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1489/hermes-her-3s) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1489) 
 - **Battle Value:** 649 
 
 ## Availability 

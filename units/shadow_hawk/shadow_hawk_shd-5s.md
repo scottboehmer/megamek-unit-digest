@@ -20,24 +20,20 @@
   - Beagle Active Probe 
   - TAG 
   - Cargo 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7786/shadow-hawk-shd-5s) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7786) 
 - **Battle Value:** 1590 
 
 ## Availability 
 
 ### Clan Invasion 
 
-- Federated Commonwealth 
-- Free Rasalhague Republic 
-- Kell Hounds 
 - Lyran Alliance 
-- Lyran Commonwealth 
-- Mercenary 
 
 ### Civil War 
 
 - Federated Commonwealth 
 - Free Rasalhague Republic 
+- Free Worlds League 
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
@@ -45,22 +41,39 @@
 ### Jihad 
 
 - Free Rasalhague Republic 
+- Free Worlds League 
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
 
 ### Early Republic 
 
+- Duchy of Tamarind-Abbey 
 - Lyran Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
 
 ### Late Republic 
 
+- Duchy of Tamarind-Abbey 
 - Lyran Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
 
 ### Dark Ages 
 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 
 

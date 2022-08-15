@@ -16,7 +16,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/263/battle-cobra-btl-c-2o) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/263) 
 - **Battle Value:** 944 
 
 ## Availability 

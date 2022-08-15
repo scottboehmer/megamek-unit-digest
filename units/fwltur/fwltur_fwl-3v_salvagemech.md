@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Salvage Arm × 2 
   - Lift Hoist × 2 
-- **Sources:** TRO3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1163/fwltur-fwl-3v-salvagemech) 
+- **Sources:** TRO3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1163) 
 - **Battle Value:** 252 
 
 ## Availability 
@@ -54,4 +54,15 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

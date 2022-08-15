@@ -21,7 +21,7 @@
   - Clan Angel ECM Suite 
 - **Design Quirks:** 
   - Accurate Weapon (ER PPC) 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6350/black-knight-blk-nt-4d) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6350) 
 - **Battle Value:** 2280 
 
 ## Availability 
@@ -46,4 +46,11 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
 

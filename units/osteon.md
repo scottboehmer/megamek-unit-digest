@@ -20,7 +20,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4767/osteon-prime) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4767) 
 - **Battle Value:** 3073 
 - [*More Info*](osteon/osteon_prime.md) 
 
@@ -47,7 +47,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5830/osteon-jaguar) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5830) 
 - **Battle Value:** 2526 
 - [*More Info*](osteon/osteon_jaguar.md) 
 
@@ -73,7 +73,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4766/osteon-a) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4766) 
 - **Battle Value:** 2291 
 - [*More Info*](osteon/osteon_a.md) 
 
@@ -97,7 +97,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5823/osteon-b) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5823) 
 - **Battle Value:** 2625 
 - [*More Info*](osteon/osteon_b.md) 
 
@@ -122,7 +122,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5824/osteon-c) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5824) 
 - **Battle Value:** 3139 
 - [*More Info*](osteon/osteon_c.md) 
 
@@ -144,7 +144,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5825/osteon-d) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5825) 
 - **Battle Value:** 2587 
 - [*More Info*](osteon/osteon_d.md) 
 
@@ -170,7 +170,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5826/osteon-e) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5826) 
 - **Battle Value:** 2762 
 - [*More Info*](osteon/osteon_e.md) 
 
@@ -197,7 +197,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5827/osteon-f) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5827) 
 - **Battle Value:** 2716 
 - [*More Info*](osteon/osteon_f.md) 
 
@@ -222,7 +222,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5828/osteon-g) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5828) 
 - **Battle Value:** 2251 
 - [*More Info*](osteon/osteon_g.md) 
 
@@ -247,7 +247,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5829/osteon-u) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5829) 
 - **Battle Value:** 2647 
 - [*More Info*](osteon/osteon_u.md) 
 

@@ -21,8 +21,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g) 
+- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8165) 
 - **Battle Value:** 1822 
 
 ## Availability 
@@ -63,5 +62,18 @@
 - Raven Alliance 
 - Republic of the Sphere 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
 - Wolf's Dragoons 
 

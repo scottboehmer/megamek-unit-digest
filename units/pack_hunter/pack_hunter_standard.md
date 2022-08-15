@@ -15,7 +15,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2392/pack-hunter-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2392) 
 - **Battle Value:** 1369 
 
 ## Availability 
@@ -58,7 +58,9 @@
 - Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
 - Society 
+- Wolf's Dragoons 
 
 ### Early Republic 
 
@@ -68,8 +70,10 @@
 - Clan Nova Cat 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -79,8 +83,10 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -90,6 +96,17 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Kell Hounds 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Wolf's Dragoons 
 

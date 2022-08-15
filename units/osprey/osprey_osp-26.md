@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Directional Torso Mount (Gauss Rifle) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2346/osprey-osp-26) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2346) 
 - **Battle Value:** 1541 
 
 ## Availability 
@@ -45,4 +45,9 @@
 
 - Capellan Confederation 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Star League (Wolf) 
 

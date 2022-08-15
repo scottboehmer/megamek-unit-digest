@@ -22,7 +22,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8317/orion-c-2) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8317) 
 - **Battle Value:** 2026 
 
 ## Availability 
@@ -30,6 +30,13 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 - Free Worlds League 
 - Mercenary 
+- Star League (Wolf) 
+- Wolf Empire 
 

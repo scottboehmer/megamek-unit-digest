@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Stable 
-- **Sources:** TRO 3075U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2447/patriot-pkm-2c) 
+- **Sources:** TRO 3075U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2447) 
 - **Battle Value:** 1613 
 - [*More Info*](patriot/patriot_pkm-2c.md) 
 
@@ -45,7 +45,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Stable 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2448/patriot-pkm-2d) 
+- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2448) 
 - **Battle Value:** 1699 
 - [*More Info*](patriot/patriot_pkm-2d.md) 
 
@@ -68,7 +68,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Stable 
-- **Sources:** TRO 3075-Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2449/patriot-pkm-2e) 
+- **Sources:** TRO 3075-Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2449) 
 - **Battle Value:** 1398 
 - [*More Info*](patriot/patriot_pkm-2e.md) 
 

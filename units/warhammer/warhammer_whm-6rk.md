@@ -20,7 +20,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5871/warhammer-whm-6rk) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5871) 
 - **Battle Value:** 1621 
 
 ## Availability 

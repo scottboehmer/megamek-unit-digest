@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1068/fire-falcon-f) 
+- **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1068) 
 - **Battle Value:** 1135 
 
 ## Availability 
@@ -29,6 +29,7 @@
 ### Jihad 
 
 - Clan Cloud Cobra 
+- Clan Coyote 
 - Clan Fire Mandrill 
 - Clan Goliath Scorpion 
 - Clan Hell's Horses 
@@ -50,4 +51,10 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

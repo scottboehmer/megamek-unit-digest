@@ -12,7 +12,7 @@
   - LB 10-X AC × 2 (ammo: 40 Standard, 30 Cluster) 
 - **Equipment:** 
   - C3 Main × 2 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2435/partisan-air-defense-tank-company-command) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2435) 
 - **Battle Value:** 920 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_company_command.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - C3 Main 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2436/partisan-air-defense-tank-lance-command) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2436) 
 - **Battle Value:** 836 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_lance_command.md) 
 
@@ -47,7 +47,7 @@
   - AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2440/partisan-air-defense-tank-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2440) 
 - **Battle Value:** 923 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_standard.md) 
 
@@ -64,7 +64,7 @@
   - Ultra AC/5 × 2 (ammo: 60) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2441/partisan-air-defense-tank-xl) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2441) 
 - **Battle Value:** 1110 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_xl.md) 
 
@@ -81,7 +81,7 @@
   - LB 2-X AC × 2 (ammo: 45) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2439/partisan-air-defense-tank-rac) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2439) 
 - **Battle Value:** 1247 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_rac.md) 
 
@@ -98,7 +98,7 @@
 - **Equipment:** 
   - C3 Support 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2438/partisan-air-defense-tank-quad-rac) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2438) 
 - **Battle Value:** 1178 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_quad_rac.md) 
 
@@ -117,7 +117,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2434/partisan-air-defense-tank-cell) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2434) 
 - **Battle Value:** 980 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_cell.md) 
 
@@ -135,7 +135,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2437/partisan-air-defense-tank-lrm) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2437) 
 - **Battle Value:** 1303 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_lrm.md) 
 

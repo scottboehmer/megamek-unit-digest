@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185) 
 - **Battle Value:** 1458 
 
 ## Availability 
@@ -57,6 +57,11 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Filtvelt Coalition 
+- Pirate 
+
+### ilClan 
 
 - Filtvelt Coalition 
 - Pirate 

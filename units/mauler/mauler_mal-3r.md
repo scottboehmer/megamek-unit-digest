@@ -18,8 +18,9 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2102/mauler-mal-3r) 
+  - Stabilized Weapon (LB 10-X AC) 
+  - Stabilized Weapon (LB 10-X AC) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2102) 
 - **Battle Value:** 1877 
 
 ## Availability 
@@ -41,6 +42,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

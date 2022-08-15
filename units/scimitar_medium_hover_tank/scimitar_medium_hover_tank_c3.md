@@ -14,7 +14,7 @@
   - RAC/2 (ammo: 90) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2829/scimitar-medium-hover-tank-c3) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2829) 
 - **Battle Value:** 680 
 
 ## Availability 
@@ -84,5 +84,19 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

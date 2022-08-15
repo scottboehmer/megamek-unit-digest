@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/5 × 3 (ammo: 60) 
   - Machine Gun × 8 (ammo: 400) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2822/schrek-ac-carrier-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2822) 
 - **Battle Value:** 773 
 
 ## Availability 

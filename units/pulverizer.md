@@ -20,7 +20,7 @@
   - Protected Actuators 
   - Bad Reputation (Clan) 
   - Accurate Weapon (Enhanced PPC) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2590/pulverizer-pul-2v) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2590) 
 - **Battle Value:** 2065 
 - [*More Info*](pulverizer/pulverizer_pul-2v.md) 
 
@@ -44,7 +44,7 @@
   - Protected Actuators 
   - Bad Reputation (Clan) 
   - Accurate Weapon (Enhanced PPC) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7647/pulverizer-pul-3r) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7647) 
 - **Battle Value:** 2068 
 - [*More Info*](pulverizer/pulverizer_pul-3r.md) 
 
@@ -68,7 +68,7 @@
   - Protected Actuators 
   - Bad Reputation (Clan) 
   - Accurate Weapon (ER PPC) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7648/pulverizer-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7648) 
 - **Battle Value:** 2506 
 - [*More Info*](pulverizer/pulverizer_standard.md) 
 

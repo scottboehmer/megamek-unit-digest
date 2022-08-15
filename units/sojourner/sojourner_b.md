@@ -23,7 +23,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7445/sojourner-b) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7445) 
 - **Battle Value:** 2397 
 
 ## Availability 
@@ -33,4 +33,9 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Star League (Wolf) 
 

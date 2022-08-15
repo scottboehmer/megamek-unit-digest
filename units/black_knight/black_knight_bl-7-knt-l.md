@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/361/black-knight-bl-7-knt-l) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/361) 
 - **Battle Value:** 1409 
 
 ## Availability 

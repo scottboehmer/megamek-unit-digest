@@ -16,7 +16,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8448/ryoken-iii-skinwalker-prime) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8448) 
 - **Battle Value:** 2809 
 - [*More Info*](skinwalker/skinwalker_prime.md) 
 
@@ -36,7 +36,7 @@
   - ER Small Laser × 6 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8449/ryoken-iii-skinwalker-a) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8449) 
 - **Battle Value:** 3500 
 - [*More Info*](skinwalker/skinwalker_a.md) 
 
@@ -57,7 +57,7 @@
   - ECM Suite 
   - Inner Sphere Supercharger 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8450/ryoken-iii-skinwalker-b) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8450) 
 - **Battle Value:** 2851 
 - [*More Info*](skinwalker/skinwalker_b.md) 
 
@@ -78,7 +78,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8451/ryoken-iii-skinwalker-c) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8451) 
 - **Battle Value:** 3175 
 - [*More Info*](skinwalker/skinwalker_c.md) 
 
@@ -98,7 +98,7 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8452/ryoken-iii-skinwalker-d) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8452) 
 - **Battle Value:** 2545 
 - [*More Info*](skinwalker/skinwalker_d.md) 
 
@@ -118,7 +118,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8453/ryoken-iii-skinwalker-e) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8453) 
 - **Battle Value:** 2768 
 - [*More Info*](skinwalker/skinwalker_e.md) 
 
@@ -140,7 +140,7 @@
   - Targeting Computer 
   - CASE II 
   - Inner Sphere Supercharger 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8454/ryoken-iii-skinwalker-f) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8454) 
 - **Battle Value:** 3704 
 - [*More Info*](skinwalker/skinwalker_f.md) 
 

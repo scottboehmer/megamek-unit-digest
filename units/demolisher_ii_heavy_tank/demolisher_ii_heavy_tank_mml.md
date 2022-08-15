@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/865/demolisher-ii-heavy-tank-mml) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/865) 
 - **Battle Value:** 1328 
 
 ## Availability 
@@ -43,4 +43,10 @@
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

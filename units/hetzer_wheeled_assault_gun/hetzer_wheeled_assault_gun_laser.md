@@ -12,7 +12,7 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1507/hetzer-wheeled-assault-gun-laser) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1507) 
 - **Battle Value:** 520 
 
 ## Availability 
@@ -125,6 +125,14 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Taurian Concordat 
+
+### ilClan 
 
 - Capellan Confederation 
 - Fronc Reaches 

@@ -15,7 +15,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2015/manticore-heavy-tank-3055-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2015) 
 - **Battle Value:** 957 
 
 ## Availability 
@@ -69,4 +69,14 @@
 - Mercenary 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7450/grasshopper-ghr-8k) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7450) 
 - **Battle Value:** 1754 
 
 ## Availability 
@@ -36,6 +36,12 @@
 
 ### Dark Ages 
 
+- Draconis Combine 
+- Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
 - Draconis Combine 
 - Mercenary 
 

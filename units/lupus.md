@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1965/lupus-prime) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1965) 
 - **Battle Value:** 2428 
 - [*More Info*](lupus/lupus_prime.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1963/lupus-a) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1963) 
 - **Battle Value:** 1927 
 - [*More Info*](lupus/lupus_a.md) 
 
@@ -58,7 +58,7 @@
   - CASE 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1964/lupus-b) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1964) 
 - **Battle Value:** 1985 
 - [*More Info*](lupus/lupus_b.md) 
 
@@ -79,7 +79,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7628/lupus-c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7628) 
 - **Battle Value:** 2533 
 - [*More Info*](lupus/lupus_c.md) 
 
@@ -99,7 +99,7 @@
   - CASE 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7629/lupus-d) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7629) 
 - **Battle Value:** 2030 
 - [*More Info*](lupus/lupus_d.md) 
 

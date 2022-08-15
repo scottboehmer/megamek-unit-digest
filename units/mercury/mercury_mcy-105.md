@@ -15,12 +15,11 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Easy to Maintain 
-  - No Torso Twist 
   - Modular Weapon (ER Small Laser) 
   - Modular Weapon (ER Small Laser) 
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (ER Medium Laser) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8305/mercury-mcy-105) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8305) 
 - **Battle Value:** 795 
 
 ## Availability 
@@ -38,7 +37,17 @@
 
 - Capellan Confederation 
 - Draconis Combine 
+- Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League (Wolf) 
 

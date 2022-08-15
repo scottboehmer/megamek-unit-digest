@@ -20,7 +20,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/799/daikyu-dai-01r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/799) 
 - **Battle Value:** 1513 
 
 ## Availability 
@@ -43,4 +43,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

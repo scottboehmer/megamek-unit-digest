@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1455/heavy-wheeled-apc-lrm) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1455) 
 - **Battle Value:** 265 
 - [*More Info*](heavy_wheeled_apc/heavy_wheeled_apc_lrm.md) 
 
@@ -29,7 +29,7 @@
   - Machine Gun × 6 (ammo: 300) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1456/heavy-wheeled-apc-mg) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1456) 
 - **Battle Value:** 213 
 - [*More Info*](heavy_wheeled_apc/heavy_wheeled_apc_mg.md) 
 
@@ -46,7 +46,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1457/heavy-wheeled-apc-srm) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1457) 
 - **Battle Value:** 255 
 - [*More Info*](heavy_wheeled_apc/heavy_wheeled_apc_srm.md) 
 
@@ -62,7 +62,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1458/heavy-wheeled-apc-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1458) 
 - **Battle Value:** 189 
 - [*More Info*](heavy_wheeled_apc/heavy_wheeled_apc_standard.md) 
 
@@ -78,7 +78,7 @@
   - Small VSP Laser × 2 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1459/heavy-wheeled-apc-wob) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1459) 
 - **Battle Value:** 330 
 - [*More Info*](heavy_wheeled_apc/heavy_wheeled_apc_wob.md) 
 

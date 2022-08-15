@@ -18,7 +18,7 @@
   - Anti-Aircraft Targeting 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1853/lancelot-lnc25-01) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1853) 
 - **Battle Value:** 1422 
 
 ## Availability 

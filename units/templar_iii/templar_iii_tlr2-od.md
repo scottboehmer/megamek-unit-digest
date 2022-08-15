@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rumble Seat 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6357/templar-iii-tlr2-od) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6357) 
 - **Battle Value:** 2108 
 
 ## Availability 
@@ -29,6 +29,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

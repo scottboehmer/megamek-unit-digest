@@ -14,7 +14,7 @@
   - Medium Laser 
   - Small Laser 
   - Machine Gun (ammo: 100) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2797/sarissa-mn1-d) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2797) 
 - **Battle Value:** 850 
 - [*More Info*](sarissa/sarissa_mn1-d.md) 
 
@@ -34,7 +34,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Ejection Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4974/sarissa-mn2-a-securitymech) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4974) 
 - **Battle Value:** 734 
 - [*More Info*](sarissa/sarissa_mn2-a_securitymech.md) 
 

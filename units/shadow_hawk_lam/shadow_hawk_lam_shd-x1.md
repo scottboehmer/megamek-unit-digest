@@ -16,7 +16,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - AC/2 (ammo: 45) 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5039/shadow-hawk-lam-shd-x1) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5039) 
 - **Battle Value:** 828 
 
 ## Availability 

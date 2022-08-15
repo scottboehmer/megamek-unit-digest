@@ -15,7 +15,7 @@
   - Heavy Machine Gun × 3 (ammo: 50) 
 - **Equipment:** 
   - Limited Amphibious Chassis 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6386/sm2-heavy-artillery-vehicle-standard) 
+- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6386) 
 - **Battle Value:** 955 
 
 ## Availability 
@@ -62,4 +62,13 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

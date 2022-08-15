@@ -21,7 +21,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2067/marauder-iic-3) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2067) 
 - **Battle Value:** 2445 
 
 ## Availability 
@@ -78,6 +78,11 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Clan Jade Falcon 
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Clan Jade Falcon 
 - Rasalhague Dominion 

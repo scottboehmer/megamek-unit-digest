@@ -21,7 +21,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508/phoenix-hawk-pxh-7k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508) 
 - **Battle Value:** 1241 
 
 ## Availability 
@@ -45,4 +45,9 @@
 - Draconis Combine 
 - Free Worlds League 
 - Oriente Protectorate 
+
+### ilClan 
+
+- Draconis Combine 
+- Free Worlds League 
 

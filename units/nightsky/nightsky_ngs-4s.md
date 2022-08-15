@@ -18,7 +18,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2279/nightsky-ngs-4s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2279) 
 - **Battle Value:** 1159 
 
 ## Availability 
@@ -78,4 +78,10 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
 

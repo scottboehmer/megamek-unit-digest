@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7505/fenris-ice-ferret-j) 
+- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7505) 
 - **Battle Value:** 1739 
 
 ## Availability 
@@ -44,5 +44,17 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Wolf Empire 
 - Wolf's Dragoons 
 

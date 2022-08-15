@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/866/demolisher-ii-heavy-tank-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/866) 
 - **Battle Value:** 1619 
 - [*More Info*](demolisher_ii_heavy_tank/demolisher_ii_heavy_tank_standard.md) 
 
@@ -32,7 +32,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/867/demolisher-ii-heavy-tank-thunderbolt) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/867) 
 - **Battle Value:** 2336 
 - [*More Info*](demolisher_ii_heavy_tank/demolisher_ii_heavy_tank_thunderbolt.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/865/demolisher-ii-heavy-tank-mml) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/865) 
 - **Battle Value:** 1328 
 - [*More Info*](demolisher_ii_heavy_tank/demolisher_ii_heavy_tank_mml.md) 
 

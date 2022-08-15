@@ -16,8 +16,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1692/jenner-jr7-d) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1692) 
 - **Battle Value:** 875 
 
 ## Availability 

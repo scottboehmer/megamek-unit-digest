@@ -23,7 +23,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2904/shadow-hawk-shd-3k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2904) 
 - **Battle Value:** 1591 
 
 ## Availability 
@@ -44,6 +44,11 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Draconis Combine 
 - Rasalhague Dominion 

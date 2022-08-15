@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3317/tundra-wolf-3) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3317) 
 - **Battle Value:** 3292 
 
 ## Availability 
@@ -46,4 +46,9 @@
 
 - Clan Wolf 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
 

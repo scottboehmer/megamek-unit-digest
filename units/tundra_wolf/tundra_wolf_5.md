@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6862/tundra-wolf-5) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6862) 
 - **Battle Value:** 2645 
 
 ## Availability 
@@ -41,4 +41,8 @@
 
 - Clan Wolf 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Wolf Empire 
 

@@ -21,8 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7588/dragonfly-viper-r) 
+- **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7588) 
 - **Battle Value:** 1335 
 
 ## Availability 
@@ -41,4 +40,11 @@
 - Rasalhague Dominion 
 - Republic of the Sphere 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
 

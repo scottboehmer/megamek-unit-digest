@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/458/caesar-ces-4s) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/458) 
 - **Battle Value:** 1750 
 
 ## Availability 
@@ -46,6 +46,10 @@
 - Lyran Commonwealth 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+
+### ilClan 
 
 - Lyran Commonwealth 
 

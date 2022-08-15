@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4763/osiris-osr-3d) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4763) 
 - **Battle Value:** 1138 
 - [*More Info*](osiris/osiris_osr-3d.md) 
 
@@ -35,7 +35,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4764/osiris-osr-4d) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4764) 
 - **Battle Value:** 1230 
 - [*More Info*](osiris/osiris_osr-4d.md) 
 
@@ -53,7 +53,7 @@
   - Heavy PPC 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5660/osiris-osr-5d) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5660) 
 - **Battle Value:** 1226 
 - [*More Info*](osiris/osiris_osr-5d.md) 
 

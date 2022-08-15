@@ -4,7 +4,7 @@
 
 ## Ghost GST-10A 'Aurora' 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere Mixed (3130) 
 - **Chassis:** 50 tons 
 - **Movement:** 6 / 9, XL 
@@ -22,12 +22,16 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8373/ghost-gst-10a-aurora) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8373) 
 - **Battle Value:** 1371 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3441/vixen-incubus-standard) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3441) 
 - **Battle Value:** 1596 
 - [*More Info*](incubus/incubus_standard.md) 
 
@@ -34,7 +34,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3442/vixen-incubus-2) 
+- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3442) 
 - **Battle Value:** 1913 
 - [*More Info*](incubus/incubus_2.md) 
 
@@ -52,7 +52,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7541/vixen-incubus-7) 
+- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7541) 
 - **Battle Value:** 1175 
 - [*More Info*](incubus/incubus_7.md) 
 
@@ -70,7 +70,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7543/vixen-incubus-8) 
+- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7543) 
 - **Battle Value:** 1557 
 - [*More Info*](incubus/incubus_8.md) 
 
@@ -88,7 +88,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3443/vixen-incubus-3) 
+- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3443) 
 - **Battle Value:** 1324 
 - [*More Info*](incubus/incubus_3.md) 
 
@@ -105,7 +105,7 @@
   - Medium Pulse Laser × 2 
   - Micro Pulse Laser × 2 
   - ER Micro Laser × 2 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3444/vixen-incubus-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3444) 
 - **Battle Value:** 1581 
 - [*More Info*](incubus/incubus_4.md) 
 
@@ -123,7 +123,7 @@
   - Light Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3445/vixen-incubus-5) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3445) 
 - **Battle Value:** 1364 
 - [*More Info*](incubus/incubus_5.md) 
 
@@ -142,7 +142,7 @@
 - **Equipment:** 
   - Talons 
   - CASE 
-- **Sources:** Ice Wind Metals - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8008/vixen-incubus-6) 
+- **Sources:** Ice Wind Metals - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8008) 
 - **Battle Value:** 1578 
 - [*More Info*](incubus/incubus_6.md) 
 
@@ -161,7 +161,7 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7544/vixen-incubus-9) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7544) 
 - **Battle Value:** 1849 
 - [*More Info*](incubus/incubus_9.md) 
 

@@ -4,7 +4,7 @@
 
 ## Centurion CN10-J 
 
-- **Role:** Sniper 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3057) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 4 / 6 
@@ -18,7 +18,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7696/centurion-cn10-j) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7696) 
 - **Battle Value:** 1257 
 
 ## Availability 
@@ -74,6 +74,17 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

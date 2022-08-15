@@ -15,7 +15,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/548/champion-chp-1n) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/548) 
 - **Battle Value:** 1233 
 - [*More Info*](champion/champion_chp-1n.md) 
 
@@ -34,7 +34,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/549/champion-chp-1n2) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/549) 
 - **Battle Value:** 1233 
 - [*More Info*](champion/champion_chp-1n2.md) 
 
@@ -51,7 +51,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/550/champion-chp-1nb) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/550) 
 - **Battle Value:** 1632 
 - [*More Info*](champion/champion_chp-1nb.md) 
 
@@ -70,7 +70,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/551/champion-chp-2n) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/551) 
 - **Battle Value:** 1116 
 - [*More Info*](champion/champion_chp-2n.md) 
 
@@ -93,7 +93,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/547/champion-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/547) 
 - **Battle Value:** 2191 
 - [*More Info*](champion/champion_c.md) 
 
@@ -113,7 +113,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/552/champion-chp-3n) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/552) 
 - **Battle Value:** 1400 
 - [*More Info*](champion/champion_chp-3n.md) 
 
@@ -134,7 +134,7 @@
   - C3i 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/553/champion-chp-3p) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/553) 
 - **Battle Value:** 1503 
 - [*More Info*](champion/champion_chp-3p.md) 
 

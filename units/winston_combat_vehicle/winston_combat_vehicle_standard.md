@@ -18,7 +18,7 @@
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3553/winston-combat-vehicle-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3553) 
 - **Battle Value:** 1507 
 
 ## Availability 
@@ -34,4 +34,11 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

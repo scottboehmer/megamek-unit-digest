@@ -16,7 +16,7 @@
   - Light Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/464/carnivore-assault-tank-second-line) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/464) 
 - **Battle Value:** 1248 
 
 ## Availability 
@@ -53,4 +53,17 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf Empire 
 

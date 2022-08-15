@@ -21,7 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Barrel Fists 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/984/enforcer-iii-enf-6nais) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/984) 
 - **Battle Value:** 1475 
 
 ## Availability 
@@ -39,6 +39,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

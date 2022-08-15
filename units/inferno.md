@@ -19,7 +19,7 @@
   - Easy to Pilot 
   - Battlefists 
   - EM Interference (Heavy PPC) 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7715/inferno-inf-no) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7715) 
 - **Battle Value:** 1597 
 - [*More Info*](inferno/inferno_inf-no.md) 
 
@@ -42,7 +42,7 @@
   - Easy to Pilot 
   - Battlefists 
   - EM Interference (ER PPC) 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7716/inferno-inf-noa) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7716) 
 - **Battle Value:** 1846 
 - [*More Info*](inferno/inferno_inf-noa.md) 
 
@@ -65,7 +65,7 @@
   - Easy to Pilot 
   - Battlefists 
   - EM Interference (ER PPC) 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7717/inferno-inf-nob) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7717) 
 - **Battle Value:** 1658 
 - [*More Info*](inferno/inferno_inf-nob.md) 
 
@@ -87,7 +87,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7718/inferno-inf-noc) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7718) 
 - **Battle Value:** 1698 
 - [*More Info*](inferno/inferno_inf-noc.md) 
 
@@ -111,7 +111,7 @@
   - Easy to Pilot 
   - Battlefists 
   - EM Interference (ER Large Laser) 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7719/inferno-inf-nor) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7719) 
 - **Battle Value:** 2360 
 - [*More Info*](inferno/inferno_inf-nor.md) 
 

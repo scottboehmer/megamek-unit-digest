@@ -14,7 +14,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8440/alpha-wolf-prime) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8440) 
 - **Battle Value:** 2966 
 - [*More Info*](alpha_wolf/alpha_wolf_prime.md) 
 
@@ -35,7 +35,7 @@
   - Inner Sphere Coolant Pod 
   - CASE 
   - Inner Sphere Supercharger 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8441/alpha-wolf-a) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8441) 
 - **Battle Value:** 3435 
 - [*More Info*](alpha_wolf/alpha_wolf_a.md) 
 
@@ -55,7 +55,7 @@
   - ECM Suite 
   - CASE 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8442/alpha-wolf-b) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8442) 
 - **Battle Value:** 2672 
 - [*More Info*](alpha_wolf/alpha_wolf_b.md) 
 
@@ -74,7 +74,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8443/alpha-wolf-c) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8443) 
 - **Battle Value:** 2535 
 - [*More Info*](alpha_wolf/alpha_wolf_c.md) 
 

@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6878/shen-yi-shy-5b) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6878) 
 - **Battle Value:** 1603 
 
 ## Availability 
@@ -31,6 +31,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

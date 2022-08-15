@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 30) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1390/harasser-missile-platform-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1390) 
 - **Battle Value:** 413 
 - [*More Info*](harasser_missile_platform/harasser_missile_platform_standard.md) 
 
@@ -25,7 +25,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 4 × 2 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1386/harasser-missile-platform-leaping-lisa) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1386) 
 - **Battle Value:** 354 
 - [*More Info*](harasser_missile_platform/harasser_missile_platform_leaping_lisa.md) 
 
@@ -39,7 +39,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - LRM 10 (ammo: 36) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1389/harasser-missile-platform-lrm) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1389) 
 - **Battle Value:** 412 
 - [*More Info*](harasser_missile_platform/harasser_missile_platform_lrm.md) 
 
@@ -54,7 +54,7 @@
 - **Weapons:** 
   - SRM 4 × 2 (ammo: 50) 
   - Vehicle Flamer (ammo: 20) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1388/harasser-missile-platform-flamer) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1388) 
 - **Battle Value:** 365 
 - [*More Info*](harasser_missile_platform/harasser_missile_platform_flamer.md) 
 
@@ -70,7 +70,7 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1387/harasser-missile-platform-mini-peggy) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1387) 
 - **Battle Value:** 351 
 - [*More Info*](harasser_missile_platform/harasser_missile_platform_mini-peggy.md) 
 
@@ -84,7 +84,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - MML 5 × 3 (ammo: 24 LRM, 20 SRM) 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5785/harasser-missile-platform-fuel-cell) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5785) 
 - **Battle Value:** 448 
 - [*More Info*](harasser_missile_platform/harasser_missile_platform_fuel_cell.md) 
 
@@ -98,7 +98,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6751/harasser-missile-platform-mml) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6751) 
 - **Battle Value:** 427 
 - [*More Info*](harasser_missile_platform/harasser_missile_platform_mml.md) 
 
@@ -112,7 +112,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - Thunderbolt 5 × 2 (ammo: 24) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6752/harasser-missile-platform-thunderbolt) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6752) 
 - **Battle Value:** 541 
 - [*More Info*](harasser_missile_platform/harasser_missile_platform_thunderbolt.md) 
 

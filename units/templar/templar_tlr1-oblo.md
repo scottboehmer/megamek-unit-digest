@@ -4,7 +4,7 @@
 
 ## Templar TLR1-OBLO 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3100) 
 - **Chassis:** 85 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** SO:Unending Faith: Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7637/templar-trl1-oblo) 
+- **Sources:** SO:Unending Faith: Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7637) 
 - **Battle Value:** 2062 
 
 ## Availability 

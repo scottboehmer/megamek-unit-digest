@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3554/wolf-trap-tora-wft-1) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3554) 
 - **Battle Value:** 1070 
 - [*More Info*](wolf_trap/wolf_trap_wft-1.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3555/wolf-trap-tora-wft-1-daitama) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3555) 
 - **Battle Value:** 1290 
 - [*More Info*](wolf_trap/wolf_trap_wft-1_daitama.md) 
 
@@ -59,7 +59,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3559/wolf-trap-tora-wft-c) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3559) 
 - **Battle Value:** 1001 
 - [*More Info*](wolf_trap/wolf_trap_wft-c.md) 
 
@@ -80,7 +80,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3558/wolf-trap-tora-wft-b) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3558) 
 - **Battle Value:** 1021 
 - [*More Info*](wolf_trap/wolf_trap_wft-b.md) 
 
@@ -102,7 +102,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3556/wolf-trap-tora-wft-2) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3556) 
 - **Battle Value:** 1212 
 - [*More Info*](wolf_trap/wolf_trap_wft-2.md) 
 
@@ -119,7 +119,7 @@
   - Medium X-Pulse Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3557/wolf-trap-tora-wft-2x-bear-trap) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3557) 
 - **Battle Value:** 1211 
 - [*More Info*](wolf_trap/wolf_trap_wft-2x.md) 
 
@@ -138,7 +138,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5415/wolf-trap-tora-wft-2b) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5415) 
 - **Battle Value:** 1439 
 - [*More Info*](wolf_trap/wolf_trap_wft-2b.md) 
 

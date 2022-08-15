@@ -17,7 +17,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5789/fensalir-combat-wige-xxl) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5789) 
 - **Battle Value:** 1513 
 
 ## Availability 
@@ -40,4 +40,10 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Vesper Marches 
 

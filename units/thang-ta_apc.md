@@ -12,7 +12,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6487/thang-ta-apc-standard) 
+- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6487) 
 - **Battle Value:** 241 
 - [*More Info*](thang-ta_apc/thang-ta_apc_standard.md) 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2417/panther-pnt-10k2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2417) 
 - **Battle Value:** 913 
 
 ## Availability 
@@ -54,10 +54,20 @@
 
 - Draconis Combine 
 - Filtvelt Coalition 
-- Fronc Reaches 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Taurian Concordat 
+
+### ilClan 
+
+- Draconis Combine 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Smoke Jaguar) 
 - Taurian Concordat 
 

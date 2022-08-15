@@ -18,7 +18,7 @@
   - Targeting Computer 
   - C3 Main × 2 
   - Infantry (4 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4669/morningstar-city-command-vehicle-company-command) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4669) 
 - **Battle Value:** 656 
 
 ## Availability 
@@ -46,4 +46,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

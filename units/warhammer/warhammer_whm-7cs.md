@@ -21,7 +21,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7599/warhammer-whm-7cs) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7599) 
 - **Battle Value:** 1751 
 
 ## Availability 

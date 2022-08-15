@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7849/carbine-con-9m-j-constructionmech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7849) 
 - **Battle Value:** 271 
 
 ## Availability 
@@ -25,4 +25,9 @@
 - Mercenary 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
+- Pirate 
 

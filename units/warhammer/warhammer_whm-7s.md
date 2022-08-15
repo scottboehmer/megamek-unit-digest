@@ -19,7 +19,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3493/warhammer-whm-7s) 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3493) 
 - **Battle Value:** 1477 
 
 ## Availability 
@@ -56,7 +56,6 @@
 
 ### Late Republic 
 
-- Clan Jade Falcon 
 - Federated Suns 
 - Filtvelt Coalition 
 - Lyran Commonwealth 
@@ -65,7 +64,10 @@
 
 ### Dark Ages 
 
-- Clan Jade Falcon 
 - Lyran Commonwealth 
+- Mercenary 
+
+### ilClan 
+
 - Mercenary 
 

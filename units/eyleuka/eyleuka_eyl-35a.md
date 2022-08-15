@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1008/eyleuka-eyl-35a) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1008) 
 - **Battle Value:** 1484 
 
 ## Availability 

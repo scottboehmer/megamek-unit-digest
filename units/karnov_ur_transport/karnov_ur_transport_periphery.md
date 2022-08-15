@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Rocket 20 × 4 
   - Rocket 10 × 6 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1758/karnov-ur-transport-periphery) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1758) 
 - **Battle Value:** 590 
 
 ## Availability 
@@ -64,6 +64,18 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Capellan Confederation 

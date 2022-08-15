@@ -14,7 +14,7 @@
   - AC/20 (ammo: 20) 
   - LRM 10 (ammo: 24) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/180/axel-heavy-tank-mk-1) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/180) 
 - **Battle Value:** 931 
 
 ## Availability 

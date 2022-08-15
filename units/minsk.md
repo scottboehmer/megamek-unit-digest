@@ -17,13 +17,13 @@
 - **Equipment:** 
   - Inner Sphere Beagle Active Probe 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4645/minsk-mnk-101) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4645) 
 - **Battle Value:** 2024 
 - [*More Info*](minsk/minsk_mnk-101.md) 
 
 ## Minsk (Standard) 
 
-- **Role:** Brawler 
+- **Role:** Sniper 
 - **Tech Base:** Clan Mixed (2862) 
 - **Chassis:** 70 tons (Endo Steel) 
 - **Movement:** 3 / 5 
@@ -39,7 +39,7 @@
   - Active Probe 
   - Inner Sphere A-Pod × 2 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7640/minsk-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7640) 
 - **Battle Value:** 2028 
 - [*More Info*](minsk/minsk_standard.md) 
 
@@ -62,7 +62,7 @@
   - Inner Sphere B-Pod × 2 
   - Inner Sphere Coolant Pod × 4 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7641/minsk-2) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7641) 
 - **Battle Value:** 2091 
 - [*More Info*](minsk/minsk_2.md) 
 

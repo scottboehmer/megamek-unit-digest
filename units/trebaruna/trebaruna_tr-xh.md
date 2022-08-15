@@ -18,7 +18,7 @@
   - Quad Turret 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6834/trebaruna-tr-xh) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6834) 
 - **Battle Value:** 2453 
 
 ## Availability 
@@ -37,4 +37,12 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
 

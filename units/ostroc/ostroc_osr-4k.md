@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2356/ostroc-osr-4k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2356) 
 - **Battle Value:** 1490 
 
 ## Availability 
@@ -43,4 +43,10 @@
 - Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Mercenary 
 

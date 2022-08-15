@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stabilized Weapon (Ultra AC/10) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3151/tai-sho-tsh-8s) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3151) 
 - **Battle Value:** 2001 
 
 ## Availability 
@@ -43,4 +43,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

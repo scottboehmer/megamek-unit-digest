@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Cargo 
-- **Sources:** RS 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3971/cobra-transport-vtol-original) 
+- **Sources:** RS 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3971) 
 - **Battle Value:** 265 
 
 ## Availability 

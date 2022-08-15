@@ -14,7 +14,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/830/dart-drt-6s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/830) 
 - **Battle Value:** 641 
 
 ## Availability 
@@ -54,4 +54,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

@@ -18,7 +18,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5712/templar-tlr1-oi) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5712) 
 - **Battle Value:** 2202 
 
 ## Availability 
@@ -39,5 +39,9 @@
 ### Dark Ages 
 
 - ComStar 
+- Federated Suns 
+
+### ilClan 
+
 - Federated Suns 
 

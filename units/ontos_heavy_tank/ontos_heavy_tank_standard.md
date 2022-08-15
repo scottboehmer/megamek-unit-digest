@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 8 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2331/ontos-heavy-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2331) 
 - **Battle Value:** 938 
 
 ## Availability 
@@ -142,5 +142,17 @@
 - Pirate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
 - Taurian Concordat 
 

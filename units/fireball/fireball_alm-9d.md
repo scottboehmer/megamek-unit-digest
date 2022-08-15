@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Narrow/Low Profile 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1077/fireball-alm-9d) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1077) 
 - **Battle Value:** 527 
 
 ## Availability 
@@ -50,6 +50,12 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Filtvelt Coalition 

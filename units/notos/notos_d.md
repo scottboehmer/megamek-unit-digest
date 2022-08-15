@@ -17,12 +17,16 @@
 - **Equipment:** 
   - Wheels 
   - Targeting Computer 
-- **Sources:** XTRO Republic III - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7374/notos-d) 
+- **Sources:** XTRO Republic III - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7374) 
 - **Battle Value:** 1865 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

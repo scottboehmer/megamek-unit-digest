@@ -19,7 +19,7 @@
   - M-Pod × 2 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2739/ronin-sa-rn7) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2739) 
 - **Battle Value:** 1180 
 
 ## Availability 

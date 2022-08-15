@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Rumble Seat 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6626/scourge-scg-wd1) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6626) 
 - **Battle Value:** 2061 
 
 ## Availability 
@@ -40,4 +40,17 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Vesper Marches 
 

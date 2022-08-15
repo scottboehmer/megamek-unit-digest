@@ -18,8 +18,9 @@
   - MASC 
   - C3 Support 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1492/hermes-her-4k) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1492) 
 - **Battle Value:** 1470 
 
 ## Availability 
@@ -58,4 +59,11 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+
+### ilClan 
+
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
+- Wolf Empire 
 

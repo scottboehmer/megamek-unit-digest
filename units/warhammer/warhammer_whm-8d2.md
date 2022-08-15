@@ -22,7 +22,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6868/warhammer-whm-8d2) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6868) 
 - **Battle Value:** 1654 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

@@ -16,7 +16,7 @@
   - Medium Laser × 10 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3402/victor-vtr-9b-li) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3402) 
 - **Battle Value:** 1625 
 
 ## Availability 

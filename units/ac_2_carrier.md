@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/2 × 5 (ammo: 180) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5/ac2-carrier-standard) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5) 
 - **Battle Value:** 403 
 - [*More Info*](ac_2_carrier/ac_2_carrier_standard.md) 
 
@@ -26,7 +26,7 @@
   - LB 2-X AC × 5 (ammo: 90 Standard, 90 Cluster) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4/ac2-carrier-lb-x) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4) 
 - **Battle Value:** 536 
 - [*More Info*](ac_2_carrier/ac_2_carrier_lb-x.md) 
 

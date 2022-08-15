@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6870/nova-cat-i) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6870) 
 - **Battle Value:** 2918 
 
 ## Availability 
@@ -33,4 +33,12 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Rasalhague Dominion 
+- Raven Alliance 
 

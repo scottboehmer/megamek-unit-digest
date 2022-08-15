@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2911/shadow-hawk-iic-standard) 
+- **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2911) 
 - **Battle Value:** 1732 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_standard.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2912/shadow-hawk-iic-2) 
+- **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2912) 
 - **Battle Value:** 1763 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_2.md) 
 
@@ -60,7 +60,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2913/shadow-hawk-iic-3) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2913) 
 - **Battle Value:** 1471 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_3.md) 
 
@@ -82,7 +82,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2914/shadow-hawk-iic-4) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2914) 
 - **Battle Value:** 1698 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_4.md) 
 
@@ -105,7 +105,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8328/shadow-hawk-iic-10) 
+- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8328) 
 - **Battle Value:** 1760 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_10.md) 
 
@@ -126,7 +126,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2915/shadow-hawk-iic-5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2915) 
 - **Battle Value:** 1614 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_5.md) 
 
@@ -149,7 +149,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2916/shadow-hawk-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2916) 
 - **Battle Value:** 1907 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_6.md) 
 
@@ -173,7 +173,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2917/shadow-hawk-iic-7) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2917) 
 - **Battle Value:** 1999 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_7.md) 
 
@@ -197,7 +197,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2918/shadow-hawk-iic-8) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2918) 
 - **Battle Value:** 1940 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_8.md) 
 
@@ -219,7 +219,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6911/shadow-hawk-iic-9) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6911) 
 - **Battle Value:** 1803 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_9.md) 
 
@@ -243,7 +243,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8329/shadow-hawk-iic-11) 
+- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8329) 
 - **Battle Value:** 1692 
 - [*More Info*](shadow_hawk_iic/shadow_hawk_iic_11.md) 
 

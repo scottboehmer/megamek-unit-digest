@@ -17,7 +17,7 @@
   - Lift Hoist 
   - Enviro-Sealing 
   - Searchlight 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4927/rock-hound-am-prm-rh7a-rock-otter-prospectormech) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4927) 
 - **Battle Value:** 455 
 
 ## Availability 
@@ -61,6 +61,13 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Raven Alliance 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Magistracy of Canopus 

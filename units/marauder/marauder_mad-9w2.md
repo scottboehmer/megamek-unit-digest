@@ -24,7 +24,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Snub-Nose PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2051/marauder-mad-9w2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2051) 
 - **Battle Value:** 1868 
 
 ## Availability 
@@ -58,4 +58,12 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

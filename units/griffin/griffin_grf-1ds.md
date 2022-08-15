@@ -20,7 +20,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294/griffin-grf-1ds) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294) 
 - **Battle Value:** 1285 
 
 ## Availability 
@@ -74,6 +74,10 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
 
 - Mercenary 
 

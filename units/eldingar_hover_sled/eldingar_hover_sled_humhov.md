@@ -17,7 +17,7 @@
   - Angel ECM Suite 
   - Targeting Computer 
   - Infantry (5.0 tons) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6758/eldingar-hover-sled-hmmhv-humhov) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6758) 
 - **Battle Value:** 1124 
 
 ## Availability 
@@ -41,4 +41,15 @@
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

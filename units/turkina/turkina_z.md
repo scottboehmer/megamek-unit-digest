@@ -18,8 +18,8 @@
   - CASE 
   - Light TAG 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5832/turkina-z) 
+  - Easy to Pilot 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5832) 
 - **Battle Value:** 3935 
 
 ## Availability 

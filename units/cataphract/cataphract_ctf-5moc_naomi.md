@@ -23,7 +23,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/476/cataphract-ctf-5moc-naomi) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/476) 
 - **Battle Value:** 2028 
 
 ## Availability 

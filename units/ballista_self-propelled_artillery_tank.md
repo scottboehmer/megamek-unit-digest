@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Sniper (ammo: 30) 
   - Machine Gun × 3 (ammo: 100) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6775/ballista-self-propelled-artillery-tank-standard) 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6775) 
 - **Battle Value:** 531 
 - [*More Info*](ballista_self-propelled_artillery_tank/ballista_self-propelled_artillery_tank_standard.md) 
 

@@ -20,7 +20,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/140/atlas-as7-d) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/140) 
 - **Battle Value:** 1897 
 
 ## Availability 
@@ -50,24 +50,6 @@
 
 - Capellan Confederation 
 - Circinus Federation 
-- Clan Blood Spirit 
-- Clan Burrock 
-- Clan Cloud Cobra 
-- Clan Coyote 
-- Clan Diamond Shark 
-- Clan Fire Mandrill 
-- Clan Ghost Bear 
-- Clan Goliath Scorpion 
-- Clan Hell's Horses 
-- Clan Ice Hellion 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Smoke Jaguar 
-- Clan Snow Raven 
-- Clan Star Adder 
-- Clan Steel Viper 
-- Clan Wolf 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -210,6 +192,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

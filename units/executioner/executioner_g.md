@@ -22,7 +22,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6841/gladiator-executioner-g) 
+- **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6841) 
 - **Battle Value:** 3825 
 
 ## Availability 
@@ -54,7 +54,21 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf 
+- Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf's Dragoons 
 

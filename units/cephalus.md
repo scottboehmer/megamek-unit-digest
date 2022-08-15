@@ -20,7 +20,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3930/cephalus-prime) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3930) 
 - **Battle Value:** 1038 
 - [*More Info*](cephalus/cephalus_prime.md) 
 
@@ -44,7 +44,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3929/cephalus-a) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3929) 
 - **Battle Value:** 809 
 - [*More Info*](cephalus/cephalus_a.md) 
 
@@ -69,7 +69,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5638/cephalus-b) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5638) 
 - **Battle Value:** 785 
 - [*More Info*](cephalus/cephalus_b.md) 
 
@@ -93,7 +93,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5639/cephalus-c) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5639) 
 - **Battle Value:** 1209 
 - [*More Info*](cephalus/cephalus_c.md) 
 
@@ -117,7 +117,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5640/cephalus-d) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5640) 
 - **Battle Value:** 1460 
 - [*More Info*](cephalus/cephalus_d.md) 
 
@@ -141,7 +141,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5641/cephalus-e) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5641) 
 - **Battle Value:** 1284 
 - [*More Info*](cephalus/cephalus_e.md) 
 
@@ -166,7 +166,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5642/cephalus-u) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5642) 
 - **Battle Value:** 878 
 - [*More Info*](cephalus/cephalus_u.md) 
 

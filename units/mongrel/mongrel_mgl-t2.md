@@ -18,7 +18,7 @@
   - ECM Suite 
   - CASE 
   - AES 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6619/mongrel-mgl-t2) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6619) 
 - **Battle Value:** 1949 
 
 ## Availability 
@@ -36,4 +36,13 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Wolf) 
 

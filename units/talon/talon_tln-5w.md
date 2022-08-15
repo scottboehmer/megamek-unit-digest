@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3153/talon-tln-5w) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3153) 
 - **Battle Value:** 1175 
 
 ## Availability 
@@ -166,7 +166,6 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
-- Escorpión Imperio 
 - Federated Suns 
 - Free Rasalhague Republic 
 - Kell Hounds 
@@ -177,58 +176,41 @@
 
 ### Early Republic 
 
-- Clan Diamond Shark 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Duchy of Andurien 
-- Escorpión Imperio 
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 
 ### Late Republic 
 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Duchy of Andurien 
-- Escorpión Imperio 
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Duchy of Andurien 
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

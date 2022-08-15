@@ -18,8 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4523/linebacker-f) 
+- **Sources:** Rec Guide:ilClan #6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4523) 
 - **Battle Value:** 1928 
 
 ## Availability 
@@ -64,5 +63,14 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Raven Alliance 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Raven Alliance 
+- Star League (Wolf) 
+- Wolf Empire 
 - Wolf's Dragoons 
 

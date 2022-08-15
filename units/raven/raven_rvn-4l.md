@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2666/raven-rvn-4l) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2666) 
 - **Battle Value:** 873 
 
 ## Availability 
@@ -50,6 +50,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Duchy of Andurien 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Duchy of Andurien 
 - Magistracy of Canopus 

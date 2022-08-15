@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1032/falcon-hawk-fnhk-9k1b) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1032) 
 - **Battle Value:** 1116 
 
 ## Availability 
@@ -50,4 +50,8 @@
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
 

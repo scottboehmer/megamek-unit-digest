@@ -24,12 +24,16 @@
   - Improved Sensors 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8313/rime-otter-d) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8313) 
 - **Battle Value:** 1998 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

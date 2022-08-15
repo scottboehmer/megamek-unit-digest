@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3051/starslayer-sty-3dr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3051) 
 - **Battle Value:** 1781 
 
 ## Availability 
@@ -56,4 +56,13 @@
 - Mercenary 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Tamar Pact 
 

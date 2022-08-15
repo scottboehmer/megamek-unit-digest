@@ -4,7 +4,7 @@
 
 ## Crosscut IIC SolahmaMech 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan (3133) 
 - **Chassis:** 30 tons (Industrial) 
 - **Movement:** 10 / 15, XXL 
@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Illegal Design 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8099/crosscut-iic-solahmamech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8099) 
 - **Battle Value:** 571 
 
 ## Availability 
@@ -28,4 +28,9 @@
 - Clan Sea Fox 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Pirate 
 

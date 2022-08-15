@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1846/ku-wheeled-assault-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1846) 
 - **Battle Value:** 1091 
 - [*More Info*](ku_wheeled_assault_tank/ku_wheeled_assault_tank_standard.md) 
 
@@ -34,7 +34,7 @@
   - ECM Suite 
   - CASE 
   - Infantry (10.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1845/ku-wheeled-assault-tank-ifv-turhan-ii) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1845) 
 - **Battle Value:** 1042 
 - [*More Info*](ku_wheeled_assault_tank/ku_wheeled_assault_tank_ifv_turhan_ii.md) 
 

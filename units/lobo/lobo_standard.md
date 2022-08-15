@@ -22,7 +22,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Directional Torso Mount (Anti-Missile System) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4528/lobo-standard) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4528) 
 - **Battle Value:** 1715 
 
 ## Availability 
@@ -51,4 +51,9 @@
 
 - Clan Hell's Horses 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Star League (Wolf) 
 

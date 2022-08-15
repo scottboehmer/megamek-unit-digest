@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3632/zephyr-hovertank-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3632) 
 - **Battle Value:** 904 
 
 ## Availability 
@@ -117,4 +117,12 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Kell Hounds 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
 

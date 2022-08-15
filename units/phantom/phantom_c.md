@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2483/phantom-c) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2483) 
 - **Battle Value:** 1590 
 
 ## Availability 
@@ -87,4 +87,11 @@
 - Escorpión Imperio 
 - Raven Alliance 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Wolf) 
 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2808/saxon-apc-hq) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2808) 
 - **Battle Value:** 708 
 
 ## Availability 
@@ -35,4 +35,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

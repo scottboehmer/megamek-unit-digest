@@ -15,7 +15,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1036/fennec-fec-1cm) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1036) 
 - **Battle Value:** 1395 
 - [*More Info*](fennec/fennec_fec-1cm.md) 
 
@@ -34,7 +34,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1037/fennec-fec-3c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1037) 
 - **Battle Value:** 1551 
 - [*More Info*](fennec/fennec_fec-3c.md) 
 
@@ -55,7 +55,7 @@
   - C3 Boosted Main 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6900/fennec-fec-5cm) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6900) 
 - **Battle Value:** 1498 
 - [*More Info*](fennec/fennec_fec-5cm.md) 
 

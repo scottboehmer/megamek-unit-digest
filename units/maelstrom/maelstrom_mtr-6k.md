@@ -21,8 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - Good Reputation 
-  - No Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1990/maelstrom-mtr-6k) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1990) 
 - **Battle Value:** 1678 
 
 ## Availability 
@@ -63,4 +62,12 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

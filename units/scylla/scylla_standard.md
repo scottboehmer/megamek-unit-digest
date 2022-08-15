@@ -20,31 +20,23 @@
   - CASE 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5000/scylla-standard) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5000) 
 - **Battle Value:** 2897 
 
 ## Availability 
 
 ### Civil War 
 
-- Clan Diamond Shark 
-- Clan Ghost Bear 
-- Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Snow Raven 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
+- Clan Star Adder 
+- Clan Steel Viper 
 
 ### Jihad 
 
-- Clan Diamond Shark 
-- Clan Ghost Bear 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Snow Raven 
+- Clan Star Adder 
 - Clan Steel Viper 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 

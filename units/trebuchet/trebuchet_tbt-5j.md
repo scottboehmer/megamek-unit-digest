@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Fast Reload (LRM 15) 
-- **Sources:** TRO SW - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3296/trebuchet-tbt-5j) 
+- **Sources:** TRO SW - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3296) 
 - **Battle Value:** 1191 
 
 ## Availability 

@@ -18,12 +18,11 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 24) 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Accurate Weapon (Streak SRM 2 (OS)) 
   - Fast Reload (Streak SRM 2 (OS)) 
   - Accurate Weapon (Streak SRM 2 (OS)) 
   - Fast Reload (Streak SRM 2 (OS)) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3476/war-dog-wr-dg-02fc) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3476) 
 - **Battle Value:** 1814 
 - [*More Info*](war_dog/war_dog_wr-dg-02fc.md) 
 
@@ -42,9 +41,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3477/war-dog-wr-dg-03fc) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3477) 
 - **Battle Value:** 1962 
 - [*More Info*](war_dog/war_dog_wr-dg-03fc.md) 
 

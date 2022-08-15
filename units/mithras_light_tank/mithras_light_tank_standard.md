@@ -15,7 +15,7 @@
   - Ultra AC/2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2193/mithras-light-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2193) 
 - **Battle Value:** 670 
 
 ## Availability 

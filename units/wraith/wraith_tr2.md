@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3589/wraith-tr2) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3589) 
 - **Battle Value:** 1485 
 
 ## Availability 
@@ -70,4 +70,10 @@
 - Free Worlds League 
 - Mercenary 
 - Oriente Protectorate 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

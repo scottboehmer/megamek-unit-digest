@@ -17,14 +17,37 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1460/helepolis-hep-1h) 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1460) 
 - **Battle Value:** 1063 
 - [*More Info*](helepolis/helepolis_hep-1h.md) 
+
+## Helepolis HEP-2X 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2488) 
+- **Chassis:** 75 tons 
+- **Movement:** 3 / 5 
+- **Armor:** 208 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Large Laser 
+  - LRM 10 (ammo: 12) 
+  - Sniper (ammo: 20) 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Reinforced Legs 
+  - Stable 
+- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8471) 
+- **Battle Value:** 1340 
+- [*More Info*](helepolis/helepolis_hep-2x.md) 
 
 ## Helepolis HEP-2H 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (2488) 
+- **Tech Base:** Inner Sphere (2567) 
 - **Chassis:** 75 tons 
 - **Movement:** 3 / 5 
 - **Armor:** 208 
@@ -40,7 +63,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1461/helepolis-hep-2h) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1461) 
 - **Battle Value:** 1369 
 - [*More Info*](helepolis/helepolis_hep-2h.md) 
 
@@ -63,7 +86,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1462/helepolis-hep-3h) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1462) 
 - **Battle Value:** 1380 
 - [*More Info*](helepolis/helepolis_hep-3h.md) 
 
@@ -86,7 +109,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1463/helepolis-hep-4h) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1463) 
 - **Battle Value:** 1366 
 - [*More Info*](helepolis/helepolis_hep-4h.md) 
 

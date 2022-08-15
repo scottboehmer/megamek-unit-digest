@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/5 × 4 (ammo: 40) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2445/partisan-heavy-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2445) 
 - **Battle Value:** 673 
 - [*More Info*](partisan_heavy_tank/partisan_heavy_tank_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - AC/2 × 5 (ammo: 180) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2442/partisan-heavy-tank-ac2) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2442) 
 - **Battle Value:** 580 
 - [*More Info*](partisan_heavy_tank/partisan_heavy_tank_ac2.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - LRM 15 × 4 (ammo: 48) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2444/partisan-heavy-tank-lrm) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2444) 
 - **Battle Value:** 1021 
 - [*More Info*](partisan_heavy_tank/partisan_heavy_tank_lrm.md) 
 
@@ -58,7 +58,7 @@
 - **Equipment:** 
   - C3 Support 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2443/partisan-heavy-tank-c3) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2443) 
 - **Battle Value:** 662 
 - [*More Info*](partisan_heavy_tank/partisan_heavy_tank_c3.md) 
 

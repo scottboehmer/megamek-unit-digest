@@ -20,12 +20,16 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6837/hauptmann-ha1-ot) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6837) 
 - **Battle Value:** 3031 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+
+### ilClan 
 
 - Lyran Commonwealth 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2307/nyx-nx-80) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2307) 
 - **Battle Value:** 924 
 
 ## Availability 
@@ -68,4 +68,15 @@
 - Rasalhague Dominion 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Wolf) 
+- Vesper Marches 
 

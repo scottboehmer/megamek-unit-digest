@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Improved Heavy Gauss Rifle (ammo: 16) 
   - Heavy PPC 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6498/bulwark-assault-vehicle-standard) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6498) 
 - **Battle Value:** 1737 
 
 ## Availability 
@@ -40,4 +40,10 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

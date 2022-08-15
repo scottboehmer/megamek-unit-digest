@@ -16,7 +16,7 @@
   - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6555/black-hawk-2) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6555) 
 - **Battle Value:** 2161 
 
 ## Availability 
@@ -81,4 +81,20 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

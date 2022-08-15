@@ -5,7 +5,7 @@
 ## Vapor Eagle 6 "Goshawk" 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (2840) 
+- **Tech Base:** Clan (2850) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
   - **Jumping:** 6 
@@ -17,10 +17,11 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+  - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6) 
-- **Battle Value:** 1747 
+- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709) 
+- **Battle Value:** 1959 
 
 ## Availability 
 
@@ -136,6 +137,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

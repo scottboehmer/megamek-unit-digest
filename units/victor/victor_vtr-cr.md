@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3416/victor-vtr-cr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3416) 
 - **Battle Value:** 1465 
 
 ## Availability 
@@ -41,6 +41,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

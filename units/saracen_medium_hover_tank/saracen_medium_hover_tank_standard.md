@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 24) 
   - SRM 2 × 3 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2796/saracen-medium-hover-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2796) 
 - **Battle Value:** 673 
 
 ## Availability 
@@ -130,6 +130,12 @@
 - Rim Commonality 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Marian Hegemony 
+- Mercenary 
+
+### ilClan 
 
 - Draconis Combine 
 - Marian Hegemony 

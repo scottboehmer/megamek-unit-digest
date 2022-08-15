@@ -17,7 +17,7 @@
   - LRM 5 × 2 (ammo: 48) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8336/longbow-lgb-14v) 
+- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8336) 
 - **Battle Value:** 1763 
 
 ## Availability 
@@ -35,4 +35,13 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

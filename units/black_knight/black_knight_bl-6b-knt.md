@@ -19,7 +19,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/357/black-knight-bl-6b-knt) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/357) 
 - **Battle Value:** 1627 
 
 ## Availability 
@@ -93,5 +93,12 @@
 - Mercenary 
 - Oriente Protectorate 
 - Republic of the Sphere 
+- Scorpion Empire 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 - Scorpion Empire 
 

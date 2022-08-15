@@ -21,7 +21,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3164/targe-trg-1n) 
+- **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3164) 
 - **Battle Value:** 813 
 
 ## Availability 
@@ -37,4 +37,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

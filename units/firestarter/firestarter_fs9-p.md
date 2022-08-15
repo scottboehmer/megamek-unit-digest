@@ -18,7 +18,7 @@
   - Flamer × 4 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1095/firestarter-fs9-p) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1095) 
 - **Battle Value:** 775 
 
 ## Availability 
@@ -47,30 +47,18 @@
 ### Early Republic 
 
 - Calderon Protectorate 
-- Filtvelt Coalition 
-- Fronc Reaches 
-- Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
 - Taurian Concordat 
 
 ### Late Republic 
 
-- Calderon Protectorate 
-- Filtvelt Coalition 
-- Fronc Reaches 
-- Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
 - Taurian Concordat 
 
 ### Dark Ages 
 
-- Calderon Protectorate 
-- Filtvelt Coalition 
-- Fronc Reaches 
-- Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
-- Taurian Concordat 
 

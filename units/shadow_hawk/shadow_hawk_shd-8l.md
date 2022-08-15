@@ -25,7 +25,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2909/shadow-hawk-shd-8l) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2909) 
 - **Battle Value:** 1536 
 
 ## Availability 
@@ -43,6 +43,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

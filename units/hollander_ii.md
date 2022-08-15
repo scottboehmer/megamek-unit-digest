@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stabilized Weapon (Gauss Rifle) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1538/hollander-ii-bzk-f5) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1538) 
 - **Battle Value:** 1214 
 - [*More Info*](hollander_ii/hollander_ii_bzk-f5.md) 
 
@@ -32,7 +32,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stabilized Weapon (Heavy Gauss Rifle) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1539/hollander-ii-bzk-f7) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1539) 
 - **Battle Value:** 1192 
 - [*More Info*](hollander_ii/hollander_ii_bzk-f7.md) 
 

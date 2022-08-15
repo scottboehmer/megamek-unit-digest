@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rumble Seat 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6353/templar-iii-tlr2-o) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6353) 
 - **Battle Value:** 2028 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

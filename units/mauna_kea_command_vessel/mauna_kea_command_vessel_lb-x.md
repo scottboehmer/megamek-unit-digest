@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2110/mauna-kea-command-vessel-lb-x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2110) 
 - **Battle Value:** 929 
 
 ## Availability 
@@ -38,4 +38,8 @@
 
 - Free Worlds League 
 - Oriente Protectorate 
+
+### ilClan 
+
+- Free Worlds League 
 

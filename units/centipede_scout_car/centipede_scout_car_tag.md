@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/515/centipede-scout-car-tag) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/515) 
 - **Battle Value:** 322 
 
 ## Availability 
@@ -41,4 +41,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

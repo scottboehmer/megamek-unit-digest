@@ -4,7 +4,7 @@
 
 ## Destrier Siege Vehicle (Standard) 
 
-- **Role:** Missile Boat 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3100) 
 - **Chassis:** 200 tons Tracked 
 - **Movement:** 2 / 3, XL 
@@ -22,7 +22,7 @@
   - C3 Support 
   - Hitch 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6329/destrier-siege-vehicle-standard) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6329) 
 - **Battle Value:** 2123 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

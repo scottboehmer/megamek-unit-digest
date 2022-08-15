@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Barrel Fists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1480/hellstar-3) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1480) 
 - **Battle Value:** 3025 
 
 ## Availability 
@@ -44,4 +44,10 @@
 
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
+- Star League (Wolf) 
 

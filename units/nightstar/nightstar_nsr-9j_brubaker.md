@@ -19,7 +19,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4723/nightstar-nsr-9j-brubaker) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4723) 
 - **Battle Value:** 2838 
 
 ## Availability 

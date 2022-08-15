@@ -17,7 +17,7 @@
   - ER Medium Laser × 3 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5654/brigand-ldt-x4) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5654) 
 - **Battle Value:** 1038 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Pirate 
+
+### ilClan 
 
 - Pirate 
 

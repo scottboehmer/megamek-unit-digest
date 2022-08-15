@@ -16,8 +16,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/597/cicada-cda-3ma) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/597) 
 - **Battle Value:** 1158 
 
 ## Availability 
@@ -62,4 +61,12 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
 

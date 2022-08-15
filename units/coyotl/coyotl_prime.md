@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/714/coyotl-prime) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/714) 
 - **Battle Value:** 1974 
 
 ## Availability 
@@ -83,4 +83,16 @@
 - Lyran Commonwealth 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Federated Suns 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Star League (Smoke Jaguar) 
+- Tamar Pact 
 

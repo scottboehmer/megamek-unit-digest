@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Barrel Fists 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5863/hammerhands-hmh-3d-kessem) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5863) 
 - **Battle Value:** 1413 
 
 ## Availability 

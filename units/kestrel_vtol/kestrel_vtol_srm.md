@@ -14,7 +14,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1768/kestrel-vtol-srm) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1768) 
 - **Battle Value:** 192 
 
 ## Availability 
@@ -61,13 +61,20 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
 - Draconis Combine 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Wolf's Dragoons 
 

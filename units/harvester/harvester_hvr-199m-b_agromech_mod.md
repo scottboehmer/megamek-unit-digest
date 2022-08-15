@@ -13,7 +13,7 @@
 - **Weapons:** 
   - RAC/2 (ammo: 45) 
   - Combine 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7863/harvester-hvr-199m-b-agromech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7863) 
 - **Battle Value:** 460 
 
 ## Availability 
@@ -25,4 +25,11 @@
 - Mercenary 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
+- Pirate 
 

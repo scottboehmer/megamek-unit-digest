@@ -14,7 +14,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/835/darter-scout-car-srm) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/835) 
 - **Battle Value:** 192 
 
 ## Availability 
@@ -59,6 +59,12 @@
 - Filtvelt Coalition 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Federated Suns 

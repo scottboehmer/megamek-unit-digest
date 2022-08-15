@@ -21,7 +21,7 @@
   - No/Minimal Arms 
   - Weak Legs 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5619/longbow-lgb-0c) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5619) 
 - **Battle Value:** 1295 
 - [*More Info*](longbow/longbow_lgb-0c.md) 
 
@@ -42,7 +42,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1930/longbow-lgb-0w) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1930) 
 - **Battle Value:** 1337 
 - [*More Info*](longbow/longbow_lgb-0w.md) 
 
@@ -57,7 +57,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** Rec Guide:ilClan #20 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8331/longbow-lgb-0w2) 
+- **Sources:** Rec Guide:ilClan #20 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8331) 
 - **Battle Value:** 1410 
 - [*More Info*](longbow/longbow_lgb-0w2.md) 
 
@@ -78,7 +78,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1936/longbow-lgb-7q) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1936) 
 - **Battle Value:** 1618 
 - [*More Info*](longbow/longbow_lgb-7q.md) 
 
@@ -94,7 +94,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 4 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** Rec Guide:ilClan #20 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/8332/longbow-lgb-8c) 
+- **Sources:** Rec Guide:ilClan #20 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/8332) 
 - **Battle Value:** 1653 
 - [*More Info*](longbow/longbow_lgb-8c.md) 
 
@@ -117,7 +117,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1937/longbow-lgb-7v) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1937) 
 - **Battle Value:** 1816 
 - [*More Info*](longbow/longbow_lgb-7v.md) 
 
@@ -135,7 +135,7 @@
   - LRM 5 w/ Artemis IV × 2 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #20 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8333/longbow-lgb-10c) 
+- **Sources:** Rec Guide:ilClan #20 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8333) 
 - **Battle Value:** 1898 
 - [*More Info*](longbow/longbow_lgb-10c.md) 
 
@@ -158,7 +158,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1931/longbow-lgb-12c) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1931) 
 - **Battle Value:** 1686 
 - [*More Info*](longbow/longbow_lgb-12c.md) 
 
@@ -173,7 +173,7 @@
 - **Weapons:** 
   - PPC × 2 
   - Rocket 10 × 26 
-- **Sources:** Rec Guide:ilClan #20 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8330/longbow-lgb-0h) 
+- **Sources:** Rec Guide:ilClan #20 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8330) 
 - **Battle Value:** 1813 
 - [*More Info*](longbow/longbow_lgb-0h.md) 
 
@@ -196,7 +196,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1938/longbow-lgb-8v) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1938) 
 - **Battle Value:** 1808 
 - [*More Info*](longbow/longbow_lgb-8v.md) 
 
@@ -222,7 +222,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1934/longbow-lgb-13nais) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1934) 
 - **Battle Value:** 1804 
 - [*More Info*](longbow/longbow_lgb-13nais.md) 
 
@@ -244,7 +244,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1933/longbow-lgb-13c) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1933) 
 - **Battle Value:** 1307 
 - [*More Info*](longbow/longbow_lgb-13c.md) 
 
@@ -266,7 +266,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1935/longbow-lgb-14c) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1935) 
 - **Battle Value:** 1421 
 - [*More Info*](longbow/longbow_lgb-14c.md) 
 
@@ -290,7 +290,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1932/longbow-lgb-12r) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1932) 
 - **Battle Value:** 1979 
 - [*More Info*](longbow/longbow_lgb-12r.md) 
 
@@ -314,7 +314,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6854/longbow-lgb-14c2) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6854) 
 - **Battle Value:** 1291 
 - [*More Info*](longbow/longbow_lgb-14c2.md) 
 
@@ -332,7 +332,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8347/longbow-lgb-14q) 
+- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8347) 
 - **Battle Value:** 1828 
 - [*More Info*](longbow/longbow_lgb-14q.md) 
 
@@ -351,7 +351,7 @@
   - LRM 5 × 2 (ammo: 48) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8336/longbow-lgb-14v) 
+- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8336) 
 - **Battle Value:** 1763 
 - [*More Info*](longbow/longbow_lgb-14v.md) 
 
@@ -369,7 +369,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8334/longbow-lgb-10k) 
+- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8334) 
 - **Battle Value:** 1791 
 - [*More Info*](longbow/longbow_lgb-10k.md) 
 

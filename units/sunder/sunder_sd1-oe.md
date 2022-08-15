@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3129/sunder-sd1-oe) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3129) 
 - **Battle Value:** 1876 
 
 ## Availability 
@@ -29,6 +29,7 @@
 - Federated Suns 
 - Lyran Alliance 
 - Mercenary 
+- Wolf's Dragoons 
 
 ### Early Republic 
 
@@ -38,6 +39,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -47,6 +49,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -56,4 +59,15 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

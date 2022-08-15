@@ -17,7 +17,7 @@
   - Poor Targeting (Long) 
   - Prototype 
   - Poor Cooling Jacket (Large Laser) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5583/crossbow-crs-x) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5583) 
 - **Battle Value:** 969 
 - [*More Info*](crossbow/crossbow_crs-x.md) 
 
@@ -37,7 +37,7 @@
   - Poor Targeting (Long) 
   - Modular Weapon (LRM 10) 
   - Modular Weapon (LRM 10) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/733/crossbow-crs-6b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/733) 
 - **Battle Value:** 1210 
 - [*More Info*](crossbow/crossbow_crs-6b.md) 
 
@@ -55,7 +55,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Poor Targeting (Long) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734/crossbow-crs-6c) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734) 
 - **Battle Value:** 1204 
 - [*More Info*](crossbow/crossbow_crs-6c.md) 
 
@@ -73,7 +73,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/739/crossbow-prime) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/739) 
 - **Battle Value:** 1829 
 - [*More Info*](crossbow/crossbow_prime.md) 
 
@@ -93,7 +93,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/730/crossbow-a) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/730) 
 - **Battle Value:** 1797 
 - [*More Info*](crossbow/crossbow_a.md) 
 
@@ -111,7 +111,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/731/crossbow-b) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/731) 
 - **Battle Value:** 1687 
 - [*More Info*](crossbow/crossbow_b.md) 
 
@@ -132,7 +132,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/738/crossbow-h) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/738) 
 - **Battle Value:** 1707 
 - [*More Info*](crossbow/crossbow_h.md) 
 
@@ -152,7 +152,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/732/crossbow-c) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/732) 
 - **Battle Value:** 1557 
 - [*More Info*](crossbow/crossbow_c.md) 
 
@@ -170,7 +170,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/736/crossbow-d) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/736) 
 - **Battle Value:** 1154 
 - [*More Info*](crossbow/crossbow_d.md) 
 
@@ -190,7 +190,7 @@
   - Poor Targeting (Long) 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 6) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/735/crossbow-crs-9a) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/735) 
 - **Battle Value:** 1583 
 - [*More Info*](crossbow/crossbow_crs-9a.md) 
 
@@ -209,7 +209,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #17 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e) 
+- **Sources:** Rec Guide:ilClan #17 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737) 
 - **Battle Value:** 1558 
 - [*More Info*](crossbow/crossbow_e.md) 
 
@@ -230,7 +230,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/740/crossbow-u) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/740) 
 - **Battle Value:** 1856 
 - [*More Info*](crossbow/crossbow_u.md) 
 
@@ -247,7 +247,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8236/crossbow-f) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8236) 
 - **Battle Value:** 1854 
 - [*More Info*](crossbow/crossbow_f.md) 
 
@@ -265,7 +265,7 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8238/crossbow-w) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8238) 
 - **Battle Value:** 2051 
 - [*More Info*](crossbow/crossbow_w.md) 
 
@@ -281,7 +281,7 @@
   - Streak LRM 5 × 6 (ammo: 96) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8237/crossbow-g) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8237) 
 - **Battle Value:** 1725 
 - [*More Info*](crossbow/crossbow_g.md) 
 
@@ -299,7 +299,7 @@
 - **Equipment:** 
   - Talons 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8245/crossbow-j) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8245) 
 - **Battle Value:** 1839 
 - [*More Info*](crossbow/crossbow_j.md) 
 
@@ -317,7 +317,7 @@
   - SRM 2 (iOS) × 14 
 - **Equipment:** 
   - Light Active Probe 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8235/crossbow-t) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8235) 
 - **Battle Value:** 1729 
 - [*More Info*](crossbow/crossbow_t.md) 
 

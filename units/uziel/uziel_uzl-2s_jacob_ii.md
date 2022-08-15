@@ -22,7 +22,7 @@
   - Cowl 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3366/uziel-uzl-2s-jacob-ii) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3366) 
 - **Battle Value:** 1271 
 
 ## Availability 

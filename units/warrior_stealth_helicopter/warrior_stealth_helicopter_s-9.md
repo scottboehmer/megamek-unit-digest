@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Jet Booster 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5387/warrior-stealth-helicopter-s-9) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5387) 
 - **Battle Value:** 665 
 
 ## Availability 
@@ -33,6 +33,12 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

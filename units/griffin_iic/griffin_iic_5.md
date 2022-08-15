@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1314/griffin-iic-5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1314) 
 - **Battle Value:** 1344 
 
 ## Availability 
@@ -41,5 +41,10 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 

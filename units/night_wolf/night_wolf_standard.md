@@ -24,7 +24,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Directional Torso Mount (Anti-Missile System) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2273/night-wolf-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2273) 
 - **Battle Value:** 2878 
 
 ## Availability 
@@ -39,5 +39,12 @@
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Star League (Wolf) 
+- Wolf Empire 
 

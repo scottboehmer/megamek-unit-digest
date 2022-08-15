@@ -18,7 +18,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2706/rifleman-rfl-8x) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2706) 
 - **Battle Value:** 1798 
 
 ## Availability 
@@ -42,4 +42,9 @@
 - Capellan Confederation 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Mercenary 
 

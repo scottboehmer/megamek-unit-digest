@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8254/wolverine-wvr-9r) 
+- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8254) 
 - **Battle Value:** 1481 
 
 ## Availability 
@@ -44,6 +44,7 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -67,6 +68,7 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -91,4 +93,24 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

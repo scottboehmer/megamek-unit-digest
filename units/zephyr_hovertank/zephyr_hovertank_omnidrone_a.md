@@ -17,7 +17,7 @@
   - Angel ECM Suite 
   - Drone Operating System 
   - TAG 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7301/zephyr-hovertank-omnidrone-a) 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7301) 
 - **Battle Value:** 779 
 
 ## Availability 
@@ -33,4 +33,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

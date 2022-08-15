@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/677/commando-com-7s2-freyr) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/677) 
 - **Battle Value:** 1105 
 
 ## Availability 

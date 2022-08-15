@@ -18,7 +18,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5026/sha-yu-syu-2b) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5026) 
 - **Battle Value:** 1379 
 
 ## Availability 
@@ -44,6 +44,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

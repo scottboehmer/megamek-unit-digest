@@ -16,8 +16,9 @@
   - Guardian ECM Suite 
   - MASC 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1494/hermes-her-4s) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1494) 
 - **Battle Value:** 1012 
 
 ## Availability 
@@ -61,4 +62,8 @@
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
 

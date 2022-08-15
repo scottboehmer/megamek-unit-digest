@@ -14,7 +14,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2413/pandion-combat-wige-c3) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2413) 
 - **Battle Value:** 387 
 - [*More Info*](pandion_combat_wige/pandion_combat_wige_c3.md) 
 
@@ -31,7 +31,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2414/pandion-combat-wige-infantry) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2414) 
 - **Battle Value:** 521 
 - [*More Info*](pandion_combat_wige/pandion_combat_wige_infantry.md) 
 
@@ -48,7 +48,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2415/pandion-combat-wige-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2415) 
 - **Battle Value:** 673 
 - [*More Info*](pandion_combat_wige/pandion_combat_wige_standard.md) 
 

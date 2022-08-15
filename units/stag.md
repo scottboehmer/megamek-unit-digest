@@ -21,7 +21,7 @@
   - Improved Sensors 
   - Bad Reputation (Clan) 
   - Stabilized Weapon (ER Large Laser) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3033/stag-st-14g) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3033) 
 - **Battle Value:** 1351 
 - [*More Info*](stag/stag_st-14g.md) 
 

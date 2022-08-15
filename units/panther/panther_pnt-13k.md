@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2421/panther-pnt-13k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2421) 
 - **Battle Value:** 996 
 
 ## Availability 
@@ -39,6 +39,11 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Draconis Combine 
 - Rasalhague Dominion 

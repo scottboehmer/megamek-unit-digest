@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Streak SRM 4 × 2 (ammo: 50) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2542/plainsman-medium-hovertank-streak) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2542) 
 - **Battle Value:** 600 
 
 ## Availability 
@@ -118,5 +118,27 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 - Wolf's Dragoons 
 

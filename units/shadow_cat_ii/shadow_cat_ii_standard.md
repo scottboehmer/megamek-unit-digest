@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2894/shadow-cat-ii-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2894) 
 - **Battle Value:** 2064 
 
 ## Availability 
@@ -38,6 +38,10 @@
 - Clan Jade Falcon 
 
 ### Dark Ages 
+
+- Clan Jade Falcon 
+
+### ilClan 
 
 - Clan Jade Falcon 
 

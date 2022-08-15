@@ -18,7 +18,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3222/thunder-hawk-tdk-7x) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3222) 
 - **Battle Value:** 2577 
 
 ## Availability 
@@ -38,67 +38,14 @@
 
 ### Late Succession Wars - LosTech 
 
-- Clan Blood Spirit 
-- Clan Burrock 
-- Clan Cloud Cobra 
-- Clan Coyote 
-- Clan Diamond Shark 
-- Clan Fire Mandrill 
-- Clan Ghost Bear 
-- Clan Goliath Scorpion 
-- Clan Hell's Horses 
-- Clan Ice Hellion 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Smoke Jaguar 
-- Clan Snow Raven 
-- Clan Star Adder 
-- Clan Steel Viper 
-- Clan Wolf 
 - ComStar 
 
 ### Late Succession Wars - Renaissance 
 
-- Clan Blood Spirit 
-- Clan Burrock 
-- Clan Cloud Cobra 
-- Clan Coyote 
-- Clan Diamond Shark 
-- Clan Fire Mandrill 
-- Clan Ghost Bear 
-- Clan Goliath Scorpion 
-- Clan Hell's Horses 
-- Clan Ice Hellion 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Smoke Jaguar 
-- Clan Snow Raven 
-- Clan Star Adder 
-- Clan Steel Viper 
-- Clan Wolf 
 - ComStar 
 
 ### Clan Invasion 
 
-- Clan Blood Spirit 
-- Clan Burrock 
-- Clan Cloud Cobra 
-- Clan Coyote 
-- Clan Diamond Shark 
-- Clan Fire Mandrill 
-- Clan Ghost Bear 
-- Clan Goliath Scorpion 
-- Clan Hell's Horses 
-- Clan Ice Hellion 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Smoke Jaguar 
-- Clan Snow Raven 
-- Clan Star Adder 
-- Clan Steel Viper 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - ComStar 
 - Federated Commonwealth 
 - Kell Hounds 
@@ -109,22 +56,6 @@
 
 ### Civil War 
 
-- Clan Blood Spirit 
-- Clan Cloud Cobra 
-- Clan Coyote 
-- Clan Diamond Shark 
-- Clan Fire Mandrill 
-- Clan Ghost Bear 
-- Clan Goliath Scorpion 
-- Clan Hell's Horses 
-- Clan Ice Hellion 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Snow Raven 
-- Clan Star Adder 
-- Clan Steel Viper 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - ComStar 
 - Kell Hounds 
 - Lyran Alliance 
@@ -133,24 +64,6 @@
 
 ### Jihad 
 
-- Clan Blood Spirit 
-- Clan Burrock 
-- Clan Cloud Cobra 
-- Clan Coyote 
-- Clan Diamond Shark 
-- Clan Fire Mandrill 
-- Clan Ghost Bear 
-- Clan Goliath Scorpion 
-- Clan Hell's Horses 
-- Clan Ice Hellion 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Snow Raven 
-- Clan Star Adder 
-- Clan Steel Viper 
-- Clan Stone Lion 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - ComStar 
 - Kell Hounds 
 - Lyran Alliance 
@@ -175,4 +88,9 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
 

@@ -23,7 +23,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1994/malak-c-mk-o-invictus) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1994) 
 - **Battle Value:** 792 
 - [*More Info*](malak/malak_c-mk-o_invictus.md) 
 
@@ -50,7 +50,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1995/malak-c-mk-oa-dominus) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1995) 
 - **Battle Value:** 823 
 - [*More Info*](malak/malak_c-mk-oa_dominus.md) 
 
@@ -74,7 +74,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1996/malak-c-mk-ob-infernus) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1996) 
 - **Battle Value:** 1047 
 - [*More Info*](malak/malak_c-mk-ob_infernus.md) 
 
@@ -102,7 +102,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1997/malak-c-mk-oc-comminus) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1997) 
 - **Battle Value:** 944 
 - [*More Info*](malak/malak_c-mk-oc_comminus.md) 
 
@@ -126,7 +126,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1998/malak-c-mk-od-luminos) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1998) 
 - **Battle Value:** 1055 
 - [*More Info*](malak/malak_c-mk-od_luminos.md) 
 
@@ -150,7 +150,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1993/malak-c-mk-o-mi) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1993) 
 - **Battle Value:** 758 
 - [*More Info*](malak/malak_c-mk-o_mi.md) 
 
@@ -175,7 +175,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1999/malak-c-mk-oe-eminus) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1999) 
 - **Battle Value:** 957 
 - [*More Info*](malak/malak_c-mk-oe_eminus.md) 
 
@@ -198,7 +198,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2000/malak-c-mk-os-caelestis) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2000) 
 - **Battle Value:** 1121 
 - [*More Info*](malak/malak_c-mk-os_caelestis.md) 
 

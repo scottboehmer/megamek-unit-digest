@@ -4,7 +4,7 @@
 
 ## Striker Light Tank 'Wet Striker' 
 
-- **Role:** Brawler 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3070) 
 - **Chassis:** 35 tons Wheeled 
 - **Movement:** 6 / 9, Fuel Cell 
@@ -15,7 +15,7 @@
   - Rocket 10 × 4 
 - **Equipment:** 
   - Limited Amphibious Chassis 
-- **Sources:** XTRO Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/3097/striker-light-tank-wet-striker) 
+- **Sources:** XTRO Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/3097) 
 - **Battle Value:** 541 
 
 ## Availability 
@@ -33,6 +33,10 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Pirate 
+
+### ilClan 
 
 - Pirate 
 

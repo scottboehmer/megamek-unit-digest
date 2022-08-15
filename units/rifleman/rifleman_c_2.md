@@ -19,7 +19,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2694/rifleman-c-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2694) 
 - **Battle Value:** 2150 
 
 ## Availability 
@@ -35,4 +35,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Star League (Jade Falcon) 
+- Tamar Pact 
 

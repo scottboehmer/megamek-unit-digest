@@ -21,7 +21,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1931/longbow-lgb-12c) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1931) 
 - **Battle Value:** 1686 
 
 ## Availability 
@@ -122,4 +122,20 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

@@ -4,7 +4,7 @@
 
 ## Skinwalker-XP "Ryoken III-XP" A 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Inner Sphere Radical Heat Sink System 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7379/ryoken-iii-xp-skinwalker-a) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7379) 
 - **Battle Value:** 3915 
 
 ## Availability 

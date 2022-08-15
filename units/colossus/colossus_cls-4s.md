@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Stable 
   - Low-Mounted Arms 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/662/colossus-cls-4s) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/662) 
 - **Battle Value:** 2392 
 
 ## Availability 
@@ -43,6 +43,10 @@
 - Solaris 7 
 
 ### Dark Ages 
+
+- Solaris 7 
+
+### ilClan 
 
 - Solaris 7 
 

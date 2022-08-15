@@ -24,7 +24,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6508/sarath-srth-1ob) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6508) 
 - **Battle Value:** 1475 
 
 ## Availability 
@@ -37,4 +37,8 @@
 
 - Free Worlds League 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
 

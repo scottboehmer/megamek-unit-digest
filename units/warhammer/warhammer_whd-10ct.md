@@ -24,7 +24,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3480/warhammer-whd-10ct) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3480) 
 - **Battle Value:** 1758 
 
 ## Availability 
@@ -50,4 +50,14 @@
 - Lyran Commonwealth 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

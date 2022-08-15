@@ -15,7 +15,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2782/salamander-ppr-5s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2782) 
 - **Battle Value:** 1769 
 - [*More Info*](salamander/salamander_ppr-5s.md) 
 
@@ -34,7 +34,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2783/salamander-ppr-5t) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2783) 
 - **Battle Value:** 1589 
 - [*More Info*](salamander/salamander_ppr-5t.md) 
 
@@ -54,7 +54,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2784/salamander-ppr-6s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2784) 
 - **Battle Value:** 1714 
 - [*More Info*](salamander/salamander_ppr-6s.md) 
 
@@ -74,7 +74,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2785/salamander-ppr-6t) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2785) 
 - **Battle Value:** 1681 
 - [*More Info*](salamander/salamander_ppr-6t.md) 
 
@@ -94,7 +94,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2786/salamander-ppr-7s) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2786) 
 - **Battle Value:** 2023 
 - [*More Info*](salamander/salamander_ppr-7s.md) 
 
@@ -114,7 +114,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6860/salamander-ppr-7t) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6860) 
 - **Battle Value:** 1647 
 - [*More Info*](salamander/salamander_ppr-7t.md) 
 

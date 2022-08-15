@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Prototype 
   - Exposed Actuators 
-- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5553/celerity-clr-02-x-d) 
+- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5553) 
 - **Battle Value:** 157 
 
 ## Availability 

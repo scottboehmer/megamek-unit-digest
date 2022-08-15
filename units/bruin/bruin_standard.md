@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/430/bruin-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/430) 
 - **Battle Value:** 2630 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

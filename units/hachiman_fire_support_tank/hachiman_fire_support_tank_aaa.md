@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1358/hachiman-fire-support-tank-aaa) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1358) 
 - **Battle Value:** 1418 
 
 ## Availability 
@@ -40,6 +40,13 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 - Rasalhague Dominion 
 - Raven Alliance 

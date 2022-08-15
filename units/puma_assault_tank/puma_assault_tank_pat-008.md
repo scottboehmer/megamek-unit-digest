@@ -18,7 +18,7 @@
   - Anti-Missile System × 6 (ammo: 60) 
   - B-Pod × 3 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2602/puma-assault-tank-pat-008) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2602) 
 - **Battle Value:** 1522 
 
 ## Availability 
@@ -40,4 +40,10 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

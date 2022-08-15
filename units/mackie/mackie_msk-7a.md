@@ -19,7 +19,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** RS 3075U , [Master Unit List](http://masterunitlist.info/Unit/Details/4556/mackie-msk-7a) 
+- **Sources:** RS 3075U , [Master Unit List](http://masterunitlist.info/Unit/Details/4556) 
 - **Battle Value:** 1900 
 
 ## Availability 

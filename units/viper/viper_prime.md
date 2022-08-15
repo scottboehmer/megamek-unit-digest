@@ -21,8 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/926/dragonfly-viper-prime) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/926) 
 - **Battle Value:** 1450 
 
 ## Availability 
@@ -178,4 +177,11 @@
 - Rasalhague Dominion 
 - Republic of the Sphere 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
 

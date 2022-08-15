@@ -13,7 +13,7 @@
   - Large Laser × 2 
   - SRM 6 × 2 (ammo: 15) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/435/brutus-assault-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/435) 
 - **Battle Value:** 1115 
 - [*More Info*](brutus_assault_tank/brutus_assault_tank_standard.md) 
 
@@ -29,7 +29,7 @@
   - LRM 20 × 2 (ammo: 36) 
   - SRM 6 × 2 (ammo: 15) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/432/brutus-assault-tank-lrm) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/432) 
 - **Battle Value:** 1248 
 - [*More Info*](brutus_assault_tank/brutus_assault_tank_lrm.md) 
 
@@ -45,7 +45,7 @@
   - PPC × 2 
   - SRM 6 × 2 (ammo: 15) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/434/brutus-assault-tank-ppc) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/434) 
 - **Battle Value:** 1208 
 - [*More Info*](brutus_assault_tank/brutus_assault_tank_ppc.md) 
 
@@ -61,7 +61,7 @@
   - PPC 
   - Large Laser × 2 
   - SRM 2 × 4 (ammo: 50) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/433/brutus-assault-tank-ppc-2) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/433) 
 - **Battle Value:** 979 
 - [*More Info*](brutus_assault_tank/brutus_assault_tank_ppc_2.md) 
 
@@ -80,7 +80,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/431/brutus-assault-tank-hppc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/431) 
 - **Battle Value:** 1186 
 - [*More Info*](brutus_assault_tank/brutus_assault_tank_hppc.md) 
 

@@ -16,7 +16,7 @@
   - Bloodhound Active Probe 
   - Communications Equipment 
   - Remote Sensor Dispenser 
-- **Sources:** ED Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6958/tribune-mobile-tactical-command-hq-standard) 
+- **Sources:** ED Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6958) 
 - **Battle Value:** 424 
 - [*More Info*](tribune_mobile_tactical_command_hq/tribune_mobile_tactical_command_hq_standard.md) 
 

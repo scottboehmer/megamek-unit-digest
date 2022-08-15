@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 20) 
   - SRM 6 (ammo: 15) 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6438/nisos-attack-wige-standard) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6438) 
 - **Battle Value:** 1090 
 
 ## Availability 
@@ -33,4 +33,14 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

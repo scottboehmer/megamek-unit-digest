@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4219/glory-heavy-fire-support-vehicle-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4219) 
 - **Battle Value:** 1684 
 
 ## Availability 
@@ -39,6 +39,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

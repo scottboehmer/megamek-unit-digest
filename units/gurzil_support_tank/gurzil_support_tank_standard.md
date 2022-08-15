@@ -16,7 +16,7 @@
   - 'Mech Mortar/8 × 2 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6251/gurzil-support-tank-standard) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6251) 
 - **Battle Value:** 1671 
 
 ## Availability 
@@ -43,4 +43,21 @@
 - Free Worlds League 
 - Rasalhague Dominion 
 - Raven Alliance 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

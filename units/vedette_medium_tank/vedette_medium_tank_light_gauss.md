@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3392/vedette-medium-tank-light-gauss) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3392) 
 - **Battle Value:** 478 
 
 ## Availability 
@@ -79,4 +79,16 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

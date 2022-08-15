@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Nimble Jumper 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1248/goshawk-ii-3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1248) 
 - **Battle Value:** 2115 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

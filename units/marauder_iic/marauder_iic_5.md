@@ -21,7 +21,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069/marauder-iic-5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069) 
 - **Battle Value:** 2386 
 
 ## Availability 
@@ -45,6 +45,10 @@
 - Clan Wolf-in-Exile 
 
 ### Dark Ages 
+
+- Clan Jade Falcon 
+
+### ilClan 
 
 - Clan Jade Falcon 
 

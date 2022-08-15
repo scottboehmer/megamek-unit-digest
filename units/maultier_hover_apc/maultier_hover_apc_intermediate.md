@@ -14,7 +14,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2107/maultier-hover-apc-intermediate) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2107) 
 - **Battle Value:** 210 
 
 ## Availability 
@@ -47,6 +47,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

@@ -20,7 +20,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3245/thunderbolt-tdr-7se) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3245) 
 - **Battle Value:** 1809 
 
 ## Availability 
@@ -71,4 +71,12 @@
 - Mercenary 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2467/penetrator-ptr-6m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2467) 
 - **Battle Value:** 1639 
 
 ## Availability 
@@ -50,6 +50,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

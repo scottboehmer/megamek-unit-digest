@@ -18,8 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1697/jenner-jr7-k-samuli) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1697) 
 - **Battle Value:** 1001 
 
 ## Availability 

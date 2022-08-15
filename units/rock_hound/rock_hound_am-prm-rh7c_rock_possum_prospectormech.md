@@ -18,7 +18,7 @@
   - Cargo × 3 
   - Searchlight 
   - Ejection Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4928/rock-hound-am-prm-rh7c-rock-possum-prospectormech) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4928) 
 - **Battle Value:** 479 
 
 ## Availability 
@@ -59,6 +59,12 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Magistracy of Canopus 
+- Raven Alliance 
+- Taurian Concordat 
+
+### ilClan 
 
 - Magistracy of Canopus 
 - Raven Alliance 

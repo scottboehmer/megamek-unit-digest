@@ -17,8 +17,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Overhead Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1673/jagermech-iii-jm6-d4) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1673) 
 - **Battle Value:** 1831 
 
 ## Availability 
@@ -42,4 +41,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

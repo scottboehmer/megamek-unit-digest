@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4307/hellspawn-hsn-7d) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4307) 
 - **Battle Value:** 1220 
 
 ## Availability 
@@ -45,6 +45,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Mercenary 

@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6944/crimson-hawk-4) 
+- **Sources:** TRO 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6944) 
 - **Battle Value:** 1372 
 
 ## Availability 
@@ -48,4 +48,14 @@
 - Mercenary 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
+- Star League (Wolf) 
 

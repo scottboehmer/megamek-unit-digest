@@ -20,7 +20,7 @@
   - Cowl 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5679/uziel-uzl-8s) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5679) 
 - **Battle Value:** 1393 
 
 ## Availability 
@@ -70,4 +70,13 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

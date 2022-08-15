@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/294/battlemaster-blr-4s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/294) 
 - **Battle Value:** 2018 
 
 ## Availability 
@@ -61,4 +61,9 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
 

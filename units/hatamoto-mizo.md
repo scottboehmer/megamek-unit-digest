@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1409/hatamoto-mizo-htm-27y) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1409) 
 - **Battle Value:** 1675 
 - [*More Info*](hatamoto-mizo/hatamoto-mizo_htm-27y.md) 
 

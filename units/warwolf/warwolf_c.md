@@ -18,7 +18,7 @@
   - Laser Anti-Missile System 
   - Targeting Computer 
   - CASE II 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6290/warwolf-c) 
+- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6290) 
 - **Battle Value:** 2776 
 
 ## Availability 
@@ -26,4 +26,9 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
 

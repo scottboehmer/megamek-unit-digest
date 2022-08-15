@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Cooling Jacket (Large Laser) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/965/emperor-emp-6a-nerran) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/965) 
 - **Battle Value:** 2247 
 
 ## Availability 
@@ -46,5 +46,9 @@
 ### Dark Ages (Unique) 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan (Unique) 
+
 - Scorpion Empire 
 

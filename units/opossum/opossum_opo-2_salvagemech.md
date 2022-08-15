@@ -16,7 +16,7 @@
   - Beagle Active Probe 
   - Salvage Arm 
   - Remote Sensor Dispenser 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7847/opossum-opo-2-salvagemech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7847) 
 - **Battle Value:** 240 
 
 ## Availability 
@@ -33,4 +33,10 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Mercenary 
 

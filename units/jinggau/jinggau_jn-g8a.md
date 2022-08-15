@@ -17,9 +17,8 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1708/jinggau-jn-g8a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1708) 
 - **Battle Value:** 2072 
 
 ## Availability 
@@ -51,6 +50,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

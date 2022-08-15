@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3616/yellow-jacket-gunship-rac) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3616) 
 - **Battle Value:** 704 
 
 ## Availability 
@@ -90,4 +90,15 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

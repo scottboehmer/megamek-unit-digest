@@ -24,7 +24,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5698/perseus-p1p) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5698) 
 - **Battle Value:** 1777 
 
 ## Availability 
@@ -63,4 +63,8 @@
 - Oriente Protectorate 
 - Republic of the Sphere 
 - Scorpion Empire 
+
+### ilClan 
+
+- Free Worlds League 
 

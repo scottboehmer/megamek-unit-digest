@@ -20,29 +20,31 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2471/penthesilea-pen-2maf) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2471) 
 - **Battle Value:** 1834 
 
 ## Availability 
 
 ### Early Republic 
 
-- Capellan Confederation 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
 
 ### Late Republic 
 
-- Capellan Confederation 
-- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
 
 ### Dark Ages 
 
-- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
+
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 

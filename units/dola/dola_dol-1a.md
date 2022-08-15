@@ -18,7 +18,7 @@
   - Medium Vibroblade 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/903/dola-dol-1a) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/903) 
 - **Battle Value:** 911 
 
 ## Availability 

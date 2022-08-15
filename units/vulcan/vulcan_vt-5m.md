@@ -18,7 +18,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3461/vulcan-vt-5m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3461) 
 - **Battle Value:** 811 
 
 ## Availability 

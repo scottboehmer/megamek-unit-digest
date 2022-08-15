@@ -21,12 +21,16 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7779/carrion-crow-d) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7779) 
 - **Battle Value:** 1930 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

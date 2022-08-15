@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5671/bloodhound-b3-hnd) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5671) 
 - **Battle Value:** 1005 
 
 ## Availability 
@@ -50,6 +50,7 @@
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
@@ -59,4 +60,11 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
+- Wolf Empire 
 

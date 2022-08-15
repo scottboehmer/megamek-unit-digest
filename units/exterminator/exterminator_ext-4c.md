@@ -21,7 +21,7 @@
   - Null-Signature System 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4148/exterminator-ext-4c) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4148) 
 - **Battle Value:** 1420 
 
 ## Availability 

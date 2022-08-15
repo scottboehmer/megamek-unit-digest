@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1552/hunchback-hbk-4g) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1552) 
 - **Battle Value:** 1041 
 
 ## Availability 
@@ -197,6 +197,17 @@
 
 - Calderon Protectorate 
 - Escorpión Imperio 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Scorpion Empire 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 

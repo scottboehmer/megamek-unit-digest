@@ -23,7 +23,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2370/ostscout-ott-9s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2370) 
 - **Battle Value:** 855 
 
 ## Availability 
@@ -73,4 +73,14 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

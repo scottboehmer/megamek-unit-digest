@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1235/goliath-gol-5d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1235) 
 - **Battle Value:** 1975 
 
 ## Availability 
@@ -43,6 +43,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

@@ -18,7 +18,7 @@
   - Active Probe 
   - Armored Motive System 
   - Light TAG 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6541/kite-reconnaissance-vehicle-standard) 
+- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6541) 
 - **Battle Value:** 616 
 
 ## Availability 
@@ -56,4 +56,20 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf's Dragoons 
 

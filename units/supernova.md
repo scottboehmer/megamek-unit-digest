@@ -13,7 +13,7 @@
   - ER Large Laser × 6 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3132/supernova-standard) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3132) 
 - **Battle Value:** 2801 
 - [*More Info*](supernova/supernova_standard.md) 
 
@@ -34,7 +34,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3133/supernova-2) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3133) 
 - **Battle Value:** 2741 
 - [*More Info*](supernova/supernova_2.md) 
 
@@ -55,7 +55,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3134/supernova-3) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3134) 
 - **Battle Value:** 3448 
 - [*More Info*](supernova/supernova_3.md) 
 
@@ -76,7 +76,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3135/supernova-4) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3135) 
 - **Battle Value:** 3158 
 - [*More Info*](supernova/supernova_4.md) 
 
@@ -95,7 +95,7 @@
   - Inner Sphere Coolant Pod × 4 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8132/supernova-5) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8132) 
 - **Battle Value:** 3070 
 - [*More Info*](supernova/supernova_5.md) 
 

@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2465/penetrator-ptr-4d) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2465) 
 - **Battle Value:** 1687 
 - [*More Info*](penetrator/penetrator_ptr-4d.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2466/penetrator-ptr-4f) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2466) 
 - **Battle Value:** 1564 
 - [*More Info*](penetrator/penetrator_ptr-4f.md) 
 
@@ -59,7 +59,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2467/penetrator-ptr-6m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2467) 
 - **Battle Value:** 1639 
 - [*More Info*](penetrator/penetrator_ptr-6m.md) 
 
@@ -81,7 +81,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2468/penetrator-ptr-6s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2468) 
 - **Battle Value:** 1689 
 - [*More Info*](penetrator/penetrator_ptr-6s.md) 
 
@@ -103,7 +103,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - Stable 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2469/penetrator-ptr-6t) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2469) 
 - **Battle Value:** 1994 
 - [*More Info*](penetrator/penetrator_ptr-6t.md) 
 

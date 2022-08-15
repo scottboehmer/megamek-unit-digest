@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/560/charger-cgr-1a5) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/560) 
 - **Battle Value:** 1468 
 
 ## Availability 
@@ -82,7 +82,6 @@
 ### Late Republic 
 
 - Calderon Protectorate 
-- Capellan Confederation 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 

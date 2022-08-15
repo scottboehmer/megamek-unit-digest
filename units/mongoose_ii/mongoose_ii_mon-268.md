@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Communications 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2218/mongoose-ii-mon-268) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2218) 
 - **Battle Value:** 1215 
 
 ## Availability 
@@ -50,4 +50,12 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

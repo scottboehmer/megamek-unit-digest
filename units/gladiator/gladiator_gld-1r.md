@@ -20,7 +20,7 @@
   - Poor Sealing 
   - Unbalanced 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1198/gladiator-gld-1r) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1198) 
 - **Battle Value:** 1027 
 
 ## Availability 
@@ -64,6 +64,10 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Marian Hegemony 
+
+### ilClan 
 
 - Marian Hegemony 
 

@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Protected Actuators 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/944/eisenfaust-eft-4j) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/944) 
 - **Battle Value:** 977 
 
 ## Availability 

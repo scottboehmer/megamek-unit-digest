@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/172/awesome-aws-10km) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/172) 
 - **Battle Value:** 1961 
 
 ## Availability 
@@ -59,4 +59,9 @@
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Free Worlds League 
 

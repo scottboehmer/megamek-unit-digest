@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5707/templar-tlr1-od) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5707) 
 - **Battle Value:** 1840 
 
 ## Availability 
@@ -43,5 +43,9 @@
 ### Dark Ages 
 
 - ComStar 
+- Federated Suns 
+
+### ilClan 
+
 - Federated Suns 
 

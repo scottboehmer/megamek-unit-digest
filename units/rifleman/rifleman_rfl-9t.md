@@ -23,7 +23,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2707/rifleman-rfl-9t) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2707) 
 - **Battle Value:** 1503 
 
 ## Availability 
@@ -43,6 +43,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

@@ -21,7 +21,7 @@
   - Communications Equipment 
   - Hitch 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3085S - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5207/teppo-artillery-vehicle-standard) 
+- **Sources:** TRO 3085S - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5207) 
 - **Battle Value:** 1818 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

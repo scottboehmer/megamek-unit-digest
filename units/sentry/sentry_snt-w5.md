@@ -22,7 +22,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2867/sentry-snt-w5) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2867) 
 - **Battle Value:** 1143 
 
 ## Availability 
@@ -40,6 +40,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

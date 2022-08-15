@@ -19,12 +19,16 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8377/tessen-tsn-x-4r-rapunzel) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8377) 
 - **Battle Value:** unknown 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

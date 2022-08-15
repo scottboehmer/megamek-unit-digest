@@ -15,7 +15,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5727/main-gauche-light-support-tank-ifv) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5727) 
 - **Battle Value:** 725 
 
 ## Availability 
@@ -69,4 +69,17 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
 

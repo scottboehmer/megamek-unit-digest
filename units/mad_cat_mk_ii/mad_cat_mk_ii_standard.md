@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4565/mad-cat-mk-ii-standard) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4565) 
 - **Battle Value:** 3135 
 
 ## Availability 
@@ -109,5 +109,22 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Smoke Jaguar) 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf Empire 
 - Wolf's Dragoons 
 

@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6452/gun-gn-2ob) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6452) 
 - **Battle Value:** 639 
 
 ## Availability 
@@ -30,4 +30,12 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Magistracy of Canopus 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Taurian Concordat 
 

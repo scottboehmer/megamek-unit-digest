@@ -13,7 +13,7 @@
 - **Weapons:** 
   - RAC/2 × 3 (ammo: 180) 
   - Small Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2522/pike-support-vehicle-rac-assault-pike) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2522) 
 - **Battle Value:** 961 
 
 ## Availability 
@@ -52,6 +52,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Federated Suns 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

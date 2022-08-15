@@ -20,7 +20,7 @@
   - AES × 2 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6467/mortis-ms-1p) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6467) 
 - **Battle Value:** 2198 
 
 ## Availability 
@@ -33,6 +33,10 @@
 - Solaris 7 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

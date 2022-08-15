@@ -21,7 +21,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (AC/5) 
   - Exposed Weapon Linkage (AC/5) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2036/marauder-mad-3l) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2036) 
 - **Battle Value:** 1369 
 
 ## Availability 

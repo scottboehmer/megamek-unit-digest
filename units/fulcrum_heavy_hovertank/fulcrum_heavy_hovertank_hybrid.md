@@ -17,7 +17,7 @@
   - Angel ECM Suite 
   - Armored Motive System 
   - Supercharger 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4188/fulcrum-heavy-hover-tank-hybrid) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4188) 
 - **Battle Value:** 1244 
 
 ## Availability 
@@ -31,6 +31,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

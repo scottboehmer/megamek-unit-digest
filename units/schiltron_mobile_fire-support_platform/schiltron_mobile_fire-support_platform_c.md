@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Main 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2817/schiltron-mobile-fire-support-platform-c) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2817) 
 - **Battle Value:** 1078 
 
 ## Availability 
@@ -83,4 +83,15 @@
 - Oriente Protectorate 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

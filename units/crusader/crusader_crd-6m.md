@@ -24,7 +24,7 @@
   - Ubiquitous 
   - Stabilized Weapon (Streak SRM 4) 
   - Stabilized Weapon (Streak SRM 4) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761/crusader-crd-6m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761) 
 - **Battle Value:** 1373 
 
 ## Availability 
@@ -69,4 +69,10 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

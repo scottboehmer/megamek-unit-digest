@@ -21,7 +21,7 @@
   - MASC 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/330/berserker-brz-b3) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/330) 
 - **Battle Value:** 2020 
 
 ## Availability 
@@ -49,6 +49,10 @@
 - Lyran Commonwealth 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+
+### ilClan 
 
 - Lyran Commonwealth 
 

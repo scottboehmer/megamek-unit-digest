@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/504/cavalry-attack-helicopter-lrm) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/504) 
 - **Battle Value:** 487 
 
 ## Availability 
@@ -58,6 +58,7 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Kell Hounds 
@@ -73,6 +74,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
@@ -89,6 +91,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
@@ -105,6 +108,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
@@ -114,4 +118,16 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -16,7 +16,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2097/masakari-warhawk-prime) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2097) 
 - **Battle Value:** 3194 
 - [*More Info*](warhawk/warhawk_prime.md) 
 
@@ -38,7 +38,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2091/masakari-warhawk-a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2091) 
 - **Battle Value:** 2399 
 - [*More Info*](warhawk/warhawk_a.md) 
 
@@ -61,7 +61,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2092/masakari-warhawk-b) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2092) 
 - **Battle Value:** 2320 
 - [*More Info*](warhawk/warhawk_b.md) 
 
@@ -81,7 +81,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2093/masakari-warhawk-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2093) 
 - **Battle Value:** 2998 
 - [*More Info*](warhawk/warhawk_c.md) 
 
@@ -103,7 +103,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #20 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8339/masakari-warhawk-i) 
+- **Sources:** Rec Guide:ilClan #20 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8339) 
 - **Battle Value:** 3026 
 - [*More Info*](warhawk/warhawk_i.md) 
 
@@ -125,7 +125,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2094/masakari-warhawk-d) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2094) 
 - **Battle Value:** 2474 
 - [*More Info*](warhawk/warhawk_d.md) 
 
@@ -147,7 +147,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #20 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5491/masakari-warhawk-f) 
+- **Sources:** Rec Guide:ilClan #20 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5491) 
 - **Battle Value:** 2775 
 - [*More Info*](warhawk/warhawk_f.md) 
 
@@ -168,7 +168,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2096/masakari-warhawk-h) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2096) 
 - **Battle Value:** 2601 
 - [*More Info*](warhawk/warhawk_h.md) 
 
@@ -190,7 +190,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2095/masakari-warhawk-e) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2095) 
 - **Battle Value:** 2895 
 - [*More Info*](warhawk/warhawk_e.md) 
 
@@ -212,7 +212,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8338/masakari-warhawk-g) 
+- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8338) 
 - **Battle Value:** 2909 
 - [*More Info*](warhawk/warhawk_g.md) 
 
@@ -235,7 +235,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8340/masakari-warhawk-l) 
+- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8340) 
 - **Battle Value:** 3221 
 - [*More Info*](warhawk/warhawk_l.md) 
 
@@ -255,7 +255,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8337/masakari-warhawk-t) 
+- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8337) 
 - **Battle Value:** 2938 
 - [*More Info*](warhawk/warhawk_t.md) 
 

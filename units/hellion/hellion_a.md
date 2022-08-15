@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4303/hellion-a) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4303) 
 - **Battle Value:** 1543 
 
 ## Availability 
@@ -98,5 +98,12 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Mercenary 
 - Scorpion Empire 
 

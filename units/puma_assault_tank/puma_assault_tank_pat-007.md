@@ -21,7 +21,7 @@
   - B-Pod 
   - C3i 
   - Machine Gun Array × 2 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2601/puma-assault-tank-pat-007) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2601) 
 - **Battle Value:** 1309 
 
 ## Availability 

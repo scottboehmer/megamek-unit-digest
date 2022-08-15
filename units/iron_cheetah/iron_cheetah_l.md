@@ -20,13 +20,14 @@
   - CASE II 
   - CASE 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8324/iron-cheetah-l) 
+- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8324) 
 - **Battle Value:** 3480 
 
 ## Availability 
 
 ### Dark Ages 
 
+- Clan Sea Fox 
 - Republic of the Sphere 
 
 ### ilClan 
@@ -36,4 +37,5 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Raven Alliance 
+- Star League (Smoke Jaguar) 
 

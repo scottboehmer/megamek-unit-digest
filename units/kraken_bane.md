@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #17 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1841/kraken-bane-standard) 
+- **Sources:** Rec Guide:ilClan #17 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1841) 
 - **Battle Value:** 1950 
 - [*More Info*](bane/bane_standard.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1842/kraken-bane-2) 
+- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1842) 
 - **Battle Value:** 2502 
 - [*More Info*](bane/bane_2.md) 
 
@@ -56,7 +56,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1843/kraken-bane-3) 
+- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1843) 
 - **Battle Value:** 2941 
 - [*More Info*](bane/bane_3.md) 
 
@@ -77,7 +77,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1844/kraken-bane-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1844) 
 - **Battle Value:** 2709 
 - [*More Info*](bane/bane_4.md) 
 
@@ -101,7 +101,7 @@
   - Prototype 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4463/kraken-bane-xr) 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4463) 
 - **Battle Value:** 3055 
 - [*More Info*](bane/bane_xr.md) 
 
@@ -123,7 +123,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8242/kraken-bane-5) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8242) 
 - **Battle Value:** 2554 
 - [*More Info*](bane/bane_5.md) 
 
@@ -145,7 +145,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8243/kraken-bane-6) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8243) 
 - **Battle Value:** 2339 
 - [*More Info*](bane/bane_6.md) 
 
@@ -166,7 +166,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4463/kraken-bane-xr) 
+- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8244) 
 - **Battle Value:** 3740 
 - [*More Info*](bane/bane_7.md) 
 

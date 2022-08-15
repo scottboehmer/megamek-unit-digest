@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Jet Booster 
-- **Sources:** XTR Mercs , [Master Unit List](http://masterunitlist.info/Unit/Details/3518/warrior-attack-helicopter-hx-9) 
+- **Sources:** XTR Mercs , [Master Unit List](http://masterunitlist.info/Unit/Details/3518) 
 - **Battle Value:** 372 
 
 ## Availability 

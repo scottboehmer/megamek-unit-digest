@@ -18,7 +18,7 @@
   - TAG 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254/ti-tsang-tsg-9h) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254) 
 - **Battle Value:** 1880 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9h.md) 
 
@@ -39,7 +39,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3255/ti-tsang-tsg-9j) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3255) 
 - **Battle Value:** 1909 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9j.md) 
 
@@ -60,13 +60,13 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5241/ti-tsang-china-doll) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5241) 
 - **Battle Value:** 1739 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9_china_doll.md) 
 
 ## Ti Ts'ang Jason 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 60 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -81,7 +81,7 @@
   - Small Pulse Laser × 4 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** BD: Jason Zaklan - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7395/ti-tsang-tsg-9h-jason) 
+- **Sources:** BD: Jason Zaklan - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7395) 
 - **Battle Value:** 1641 
 - [*More Info*](ti_tsang/ti_tsang_jason.md) 
 
@@ -102,7 +102,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3252/ti-tsang-tsg-9c) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3252) 
 - **Battle Value:** 1989 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9c.md) 
 
@@ -126,7 +126,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
 - **Battle Value:** 2013 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9ddc_prototype.md) 
 
@@ -156,7 +156,7 @@
   - Protected Actuators 
   - Rumble Seat 
   - Jettison-Capable Weapon (Lance) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242/ti-tsang-tsg-9ddc) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
 - **Battle Value:** 2013 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9ddc.md) 
 
@@ -180,7 +180,7 @@
   - TAG 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6884/ti-tsang-tsg-10l) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6884) 
 - **Battle Value:** 1728 
 - [*More Info*](ti_tsang/ti_tsang_tsg-10l.md) 
 

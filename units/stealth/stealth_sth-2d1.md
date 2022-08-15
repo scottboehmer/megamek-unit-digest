@@ -20,7 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3055/stealth-sth-2d1) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3055) 
 - **Battle Value:** 1339 
 
 ## Availability 
@@ -49,6 +49,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Mercenary 

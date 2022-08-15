@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7475/battlemaster-blr-6g) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7475) 
 - **Battle Value:** 1960 
 
 ## Availability 
@@ -31,6 +31,7 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -39,6 +40,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -56,4 +58,17 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

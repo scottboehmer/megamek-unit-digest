@@ -25,7 +25,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2910/shadow-hawk-shd-9d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2910) 
 - **Battle Value:** 1313 
 
 ## Availability 
@@ -44,6 +44,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

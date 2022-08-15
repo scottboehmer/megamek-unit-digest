@@ -15,7 +15,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 2 
   - Flamer × 4 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1121/flashfire-fls-p4) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1121) 
 - **Battle Value:** 712 
 
 ## Availability 
@@ -41,6 +41,10 @@
 - Solaris 7 
 
 ### Dark Ages 
+
+- Solaris 7 
+
+### ilClan 
 
 - Solaris 7 
 

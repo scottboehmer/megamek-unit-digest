@@ -17,8 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1502/hermes-ii-her-5sa) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1502) 
 - **Battle Value:** 924 
 
 ## Availability 
@@ -29,21 +28,24 @@
 
 ### Early Republic 
 
-- Capellan Confederation 
 - Duchy of Andurien 
 - Magistracy of Canopus 
 - Mercenary 
 
 ### Late Republic 
 
-- Capellan Confederation 
 - Duchy of Andurien 
 - Magistracy of Canopus 
 - Mercenary 
 
 ### Dark Ages 
 
-- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
+
 - Duchy of Andurien 
 - Magistracy of Canopus 
 - Mercenary 

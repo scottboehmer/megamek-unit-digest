@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1154/fulcrum-heavy-hovertank-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1154) 
 - **Battle Value:** 1167 
 
 ## Availability 
@@ -119,5 +119,25 @@
 - Raven Alliance 
 - Republic of the Sphere 
 - Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Calderon Protectorate 
+- Clan Jade Falcon 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Raven Alliance 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 - Wolf's Dragoons 
 

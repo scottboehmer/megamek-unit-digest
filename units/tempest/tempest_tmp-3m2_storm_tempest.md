@@ -19,7 +19,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3170/tempest-tmp-3m2-storm-tempest) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3170) 
 - **Battle Value:** 1642 
 
 ## Availability 
@@ -58,4 +58,10 @@
 - Mercenary 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Free Worlds League 
+- Mercenary 
 

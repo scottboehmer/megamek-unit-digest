@@ -16,7 +16,7 @@
   - Communications Equipment 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7306/hexareme-hq-hovercraft-standard) 
+- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7306) 
 - **Battle Value:** 1210 
 - [*More Info*](hexareme_hq_hovercraft/hexareme_hq_hovercraft_standard.md) 
 

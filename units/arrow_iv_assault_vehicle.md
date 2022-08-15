@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6446/arrow-iv-assault-vehicle-standard) 
+- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6446) 
 - **Battle Value:** 1404 
 - [*More Info*](arrow_iv_assault_vehicle/arrow_iv_assault_vehicle_standard.md) 
 

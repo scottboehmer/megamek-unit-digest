@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Fast Reload (LRM 15) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6901/trebuchet-tbt-9r) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6901) 
 - **Battle Value:** 2165 
 
 ## Availability 
@@ -28,4 +28,8 @@
 
 - Free Worlds League 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
 

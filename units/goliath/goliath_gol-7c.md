@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8406/goliath-gol-7c) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8406) 
 - **Battle Value:** 1790 
 
 ## Availability 
@@ -27,7 +27,6 @@
 ### Dark Ages 
 
 - Capellan Confederation 
-- Clan Wolf 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
@@ -39,4 +38,13 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+- Wolf Empire 
 

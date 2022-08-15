@@ -21,7 +21,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8200/locust-lct-7s) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8200) 
 - **Battle Value:** 706 
 
 ## Availability 
@@ -38,5 +38,13 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

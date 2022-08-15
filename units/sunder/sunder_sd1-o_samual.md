@@ -19,7 +19,7 @@
   - A-Pod × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3124/sunder-sd1-o-samual) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3124) 
 - **Battle Value:** 1593 
 
 ## Availability 
@@ -33,14 +33,6 @@
 - Draconis Combine 
 
 ### Early Republic (Unique) 
-
-- Draconis Combine 
-
-### Late Republic (Unique) 
-
-- Draconis Combine 
-
-### Dark Ages (Unique) 
 
 - Draconis Combine 
 

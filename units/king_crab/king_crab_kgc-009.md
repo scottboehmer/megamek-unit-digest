@@ -23,8 +23,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6635/king-crab-kgc-009) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6635) 
 - **Battle Value:** 2260 
 
 ## Availability 
@@ -36,4 +35,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

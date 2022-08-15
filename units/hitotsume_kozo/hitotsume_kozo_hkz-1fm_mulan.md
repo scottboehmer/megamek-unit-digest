@@ -4,7 +4,7 @@
 
 ## Hitotsume Kozo HKZ-1FM 'Mulan' 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (3136) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -16,12 +16,16 @@
   - Heavy PPC 
   - ER Medium Laser × 2 
   - Large Vibroblade 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8380/hitotsume-kozo-hkz-1fm-mulan) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8380) 
 - **Battle Value:** 1772 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

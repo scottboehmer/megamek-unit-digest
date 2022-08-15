@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/53/anvil-anv-8m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/53) 
 - **Battle Value:** 1690 
 
 ## Availability 
@@ -65,4 +65,9 @@
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
 

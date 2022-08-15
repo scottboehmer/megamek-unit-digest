@@ -20,7 +20,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2068/marauder-iic-4) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2068) 
 - **Battle Value:** 3447 
 
 ## Availability 
@@ -45,6 +45,12 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Protectorate 
 - Rasalhague Dominion 
 - Raven Alliance 
 

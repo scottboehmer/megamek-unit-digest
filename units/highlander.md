@@ -21,13 +21,13 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1514/highlander-hgn-732) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1514) 
 - **Battle Value:** 2227 
 - [*More Info*](highlander/highlander_hgn-732.md) 
 
 ## Highlander HGN-732b 
 
-- **Role:** Missile Boat 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (2598) 
 - **Chassis:** 90 tons 
 - **Movement:** 3 / 5 
@@ -46,7 +46,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1516/highlander-hgn-732b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1516) 
 - **Battle Value:** 2335 
 - [*More Info*](highlander/highlander_hgn-732b.md) 
 
@@ -71,7 +71,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** Historical: Operation Klondike - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4323/highlander-hgn-732-colleen) 
+- **Sources:** Historical: Operation Klondike - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4323) 
 - **Battle Value:** 2150 
 - [*More Info*](highlander/highlander_hgn-732_colleen.md) 
 
@@ -95,7 +95,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** OTP Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7309/highlander-hgn-732-jorgensson) 
+- **Sources:** OTP Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7309) 
 - **Battle Value:** 2481 
 - [*More Info*](highlander/highlander_hgn-732_jorgensson.md) 
 
@@ -118,7 +118,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1517/highlander-hgn-733) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1517) 
 - **Battle Value:** 1801 
 - [*More Info*](highlander/highlander_hgn-733.md) 
 
@@ -141,7 +141,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1518/highlander-hgn-733c) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1518) 
 - **Battle Value:** 1857 
 - [*More Info*](highlander/highlander_hgn-733c.md) 
 
@@ -164,7 +164,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1519/highlander-hgn-733p) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1519) 
 - **Battle Value:** 1865 
 - [*More Info*](highlander/highlander_hgn-733p.md) 
 
@@ -190,7 +190,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1521/highlander-hgn-736) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1521) 
 - **Battle Value:** 2255 
 - [*More Info*](highlander/highlander_hgn-736.md) 
 
@@ -213,7 +213,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5493/highlander-hgn-694) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5493) 
 - **Battle Value:** 2369 
 - [*More Info*](highlander/highlander_hgn-694.md) 
 
@@ -239,7 +239,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1520/highlander-hgn-734) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1520) 
 - **Battle Value:** 2214 
 - [*More Info*](highlander/highlander_hgn-734.md) 
 
@@ -265,7 +265,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1522/highlander-hgn-738) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1522) 
 - **Battle Value:** 2413 
 - [*More Info*](highlander/highlander_hgn-738.md) 
 
@@ -293,7 +293,7 @@
   - Reinforced Legs 
   - Difficult Ejection 
   - Prototype 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5552/highlander-hgn-641-x-2) 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5552) 
 - **Battle Value:** 2152 
 - [*More Info*](highlander/highlander_hgn-641-x-2.md) 
 
@@ -319,7 +319,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7733/highlander-hgn-740) 
+- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7733) 
 - **Battle Value:** 2232 
 - [*More Info*](highlander/highlander_hgn-740.md) 
 

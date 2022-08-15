@@ -14,8 +14,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/342/black-hawk-nova-prime) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/342) 
 - **Battle Value:** 2663 
 - [*More Info*](nova/nova_prime.md) 
 
@@ -37,8 +36,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/335/black-hawk-nova-a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/335) 
 - **Battle Value:** 2422 
 - [*More Info*](nova/nova_a.md) 
 
@@ -61,8 +59,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/336/black-hawk-nova-b) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/336) 
 - **Battle Value:** 1543 
 - [*More Info*](nova/nova_b.md) 
 
@@ -84,8 +81,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/337/black-hawk-nova-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/337) 
 - **Battle Value:** 1515 
 - [*More Info*](nova/nova_c.md) 
 
@@ -106,8 +102,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/338/black-hawk-nova-d) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/338) 
 - **Battle Value:** 1450 
 - [*More Info*](nova/nova_d.md) 
 
@@ -130,8 +125,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/343/black-hawk-nova-s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/343) 
 - **Battle Value:** 2056 
 - [*More Info*](nova/nova_s.md) 
 
@@ -152,8 +146,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/339/black-hawk-nova-e) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/339) 
 - **Battle Value:** 2078 
 - [*More Info*](nova/nova_e.md) 
 
@@ -171,8 +164,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/341/black-hawk-nova-h) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/341) 
 - **Battle Value:** 1832 
 - [*More Info*](nova/nova_h.md) 
 
@@ -193,8 +185,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/340/black-hawk-nova-f) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/340) 
 - **Battle Value:** 1976 
 - [*More Info*](nova/nova_f.md) 
 
@@ -222,8 +213,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/344/black-hawk-nova-u) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/344) 
 - **Battle Value:** 1413 
 - [*More Info*](nova/nova_u.md) 
 
@@ -246,8 +236,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8165/black-hawk-nova-g) 
+- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8165) 
 - **Battle Value:** 1822 
 - [*More Info*](nova/nova_g.md) 
 
@@ -266,8 +255,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6909/black-hawk-nova-i) 
+- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6909) 
 - **Battle Value:** 2224 
 - [*More Info*](nova/nova_i.md) 
 
@@ -288,8 +276,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #14 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8166/black-hawk-nova-j) 
+- **Sources:** Rec Guide:ilClan #14 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8166) 
 - **Battle Value:** 2052 
 - [*More Info*](nova/nova_j.md) 
 
@@ -311,8 +298,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8167/black-hawk-nova-k) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8167) 
 - **Battle Value:** 1932 
 - [*More Info*](nova/nova_k.md) 
 
@@ -331,8 +317,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8168/black-hawk-nova-l) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8168) 
 - **Battle Value:** 2177 
 - [*More Info*](nova/nova_l.md) 
 
@@ -353,8 +338,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6910/black-hawk-nova-x) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6910) 
 - **Battle Value:** 2761 
 - [*More Info*](nova/nova_x.md) 
 
@@ -376,8 +360,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8169/black-hawk-nova-r) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8169) 
 - **Battle Value:** 1597 
 - [*More Info*](nova/nova_r.md) 
 
@@ -397,8 +380,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8164/black-hawk-nova-t) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8164) 
 - **Battle Value:** 1579 
 - [*More Info*](nova/nova_t.md) 
 

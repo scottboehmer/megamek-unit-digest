@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4985/savage-coyote-prime) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4985) 
 - **Battle Value:** 2613 
 - [*More Info*](savage_coyote/savage_coyote_prime.md) 
 
@@ -41,7 +41,7 @@
   - CASE 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4982/savage-coyote-a) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4982) 
 - **Battle Value:** 2852 
 - [*More Info*](savage_coyote/savage_coyote_a.md) 
 
@@ -63,7 +63,7 @@
   - CASE 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4983/savage-coyote-b) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4983) 
 - **Battle Value:** 2284 
 - [*More Info*](savage_coyote/savage_coyote_b.md) 
 
@@ -86,7 +86,7 @@
   - CASE 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4984/savage-coyote-c) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4984) 
 - **Battle Value:** 3189 
 - [*More Info*](savage_coyote/savage_coyote_c.md) 
 
@@ -109,7 +109,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5831/savage-coyote-z) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5831) 
 - **Battle Value:** 3026 
 - [*More Info*](savage_coyote/savage_coyote_z.md) 
 
@@ -131,7 +131,7 @@
   - CASE 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5705/savage-coyote-j) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5705) 
 - **Battle Value:** 2554 
 - [*More Info*](savage_coyote/savage_coyote_j.md) 
 
@@ -154,7 +154,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5706/savage-coyote-w) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5706) 
 - **Battle Value:** 2792 
 - [*More Info*](savage_coyote/savage_coyote_w.md) 
 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Talons 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8245/crossbow-j) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8245) 
 - **Battle Value:** 1839 
 
 ## Availability 
@@ -27,4 +27,13 @@
 - Clan Wolf 
 - Lyran Commonwealth 
 - Raven Alliance 
+
+### ilClan 
+
+- Clan Protectorate 
+- Lyran Commonwealth 
+- Raven Alliance 
+- Star League (Wolf) 
+- Tamar Pact 
+- Wolf Empire 
 

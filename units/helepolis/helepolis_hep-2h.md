@@ -5,7 +5,7 @@
 ## Helepolis HEP-2H 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (2488) 
+- **Tech Base:** Inner Sphere (2567) 
 - **Chassis:** 75 tons 
 - **Movement:** 3 / 5 
 - **Armor:** 208 
@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1461/helepolis-hep-2h) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1461) 
 - **Battle Value:** 1369 
 
 ## Availability 

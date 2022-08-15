@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2677/regulator-hovertank-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2677) 
 - **Battle Value:** 1212 
 
 ## Availability 
@@ -80,6 +80,17 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
 - Taurian Concordat 
 - Wolf's Dragoons 
 

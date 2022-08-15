@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1155/fulcrum-heavy-hovertank-ii) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1155) 
 - **Battle Value:** 1248 
 
 ## Availability 
@@ -51,4 +51,13 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

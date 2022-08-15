@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2760/ryoken-ii-3) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2760) 
 - **Battle Value:** 2336 
 
 ## Availability 
@@ -43,4 +43,9 @@
 - Clan Hell's Horses 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
 

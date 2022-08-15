@@ -14,7 +14,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (3.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1613/indra-infantry-transport-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1613) 
 - **Battle Value:** 897 
 - [*More Info*](indra_infantry_transport/indra_infantry_transport_standard.md) 
 
@@ -34,7 +34,7 @@
   - B-Pod 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1612/indra-infantry-transport-ba) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1612) 
 - **Battle Value:** 728 
 - [*More Info*](indra_infantry_transport/indra_infantry_transport_ba.md) 
 

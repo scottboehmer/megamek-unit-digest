@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1265/grand-titan-t-it-n10m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1265) 
 - **Battle Value:** 1817 
 
 ## Availability 
@@ -120,4 +120,11 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 

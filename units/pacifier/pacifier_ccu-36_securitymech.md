@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Mech Sprayer × 2 
   - Liquid Cargo × 2 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4780/pacifier-ccu-36-securitymech) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4780) 
 - **Battle Value:** 299 
 
 ## Availability 
@@ -47,6 +47,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

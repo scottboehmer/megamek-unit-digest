@@ -23,7 +23,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2167/men-shen-ms1-ou) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2167) 
 - **Battle Value:** 1725 
 
 ## Availability 
@@ -35,12 +35,20 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
 

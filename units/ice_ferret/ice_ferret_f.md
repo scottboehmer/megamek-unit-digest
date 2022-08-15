@@ -16,7 +16,7 @@
   - Watchdog CEWS 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7508/fenris-ice-ferret-f) 
+- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7508) 
 - **Battle Value:** 1771 
 
 ## Availability 
@@ -51,5 +51,17 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Wolf Empire 
 - Wolf's Dragoons 
 

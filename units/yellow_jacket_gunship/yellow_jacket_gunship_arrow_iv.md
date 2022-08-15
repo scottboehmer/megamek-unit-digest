@@ -14,7 +14,7 @@
   - Arrow IV (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3614/yellow-jacket-gunship-arrow-iv) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3614) 
 - **Battle Value:** 612 
 
 ## Availability 
@@ -89,4 +89,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

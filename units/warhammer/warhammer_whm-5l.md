@@ -21,7 +21,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3484/warhammer-whm-5l) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3484) 
 - **Battle Value:** 1896 
 
 ## Availability 
@@ -29,12 +29,20 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
 

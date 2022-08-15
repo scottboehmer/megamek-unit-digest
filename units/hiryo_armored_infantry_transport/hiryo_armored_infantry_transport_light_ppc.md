@@ -14,7 +14,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - Infantry (8 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1526/hiryo-armored-infantry-transport-light-ppc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1526) 
 - **Battle Value:** 708 
 
 ## Availability 
@@ -32,6 +32,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

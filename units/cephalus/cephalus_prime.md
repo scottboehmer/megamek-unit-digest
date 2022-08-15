@@ -22,7 +22,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3930/cephalus-prime) 
+- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/3930) 
 - **Battle Value:** 1038 
 
 ## Availability 

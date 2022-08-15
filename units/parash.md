@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2428/parash-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2428) 
 - **Battle Value:** 1300 
 - [*More Info*](parash/parash_standard.md) 
 
@@ -43,7 +43,7 @@
   - Narrow/Low Profile 
   - Non-Standard Parts 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** XTR Republic III - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7375/parash-3) 
+- **Sources:** XTR Republic III - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7375) 
 - **Battle Value:** 1785 
 - [*More Info*](parash/parash_3.md) 
 
@@ -65,7 +65,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Jettison-Capable Weapon (ER Large Pulse Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2427/parash-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2427) 
 - **Battle Value:** 1523 
 - [*More Info*](parash/parash_2.md) 
 

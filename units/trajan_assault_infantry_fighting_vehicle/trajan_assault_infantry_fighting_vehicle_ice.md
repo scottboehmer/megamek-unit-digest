@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Infantry (8 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3281/trajan-assault-infantry-fighting-vehicle-ice) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3281) 
 - **Battle Value:** 1043 
 
 ## Availability 
@@ -38,4 +38,10 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

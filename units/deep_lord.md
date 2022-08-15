@@ -19,13 +19,13 @@
   - Protected Actuators 
   - Improved Life Support 
   - Jettison-Capable Weapon (Mace) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4057/deep-lord-militiamech-rcl-z1m) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4057) 
 - **Battle Value:** 686 
 - [*More Info*](deep_lord/deep_lord_rcl-z1m_militiamech.md) 
 
 ## Deep Lord RCL-Z1M-B MilitiaMech 
 
-- **Role:** Brawler 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3118) 
 - **Chassis:** 65 tons (Industrial) 
 - **Movement:** 3 / 5, Fuel Cell 
@@ -37,7 +37,7 @@
   - Claw 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7830/deep-lord-rcl-z1m-b-militiamech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7830) 
 - **Battle Value:** 773 
 - [*More Info*](deep_lord/deep_lord_rcl-z1m-b_militiamech.md) 
 

@@ -14,7 +14,7 @@
   - LRM 15 × 4 (ammo: 48) 
   - Streak SRM 6 × 2 (ammo: 30) 
   - Light Machine Gun × 6 (ammo: 200) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4738/nuberu-anti-aircraft-tank-2-numantia) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4738) 
 - **Battle Value:** 1578 
 
 ## Availability 
@@ -28,6 +28,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

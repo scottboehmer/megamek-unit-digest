@@ -14,7 +14,7 @@
   - Guardian ECM Suite × 2 
   - C3 Support 
   - Mast Mount 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2028/mantis-light-attack-vtol-eccm) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2028) 
 - **Battle Value:** 304 
 
 ## Availability 
@@ -38,4 +38,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

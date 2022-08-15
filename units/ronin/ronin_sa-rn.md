@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2738/ronin-sa-rn) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2738) 
 - **Battle Value:** 1084 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2225/morpheus-mr-p1) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2225) 
 - **Battle Value:** 1340 
 - [*More Info*](morpheus/morpheus_mr-p1.md) 
 
@@ -42,7 +42,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2226/morpheus-mrp-3s) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2226) 
 - **Battle Value:** 1437 
 - [*More Info*](morpheus/morpheus_mrp-3s.md) 
 
@@ -62,7 +62,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2227/morpheus-mrp-3t) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2227) 
 - **Battle Value:** 1925 
 - [*More Info*](morpheus/morpheus_mrp-3t.md) 
 
@@ -86,7 +86,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2228/morpheus-mrp-3w) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2228) 
 - **Battle Value:** 1299 
 - [*More Info*](morpheus/morpheus_mrp-3w.md) 
 

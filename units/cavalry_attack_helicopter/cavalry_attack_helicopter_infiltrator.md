@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Jet Booster 
   - Infantry (4.0 tons) 
-- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3909/cavalry-attack-helicopter-infiltrator) 
+- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3909) 
 - **Battle Value:** 411 
 
 ## Availability 
@@ -30,6 +30,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

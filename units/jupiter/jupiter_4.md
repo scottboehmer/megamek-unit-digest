@@ -20,7 +20,7 @@
   - Fine Manipulators 
   - Improved Sensors 
   - Improved Targeting (Long) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6829/jupiter-4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6829) 
 - **Battle Value:** 2955 
 
 ## Availability 
@@ -36,4 +36,11 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
 

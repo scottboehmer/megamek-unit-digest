@@ -21,18 +21,20 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1065/fire-falcon-c) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1065) 
 - **Battle Value:** 1004 
 
 ## Availability 
 
 ### Clan Invasion 
 
+- Clan Coyote 
 - Clan Fire Mandrill 
 - Clan Jade Falcon 
 
 ### Civil War 
 
+- Clan Coyote 
 - Clan Fire Mandrill 
 - Clan Goliath Scorpion 
 - Clan Hell's Horses 
@@ -42,6 +44,7 @@
 ### Jihad 
 
 - Clan Cloud Cobra 
+- Clan Coyote 
 - Clan Fire Mandrill 
 - Clan Goliath Scorpion 
 - Clan Hell's Horses 
@@ -63,4 +66,10 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

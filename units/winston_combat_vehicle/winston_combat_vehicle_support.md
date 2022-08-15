@@ -19,7 +19,7 @@
   - Targeting Computer 
   - CASE 
   - TAG 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6798/winston-combat-vehicle-support) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6798) 
 - **Battle Value:** 1786 
 
 ## Availability 
@@ -31,4 +31,11 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

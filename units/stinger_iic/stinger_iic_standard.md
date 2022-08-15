@@ -20,7 +20,7 @@
   - Cramped Cockpit 
   - Difficult Ejection 
   - Combat Computer 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5135/stinger-iic-standard) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5135) 
 - **Battle Value:** 730 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

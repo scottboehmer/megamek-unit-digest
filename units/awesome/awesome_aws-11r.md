@@ -25,14 +25,20 @@
   - Distracting 
   - Poor Performance 
   - Battlefist (Left Arm) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7349/awesome-aws-11r) 
+- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7349) 
 - **Battle Value:** 1878 
 
 ## Availability 
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
+- Wolf Empire 
 

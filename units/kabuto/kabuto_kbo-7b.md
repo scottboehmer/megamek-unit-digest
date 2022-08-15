@@ -14,7 +14,7 @@
   - Light PPC × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1729/kabuto-kbo-7b) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1729) 
 - **Battle Value:** 635 
 
 ## Availability 
@@ -37,4 +37,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

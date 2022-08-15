@@ -17,7 +17,7 @@
   - Lift Hoist 
   - Searchlight 
   - Ejection Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4926/rock-hound-am-prm-rh7-prospectormech) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4926) 
 - **Battle Value:** 523 
 
 ## Availability 
@@ -66,6 +66,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

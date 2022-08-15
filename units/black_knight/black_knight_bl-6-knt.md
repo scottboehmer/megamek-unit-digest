@@ -19,7 +19,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/358/black-knight-bl-6-knt) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/358) 
 - **Battle Value:** 1551 
 
 ## Availability 
@@ -218,6 +218,11 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Marian Hegemony 
+- Pirate 
+
+### ilClan 
 
 - Marian Hegemony 
 - Pirate 

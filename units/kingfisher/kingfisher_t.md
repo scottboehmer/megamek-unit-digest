@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8260/kingfisher-t) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8260) 
 - **Battle Value:** 2637 
 
 ## Availability 
@@ -29,6 +29,13 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Protectorate 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 

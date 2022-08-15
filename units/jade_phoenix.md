@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8293/jade-phoenix-prime) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8293) 
 - **Battle Value:** 3277 
 - [*More Info*](jade_phoenix/jade_phoenix_prime.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8294/jade-phoenix-a) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8294) 
 - **Battle Value:** 2739 
 - [*More Info*](jade_phoenix/jade_phoenix_a.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8295/jade-phoenix-b) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8295) 
 - **Battle Value:** 2998 
 - [*More Info*](jade_phoenix/jade_phoenix_b.md) 
 
@@ -77,7 +77,7 @@
   - Talons 
   - Partial Wing 
   - CASE 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8401/jade-phoenix-c) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8401) 
 - **Battle Value:** 2854 
 - [*More Info*](jade_phoenix/jade_phoenix_c.md) 
 
@@ -97,13 +97,13 @@
   - Partial Wing 
   - CASE 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8402/jade-phoenix-d) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8402) 
 - **Battle Value:** 2986 
 - [*More Info*](jade_phoenix/jade_phoenix_d.md) 
 
 ## Jade Phoenix E 
 
-- **Role:** Skirmisher 
+- **Role:** Sniper 
 - **Tech Base:** Clan Mixed (3148) 
 - **Chassis:** 85 tons (Endo Composite) 
 - **Movement:** 4 / 6 (8), XL 
@@ -117,7 +117,7 @@
   - Partial Wing 
   - CASE II 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8403/jade-phoenix-e) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8403) 
 - **Battle Value:** 2734 
 - [*More Info*](jade_phoenix/jade_phoenix_e.md) 
 

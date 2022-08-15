@@ -19,8 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-  - No Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2974/snake-snk-1v) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2974) 
 - **Battle Value:** 980 
 
 ## Availability 
@@ -96,5 +95,15 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
 - Taurian Concordat 
 

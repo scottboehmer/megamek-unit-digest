@@ -23,7 +23,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2452/peacekeeper-pkp-1a) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2452) 
 - **Battle Value:** 2824 
 
 ## Availability 
@@ -42,4 +42,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

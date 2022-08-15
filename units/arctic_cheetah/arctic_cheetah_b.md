@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1379/hankyu-arctic-cheetah-b) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1379) 
 - **Battle Value:** 1076 
 
 ## Availability 
@@ -147,4 +147,12 @@
 - Draconis Combine 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Draconis Combine 
+- Rasalhague Dominion 
+- Star League (Smoke Jaguar) 
 

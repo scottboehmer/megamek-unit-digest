@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7740/butcherbird-ion-sparrow-b) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7740) 
 - **Battle Value:** 626 
 
 ## Availability 
@@ -27,4 +27,10 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Mercenary 
 

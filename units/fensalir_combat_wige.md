@@ -14,7 +14,7 @@
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
   - Infantry (5 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1055/fensalir-combat-wige-hag) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1055) 
 - **Battle Value:** 2399 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_hag.md) 
 
@@ -33,7 +33,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (16 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1056/fensalir-combat-wige-infantry) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1056) 
 - **Battle Value:** 1424 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_infantry.md) 
 
@@ -51,7 +51,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1057/fensalir-combat-wige-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1057) 
 - **Battle Value:** 1687 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_standard.md) 
 
@@ -70,7 +70,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5789/fensalir-combat-wige-xxl) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5789) 
 - **Battle Value:** 1513 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_xxl.md) 
 

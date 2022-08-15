@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1824/koschei-ksc-5i) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1824) 
 - **Battle Value:** 1961 
 
 ## Availability 
@@ -50,4 +50,10 @@
 - Free Worlds League 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Mercenary 
 

@@ -18,7 +18,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2384/owens-ow-1) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2384) 
 - **Battle Value:** 839 
 - [*More Info*](owens/owens_ow-1.md) 
 
@@ -40,7 +40,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2385/owens-ow-1a) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2385) 
 - **Battle Value:** 680 
 - [*More Info*](owens/owens_ow-1a.md) 
 
@@ -61,7 +61,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2386/owens-ow-1b) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2386) 
 - **Battle Value:** 752 
 - [*More Info*](owens/owens_ow-1b.md) 
 
@@ -82,7 +82,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2387/owens-ow-1c) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2387) 
 - **Battle Value:** 964 
 - [*More Info*](owens/owens_ow-1c.md) 
 
@@ -103,7 +103,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2388/owens-ow-1d) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2388) 
 - **Battle Value:** 655 
 - [*More Info*](owens/owens_ow-1d.md) 
 
@@ -124,7 +124,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2391/owens-ow-1r) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2391) 
 - **Battle Value:** 1215 
 - [*More Info*](owens/owens_ow-1r.md) 
 
@@ -146,7 +146,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2389/owens-ow-1e) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2389) 
 - **Battle Value:** 833 
 - [*More Info*](owens/owens_ow-1e.md) 
 
@@ -170,7 +170,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2390/owens-ow-1f) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2390) 
 - **Battle Value:** 933 
 - [*More Info*](owens/owens_ow-1f.md) 
 
@@ -191,7 +191,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6924/owens-ow-1g) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6924) 
 - **Battle Value:** 1761 
 - [*More Info*](owens/owens_ow-1g.md) 
 

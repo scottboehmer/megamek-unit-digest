@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - No Cooling Jacket (AC/5) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6618/mongrel-mgl-t1) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6618) 
 - **Battle Value:** 1860 
 - [*More Info*](mongrel/mongrel_mgl-t1.md) 
 
@@ -37,7 +37,7 @@
   - ECM Suite 
   - CASE 
   - AES 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6619/mongrel-mgl-t2) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6619) 
 - **Battle Value:** 1949 
 - [*More Info*](mongrel/mongrel_mgl-t2.md) 
 

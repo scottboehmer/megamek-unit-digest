@@ -18,8 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1544/hoplite-hop-4x) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1544) 
 - **Battle Value:** 1880 
 
 ## Availability 

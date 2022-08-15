@@ -22,7 +22,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Silver Bullet) 
-- **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6866/marauder-mad-9d) 
+- **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6866) 
 - **Battle Value:** 1967 
 
 ## Availability 
@@ -32,6 +32,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

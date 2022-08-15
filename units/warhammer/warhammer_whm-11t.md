@@ -22,7 +22,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3482/warhammer-whm-11t) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3482) 
 - **Battle Value:** 1698 
 
 ## Availability 
@@ -38,6 +38,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### ilClan 
 
 - Magistracy of Canopus 
 - Taurian Concordat 

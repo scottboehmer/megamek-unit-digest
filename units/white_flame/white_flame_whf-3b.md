@@ -25,7 +25,7 @@
   - Directional Torso Mount (Medium Pulse Laser) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5404/white-flame-whf-3b) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5404) 
 - **Battle Value:** 1637 
 
 ## Availability 

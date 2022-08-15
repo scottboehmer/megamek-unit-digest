@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6833/daishi-dire-wolf-e) 
+- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6833) 
 - **Battle Value:** 2814 
 
 ## Availability 
@@ -33,6 +33,7 @@
 - Draconis Combine 
 - Escorpión Imperio 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -43,4 +44,14 @@
 - Escorpión Imperio 
 - Republic of the Sphere 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf's Dragoons 
 

@@ -17,7 +17,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5415/wolf-trap-tora-wft-2b) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5415) 
 - **Battle Value:** 1439 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

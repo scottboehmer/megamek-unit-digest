@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8320/iron-cheetah-a) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8320) 
 - **Battle Value:** 2708 
 
 ## Availability 
@@ -57,4 +57,5 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Raven Alliance 
+- Star League (Smoke Jaguar) 
 

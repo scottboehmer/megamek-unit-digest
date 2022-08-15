@@ -13,7 +13,7 @@
 - **Weapons:** 
   - HVAC/10 (ammo: 16) 
   - Streak SRM 6 (ammo: 15) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4841/po-heavy-tank-hv) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4841) 
 - **Battle Value:** 718 
 
 ## Availability 
@@ -31,6 +31,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

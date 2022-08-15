@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (5.0 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3320/turhan-urban-combat-vehicle-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3320) 
 - **Battle Value:** 673 
 
 ## Availability 
@@ -93,4 +93,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

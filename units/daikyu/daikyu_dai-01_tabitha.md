@@ -17,7 +17,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/798/daikyu-dai-01-tabitha) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/798) 
 - **Battle Value:** 1804 
 
 ## Availability 

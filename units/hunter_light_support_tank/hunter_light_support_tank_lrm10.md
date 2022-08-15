@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - Flamer 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1577/hunter-light-support-tank-lrm10) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1577) 
 - **Battle Value:** 645 
 
 ## Availability 

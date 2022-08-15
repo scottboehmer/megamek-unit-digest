@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
   - Medium Laser × 3 
   - Small Laser × 2 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3034/stag-ii-st-24g) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3034) 
 - **Battle Value:** 1625 
 
 ## Availability 

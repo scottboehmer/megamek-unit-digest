@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/986/enforcer-iii-enf-7c3bs) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/986) 
 - **Battle Value:** 1687 
 
 ## Availability 
@@ -39,6 +39,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

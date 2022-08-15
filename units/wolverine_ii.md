@@ -20,7 +20,7 @@
   - Improved Communications 
   - Protected Actuators 
   - Jettison-Capable Weapon (Ultra AC/5) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3585/wolverine-ii-wvr-7h) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3585) 
 - **Battle Value:** 1301 
 - [*More Info*](wolverine_ii/wolverine_ii_wvr-7h.md) 
 

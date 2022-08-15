@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3379/valkyrie-vlk-qs5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3379) 
 - **Battle Value:** 745 
 
 ## Availability 
@@ -49,4 +49,10 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

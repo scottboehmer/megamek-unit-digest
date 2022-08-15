@@ -14,10 +14,15 @@
 - **Weapons:** 
   - Heavy PPC 
   - Light PPC 
-- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7785/shadow-hawk-shd-4h) 
+- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7785) 
 - **Battle Value:** 1569 
 
 ## Availability 
+
+### Early Republic 
+
+- Magistracy of Canopus 
+- Rim Commonality 
 
 ### Late Republic 
 
@@ -34,4 +39,12 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Rim Commonality 
+
+### ilClan 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
 

@@ -15,12 +15,16 @@
   - Inner Sphere Claw × 2 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6920/dasher-ii-3) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6920) 
 - **Battle Value:** 1496 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
 
 - Mercenary 
 

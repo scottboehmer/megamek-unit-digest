@@ -12,7 +12,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - 'Mech Mortar/8 × 3 (ammo: 32) 
-- **Sources:** RS 3145 NTNU - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6793/mortar-carrier-standard) 
+- **Sources:** RS 3145 NTNU - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6793) 
 - **Battle Value:** 517 
 
 ## Availability 
@@ -84,4 +84,24 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Star League (Wolf) 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
+- Wolf Empire 
 

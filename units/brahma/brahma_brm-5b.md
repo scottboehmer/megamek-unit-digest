@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/427/brahma-brm-5b) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/427) 
 - **Battle Value:** 1730 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Taurian Concordat 
+
+### ilClan 
 
 - Taurian Concordat 
 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - TAG 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2404/padilla-heavy-artillery-tank-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2404) 
 - **Battle Value:** 1135 
 
 ## Availability 
@@ -81,4 +81,12 @@
 - Capellan Confederation 
 - Clan Wolf 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

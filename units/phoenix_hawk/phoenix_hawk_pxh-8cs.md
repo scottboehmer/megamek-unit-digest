@@ -22,7 +22,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510/phoenix-hawk-pxh-8cs) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510) 
 - **Battle Value:** 1442 
 
 ## Availability 
@@ -50,4 +50,9 @@
 - Draconis Combine 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Rasalhague Dominion 
 

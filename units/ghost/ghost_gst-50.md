@@ -20,7 +20,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6907/ghost-gst-50) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6907) 
 - **Battle Value:** 1114 
 
 ## Availability 
@@ -43,4 +43,9 @@
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

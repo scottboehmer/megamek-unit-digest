@@ -14,7 +14,7 @@
   - PPC 
 - **Equipment:** 
   - Cargo 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/454/buster-bc-xv-m-b-haulermech-mod-bc-xv-ppc) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/454) 
 - **Battle Value:** 475 
 
 ## Availability 
@@ -25,6 +25,11 @@
 - Star League-in-Exile 
 
 ### Dark Ages 
+
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Mercenary 
 - Pirate 

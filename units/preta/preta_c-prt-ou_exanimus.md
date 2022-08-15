@@ -24,7 +24,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2580/preta-c-prt-ou-exanimus) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2580) 
 - **Battle Value:** 1052 
 
 ## Availability 

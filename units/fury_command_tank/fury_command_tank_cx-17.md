@@ -17,7 +17,7 @@
   - Command Console 
   - Drone Control System 
   - Hitch 
-- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5556/fury-command-tank-cx-17) 
+- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5556) 
 - **Battle Value:** 1020 
 
 ## Availability 

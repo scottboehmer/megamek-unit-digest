@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3531/wasp-wsp-7maf) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3531) 
 - **Battle Value:** 488 
 
 ## Availability 
@@ -47,6 +47,13 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

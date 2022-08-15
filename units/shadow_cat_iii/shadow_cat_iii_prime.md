@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7491/shadow-cat-iii-prime) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7491) 
 - **Battle Value:** 2021 
 
 ## Availability 
@@ -31,6 +31,13 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 
 - Rasalhague Dominion 

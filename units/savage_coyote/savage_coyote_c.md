@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4984/savage-coyote-c) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4984) 
 - **Battle Value:** 3189 
 
 ## Availability 
@@ -57,4 +57,8 @@
 
 - Clan Hell's Horses 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Hell's Horses 
 

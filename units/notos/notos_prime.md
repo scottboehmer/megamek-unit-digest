@@ -18,12 +18,16 @@
   - Wheels 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** XTRO Republic III - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7370/notos-prime) 
+- **Sources:** XTRO Republic III - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7370) 
 - **Battle Value:** 2335 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

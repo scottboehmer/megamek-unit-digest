@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7477/battlemaster-c-3) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7477) 
 - **Battle Value:** 2532 
 
 ## Availability 
@@ -31,4 +31,15 @@
 - Clan Sea Fox 
 - Rasalhague Dominion 
 - Raven Alliance 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Tamar Pact 
+- Wolf's Dragoons 
 

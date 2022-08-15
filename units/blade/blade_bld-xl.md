@@ -21,7 +21,7 @@
   - Exposed Weapon Linkage (RAC/5) 
   - Modular Weapon (RAC/5) 
   - Static Ammo Feed (RAC/5) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/391/blade-bld-xl) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/391) 
 - **Battle Value:** 1314 
 
 ## Availability 
@@ -38,4 +38,8 @@
 
 - Capellan Confederation 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
 

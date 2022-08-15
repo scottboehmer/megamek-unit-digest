@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4266/hatamoto-kaeru-htm-35k) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4266) 
 - **Battle Value:** 1906 
 
 ## Availability 
@@ -40,6 +40,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

@@ -14,7 +14,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2719/ripper-infantry-transport-erml) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2719) 
 - **Battle Value:** 432 
 
 ## Availability 
@@ -61,4 +61,8 @@
 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
 

@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/20 (ammo: 5) 
-- **Sources:** TRO 3145 Capellan Confederation - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/6442/predator-tank-destroyer-original) 
+- **Sources:** TRO 3145 Capellan Confederation - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/6442) 
 - **Battle Value:** 480 
 - [*More Info*](predator_tank_destroyer/predator_tank_destroyer_original.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster) 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6441/predator-tank-destroyer-standard) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6441) 
 - **Battle Value:** 775 
 - [*More Info*](predator_tank_destroyer/predator_tank_destroyer_standard.md) 
 

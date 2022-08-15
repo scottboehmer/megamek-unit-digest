@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1749/karhu-b) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1749) 
 - **Battle Value:** 2787 
 
 ## Availability 
@@ -38,6 +38,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

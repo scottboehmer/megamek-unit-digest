@@ -14,7 +14,7 @@
   - Streak SRM 4 × 3 (ammo: 75) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4293/heimdall-ground-monitor-tank-prime) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4293) 
 - **Battle Value:** 1943 
 - [*More Info*](heimdall_ground_monitor_tank/heimdall_ground_monitor_tank_prime.md) 
 
@@ -32,7 +32,7 @@
   - Heavy Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4292/heimdall-ground-monitor-tank-a) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4292) 
 - **Battle Value:** 2244 
 - [*More Info*](heimdall_ground_monitor_tank/heimdall_ground_monitor_tank_a.md) 
 
@@ -49,7 +49,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5742/heimdall-ground-monitor-tank-b) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5742) 
 - **Battle Value:** 2254 
 - [*More Info*](heimdall_ground_monitor_tank/heimdall_ground_monitor_tank_b.md) 
 
@@ -67,7 +67,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5743/heimdall-ground-monitor-tank-c) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5743) 
 - **Battle Value:** 2131 
 - [*More Info*](heimdall_ground_monitor_tank/heimdall_ground_monitor_tank_c.md) 
 
@@ -85,7 +85,7 @@
   - Large Chemical Laser × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6804/heimdall-ground-monitor-tank-d) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6804) 
 - **Battle Value:** 1990 
 - [*More Info*](heimdall_ground_monitor_tank/heimdall_ground_monitor_tank_d.md) 
 

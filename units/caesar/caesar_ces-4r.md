@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/457/caesar-ces-4r) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/457) 
 - **Battle Value:** 2024 
 
 ## Availability 
@@ -43,6 +43,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+
+### ilClan 
 
 - Capellan Confederation 
 - Federated Suns 

@@ -18,7 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8355/ostroc-osr-6r) 
+- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8355) 
 - **Battle Value:** 2095 
 
 ## Availability 
@@ -26,6 +26,14 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Sea Fox 
+- Federated Suns 
+- Free Worlds League 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
 - Clan Sea Fox 
 - Federated Suns 
 - Free Worlds League 

@@ -17,7 +17,7 @@
   - ECM Suite 
   - CASE 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/993/epona-pursuit-tank-c) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/993) 
 - **Battle Value:** 1563 
 
 ## Availability 
@@ -86,4 +86,12 @@
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Wolf) 
 

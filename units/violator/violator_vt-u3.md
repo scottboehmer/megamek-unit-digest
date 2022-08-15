@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Easy to Maintain 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6504/violator-vt-u3) 
+- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6504) 
 - **Battle Value:** 973 
 
 ## Availability 
@@ -41,4 +41,10 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
 

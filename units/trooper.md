@@ -25,7 +25,7 @@
   - Modular Weapon (Machine Gun) 
   - Modular Weapon (Small Laser) 
   - Modular Weapon (Small Laser) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7407/trooper-tp-1r) 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7407) 
 - **Battle Value:** 261 
 - [*More Info*](trooper/trooper_tp-1r.md) 
 

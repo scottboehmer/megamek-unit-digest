@@ -20,7 +20,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6845/sunder-sd1-og) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6845) 
 - **Battle Value:** 2594 
 
 ## Availability 
@@ -31,4 +31,17 @@
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
+- Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

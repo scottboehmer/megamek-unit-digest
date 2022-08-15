@@ -20,7 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8400/night-gyr-x) 
+- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8400) 
 - **Battle Value:** 2781 
 
 ## Availability 
@@ -49,4 +49,13 @@
 - Clan Jade Falcon 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Sea Fox 
+- Mercenary 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 

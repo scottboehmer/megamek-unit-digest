@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3313/tufana-hovercraft-inarc) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3313) 
 - **Battle Value:** 756 
 
 ## Availability 
@@ -55,4 +55,11 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
 

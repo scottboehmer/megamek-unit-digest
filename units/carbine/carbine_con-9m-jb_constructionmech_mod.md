@@ -14,12 +14,19 @@
   - Heavy Machine Gun × 4 (ammo: 50) 
 - **Equipment:** 
   - Machine Gun Array 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7850/carbine-con-9m-jb-constructionmech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7850) 
 - **Battle Value:** 280 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Federated Suns 
 - Lyran Commonwealth 

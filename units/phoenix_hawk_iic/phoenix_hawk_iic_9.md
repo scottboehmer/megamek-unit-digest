@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196/phoenix-hawk-iic-9) 
+- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196) 
 - **Battle Value:** 2469 
 
 ## Availability 
@@ -56,5 +56,11 @@
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Sea Fox 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
 - Clan Sea Fox 
 

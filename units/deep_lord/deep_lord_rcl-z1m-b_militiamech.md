@@ -4,7 +4,7 @@
 
 ## Deep Lord RCL-Z1M-B MilitiaMech 
 
-- **Role:** Brawler 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3118) 
 - **Chassis:** 65 tons (Industrial) 
 - **Movement:** 3 / 5, Fuel Cell 
@@ -16,7 +16,7 @@
   - Claw 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7830/deep-lord-rcl-z1m-b-militiamech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7830) 
 - **Battle Value:** 773 
 
 ## Availability 
@@ -33,6 +33,17 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

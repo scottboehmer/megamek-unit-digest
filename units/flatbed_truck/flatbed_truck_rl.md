@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Clan Prototype Rocket 15 × 4 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1132/flatbed-truck-rl) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1132) 
 - **Battle Value:** 232 
 
 ## Availability 

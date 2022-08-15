@@ -15,7 +15,7 @@
   - CASE 
   - Limited Amphibious Chassis 
   - Infantry (1.0 tons) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2480/phalanx-support-tank-prototype) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2480) 
 - **Battle Value:** 429 
 - [*More Info*](phalanx_support_tank/phalanx_support_tank_prototype.md) 
 
@@ -33,7 +33,7 @@
 - **Equipment:** 
   - CASE 
   - Limited Amphibious Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4816/phalanx-support-tank-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4816) 
 - **Battle Value:** 494 
 - [*More Info*](phalanx_support_tank/phalanx_support_tank_production.md) 
 

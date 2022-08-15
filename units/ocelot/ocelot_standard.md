@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Jettison-Capable Weapon (ER Medium Laser) 
   - Jettison-Capable Weapon (ER Medium Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2313/ocelot-standard) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2313) 
 - **Battle Value:** 1439 
 
 ## Availability 
@@ -55,4 +55,12 @@
 - Draconis Combine 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Rasalhague Dominion 
+- Star League (Smoke Jaguar) 
 

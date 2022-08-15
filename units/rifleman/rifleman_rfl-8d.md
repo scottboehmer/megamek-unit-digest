@@ -19,7 +19,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2705/rifleman-rfl-8d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2705) 
 - **Battle Value:** 1777 
 
 ## Availability 
@@ -44,6 +44,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

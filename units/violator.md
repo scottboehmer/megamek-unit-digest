@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Easy to Maintain 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6503/violator-vt-u1) 
+- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6503) 
 - **Battle Value:** 928 
 - [*More Info*](violator/violator_vt-u1.md) 
 
@@ -41,7 +41,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Easy to Maintain 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6504/violator-vt-u3) 
+- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6504) 
 - **Battle Value:** 973 
 - [*More Info*](violator/violator_vt-u3.md) 
 

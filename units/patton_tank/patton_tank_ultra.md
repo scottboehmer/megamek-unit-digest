@@ -14,7 +14,7 @@
   - Ultra AC/10 (ammo: 30) 
   - Medium Laser × 2 
   - Machine Gun × 3 (ammo: 100) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2451/patton-tank-ultra) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2451) 
 - **Battle Value:** 1160 
 
 ## Availability 
@@ -61,4 +61,13 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRT 15 (ammo: 16) 
   - ER Medium Laser × 2 
-- **Sources:** TRO3085S - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4582/manta-fast-attack-submarine-support) 
+- **Sources:** TRO3085S - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4582) 
 - **Battle Value:** 925 
 
 ## Availability 
@@ -29,4 +29,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Wolf) 
 

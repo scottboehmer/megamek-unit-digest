@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Searchlight 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7184/rifleman-rfl-2n) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7184) 
 - **Battle Value:** 1093 
 
 ## Availability 

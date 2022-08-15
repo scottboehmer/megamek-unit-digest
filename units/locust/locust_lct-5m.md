@@ -19,7 +19,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1908/locust-lct-5m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1908) 
 - **Battle Value:** 719 
 
 ## Availability 
@@ -89,4 +89,12 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Mercenary 
 

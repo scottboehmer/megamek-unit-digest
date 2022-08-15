@@ -18,7 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7350/hatamoto-ku-htm-27w2) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7350) 
 - **Battle Value:** 1699 
 
 ## Availability 
@@ -28,6 +28,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

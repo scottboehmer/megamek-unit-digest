@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3534/watchman-wtc-4m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3534) 
 - **Battle Value:** 1067 
 - [*More Info*](watchman/watchman_wtc-4m.md) 
 
@@ -39,13 +39,13 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3533/watchman-wtc-4dm) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3533) 
 - **Battle Value:** 1225 
 - [*More Info*](watchman/watchman_wtc-4dm.md) 
 
 ## Watchman WTC-4MB 'Belle' 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere Mixed (3125) 
 - **Chassis:** 40 tons 
 - **Movement:** 5 / 8, Light 
@@ -61,7 +61,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8371/watchman-wtc-4mb-belle) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8371) 
 - **Battle Value:** 1234 
 - [*More Info*](watchman/watchman_wtc-4mb_belle.md) 
 

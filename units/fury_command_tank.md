@@ -12,7 +12,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4194/fury-command-tank-original) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4194) 
 - **Battle Value:** 1184 
 - [*More Info*](fury_command_tank/fury_command_tank_original.md) 
 
@@ -27,7 +27,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 8) 
   - Medium Laser 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4193/fury-command-tank-fury-ii) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4193) 
 - **Battle Value:** 1234 
 - [*More Info*](fury_command_tank/fury_command_tank_fury_ii.md) 
 
@@ -43,7 +43,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1160/fury-command-tank-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1160) 
 - **Battle Value:** 1255 
 - [*More Info*](fury_command_tank/fury_command_tank_royal.md) 
 
@@ -62,7 +62,7 @@
   - Command Console 
   - Drone Control System 
   - Hitch 
-- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5556/fury-command-tank-cx-17) 
+- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5556) 
 - **Battle Value:** 1020 
 - [*More Info*](fury_command_tank/fury_command_tank_cx-17.md) 
 
@@ -78,7 +78,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1161/fury-command-tank-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1161) 
 - **Battle Value:** 1184 
 - [*More Info*](fury_command_tank/fury_command_tank_standard.md) 
 
@@ -95,7 +95,7 @@
   - Light AC/5 (ammo: 40) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1159/fury-command-tank-c3s) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1159) 
 - **Battle Value:** 1413 
 - [*More Info*](fury_command_tank/fury_command_tank_c3s.md) 
 
@@ -113,7 +113,7 @@
 - **Equipment:** 
   - C3 Main 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1158/fury-command-tank-c3m) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1158) 
 - **Battle Value:** 1336 
 - [*More Info*](fury_command_tank/fury_command_tank_c3m.md) 
 
@@ -133,7 +133,7 @@
   - Beagle Active Probe 
   - C3 Boosted Support 
   - CASE 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6801/fury-command-tank-fury-iii) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6801) 
 - **Battle Value:** 1827 
 - [*More Info*](fury_command_tank/fury_command_tank_fury_iii.md) 
 
@@ -152,7 +152,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Main 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6802/fury-command-tank-fury-iiim) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6802) 
 - **Battle Value:** 1720 
 - [*More Info*](fury_command_tank/fury_command_tank_fury_iiim.md) 
 

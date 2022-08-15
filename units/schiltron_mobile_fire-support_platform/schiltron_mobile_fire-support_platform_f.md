@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2820/schiltron-mobile-fire-support-platform-f) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2820) 
 - **Battle Value:** 1470 
 
 ## Availability 
@@ -63,4 +63,15 @@
 - Oriente Protectorate 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

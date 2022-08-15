@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Light Gauss Rifle × 2 (ammo: 48) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2205/moltke-mbt-m1) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2205) 
 - **Battle Value:** 1355 
 
 ## Availability 
@@ -58,4 +58,12 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
 

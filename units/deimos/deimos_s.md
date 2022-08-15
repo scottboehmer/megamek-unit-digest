@@ -23,7 +23,7 @@
   - Liquid Cargo 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/857/deimos-s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/857) 
 - **Battle Value:** 2664 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

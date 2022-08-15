@@ -14,7 +14,7 @@
   - Thunderbolt 15 (ammo: 8) 
 - **Equipment:** 
   - Mast Mount 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1428/hawk-moth-gunship-thunderbolt) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1428) 
 - **Battle Value:** 745 
 
 ## Availability 
@@ -25,13 +25,21 @@
 
 ### Early Republic 
 
+- Marik-Stewart Commonwealth 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Marik-Stewart Commonwealth 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2915/shadow-hawk-iic-5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2915) 
 - **Battle Value:** 1614 
 
 ## Availability 
@@ -89,4 +89,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Vesper Marches 
 

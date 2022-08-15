@@ -5,15 +5,16 @@
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2597) 
 - **Chassis:** 25 tons VTOL 
-- **Movement:** 12 / 18, Fusion 
+- **Movement:** 14 / 21, Fusion 
 - **Armor:** 32 
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2278/nightshade-ecm-vtol-standard) 
-- **Battle Value:** 342 
+  - Cargo 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2278) 
+- **Battle Value:** 367 
 - [*More Info*](nightshade_ecm_vtol/nightshade_ecm_vtol_standard.md) 
 
 ## Nightshade ECM VTOL (Royal) 
@@ -29,7 +30,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2277/nightshade-ecm-vtol-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2277) 
 - **Battle Value:** 631 
 - [*More Info*](nightshade_ecm_vtol/nightshade_ecm_vtol_royal.md) 
 
@@ -45,7 +46,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2274/nightshade-ecm-vtol-armor) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2274) 
 - **Battle Value:** 344 
 - [*More Info*](nightshade_ecm_vtol/nightshade_ecm_vtol_armor.md) 
 
@@ -62,7 +63,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3i 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2276/nightshade-ecm-vtol-light-ppc) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2276) 
 - **Battle Value:** 490 
 - [*More Info*](nightshade_ecm_vtol/nightshade_ecm_vtol_light_ppc.md) 
 
@@ -78,7 +79,7 @@
   - Light AC/2 (ammo: 45) 
 - **Equipment:** 
   - TAG 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2275/nightshade-ecm-vtol-lac) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2275) 
 - **Battle Value:** 325 
 - [*More Info*](nightshade_ecm_vtol/nightshade_ecm_vtol_lac.md) 
 

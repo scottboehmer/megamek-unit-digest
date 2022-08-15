@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2309/nyx-nx-90) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2309) 
 - **Battle Value:** 613 
 
 ## Availability 
@@ -36,6 +36,11 @@
 - Solaris 7 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Solaris 7 
+
+### ilClan 
 
 - Draconis Combine 
 - Solaris 7 

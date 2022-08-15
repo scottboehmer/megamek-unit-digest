@@ -20,7 +20,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/646/clint-clnt-2-3u) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/646) 
 - **Battle Value:** 1081 
 
 ## Availability 
@@ -72,16 +72,12 @@
 
 ### Early Republic 
 
-- Calderon Protectorate 
 - Capellan Confederation 
 - Federated Suns 
-- Filtvelt Coalition 
 - Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
-- Marian Hegemony 
 - Mercenary 
-- Pirate 
 - Taurian Concordat 
 
 ### Late Republic 
@@ -93,6 +89,14 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Capellan Confederation 

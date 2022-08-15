@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1633/ishtar-heavy-fire-support-tank-gauss) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1633) 
 - **Battle Value:** 1616 
 
 ## Availability 
@@ -49,4 +49,14 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1310/griffin-iic-standard) 
+- **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1310) 
 - **Battle Value:** 1608 
 - [*More Info*](griffin_iic/griffin_iic_standard.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1311/griffin-iic-2) 
+- **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1311) 
 - **Battle Value:** 1516 
 - [*More Info*](griffin_iic/griffin_iic_2.md) 
 
@@ -60,7 +60,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1312/griffin-iic-3) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1312) 
 - **Battle Value:** 1532 
 - [*More Info*](griffin_iic/griffin_iic_3.md) 
 
@@ -81,7 +81,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1313/griffin-iic-4) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1313) 
 - **Battle Value:** 1475 
 - [*More Info*](griffin_iic/griffin_iic_4.md) 
 
@@ -102,7 +102,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1314/griffin-iic-5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1314) 
 - **Battle Value:** 1344 
 - [*More Info*](griffin_iic/griffin_iic_5.md) 
 
@@ -123,7 +123,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1315/griffin-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1315) 
 - **Battle Value:** 1468 
 - [*More Info*](griffin_iic/griffin_iic_6.md) 
 
@@ -145,7 +145,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1317/griffin-iic-8) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1317) 
 - **Battle Value:** 1736 
 - [*More Info*](griffin_iic/griffin_iic_8.md) 
 
@@ -166,7 +166,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1316/griffin-iic-7) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1316) 
 - **Battle Value:** 1952 
 - [*More Info*](griffin_iic/griffin_iic_7.md) 
 
@@ -187,7 +187,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8159/griffin-iic-9) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8159) 
 - **Battle Value:** 1106 
 - [*More Info*](griffin_iic/griffin_iic_9.md) 
 

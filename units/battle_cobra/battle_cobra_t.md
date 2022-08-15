@@ -17,7 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8389/battle-cobra-t) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8389) 
 - **Battle Value:** 1666 
 
 ## Availability 
@@ -26,4 +26,10 @@
 
 - Clan Jade Falcon 
 - Scorpion Empire 
+
+### ilClan 
+
+- Kell Hounds 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 

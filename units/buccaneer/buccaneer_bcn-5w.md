@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/437/buccaneer-bcn-5w) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/437) 
 - **Battle Value:** 1370 
 
 ## Availability 

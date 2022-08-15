@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1223/goblin-medium-tank-lrm) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1223) 
 - **Battle Value:** 656 
 
 ## Availability 
@@ -114,6 +114,12 @@
 - Filtvelt Coalition 
 
 ### Dark Ages 
+
+- Filtvelt Coalition 
+- Marian Hegemony 
+- Pirate 
+
+### ilClan 
 
 - Filtvelt Coalition 
 - Marian Hegemony 

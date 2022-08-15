@@ -18,7 +18,7 @@
   - Salvage Arm 
   - Lift Hoist 
   - Tracks 
-- **Sources:** RS 3075 Unabrided , [Master Unit List](http://masterunitlist.info/Unit/Details/4383/jabberwocky-jaw-65a-engineermech) 
+- **Sources:** RS 3075 Unabrided , [Master Unit List](http://masterunitlist.info/Unit/Details/4383) 
 - **Battle Value:** 250 
 
 ## Availability 

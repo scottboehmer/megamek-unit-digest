@@ -14,12 +14,20 @@
 - **Weapons:** 
   - RAC/2 (ammo: 90) 
   - Dual Saw 
-- **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6956/raider-mk-ii-jl-2) 
+- **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6956) 
 - **Battle Value:** 883 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+- Fronc Reaches 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Capellan Confederation 
 - Federated Suns 

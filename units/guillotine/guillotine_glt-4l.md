@@ -17,7 +17,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1339/guillotine-glt-4l) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1339) 
 - **Battle Value:** 1400 
 
 ## Availability 
@@ -135,11 +135,23 @@
 
 ### Early Republic 
 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 
 ### Late Republic 
 
+- Marian Hegemony 
+- Mercenary 
+
+### Dark Ages 
+
+- Marian Hegemony 
+- Mercenary 
+
+### ilClan 
+
+- Marian Hegemony 
 - Mercenary 
 

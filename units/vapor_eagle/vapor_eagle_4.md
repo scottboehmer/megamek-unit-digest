@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1246/goshawk-vapor-eagle-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1246) 
 - **Battle Value:** 2069 
 
 ## Availability 
@@ -43,5 +43,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+- Solaris 7 
+
+### ilClan 
+
 - Solaris 7 
 

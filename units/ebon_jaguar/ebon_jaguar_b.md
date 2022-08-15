@@ -19,7 +19,7 @@
   - TAG 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/491/cauldron-born-ebon-jaguar-b) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/491) 
 - **Battle Value:** 2535 
 
 ## Availability 
@@ -101,6 +101,7 @@
 - Draconis Combine 
 - Escorpión Imperio 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -110,6 +111,7 @@
 - Draconis Combine 
 - Escorpión Imperio 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -121,4 +123,17 @@
 - Escorpión Imperio 
 - Raven Alliance 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Wolf's Dragoons 
 

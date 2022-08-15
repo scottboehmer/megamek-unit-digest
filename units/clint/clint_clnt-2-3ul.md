@@ -20,7 +20,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/647/clint-clnt-2-3ul) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/647) 
 - **Battle Value:** 1245 
 
 ## Availability 
@@ -46,6 +46,12 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Magistracy of Canopus 

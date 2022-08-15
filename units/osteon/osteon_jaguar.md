@@ -25,7 +25,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5830/osteon-jaguar) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5830) 
 - **Battle Value:** 2526 
 
 ## Availability 

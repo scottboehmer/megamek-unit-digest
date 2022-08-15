@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7456/grendel-mongrel-t) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7456) 
 - **Battle Value:** 1936 
 
 ## Availability 
@@ -31,6 +31,21 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Sea Fox 
+- Kell Hounds 
+- Mercenary 
+- Raven Alliance 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Wolf's Dragoons 
 

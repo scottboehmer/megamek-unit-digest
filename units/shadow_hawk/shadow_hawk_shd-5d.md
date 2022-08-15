@@ -23,7 +23,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2905/shadow-hawk-shd-5d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2905) 
 - **Battle Value:** 1684 
 
 ## Availability 
@@ -64,4 +64,10 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Mercenary 
 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6279/loki-mk-ii-hel-b) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6279) 
 - **Battle Value:** 1798 
 
 ## Availability 
@@ -42,5 +42,18 @@
 - Kell Hounds 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Kell Hounds 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
 - Wolf's Dragoons 
 

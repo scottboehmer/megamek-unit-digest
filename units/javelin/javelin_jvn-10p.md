@@ -16,7 +16,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1676/javelin-jvn-10p) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1676) 
 - **Battle Value:** 590 
 
 ## Availability 

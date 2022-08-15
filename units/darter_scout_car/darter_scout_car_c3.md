@@ -15,7 +15,7 @@
 - **Equipment:** 
   - C3 Support 
   - Cargo 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/833/darter-scout-car-c3) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/833) 
 - **Battle Value:** 125 
 
 ## Availability 
@@ -43,6 +43,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

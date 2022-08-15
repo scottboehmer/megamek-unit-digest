@@ -20,8 +20,8 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8445/flashman-fls-10e) 
-- **Battle Value:** 3393 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8445) 
+- **Battle Value:** 3349 
 
 ## Availability 
 
@@ -31,4 +31,14 @@
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
 - Mercenary 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf's Dragoons 
 

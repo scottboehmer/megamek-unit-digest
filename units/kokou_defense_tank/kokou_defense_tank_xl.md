@@ -15,7 +15,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7673/kokou-defense-tank-xl) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7673) 
 - **Battle Value:** 1474 
 
 ## Availability 
@@ -167,4 +167,21 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Rasalhague Dominion 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf Empire 
 

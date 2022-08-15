@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254/ti-tsang-tsg-9h) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254) 
 - **Battle Value:** 1880 
 
 ## Availability 
@@ -52,6 +52,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

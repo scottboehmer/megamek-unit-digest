@@ -24,7 +24,7 @@
   - Easy to Maintain 
   - Stable 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1254/grand-crusader-ii-grn-d-03) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1254) 
 - **Battle Value:** 2276 
 
 ## Availability 

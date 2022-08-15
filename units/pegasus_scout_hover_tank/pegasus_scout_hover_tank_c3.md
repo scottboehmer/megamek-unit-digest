@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2456/pegasus-scout-hover-tank-c3) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2456) 
 - **Battle Value:** 785 
 
 ## Availability 
@@ -44,4 +44,12 @@
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

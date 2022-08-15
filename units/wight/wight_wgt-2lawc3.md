@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3549/wight-wgt-2lawc3) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3549) 
 - **Battle Value:** 821 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

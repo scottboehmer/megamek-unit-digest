@@ -18,7 +18,7 @@
   - AES × 2 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6466/mortis-ms-1a) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6466) 
 - **Battle Value:** 1834 
 - [*More Info*](mortis/mortis_ms-1a.md) 
 
@@ -40,7 +40,7 @@
   - AES × 2 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6467/mortis-ms-1p) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6467) 
 - **Battle Value:** 2198 
 - [*More Info*](mortis/mortis_ms-1p.md) 
 

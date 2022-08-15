@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3565/wolfhound-wlf-3m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3565) 
 - **Battle Value:** 786 
 
 ## Availability 
@@ -44,4 +44,8 @@
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
+
+### ilClan 
+
+- Free Worlds League 
 

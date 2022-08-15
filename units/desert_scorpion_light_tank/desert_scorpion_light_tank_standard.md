@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ToS - Stotzing- Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8078/desert-scorpion-light-tank-standard) 
+- **Sources:** ToS - Stotzing- Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8078) 
 - **Battle Value:** 554 
 
 ## Availability 
@@ -46,4 +46,8 @@
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
 

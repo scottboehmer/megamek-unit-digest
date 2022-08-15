@@ -17,7 +17,7 @@
   - Micro Pulse Laser × 4 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4829/pinion-standard) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4829) 
 - **Battle Value:** 1646 
 
 ## Availability 

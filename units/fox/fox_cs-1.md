@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Variable Range Targeting 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4182/fox-cs-1) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4182) 
 - **Battle Value:** 1574 
 
 ## Availability 

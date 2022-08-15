@@ -19,7 +19,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2491/phoenix-hawk-pxh-1) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2491) 
 - **Battle Value:** 1041 
 
 ## Availability 
@@ -204,6 +204,13 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Filtvelt Coalition 
+- Marian Hegemony 
+- Mercenary 
+- Scorpion Empire 
+
+### ilClan 
+
 - Filtvelt Coalition 
 - Marian Hegemony 
 - Mercenary 

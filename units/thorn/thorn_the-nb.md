@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3194/thorn-the-nb) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3194) 
 - **Battle Value:** 740 
 
 ## Availability 

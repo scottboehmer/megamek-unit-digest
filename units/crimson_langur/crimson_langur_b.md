@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Improved Communications 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4017/crimson-langur-b) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4017) 
 - **Battle Value:** 2210 
 
 ## Availability 

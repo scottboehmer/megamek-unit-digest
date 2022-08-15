@@ -20,7 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6721/night-stalker-nsr-kc) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6721) 
 - **Battle Value:** 1037 
 
 ## Availability 
@@ -31,4 +31,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
 

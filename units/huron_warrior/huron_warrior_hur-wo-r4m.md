@@ -16,7 +16,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1581/huron-warrior-hur-wo-r4m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1581) 
 - **Battle Value:** 1556 
 
 ## Availability 
@@ -66,4 +66,8 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
 

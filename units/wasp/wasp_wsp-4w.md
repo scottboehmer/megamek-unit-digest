@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #4 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7497/wasp-wsp-4w) 
+- **Sources:** Rec Guide:ilClan #4 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7497) 
 - **Battle Value:** 551 
 
 ## Availability 
@@ -40,6 +40,10 @@
 - Wolf's Dragoons 
 
 ### Dark Ages 
+
+- Wolf's Dragoons 
+
+### ilClan 
 
 - Wolf's Dragoons 
 

@@ -17,7 +17,7 @@
   - Clan Streak SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Shrapnel 6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3403/victor-c) 
+- **Sources:** Shrapnel 6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3403) 
 - **Battle Value:** 1925 
 
 ## Availability 
@@ -172,4 +172,18 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Vesper Marches 
 

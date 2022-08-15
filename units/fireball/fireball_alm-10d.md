@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1074/fireball-alm-10d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1074) 
 - **Battle Value:** 957 
 
 ## Availability 
@@ -50,4 +50,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
 

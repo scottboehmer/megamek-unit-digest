@@ -3,7 +3,7 @@
 ## Vapor Eagle 6 "Goshawk" 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (2840) 
+- **Tech Base:** Clan (2850) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
   - **Jumping:** 6 
@@ -15,10 +15,11 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+  - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709/goshawk-vapor-eagle-6) 
-- **Battle Value:** 1747 
+- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709) 
+- **Battle Value:** 1959 
 - [*More Info*](vapor_eagle/vapor_eagle_6.md) 
 
 ## Vapor Eagle (Standard) "Goshawk" 
@@ -40,7 +41,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1243/goshawk-vapor-eagle-standard) 
+- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1243) 
 - **Battle Value:** 2368 
 - [*More Info*](vapor_eagle/vapor_eagle_standard.md) 
 
@@ -62,7 +63,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1244/goshawk-vapor-eagle-2) 
+- **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1244) 
 - **Battle Value:** 1989 
 - [*More Info*](vapor_eagle/vapor_eagle_2.md) 
 
@@ -84,7 +85,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7710/goshawk-vapor-eagle-5) 
+- **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7710) 
 - **Battle Value:** 2572 
 - [*More Info*](vapor_eagle/vapor_eagle_5.md) 
 
@@ -107,7 +108,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1245/goshawk-vapor-eagle-3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1245) 
 - **Battle Value:** 2466 
 - [*More Info*](vapor_eagle/vapor_eagle_3.md) 
 
@@ -127,7 +128,7 @@
   - CASE 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1246/goshawk-vapor-eagle-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1246) 
 - **Battle Value:** 2069 
 - [*More Info*](vapor_eagle/vapor_eagle_4.md) 
 
@@ -150,7 +151,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7711/goshawk-vapor-eagle-7) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7711) 
 - **Battle Value:** 2876 
 - [*More Info*](vapor_eagle/vapor_eagle_7.md) 
 

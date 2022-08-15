@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2357/ostroc-osr-4l) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2357) 
 - **Battle Value:** 1778 
 
 ## Availability 
@@ -47,6 +47,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Fronc Reaches 

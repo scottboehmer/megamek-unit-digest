@@ -19,7 +19,7 @@
   - C3i 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1007/exterminator-ext-5f) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1007) 
 - **Battle Value:** 1485 
 
 ## Availability 

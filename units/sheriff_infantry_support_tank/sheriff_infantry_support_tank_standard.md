@@ -15,7 +15,7 @@
 - **Equipment:** 
   - B-Pod × 4 
   - CASE 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6443/sheriff-infantry-support-tank-standard) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6443) 
 - **Battle Value:** 810 
 
 ## Availability 
@@ -48,4 +48,14 @@
 - Marian Hegemony 
 - Mercenary 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 

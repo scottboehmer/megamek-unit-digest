@@ -19,7 +19,7 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6400/avalanche-avl-1on) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6400) 
 - **Battle Value:** 1873 
 
 ## Availability 
@@ -30,4 +30,14 @@
 - Clan Nova Cat 
 - Draconis Combine 
 - Free Worlds League 
+- Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
+- Taurian Concordat 
 

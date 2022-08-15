@@ -15,7 +15,7 @@
   - Communications Equipment 
   - CASE 
   - Hitch 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6328/paladin-defense-system-standard) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6328) 
 - **Battle Value:** 1624 
 - [*More Info*](paladin_defense_system/paladin_defense_system_standard.md) 
 

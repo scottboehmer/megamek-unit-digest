@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - RAC/2 (ammo: 45) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3517/warrior-attack-helicopter-h-9) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3517) 
 - **Battle Value:** 484 
 
 ## Availability 
@@ -32,4 +32,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

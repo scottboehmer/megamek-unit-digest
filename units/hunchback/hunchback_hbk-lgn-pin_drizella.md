@@ -4,7 +4,7 @@
 
 ## Hunchback HBK-LGN-Pin 'Drizella' 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere Mixed (3100) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 
@@ -17,12 +17,16 @@
   - Clan Micro Pulse Laser × 4 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8375/hunchback-hbk-lgn-pin-drizella) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8375) 
 - **Battle Value:** 1492 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

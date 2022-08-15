@@ -20,7 +20,7 @@
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
   - Fast Reload (Gauss Rifle) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/985/enforcer-iii-enf-6t) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/985) 
 - **Battle Value:** 1720 
 
 ## Availability 

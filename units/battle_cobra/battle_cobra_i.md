@@ -4,7 +4,7 @@
 
 ## Battle Cobra I 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Clan (3147) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 6 / 9 
@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8391/battle-cobra-i) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8391) 
 - **Battle Value:** 1385 
 
 ## Availability 
@@ -25,4 +25,10 @@
 
 - Clan Jade Falcon 
 - Scorpion Empire 
+
+### ilClan 
+
+- Kell Hounds 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1311/griffin-iic-2) 
+- **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1311) 
 - **Battle Value:** 1516 
 
 ## Availability 
@@ -123,6 +123,14 @@
 - Clan Sea Fox 
 - Draconis Combine 
 - Escorpión Imperio 
+- Mercenary 
+- Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
 - Mercenary 
 - Rasalhague Dominion 
 

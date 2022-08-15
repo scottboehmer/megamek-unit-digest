@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/6631/zeus-x-zeu-x) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/6631) 
 - **Battle Value:** 2119 
 - [*More Info*](zeus-x/zeus-x_zeu-x.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3050U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3646/zeus-x-zeu-9wd) 
+- **Sources:** TRO 3050U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3646) 
 - **Battle Value:** 1716 
 - [*More Info*](zeus-x/zeus-x_zeu-9wd.md) 
 
@@ -59,7 +59,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3145 Lyran Commonwealth - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6632/zeus-x-zeu-x2) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6632) 
 - **Battle Value:** 1915 
 - [*More Info*](zeus-x/zeus-x_zeu-x2.md) 
 
@@ -82,7 +82,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3647/zeus-x-zeu-9wd-stacy) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3647) 
 - **Battle Value:** 1921 
 - [*More Info*](zeus-x/zeus-x_zeu-9wd_stacy.md) 
 
@@ -103,7 +103,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6633/zeus-x-zeu-x3) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6633) 
 - **Battle Value:** 2178 
 - [*More Info*](zeus-x/zeus-x_zeu-x3.md) 
 
@@ -126,7 +126,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6630/zeus-x-zeu-x4) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6630) 
 - **Battle Value:** 2193 
 - [*More Info*](zeus-x/zeus-x_zeu-x4.md) 
 

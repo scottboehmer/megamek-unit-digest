@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2180/merlin-mln-1c) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2180) 
 - **Battle Value:** 1267 
 
 ## Availability 
@@ -35,6 +35,7 @@
 - Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Marian Hegemony 
 - Mercenary 
 - Outworlds Alliance 
 - Raven Alliance 
@@ -45,6 +46,7 @@
 - Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Marian Hegemony 
 - Mercenary 
 - Raven Alliance 
 - Taurian Concordat 
@@ -54,6 +56,17 @@
 - Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Marian Hegemony 
+- Mercenary 
+- Raven Alliance 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Marian Hegemony 
 - Mercenary 
 - Raven Alliance 
 - Taurian Concordat 

@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2569/prefect-prf-1r) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2569) 
 - **Battle Value:** 1847 
 
 ## Availability 
@@ -34,4 +34,10 @@
 
 - Free Worlds League 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
+- Star League (Wolf) 
 

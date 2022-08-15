@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Limited Amphibious Chassis 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6670/mhi-defense-aa-tank-standard) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6670) 
 - **Battle Value:** 970 
 
 ## Availability 
@@ -53,4 +53,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

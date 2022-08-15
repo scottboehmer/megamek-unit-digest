@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Streak SRM 2 × 4 (ammo: 100) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/933/drillson-heavy-hover-tank-streak) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/933) 
 - **Battle Value:** 899 
 
 ## Availability 
@@ -56,4 +56,13 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

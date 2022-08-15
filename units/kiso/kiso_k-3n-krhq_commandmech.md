@@ -23,7 +23,7 @@
   - Improved Communications 
   - Non-Standard Parts 
   - Stable 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5773/kiso-k-3n-krhq-commandmech) 
+- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5773) 
 - **Battle Value:** 940 
 
 ## Availability 

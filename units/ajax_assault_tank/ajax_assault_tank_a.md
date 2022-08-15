@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3688/ajax-assault-tank-a) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3688) 
 - **Battle Value:** 2042 
 
 ## Availability 
@@ -46,4 +46,8 @@
 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
 

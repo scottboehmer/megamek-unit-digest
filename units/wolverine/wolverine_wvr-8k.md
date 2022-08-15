@@ -26,14 +26,13 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3579/wolverine-wvr-8k) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3579) 
 - **Battle Value:** 1576 
 
 ## Availability 
 
 ### Civil War 
 
-- Clan Nova Cat 
 - Draconis Combine 
 - Free Rasalhague Republic 
 - Kell Hounds 
@@ -42,7 +41,6 @@
 
 ### Jihad 
 
-- Clan Nova Cat 
 - Draconis Combine 
 - Free Rasalhague Republic 
 - Kell Hounds 
@@ -51,27 +49,27 @@
 
 ### Early Republic 
 
-- Clan Nova Cat 
 - Draconis Combine 
 - Mercenary 
-- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Late Republic 
 
-- Clan Nova Cat 
 - Draconis Combine 
 - Federated Suns 
 - Mercenary 
-- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
-- Clan Nova Cat 
 - Draconis Combine 
 - Federated Suns 
 - Mercenary 
-- Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
 

@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Accurate Weapon (TAG) 
   - Stabilized Weapon (TAG) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1534/hitman-hm-1r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1534) 
 - **Battle Value:** 938 
 
 ## Availability 
@@ -51,4 +51,9 @@
 - Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Mercenary 
 

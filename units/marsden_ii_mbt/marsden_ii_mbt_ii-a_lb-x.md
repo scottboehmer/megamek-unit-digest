@@ -14,7 +14,7 @@
   - LB 10-X AC (ammo: 20) 
   - Streak SRM 2 × 2 (ammo: 100) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2087/marsden-mbt-ii-a-lb-x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2087) 
 - **Battle Value:** 1013 
 
 ## Availability 
@@ -70,4 +70,19 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Clan Hell's Horses 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf Empire 
 

@@ -14,7 +14,7 @@
   - Snub-Nose PPC 
   - MML 5 w/ Artemis IV × 2 (ammo: 24 LRM, 20 SRM) 
   - Machine Gun (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6792/bulldog-medium-tank-cell) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6792) 
 - **Battle Value:** 841 
 
 ## Availability 
@@ -42,4 +42,13 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

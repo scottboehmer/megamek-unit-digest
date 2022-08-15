@@ -18,12 +18,17 @@
   - Small Re-Engineered Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6921/cuirass-cdr-2x) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6921) 
 - **Battle Value:** 1227 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Accurate Weapon (Heavy Large Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1849/kuma-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1849) 
 - **Battle Value:** 1952 
 - [*More Info*](kuma/kuma_standard.md) 
 
@@ -37,7 +37,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Accurate Weapon (Plasma Cannon) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1847/kuma-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1847) 
 - **Battle Value:** 2309 
 - [*More Info*](kuma/kuma_2.md) 
 
@@ -52,7 +52,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Design Quirks:** 
   - Hard to Pilot 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1848/kuma-3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1848) 
 - **Battle Value:** 625 
 - [*More Info*](kuma/kuma_3.md) 
 
@@ -72,7 +72,7 @@
   - HarJel II × 5 
 - **Design Quirks:** 
   - Hard to Pilot 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6888/kuma-4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6888) 
 - **Battle Value:** 1865 
 - [*More Info*](kuma/kuma_4.md) 
 

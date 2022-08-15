@@ -16,7 +16,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2366/ostscout-ott-7j) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2366) 
 - **Battle Value:** 596 
 - [*More Info*](ostscout/ostscout_ott-7j.md) 
 
@@ -38,7 +38,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2367/ostscout-ott-7jb) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2367) 
 - **Battle Value:** 610 
 - [*More Info*](ostscout/ostscout_ott-7jb.md) 
 
@@ -58,7 +58,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2368/ostscout-ott-7k) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2368) 
 - **Battle Value:** 484 
 - [*More Info*](ostscout/ostscout_ott-7k.md) 
 
@@ -84,7 +84,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2369/ostscout-ott-9cs) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2369) 
 - **Battle Value:** 930 
 - [*More Info*](ostscout/ostscout_ott-9cs.md) 
 
@@ -109,7 +109,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2370/ostscout-ott-9s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2370) 
 - **Battle Value:** 855 
 - [*More Info*](ostscout/ostscout_ott-9s.md) 
 
@@ -132,7 +132,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2364/ostscout-ott-10cs) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2364) 
 - **Battle Value:** 862 
 - [*More Info*](ostscout/ostscout_ott-10cs.md) 
 
@@ -154,7 +154,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2365/ostscout-ott-11j) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2365) 
 - **Battle Value:** 908 
 - [*More Info*](ostscout/ostscout_ott-11j.md) 
 
@@ -176,7 +176,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7452/ostscout-ott-12r) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7452) 
 - **Battle Value:** 1209 
 - [*More Info*](ostscout/ostscout_ott-12r.md) 
 
@@ -200,7 +200,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7451/ostscout-ott-8j) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7451) 
 - **Battle Value:** 894 
 - [*More Info*](ostscout/ostscout_ott-8j.md) 
 

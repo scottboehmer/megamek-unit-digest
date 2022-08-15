@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3084/strider-sr1-o) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3084) 
 - **Battle Value:** 867 
 - [*More Info*](strider/strider_sr1-o.md) 
 
@@ -38,7 +38,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3085/strider-sr1-oa) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3085) 
 - **Battle Value:** 723 
 - [*More Info*](strider/strider_sr1-oa.md) 
 
@@ -56,7 +56,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3086/strider-sr1-ob) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3086) 
 - **Battle Value:** 910 
 - [*More Info*](strider/strider_sr1-ob.md) 
 
@@ -76,7 +76,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3087/strider-sr1-oc) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3087) 
 - **Battle Value:** 944 
 - [*More Info*](strider/strider_sr1-oc.md) 
 
@@ -99,7 +99,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3088/strider-sr1-od) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3088) 
 - **Battle Value:** 873 
 - [*More Info*](strider/strider_sr1-od.md) 
 
@@ -118,7 +118,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3089/strider-sr1-oe) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3089) 
 - **Battle Value:** 976 
 - [*More Info*](strider/strider_sr1-oe.md) 
 
@@ -137,7 +137,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3092/strider-sr1-or) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3092) 
 - **Battle Value:** 1339 
 - [*More Info*](strider/strider_sr1-or.md) 
 
@@ -157,7 +157,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3090/strider-sr1-of) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3090) 
 - **Battle Value:** 1032 
 - [*More Info*](strider/strider_sr1-of.md) 
 
@@ -176,7 +176,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3091/strider-sr1-og) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3091) 
 - **Battle Value:** 883 
 - [*More Info*](strider/strider_sr1-og.md) 
 
@@ -195,7 +195,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3093/strider-sr1-ox) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3093) 
 - **Battle Value:** 889 
 - [*More Info*](strider/strider_sr1-ox.md) 
 
@@ -213,7 +213,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6917/strider-sr1-oh) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6917) 
 - **Battle Value:** 1192 
 - [*More Info*](strider/strider_sr1-oh.md) 
 
@@ -230,7 +230,7 @@
   - C3 Boosted Main × 2 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6916/strider-sr1-om) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6916) 
 - **Battle Value:** 607 
 - [*More Info*](strider/strider_sr1-om.md) 
 

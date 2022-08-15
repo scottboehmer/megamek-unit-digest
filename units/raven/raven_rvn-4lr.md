@@ -4,7 +4,7 @@
 
 ## Raven RVN-4Lr 
 
-- **Role:** Missile Boat 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 35 tons 
 - **Movement:** 6 / 9, XL 
@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2668/raven-rvn-4lr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2668) 
 - **Battle Value:** 923 
 
 ## Availability 
@@ -40,6 +40,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

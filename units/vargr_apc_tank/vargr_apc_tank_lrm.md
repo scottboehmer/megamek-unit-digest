@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (7.0 tons) 
-- **Sources:** House Arano , [Master Unit List](http://masterunitlist.info/Unit/Details/7616/vargr-apc-tank-lrm) 
+- **Sources:** House Arano , [Master Unit List](http://masterunitlist.info/Unit/Details/7616) 
 - **Battle Value:** 827 
 
 ## Availability 
@@ -77,6 +77,10 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Pirate 
+
+### ilClan 
 
 - Pirate 
 

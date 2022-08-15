@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8251/eris-ers-2n) 
+- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8251) 
 - **Battle Value:** 1400 
 
 ## Availability 
@@ -53,4 +53,9 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
 

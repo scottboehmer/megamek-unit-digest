@@ -15,13 +15,13 @@
   - Heavy PPC 
   - ER Medium Laser × 2 
   - Hatchet 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6412/hitotsume-kozo-hkz-1f) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6412) 
 - **Battle Value:** 1998 
 - [*More Info*](hitotsume_kozo/hitotsume_kozo_hkz-1f.md) 
 
 ## Hitotsume Kozo HKZ-1FM 'Mulan' 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (3136) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -33,7 +33,7 @@
   - Heavy PPC 
   - ER Medium Laser × 2 
   - Large Vibroblade 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8380/hitotsume-kozo-hkz-1fm-mulan) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8380) 
 - **Battle Value:** 1772 
 - [*More Info*](hitotsume_kozo/hitotsume_kozo_hkz-1fm_mulan.md) 
 
@@ -52,7 +52,7 @@
   - Ultra AC/10 (ammo: 20) 
   - Medium Pulse Laser × 2 
   - Hatchet 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6413/hitotsume-kozo-hkz-1p) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6413) 
 - **Battle Value:** 1611 
 - [*More Info*](hitotsume_kozo/hitotsume_kozo_hkz-1p.md) 
 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Oversized 
-- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7735/crucible-2) 
+- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7735) 
 - **Battle Value:** 3598 
 
 ## Availability 
@@ -29,4 +29,9 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
 

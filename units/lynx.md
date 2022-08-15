@@ -15,7 +15,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1968/lynx-lnx-9q) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1968) 
 - **Battle Value:** 1725 
 - [*More Info*](lynx/lynx_lnx-9q.md) 
 
@@ -36,7 +36,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** Succesion Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7620/lynx-c) 
+- **Sources:** Succesion Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7620) 
 - **Battle Value:** 2712 
 - [*More Info*](lynx/lynx_c.md) 
 
@@ -53,7 +53,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1966/lynx-lnx-8q) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1966) 
 - **Battle Value:** 1292 
 - [*More Info*](lynx/lynx_lnx-8q.md) 
 
@@ -72,7 +72,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1969/lynx-lnx-9r) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1969) 
 - **Battle Value:** 1755 
 - [*More Info*](lynx/lynx_lnx-9r.md) 
 
@@ -91,7 +91,7 @@
   - Streak SRM 2 × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1967/lynx-lnx-9c) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1967) 
 - **Battle Value:** 1630 
 - [*More Info*](lynx/lynx_lnx-9c.md) 
 

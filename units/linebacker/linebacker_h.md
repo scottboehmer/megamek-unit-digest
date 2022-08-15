@@ -17,8 +17,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Stable 
-  - No Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1891/linebacker-h) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1891) 
 - **Battle Value:** 2097 
 
 ## Availability 
@@ -74,5 +73,14 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Raven Alliance 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Raven Alliance 
+- Star League (Wolf) 
+- Wolf Empire 
 - Wolf's Dragoons 
 

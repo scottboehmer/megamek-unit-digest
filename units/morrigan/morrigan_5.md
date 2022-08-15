@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6926/morrigan-5) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6926) 
 - **Battle Value:** 1904 
 
 ## Availability 
@@ -32,5 +32,9 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Draconis Combine 
+
+### ilClan 
+
 - Draconis Combine 
 

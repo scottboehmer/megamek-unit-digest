@@ -24,7 +24,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1107/firestarter-fs9-oh) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1107) 
 - **Battle Value:** 1119 
 
 ## Availability 
@@ -61,4 +61,12 @@
 - Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

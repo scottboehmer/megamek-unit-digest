@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2559/pouncer-c) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2559) 
 - **Battle Value:** 1653 
 
 ## Availability 
@@ -73,4 +73,10 @@
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
 

@@ -18,7 +18,7 @@
   - Machine Gun Array × 2 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1680/javelin-jvn-11f) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1680) 
 - **Battle Value:** 789 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7686/devastator-dvs-2-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7686) 
 - **Battle Value:** 2844 
 
 ## Availability 

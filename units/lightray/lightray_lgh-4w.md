@@ -20,7 +20,7 @@
   - Hyper-Extending Actuators 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4519/lightray-lgh-4w) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4519) 
 - **Battle Value:** 1450 
 
 ## Availability 

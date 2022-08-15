@@ -16,7 +16,7 @@
   - Narrow/Low Profile 
   - Cramped Cockpit 
   - Poor Cooling Jacket (Large Laser) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3276/toro-tr-a-1) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3276) 
 - **Battle Value:** 671 
 - [*More Info*](toro/toro_tr-a-1.md) 
 
@@ -33,7 +33,7 @@
   - LRM 5 × 2 (ammo: 48) 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3277/toro-tr-a-6) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3277) 
 - **Battle Value:** 864 
 - [*More Info*](toro/toro_tr-a-6.md) 
 

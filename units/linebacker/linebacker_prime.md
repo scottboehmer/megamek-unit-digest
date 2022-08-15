@@ -19,8 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-  - No Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1892/linebacker-prime) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1892) 
 - **Battle Value:** 2390 
 
 ## Availability 
@@ -84,5 +83,14 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Raven Alliance 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Raven Alliance 
+- Star League (Wolf) 
+- Wolf Empire 
 - Wolf's Dragoons 
 

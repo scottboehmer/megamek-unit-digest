@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/6631/zeus-x-zeu-x) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/6631) 
 - **Battle Value:** 2119 
 
 ## Availability 
@@ -38,16 +38,4 @@
 ### Jihad 
 
 - Lyran Alliance 
-
-### Early Republic 
-
-- Lyran Commonwealth 
-
-### Late Republic 
-
-- Lyran Commonwealth 
-
-### Dark Ages 
-
-- Lyran Commonwealth 
 

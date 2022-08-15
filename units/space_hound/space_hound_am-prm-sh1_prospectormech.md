@@ -19,7 +19,7 @@
   - Enviro-Sealing 
   - Cargo × 3 
   - Searchlight 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5101/space-hound-am-prm-sh1-prospectormech) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5101) 
 - **Battle Value:** 465 
 
 ## Availability 
@@ -63,6 +63,13 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Raven Alliance 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Magistracy of Canopus 

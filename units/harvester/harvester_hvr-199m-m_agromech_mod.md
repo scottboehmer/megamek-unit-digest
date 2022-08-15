@@ -15,7 +15,7 @@
   - Combine 
 - **Equipment:** 
   - Mine Dispenser × 4 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7864/harvester-hvr-199m-m-agromech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7864) 
 - **Battle Value:** 438 
 
 ## Availability 
@@ -26,4 +26,10 @@
 - Mercenary 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
+- Pirate 
 

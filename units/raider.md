@@ -12,7 +12,7 @@
 - **Weapons:** 
   - MRM 10 × 2 (ammo: 24) 
   - Dual Saw 
-- **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6955/raider-jl-1) 
+- **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6955) 
 - **Battle Value:** 817 
 - [*More Info*](raider/raider_jl-1.md) 
 

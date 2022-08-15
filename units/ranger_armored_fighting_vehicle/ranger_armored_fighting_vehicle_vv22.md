@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Small Laser × 2 
   - MagShot Gauss Rifle × 8 (ammo: 150) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2641/ranger-armored-fighting-vehicle-vv22) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2641) 
 - **Battle Value:** 786 
 
 ## Availability 
@@ -35,4 +35,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -18,7 +18,7 @@
   - Active Probe 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7593/vulture-mad-dog-s) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7593) 
 - **Battle Value:** 2676 
 
 ## Availability 
@@ -91,6 +91,7 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -104,6 +105,7 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -111,7 +113,17 @@
 - Clan Jade Falcon 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
+- Mercenary 
 - Raven Alliance 
 - Republic of the Sphere 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

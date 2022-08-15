@@ -15,7 +15,7 @@
   - SRM 4 × 4 (ammo: 50) 
   - ER Small Laser 
   - Machine Gun (ammo: 100) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1702/jes-i-tactical-missile-carrier-3082-upgrade) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1702) 
 - **Battle Value:** 978 
 
 ## Availability 
@@ -98,5 +98,31 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Jade Falcon 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
+- Wolf Empire 
 - Wolf's Dragoons 
 

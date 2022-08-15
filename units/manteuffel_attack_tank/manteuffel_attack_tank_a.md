@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4584/manteuffel-attack-tank-a) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4584) 
 - **Battle Value:** 1486 
 
 ## Availability 
@@ -50,4 +50,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

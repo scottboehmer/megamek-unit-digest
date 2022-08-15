@@ -14,7 +14,7 @@
   - Lift Hoist 
   - Mech Sprayer 
   - Cargo 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4792/patron-ptn-loadermech) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4792) 
 - **Battle Value:** 106 
 - [*More Info*](patron/patron_loadermech.md) 
 
@@ -32,7 +32,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4794/patron-ptn-2-militiamech) 
+- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4794) 
 - **Battle Value:** 143 
 - [*More Info*](patron/patron_ptn-2_militiamech.md) 
 
@@ -54,7 +54,7 @@
   - Ammunition Feed Problem (Light Machine Gun) 
   - Ammunition Feed Problem (Light Machine Gun) 
   - Ammunition Feed Problem (Light Machine Gun) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4795/patron-ptn-2m-patrolmech) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4795) 
 - **Battle Value:** 147 
 - [*More Info*](patron/patron_ptn-2m_militiamech.md) 
 

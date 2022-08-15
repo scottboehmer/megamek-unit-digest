@@ -20,7 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3791/barghest-bgs-4x) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3791) 
 - **Battle Value:** 1667 
 
 ## Availability 

@@ -21,8 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3348/uller-kit-fox-s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3348) 
 - **Battle Value:** 1342 
 
 ## Availability 
@@ -127,5 +126,15 @@
 - Mercenary 
 - Raven Alliance 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Mercenary 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 - Wolf's Dragoons 
 

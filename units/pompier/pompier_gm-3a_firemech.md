@@ -16,7 +16,7 @@
   - Searchlight 
   - Mech Sprayer 
   - Liquid Cargo 
-- **Sources:** TRO VA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4842/pompier-gm-3a-firemech) 
+- **Sources:** TRO VA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4842) 
 - **Battle Value:** 106 
 
 ## Availability 
@@ -47,6 +47,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

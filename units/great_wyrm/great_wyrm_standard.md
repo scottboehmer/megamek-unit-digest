@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1284/great-wyrm-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1284) 
 - **Battle Value:** 1331 
 
 ## Availability 
@@ -89,38 +89,16 @@
 
 ### Early Republic 
 
-- Clan Diamond Shark 
 - Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Escorpión Imperio 
-- Rasalhague Dominion 
-- Raven Alliance 
 
 ### Late Republic 
 
 - Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Escorpión Imperio 
-- Rasalhague Dominion 
-- Raven Alliance 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Escorpión Imperio 
-- Rasalhague Dominion 
-- Raven Alliance 
-- Scorpion Empire 
 

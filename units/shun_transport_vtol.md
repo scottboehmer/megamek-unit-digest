@@ -15,7 +15,7 @@
   - Targeting Computer 
   - TAG 
   - Infantry (12.0 tons) 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6440/shun-transport-vtol-standard) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6440) 
 - **Battle Value:** 439 
 - [*More Info*](shun_transport_vtol/shun_transport_vtol_standard.md) 
 

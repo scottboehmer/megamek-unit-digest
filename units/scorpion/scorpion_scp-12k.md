@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835) 
 - **Battle Value:** 1260 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

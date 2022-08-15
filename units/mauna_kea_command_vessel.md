@@ -14,7 +14,7 @@
   - Machine Gun × 5 (ammo: 100) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2111/mauna-kea-command-vessel-lrm) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2111) 
 - **Battle Value:** 1022 
 - [*More Info*](mauna_kea_command_vessel/mauna_kea_command_vessel_lrm.md) 
 
@@ -33,7 +33,7 @@
   - Machine Gun × 5 (ammo: 100) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2112/mauna-kea-command-vessel-lrt) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2112) 
 - **Battle Value:** 1022 
 - [*More Info*](mauna_kea_command_vessel/mauna_kea_command_vessel_lrt.md) 
 
@@ -52,7 +52,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2113/mauna-kea-command-vessel-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2113) 
 - **Battle Value:** 869 
 - [*More Info*](mauna_kea_command_vessel/mauna_kea_command_vessel_standard.md) 
 
@@ -71,7 +71,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2110/mauna-kea-command-vessel-lb-x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2110) 
 - **Battle Value:** 929 
 - [*More Info*](mauna_kea_command_vessel/mauna_kea_command_vessel_lb-x.md) 
 

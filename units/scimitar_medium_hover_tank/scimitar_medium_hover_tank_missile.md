@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 (ammo: 16) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2830/scimitar-medium-hover-tank-missile) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2830) 
 - **Battle Value:** 704 
 
 ## Availability 
@@ -120,6 +120,11 @@
 - Rim Commonality 
 
 ### Dark Ages 
+
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Mercenary 
 - Pirate 

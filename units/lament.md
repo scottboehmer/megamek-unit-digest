@@ -20,7 +20,7 @@
   - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6676/lament-lmt-2r) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6676) 
 - **Battle Value:** 1999 
 - [*More Info*](lament/lament_lmt-2r.md) 
 
@@ -45,7 +45,7 @@
   - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7400/lament-lmt-2r-manes) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7400) 
 - **Battle Value:** 2302 
 - [*More Info*](lament/lament_lmt-2r_manes.md) 
 
@@ -70,7 +70,7 @@
   - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6722/lament-lmt-3c) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6722) 
 - **Battle Value:** 1874 
 - [*More Info*](lament/lament_lmt-3c.md) 
 
@@ -94,7 +94,7 @@
   - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6723/lament-lmt-3r) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6723) 
 - **Battle Value:** 1888 
 - [*More Info*](lament/lament_lmt-3r.md) 
 
@@ -118,7 +118,7 @@
   - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6724/lament-lmt-4rc) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6724) 
 - **Battle Value:** 2490 
 - [*More Info*](lament/lament_lmt-4rc.md) 
 
@@ -144,7 +144,7 @@
   - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383/lament-lmt-2d) 
+- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383) 
 - **Battle Value:** 2044 
 - [*More Info*](lament/lament_lmt-2d.md) 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3505/warhammer-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3505) 
 - **Battle Value:** 2661 
 
 ## Availability 
@@ -40,6 +40,11 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### ilClan 
 
 - Rasalhague Dominion 
 - Raven Alliance 

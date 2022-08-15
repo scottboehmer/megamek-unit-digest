@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3.5 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1769/kestrel-vtol-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1769) 
 - **Battle Value:** 155 
 
 ## Availability 
@@ -76,5 +76,9 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
 - Wolf's Dragoons 
 

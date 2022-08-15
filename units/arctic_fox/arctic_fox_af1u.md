@@ -17,9 +17,8 @@
 - **Equipment:** 
   - MASS 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/98/arctic-fox-af1u) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/98) 
 - **Battle Value:** 821 
 
 ## Availability 
@@ -61,4 +60,10 @@
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
 

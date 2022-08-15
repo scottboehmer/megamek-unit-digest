@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1840/koto-kt-p2) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1840) 
 - **Battle Value:** 631 
 
 ## Availability 

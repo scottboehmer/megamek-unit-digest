@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1607/imp-imp-1a) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1607) 
 - **Battle Value:** 2215 
 - [*More Info*](imp/imp_imp-1a.md) 
 
@@ -41,7 +41,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1608/imp-imp-1b) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1608) 
 - **Battle Value:** 2349 
 - [*More Info*](imp/imp_imp-1b.md) 
 
@@ -63,7 +63,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1609/imp-imp-1c) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1609) 
 - **Battle Value:** 2480 
 - [*More Info*](imp/imp_imp-1c.md) 
 
@@ -84,7 +84,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1606/imp-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1606) 
 - **Battle Value:** 3070 
 - [*More Info*](imp/imp_c.md) 
 
@@ -103,7 +103,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4358/imp-imp-2e) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4358) 
 - **Battle Value:** 1969 
 - [*More Info*](imp/imp_imp-2e.md) 
 
@@ -126,7 +126,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1610/imp-imp-3e) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1610) 
 - **Battle Value:** 1906 
 - [*More Info*](imp/imp_imp-3e.md) 
 
@@ -149,7 +149,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1611/imp-imp-4e) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1611) 
 - **Battle Value:** 2263 
 - [*More Info*](imp/imp_imp-4e.md) 
 

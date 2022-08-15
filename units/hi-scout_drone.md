@@ -8,7 +8,7 @@
 - **Movement:** 16 / 24, Fuel Cell 
 - **Armor:** 0 
 - **Heat Sinks:** 1 (1) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1530/hi-scout-drone-napfind) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1530) 
 - **Battle Value:** 12 
 - [*More Info*](hi-scout_drone/hi-scout_drone_napfind.md) 
 
@@ -20,7 +20,7 @@
 - **Movement:** 8 / 12, ICE 
 - **Armor:** 8 
 - **Heat Sinks:** 0 (0) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1531/hi-scout-drone-pathtrak) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1531) 
 - **Battle Value:** 36 
 - [*More Info*](hi-scout_drone/hi-scout_drone_pathtrak.md) 
 

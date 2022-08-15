@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6980/sha-yu-bulldog) 
+- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6980) 
 - **Battle Value:** 1379 
 
 ## Availability 

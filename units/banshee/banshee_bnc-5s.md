@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/247/banshee-bnc-5s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/247) 
 - **Battle Value:** 2065 
 
 ## Availability 
@@ -48,6 +48,7 @@
 ### Jihad 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Kell Hounds 
 - Lyran Alliance 
@@ -56,18 +57,28 @@
 
 ### Early Republic 
 
+- Filtvelt Coalition 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
 
 ### Late Republic 
 
+- Filtvelt Coalition 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
 
 ### Dark Ages 
+
+- Filtvelt Coalition 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Scorpion Empire 
+
+### ilClan 
 
 - Marian Hegemony 
 - Mercenary 

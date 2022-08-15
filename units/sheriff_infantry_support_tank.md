@@ -13,7 +13,7 @@
 - **Equipment:** 
   - B-Pod × 4 
   - CASE 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6443/sheriff-infantry-support-tank-standard) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6443) 
 - **Battle Value:** 810 
 - [*More Info*](sheriff_infantry_support_tank/sheriff_infantry_support_tank_standard.md) 
 

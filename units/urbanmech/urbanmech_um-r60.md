@@ -18,7 +18,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3354/urbanmech-um-r60) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3354) 
 - **Battle Value:** 504 
 
 ## Availability 
@@ -171,5 +171,13 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Marian Hegemony 
+- Pirate 
+- Scorpion Empire 
+
+### ilClan 
+
+- Marian Hegemony 
+- Pirate 
 - Scorpion Empire 
 

@@ -17,8 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3345/uller-kit-fox-f) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3345) 
 - **Battle Value:** 1219 
 
 ## Availability 
@@ -72,5 +71,15 @@
 - Mercenary 
 - Raven Alliance 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Mercenary 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 - Wolf's Dragoons 
 

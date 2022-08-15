@@ -4,7 +4,7 @@
 
 ## Clint IIC 2L 'Leia' 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3125) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
@@ -19,12 +19,16 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8369/clint-iic-2l-leia) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8369) 
 - **Battle Value:** 1497 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

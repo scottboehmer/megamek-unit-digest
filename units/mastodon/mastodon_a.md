@@ -21,12 +21,16 @@
   - Improved Targeting (Long) 
   - Rugged (×2) 
   - EM Interference (All Weapons) 
-- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8343/mastodon-a) 
+- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8343) 
 - **Battle Value:** 2856 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

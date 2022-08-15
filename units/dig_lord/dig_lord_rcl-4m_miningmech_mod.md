@@ -17,12 +17,17 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Extended Fuel Tank 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/5542/dig-lord-rcl-4m-miningmech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/5542) 
 - **Battle Value:** 724 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Mercenary 
 - Pirate 

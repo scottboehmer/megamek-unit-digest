@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Cramped Cockpit 
   - Difficult Ejection 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2567/predator-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2567) 
 - **Battle Value:** 1754 
 - [*More Info*](predator/predator_standard.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Cramped Cockpit 
   - Difficult Ejection 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2568/predator-2) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2568) 
 - **Battle Value:** 2159 
 - [*More Info*](predator/predator_2.md) 
 

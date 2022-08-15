@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Infantry (8 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1196/giggins-apc-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1196) 
 - **Battle Value:** 476 
 
 ## Availability 
@@ -32,4 +32,9 @@
 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Rasalhague Dominion 
 

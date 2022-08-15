@@ -23,7 +23,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3601/wyvern-iic-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3601) 
 - **Battle Value:** 1624 
 
 ## Availability 
@@ -105,5 +105,10 @@
 
 - Clan Hell's Horses 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
 - Scorpion Empire 
 

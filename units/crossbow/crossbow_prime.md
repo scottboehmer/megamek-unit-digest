@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/739/crossbow-prime) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/739) 
 - **Battle Value:** 1829 
 
 ## Availability 
@@ -73,4 +73,13 @@
 - Clan Wolf 
 - Lyran Commonwealth 
 - Raven Alliance 
+
+### ilClan 
+
+- Clan Protectorate 
+- Lyran Commonwealth 
+- Raven Alliance 
+- Star League (Wolf) 
+- Tamar Pact 
+- Wolf Empire 
 

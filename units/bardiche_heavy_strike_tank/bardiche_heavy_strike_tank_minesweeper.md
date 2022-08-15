@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Minesweeper 
   - Mine Dispenser × 4 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6497/bardiche-heavy-strike-tank-minesweeper) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6497) 
 - **Battle Value:** 988 
 
 ## Availability 
@@ -32,4 +32,10 @@
 - Clan Wolf 
 - Free Worlds League 
 - Mercenary 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
+- Wolf Empire 
 

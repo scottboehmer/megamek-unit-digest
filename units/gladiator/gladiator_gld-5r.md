@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1202/gladiator-gld-5r) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1202) 
 - **Battle Value:** 1412 
 
 ## Availability 
@@ -53,4 +53,11 @@
 - Mercenary 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
 

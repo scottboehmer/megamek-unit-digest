@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/303/battlemaster-c) 
+- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/303) 
 - **Battle Value:** 3025 
 
 ## Availability 
@@ -43,4 +43,11 @@
 
 - Clan Jade Falcon 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Star League (Jade Falcon) 
+- Tamar Pact 
+- Wolf's Dragoons 
 

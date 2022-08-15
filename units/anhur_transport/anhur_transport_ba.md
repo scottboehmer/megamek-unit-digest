@@ -17,7 +17,7 @@
   - ECM Suite 
   - CASE 
   - Infantry (10.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/34/anhur-transport-ba) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/34) 
 - **Battle Value:** 637 
 
 ## Availability 
@@ -43,4 +43,12 @@
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

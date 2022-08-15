@@ -21,7 +21,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (AC/5) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2034/marauder-mad-2r) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2034) 
 - **Battle Value:** 1630 
 
 ## Availability 
@@ -178,6 +178,14 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Magistracy of Canopus 

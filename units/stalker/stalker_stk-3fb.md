@@ -21,7 +21,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3037/stalker-stk-3fb) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3037) 
 - **Battle Value:** 2029 
 
 ## Availability 
@@ -202,4 +202,12 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
 

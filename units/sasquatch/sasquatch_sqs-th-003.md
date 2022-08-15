@@ -17,7 +17,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2800/sasquatch-sqs-th-003) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2800) 
 - **Battle Value:** 1667 
 
 ## Availability 

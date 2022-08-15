@@ -19,7 +19,7 @@
   - CASE 
   - Fully Amphibious Chassis 
   - Infantry (5.0 tons) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6790/prowler-multi-terrain-vehicle-security) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6790) 
 - **Battle Value:** 1079 
 
 ## Availability 
@@ -31,4 +31,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Smoke Jaguar) 
 

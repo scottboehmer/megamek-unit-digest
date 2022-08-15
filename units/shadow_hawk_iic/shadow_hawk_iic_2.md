@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2912/shadow-hawk-iic-2) 
+- **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2912) 
 - **Battle Value:** 1763 
 
 ## Availability 
@@ -60,6 +60,11 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Rasalhague Dominion 
+- Scorpion Empire 
+
+### ilClan 
+
 - Rasalhague Dominion 
 - Scorpion Empire 
 

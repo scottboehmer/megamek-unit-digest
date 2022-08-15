@@ -19,12 +19,16 @@
   - C3 Boosted Main 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6900/fennec-fec-5cm) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6900) 
 - **Battle Value:** 1498 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

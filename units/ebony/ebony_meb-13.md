@@ -16,12 +16,17 @@
   - Large Re-Engineered Laser 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6943/ebony-meb-13) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6943) 
 - **Battle Value:** 750 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

@@ -1,6 +1,6 @@
 # Phoenix Hawk L 
 
-## Phoenix Hawk L PXH-11K 
+## Phoenix Hawk L 'Fenikkusu Taka' PXH-11K 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3116) 
@@ -18,13 +18,11 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
-- **Design Quirks:** 
-  - Poor Sealing 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6390/phoenix-hawk-l-fenikkusu-taka-pxh-11k) 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6390) 
 - **Battle Value:** 1563 
-- [*More Info*](phoenix_hawk_l/phoenix_hawk_l_pxh-11k.md) 
+- [*More Info*](phoenix_hawk_l/phoenix_hawk_l_fenikkusu_taka_pxh-11k.md) 
 
-## Phoenix Hawk L PXH-11K2 
+## Phoenix Hawk L 'Fenikkusu Taka' PXH-11K2 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3116) 
@@ -42,9 +40,7 @@
   - Full Head Ejection System 
   - Coolant Pod 
   - CASE II 
-- **Design Quirks:** 
-  - Poor Sealing 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6391/phoenix-hawk-l-fenikkusu-taka-pxh-11k2) 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6391) 
 - **Battle Value:** 1233 
-- [*More Info*](phoenix_hawk_l/phoenix_hawk_l_pxh-11k2.md) 
+- [*More Info*](phoenix_hawk_l/phoenix_hawk_l_fenikkusu_taka_pxh-11k2.md) 
 

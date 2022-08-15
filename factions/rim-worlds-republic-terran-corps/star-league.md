@@ -28,12 +28,12 @@
 
 ### 22 Tons 
 
-#### [Vector](../../units/vector.md) 
+#### [Vector Combat Support VTOL](../../units/vector_combat_support_vtol.md) 
 
-- [**Vector (Attack)**](../../units/vector/vector_attack.md) *Striker (2730)* 
-- [**Vector (EW)**](../../units/vector/vector_ew.md) *Striker (2730)* `ECM` , `TAG` 
-- [**Vector (Scout)**](../../units/vector/vector_scout.md) *Undefined (2730)* `Active Probe` , `TAG` 
-- [**Vector (Transport)**](../../units/vector/vector_transport.md) *Striker (2730)* `Transport:3.0` 
+- [**Vector Combat Support VTOL (Attack)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_attack.md) *Striker (2730)* 
+- [**Vector Combat Support VTOL (EW)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_ew.md) *Striker (2730)* `ECM` , `TAG` 
+- [**Vector Combat Support VTOL (Scout)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_scout.md) *Undefined (2730)* `Active Probe` , `TAG` 
+- [**Vector Combat Support VTOL (Standard)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_standard.md) *Striker (2730)* `Transport:3.0` 
 
 ### 25 Tons 
 
@@ -178,7 +178,7 @@
 #### [Jackrabbit](../../units/jackrabbit.md) 
 
 - [**Jackrabbit JKR-8T**](../../units/jackrabbit/jackrabbit_jkr-8t.md) *Sniper (2765)* 
-- [**Jackrabbit JKR-9R 'Joker'**](../../units/jackrabbit/jackrabbit_jkr-9r_joker.md) *Brawler (2768)* 
+- [**Jackrabbit JKR-9R 'Joker'**](../../units/jackrabbit/jackrabbit_jkr-9r_joker.md) *Striker (2768)* 
 
 #### [Mongoose](../../units/mongoose.md) 
 
@@ -283,7 +283,7 @@
 #### [Wyvern](../../units/wyvern.md) 
 
 - [**Wyvern WVE-5N**](../../units/wyvern/wyvern_wve-5n.md) *Brawler (2660)* 
-- [**Wyvern WVE-5UX (City)**](../../units/wyvern/wyvern_wve-5ux_city.md) *Brawler (2686)* `Command Console` 
+- [**Wyvern WVE-5UX**](../../units/wyvern/wyvern_wve-5ux.md) *Brawler (2686)* `Command Console` 
 - [**Wyvern WVE-5Nsl**](../../units/wyvern/wyvern_wve-5nsl.md) *Missile Boat (2750)* 
 
 ### 50 Tons 
@@ -397,7 +397,7 @@
 #### [Exterminator](../../units/exterminator.md) 
 
 - [**Exterminator EXT-4D**](../../units/exterminator/exterminator_ext-4d.md) *Skirmisher (2630)* 
-- [**Exterminator EXT-4DX (Caine)**](../../units/exterminator/exterminator_ext-4dx_caine.md) *Skirmisher (2754)* `Unique` 
+- [**Exterminator EXT-4DX**](../../units/exterminator/exterminator_ext-4dx.md) *Skirmisher (2754)* `Unique` 
 
 #### [Thunderbolt](../../units/thunderbolt.md) 
 
@@ -425,6 +425,10 @@
 
 - [**Shootist ST-8A**](../../units/shootist/shootist_st-8a.md) *Brawler (2621)* 
 
+#### [Uni](../../units/uni.md) 
+
+- [**Uni ATAE-70T CargoMech**](../../units/uni/uni_atae-70t_cargomech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [Warhammer](../../units/warhammer.md) 
 
 - [**Warhammer WHM-6Rb**](../../units/warhammer/warhammer_whm-6rb.md) *Brawler (2599)* 
@@ -443,7 +447,7 @@
 
 #### [Helepolis](../../units/helepolis.md) 
 
-- [**Helepolis HEP-2H**](../../units/helepolis/helepolis_hep-2h.md) *Missile Boat (2488)* 
+- [**Helepolis HEP-2H**](../../units/helepolis/helepolis_hep-2h.md) *Missile Boat (2567)* 
 - [**Helepolis HEP-3H**](../../units/helepolis/helepolis_hep-3h.md) *Missile Boat (2625)* 
 
 #### [Marauder](../../units/marauder.md) 

@@ -4,7 +4,7 @@
 
 ## Harvester Ant KIC-3M-B AgroMech (LRM) 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2801) 
 - **Chassis:** 20 tons Quad (Industrial) 
 - **Movement:** 3 / 5, ICE 
@@ -12,7 +12,7 @@
 - **Heat Sinks:** 2 (2) 
 - **Weapons:** 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7153/harvester-ant-kic-3m-b-agromech-mod-kic-3-lrm) 
+- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7153) 
 - **Battle Value:** 214 
 
 ## Availability 

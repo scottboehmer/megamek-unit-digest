@@ -14,7 +14,7 @@
   - Small VSP Laser × 2 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1459/heavy-wheeled-apc-wob) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1459) 
 - **Battle Value:** 330 
 
 ## Availability 
@@ -34,4 +34,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Smoke Jaguar) 
 

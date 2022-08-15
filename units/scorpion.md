@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2837/scorpion-scp-1n) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2837) 
 - **Battle Value:** 1019 
 - [*More Info*](scorpion/scorpion_scp-1n.md) 
 
@@ -32,7 +32,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2838/scorpion-scp-1n-wendall) 
+- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2838) 
 - **Battle Value:** 1043 
 - [*More Info*](scorpion/scorpion_scp-1n_wendall.md) 
 
@@ -50,7 +50,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2839/scorpion-scp-1o) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2839) 
 - **Battle Value:** 1098 
 - [*More Info*](scorpion/scorpion_scp-1o.md) 
 
@@ -70,7 +70,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2836/scorpion-scp-12s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2836) 
 - **Battle Value:** 1109 
 - [*More Info*](scorpion/scorpion_scp-12s.md) 
 
@@ -91,7 +91,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2834/scorpion-scp-12c) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2834) 
 - **Battle Value:** 1259 
 - [*More Info*](scorpion/scorpion_scp-12c.md) 
 
@@ -112,7 +112,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835/scorpion-scp-12k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835) 
 - **Battle Value:** 1260 
 - [*More Info*](scorpion/scorpion_scp-12k.md) 
 
@@ -132,7 +132,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb) 
+- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840) 
 - **Battle Value:** 1185 
 - [*More Info*](scorpion/scorpion_scp-1tb.md) 
 
@@ -151,7 +151,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2833/scorpion-scp-10m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2833) 
 - **Battle Value:** 1458 
 - [*More Info*](scorpion/scorpion_scp-10m.md) 
 
@@ -172,7 +172,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8314/scorpion-scp-1br) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8314) 
 - **Battle Value:** 1473 
 - [*More Info*](scorpion/scorpion_scp-1br.md) 
 
@@ -195,7 +195,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8315/scorpion-scp-2n) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8315) 
 - **Battle Value:** 1562 
 - [*More Info*](scorpion/scorpion_scp-2n.md) 
 
@@ -207,7 +207,7 @@
 - **Movement:** 6 / 9 (12), Light 
 - **Armor:** 184 
 - **Gyroscope:** XL Gyro 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Clan ER PPC w/ PPC Capacitor 
   - Clan ATM 6 (ammo: 10 Standard, 10 ER, 10 HE) 
@@ -218,7 +218,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8316/scorpion-c) 
-- **Battle Value:** 1975 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8316) 
+- **Battle Value:** 2074 
 - [*More Info*](scorpion/scorpion_c.md) 
 

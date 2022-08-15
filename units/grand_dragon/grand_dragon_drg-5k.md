@@ -20,7 +20,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1258/grand-dragon-drg-5k) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1258) 
 - **Battle Value:** 1358 
 
 ## Availability 
@@ -63,5 +63,10 @@
 
 - Clan Nova Cat 
 - Draconis Combine 
+- Mercenary 
+
+### ilClan 
+
+- Clan Protectorate 
 - Mercenary 
 

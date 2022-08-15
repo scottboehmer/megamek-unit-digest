@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2383/ostwar-owr-3m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2383) 
 - **Battle Value:** 1557 
 
 ## Availability 
@@ -40,4 +40,8 @@
 
 - Free Worlds League 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
 

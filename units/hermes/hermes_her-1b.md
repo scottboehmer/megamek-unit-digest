@@ -13,8 +13,9 @@
 - **Weapons:** 
   - Medium Laser × 3 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1486/hermes-her-1b) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1486) 
 - **Battle Value:** 687 
 
 ## Availability 

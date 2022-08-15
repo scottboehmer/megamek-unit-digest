@@ -4,7 +4,7 @@
 
 ## Mackie MSK-9HKR 'Kill-Roy's Little Buddy' 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (2750) 
 - **Chassis:** 100 tons 
 - **Movement:** 3 / 5 
@@ -21,7 +21,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5876/mackie-msh-9hkr-kill-roys-little-buddy) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5876) 
 - **Battle Value:** 2162 
 
 ## Availability 

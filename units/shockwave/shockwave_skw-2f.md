@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Battlefists 
   - Exposed Weapon Linkage (RAC/5) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2929/shockwave-skw-2f) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2929) 
 - **Battle Value:** 1453 
 
 ## Availability 
@@ -63,4 +63,12 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
 

@@ -20,7 +20,7 @@
   - Multi-Trac 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1406/hatamoto-kaeru-htm-35x) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1406) 
 - **Battle Value:** 1906 
 - [*More Info*](hatamoto-kaeru/hatamoto-kaeru_htm-35x.md) 
 
@@ -44,7 +44,7 @@
   - Multi-Trac 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4266/hatamoto-kaeru-htm-35k) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4266) 
 - **Battle Value:** 1906 
 - [*More Info*](hatamoto-kaeru/hatamoto-kaeru_htm-35k.md) 
 

@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (SRM 4) 
   - Directional Torso Mount (SRM 4) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2052/marauder-mad-sd-douglass) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2052) 
 - **Battle Value:** 1459 
 
 ## Availability 

@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8104/valkyrie-vlk-qd5) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8104) 
 - **Battle Value:** 690 
 
 ## Availability 

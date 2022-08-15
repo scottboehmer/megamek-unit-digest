@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - No Ejection System 
   - Multi-Trac 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5106/spindrift-aquatic-securitymech-sdt-1a) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5106) 
 - **Battle Value:** 450 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Lyran Commonwealth 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+
+### ilClan 
 
 - Lyran Commonwealth 
 

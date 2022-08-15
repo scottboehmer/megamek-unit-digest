@@ -26,12 +26,17 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6463/vandal-li-ob) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6463) 
 - **Battle Value:** 1666 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

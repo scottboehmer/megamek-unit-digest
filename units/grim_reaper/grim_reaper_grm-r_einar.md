@@ -25,7 +25,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Poor Sealing 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5550/grim-reaper-grm-r-einar) 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5550) 
 - **Battle Value:** 2121 
 
 ## Availability 

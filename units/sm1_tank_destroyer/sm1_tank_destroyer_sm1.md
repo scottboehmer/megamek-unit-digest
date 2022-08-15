@@ -4,7 +4,7 @@
 
 ## SM1 Tank Destroyer SM1 
 
-- **Role:** Missile Boat 
+- **Role:** Striker 
 - **Tech Base:** Clan (3068) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 8 / 12, Fusion 
@@ -15,7 +15,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2971/sm-tank-destroyer-sm1) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2971) 
 - **Battle Value:** 1585 
 
 ## Availability 
@@ -58,4 +58,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

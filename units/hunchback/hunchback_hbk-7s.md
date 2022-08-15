@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7346/hunchback-hbk-7s) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7346) 
 - **Battle Value:** 1628 
 
 ## Availability 
@@ -28,4 +28,9 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
 

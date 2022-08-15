@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3085S - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4662/moray-heavy-attack-submarine-original) 
+- **Sources:** TRO 3085S - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4662) 
 - **Battle Value:** 1592 
 
 ## Availability 

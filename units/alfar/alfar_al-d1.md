@@ -15,7 +15,7 @@
   - PPC × 2 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3693/alfar-al-d1-dokkalfar) 
+- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3693) 
 - **Battle Value:** 1458 
 
 ## Availability 

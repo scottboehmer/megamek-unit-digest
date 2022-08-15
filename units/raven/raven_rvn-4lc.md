@@ -4,7 +4,7 @@
 
 ## Raven RVN-4LC 
 
-- **Role:** Striker 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3062) 
 - **Chassis:** 35 tons 
 - **Movement:** 6 / 9, XL 
@@ -21,7 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2667/raven-rvn-4lc) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2667) 
 - **Battle Value:** 871 
 
 ## Availability 
@@ -51,6 +51,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

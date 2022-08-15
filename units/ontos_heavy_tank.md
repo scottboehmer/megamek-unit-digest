@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Medium Laser × 8 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2331/ontos-heavy-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2331) 
 - **Battle Value:** 938 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 10 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2326/ontos-heavy-tank-fusion) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2326) 
 - **Battle Value:** 1287 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_fusion.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 30) 
   - LRM 10 × 2 (ammo: 12) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2328/ontos-heavy-tank-lrm) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2328) 
 - **Battle Value:** 1164 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_lrm.md) 
 
@@ -61,7 +61,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2325/ontos-heavy-tank-3053-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2325) 
 - **Battle Value:** 1242 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_3053_upgrade.md) 
 
@@ -76,7 +76,7 @@
 - **Weapons:** 
   - Light Gauss Rifle × 3 (ammo: 64) 
   - ER Medium Laser × 2 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2327/ontos-heavy-tank-light-gauss) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2327) 
 - **Battle Value:** 1269 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_light_gauss.md) 
 
@@ -94,7 +94,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2329/ontos-heavy-tank-mml) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2329) 
 - **Battle Value:** 1268 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_mml.md) 
 
@@ -113,7 +113,7 @@
 - **Equipment:** 
   - CASE 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2330/ontos-heavy-tank-sealed) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2330) 
 - **Battle Value:** 1070 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_sealed.md) 
 
@@ -132,7 +132,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - Combat Vehicle Escape Pod 
-- **Sources:** TR0:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4748/ontos-heavy-tank-heat) 
+- **Sources:** TR0:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4748) 
 - **Battle Value:** 1110 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_heat.md) 
 

@@ -19,7 +19,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3053/stealth-sth-1d-anna) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3053) 
 - **Battle Value:** 1540 
 
 ## Availability 

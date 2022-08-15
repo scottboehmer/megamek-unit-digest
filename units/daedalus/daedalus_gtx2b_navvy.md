@@ -19,7 +19,7 @@
   - Cargo × 5 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/795/daedalus-gtx2b-navvy) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/795) 
 - **Battle Value:** 663 
 
 ## Availability 
@@ -52,5 +52,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

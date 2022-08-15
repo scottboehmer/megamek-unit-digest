@@ -17,7 +17,7 @@
   - Protected Actuators 
   - Stable 
   - Jettison-Capable Weapon (AC/5) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7406/wolverine-wvr-1r) 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7406) 
 - **Battle Value:** 885 
 - [*More Info*](wolverine/wolverine_wvr-1r.md) 
 
@@ -43,7 +43,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (AC/5) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7408/wolverine-wvr-3r) 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7408) 
 - **Battle Value:** 867 
 - [*More Info*](wolverine/wolverine_wvr-3r.md) 
 
@@ -68,7 +68,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (AC/5) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3573/wolverine-wvr-6r) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3573) 
 - **Battle Value:** 1101 
 - [*More Info*](wolverine/wolverine_wvr-6r.md) 
 
@@ -93,7 +93,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Large Laser) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3571/wolverine-wvr-6k) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3571) 
 - **Battle Value:** 1248 
 - [*More Info*](wolverine/wolverine_wvr-6k.md) 
 
@@ -118,7 +118,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Large Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3572/wolverine-wvr-6m) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3572) 
 - **Battle Value:** 1291 
 - [*More Info*](wolverine/wolverine_wvr-6m.md) 
 
@@ -142,7 +142,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (AC/10) 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7430/wolverine-wvr-6d) 
+- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7430) 
 - **Battle Value:** 1115 
 - [*More Info*](wolverine/wolverine_wvr-6d.md) 
 
@@ -170,7 +170,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Ultra AC/5) 
-- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d) 
+- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3574) 
 - **Battle Value:** 1314 
 - [*More Info*](wolverine/wolverine_wvr-7d.md) 
 
@@ -196,7 +196,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3575/wolverine-wvr-7k) 
+- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3575) 
 - **Battle Value:** 1331 
 - [*More Info*](wolverine/wolverine_wvr-7k.md) 
 
@@ -223,7 +223,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (ER Large Laser) 
-- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3576/wolverine-wvr-7m) 
+- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3576) 
 - **Battle Value:** 1673 
 - [*More Info*](wolverine/wolverine_wvr-7m.md) 
 
@@ -251,7 +251,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3579/wolverine-wvr-8k) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3579) 
 - **Battle Value:** 1576 
 - [*More Info*](wolverine/wolverine_wvr-8k.md) 
 
@@ -280,7 +280,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (RAC/2) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3578/wolverine-wvr-8d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3578) 
 - **Battle Value:** 1547 
 - [*More Info*](wolverine/wolverine_wvr-8d.md) 
 
@@ -308,7 +308,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (RAC/2) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3580/wolverine-wvr-9d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3580) 
 - **Battle Value:** 1369 
 - [*More Info*](wolverine/wolverine_wvr-9d.md) 
 
@@ -336,7 +336,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3577/wolverine-wvr-8c) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3577) 
 - **Battle Value:** 1447 
 - [*More Info*](wolverine/wolverine_wvr-8c.md) 
 
@@ -355,7 +355,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - MASC 
-- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8253/wolverine-wvr-7m2) 
+- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8253) 
 - **Battle Value:** 1752 
 - [*More Info*](wolverine/wolverine_wvr-7m2.md) 
 
@@ -382,7 +382,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Heavy PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3582/wolverine-wvr-9m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3582) 
 - **Battle Value:** 1617 
 - [*More Info*](wolverine/wolverine_wvr-9m.md) 
 
@@ -410,7 +410,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Light PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3583/wolverine-wvr-9w) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3583) 
 - **Battle Value:** 1387 
 - [*More Info*](wolverine/wolverine_wvr-9w.md) 
 
@@ -443,7 +443,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Snub-Nose PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3581/wolverine-wvr-9k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3581) 
 - **Battle Value:** 1400 
 - [*More Info*](wolverine/wolverine_wvr-9k.md) 
 
@@ -473,7 +473,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Light PPC) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3584/wolverine-wvr-9w2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3584) 
 - **Battle Value:** 1463 
 - [*More Info*](wolverine/wolverine_wvr-9w2.md) 
 
@@ -492,7 +492,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8254/wolverine-wvr-9r) 
+- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8254) 
 - **Battle Value:** 1481 
 - [*More Info*](wolverine/wolverine_wvr-9r.md) 
 
@@ -513,7 +513,7 @@
   - CASE II 
   - Targeting Computer 
   - MASC 
-- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8256/wolverine-wvr-10r) 
+- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8256) 
 - **Battle Value:** 1791 
 - [*More Info*](wolverine/wolverine_wvr-10r.md) 
 
@@ -533,7 +533,7 @@
 - **Equipment:** 
   - CASE II 
   - MASC 
-- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8258/wolverine-wvr-11m) 
+- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8258) 
 - **Battle Value:** 1778 
 - [*More Info*](wolverine/wolverine_wvr-11m.md) 
 
@@ -553,7 +553,7 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8255/wolverine-wvr-10d) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8255) 
 - **Battle Value:** 1925 
 - [*More Info*](wolverine/wolverine_wvr-10d.md) 
 
@@ -569,7 +569,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
   - ER Medium Laser 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8257/wolverine-wvr-10v2) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8257) 
 - **Battle Value:** 1747 
 - [*More Info*](wolverine/wolverine_wvr-10v2.md) 
 

@@ -13,7 +13,7 @@
   - Small Pulse Laser × 3 
 - **Equipment:** 
   - Infantry (12.0 tons) 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6543/cardinal-transport-raf) 
+- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6543) 
 - **Battle Value:** 582 
 - [*More Info*](cardinal_transport/cardinal_transport_raf.md) 
 
@@ -31,7 +31,7 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - Infantry (10.0 tons) 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6542/cardinal-transport-standard) 
+- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6542) 
 - **Battle Value:** 641 
 - [*More Info*](cardinal_transport/cardinal_transport_standard.md) 
 

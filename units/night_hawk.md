@@ -14,7 +14,7 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2271/night-hawk-ntk-2q) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2271) 
 - **Battle Value:** 997 
 - [*More Info*](night_hawk/night_hawk_ntk-2q.md) 
 
@@ -32,7 +32,7 @@
   - Clan Prototype ER Medium Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7676/night-hawk-ntk-2q-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7676) 
 - **Battle Value:** 1041 
 - [*More Info*](night_hawk/night_hawk_ntk-2q-ec.md) 
 
@@ -52,7 +52,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2272/night-hawk-ntk-2s) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2272) 
 - **Battle Value:** 1017 
 - [*More Info*](night_hawk/night_hawk_ntk-2s.md) 
 

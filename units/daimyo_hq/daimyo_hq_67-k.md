@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Infantry (4 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/807/daimyo-hq-67-k) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/807) 
 - **Battle Value:** 561 
 
 ## Availability 
@@ -60,6 +60,11 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Draconis Combine 
 - Rasalhague Dominion 

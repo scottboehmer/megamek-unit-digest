@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3007/sphinx-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3007) 
 - **Battle Value:** 2883 
 
 ## Availability 
@@ -43,4 +43,10 @@
 - Clan Sea Fox 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
 

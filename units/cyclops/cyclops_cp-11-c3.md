@@ -21,7 +21,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/777/cyclops-cp-11-c3) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/777) 
 - **Battle Value:** 1752 
 
 ## Availability 
@@ -42,6 +42,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

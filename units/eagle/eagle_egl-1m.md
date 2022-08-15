@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/936/eagle-egl-1m) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/936) 
 - **Battle Value:** 757 
 
 ## Availability 
@@ -27,17 +27,20 @@
 ### Clan Invasion 
 
 - Capellan Confederation 
+- Free Worlds League 
 - Magistracy of Canopus 
 
 ### Civil War 
 
 - Capellan Confederation 
+- Free Worlds League 
 - Magistracy of Canopus 
 - Marian Hegemony 
 
 ### Jihad 
 
 - Capellan Confederation 
+- Free Worlds League 
 - Magistracy of Canopus 
 - Marian Hegemony 
 

@@ -17,7 +17,7 @@
   - Communications Equipment 
   - CASE 
   - Hitch 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6328/paladin-defense-system-standard) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6328) 
 - **Battle Value:** 1624 
 
 ## Availability 
@@ -35,4 +35,10 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Mercenary 
 

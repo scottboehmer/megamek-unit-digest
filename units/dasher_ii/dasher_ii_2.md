@@ -16,7 +16,7 @@
   - MASC 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/847/dasher-ii-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/847) 
 - **Battle Value:** 2239 
 
 ## Availability 
@@ -78,4 +78,20 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Tamar Pact 
+- Vesper Marches 
 

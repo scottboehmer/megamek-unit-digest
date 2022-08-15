@@ -14,7 +14,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1647/j-27-ordnance-transport-k-27-killjoy) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1647) 
 - **Battle Value:** 170 
 
 ## Availability 
@@ -70,4 +70,12 @@
 - Lyran Commonwealth 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Vesper Marches 
 

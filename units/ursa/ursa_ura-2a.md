@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stable 
   - Exposed Weapon Linkage (RAC/2) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6627/ursa-ura-2a) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6627) 
 - **Battle Value:** 1887 
 
 ## Availability 
@@ -35,4 +35,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

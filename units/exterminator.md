@@ -19,7 +19,7 @@
   - Null-Signature System 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4148/exterminator-ext-4c) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4148) 
 - **Battle Value:** 1420 
 - [*More Info*](exterminator/exterminator_ext-4c.md) 
 
@@ -40,7 +40,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1004/exterminator-ext-4d) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1004) 
 - **Battle Value:** 1385 
 - [*More Info*](exterminator/exterminator_ext-4d.md) 
 
@@ -59,11 +59,11 @@
   - Small Laser 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1005/exterminator-ext-4db) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1005) 
 - **Battle Value:** 1694 
 - [*More Info*](exterminator/exterminator_ext-4db.md) 
 
-## Exterminator EXT-4DX (Caine) 
+## Exterminator EXT-4DX 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (2754) 
@@ -80,11 +80,9 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-  - Distracting 
-  - Extended Torso Twist 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7321/exterminator-ext-4dx) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7321) 
 - **Battle Value:** 1794 
-- [*More Info*](exterminator/exterminator_ext-4dx_caine.md) 
+- [*More Info*](exterminator/exterminator_ext-4dx.md) 
 
 ## Exterminator EXT-4Db-EC 
 
@@ -101,7 +99,7 @@
   - Inner Sphere Small Laser 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7682/exterminator-ext-4db-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7682) 
 - **Battle Value:** 1611 
 - [*More Info*](exterminator/exterminator_ext-4db-ec.md) 
 
@@ -121,7 +119,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4147/exterminator-ext-4a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4147) 
 - **Battle Value:** 1372 
 - [*More Info*](exterminator/exterminator_ext-4a.md) 
 
@@ -141,7 +139,7 @@
   - C3i 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1006/exterminator-ext-5e) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1006) 
 - **Battle Value:** 1532 
 - [*More Info*](exterminator/exterminator_ext-5e.md) 
 
@@ -162,7 +160,7 @@
   - C3i 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1007/exterminator-ext-5f) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1007) 
 - **Battle Value:** 1485 
 - [*More Info*](exterminator/exterminator_ext-5f.md) 
 
@@ -186,7 +184,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Sensor Ghosts 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5551/exterminator-ext-6cs) 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5551) 
 - **Battle Value:** 1592 
 - [*More Info*](exterminator/exterminator_ext-6cs.md) 
 
@@ -210,7 +208,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8161/exterminator-ext-7x) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8161) 
 - **Battle Value:** 1674 
 - [*More Info*](exterminator/exterminator_ext-7x.md) 
 

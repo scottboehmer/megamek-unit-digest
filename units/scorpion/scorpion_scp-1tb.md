@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840/scorpion-scp-1tb) 
+- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840) 
 - **Battle Value:** 1185 
 
 ## Availability 
@@ -49,4 +49,9 @@
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Mercenary 
 

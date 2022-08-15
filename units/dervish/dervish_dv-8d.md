@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/881/dervish-dv-8d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/881) 
 - **Battle Value:** 1765 
 
 ## Availability 
@@ -57,4 +57,11 @@
 - Filtvelt Coalition 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/451/bushwacker-bsw-x2) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/451) 
 - **Battle Value:** 1193 
 
 ## Availability 
@@ -62,6 +62,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### ilClan 
 
 - Lyran Commonwealth 
 - Mercenary 

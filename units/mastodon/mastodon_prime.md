@@ -19,12 +19,16 @@
   - Improved Targeting (Long) 
   - Rugged (×2) 
   - EM Interference (All Weapons) 
-- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8342/mastodon-prime) 
+- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8342) 
 - **Battle Value:** 3109 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

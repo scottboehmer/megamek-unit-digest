@@ -20,7 +20,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 4) 
   - Stabilized Weapon (SRM 4) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/749/crusader-crd-3d) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/749) 
 - **Battle Value:** 1338 
 
 ## Availability 

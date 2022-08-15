@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Cramped Cockpit 
   - Reinforced Legs 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4363/incubus-ii-standard) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4363) 
 - **Battle Value:** 1261 
 
 ## Availability 
@@ -39,4 +39,9 @@
 
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Star League (Wolf) 
 

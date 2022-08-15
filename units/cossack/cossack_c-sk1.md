@@ -17,7 +17,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/703/cossack-c-sk1) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/703) 
 - **Battle Value:** 465 
 
 ## Availability 
@@ -48,20 +48,23 @@
 
 - Capellan Confederation 
 - Fronc Reaches 
-- Magistracy of Canopus 
 - Mercenary 
 
 ### Late Republic 
 
 - Capellan Confederation 
 - Fronc Reaches 
-- Magistracy of Canopus 
 - Mercenary 
 
 ### Dark Ages 
 
 - Capellan Confederation 
 - Fronc Reaches 
-- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Fronc Reaches 
 - Mercenary 
 

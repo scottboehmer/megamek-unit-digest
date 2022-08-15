@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Boosted Main × 2 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6608/gulltoppr-omnimonitor-b) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6608) 
 - **Battle Value:** 2861 
 
 ## Availability 
@@ -34,6 +34,11 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
+- Lyran Commonwealth 
+
+### ilClan 
+
 - Kell Hounds 
 - Lyran Commonwealth 
 

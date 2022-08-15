@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/867/demolisher-ii-heavy-tank-thunderbolt) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/867) 
 - **Battle Value:** 2336 
 
 ## Availability 
@@ -39,4 +39,11 @@
 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

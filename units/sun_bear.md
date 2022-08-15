@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7623/sun-bear-prime) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7623) 
 - **Battle Value:** 2022 
 - [*More Info*](sun_bear/sun_bear_prime.md) 
 
@@ -36,7 +36,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7624/sun-bear-a) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7624) 
 - **Battle Value:** 2418 
 - [*More Info*](sun_bear/sun_bear_a.md) 
 
@@ -58,7 +58,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7625/sun-bear-b) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7625) 
 - **Battle Value:** 2144 
 - [*More Info*](sun_bear/sun_bear_b.md) 
 

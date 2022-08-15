@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1474/hellhound-conjurer-2) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1474) 
 - **Battle Value:** 2097 
 
 ## Availability 
@@ -53,5 +53,10 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 

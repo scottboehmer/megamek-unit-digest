@@ -16,7 +16,7 @@
   - SRT 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2656/raptor-rtx1-ou) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2656) 
 - **Battle Value:** 914 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

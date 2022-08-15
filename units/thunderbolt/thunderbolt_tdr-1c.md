@@ -23,7 +23,7 @@
   - Difficult to Maintain 
   - Poor Workmanship 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5237/thunderbolt-tdr-1c) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5237) 
 - **Battle Value:** 1237 
 
 ## Availability 

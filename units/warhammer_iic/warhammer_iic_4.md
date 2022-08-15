@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3503/warhammer-iic-4) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3503) 
 - **Battle Value:** 2386 
 
 ## Availability 
@@ -84,4 +84,17 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Tamar Pact 
+- Vesper Marches 
 

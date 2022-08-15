@@ -14,7 +14,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4642/minion-advanced-tactical-vehicle-targeting-computer) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4642) 
 - **Battle Value:** 456 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

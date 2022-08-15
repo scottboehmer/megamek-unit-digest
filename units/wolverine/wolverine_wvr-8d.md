@@ -27,7 +27,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (RAC/2) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3578/wolverine-wvr-8d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3578) 
 - **Battle Value:** 1547 
 
 ## Availability 
@@ -50,6 +50,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

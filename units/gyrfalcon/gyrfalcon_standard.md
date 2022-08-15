@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Reinforced Legs 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6266/gyrfalcon-standard) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6266) 
 - **Battle Value:** 2367 
 
 ## Availability 
@@ -34,4 +34,10 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
 

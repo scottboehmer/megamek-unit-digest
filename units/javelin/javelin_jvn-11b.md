@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1678/javelin-jvn-11b) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1678) 
 - **Battle Value:** 678 
 
 ## Availability 
@@ -67,5 +67,16 @@
 - Marian Hegemony 
 - Pirate 
 - Republic of the Sphere 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
 - Taurian Concordat 
 

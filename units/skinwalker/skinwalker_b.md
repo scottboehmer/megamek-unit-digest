@@ -19,7 +19,7 @@
   - ECM Suite 
   - Inner Sphere Supercharger 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8450/ryoken-iii-skinwalker-b) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8450) 
 - **Battle Value:** 2851 
 
 ## Availability 
@@ -27,4 +27,8 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
 

@@ -22,7 +22,7 @@
   - CASE 
   - Hitch 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6330/ballista-artillery-trailer-standard) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6330) 
 - **Battle Value:** 1024 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

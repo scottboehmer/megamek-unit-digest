@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3180/thor-summoner-h) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3180) 
 - **Battle Value:** 2536 
 
 ## Availability 
@@ -114,9 +114,11 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
+- Kell Hounds 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -127,9 +129,11 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
+- Kell Hounds 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -138,8 +142,22 @@
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
+- Kell Hounds 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

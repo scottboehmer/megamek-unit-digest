@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
-- **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6954/cave-lion-standard) 
+- **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6954) 
 - **Battle Value:** 3044 
 
 ## Availability 
@@ -29,6 +29,12 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Free Worlds League 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 - Free Worlds League 
 

@@ -15,7 +15,7 @@
   - ER Medium Laser × 4 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1781/kingfisher-c) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1781) 
 - **Battle Value:** 2644 
 
 ## Availability 
@@ -161,6 +161,13 @@
 
 - Clan Nova Cat 
 - Escorpión Imperio 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Protectorate 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 

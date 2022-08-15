@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (16 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1056/fensalir-combat-wige-infantry) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1056) 
 - **Battle Value:** 1424 
 
 ## Availability 
@@ -36,4 +36,9 @@
 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Vesper Marches 
 

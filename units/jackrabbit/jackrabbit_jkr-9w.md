@@ -14,7 +14,7 @@
   - Light AC/5 (ammo: 20) 
   - ER Medium Laser 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1658/jackrabbit-jkr-9w) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1658) 
 - **Battle Value:** 549 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3546/wight-wgt-1lawsc) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3546) 
 - **Battle Value:** 1142 
 - [*More Info*](wight/wight_wgt-1law_sc.md) 
 
@@ -33,7 +33,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3550/wight-wgt-2sc) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3550) 
 - **Battle Value:** 1093 
 - [*More Info*](wight/wight_wgt-2sc.md) 
 
@@ -53,7 +53,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3547/wight-wgt-1lawsc3) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3547) 
 - **Battle Value:** 1057 
 - [*More Info*](wight/wight_wgt-1law_sc3.md) 
 
@@ -80,7 +80,7 @@
   - Exposed Actuators 
   - Weak Legs 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5600/wight-wgt-4nc-dezgra) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5600) 
 - **Battle Value:** 1578 
 - [*More Info*](wight/wight_wgt-4nc_dezgra.md) 
 
@@ -99,7 +99,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3548/wight-wgt-2law) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3548) 
 - **Battle Value:** 939 
 - [*More Info*](wight/wight_wgt-2law.md) 
 
@@ -120,7 +120,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3549/wight-wgt-2lawc3) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3549) 
 - **Battle Value:** 821 
 - [*More Info*](wight/wight_wgt-2lawc3.md) 
 
@@ -138,7 +138,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3551/wight-wgt-3sc) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3551) 
 - **Battle Value:** 1125 
 - [*More Info*](wight/wight_wgt-3sc.md) 
 

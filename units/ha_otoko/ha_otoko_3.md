@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1354/ha-otoko-3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1354) 
 - **Battle Value:** 2206 
 
 ## Availability 
@@ -51,4 +51,13 @@
 - Draconis Combine 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Vesper Marches 
 

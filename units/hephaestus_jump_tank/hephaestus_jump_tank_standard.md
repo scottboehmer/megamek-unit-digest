@@ -18,7 +18,7 @@
   - Active Probe 
   - Armored Motive System 
   - TAG 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4311/hephaestus-jump-tank-standard) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4311) 
 - **Battle Value:** 993 
 
 ## Availability 
@@ -32,6 +32,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

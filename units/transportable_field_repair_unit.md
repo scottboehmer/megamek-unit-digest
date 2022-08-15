@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Lift Hoist × 3 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1706/ji-100-transportable-field-repair-unit-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1706) 
 - **Battle Value:** 199 
 - [*More Info*](transportable_field_repair_unit/transportable_field_repair_unit_ji-100.md) 
 

@@ -17,7 +17,7 @@
   - Machine Gun (ammo: 100) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3407/victor-vtr-9a) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3407) 
 - **Battle Value:** 1236 
 - [*More Info*](victor/victor_vtr-9a.md) 
 
@@ -37,7 +37,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3408/victor-vtr-9a1) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3408) 
 - **Battle Value:** 1302 
 - [*More Info*](victor/victor_vtr-9a1.md) 
 
@@ -56,7 +56,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3409/victor-vtr-9b) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3409) 
 - **Battle Value:** 1378 
 - [*More Info*](victor/victor_vtr-9b.md) 
 
@@ -75,7 +75,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5864/victor-vtr-9b-shoji) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5864) 
 - **Battle Value:** 1531 
 - [*More Info*](victor/victor_vtr-9b_shoji.md) 
 
@@ -94,7 +94,7 @@
   - Clan Streak SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Shrapnel 6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3403/victor-c) 
+- **Sources:** Shrapnel 6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3403) 
 - **Battle Value:** 1925 
 - [*More Info*](victor/victor_c.md) 
 
@@ -113,7 +113,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3414/victor-vtr-9s) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3414) 
 - **Battle Value:** 1360 
 - [*More Info*](victor/victor_vtr-9s.md) 
 
@@ -131,7 +131,7 @@
   - Medium Laser × 10 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3402/victor-vtr-9b-li) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3402) 
 - **Battle Value:** 1625 
 - [*More Info*](victor/victor_vtr-9b_li.md) 
 
@@ -152,7 +152,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3410/victor-vtr-9d) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3410) 
 - **Battle Value:** 1717 
 - [*More Info*](victor/victor_vtr-9d.md) 
 
@@ -173,7 +173,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3411/victor-vtr-9k) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3411) 
 - **Battle Value:** 1717 
 - [*More Info*](victor/victor_vtr-9k.md) 
 
@@ -195,7 +195,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3415/victor-vtr-c) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3415) 
 - **Battle Value:** 1717 
 - [*More Info*](victor/victor_vtr-c.md) 
 
@@ -216,7 +216,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5458/victor-vtr-10s) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5458) 
 - **Battle Value:** 2034 
 - [*More Info*](victor/victor_vtr-10s.md) 
 
@@ -237,7 +237,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3404/victor-vtr-10d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3404) 
 - **Battle Value:** 1894 
 - [*More Info*](victor/victor_vtr-10d.md) 
 
@@ -259,7 +259,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3406/victor-vtr-11d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3406) 
 - **Battle Value:** 2021 
 - [*More Info*](victor/victor_vtr-11d.md) 
 
@@ -281,7 +281,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3405/victor-vtr-10l) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3405) 
 - **Battle Value:** 2279 
 - [*More Info*](victor/victor_vtr-10l.md) 
 
@@ -301,7 +301,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3412/victor-vtr-9k2-stjames) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3412) 
 - **Battle Value:** 2006 
 - [*More Info*](victor/victor_vtr-9k2_st._james.md) 
 
@@ -323,7 +323,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3416/victor-vtr-cr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3416) 
 - **Battle Value:** 1465 
 - [*More Info*](victor/victor_vtr-cr.md) 
 
@@ -343,7 +343,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3413/victor-vtr-9ka) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3413) 
 - **Battle Value:** 1594 
 - [*More Info*](victor/victor_vtr-9ka.md) 
 
@@ -366,7 +366,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8259/victor-vtr-12d) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8259) 
 - **Battle Value:** 1935 
 - [*More Info*](victor/victor_vtr-12d.md) 
 

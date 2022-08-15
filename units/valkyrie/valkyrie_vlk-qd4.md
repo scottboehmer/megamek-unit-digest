@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3377/valkyrie-vlk-qd4) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3377) 
 - **Battle Value:** 657 
 
 ## Availability 
@@ -46,4 +46,10 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Marik-Stewart Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
 

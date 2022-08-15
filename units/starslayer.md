@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3048/starslayer-sty-2c) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3048) 
 - **Battle Value:** 1365 
 - [*More Info*](starslayer/starslayer_sty-2c.md) 
 
@@ -40,7 +40,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7680/starslayer-sty-2c-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7680) 
 - **Battle Value:** 1404 
 - [*More Info*](starslayer/starslayer_sty-2c-ec.md) 
 
@@ -62,7 +62,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3049/starslayer-sty-3c) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3049) 
 - **Battle Value:** 1508 
 - [*More Info*](starslayer/starslayer_sty-3c.md) 
 
@@ -81,7 +81,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3050/starslayer-sty-3d) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3050) 
 - **Battle Value:** 1593 
 - [*More Info*](starslayer/starslayer_sty-3d.md) 
 
@@ -102,7 +102,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3051/starslayer-sty-3dr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3051) 
 - **Battle Value:** 1781 
 - [*More Info*](starslayer/starslayer_sty-3dr.md) 
 

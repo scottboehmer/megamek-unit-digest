@@ -14,7 +14,7 @@
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster) 
   - Streak SRM 6 (ammo: 15) 
   - Medium Pulse Laser 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2019/manticore-heavy-tank-lb-x) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2019) 
 - **Battle Value:** 961 
 
 ## Availability 
@@ -53,4 +53,8 @@
 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
 

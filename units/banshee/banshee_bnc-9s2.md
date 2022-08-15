@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6844/banshee-bnc-9s2) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6844) 
 - **Battle Value:** 2426 
 
 ## Availability 
@@ -38,4 +38,11 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

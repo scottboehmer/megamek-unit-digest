@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/764/crusader-crd-8l) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/764) 
 - **Battle Value:** 1701 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

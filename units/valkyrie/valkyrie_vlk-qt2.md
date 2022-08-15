@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3380/valkyrie-vlk-qt2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3380) 
 - **Battle Value:** 863 
 
 ## Availability 
@@ -35,6 +35,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

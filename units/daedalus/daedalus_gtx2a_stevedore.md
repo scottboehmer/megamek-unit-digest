@@ -16,7 +16,7 @@
   - Cargo × 15 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/794/daedalus-gtx2a-stevedore) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/794) 
 - **Battle Value:** 649 
 
 ## Availability 

@@ -15,12 +15,11 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Easy to Maintain 
-  - No Torso Twist 
   - Modular Weapon (Small Laser) 
   - Modular Weapon (Small Laser) 
   - Modular Weapon (Medium Laser) 
   - Modular Weapon (Medium Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4624/mercury-mcy-98) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4624) 
 - **Battle Value:** 553 
 
 ## Availability 

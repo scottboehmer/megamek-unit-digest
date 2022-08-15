@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3689/ajax-assault-tank-b) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3689) 
 - **Battle Value:** 1706 
 
 ## Availability 
@@ -45,4 +45,8 @@
 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
 

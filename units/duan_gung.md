@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/935/duan-gung-d9-g9) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/935) 
 - **Battle Value:** 737 
 - [*More Info*](duan_gung/duan_gung_d9-g9.md) 
 
@@ -34,7 +34,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6979/duan-gung-vaughn) 
+- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6979) 
 - **Battle Value:** 851 
 - [*More Info*](duan_gung/duan_gung_vaughn.md) 
 
@@ -56,7 +56,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/934/duan-gung-d9-g10) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/934) 
 - **Battle Value:** 886 
 - [*More Info*](duan_gung/duan_gung_d9-g10.md) 
 

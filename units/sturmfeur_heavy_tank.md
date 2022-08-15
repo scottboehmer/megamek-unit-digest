@@ -11,7 +11,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 18) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3115/sturmfeur-heavy-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3115) 
 - **Battle Value:** 1400 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) 
 
@@ -27,7 +27,7 @@
   - LRM 20 (ammo: 18) 
   - SRM 4 × 4 (ammo: 50) 
   - Machine Gun × 3 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3114/sturmfeur-heavy-tank-srm) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3114) 
 - **Battle Value:** 1390 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_srm.md) 
 
@@ -43,7 +43,7 @@
   - Heavy Gauss Rifle (ammo: 20) 
   - LRM 10 w/ Artemis IV (ammo: 24) 
   - ER Medium Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3113/sturmfeur-heavy-tank-heavy-gauss) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3113) 
 - **Battle Value:** 1711 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) 
 
@@ -64,7 +64,7 @@
   - C3i 
   - CASE 
   - TAG 
-- **Sources:** JTP Hesperus II - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967/sturmfeur-heavy-tank-wob) 
+- **Sources:** JTP Hesperus II - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967) 
 - **Battle Value:** 1559 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) 
 

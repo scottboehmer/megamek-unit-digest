@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2416/panther-pnt-10k) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2416) 
 - **Battle Value:** 838 
 
 ## Availability 
@@ -70,6 +70,12 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Fronc Reaches 
 - Mercenary 

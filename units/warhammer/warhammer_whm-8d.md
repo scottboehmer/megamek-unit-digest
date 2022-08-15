@@ -22,7 +22,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3494/warhammer-whm-8d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3494) 
 - **Battle Value:** 1744 
 
 ## Availability 
@@ -124,4 +124,20 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Tamar Pact 
+- Vesper Marches 
 

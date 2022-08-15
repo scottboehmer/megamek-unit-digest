@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2113/mauna-kea-command-vessel-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2113) 
 - **Battle Value:** 869 
 
 ## Availability 
@@ -203,4 +203,26 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

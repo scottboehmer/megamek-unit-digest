@@ -21,7 +21,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1348/gunslinger-gun-1erd-jared) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1348) 
 - **Battle Value:** 1813 
 
 ## Availability 

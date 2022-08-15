@@ -13,7 +13,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
   - MRM 20 (ammo: 12) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7827/muckraker-gmmm-2m-miningmech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7827) 
 - **Battle Value:** 1001 
 
 ## Availability 
@@ -30,6 +30,14 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Capellan Confederation 
 - Free Worlds League 

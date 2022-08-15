@@ -14,7 +14,7 @@
   - Small Pulse Laser × 3 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/828/dart-drt-3s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/828) 
 - **Battle Value:** 436 
 
 ## Availability 
@@ -61,6 +61,13 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Lyran Commonwealth 

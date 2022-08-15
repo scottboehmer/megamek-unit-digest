@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Jettison-Capable Weapon (ER Medium Laser) 
   - Jettison-Capable Weapon (ER Medium Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2314/ocelot-2) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2314) 
 - **Battle Value:** 1734 
 
 ## Availability 
@@ -37,4 +37,11 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Mercenary 
+- Star League (Smoke Jaguar) 
 

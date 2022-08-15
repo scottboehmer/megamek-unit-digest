@@ -15,8 +15,7 @@
   - ER Medium Laser × 12 
 - **Design Quirks:** 
   - Easy to Maintain 
-  - No Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/351/black-hawk-ku-bhku-oe) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/351) 
 - **Battle Value:** 1982 
 
 ## Availability 
@@ -92,4 +91,17 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

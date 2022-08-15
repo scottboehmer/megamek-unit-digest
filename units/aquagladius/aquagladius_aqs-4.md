@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Difficult Ejection 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/59/aquagladius-aqs-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/59) 
 - **Battle Value:** 1486 
 
 ## Availability 
@@ -48,4 +48,8 @@
 
 - Mercenary 
 - Solaris 7 
+
+### ilClan 
+
+- Mercenary 
 

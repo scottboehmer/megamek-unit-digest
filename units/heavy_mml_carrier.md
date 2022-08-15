@@ -12,7 +12,7 @@
   - MML 9 × 6 (ammo: 52 LRM, 44 SRM) 
 - **Equipment:** 
   - B-Pod × 4 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1441/heavy-mml-carrier-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1441) 
 - **Battle Value:** 722 
 - [*More Info*](heavy_mml_carrier/heavy_mml_carrier_standard.md) 
 

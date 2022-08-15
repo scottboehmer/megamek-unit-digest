@@ -14,7 +14,7 @@
   - LRM 20 × 2 (ammo: 18) 
   - Medium Laser × 4 
   - SRM 2 (ammo: 50) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2683/rhino-fire-support-tank-ml) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2683) 
 - **Battle Value:** 1478 
 
 ## Availability 

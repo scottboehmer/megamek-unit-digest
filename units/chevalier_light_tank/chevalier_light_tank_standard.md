@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/582/chevalier-light-tank-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/582) 
 - **Battle Value:** 668 
 
 ## Availability 
@@ -114,4 +114,16 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

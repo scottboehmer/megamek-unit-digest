@@ -17,7 +17,7 @@
   - ECM Suite 
   - Jet Booster 
   - TAG 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4202/garuda-heavy-vtol-standard) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4202) 
 - **Battle Value:** 1484 
 
 ## Availability 
@@ -36,4 +36,10 @@
 
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
+- Star League (Wolf) 
 

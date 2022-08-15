@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3533/watchman-wtc-4dm) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3533) 
 - **Battle Value:** 1225 
 
 ## Availability 
@@ -48,6 +48,12 @@
 - Filtvelt Coalition 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Federated Suns 

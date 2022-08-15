@@ -14,7 +14,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2106/maultier-hover-apc-fusion) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2106) 
 - **Battle Value:** 301 
 
 ## Availability 
@@ -34,6 +34,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

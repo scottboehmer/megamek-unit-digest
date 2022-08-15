@@ -25,7 +25,7 @@
   - EM Interference (ER Large Pulse Laser) 
   - EM Interference (ER Medium Pulse Laser) 
   - EM Interference (ER Medium Pulse Laser) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3818/beowulf-iic-standard) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3818) 
 - **Battle Value:** 2048 
 
 ## Availability 
@@ -39,6 +39,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

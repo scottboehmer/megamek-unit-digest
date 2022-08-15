@@ -21,7 +21,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/752/crusader-crd-3r) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/752) 
 - **Battle Value:** 1317 
 
 ## Availability 
@@ -206,4 +206,9 @@
 - Pirate 
 - Rim Commonality 
 - Scorpion Empire 
+
+### ilClan 
+
+- Mercenary 
+- Pirate 
 

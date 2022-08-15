@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1317/griffin-iic-8) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1317) 
 - **Battle Value:** 1736 
 
 ## Availability 
@@ -55,4 +55,10 @@
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Lyran Commonwealth 
+- Vesper Marches 
 

@@ -17,7 +17,7 @@
   - ECM Suite 
   - CASE 
   - Infantry (10.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1845/ku-wheeled-assault-tank-ifv-turhan-ii) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1845) 
 - **Battle Value:** 1042 
 
 ## Availability 
@@ -40,4 +40,11 @@
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
 

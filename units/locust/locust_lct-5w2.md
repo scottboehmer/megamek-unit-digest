@@ -23,7 +23,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1912/locust-lct-5w2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1912) 
 - **Battle Value:** 787 
 
 ## Availability 
@@ -46,12 +46,6 @@
 ### Early Republic 
 
 - Capellan Confederation 
-- Clan Diamond Shark 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -62,8 +56,6 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -72,12 +64,6 @@
 ### Late Republic 
 
 - Capellan Confederation 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -88,8 +74,6 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -98,12 +82,6 @@
 ### Dark Ages 
 
 - Capellan Confederation 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -115,10 +93,20 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

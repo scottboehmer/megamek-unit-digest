@@ -15,7 +15,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7672/kokou-defense-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7672) 
 - **Battle Value:** 1189 
 
 ## Availability 
@@ -168,4 +168,16 @@
 - Raven Alliance 
 - Scorpion Empire 
 - Taurian Concordat 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Magistracy of Canopus 
+- Mercenary 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Wolf) 
+- Taurian Concordat 
+- Wolf Empire 
 

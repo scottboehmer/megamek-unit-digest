@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Improved Cooling Jacket (ER PPC) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1653/jackal-ja-kl-1532) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1653) 
 - **Battle Value:** 918 
 
 ## Availability 
@@ -119,4 +119,13 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 

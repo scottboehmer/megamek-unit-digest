@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/184/axman-axm-1n) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/184) 
 - **Battle Value:** 1374 
 - [*More Info*](axman/axman_axm-1n.md) 
 
@@ -42,7 +42,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185/axman-axm-2n) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185) 
 - **Battle Value:** 1458 
 - [*More Info*](axman/axman_axm-2n.md) 
 
@@ -65,7 +65,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/186/axman-axm-3s) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/186) 
 - **Battle Value:** 1649 
 - [*More Info*](axman/axman_axm-3s.md) 
 
@@ -90,7 +90,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/187/axman-axm-3sr) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/187) 
 - **Battle Value:** 1734 
 - [*More Info*](axman/axman_axm-3sr.md) 
 
@@ -112,7 +112,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/188/axman-axm-4d) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/188) 
 - **Battle Value:** 1222 
 - [*More Info*](axman/axman_axm-4d.md) 
 
@@ -133,7 +133,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3772/axman-axm-6x) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3772) 
 - **Battle Value:** 2132 
 - [*More Info*](axman/axman_axm-6x.md) 
 
@@ -154,7 +154,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Rumble Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771/axman-axm-6t) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771) 
 - **Battle Value:** 1830 
 - [*More Info*](axman/axman_axm-6t.md) 
 
@@ -179,7 +179,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790/axman-axm-5n) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790) 
 - **Battle Value:** 2575 
 - [*More Info*](axman/axman_axm-5n.md) 
 

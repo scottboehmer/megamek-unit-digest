@@ -16,7 +16,7 @@
   - C3i 
   - CASE 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1511/hetzer-wheeled-assault-gun-sealed) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1511) 
 - **Battle Value:** 733 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3717/arcas-standard) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3717) 
 - **Battle Value:** 2484 
 - [*More Info*](arcas/arcas_standard.md) 
 
@@ -35,7 +35,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3718/arcas-2) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3718) 
 - **Battle Value:** 2835 
 - [*More Info*](arcas/arcas_2.md) 
 
@@ -57,7 +57,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5686/arcas-3) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5686) 
 - **Battle Value:** 2305 
 - [*More Info*](arcas/arcas_3.md) 
 

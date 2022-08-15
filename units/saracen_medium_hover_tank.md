@@ -11,7 +11,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 24) 
   - SRM 2 × 3 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2796/saracen-medium-hover-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2796) 
 - **Battle Value:** 673 
 - [*More Info*](saracen_medium_hover_tank/saracen_medium_hover_tank_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - MRM 20 (ammo: 24) 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2795/saracen-medium-hover-tank-mrm) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2795) 
 - **Battle Value:** 676 
 - [*More Info*](saracen_medium_hover_tank/saracen_medium_hover_tank_mrm.md) 
 

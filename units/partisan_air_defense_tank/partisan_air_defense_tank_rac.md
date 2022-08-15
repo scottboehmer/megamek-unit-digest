@@ -15,7 +15,7 @@
   - LB 2-X AC × 2 (ammo: 45) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2439/partisan-air-defense-tank-rac) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2439) 
 - **Battle Value:** 1247 
 
 ## Availability 
@@ -44,4 +44,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

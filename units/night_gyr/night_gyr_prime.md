@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2270/night-gyr-prime) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2270) 
 - **Battle Value:** 2830 
 
 ## Availability 
@@ -59,4 +59,13 @@
 - Clan Jade Falcon 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Sea Fox 
+- Mercenary 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 

@@ -23,7 +23,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rumble Seat 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6355/templar-iii-tlr2-ob) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6355) 
 - **Battle Value:** 1919 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

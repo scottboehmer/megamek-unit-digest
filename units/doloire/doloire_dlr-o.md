@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Command ’Mech 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6678/doloire-dlr-o) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6678) 
 - **Battle Value:** 2561 
 
 ## Availability 
@@ -33,4 +33,10 @@
 
 - ComStar 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

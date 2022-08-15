@@ -6,8 +6,8 @@
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
 
-- [**Elemental Battle Armor (Space) [Flamer]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[flamer].md) *Ambusher (2903)* 
-- [**Elemental Battle Armor (Space) [MG]**](../../units/elemental_battle_armor/elemental_battle_armor_space_[mg].md) *Ambusher (2903)* 
+- [**Elemental Battle Armor (Space) (Flamer)(Sqd5)**](../../units/elemental_battle_armor/elemental_battle_armor_space_flamersqd5.md) *Ambusher (2903)* 
+- [**Elemental Battle Armor (Space) (MG)(Sqd5)**](../../units/elemental_battle_armor/elemental_battle_armor_space_mgsqd5.md) *Ambusher (2903)* 
 
 ## Combat Vehicles 
 
@@ -31,7 +31,8 @@
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
 
-- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (AC)**](../../units/flatbed_truck/flatbed_truck_ac.md) *Scout (2580)* 
+- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Undefined (2580)* 
 
 #### [J-27 Ordnance Transport](../../units/j-27_ordnance_transport.md) 
 
@@ -166,7 +167,7 @@
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Missile Boat (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
 
 ### 80 Tons 
 
@@ -179,6 +180,10 @@
 - [**Rhino Fire Support Tank (Royal)**](../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* `ECM` 
 
 ### 95 Tons 
+
+#### [Mobile Long Tom Artillery (Unofficial)](../../units/mobile_long_tom_artillery_unofficial.md) 
+
+- [**Mobile Long Tom Artillery (Unofficial) (+ Carriage)**](../../units/mobile_long_tom_artillery_unofficial/mobile_long_tom_artillery_unofficial_+_carriage.md) *Missile Boat (2602)* 
 
 #### [Puma Assault Tank](../../units/puma_assault_tank.md) 
 
@@ -294,6 +299,11 @@
 - [**Ice Ferret C**](../../units/ice_ferret/ice_ferret_c.md) *Missile Boat (2948)* 
 - [**Ice Ferret D**](../../units/ice_ferret/ice_ferret_d.md) *Striker (2948)* 
 
+#### [Night Chanter](../../units/night_chanter.md) 
+
+- [**Night Chanter Prime**](../../units/night_chanter/night_chanter_prime.md) *Skirmisher (2865)* 
+- [**Night Chanter A**](../../units/night_chanter/night_chanter_a.md) *Sniper (2865)* 
+
 #### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
 - [**Phoenix Hawk PXH-1b (Special)**](../../units/phoenix_hawk/phoenix_hawk_pxh-1b_special.md) *Skirmisher (2760)* `ECM` 
@@ -341,7 +351,7 @@
 
 #### [Naja](../../units/naja.md) 
 
-- [**Naja (Standard)**](../../units/naja/naja_standard.md) *Skirmisher (2826)* 
+- [**Naja (Standard)**](../../units/naja/naja_standard.md) *Brawler (2826)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -357,7 +367,7 @@
 
 #### [Vapor Eagle](../../units/vapor_eagle.md) 
 
-- [**Vapor Eagle 6**](../../units/vapor_eagle/vapor_eagle_6.md) *Skirmisher (2840)* 
+- [**Vapor Eagle 6**](../../units/vapor_eagle/vapor_eagle_6.md) *Skirmisher (2850)* 
 - [**Vapor Eagle (Standard)**](../../units/vapor_eagle/vapor_eagle_standard.md) *Skirmisher (2863)* 
 - [**Vapor Eagle 2**](../../units/vapor_eagle/vapor_eagle_2.md) *Skirmisher (2912)* 
 - [**Vapor Eagle 5**](../../units/vapor_eagle/vapor_eagle_5.md) *Skirmisher (2922)* 
@@ -513,7 +523,7 @@
 #### [Highlander](../../units/highlander.md) 
 
 - [**Highlander HGN-732**](../../units/highlander/highlander_hgn-732.md) *Sniper (2592)* 
-- [**Highlander HGN-732b**](../../units/highlander/highlander_hgn-732b.md) *Missile Boat (2598)* 
+- [**Highlander HGN-732b**](../../units/highlander/highlander_hgn-732b.md) *Sniper (2598)* 
 
 ### 95 Tons 
 
@@ -525,11 +535,17 @@
 - [**Executioner C**](../../units/executioner/executioner_c.md) *Missile Boat (3001)* 
 - [**Executioner D**](../../units/executioner/executioner_d.md) *Skirmisher (3001)* 
 
+#### [Gladiator-B (Executioner-B)](../../units/gladiator-b_executioner-b.md) 
+
+- [**Gladiator-B (Executioner-B) Prime**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_prime.md) *Juggernaut (2873)* 
+- [**Gladiator-B (Executioner-B) A**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_a.md) *Juggernaut (2873)* 
+- [**Gladiator-B (Executioner-B) B**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_b.md) *Sniper (2873)* 
+- [**Gladiator-B (Executioner-B) C**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_c.md) *Sniper (2873)* 
+
 ### 100 Tons 
 
 #### [Atlas](../../units/atlas.md) 
 
-- [**Atlas AS7-D**](../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 - [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
 - [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
 - [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
@@ -551,8 +567,4 @@
 
 - [**Storm Giant (Standard)**](../../units/storm_giant/storm_giant_standard.md) *Missile Boat (2862)* 
 - [**Storm Giant 2**](../../units/storm_giant/storm_giant_2.md) *Missile Boat (2862)* 
-
-#### [Thunder Hawk](../../units/thunder_hawk.md) 
-
-- [**Thunder Hawk TDK-7X**](../../units/thunder_hawk/thunder_hawk_tdk-7x.md) *Sniper (2771)* 
 

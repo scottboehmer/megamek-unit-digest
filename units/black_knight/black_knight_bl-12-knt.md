@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/356/black-knight-bl-12-knt) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/356) 
 - **Battle Value:** 1840 
 
 ## Availability 
@@ -46,4 +46,8 @@
 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
 

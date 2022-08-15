@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Improved Communications 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4019/crimson-langur-prime) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4019) 
 - **Battle Value:** 1952 
 
 ## Availability 

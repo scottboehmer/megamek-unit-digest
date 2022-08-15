@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/408/blood-reaper-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/408) 
 - **Battle Value:** 2665 
 
 ## Availability 
@@ -40,4 +40,9 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
 

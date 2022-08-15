@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/882/dervish-dv-8d2-lightbringer) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/882) 
 - **Battle Value:** 1717 
 
 ## Availability 

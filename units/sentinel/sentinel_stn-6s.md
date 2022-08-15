@@ -17,7 +17,7 @@
   - Thunderbolt 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8160/sentinel-stn-6s) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8160) 
 - **Battle Value:** 1089 
 
 ## Availability 
@@ -26,4 +26,11 @@
 
 - Kell Hounds 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

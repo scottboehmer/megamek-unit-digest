@@ -16,7 +16,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Main 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2016/manticore-heavy-tank-c3m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2016) 
 - **Battle Value:** 958 
 
 ## Availability 
@@ -49,4 +49,9 @@
 - Draconis Combine 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
 

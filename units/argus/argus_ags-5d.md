@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No/Minimal Arms 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5683/argus-ags-5d) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5683) 
 - **Battle Value:** 2065 
 
 ## Availability 
@@ -40,6 +40,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

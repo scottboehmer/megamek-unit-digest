@@ -20,7 +20,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4562/mad-cat-iii-2) 
+- **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4562) 
 - **Battle Value:** 1697 
 
 ## Availability 
@@ -87,5 +87,21 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

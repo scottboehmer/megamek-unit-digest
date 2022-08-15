@@ -23,7 +23,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** TP Irian - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7331/marauder-ii-mad-6s) 
+- **Sources:** TP Irian - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7331) 
 - **Battle Value:** 2546 
 
 ## Availability 
@@ -42,4 +42,9 @@
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Free Worlds League 
 

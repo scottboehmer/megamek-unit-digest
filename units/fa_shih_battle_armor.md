@@ -1,6 +1,6 @@
 # Fa Shih Battle Armor 
 
-## Fa Shih Battle Armor [Flamer] 
+## Fa Shih Battle Armor (Flamer)(Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3062) 
@@ -17,11 +17,53 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1014/fa-shih-battle-armor-flamer) 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1014) 
 - **Battle Value:** 39 (201 for 4 suits) 
-- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_[flamer].md) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_flamersqd4.md) 
 
-## Fa Shih Battle Armor [Laser] 
+## Fa Shih Battle Armor (Flamer)(Sqd5) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Flamer 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8502) 
+- **Battle Value:** 39 (271 for 5 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_flamersqd5.md) 
+
+## Fa Shih Battle Armor (Flamer)(Sqd6) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Flamer 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8866) 
+- **Battle Value:** 39 (348 for 6 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_flamersqd6.md) 
+
+## Fa Shih Battle Armor (Laser)(Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3062) 
@@ -38,11 +80,53 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1015/fa-shih-battle-armor-laser) 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1015) 
 - **Battle Value:** 45 (233 for 4 suits) 
-- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_[laser].md) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lasersqd4.md) 
 
-## Fa Shih Battle Armor [LRR] 
+## Fa Shih Battle Armor (Laser)(Sqd5) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Small Laser 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8503) 
+- **Battle Value:** 45 (314 for 5 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lasersqd5.md) 
+
+## Fa Shih Battle Armor (Laser)(Sqd6) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Small Laser 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8867) 
+- **Battle Value:** 45 (404 for 6 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lasersqd6.md) 
+
+## Fa Shih Battle Armor (LRR)(Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3062) 
@@ -59,11 +143,53 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1016/fa-shih-battle-armor-lrr) 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1016) 
 - **Battle Value:** 49 (257 for 4 suits) 
-- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_[lrr].md) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lrrsqd4.md) 
 
-## Fa Shih Battle Armor [MG] 
+## Fa Shih Battle Armor (LRR)(Sqd5) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Light Recoilless Rifle 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8504) 
+- **Battle Value:** 49 (346 for 5 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lrrsqd5.md) 
+
+## Fa Shih Battle Armor (LRR)(Sqd6) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Light Recoilless Rifle 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8868) 
+- **Battle Value:** 49 (445 for 6 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lrrsqd6.md) 
+
+## Fa Shih Battle Armor (MG)(Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3062) 
@@ -80,11 +206,53 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1017/fa-shih-battle-armor-mg) 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1017) 
 - **Battle Value:** 39 (201 for 4 suits) 
-- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_[mg].md) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_mgsqd4.md) 
 
-## Fa Shih Battle Armor [TAG] 
+## Fa Shih Battle Armor (MG)(Sqd5) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Machine Gun 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8505) 
+- **Battle Value:** 39 (271 for 5 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_mgsqd5.md) 
+
+## Fa Shih Battle Armor (MG)(Sqd6) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Machine Gun 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8869) 
+- **Battle Value:** 39 (348 for 6 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_mgsqd6.md) 
+
+## Fa Shih Battle Armor (TAG)(Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3062) 
@@ -100,11 +268,51 @@
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1018/fa-shih-battle-armor-tag) 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1018) 
 - **Battle Value:** 31 (161 for 4 suits) 
-- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_[tag].md) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_tagsqd4.md) 
 
-## Fa Shih Battle Armor (Support) [King David] 
+## Fa Shih Battle Armor (TAG)(Sqd5) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Light TAG 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8506) 
+- **Battle Value:** 31 (217 for 5 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_tagsqd5.md) 
+
+## Fa Shih Battle Armor (TAG)(Sqd6) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Light TAG 
+  - Anti-Personnel Mount 
+- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8870) 
+- **Battle Value:** 31 (279 for 6 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_tagsqd6.md) 
+
+## Fa Shih Battle Armor (Support) (King David)(Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3074) 
@@ -119,11 +327,49 @@
   - King David Light Gauss Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1012/fa-shih-battle-armor-support-king-david) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1012) 
 - **Battle Value:** 36 (185 for 4 suits) 
-- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_[king_david].md) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_king_davidsqd4.md) 
 
-## Fa Shih Battle Armor (Support) [Plasma] 
+## Fa Shih Battle Armor (Support) (King David)(Sqd5) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - King David Light Gauss Rifle 
+- **Equipment:** 
+  - Magnetic Clamps 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8500) 
+- **Battle Value:** 36 (249 for 5 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_king_davidsqd5.md) 
+
+## Fa Shih Battle Armor (Support) (King David)(Sqd6) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - King David Light Gauss Rifle 
+- **Equipment:** 
+  - Magnetic Clamps 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8864) 
+- **Battle Value:** 36 (320 for 6 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_king_davidsqd6.md) 
+
+## Fa Shih Battle Armor (Support) (Plasma)(Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3074) 
@@ -138,11 +384,49 @@
   - Man-Portable Plasma Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1013/fa-shih-battle-armor-support-plasma) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1013) 
 - **Battle Value:** 43 (225 for 4 suits) 
-- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_[plasma].md) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_plasmasqd4.md) 
 
-## Fa Shih Battle Armor 2 [MG] 
+## Fa Shih Battle Armor (Support) (Plasma)(Sqd5) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Advanced) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - Man-Portable Plasma Rifle 
+- **Equipment:** 
+  - Magnetic Clamps 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8501) 
+- **Battle Value:** 43 (303 for 5 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_plasmasqd5.md) 
+
+## Fa Shih Battle Armor (Support) (Plasma)(Sqd6) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 7 (Advanced) 
+- **Manipulators:** 
+  - Basic Manipulator (right) 
+  - Basic Manipulator (left) 
+- **Weapons:** 
+  - Man-Portable Plasma Rifle 
+- **Equipment:** 
+  - Magnetic Clamps 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8865) 
+- **Battle Value:** 43 (390 for 6 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_plasmasqd6.md) 
+
+## Fa Shih Battle Armor 2 (MG)(Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3078) 
@@ -159,7 +443,49 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Clan Myomer Booster 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1019/fa-shih-battle-armor-2-mg) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1019) 
 - **Battle Value:** 29 (150 for 4 suits) 
-- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_2_[mg].md) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_2_mgsqd4.md) 
+
+## Fa Shih Battle Armor 2 (MG)(Sqd5) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3078) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 3 
+  - **Jumping:** 3 
+- **Armor:** 4 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Machine Gun 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Clan Myomer Booster 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8507) 
+- **Battle Value:** 29 (203 for 5 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_2_mgsqd5.md) 
+
+## Fa Shih Battle Armor 2 (MG)(Sqd6) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3078) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 3 
+  - **Jumping:** 3 
+- **Armor:** 4 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Machine Gun 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+  - Clan Myomer Booster 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8871) 
+- **Battle Value:** 29 (260 for 6 suits) 
+- [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_2_mgsqd6.md) 
 

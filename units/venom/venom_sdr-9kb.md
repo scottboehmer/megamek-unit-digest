@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Nimble Jumper 
   - Difficult Ejection 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3400/venom-sdr-9kb) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3400) 
 - **Battle Value:** 769 
 
 ## Availability 
@@ -58,4 +58,9 @@
 - Free Worlds League 
 - Mercenary 
 - Rim Commonality 
+
+### ilClan 
+
+- Draconis Combine 
+- Mercenary 
 

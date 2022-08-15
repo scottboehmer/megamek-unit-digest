@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5877/battlemaster-blr-1ghe-hellslinger) 
+- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5877) 
 - **Battle Value:** 1712 
 
 ## Availability 

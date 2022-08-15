@@ -16,7 +16,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3336/typhoon-urban-assault-vehicle-rac) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3336) 
 - **Battle Value:** 1434 
 
 ## Availability 
@@ -52,4 +52,12 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

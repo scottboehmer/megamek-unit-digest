@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8398/night-gyr-t) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8398) 
 - **Battle Value:** 2767 
 
 ## Availability 
@@ -28,4 +28,13 @@
 
 - Clan Jade Falcon 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Sea Fox 
+- Mercenary 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 

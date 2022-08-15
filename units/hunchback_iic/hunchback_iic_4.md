@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1571/hunchback-iic-4) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1571) 
 - **Battle Value:** 2097 
 
 ## Availability 
@@ -41,6 +41,12 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### ilClan 
 
 - Clan Sea Fox 
 - Rasalhague Dominion 

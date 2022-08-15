@@ -22,7 +22,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/84/archer-arc-7l) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/84) 
 - **Battle Value:** 1881 
 
 ## Availability 
@@ -47,6 +47,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Fronc Reaches 

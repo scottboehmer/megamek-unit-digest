@@ -17,7 +17,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/177/awesome-aws-8v) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/177) 
 - **Battle Value:** 1510 
 
 ## Availability 

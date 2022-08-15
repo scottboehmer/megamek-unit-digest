@@ -19,7 +19,7 @@
   - Null-Signature System 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3536/werewolf-wer-lf-005) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3536) 
 - **Battle Value:** 1082 
 
 ## Availability 

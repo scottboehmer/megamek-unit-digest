@@ -15,7 +15,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6938/javelin-jvn-11p) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6938) 
 - **Battle Value:** 680 
 
 ## Availability 
@@ -25,6 +25,10 @@
 - Filtvelt Coalition 
 
 ### Dark Ages 
+
+- Filtvelt Coalition 
+
+### ilClan 
 
 - Filtvelt Coalition 
 

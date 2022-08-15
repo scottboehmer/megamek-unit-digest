@@ -16,7 +16,7 @@
   - Lift Hoist 
   - Mech Sprayer 
   - Cargo 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4792/patron-ptn-loadermech) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4792) 
 - **Battle Value:** 106 
 
 ## Availability 
@@ -71,4 +71,9 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
 

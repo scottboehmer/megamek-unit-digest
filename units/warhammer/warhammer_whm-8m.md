@@ -20,7 +20,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3496/warhammer-whm-8m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3496) 
 - **Battle Value:** 1631 
 
 ## Availability 
@@ -42,4 +42,8 @@
 
 - Free Worlds League 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
 

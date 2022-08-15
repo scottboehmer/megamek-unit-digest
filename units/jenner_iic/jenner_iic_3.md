@@ -18,8 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1700/jenner-iic-3) 
+- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1700) 
 - **Battle Value:** 788 
 
 ## Availability 
@@ -56,6 +55,13 @@
 
 - Clan Hell's Horses 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Mercenary 
+
+### ilClan 
+
+- Clan Hell's Horses 
 - Clan Sea Fox 
 - Draconis Combine 
 - Mercenary 

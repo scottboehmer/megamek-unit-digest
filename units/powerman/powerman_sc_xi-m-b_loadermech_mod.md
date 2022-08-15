@@ -14,7 +14,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Cargo × 3 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2566/powerman-sc-xi-m-b-haulermech-mod) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2566) 
 - **Battle Value:** 277 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Narc (ammo: 12) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3314/tufana-hovercraft-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3314) 
 - **Battle Value:** 583 
 
 ## Availability 
@@ -58,4 +58,11 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
 

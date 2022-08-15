@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3690/ajax-assault-tank-prime) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3690) 
 - **Battle Value:** 1789 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_prime.md) 
 
@@ -35,7 +35,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3688/ajax-assault-tank-a) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3688) 
 - **Battle Value:** 2042 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_a.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3689/ajax-assault-tank-b) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3689) 
 - **Battle Value:** 1706 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_b.md) 
 
@@ -73,7 +73,7 @@
   - Guardian ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5740/ajax-assault-tank-c) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5740) 
 - **Battle Value:** 1839 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_c.md) 
 
@@ -94,7 +94,7 @@
   - CASE 
   - Infantry (4.0 tons) × 2 
   - Drone Control System 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5741/ajax-assault-tank-d) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5741) 
 - **Battle Value:** 1502 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_d.md) 
 
@@ -116,7 +116,7 @@
   - C3 Support 
   - CASE 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/21/ajax-assault-tank-sealed) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/21) 
 - **Battle Value:** 1445 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_sealed.md) 
 

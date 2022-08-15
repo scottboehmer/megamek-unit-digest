@@ -15,7 +15,7 @@
   - Flamer 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2402/packrat-lrpv-pkr-t5-srm2) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2402) 
 - **Battle Value:** 263 
 
 ## Availability 
@@ -60,6 +60,13 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

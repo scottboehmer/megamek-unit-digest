@@ -17,7 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #17 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737/crossbow-e) 
+- **Sources:** Rec Guide:ilClan #17 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737) 
 - **Battle Value:** 1558 
 
 ## Availability 
@@ -52,4 +52,13 @@
 - Clan Wolf 
 - Lyran Commonwealth 
 - Raven Alliance 
+
+### ilClan 
+
+- Clan Protectorate 
+- Lyran Commonwealth 
+- Raven Alliance 
+- Star League (Wolf) 
+- Tamar Pact 
+- Wolf Empire 
 

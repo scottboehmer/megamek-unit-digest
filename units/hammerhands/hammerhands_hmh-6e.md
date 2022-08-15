@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Barrel Fists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1373/hammerhands-hmh-6e) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1373) 
 - **Battle Value:** 2204 
 
 ## Availability 
@@ -49,4 +49,9 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
 

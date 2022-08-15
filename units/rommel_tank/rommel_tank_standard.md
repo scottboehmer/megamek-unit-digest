@@ -14,7 +14,7 @@
   - AC/20 (ammo: 20) 
   - LRM 5 (ammo: 24) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2737/rommel-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2737) 
 - **Battle Value:** 933 
 
 ## Availability 
@@ -70,6 +70,12 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Filtvelt Coalition 
+- Mercenary 
+- Raven Alliance 
+
+### ilClan 
 
 - Filtvelt Coalition 
 - Mercenary 

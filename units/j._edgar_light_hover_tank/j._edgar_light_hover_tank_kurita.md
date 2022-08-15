@@ -15,7 +15,7 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1639/j-edgar-light-hover-tank-kurita) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1639) 
 - **Battle Value:** 696 
 
 ## Availability 
@@ -46,6 +46,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Taurian Concordat 
+
+### ilClan 
 
 - Draconis Combine 
 - Taurian Concordat 

@@ -19,8 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** SO: Unending Faith - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7632/uller-kit-fox-blo) 
+- **Sources:** SO: Unending Faith - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7632) 
 - **Battle Value:** 988 
 
 ## Availability 

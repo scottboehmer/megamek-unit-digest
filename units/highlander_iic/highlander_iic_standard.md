@@ -23,7 +23,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1524/highlander-iic-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1524) 
 - **Battle Value:** 2979 
 
 ## Availability 
@@ -121,4 +121,12 @@
 - Lyran Commonwealth 
 - Republic of the Sphere 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Star League (Wolf) 
+- Wolf Empire 
 

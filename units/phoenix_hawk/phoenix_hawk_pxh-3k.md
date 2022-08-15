@@ -18,7 +18,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2498/phoenix-hawk-pxh-3k) 
+- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2498) 
 - **Battle Value:** 1359 
 
 ## Availability 
@@ -37,8 +37,22 @@
 
 - Draconis Combine 
 - Free Rasalhague Republic 
+- Mercenary 
 
 ### Early Republic 
 
+- Mercenary 
 - Rasalhague Dominion 
+
+### Late Republic 
+
+- Mercenary 
+
+### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
+
+- Mercenary 
 

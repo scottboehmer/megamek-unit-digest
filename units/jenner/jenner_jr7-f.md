@@ -15,8 +15,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1693/jenner-jr7-f) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1693) 
 - **Battle Value:** 1011 
 
 ## Availability 

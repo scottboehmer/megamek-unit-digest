@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2098/matador-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2098) 
 - **Battle Value:** 2006 
 - [*More Info*](matador/matador_standard.md) 
 
@@ -42,7 +42,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2099/matador-2) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2099) 
 - **Battle Value:** 1728 
 - [*More Info*](matador/matador_2.md) 
 

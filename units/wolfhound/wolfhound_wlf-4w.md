@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3567/wolfhound-wlf-4w) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3567) 
 - **Battle Value:** 1090 
 
 ## Availability 
@@ -50,5 +50,9 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Mercenary 
+
+### ilClan 
+
 - Mercenary 
 

@@ -21,7 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5218/thanatos-tns-4s) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5218) 
 - **Battle Value:** 1844 
 
 ## Availability 
@@ -78,4 +78,13 @@
 - Marian Hegemony 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
 

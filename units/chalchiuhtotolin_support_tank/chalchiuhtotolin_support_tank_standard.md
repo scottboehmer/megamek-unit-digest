@@ -18,7 +18,7 @@
   - Vehicle Flamer (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/537/chalchiuhtotolin-support-tank-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/537) 
 - **Battle Value:** 1056 
 
 ## Availability 
@@ -39,4 +39,13 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf Empire 
 

@@ -18,7 +18,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
   - C3 Boosted Support 
   - CASE 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6389/narukami-heavy-tank-nk-bc3) 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6389) 
 - **Battle Value:** 1481 
 
 ## Availability 
@@ -28,6 +28,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

@@ -17,22 +17,10 @@
 - **Design Quirks:** 
   - Cowl 
   - Improved Life Support 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6611/firestarter-fs9-m4) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6611) 
 - **Battle Value:** 798 
 
 ## Availability 
-
-### Early Republic 
-
-- Duchy of Andurien 
-- Federated Suns 
-- Filtvelt Coalition 
-- Lyran Commonwealth 
-- Marian Hegemony 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
 
 ### Late Republic 
 
@@ -66,4 +54,20 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

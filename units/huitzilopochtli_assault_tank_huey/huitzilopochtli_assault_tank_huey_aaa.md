@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1550/huitzilopochtli-assault-tank-huey-aaa) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1550) 
 - **Battle Value:** 1385 
 
 ## Availability 
@@ -39,6 +39,12 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### ilClan 
 
 - Clan Hell's Horses 
 - Rasalhague Dominion 

@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Multi-Trac 
   - No/Minimal Arms 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3419/viking-vkg-3a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3419) 
 - **Battle Value:** 1849 
 
 ## Availability 
@@ -44,4 +44,8 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

@@ -20,7 +20,7 @@
   - Liquid Cargo 
 - **Design Quirks:** 
   - Low-Mounted Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/825/dark-crow-3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/825) 
 - **Battle Value:** 1687 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

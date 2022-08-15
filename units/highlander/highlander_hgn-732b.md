@@ -4,7 +4,7 @@
 
 ## Highlander HGN-732b 
 
-- **Role:** Missile Boat 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (2598) 
 - **Chassis:** 90 tons 
 - **Movement:** 3 / 5 
@@ -23,7 +23,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1516/highlander-hgn-732b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1516) 
 - **Battle Value:** 2335 
 
 ## Availability 
@@ -171,11 +171,6 @@
 
 - Capellan Confederation 
 - Clan Diamond Shark 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -186,8 +181,6 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -195,12 +188,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -211,8 +199,6 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -220,12 +206,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -237,9 +218,21 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

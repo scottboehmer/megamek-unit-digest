@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Main 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/539/challenger-mbt-xi) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/539) 
 - **Battle Value:** 1655 
 
 ## Availability 
@@ -48,4 +48,11 @@
 
 - Federated Suns 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

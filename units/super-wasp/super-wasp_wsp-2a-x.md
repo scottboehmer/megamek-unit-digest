@@ -18,7 +18,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Prototype 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5770/super-wasp-wsp-2a-x) 
+- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5770) 
 - **Battle Value:** 635 
 
 ## Availability 

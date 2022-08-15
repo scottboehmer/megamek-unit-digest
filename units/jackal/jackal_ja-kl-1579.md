@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Improved Cooling Jacket (ER PPC) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1654/jackal-ja-kl-1579) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1654) 
 - **Battle Value:** 1269 
 
 ## Availability 

@@ -6,7 +6,7 @@
 
 #### [Nacon Armored Scout](../../units/nacon_armored_scout.md) 
 
-- [**Nacon Armored Scout (Standard)**](../../units/nacon_armored_scout/nacon_armored_scout_standard.md) *Striker (3096)* 
+- [**Nacon Armored Scout (Standard)**](../../units/nacon_armored_scout/nacon_armored_scout_standard.md) *Scout (3096)* 
 
 ### 30 Tons 
 

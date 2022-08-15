@@ -15,7 +15,7 @@
   - ER PPC × 2 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3076/stooping-hawk-a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3076) 
 - **Battle Value:** 2319 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3378/valkyrie-vlk-qf) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3378) 
 - **Battle Value:** 653 
 
 ## Availability 
@@ -60,6 +60,7 @@
 ### Jihad 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
@@ -68,9 +69,11 @@
 ### Early Republic 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Mercenary 
 
 ### Late Republic 
 
+- Filtvelt Coalition 
 - Mercenary 
 

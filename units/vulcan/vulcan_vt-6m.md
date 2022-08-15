@@ -18,7 +18,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3465/vulcan-vt-6m) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3465) 
 - **Battle Value:** 959 
 
 ## Availability 
@@ -45,4 +45,9 @@
 - Free Worlds League 
 - Oriente Protectorate 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
 

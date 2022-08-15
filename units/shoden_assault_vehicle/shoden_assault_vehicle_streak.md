@@ -16,7 +16,7 @@
   - Light Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5057/shoden-assault-vehicle-streak) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5057) 
 - **Battle Value:** 1425 
 
 ## Availability 
@@ -47,4 +47,10 @@
 - Clan Sea Fox 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
 

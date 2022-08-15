@@ -22,7 +22,7 @@
   - Distracting 
   - Protected Actuators 
   - Cramped Cockpit 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5329/ursus-3) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5329) 
 - **Battle Value:** 1284 
 
 ## Availability 
@@ -40,6 +40,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

@@ -17,7 +17,7 @@
   - Targeting Computer 
   - C3 Main 
   - Infantry (4 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4671/morningstar-city-command-vehicle-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4671) 
 - **Battle Value:** 694 
 
 ## Availability 
@@ -59,4 +59,11 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Fronc Reaches 
+- Magistracy of Canopus 
 

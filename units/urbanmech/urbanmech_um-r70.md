@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3359/urbanmech-um-r70) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3359) 
 - **Battle Value:** 724 
 
 ## Availability 
@@ -48,6 +48,11 @@
 - Marik-Stewart Commonwealth 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Federated Suns 
 - Magistracy of Canopus 

@@ -2,7 +2,7 @@
 
 ## Karnov UR Transport (Standard) 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (2600) 
 - **Chassis:** 30 tons VTOL 
 - **Movement:** 11 / 17, ICE 
@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Infantry (6.0 tons) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1759/karnov-ur-transport-standard) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1759) 
 - **Battle Value:** 125 
 - [*More Info*](karnov_ur_transport/karnov_ur_transport_standard.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - AC/20 (ammo: 10) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1755/karnov-ur-transport-ac) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1755) 
 - **Battle Value:** 556 
 - [*More Info*](karnov_ur_transport/karnov_ur_transport_ac.md) 
 
@@ -38,7 +38,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Thumper (ammo: 20) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1756/karnov-ur-transport-artillery) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1756) 
 - **Battle Value:** 227 
 - [*More Info*](karnov_ur_transport/karnov_ur_transport_artillery.md) 
 
@@ -54,7 +54,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (7.0 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1754/karnov-ur-transport-3055-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1754) 
 - **Battle Value:** 152 
 - [*More Info*](karnov_ur_transport/karnov_ur_transport_3055_upgrade.md) 
 
@@ -71,7 +71,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Infantry (8 tons) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1757/karnov-ur-transport-ba) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1757) 
 - **Battle Value:** 499 
 - [*More Info*](karnov_ur_transport/karnov_ur_transport_ba.md) 
 
@@ -86,7 +86,7 @@
 - **Weapons:** 
   - Rocket 20 × 4 
   - Rocket 10 × 6 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1758/karnov-ur-transport-periphery) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1758) 
 - **Battle Value:** 590 
 - [*More Info*](karnov_ur_transport/karnov_ur_transport_periphery.md) 
 
@@ -105,7 +105,7 @@
   - Jet Booster 
   - Infantry (4.0 tons) 
   - Cargo 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5787/karnov-ur-transport-heavy-stealth) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5787) 
 - **Battle Value:** 375 
 - [*More Info*](karnov_ur_transport/karnov_ur_transport_heavy_stealth.md) 
 

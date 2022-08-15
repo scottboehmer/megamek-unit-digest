@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV (ammo: 24) 
   - Large Pulse Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1576/hunter-light-support-tank-lpl) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1576) 
 - **Battle Value:** 610 
 
 ## Availability 
@@ -49,4 +49,11 @@
 
 - Federated Suns 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

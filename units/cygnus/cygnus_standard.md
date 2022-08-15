@@ -21,7 +21,7 @@
   - Static Ammo Feed (Ultra AC/10) 
   - Exposed Weapon Linkage (Ultra AC/10) 
   - Static Ammo Feed (Ultra AC/10) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/781/cygnus-standard) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/781) 
 - **Battle Value:** 2583 
 
 ## Availability 
@@ -51,4 +51,9 @@
 - Clan Wolf-in-Exile 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
 

@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3214/thunder-thr-1l) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3214) 
 - **Battle Value:** 1471 
 
 ## Availability 
@@ -74,10 +74,16 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
-- Free Worlds League 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Regulan Fiefs 
 - Taurian Concordat 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
 

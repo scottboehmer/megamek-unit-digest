@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1332/grizzly-standard) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1332) 
 - **Battle Value:** 2219 
 
 ## Availability 
@@ -133,14 +133,22 @@
 
 ### Early Republic 
 
+- Clan Hell's Horses 
 - Escorpión Imperio 
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Escorpión Imperio 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
 - Scorpion Empire 
 

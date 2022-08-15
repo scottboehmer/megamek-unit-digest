@@ -12,7 +12,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1728/kabuto-kbo-7a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1728) 
 - **Battle Value:** 524 
 - [*More Info*](kabuto/kabuto_kbo-7a.md) 
 
@@ -28,7 +28,7 @@
   - Light PPC × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1729/kabuto-kbo-7b) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1729) 
 - **Battle Value:** 635 
 - [*More Info*](kabuto/kabuto_kbo-7b.md) 
 

@@ -20,12 +20,16 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7718/inferno-inf-noc) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7718) 
 - **Battle Value:** 1698 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

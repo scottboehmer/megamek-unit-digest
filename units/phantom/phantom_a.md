@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2481/phantom-a) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2481) 
 - **Battle Value:** 1410 
 
 ## Availability 
@@ -87,4 +87,11 @@
 - Escorpión Imperio 
 - Raven Alliance 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Wolf) 
 

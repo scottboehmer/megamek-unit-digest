@@ -15,7 +15,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (8.0 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/237/bandit-hovercraft-h) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/237) 
 - **Battle Value:** 708 
 
 ## Availability 

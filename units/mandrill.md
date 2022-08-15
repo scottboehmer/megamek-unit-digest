@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2011/mandrill-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2011) 
 - **Battle Value:** 1209 
 - [*More Info*](mandrill/mandrill_standard.md) 
 

@@ -19,7 +19,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
   - C3i 
   - Infantry (8 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2411/palmoni-assault-infantry-fighting-vehicle-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2411) 
 - **Battle Value:** 1116 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 6 × 9 (ammo: 45) 
   - Narc (ammo: 6) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3028/srm-carrier-3054-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3028) 
 - **Battle Value:** 794 
 
 ## Availability 
@@ -151,4 +151,24 @@
 - Regulan Fiefs 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Jade Falcon 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Star League (Jade Falcon) 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

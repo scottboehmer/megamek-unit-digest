@@ -22,7 +22,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/774/cyclops-cp-11-b) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/774) 
 - **Battle Value:** 2145 
 
 ## Availability 
@@ -86,4 +86,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

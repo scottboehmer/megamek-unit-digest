@@ -10,7 +10,7 @@
 - **Movement:** 18 / 27, Fusion 
 - **Armor:** 16 
 - **Heat Sinks:** 10 (10) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5105/speeder-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5105) 
 - **Battle Value:** 69 
 
 ## Availability 
@@ -347,5 +347,32 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Calderon Protectorate 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Kell Hounds 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Taurian Concordat 
+- Wolf Empire 
 - Wolf's Dragoons 
 

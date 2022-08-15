@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1808/kodiak-4) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1808) 
 - **Battle Value:** 2728 
 
 ## Availability 
@@ -46,4 +46,8 @@
 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Rasalhague Dominion 
 

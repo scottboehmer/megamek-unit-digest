@@ -18,7 +18,7 @@
   - Flamer × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8429/raijin-rjn-101-b) 
+- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8429) 
 - **Battle Value:** 1383 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Bloodhound Active Probe 
   - Communications Equipment 
   - Remote Sensor Dispenser 
-- **Sources:** ED Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6958/tribune-mobile-tactical-command-hq-standard) 
+- **Sources:** ED Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6958) 
 - **Battle Value:** 424 
 
 ## Availability 
@@ -55,4 +55,19 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Jade Falcon 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

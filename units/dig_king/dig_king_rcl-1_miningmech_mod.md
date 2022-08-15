@@ -14,7 +14,7 @@
   - SRM 4 × 2 (ammo: 25) 
   - Rock-Cutter 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** RS VA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7172/dig-king-rcl-1m-miningmech-mod) 
+- **Sources:** RS VA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7172) 
 - **Battle Value:** 460 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Unbalanced 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6550/cadaver-cvr-a1) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6550) 
 - **Battle Value:** 962 
 - [*More Info*](cadaver/cadaver_cvr-a1.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Unbalanced 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6551/cadaver-cvr-t1) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6551) 
 - **Battle Value:** 1288 
 - [*More Info*](cadaver/cadaver_cvr-t1.md) 
 

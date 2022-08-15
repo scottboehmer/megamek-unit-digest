@@ -5,7 +5,7 @@
 ## Wendigo B 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3135) 
+- **Tech Base:** Clan (3150) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
   - **Jumping:** 8 
@@ -19,7 +19,7 @@
   - ECM Suite 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6405/wendigo-b) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6405) 
 - **Battle Value:** 2369 
 
 ## Availability 
@@ -27,6 +27,13 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Free Worlds League 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 
 - Free Worlds League 

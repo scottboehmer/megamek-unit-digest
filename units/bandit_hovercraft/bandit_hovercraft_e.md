@@ -15,7 +15,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/234/bandit-hovercraft-e) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/234) 
 - **Battle Value:** 839 
 
 ## Availability 

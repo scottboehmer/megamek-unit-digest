@@ -17,8 +17,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Easy to Maintain 
-  - No Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/347/black-hawk-ku-bhku-oa) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/347) 
 - **Battle Value:** 1770 
 
 ## Availability 
@@ -109,4 +108,17 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

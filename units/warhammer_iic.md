@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #4 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3500/warhammer-iic-standard) 
+- **Sources:** Rec Guide:ilClan #4 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3500) 
 - **Battle Value:** 2570 
 - [*More Info*](warhammer_iic/warhammer_iic_standard.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #4 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3501/warhammer-iic-2) 
+- **Sources:** Rec Guide:ilClan #4 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3501) 
 - **Battle Value:** 2482 
 - [*More Info*](warhammer_iic/warhammer_iic_2.md) 
 
@@ -58,7 +58,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3502/warhammer-iic-3) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3502) 
 - **Battle Value:** 2382 
 - [*More Info*](warhammer_iic/warhammer_iic_3.md) 
 
@@ -79,7 +79,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3503/warhammer-iic-4) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3503) 
 - **Battle Value:** 2386 
 - [*More Info*](warhammer_iic/warhammer_iic_4.md) 
 
@@ -100,7 +100,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3504/warhammer-iic-5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3504) 
 - **Battle Value:** 2185 
 - [*More Info*](warhammer_iic/warhammer_iic_5.md) 
 
@@ -121,7 +121,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3505/warhammer-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3505) 
 - **Battle Value:** 2661 
 - [*More Info*](warhammer_iic/warhammer_iic_6.md) 
 
@@ -147,7 +147,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3506/warhammer-iic-7) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3506) 
 - **Battle Value:** 2915 
 - [*More Info*](warhammer_iic/warhammer_iic_7.md) 
 
@@ -169,7 +169,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3507/warhammer-iic-8) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3507) 
 - **Battle Value:** 2380 
 - [*More Info*](warhammer_iic/warhammer_iic_8.md) 
 
@@ -192,7 +192,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3508/warhammer-iic-9) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3508) 
 - **Battle Value:** 2819 
 - [*More Info*](warhammer_iic/warhammer_iic_9.md) 
 
@@ -213,7 +213,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6859/warhammer-iic-10) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6859) 
 - **Battle Value:** 2290 
 - [*More Info*](warhammer_iic/warhammer_iic_10.md) 
 
@@ -235,7 +235,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6858/warhammer-iic-11) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6858) 
 - **Battle Value:** 2021 
 - [*More Info*](warhammer_iic/warhammer_iic_11.md) 
 
@@ -258,7 +258,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6857/warhammer-iic-12) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6857) 
 - **Battle Value:** 2680 
 - [*More Info*](warhammer_iic/warhammer_iic_12.md) 
 
@@ -280,7 +280,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7498/warhammer-iic-13) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7498) 
 - **Battle Value:** 2715 
 - [*More Info*](warhammer_iic/warhammer_iic_13.md) 
 

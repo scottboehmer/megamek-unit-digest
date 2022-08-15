@@ -23,12 +23,17 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8226/crusader-crd-7d) 
+- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8226) 
 - **Battle Value:** 1681 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Mercenary 

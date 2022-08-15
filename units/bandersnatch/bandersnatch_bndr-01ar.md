@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Stable 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/218/bandersnatch-bndr-01ar) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/218) 
 - **Battle Value:** 1522 
 
 ## Availability 
@@ -80,5 +80,20 @@
 - Mercenary 
 - Pirate 
 - Republic of the Sphere 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

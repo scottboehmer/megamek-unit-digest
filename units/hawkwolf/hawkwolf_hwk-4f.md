@@ -20,7 +20,7 @@
   - Fast Reload (All Weapons) 
   - No/Minimal Arms 
   - Protected Actuators 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6576/hawkwolf-hwk-4f) 
+- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6576) 
 - **Battle Value:** 1428 
 
 ## Availability 
@@ -40,6 +40,14 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Federated Suns 

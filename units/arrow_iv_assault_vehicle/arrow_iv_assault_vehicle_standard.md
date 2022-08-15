@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6446/arrow-iv-assault-vehicle-standard) 
+- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6446) 
 - **Battle Value:** 1404 
 
 ## Availability 
@@ -62,4 +62,16 @@
 - Regulan Fiefs 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

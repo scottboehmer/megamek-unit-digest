@@ -15,7 +15,7 @@
   - LRM 15 (ammo: 8) 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7429/javelin-jvn-10a) 
+- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7429) 
 - **Battle Value:** 653 
 
 ## Availability 

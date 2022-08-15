@@ -4,7 +4,7 @@
 
 ## Tomahawk C 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Clan (3063) 
 - **Chassis:** 100 tons 
 - **Movement:** 3 / 5, XL 
@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6301/tomahawk-c) 
+- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6301) 
 - **Battle Value:** 2985 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Small Pulse Laser × 6 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/261/battle-cobra-a) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/261) 
 - **Battle Value:** 1466 
 
 ## Availability 
@@ -82,4 +82,10 @@
 - Clan Jade Falcon 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Kell Hounds 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 

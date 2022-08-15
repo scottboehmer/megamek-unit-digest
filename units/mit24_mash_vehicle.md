@@ -12,7 +12,7 @@
   - Flamer 
 - **Equipment:** 
   - MASH (1 theaters) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6753/mit-24-mash-vehicle-standard) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6753) 
 - **Battle Value:** 206 
 - [*More Info*](mit24_mash_vehicle/mit24_mash_vehicle_standard.md) 
 

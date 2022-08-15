@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 2 × 4 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5007/sea-skimmer-hydrofoil-srm2) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5007) 
 - **Battle Value:** 363 
 - [*More Info*](sea_skimmer_hydrofoil/sea_skimmer_hydrofoil_srm2.md) 
 
@@ -25,7 +25,7 @@
 - **Weapons:** 
   - SRM 6 (ammo: 15) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5008/sea-skimmer-hydrofoil-srm6) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5008) 
 - **Battle Value:** 314 
 - [*More Info*](sea_skimmer_hydrofoil/sea_skimmer_hydrofoil_srm6.md) 
 
@@ -40,7 +40,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 25) 
   - Machine Gun × 3 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5009/sea-skimmer-hydrofoil-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5009) 
 - **Battle Value:** 281 
 - [*More Info*](sea_skimmer_hydrofoil/sea_skimmer_hydrofoil_standard.md) 
 

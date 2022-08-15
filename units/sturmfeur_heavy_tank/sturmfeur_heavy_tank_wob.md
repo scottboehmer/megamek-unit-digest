@@ -19,7 +19,7 @@
   - C3i 
   - CASE 
   - TAG 
-- **Sources:** JTP Hesperus II - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967/sturmfeur-heavy-tank-wob) 
+- **Sources:** JTP Hesperus II - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967) 
 - **Battle Value:** 1559 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1106/firestarter-fs9-og) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1106) 
 - **Battle Value:** 1063 
 
 ## Availability 
@@ -75,4 +75,12 @@
 - Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

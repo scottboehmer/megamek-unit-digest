@@ -20,7 +20,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2365/ostscout-ott-11j) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2365) 
 - **Battle Value:** 908 
 
 ## Availability 
@@ -46,4 +46,10 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Star League (Wolf) 
 

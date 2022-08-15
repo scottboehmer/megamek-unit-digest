@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3375/valkyrie-vlk-qd2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3375) 
 - **Battle Value:** 638 
 
 ## Availability 
@@ -42,7 +42,11 @@
 
 ### Dark Ages 
 
-- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+
+### ilClan 
+
 - Federated Suns 
 - Filtvelt Coalition 
 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Armored Motive System 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6250/aesir-medium-aa-vehicle-hag) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6250) 
 - **Battle Value:** 1445 
 
 ## Availability 
@@ -24,4 +24,9 @@
 
 - Clan Hell's Horses 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Star League (Wolf) 
 

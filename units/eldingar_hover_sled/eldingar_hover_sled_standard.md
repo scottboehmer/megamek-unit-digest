@@ -17,7 +17,7 @@
   - ECM Suite 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/947/eldingar-hover-sled-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/947) 
 - **Battle Value:** 1402 
 
 ## Availability 
@@ -31,6 +31,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

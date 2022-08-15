@@ -20,7 +20,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
   - C3 Support 
   - Infantry (8 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3282/trajan-assault-infantry-fighting-vehicle-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3282) 
 - **Battle Value:** 1182 
 
 ## Availability 
@@ -40,4 +40,10 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

@@ -18,7 +18,7 @@
   - Hard to Pilot 
   - Poor Performance 
   - Prototype 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5584/battleaxe-bkx-1x) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5584) 
 - **Battle Value:** 1079 
 - [*More Info*](battleaxe/battleaxe_bkx-1x.md) 
 
@@ -37,7 +37,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/277/battleaxe-bkx-7k) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/277) 
 - **Battle Value:** 1329 
 - [*More Info*](battleaxe/battleaxe_bkx-7k.md) 
 
@@ -55,7 +55,7 @@
   - LRM 5 × 4 (ammo: 24) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/278/battleaxe-bkx-7nc) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/278) 
 - **Battle Value:** 1252 
 - [*More Info*](battleaxe/battleaxe_bkx-7nc.md) 
 
@@ -76,7 +76,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/279/battleaxe-bkx-8d) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/279) 
 - **Battle Value:** 1592 
 - [*More Info*](battleaxe/battleaxe_bkx-8d.md) 
 

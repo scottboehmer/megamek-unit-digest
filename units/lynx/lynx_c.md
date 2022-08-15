@@ -19,7 +19,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** Succesion Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7620/lynx-c) 
+- **Sources:** Succesion Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7620) 
 - **Battle Value:** 2712 
 
 ## Availability 
@@ -78,5 +78,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

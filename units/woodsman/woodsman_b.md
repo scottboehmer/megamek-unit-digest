@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7643/woodsman-b) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7643) 
 - **Battle Value:** 2414 
 
 ## Availability 
@@ -45,4 +45,10 @@
 
 - Clan Wolf 
 - Raven Alliance 
+
+### ilClan 
+
+- Raven Alliance 
+- Star League (Wolf) 
+- Wolf Empire 
 

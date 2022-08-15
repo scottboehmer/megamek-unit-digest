@@ -17,7 +17,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (Large Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1588/hussar-hsr-350-d) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1588) 
 - **Battle Value:** 731 
 
 ## Availability 

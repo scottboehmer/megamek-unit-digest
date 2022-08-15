@@ -17,7 +17,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3702/anubis-abs-3l) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3702) 
 - **Battle Value:** 951 
 - [*More Info*](anubis/anubis_abs-3l.md) 
 
@@ -40,7 +40,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3703/anubis-abs-3r) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3703) 
 - **Battle Value:** 970 
 - [*More Info*](anubis/anubis_abs-3r.md) 
 
@@ -62,7 +62,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3704/anubis-abs-3t) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3704) 
 - **Battle Value:** 1150 
 - [*More Info*](anubis/anubis_abs-3t.md) 
 
@@ -84,7 +84,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Prototype 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5562/anubis-abs-3mc) 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5562) 
 - **Battle Value:** 1074 
 - [*More Info*](anubis/anubis_abs-3mc.md) 
 
@@ -105,7 +105,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5656/anubis-abs-4c) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5656) 
 - **Battle Value:** 833 
 - [*More Info*](anubis/anubis_abs-4c.md) 
 
@@ -126,7 +126,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6453/anubis-abs-5y) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6453) 
 - **Battle Value:** 1042 
 - [*More Info*](anubis/anubis_abs-5y.md) 
 
@@ -148,7 +148,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6454/anubis-abs-5z) 
+- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6454) 
 - **Battle Value:** 1066 
 - [*More Info*](anubis/anubis_abs-5z.md) 
 

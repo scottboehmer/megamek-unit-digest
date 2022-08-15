@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE II 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6260/wulfen-d) 
+- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6260) 
 - **Battle Value:** 859 
 
 ## Availability 
@@ -25,4 +25,9 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
 

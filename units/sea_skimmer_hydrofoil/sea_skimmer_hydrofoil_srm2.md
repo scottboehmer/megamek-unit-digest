@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 2 × 4 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5007/sea-skimmer-hydrofoil-srm2) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5007) 
 - **Battle Value:** 363 
 
 ## Availability 
@@ -58,4 +58,9 @@
 - Clan Jade Falcon 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
 

@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2020/manticore-heavy-tank-rac) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2020) 
 - **Battle Value:** 1138 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

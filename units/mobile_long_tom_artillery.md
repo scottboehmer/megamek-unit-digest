@@ -2,7 +2,7 @@
 
 ## Mobile Long Tom Artillery LT-MOB-25 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2602) 
 - **Chassis:** 75 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Hitch 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2202/mobile-long-tom-artillery-lt-mob-25) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2202) 
 - **Battle Value:** 835 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) 
 

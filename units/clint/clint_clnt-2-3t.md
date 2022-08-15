@@ -20,7 +20,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/644/clint-clnt-2-3t) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/644) 
 - **Battle Value:** 770 
 
 ## Availability 
@@ -123,6 +123,7 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Kell Hounds 
@@ -134,6 +135,7 @@
 
 ### Early Republic 
 
+- Filtvelt Coalition 
 - Fronc Reaches 
 
 ### Late Republic 
@@ -141,6 +143,10 @@
 - Fronc Reaches 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+
+### ilClan 
 
 - Fronc Reaches 
 

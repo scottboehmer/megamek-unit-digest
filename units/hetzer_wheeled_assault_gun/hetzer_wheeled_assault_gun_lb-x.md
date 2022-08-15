@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LB 20-X AC (ammo: 15 Standard, 10 Cluster) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1508/hetzer-wheeled-assault-gun-lb-x) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1508) 
 - **Battle Value:** 767 
 
 ## Availability 
@@ -59,5 +59,15 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Regulan Fiefs 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
 - Taurian Concordat 
 

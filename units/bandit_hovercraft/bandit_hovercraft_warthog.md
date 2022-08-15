@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Armored Motive System 
-- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/229/bandit-hovercraft-warthog) 
+- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/229) 
 - **Battle Value:** 804 
 
 ## Availability 

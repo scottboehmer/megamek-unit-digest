@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/50/anvil-anv-5m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/50) 
 - **Battle Value:** 1687 
 
 ## Availability 
@@ -57,4 +57,9 @@
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Oriente Protectorate 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
 

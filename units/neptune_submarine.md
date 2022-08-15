@@ -12,7 +12,7 @@
   - LRT 20 (ammo: 6) 
   - Large Laser 
   - SRT 6 × 2 (ammo: 15) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4711/neptune-submarine-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4711) 
 - **Battle Value:** 963 
 - [*More Info*](neptune_submarine/neptune_submarine_standard.md) 
 
@@ -27,7 +27,7 @@
 - **Weapons:** 
   - LRT 20 (ammo: 12) 
   - SRT 6 × 5 (ammo: 60) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4710/neptune-submarine-srt) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4710) 
 - **Battle Value:** 1075 
 - [*More Info*](neptune_submarine/neptune_submarine_srt.md) 
 
@@ -42,7 +42,7 @@
 - **Weapons:** 
   - LRT 20 × 2 (ammo: 24) 
   - SRT 6 × 2 (ammo: 15) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4709/neptune-submarine-lrt) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4709) 
 - **Battle Value:** 1104 
 - [*More Info*](neptune_submarine/neptune_submarine_lrt.md) 
 
@@ -59,7 +59,7 @@
   - SRT 6 × 4 (ammo: 45) 
   - LRT 5 (ammo: 24) 
   - SRT 4 (ammo: 25) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2258/neptune-submarine-hunter-killer) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2258) 
 - **Battle Value:** 948 
 - [*More Info*](neptune_submarine/neptune_submarine_hunter-killer.md) 
 

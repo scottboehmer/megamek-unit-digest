@@ -14,7 +14,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/876/demon-tank-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/876) 
 - **Battle Value:** 1094 
 - [*More Info*](demon_tank/demon_tank_standard.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
   - Medium Laser × 4 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/873/demon-tank-horned-demon) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/873) 
 - **Battle Value:** 1179 
 - [*More Info*](demon_tank/demon_tank_horned_demon.md) 
 
@@ -45,7 +45,7 @@
   - PPC × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/874/demon-tank-ppc) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/874) 
 - **Battle Value:** 836 
 - [*More Info*](demon_tank/demon_tank_ppc.md) 
 
@@ -63,7 +63,7 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/875/demon-tank-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/875) 
 - **Battle Value:** 1333 
 - [*More Info*](demon_tank/demon_tank_royal.md) 
 
@@ -83,7 +83,7 @@
   - CASE 
   - C3i 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/872/demon-tank-hgr) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/872) 
 - **Battle Value:** 1182 
 - [*More Info*](demon_tank/demon_tank_hgr.md) 
 
@@ -100,7 +100,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Mine Dispenser × 4 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5555/demon-tank-cx-2) 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5555) 
 - **Battle Value:** 1219 
 - [*More Info*](demon_tank/demon_tank_cx-2.md) 
 

@@ -19,8 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1499/hermes-ii-her-5c) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1499) 
 - **Battle Value:** 1119 
 
 ## Availability 

@@ -4,7 +4,7 @@
 
 ## Arbiter ARB-001 SecurityMech 
 
-- **Role:** Sniper 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 35 tons (Industrial) 
 - **Movement:** 5 / 8, Fuel Cell 
@@ -15,66 +15,25 @@
   - Heavy Rifle (ammo: 6) 
 - **Equipment:** 
   - Ejection Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3714/arbiter-arb-001-securitymech) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5798) 
 - **Battle Value:** 507 
 
 ## Availability 
 
-### Jihad 
-
-- Capellan Confederation 
-- Circinus Federation 
-- ComStar 
-- Draconis Combine 
-- Federated Suns 
-- Free Rasalhague Republic 
-- Free Worlds League 
-- Lyran Alliance 
-- Word of Blake 
-
 ### Early Republic 
 
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
+- Escorpión Imperio 
 
 ### Late Republic 
 
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
+- Escorpión Imperio 
 
 ### Dark Ages 
 
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League 
-- Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
+- Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Scorpion Empire 
 

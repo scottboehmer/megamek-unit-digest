@@ -22,7 +22,7 @@
   - Distracting 
   - Protected Actuators 
   - Cramped Cockpit 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3364/ursus-2) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3364) 
 - **Battle Value:** 2054 
 
 ## Availability 
@@ -42,6 +42,11 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Clan Hell's Horses 
 - Rasalhague Dominion 

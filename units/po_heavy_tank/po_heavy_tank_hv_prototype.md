@@ -13,7 +13,7 @@
 - **Weapons:** 
   - HVAC/10 (ammo: 16) 
   - Streak SRM 6 (ammo: 15) 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2546/po-heavy-tank-hv-prototype) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2546) 
 - **Battle Value:** 643 
 
 ## Availability 

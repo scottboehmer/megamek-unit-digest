@@ -18,7 +18,7 @@
   - Poor Targeting (Long) 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 6) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/735/crossbow-crs-9a) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/735) 
 - **Battle Value:** 1583 
 
 ## Availability 
@@ -41,4 +41,11 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

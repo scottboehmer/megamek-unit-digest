@@ -21,7 +21,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296/griffin-grf-1e2-sparky-20) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296) 
 - **Battle Value:** 1862 
 
 ## Availability 

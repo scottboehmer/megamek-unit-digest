@@ -4,7 +4,7 @@
 
 ## Cazador (Standard) 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan (3145) 
 - **Chassis:** 35 tons (Endo Steel) 
 - **Movement:** 5 / 8 (10) 
@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7881/cazador-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7881) 
 - **Battle Value:** 921 
 
 ## Availability 
@@ -28,5 +28,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

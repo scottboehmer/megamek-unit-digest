@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/725/crockett-crk-5003-1) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/725) 
 - **Battle Value:** 1923 
 - [*More Info*](crockett/crockett_crk-5003-1.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/726/crockett-crk-5003-1b) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/726) 
 - **Battle Value:** 2307 
 - [*More Info*](crockett/crockett_crk-5003-1b.md) 
 
@@ -59,7 +59,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/724/crockett-crk-5003-0) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/724) 
 - **Battle Value:** 1704 
 - [*More Info*](crockett/crockett_crk-5003-0.md) 
 
@@ -82,7 +82,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/727/crockett-crk-5003-3) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/727) 
 - **Battle Value:** 1989 
 - [*More Info*](crockett/crockett_crk-5003-3.md) 
 
@@ -106,7 +106,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/728/crockett-crk-5004-1) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/728) 
 - **Battle Value:** 1955 
 - [*More Info*](crockett/crockett_crk-5004-1.md) 
 
@@ -130,7 +130,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/729/crockett-crk-5005-1) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/729) 
 - **Battle Value:** 1908 
 - [*More Info*](crockett/crockett_crk-5005-1.md) 
 

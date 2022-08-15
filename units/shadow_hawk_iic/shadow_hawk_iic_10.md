@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8328/shadow-hawk-iic-10) 
+- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8328) 
 - **Battle Value:** 1760 
 
 ## Availability 
@@ -48,4 +48,11 @@
 - Clan Hell's Horses 
 - Clan Wolf 
 - Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Star League (Wolf) 
+- Wolf Empire 
 

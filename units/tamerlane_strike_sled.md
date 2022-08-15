@@ -11,7 +11,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - SRM 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3158/tamerlane-strike-sled-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3158) 
 - **Battle Value:** 403 
 - [*More Info*](tamerlane_strike_sled/tamerlane_strike_sled_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Rocket 10 × 4 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3157/tamerlane-strike-sled-rl) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3157) 
 - **Battle Value:** 484 
 - [*More Info*](tamerlane_strike_sled/tamerlane_strike_sled_rl.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3159/tamerlane-strike-sled-2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3159) 
 - **Battle Value:** 359 
 - [*More Info*](tamerlane_strike_sled/tamerlane_strike_sled_2.md) 
 
@@ -56,7 +56,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Flamer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3156/tamerlane-strike-sled-flamer) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3156) 
 - **Battle Value:** 436 
 - [*More Info*](tamerlane_strike_sled/tamerlane_strike_sled_flamer.md) 
 

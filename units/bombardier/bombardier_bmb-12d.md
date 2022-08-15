@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/423/bombardier-bmb-12d) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/423) 
 - **Battle Value:** 1480 
 
 ## Availability 
@@ -187,6 +187,11 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Filtvelt Coalition 
+- Raven Alliance 
+
+### ilClan 
 
 - Filtvelt Coalition 
 - Raven Alliance 

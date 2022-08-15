@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Easy to Maintain 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6503/violator-vt-u1) 
+- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6503) 
 - **Battle Value:** 928 
 
 ## Availability 
@@ -52,4 +52,14 @@
 - Mercenary 
 - Rasalhague Dominion 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Wolf Empire 
 

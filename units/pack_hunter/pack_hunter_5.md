@@ -15,7 +15,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7440/pack-hunter-5) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7440) 
 - **Battle Value:** 1644 
 
 ## Availability 
@@ -23,4 +23,13 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Free Worlds League 
+- Mercenary 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2922/shen-yi-shy-3b) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2922) 
 - **Battle Value:** 1507 
 - [*More Info*](shen_yi/shen_yi_shy-3b.md) 
 
@@ -35,7 +35,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6878/shen-yi-shy-5b) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6878) 
 - **Battle Value:** 1603 
 - [*More Info*](shen_yi/shen_yi_shy-5b.md) 
 

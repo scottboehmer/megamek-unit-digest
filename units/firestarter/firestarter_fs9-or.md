@@ -17,7 +17,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1108/firestarter-fs9-or) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1108) 
 - **Battle Value:** 1713 
 
 ## Availability 
@@ -82,4 +82,12 @@
 - Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

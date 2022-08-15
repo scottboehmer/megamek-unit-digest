@@ -14,7 +14,7 @@
   - PPC 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/230/bandit-hovercraft-a) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/230) 
 - **Battle Value:** 902 
 
 ## Availability 

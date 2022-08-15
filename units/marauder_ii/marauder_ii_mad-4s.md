@@ -19,7 +19,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2058/marauder-ii-mad-4s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2058) 
 - **Battle Value:** 2623 
 
 ## Availability 
@@ -75,4 +75,9 @@
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
 

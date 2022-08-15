@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1836/koshi-mist-lynx-prime) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1836) 
 - **Battle Value:** 871 
 - [*More Info*](mist_lynx/mist_lynx_prime.md) 
 
@@ -44,7 +44,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1827/koshi-mist-lynx-a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1827) 
 - **Battle Value:** 608 
 - [*More Info*](mist_lynx/mist_lynx_a.md) 
 
@@ -67,7 +67,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1828/koshi-mist-lynx-b) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1828) 
 - **Battle Value:** 1209 
 - [*More Info*](mist_lynx/mist_lynx_b.md) 
 
@@ -91,7 +91,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1829/koshi-mist-lynx-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1829) 
 - **Battle Value:** 1320 
 - [*More Info*](mist_lynx/mist_lynx_c.md) 
 
@@ -114,7 +114,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1830/koshi-mist-lynx-d) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1830) 
 - **Battle Value:** 842 
 - [*More Info*](mist_lynx/mist_lynx_d.md) 
 
@@ -136,7 +136,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1831/koshi-mist-lynx-e) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1831) 
 - **Battle Value:** 997 
 - [*More Info*](mist_lynx/mist_lynx_e.md) 
 
@@ -160,7 +160,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1834/koshi-mist-lynx-h) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1834) 
 - **Battle Value:** 982 
 - [*More Info*](mist_lynx/mist_lynx_h.md) 
 
@@ -182,7 +182,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1835/koshi-mist-lynx-p) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1835) 
 - **Battle Value:** 1064 
 - [*More Info*](mist_lynx/mist_lynx_p.md) 
 
@@ -206,7 +206,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1832/koshi-mist-lynx-f) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1832) 
 - **Battle Value:** 1173 
 - [*More Info*](mist_lynx/mist_lynx_f.md) 
 
@@ -229,7 +229,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1833/koshi-mist-lynx-g) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1833) 
 - **Battle Value:** 834 
 - [*More Info*](mist_lynx/mist_lynx_g.md) 
 
@@ -252,7 +252,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5643/koshi-mist-lynx-z) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5643) 
 - **Battle Value:** 970 
 - [*More Info*](mist_lynx/mist_lynx_z.md) 
 
@@ -274,7 +274,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7557/koshi-mist-lynx-i) 
+- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7557) 
 - **Battle Value:** 689 
 - [*More Info*](mist_lynx/mist_lynx_i.md) 
 
@@ -296,7 +296,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7558/koshi-mist-lynx-j) 
+- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7558) 
 - **Battle Value:** 1704 
 - [*More Info*](mist_lynx/mist_lynx_j.md) 
 
@@ -318,7 +318,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7559/koshi-mist-lynx-k) 
+- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7559) 
 - **Battle Value:** 976 
 - [*More Info*](mist_lynx/mist_lynx_k.md) 
 
@@ -342,7 +342,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7560/koshi-mist-lynx-l) 
+- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7560) 
 - **Battle Value:** 901 
 - [*More Info*](mist_lynx/mist_lynx_l.md) 
 
@@ -366,7 +366,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7562/koshi-mist-lynx-n) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7562) 
 - **Battle Value:** 976 
 - [*More Info*](mist_lynx/mist_lynx_n.md) 
 
@@ -389,13 +389,13 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7561/koshi-mist-lynx-m) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7561) 
 - **Battle Value:** 961 
 - [*More Info*](mist_lynx/mist_lynx_m.md) 
 
 ## Mist Lynx "Koshi" T 
 
-- **Role:** Scout 
+- **Role:** Striker 
 - **Tech Base:** Clan (3142) 
 - **Chassis:** 25 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 
@@ -413,7 +413,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7556/koshi-mist-lynx-t) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7556) 
 - **Battle Value:** 971 
 - [*More Info*](mist_lynx/mist_lynx_t.md) 
 

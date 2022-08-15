@@ -23,7 +23,7 @@
   - TAG 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2296/nobori-nin-huntsman-prime) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2296) 
 - **Battle Value:** 2108 
 - [*More Info*](huntsman/huntsman_prime.md) 
 
@@ -44,7 +44,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2289/nobori-nin-huntsman-a) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2289) 
 - **Battle Value:** 2034 
 - [*More Info*](huntsman/huntsman_a.md) 
 
@@ -66,7 +66,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2290/nobori-nin-huntsman-b) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2290) 
 - **Battle Value:** 2156 
 - [*More Info*](huntsman/huntsman_b.md) 
 
@@ -91,7 +91,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2291/nobori-nin-huntsman-c) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2291) 
 - **Battle Value:** 2199 
 - [*More Info*](huntsman/huntsman_c.md) 
 
@@ -113,7 +113,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2292/nobori-nin-huntsman-d) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2292) 
 - **Battle Value:** 2007 
 - [*More Info*](huntsman/huntsman_d.md) 
 
@@ -136,7 +136,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2294/nobori-nin-huntsman-h) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2294) 
 - **Battle Value:** 2495 
 - [*More Info*](huntsman/huntsman_h.md) 
 
@@ -159,7 +159,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2295/nobori-nin-huntsman-n) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2295) 
 - **Battle Value:** 2556 
 - [*More Info*](huntsman/huntsman_n.md) 
 
@@ -184,7 +184,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #12 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7782/nobori-nin-huntsman-e) 
+- **Sources:** Rec Guide:ilClan #12 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7782) 
 - **Battle Value:** 2104 
 - [*More Info*](huntsman/huntsman_e.md) 
 
@@ -206,7 +206,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7784/nobori-nin-huntsman-i) 
+- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7784) 
 - **Battle Value:** 2277 
 - [*More Info*](huntsman/huntsman_i.md) 
 
@@ -229,7 +229,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6904/nobori-nin-huntsman-f) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6904) 
 - **Battle Value:** 2367 
 - [*More Info*](huntsman/huntsman_f.md) 
 
@@ -254,7 +254,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7783/nobori-nin-huntsman-g) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7783) 
 - **Battle Value:** 2377 
 - [*More Info*](huntsman/huntsman_g.md) 
 
@@ -281,7 +281,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7781/nobori-nin-huntsman-t) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7781) 
 - **Battle Value:** 2105 
 - [*More Info*](huntsman/huntsman_t.md) 
 

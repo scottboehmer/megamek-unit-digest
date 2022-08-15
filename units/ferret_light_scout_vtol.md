@@ -12,7 +12,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1060/ferret-light-scout-vtol-standard) 
+- **Sources:** TRO 3039 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1060) 
 - **Battle Value:** 58 
 - [*More Info*](ferret_light_scout_vtol/ferret_light_scout_vtol_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1058/ferret-light-scout-vtol-armor-wild-weasel) 
+- **Sources:** TRO 3039 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1058) 
 - **Battle Value:** 103 
 - [*More Info*](ferret_light_scout_vtol/ferret_light_scout_vtol_armor_wild_weasel.md) 
 
@@ -40,7 +40,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO 3039 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1059/ferret-light-scout-vtol-cargo) 
+- **Sources:** TRO 3039 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1059) 
 - **Battle Value:** 17 
 - [*More Info*](ferret_light_scout_vtol/ferret_light_scout_vtol_cargo.md) 
 
@@ -55,7 +55,7 @@
 - **Equipment:** 
   - Clan ECM Suite 
   - Infantry (1.0 tons) 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5605/ferret-light-scout-vtol-fermi) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5605) 
 - **Battle Value:** 108 
 - [*More Info*](ferret_light_scout_vtol/ferret_light_scout_vtol_fermi.md) 
 

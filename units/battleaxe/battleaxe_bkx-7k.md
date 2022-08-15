@@ -17,7 +17,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/277/battleaxe-bkx-7k) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/277) 
 - **Battle Value:** 1329 
 
 ## Availability 
@@ -47,6 +47,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
 
 - Filtvelt Coalition 
 - Mercenary 

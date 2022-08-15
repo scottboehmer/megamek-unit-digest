@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2465/penetrator-ptr-4d) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2465) 
 - **Battle Value:** 1687 
 
 ## Availability 
@@ -65,6 +65,13 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
 
 - Capellan Confederation 
 - Federated Suns 

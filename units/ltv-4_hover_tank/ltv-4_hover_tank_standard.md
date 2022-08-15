@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 4 (ammo: 25) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5587/hover-tank-ltv-4) 
+- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5587) 
 - **Battle Value:** 684 
 
 ## Availability 
@@ -181,6 +181,17 @@
 
 - Calderon Protectorate 
 - Escorpión Imperio 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Scorpion Empire 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 

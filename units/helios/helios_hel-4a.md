@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1465/helios-hel-4a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1465) 
 - **Battle Value:** 1519 
 
 ## Availability 
@@ -67,7 +67,12 @@
 
 - Capellan Confederation 
 - Draconis Combine 
-- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
+
+- Capellan Confederation 
 - Mercenary 
 - Taurian Concordat 
 

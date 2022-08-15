@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2253/naginata-ng-c3ar) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2253) 
 - **Battle Value:** 1879 
 
 ## Availability 
@@ -47,4 +47,9 @@
 - Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Mercenary 
 

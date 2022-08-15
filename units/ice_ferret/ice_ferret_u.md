@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1054/fenris-ice-ferret-u) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1054) 
 - **Battle Value:** 1549 
 
 ## Availability 
@@ -88,5 +88,17 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Wolf Empire 
 - Wolf's Dragoons 
 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Stabilized Weapon (Heavy Large Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2229/morrigan-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2229) 
 - **Battle Value:** 1874 
 
 ## Availability 
@@ -42,4 +42,10 @@
 - Clan Nova Cat 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
 

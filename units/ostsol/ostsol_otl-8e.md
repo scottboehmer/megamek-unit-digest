@@ -18,12 +18,18 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172/ostsol-otl-8e) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172) 
 - **Battle Value:** 1552 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

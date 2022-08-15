@@ -20,8 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1689/jenner-jr7-c2) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1689) 
 - **Battle Value:** 769 
 
 ## Availability 

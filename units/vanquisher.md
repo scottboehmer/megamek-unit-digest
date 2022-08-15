@@ -17,7 +17,7 @@
   - C3i 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5338/vanquisher-vqr-2a) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5338) 
 - **Battle Value:** 2234 
 - [*More Info*](vanquisher/vanquisher_vqr-2a.md) 
 
@@ -37,7 +37,7 @@
   - C3i 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5339/vanquisher-vqr-2b) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5339) 
 - **Battle Value:** 2073 
 - [*More Info*](vanquisher/vanquisher_vqr-2b.md) 
 
@@ -59,7 +59,7 @@
   - C3i 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5340/vanquisher-vqr-5v) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5340) 
 - **Battle Value:** 2332 
 - [*More Info*](vanquisher/vanquisher_vqr-5v.md) 
 
@@ -86,7 +86,7 @@
   - C3i 
 - **Design Quirks:** 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5721/vanquisher-vqr-7u) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5721) 
 - **Battle Value:** 2144 
 - [*More Info*](vanquisher/vanquisher_vqr-7u.md) 
 
@@ -109,13 +109,13 @@
   - C3i 
 - **Design Quirks:** 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5722/vanquisher-vqr-7v) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5722) 
 - **Battle Value:** 2420 
 - [*More Info*](vanquisher/vanquisher_vqr-7v.md) 
 
 ## Vanquisher VQR-7V (Pravuil) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 100 tons (Endo Steel) 
 - **Movement:** 3 / 5 
@@ -133,7 +133,7 @@
   - C3i 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TP:Arcturus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7342/vanquisher-vqr-7v-pravuil) 
+- **Sources:** TP:Arcturus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7342) 
 - **Battle Value:** 2073 
 - [*More Info*](vanquisher/vanquisher_vqr-7v_pravuil.md) 
 

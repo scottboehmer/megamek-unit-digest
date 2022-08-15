@@ -14,7 +14,7 @@
   - LRM 10 (ammo: 12) 
   - Narc (ammo: 6) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3102/striker-light-tank-narc) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3102) 
 - **Battle Value:** 621 
 
 ## Availability 
@@ -60,4 +60,12 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

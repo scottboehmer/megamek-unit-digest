@@ -15,7 +15,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/203/badger-tracked-transport-d) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/203) 
 - **Battle Value:** 540 
 
 ## Availability 
@@ -59,4 +59,10 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

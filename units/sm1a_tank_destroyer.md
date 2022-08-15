@@ -15,7 +15,7 @@
   - Light Active Probe 
   - CASE 
   - Machine Gun Array 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2972/sm-tank-destroyer-sm1a) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2972) 
 - **Battle Value:** 1214 
 - [*More Info*](sm1a_tank_destroyer/sm1a_tank_destroyer_sm1a.md) 
 

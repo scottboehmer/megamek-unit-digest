@@ -20,7 +20,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3218/thunder-fox-tft-c3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3218) 
 - **Battle Value:** 1104 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

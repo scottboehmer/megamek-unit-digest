@@ -17,7 +17,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2079/marksman-mbt-m1a) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2079) 
 - **Battle Value:** 1778 
 
 ## Availability 
@@ -33,4 +33,10 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

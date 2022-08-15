@@ -17,8 +17,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3330/turkina-e) 
+  - Easy to Pilot 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3330) 
 - **Battle Value:** 3147 
 
 ## Availability 
@@ -62,4 +62,15 @@
 - Clan Nova Cat 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

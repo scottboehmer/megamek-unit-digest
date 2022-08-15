@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4887/quickdraw-qkd-8p) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4887) 
 - **Battle Value:** 1598 
 
 ## Availability 
@@ -40,4 +40,8 @@
 
 - Capellan Confederation 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
 

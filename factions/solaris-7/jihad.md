@@ -6,17 +6,17 @@
 
 #### [Gladiator Exoskeleton](../../units/gladiator_exoskeleton.md) 
 
-- [**Gladiator Exoskeleton (Standard) [AG]**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_[ag].md) *Undefined (3056)* 
-- [**Gladiator Exoskeleton (Standard) [BC/ID]**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_[bc_id].md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (Standard) (AG)(Sqd4)**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_agsqd4.md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (Standard) (BC/ID)(Sqd4)**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_bc_idsqd4.md) *Undefined (3056)* 
 
 #### [Groundhog Exoskeleton](../../units/groundhog_exoskeleton.md) 
 
-- [**Groundhog Exoskeleton CEX-205 [Armored Glove]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[armored_glove].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Basic Manipulator]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[basic_manipulator].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Cargo Lifter]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[cargo_lifter].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Industrial Drill]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[industrial_drill].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Mine Clearance]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[mine_clearance].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Salvage Arm]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[salvage_arm].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Armored Glove)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_armored_glovesqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Basic Manipulator)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_basic_manipulatorsqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Cargo Lifter)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_cargo_liftersqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Industrial Drill)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_industrial_drillsqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Mine Clearance)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_mine_clearancesqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Salvage Arm)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_salvage_armsqd4.md) *Undefined (3062)* 
 
 ## ’Mechs 
 
@@ -143,7 +143,7 @@
 #### [Hyena](../../units/hyena.md) 
 
 - [**Hyena HYN-4A SalvageMech**](../../units/hyena/hyena_hyn-4a_salvagemech.md) *Scout (3066)* `IndustrialMech` 
-- [**Hyena HYN-4B SalvageMech**](../../units/hyena/hyena_hyn-4b_salvagemech.md) *Undefined (3072)* `IndustrialMech` 
+- [**Hyena HYN-4B SalvageMech**](../../units/hyena/hyena_hyn-4b_salvagemech.md) *Scout (3072)* `IndustrialMech` 
 
 #### [Prowler](../../units/prowler.md) 
 
@@ -179,7 +179,6 @@
 #### [Rifleman IIC](../../units/rifleman_iic.md) 
 
 - [**Rifleman IIC (Standard)**](../../units/rifleman_iic/rifleman_iic_standard.md) *Sniper (2845)* `Active Probe` 
-- [**Rifleman IIC 2**](../../units/rifleman_iic/rifleman_iic_2.md) *Sniper (2997)* 
 
 ### 70 Tons 
 
@@ -221,7 +220,6 @@
 
 #### [Sasquatch](../../units/sasquatch.md) 
 
-- [**Sasquatch SQS-TH-001**](../../units/sasquatch/sasquatch_sqs-th-001.md) *Skirmisher (3054)* 
 - [**Sasquatch SQS-TH-002**](../../units/sasquatch/sasquatch_sqs-th-002.md) *Brawler (3065)* 
 - [**Sasquatch SQS-TH-003**](../../units/sasquatch/sasquatch_sqs-th-003.md) *Skirmisher (3068)* 
 

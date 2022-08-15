@@ -14,7 +14,7 @@
   - Light AC/2 (ammo: 45) 
 - **Equipment:** 
   - TAG 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2275/nightshade-ecm-vtol-lac) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2275) 
 - **Battle Value:** 325 
 
 ## Availability 
@@ -34,4 +34,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Smoke Jaguar) 
 

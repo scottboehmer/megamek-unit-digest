@@ -4,7 +4,7 @@
 
 ## Peacemaker PM-6 PoliceMech 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3067) 
 - **Chassis:** 35 tons (Industrial) 
 - **Movement:** 4 / 6 
@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight 
-- **Sources:** TRO: Vehicle Annex , [Master Unit List](http://masterunitlist.info/Unit/Details/7173/peacemaker-pm-6-policemech) 
+- **Sources:** TRO: Vehicle Annex , [Master Unit List](http://masterunitlist.info/Unit/Details/7173) 
 - **Battle Value:** 426 
 
 ## Availability 
@@ -65,4 +65,11 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
+- Pirate 
 

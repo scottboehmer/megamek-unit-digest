@@ -20,7 +20,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1112/firestarter-fs9-s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1112) 
 - **Battle Value:** 754 
 
 ## Availability 

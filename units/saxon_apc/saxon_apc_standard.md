@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (5 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2811/saxon-apc-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2811) 
 - **Battle Value:** 435 
 
 ## Availability 
@@ -49,5 +49,16 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

@@ -16,8 +16,7 @@
   - Narc (ammo: 18) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1696/jenner-jr7-k-grace) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1696) 
 - **Battle Value:** 702 
 
 ## Availability 

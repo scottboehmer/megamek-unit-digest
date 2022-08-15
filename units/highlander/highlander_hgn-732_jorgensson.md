@@ -22,7 +22,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** OTP Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7309/highlander-hgn-732-jorgensson) 
+- **Sources:** OTP Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7309) 
 - **Battle Value:** 2481 
 
 ## Availability 

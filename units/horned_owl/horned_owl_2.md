@@ -15,7 +15,7 @@
   - LRM 5 × 6 (ammo: 96) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2473/peregrine-horned-owl-2) 
+- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2473) 
 - **Battle Value:** 1191 
 
 ## Availability 
@@ -95,5 +95,9 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+
+### ilClan 
+
 - Rasalhague Dominion 
 

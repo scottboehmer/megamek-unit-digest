@@ -15,7 +15,7 @@
   - LRM 5 × 2 (ammo: 48) 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3277/toro-tr-a-6) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3277) 
 - **Battle Value:** 864 
 
 ## Availability 
@@ -30,6 +30,11 @@
 - Fronc Reaches 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Fronc Reaches 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Fronc Reaches 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Flotation Hull 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2540/plainsman-medium-hovertank-sealed) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2540) 
 - **Battle Value:** 600 
 
 ## Availability 
@@ -121,5 +121,27 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 - Wolf's Dragoons 
 

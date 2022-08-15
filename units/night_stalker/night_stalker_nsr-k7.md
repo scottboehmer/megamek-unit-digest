@@ -19,12 +19,16 @@
   - Chain Whip 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6720/night-stalker-nsr-k7) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6720) 
 - **Battle Value:** 857 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Solaris 7 
+
+### ilClan 
 
 - Solaris 7 
 

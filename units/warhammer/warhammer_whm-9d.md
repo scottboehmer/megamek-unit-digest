@@ -20,7 +20,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3497/warhammer-whm-9d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3497) 
 - **Battle Value:** 2152 
 
 ## Availability 
@@ -51,4 +51,9 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
 

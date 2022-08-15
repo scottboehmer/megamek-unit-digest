@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1965/lupus-prime) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1965) 
 - **Battle Value:** 2428 
 
 ## Availability 
@@ -83,5 +83,16 @@
 - Free Worlds League 
 - Magistracy of Canopus 
 - Mercenary 
+- Taurian Concordat 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
+- Star League (Wolf) 
 - Taurian Concordat 
 

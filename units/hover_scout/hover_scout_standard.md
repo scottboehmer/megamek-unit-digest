@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4332/hover-scout-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4332) 
 - **Battle Value:** 189 
 
 ## Availability 
@@ -169,6 +169,17 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

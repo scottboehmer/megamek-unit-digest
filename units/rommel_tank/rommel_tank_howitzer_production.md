@@ -14,7 +14,7 @@
   - Long Tom Cannon (ammo: 15) 
   - Thunderbolt 5 (ammo: 12) 
   - ER Medium Laser × 2 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4934/rommel-tank-howitzer) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4934) 
 - **Battle Value:** 1353 
 
 ## Availability 
@@ -33,4 +33,11 @@
 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6552/tiburon-standard) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6552) 
 - **Battle Value:** 1841 
 - [*More Info*](tiburon/tiburon_standard.md) 
 

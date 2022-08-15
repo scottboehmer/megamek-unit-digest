@@ -15,25 +15,42 @@
 - **Equipment:** 
   - Quad Turret 
   - Ejection Seat 
-- **Sources:** ISP3 , [Master Unit List](http://masterunitlist.info/Unit/Details/5798/arana-ara-s-1-militiamech) 
+- **Sources:** ISP3 , [Master Unit List](http://masterunitlist.info/Unit/Details/3707) 
 - **Battle Value:** 1092 
 
 ## Availability 
 
+### Late Succession Wars - Renaissance 
+
+- Capellan Confederation 
+
+### Clan Invasion 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
+### Civil War 
+
+- Capellan Confederation 
+- St. Ives Compact 
+
 ### Jihad 
 
-- Escorpión Imperio 
+- Capellan Confederation 
 
 ### Early Republic 
 
-- Escorpión Imperio 
+- Capellan Confederation 
 
 ### Late Republic 
 
-- Escorpión Imperio 
+- Capellan Confederation 
 
 ### Dark Ages 
 
-- Escorpión Imperio 
-- Scorpion Empire 
+- Capellan Confederation 
+
+### ilClan 
+
+- Capellan Confederation 
 

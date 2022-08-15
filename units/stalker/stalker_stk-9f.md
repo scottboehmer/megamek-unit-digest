@@ -23,7 +23,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8444/stalker-stk-9f) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8444) 
 - **Battle Value:** 2469 
 
 ## Availability 
@@ -35,4 +35,14 @@
 - Duchy of Andurien 
 - Free Worlds League 
 - Magistracy of Canopus 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Wolf's Dragoons 
 

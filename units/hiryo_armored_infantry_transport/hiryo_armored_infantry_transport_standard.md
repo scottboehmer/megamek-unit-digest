@@ -14,7 +14,7 @@
   - Snub-Nose PPC 
 - **Equipment:** 
   - Infantry (8 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1528/hiryo-armored-infantry-transport-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1528) 
 - **Battle Value:** 687 
 
 ## Availability 
@@ -32,6 +32,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

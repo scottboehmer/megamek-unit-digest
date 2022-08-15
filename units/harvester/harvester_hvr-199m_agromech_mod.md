@@ -15,7 +15,7 @@
   - Combine 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7861/harvester-hvr-199m-agromech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7861) 
 - **Battle Value:** 406 
 
 ## Availability 
@@ -26,4 +26,10 @@
 - Mercenary 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
+- Pirate 
 

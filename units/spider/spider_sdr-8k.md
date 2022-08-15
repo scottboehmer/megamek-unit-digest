@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3016/spider-sdr-8k) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3016) 
 - **Battle Value:** 1007 
 
 ## Availability 
@@ -40,4 +40,9 @@
 - Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Mercenary 
 

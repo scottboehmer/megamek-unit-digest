@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7644/woodsman-c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7644) 
 - **Battle Value:** 2230 
 
 ## Availability 
@@ -28,4 +28,10 @@
 
 - Clan Wolf 
 - Raven Alliance 
+
+### ilClan 
+
+- Raven Alliance 
+- Star League (Wolf) 
+- Wolf Empire 
 

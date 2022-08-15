@@ -16,7 +16,7 @@
   - Streak SRM 4 × 3 (ammo: 75) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4293/heimdall-ground-monitor-tank-prime) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4293) 
 - **Battle Value:** 1943 
 
 ## Availability 
@@ -57,6 +57,14 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
+- Lyran Commonwealth 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Raven Alliance 
 

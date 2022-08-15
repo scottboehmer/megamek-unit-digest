@@ -21,12 +21,16 @@
   - Easy to Pilot 
   - Battlefists 
   - EM Interference (Heavy PPC) 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7715/inferno-inf-no) 
+- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7715) 
 - **Battle Value:** 1597 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

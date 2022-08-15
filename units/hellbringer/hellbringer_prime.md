@@ -24,7 +24,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1929/loki-hellbringer-prime) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1929) 
 - **Battle Value:** 2654 
 
 ## Availability 
@@ -193,4 +193,19 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Tamar Pact 
+- Vesper Marches 
 

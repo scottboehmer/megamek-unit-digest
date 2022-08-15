@@ -4,7 +4,7 @@
 
 ## Arctic Wolf A 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Clan (3067) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/101/arctic-wolf-a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/101) 
 - **Battle Value:** 1587 
 
 ## Availability 
@@ -52,4 +52,8 @@
 - Kell Hounds 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Star League (Wolf) 
 

@@ -4,7 +4,7 @@
 
 ## Vulcan VT-5ML 'Aladdin' 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3080) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 6 / 9 
@@ -18,12 +18,16 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8370/vulcan-vl-5ml-aladdin) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8370) 
 - **Battle Value:** 947 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7686/devastator-dvs-2-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7686) 
 - **Battle Value:** 2844 
 - [*More Info*](devastator/devastator_dvs-2-ec.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/893/devastator-dvs-1d) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/893) 
 - **Battle Value:** 1858 
 - [*More Info*](devastator/devastator_dvs-1d.md) 
 
@@ -55,7 +55,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/894/devastator-dvs-2) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/894) 
 - **Battle Value:** 2481 
 - [*More Info*](devastator/devastator_dvs-2.md) 
 
@@ -75,7 +75,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/895/devastator-dvs-3) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/895) 
 - **Battle Value:** 2452 
 - [*More Info*](devastator/devastator_dvs-3.md) 
 
@@ -98,7 +98,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/896/devastator-dvs-x10-muse-earth) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/896) 
 - **Battle Value:** 3250 
 - [*More Info*](devastator/devastator_dvs-x10_muse_earth.md) 
 

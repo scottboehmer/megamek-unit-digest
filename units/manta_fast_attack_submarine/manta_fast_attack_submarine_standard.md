@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - SRT 6 (ammo: 15) 
-- **Sources:** TRO3085S - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4581/manta-fast-attack-submarine-standard) 
+- **Sources:** TRO3085S - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4581) 
 - **Battle Value:** 810 
 
 ## Availability 
@@ -69,4 +69,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Wolf) 
 

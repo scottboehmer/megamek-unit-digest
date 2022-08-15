@@ -15,7 +15,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7880/snow-fox-omni-b) 
+- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7880) 
 - **Battle Value:** 1249 
 
 ## Availability 
@@ -27,5 +27,10 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Sea Fox 
 - Scorpion Empire 
 

@@ -18,7 +18,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Vestigial Hands 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/997/excalibur-exc-b1) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/997) 
 - **Battle Value:** 1549 
 
 ## Availability 

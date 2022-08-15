@@ -25,7 +25,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Heavy PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3582/wolverine-wvr-9m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3582) 
 - **Battle Value:** 1617 
 
 ## Availability 
@@ -76,4 +76,14 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -21,7 +21,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2712/rifleman-iic-3) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2712) 
 - **Battle Value:** 1733 
 
 ## Availability 
@@ -61,4 +61,10 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Federated Suns 
+- Mercenary 
 

@@ -16,7 +16,7 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS VA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4078/dig-king-rcl-1-miningmech) 
+- **Sources:** RS VA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4078) 
 - **Battle Value:** 409 
 
 ## Availability 
@@ -172,5 +172,11 @@
 - Escorpión Imperio 
 - Federated Suns 
 - Republic of the Sphere 
+- Scorpion Empire 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 - Scorpion Empire 
 

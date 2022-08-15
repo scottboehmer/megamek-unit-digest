@@ -16,7 +16,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2563/pouncer-prime) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2563) 
 - **Battle Value:** 2557 
 - [*More Info*](pouncer/pouncer_prime.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2557/pouncer-a) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2557) 
 - **Battle Value:** 2081 
 - [*More Info*](pouncer/pouncer_a.md) 
 
@@ -58,7 +58,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2558/pouncer-b) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2558) 
 - **Battle Value:** 1836 
 - [*More Info*](pouncer/pouncer_b.md) 
 
@@ -79,7 +79,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2559/pouncer-c) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2559) 
 - **Battle Value:** 1653 
 - [*More Info*](pouncer/pouncer_c.md) 
 
@@ -101,7 +101,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2560/pouncer-d) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2560) 
 - **Battle Value:** 2246 
 - [*More Info*](pouncer/pouncer_d.md) 
 
@@ -122,7 +122,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2561/pouncer-e) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2561) 
 - **Battle Value:** 1632 
 - [*More Info*](pouncer/pouncer_e.md) 
 
@@ -144,7 +144,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2562/pouncer-h) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2562) 
 - **Battle Value:** 1784 
 - [*More Info*](pouncer/pouncer_h.md) 
 
@@ -168,7 +168,7 @@
   - Remote Sensor Dispenser 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4850/pouncer-f) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4850) 
 - **Battle Value:** 1308 
 - [*More Info*](pouncer/pouncer_f.md) 
 

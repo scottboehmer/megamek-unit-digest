@@ -14,7 +14,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - TAG 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4641/minion-advanced-tactical-vehicle-tag) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4641) 
 - **Battle Value:** 456 
 
 ## Availability 
@@ -42,4 +42,8 @@
 
 - Capellan Confederation 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
 

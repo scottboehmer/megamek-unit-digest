@@ -14,7 +14,7 @@
   - Light AC/5 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1433/heavy-hover-apc-scout-tank) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1433) 
 - **Battle Value:** 330 
 
 ## Availability 
@@ -35,6 +35,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

@@ -14,9 +14,8 @@
   - ER PPC 
   - Large Pulse Laser 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/94/arctic-fox-af1c) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/94) 
 - **Battle Value:** 948 
 
 ## Availability 
@@ -73,4 +72,10 @@
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
 

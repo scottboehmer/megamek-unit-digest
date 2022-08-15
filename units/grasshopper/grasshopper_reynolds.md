@@ -16,7 +16,7 @@
   - Clan ER Medium Laser × 4 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5861/grasshopper-reynolds) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5861) 
 - **Battle Value:** 2344 
 
 ## Availability 

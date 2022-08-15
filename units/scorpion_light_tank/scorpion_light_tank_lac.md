@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light AC/2 × 2 (ammo: 45) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2841/scorpion-light-tank-lac) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2841) 
 - **Battle Value:** 289 
 
 ## Availability 
@@ -98,5 +98,24 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 - Wolf's Dragoons 
 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Armored Motive System 
   - CASE 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/3783/bandit-hovercraft-mk-ii-standard) 
+- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/3783) 
 - **Battle Value:** 670 
 
 ## Availability 
@@ -32,6 +32,11 @@
 - Wolf's Dragoons 
 
 ### Dark Ages 
+
+- Kell Hounds 
+- Wolf's Dragoons 
+
+### ilClan 
 
 - Kell Hounds 
 - Wolf's Dragoons 

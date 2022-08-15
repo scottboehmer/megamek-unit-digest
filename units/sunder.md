@@ -15,7 +15,7 @@
   - SRM 4 × 3 (ammo: 50) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3123/sunder-sd1-o) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3123) 
 - **Battle Value:** 1747 
 - [*More Info*](sunder/sunder_sd1-o.md) 
 
@@ -34,7 +34,7 @@
   - LRM 5 × 3 (ammo: 48) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3125/sunder-sd1-oa) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3125) 
 - **Battle Value:** 2003 
 - [*More Info*](sunder/sunder_sd1-oa.md) 
 
@@ -55,7 +55,7 @@
   - C3 Main × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3126/sunder-sd1-ob) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3126) 
 - **Battle Value:** 1597 
 - [*More Info*](sunder/sunder_sd1-ob.md) 
 
@@ -76,7 +76,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3127/sunder-sd1-oc) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3127) 
 - **Battle Value:** 1735 
 - [*More Info*](sunder/sunder_sd1-oc.md) 
 
@@ -95,7 +95,7 @@
   - Clan ER Medium Laser × 4 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3130/sunder-sd1-or) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3130) 
 - **Battle Value:** 2462 
 - [*More Info*](sunder/sunder_sd1-or.md) 
 
@@ -113,7 +113,7 @@
   - PPC × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3128/sunder-sd1-od) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3128) 
 - **Battle Value:** 1947 
 - [*More Info*](sunder/sunder_sd1-od.md) 
 
@@ -134,7 +134,7 @@
   - A-Pod × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3124/sunder-sd1-o-samual) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3124) 
 - **Battle Value:** 1593 
 - [*More Info*](sunder/sunder_sd1-o_samual.md) 
 
@@ -153,7 +153,7 @@
   - ER Medium Laser 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3129/sunder-sd1-oe) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3129) 
 - **Battle Value:** 1876 
 - [*More Info*](sunder/sunder_sd1-oe.md) 
 
@@ -174,7 +174,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3131/sunder-sd1-ox) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3131) 
 - **Battle Value:** 1761 
 - [*More Info*](sunder/sunder_sd1-ox.md) 
 
@@ -195,7 +195,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6846/sunder-sd1-of) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6846) 
 - **Battle Value:** 1854 
 - [*More Info*](sunder/sunder_sd1-of.md) 
 
@@ -217,7 +217,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6845/sunder-sd1-og) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6845) 
 - **Battle Value:** 2594 
 - [*More Info*](sunder/sunder_sd1-og.md) 
 

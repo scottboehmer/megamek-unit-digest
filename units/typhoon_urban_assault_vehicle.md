@@ -16,7 +16,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3337/typhoon-urban-assault-vehicle-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3337) 
 - **Battle Value:** 1104 
 - [*More Info*](typhoon_urban_assault_vehicle/typhoon_urban_assault_vehicle_standard.md) 
 
@@ -36,7 +36,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3338/typhoon-urban-assault-vehicle-tracked) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3338) 
 - **Battle Value:** 1166 
 - [*More Info*](typhoon_urban_assault_vehicle/typhoon_urban_assault_vehicle_tracked.md) 
 
@@ -54,7 +54,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3336/typhoon-urban-assault-vehicle-rac) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3336) 
 - **Battle Value:** 1434 
 - [*More Info*](typhoon_urban_assault_vehicle/typhoon_urban_assault_vehicle_rac.md) 
 
@@ -72,7 +72,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3335/typhoon-urban-assault-vehicle-lb-x) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3335) 
 - **Battle Value:** 1064 
 - [*More Info*](typhoon_urban_assault_vehicle/typhoon_urban_assault_vehicle_lb-x.md) 
 

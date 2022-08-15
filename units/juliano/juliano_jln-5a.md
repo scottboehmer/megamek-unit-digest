@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Combat Computer 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6516/juliano-jln-5a) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6516) 
 - **Battle Value:** 2105 
 
 ## Availability 
@@ -33,4 +33,10 @@
 - Clan Wolf 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+
+### ilClan 
+
+- Clan Protectorate 
+- Free Worlds League 
+- Wolf Empire 
 

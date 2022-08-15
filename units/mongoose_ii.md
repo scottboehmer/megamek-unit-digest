@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Communications 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2216/mongoose-ii-mon-266) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2216) 
 - **Battle Value:** 1085 
 - [*More Info*](mongoose_ii/mongoose_ii_mon-266.md) 
 
@@ -41,7 +41,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Communications 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2217/mongoose-ii-mon-267) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2217) 
 - **Battle Value:** 1237 
 - [*More Info*](mongoose_ii/mongoose_ii_mon-267.md) 
 
@@ -63,7 +63,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Communications 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2218/mongoose-ii-mon-268) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2218) 
 - **Battle Value:** 1215 
 - [*More Info*](mongoose_ii/mongoose_ii_mon-268.md) 
 

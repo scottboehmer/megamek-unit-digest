@@ -19,7 +19,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2340/orion-iic-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2340) 
 - **Battle Value:** 2392 
 - [*More Info*](orion_iic/orion_iic_standard.md) 
 
@@ -45,7 +45,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** OTP Capellan - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7403/orion-iic-burton) 
+- **Sources:** OTP Capellan - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7403) 
 - **Battle Value:** 2746 
 - [*More Info*](orion_iic/orion_iic_burton.md) 
 

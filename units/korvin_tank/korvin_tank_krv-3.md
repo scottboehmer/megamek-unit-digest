@@ -14,7 +14,7 @@
   - Large Laser 
   - LRM 10 (ammo: 12) 
   - Machine Gun × 5 (ammo: 200) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1817/korvin-tank-krv-3) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1817) 
 - **Battle Value:** 792 
 
 ## Availability 
@@ -39,5 +39,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

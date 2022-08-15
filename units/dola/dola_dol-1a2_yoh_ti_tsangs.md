@@ -18,7 +18,7 @@
   - TAG 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Small Vibroblade) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4087/dola-dol-1a2-yoh-ti-tsang) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4087) 
 - **Battle Value:** 791 
 
 ## Availability 
@@ -32,6 +32,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

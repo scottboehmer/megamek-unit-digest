@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Fast Reload (MML 5) 
   - Fast Reload (MML 5) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3301/trebuchet-tbt-8b) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3301) 
 - **Battle Value:** 1314 
 
 ## Availability 
@@ -47,4 +47,9 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

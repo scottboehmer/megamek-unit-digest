@@ -23,7 +23,7 @@
   - Narrow/Low Profile 
   - Non-Standard Parts 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** XTR Republic III - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7375/parash-3) 
+- **Sources:** XTR Republic III - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7375) 
 - **Battle Value:** 1785 
 
 ## Availability 
@@ -37,6 +37,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

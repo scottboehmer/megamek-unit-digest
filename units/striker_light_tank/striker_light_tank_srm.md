@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - SRM 2 × 4 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3104/striker-light-tank-srm) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3104) 
 - **Battle Value:** 583 
 
 ## Availability 
@@ -81,6 +81,7 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Kell Hounds 
@@ -105,6 +106,13 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Filtvelt Coalition 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Draconis Combine 
 - Filtvelt Coalition 

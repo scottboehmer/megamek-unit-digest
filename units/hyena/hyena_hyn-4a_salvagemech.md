@@ -17,7 +17,7 @@
   - Enviro-Sealing 
   - Salvage Arm 
   - Lift Hoist × 2 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1598/hyena-hyn-4a-salvagemech) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1598) 
 - **Battle Value:** 472 
 
 ## Availability 
@@ -45,6 +45,11 @@
 - Wolf's Dragoons 
 
 ### Dark Ages 
+
+- Kell Hounds 
+- Wolf's Dragoons 
+
+### ilClan 
 
 - Kell Hounds 
 - Wolf's Dragoons 

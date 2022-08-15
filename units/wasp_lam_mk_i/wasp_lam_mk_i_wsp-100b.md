@@ -18,7 +18,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5394/wasp-lam-mk-i-wsp-100b) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5394) 
 - **Battle Value:** 876 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/20 (ammo: 5) 
-- **Sources:** TRO 3145 Capellan Confederation - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/6442/predator-tank-destroyer-original) 
+- **Sources:** TRO 3145 Capellan Confederation - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/6442) 
 - **Battle Value:** 480 
 
 ## Availability 

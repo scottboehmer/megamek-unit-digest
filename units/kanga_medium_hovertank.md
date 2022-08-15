@@ -14,7 +14,7 @@
   - AC/5 (ammo: 20) 
   - SRM 4 (ammo: 25) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1745/kanga-medium-hovertank-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1745) 
 - **Battle Value:** 752 
 - [*More Info*](kanga_medium_hovertank/kanga_medium_hovertank_standard.md) 
 
@@ -33,7 +33,7 @@
   - LRM 10 (ammo: 12) 
   - Clan Streak SRM 4 (ammo: 0) 
   - Machine Gun (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1744/kanga-medium-hovertank-ac) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1744) 
 - **Battle Value:** 1414 
 - [*More Info*](kanga_medium_hovertank/kanga_medium_hovertank_ac.md) 
 

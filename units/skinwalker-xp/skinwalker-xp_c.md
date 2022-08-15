@@ -4,7 +4,7 @@
 
 ## Skinwalker-XP "Ryoken III-XP" C 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -20,7 +20,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7381/ryoken-iii-xp-skinwalker-c) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7381) 
 - **Battle Value:** 4519 
 
 ## Availability 

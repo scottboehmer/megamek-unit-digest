@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Prototype 
   - Exposed Actuators 
-- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5553/celerity-clr-02-x-d) 
+- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5553) 
 - **Battle Value:** 157 
 - [*More Info*](celerity/celerity_clr-02-x-d.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6671/celerity-clr-03-o) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6671) 
 - **Battle Value:** 187 
 - [*More Info*](celerity/celerity_clr-03-o.md) 
 
@@ -61,7 +61,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6704/celerity-clr-03-oa) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6704) 
 - **Battle Value:** 275 
 - [*More Info*](celerity/celerity_clr-03-oa.md) 
 
@@ -82,7 +82,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6705/celerity-clr-03-ob) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6705) 
 - **Battle Value:** 339 
 - [*More Info*](celerity/celerity_clr-03-ob.md) 
 
@@ -104,7 +104,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6706/celerity-clr-03-oc) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6706) 
 - **Battle Value:** 202 
 - [*More Info*](celerity/celerity_clr-03-oc.md) 
 
@@ -126,7 +126,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6707/celerity-clr-03-od) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6707) 
 - **Battle Value:** 304 
 - [*More Info*](celerity/celerity_clr-03-od.md) 
 
@@ -149,13 +149,13 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6708/celerity-clr-03-oe) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6708) 
 - **Battle Value:** 921 
 - [*More Info*](celerity/celerity_clr-03-oe.md) 
 
 ## Celerity CLR-03OMM 'Rajah' 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere Mixed (3138) 
 - **Chassis:** 15 tons Quad (Endo Steel) 
 - **Movement:** 8 / 12 
@@ -168,7 +168,7 @@
 - **Equipment:** 
   - Spikes × 2 
   - Drone Operating System 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8366/celerity-clr-03-omm-rajah) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8366) 
 - **Battle Value:** 272 
 - [*More Info*](celerity/celerity_clr-03omm_rajah.md) 
 
@@ -188,7 +188,7 @@
   - Drone Operating System 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6709/celerity-clr-04-r) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6709) 
 - **Battle Value:** 384 
 - [*More Info*](celerity/celerity_clr-04-r.md) 
 
@@ -209,7 +209,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6710/celerity-clr-05-x) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6710) 
 - **Battle Value:** 225 
 - [*More Info*](celerity/celerity_clr-05-x.md) 
 

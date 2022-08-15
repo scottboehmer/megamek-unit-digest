@@ -15,7 +15,7 @@
   - Light Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/238/bandit-hovercraft-i) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/238) 
 - **Battle Value:** 914 
 
 ## Availability 

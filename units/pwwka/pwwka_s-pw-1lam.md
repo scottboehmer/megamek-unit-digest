@@ -20,7 +20,7 @@
   - Bomb Bay 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** J:FR , [Master Unit List](http://masterunitlist.info/Unit/Details/4882/pwwka-s-pw-1lam) 
+- **Sources:** J:FR , [Master Unit List](http://masterunitlist.info/Unit/Details/4882) 
 - **Battle Value:** 1668 
 
 ## Availability 

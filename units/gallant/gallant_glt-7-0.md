@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Large Pulse Laser) 
   - Stabilized Weapon (Large Pulse Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1173/gallant-glt-7-0) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1173) 
 - **Battle Value:** 1436 
 
 ## Availability 
@@ -94,4 +94,21 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Protectorate 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Star League (Wolf) 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

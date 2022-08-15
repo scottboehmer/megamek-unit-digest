@@ -21,8 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - Good Reputation 
-  - No Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1989/maelstrom-mtr-6e) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1989) 
 - **Battle Value:** 1806 
 
 ## Availability 
@@ -44,6 +43,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

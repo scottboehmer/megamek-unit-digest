@@ -22,7 +22,7 @@
   - Static Ammo Feed (LB 20-X AC) 
   - Exposed Weapon Linkage (LB 20-X AC) 
   - Static Ammo Feed (LB 20-X AC) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6843/cygnus-4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6843) 
 - **Battle Value:** 2570 
 
 ## Availability 
@@ -41,4 +41,9 @@
 
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
 

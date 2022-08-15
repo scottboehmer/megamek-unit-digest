@@ -19,7 +19,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1763/katana-crockett-crk-5003-cm) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1763) 
 - **Battle Value:** 1554 
 
 ## Availability 
@@ -45,6 +45,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

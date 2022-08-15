@@ -4,7 +4,7 @@
 
 ## Marauder (Bounty Hunter-3138) 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere Mixed (3138) 
 - **Chassis:** 75 tons 
 - **Movement:** 4 / 6, XL 
@@ -17,12 +17,16 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7535/marauder-bounty-hunter-3138) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7535) 
 - **Battle Value:** 2708 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Mercenary 
+
+### ilClan (Unique) 
 
 - Mercenary 
 

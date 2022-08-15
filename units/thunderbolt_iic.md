@@ -24,7 +24,7 @@
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (Improved Heavy Large Laser) 
   - Modular Weapon (Improved Heavy Large Laser) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239/thunderbolt-iic-standard) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239) 
 - **Battle Value:** 2475 
 - [*More Info*](thunderbolt_iic/thunderbolt_iic_standard.md) 
 
@@ -49,7 +49,7 @@
   - Protected Actuators 
   - Rumble Seat 
   - Difficult to Maintain 
-- **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240/thunderbolt-iic-2) 
+- **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240) 
 - **Battle Value:** 2177 
 - [*More Info*](thunderbolt_iic/thunderbolt_iic_2.md) 
 

@@ -19,8 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8248/jenner-iic-5) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8248) 
 - **Battle Value:** 1440 
 
 ## Availability 
@@ -32,4 +31,12 @@
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 - Mercenary 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
+- Mercenary 
+- Raven Alliance 
 

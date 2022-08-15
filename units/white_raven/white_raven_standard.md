@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7794/white-raven-standard) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7794) 
 - **Battle Value:** 2941 
 
 ## Availability 
@@ -32,6 +32,12 @@
 
 ### Dark Ages 
 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Sea Fox 
 - Rasalhague Dominion 
 - Raven Alliance 
 

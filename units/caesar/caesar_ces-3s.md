@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/456/caesar-ces-3s) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/456) 
 - **Battle Value:** 1901 
 
 ## Availability 
@@ -46,4 +46,11 @@
 - Capellan Confederation 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

@@ -21,7 +21,7 @@
   - Hyper-Extending Actuators 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5681/lightray-lgh-7w) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5681) 
 - **Battle Value:** 1352 
 
 ## Availability 

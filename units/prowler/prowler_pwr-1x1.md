@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Poor Life Support 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2582/prowler-pwr-1x1) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2582) 
 - **Battle Value:** 1922 
 
 ## Availability 

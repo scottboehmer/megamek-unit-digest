@@ -14,7 +14,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/109/ares-medium-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/109) 
 - **Battle Value:** 1151 
 - [*More Info*](ares_medium_tank/ares_medium_tank_standard.md) 
 
@@ -31,7 +31,7 @@
   - Plasma Cannon (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/108/ares-medium-tank-plasma) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/108) 
 - **Battle Value:** 1201 
 - [*More Info*](ares_medium_tank/ares_medium_tank_plasma.md) 
 

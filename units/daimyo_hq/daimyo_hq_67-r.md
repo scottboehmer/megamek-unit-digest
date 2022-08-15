@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Infantry (3 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/809/daimyo-hq-67-r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/809) 
 - **Battle Value:** 749 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages (Unique) 
+
+- Rasalhague Dominion 
+
+### ilClan (Unique) 
 
 - Rasalhague Dominion 
 

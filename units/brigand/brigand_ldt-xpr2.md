@@ -19,7 +19,7 @@
   - Nimble Jumper 
   - Easy to Pilot 
   - Easy to Maintain 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7314/brigand-ldt-xpr2) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7314) 
 - **Battle Value:** 956 
 
 ## Availability 

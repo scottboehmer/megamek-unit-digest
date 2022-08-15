@@ -13,7 +13,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7672/kokou-defense-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7672) 
 - **Battle Value:** 1189 
 - [*More Info*](kokou_defense_tank/kokou_defense_tank_standard.md) 
 
@@ -30,7 +30,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7673/kokou-defense-tank-xl) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7673) 
 - **Battle Value:** 1474 
 - [*More Info*](kokou_defense_tank/kokou_defense_tank_xl.md) 
 

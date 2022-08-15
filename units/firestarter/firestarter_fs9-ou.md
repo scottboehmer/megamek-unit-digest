@@ -19,7 +19,7 @@
   - Liquid Cargo 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1109/firestarter-fs9-ou) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1109) 
 - **Battle Value:** 1120 
 
 ## Availability 
@@ -56,4 +56,12 @@
 - Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

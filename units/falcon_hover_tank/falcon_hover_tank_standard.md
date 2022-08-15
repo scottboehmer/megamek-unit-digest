@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 15) 
   - Medium Laser 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4154/falcon-hover-tank-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4154) 
 - **Battle Value:** 676 
 
 ## Availability 

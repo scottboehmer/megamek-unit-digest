@@ -18,7 +18,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Sword) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4086/dola-dol-1a1) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4086) 
 - **Battle Value:** 950 
 
 ## Availability 
@@ -34,6 +34,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

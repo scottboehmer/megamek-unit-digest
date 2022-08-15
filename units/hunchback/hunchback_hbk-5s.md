@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1564/hunchback-hbk-5s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1564) 
 - **Battle Value:** 1350 
 
 ## Availability 
@@ -66,6 +66,12 @@
 - Republic of the Sphere 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+
+### ilClan 
 
 - Lyran Commonwealth 
 - Marian Hegemony 

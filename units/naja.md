@@ -16,13 +16,13 @@
   - Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7622/naja-kto-19b-ec) 
+- **Sources:** Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7622) 
 - **Battle Value:** 1588 
 - [*More Info*](naja/naja_kto-19b-ec.md) 
 
 ## Naja (Standard) 
 
-- **Role:** Skirmisher 
+- **Role:** Brawler 
 - **Tech Base:** Clan (2826) 
 - **Chassis:** 55 tons 
 - **Movement:** 5 / 8, XL 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7621/naja-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7621) 
 - **Battle Value:** 1910 
 - [*More Info*](naja/naja_standard.md) 
 

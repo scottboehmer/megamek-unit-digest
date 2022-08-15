@@ -21,7 +21,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2054/marauder-ii-c) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2054) 
 - **Battle Value:** 2916 
 
 ## Availability 
@@ -43,6 +43,10 @@
 - Wolf's Dragoons 
 
 ### Dark Ages 
+
+- Wolf's Dragoons 
+
+### ilClan 
 
 - Wolf's Dragoons 
 

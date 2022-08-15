@@ -16,7 +16,7 @@
   - Hatchet 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2283/nightsky-ngs-6s) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2283) 
 - **Battle Value:** 1474 
 
 ## Availability 
@@ -46,4 +46,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

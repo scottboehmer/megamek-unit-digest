@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/182/axel-heavy-tank-iic-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/182) 
 - **Battle Value:** 1612 
 
 ## Availability 
@@ -51,4 +51,11 @@
 - Federated Suns 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Federated Suns 
+- Rasalhague Dominion 
 

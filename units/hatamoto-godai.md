@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
   - Poor Workmanship 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6419/hatamoto-godai-htm-30z) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6419) 
 - **Battle Value:** 1893 
 - [*More Info*](hatamoto-godai/hatamoto-godai_htm-30z.md) 
 

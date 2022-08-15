@@ -16,7 +16,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6265/gravedigger-gdr-1c) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6265) 
 - **Battle Value:** 1342 
 - [*More Info*](gravedigger/gravedigger_gdr-1c.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Exposed Weapon Linkage (ER PPC) 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6264/gravedigger-gdr-1d) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6264) 
 - **Battle Value:** 1707 
 - [*More Info*](gravedigger/gravedigger_gdr-1d.md) 
 

@@ -21,7 +21,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1194/ghost-gst-11) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1194) 
 - **Battle Value:** 1244 
 
 ## Availability 
@@ -35,9 +35,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
-- Fronc Reaches 
 - Lyran Commonwealth 
-- Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -57,9 +55,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
-- Fronc Reaches 
 - Lyran Commonwealth 
-- Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -80,9 +76,7 @@
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
-- Fronc Reaches 
 - Lyran Commonwealth 
-- Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -92,4 +86,20 @@
 - Rim Commonality 
 - Taurian Concordat 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

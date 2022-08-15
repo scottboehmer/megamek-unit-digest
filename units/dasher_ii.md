@@ -12,7 +12,7 @@
   - ER Micro Laser × 6 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/848/dasher-ii-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/848) 
 - **Battle Value:** 522 
 - [*More Info*](dasher_ii/dasher_ii_standard.md) 
 
@@ -30,7 +30,7 @@
   - MASC 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/847/dasher-ii-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/847) 
 - **Battle Value:** 2239 
 - [*More Info*](dasher_ii/dasher_ii_2.md) 
 
@@ -47,7 +47,7 @@
   - Inner Sphere Claw × 2 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6920/dasher-ii-3) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6920) 
 - **Battle Value:** 1496 
 - [*More Info*](dasher_ii/dasher_ii_3.md) 
 
@@ -71,7 +71,7 @@
   - Chain Whip 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6919/dasher-ii-4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6919) 
 - **Battle Value:** 1749 
 - [*More Info*](dasher_ii/dasher_ii_4.md) 
 

@@ -21,7 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8327/hellion-p) 
+- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8327) 
 - **Battle Value:** 1685 
 
 ## Availability 
@@ -41,5 +41,12 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Mercenary 
 - Scorpion Empire 
 

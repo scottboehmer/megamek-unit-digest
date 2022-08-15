@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/20 × 2 (ammo: 20) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/863/demolisher-heavy-tank-standard-mk-i) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/863) 
 - **Battle Value:** 981 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._i.md) 
 
@@ -25,7 +25,7 @@
 - **Weapons:** 
   - AC/20 × 2 (ammo: 20) 
   - Machine Gun × 4 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/860/demolisher-heavy-tank-defensive) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/860) 
 - **Battle Value:** 891 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_defensive.md) 
 
@@ -39,7 +39,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/20 × 2 (ammo: 20) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/864/demolisher-heavy-tank-standard-mk-ii) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/864) 
 - **Battle Value:** 981 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) 
 
@@ -54,7 +54,7 @@
 - **Weapons:** 
   - Gauss Rifle × 2 (ammo: 32) 
   - Medium Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/861/demolisher-heavy-tank-gauss) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/861) 
 - **Battle Value:** 1529 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_gauss.md) 
 
@@ -72,7 +72,7 @@
   - Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/859/demolisher-heavy-tank-clan) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/859) 
 - **Battle Value:** 1563 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_clan.md) 
 
@@ -88,7 +88,7 @@
   - MRM 30 × 3 (ammo: 48) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/862/demolisher-heavy-tank-mrm) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/862) 
 - **Battle Value:** 1242 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_mrm.md) 
 
@@ -103,7 +103,7 @@
 - **Weapons:** 
   - Arrow IV × 2 (ammo: 35) 
   - Medium Laser × 2 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/858/demolisher-heavy-tank-arrow-iv) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/858) 
 - **Battle Value:** 1297 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_arrow_iv.md) 
 
@@ -120,7 +120,7 @@
   - Clan Ultra AC/10 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4069/demolisher-ii-heavy-tank-ii-x) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4069) 
 - **Battle Value:** 1927 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_ii-x.md) 
 

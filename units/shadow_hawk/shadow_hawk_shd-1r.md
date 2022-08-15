@@ -20,7 +20,7 @@
   - Rugged (×2) 
   - Battlefists 
   - Exposed Weapon Linkage (AC/5) 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2898/shadow-hawk-shd-1r) 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2898) 
 - **Battle Value:** 851 
 
 ## Availability 

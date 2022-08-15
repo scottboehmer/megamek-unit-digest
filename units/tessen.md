@@ -18,7 +18,7 @@
   - TAG 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5208/tessen-tsn-1c) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5208) 
 - **Battle Value:** 1162 
 - [*More Info*](tessen/tessen_tsn-1c.md) 
 
@@ -39,7 +39,7 @@
   - TAG 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5209/tessen-tsn-c3) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5209) 
 - **Battle Value:** 1234 
 - [*More Info*](tessen/tessen_tsn-c3.md) 
 
@@ -62,7 +62,7 @@
   - TAG 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3172/tessen-tsn-1cr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3172) 
 - **Battle Value:** 1241 
 - [*More Info*](tessen/tessen_tsn-1cr.md) 
 
@@ -85,7 +85,7 @@
 - **Design Quirks:** 
   - Prototype 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5549/tessen-tsn-x-4) 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5549) 
 - **Battle Value:** 1263 
 - [*More Info*](tessen/tessen_tsn-x-4.md) 
 
@@ -106,7 +106,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5678/tessen-tsn-c3m) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5678) 
 - **Battle Value:** 1547 
 - [*More Info*](tessen/tessen_tsn-c3m.md) 
 
@@ -127,7 +127,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8377/tessen-tsn-x-4r-rapunzel) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8377) 
 - **Battle Value:** unknown 
 - [*More Info*](tessen/tessen_tsn-x4r_rapunzel.md) 
 

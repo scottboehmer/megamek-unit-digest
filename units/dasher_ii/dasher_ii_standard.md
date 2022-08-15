@@ -14,7 +14,7 @@
   - ER Micro Laser × 6 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/848/dasher-ii-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/848) 
 - **Battle Value:** 522 
 
 ## Availability 
@@ -91,4 +91,20 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Tamar Pact 
+- Vesper Marches 
 

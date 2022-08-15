@@ -12,7 +12,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - Clan Medium Chemical Laser × 6 (ammo: 90) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6488/red-kite-attack-vtol-standard) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6488) 
 - **Battle Value:** 835 
 
 ## Availability 
@@ -30,4 +30,10 @@
 - Clan Wolf 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+
+### ilClan 
+
+- Clan Protectorate 
+- Free Worlds League 
+- Wolf Empire 
 

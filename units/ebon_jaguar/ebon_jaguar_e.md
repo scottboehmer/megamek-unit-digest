@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/494/cauldron-born-ebon-jaguar-e) 
+- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/494) 
 - **Battle Value:** 2391 
 
 ## Availability 
@@ -35,6 +35,7 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
+- Escorpión Imperio 
 
 ### Early Republic 
 
@@ -42,7 +43,9 @@
 - Clan Hell's Horses 
 - Clan Nova Cat 
 - Draconis Combine 
+- Escorpión Imperio 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -50,7 +53,9 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Draconis Combine 
+- Escorpión Imperio 
 - Raven Alliance 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -59,5 +64,20 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Draconis Combine 
+- Escorpión Imperio 
 - Raven Alliance 
+- Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Wolf's Dragoons 
 

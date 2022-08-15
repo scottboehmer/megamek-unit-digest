@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1476/hellhound-conjurer-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1476) 
 - **Battle Value:** 2164 
 
 ## Availability 
@@ -36,13 +36,18 @@
 
 ### Early Republic 
 
-- Clan Nova Cat 
+- Republic of the Sphere 
 
 ### Late Republic 
 
-- Clan Nova Cat 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
-- Clan Nova Cat 
+- Pirate 
+- Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
 

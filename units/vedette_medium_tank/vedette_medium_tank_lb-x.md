@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 5-X AC (ammo: 20) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3390/vedette-medium-tank-lb-x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3390) 
 - **Battle Value:** 552 
 
 ## Availability 
@@ -63,5 +63,15 @@
 - Magistracy of Canopus 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
 - Taurian Concordat 
 

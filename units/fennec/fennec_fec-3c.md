@@ -17,7 +17,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1037/fennec-fec-3c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1037) 
 - **Battle Value:** 1551 
 
 ## Availability 
@@ -31,6 +31,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

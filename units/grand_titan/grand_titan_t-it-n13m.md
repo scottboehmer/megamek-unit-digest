@@ -26,7 +26,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6830/grand-titan-t-it-n13m) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6830) 
 - **Battle Value:** 2533 
 
 ## Availability 
@@ -67,4 +67,10 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

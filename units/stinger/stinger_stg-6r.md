@@ -18,7 +18,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8124/stinger-stg-6r) 
+- **Sources:** Rec Guide:ilClan #13 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8124) 
 - **Battle Value:** 454 
 
 ## Availability 
@@ -49,4 +49,13 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

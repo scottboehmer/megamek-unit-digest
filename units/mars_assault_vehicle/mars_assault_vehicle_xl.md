@@ -19,7 +19,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2083/mars-assault-vehicle-xl) 
+- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2083) 
 - **Battle Value:** 2520 
 
 ## Availability 
@@ -73,5 +73,11 @@
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
 - Scorpion Empire 
 

@@ -4,7 +4,7 @@
 
 ## Hatchetman HCT-5DT 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3145) 
 - **Chassis:** 45 tons 
 - **Movement:** 4 (5) / 6 (8), XL 
@@ -21,12 +21,16 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - Targeting Computer 
-- **Sources:** Shrapnel 7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8438/hatchetman-hct-5dt) 
+- **Sources:** Shrapnel 7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8438) 
 - **Battle Value:** 1788 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

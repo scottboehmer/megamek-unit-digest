@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1346/guillotine-iic-2) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1346) 
 - **Battle Value:** 2721 
 
 ## Availability 
@@ -56,5 +56,16 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Vesper Marches 
+- Wolf Empire 
 - Wolf's Dragoons 
 

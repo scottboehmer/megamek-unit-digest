@@ -15,7 +15,7 @@
 - **Equipment:** 
   - C3 Support 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2438/partisan-air-defense-tank-quad-rac) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2438) 
 - **Battle Value:** 1178 
 
 ## Availability 
@@ -38,4 +38,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

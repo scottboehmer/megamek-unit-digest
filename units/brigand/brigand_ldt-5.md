@@ -16,7 +16,7 @@
   - Mace 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7312/brigand-ldt-5) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7312) 
 - **Battle Value:** 762 
 
 ## Availability 
@@ -30,6 +30,10 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Pirate 
+
+### ilClan 
 
 - Pirate 
 

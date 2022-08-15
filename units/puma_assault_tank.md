@@ -15,7 +15,7 @@
   - SRM 4 (ammo: 25) 
   - Small Laser 
   - Vehicle Flamer (ammo: 20) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4879/puma-assault-tank-pat-001) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4879) 
 - **Battle Value:** 1353 
 - [*More Info*](puma_assault_tank/puma_assault_tank_pat-001.md) 
 
@@ -34,7 +34,7 @@
   - SRM 4 (ammo: 25) 
   - Small Laser 
   - Vehicle Flamer (ammo: 20) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4880/puma-assault-tank-pat-002) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4880) 
 - **Battle Value:** 1353 
 - [*More Info*](puma_assault_tank/puma_assault_tank_pat-002.md) 
 
@@ -53,7 +53,7 @@
   - SRM 4 (ammo: 25) 
   - Small Laser 
   - Vehicle Flamer (ammo: 20) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2599/puma-assault-tank-pat-005) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2599) 
 - **Battle Value:** 1353 
 - [*More Info*](puma_assault_tank/puma_assault_tank_pat-005.md) 
 
@@ -74,7 +74,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2600/puma-assault-tank-pat-005b) 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2600) 
 - **Battle Value:** 1546 
 - [*More Info*](puma_assault_tank/puma_assault_tank_pat-005b.md) 
 
@@ -97,7 +97,7 @@
   - B-Pod 
   - C3i 
   - Machine Gun Array × 2 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2601/puma-assault-tank-pat-007) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2601) 
 - **Battle Value:** 1309 
 - [*More Info*](puma_assault_tank/puma_assault_tank_pat-007.md) 
 
@@ -117,7 +117,7 @@
   - Anti-Missile System × 6 (ammo: 60) 
   - B-Pod × 3 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2602/puma-assault-tank-pat-008) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2602) 
 - **Battle Value:** 1522 
 - [*More Info*](puma_assault_tank/puma_assault_tank_pat-008.md) 
 

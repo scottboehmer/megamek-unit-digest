@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1766/kestrel-vtol-ml) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1766) 
 - **Battle Value:** 252 
 
 ## Availability 
@@ -61,13 +61,20 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
 - Draconis Combine 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Wolf's Dragoons 
 

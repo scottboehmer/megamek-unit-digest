@@ -16,7 +16,7 @@
   - Active Probe 
   - Infantry (4.0 tons) 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4315/hephaestus-scout-tank-c) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4315) 
 - **Battle Value:** 577 
 
 ## Availability 
@@ -42,6 +42,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

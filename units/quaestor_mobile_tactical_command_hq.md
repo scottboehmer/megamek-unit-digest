@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Communications Equipment 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7297/quaestor-mobile-tactical-command-hq-standard) 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7297) 
 - **Battle Value:** 437 
 - [*More Info*](quaestor_mobile_tactical_command_hq/quaestor_mobile_tactical_command_hq_standard.md) 
 

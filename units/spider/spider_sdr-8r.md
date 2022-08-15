@@ -17,7 +17,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3018/spider-sdr-8r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3018) 
 - **Battle Value:** 694 
 
 ## Availability 
@@ -36,4 +36,11 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
 

@@ -15,7 +15,7 @@
   - Large Chemical Laser × 4 (ammo: 60) 
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 48) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5348/vidar-heavy-defense-tank-standard) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5348) 
 - **Battle Value:** 1458 
 
 ## Availability 
@@ -29,6 +29,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

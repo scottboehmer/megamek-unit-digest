@@ -18,7 +18,7 @@
   - ECM Suite 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2518/phoenix-hawk-iic-8) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2518) 
 - **Battle Value:** 2903 
 
 ## Availability 
@@ -33,5 +33,10 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 

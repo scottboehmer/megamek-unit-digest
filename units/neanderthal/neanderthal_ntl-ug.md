@@ -22,7 +22,7 @@
   - Stable 
   - Distracting 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6514/neanderthal-ntl-ug) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6514) 
 - **Battle Value:** 1817 
 
 ## Availability 
@@ -39,4 +39,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
 

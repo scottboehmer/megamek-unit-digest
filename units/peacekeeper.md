@@ -17,7 +17,7 @@
   - Searchlight 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7159/peacekeeper-pk-6-securitymech) 
+- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7159) 
 - **Battle Value:** 422 
 - [*More Info*](peacekeeper/peacekeeper_pk-6_securitymech.md) 
 
@@ -42,7 +42,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2452/peacekeeper-pkp-1a) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2452) 
 - **Battle Value:** 2824 
 - [*More Info*](peacekeeper/peacekeeper_pkp-1a.md) 
 
@@ -64,7 +64,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2453/peacekeeper-pkp-1b) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2453) 
 - **Battle Value:** 2981 
 - [*More Info*](peacekeeper/peacekeeper_pkp-1b.md) 
 
@@ -87,7 +87,7 @@
   - C3 Emergency Main 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6836/peacekeeper-pkp-2k) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6836) 
 - **Battle Value:** 2863 
 - [*More Info*](peacekeeper/peacekeeper_pkp-2k.md) 
 

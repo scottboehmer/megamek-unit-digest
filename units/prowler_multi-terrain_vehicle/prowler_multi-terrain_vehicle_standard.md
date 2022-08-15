@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - Cargo × 5 
   - Fully Amphibious Chassis 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2586/prowler-multi-terrain-vehicle-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2586) 
 - **Battle Value:** 640 
 
 ## Availability 
@@ -310,4 +310,23 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

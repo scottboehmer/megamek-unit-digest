@@ -21,7 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3172/tessen-tsn-1cr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3172) 
 - **Battle Value:** 1241 
 
 ## Availability 
@@ -45,4 +45,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

@@ -17,7 +17,7 @@
   - Mech Sprayer × 2 
   - Liquid Cargo × 2 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7824/pacifier-ccu-40-securitymech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7824) 
 - **Battle Value:** 356 
 
 ## Availability 
@@ -31,6 +31,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

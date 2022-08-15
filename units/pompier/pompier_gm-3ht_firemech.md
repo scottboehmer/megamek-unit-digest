@@ -15,7 +15,7 @@
   - Liquid Cargo × 4 
   - Searchlight 
   - Mech Sprayer 
-- **Sources:** TRO VA - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4844/pompier-gm-3ht-firemech) 
+- **Sources:** TRO VA - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4844) 
 - **Battle Value:** 106 
 
 ## Availability 
@@ -42,6 +42,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

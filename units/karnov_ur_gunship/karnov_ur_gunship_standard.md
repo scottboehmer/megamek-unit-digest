@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Machine Gun × 8 (ammo: 400) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1753/karnov-ur-gunship-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1753) 
 - **Battle Value:** 221 
 
 ## Availability 
@@ -69,4 +69,9 @@
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Filtvelt Coalition 
+- Free Worlds League 
 

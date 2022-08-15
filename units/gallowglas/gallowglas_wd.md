@@ -17,7 +17,7 @@
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1188/gallowglas-wd) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1188) 
 - **Battle Value:** 2094 
 
 ## Availability 
@@ -47,5 +47,9 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Wolf's Dragoons 
+
+### ilClan 
+
 - Wolf's Dragoons 
 

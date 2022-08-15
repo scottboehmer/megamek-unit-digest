@@ -13,10 +13,30 @@
 - **Weapons:** 
   - Ultra AC/5 × 3 (ammo: 80) 
   - LRM 5 (ammo: 24) 
-- **Source:** Hist LOT II 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6777) 
 - **Battle Value:** 825 
 
 ## Availability 
 
-Availability Unknown 
+### Star League 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League 
+- Star League - Royal Divisions 
+- Terran Hegemony 
+
+### Early Succession Wars 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
 

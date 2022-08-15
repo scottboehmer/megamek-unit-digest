@@ -15,7 +15,7 @@
   - Flamer × 4 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1093/firestarter-fs9-a) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1093) 
 - **Battle Value:** 773 
 - [*More Info*](firestarter/firestarter_fs9-a.md) 
 
@@ -34,7 +34,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1097/firestarter-fs9-k) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1097) 
 - **Battle Value:** 763 
 - [*More Info*](firestarter/firestarter_fs9-k.md) 
 
@@ -53,7 +53,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1096/firestarter-fs9-h) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1096) 
 - **Battle Value:** 694 
 - [*More Info*](firestarter/firestarter_fs9-h.md) 
 
@@ -72,7 +72,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1098/firestarter-fs9-m-mirage) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1098) 
 - **Battle Value:** 798 
 - [*More Info*](firestarter/firestarter_fs9-m.md) 
 
@@ -94,7 +94,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1112/firestarter-fs9-s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1112) 
 - **Battle Value:** 754 
 - [*More Info*](firestarter/firestarter_fs9-s.md) 
 
@@ -116,7 +116,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1113/firestarter-fs9-s1) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1113) 
 - **Battle Value:** 820 
 - [*More Info*](firestarter/firestarter_fs9-s1.md) 
 
@@ -136,7 +136,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1099/firestarter-fs9-o) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1099) 
 - **Battle Value:** 1144 
 - [*More Info*](firestarter/firestarter_fs9-o.md) 
 
@@ -155,7 +155,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1100/firestarter-fs9-oa) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1100) 
 - **Battle Value:** 976 
 - [*More Info*](firestarter/firestarter_fs9-oa.md) 
 
@@ -178,7 +178,7 @@
   - TAG 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1101/firestarter-fs9-ob) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1101) 
 - **Battle Value:** 1070 
 - [*More Info*](firestarter/firestarter_fs9-ob.md) 
 
@@ -199,7 +199,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1102/firestarter-fs9-oc) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1102) 
 - **Battle Value:** 1006 
 - [*More Info*](firestarter/firestarter_fs9-oc.md) 
 
@@ -222,7 +222,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1103/firestarter-fs9-od) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1103) 
 - **Battle Value:** 1322 
 - [*More Info*](firestarter/firestarter_fs9-od.md) 
 
@@ -243,7 +243,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1104/firestarter-fs9-oe) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1104) 
 - **Battle Value:** 998 
 - [*More Info*](firestarter/firestarter_fs9-oe.md) 
 
@@ -262,7 +262,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1108/firestarter-fs9-or) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1108) 
 - **Battle Value:** 1713 
 - [*More Info*](firestarter/firestarter_fs9-or.md) 
 
@@ -284,7 +284,7 @@
   - Bloodhound Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1110/firestarter-fs9-ox) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1110) 
 - **Battle Value:** 1190 
 - [*More Info*](firestarter/firestarter_fs9-ox.md) 
 
@@ -304,7 +304,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1105/firestarter-fs9-of) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1105) 
 - **Battle Value:** 1446 
 - [*More Info*](firestarter/firestarter_fs9-of.md) 
 
@@ -325,7 +325,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1106/firestarter-fs9-og) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1106) 
 - **Battle Value:** 1063 
 - [*More Info*](firestarter/firestarter_fs9-og.md) 
 
@@ -345,7 +345,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1111/firestarter-fs9-c) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1111) 
 - **Battle Value:** 940 
 - [*More Info*](firestarter/firestarter_fs9-c.md) 
 
@@ -365,7 +365,7 @@
   - Flamer × 4 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1095/firestarter-fs9-p) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1095) 
 - **Battle Value:** 775 
 - [*More Info*](firestarter/firestarter_fs9-p.md) 
 
@@ -391,7 +391,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1107/firestarter-fs9-oh) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1107) 
 - **Battle Value:** 1119 
 - [*More Info*](firestarter/firestarter_fs9-oh.md) 
 
@@ -411,7 +411,7 @@
   - C3i 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1094/firestarter-fs9-b) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1094) 
 - **Battle Value:** 668 
 - [*More Info*](firestarter/firestarter_fs9-b.md) 
 
@@ -430,7 +430,7 @@
   - Flamer × 3 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1092/firestarter-fs9-81x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1092) 
 - **Battle Value:** 1065 
 - [*More Info*](firestarter/firestarter_fs9-x81.md) 
 
@@ -452,7 +452,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5441/firestarter-fs9-s2) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5441) 
 - **Battle Value:** 842 
 - [*More Info*](firestarter/firestarter_fs9-s2.md) 
 
@@ -474,7 +474,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5442/firestarter-fs9-s3) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5442) 
 - **Battle Value:** 908 
 - [*More Info*](firestarter/firestarter_fs9-s3.md) 
 
@@ -495,7 +495,7 @@
   - Liquid Cargo 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1109/firestarter-fs9-ou) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1109) 
 - **Battle Value:** 1120 
 - [*More Info*](firestarter/firestarter_fs9-ou.md) 
 
@@ -514,7 +514,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Improved Life Support 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6609/firestarter-fs9-m2) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6609) 
 - **Battle Value:** 751 
 - [*More Info*](firestarter/firestarter_fs9-m2.md) 
 
@@ -537,7 +537,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Improved Life Support 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6610/firestarter-fs9-m3) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6610) 
 - **Battle Value:** 866 
 - [*More Info*](firestarter/firestarter_fs9-m3.md) 
 
@@ -556,7 +556,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Improved Life Support 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6611/firestarter-fs9-m4) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6611) 
 - **Battle Value:** 798 
 - [*More Info*](firestarter/firestarter_fs9-m4.md) 
 

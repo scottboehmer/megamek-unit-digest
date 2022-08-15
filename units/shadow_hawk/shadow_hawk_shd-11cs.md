@@ -24,7 +24,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2896/shadow-hawk-shd-11cs) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2896) 
 - **Battle Value:** 1700 
 
 ## Availability 

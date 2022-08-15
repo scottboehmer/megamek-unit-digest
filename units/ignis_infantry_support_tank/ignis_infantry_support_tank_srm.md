@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (1 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1604/ignis-infantry-support-tank-srm) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1604) 
 - **Battle Value:** 502 
 
 ## Availability 

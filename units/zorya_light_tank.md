@@ -14,7 +14,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3652/zorya-light-tank-ammo) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3652) 
 - **Battle Value:** 575 
 - [*More Info*](zorya_light_tank/zorya_light_tank_ammo.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3654/zorya-light-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3654) 
 - **Battle Value:** 562 
 - [*More Info*](zorya_light_tank/zorya_light_tank_standard.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3653/zorya-light-tank-atm) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3653) 
 - **Battle Value:** 693 
 - [*More Info*](zorya_light_tank/zorya_light_tank_atm.md) 
 

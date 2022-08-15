@@ -16,7 +16,7 @@
   - TAG 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1602/icestorm-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1602) 
 - **Battle Value:** 728 
 - [*More Info*](icestorm/icestorm_standard.md) 
 
@@ -35,7 +35,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1603/icestorm-2) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1603) 
 - **Battle Value:** 868 
 - [*More Info*](icestorm/icestorm_2.md) 
 

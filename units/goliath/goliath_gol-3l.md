@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1231/goliath-gol-3l) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1231) 
 - **Battle Value:** 1708 
 
 ## Availability 
@@ -37,6 +37,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

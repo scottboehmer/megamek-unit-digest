@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5699/perseus-p1w) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5699) 
 - **Battle Value:** 1864 
 
 ## Availability 
@@ -28,29 +28,4 @@
 
 - Free Worlds League 
 - Word of Blake 
-
-### Early Republic 
-
-- Duchy of Tamarind-Abbey 
-- Free Worlds League - Non-Aligned Worlds 
-- Marik-Stewart Commonwealth 
-- Oriente Protectorate 
-- Republic of the Sphere 
-
-### Late Republic 
-
-- Duchy of Tamarind-Abbey 
-- Free Worlds League - Non-Aligned Worlds 
-- Marik-Stewart Commonwealth 
-- Oriente Protectorate 
-- Republic of the Sphere 
-
-### Dark Ages 
-
-- Duchy of Tamarind-Abbey 
-- Free Worlds League 
-- Free Worlds League - Non-Aligned Worlds 
-- Marik-Stewart Commonwealth 
-- Oriente Protectorate 
-- Republic of the Sphere 
 

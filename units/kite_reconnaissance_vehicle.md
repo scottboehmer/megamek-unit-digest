@@ -16,7 +16,7 @@
   - Active Probe 
   - Armored Motive System 
   - Light TAG 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6541/kite-reconnaissance-vehicle-standard) 
+- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6541) 
 - **Battle Value:** 616 
 - [*More Info*](kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) 
 

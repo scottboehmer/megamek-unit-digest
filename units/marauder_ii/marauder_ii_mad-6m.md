@@ -21,7 +21,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2064/marauder-ii-mad-6m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2064) 
 - **Battle Value:** 2218 
 
 ## Availability 
@@ -33,7 +33,6 @@
 
 ### Early Republic 
 
-- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
 - Marik-Stewart Commonwealth 
@@ -45,7 +44,6 @@
 
 ### Late Republic 
 
-- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -56,7 +54,6 @@
 
 ### Dark Ages 
 
-- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
@@ -65,4 +62,9 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

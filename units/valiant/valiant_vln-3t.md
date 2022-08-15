@@ -20,69 +20,28 @@
   - Improved Targeting (Short) 
   - Protected Actuators 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371/valiant-vln-3t) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371) 
 - **Battle Value:** 852 
 
 ## Availability 
 
 ### Jihad 
 
-- Federated Suns 
-- Kell Hounds 
-- Lyran Alliance 
-- Mercenary 
 - Solaris 7 
-- Wolf's Dragoons 
 
 ### Early Republic 
 
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
 - Solaris 7 
 
 ### Late Republic 
 
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
 - Solaris 7 
 
 ### Dark Ages 
 
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Federated Suns 
-- Free Worlds League 
-- Free Worlds League - Non-Aligned Worlds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
+- Solaris 7 
+
+### ilClan 
+
 - Solaris 7 
 

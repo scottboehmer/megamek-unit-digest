@@ -15,7 +15,7 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/877/dervish-dv-1s) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/877) 
 - **Battle Value:** 864 
 - [*More Info*](dervish/dervish_dv-1s.md) 
 
@@ -35,7 +35,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/878/dervish-dv-6m) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/878) 
 - **Battle Value:** 1146 
 - [*More Info*](dervish/dervish_dv-6m.md) 
 
@@ -57,7 +57,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5869/dervish-dv-6md) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5869) 
 - **Battle Value:** 1251 
 - [*More Info*](dervish/dervish_dv-6md.md) 
 
@@ -79,7 +79,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/880/dervish-dv-7d) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/880) 
 - **Battle Value:** 1412 
 - [*More Info*](dervish/dervish_dv-7d.md) 
 
@@ -100,7 +100,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/881/dervish-dv-8d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/881) 
 - **Battle Value:** 1765 
 - [*More Info*](dervish/dervish_dv-8d.md) 
 
@@ -122,7 +122,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/883/dervish-dv-9d) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/883) 
 - **Battle Value:** 1518 
 - [*More Info*](dervish/dervish_dv-9d.md) 
 
@@ -144,7 +144,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/882/dervish-dv-8d2-lightbringer) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/882) 
 - **Battle Value:** 1717 
 - [*More Info*](dervish/dervish_dv-8d2_lightbringer.md) 
 
@@ -164,7 +164,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/879/dervish-dv-6mr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/879) 
 - **Battle Value:** 1347 
 - [*More Info*](dervish/dervish_dv-6mr.md) 
 

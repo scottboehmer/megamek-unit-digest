@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light Rifle (ammo: 18) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5774/j-edgar-light-hover-tank-cell) 
+- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5774) 
 - **Battle Value:** 398 
 
 ## Availability 

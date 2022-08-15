@@ -17,7 +17,7 @@
   - Clan ER Medium Laser × 4 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3130/sunder-sd1-or) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3130) 
 - **Battle Value:** 2462 
 
 ## Availability 
@@ -28,19 +28,29 @@
 - Federated Commonwealth 
 - Federated Suns 
 - Lyran Alliance 
+- Wolf's Dragoons 
 
 ### Civil War 
 
+- Capellan Confederation 
 - Draconis Combine 
 - Federated Commonwealth 
 - Federated Suns 
+- Kell Hounds 
 - Lyran Alliance 
+- Mercenary 
+- St. Ives Compact 
+- Wolf's Dragoons 
 
 ### Jihad 
 
+- Capellan Confederation 
 - Draconis Combine 
 - Federated Suns 
+- Kell Hounds 
 - Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
 ### Early Republic 
 
@@ -50,6 +60,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -59,6 +70,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -68,4 +80,15 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

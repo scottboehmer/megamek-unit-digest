@@ -14,7 +14,7 @@
   - PPC × 2 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/534/cestus-cts-6z) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/534) 
 - **Battle Value:** 1560 
 
 ## Availability 
@@ -65,4 +65,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
 

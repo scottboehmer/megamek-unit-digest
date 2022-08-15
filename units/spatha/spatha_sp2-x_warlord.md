@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2999/spatha-sp2-x-warlord) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2999) 
 - **Battle Value:** 1973 
 
 ## Availability 

@@ -4,7 +4,7 @@
 
 ## Crosscut ED-X2M LoggerMech MOD 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2801) 
 - **Chassis:** 30 tons (Industrial) 
 - **Movement:** 3 / 5, ICE 
@@ -16,7 +16,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Cargo × 2 
-- **Sources:** RS IA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7167/crosscut-ed-x2m-loggermech-mod-ed-x2-flamer) 
+- **Sources:** RS IA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7167) 
 - **Battle Value:** 244 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Fast Reload (All Weapons) 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3706/apollo-apl-4m) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3706) 
 - **Battle Value:** 1302 
 
 ## Availability 
@@ -36,4 +36,8 @@
 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+
+### ilClan 
+
+- Free Worlds League 
 

@@ -22,7 +22,7 @@
   - Hard to Pilot 
   - Easy to Maintain 
   - Reinforced Legs 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5230/thunder-thr-c4) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5230) 
 - **Battle Value:** 2028 
 
 ## Availability 
@@ -38,6 +38,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

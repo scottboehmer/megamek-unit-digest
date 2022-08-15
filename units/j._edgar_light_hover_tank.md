@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1641/j-edgar-light-hover-tank-standard) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1641) 
 - **Battle Value:** 544 
 - [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Vehicle Flamer × 2 (ammo: 40) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1637/j-edgar-light-hover-tank-flamer) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1637) 
 - **Battle Value:** 459 
 - [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_flamer.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1640/j-edgar-light-hover-tank-mg) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1640) 
 - **Battle Value:** 482 
 - [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_mg.md) 
 
@@ -56,7 +56,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1638/j-edgar-light-hover-tank-ice) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1638) 
 - **Battle Value:** 433 
 - [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_ice.md) 
 
@@ -71,7 +71,7 @@
 - **Weapons:** 
   - Light Rifle (ammo: 18) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5774/j-edgar-light-hover-tank-cell) 
+- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5774) 
 - **Battle Value:** 398 
 - [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_cell.md) 
 
@@ -88,7 +88,7 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1639/j-edgar-light-hover-tank-kurita) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1639) 
 - **Battle Value:** 696 
 - [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_kurita.md) 
 
@@ -105,7 +105,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1642/j-edgar-light-hover-tank-tag) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1642) 
 - **Battle Value:** 564 
 - [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_tag.md) 
 

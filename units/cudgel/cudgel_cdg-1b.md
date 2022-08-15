@@ -19,7 +19,7 @@
   - MASC 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/766/cudgel-cdg-1b) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/766) 
 - **Battle Value:** 1347 
 
 ## Availability 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Communications 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2216/mongoose-ii-mon-266) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2216) 
 - **Battle Value:** 1085 
 
 ## Availability 

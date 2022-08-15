@@ -24,7 +24,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/65/archangel-c-ang-o-invictus) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/65) 
 - **Battle Value:** 2237 
 - [*More Info*](archangel/archangel_c-ang-o_invictus.md) 
 
@@ -49,7 +49,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/66/archangel-c-ang-oa-dominus) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/66) 
 - **Battle Value:** 2134 
 - [*More Info*](archangel/archangel_c-ang-oa_dominus.md) 
 
@@ -74,7 +74,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/67/archangel-c-ang-ob-infernus) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/67) 
 - **Battle Value:** 2069 
 - [*More Info*](archangel/archangel_c-ang-ob_infernus.md) 
 
@@ -101,7 +101,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/68/archangel-c-ang-oc-comminus) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/68) 
 - **Battle Value:** 2010 
 - [*More Info*](archangel/archangel_c-ang-oc_comminus.md) 
 
@@ -129,7 +129,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/69/archangel-c-ang-od-luminos) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/69) 
 - **Battle Value:** 2105 
 - [*More Info*](archangel/archangel_c-ang-od_luminos.md) 
 
@@ -155,7 +155,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/64/archangel-c-ang-o-berith) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/64) 
 - **Battle Value:** 2060 
 - [*More Info*](archangel/archangel_c-ang-o_berith.md) 
 
@@ -182,7 +182,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/70/archangel-c-ang-oe-eminus) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/70) 
 - **Battle Value:** 2097 
 - [*More Info*](archangel/archangel_c-ang-oe_eminus.md) 
 
@@ -209,7 +209,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/71/archangel-c-ang-os-caelestis) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/71) 
 - **Battle Value:** 2026 
 - [*More Info*](archangel/archangel_c-ang-os_caelestis.md) 
 

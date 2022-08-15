@@ -14,7 +14,7 @@
   - Streak SRM 6 (ammo: 15) 
   - ER Medium Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** RS 3060U , [Master Unit List](http://masterunitlist.info/Unit/Details/135/asshur-fast-reconnaissance-vehicle-standard) 
+- **Sources:** RS 3060U , [Master Unit List](http://masterunitlist.info/Unit/Details/135) 
 - **Battle Value:** 952 
 
 ## Availability 
@@ -117,4 +117,22 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

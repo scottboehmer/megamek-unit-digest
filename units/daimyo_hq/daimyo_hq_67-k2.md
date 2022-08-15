@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/808/daimyo-hq-67-k2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/808) 
 - **Battle Value:** 620 
 
 ## Availability 
@@ -38,6 +38,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

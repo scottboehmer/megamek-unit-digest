@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Small VSP Laser 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1152/fox-armored-car-vsp) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1152) 
 - **Battle Value:** 543 
 
 ## Availability 
@@ -33,4 +33,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

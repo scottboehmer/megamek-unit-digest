@@ -17,8 +17,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** FM:Mercenaries SII - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5228/thug-thg-11e-reich) 
+  - Rugged (×2) 
+- **Sources:** FM:Mercenaries SII - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5228) 
 - **Battle Value:** 2612 
 
 ## Availability 

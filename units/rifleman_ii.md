@@ -18,7 +18,7 @@
   - Anti-Aircraft Targeting 
   - Improved Communications 
   - Searchlight 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2709/rifleman-ii-rfl-3n-2) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2709) 
 - **Battle Value:** 1543 
 - [*More Info*](rifleman_ii/rifleman_ii_rfl-3n-2.md) 
 
@@ -41,7 +41,7 @@
   - Anti-Aircraft Targeting 
   - Improved Communications 
   - Searchlight 
-- **Sources:** HTP New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6969/rifleman-ii-rfl-3n-2-kataga) 
+- **Sources:** HTP New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6969) 
 - **Battle Value:** 1991 
 - [*More Info*](rifleman_ii/rifleman_ii_rfl-3n-2_kataga.md) 
 

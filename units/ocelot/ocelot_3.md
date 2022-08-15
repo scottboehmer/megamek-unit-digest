@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Modular Weapon (Heavy Medium Laser) 
   - Modular Weapon (Heavy Medium Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2315/ocelot-3) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2315) 
 - **Battle Value:** 1594 
 
 ## Availability 
@@ -44,4 +44,12 @@
 
 - Clan Nova Cat 
 - Clan Sea Fox 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Star League (Smoke Jaguar) 
 

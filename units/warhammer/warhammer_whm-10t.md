@@ -18,7 +18,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3481/warhammer-whm-10t) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3481) 
 - **Battle Value:** 1891 
 
 ## Availability 
@@ -43,6 +43,13 @@
 
 - Calderon Protectorate 
 - Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Taurian Concordat 

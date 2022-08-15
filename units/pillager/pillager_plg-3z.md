@@ -17,7 +17,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2525/pillager-plg-3z) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2525) 
 - **Battle Value:** 2697 
 
 ## Availability 
@@ -214,4 +214,10 @@
 - Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Mercenary 
 

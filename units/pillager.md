@@ -15,7 +15,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2524/pillager-plg-1n) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2524) 
 - **Battle Value:** 1812 
 - [*More Info*](pillager/pillager_plg-1n.md) 
 
@@ -34,7 +34,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2525/pillager-plg-3z) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2525) 
 - **Battle Value:** 2697 
 - [*More Info*](pillager/pillager_plg-3z.md) 
 
@@ -55,7 +55,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2527/pillager-plg-4z) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2527) 
 - **Battle Value:** 2868 
 - [*More Info*](pillager/pillager_plg-4z.md) 
 
@@ -78,7 +78,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2528/pillager-plg-5l) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2528) 
 - **Battle Value:** 2656 
 - [*More Info*](pillager/pillager_plg-5l.md) 
 
@@ -100,7 +100,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2529/pillager-plg-5z) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2529) 
 - **Battle Value:** 2939 
 - [*More Info*](pillager/pillager_plg-5z.md) 
 
@@ -120,7 +120,7 @@
   - Coolant Pod × 2 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2526/pillager-plg-4x-anvil) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2526) 
 - **Battle Value:** 1927 
 - [*More Info*](pillager/pillager_plg-4x_anvil.md) 
 

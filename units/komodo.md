@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
   - Protected Actuators 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1810/komodo-kim-2) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1810) 
 - **Battle Value:** 1533 
 - [*More Info*](komodo/komodo_kim-2.md) 
 
@@ -45,7 +45,7 @@
   - Narrow/Low Profile 
   - Protected Actuators 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1811/komodo-kim-2a) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1811) 
 - **Battle Value:** 1415 
 - [*More Info*](komodo/komodo_kim-2a.md) 
 
@@ -69,7 +69,7 @@
   - Narrow/Low Profile 
   - Protected Actuators 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1812/komodo-kim-2c) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1812) 
 - **Battle Value:** 1533 
 - [*More Info*](komodo/komodo_kim-2c.md) 
 
@@ -93,7 +93,7 @@
   - Narrow/Low Profile 
   - Protected Actuators 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1813/komodo-kim-3c) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1813) 
 - **Battle Value:** 1371 
 - [*More Info*](komodo/komodo_kim-3c.md) 
 

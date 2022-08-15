@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3258/titan-ii-ti-2p) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3258) 
 - **Battle Value:** 2143 
 - [*More Info*](titan_ii/titan_ii_ti-2p.md) 
 
@@ -42,7 +42,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3259/titan-ii-ti-2pa) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3259) 
 - **Battle Value:** 2434 
 - [*More Info*](titan_ii/titan_ii_ti-2pa.md) 
 

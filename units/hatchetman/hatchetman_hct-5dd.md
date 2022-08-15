@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (RAC/2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5446/hatchetman-hct-5dd) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5446) 
 - **Battle Value:** 1112 
 
 ## Availability 
@@ -56,4 +56,9 @@
 - Calderon Protectorate 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Mercenary 
 

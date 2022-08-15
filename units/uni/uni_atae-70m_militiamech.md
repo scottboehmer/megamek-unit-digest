@@ -15,7 +15,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6977/uni-atae-70m-miltiamech) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6977) 
 - **Battle Value:** 736 
 
 ## Availability 
@@ -48,6 +48,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### ilClan 
 
 - Lyran Commonwealth 
 - Mercenary 

@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7649/storm-giant-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7649) 
 - **Battle Value:** 2676 
 - [*More Info*](storm_giant/storm_giant_standard.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5145/storm-giant-2) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5145) 
 - **Battle Value:** 2891 
 - [*More Info*](storm_giant/storm_giant_2.md) 
 

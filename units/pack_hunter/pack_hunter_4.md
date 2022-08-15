@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2395/pack-hunter-4) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2395) 
 - **Battle Value:** 1257 
 
 ## Availability 
@@ -38,4 +38,8 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Star League (Wolf) 
 

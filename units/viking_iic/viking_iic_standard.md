@@ -22,7 +22,7 @@
   - Improved Targeting (Long) 
   - No/Minimal Arms 
   - Poor Targeting (Short) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6634/viking-iic-standard) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6634) 
 - **Battle Value:** 2780 
 
 ## Availability 
@@ -45,5 +45,12 @@
 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+- Rasalhague Dominion 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
 - Rasalhague Dominion 
 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2984/sokuryou-sku-198-surveymech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2984) 
 - **Battle Value:** 581 
 
 ## Availability 
@@ -29,6 +29,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

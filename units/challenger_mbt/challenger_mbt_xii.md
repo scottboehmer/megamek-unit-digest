@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/540/challenger-mbt-xii) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/540) 
 - **Battle Value:** 1851 
 
 ## Availability 
@@ -54,4 +54,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

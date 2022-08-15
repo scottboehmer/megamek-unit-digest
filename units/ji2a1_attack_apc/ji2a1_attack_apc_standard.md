@@ -14,7 +14,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6315/ji2a1-attack-apc-standard) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6315) 
 - **Battle Value:** 435 
 
 ## Availability 
@@ -40,4 +40,11 @@
 - Filtvelt Coalition 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
 

@@ -15,7 +15,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - Armored Motive System 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6599/schildkrote-line-tank-standard) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6599) 
 - **Battle Value:** 940 
 - [*More Info*](schildkrote_line_tank/schildkrote_line_tank_standard.md) 
 
@@ -34,7 +34,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - Armored Motive System 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6600/schildkrote-line-tank-hppc) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6600) 
 - **Battle Value:** 988 
 - [*More Info*](schildkrote_line_tank/schildkrote_line_tank_hppc.md) 
 

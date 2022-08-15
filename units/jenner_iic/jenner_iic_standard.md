@@ -18,8 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1698/jenner-iic-standard) 
+- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1698) 
 - **Battle Value:** 1047 
 
 ## Availability 
@@ -114,5 +113,16 @@
 - Escorpión Imperio 
 - Mercenary 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Wolf Empire 
 

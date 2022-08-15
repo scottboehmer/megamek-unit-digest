@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/721/crimson-hawk-standard) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/721) 
 - **Battle Value:** 1285 
 
 ## Availability 
@@ -56,4 +56,14 @@
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Federated Suns 
+- Free Worlds League 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

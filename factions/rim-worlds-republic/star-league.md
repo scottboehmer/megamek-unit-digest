@@ -21,7 +21,7 @@
 #### [Jackrabbit](../../units/jackrabbit.md) 
 
 - [**Jackrabbit JKR-8T**](../../units/jackrabbit/jackrabbit_jkr-8t.md) *Sniper (2765)* 
-- [**Jackrabbit JKR-9R 'Joker'**](../../units/jackrabbit/jackrabbit_jkr-9r_joker.md) *Brawler (2768)* 
+- [**Jackrabbit JKR-9R 'Joker'**](../../units/jackrabbit/jackrabbit_jkr-9r_joker.md) *Striker (2768)* 
 
 ### 30 Tons 
 

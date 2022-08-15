@@ -17,7 +17,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6718/night-stalker-nsr-k1) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6718) 
 - **Battle Value:** 1149 
 - [*More Info*](night_stalker/night_stalker_nsr-k1.md) 
 
@@ -41,7 +41,7 @@
   - TAG 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6674/night-stalker-nsr-k3) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6674) 
 - **Battle Value:** 1028 
 - [*More Info*](night_stalker/night_stalker_nsr-k3.md) 
 
@@ -63,7 +63,7 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6719/night-stalker-nsr-k4) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6719) 
 - **Battle Value:** 1159 
 - [*More Info*](night_stalker/night_stalker_nsr-k4.md) 
 
@@ -84,7 +84,7 @@
   - Chain Whip 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6720/night-stalker-nsr-k7) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6720) 
 - **Battle Value:** 857 
 - [*More Info*](night_stalker/night_stalker_nsr-k7.md) 
 
@@ -106,7 +106,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6721/night-stalker-nsr-kc) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6721) 
 - **Battle Value:** 1037 
 - [*More Info*](night_stalker/night_stalker_nsr-kc.md) 
 

@@ -17,7 +17,7 @@
   - ECM Suite 
   - Active Probe 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2316/odin-scout-tank-spotter) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2316) 
 - **Battle Value:** 338 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

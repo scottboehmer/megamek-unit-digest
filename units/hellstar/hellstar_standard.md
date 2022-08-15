@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Barrel Fists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1481/hellstar-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1481) 
 - **Battle Value:** 3084 
 
 ## Availability 
@@ -59,5 +59,17 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Draconis Combine 
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 - Wolf's Dragoons 
 

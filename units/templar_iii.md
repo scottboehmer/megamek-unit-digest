@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rumble Seat 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6353/templar-iii-tlr2-o) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6353) 
 - **Battle Value:** 2028 
 - [*More Info*](templar_iii/templar_iii_tlr2-o.md) 
 
@@ -40,7 +40,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rumble Seat 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6354/templar-iii-tlr2-oa) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6354) 
 - **Battle Value:** 1677 
 - [*More Info*](templar_iii/templar_iii_tlr2-oa.md) 
 
@@ -65,13 +65,13 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rumble Seat 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6355/templar-iii-tlr2-ob) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6355) 
 - **Battle Value:** 1919 
 - [*More Info*](templar_iii/templar_iii_tlr2-ob.md) 
 
 ## Templar III TLR2-J 'Arthur' 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere Mixed (3120) 
 - **Chassis:** 85 tons (Endo Steel) 
 - **Movement:** 4 / 6, Light 
@@ -89,7 +89,7 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Rumble Seat 
-- **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7955/templar-iii-tlr-2j-arthur) 
+- **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7955) 
 - **Battle Value:** 2722 
 - [*More Info*](templar_iii/templar_iii_tlr2-j_arthur.md) 
 
@@ -112,7 +112,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rumble Seat 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6356/templar-iii-tlr2-oc) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6356) 
 - **Battle Value:** 1993 
 - [*More Info*](templar_iii/templar_iii_tlr2-oc.md) 
 
@@ -133,7 +133,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rumble Seat 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6357/templar-iii-tlr2-od) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6357) 
 - **Battle Value:** 2108 
 - [*More Info*](templar_iii/templar_iii_tlr2-od.md) 
 

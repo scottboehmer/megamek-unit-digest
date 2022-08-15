@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/228/bandit-c-hovercraft-prime) 
+- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/228) 
 - **Battle Value:** 1087 
 
 ## Availability 
@@ -44,4 +44,10 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

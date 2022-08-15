@@ -21,7 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1103/firestarter-fs9-od) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1103) 
 - **Battle Value:** 1322 
 
 ## Availability 
@@ -95,4 +95,12 @@
 - Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

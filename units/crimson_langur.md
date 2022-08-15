@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Improved Communications 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4019/crimson-langur-prime) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4019) 
 - **Battle Value:** 1952 
 - [*More Info*](crimson_langur/crimson_langur_prime.md) 
 
@@ -40,7 +40,7 @@
   - Easy to Maintain 
   - Improved Communications 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4016/crimson-langur-a) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4016) 
 - **Battle Value:** 2003 
 - [*More Info*](crimson_langur/crimson_langur_a.md) 
 
@@ -63,7 +63,7 @@
   - Easy to Maintain 
   - Improved Communications 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4017/crimson-langur-b) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4017) 
 - **Battle Value:** 2210 
 - [*More Info*](crimson_langur/crimson_langur_b.md) 
 
@@ -85,7 +85,7 @@
   - Easy to Maintain 
   - Improved Communications 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4018/crimson-langur-c) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4018) 
 - **Battle Value:** 1437 
 - [*More Info*](crimson_langur/crimson_langur_c.md) 
 
@@ -110,7 +110,7 @@
   - Easy to Maintain 
   - Improved Communications 
   - Protected Actuators 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5676/crimson-langur-d) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5676) 
 - **Battle Value:** 1867 
 - [*More Info*](crimson_langur/crimson_langur_d.md) 
 
@@ -132,7 +132,7 @@
   - Easy to Maintain 
   - Improved Communications 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5677/crimson-langur-e) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5677) 
 - **Battle Value:** 2051 
 - [*More Info*](crimson_langur/crimson_langur_e.md) 
 

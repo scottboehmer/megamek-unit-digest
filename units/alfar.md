@@ -15,7 +15,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3694/alfar-al-a1) 
+- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3694) 
 - **Battle Value:** 1447 
 - [*More Info*](alfar/alfar_al-a1.md) 
 
@@ -32,7 +32,7 @@
   - PPC × 2 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3693/alfar-al-d1-dokkalfar) 
+- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3693) 
 - **Battle Value:** 1458 
 - [*More Info*](alfar/alfar_al-d1.md) 
 

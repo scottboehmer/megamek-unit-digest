@@ -18,7 +18,7 @@
   - C3i 
   - Fully Amphibious Chassis 
   - Infantry (6 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2589/prowler-multi-terrain-vehicle-wob) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2589) 
 - **Battle Value:** 619 
 
 ## Availability 

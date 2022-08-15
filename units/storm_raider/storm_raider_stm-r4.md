@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Mace) 
   - Jettison-Capable Weapon (RAC/2) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6617/storm-raider-stm-r4) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6617) 
 - **Battle Value:** 732 
 
 ## Availability 
@@ -34,6 +34,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### ilClan 
 
 - Lyran Commonwealth 
 - Mercenary 

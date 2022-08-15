@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Infantry (1.0 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2532/pinto-attack-vtol-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2532) 
 - **Battle Value:** 710 
 - [*More Info*](pinto_attack_vtol/pinto_attack_vtol_standard.md) 
 
@@ -31,7 +31,7 @@
   - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2533/pinto-attack-vtol-wob) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2533) 
 - **Battle Value:** 682 
 - [*More Info*](pinto_attack_vtol/pinto_attack_vtol_wob.md) 
 

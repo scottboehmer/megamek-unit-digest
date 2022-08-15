@@ -16,7 +16,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3160/tarantula-zph-1) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3160) 
 - **Battle Value:** 666 
 - [*More Info*](tarantula/tarantula_zph-1a.md) 
 
@@ -36,7 +36,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3161/tarantula-zph-2a) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3161) 
 - **Battle Value:** 744 
 - [*More Info*](tarantula/tarantula_zph-2a.md) 
 
@@ -55,7 +55,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3162/tarantula-zph-3a) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3162) 
 - **Battle Value:** 702 
 - [*More Info*](tarantula/tarantula_zph-3a.md) 
 
@@ -76,7 +76,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3163/tarantula-zph-4a) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3163) 
 - **Battle Value:** 967 
 - [*More Info*](tarantula/tarantula_zph-4a.md) 
 
@@ -97,7 +97,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6941/tarantula-zph-5a) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6941) 
 - **Battle Value:** 806 
 - [*More Info*](tarantula/tarantula_zph-5a.md) 
 

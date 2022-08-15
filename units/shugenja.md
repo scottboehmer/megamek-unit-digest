@@ -18,7 +18,7 @@
   - Cowl 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2942/shugenja-sja-7d) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2942) 
 - **Battle Value:** 1656 
 - [*More Info*](shugenja/shugenja_sja-7d.md) 
 
@@ -45,7 +45,7 @@
   - Cowl 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2943/shugenja-sja-8h) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2943) 
 - **Battle Value:** 1691 
 - [*More Info*](shugenja/shugenja_sja-8h.md) 
 

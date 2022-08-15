@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6396/avalanche-avl-1o) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6396) 
 - **Battle Value:** 1540 
 
 ## Availability 
@@ -29,4 +29,14 @@
 - Clan Nova Cat 
 - Draconis Combine 
 - Free Worlds League 
+- Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
+- Taurian Concordat 
 

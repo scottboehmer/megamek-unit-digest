@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7677/talon-tln-5w-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7677) 
 - **Battle Value:** 1364 
 
 ## Availability 
@@ -36,17 +36,4 @@
 ### Jihad 
 
 - Society 
-
-### Early Republic 
-
-- Escorpión Imperio 
-
-### Late Republic 
-
-- Escorpión Imperio 
-
-### Dark Ages 
-
-- Escorpión Imperio 
-- Scorpion Empire 
 

@@ -17,8 +17,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3422/vindicator-vnd-1r) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3422) 
 - **Battle Value:** 1024 
 - [*More Info*](vindicator/vindicator_vnd-1r.md) 
 
@@ -39,8 +38,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3425/vindicator-vnd-1x) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3425) 
 - **Battle Value:** 1008 
 - [*More Info*](vindicator/vindicator_vnd-1x.md) 
 
@@ -61,8 +59,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3421/vindicator-vnd-1aa-avenging-angel) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3421) 
 - **Battle Value:** 966 
 - [*More Info*](vindicator/vindicator_vnd-1aa_avenging_angel.md) 
 
@@ -83,8 +80,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3423/vindicator-vnd-1r-vong) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3423) 
 - **Battle Value:** 1024 
 - [*More Info*](vindicator/vindicator_vnd-1r_vong.md) 
 
@@ -105,8 +101,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3424/vindicator-vnd-1sic) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3424) 
 - **Battle Value:** 1020 
 - [*More Info*](vindicator/vindicator_vnd-1sic.md) 
 
@@ -128,8 +123,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3426/vindicator-vnd-3l) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3426) 
 - **Battle Value:** 1105 
 - [*More Info*](vindicator/vindicator_vnd-3l.md) 
 
@@ -153,8 +147,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3430/vindicator-vnd-5l) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3430) 
 - **Battle Value:** 1484 
 - [*More Info*](vindicator/vindicator_vnd-5l.md) 
 
@@ -178,8 +171,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3429/vindicator-vnd-4l) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3429) 
 - **Battle Value:** 1411 
 - [*More Info*](vindicator/vindicator_vnd-4l.md) 
 
@@ -204,8 +196,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3431/vindicator-vnd-6l) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3431) 
 - **Battle Value:** 1739 
 - [*More Info*](vindicator/vindicator_vnd-6l.md) 
 
@@ -227,8 +218,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3428/vindicator-vnd-3lr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3428) 
 - **Battle Value:** 1045 
 - [*More Info*](vindicator/vindicator_vnd-3lr.md) 
 
@@ -252,8 +242,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-  - No Torso Twist 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3427/vindicator-vnd-3ld-dao) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3427) 
 - **Battle Value:** 1583 
 - [*More Info*](vindicator/vindicator_vnd-3ld_dao.md) 
 

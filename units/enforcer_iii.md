@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Barrel Fists 
   - Fast Reload (Ultra AC/10) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/982/enforcer-iii-enf-6m) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/982) 
 - **Battle Value:** 1460 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6m.md) 
 
@@ -38,7 +38,7 @@
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
   - Fast Reload (Gauss Rifle) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/980/enforcer-iii-enf-6g) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/980) 
 - **Battle Value:** 1858 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6g.md) 
 
@@ -60,7 +60,7 @@
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
   - Fast Reload (Gauss Rifle) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/985/enforcer-iii-enf-6t) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/985) 
 - **Battle Value:** 1720 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6t.md) 
 
@@ -81,7 +81,7 @@
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
   - Fast Reload (Ultra AC/20) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/981/enforcer-iii-enf-6h) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/981) 
 - **Battle Value:** 1603 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6h.md) 
 
@@ -101,7 +101,7 @@
 - **Design Quirks:** 
   - Barrel Fists 
   - Fast Reload (AC/10) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/983/enforcer-iii-enf-6ma) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/983) 
 - **Battle Value:** 1275 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6ma.md) 
 
@@ -124,7 +124,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Barrel Fists 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/984/enforcer-iii-enf-6nais) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/984) 
 - **Battle Value:** 1475 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-6nais.md) 
 
@@ -142,7 +142,7 @@
   - Blazer Cannon × 2 
 - **Design Quirks:** 
   - Barrel Fists 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/987/enforcer-iii-enf-7x-muse-compact) 
+- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/987) 
 - **Battle Value:** 1670 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-7x_muse_compact.md) 
 
@@ -165,7 +165,7 @@
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/986/enforcer-iii-enf-7c3bs) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/986) 
 - **Battle Value:** 1687 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-7c3bs.md) 
 
@@ -192,7 +192,7 @@
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
   - Fast Reload (LB 10-X AC) 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7296/enforcer-iii-enf-7d) 
+- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7296) 
 - **Battle Value:** 1495 
 - [*More Info*](enforcer_iii/enforcer_iii_enf-7d.md) 
 

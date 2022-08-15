@@ -17,8 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3347/uller-kit-fox-prime) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3347) 
 - **Battle Value:** 1085 
 - [*More Info*](kit_fox/kit_fox_prime.md) 
 
@@ -37,8 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3340/uller-kit-fox-a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3340) 
 - **Battle Value:** 1310 
 - [*More Info*](kit_fox/kit_fox_a.md) 
 
@@ -59,8 +57,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3341/uller-kit-fox-b) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3341) 
 - **Battle Value:** 1087 
 - [*More Info*](kit_fox/kit_fox_b.md) 
 
@@ -80,8 +77,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3343/uller-kit-fox-d) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3343) 
 - **Battle Value:** 1142 
 - [*More Info*](kit_fox/kit_fox_d.md) 
 
@@ -100,8 +96,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #11 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7746/uller-kit-fox-v) 
+- **Sources:** Rec Guide:ilClan #11 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7746) 
 - **Battle Value:** 850 
 - [*More Info*](kit_fox/kit_fox_v.md) 
 
@@ -126,8 +121,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3342/uller-kit-fox-c) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3342) 
 - **Battle Value:** 1147 
 - [*More Info*](kit_fox/kit_fox_c.md) 
 
@@ -150,8 +144,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3348/uller-kit-fox-s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3348) 
 - **Battle Value:** 1342 
 - [*More Info*](kit_fox/kit_fox_s.md) 
 
@@ -168,8 +161,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3350/uller-kit-fox-w) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3350) 
 - **Battle Value:** 1431 
 - [*More Info*](kit_fox/kit_fox_w.md) 
 
@@ -190,8 +182,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3344/uller-kit-fox-e) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3344) 
 - **Battle Value:** 1415 
 - [*More Info*](kit_fox/kit_fox_e.md) 
 
@@ -212,8 +203,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5486/uller-kit-fox-g) 
+- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5486) 
 - **Battle Value:** 1368 
 - [*More Info*](kit_fox/kit_fox_g.md) 
 
@@ -232,8 +222,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3346/uller-kit-fox-h) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3346) 
 - **Battle Value:** 1214 
 - [*More Info*](kit_fox/kit_fox_h.md) 
 
@@ -254,8 +243,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7744/uller-kit-fox-j) 
+- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7744) 
 - **Battle Value:** 1134 
 - [*More Info*](kit_fox/kit_fox_j.md) 
 
@@ -274,8 +262,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3345/uller-kit-fox-f) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3345) 
 - **Battle Value:** 1219 
 - [*More Info*](kit_fox/kit_fox_f.md) 
 
@@ -295,8 +282,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3349/uller-kit-fox-u) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3349) 
 - **Battle Value:** 1486 
 - [*More Info*](kit_fox/kit_fox_u.md) 
 
@@ -315,8 +301,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7745/uller-kit-fox-k) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7745) 
 - **Battle Value:** 1109 
 - [*More Info*](kit_fox/kit_fox_k.md) 
 
@@ -338,8 +323,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6932/uller-kit-fox-i) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6932) 
 - **Battle Value:** 1936 
 - [*More Info*](kit_fox/kit_fox_i.md) 
 
@@ -358,8 +342,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6931/uller-kit-fox-r) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6931) 
 - **Battle Value:** 1232 
 - [*More Info*](kit_fox/kit_fox_r.md) 
 
@@ -380,8 +363,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** SO: Unending Faith - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7632/uller-kit-fox-blo) 
+- **Sources:** SO: Unending Faith - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7632) 
 - **Battle Value:** 988 
 - [*More Info*](kit_fox/kit_fox_blo.md) 
 
@@ -404,8 +386,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7743/uller-kit-fox-t) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7743) 
 - **Battle Value:** 1380 
 - [*More Info*](kit_fox/kit_fox_t.md) 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light Gauss Rifle × 3 (ammo: 64) 
   - ER Medium Laser × 2 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2327/ontos-heavy-tank-light-gauss) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2327) 
 - **Battle Value:** 1269 
 
 ## Availability 
@@ -94,4 +94,16 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

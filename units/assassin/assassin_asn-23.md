@@ -19,7 +19,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/128/assassin-asn-23) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/128) 
 - **Battle Value:** 740 
 
 ## Availability 
@@ -56,29 +56,17 @@
 
 ### Early Republic 
 
-- Calderon Protectorate 
 - Capellan Confederation 
 - Duchy of Andurien 
-- Filtvelt Coalition 
 - Fronc Reaches 
-- Magistracy of Canopus 
-- Marian Hegemony 
 - Mercenary 
-- Pirate 
 - Rim Commonality 
-- Taurian Concordat 
 
 ### Late Republic 
 
-- Calderon Protectorate 
 - Capellan Confederation 
 - Duchy of Andurien 
-- Filtvelt Coalition 
 - Fronc Reaches 
-- Magistracy of Canopus 
-- Marian Hegemony 
 - Mercenary 
-- Pirate 
 - Rim Commonality 
-- Taurian Concordat 
 

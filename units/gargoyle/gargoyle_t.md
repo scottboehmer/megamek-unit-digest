@@ -21,7 +21,7 @@
   - Stabilized Weapon (ProtoMech AC/8) 
   - Stabilized Weapon (Streak SRM 6) 
   - Stabilized Weapon (ProtoMech AC/8) 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7754/man-o-war-gargoyle-t) 
+- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7754) 
 - **Battle Value:** 1635 
 
 ## Availability 
@@ -32,4 +32,10 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Star League (Wolf) 
 

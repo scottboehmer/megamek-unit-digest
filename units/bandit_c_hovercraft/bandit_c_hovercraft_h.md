@@ -18,7 +18,7 @@
   - Infantry (5.0 tons) 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/227/bandit-c-hovercraft-h) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/227) 
 - **Battle Value:** 1108 
 
 ## Availability 
@@ -43,4 +43,10 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

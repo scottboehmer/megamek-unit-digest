@@ -21,7 +21,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2798/sasquatch-sqs-th-001) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2798) 
 - **Battle Value:** 1940 
 
 ## Availability 
@@ -34,21 +34,4 @@
 
 - Solaris 7 
 - Word of Blake 
-
-### Jihad 
-
-- Solaris 7 
-- Word of Blake 
-
-### Early Republic 
-
-- Solaris 7 
-
-### Late Republic 
-
-- Solaris 7 
-
-### Dark Ages 
-
-- Solaris 7 
 

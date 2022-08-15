@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1053/fenris-ice-ferret-prime) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1053) 
 - **Battle Value:** 1678 
 - [*More Info*](ice_ferret/ice_ferret_prime.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1046/fenris-ice-ferret-a) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1046) 
 - **Battle Value:** 1323 
 - [*More Info*](ice_ferret/ice_ferret_a.md) 
 
@@ -58,7 +58,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1047/fenris-ice-ferret-b) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1047) 
 - **Battle Value:** 1461 
 - [*More Info*](ice_ferret/ice_ferret_b.md) 
 
@@ -77,7 +77,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1048/fenris-ice-ferret-c) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1048) 
 - **Battle Value:** 1211 
 - [*More Info*](ice_ferret/ice_ferret_c.md) 
 
@@ -96,7 +96,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1049/fenris-ice-ferret-d) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1049) 
 - **Battle Value:** 1653 
 - [*More Info*](ice_ferret/ice_ferret_d.md) 
 
@@ -116,7 +116,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1050/fenris-ice-ferret-e) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1050) 
 - **Battle Value:** 1483 
 - [*More Info*](ice_ferret/ice_ferret_e.md) 
 
@@ -136,7 +136,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1051/fenris-ice-ferret-h) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1051) 
 - **Battle Value:** 1619 
 - [*More Info*](ice_ferret/ice_ferret_h.md) 
 
@@ -156,7 +156,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1052/fenris-ice-ferret-l) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1052) 
 - **Battle Value:** 1380 
 - [*More Info*](ice_ferret/ice_ferret_l.md) 
 
@@ -177,7 +177,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1054/fenris-ice-ferret-u) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1054) 
 - **Battle Value:** 1549 
 - [*More Info*](ice_ferret/ice_ferret_u.md) 
 
@@ -195,7 +195,7 @@
   - Watchdog CEWS 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7508/fenris-ice-ferret-f) 
+- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7508) 
 - **Battle Value:** 1771 
 - [*More Info*](ice_ferret/ice_ferret_f.md) 
 
@@ -216,7 +216,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7507/fenris-ice-ferret-g) 
+- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7507) 
 - **Battle Value:** 1196 
 - [*More Info*](ice_ferret/ice_ferret_g.md) 
 
@@ -237,7 +237,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7506/fenris-ice-ferret-i) 
+- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7506) 
 - **Battle Value:** 1094 
 - [*More Info*](ice_ferret/ice_ferret_i.md) 
 
@@ -258,7 +258,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7505/fenris-ice-ferret-j) 
+- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7505) 
 - **Battle Value:** 1739 
 - [*More Info*](ice_ferret/ice_ferret_j.md) 
 
@@ -278,7 +278,7 @@
   - Laser Anti-Missile System 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7504/fenris-ice-ferret-k) 
+- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7504) 
 - **Battle Value:** 1769 
 - [*More Info*](ice_ferret/ice_ferret_k.md) 
 
@@ -300,7 +300,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7503/fenris-ice-ferret-t) 
+- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7503) 
 - **Battle Value:** 1825 
 - [*More Info*](ice_ferret/ice_ferret_t.md) 
 

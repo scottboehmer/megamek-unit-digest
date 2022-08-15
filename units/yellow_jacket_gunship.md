@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3613/yellow-jacket-gunship-ammo) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3613) 
 - **Battle Value:** 803 
 - [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_ammo.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3617/yellow-jacket-gunship-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3617) 
 - **Battle Value:** 782 
 - [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_standard.md) 
 
@@ -41,7 +41,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3616/yellow-jacket-gunship-rac) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3616) 
 - **Battle Value:** 704 
 - [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_rac.md) 
 
@@ -57,7 +57,7 @@
   - Arrow IV (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3614/yellow-jacket-gunship-arrow-iv) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3614) 
 - **Battle Value:** 612 
 - [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_arrow_iv.md) 
 
@@ -73,7 +73,7 @@
   - ER PPC 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3615/yellow-jacket-gunship-ppc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3615) 
 - **Battle Value:** 758 
 - [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_ppc.md) 
 

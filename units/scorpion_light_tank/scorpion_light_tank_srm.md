@@ -4,7 +4,7 @@
 
 ## Scorpion Light Tank (SRM) 
 
-- **Role:** Juggernaut 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (2840) 
 - **Chassis:** 25 tons Tracked 
 - **Movement:** 4 / 6, ICE 
@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 45) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2846/scorpion-light-tank-srm) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2846) 
 - **Battle Value:** 373 
 
 ## Availability 
@@ -184,6 +184,20 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Escorpión Imperio 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Scorpion Empire 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
 - Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 

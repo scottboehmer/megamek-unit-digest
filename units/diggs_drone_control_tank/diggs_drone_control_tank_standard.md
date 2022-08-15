@@ -17,7 +17,7 @@
   - Angel ECM Suite 
   - CASE 
   - Drone Control System 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7299/diggs-drone-control-tank-standard) 
+- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7299) 
 - **Battle Value:** 655 
 
 ## Availability 
@@ -29,4 +29,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

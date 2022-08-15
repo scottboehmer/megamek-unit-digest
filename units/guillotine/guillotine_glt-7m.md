@@ -20,7 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8420/guillotine-glt-7m) 
+- **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8420) 
 - **Battle Value:** 1877 
 
 ## Availability 
@@ -60,4 +60,11 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
 

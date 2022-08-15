@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/975/enfield-end-6sr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/975) 
 - **Battle Value:** 1361 
 
 ## Availability 
@@ -47,4 +47,9 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
 

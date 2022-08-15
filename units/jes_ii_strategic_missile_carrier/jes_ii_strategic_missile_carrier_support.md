@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 20 w/ Artemis IV × 4 (ammo: 48) 
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6805/jes-ii-strategic-missile-carrier-support) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6805) 
 - **Battle Value:** 1209 
 
 ## Availability 
@@ -35,4 +35,11 @@
 - Clan Jade Falcon 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Federated Suns 
+- Wolf Empire 
 

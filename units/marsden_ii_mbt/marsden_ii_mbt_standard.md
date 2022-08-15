@@ -4,7 +4,7 @@
 
 ## Marsden II MBT (Standard) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (2473) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -14,7 +14,7 @@
   - AC/5 (ammo: 20) 
   - SRM 6 × 2 (ammo: 60) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2084/marsden-mbt-ii) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2084) 
 - **Battle Value:** 984 
 
 ## Availability 

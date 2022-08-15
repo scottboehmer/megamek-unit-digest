@@ -18,8 +18,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3332/turkina-prime) 
+  - Easy to Pilot 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3332) 
 - **Battle Value:** 2944 
 
 ## Availability 
@@ -76,4 +76,15 @@
 - Clan Nova Cat 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

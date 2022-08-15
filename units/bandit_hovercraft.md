@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/239/bandit-hovercraft-prime) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/239) 
 - **Battle Value:** 929 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_prime.md) 
 
@@ -30,7 +30,7 @@
   - PPC 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/230/bandit-hovercraft-a) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/230) 
 - **Battle Value:** 902 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_a.md) 
 
@@ -47,7 +47,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/231/bandit-hovercraft-b) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/231) 
 - **Battle Value:** 753 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_b.md) 
 
@@ -63,7 +63,7 @@
   - SRM 6 × 2 (ammo: 15) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/232/bandit-hovercraft-c) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/232) 
 - **Battle Value:** 792 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_c.md) 
 
@@ -79,7 +79,7 @@
   - LRM 5 × 3 (ammo: 24) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/233/bandit-hovercraft-d) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/233) 
 - **Battle Value:** 827 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_d.md) 
 
@@ -96,7 +96,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/234/bandit-hovercraft-e) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/234) 
 - **Battle Value:** 839 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_e.md) 
 
@@ -113,7 +113,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/235/bandit-hovercraft-f) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/235) 
 - **Battle Value:** 887 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_f.md) 
 
@@ -130,7 +130,7 @@
   - Small Laser × 6 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/236/bandit-hovercraft-g) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/236) 
 - **Battle Value:** 837 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_g.md) 
 
@@ -147,7 +147,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (8.0 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/237/bandit-hovercraft-h) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/237) 
 - **Battle Value:** 708 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_h.md) 
 
@@ -164,7 +164,7 @@
   - Light Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/238/bandit-hovercraft-i) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/238) 
 - **Battle Value:** 914 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_i.md) 
 
@@ -181,7 +181,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Armored Motive System 
-- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/229/bandit-hovercraft-warthog) 
+- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/229) 
 - **Battle Value:** 804 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_warthog.md) 
 
@@ -199,7 +199,7 @@
 - **Equipment:** 
   - Armored Motive System 
   - CASE 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/3783/bandit-hovercraft-mk-ii-standard) 
+- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/3783) 
 - **Battle Value:** 670 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_mk_2.md) 
 

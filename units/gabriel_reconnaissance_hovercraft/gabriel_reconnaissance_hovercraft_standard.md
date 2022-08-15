@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1165/gabriel-reconnaissance-hovercraft-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1165) 
 - **Battle Value:** 198 
 
 ## Availability 
@@ -122,5 +122,19 @@
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Clan Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 - Taurian Concordat 
 

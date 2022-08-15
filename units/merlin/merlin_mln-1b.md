@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2178/merlin-mln-1b) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2178) 
 - **Battle Value:** 1228 
 
 ## Availability 
@@ -72,6 +72,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### Late Republic 
@@ -83,6 +84,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### Dark Ages 
@@ -94,5 +96,18 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 

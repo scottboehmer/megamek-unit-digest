@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/54/apollo-apl-1m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/54) 
 - **Battle Value:** 1207 
 
 ## Availability 
@@ -98,4 +98,12 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Marian Hegemony 
+- Mercenary 
 

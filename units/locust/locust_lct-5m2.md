@@ -19,7 +19,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6947/locust-lct-5m2) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6947) 
 - **Battle Value:** 693 
 
 ## Availability 
@@ -36,7 +36,13 @@
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Wolf Empire 
 

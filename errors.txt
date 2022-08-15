@@ -11,31 +11,19 @@ Tessen TSN-X4R 'Rapunzel' - unknown battle value
 
 --------------------------------------------------
 Units without Roles:
-Arctic Wolf A
-Hyena HYN-4B SalvageMech
-Patron LoaderMech PTN-1
-Von Rohrs (Hebi) VON 4RH-5
-Von Rohrs (Hebi) VON 4RH-6
 Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
 Beowulf C
-Tomahawk C
-Atlas II AS7-D-HT
 Ti Ts'ang TSG-9 'China Doll'
-Legionnaire LGN-2D (Raul)
 Mad Cat III 2 (MWDA)
 Mad Cat III (Dark Age RS)
 Ryoken II (Tassa)
-Ti Ts'ang Jason
-Mackie MSK-9HKR 'Kill-Roy's Little Buddy'
 Archer C 2
 Blackjack C
 Rock Hound ProspectorMech AM-PRM-RH7 'Rock Possum'
 Rock Hound ProspectorMech AM-PRM-RH7
 Rock Hound ProspectorMech AM-PRM-RH7A 'Rock Otter'
 Space Hound ProspectorMech AM-PRM-SH1
-Thunderbolt TDR-5L
-Thunderbolt TDR-5LS
 Dragoon AEM-02
 Dragoon AEM-03
 Dragoon AEM-04
@@ -55,7 +43,6 @@ StrongArm SC CV ConstructionMech
 StrongArm SC CVI ConstructionMech
 Arana MilitiaMech ARA-S-1
 Reptar MilitiaMech EPT-C-1
-Omega SHP-4X
 Bull Shark BSK-M3
 Bull Shark BSK-MAZ
 Corsair COR-5R
@@ -81,71 +68,36 @@ Sun Spider D
 Sun Spider Manul
 Sun Spider Prime
 Sun Spider Vanguard
-Crosscut ED-X2 LoggerMech
-Harvester Ant KIC-3M AgroMech (MG)
-Harvester Ant KIC-3M-B AgroMech (LRM)
-Powerman SC XI LoaderMech (Standard)
 Mad Cat III 2
 Stinger C 2
 Stinger C
-Kodiak 6
-Battle Cobra I
-Katana (Crockett) CRK-5006-1
-Star Python (Standard)
-Thresher Mk II (Standard)
-Marauder (Bounty Hunter-3138)
-Templar III TLR2-J 'Arthur'
-Hatchetman HCT-5DT
-Templar TLR1-OBLO
+Marauder Red Hunter
+Warhammer C 3
+Deimos H
+Longshot LNG-2 (Reskov)
+Rattlesnake II RSN-1
+Rattlesnake II RSN-2
+Rattlesnake JR7-31
+Rattlesnake JR7-31P
+Rattlesnake JR7-31R (Gideon)
 Grand Dragon DRG-1G (Emory)
-Reconquista (Standard)
-Awesome AWS-10KM (Cameron)
 Carbine CON-7 ConstructionMech (Standard)
-Carbine CON-8 ConstructionMech (Standard)
 CattleMaster CTL-3R 'Herder' IndustrialMech
 Copper SecurityMech CPK-19
+Crosscut ED-X2M LoggerMech MOD
 Crosscut ED-X4B DemolitionMech
 Crosscut ED-X4D DemolitionMech
-Crosscut ED-X5M-B DemolitionMech MOD
-Peacemaker PM-6 PoliceMech (Standard)
+Harvester Ant KIC-3M AgroMech MOD
+Harvester Ant KIC-3M-B AgroMech MOD
 Pompier Firemech GM-3HT
 Shugosha PTN-LAW LoaderMech
-Uni ATAE-70 CargoMech (Standard)
+Uni ATAE-70T CargoMech (Standard)
 Vampyr SC-V-1 SalvageMech (Standard)
-Cazador (Standard)
-Rhino (Standard)
-Tolva (Standard)
-Vanquisher VQR-7V (Pravuil)
-Panther PNT-9ALAG
 Talon TLN-5VNO
-Crosscut IIC SolahmaMech
-Gauss-Buster MilitiaMech
-Uni ATAE-70 ArtilleryMech
+Arbiter SecurityMech ARB-001
 Ti Ts'ang TSG-9DDC 'Prototype'
-Ryoken III-XP (Skinwalker) A
-Ryoken III-XP (Skinwalker) B
-Ryoken III-XP (Skinwalker) C
-Ryoken III-XP (Skinwalker) D
-Ryoken III-XP (Skinwalker) Prime
 Pathfinder PFF-2T
-Agrotera AGT-UA 'Ariel'
-Buccaneer BCN-6PX 'Pan'
-Calliope CAL-1MAFSW 'Snow White'
-Celerity CLR-03OMM 'Rajah'
-Clint IIC 2L 'Leia'
-Ghost GST-10A 'Aurora'
-Gunsmith CH11-NGC 'Cinderella'
-Hitotsume Kozo HKZ-1FM 'Mulan'
-Hunchback HBK-LGN-Pin 'Anastasia'
-Hunchback HBK-LGN-Pin 'Drizella'
-Phoenix Hawk PXH-7KJ 'Jasmine'
 Tessen TSN-X4R 'Rapunzel'
-Trebuchet TBT-7MM 'Merida'
-Vulcan VT-5ML 'Aladdin'
-Vulpes VLP-1DX 'Beast'
-Watchman WTC-4MB 'Belle'
-Wraith TR2-P 'Pocahontas'
-Undine Battle Armor 'Sebastian'
 Puma Assault Tank PAT-001
 Puma Assault Tank PAT-002
 Falcon Hover Tank (Standard)
@@ -155,7 +107,6 @@ Hover Tank (Standard)
 Jeep (Standard)
 Jet Sled (Standard)
 M.A.S.H. Truck (Small)
-Mobile Long Tom Artillery (Unofficial) (+ Carriage)
 Skimmer (Standard)
 Speeder (Standard)
 Weapons Carrier A (LL)
@@ -170,7 +121,6 @@ J-27 Ordnance Transport (Armor)
 J-27 Ordnance Transport (Fusion)
 J-27 Ordnance Transport (Trailer)
 J-27 Ordnance Transport (Standard)
-Karnov UR Transport (Standard)
 M.A.S.H. Truck (ICE)
 M.A.S.H. Truck (Standard)
 Mobile Headquarters (ICE - LL)
@@ -181,17 +131,16 @@ Mobile Headquarters (LRM)
 Mobile Headquarters (Standard)
 Mobile Long Tom Artillery Ammunition Trailer LT-MOB-25
 Mobile Long Tom Artillery Support Carriage LT-MOB-25
+Mobile Long Tom Artillery LT-MOB-25
 Neptune Submarine (Standard)
 Karnov UR Transport (3055 Upgrade)
 Karnov UR Transport (BA)
 Kestrel VTOL (MedEvac)
 Peregrine Attack VTOL (Cargo)
 BattleMech Recovery Vehicle (Standard)
-Flatbed Truck (AC)
+Flatbed Truck (Standard)
 Heavy BattleMech Recovery Vehicle (Standard)
 Morningstar City Command Vehicle (HPG)
-Daimyo HQ 67-NC
-Marsden II MBT (Standard)
 Transportable Field Repair Unit JI-100
 Manta Fast Attack Submarine (Support)
 Moray Heavy Attack Submarine (Original)
@@ -200,62 +149,143 @@ Garrot Superheavy Transport (Standard)
 MIT24 MASH Vehicle (Standard)
 Mobile Tactical Command HQ (Standard)
 Kokou Defense Tank (Standard)
-Manticore Heavy Tank EC
-Rhino Fire Support Tank EC
-Zephyr Hovertank EC
-Vector (Scout)
+Vector Combat Support VTOL (Scout)
 Wheeled Scout (Camera)
 Wheeled Scout (Sensors)
 Wheeled Scout (Standard)
 Hephaestus Jump Tank (AP)
 Nuberu Anti Aircraft Tank 2 'Numantia'
-SM5 Field Commander Prime
 Packrat LRPV PKR-T5 (TOC)
 Desert Scorpion Light Tank (Standard)
 Koryu Submarine (Civilian)
 Koryu Submarine (Military)
-SturmFeur 'Kalki' Cruise Missile Launcher (Standard)
 Karnov UR Transport (Heavy Stealth)
 Patton Tank -SB
-SM1 Tank Destroyer (Telos)
-Kobold Battle Armor IIC (Standard)
-Rhino Battle Armor (Standard)
-Water Elemental Mining Suit (Standard)
-Machina Domini Interface Armor (Standard)
-TinStar BattleArmor (Standard)
-Hantu AIX-210
-Ailette Zero-G Engineering Exoskeleton (Standard)
-Gladiator Exoskeleton (Standard) [AG]
-Gladiator Exoskeleton (Standard) [BC/ID]
-Gorilla Exoskeleton 'Falcata'
-Gorilla Exoskeleton PEX-2B
-Groundhog Exoskeleton CEX-205 [Armored Glove]
-Groundhog Exoskeleton CEX-205 [Basic Manipulator]
-Groundhog Exoskeleton CEX-205 [Cargo Lifter]
-Groundhog Exoskeleton CEX-205 [Industrial Drill]
-Groundhog Exoskeleton CEX-205 [Mine Clearance]
-Groundhog Exoskeleton CEX-205 [Salvage Arm]
-HeavyHauler Exoskeleton (Standard)
-Krise PA(L) (Standard)
-PowerLoader Exoskeleton P-5000
-Resgate PA(L) (Support)
-Salrilla Exoskeleton [Mine Clearance]
-Salrilla Exoskeleton [Salvage Arm]
-Smoothdavid PA(L) II
-Smoothdavid PA(L) III
-Smoothgoliath PA(L) II
-Tunnel Rat I Mining Exoskeleton [Armored Glove]
-Tunnel Rat I Mining Exoskeleton [Industrial Drill]
-Tunnel Rat II Mining Exoskeleton [Armored Glove]
-Tunnel Rat II Mining Exoskeleton [Industrial Drill]
-Tunnel Rat III Mining Exoskeleton [Armored Glove]
-Tunnel Rat III Mining Exoskeleton [Industrial Drill]
-Tunnel Rat IV Mining Exoskeleton [Armored Glove/GL]
-Tunnel Rat IV Mining Exoskeleton [Armored Glove/LMG]
-Tunnel Rat IV Mining Exoskeleton [Battle Claw/GL]
-Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG]
-Groundhog Exoskeleton 'Master Thief'
-Ailette Rescue PA(L) (Standard)
+Cavalier Battle Armor [MG](Sqd6)
+Clan Medium Battle Armor (Laser) 'Volk' (Sqd6)
+Grenadier Battle Armor [TAG](Sqd5)
+Trinity Medium Battle Armor (Theseus RL)[LRR](Sqd5)
+Trinity Medium Battle Armor (Ying Long)(Plasma)(Sqd5)
+Nighthawk PA(L) Mk. XXX (Bounty Hunter)(Non-Functional)
+Constable Pacification Suit [SRM] (Sqd4)
+Cavalier II Battle Armor [Flamer](Sqd4)
+IS Standard Battle Armor (Baka) [LRR](Sqd5)
+IS Standard Battle Armor (Baka) [LRR](Sqd6)
+IS Standard Battle Armor (Baka) [SL](Sqd5)
+IS Standard Battle Armor (Baka) [SL](Sqd6)
+IS Standard Battle Armor (Fa Sure) [David](Sqd5)
+IS Standard Battle Armor (Fa Sure) [David](Sqd6)
+IS Standard Battle Armor (Fa Sure) [MG](Sqd5)
+IS Standard Battle Armor (Fa Sure) [MG](Sqd6)
+Kanazuchi Assault Battle Armor (Support)(Sqd5)
+Kanazuchi Assault Battle Armor (Support)(Sqd6)
+Rhino Battle Armor (Standard)(Sqd4)
+Rhino Battle Armor (Standard)(Sqd5)
+Rhino Battle Armor (Standard)(Sqd6)
+Water Elemental Mining Suit (Standard)(Sqd4)
+Water Elemental Mining Suit (Standard)(Sqd5)
+Water Elemental Mining Suit (Standard)(Sqd6)
+Machina Domini Interface Armor (Standard)(Sqd1)
+TinStar BattleArmor (Standard)(Sqd5)
+TinStar BattleArmor (Standard)(Sqd6)
+Achileus Light Battle Armor [Laser]
+Hantu AIX-210(Sqd4)
+Hantu AIX-210(Sqd5)
+Hantu AIX-210(Sqd6)
+Ailette Zero-G Engineering Exoskeleton (Standard)(Sqd4)
+Ailette Zero-G Engineering Exoskeleton (Standard)(Sqd5)
+Ailette Zero-G Engineering Exoskeleton (Standard)(Sqd6)
+Gladiator Exoskeleton (Standard) [AG](Sqd5)
+Gladiator Exoskeleton (Standard) [AG](Sqd4)
+Gladiator Exoskeleton (Standard) [AG](Sqd6)
+Gladiator Exoskeleton (Standard) [BC/ID](Sqd5)
+Gladiator Exoskeleton (Standard) [BC/ID](Sqd4)
+Gladiator Exoskeleton (Standard) [BC/ID](Sqd6)
+Gorilla Exoskeleton 'Falcata'(Sqd4)
+Gorilla Exoskeleton 'Falcata'(Sqd5)
+Gorilla Exoskeleton 'Falcata'(Sqd6)
+Gorilla Exoskeleton PEX-2B(Sqd4)
+Gorilla Exoskeleton PEX-2B(Sqd5)
+Gorilla Exoskeleton PEX-2B(Sqd6)
+Groundhog Exoskeleton CEX-205 [Armored Glove](Sqd4)
+Groundhog Exoskeleton CEX-205 [Armored Glove](Sqd5)
+Groundhog Exoskeleton CEX-205 [Armored Glove](Sqd6)
+Groundhog Exoskeleton CEX-205 [Basic Manipulator](Sqd4)
+Groundhog Exoskeleton CEX-205 [Basic Manipulator](Sqd5)
+Groundhog Exoskeleton CEX-205 [Basic Manipulator](Sqd6)
+Groundhog Exoskeleton CEX-205 [Cargo Lifter](Sqd4)
+Groundhog Exoskeleton CEX-205 [Cargo Lifter](Sqd5)
+Groundhog Exoskeleton CEX-205 [Cargo Lifter](Sqd6)
+Groundhog Exoskeleton CEX-205 [Industrial Drill](Sqd4)
+Groundhog Exoskeleton CEX-205 [Industrial Drill](Sqd5)
+Groundhog Exoskeleton CEX-205 [Industrial Drill](Sqd6)
+Groundhog Exoskeleton CEX-205 [Mine Clearance](Sqd4)
+Groundhog Exoskeleton CEX-205 [Mine Clearance](Sqd5)
+Groundhog Exoskeleton CEX-205 [Mine Clearance](Sqd6)
+Groundhog Exoskeleton CEX-205 [Salvage Arm](Sqd4)
+Groundhog Exoskeleton CEX-205 [Salvage Arm](Sqd5)
+Groundhog Exoskeleton CEX-205 [Salvage Arm](Sqd6)
+HeavyHauler Exoskeleton (Standard)(Sqd4)
+HeavyHauler Exoskeleton (Standard)(Sqd5)
+HeavyHauler Exoskeleton (Standard)(Sqd6)
+Krise PA(L) (Standard)(Sqd4)
+Krise PA(L) (Standard)(Sqd5)
+Krise PA(L) (Standard)(Sqd6)
+PowerLoader Exoskeleton P-5000(Sqd4)
+PowerLoader Exoskeleton P-5000(Sqd5)
+PowerLoader Exoskeleton P-5000(Sqd6)
+Resgate PA(L) (Support)(Sqd4)
+Resgate PA(L) (Support)(Sqd5)
+Resgate PA(L) (Support)(Sqd6)
+Salrilla Exoskeleton [Mine Clearance](Sqd4)
+Salrilla Exoskeleton [Mine Clearance](Sqd5)
+Salrilla Exoskeleton [Mine Clearance](Sqd6)
+Salrilla Exoskeleton [Salvage Arm](Sqd4)
+Salrilla Exoskeleton [Salvage Arm](Sqd5)
+Salrilla Exoskeleton [Salvage Arm](Sqd6)
+Smoothdavid PA(L) II(Sqd4)
+Smoothdavid PA(L) II(Sqd5)
+Smoothdavid PA(L) II(Sqd6)
+Smoothdavid PA(L) III(Sqd4)
+Smoothdavid PA(L) III(Sqd5)
+Smoothdavid PA(L) III(Sqd6)
+Smoothgoliath PA(L) II(Sqd4)
+Smoothgoliath PA(L) II(Sqd5)
+Smoothgoliath PA(L) II(Sqd6)
+Tunnel Rat I Mining Exoskeleton [Armored Glove](Sqd4)
+Tunnel Rat I Mining Exoskeleton [Armored Glove](Sqd5)
+Tunnel Rat I Mining Exoskeleton [Armored Glove](Sqd6)
+Tunnel Rat I Mining Exoskeleton [Industrial Drill](Sqd4)
+Tunnel Rat I Mining Exoskeleton [Industrial Drill](Sqd5)
+Tunnel Rat I Mining Exoskeleton [Industrial Drill](Sqd6)
+Tunnel Rat II Mining Exoskeleton [Armored Glove](Sqd4)
+Tunnel Rat II Mining Exoskeleton [Armored Glove](Sqd5)
+Tunnel Rat II Mining Exoskeleton [Armored Glove](Sqd6)
+Tunnel Rat II Mining Exoskeleton [Industrial Drill](Sqd4)
+Tunnel Rat II Mining Exoskeleton [Industrial Drill](Sqd5)
+Tunnel Rat II Mining Exoskeleton [Industrial Drill](Sqd6)
+Tunnel Rat III Mining Exoskeleton [Armored Glove](Sqd4)
+Tunnel Rat III Mining Exoskeleton [Armored Glove](Sqd5)
+Tunnel Rat III Mining Exoskeleton [Armored Glove](Sqd6)
+Tunnel Rat III Mining Exoskeleton [Industrial Drill](Sqd4)
+Tunnel Rat III Mining Exoskeleton [Industrial Drill](Sqd5)
+Tunnel Rat III Mining Exoskeleton [Industrial Drill](Sqd6)
+Tunnel Rat IV Mining Exoskeleton [Armored Glove/GL](Sqd4)
+Tunnel Rat IV Mining Exoskeleton [Armored Glove/GL](Sqd5)
+Tunnel Rat IV Mining Exoskeleton [Armored Glove/GL](Sqd6)
+Tunnel Rat IV Mining Exoskeleton [Armored Glove/LMG](Sqd4)
+Tunnel Rat IV Mining Exoskeleton [Armored Glove/LMG](Sqd5)
+Tunnel Rat IV Mining Exoskeleton [Armored Glove/LMG](Sqd6)
+Tunnel Rat IV Mining Exoskeleton [Battle Claw/GL](Sqd4)
+Tunnel Rat IV Mining Exoskeleton [Battle Claw/GL](Sqd5)
+Tunnel Rat IV Mining Exoskeleton [Battle Claw/GL](Sqd6)
+Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG](Sqd4)
+Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG](Sqd5)
+Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG](Sqd6)
+Kobold Battle Armor X-C3(Sqd6)
+Groundhog Exoskeleton 'Master Thief'(Sqd1)
+Tornado PA(L) G17(Sqd5)
+Tortoise II (aSRM)(Sqd5)
 
 --------------------------------------------------
-5653 files -> 5605 parsed files (48 skipped) -> 5386 converted files -> 5378 validated units
+6391 files -> 6391 parsed files (0 skipped) -> 6172 converted files -> 6163 validated units

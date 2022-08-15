@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3405/victor-vtr-10l) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3405) 
 - **Battle Value:** 2279 
 
 ## Availability 
@@ -55,4 +55,10 @@
 - Duchy of Andurien 
 - Magistracy of Canopus 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
 

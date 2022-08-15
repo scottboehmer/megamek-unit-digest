@@ -12,7 +12,7 @@
   - Arrow IV (ammo: 15) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/558/chaparral-missile-artillery-tank-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/558) 
 - **Battle Value:** 812 
 - [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_standard.md) 
 
@@ -29,7 +29,7 @@
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/556/chaparral-missile-artillery-tank-mg) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/556) 
 - **Battle Value:** 801 
 - [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_mg.md) 
 
@@ -45,7 +45,7 @@
   - Arrow IV (ammo: 20) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/557/chaparral-missile-artillery-tank-srm) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/557) 
 - **Battle Value:** 832 
 - [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) 
 
@@ -63,7 +63,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/554/chaparral-missile-artillery-tank-case) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/554) 
 - **Battle Value:** 814 
 - [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_case.md) 
 
@@ -79,7 +79,7 @@
   - Arrow IV (ammo: 15) 
   - ER Medium Laser × 2 
   - SRM 6 (ammo: 15) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/555/chaparral-missile-artillery-tank-erml) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/555) 
 - **Battle Value:** 847 
 - [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_erml.md) 
 

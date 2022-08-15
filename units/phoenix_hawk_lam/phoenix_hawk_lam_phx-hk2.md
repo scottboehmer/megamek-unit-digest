@@ -17,7 +17,7 @@
   - Large Laser 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4822/phoenix-hawk-lam-phx-hk2) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4822) 
 - **Battle Value:** 1555 
 
 ## Availability 

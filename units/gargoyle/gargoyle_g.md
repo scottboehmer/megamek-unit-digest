@@ -22,7 +22,7 @@
   - Stabilized Weapon (AP Gauss Rifle) 
   - Stabilized Weapon (AP Gauss Rifle) 
   - Stabilized Weapon (AP Gauss Rifle) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2007/man-o-war-gargoyle-g) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2007) 
 - **Battle Value:** 2156 
 
 ## Availability 
@@ -72,4 +72,10 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Star League (Wolf) 
 

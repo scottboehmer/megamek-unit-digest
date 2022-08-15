@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2378/ostsol-otl-8m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2378) 
 - **Battle Value:** 1733 
 
 ## Availability 
@@ -58,4 +58,9 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

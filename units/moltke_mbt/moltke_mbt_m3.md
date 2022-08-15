@@ -15,7 +15,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2207/moltke-mbt-m3) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2207) 
 - **Battle Value:** 1438 
 
 ## Availability 
@@ -33,6 +33,10 @@
 - Duchy of Andurien 
 
 ### Dark Ages 
+
+- Duchy of Andurien 
+
+### ilClan 
 
 - Duchy of Andurien 
 

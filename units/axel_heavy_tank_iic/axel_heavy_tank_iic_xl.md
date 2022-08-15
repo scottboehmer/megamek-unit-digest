@@ -19,7 +19,7 @@
   - Anti-Missile System (ammo: 24) 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/183/axel-heavy-tank-iic-xl) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/183) 
 - **Battle Value:** 1911 
 
 ## Availability 
@@ -38,6 +38,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

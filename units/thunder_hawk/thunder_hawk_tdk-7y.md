@@ -18,7 +18,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3223/thunder-hawk-tdk-7y) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3223) 
 - **Battle Value:** 2489 
 
 ## Availability 
@@ -50,4 +50,8 @@
 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
 

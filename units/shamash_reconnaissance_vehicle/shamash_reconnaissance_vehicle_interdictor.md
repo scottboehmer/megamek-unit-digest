@@ -14,7 +14,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2920/shamash-reconnaissance-vehicle-interdictor) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2920) 
 - **Battle Value:** 520 
 
 ## Availability 
@@ -65,4 +65,21 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

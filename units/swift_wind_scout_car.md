@@ -11,7 +11,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3145/swift-wind-scout-car-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3145) 
 - **Battle Value:** 83 
 - [*More Info*](swift_wind_scout_car/swift_wind_scout_car_standard.md) 
 
@@ -25,7 +25,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3144/swift-wind-scout-car-ice) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3144) 
 - **Battle Value:** 83 
 - [*More Info*](swift_wind_scout_car/swift_wind_scout_car_ice.md) 
 
@@ -39,7 +39,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3142/swift-wind-scout-car-ice---cargo) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3142) 
 - **Battle Value:** 81 
 - [*More Info*](swift_wind_scout_car/swift_wind_scout_car_ice_-_cargo.md) 
 
@@ -53,7 +53,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3143/swift-wind-scout-car-ice---speed) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3143) 
 - **Battle Value:** 39 
 - [*More Info*](swift_wind_scout_car/swift_wind_scout_car_ice_-_speed.md) 
 

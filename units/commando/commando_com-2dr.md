@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/671/commando-com-2dr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/671) 
 - **Battle Value:** 563 
 
 ## Availability 
@@ -69,6 +69,17 @@
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1820/koschei-ksc-3i) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1820) 
 - **Battle Value:** 1255 
 - [*More Info*](koschei/koschei_ksc-3i.md) 
 
@@ -33,7 +33,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1821/koschei-ksc-3l) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1821) 
 - **Battle Value:** 1384 
 - [*More Info*](koschei/koschei_ksc-3l.md) 
 
@@ -54,7 +54,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1822/koschei-ksc-4i) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1822) 
 - **Battle Value:** 1516 
 - [*More Info*](koschei/koschei_ksc-4i.md) 
 
@@ -75,7 +75,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1823/koschei-ksc-4l) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1823) 
 - **Battle Value:** 1503 
 - [*More Info*](koschei/koschei_ksc-4l.md) 
 
@@ -98,7 +98,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1825/koschei-ksc-5mc) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1825) 
 - **Battle Value:** 1764 
 - [*More Info*](koschei/koschei_ksc-5mc.md) 
 
@@ -121,7 +121,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1824/koschei-ksc-5i) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1824) 
 - **Battle Value:** 1961 
 - [*More Info*](koschei/koschei_ksc-5i.md) 
 
@@ -145,7 +145,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1826/koschei-ksc-5x) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1826) 
 - **Battle Value:** 1554 
 - [*More Info*](koschei/koschei_ksc-5x.md) 
 
@@ -167,7 +167,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6881/koschei-ksc-6l) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6881) 
 - **Battle Value:** 1465 
 - [*More Info*](koschei/koschei_ksc-6l.md) 
 

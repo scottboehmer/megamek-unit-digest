@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7176/jabberwocky-jaw-67-militiamech) 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7176) 
 - **Battle Value:** 897 
 
 ## Availability 
@@ -40,6 +40,12 @@
 - Filtvelt Coalition 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Federated Suns 

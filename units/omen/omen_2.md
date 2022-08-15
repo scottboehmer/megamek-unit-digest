@@ -24,12 +24,16 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Rugged (×2) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6853/omen-2) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6853) 
 - **Battle Value:** 2384 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

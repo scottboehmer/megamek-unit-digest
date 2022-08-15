@@ -24,7 +24,7 @@
   - Searchlight 
   - Stable 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/849/defiance-dfn-3c) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/849) 
 - **Battle Value:** 1817 
 
 ## Availability 

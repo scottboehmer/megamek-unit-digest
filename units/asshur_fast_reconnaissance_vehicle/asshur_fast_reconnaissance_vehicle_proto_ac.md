@@ -14,7 +14,7 @@
   - ProtoMech AC/8 (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/134/asshur-fast-reconnaissance-vehicle-proto-ac) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/134) 
 - **Battle Value:** 333 
 
 ## Availability 

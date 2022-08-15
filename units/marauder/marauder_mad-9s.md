@@ -24,7 +24,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (LB 10-X AC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2049/marauder-mad-9s) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2049) 
 - **Battle Value:** 1786 
 
 ## Availability 
@@ -58,4 +58,13 @@
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Vesper Marches 
 

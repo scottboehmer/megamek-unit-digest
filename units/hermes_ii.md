@@ -15,8 +15,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1497/hermes-ii-her-2s) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1497) 
 - **Battle Value:** 784 
 - [*More Info*](hermes_ii/hermes_ii_her-2s.md) 
 
@@ -35,8 +34,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1496/hermes-ii-her-2m-mercury) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1496) 
 - **Battle Value:** 910 
 - [*More Info*](hermes_ii/hermes_ii_her-2m_mercury.md) 
 
@@ -53,8 +51,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1498/hermes-ii-her-4k-hermes-iii) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1498) 
 - **Battle Value:** 976 
 - [*More Info*](hermes_ii/hermes_ii_her-4k_hermes_iii.md) 
 
@@ -73,8 +70,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1501/hermes-ii-her-5s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1501) 
 - **Battle Value:** 857 
 - [*More Info*](hermes_ii/hermes_ii_her-5s.md) 
 
@@ -91,8 +87,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1500/hermes-ii-her-5me-mercury-elite) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1500) 
 - **Battle Value:** 847 
 - [*More Info*](hermes_ii/hermes_ii_her-5me_mercury_elite.md) 
 
@@ -113,8 +108,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1499/hermes-ii-her-5c) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1499) 
 - **Battle Value:** 1119 
 - [*More Info*](hermes_ii/hermes_ii_her-5c.md) 
 
@@ -133,8 +127,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1504/hermes-ii-her-6d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1504) 
 - **Battle Value:** 1106 
 - [*More Info*](hermes_ii/hermes_ii_her-6d.md) 
 
@@ -153,8 +146,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1502/hermes-ii-her-5sa) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1502) 
 - **Battle Value:** 924 
 - [*More Info*](hermes_ii/hermes_ii_her-5sa.md) 
 
@@ -176,8 +168,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1503/hermes-ii-her-5sr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1503) 
 - **Battle Value:** 1242 
 - [*More Info*](hermes_ii/hermes_ii_her-5sr.md) 
 
@@ -199,8 +190,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1505/hermes-ii-her-7s) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1505) 
 - **Battle Value:** 1525 
 - [*More Info*](hermes_ii/hermes_ii_her-7s.md) 
 

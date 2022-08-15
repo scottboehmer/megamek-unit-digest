@@ -19,8 +19,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1671/jagermech-jm7-c3bs) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1671) 
 - **Battle Value:** 1354 
 
 ## Availability 
@@ -38,6 +37,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+
+### ilClan 
 
 - Capellan Confederation 
 - Federated Suns 

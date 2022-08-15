@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6879/loki-hellbringer-g) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6879) 
 - **Battle Value:** 1956 
 
 ## Availability 
@@ -49,4 +49,19 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Tamar Pact 
+- Vesper Marches 
 

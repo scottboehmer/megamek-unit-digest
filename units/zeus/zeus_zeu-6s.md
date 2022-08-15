@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3642/zeus-zeu-6s) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3642) 
 - **Battle Value:** 1348 
 
 ## Availability 
@@ -128,6 +128,10 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Scorpion Empire 
+
+### ilClan 
 
 - Scorpion Empire 
 

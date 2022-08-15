@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3335/typhoon-urban-assault-vehicle-lb-x) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3335) 
 - **Battle Value:** 1064 
 
 ## Availability 
@@ -50,4 +50,12 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

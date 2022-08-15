@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (3.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3138/svantovit-infantry-fighting-vehicle-original) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3138) 
 - **Battle Value:** 889 
 - [*More Info*](svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_original.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3139/svantovit-infantry-fighting-vehicle-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3139) 
 - **Battle Value:** 698 
 - [*More Info*](svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_standard.md) 
 
@@ -52,7 +52,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3137/svantovit-infantry-fighting-vehicle-atm-masada) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3137) 
 - **Battle Value:** 988 
 - [*More Info*](svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_atm_masada.md) 
 

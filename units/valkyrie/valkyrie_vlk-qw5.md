@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3381/valkyrie-vlk-qw5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3381) 
 - **Battle Value:** 667 
 
 ## Availability 

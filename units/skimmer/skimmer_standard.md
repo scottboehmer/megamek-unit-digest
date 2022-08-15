@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Small Laser 
   - Flamer 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5065/skimmer-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5065) 
 - **Battle Value:** 85 
 
 ## Availability 

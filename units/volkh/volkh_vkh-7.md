@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3448/volkh-vkh-7) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3448) 
 - **Battle Value:** 1578 
 
 ## Availability 

@@ -26,7 +26,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Ultra AC/5) 
-- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3574/wolverine-wvr-7d) 
+- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3574) 
 - **Battle Value:** 1314 
 
 ## Availability 
@@ -66,6 +66,11 @@
 - Republic of the Sphere 
 
 ### Dark Ages 
+
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
 
 - Filtvelt Coalition 
 - Mercenary 

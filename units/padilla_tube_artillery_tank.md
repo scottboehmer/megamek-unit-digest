@@ -14,7 +14,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2405/padilla-tube-artillery-tank-ltc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2405) 
 - **Battle Value:** 985 
 - [*More Info*](padilla_tube_artillery_tank/padilla_tube_artillery_tank_ltc.md) 
 
@@ -30,7 +30,7 @@
   - Sniper (ammo: 20) 
   - LRM 5 × 2 (ammo: 48) 
   - Small Pulse Laser × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2406/padilla-tube-artillery-tank-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2406) 
 - **Battle Value:** 592 
 - [*More Info*](padilla_tube_artillery_tank/padilla_tube_artillery_tank_standard.md) 
 
@@ -48,7 +48,7 @@
   - MML 3 × 4 (ammo: 40 LRM, 33 SRM) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2407/padilla-tube-artillery-tank-thumper) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2407) 
 - **Battle Value:** 690 
 - [*More Info*](padilla_tube_artillery_tank/padilla_tube_artillery_tank_thumper.md) 
 

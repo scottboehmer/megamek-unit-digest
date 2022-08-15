@@ -22,7 +22,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1118/flamberge-c) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1118) 
 - **Battle Value:** 2126 
 
 ## Availability 
@@ -42,4 +42,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
 

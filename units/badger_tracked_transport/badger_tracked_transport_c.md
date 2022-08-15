@@ -14,7 +14,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/202/badger-tracked-transport-c) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/202) 
 - **Battle Value:** 450 
 
 ## Availability 
@@ -58,4 +58,10 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

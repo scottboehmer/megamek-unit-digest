@@ -23,7 +23,7 @@
   - Stabilized Weapon (Medium Pulse Laser) 
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER Small Laser) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2002/man-o-war-gargoyle-a) 
+- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2002) 
 - **Battle Value:** 2689 
 
 ## Availability 
@@ -179,4 +179,10 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Star League (Wolf) 
 

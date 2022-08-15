@@ -17,7 +17,7 @@
   - Enviro-Sealing 
   - Lift Hoist × 2 
   - Cargo × 2 
-- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/4274/heavy-lifter-hcl-1-cargomech) 
+- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/4274) 
 - **Battle Value:** 658 
 
 ## Availability 
@@ -47,4 +47,10 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Wolf Empire 
 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/60/arbalest-2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/60) 
 - **Battle Value:** 1098 
 
 ## Availability 
@@ -49,4 +49,10 @@
 - Clan Sea Fox 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Mercenary 
 

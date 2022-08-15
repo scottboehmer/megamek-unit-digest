@@ -4,7 +4,7 @@
 
 ## Agrotera AGT-UA 'Ariel' 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere Mixed (3137) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
@@ -16,12 +16,16 @@
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
   - Clan HarJel III × 3 
-- **Sources:** XTRO: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8365/agroterra-agt-ua-ariel) 
+- **Sources:** XTRO: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8365) 
 - **Battle Value:** 1917 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

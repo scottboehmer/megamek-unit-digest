@@ -22,7 +22,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1909/locust-lct-5t) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1909) 
 - **Battle Value:** 482 
 
 ## Availability 
@@ -54,6 +54,14 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 

@@ -4,7 +4,7 @@
 
 ## Skinwalker-XP "Ryoken III-XP" Prime 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -19,7 +19,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7378/ryoken-iii-xp-skinwalker-prime) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7378) 
 - **Battle Value:** 3063 
 
 ## Availability 

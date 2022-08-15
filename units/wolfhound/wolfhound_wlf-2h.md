@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5417/wolfhound-wlf-2h) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5417) 
 - **Battle Value:** 1511 
 
 ## Availability 
@@ -48,4 +48,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
 

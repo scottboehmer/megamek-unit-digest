@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2524/pillager-plg-1n) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2524) 
 - **Battle Value:** 1812 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3060/stinger-stg-3p) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3060) 
 - **Battle Value:** 489 
 
 ## Availability 
@@ -123,4 +123,25 @@
 - Rim Commonality 
 - Taurian Concordat 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

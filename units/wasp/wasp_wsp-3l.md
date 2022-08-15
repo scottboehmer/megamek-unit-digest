@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3527/wasp-wsp-3l) 
+- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3527) 
 - **Battle Value:** 534 
 
 ## Availability 
@@ -61,6 +61,15 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

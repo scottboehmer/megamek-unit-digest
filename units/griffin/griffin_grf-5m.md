@@ -22,7 +22,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305/griffin-grf-5m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305) 
 - **Battle Value:** 1224 
 
 ## Availability 
@@ -65,4 +65,10 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
+- Wolf Empire 
 

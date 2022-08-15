@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3144/swift-wind-scout-car-ice) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3144) 
 - **Battle Value:** 83 
 
 ## Availability 
@@ -68,6 +68,14 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Duchy of Andurien 

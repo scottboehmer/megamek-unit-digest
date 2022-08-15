@@ -23,7 +23,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/143/atlas-as7-dr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/143) 
 - **Battle Value:** 2101 
 
 ## Availability 
@@ -50,4 +50,8 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

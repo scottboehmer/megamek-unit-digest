@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Machine Gun (ammo: 400) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3391/vedette-medium-tank-liao) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3391) 
 - **Battle Value:** 495 
 
 ## Availability 

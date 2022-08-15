@@ -16,7 +16,7 @@
   - Rocket 10 × 5 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7867/centurion-cn9-h2h-militiamech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7867) 
 - **Battle Value:** 919 
 
 ## Availability 
@@ -32,4 +32,10 @@
 - Marian Hegemony 
 - Pirate 
 - Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
+- Marian Hegemony 
+- Pirate 
 

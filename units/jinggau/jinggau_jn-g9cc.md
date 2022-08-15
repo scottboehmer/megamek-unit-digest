@@ -22,9 +22,8 @@
   - MASC 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1710/jinggau-jn-g9cc) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1710) 
 - **Battle Value:** 1656 
 
 ## Availability 
@@ -42,6 +41,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

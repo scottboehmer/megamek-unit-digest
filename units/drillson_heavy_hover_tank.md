@@ -13,7 +13,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 2 × 2 (ammo: 50) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/932/drillson-heavy-hover-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/932) 
 - **Battle Value:** 949 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) 
 
@@ -29,7 +29,7 @@
   - Large Laser 
   - SRM 2 × 6 (ammo: 150) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/931/drillson-heavy-hover-tank-srm) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/931) 
 - **Battle Value:** 926 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) 
 
@@ -46,7 +46,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/929/drillson-heavy-hover-tank-erll) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/929) 
 - **Battle Value:** 960 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_erll.md) 
 
@@ -61,7 +61,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Streak SRM 2 × 4 (ammo: 100) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/933/drillson-heavy-hover-tank-streak) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/933) 
 - **Battle Value:** 899 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_streak.md) 
 
@@ -80,7 +80,7 @@
   - Cargo 
   - Flotation Hull 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/930/drillson-heavy-hover-tank-sealed) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/930) 
 - **Battle Value:** 825 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_sealed.md) 
 

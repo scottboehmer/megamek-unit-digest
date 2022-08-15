@@ -23,7 +23,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1514/highlander-hgn-732) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1514) 
 - **Battle Value:** 2227 
 
 ## Availability 
@@ -249,6 +249,15 @@
 - Rim Commonality 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Capellan Confederation 
 - Draconis Combine 

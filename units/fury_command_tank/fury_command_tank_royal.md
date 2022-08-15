@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1160/fury-command-tank-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1160) 
 - **Battle Value:** 1255 
 
 ## Availability 
@@ -177,5 +177,11 @@
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
 - Scorpion Empire 
 

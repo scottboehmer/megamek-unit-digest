@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - C3 Support 
   - Infantry (4.0 tons) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6791/bolla-stealth-tank-rots-d) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6791) 
 - **Battle Value:** 793 
 
 ## Availability 
@@ -34,4 +34,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Smoke Jaguar) 
 

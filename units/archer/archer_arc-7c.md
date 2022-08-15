@@ -21,7 +21,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7731/archer-arc-7c) 
+- **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7731) 
 - **Battle Value:** 2408 
 
 ## Availability 
@@ -37,5 +37,16 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 - Wolf's Dragoons 
 

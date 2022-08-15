@@ -14,7 +14,7 @@
   - SRT 2 (OS) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1819/koryu-submarine-military) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1819) 
 - **Battle Value:** 107 
 
 ## Availability 
@@ -44,6 +44,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

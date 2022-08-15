@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - AC/20 × 3 (ammo: 40) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/24/alacorn-heavy-tank-mk-iv) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/24) 
 - **Battle Value:** 1400 
 
 ## Availability 

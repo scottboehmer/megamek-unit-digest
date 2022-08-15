@@ -19,7 +19,7 @@
   - Command ’Mech 
   - Hard to Pilot 
   - Improved Cooling Jacket (Large X-Pulse Laser) 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5782/huron-warrior-hur-wo-r4x) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5782) 
 - **Battle Value:** 1728 
 
 ## Availability 

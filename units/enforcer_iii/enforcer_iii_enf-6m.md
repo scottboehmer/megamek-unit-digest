@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Barrel Fists 
   - Fast Reload (Ultra AC/10) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/982/enforcer-iii-enf-6m) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/982) 
 - **Battle Value:** 1460 
 
 ## Availability 
@@ -54,6 +54,12 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Filtvelt Coalition 

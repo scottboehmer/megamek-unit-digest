@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Flamer × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2919/shamash-reconnaissance-vehicle-flamer) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2919) 
 - **Battle Value:** 228 
 
 ## Availability 
@@ -31,5 +31,10 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 

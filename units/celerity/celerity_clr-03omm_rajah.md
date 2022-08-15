@@ -4,7 +4,7 @@
 
 ## Celerity CLR-03OMM 'Rajah' 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere Mixed (3138) 
 - **Chassis:** 15 tons Quad (Endo Steel) 
 - **Movement:** 8 / 12 
@@ -17,12 +17,16 @@
 - **Equipment:** 
   - Spikes × 2 
   - Drone Operating System 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8366/celerity-clr-03-omm-rajah) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8366) 
 - **Battle Value:** 272 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

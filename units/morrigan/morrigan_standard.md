@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Stabilized Weapon (Heavy Large Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2231/morrigan-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2231) 
 - **Battle Value:** 1523 
 
 ## Availability 
@@ -45,4 +45,10 @@
 - Clan Sea Fox 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
 

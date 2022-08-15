@@ -22,7 +22,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3750/atlas-c) 
+- **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3750) 
 - **Battle Value:** 2340 
 
 ## Availability 
@@ -181,4 +181,19 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Scorpion Empire 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Tamar Pact 
+- Vesper Marches 
 

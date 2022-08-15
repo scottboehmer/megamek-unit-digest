@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stabilized Weapon (Ultra AC/10) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3150/tai-sho-tsh-7s) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3150) 
 - **Battle Value:** 1774 
 - [*More Info*](tai-sho/tai-sho_tsh-7s.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stabilized Weapon (Ultra AC/10) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3151/tai-sho-tsh-8s) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3151) 
 - **Battle Value:** 2001 
 - [*More Info*](tai-sho/tai-sho_tsh-8s.md) 
 

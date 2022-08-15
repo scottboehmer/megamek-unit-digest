@@ -21,23 +21,34 @@
   - Rumble Seat 
   - Non-Standard Parts 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4234/grasshopper-ghr-7p) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4234) 
 - **Battle Value:** 1806 
 
 ## Availability 
 
 ### Early Republic 
 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 
 ### Late Republic 
 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 
 ### Dark Ages 
 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Small Pulse Laser × 2 
-- **Sources:** TRO 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1151/fox-armored-car-standard) 
+- **Sources:** TRO 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1151) 
 - **Battle Value:** 549 
 
 ## Availability 
@@ -33,4 +33,10 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

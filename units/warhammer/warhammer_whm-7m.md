@@ -21,7 +21,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3492/warhammer-whm-7m) 
+- **Sources:** Rec Guide:ilClan #7 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3492) 
 - **Battle Value:** 1487 
 
 ## Availability 
@@ -143,5 +143,18 @@
 - Mercenary 
 - Pirate 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

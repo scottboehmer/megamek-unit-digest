@@ -18,7 +18,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4935/rook-nh-1x-rook-x) 
+- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4935) 
 - **Battle Value:** 1187 
 
 ## Availability 
@@ -36,6 +36,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+
+### ilClan 
 
 - Capellan Confederation 
 - Federated Suns 

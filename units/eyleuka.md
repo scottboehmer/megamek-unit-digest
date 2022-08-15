@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1011/eyleuka-eyl-4a) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1011) 
 - **Battle Value:** 1509 
 - [*More Info*](eyleuka/eyleuka_eyl-4a.md) 
 
@@ -42,7 +42,7 @@
   - TAG 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1008/eyleuka-eyl-35a) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1008) 
 - **Battle Value:** 1484 
 - [*More Info*](eyleuka/eyleuka_eyl-35a.md) 
 
@@ -66,7 +66,7 @@
   - TAG 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1009/eyleuka-eyl-45a) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1009) 
 - **Battle Value:** 1387 
 - [*More Info*](eyleuka/eyleuka_eyl-45a.md) 
 
@@ -90,7 +90,7 @@
   - TAG 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1010/eyleuka-eyl-45b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1010) 
 - **Battle Value:** 1615 
 - [*More Info*](eyleuka/eyleuka_eyl-45b.md) 
 

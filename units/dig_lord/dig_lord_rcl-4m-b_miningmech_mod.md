@@ -15,12 +15,17 @@
   - SRM 4 × 2 (ammo: 50) 
   - Mining Drill 
   - Heavy Machine Gun × 4 (ammo: 100) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7829/dig-lord-rcl-4m-b-miningmech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7829) 
 - **Battle Value:** 699 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Mercenary 
 - Pirate 

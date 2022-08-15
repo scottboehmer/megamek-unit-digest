@@ -16,7 +16,7 @@
   - Beagle Active Probe 
   - Cargo × 5 
   - Fully Amphibious Chassis 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2586/prowler-multi-terrain-vehicle-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2586) 
 - **Battle Value:** 640 
 - [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_standard.md) 
 
@@ -36,7 +36,7 @@
   - Guardian ECM Suite 
   - Cargo × 5 
   - Fully Amphibious Chassis 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2583/prowler-multi-terrain-vehicle-ecm) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2583) 
 - **Battle Value:** 695 
 - [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_ecm.md) 
 
@@ -55,7 +55,7 @@
 - **Equipment:** 
   - Cargo × 8 
   - Fully Amphibious Chassis 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2587/prowler-multi-terrain-vehicle-succession-wars) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2587) 
 - **Battle Value:** 625 
 - [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_succession_wars.md) 
 
@@ -74,7 +74,7 @@
 - **Equipment:** 
   - Fully Amphibious Chassis 
   - Infantry (4 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2588/prowler-multi-terrain-vehicle-support) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2588) 
 - **Battle Value:** 721 
 - [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_support.md) 
 
@@ -94,7 +94,7 @@
   - Beagle Active Probe 
   - Cargo × 5 
   - Environmentally Sealed Chassis 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2585/prowler-multi-terrain-vehicle-sealed) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2585) 
 - **Battle Value:** 640 
 - [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_sealed.md) 
 
@@ -114,7 +114,7 @@
   - C3i 
   - Fully Amphibious Chassis 
   - Infantry (6 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2589/prowler-multi-terrain-vehicle-wob) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2589) 
 - **Battle Value:** 619 
 - [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_wob.md) 
 
@@ -135,7 +135,7 @@
   - C3 Support 
   - Fully Amphibious Chassis 
   - Infantry (4 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2584/prowler-multi-terrain-vehicle-raf) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2584) 
 - **Battle Value:** 598 
 - [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_raf.md) 
 
@@ -156,7 +156,7 @@
   - CASE 
   - Fully Amphibious Chassis 
   - Infantry (5.0 tons) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6790/prowler-multi-terrain-vehicle-security) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6790) 
 - **Battle Value:** 1079 
 - [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_security.md) 
 
@@ -175,7 +175,7 @@
   - Beagle Active Probe 
   - Fully Amphibious Chassis 
   - Infantry (4.0 tons) 
-- **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6789/prowler-multi-terrain-vehicle-3140-upgrade) 
+- **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6789) 
 - **Battle Value:** 1140 
 - [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_3140_upgrade.md) 
 

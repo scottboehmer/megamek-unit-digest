@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8321/iron-cheetah-b) 
+- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8321) 
 - **Battle Value:** 3303 
 
 ## Availability 
@@ -56,4 +56,5 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Raven Alliance 
+- Star League (Smoke Jaguar) 
 

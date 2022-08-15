@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6887/quickdraw-qkd-9m) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6887) 
 - **Battle Value:** 1690 
 
 ## Availability 
@@ -49,4 +49,11 @@
 - Federated Suns 
 - Magistracy of Canopus 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Federated Suns 
+- Magistracy of Canopus 
 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7595/mad-cat-timber-wolf-tc) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7595) 
 - **Battle Value:** 2903 
 
 ## Availability 
@@ -71,6 +71,7 @@
 - Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Society 
 - Wolf's Dragoons 
 - Word of Blake 
@@ -82,6 +83,7 @@
 - Clan Nova Cat 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 - Kell Hounds 
 - Mercenary 
 - Rasalhague Dominion 
@@ -97,6 +99,7 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - ComStar 
+- Escorpión Imperio 
 - Kell Hounds 
 - Mercenary 
 - Rasalhague Dominion 
@@ -113,10 +116,33 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - ComStar 
+- Escorpión Imperio 
 - Kell Hounds 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Kell Hounds 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 - Wolf's Dragoons 
 

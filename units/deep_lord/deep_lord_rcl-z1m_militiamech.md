@@ -21,7 +21,7 @@
   - Protected Actuators 
   - Improved Life Support 
   - Jettison-Capable Weapon (Mace) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4057/deep-lord-militiamech-rcl-z1m) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4057) 
 - **Battle Value:** 686 
 
 ## Availability 
@@ -49,6 +49,17 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

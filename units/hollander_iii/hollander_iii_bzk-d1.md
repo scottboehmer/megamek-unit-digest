@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Supercharger 
   - CASE II 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6333/hollander-iii-bzk-d1) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6333) 
 - **Battle Value:** 1116 
 
 ## Availability 
@@ -32,4 +32,13 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Taurian Concordat 
+- Vesper Marches 
 

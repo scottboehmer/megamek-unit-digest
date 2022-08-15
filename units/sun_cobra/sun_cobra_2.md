@@ -16,7 +16,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6893/sun-cobra-2) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6893) 
 - **Battle Value:** 2394 
 
 ## Availability 
@@ -41,4 +41,11 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Federated Suns 
+- Mercenary 
+- Wolf Empire 
 

@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2534/piranha-4) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2534) 
 - **Battle Value:** 1005 
 
 ## Availability 
@@ -39,5 +39,10 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 

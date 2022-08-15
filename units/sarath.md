@@ -23,7 +23,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6506/sarath-srth-1o) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6506) 
 - **Battle Value:** 1630 
 - [*More Info*](sarath/sarath_srth-1o.md) 
 
@@ -49,7 +49,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6507/sarath-srth-1oa) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6507) 
 - **Battle Value:** 1738 
 - [*More Info*](sarath/sarath_srth-1oa.md) 
 
@@ -75,7 +75,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6508/sarath-srth-1ob) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6508) 
 - **Battle Value:** 1475 
 - [*More Info*](sarath/sarath_srth-1ob.md) 
 

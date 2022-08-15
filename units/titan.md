@@ -15,7 +15,7 @@
   - SRM 4 × 4 (ammo: 50) 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3257/titan-ti-1a) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3257) 
 - **Battle Value:** 1959 
 - [*More Info*](titan/titan_ti-1a.md) 
 
@@ -36,7 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6827/titan-ti-1aj) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6827) 
 - **Battle Value:** 2328 
 - [*More Info*](titan/titan_ti-1aj.md) 
 
@@ -56,7 +56,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6826/titan-ti-1ar) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6826) 
 - **Battle Value:** 2165 
 - [*More Info*](titan/titan_ti-1ar.md) 
 

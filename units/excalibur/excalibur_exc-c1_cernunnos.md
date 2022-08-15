@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Vestigial Hands 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1001/excalibur-exc-c1-cernunnos) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1001) 
 - **Battle Value:** 1778 
 
 ## Availability 

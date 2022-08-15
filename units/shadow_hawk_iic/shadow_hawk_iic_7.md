@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2917/shadow-hawk-iic-7) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2917) 
 - **Battle Value:** 1999 
 
 ## Availability 
@@ -42,6 +42,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

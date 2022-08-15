@@ -15,8 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/593/cicada-cda-3c) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/593) 
 - **Battle Value:** 771 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Difficult to Maintain 
   - Poor Workmanship 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5237/thunderbolt-tdr-1c) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5237) 
 - **Battle Value:** 1237 
 - [*More Info*](thunderbolt/thunderbolt_tdr-1c.md) 
 
@@ -43,7 +43,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3238/thunderbolt-tdr-5s) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3238) 
 - **Battle Value:** 1335 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5s.md) 
 
@@ -64,7 +64,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5868/thunderbolt-tdr-5sd) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5868) 
 - **Battle Value:** 1392 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5sd.md) 
 
@@ -88,7 +88,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3239/thunderbolt-tdr-5sb) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3239) 
 - **Battle Value:** 1613 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5sb.md) 
 
@@ -107,13 +107,13 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7431/thunderbolt-tdr-5d) 
+- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7431) 
 - **Battle Value:** 1231 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5d.md) 
 
 ## Thunderbolt TDR-5L 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2823) 
 - **Chassis:** 65 tons 
 - **Movement:** 4 / 6 
@@ -131,7 +131,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7762/thunderbolt-tdr-5l) 
+- **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7762) 
 - **Battle Value:** 1515 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5l.md) 
 
@@ -152,13 +152,13 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3231/thunderbolt-c) 
+- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3231) 
 - **Battle Value:** 1671 
 - [*More Info*](thunderbolt/thunderbolt_c.md) 
 
 ## Thunderbolt TDR-5LS 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2850) 
 - **Chassis:** 65 tons 
 - **Movement:** 4 / 6 
@@ -174,7 +174,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7763/thunderbolt-tdr-5ls) 
+- **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7763) 
 - **Battle Value:** 1374 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5ls.md) 
 
@@ -195,7 +195,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3240/thunderbolt-tdr-5se) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3240) 
 - **Battle Value:** 1414 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5se.md) 
 
@@ -216,7 +216,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3241/thunderbolt-tdr-5ss) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3241) 
 - **Battle Value:** 1337 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5ss.md) 
 
@@ -235,7 +235,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3242/thunderbolt-tdr-5s-t-tallman) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3242) 
 - **Battle Value:** 1447 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5s-t_tallman.md) 
 
@@ -259,7 +259,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m) 
+- **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3244) 
 - **Battle Value:** 1495 
 - [*More Info*](thunderbolt/thunderbolt_tdr-7m.md) 
 
@@ -282,7 +282,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3250/thunderbolt-tdr-9se) 
+- **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3250) 
 - **Battle Value:** 1439 
 - [*More Info*](thunderbolt/thunderbolt_tdr-9se.md) 
 
@@ -307,7 +307,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3249/thunderbolt-tdr-9s) 
+- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3249) 
 - **Battle Value:** 1494 
 - [*More Info*](thunderbolt/thunderbolt_tdr-9s.md) 
 
@@ -330,7 +330,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8192/thunderbolt-tdr-9w) 
+- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8192) 
 - **Battle Value:** 1985 
 - [*More Info*](thunderbolt/thunderbolt_tdr-9w.md) 
 
@@ -355,7 +355,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8195/thunderbolt-c-2) 
+- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8195) 
 - **Battle Value:** 2170 
 - [*More Info*](thunderbolt/thunderbolt_c_2.md) 
 
@@ -378,7 +378,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8191/thunderbolt-tdr-8m) 
+- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8191) 
 - **Battle Value:** 1644 
 - [*More Info*](thunderbolt/thunderbolt_tdr-8m.md) 
 
@@ -403,7 +403,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3235/thunderbolt-tdr-10se) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3235) 
 - **Battle Value:** 2008 
 - [*More Info*](thunderbolt/thunderbolt_tdr-10se.md) 
 
@@ -425,7 +425,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3245/thunderbolt-tdr-7se) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3245) 
 - **Battle Value:** 1809 
 - [*More Info*](thunderbolt/thunderbolt_tdr-7se.md) 
 
@@ -448,7 +448,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3246/thunderbolt-tdr-9m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3246) 
 - **Battle Value:** 1648 
 - [*More Info*](thunderbolt/thunderbolt_tdr-9m.md) 
 
@@ -472,7 +472,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3247/thunderbolt-tdr-9nais) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3247) 
 - **Battle Value:** 1864 
 - [*More Info*](thunderbolt/thunderbolt_tdr-9nais.md) 
 
@@ -497,7 +497,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3236/thunderbolt-tdr-11se) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3236) 
 - **Battle Value:** 1754 
 - [*More Info*](thunderbolt/thunderbolt_tdr-11se.md) 
 
@@ -521,7 +521,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3237/thunderbolt-tdr-17s) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3237) 
 - **Battle Value:** 1803 
 - [*More Info*](thunderbolt/thunderbolt_tdr-17s.md) 
 
@@ -545,7 +545,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3243/thunderbolt-tdr-60-rla) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3243) 
 - **Battle Value:** 1975 
 - [*More Info*](thunderbolt/thunderbolt_tdr-60-rla.md) 
 
@@ -572,7 +572,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3248/thunderbolt-tdr-9nr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3248) 
 - **Battle Value:** 1632 
 - [*More Info*](thunderbolt/thunderbolt_tdr-9nr.md) 
 
@@ -597,7 +597,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8193/thunderbolt-tdr-11s) 
+- **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8193) 
 - **Battle Value:** 1570 
 - [*More Info*](thunderbolt/thunderbolt_tdr-11s.md) 
 
@@ -620,7 +620,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3232/thunderbolt-tdr-10m) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3232) 
 - **Battle Value:** 1727 
 - [*More Info*](thunderbolt/thunderbolt_tdr-10m.md) 
 
@@ -642,7 +642,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3251/thunderbolt-tdr-9t) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3251) 
 - **Battle Value:** 1589 
 - [*More Info*](thunderbolt/thunderbolt_tdr-9t.md) 
 
@@ -666,7 +666,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3233/thunderbolt-tdr-10m-ilyena) 
+- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3233) 
 - **Battle Value:** 1616 
 - [*More Info*](thunderbolt/thunderbolt_tdr-10m_ilyena.md) 
 
@@ -694,7 +694,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3085/BD Salazar Tsakalotos - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3234/thunderbolt-tdr-10m-salazar) 
+- **Sources:** TRO 3085/BD Salazar Tsakalotos - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3234) 
 - **Battle Value:** 1763 
 - [*More Info*](thunderbolt/thunderbolt_tdr-10m_salazar.md) 
 
@@ -718,7 +718,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** RS 3145 NYNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6877/thunderbolt-tdr-10s) 
+- **Sources:** RS 3145 NYNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6877) 
 - **Battle Value:** 1766 
 - [*More Info*](thunderbolt/thunderbolt_tdr-10s.md) 
 
@@ -743,7 +743,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8190/thunderbolt-tdr-7s) 
+- **Sources:** Rec Guide:ilClan #15 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8190) 
 - **Battle Value:** 1582 
 - [*More Info*](thunderbolt/thunderbolt_tdr-7s.md) 
 
@@ -767,7 +767,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8194/thunderbolt-tdr-12r) 
+- **Sources:** Rec Guide:ilClan #15 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8194) 
 - **Battle Value:** 1975 
 - [*More Info*](thunderbolt/thunderbolt_tdr-12r.md) 
 

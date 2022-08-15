@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4807/perseus-p1) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4807) 
 - **Battle Value:** 1713 
 - [*More Info*](perseus/perseus_p1.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4809/perseus-p1a) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4809) 
 - **Battle Value:** 1661 
 - [*More Info*](perseus/perseus_p1a.md) 
 
@@ -64,7 +64,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4810/perseus-p1b) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4810) 
 - **Battle Value:** 1776 
 - [*More Info*](perseus/perseus_p1b.md) 
 
@@ -85,7 +85,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4811/perseus-p1c) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4811) 
 - **Battle Value:** 1644 
 - [*More Info*](perseus/perseus_p1c.md) 
 
@@ -109,7 +109,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4812/perseus-p1d) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4812) 
 - **Battle Value:** 1714 
 - [*More Info*](perseus/perseus_p1d.md) 
 
@@ -130,7 +130,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5699/perseus-p1w) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5699) 
 - **Battle Value:** 1864 
 - [*More Info*](perseus/perseus_p1w.md) 
 
@@ -155,7 +155,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5697/perseus-p1e) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5697) 
 - **Battle Value:** 1641 
 - [*More Info*](perseus/perseus_p1e.md) 
 
@@ -181,7 +181,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5698/perseus-p1p) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5698) 
 - **Battle Value:** 1777 
 - [*More Info*](perseus/perseus_p1p.md) 
 

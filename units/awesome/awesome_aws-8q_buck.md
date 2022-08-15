@@ -15,7 +15,7 @@
   - PPC × 3 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7311/awesome-aws-8q-buck) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7311) 
 - **Battle Value:** 1787 
 
 ## Availability 

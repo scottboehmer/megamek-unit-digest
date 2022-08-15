@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5739/glory-heavy-fire-support-vehicle-arrow-iv) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5739) 
 - **Battle Value:** 1704 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

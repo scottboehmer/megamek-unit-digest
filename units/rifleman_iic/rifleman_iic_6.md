@@ -20,7 +20,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2715/rifleman-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2715) 
 - **Battle Value:** 2220 
 
 ## Availability 
@@ -42,6 +42,11 @@
 - Clan Sea Fox 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+
+### ilClan 
 
 - Clan Hell's Horses 
 - Clan Sea Fox 

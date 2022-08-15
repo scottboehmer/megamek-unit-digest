@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/20 × 2 (ammo: 20) 
   - SRM 6 (ammo: 15) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3451/von-luckner-heavy-tank-vnl-k100) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3451) 
 - **Battle Value:** 1001 
 
 ## Availability 

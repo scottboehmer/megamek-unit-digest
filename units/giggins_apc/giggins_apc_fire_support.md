@@ -15,7 +15,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1195/giggins-apc-fire-support) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1195) 
 - **Battle Value:** 718 
 
 ## Availability 
@@ -32,4 +32,8 @@
 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Rasalhague Dominion 
 

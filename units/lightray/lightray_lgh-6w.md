@@ -19,7 +19,7 @@
   - Hyper-Extending Actuators 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1885/lightray-lgh-6w) 
+- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1885) 
 - **Battle Value:** 1554 
 
 ## Availability 

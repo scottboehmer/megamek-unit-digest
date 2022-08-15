@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Stable 
   - Exposed Weapon Linkage (RAC/2) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6627/ursa-ura-2a) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6627) 
 - **Battle Value:** 1887 
 - [*More Info*](ursa/ursa_ura-2a.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Stable 
   - Exposed Weapon Linkage (RAC/2) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6628/ursa-ura-2c) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6628) 
 - **Battle Value:** 2570 
 - [*More Info*](ursa/ursa_ura-2c.md) 
 

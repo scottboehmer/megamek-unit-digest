@@ -21,7 +21,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5706/savage-coyote-w) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5706) 
 - **Battle Value:** 2792 
 
 ## Availability 
@@ -49,4 +49,8 @@
 
 - Clan Hell's Horses 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Hell's Horses 
 

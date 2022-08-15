@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1236/goliath-gol-5w) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1236) 
 - **Battle Value:** 2006 
 
 ## Availability 

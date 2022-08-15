@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/297/battlemaster-blr-5m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/297) 
 - **Battle Value:** 1766 
 
 ## Availability 
@@ -50,4 +50,8 @@
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
+
+### ilClan 
+
+- Free Worlds League 
 

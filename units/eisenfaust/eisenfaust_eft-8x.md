@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Protected Actuators 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/946/eisenfaust-eft-8x) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/946) 
 - **Battle Value:** 1039 
 
 ## Availability 
@@ -39,4 +39,9 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Vesper Marches 
 

@@ -18,10 +18,9 @@
   - MASC 
 - **Design Quirks:** 
   - Easy to Maintain 
-  - No Torso Twist 
   - Modular Weapon (Small Laser) 
   - Modular Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2171/mercury-mcy-97) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2171) 
 - **Battle Value:** 466 
 
 ## Availability 

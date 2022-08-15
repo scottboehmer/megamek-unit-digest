@@ -18,8 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1772/king-crab-kgc-000b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1772) 
 - **Battle Value:** 2039 
 
 ## Availability 
@@ -42,18 +41,28 @@
 
 - ComStar 
 - Draconis Combine 
-- Free Rasalhague Republic 
 - Word of Blake 
 
 ### Early Republic 
 
+- Draconis Combine 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Draconis Combine 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Draconis Combine 
+- Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Mercenary 
 

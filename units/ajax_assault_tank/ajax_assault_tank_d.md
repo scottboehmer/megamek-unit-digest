@@ -19,7 +19,7 @@
   - CASE 
   - Infantry (4.0 tons) × 2 
   - Drone Control System 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5741/ajax-assault-tank-d) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5741) 
 - **Battle Value:** 1502 
 
 ## Availability 
@@ -43,4 +43,8 @@
 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
 

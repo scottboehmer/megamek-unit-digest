@@ -20,7 +20,7 @@
   - Improved Communications 
   - Command ’Mech 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7760/phoenix-hawk-pxh-3d) 
+- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7760) 
 - **Battle Value:** 1315 
 
 ## Availability 
@@ -43,18 +43,25 @@
 ### Jihad 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Mercenary 
 
 ### Early Republic 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Mercenary 
 
 ### Late Republic 
 
+- Filtvelt Coalition 
 - Mercenary 
 
 ### Dark Ages 
+
+- Scorpion Empire 
+
+### ilClan 
 
 - Scorpion Empire 
 

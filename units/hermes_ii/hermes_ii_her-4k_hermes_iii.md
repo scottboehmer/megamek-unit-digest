@@ -15,8 +15,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1498/hermes-ii-her-4k-hermes-iii) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1498) 
 - **Battle Value:** 976 
 
 ## Availability 
@@ -53,6 +52,5 @@
 ### Dark Ages 
 
 - Draconis Combine 
-- Free Worlds League 
 - Marik-Stewart Commonwealth 
 

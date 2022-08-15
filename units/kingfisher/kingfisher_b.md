@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1780/kingfisher-b) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1780) 
 - **Battle Value:** 2472 
 
 ## Availability 
@@ -166,6 +166,13 @@
 
 - Clan Nova Cat 
 - Escorpión Imperio 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Protectorate 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 

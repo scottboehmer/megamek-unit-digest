@@ -2,7 +2,7 @@
 
 ## Skinwalker-XP "Ryoken III-XP" Prime 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -17,13 +17,13 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7378/ryoken-iii-xp-skinwalker-prime) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7378) 
 - **Battle Value:** 3063 
 - [*More Info*](skinwalker-xp/skinwalker-xp_prime.md) 
 
 ## Skinwalker-XP "Ryoken III-XP" A 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -39,13 +39,13 @@
 - **Equipment:** 
   - Targeting Computer 
   - Inner Sphere Radical Heat Sink System 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7379/ryoken-iii-xp-skinwalker-a) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7379) 
 - **Battle Value:** 3915 
 - [*More Info*](skinwalker-xp/skinwalker-xp_a.md) 
 
 ## Skinwalker-XP "Ryoken III-XP" B 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (14), XL 
@@ -61,13 +61,13 @@
   - ECM Suite 
   - Supercharger 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7380/ryoken-iii-xp-skinwalker-b) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7380) 
 - **Battle Value:** 3667 
 - [*More Info*](skinwalker-xp/skinwalker-xp_b.md) 
 
 ## Skinwalker-XP "Ryoken III-XP" C 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -83,13 +83,13 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7381/ryoken-iii-xp-skinwalker-c) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7381) 
 - **Battle Value:** 4519 
 - [*More Info*](skinwalker-xp/skinwalker-xp_c.md) 
 
 ## Skinwalker-XP "Ryoken III-XP" D 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -107,7 +107,7 @@
   - ER Micro Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7382/ryoken-iii-xp-skinwalker-d) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7382) 
 - **Battle Value:** 2533 
 - [*More Info*](skinwalker-xp/skinwalker-xp_d.md) 
 

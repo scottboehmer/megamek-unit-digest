@@ -18,7 +18,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Directional Torso Mount (Medium Laser) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5188/tempest-tmp-3g) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5188) 
 - **Battle Value:** 1810 
 
 ## Availability 
@@ -81,4 +81,9 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

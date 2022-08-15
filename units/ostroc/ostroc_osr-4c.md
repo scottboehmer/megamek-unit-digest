@@ -17,7 +17,7 @@
   - Rocket 10 × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2355/ostroc-osr-4c) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2355) 
 - **Battle Value:** 1325 
 
 ## Availability 
@@ -55,6 +55,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

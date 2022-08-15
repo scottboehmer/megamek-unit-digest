@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3224/thunder-stallion-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3224) 
 - **Battle Value:** 2306 
 
 ## Availability 
@@ -53,5 +53,10 @@
 
 - Clan Hell's Horses 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
 - Scorpion Empire 
 

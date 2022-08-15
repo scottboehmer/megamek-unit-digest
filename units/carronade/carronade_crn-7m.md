@@ -18,7 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6512/carronade-crn-7m) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6512) 
 - **Battle Value:** 1799 
 
 ## Availability 
@@ -33,6 +33,11 @@
 - Oriente Protectorate 
 
 ### Dark Ages 
+
+- Free Worlds League 
+- Mercenary 
+
+### ilClan 
 
 - Free Worlds League 
 - Mercenary 

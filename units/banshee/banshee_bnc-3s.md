@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/245/banshee-bnc-3s) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/245) 
 - **Battle Value:** 1751 
 
 ## Availability 
@@ -75,6 +75,7 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Kell Hounds 
@@ -109,6 +110,10 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Scorpion Empire 
+
+### ilClan 
 
 - Scorpion Empire 
 

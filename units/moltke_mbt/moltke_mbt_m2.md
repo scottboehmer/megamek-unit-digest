@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - MML 7 × 5 (ammo: 51 LRM, 42 SRM) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2206/moltke-mbt-m2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2206) 
 - **Battle Value:** 1363 
 
 ## Availability 
@@ -55,4 +55,11 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
 

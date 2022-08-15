@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3083/stooping-hawk-prime) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3083) 
 - **Battle Value:** 2147 
 - [*More Info*](stooping_hawk/stooping_hawk_prime.md) 
 
@@ -34,7 +34,7 @@
   - ER PPC × 2 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3076/stooping-hawk-a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3076) 
 - **Battle Value:** 2319 
 - [*More Info*](stooping_hawk/stooping_hawk_a.md) 
 
@@ -53,7 +53,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3077/stooping-hawk-b) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3077) 
 - **Battle Value:** 2111 
 - [*More Info*](stooping_hawk/stooping_hawk_b.md) 
 
@@ -73,7 +73,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3078/stooping-hawk-c) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3078) 
 - **Battle Value:** 2435 
 - [*More Info*](stooping_hawk/stooping_hawk_c.md) 
 
@@ -92,7 +92,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3079/stooping-hawk-d) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3079) 
 - **Battle Value:** 1838 
 - [*More Info*](stooping_hawk/stooping_hawk_d.md) 
 
@@ -112,7 +112,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3080/stooping-hawk-e) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3080) 
 - **Battle Value:** 1674 
 - [*More Info*](stooping_hawk/stooping_hawk_e.md) 
 
@@ -134,7 +134,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3081/stooping-hawk-f) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3081) 
 - **Battle Value:** 1988 
 - [*More Info*](stooping_hawk/stooping_hawk_f.md) 
 
@@ -153,7 +153,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3082/stooping-hawk-g) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3082) 
 - **Battle Value:** 1657 
 - [*More Info*](stooping_hawk/stooping_hawk_g.md) 
 

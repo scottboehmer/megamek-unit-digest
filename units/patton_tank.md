@@ -13,7 +13,7 @@
   - LRM 5 (ammo: 24) 
   - Small Laser 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2450/patton-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2450) 
 - **Battle Value:** 961 
 - [*More Info*](patton_tank/patton_tank_standard.md) 
 
@@ -29,7 +29,7 @@
   - Ultra AC/10 (ammo: 30) 
   - Medium Laser × 2 
   - Machine Gun × 3 (ammo: 100) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2451/patton-tank-ultra) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2451) 
 - **Battle Value:** 1160 
 - [*More Info*](patton_tank/patton_tank_ultra.md) 
 
@@ -48,7 +48,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - Supercharger 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5569/patton-tank--sb) 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5569) 
 - **Battle Value:** 1387 
 - [*More Info*](patton_tank/patton_tank_-sb.md) 
 

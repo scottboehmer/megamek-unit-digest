@@ -15,7 +15,7 @@
   - Backhoe 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS Operation Klondike - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/461/carbine-con-1-constructionmech) 
+- **Sources:** RS Operation Klondike - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/461) 
 - **Battle Value:** 198 
 
 ## Availability 
@@ -121,5 +121,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1555/hunchback-hbk-4h) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1555) 
 - **Battle Value:** 1067 
 
 ## Availability 
@@ -174,4 +174,9 @@
 - Marian Hegemony 
 - Pirate 
 - Taurian Concordat 
+
+### ilClan 
+
+- Marian Hegemony 
+- Pirate 
 

@@ -16,7 +16,7 @@
   - Beagle Active Probe 
   - CASE II 
   - Searchlight 
-- **Sources:** TP Irian - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7332/inquisitor-ii-itw-200-securitymech) 
+- **Sources:** TP Irian - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7332) 
 - **Battle Value:** 1186 
 - [*More Info*](inquisitor_ii/inquisitor_ii_itw-200.md) 
 

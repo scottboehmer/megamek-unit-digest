@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2663/raven-rvn-2x) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2663) 
 - **Battle Value:** 887 
 
 ## Availability 

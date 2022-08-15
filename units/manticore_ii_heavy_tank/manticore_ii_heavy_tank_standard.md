@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Fully Amphibious Chassis 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6601/manticore-ii-heavy-tank-standard) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6601) 
 - **Battle Value:** 1221 
 
 ## Availability 
@@ -38,4 +38,11 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

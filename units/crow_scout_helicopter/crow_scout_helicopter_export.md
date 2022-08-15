@@ -14,7 +14,7 @@
   - Rocket 10 × 2 
   - ER Small Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/746/crow-scout-helicopter-export) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/746) 
 - **Battle Value:** 415 
 
 ## Availability 
@@ -73,5 +73,16 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
 - Wolf's Dragoons 
 

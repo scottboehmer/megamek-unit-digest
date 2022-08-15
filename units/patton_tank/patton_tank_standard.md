@@ -15,7 +15,7 @@
   - LRM 5 (ammo: 24) 
   - Small Laser 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2450/patton-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2450) 
 - **Battle Value:** 961 
 
 ## Availability 
@@ -67,6 +67,13 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+- Scorpion Empire 
+
+### ilClan 
 
 - Federated Suns 
 - Filtvelt Coalition 

@@ -20,7 +20,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/79/archer-arc-5r) 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/79) 
 - **Battle Value:** 1672 
 
 ## Availability 
@@ -60,6 +60,11 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Mercenary 
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Mercenary 
 - Rasalhague Dominion 

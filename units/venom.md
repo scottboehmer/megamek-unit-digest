@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Nimble Jumper 
   - Difficult Ejection 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3398/venom-sdr-9k) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3398) 
 - **Battle Value:** 798 
 - [*More Info*](venom/venom_sdr-9k.md) 
 
@@ -32,7 +32,7 @@
 - **Design Quirks:** 
   - Nimble Jumper 
   - Difficult Ejection 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3399/venom-sdr-9ka) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3399) 
 - **Battle Value:** 865 
 - [*More Info*](venom/venom_sdr-9ka.md) 
 
@@ -51,7 +51,7 @@
 - **Design Quirks:** 
   - Nimble Jumper 
   - Difficult Ejection 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3400/venom-sdr-9kb) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3400) 
 - **Battle Value:** 769 
 - [*More Info*](venom/venom_sdr-9kb.md) 
 
@@ -71,7 +71,7 @@
 - **Design Quirks:** 
   - Nimble Jumper 
   - Difficult Ejection 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3401/venom-sdr-9kc) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3401) 
 - **Battle Value:** 939 
 - [*More Info*](venom/venom_sdr-9kc.md) 
 

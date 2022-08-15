@@ -42,10 +42,11 @@
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
 
+- [**Flatbed Truck (AC)**](../../units/flatbed_truck/flatbed_truck_ac.md) *Scout (2580)* 
 - [**Flatbed Truck (Armor)**](../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
-- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Undefined (2580)* 
 - [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Hover Scout](../../units/hover_scout.md) 
@@ -132,12 +133,12 @@
 
 ### 22 Tons 
 
-#### [Vector](../../units/vector.md) 
+#### [Vector Combat Support VTOL](../../units/vector_combat_support_vtol.md) 
 
-- [**Vector (Attack)**](../../units/vector/vector_attack.md) *Striker (2730)* 
-- [**Vector (EW)**](../../units/vector/vector_ew.md) *Striker (2730)* `ECM` , `TAG` 
-- [**Vector (Scout)**](../../units/vector/vector_scout.md) *Undefined (2730)* `Active Probe` , `TAG` 
-- [**Vector (Transport)**](../../units/vector/vector_transport.md) *Striker (2730)* `Transport:3.0` 
+- [**Vector Combat Support VTOL (Attack)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_attack.md) *Striker (2730)* 
+- [**Vector Combat Support VTOL (EW)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_ew.md) *Striker (2730)* `ECM` , `TAG` 
+- [**Vector Combat Support VTOL (Scout)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_scout.md) *Undefined (2730)* `Active Probe` , `TAG` 
+- [**Vector Combat Support VTOL (Standard)**](../../units/vector_combat_support_vtol/vector_combat_support_vtol_standard.md) *Striker (2730)* `Transport:3.0` 
 
 ### 25 Tons 
 
@@ -166,8 +167,8 @@
 
 - [**Scorpion Light Tank (Standard)**](../../units/scorpion_light_tank/scorpion_light_tank_standard.md) *Brawler (2807)* 
 - [**Scorpion Light Tank (LRM)**](../../units/scorpion_light_tank/scorpion_light_tank_lrm.md) *Missile Boat (2813)* 
-- [**Scorpion Light Tank (SRM)**](../../units/scorpion_light_tank/scorpion_light_tank_srm.md) *Juggernaut (2840)* 
-- [**Scorpion Light Tank (ML)**](../../units/scorpion_light_tank/scorpion_light_tank_ml.md) *Juggernaut (2875)* 
+- [**Scorpion Light Tank (SRM)**](../../units/scorpion_light_tank/scorpion_light_tank_srm.md) *Ambusher (2840)* 
+- [**Scorpion Light Tank (ML)**](../../units/scorpion_light_tank/scorpion_light_tank_ml.md) *Ambusher (2875)* 
 
 ### 30 Tons 
 
@@ -199,7 +200,7 @@
 
 #### [Karnov UR Transport](../../units/karnov_ur_transport.md) 
 
-- [**Karnov UR Transport (Standard)**](../../units/karnov_ur_transport/karnov_ur_transport_standard.md) *Undefined (2600)* `Transport:6.0` 
+- [**Karnov UR Transport (Standard)**](../../units/karnov_ur_transport/karnov_ur_transport_standard.md) *Scout (2600)* `Transport:6.0` 
 
 ### 35 Tons 
 
@@ -352,7 +353,7 @@
 
 #### [Marsden II MBT](../../units/marsden_ii_mbt.md) 
 
-- [**Marsden II MBT (Standard)**](../../units/marsden_ii_mbt/marsden_ii_mbt_standard.md) *Undefined (2473)* 
+- [**Marsden II MBT (Standard)**](../../units/marsden_ii_mbt/marsden_ii_mbt_standard.md) *Juggernaut (2473)* 
 - [**Marsden II MBT II-A**](../../units/marsden_ii_mbt/marsden_ii_mbt_ii-a.md) *Juggernaut (2482)* 
 
 #### [SRM Carrier](../../units/srm_carrier.md) 
@@ -366,6 +367,12 @@
 #### [Tokugawa Heavy Tank](../../units/tokugawa_heavy_tank.md) 
 
 - [**Tokugawa Heavy Tank TKG-150**](../../units/tokugawa_heavy_tank/tokugawa_heavy_tank_tkg-150.md) *Brawler (2792)* 
+
+#### [Weapon Carrier (Tracked)](../../units/weapon_carrier_tracked.md) 
+
+- [**Weapon Carrier (Tracked) (AC/20)**](../../units/weapon_carrier_tracked/weapon_carrier_tracked_ac_20.md) *Ambusher (2775)* 
+- [**Weapon Carrier (Tracked) (LB-10X)**](../../units/weapon_carrier_tracked/weapon_carrier_tracked_lb-10x.md) *Sniper (2775)* 
+- [**Weapon Carrier (Tracked) (Ultra/5)**](../../units/weapon_carrier_tracked/weapon_carrier_tracked_ultra_5.md) *Sniper (2775)* 
 
 ### 65 Tons 
 
@@ -395,7 +402,7 @@
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Missile Boat (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
 
 #### [Padilla Heavy Artillery Tank](../../units/padilla_heavy_artillery_tank.md) 
 
@@ -452,6 +459,10 @@
 #### [Alacorn Heavy Tank](../../units/alacorn_heavy_tank.md) 
 
 - [**Alacorn Heavy Tank Mk VI**](../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) *Sniper (2590)* 
+
+#### [Mobile Long Tom Artillery (Unofficial)](../../units/mobile_long_tom_artillery_unofficial.md) 
+
+- [**Mobile Long Tom Artillery (Unofficial) (+ Carriage)**](../../units/mobile_long_tom_artillery_unofficial/mobile_long_tom_artillery_unofficial_+_carriage.md) *Missile Boat (2602)* 
 
 #### [Puma Assault Tank](../../units/puma_assault_tank.md) 
 
@@ -528,7 +539,7 @@
 #### [Crosscut](../../units/crosscut.md) 
 
 - [**Crosscut ED-X1 LoggerMech**](../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
-- [**Crosscut ED-X2 LoggerMech**](../../units/crosscut/crosscut_ed-x2_loggermech.md) *Undefined (2715)* `IndustrialMech` 
+- [**Crosscut ED-X2 LoggerMech**](../../units/crosscut/crosscut_ed-x2_loggermech.md) *Ambusher (2715)* `IndustrialMech` 
 - [**Crosscut ED-X2 (RL)**](../../units/crosscut/crosscut_ed-x2_rl.md) *Ambusher (2810)* `IndustrialMech` 
 - [**Crosscut ED-X4 LoggerMech**](../../units/crosscut/crosscut_ed-x4_loggermech.md) *Ambusher (2876)* `IndustrialMech` 
 
@@ -610,7 +621,7 @@
 
 #### [Powerman SC XI LoaderMech](../../units/powerman_sc_xi_loadermech.md) 
 
-- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Undefined (2764)* `IndustrialMech` 
+- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Ambusher (2764)* `IndustrialMech` 
 
 ### 40 Tons 
 

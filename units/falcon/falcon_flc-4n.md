@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1022/falcon-flc-4n) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1022) 
 - **Battle Value:** 610 
 
 ## Availability 

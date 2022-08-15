@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Inner Sphere Guardian ECM Suite 
   - Cargo 
-- **Sources:** XTR Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/33/anhur-p-stealth) 
+- **Sources:** XTR Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/33) 
 - **Battle Value:** 902 
 
 ## Availability 

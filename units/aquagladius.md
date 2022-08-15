@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Difficult Ejection 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/58/aquagladius-aqs-3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/58) 
 - **Battle Value:** 834 
 - [*More Info*](aquagladius/aquagladius_aqs-3.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Difficult Ejection 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/59/aquagladius-aqs-4) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/59) 
 - **Battle Value:** 1486 
 - [*More Info*](aquagladius/aquagladius_aqs-4.md) 
 
@@ -62,7 +62,7 @@
 - **Design Quirks:** 
   - Difficult Ejection 
   - Difficult to Maintain 
-- **Sources:** XTRO Ray , [Master Unit List](http://masterunitlist.info/Unit/Details/8108/aquagladius-aqs-5-mam) 
+- **Sources:** XTRO Ray , [Master Unit List](http://masterunitlist.info/Unit/Details/8108) 
 - **Battle Value:** 1946 
 - [*More Info*](aquagladius/aquagladius_aqs-5_mam.md) 
 

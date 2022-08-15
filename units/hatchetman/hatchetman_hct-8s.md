@@ -19,7 +19,7 @@
   - Full Head Ejection System 
   - AES 
   - CASE 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7780/hatchetman-hct-8s) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7780) 
 - **Battle Value:** 1479 
 
 ## Availability 
@@ -27,4 +27,11 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf's Dragoons 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 10 Cluster, 20 Standard) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2547/po-heavy-tank-lb-x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2547) 
 - **Battle Value:** 778 
 
 ## Availability 
@@ -43,6 +43,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Capellan Confederation 

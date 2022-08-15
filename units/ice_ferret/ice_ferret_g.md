@@ -19,7 +19,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7507/fenris-ice-ferret-g) 
+- **Sources:** Rec Guide:ilClan #4- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7507) 
 - **Battle Value:** 1196 
 
 ## Availability 
@@ -54,5 +54,17 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Wolf Empire 
 - Wolf's Dragoons 
 

@@ -18,7 +18,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1917/locust-iic-4) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1917) 
 - **Battle Value:** 795 
 
 ## Availability 
@@ -54,4 +54,11 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Star League (Wolf) 
+- Wolf Empire 
 

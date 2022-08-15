@@ -14,13 +14,13 @@
 - **Equipment:** 
   - Communications Equipment 
   - Infantry (4 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/807/daimyo-hq-67-k) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/807) 
 - **Battle Value:** 561 
 - [*More Info*](daimyo_hq/daimyo_hq_67-k.md) 
 
 ## Daimyo HQ 67-NC 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (2781) 
 - **Chassis:** 50 tons Wheeled 
 - **Movement:** 6 / 9, Fusion 
@@ -31,7 +31,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8297/daimyo-hq-67-nc) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8297) 
 - **Battle Value:** 583 
 - [*More Info*](daimyo_hq/daimyo_hq_67-nc.md) 
 
@@ -49,7 +49,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/808/daimyo-hq-67-k2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/808) 
 - **Battle Value:** 620 
 - [*More Info*](daimyo_hq/daimyo_hq_67-k2.md) 
 
@@ -67,7 +67,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Infantry (3 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/809/daimyo-hq-67-r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/809) 
 - **Battle Value:** 749 
 - [*More Info*](daimyo_hq/daimyo_hq_67-r.md) 
 

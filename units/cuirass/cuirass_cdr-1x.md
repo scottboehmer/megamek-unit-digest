@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/769/cuirass-cdr-1x) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/769) 
 - **Battle Value:** 1301 
 
 ## Availability 
@@ -34,6 +34,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

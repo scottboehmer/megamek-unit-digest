@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/465/carnivore-assault-tank-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/465) 
 - **Battle Value:** 1997 
 
 ## Availability 
@@ -36,4 +36,13 @@
 
 - Clan Jade Falcon 
 - Clan Wolf 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

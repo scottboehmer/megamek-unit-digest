@@ -17,7 +17,7 @@
   - Drone Operating System 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6715/revenant-ubm-2r3) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6715) 
 - **Battle Value:** 770 
 
 ## Availability 
@@ -25,4 +25,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

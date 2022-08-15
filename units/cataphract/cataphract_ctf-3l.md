@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/470/cataphract-ctf-3l) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/470) 
 - **Battle Value:** 1545 
 
 ## Availability 
@@ -59,6 +59,13 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
+
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 

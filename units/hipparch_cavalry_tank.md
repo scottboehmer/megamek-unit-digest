@@ -12,7 +12,7 @@
   - Medium Laser 
   - SRM 2 (ammo: 50) 
   - Small Laser 
-- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/4324/hipparch-cavalry-tank-standard) 
+- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/4324) 
 - **Battle Value:** 382 
 - [*More Info*](hipparch_cavalry_tank/hipparch_cavalry_tank_standard.md) 
 

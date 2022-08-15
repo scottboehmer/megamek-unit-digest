@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Infantry (4 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4670/morningstar-city-command-vehicle-laser) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4670) 
 - **Battle Value:** 856 
 
 ## Availability 

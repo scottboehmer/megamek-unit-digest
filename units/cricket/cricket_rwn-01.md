@@ -22,12 +22,16 @@
   - Narrow/Low Profile 
   - Difficult to Maintain 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7523/cricket-rwn-01) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7523) 
 - **Battle Value:** 1169 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

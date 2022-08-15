@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 8) 
   - Medium Laser 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4193/fury-command-tank-fury-ii) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4193) 
 - **Battle Value:** 1234 
 
 ## Availability 

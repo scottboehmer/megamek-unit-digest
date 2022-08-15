@@ -20,7 +20,7 @@
   - Static Ammo Feed (HAG 40) 
   - Exposed Weapon Linkage (HAG 40) 
   - Static Ammo Feed (HAG 40) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/782/cygnus-2) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/782) 
 - **Battle Value:** 3421 
 
 ## Availability 
@@ -38,6 +38,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

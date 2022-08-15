@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Stabilized Weapon (BattleMech Taser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2230/morrigan-3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2230) 
 - **Battle Value:** 1390 
 
 ## Availability 
@@ -39,4 +39,9 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
 

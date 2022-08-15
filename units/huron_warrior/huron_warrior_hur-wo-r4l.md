@@ -16,7 +16,7 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1580/huron-warrior-hur-wo-r4l) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1580) 
 - **Battle Value:** 1530 
 
 ## Availability 
@@ -89,5 +89,13 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
 - Taurian Concordat 
 

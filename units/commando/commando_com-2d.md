@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/670/commando-com-2d) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/670) 
 - **Battle Value:** 541 
 
 ## Availability 
@@ -66,6 +66,7 @@
 
 - Circinus Federation 
 - Federated Commonwealth 
+- Free Rasalhague Republic 
 - Kell Hounds 
 - Lyran Alliance 
 - Lyran Commonwealth 
@@ -80,6 +81,7 @@
 ### Civil War 
 
 - Circinus Federation 
+- Free Rasalhague Republic 
 - Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -96,6 +98,7 @@
 - Circinus Federation 
 - Escorpión Imperio 
 - Filtvelt Coalition 
+- Free Rasalhague Republic 
 - Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
@@ -130,6 +133,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

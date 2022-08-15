@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2513/phoenix-hawk-iic-3) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2513) 
 - **Battle Value:** 2448 
 
 ## Availability 
@@ -95,5 +95,17 @@
 - Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
+- Scorpion Empire 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Raven Alliance 
 - Scorpion Empire 
 

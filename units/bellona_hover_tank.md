@@ -14,7 +14,7 @@
   - Light Machine Gun × 4 (ammo: 300) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/326/bellona-hover-tank-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/326) 
 - **Battle Value:** 1018 
 - [*More Info*](bellona_hover_tank/bellona_hover_tank_standard.md) 
 
@@ -33,7 +33,7 @@
   - Light Machine Gun × 6 (ammo: 300) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/325/bellona-hover-tank-laser) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/325) 
 - **Battle Value:** 1262 
 - [*More Info*](bellona_hover_tank/bellona_hover_tank_laser.md) 
 

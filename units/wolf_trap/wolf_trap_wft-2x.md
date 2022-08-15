@@ -15,7 +15,7 @@
   - Medium X-Pulse Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3557/wolf-trap-tora-wft-2x-bear-trap) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3557) 
 - **Battle Value:** 1211 
 
 ## Availability 

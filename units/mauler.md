@@ -15,8 +15,11 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2101/mauler-mal-1r) 
+  - Stabilized Weapon (AC/2) 
+  - Stabilized Weapon (AC/2) 
+  - Stabilized Weapon (AC/2) 
+  - Stabilized Weapon (AC/2) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2101) 
 - **Battle Value:** 1460 
 - [*More Info*](mauler/mauler_mal-1r.md) 
 
@@ -36,8 +39,11 @@
   - C3 Support 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2103/mauler-mal-c) 
+  - Stabilized Weapon (AC/2) 
+  - Stabilized Weapon (AC/2) 
+  - Stabilized Weapon (AC/2) 
+  - Stabilized Weapon (AC/2) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2103) 
 - **Battle Value:** 1473 
 - [*More Info*](mauler/mauler_mal-c.md) 
 
@@ -56,8 +62,11 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5460/mauler-mal-2r) 
+  - Stabilized Weapon (Ultra AC/2) 
+  - Stabilized Weapon (Ultra AC/2) 
+  - Stabilized Weapon (Ultra AC/2) 
+  - Stabilized Weapon (Ultra AC/2) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5460) 
 - **Battle Value:** 1586 
 - [*More Info*](mauler/mauler_mal-2r.md) 
 
@@ -77,8 +86,9 @@
 - **Equipment:** 
   - C3 Support 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2102/mauler-mal-3r) 
+  - Stabilized Weapon (LB 10-X AC) 
+  - Stabilized Weapon (LB 10-X AC) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2102) 
 - **Battle Value:** 1877 
 - [*More Info*](mauler/mauler_mal-3r.md) 
 
@@ -95,8 +105,11 @@
   - LRM 15 × 2 (ammo: 32) 
   - Light AC/5 × 4 (ammo: 80) 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2100/mauler-mal-1k) 
+  - Stabilized Weapon (Light AC/5) 
+  - Stabilized Weapon (Light AC/5) 
+  - Stabilized Weapon (Light AC/5) 
+  - Stabilized Weapon (Light AC/5) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2100) 
 - **Battle Value:** 1622 
 - [*More Info*](mauler/mauler_mal-1k.md) 
 
@@ -114,9 +127,8 @@
 - **Equipment:** 
   - CASE II 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Hyper-Extending Actuators 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5784/mauler-mal-4x-todesbote) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5784) 
 - **Battle Value:** 1904 
 - [*More Info*](mauler/mauler_mal-4x_todesbote.md) 
 

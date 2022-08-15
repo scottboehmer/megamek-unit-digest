@@ -12,7 +12,7 @@
   - Light PPC × 6 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2823/schrek-ii-x-ppc-carrier-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2823) 
 - **Battle Value:** 1110 
 - [*More Info*](schrek_ii-x_ppc_carrier/schrek_ii-x_ppc_carrier_standard.md) 
 

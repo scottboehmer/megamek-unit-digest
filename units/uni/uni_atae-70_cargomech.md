@@ -4,7 +4,7 @@
 
 ## Uni ATAE-70 CargoMech 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3050) 
 - **Chassis:** 70 tons Quad (Industrial) 
 - **Movement:** 3 / 5, Fuel Cell 
@@ -15,7 +15,7 @@
   - Enviro-Sealing 
   - Lift Hoist × 2 
   - Cargo 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/5321/uni-atae-70-cargomech) 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/5321) 
 - **Battle Value:** 533 
 
 ## Availability 
@@ -51,4 +51,10 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

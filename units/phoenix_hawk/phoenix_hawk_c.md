@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #11 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7752/phoenix-hawk-c) 
+- **Sources:** Rec Guide:ilClan #11 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7752) 
 - **Battle Value:** 1396 
 
 ## Availability 
@@ -88,5 +88,10 @@
 - Clan Nova Cat 
 - Draconis Combine 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Draconis Combine 
 - Scorpion Empire 
 

@@ -25,7 +25,7 @@
   - Distracting 
   - Protected Actuators 
   - Jettison-Capable Weapon (HAG 30) 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6359/atlas-iii-as7-d2) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6359) 
 - **Battle Value:** 2890 
 
 ## Availability 
@@ -42,4 +42,10 @@
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
 

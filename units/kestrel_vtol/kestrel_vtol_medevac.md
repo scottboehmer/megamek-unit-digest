@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Paramedic Equipment × 6 
   - Infantry (3.5 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1765/kestrel-vtol-medevac) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1765) 
 - **Battle Value:** 126 
 
 ## Availability 
@@ -72,5 +72,10 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Draconis Combine 
 - Wolf's Dragoons 
 

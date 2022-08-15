@@ -18,7 +18,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3604/xanthos-xnt-3o) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3604) 
 - **Battle Value:** 1948 
 
 ## Availability 
@@ -26,6 +26,7 @@
 ### Star League 
 
 - Capellan Confederation 
+- Star League 
 
 ### Early Succession Wars 
 

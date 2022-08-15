@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1786/kingfisher-prime) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1786) 
 - **Battle Value:** 2401 
 - [*More Info*](kingfisher/kingfisher_prime.md) 
 
@@ -41,7 +41,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1779/kingfisher-a) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1779) 
 - **Battle Value:** 2261 
 - [*More Info*](kingfisher/kingfisher_a.md) 
 
@@ -63,7 +63,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1780/kingfisher-b) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1780) 
 - **Battle Value:** 2472 
 - [*More Info*](kingfisher/kingfisher_b.md) 
 
@@ -80,7 +80,7 @@
   - ER Medium Laser × 4 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1781/kingfisher-c) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1781) 
 - **Battle Value:** 2644 
 - [*More Info*](kingfisher/kingfisher_c.md) 
 
@@ -99,7 +99,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1782/kingfisher-d) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1782) 
 - **Battle Value:** 2364 
 - [*More Info*](kingfisher/kingfisher_d.md) 
 
@@ -118,7 +118,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1785/kingfisher-h) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1785) 
 - **Battle Value:** 2525 
 - [*More Info*](kingfisher/kingfisher_h.md) 
 
@@ -138,7 +138,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1783/kingfisher-e) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1783) 
 - **Battle Value:** 2443 
 - [*More Info*](kingfisher/kingfisher_e.md) 
 
@@ -159,7 +159,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1784/kingfisher-f) 
+- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1784) 
 - **Battle Value:** 2568 
 - [*More Info*](kingfisher/kingfisher_f.md) 
 
@@ -182,7 +182,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1787/kingfisher-x) 
+- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1787) 
 - **Battle Value:** 2761 
 - [*More Info*](kingfisher/kingfisher_x.md) 
 
@@ -204,7 +204,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8261/kingfisher-g) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8261) 
 - **Battle Value:** 2319 
 - [*More Info*](kingfisher/kingfisher_g.md) 
 
@@ -223,7 +223,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8262/kingfisher-i) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8262) 
 - **Battle Value:** 2348 
 - [*More Info*](kingfisher/kingfisher_i.md) 
 
@@ -246,7 +246,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8260/kingfisher-t) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8260) 
 - **Battle Value:** 2637 
 - [*More Info*](kingfisher/kingfisher_t.md) 
 

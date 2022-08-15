@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Fully Amphibious Chassis 
   - Combat Vehicle Escape Pod 
-- **Sources:** XTR Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/2854/sea-hunter-maritime-tank-standard) 
+- **Sources:** XTR Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/2854) 
 - **Battle Value:** 503 
 
 ## Availability 

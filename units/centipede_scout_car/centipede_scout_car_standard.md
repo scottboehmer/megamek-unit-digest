@@ -15,7 +15,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/514/centipede-scout-car-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/514) 
 - **Battle Value:** 271 
 
 ## Availability 
@@ -68,5 +68,15 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

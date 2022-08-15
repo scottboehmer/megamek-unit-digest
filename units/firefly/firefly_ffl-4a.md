@@ -17,8 +17,7 @@
   - Small Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1087/firefly-ffl-4a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1087) 
 - **Battle Value:** 831 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - SRM 6 × 2 (ammo: 15) 
   - Medium Pulse Laser × 2 
   - Flamer × 4 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1120/flashfire-fls-p2) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1120) 
 - **Battle Value:** 718 
 
 ## Availability 

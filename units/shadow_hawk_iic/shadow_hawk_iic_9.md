@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6911/shadow-hawk-iic-9) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6911) 
 - **Battle Value:** 1803 
 
 ## Availability 
@@ -30,4 +30,9 @@
 - Free Worlds League 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Free Worlds League 
 

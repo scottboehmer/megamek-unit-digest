@@ -22,13 +22,13 @@
   - Distracting 
   - Reinforced Legs 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6564/jade-hawk-jhk-03) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6564) 
 - **Battle Value:** 2160 
 - [*More Info*](jade_hawk/jade_hawk_jhk-03.md) 
 
 ## Jade Hawk JHK-04 
 
-- **Role:** Missile Boat 
+- **Role:** Sniper 
 - **Tech Base:** Clan Mixed (3135) 
 - **Chassis:** 75 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
@@ -45,7 +45,7 @@
   - Distracting 
   - Reinforced Legs 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6565/jade-hawk-jhk-04) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6565) 
 - **Battle Value:** 2102 
 - [*More Info*](jade_hawk/jade_hawk_jhk-04.md) 
 
@@ -70,7 +70,7 @@
   - Distracting 
   - Reinforced Legs 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6566/jade-hawk-standard) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6566) 
 - **Battle Value:** 2523 
 - [*More Info*](jade_hawk/jade_hawk_standard.md) 
 
@@ -92,7 +92,7 @@
   - Distracting 
   - Reinforced Legs 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6567/jade-hawk-2) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6567) 
 - **Battle Value:** 2455 
 - [*More Info*](jade_hawk/jade_hawk_2.md) 
 
@@ -115,7 +115,7 @@
   - Distracting 
   - Reinforced Legs 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6568/jade-hawk-3) 
+- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6568) 
 - **Battle Value:** 2498 
 - [*More Info*](jade_hawk/jade_hawk_3.md) 
 

@@ -17,7 +17,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5873/crab-crb-27sl) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5873) 
 - **Battle Value:** 1309 
 
 ## Availability 

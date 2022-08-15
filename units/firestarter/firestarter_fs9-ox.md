@@ -20,7 +20,7 @@
   - Bloodhound Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1110/firestarter-fs9-ox) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1110) 
 - **Battle Value:** 1190 
 
 ## Availability 
@@ -28,37 +28,76 @@
 ### Clan Invasion 
 
 - Capellan Confederation 
+- ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
 - Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Second Star League 
+- St. Ives Compact 
+- Wolf's Dragoons 
+- Word of Blake 
 
 ### Civil War 
 
 - Capellan Confederation 
+- ComStar 
 - Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
 - Lyran Alliance 
+- Mercenary 
+- Second Star League 
+- St. Ives Compact 
+- Wolf's Dragoons 
+- Word of Blake 
 
 ### Jihad 
 
 - Capellan Confederation 
+- ComStar 
 - Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
 - Lyran Alliance 
+- Mercenary 
+- Word of Blake 
 
 ### Early Republic 
 
 - Capellan Confederation 
 - Draconis Combine 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### Late Republic 
 
 - Capellan Confederation 
 - Draconis Combine 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### Dark Ages 
 
 - Capellan Confederation 
 - Draconis Combine 
 - Lyran Commonwealth 
+- Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

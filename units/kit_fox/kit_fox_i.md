@@ -20,8 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6932/uller-kit-fox-i) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6932) 
 - **Battle Value:** 1936 
 
 ## Availability 
@@ -33,6 +32,7 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - ComStar 
+- Escorpión Imperio 
 - Mercenary 
 - Raven Alliance 
 - Wolf's Dragoons 
@@ -44,7 +44,19 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - ComStar 
+- Escorpión Imperio 
 - Mercenary 
 - Raven Alliance 
+- Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Mercenary 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 - Wolf's Dragoons 
 

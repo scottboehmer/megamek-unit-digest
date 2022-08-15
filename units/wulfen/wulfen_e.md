@@ -20,7 +20,7 @@
   - Supercharger 
   - Targeting Computer 
   - CASE II 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6261/wulfen-e) 
+- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6261) 
 - **Battle Value:** 1839 
 
 ## Availability 
@@ -28,4 +28,9 @@
 ### Dark Ages 
 
 - Clan Wolf 
+
+### ilClan 
+
+- Star League (Wolf) 
+- Wolf Empire 
 

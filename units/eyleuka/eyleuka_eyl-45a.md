@@ -22,7 +22,7 @@
   - TAG 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1009/eyleuka-eyl-45a) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1009) 
 - **Battle Value:** 1387 
 
 ## Availability 
@@ -46,6 +46,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Fronc Reaches 

@@ -19,7 +19,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/538/challenger-mbt-x) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/538) 
 - **Battle Value:** 1710 
 
 ## Availability 
@@ -82,4 +82,14 @@
 - Mercenary 
 - Republic of the Sphere 
 - Taurian Concordat 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Searchlight 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7183/rifleman-rfl-1n) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7183) 
 - **Battle Value:** 931 
 - [*More Info*](rifleman/rifleman_rfl-1n.md) 
 
@@ -33,7 +33,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Searchlight 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7184/rifleman-rfl-2n) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7184) 
 - **Battle Value:** 1093 
 - [*More Info*](rifleman/rifleman_rfl-2n.md) 
 
@@ -54,7 +54,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2697/rifleman-rfl-3n) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2697) 
 - **Battle Value:** 1039 
 - [*More Info*](rifleman/rifleman_rfl-3n.md) 
 
@@ -74,7 +74,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2698/rifleman-rfl-4d) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2698) 
 - **Battle Value:** 1173 
 - [*More Info*](rifleman/rifleman_rfl-4d.md) 
 
@@ -94,7 +94,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2695/rifleman-rfl-3c) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2695) 
 - **Battle Value:** 1066 
 - [*More Info*](rifleman/rifleman_rfl-3c.md) 
 
@@ -117,7 +117,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2700/rifleman-rfl-5m) 
+- **Sources:** Rec Guide:ilClan #8 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2700) 
 - **Battle Value:** 1227 
 - [*More Info*](rifleman/rifleman_rfl-5m.md) 
 
@@ -138,7 +138,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2699/rifleman-rfl-5d) 
+- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2699) 
 - **Battle Value:** 1395 
 - [*More Info*](rifleman/rifleman_rfl-5d.md) 
 
@@ -158,7 +158,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693/rifleman-c) 
+- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693) 
 - **Battle Value:** 1335 
 - [*More Info*](rifleman/rifleman_c.md) 
 
@@ -173,7 +173,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Ultra AC/5 × 2 (ammo: 40) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7597/rifleman-rfl-5cs) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7597) 
 - **Battle Value:** 1303 
 - [*More Info*](rifleman/rifleman_rfl-5cs.md) 
 
@@ -196,7 +196,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2702/rifleman-rfl-6x) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2702) 
 - **Battle Value:** 1464 
 - [*More Info*](rifleman/rifleman_rfl-6x.md) 
 
@@ -217,7 +217,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2705/rifleman-rfl-8d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2705) 
 - **Battle Value:** 1777 
 - [*More Info*](rifleman/rifleman_rfl-8d.md) 
 
@@ -240,7 +240,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2703/rifleman-rfl-7m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2703) 
 - **Battle Value:** 1521 
 - [*More Info*](rifleman/rifleman_rfl-7m.md) 
 
@@ -260,7 +260,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2706/rifleman-rfl-8x) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2706) 
 - **Battle Value:** 1798 
 - [*More Info*](rifleman/rifleman_rfl-8x.md) 
 
@@ -278,7 +278,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2701/rifleman-rfl-6d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2701) 
 - **Battle Value:** 1274 
 - [*More Info*](rifleman/rifleman_rfl-6d.md) 
 
@@ -302,7 +302,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2696/rifleman-rfl-3cr) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2696) 
 - **Battle Value:** 1129 
 - [*More Info*](rifleman/rifleman_rfl-3cr.md) 
 
@@ -327,7 +327,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2707/rifleman-rfl-9t) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2707) 
 - **Battle Value:** 1503 
 - [*More Info*](rifleman/rifleman_rfl-9t.md) 
 
@@ -351,7 +351,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2708/rifleman-rfl-x3-muse-wind) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2708) 
 - **Battle Value:** 2012 
 - [*More Info*](rifleman/rifleman_rfl-x3_muse_wind.md) 
 
@@ -373,7 +373,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2704/rifleman-rfl-7x) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2704) 
 - **Battle Value:** 1645 
 - [*More Info*](rifleman/rifleman_rfl-7x.md) 
 
@@ -394,7 +394,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2694/rifleman-c-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2694) 
 - **Battle Value:** 2150 
 - [*More Info*](rifleman/rifleman_c_2.md) 
 
@@ -409,7 +409,7 @@
 - **Weapons:** 
   - Silver Bullet × 2 (ammo: 32) 
   - ER Medium Laser × 2 
-- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7572/rifleman-rfl-7g) 
+- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7572) 
 - **Battle Value:** 1302 
 - [*More Info*](rifleman/rifleman_rfl-7g.md) 
 
@@ -427,7 +427,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7576/rifleman-c-3) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7576) 
 - **Battle Value:** 1871 
 - [*More Info*](rifleman/rifleman_c_3.md) 
 
@@ -445,7 +445,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7574/rifleman-rfl-7n) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7574) 
 - **Battle Value:** 1398 
 - [*More Info*](rifleman/rifleman_rfl-7n.md) 
 
@@ -463,7 +463,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7575/rifleman-rfl-7n2) 
+- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7575) 
 - **Battle Value:** 1452 
 - [*More Info*](rifleman/rifleman_rfl-7n2.md) 
 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - CASE II 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6861/man-o-war-gargoyle-x) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6861) 
 - **Battle Value:** 2800 
 
 ## Availability 
@@ -37,4 +37,10 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Star League (Wolf) 
 

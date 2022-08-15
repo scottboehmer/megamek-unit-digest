@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2376/ostsol-otl-7m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2376) 
 - **Battle Value:** 1581 
 
 ## Availability 
@@ -55,11 +55,14 @@
 
 ### Dark Ages 
 
-- Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
-- Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

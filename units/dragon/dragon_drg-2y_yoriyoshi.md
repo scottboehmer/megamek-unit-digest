@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/910/dragon-drg-2y-yoriyoshi) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/910) 
 - **Battle Value:** 1257 
 
 ## Availability 

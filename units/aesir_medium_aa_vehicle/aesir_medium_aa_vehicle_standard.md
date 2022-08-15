@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Armored Motive System 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6249/aesir-medium-aa-vehicle-standard) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6249) 
 - **Battle Value:** 708 
 
 ## Availability 
@@ -40,4 +40,12 @@
 - Clan Wolf 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Mercenary 
+- Star League (Wolf) 
+- Wolf Empire 
 

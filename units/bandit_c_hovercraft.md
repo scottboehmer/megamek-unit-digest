@@ -13,7 +13,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/228/bandit-c-hovercraft-prime) 
+- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/228) 
 - **Battle Value:** 1087 
 - [*More Info*](bandit_c_hovercraft/bandit_c_hovercraft_prime.md) 
 
@@ -31,7 +31,7 @@
 - **Equipment:** 
   - Infantry (5.0 tons) 
   - CASE 
-- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/220/bandit-c-hovercraft-a) 
+- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/220) 
 - **Battle Value:** 1145 
 - [*More Info*](bandit_c_hovercraft/bandit_c_hovercraft_a.md) 
 
@@ -48,7 +48,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/221/bandit-c-hovercraft-b) 
+- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/221) 
 - **Battle Value:** 1162 
 - [*More Info*](bandit_c_hovercraft/bandit_c_hovercraft_b.md) 
 
@@ -64,7 +64,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/222/bandit-c-hovercraft-c) 
+- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/222) 
 - **Battle Value:** 1231 
 - [*More Info*](bandit_c_hovercraft/bandit_c_hovercraft_c.md) 
 
@@ -82,7 +82,7 @@
 - **Equipment:** 
   - Infantry (5.0 tons) 
   - CASE 
-- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/223/bandit-c-hovercraft-d) 
+- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/223) 
 - **Battle Value:** 1093 
 - [*More Info*](bandit_c_hovercraft/bandit_c_hovercraft_d.md) 
 
@@ -99,7 +99,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/224/bandit-c-hovercraft-e) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/224) 
 - **Battle Value:** 1063 
 - [*More Info*](bandit_c_hovercraft/bandit_c_hovercraft_e.md) 
 
@@ -119,7 +119,7 @@
   - Infantry (5.0 tons) 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/227/bandit-c-hovercraft-h) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/227) 
 - **Battle Value:** 1108 
 - [*More Info*](bandit_c_hovercraft/bandit_c_hovercraft_h.md) 
 
@@ -138,7 +138,7 @@
 - **Equipment:** 
   - Infantry (5.0 tons) 
   - CASE 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/225/bandit-c-hovercraft-f) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/225) 
 - **Battle Value:** 1119 
 - [*More Info*](bandit_c_hovercraft/bandit_c_hovercraft_f.md) 
 
@@ -160,7 +160,7 @@
   - Infantry (5.0 tons) 
   - CASE 
   - Machine Gun Array × 2 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/226/bandit-c-hovercraft-g) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/226) 
 - **Battle Value:** 915 
 - [*More Info*](bandit_c_hovercraft/bandit_c_hovercraft_g.md) 
 

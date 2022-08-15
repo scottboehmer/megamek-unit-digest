@@ -10,7 +10,7 @@
 - **Movement:** 16 / 24, Fuel Cell 
 - **Armor:** 0 
 - **Heat Sinks:** 1 (1) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1530/hi-scout-drone-napfind) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1530) 
 - **Battle Value:** 12 
 
 ## Availability 
@@ -134,5 +134,19 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

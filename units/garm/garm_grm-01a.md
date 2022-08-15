@@ -16,7 +16,7 @@
   - LB 5-X AC (ammo: 20) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1189/garm-grm-01a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1189) 
 - **Battle Value:** 701 
 
 ## Availability 
@@ -70,4 +70,11 @@
 - Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
 

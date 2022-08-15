@@ -14,7 +14,7 @@
   - LRM 15 (ammo: 16) 
   - LB 5-X AC (ammo: 40) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/685/condor-heavy-hover-tank-upgrade-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/685) 
 - **Battle Value:** 965 
 
 ## Availability 
@@ -76,5 +76,16 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

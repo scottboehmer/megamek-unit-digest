@@ -18,7 +18,7 @@
   - Poor Workmanship 
   - Bad Reputation (Inner Sphere) 
   - Accurate Weapon (AC/5) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7181/swordsman-swd-1) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7181) 
 - **Battle Value:** 692 
 - [*More Info*](swordsman/swordsman_swd-1.md) 
 
@@ -41,7 +41,7 @@
   - Poor Workmanship 
   - Bad Reputation (Inner Sphere) 
   - Accurate Weapon (AC/5) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7182/swordsman-swd-2) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7182) 
 - **Battle Value:** 803 
 - [*More Info*](swordsman/swordsman_swd-2.md) 
 

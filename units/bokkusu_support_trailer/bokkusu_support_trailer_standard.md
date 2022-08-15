@@ -18,7 +18,7 @@
   - Hitch × 2 
   - Infantry (4.0 tons) 
   - Cargo 
-- **Sources:** TRO3086S - Early Repubic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/3844/bokkusu-support-trailer-standard) 
+- **Sources:** TRO3086S - Early Repubic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/3844) 
 - **Battle Value:** 660 
 
 ## Availability 
@@ -32,6 +32,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

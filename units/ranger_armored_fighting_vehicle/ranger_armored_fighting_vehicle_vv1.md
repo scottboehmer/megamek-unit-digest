@@ -16,7 +16,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Machine Gun Array × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2638/ranger-armored-fighting-vehicle-vv1) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2638) 
 - **Battle Value:** 604 
 
 ## Availability 
@@ -84,4 +84,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

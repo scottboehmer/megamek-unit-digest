@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/684/condor-heavy-hover-tank-upgrade-laser) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/684) 
 - **Battle Value:** 1197 
 
 ## Availability 
@@ -92,5 +92,20 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

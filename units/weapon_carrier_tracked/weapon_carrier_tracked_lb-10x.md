@@ -13,10 +13,30 @@
 - **Weapons:** 
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
   - LRM 5 × 3 (ammo: 48) 
-- **Source:** Hist LOT II 
+- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6776) 
 - **Battle Value:** 901 
 
 ## Availability 
 
-Availability Unknown 
+### Star League 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League 
+- Star League - Royal Divisions 
+- Terran Hegemony 
+
+### Early Succession Wars 
+
+- Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
 

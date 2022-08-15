@@ -16,7 +16,7 @@
   - Large Chemical Laser × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6804/heimdall-ground-monitor-tank-d) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6804) 
 - **Battle Value:** 1990 
 
 ## Availability 
@@ -45,6 +45,14 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
+- Lyran Commonwealth 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Raven Alliance 
 

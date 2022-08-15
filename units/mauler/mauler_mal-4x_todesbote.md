@@ -16,9 +16,8 @@
 - **Equipment:** 
   - CASE II 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Hyper-Extending Actuators 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5784/mauler-mal-4x-todesbote) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5784) 
 - **Battle Value:** 1904 
 
 ## Availability 

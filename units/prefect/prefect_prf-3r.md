@@ -20,12 +20,16 @@
   - Radical Heat Sink System 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6865/prefect-prf-3r) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6865) 
 - **Battle Value:** 2412 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Free Worlds League 
+
+### ilClan 
 
 - Free Worlds League 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Accurate Weapon (Mace) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2194/mjolnir-mlr-b2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2194) 
 - **Battle Value:** 670 
 
 ## Availability 
@@ -50,4 +50,11 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
 

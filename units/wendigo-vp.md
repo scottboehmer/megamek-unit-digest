@@ -17,14 +17,14 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6408/wendigo-vp-prime) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6408) 
 - **Battle Value:** 2360 
 - [*More Info*](wendigo-vp/wendigo-vp_prime.md) 
 
 ## Wendigo-VP A 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3134) 
+- **Tech Base:** Clan (3150) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
   - **Jumping:** 8 
@@ -37,7 +37,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6409/wendigo-vp-a) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6409) 
 - **Battle Value:** 2414 
 - [*More Info*](wendigo-vp/wendigo-vp_a.md) 
 

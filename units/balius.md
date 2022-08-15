@@ -14,7 +14,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/215/balius-prime) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/215) 
 - **Battle Value:** 2157 
 - [*More Info*](balius/balius_prime.md) 
 
@@ -35,7 +35,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/211/balius-a) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/211) 
 - **Battle Value:** 2201 
 - [*More Info*](balius/balius_a.md) 
 
@@ -54,7 +54,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/212/balius-b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/212) 
 - **Battle Value:** 2029 
 - [*More Info*](balius/balius_b.md) 
 
@@ -75,7 +75,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/213/balius-c) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/213) 
 - **Battle Value:** 2103 
 - [*More Info*](balius/balius_c.md) 
 
@@ -95,7 +95,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/214/balius-d) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/214) 
 - **Battle Value:** 2417 
 - [*More Info*](balius/balius_d.md) 
 
@@ -117,7 +117,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/216/balius-u) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/216) 
 - **Battle Value:** 2014 
 - [*More Info*](balius/balius_u.md) 
 
@@ -139,7 +139,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6883/balius-e) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6883) 
 - **Battle Value:** 2158 
 - [*More Info*](balius/balius_e.md) 
 

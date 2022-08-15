@@ -21,7 +21,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4733/no-dachi-nda-2ko) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4733) 
 - **Battle Value:** 1728 
 
 ## Availability 
@@ -57,4 +57,9 @@
 - Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Mercenary 
 

@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - C3 Main × 2 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2114/maxim-i-heavy-hover-transport-company-command) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2114) 
 - **Battle Value:** 851 
 
 ## Availability 
@@ -89,5 +89,19 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

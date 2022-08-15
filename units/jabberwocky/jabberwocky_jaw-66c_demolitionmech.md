@@ -21,7 +21,7 @@
   - Searchlight 
   - Lift Hoist 
   - Tracks 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1651/jabberwocky-jaw-66c-demolitionmech) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1651) 
 - **Battle Value:** 342 
 
 ## Availability 
@@ -51,6 +51,15 @@
 - Wolf's Dragoons 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Kell Hounds 
+- Mercenary 
+- Wolf's Dragoons 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Federated Suns 

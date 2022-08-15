@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stabilized Weapon (Light AC/5) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/426/brahma-brm-5a) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/426) 
 - **Battle Value:** 1572 
 
 ## Availability 
@@ -45,6 +45,12 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Mercenary 

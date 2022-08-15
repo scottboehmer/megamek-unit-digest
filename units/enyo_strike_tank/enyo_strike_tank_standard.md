@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4127/enyo-strike-tank-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4127) 
 - **Battle Value:** 1504 
 
 ## Availability 
@@ -59,4 +59,12 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
 

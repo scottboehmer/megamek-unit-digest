@@ -18,7 +18,7 @@
   - Hatchet 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/359/black-knight-bl-6-knt-ian) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/359) 
 - **Battle Value:** 1861 
 
 ## Availability 

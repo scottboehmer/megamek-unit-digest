@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1805/kodiak-standard) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1805) 
 - **Battle Value:** 2927 
 - [*More Info*](kodiak/kodiak_standard.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1809/kodiak-5) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1809) 
 - **Battle Value:** 3067 
 - [*More Info*](kodiak/kodiak_5.md) 
 
@@ -62,7 +62,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1806/kodiak-2) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1806) 
 - **Battle Value:** 2856 
 - [*More Info*](kodiak/kodiak_2.md) 
 
@@ -83,7 +83,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1808/kodiak-4) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1808) 
 - **Battle Value:** 2728 
 - [*More Info*](kodiak/kodiak_4.md) 
 
@@ -109,7 +109,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** JTP Dieron - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1804/kodiak-cale) 
+- **Sources:** JTP Dieron - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1804) 
 - **Battle Value:** 2535 
 - [*More Info*](kodiak/kodiak_cale.md) 
 
@@ -130,13 +130,13 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1807/kodiak-3) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1807) 
 - **Battle Value:** 2615 
 - [*More Info*](kodiak/kodiak_3.md) 
 
 ## Kodiak 6 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Clan Mixed (3131) 
 - **Chassis:** 100 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -153,7 +153,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8364/kodiak-6) 
+- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8364) 
 - **Battle Value:** 2922 
 - [*More Info*](kodiak/kodiak_6.md) 
 

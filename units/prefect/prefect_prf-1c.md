@@ -20,7 +20,7 @@
   - C3 Emergency Main 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7348/prefect-prf-1c) 
+- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7348) 
 - **Battle Value:** 1857 
 
 ## Availability 
@@ -28,4 +28,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
 

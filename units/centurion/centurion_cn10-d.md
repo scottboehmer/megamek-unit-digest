@@ -18,7 +18,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7725/centurion-cn10-d) 
+- **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7725) 
 - **Battle Value:** 1260 
 
 ## Availability 
@@ -38,4 +38,11 @@
 - Filtvelt Coalition 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
 

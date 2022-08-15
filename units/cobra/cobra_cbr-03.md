@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/656/cobra-cbr-03) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/656) 
 - **Battle Value:** 1324 
 
 ## Availability 
@@ -47,4 +47,11 @@
 - Marian Hegemony 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Vesper Marches 
 

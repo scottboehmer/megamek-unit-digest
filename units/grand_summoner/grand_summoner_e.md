@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** Iron Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7426/thor-ii-grand-summoner-e) 
+- **Sources:** Iron Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7426) 
 - **Battle Value:** 2638 
 
 ## Availability 
@@ -50,5 +50,16 @@
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Kell Hounds 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
 - Wolf's Dragoons 
 

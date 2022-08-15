@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2012/mangonel-mnl-3l) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2012) 
 - **Battle Value:** 1552 
 - [*More Info*](mangonel/mangonel_mnl-3l.md) 
 
@@ -35,7 +35,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - No/Minimal Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2013/mangonel-mnl-3w) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2013) 
 - **Battle Value:** 2657 
 - [*More Info*](mangonel/mangonel_mnl-3w.md) 
 
@@ -54,7 +54,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - No/Minimal Arms 
-- **Sources:** RS 3145  NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6871/mangonel-mnl-4s) 
+- **Sources:** RS 3145  NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6871) 
 - **Battle Value:** 2659 
 - [*More Info*](mangonel/mangonel_mnl-4s.md) 
 

@@ -19,7 +19,7 @@
   - CASE II 
   - Searchlight 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7825/inquisitor-itw-85-securitymech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7825) 
 - **Battle Value:** 664 
 
 ## Availability 
@@ -32,4 +32,10 @@
 - Lyran Commonwealth 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
 

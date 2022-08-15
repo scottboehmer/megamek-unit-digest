@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3050U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3646/zeus-x-zeu-9wd) 
+- **Sources:** TRO 3050U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3646) 
 - **Battle Value:** 1716 
 
 ## Availability 
@@ -56,5 +56,13 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 - Wolf's Dragoons 
 

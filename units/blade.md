@@ -19,7 +19,7 @@
   - Exposed Weapon Linkage (RAC/5) 
   - Modular Weapon (RAC/5) 
   - Static Ammo Feed (RAC/5) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/391/blade-bld-xl) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/391) 
 - **Battle Value:** 1314 
 - [*More Info*](blade/blade_bld-xl.md) 
 
@@ -44,7 +44,7 @@
   - Static Ammo Feed (AC/10) 
   - Modular Weapon (Medium Laser) 
   - Modular Weapon (Medium Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/392/blade-bld-xs) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/392) 
 - **Battle Value:** 944 
 - [*More Info*](blade/blade_bld-xs.md) 
 
@@ -69,7 +69,7 @@
   - Static Ammo Feed (LB 10-X AC) 
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (ER Medium Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/393/blade-bld-xx) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/393) 
 - **Battle Value:** 1064 
 - [*More Info*](blade/blade_bld-xx.md) 
 
@@ -92,7 +92,7 @@
   - Static Ammo Feed (RAC/5) 
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (ER Small Laser) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6929/blade-bld-7r) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6929) 
 - **Battle Value:** 1227 
 - [*More Info*](blade/blade_bld-7r.md) 
 
@@ -120,7 +120,7 @@
   - Exposed Weapon Linkage (Light AC/2) 
   - Modular Weapon (Light AC/2) 
   - Static Ammo Feed (Light AC/2) 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7345/blade-bld-xr) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7345) 
 - **Battle Value:** 1101 
 - [*More Info*](blade/blade_bld-xr.md) 
 

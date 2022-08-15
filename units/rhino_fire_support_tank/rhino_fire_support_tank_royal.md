@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2684/rhino-fire-support-tank-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2684) 
 - **Battle Value:** 1670 
 
 ## Availability 
@@ -169,6 +169,11 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+- Raven Alliance 
+
+### ilClan 
 
 - Clan Hell's Horses 
 - Raven Alliance 

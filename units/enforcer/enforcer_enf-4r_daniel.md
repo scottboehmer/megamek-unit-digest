@@ -19,7 +19,7 @@
   - Barrel Fists 
   - Ammunition Feed Problem (Prototype Gauss Rifle) 
   - Fast Reload (Prototype Gauss Rifle) 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/977/enforcer-enf-4r-daniel) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/977) 
 - **Battle Value:** 1247 
 
 ## Availability 

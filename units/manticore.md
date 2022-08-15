@@ -16,7 +16,7 @@
   - CASE 
   - Supercharger 
   - Combat Vehicle Escape Pod 
-- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/2014/manticore-heavy-tank-the-ballista) 
+- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/2014) 
 - **Battle Value:** 1060 
 - [*More Info*](manticore/manticore_the_ballista.md) 
 

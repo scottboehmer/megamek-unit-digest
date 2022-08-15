@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRT 20 (ammo: 12) 
   - SRT 6 × 5 (ammo: 60) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4710/neptune-submarine-srt) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4710) 
 - **Battle Value:** 1075 
 
 ## Availability 
@@ -53,6 +53,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

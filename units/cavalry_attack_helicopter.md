@@ -11,7 +11,7 @@
 - **Weapons:** 
   - SRM 6 (ammo: 15) 
   - SRM 2 × 3 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/506/cavalry-attack-helicopter-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/506) 
 - **Battle Value:** 503 
 - [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/504/cavalry-attack-helicopter-lrm) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/504) 
 - **Battle Value:** 487 
 - [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_lrm.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - SRM 6 (ammo: 15) 
   - SRM 2 × 4 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/505/cavalry-attack-helicopter-srm) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/505) 
 - **Battle Value:** 509 
 - [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_srm.md) 
 
@@ -57,7 +57,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/507/cavalry-attack-helicopter-tag) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/507) 
 - **Battle Value:** 495 
 - [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_tag.md) 
 
@@ -74,7 +74,7 @@
   - Machine Gun × 3 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3.5 tons) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/503/cavalry-attack-helicopter-infantry) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/503) 
 - **Battle Value:** 615 
 - [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_infantry.md) 
 
@@ -92,7 +92,7 @@
   - Guardian ECM Suite 
   - Jet Booster 
   - Infantry (4.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/508/cavalry-attack-helicopter-cadence-rain) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/508) 
 - **Battle Value:** 451 
 - [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_cadence_rain.md) 
 
@@ -110,7 +110,7 @@
   - Guardian ECM Suite 
   - Jet Booster 
   - Infantry (4.0 tons) 
-- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3909/cavalry-attack-helicopter-infiltrator) 
+- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3909) 
 - **Battle Value:** 411 
 - [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_infiltrator.md) 
 

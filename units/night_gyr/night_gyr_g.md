@@ -20,7 +20,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8399/night-gyr-g) 
+- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8399) 
 - **Battle Value:** 2626 
 
 ## Availability 
@@ -29,4 +29,13 @@
 
 - Clan Jade Falcon 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Sea Fox 
+- Mercenary 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 

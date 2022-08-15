@@ -17,7 +17,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/549/champion-chp-1n2) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/549) 
 - **Battle Value:** 1233 
 
 ## Availability 

@@ -18,8 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** Op. Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/4172/firefly-ffl-3a) 
+- **Sources:** Op. Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/4172) 
 - **Battle Value:** 797 
 - [*More Info*](firefly/firefly_ffl-3a.md) 
 
@@ -41,8 +40,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1086/firefly-ffl-3sle) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1086) 
 - **Battle Value:** 876 
 - [*More Info*](firefly/firefly_ffl-3sle.md) 
 
@@ -61,8 +59,7 @@
   - Small Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1083/firefly-ffl-3pp) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1083) 
 - **Battle Value:** 888 
 - [*More Info*](firefly/firefly_ffl-3pp.md) 
 
@@ -83,8 +80,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1084/firefly-ffl-3pp2) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1084) 
 - **Battle Value:** 873 
 - [*More Info*](firefly/firefly_ffl-3pp2.md) 
 
@@ -105,8 +101,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1085/firefly-ffl-3pp3) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1085) 
 - **Battle Value:** 808 
 - [*More Info*](firefly/firefly_ffl-3pp3.md) 
 
@@ -125,8 +120,7 @@
   - Small Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1087/firefly-ffl-4a) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1087) 
 - **Battle Value:** 831 
 - [*More Info*](firefly/firefly_ffl-4a.md) 
 
@@ -147,8 +141,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1082/firefly-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1082) 
 - **Battle Value:** 1290 
 - [*More Info*](firefly/firefly_c.md) 
 
@@ -169,8 +162,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1088/firefly-ffl-4b) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1088) 
 - **Battle Value:** 870 
 - [*More Info*](firefly/firefly_ffl-4b.md) 
 
@@ -191,8 +183,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1089/firefly-ffl-4c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1089) 
 - **Battle Value:** 806 
 - [*More Info*](firefly/firefly_ffl-4c.md) 
 
@@ -213,8 +204,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1090/firefly-ffl-4d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1090) 
 - **Battle Value:** 897 
 - [*More Info*](firefly/firefly_ffl-4d.md) 
 
@@ -235,8 +225,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1091/firefly-ffl-4da) 
+- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1091) 
 - **Battle Value:** 921 
 - [*More Info*](firefly/firefly_ffl-4da.md) 
 

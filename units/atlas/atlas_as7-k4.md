@@ -22,7 +22,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6832/atlas-as7-k4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6832) 
 - **Battle Value:** 2153 
 
 ## Availability 
@@ -45,4 +45,11 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Draconis Combine 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Vesper Marches 
 

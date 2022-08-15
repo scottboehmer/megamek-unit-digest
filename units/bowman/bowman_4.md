@@ -20,7 +20,7 @@
   - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
-- **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5691/bowman-4) 
+- **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5691) 
 - **Battle Value:** 1657 
 
 ## Availability 
@@ -54,6 +54,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

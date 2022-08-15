@@ -4,7 +4,7 @@
 
 ## Hyena HYN-4B SalvageMech 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3072) 
 - **Chassis:** 55 tons (Industrial) 
 - **Movement:** 4 / 6, ICE 
@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Salvage Arm 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4354/hyena-hyn-4b-salvagemech) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4354) 
 - **Battle Value:** 405 
 
 ## Availability 

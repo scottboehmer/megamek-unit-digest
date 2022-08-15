@@ -5,7 +5,7 @@
 ## Wendigo C 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3135) 
+- **Tech Base:** Clan Mixed (3150) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9 (12), XL 
 - **Armor:** 152 (Laser Reflective) 
@@ -18,10 +18,10 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-  - Supercharger 
+  - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6406/wendigo-c) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6406) 
 - **Battle Value:** 2628 
 
 ## Availability 
@@ -29,6 +29,13 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Free Worlds League 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 
 - Free Worlds League 

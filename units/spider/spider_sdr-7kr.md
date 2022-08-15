@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3014/spider-sdr-7kr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3014) 
 - **Battle Value:** 775 
 
 ## Availability 
@@ -45,4 +45,9 @@
 - Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Mercenary 
 

@@ -15,7 +15,7 @@
   - MML 5 × 2 (ammo: 48 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6796/kinnol-mbt-rac) 
+- **Sources:** RS 3145 NTNU - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6796) 
 - **Battle Value:** 1355 
 
 ## Availability 
@@ -61,5 +61,25 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 - Wolf's Dragoons 
 

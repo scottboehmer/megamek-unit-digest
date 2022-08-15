@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/475/cataphract-ctf-5d) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/475) 
 - **Battle Value:** 1742 
 
 ## Availability 
@@ -35,6 +35,14 @@
 - Federated Suns 
 
 ### Late Republic 
+
+- Federated Suns 
+
+### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6873/flamberge-d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6873) 
 - **Battle Value:** 2357 
 
 ## Availability 
@@ -35,4 +35,9 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
 

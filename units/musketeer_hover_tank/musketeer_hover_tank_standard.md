@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4688/musketeer-hover-tank-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4688) 
 - **Battle Value:** 1120 
 
 ## Availability 
@@ -45,5 +45,11 @@
 - Draconis Combine 
 - Federated Suns 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
 - Wolf's Dragoons 
 

@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/2 × 3 (ammo: 225) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2523/pike-support-vehicle-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2523) 
 - **Battle Value:** 648 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 18) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2521/pike-support-vehicle-missile) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2521) 
 - **Battle Value:** 943 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_missile.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - AC/5 × 2 (ammo: 140) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2519/pike-support-vehicle-ac5) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2519) 
 - **Battle Value:** 715 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_ac5.md) 
 
@@ -58,7 +58,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2520/pike-support-vehicle-clan) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2520) 
 - **Battle Value:** 892 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_clan.md) 
 
@@ -73,7 +73,7 @@
 - **Weapons:** 
   - RAC/2 × 3 (ammo: 180) 
   - Small Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2522/pike-support-vehicle-rac-assault-pike) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2522) 
 - **Battle Value:** 961 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_rac_assault_pike.md) 
 

@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1193/ghost-gst-10) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1193) 
 - **Battle Value:** 1353 
 - [*More Info*](ghost/ghost_gst-10.md) 
 
@@ -42,7 +42,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1194/ghost-gst-11) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1194) 
 - **Battle Value:** 1244 
 - [*More Info*](ghost/ghost_gst-11.md) 
 
@@ -64,13 +64,13 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6907/ghost-gst-50) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6907) 
 - **Battle Value:** 1114 
 - [*More Info*](ghost/ghost_gst-50.md) 
 
 ## Ghost GST-10A 'Aurora' 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere Mixed (3130) 
 - **Chassis:** 50 tons 
 - **Movement:** 6 / 9, XL 
@@ -88,7 +88,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8373/ghost-gst-10a-aurora) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8373) 
 - **Battle Value:** 1371 
 - [*More Info*](ghost/ghost_gst-10a_aurora.md) 
 
@@ -107,7 +107,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6906/ghost-gst-90) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6906) 
 - **Battle Value:** 1012 
 - [*More Info*](ghost/ghost_gst-90.md) 
 

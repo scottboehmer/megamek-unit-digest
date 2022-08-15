@@ -16,7 +16,7 @@
   - Small Pulse Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2654/raptor-rtx1-og) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2654) 
 - **Battle Value:** 857 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

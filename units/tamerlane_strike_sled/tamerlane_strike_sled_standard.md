@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - SRM 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3158/tamerlane-strike-sled-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3158) 
 - **Battle Value:** 403 
 
 ## Availability 
@@ -46,6 +46,15 @@
 - Wolf's Dragoons 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Fronc Reaches 
+- Kell Hounds 
+- Magistracy of Canopus 
+- Mercenary 
+- Wolf's Dragoons 
+
+### ilClan 
 
 - Capellan Confederation 
 - Fronc Reaches 

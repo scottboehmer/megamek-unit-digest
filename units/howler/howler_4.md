@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #8 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7568/baboon-howler-4) 
+- **Sources:** Rec Guide:ilClan #8 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7568) 
 - **Battle Value:** 506 
 
 ## Availability 
@@ -55,4 +55,10 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Mercenary 
 

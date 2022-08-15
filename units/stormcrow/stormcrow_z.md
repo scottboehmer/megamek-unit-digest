@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5820/ryoken-stormcrow-z) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5820) 
 - **Battle Value:** 2855 
 
 ## Availability 

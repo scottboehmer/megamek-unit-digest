@@ -25,7 +25,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/151/atlas-as8-d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/151) 
 - **Battle Value:** 2432 
 
 ## Availability 
@@ -49,4 +49,9 @@
 - Draconis Combine 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
 

@@ -17,7 +17,7 @@
   - Flamer × 3 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1092/firestarter-fs9-81x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1092) 
 - **Battle Value:** 1065 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - Difficult Ejection 
   - Anti-Aircraft Targeting 
   - Rugged (×2) 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4761/orion-on3-m) 
+- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4761) 
 - **Battle Value:** 1826 
 
 ## Availability 
@@ -62,4 +62,11 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

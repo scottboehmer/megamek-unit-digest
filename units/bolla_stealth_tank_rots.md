@@ -17,7 +17,7 @@
   - C3 Support 
   - Infantry (4.0 tons) 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/413/bolla-stealth-tank-rots-prime) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/413) 
 - **Battle Value:** 1159 
 - [*More Info*](bolla_stealth_tank_rots/bolla_stealth_tank_rots_prime.md) 
 
@@ -39,7 +39,7 @@
   - Infantry (4.0 tons) 
   - Targeting Computer 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/410/bolla-stealth-tank-rots-a) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/410) 
 - **Battle Value:** 913 
 - [*More Info*](bolla_stealth_tank_rots/bolla_stealth_tank_rots_a.md) 
 
@@ -60,7 +60,7 @@
   - C3 Support 
   - Infantry (4.0 tons) 
   - C3 Main 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/411/bolla-stealth-tank-rots-b) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/411) 
 - **Battle Value:** 877 
 - [*More Info*](bolla_stealth_tank_rots/bolla_stealth_tank_rots_b.md) 
 
@@ -81,7 +81,7 @@
   - C3 Support 
   - Infantry (4.0 tons) 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/412/bolla-stealth-tank-rots-c) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/412) 
 - **Battle Value:** 983 
 - [*More Info*](bolla_stealth_tank_rots/bolla_stealth_tank_rots_c.md) 
 
@@ -101,7 +101,7 @@
   - Guardian ECM Suite 
   - C3 Support 
   - Infantry (4.0 tons) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6791/bolla-stealth-tank-rots-d) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6791) 
 - **Battle Value:** 793 
 - [*More Info*](bolla_stealth_tank_rots/bolla_stealth_tank_rots_d.md) 
 

@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Nimble Jumper 
   - Difficult Ejection 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3401/venom-sdr-9kc) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3401) 
 - **Battle Value:** 939 
 
 ## Availability 
@@ -56,4 +56,10 @@
 - Mercenary 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
 

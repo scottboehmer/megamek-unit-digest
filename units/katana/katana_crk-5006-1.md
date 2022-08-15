@@ -4,7 +4,7 @@
 
 ## Katana CRK-5006-1 "Crockett" 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (3108) 
 - **Chassis:** 85 tons (Endo Steel) 
 - **Movement:** 3 / 5 
@@ -20,7 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8428/katana-crockett-crk-5006-1) 
+- **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8428) 
 - **Battle Value:** 2363 
 
 ## Availability 
@@ -30,6 +30,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

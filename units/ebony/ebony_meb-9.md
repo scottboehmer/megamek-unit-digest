@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/942/ebony-meb-9) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/942) 
 - **Battle Value:** 1012 
 
 ## Availability 
@@ -34,6 +34,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

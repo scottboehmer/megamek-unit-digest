@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/726/crockett-crk-5003-1b) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/726) 
 - **Battle Value:** 2307 
 
 ## Availability 

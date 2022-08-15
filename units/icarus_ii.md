@@ -15,7 +15,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1600/icarus-ii-icr-1s) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1600) 
 - **Battle Value:** 869 
 - [*More Info*](icarus_ii/icarus_ii_icr-1s.md) 
 
@@ -34,7 +34,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1601/icarus-ii-icr-2s) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1601) 
 - **Battle Value:** 986 
 - [*More Info*](icarus_ii/icarus_ii_icr-2s.md) 
 

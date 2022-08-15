@@ -6,23 +6,33 @@
 
 #### [Gladiator Exoskeleton](../../units/gladiator_exoskeleton.md) 
 
-- [**Gladiator Exoskeleton (Standard) [AG]**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_[ag].md) *Undefined (3056)* 
-- [**Gladiator Exoskeleton (Standard) [BC/ID]**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_[bc_id].md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (Standard) (AG)(Sqd4)**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_agsqd4.md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (Standard) (BC/ID)(Sqd4)**](../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_bc_idsqd4.md) *Undefined (3056)* 
 
 #### [Groundhog Exoskeleton](../../units/groundhog_exoskeleton.md) 
 
-- [**Groundhog Exoskeleton CEX-205 [Armored Glove]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[armored_glove].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Basic Manipulator]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[basic_manipulator].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Cargo Lifter]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[cargo_lifter].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Industrial Drill]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[industrial_drill].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Mine Clearance]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[mine_clearance].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Salvage Arm]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[salvage_arm].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Armored Glove)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_armored_glovesqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Basic Manipulator)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_basic_manipulatorsqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Cargo Lifter)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_cargo_liftersqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Industrial Drill)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_industrial_drillsqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Mine Clearance)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_mine_clearancesqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Salvage Arm)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_salvage_armsqd4.md) *Undefined (3062)* 
+
+### 1 Tons 
+
+#### [Sylph Battle Armor](../../units/sylph_battle_armor.md) 
+
+- [**Sylph Battle Armor 'TinkerBelle'(Sqd4)**](../../units/sylph_battle_armor/sylph_battle_armor_tinkerbellesqd4.md) *Scout (3060)* `Unique` 
 
 ### 1.50 Tons 
 
+#### [Gnome Battle Armor](../../units/gnome_battle_armor.md) 
+
+- [**Gnome Battle Armor 'Dwarf'(Sqd4)**](../../units/gnome_battle_armor/gnome_battle_armor_dwarfsqd4.md) *Juggernaut (3140)* `Unique` 
+
 #### [Undine Battle Armor](../../units/undine_battle_armor.md) 
 
-- [**Undine Battle Armor 'Sebastian'**](../../units/undine_battle_armor/undine_battle_armor_sebastian.md) *Undefined (3130)* `Unique` 
+- [**Undine Battle Armor 'Sebastian'(Sqd4)**](../../units/undine_battle_armor/undine_battle_armor_sebastiansqd4.md) *Ambusher (3145)* `Unique` 
 
 ## ’Mechs 
 
@@ -30,7 +40,7 @@
 
 #### [Celerity](../../units/celerity.md) 
 
-- [**Celerity CLR-03OMM 'Rajah'**](../../units/celerity/celerity_clr-03omm_rajah.md) *Undefined (3138)* `Drone` , `Unique` 
+- [**Celerity CLR-03OMM 'Rajah'**](../../units/celerity/celerity_clr-03omm_rajah.md) *Scout (3138)* `Drone` , `Unique` 
 
 ### 20 Tons 
 
@@ -46,7 +56,7 @@
 
 #### [Gunsmith](../../units/gunsmith.md) 
 
-- [**Gunsmith CH11-NGC 'Cinderella'**](../../units/gunsmith/gunsmith_ch11-ngc_cinderella.md) *Undefined (3131)* `Unique` 
+- [**Gunsmith CH11-NGC 'Cinderella'**](../../units/gunsmith/gunsmith_ch11-ngc_cinderella.md) *Striker (3131)* `Unique` 
 
 #### [Koto](../../units/koto.md) 
 
@@ -83,6 +93,7 @@
 #### [Valiant](../../units/valiant.md) 
 
 - [**Valiant V4-LNT-K7**](../../units/valiant/valiant_v4-lnt-k7.md) *Striker (3068)* 
+- [**Valiant V4-LNT-J3**](../../units/valiant/valiant_v4-lnt-j3.md) *Striker (3074)* 
 - [**Valiant VLN-3T**](../../units/valiant/valiant_vln-3t.md) *Striker (3074)* 
 
 ### 35 Tons 
@@ -96,11 +107,11 @@
 
 #### [Calliope](../../units/calliope.md) 
 
-- [**Calliope CAL-1MAFSW 'Snow White'**](../../units/calliope/calliope_cal-1mafsw_snow_white.md) *Undefined (3127)* `Unique` 
+- [**Calliope CAL-1MAFSW 'Snow White'**](../../units/calliope/calliope_cal-1mafsw_snow_white.md) *Brawler (3127)* `Unique` 
 
 #### [Clint IIC](../../units/clint_iic.md) 
 
-- [**Clint IIC 2L 'Leia'**](../../units/clint_iic/clint_iic_2l_leia.md) *Undefined (3125)* `Unique` 
+- [**Clint IIC 2L 'Leia'**](../../units/clint_iic/clint_iic_2l_leia.md) *Striker (3125)* `Unique` 
 
 #### [Dasher II](../../units/dasher_ii.md) 
 
@@ -121,11 +132,11 @@
 
 #### [Vulcan](../../units/vulcan.md) 
 
-- [**Vulcan VT-5ML 'Aladdin'**](../../units/vulcan/vulcan_vt-5ml_aladdin.md) *Undefined (3080)* `ECM` , `Stealth` , `Unique` 
+- [**Vulcan VT-5ML 'Aladdin'**](../../units/vulcan/vulcan_vt-5ml_aladdin.md) *Sniper (3080)* `ECM` , `Stealth` , `Unique` 
 
 #### [Watchman](../../units/watchman.md) 
 
-- [**Watchman WTC-4MB 'Belle'**](../../units/watchman/watchman_wtc-4mb_belle.md) *Undefined (3125)* `Active Probe` , `ECM` , `Remote Drone Command Console` , `Unique` 
+- [**Watchman WTC-4MB 'Belle'**](../../units/watchman/watchman_wtc-4mb_belle.md) *Scout (3125)* `Active Probe` , `ECM` , `Remote Drone Command Console` , `Unique` 
 
 ### 45 Tons 
 
@@ -138,7 +149,7 @@
 
 #### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
-- [**Phoenix Hawk PXH-7KJ 'Jasmine'**](../../units/phoenix_hawk/phoenix_hawk_pxh-7kj_jasmine.md) *Undefined (3125)* `ECM` , `Remote Drone Command Console` , `Unique` 
+- [**Phoenix Hawk PXH-7KJ 'Jasmine'**](../../units/phoenix_hawk/phoenix_hawk_pxh-7kj_jasmine.md) *Striker (3125)* `ECM` , `Remote Drone Command Console` , `Unique` 
 
 #### [Volkh](../../units/volkh.md) 
 
@@ -148,7 +159,7 @@
 
 #### [Agrotera](../../units/agrotera.md) 
 
-- [**Agrotera AGT-UA 'Ariel'**](../../units/agrotera/agrotera_agt-ua_ariel.md) *Undefined (3137)* `Unique` 
+- [**Agrotera AGT-UA 'Ariel'**](../../units/agrotera/agrotera_agt-ua_ariel.md) *Striker (3137)* `Unique` 
 
 #### [Aquagladius](../../units/aquagladius.md) 
 
@@ -157,12 +168,12 @@
 
 #### [Ghost](../../units/ghost.md) 
 
-- [**Ghost GST-10A 'Aurora'**](../../units/ghost/ghost_gst-10a_aurora.md) *Undefined (3130)* `ECM` , `Stealth` , `Unique` 
+- [**Ghost GST-10A 'Aurora'**](../../units/ghost/ghost_gst-10a_aurora.md) *Striker (3130)* `ECM` , `Stealth` , `Unique` 
 
 #### [Hunchback](../../units/hunchback.md) 
 
-- [**Hunchback HBK-LGN-Pin 'Anastasia'**](../../units/hunchback/hunchback_hbk-lgn-pin_anastasia.md) *Undefined (3100)* `Unique` 
-- [**Hunchback HBK-LGN-Pin 'Drizella'**](../../units/hunchback/hunchback_hbk-lgn-pin_drizella.md) *Undefined (3100)* `Unique` 
+- [**Hunchback HBK-LGN-Pin 'Anastasia'**](../../units/hunchback/hunchback_hbk-lgn-pin_anastasia.md) *Juggernaut (3100)* `Unique` 
+- [**Hunchback HBK-LGN-Pin 'Drizella'**](../../units/hunchback/hunchback_hbk-lgn-pin_drizella.md) *Striker (3100)* `Unique` 
 
 #### [Tessen](../../units/tessen.md) 
 
@@ -170,17 +181,17 @@
 
 #### [Trebuchet](../../units/trebuchet.md) 
 
-- [**Trebuchet TBT-7MM 'Merida'**](../../units/trebuchet/trebuchet_tbt-7mm_merida.md) *Undefined (3100)* `Unique` 
+- [**Trebuchet TBT-7MM 'Merida'**](../../units/trebuchet/trebuchet_tbt-7mm_merida.md) *Sniper (3100)* `Unique` 
 
 ### 55 Tons 
 
 #### [Buccaneer](../../units/buccaneer.md) 
 
-- [**Buccaneer BCN-6PX 'Pan'**](../../units/buccaneer/buccaneer_bcn-6px_pan.md) *Undefined (3120)* `Unique` 
+- [**Buccaneer BCN-6PX 'Pan'**](../../units/buccaneer/buccaneer_bcn-6px_pan.md) *Skirmisher (3120)* `Unique` 
 
 #### [Hitotsume Kozo](../../units/hitotsume_kozo.md) 
 
-- [**Hitotsume Kozo HKZ-1FM 'Mulan'**](../../units/hitotsume_kozo/hitotsume_kozo_hkz-1fm_mulan.md) *Undefined (3136)* `Unique` 
+- [**Hitotsume Kozo HKZ-1FM 'Mulan'**](../../units/hitotsume_kozo/hitotsume_kozo_hkz-1fm_mulan.md) *Skirmisher (3136)* `Unique` 
 
 #### [Vapor Eagle](../../units/vapor_eagle.md) 
 
@@ -189,13 +200,13 @@
 
 #### [Wraith](../../units/wraith.md) 
 
-- [**Wraith TR2-P 'Pocahontas'**](../../units/wraith/wraith_tr2-p_pocahontas.md) *Undefined (3130)* `Unique` 
+- [**Wraith TR2-P 'Pocahontas'**](../../units/wraith/wraith_tr2-p_pocahontas.md) *Striker (3130)* `Unique` 
 
 ### 60 Tons 
 
 #### [Vulpes](../../units/vulpes.md) 
 
-- [**Vulpes VLP-1DX 'Beast'**](../../units/vulpes/vulpes_vlp-1dx_beast.md) *Undefined (3134)* `Drone` , `Unique` 
+- [**Vulpes VLP-1DX 'Beast'**](../../units/vulpes/vulpes_vlp-1dx_beast.md) *Brawler (3134)* `Drone` , `Unique` 
 
 ### 65 Tons 
 
@@ -234,12 +245,6 @@
 
 - [**Cudgel CDG-2A**](../../units/cudgel/cudgel_cdg-2a.md) *Juggernaut (3066)* 
 - [**Cudgel CDG-2B**](../../units/cudgel/cudgel_cdg-2b.md) *Juggernaut (3068)* 
-
-### 85 Tons 
-
-#### [Sasquatch](../../units/sasquatch.md) 
-
-- [**Sasquatch SQS-TH-001**](../../units/sasquatch/sasquatch_sqs-th-001.md) *Skirmisher (3054)* 
 
 ### 90 Tons 
 

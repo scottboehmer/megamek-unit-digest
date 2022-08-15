@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Mine Dispenser × 2 
   - Fully Amphibious Chassis 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4341/hunter-light-support-tank-amphibious) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4341) 
 - **Battle Value:** 572 
 
 ## Availability 
@@ -35,4 +35,11 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -25,7 +25,7 @@
   - EM Interference (ER Large Laser) 
   - EM Interference (ER Medium Pulse Laser) 
   - EM Interference (ER Medium Pulse Laser) 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7294/beowulf-iic-pr) 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7294) 
 - **Battle Value:** 1992 
 
 ## Availability 

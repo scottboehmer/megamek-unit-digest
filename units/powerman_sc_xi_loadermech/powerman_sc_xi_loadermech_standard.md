@@ -4,7 +4,7 @@
 
 ## Powerman SC XI LoaderMech (Standard) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (2764) 
 - **Chassis:** 35 tons (Industrial) 
 - **Movement:** 4 / 6, ICE 
@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 5 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2564/powerman-sc-xi-loadermech) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2564) 
 - **Battle Value:** 198 
 
 ## Availability 

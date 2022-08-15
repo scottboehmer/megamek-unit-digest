@@ -17,7 +17,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2065/marauder-iic-standard) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2065) 
 - **Battle Value:** 2680 
 - [*More Info*](marauder_iic/marauder_iic_standard.md) 
 
@@ -39,7 +39,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7537/marauder-iic-9) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7537) 
 - **Battle Value:** 2595 
 - [*More Info*](marauder_iic/marauder_iic_9.md) 
 
@@ -63,7 +63,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2072/marauder-iic-8) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2072) 
 - **Battle Value:** 2554 
 - [*More Info*](marauder_iic/marauder_iic_8.md) 
 
@@ -85,7 +85,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2066/marauder-iic-2) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2066) 
 - **Battle Value:** 2358 
 - [*More Info*](marauder_iic/marauder_iic_2.md) 
 
@@ -108,7 +108,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2067/marauder-iic-3) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2067) 
 - **Battle Value:** 2445 
 - [*More Info*](marauder_iic/marauder_iic_3.md) 
 
@@ -130,7 +130,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2068/marauder-iic-4) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2068) 
 - **Battle Value:** 3447 
 - [*More Info*](marauder_iic/marauder_iic_4.md) 
 
@@ -153,7 +153,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069/marauder-iic-5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069) 
 - **Battle Value:** 2386 
 - [*More Info*](marauder_iic/marauder_iic_5.md) 
 
@@ -178,7 +178,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2070/marauder-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2070) 
 - **Battle Value:** 2646 
 - [*More Info*](marauder_iic/marauder_iic_6.md) 
 
@@ -205,7 +205,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2071/marauder-iic-7) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2071) 
 - **Battle Value:** 2843 
 - [*More Info*](marauder_iic/marauder_iic_7.md) 
 
@@ -229,7 +229,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7538/marauder-iic-10) 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7538) 
 - **Battle Value:** 2877 
 - [*More Info*](marauder_iic/marauder_iic_10.md) 
 

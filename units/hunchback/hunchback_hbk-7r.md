@@ -21,7 +21,7 @@
   - Poor Sealing 
   - Bad Reputation (Inner Sphere) 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4338/hunchback-hbk-7r) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4338) 
 - **Battle Value:** 1248 
 
 ## Availability 
@@ -36,5 +36,10 @@
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Wolf Empire 
 

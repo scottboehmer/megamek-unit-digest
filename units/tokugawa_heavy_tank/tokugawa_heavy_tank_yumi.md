@@ -15,7 +15,7 @@
   - HVAC/10 (ammo: 16) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Kurita - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3267/tokugawa-heavy-tank-yumi) 
+- **Sources:** XTRO Kurita - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3267) 
 - **Battle Value:** 1125 
 
 ## Availability 

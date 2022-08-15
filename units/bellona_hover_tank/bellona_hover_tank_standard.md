@@ -16,7 +16,7 @@
   - Light Machine Gun × 4 (ammo: 300) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/326/bellona-hover-tank-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/326) 
 - **Battle Value:** 1018 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

@@ -1,0 +1,24 @@
+# Tunnel Rat II Mining Exoskeleton (Industrial Drill)(Sqd5) 
+
+[Other Tunnel Rat II Mining Exoskeleton variants](../tunnel_rat_ii_mining_exoskeleton.md) 
+
+## Tunnel Rat II Mining Exoskeleton (Industrial Drill)(Sqd5) 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** PA(L) Battle Armor (400 kg) 
+- **Movement:** 1 
+- **Armor:** 1 (Standard) 
+- **Manipulators:** 
+  - Industrial Drill (right) 
+  - Basic Manipulator (left) 
+- **Equipment:** 
+  - Extended Life Support 
+  - Searchlight 
+- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8821) 
+- **Battle Value:** 4 (27 for 5 suits) 
+
+## Availability 
+
+Availability Unknown 
+

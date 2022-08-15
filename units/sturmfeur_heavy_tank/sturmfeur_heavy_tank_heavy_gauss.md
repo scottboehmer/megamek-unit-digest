@@ -14,7 +14,7 @@
   - Heavy Gauss Rifle (ammo: 20) 
   - LRM 10 w/ Artemis IV (ammo: 24) 
   - ER Medium Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3113/sturmfeur-heavy-tank-heavy-gauss) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3113) 
 - **Battle Value:** 1711 
 
 ## Availability 
@@ -46,4 +46,12 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3134/supernova-3) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3134) 
 - **Battle Value:** 3448 
 
 ## Availability 
@@ -46,4 +46,8 @@
 
 - Clan Nova Cat 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
 

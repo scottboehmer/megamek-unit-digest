@@ -4,8 +4,8 @@
 
 ## Warhammer C 3 
 
-- **Role:** Brawler 
-- **Tech Base:** Clan Mixed (2874) 
+- **Role:** Undefined 
+- **Tech Base:** Clan Mixed (2850) 
 - **Chassis:** 70 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
 - **Armor:** 217 
@@ -18,44 +18,16 @@
 - **Equipment:** 
   - ECM Suite 
   - Inner Sphere A-Pod 
+  - Targeting Computer 
   - CASE 
 - **Design Quirks:** 
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7566/warhammer-c-3) 
-- **Battle Value:** 2518 
+- **Source:** Rec Guide:ilClan #7 - Clan Invasion 
+- **Battle Value:** 2772 
 
 ## Availability 
 
-### Clan Invasion 
-
-- Wolf's Dragoons 
-
-### Civil War 
-
-- Wolf's Dragoons 
-
-### Jihad 
-
-- Society 
-- Wolf's Dragoons 
-
-### Late Republic 
-
-- Escorpión Imperio 
-
-### Dark Ages 
-
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
-- Escorpión Imperio 
-- Rasalhague Dominion 
-- Raven Alliance 
-- Scorpion Empire 
-- Wolf's Dragoons 
+Availability Unknown 
 

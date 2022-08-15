@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - MagShot Gauss Rifle × 8 (ammo: 50) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5725/minion-advanced-tactical-vehicle-gauss-sandblaster) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5725) 
 - **Battle Value:** 512 
 
 ## Availability 
@@ -30,6 +30,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

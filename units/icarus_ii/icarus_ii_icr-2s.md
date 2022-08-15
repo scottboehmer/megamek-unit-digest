@@ -17,7 +17,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1601/icarus-ii-icr-2s) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1601) 
 - **Battle Value:** 986 
 
 ## Availability 
@@ -64,4 +64,11 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Marian Hegemony 
+- Mercenary 
 

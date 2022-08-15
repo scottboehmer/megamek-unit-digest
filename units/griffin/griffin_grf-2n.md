@@ -21,7 +21,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299/griffin-grf-2n) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299) 
 - **Battle Value:** 1606 
 
 ## Availability 
@@ -194,4 +194,14 @@
 - Fronc Reaches 
 - Marian Hegemony 
 - Mercenary 
+
+### ilClan 
+
+- Draconis Combine 
+- Free Worlds League 
+- Fronc Reaches 
+- Marian Hegemony 
+- Mercenary 
+- Star League (Wolf) 
+- Wolf Empire 
 

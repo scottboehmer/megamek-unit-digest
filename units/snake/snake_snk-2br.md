@@ -20,8 +20,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2977/snake-snk-2br) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2977) 
 - **Battle Value:** 1577 
 
 ## Availability 
@@ -34,16 +33,19 @@
 ### Early Republic 
 
 - Capellan Confederation 
-- Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Late Republic 
 
 - Capellan Confederation 
-- Fronc Reaches 
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Fronc Reaches 

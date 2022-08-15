@@ -26,7 +26,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Total Chaos , [Master Unit List](http://masterunitlist.info/Unit/Details/7398/atlas-ii-as7-d-h-devlin) 
+- **Sources:** Total Chaos , [Master Unit List](http://masterunitlist.info/Unit/Details/7398) 
 - **Battle Value:** 2474 
 
 ## Availability 
@@ -42,4 +42,8 @@
 ### Dark Ages (Unique) 
 
 - Republic of the Sphere 
+
+### ilClan (Unique) 
+
+- Mercenary 
 

@@ -18,12 +18,16 @@
   - CASE II 
   - C3 Main 
   - Coolant Pod 
-- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/8000/pendragon-pdg-3r) 
+- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/8000) 
 - **Battle Value:** 1991 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

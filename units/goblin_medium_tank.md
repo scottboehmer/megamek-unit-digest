@@ -13,7 +13,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1223/goblin-medium-tank-lrm) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1223) 
 - **Battle Value:** 656 
 - [*More Info*](goblin_medium_tank/goblin_medium_tank_lrm.md) 
 
@@ -30,7 +30,7 @@
   - Machine Gun × 6 (ammo: 500) 
 - **Equipment:** 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1224/goblin-medium-tank-mg) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1224) 
 - **Battle Value:** 527 
 - [*More Info*](goblin_medium_tank/goblin_medium_tank_mg.md) 
 
@@ -47,7 +47,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1225/goblin-medium-tank-srm) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1225) 
 - **Battle Value:** 647 
 - [*More Info*](goblin_medium_tank/goblin_medium_tank_srm.md) 
 
@@ -64,7 +64,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1226/goblin-medium-tank-standard) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1226) 
 - **Battle Value:** 555 
 - [*More Info*](goblin_medium_tank/goblin_medium_tank_standard.md) 
 
@@ -82,7 +82,7 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (8.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1227/goblin-medium-tank-x) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1227) 
 - **Battle Value:** 849 
 - [*More Info*](goblin_medium_tank/goblin_medium_tank_x.md) 
 

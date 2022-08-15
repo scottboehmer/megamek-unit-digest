@@ -14,7 +14,7 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1580/huron-warrior-hur-wo-r4l) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1580) 
 - **Battle Value:** 1530 
 - [*More Info*](huron_warrior/huron_warrior_hur-wo-r4l.md) 
 
@@ -32,7 +32,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1581/huron-warrior-hur-wo-r4m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1581) 
 - **Battle Value:** 1556 
 - [*More Info*](huron_warrior/huron_warrior_hur-wo-r4m.md) 
 
@@ -52,7 +52,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1582/huron-warrior-hur-wo-r4n) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1582) 
 - **Battle Value:** 1489 
 - [*More Info*](huron_warrior/huron_warrior_hur-wo-r4n.md) 
 
@@ -70,7 +70,7 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1583/huron-warrior-hur-wo-r4o) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1583) 
 - **Battle Value:** 1585 
 - [*More Info*](huron_warrior/huron_warrior_hur-wo-r4o.md) 
 
@@ -91,7 +91,7 @@
   - Command ’Mech 
   - Hard to Pilot 
   - Improved Cooling Jacket (Large X-Pulse Laser) 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5782/huron-warrior-hur-wo-r4x) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5782) 
 - **Battle Value:** 1728 
 - [*More Info*](huron_warrior/huron_warrior_hur-wo-r4x.md) 
 

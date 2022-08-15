@@ -18,7 +18,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Ejection Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4974/sarissa-mn2-a-securitymech) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4974) 
 - **Battle Value:** 734 
 
 ## Availability 
@@ -35,4 +35,8 @@
 
 - Free Worlds League 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
 

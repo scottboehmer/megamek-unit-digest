@@ -16,7 +16,7 @@
   - Environmentally Sealed Chassis 
   - Limited Amphibious Chassis 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5606/packrat-lrpv-gespenst) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5606) 
 - **Battle Value:** 309 
 
 ## Availability 
@@ -36,4 +36,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #6 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7528/marauder-mad-2t) 
+- **Sources:** Rec Guide:ilClan #6 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7528) 
 - **Battle Value:** 1646 
 
 ## Availability 
@@ -37,6 +37,14 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
+- Raven Alliance 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Magistracy of Canopus 

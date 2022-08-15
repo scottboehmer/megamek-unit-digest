@@ -17,7 +17,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1948/longshot-lng-3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1948) 
 - **Battle Value:** 955 
 
 ## Availability 

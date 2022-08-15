@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 20-X AC (ammo: 5 Cluster, 10 Standard) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6597/swallow-attack-wige-standard) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6597) 
 - **Battle Value:** 1253 
 
 ## Availability 
@@ -62,4 +62,16 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

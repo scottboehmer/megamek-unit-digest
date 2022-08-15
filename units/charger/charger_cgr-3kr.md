@@ -26,7 +26,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566/charger-cgr-3kr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566) 
 - **Battle Value:** 2121 
 
 ## Availability 
@@ -60,4 +60,11 @@
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Mercenary 
+- Rasalhague Dominion 
 

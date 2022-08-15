@@ -16,7 +16,7 @@
   - MASC 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2027/mantis-sa-mn) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2027) 
 - **Battle Value:** 704 
 - [*More Info*](mantis/mantis_sa-mn.md) 
 
@@ -36,7 +36,7 @@
   - MASC 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2023/mantis-mts-s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2023) 
 - **Battle Value:** 1128 
 - [*More Info*](mantis/mantis_mts-s.md) 
 
@@ -58,7 +58,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2024/mantis-mts-t) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2024) 
 - **Battle Value:** 1312 
 - [*More Info*](mantis/mantis_mts-t.md) 
 
@@ -79,7 +79,7 @@
   - MASC 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2025/mantis-mts-t2) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2025) 
 - **Battle Value:** 1380 
 - [*More Info*](mantis/mantis_mts-t2.md) 
 
@@ -100,7 +100,7 @@
   - MASC 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2026/mantis-mts-t3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2026) 
 - **Battle Value:** 1380 
 - [*More Info*](mantis/mantis_mts-t3.md) 
 
@@ -121,7 +121,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2022/mantis-mts-l) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2022) 
 - **Battle Value:** 1194 
 - [*More Info*](mantis/mantis_mts-l.md) 
 

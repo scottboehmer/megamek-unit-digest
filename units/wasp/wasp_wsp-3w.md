@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3530/wasp-wsp-3w) 
+- **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3530) 
 - **Battle Value:** 342 
 
 ## Availability 
@@ -29,13 +29,28 @@
 
 ### Civil War 
 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Jihad 
 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Early Republic 
 
+- Mercenary 
 - Wolf's Dragoons 
+
+### Late Republic 
+
+- Mercenary 
+
+### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
+
+- Mercenary 
 

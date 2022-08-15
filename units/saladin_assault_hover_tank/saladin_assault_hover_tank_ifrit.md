@@ -15,7 +15,7 @@
   - Snub-Nose PPC 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5567/saladin-assault-hover-tank-ifrit) 
+- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5567) 
 - **Battle Value:** 837 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Stabilized Weapon (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2472/peregrine-horned-owl-standard) 
+- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2472) 
 - **Battle Value:** 1434 
 
 ## Availability 
@@ -86,6 +86,7 @@
 
 ### Early Republic 
 
+- Clan Hell's Horses 
 - Clan Nova Cat 
 - Escorpión Imperio 
 - Rasalhague Dominion 
@@ -93,6 +94,7 @@
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Clan Nova Cat 
 - Escorpión Imperio 
 - Rasalhague Dominion 
@@ -100,8 +102,19 @@
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Nova Cat 
+- Clan Sea Fox 
 - Escorpión Imperio 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 

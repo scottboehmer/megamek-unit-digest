@@ -17,7 +17,7 @@
   - Watchdog CEWS 
   - Targeting Computer 
   - Jet Booster 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7298/strix-stealth-vtol-standard) 
+- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7298) 
 - **Battle Value:** 585 
 
 ## Availability 
@@ -29,4 +29,10 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Star League (Smoke Jaguar) 
+- Wolf's Dragoons 
 

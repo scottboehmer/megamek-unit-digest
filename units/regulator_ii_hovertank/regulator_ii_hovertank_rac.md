@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2678/regulator-ii-hovertank-rac) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2678) 
 - **Battle Value:** 1348 
 
 ## Availability 
@@ -31,4 +31,10 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

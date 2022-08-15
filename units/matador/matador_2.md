@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2099/matador-2) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2099) 
 - **Battle Value:** 1728 
 
 ## Availability 

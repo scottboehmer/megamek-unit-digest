@@ -19,7 +19,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1930/longbow-lgb-0w) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1930) 
 - **Battle Value:** 1337 
 
 ## Availability 
@@ -184,13 +184,38 @@
 
 ### Late Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Escorpión Imperio 
 - Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
+- Taurian Concordat 
 
 ### Dark Ages 
 
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
 

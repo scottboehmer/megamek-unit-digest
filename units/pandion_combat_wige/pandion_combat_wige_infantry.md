@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2414/pandion-combat-wige-infantry) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2414) 
 - **Battle Value:** 521 
 
 ## Availability 
@@ -64,4 +64,14 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

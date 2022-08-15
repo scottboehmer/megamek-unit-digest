@@ -21,7 +21,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3490/warhammer-whm-7a) 
+- **Sources:** Rec Guide:ilClan #7 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3490) 
 - **Battle Value:** 1679 
 
 ## Availability 
@@ -44,6 +44,13 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Fronc Reaches 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Fronc Reaches 

@@ -14,7 +14,7 @@
   - ER Large Laser 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2497/phoenix-hawk-pxh-2k) 
+- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2497) 
 - **Battle Value:** 1271 
 
 ## Availability 
@@ -44,6 +44,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+
+### ilClan 
 
 - Draconis Combine 
 - Mercenary 

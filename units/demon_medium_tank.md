@@ -12,7 +12,7 @@
   - Medium Pulse Laser × 2 
   - Vehicle Flamer × 2 (ammo: 20) 
   - Light Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/871/demon-medium-tank-standard) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/871) 
 - **Battle Value:** 454 
 - [*More Info*](demon_medium_tank/demon_medium_tank_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Rifle (ammo: 18) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/870/demon-medium-tank-rifle) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/870) 
 - **Battle Value:** 386 
 - [*More Info*](demon_medium_tank/demon_medium_tank_rifle.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Machine Gun × 4 (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6754/demon-medium-tank-armor) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6754) 
 - **Battle Value:** 636 
 - [*More Info*](demon_medium_tank/demon_medium_tank_armor.md) 
 

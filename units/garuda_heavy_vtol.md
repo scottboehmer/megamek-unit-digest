@@ -15,7 +15,7 @@
   - ECM Suite 
   - Jet Booster 
   - TAG 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4202/garuda-heavy-vtol-standard) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4202) 
 - **Battle Value:** 1484 
 - [*More Info*](garuda_heavy_vtol/garuda_heavy_vtol_standard.md) 
 

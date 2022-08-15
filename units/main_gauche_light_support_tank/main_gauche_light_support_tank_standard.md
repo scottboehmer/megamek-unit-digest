@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4569/main-gauche-light-support-tank-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4569) 
 - **Battle Value:** 464 
 
 ## Availability 
@@ -77,4 +77,17 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Duchy of Andurien 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
 

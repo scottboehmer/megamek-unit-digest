@@ -16,7 +16,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7624/sun-bear-a) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7624) 
 - **Battle Value:** 2418 
 
 ## Availability 
@@ -54,5 +54,9 @@
 ### Dark Ages (Unique) 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan (Unique) 
+
 - Scorpion Empire 
 

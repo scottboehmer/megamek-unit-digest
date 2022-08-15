@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 20) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2549/po-heavy-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2549) 
 - **Battle Value:** 719 
 - [*More Info*](po_heavy_tank/po_heavy_tank_standard.md) 
 
@@ -28,7 +28,7 @@
   - Machine Gun × 3 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2548/po-heavy-tank-light-gauss) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2548) 
 - **Battle Value:** 734 
 - [*More Info*](po_heavy_tank/po_heavy_tank_light_gauss.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 10 Cluster, 20 Standard) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2547/po-heavy-tank-lb-x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2547) 
 - **Battle Value:** 778 
 - [*More Info*](po_heavy_tank/po_heavy_tank_lb-x.md) 
 
@@ -58,7 +58,7 @@
 - **Weapons:** 
   - HVAC/10 (ammo: 16) 
   - Streak SRM 6 (ammo: 15) 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2546/po-heavy-tank-hv-prototype) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2546) 
 - **Battle Value:** 643 
 - [*More Info*](po_heavy_tank/po_heavy_tank_hv_prototype.md) 
 
@@ -73,7 +73,7 @@
 - **Weapons:** 
   - HVAC/10 (ammo: 16) 
   - Streak SRM 6 (ammo: 15) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4841/po-heavy-tank-hv) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4841) 
 - **Battle Value:** 718 
 - [*More Info*](po_heavy_tank/po_heavy_tank_hv.md) 
 

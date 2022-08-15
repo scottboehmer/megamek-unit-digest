@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Main 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2436/partisan-air-defense-tank-lance-command) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2436) 
 - **Battle Value:** 836 
 
 ## Availability 
@@ -53,4 +53,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

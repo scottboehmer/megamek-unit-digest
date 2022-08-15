@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/311/beagle-hover-scout-sealed) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/311) 
 - **Battle Value:** 221 
 
 ## Availability 

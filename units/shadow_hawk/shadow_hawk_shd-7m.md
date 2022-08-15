@@ -24,7 +24,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2908/shadow-hawk-shd-7m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2908) 
 - **Battle Value:** 1447 
 
 ## Availability 
@@ -87,5 +87,15 @@
 - Oriente Protectorate 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
 - Taurian Concordat 
 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Modular Weapon (Fluid Gun) 
   - Modular Weapon (Fluid Gun) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1122/flashfire-fls-p5) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1122) 
 - **Battle Value:** 654 
 
 ## Availability 
@@ -42,6 +42,10 @@
 - Solaris 7 
 
 ### Dark Ages 
+
+- Solaris 7 
+
+### ilClan 
 
 - Solaris 7 
 

@@ -15,7 +15,7 @@
   - Medium Laser × 3 
   - SRM 2 (ammo: 50) 
   - Small Laser 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5435/zephyr-hovertank-srm2) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5435) 
 - **Battle Value:** 893 
 
 ## Availability 

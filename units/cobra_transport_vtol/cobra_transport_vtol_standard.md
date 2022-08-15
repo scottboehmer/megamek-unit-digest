@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 36) 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/659/cobra-transport-vtol-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/659) 
 - **Battle Value:** 367 
 
 ## Availability 
@@ -131,4 +131,20 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

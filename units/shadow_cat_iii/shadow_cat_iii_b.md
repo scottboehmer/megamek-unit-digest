@@ -22,7 +22,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7493/shadow-cat-iii-b) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7493) 
 - **Battle Value:** 2183 
 
 ## Availability 
@@ -35,6 +35,13 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 
 - Rasalhague Dominion 

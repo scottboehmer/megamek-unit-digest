@@ -17,7 +17,7 @@
   - Clan ECM Suite 
   - CASE 
   - Clan Targeting Computer 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6607/gulltoppr-omnimonitor-a) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6607) 
 - **Battle Value:** 3545 
 
 ## Availability 
@@ -35,6 +35,11 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
+- Lyran Commonwealth 
+
+### ilClan 
+
 - Kell Hounds 
 - Lyran Commonwealth 
 

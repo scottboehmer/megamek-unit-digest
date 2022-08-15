@@ -4,7 +4,7 @@
 
 ## Rhino Fire Support Tank EC 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2824) 
 - **Chassis:** 80 tons Tracked 
 - **Movement:** 3 / 5, Fusion 
@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Bulldozer 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7691/rhino-fire-support-tank-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7691) 
 - **Battle Value:** 1685 
 
 ## Availability 

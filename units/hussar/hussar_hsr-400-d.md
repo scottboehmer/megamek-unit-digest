@@ -16,7 +16,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (LB 10-X AC) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1589/hussar-hsr-400-d) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1589) 
 - **Battle Value:** 611 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Reinforced Legs 
   - Unbalanced 
   - Stabilized Weapon (Gauss Rifle) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1536/hollander-bzk-f3) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1536) 
 - **Battle Value:** 953 
 
 ## Availability 

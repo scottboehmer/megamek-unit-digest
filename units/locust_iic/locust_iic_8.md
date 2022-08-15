@@ -17,7 +17,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1921/locust-iic-8) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1921) 
 - **Battle Value:** 1119 
 
 ## Availability 
@@ -39,4 +39,9 @@
 - Draconis Combine 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Rasalhague Dominion 
 

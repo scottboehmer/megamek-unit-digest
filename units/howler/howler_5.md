@@ -16,7 +16,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7569/baboon-howler-5) 
+- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7569) 
 - **Battle Value:** 1363 
 
 ## Availability 
@@ -46,4 +46,10 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Mercenary 
 

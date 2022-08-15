@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
   - MagShot Gauss Rifle × 2 (ammo: 50) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6788/vedette-medium-tank-v9) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6788) 
 - **Battle Value:** 1006 
 
 ## Availability 
@@ -30,4 +30,11 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Wolf Empire 
 

@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1031/falcon-hawk-fnhk-9k1a) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1031) 
 - **Battle Value:** 1040 
 
 ## Availability 
@@ -107,5 +107,13 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
 - Taurian Concordat 
 

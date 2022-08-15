@@ -20,8 +20,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7396/hornet-hnt-181) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7396) 
 - **Battle Value:** 398 
 
 ## Availability 
@@ -32,6 +31,11 @@
 - Filtvelt Coalition 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+
+### ilClan 
 
 - Federated Suns 
 - Filtvelt Coalition 

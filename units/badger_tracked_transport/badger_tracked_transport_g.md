@@ -15,7 +15,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/206/badger-tracked-transport-g) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/206) 
 - **Battle Value:** 474 
 
 ## Availability 
@@ -40,4 +40,10 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

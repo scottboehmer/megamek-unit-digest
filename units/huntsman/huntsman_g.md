@@ -23,7 +23,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7783/nobori-nin-huntsman-g) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7783) 
 - **Battle Value:** 2377 
 
 ## Availability 
@@ -34,4 +34,11 @@
 - Clan Sea Fox 
 - Free Worlds League 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Star League (Smoke Jaguar) 
 

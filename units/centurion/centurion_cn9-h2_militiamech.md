@@ -14,7 +14,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Medium Laser × 2 
   - Rocket 10 × 5 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7866/centurion-cn9-h2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7866) 
 - **Battle Value:** 799 
 
 ## Availability 
@@ -29,6 +29,11 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Marian Hegemony 
+- Pirate 
+
+### ilClan 
 
 - Marian Hegemony 
 - Pirate 

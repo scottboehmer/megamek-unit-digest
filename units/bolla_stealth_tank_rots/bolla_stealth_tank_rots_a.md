@@ -20,7 +20,7 @@
   - Infantry (4.0 tons) 
   - Targeting Computer 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/410/bolla-stealth-tank-rots-a) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/410) 
 - **Battle Value:** 913 
 
 ## Availability 
@@ -36,4 +36,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Smoke Jaguar) 
 

@@ -24,7 +24,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1934/longbow-lgb-13nais) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1934) 
 - **Battle Value:** 1804 
 
 ## Availability 
@@ -43,6 +43,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

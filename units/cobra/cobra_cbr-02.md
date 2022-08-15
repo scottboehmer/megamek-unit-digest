@@ -15,7 +15,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/655/cobra-cbr-02) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/655) 
 - **Battle Value:** 1128 
 
 ## Availability 

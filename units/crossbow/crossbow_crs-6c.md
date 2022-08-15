@@ -16,7 +16,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Poor Targeting (Long) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734/crossbow-crs-6c) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734) 
 - **Battle Value:** 1204 
 
 ## Availability 

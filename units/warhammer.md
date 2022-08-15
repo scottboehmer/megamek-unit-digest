@@ -18,7 +18,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3488/warhammer-whm-6r) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3488) 
 - **Battle Value:** 1299 
 - [*More Info*](warhammer/warhammer_whm-6r.md) 
 
@@ -40,7 +40,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3489/warhammer-whm-6rb) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3489) 
 - **Battle Value:** 1431 
 - [*More Info*](warhammer/warhammer_whm-6rb.md) 
 
@@ -62,7 +62,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5871/warhammer-whm-6rk) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5871) 
 - **Battle Value:** 1621 
 - [*More Info*](warhammer/warhammer_whm-6rk.md) 
 
@@ -85,7 +85,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3490/warhammer-whm-7a) 
+- **Sources:** Rec Guide:ilClan #7 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3490) 
 - **Battle Value:** 1679 
 - [*More Info*](warhammer/warhammer_whm-7a.md) 
 
@@ -107,7 +107,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3487/warhammer-whm-6l) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3487) 
 - **Battle Value:** 1311 
 - [*More Info*](warhammer/warhammer_whm-6l.md) 
 
@@ -128,7 +128,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3486/warhammer-whm-6k) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3486) 
 - **Battle Value:** 1305 
 - [*More Info*](warhammer/warhammer_whm-6k.md) 
 
@@ -148,14 +148,14 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3485/warhammer-whm-6d) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3485) 
 - **Battle Value:** 1471 
 - [*More Info*](warhammer/warhammer_whm-6d.md) 
 
 ## Warhammer C 3 
 
-- **Role:** Brawler 
-- **Tech Base:** Clan Mixed (2874) 
+- **Role:** Undefined 
+- **Tech Base:** Clan Mixed (2850) 
 - **Chassis:** 70 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
 - **Armor:** 217 
@@ -168,13 +168,14 @@
 - **Equipment:** 
   - ECM Suite 
   - Inner Sphere A-Pod 
+  - Targeting Computer 
   - CASE 
 - **Design Quirks:** 
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7566/warhammer-c-3) 
-- **Battle Value:** 2518 
+- **Source:** Rec Guide:ilClan #7 - Clan Invasion 
+- **Battle Value:** 2772 
 - [*More Info*](warhammer/warhammer_c_3.md) 
 
 ## Warhammer WHM-6K (Olesko) 
@@ -194,7 +195,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7798/warhammer-whm-6k-olesko) 
+- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7798) 
 - **Battle Value:** 1338 
 - [*More Info*](warhammer/warhammer_whm-6k_olesko.md) 
 
@@ -217,7 +218,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3492/warhammer-whm-7m) 
+- **Sources:** Rec Guide:ilClan #7 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3492) 
 - **Battle Value:** 1487 
 - [*More Info*](warhammer/warhammer_whm-7m.md) 
 
@@ -239,7 +240,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3479/warhammer-c) 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3479) 
 - **Battle Value:** 1728 
 - [*More Info*](warhammer/warhammer_c.md) 
 
@@ -260,7 +261,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3493/warhammer-whm-7s) 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3493) 
 - **Battle Value:** 1477 
 - [*More Info*](warhammer/warhammer_whm-7s.md) 
 
@@ -282,7 +283,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7565/warhammer-c-2) 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7565) 
 - **Battle Value:** 2157 
 - [*More Info*](warhammer/warhammer_c_2.md) 
 
@@ -305,7 +306,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7599/warhammer-whm-7cs) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7599) 
 - **Battle Value:** 1751 
 - [*More Info*](warhammer/warhammer_whm-7cs.md) 
 
@@ -328,7 +329,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5386/warhammer-whm-7m-dc) 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5386) 
 - **Battle Value:** 1402 
 - [*More Info*](warhammer/warhammer_whm-7m-dc.md) 
 
@@ -351,7 +352,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3491/warhammer-whm-7k) 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3491) 
 - **Battle Value:** 1651 
 - [*More Info*](warhammer/warhammer_whm-7k.md) 
 
@@ -375,7 +376,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3494/warhammer-whm-8d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3494) 
 - **Battle Value:** 1744 
 - [*More Info*](warhammer/warhammer_whm-8d.md) 
 
@@ -398,7 +399,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3483/warhammer-whm-4l) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3483) 
 - **Battle Value:** 1743 
 - [*More Info*](warhammer/warhammer_whm-4l.md) 
 
@@ -420,7 +421,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3497/warhammer-whm-9d) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3497) 
 - **Battle Value:** 2152 
 - [*More Info*](warhammer/warhammer_whm-9d.md) 
 
@@ -442,7 +443,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3498/warhammer-whm-9s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3498) 
 - **Battle Value:** 1653 
 - [*More Info*](warhammer/warhammer_whm-9s.md) 
 
@@ -464,7 +465,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3496/warhammer-whm-8m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3496) 
 - **Battle Value:** 1631 
 - [*More Info*](warhammer/warhammer_whm-8m.md) 
 
@@ -484,7 +485,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3481/warhammer-whm-10t) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3481) 
 - **Battle Value:** 1891 
 - [*More Info*](warhammer/warhammer_whm-10t.md) 
 
@@ -506,7 +507,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3495/warhammer-whm-8k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3495) 
 - **Battle Value:** 1748 
 - [*More Info*](warhammer/warhammer_whm-8k.md) 
 
@@ -529,7 +530,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** XTRO:Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3499/warhammer-whm-x7-the-lich) 
+- **Sources:** XTRO:Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3499) 
 - **Battle Value:** 1785 
 - [*More Info*](warhammer/warhammer_whm-x7_the_lich.md) 
 
@@ -552,7 +553,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3484/warhammer-whm-5l) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3484) 
 - **Battle Value:** 1896 
 - [*More Info*](warhammer/warhammer_whm-5l.md) 
 
@@ -576,7 +577,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3482/warhammer-whm-11t) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3482) 
 - **Battle Value:** 1698 
 - [*More Info*](warhammer/warhammer_whm-11t.md) 
 
@@ -602,7 +603,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3480/warhammer-whd-10ct) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3480) 
 - **Battle Value:** 1758 
 - [*More Info*](warhammer/warhammer_whd-10ct.md) 
 
@@ -626,7 +627,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6868/warhammer-whm-8d2) 
+- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6868) 
 - **Battle Value:** 1654 
 - [*More Info*](warhammer/warhammer_whm-8d2.md) 
 
@@ -650,7 +651,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7563/warhammer-whm-8r) 
+- **Sources:** Rec Guide:ilClan #7 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7563) 
 - **Battle Value:** 1697 
 - [*More Info*](warhammer/warhammer_whm-8r.md) 
 
@@ -671,7 +672,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7567/warhammer-whm-9k) 
+- **Sources:** Rec Guide:ilClan #7 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7567) 
 - **Battle Value:** 1744 
 - [*More Info*](warhammer/warhammer_whm-9k.md) 
 
@@ -695,7 +696,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7564/warhammer-whm-10k) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7564) 
 - **Battle Value:** 2033 
 - [*More Info*](warhammer/warhammer_whm-10k.md) 
 

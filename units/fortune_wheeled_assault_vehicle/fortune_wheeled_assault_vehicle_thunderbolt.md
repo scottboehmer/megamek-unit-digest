@@ -16,7 +16,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5737/fortune-wheeled-assault-vehicle-thunderbolt) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5737) 
 - **Battle Value:** 1402 
 
 ## Availability 
@@ -40,4 +40,11 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

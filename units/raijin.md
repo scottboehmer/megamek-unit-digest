@@ -16,7 +16,7 @@
   - SRM 6 (OS) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8415/raijin-rjn-101-x) 
+- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8415) 
 - **Battle Value:** 1302 
 - [*More Info*](raijin/raijin_rjn-101-x.md) 
 
@@ -34,7 +34,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 3 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2626/raijin-rjn-101-a) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2626) 
 - **Battle Value:** 1350 
 - [*More Info*](raijin/raijin_rjn-101-a.md) 
 
@@ -54,7 +54,7 @@
   - Flamer × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8429/raijin-rjn-101-b) 
+- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8429) 
 - **Battle Value:** 1383 
 - [*More Info*](raijin/raijin_rjn-101-b.md) 
 
@@ -73,7 +73,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2627/raijin-rjn-101-c) 
+- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2627) 
 - **Battle Value:** 1389 
 - [*More Info*](raijin/raijin_rjn-101-c.md) 
 
@@ -93,7 +93,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #23 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8416/raijin-rjn-301-b) 
+- **Sources:** Rec Guide:ilClan #23 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8416) 
 - **Battle Value:** 1365 
 - [*More Info*](raijin/raijin_rjn-301-b.md) 
 

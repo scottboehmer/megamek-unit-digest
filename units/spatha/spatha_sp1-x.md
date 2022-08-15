@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2998/spatha-sp1-x) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2998) 
 - **Battle Value:** 2222 
 
 ## Availability 

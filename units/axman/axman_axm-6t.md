@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Rumble Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771/axman-axm-6t) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771) 
 - **Battle Value:** 1830 
 
 ## Availability 
@@ -35,4 +35,9 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Vesper Marches 
 

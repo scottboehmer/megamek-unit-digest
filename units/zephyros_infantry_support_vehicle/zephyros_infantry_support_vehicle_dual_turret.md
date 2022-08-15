@@ -16,7 +16,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3633/zephyros-infantry-support-vehicle-dual-turret) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3633) 
 - **Battle Value:** 844 
 
 ## Availability 
@@ -30,6 +30,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

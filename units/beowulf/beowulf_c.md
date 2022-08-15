@@ -23,7 +23,7 @@
   - Command ’Mech 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Source:** Jihad 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8073) 
 - **Battle Value:** 2078 
 
 ## Availability 

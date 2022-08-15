@@ -15,7 +15,7 @@
   - Light Gauss Rifle (ammo: 32) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4218/glory-heavy-fire-support-vehicle-light-gauss) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4218) 
 - **Battle Value:** 1450 
 
 ## Availability 
@@ -42,4 +42,8 @@
 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8405/goliath-gol-3m2) 
+- **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8405) 
 - **Battle Value:** 1631 
 
 ## Availability 
@@ -77,6 +77,7 @@
 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -85,5 +86,14 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 - Taurian Concordat 
 

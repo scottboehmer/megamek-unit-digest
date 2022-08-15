@@ -14,7 +14,7 @@
   - Streak LRM 15 (ammo: 8) 
   - Medium Pulse Laser × 4 
   - Light Machine Gun × 4 (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6756/chalchiuhtotolin-support-tank-xl) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6756) 
 - **Battle Value:** 1432 
 
 ## Availability 
@@ -28,4 +28,11 @@
 
 - Clan Jade Falcon 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Lyran Commonwealth 
+- Tamar Pact 
 

@@ -4,7 +4,7 @@
 
 ## Mist Lynx "Koshi" T 
 
-- **Role:** Scout 
+- **Role:** Striker 
 - **Tech Base:** Clan (3142) 
 - **Chassis:** 25 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 
@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7556/koshi-mist-lynx-t) 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7556) 
 - **Battle Value:** 971 
 
 ## Availability 
@@ -39,5 +39,25 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 - Wolf's Dragoons 
 

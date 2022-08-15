@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Small Laser × 2 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1175/galleon-light-tank-gal-100) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1175) 
 - **Battle Value:** 309 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-100.md) 
 
@@ -27,7 +27,7 @@
   - Clan Prototype Rocket 20 × 2 
   - Clan Prototype Rocket 10 × 4 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1180/galleon-light-tank-gal-200-rl) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1180) 
 - **Battle Value:** 443 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-200_rl.md) 
 
@@ -42,7 +42,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** OP Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/1179/galleon-light-tank-gal-200) 
+- **Sources:** OP Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/1179) 
 - **Battle Value:** 345 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-200.md) 
 
@@ -59,7 +59,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1176/galleon-light-tank-gal-102) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1176) 
 - **Battle Value:** 651 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-102.md) 
 
@@ -78,7 +78,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - C3i 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1177/galleon-light-tank-gal-103) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1177) 
 - **Battle Value:** 872 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-103.md) 
 
@@ -95,7 +95,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3i 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1178/galleon-light-tank-gal-104) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1178) 
 - **Battle Value:** 707 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-104.md) 
 
@@ -115,7 +115,7 @@
   - Armored Motive System 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1181/galleon-light-tank-maxwell) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1181) 
 - **Battle Value:** 451 
 - [*More Info*](galleon_light_tank/galleon_light_tank_maxwell.md) 
 

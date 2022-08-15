@@ -15,7 +15,7 @@
   - ER Medium Laser × 5 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8181/fire-falcon-i) 
+- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8181) 
 - **Battle Value:** 1678 
 
 ## Availability 
@@ -23,4 +23,10 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

@@ -20,7 +20,7 @@
   - Cargo 
   - Hitch 
   - Infantry (8.0 tons) 
-- **Sources:** TRO 3085S - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5206/tenmaku-command-trailer-standard) 
+- **Sources:** TRO 3085S - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5206) 
 - **Battle Value:** 866 
 - [*More Info*](tenmaku_command_trailer/tenmaku_command_trailer_standard.md) 
 

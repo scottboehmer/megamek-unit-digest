@@ -13,7 +13,7 @@
   - AC/5 (ammo: 20) 
   - SRM 4 (ammo: 25) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2176/merkava-heavy-tank-mk-viii) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2176) 
 - **Battle Value:** 879 
 - [*More Info*](merkava_heavy_tank/merkava_heavy_tank_mk_viii.md) 
 
@@ -30,7 +30,7 @@
   - LRM 15 (ammo: 16) 
   - Streak SRM 4 (ammo: 25) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2174/merkava-heavy-tank-mk-ix) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2174) 
 - **Battle Value:** 1038 
 - [*More Info*](merkava_heavy_tank/merkava_heavy_tank_mk_ix.md) 
 

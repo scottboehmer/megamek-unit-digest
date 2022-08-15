@@ -20,7 +20,7 @@
   - MASC 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5685/hellfire-3) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5685) 
 - **Battle Value:** 2138 
 
 ## Availability 

@@ -4,7 +4,7 @@
 
 ## Zephyr Hovertank EC 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (2820) 
 - **Chassis:** 40 tons Hover 
 - **Movement:** 9 / 14, Fusion 
@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7674/zephyr-hovertank-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7674) 
 - **Battle Value:** 993 
 
 ## Availability 
@@ -48,5 +48,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

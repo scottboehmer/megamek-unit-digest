@@ -19,7 +19,7 @@
   - Mech Sprayer 
   - Light Fluid Suction System 
   - Liquid Cargo × 2 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/5334/vampyr-sc-v-1-salvagemech) 
+- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/5334) 
 - **Battle Value:** 582 
 
 ## Availability 
@@ -59,6 +59,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

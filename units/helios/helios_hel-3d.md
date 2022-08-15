@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1464/helios-hel-3d) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1464) 
 - **Battle Value:** 1618 
 
 ## Availability 
@@ -73,7 +73,13 @@
 
 - Capellan Confederation 
 - Fronc Reaches 
-- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
+
+- Capellan Confederation 
+- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 

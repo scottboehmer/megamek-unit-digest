@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - LRM 20 × 3 (ammo: 24) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1952/lrm-carrier-standard) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1952) 
 - **Battle Value:** 833 
 - [*More Info*](lrm_carrier/lrm_carrier_standard.md) 
 
@@ -26,7 +26,7 @@
   - LRM 20 w/ Artemis IV × 3 (ammo: 36) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1951/lrm-carrier-3055-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1951) 
 - **Battle Value:** 798 
 - [*More Info*](lrm_carrier/lrm_carrier_3055_upgrade.md) 
 
@@ -42,7 +42,7 @@
   - LRM 20 w/ Artemis IV × 3 (ammo: 36) 
 - **Equipment:** 
   - C3i 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1953/lrm-carrier-wob) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1953) 
 - **Battle Value:** 1050 
 - [*More Info*](lrm_carrier/lrm_carrier_wob.md) 
 

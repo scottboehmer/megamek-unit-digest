@@ -4,7 +4,7 @@
 
 ## Panther PNT-9ALAG 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (2950) 
 - **Chassis:** 35 tons 
 - **Movement:** 5 / 8 
@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7417/panther-pnt-9alag) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7417) 
 - **Battle Value:** 804 
 
 ## Availability 

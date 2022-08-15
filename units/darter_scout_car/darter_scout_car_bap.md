@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Cargo 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/832/darter-scout-car-bap) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/832) 
 - **Battle Value:** 136 
 
 ## Availability 
@@ -48,6 +48,12 @@
 - Filtvelt Coalition 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Federated Suns 

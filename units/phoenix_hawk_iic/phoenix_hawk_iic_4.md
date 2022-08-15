@@ -21,7 +21,7 @@
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2514/phoenix-hawk-iic-4) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2514) 
 - **Battle Value:** 2483 
 
 ## Availability 
@@ -82,4 +82,14 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

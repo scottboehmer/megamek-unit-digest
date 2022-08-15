@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3099/striker-light-tank-3061-upgrade) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3099) 
 - **Battle Value:** 775 
 
 ## Availability 
@@ -63,4 +63,13 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

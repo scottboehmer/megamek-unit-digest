@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ToS - Stotzing- Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8078/desert-scorpion-light-tank-standard) 
+- **Sources:** ToS - Stotzing- Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8078) 
 - **Battle Value:** 554 
 - [*More Info*](desert_scorpion_light_tank/desert_scorpion_light_tank_standard.md) 
 

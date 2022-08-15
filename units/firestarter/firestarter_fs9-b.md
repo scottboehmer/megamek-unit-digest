@@ -18,7 +18,7 @@
   - C3i 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1094/firestarter-fs9-b) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1094) 
 - **Battle Value:** 668 
 
 ## Availability 

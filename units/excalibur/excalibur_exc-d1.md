@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Vestigial Hands 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1003/excalibur-exc-d1) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1003) 
 - **Battle Value:** 1949 
 
 ## Availability 

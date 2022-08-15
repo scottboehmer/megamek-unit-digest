@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Accurate Weapon (TAG) 
   - Stabilized Weapon (TAG) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1533/hitman-hm-1) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1533) 
 - **Battle Value:** 925 
 
 ## Availability 
@@ -69,4 +69,9 @@
 - Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Mercenary 
 

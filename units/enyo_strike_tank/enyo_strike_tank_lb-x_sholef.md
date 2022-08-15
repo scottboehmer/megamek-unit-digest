@@ -17,7 +17,7 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5732/enyo-strike-tank-lb-x-sholef) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5732) 
 - **Battle Value:** 1423 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

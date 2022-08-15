@@ -17,7 +17,7 @@
   - SRM 4 × 4 (ammo: 50) 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3257/titan-ti-1a) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3257) 
 - **Battle Value:** 1959 
 
 ## Availability 

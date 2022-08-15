@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3006/sphinx-2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3006) 
 - **Battle Value:** 2753 
 
 ## Availability 
@@ -43,4 +43,9 @@
 - Clan Nova Cat 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Draconis Combine 
 

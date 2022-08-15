@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3211/thumper-artillery-vehicle-maxwell) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3211) 
 - **Battle Value:** 758 
 
 ## Availability 

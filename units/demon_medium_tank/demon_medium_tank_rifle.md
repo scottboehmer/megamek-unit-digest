@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Rifle (ammo: 18) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/870/demon-medium-tank-rifle) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/870) 
 - **Battle Value:** 386 
 
 ## Availability 
@@ -28,4 +28,9 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
+- Wolf Empire 
 

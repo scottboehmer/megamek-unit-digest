@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2192/mithras-light-tank-erll) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2192) 
 - **Battle Value:** 649 
 
 ## Availability 
@@ -38,5 +38,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

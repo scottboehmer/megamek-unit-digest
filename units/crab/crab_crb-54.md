@@ -18,7 +18,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7510/crab-crb-54) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7510) 
 - **Battle Value:** 1964 
 
 ## Availability 
@@ -26,4 +26,12 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Star League (Wolf) 
 

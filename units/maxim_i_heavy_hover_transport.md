@@ -14,7 +14,7 @@
 - **Equipment:** 
   - TAG 
   - Infantry (12 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2115/maxim-i-heavy-hover-transport-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2115) 
 - **Battle Value:** 770 
 - [*More Info*](maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport_standard.md) 
 
@@ -33,7 +33,7 @@
   - Guardian ECM Suite 
   - C3 Main × 2 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2114/maxim-i-heavy-hover-transport-company-command) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2114) 
 - **Battle Value:** 851 
 - [*More Info*](maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport_company_command.md) 
 

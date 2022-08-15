@@ -16,7 +16,7 @@
   - Machine Gun × 5 (ammo: 100) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2111/mauna-kea-command-vessel-lrm) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2111) 
 - **Battle Value:** 1022 
 
 ## Availability 
@@ -229,4 +229,26 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

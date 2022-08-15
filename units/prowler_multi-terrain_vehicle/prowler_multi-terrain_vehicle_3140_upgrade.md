@@ -17,7 +17,7 @@
   - Beagle Active Probe 
   - Fully Amphibious Chassis 
   - Infantry (4.0 tons) 
-- **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6789/prowler-multi-terrain-vehicle-3140-upgrade) 
+- **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6789) 
 - **Battle Value:** 1140 
 
 ## Availability 
@@ -25,4 +25,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Smoke Jaguar) 
 

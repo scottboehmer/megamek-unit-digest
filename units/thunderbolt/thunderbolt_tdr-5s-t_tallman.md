@@ -17,7 +17,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3242/thunderbolt-tdr-5s-t-tallman) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3242) 
 - **Battle Value:** 1447 
 
 ## Availability 

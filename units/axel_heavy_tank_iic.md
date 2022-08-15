@@ -15,7 +15,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/182/axel-heavy-tank-iic-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/182) 
 - **Battle Value:** 1612 
 - [*More Info*](axel_heavy_tank_iic/axel_heavy_tank_iic_standard.md) 
 
@@ -36,7 +36,7 @@
   - Anti-Missile System (ammo: 24) 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/183/axel-heavy-tank-iic-xl) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/183) 
 - **Battle Value:** 1911 
 - [*More Info*](axel_heavy_tank_iic/axel_heavy_tank_iic_xl.md) 
 

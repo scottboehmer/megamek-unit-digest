@@ -19,7 +19,7 @@
   - CASE II 
   - Targeting Computer 
   - MASC 
-- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8256/wolverine-wvr-10r) 
+- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8256) 
 - **Battle Value:** 1791 
 
 ## Availability 
@@ -34,4 +34,10 @@
 - Federated Suns 
 - Magistracy of Canopus 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Magistracy of Canopus 
 

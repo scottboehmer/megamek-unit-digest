@@ -18,7 +18,7 @@
   - Narrow/Low Profile 
   - Cramped Cockpit 
   - Poor Cooling Jacket (Large Laser) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3276/toro-tr-a-1) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3276) 
 - **Battle Value:** 671 
 
 ## Availability 
@@ -41,6 +41,10 @@
 - Fronc Reaches 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+
+### ilClan 
 
 - Fronc Reaches 
 

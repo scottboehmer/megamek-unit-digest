@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/271/battle-cobra-f) 
+- **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/271) 
 - **Battle Value:** 1507 
 
 ## Availability 
@@ -85,4 +85,10 @@
 - Clan Jade Falcon 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Kell Hounds 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 

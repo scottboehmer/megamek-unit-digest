@@ -18,7 +18,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6860/salamander-ppr-7t) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6860) 
 - **Battle Value:** 1647 
 
 ## Availability 
@@ -30,4 +30,9 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
 

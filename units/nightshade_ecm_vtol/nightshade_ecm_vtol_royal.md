@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2277/nightshade-ecm-vtol-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2277) 
 - **Battle Value:** 631 
 
 ## Availability 
@@ -170,4 +170,10 @@
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Star League (Wolf) 
 

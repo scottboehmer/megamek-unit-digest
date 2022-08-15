@@ -11,7 +11,7 @@
 - **Weapons:** 
   - LRM 15 (ammo: 24) 
   - ER Medium Laser × 2 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5158/stygian-strike-tank-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5158) 
 - **Battle Value:** 960 
 - [*More Info*](stygian_strike_tank/stygian_strike_tank_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - LRM 15 (ammo: 32) 
   - ER Medium Laser × 2 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5157/stygian-strike-tank-armor) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5157) 
 - **Battle Value:** 1001 
 - [*More Info*](stygian_strike_tank/stygian_strike_tank_armor.md) 
 
@@ -43,7 +43,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5728/stygian-strike-tank-wob) 
+- **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5728) 
 - **Battle Value:** 714 
 - [*More Info*](stygian_strike_tank/stygian_strike_tank_wob.md) 
 

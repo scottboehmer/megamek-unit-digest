@@ -12,7 +12,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Recon Camera 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7819/wheeled-scout-camera) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7819) 
 - **Battle Value:** 291 
 - [*More Info*](wheeled_scout/wheeled_scout_camera.md) 
 
@@ -28,7 +28,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5401/wheeled-scout-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5401) 
 - **Battle Value:** 291 
 - [*More Info*](wheeled_scout/wheeled_scout_standard.md) 
 
@@ -44,7 +44,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7820/wheeled-scout-sensors) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7820) 
 - **Battle Value:** 291 
 - [*More Info*](wheeled_scout/wheeled_scout_sensors.md) 
 

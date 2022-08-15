@@ -4,7 +4,7 @@
 
 ## Deimos H 
 
-- **Role:** Sniper 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3085) 
 - **Chassis:** 85 tons (Endo Steel) 
 - **Movement:** 3 / 5 (6), XL 

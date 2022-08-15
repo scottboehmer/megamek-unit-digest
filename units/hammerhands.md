@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1369/hammerhands-hmh-3d) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1369) 
 - **Battle Value:** 1381 
 - [*More Info*](hammerhands/hammerhands_hmh-3d.md) 
 
@@ -35,7 +35,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1370/hammerhands-hmh-4d) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1370) 
 - **Battle Value:** 1356 
 - [*More Info*](hammerhands/hammerhands_hmh-4d.md) 
 
@@ -54,7 +54,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Barrel Fists 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5863/hammerhands-hmh-3d-kessem) 
+- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5863) 
 - **Battle Value:** 1413 
 - [*More Info*](hammerhands/hammerhands_hmh-3d_kessem.md) 
 
@@ -75,7 +75,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1371/hammerhands-hmh-5d) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1371) 
 - **Battle Value:** 1496 
 - [*More Info*](hammerhands/hammerhands_hmh-5d.md) 
 
@@ -98,7 +98,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1372/hammerhands-hmh-6d) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1372) 
 - **Battle Value:** 2139 
 - [*More Info*](hammerhands/hammerhands_hmh-6d.md) 
 
@@ -122,7 +122,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Barrel Fists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1373/hammerhands-hmh-6e) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1373) 
 - **Battle Value:** 2204 
 - [*More Info*](hammerhands/hammerhands_hmh-6e.md) 
 

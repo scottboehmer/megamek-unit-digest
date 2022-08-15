@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - PPC 
-- **Sources:** HTP: Glengarry , [Master Unit List](http://masterunitlist.info/Unit/Details/1454/heavy-weapons-carrier-ppc) 
+- **Sources:** HTP: Glengarry , [Master Unit List](http://masterunitlist.info/Unit/Details/1454) 
 - **Battle Value:** 445 
 
 ## Availability 
@@ -38,6 +38,10 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
 
 - Mercenary 
 

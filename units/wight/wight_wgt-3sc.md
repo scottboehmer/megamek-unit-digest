@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3551/wight-wgt-3sc) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3551) 
 - **Battle Value:** 1125 
 
 ## Availability 
@@ -31,49 +31,55 @@
 ### Early Republic 
 
 - Capellan Confederation 
-- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
-- Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
 
 ### Late Republic 
 
 - Capellan Confederation 
-- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
-- Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Dark Ages 
 
 - Capellan Confederation 
-- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
-- Federated Suns 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Taurian Concordat 
 

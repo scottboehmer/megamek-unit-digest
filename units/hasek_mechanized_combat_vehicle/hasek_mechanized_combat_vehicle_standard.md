@@ -15,7 +15,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6317/hasek-mechanized-combat-vehicle-standard) 
+- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6317) 
 - **Battle Value:** 841 
 
 ## Availability 
@@ -33,5 +33,12 @@
 - Kell Hounds 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Federated Suns 
+- Kell Hounds 
+- Mercenary 
 - Wolf's Dragoons 
 

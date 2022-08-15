@@ -19,7 +19,7 @@
   - Machine Gun (ammo: 100) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3407/victor-vtr-9a) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3407) 
 - **Battle Value:** 1236 
 
 ## Availability 
@@ -99,4 +99,30 @@
 - Free Worlds League 
 - Lyran Alliance 
 - Word of Blake 
+
+### Early Republic 
+
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Pirate 
+
+### ilClan 
+
+- Pirate 
 

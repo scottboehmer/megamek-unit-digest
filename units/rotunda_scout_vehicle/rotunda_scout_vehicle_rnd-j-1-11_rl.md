@@ -12,10 +12,12 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Clan Prototype Rocket 15 × 5 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2747/rotunda-scout-vehicle-rnd-j-1-11-rl) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2747) 
 - **Battle Value:** 320 
 
 ## Availability 
 
-Availability Unknown 
+### Early Succession Wars 
+
+- Star League-in-Exile 
 

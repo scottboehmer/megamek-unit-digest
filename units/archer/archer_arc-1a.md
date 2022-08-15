@@ -22,7 +22,7 @@
   - Difficult Ejection 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3721/archer-arc-1a) 
+- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3721) 
 - **Battle Value:** 1269 
 
 ## Availability 

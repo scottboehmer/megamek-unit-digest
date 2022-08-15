@@ -14,7 +14,7 @@
   - MML 9 × 6 (ammo: 52 LRM, 44 SRM) 
 - **Equipment:** 
   - B-Pod × 4 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1441/heavy-mml-carrier-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1441) 
 - **Battle Value:** 722 
 
 ## Availability 
@@ -38,6 +38,13 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

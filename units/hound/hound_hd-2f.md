@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Accurate Weapon (LB 10-X AC) 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6563/hound-hd-2f) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6563) 
 - **Battle Value:** 1389 
 
 ## Availability 
@@ -34,6 +34,13 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Mercenary 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

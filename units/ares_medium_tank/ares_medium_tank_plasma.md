@@ -15,7 +15,7 @@
   - Plasma Cannon (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/108/ares-medium-tank-plasma) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/108) 
 - **Battle Value:** 1201 
 
 ## Availability 
@@ -38,4 +38,12 @@
 
 - Clan Jade Falcon 
 - Clan Wolf 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Wolf Empire 
 

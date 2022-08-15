@@ -19,7 +19,7 @@
   - Active Probe 
   - MASC 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8205/stormwolf-a) 
+- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8205) 
 - **Battle Value:** 2655 
 
 ## Availability 
@@ -29,4 +29,13 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

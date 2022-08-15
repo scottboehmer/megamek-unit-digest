@@ -23,7 +23,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2284/nightsky-ngs-6t) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2284) 
 - **Battle Value:** 1462 
 
 ## Availability 
@@ -66,4 +66,12 @@
 - Mercenary 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

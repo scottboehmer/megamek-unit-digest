@@ -23,7 +23,7 @@
   - Exposed Actuators 
   - Stabilized Weapon (Heavy Large Laser) 
   - Jettison-Capable Weapon (Large Shield) 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5078/slagmaiden-slg-x) 
+- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5078) 
 - **Battle Value:** 1602 
 
 ## Availability 

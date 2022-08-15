@@ -15,7 +15,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/929/drillson-heavy-hover-tank-erll) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/929) 
 - **Battle Value:** 960 
 
 ## Availability 
@@ -57,4 +57,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

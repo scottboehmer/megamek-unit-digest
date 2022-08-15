@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2108/maultier-hover-apc-mg) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2108) 
 - **Battle Value:** 170 
 
 ## Availability 
@@ -35,6 +35,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

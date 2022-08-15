@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Directional Torso Mount (Gauss Rifle) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2344/osprey-osp-15) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2344) 
 - **Battle Value:** 1564 
 - [*More Info*](osprey/osprey_osp-15.md) 
 
@@ -40,7 +40,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Directional Torso Mount (Gauss Rifle) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2345/osprey-osp-25) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2345) 
 - **Battle Value:** 1630 
 - [*More Info*](osprey/osprey_osp-25.md) 
 
@@ -64,7 +64,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Directional Torso Mount (Gauss Rifle) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2346/osprey-osp-26) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2346) 
 - **Battle Value:** 1541 
 - [*More Info*](osprey/osprey_osp-26.md) 
 
@@ -89,7 +89,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Directional Torso Mount (Heavy PPC) 
-- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2347/osprey-osp-26-lawrence) 
+- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2347) 
 - **Battle Value:** 1461 
 - [*More Info*](osprey/osprey_osp-26_lawrence.md) 
 
@@ -114,7 +114,7 @@
   - No/Minimal Arms 
   - Inaccurate Weapon (ER Medium Laser) 
   - Inaccurate Weapon (ER Medium Laser) 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7377/osprey-osp-36) 
+- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7377) 
 - **Battle Value:** 1450 
 - [*More Info*](osprey/osprey_osp-36.md) 
 

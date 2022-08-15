@@ -19,7 +19,7 @@
   - C3 Support 
   - Infantry (4.0 tons) 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/413/bolla-stealth-tank-rots-prime) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/413) 
 - **Battle Value:** 1159 
 
 ## Availability 
@@ -35,4 +35,8 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Smoke Jaguar) 
 

@@ -15,7 +15,7 @@
   - ER Large Laser × 6 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3132/supernova-standard) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3132) 
 - **Battle Value:** 2801 
 
 ## Availability 
@@ -89,6 +89,7 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Republic of the Sphere 
 
 ### Late Republic 
@@ -98,6 +99,7 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Republic of the Sphere 
 
 ### Dark Ages 
@@ -106,5 +108,12 @@
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Raven Alliance 
 

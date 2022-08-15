@@ -15,7 +15,7 @@
   - Extended Fuel Tank 
   - Communications Equipment 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2982/sokuryou-sku-181-surveymech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2982) 
 - **Battle Value:** 346 
 
 ## Availability 
@@ -29,6 +29,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

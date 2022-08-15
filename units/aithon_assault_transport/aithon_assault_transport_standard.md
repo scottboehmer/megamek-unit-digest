@@ -17,7 +17,7 @@
   - Armored Motive System 
   - CASE 
   - Infantry (10.0 tons) 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/3685/aithon-assault-transport-standard) 
+- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/3685) 
 - **Battle Value:** 1500 
 
 ## Availability 
@@ -31,6 +31,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

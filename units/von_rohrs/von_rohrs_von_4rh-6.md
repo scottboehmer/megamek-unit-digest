@@ -4,7 +4,7 @@
 
 ## Von Rohrs VON 4RH-6 "Hebi" 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (2510) 
 - **Chassis:** 65 tons 
 - **Movement:** 5 / 8 
@@ -14,7 +14,7 @@
   - PPC 
   - SRM 4 × 2 (ammo: 25) 
   - Flamer 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3456/von-rohrs-hebi-von-4rh-6) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3456) 
 - **Battle Value:** 1146 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/559/charger-cgr-1a1) 
+- **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/559) 
 - **Battle Value:** 981 
 - [*More Info*](charger/charger_cgr-1a1.md) 
 
@@ -33,7 +33,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/562/charger-cgr-1l) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/562) 
 - **Battle Value:** 980 
 - [*More Info*](charger/charger_cgr-1l.md) 
 
@@ -54,7 +54,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/560/charger-cgr-1a5) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/560) 
 - **Battle Value:** 1468 
 - [*More Info*](charger/charger_cgr-1a5.md) 
 
@@ -73,7 +73,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/570/charger-cgr-sb-challenger) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/570) 
 - **Battle Value:** 1604 
 - [*More Info*](charger/charger_cgr-sb_challenger.md) 
 
@@ -94,7 +94,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/561/charger-cgr-1a9) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/561) 
 - **Battle Value:** 1397 
 - [*More Info*](charger/charger_cgr-1a9.md) 
 
@@ -116,7 +116,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/565/charger-cgr-3k) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/565) 
 - **Battle Value:** 1656 
 - [*More Info*](charger/charger_cgr-3k.md) 
 
@@ -139,7 +139,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/567/charger-cgr-c) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/567) 
 - **Battle Value:** 1592 
 - [*More Info*](charger/charger_cgr-c.md) 
 
@@ -162,7 +162,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/569/charger-cgr-sa5) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/569) 
 - **Battle Value:** 2105 
 - [*More Info*](charger/charger_cgr-sa5.md) 
 
@@ -181,7 +181,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/564/charger-cgr-2a2) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/564) 
 - **Battle Value:** 1109 
 - [*More Info*](charger/charger_cgr-2a2.md) 
 
@@ -205,7 +205,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/568/charger-cgr-kmz) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/568) 
 - **Battle Value:** 1781 
 - [*More Info*](charger/charger_cgr-kmz.md) 
 
@@ -233,7 +233,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/563/charger-cgr-1x1) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/563) 
 - **Battle Value:** 2009 
 - [*More Info*](charger/charger_cgr-1x1.md) 
 
@@ -261,7 +261,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566/charger-cgr-3kr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566) 
 - **Battle Value:** 2121 
 - [*More Info*](charger/charger_cgr-3kr.md) 
 

@@ -18,7 +18,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1482/hercules-hrc-ls-9000) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1482) 
 - **Battle Value:** 1561 
 - [*More Info*](hercules/hercules_hrc-ls-9000.md) 
 
@@ -38,7 +38,7 @@
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1484/hercules-hrc-ls-9001) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1484) 
 - **Battle Value:** 1566 
 - [*More Info*](hercules/hercules_hrc-ls-9001.md) 
 
@@ -60,7 +60,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1483/hercules-hrc-ls-9000-julius) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1483) 
 - **Battle Value:** 1661 
 - [*More Info*](hercules/hercules_hrc-ls-9000_julius.md) 
 

@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Unbalanced 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6551/cadaver-cvr-t1) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6551) 
 - **Battle Value:** 1288 
 
 ## Availability 
@@ -40,6 +40,12 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Raven Alliance 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Raven Alliance 

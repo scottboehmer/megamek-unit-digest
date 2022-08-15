@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (RAC/5) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1415/hatchetman-hct-6d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1415) 
 - **Battle Value:** 1611 
 
 ## Availability 
@@ -35,23 +35,32 @@
 ### Jihad 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Mercenary 
 
 ### Early Republic 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Federated Suns 
+- Filtvelt Coalition 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
 

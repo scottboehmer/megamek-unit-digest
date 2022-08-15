@@ -19,12 +19,17 @@
   - CASE II 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6411/exhumer-exr-3p) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6411) 
 - **Battle Value:** 1469 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+
+### ilClan 
 
 - Draconis Combine 
 - Mercenary 

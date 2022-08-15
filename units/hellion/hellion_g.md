@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6939/hellion-g) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6939) 
 - **Battle Value:** 1513 
 
 ## Availability 
@@ -30,6 +30,7 @@
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- Escorpión Imperio 
 
 ### Dark Ages 
 
@@ -37,4 +38,13 @@
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Mercenary 
+- Scorpion Empire 
 

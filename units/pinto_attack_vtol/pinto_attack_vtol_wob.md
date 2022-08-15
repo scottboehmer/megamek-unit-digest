@@ -15,7 +15,7 @@
   - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2533/pinto-attack-vtol-wob) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2533) 
 - **Battle Value:** 682 
 
 ## Availability 

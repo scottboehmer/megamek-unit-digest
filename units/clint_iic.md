@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/652/clint-iic-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/652) 
 - **Battle Value:** 1395 
 - [*More Info*](clint_iic/clint_iic_standard.md) 
 
@@ -37,13 +37,13 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/653/clint-iic-2) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/653) 
 - **Battle Value:** 1890 
 - [*More Info*](clint_iic/clint_iic_2.md) 
 
 ## Clint IIC 2L 'Leia' 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3125) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
@@ -58,7 +58,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8369/clint-iic-2l-leia) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8369) 
 - **Battle Value:** 1497 
 - [*More Info*](clint_iic/clint_iic_2l_leia.md) 
 

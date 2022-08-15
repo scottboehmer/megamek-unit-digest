@@ -17,8 +17,7 @@
   - Small Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1083/firefly-ffl-3pp) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1083) 
 - **Battle Value:** 888 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8436/atlas-as7-s4) 
+- **Sources:** Rec Guide:ilClan #24 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8436) 
 - **Battle Value:** 2568 
 
 ## Availability 
@@ -39,5 +39,14 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Taurian Concordat 
+- Vesper Marches 
 - Wolf's Dragoons 
 

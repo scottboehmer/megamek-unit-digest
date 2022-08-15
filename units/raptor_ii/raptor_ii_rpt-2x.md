@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - No Ejection System 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2657/raptor-ii-rpt-2x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2657) 
 - **Battle Value:** 896 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - Searchlight × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7465/copper-cpk-65km-securitymech) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7465) 
 - **Battle Value:** 339 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Lyran Commonwealth 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+
+### ilClan 
 
 - Lyran Commonwealth 
 

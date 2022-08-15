@@ -21,7 +21,7 @@
   - C3i 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1342/guillotine-glt-6wb) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1342) 
 - **Battle Value:** 1672 
 
 ## Availability 

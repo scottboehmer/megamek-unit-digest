@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3458/vulcan-vl-2t) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3458) 
 - **Battle Value:** 642 
 - [*More Info*](vulcan/vulcan_vl-2t.md) 
 
@@ -35,7 +35,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3459/vulcan-vl-5t) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3459) 
 - **Battle Value:** 942 
 - [*More Info*](vulcan/vulcan_vl-5t.md) 
 
@@ -54,7 +54,7 @@
   - Flamer × 3 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7797/vulcan-vl-2t-timms) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7797) 
 - **Battle Value:** 603 
 - [*More Info*](vulcan/vulcan_vl-2t_timms.md) 
 
@@ -74,7 +74,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3461/vulcan-vt-5m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3461) 
 - **Battle Value:** 811 
 - [*More Info*](vulcan/vulcan_vt-5m.md) 
 
@@ -97,7 +97,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3462/vulcan-vt-5s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3462) 
 - **Battle Value:** 883 
 - [*More Info*](vulcan/vulcan_vt-5s.md) 
 
@@ -117,7 +117,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3465/vulcan-vt-6m) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3465) 
 - **Battle Value:** 959 
 - [*More Info*](vulcan/vulcan_vt-6m.md) 
 
@@ -140,7 +140,7 @@
   - C3i 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3464/vulcan-vt-6c) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3464) 
 - **Battle Value:** 940 
 - [*More Info*](vulcan/vulcan_vt-6c.md) 
 
@@ -163,13 +163,13 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3463/vulcan-vt-5sr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3463) 
 - **Battle Value:** 1210 
 - [*More Info*](vulcan/vulcan_vt-5sr.md) 
 
 ## Vulcan VT-5ML 'Aladdin' 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3080) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 6 / 9 
@@ -183,7 +183,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8370/vulcan-vl-5ml-aladdin) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8370) 
 - **Battle Value:** 947 
 - [*More Info*](vulcan/vulcan_vt-5ml_aladdin.md) 
 

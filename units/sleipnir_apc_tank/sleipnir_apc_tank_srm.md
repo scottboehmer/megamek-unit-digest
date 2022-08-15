@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** House Arano , [Master Unit List](http://masterunitlist.info/Unit/Details/7614/sleipnir-apc-tank-srm) 
+- **Sources:** House Arano , [Master Unit List](http://masterunitlist.info/Unit/Details/7614) 
 - **Battle Value:** 553 
 
 ## Availability 
@@ -77,6 +77,10 @@
 - Pirate 
 
 ### Dark Ages 
+
+- Pirate 
+
+### ilClan 
 
 - Pirate 
 

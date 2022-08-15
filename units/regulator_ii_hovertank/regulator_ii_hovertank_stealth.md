@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2680/regulator-ii-hovertank-stealth) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2680) 
 - **Battle Value:** 879 
 
 ## Availability 
@@ -29,6 +29,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

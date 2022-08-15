@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Infantry (2.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4395/jeep-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4395) 
 - **Battle Value:** 56 
 - [*More Info*](jeep/jeep_standard.md) 
 

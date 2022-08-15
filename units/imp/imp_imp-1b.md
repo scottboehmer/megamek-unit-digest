@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1608/imp-imp-1b) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1608) 
 - **Battle Value:** 2349 
 
 ## Availability 

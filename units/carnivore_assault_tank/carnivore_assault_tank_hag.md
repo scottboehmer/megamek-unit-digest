@@ -18,7 +18,7 @@
   - ECM Suite 
   - Anti-Missile System × 2 (ammo: 48) 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/463/carnivore-assault-tank-hag) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/463) 
 - **Battle Value:** 2286 
 
 ## Availability 
@@ -37,4 +37,13 @@
 
 - Clan Jade Falcon 
 - Clan Wolf 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

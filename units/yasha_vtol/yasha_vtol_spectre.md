@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3610/yasha-vtol-spectre) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3610) 
 - **Battle Value:** 576 
 
 ## Availability 
@@ -37,4 +37,9 @@
 - Clan Nova Cat 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Draconis Combine 
 

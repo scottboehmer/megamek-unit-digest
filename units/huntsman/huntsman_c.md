@@ -23,7 +23,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2291/nobori-nin-huntsman-c) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2291) 
 - **Battle Value:** 2199 
 
 ## Availability 
@@ -71,4 +71,11 @@
 - Clan Sea Fox 
 - Free Worlds League 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Star League (Smoke Jaguar) 
 

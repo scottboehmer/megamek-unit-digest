@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #4 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3501/warhammer-iic-2) 
+- **Sources:** Rec Guide:ilClan #4 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3501) 
 - **Battle Value:** 2482 
 
 ## Availability 
@@ -188,4 +188,18 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Raven Alliance 
+- Tamar Pact 
+- Vesper Marches 
 

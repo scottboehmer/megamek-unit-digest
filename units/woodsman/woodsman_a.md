@@ -19,7 +19,7 @@
   - MASC 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3586/woodsman-a) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3586) 
 - **Battle Value:** 2741 
 
 ## Availability 
@@ -42,4 +42,10 @@
 
 - Clan Wolf 
 - Raven Alliance 
+
+### ilClan 
+
+- Raven Alliance 
+- Star League (Wolf) 
+- Wolf Empire 
 

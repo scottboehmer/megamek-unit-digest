@@ -18,7 +18,7 @@
   - Lift Hoist × 2 
   - Cargo × 2 
   - Ejection Seat 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4529/heavy-forester-hfl-1-loggermech) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4529) 
 - **Battle Value:** 433 
 
 ## Availability 
@@ -211,4 +211,22 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

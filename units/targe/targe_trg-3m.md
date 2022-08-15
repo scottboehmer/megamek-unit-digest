@@ -21,7 +21,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6915/targe-trg-3m) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6915) 
 - **Battle Value:** 1233 
 
 ## Availability 
@@ -35,4 +35,8 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

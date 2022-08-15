@@ -15,7 +15,7 @@
   - Light AC/5 (ammo: 40) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1159/fury-command-tank-c3s) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1159) 
 - **Battle Value:** 1413 
 
 ## Availability 
@@ -38,4 +38,8 @@
 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Main 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1149/fortune-wheeled-assault-vehicle-c3m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1149) 
 - **Battle Value:** 1178 
 
 ## Availability 
@@ -39,4 +39,10 @@
 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

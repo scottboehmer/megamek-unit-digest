@@ -18,7 +18,7 @@
   - TAG 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2968/sling-sl-1h) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2968) 
 - **Battle Value:** 731 
 
 ## Availability 

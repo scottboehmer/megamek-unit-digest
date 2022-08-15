@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Pulse Laser × 2 
   - SRM 6 × 2 (ammo: 30) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4126/enyo-strike-tank-er-pulse) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4126) 
 - **Battle Value:** 861 
 
 ## Availability 
@@ -29,6 +29,11 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Clan Hell's Horses 
 - Rasalhague Dominion 

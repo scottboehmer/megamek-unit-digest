@@ -15,7 +15,7 @@
   - Command Console 
   - Communications Equipment 
   - Infantry (0.5 tons) 
-- **Sources:** Somerset Strikers , [Master Unit List](http://masterunitlist.info/Unit/Details/4782/packrat-lrpv-pkr-t5-mobile-tacops) 
+- **Sources:** Somerset Strikers , [Master Unit List](http://masterunitlist.info/Unit/Details/4782) 
 - **Battle Value:** 279 
 
 ## Availability 

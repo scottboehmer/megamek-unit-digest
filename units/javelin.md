@@ -13,7 +13,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1675/javelin-jvn-10n) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1675) 
 - **Battle Value:** 594 
 - [*More Info*](javelin/javelin_jvn-10n.md) 
 
@@ -30,7 +30,7 @@
   - LRM 15 (ammo: 8) 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7429/javelin-jvn-10a) 
+- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7429) 
 - **Battle Value:** 653 
 - [*More Info*](javelin/javelin_jvn-10a.md) 
 
@@ -47,7 +47,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1674/javelin-jvn-10f-fire-javelin) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1674) 
 - **Battle Value:** 835 
 - [*More Info*](javelin/javelin_jvn-10f_fire_javelin.md) 
 
@@ -65,7 +65,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1676/javelin-jvn-10p) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1676) 
 - **Battle Value:** 590 
 - [*More Info*](javelin/javelin_jvn-10p.md) 
 
@@ -82,7 +82,7 @@
   - Medium Laser × 7 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1677/javelin-jvn-11a-fire-javelin) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1677) 
 - **Battle Value:** 1073 
 - [*More Info*](javelin/javelin_jvn-11a_fire_javelin.md) 
 
@@ -102,7 +102,7 @@
   - CASE 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1678/javelin-jvn-11b) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1678) 
 - **Battle Value:** 678 
 - [*More Info*](javelin/javelin_jvn-11b.md) 
 
@@ -123,7 +123,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1679/javelin-jvn-11d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1679) 
 - **Battle Value:** 1104 
 - [*More Info*](javelin/javelin_jvn-11d.md) 
 
@@ -144,7 +144,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5808/javelin-jvn-11d-farrell) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5808) 
 - **Battle Value:** 1155 
 - [*More Info*](javelin/javelin_jvn-11d_farrell.md) 
 
@@ -164,7 +164,7 @@
   - Machine Gun Array × 2 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1680/javelin-jvn-11f) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1680) 
 - **Battle Value:** 789 
 - [*More Info*](javelin/javelin_jvn-11f.md) 
 
@@ -181,7 +181,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6938/javelin-jvn-11p) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6938) 
 - **Battle Value:** 680 
 - [*More Info*](javelin/javelin_jvn-11p.md) 
 

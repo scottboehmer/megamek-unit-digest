@@ -18,7 +18,7 @@
   - Medium Laser × 3 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4825/phoenix-hawk-lam-mk-i-phx-hk1r) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4825) 
 - **Battle Value:** 1858 
 
 ## Availability 

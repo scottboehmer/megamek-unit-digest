@@ -13,7 +13,7 @@
   - Medium Laser × 3 
   - SRM 2 (ammo: 50) 
   - Small Laser 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5435/zephyr-hovertank-srm2) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5435) 
 - **Battle Value:** 893 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_srm2.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3631/zephyr-hovertank-royal) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3631) 
 - **Battle Value:** 811 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_royal.md) 
 
@@ -51,13 +51,13 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3632/zephyr-hovertank-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3632) 
 - **Battle Value:** 904 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_standard.md) 
 
 ## Zephyr Hovertank EC 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (2820) 
 - **Chassis:** 40 tons Hover 
 - **Movement:** 9 / 14, Fusion 
@@ -69,7 +69,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7674/zephyr-hovertank-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7674) 
 - **Battle Value:** 993 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_ec.md) 
 
@@ -89,7 +89,7 @@
   - Guardian ECM Suite 
   - C3i 
   - TAG 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3629/zephyr-hovertank-c3i) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3629) 
 - **Battle Value:** 820 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_c3i.md) 
 
@@ -106,7 +106,7 @@
   - LRM 5 × 2 (ammo: 48) 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3630/zephyr-hovertank-lrm) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3630) 
 - **Battle Value:** 889 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_lrm.md) 
 
@@ -125,7 +125,7 @@
   - Angel ECM Suite 
   - Drone Operating System 
   - TAG 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7301/zephyr-hovertank-omnidrone-a) 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7301) 
 - **Battle Value:** 779 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_omnidrone_a.md) 
 
@@ -145,7 +145,7 @@
   - Bloodhound Active Probe 
   - Drone Operating System 
   - C3 Support 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7302/zephyr-hovertank-omnidrone-b) 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7302) 
 - **Battle Value:** 540 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_omnidrone_b.md) 
 
@@ -163,7 +163,7 @@
   - Angel ECM Suite 
   - M-Pod × 4 
   - Drone Operating System 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7303/zephyr-hovertank-omnidrone-c) 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7303) 
 - **Battle Value:** 501 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_omnidrone_c.md) 
 
@@ -181,7 +181,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Drone Operating System 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7300/zephyr-hovertank-omnidrone-prime) 
+- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7300) 
 - **Battle Value:** 671 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_omnidrone_prime.md) 
 

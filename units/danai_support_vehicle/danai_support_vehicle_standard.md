@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Thumper (ammo: 20) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/822/danai-support-vehicle-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/822) 
 - **Battle Value:** 576 
 
 ## Availability 
@@ -39,6 +39,13 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

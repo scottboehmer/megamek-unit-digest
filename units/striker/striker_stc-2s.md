@@ -16,7 +16,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3096/striker-stc-2s) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3096) 
 - **Battle Value:** 1466 
 
 ## Availability 

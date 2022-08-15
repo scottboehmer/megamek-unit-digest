@@ -18,7 +18,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2742/rook-nh-2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2742) 
 - **Battle Value:** 1525 
 
 ## Availability 
@@ -50,4 +50,11 @@
 - Free Worlds League 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
 

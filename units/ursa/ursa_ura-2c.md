@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Stable 
   - Exposed Weapon Linkage (RAC/2) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6628/ursa-ura-2c) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6628) 
 - **Battle Value:** 2570 
 
 ## Availability 
@@ -41,5 +41,13 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 - Wolf's Dragoons 
 

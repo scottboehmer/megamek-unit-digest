@@ -14,7 +14,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Infantry (5 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2809/saxon-apc-laser) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2809) 
 - **Battle Value:** 565 
 
 ## Availability 
@@ -40,4 +40,11 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

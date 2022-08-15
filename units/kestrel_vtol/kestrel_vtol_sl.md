@@ -14,7 +14,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Infantry (1.5 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1767/kestrel-vtol-sl) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1767) 
 - **Battle Value:** 175 
 
 ## Availability 
@@ -65,13 +65,20 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
 - Draconis Combine 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
 - Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Wolf's Dragoons 
 

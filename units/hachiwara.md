@@ -18,7 +18,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1360/hachiwara-hca-3t) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1360) 
 - **Battle Value:** 1646 
 - [*More Info*](hachiwara/hachiwara_hca-3t.md) 
 
@@ -42,7 +42,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1361/hachiwara-hca-4t) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1361) 
 - **Battle Value:** 1728 
 - [*More Info*](hachiwara/hachiwara_hca-4t.md) 
 
@@ -65,7 +65,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1362/hachiwara-hca-4u) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1362) 
 - **Battle Value:** 1786 
 - [*More Info*](hachiwara/hachiwara_hca-4u.md) 
 
@@ -86,7 +86,7 @@
   - Spikes × 3 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1363/hachiwara-hca-6p) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1363) 
 - **Battle Value:** 2385 
 - [*More Info*](hachiwara/hachiwara_hca-6p.md) 
 

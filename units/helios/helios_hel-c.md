@@ -20,7 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1467/helios-hel-c) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1467) 
 - **Battle Value:** 1533 
 
 ## Availability 
@@ -64,6 +64,10 @@
 
 - Capellan Confederation 
 - Draconis Combine 
-- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
 - Mercenary 
 

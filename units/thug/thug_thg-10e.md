@@ -14,8 +14,8 @@
   - PPC × 2 
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3204/thug-thg-10e) 
+  - Rugged (×2) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3204) 
 - **Battle Value:** 1501 
 
 ## Availability 

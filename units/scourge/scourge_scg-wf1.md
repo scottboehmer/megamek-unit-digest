@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Rumble Seat 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6625/scourge-scg-wf1) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6625) 
 - **Battle Value:** 2172 
 
 ## Availability 
@@ -28,7 +28,17 @@
 ### Dark Ages 
 
 - ComStar 
+- Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Oriente Protectorate 
+- Rim Commonality 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
 - Wolf's Dragoons 
 

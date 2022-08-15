@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3007/sphinx-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3007) 
 - **Battle Value:** 2883 
 - [*More Info*](sphinx/sphinx_standard.md) 
 
@@ -35,7 +35,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3006/sphinx-2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3006) 
 - **Battle Value:** 2753 
 - [*More Info*](sphinx/sphinx_2.md) 
 
@@ -56,7 +56,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6864/sphinx-3) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6864) 
 - **Battle Value:** 3396 
 - [*More Info*](sphinx/sphinx_3.md) 
 
@@ -74,7 +74,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6863/sphinx-4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6863) 
 - **Battle Value:** 1952 
 - [*More Info*](sphinx/sphinx_4.md) 
 

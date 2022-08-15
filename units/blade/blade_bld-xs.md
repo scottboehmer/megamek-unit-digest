@@ -23,7 +23,7 @@
   - Static Ammo Feed (AC/10) 
   - Modular Weapon (Medium Laser) 
   - Modular Weapon (Medium Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/392/blade-bld-xs) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/392) 
 - **Battle Value:** 944 
 
 ## Availability 
@@ -40,4 +40,8 @@
 
 - Capellan Confederation 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
 

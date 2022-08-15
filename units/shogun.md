@@ -21,7 +21,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2934/shogun-shg-2h) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2934) 
 - **Battle Value:** 2087 
 - [*More Info*](shogun/shogun_shg-2h.md) 
 
@@ -44,7 +44,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2931/shogun-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2931) 
 - **Battle Value:** 3008 
 - [*More Info*](shogun/shogun_c.md) 
 
@@ -67,7 +67,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2932/shogun-shg-2e) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2932) 
 - **Battle Value:** 1823 
 - [*More Info*](shogun/shogun_shg-2e.md) 
 
@@ -90,7 +90,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2933/shogun-shg-2f) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2933) 
 - **Battle Value:** 1804 
 - [*More Info*](shogun/shogun_shg-2f.md) 
 
@@ -113,7 +113,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5058/shogun-shg-2f-trisha) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5058) 
 - **Battle Value:** 1733 
 - [*More Info*](shogun/shogun_shg-2f_trisha.md) 
 

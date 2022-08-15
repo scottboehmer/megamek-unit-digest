@@ -4,7 +4,7 @@
 
 ## Manticore Heavy Tank EC 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2823) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 4 / 6, Fusion 
@@ -14,7 +14,7 @@
   - Clan Enhanced PPC 
   - Clan Improved LRM 10 (ammo: 24) 
   - SRM 6 (ammo: 15) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7675/manticore-heavy-tank-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7675) 
 - **Battle Value:** 1147 
 
 ## Availability 

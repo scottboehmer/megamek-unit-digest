@@ -14,7 +14,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3859/brigand-ldt-1) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3859) 
 - **Battle Value:** 771 
 - [*More Info*](brigand/brigand_ldt-1.md) 
 
@@ -32,7 +32,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3860/brigand-ldt-x1) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3860) 
 - **Battle Value:** 937 
 - [*More Info*](brigand/brigand_ldt-x1.md) 
 
@@ -50,7 +50,7 @@
   - Rocket 15 × 4 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3861/brigand-ldt-x2) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3861) 
 - **Battle Value:** 764 
 - [*More Info*](brigand/brigand_ldt-x2.md) 
 
@@ -68,7 +68,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5653/brigand-ldt-x3) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5653) 
 - **Battle Value:** 695 
 - [*More Info*](brigand/brigand_ldt-x3.md) 
 
@@ -86,7 +86,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7313/brigand-ldt-xpr1) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7313) 
 - **Battle Value:** 723 
 - [*More Info*](brigand/brigand_ldt-xpr1.md) 
 
@@ -107,7 +107,7 @@
   - Nimble Jumper 
   - Easy to Pilot 
   - Easy to Maintain 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7314/brigand-ldt-xpr2) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7314) 
 - **Battle Value:** 956 
 - [*More Info*](brigand/brigand_ldt-xpr2.md) 
 
@@ -127,7 +127,7 @@
   - Nimble Jumper 
   - Easy to Pilot 
   - Easy to Maintain 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7315/brigand-ldt-xpr3) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7315) 
 - **Battle Value:** 752 
 - [*More Info*](brigand/brigand_ldt-xpr3.md) 
 
@@ -146,7 +146,7 @@
   - Nimble Jumper 
   - Easy to Pilot 
   - Easy to Maintain 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7316/brigand-ldt-xpr4) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7316) 
 - **Battle Value:** 739 
 - [*More Info*](brigand/brigand_ldt-xpr4.md) 
 
@@ -166,7 +166,7 @@
   - Nimble Jumper 
   - Easy to Pilot 
   - Easy to Maintain 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7317/brigand-ldt-xpr5) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7317) 
 - **Battle Value:** 743 
 - [*More Info*](brigand/brigand_ldt-xpr5.md) 
 
@@ -185,7 +185,7 @@
   - ER Medium Laser × 3 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5654/brigand-ldt-x4) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5654) 
 - **Battle Value:** 1038 
 - [*More Info*](brigand/brigand_ldt-x4.md) 
 
@@ -203,7 +203,7 @@
   - Mace 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7312/brigand-ldt-5) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7312) 
 - **Battle Value:** 762 
 - [*More Info*](brigand/brigand_ldt-5.md) 
 

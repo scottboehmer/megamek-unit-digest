@@ -15,7 +15,7 @@
   - Heavy Large Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/722/crimson-hawk-2) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/722) 
 - **Battle Value:** 1271 
 
 ## Availability 
@@ -45,6 +45,14 @@
 
 - Capellan Confederation 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 
 - Mercenary 

@@ -20,8 +20,7 @@
   - Null-Signature System 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1686/jenner-jr10-x) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1686) 
 - **Battle Value:** 1269 
 
 ## Availability 

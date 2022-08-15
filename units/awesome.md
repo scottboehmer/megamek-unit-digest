@@ -13,7 +13,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/174/awesome-aws-8q) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/174) 
 - **Battle Value:** 1605 
 - [*More Info*](awesome/awesome_aws-8q.md) 
 
@@ -31,7 +31,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/175/awesome-aws-8r) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/175) 
 - **Battle Value:** 1470 
 - [*More Info*](awesome/awesome_aws-8r.md) 
 
@@ -49,7 +49,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/176/awesome-aws-8t) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/176) 
 - **Battle Value:** 1593 
 - [*More Info*](awesome/awesome_aws-8t.md) 
 
@@ -68,7 +68,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/177/awesome-aws-8v) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/177) 
 - **Battle Value:** 1510 
 - [*More Info*](awesome/awesome_aws-8v.md) 
 
@@ -87,7 +87,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/178/awesome-aws-9m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/178) 
 - **Battle Value:** 1812 
 - [*More Info*](awesome/awesome_aws-9m.md) 
 
@@ -108,7 +108,7 @@
   - Communications Equipment 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5594/awesome-aws-9ma) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5594) 
 - **Battle Value:** 1836 
 - [*More Info*](awesome/awesome_aws-9ma.md) 
 
@@ -127,7 +127,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/179/awesome-aws-9q) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/179) 
 - **Battle Value:** 1875 
 - [*More Info*](awesome/awesome_aws-9q.md) 
 
@@ -147,7 +147,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/172/awesome-aws-10km) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/172) 
 - **Battle Value:** 1961 
 - [*More Info*](awesome/awesome_aws-10km.md) 
 
@@ -166,13 +166,13 @@
   - C3 Support 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3770/awesome-aws-9q-klatt) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3770) 
 - **Battle Value:** 1805 
 - [*More Info*](awesome/awesome_aws-9q_klatt.md) 
 
 ## Awesome AWS-10KM (Cameron) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere Mixed (3075) 
 - **Chassis:** 80 tons (Endo Steel) 
 - **Movement:** 3 / 5, Armored 
@@ -190,7 +190,7 @@
   - C3i 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7397/awesome-aws-10km-cameron) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7397) 
 - **Battle Value:** 2466 
 - [*More Info*](awesome/awesome_aws-10km_cameron.md) 
 
@@ -207,7 +207,7 @@
   - PPC × 3 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7311/awesome-aws-8q-buck) 
+- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7311) 
 - **Battle Value:** 1787 
 - [*More Info*](awesome/awesome_aws-8q_buck.md) 
 
@@ -225,7 +225,7 @@
   - Light PPC × 4 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/173/awesome-aws-11m) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/173) 
 - **Battle Value:** 1801 
 - [*More Info*](awesome/awesome_aws-11m.md) 
 
@@ -252,7 +252,7 @@
   - Distracting 
   - Poor Performance 
   - Battlefist (Left Arm) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7349/awesome-aws-11r) 
+- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7349) 
 - **Battle Value:** 1878 
 - [*More Info*](awesome/awesome_aws-11r.md) 
 
@@ -269,7 +269,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7501/awesome-aws-11h) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7501) 
 - **Battle Value:** 2036 
 - [*More Info*](awesome/awesome_aws-11h.md) 
 

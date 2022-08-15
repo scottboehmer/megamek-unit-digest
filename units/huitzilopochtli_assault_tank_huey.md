@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1551/huitzilopochtli-assault-tank-huey-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1551) 
 - **Battle Value:** 1049 
 - [*More Info*](huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_standard.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1550/huitzilopochtli-assault-tank-huey-aaa) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1550) 
 - **Battle Value:** 1385 
 - [*More Info*](huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_aaa.md) 
 

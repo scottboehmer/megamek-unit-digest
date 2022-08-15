@@ -24,7 +24,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2380/ostsol-otl-9r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2380) 
 - **Battle Value:** 1654 
 
 ## Availability 
@@ -51,4 +51,9 @@
 - Free Worlds League 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

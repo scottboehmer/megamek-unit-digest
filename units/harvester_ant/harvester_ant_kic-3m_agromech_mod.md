@@ -4,7 +4,7 @@
 
 ## Harvester Ant KIC-3M AgroMech MOD 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2801) 
 - **Chassis:** 20 tons Quad (Industrial) 
 - **Movement:** 3 / 5, ICE 
@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 50) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** RS VA IM Exo - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7152/harvester-ant-kic-3m-agromech-mod-kic-3-mg) 
+- **Sources:** RS VA IM Exo - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7152) 
 - **Battle Value:** 127 
 
 ## Availability 

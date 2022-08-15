@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2394/pack-hunter-3) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2394) 
 - **Battle Value:** 1747 
 
 ## Availability 
@@ -38,4 +38,8 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Star League (Wolf) 
 

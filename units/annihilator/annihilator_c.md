@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/43/annihilator-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/43) 
 - **Battle Value:** 2520 
 
 ## Availability 
@@ -113,4 +113,12 @@
 - Kell Hounds 
 - Mercenary 
 - Raven Alliance 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
+- Mercenary 
+- Raven Alliance 
+- Star League (Wolf) 
 

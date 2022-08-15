@@ -16,7 +16,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
   - Small Pulse Laser 
   - Small Laser 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3450/von-luckner-heavy-tank-star-league) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3450) 
 - **Battle Value:** 1216 
 
 ## Availability 

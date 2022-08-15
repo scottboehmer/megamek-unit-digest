@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/243/banshee-bnc-3mr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/243) 
 - **Battle Value:** 1801 
 
 ## Availability 
@@ -73,5 +73,12 @@
 - Regulan Fiefs 
 - Rim Commonality 
 - Solaris 7 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Fronc Reaches 
+- Magistracy of Canopus 
 - Taurian Concordat 
 

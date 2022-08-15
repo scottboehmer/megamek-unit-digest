@@ -22,7 +22,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/758/crusader-crd-5k) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/758) 
 - **Battle Value:** 1463 
 
 ## Availability 
@@ -53,6 +53,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

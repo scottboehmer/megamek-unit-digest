@@ -22,7 +22,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4759/orion-on1-md) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4759) 
 - **Battle Value:** 1597 
 
 ## Availability 
@@ -67,4 +67,10 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
 

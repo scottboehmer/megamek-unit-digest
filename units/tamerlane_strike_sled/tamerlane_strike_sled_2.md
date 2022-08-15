@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3159/tamerlane-strike-sled-2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3159) 
 - **Battle Value:** 359 
 
 ## Availability 
@@ -31,6 +31,10 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Magistracy of Canopus 
 

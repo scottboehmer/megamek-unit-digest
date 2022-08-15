@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - No/Minimal Arms 
-- **Sources:** JTP Tharkad , [Master Unit List](http://masterunitlist.info/Unit/Details/916/dragon-fire-dgr-6fc2-gregory) 
+- **Sources:** JTP Tharkad , [Master Unit List](http://masterunitlist.info/Unit/Details/916) 
 - **Battle Value:** 2230 
 
 ## Availability 

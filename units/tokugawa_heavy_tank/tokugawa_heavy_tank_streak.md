@@ -15,7 +15,7 @@
   - Streak SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 2 
   - Small Pulse Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3264/tokugawa-heavy-tank-streak) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3264) 
 - **Battle Value:** 921 
 
 ## Availability 
@@ -52,4 +52,10 @@
 - Clan Sea Fox 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
 

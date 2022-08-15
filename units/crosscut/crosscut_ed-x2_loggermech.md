@@ -4,7 +4,7 @@
 
 ## Crosscut ED-X2 LoggerMech 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (2715) 
 - **Chassis:** 30 tons (Industrial) 
 - **Movement:** 3 / 5, ICE 
@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo × 2 
-- **Sources:** RS OK - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/741/crosscut-ed-x2-loggermech) 
+- **Sources:** RS OK - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/741) 
 - **Battle Value:** 223 
 
 ## Availability 

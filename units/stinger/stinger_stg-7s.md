@@ -19,7 +19,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3068/stinger-stg-7s) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3068) 
 - **Battle Value:** 382 
 
 ## Availability 
@@ -49,4 +49,12 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

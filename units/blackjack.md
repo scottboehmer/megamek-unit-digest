@@ -13,7 +13,7 @@
   - Flamer × 4 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/376/blackjack-bj-1x) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/376) 
 - **Battle Value:** 964 
 - [*More Info*](blackjack/blackjack_bj-1x.md) 
 
@@ -31,7 +31,7 @@
   - AC/2 × 2 (ammo: 45) 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/373/blackjack-bj-1) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/373) 
 - **Battle Value:** 949 
 - [*More Info*](blackjack/blackjack_bj-1.md) 
 
@@ -49,7 +49,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/374/blackjack-bj-1db) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/374) 
 - **Battle Value:** 1015 
 - [*More Info*](blackjack/blackjack_bj-1db.md) 
 
@@ -67,7 +67,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/375/blackjack-bj-1dc) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/375) 
 - **Battle Value:** 917 
 - [*More Info*](blackjack/blackjack_bj-1dc.md) 
 
@@ -85,7 +85,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/388/blackjack-bj-3) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/388) 
 - **Battle Value:** 1271 
 - [*More Info*](blackjack/blackjack_bj-3.md) 
 
@@ -103,7 +103,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/377/blackjack-bj-2) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/377) 
 - **Battle Value:** 1148 
 - [*More Info*](blackjack/blackjack_bj-2.md) 
 
@@ -122,7 +122,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/378/blackjack-bj2-o) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/378) 
 - **Battle Value:** 1201 
 - [*More Info*](blackjack/blackjack_bj2-o.md) 
 
@@ -141,7 +141,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/379/blackjack-bj2-oa) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/379) 
 - **Battle Value:** 1318 
 - [*More Info*](blackjack/blackjack_bj2-oa.md) 
 
@@ -162,7 +162,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/380/blackjack-bj2-ob) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/380) 
 - **Battle Value:** 1323 
 - [*More Info*](blackjack/blackjack_bj2-ob.md) 
 
@@ -181,7 +181,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/381/blackjack-bj2-oc) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/381) 
 - **Battle Value:** 1189 
 - [*More Info*](blackjack/blackjack_bj2-oc.md) 
 
@@ -202,7 +202,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/382/blackjack-bj2-od) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/382) 
 - **Battle Value:** 1375 
 - [*More Info*](blackjack/blackjack_bj2-od.md) 
 
@@ -222,7 +222,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/383/blackjack-bj2-oe) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/383) 
 - **Battle Value:** 1260 
 - [*More Info*](blackjack/blackjack_bj2-oe.md) 
 
@@ -242,7 +242,7 @@
   - Clan ER Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/385/blackjack-bj2-or) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/385) 
 - **Battle Value:** 2010 
 - [*More Info*](blackjack/blackjack_bj2-or.md) 
 
@@ -262,7 +262,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/384/blackjack-bj2-of) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/384) 
 - **Battle Value:** 1405 
 - [*More Info*](blackjack/blackjack_bj2-of.md) 
 
@@ -283,7 +283,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/389/blackjack-bj-4) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/389) 
 - **Battle Value:** 1063 
 - [*More Info*](blackjack/blackjack_bj-4.md) 
 
@@ -301,7 +301,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/387/blackjack-bj2-ox) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/387) 
 - **Battle Value:** 1320 
 - [*More Info*](blackjack/blackjack_bj2-ox.md) 
 
@@ -322,7 +322,7 @@
   - HarJel × 5 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386/blackjack-bj2-ou) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386) 
 - **Battle Value:** 1223 
 - [*More Info*](blackjack/blackjack_bj2-ou.md) 
 
@@ -340,7 +340,7 @@
   - Light AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7499/blackjack-bj-5) 
+- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7499) 
 - **Battle Value:** 1165 
 - [*More Info*](blackjack/blackjack_bj-5.md) 
 
@@ -358,7 +358,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6914/blackjack-bj-2r) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6914) 
 - **Battle Value:** 1136 
 - [*More Info*](blackjack/blackjack_bj-2r.md) 
 
@@ -376,7 +376,7 @@
   - Small Re-Engineered Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6908/blackjack-bj2-og) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6908) 
 - **Battle Value:** 1448 
 - [*More Info*](blackjack/blackjack_bj2-og.md) 
 
@@ -394,7 +394,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ForcePack Wolfs Dragoons - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8388/blackjack-c) 
+- **Source:** ForcePack Wolfs Dragoons - Early Republic 
 - **Battle Value:** 1639 
 - [*More Info*](blackjack/blackjack_c.md) 
 

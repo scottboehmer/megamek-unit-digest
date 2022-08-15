@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
   - Flamer 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3452/von-luckner-heavy-tank-vnl-k65n) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3452) 
 - **Battle Value:** 1058 
 
 ## Availability 

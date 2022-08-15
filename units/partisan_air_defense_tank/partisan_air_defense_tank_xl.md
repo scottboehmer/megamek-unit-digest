@@ -15,7 +15,7 @@
   - Ultra AC/5 × 2 (ammo: 60) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2441/partisan-air-defense-tank-xl) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2441) 
 - **Battle Value:** 1110 
 
 ## Availability 
@@ -52,4 +52,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

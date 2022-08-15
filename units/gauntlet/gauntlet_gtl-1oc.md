@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Poor Life Support 
   - Rumble Seat 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6624/gauntlet-gtl-1oc) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6624) 
 - **Battle Value:** 2048 
 
 ## Availability 
@@ -36,4 +36,9 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
 

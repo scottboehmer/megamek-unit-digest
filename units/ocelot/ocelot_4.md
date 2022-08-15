@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Modular Weapon (Medium Pulse Laser) 
   - Modular Weapon (Medium Pulse Laser) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6925/ocelot-4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6925) 
 - **Battle Value:** 1468 
 
 ## Availability 
@@ -36,4 +36,10 @@
 
 - Clan Nova Cat 
 - Draconis Combine 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
+- Star League (Smoke Jaguar) 
 

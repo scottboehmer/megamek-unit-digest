@@ -21,7 +21,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050U - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2333/orion-on1-k-kerensky) 
+- **Sources:** TRO 3050U - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2333) 
 - **Battle Value:** 1821 
 
 ## Availability 

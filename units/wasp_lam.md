@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 2 (ammo: 50) 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5389/wasp-lam-wsp-105) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5389) 
 - **Battle Value:** 814 
 - [*More Info*](wasp_lam/wasp_lam_wsp-105.md) 
 
@@ -32,7 +32,7 @@
 - **Weapons:** 
   - Medium Laser 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5390/wasp-lam-wsp-105m) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5390) 
 - **Battle Value:** 907 
 - [*More Info*](wasp_lam/wasp_lam_wsp-105m.md) 
 
@@ -51,7 +51,7 @@
   - Medium VSP Laser 
 - **Equipment:** 
   - Bomb Bay × 5 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5391/wasp-lam-wsp-110) 
+- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5391) 
 - **Battle Value:** 639 
 - [*More Info*](wasp_lam/wasp_lam_wsp-110.md) 
 

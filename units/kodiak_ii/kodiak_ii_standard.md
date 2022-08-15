@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Distracting 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6295/kodiak-ii-standard) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6295) 
 - **Battle Value:** 3066 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

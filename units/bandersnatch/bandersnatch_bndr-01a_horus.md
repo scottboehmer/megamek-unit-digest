@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stable 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3780/bandersnatch-bndr-01a-horus) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3780) 
 - **Battle Value:** 1584 
 
 ## Availability 

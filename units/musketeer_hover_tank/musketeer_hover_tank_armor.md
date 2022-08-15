@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4687/musketeer-hover-tank-armor) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4687) 
 - **Battle Value:** 897 
 
 ## Availability 
@@ -34,6 +34,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

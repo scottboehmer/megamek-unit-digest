@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2294/nobori-nin-huntsman-h) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2294) 
 - **Battle Value:** 2495 
 
 ## Availability 
@@ -59,4 +59,11 @@
 - Clan Sea Fox 
 - Free Worlds League 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Star League (Smoke Jaguar) 
 

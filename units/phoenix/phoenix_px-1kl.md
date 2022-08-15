@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 6 (ammo: 30) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7468/phoenix-px-1kl) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7468) 
 - **Battle Value:** 930 
 
 ## Availability 
@@ -33,6 +33,10 @@
 - Lyran Commonwealth 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+
+### ilClan 
 
 - Lyran Commonwealth 
 

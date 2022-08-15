@@ -18,7 +18,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5024/pariah-septicemia-prime) 
+- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5024) 
 - **Battle Value:** 2511 
 - [*More Info*](septicemia/septicemia_prime.md) 
 
@@ -39,7 +39,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5019/pariah-septicemia-a) 
+- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5019) 
 - **Battle Value:** 1935 
 - [*More Info*](septicemia/septicemia_a.md) 
 
@@ -62,7 +62,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5812/pariah-septicemia-a-z) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5812) 
 - **Battle Value:** 2388 
 - [*More Info*](septicemia/septicemia_a-z.md) 
 
@@ -84,7 +84,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5020/pariah-septicemia-b) 
+- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5020) 
 - **Battle Value:** 2310 
 - [*More Info*](septicemia/septicemia_b.md) 
 
@@ -108,7 +108,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5813/pariah-septicemia-b-z) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5813) 
 - **Battle Value:** 2349 
 - [*More Info*](septicemia/septicemia_b-z.md) 
 
@@ -132,7 +132,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5021/pariah-septicemia-c) 
+- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5021) 
 - **Battle Value:** 2227 
 - [*More Info*](septicemia/septicemia_c.md) 
 
@@ -157,7 +157,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5814/pariah-septicemia-c-z) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5814) 
 - **Battle Value:** 2264 
 - [*More Info*](septicemia/septicemia_c-z.md) 
 
@@ -181,7 +181,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5022/pariah-septicemia-d) 
+- **Sources:** TRO 3075- Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5022) 
 - **Battle Value:** 2718 
 - [*More Info*](septicemia/septicemia_d.md) 
 
@@ -205,7 +205,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5815/pariah-septicemia-d-z) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5815) 
 - **Battle Value:** 2704 
 - [*More Info*](septicemia/septicemia_d-z.md) 
 
@@ -228,7 +228,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5023/pariah-septicemia-e) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5023) 
 - **Battle Value:** 2950 
 - [*More Info*](septicemia/septicemia_e.md) 
 
@@ -248,7 +248,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5816/pariah-septicemia-f) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5816) 
 - **Battle Value:** 1389 
 - [*More Info*](septicemia/septicemia_f.md) 
 
@@ -274,7 +274,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5817/pariah-septicemia-us) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5817) 
 - **Battle Value:** 2298 
 - [*More Info*](septicemia/septicemia_us.md) 
 
@@ -298,7 +298,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5818/pariah-septicemia-uw) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5818) 
 - **Battle Value:** 1913 
 - [*More Info*](septicemia/septicemia_uw.md) 
 
@@ -321,7 +321,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5819/pariah-septicemia-z) 
+- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5819) 
 - **Battle Value:** 2072 
 - [*More Info*](septicemia/septicemia_z.md) 
 

@@ -13,7 +13,7 @@
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/273/battle-cobra-prime) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/273) 
 - **Battle Value:** 1487 
 - [*More Info*](battle_cobra/battle_cobra_prime.md) 
 
@@ -30,7 +30,7 @@
   - Small Pulse Laser × 6 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/261/battle-cobra-a) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/261) 
 - **Battle Value:** 1466 
 - [*More Info*](battle_cobra/battle_cobra_a.md) 
 
@@ -47,7 +47,7 @@
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/262/battle-cobra-b) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/262) 
 - **Battle Value:** 1892 
 - [*More Info*](battle_cobra/battle_cobra_b.md) 
 
@@ -67,7 +67,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/271/battle-cobra-f) 
+- **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/271) 
 - **Battle Value:** 1507 
 - [*More Info*](battle_cobra/battle_cobra_f.md) 
 
@@ -84,7 +84,7 @@
   - Heavy Medium Laser × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/272/battle-cobra-h) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/272) 
 - **Battle Value:** 1592 
 - [*More Info*](battle_cobra/battle_cobra_h.md) 
 
@@ -104,7 +104,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/270/battle-cobra-c) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/270) 
 - **Battle Value:** 1484 
 - [*More Info*](battle_cobra/battle_cobra_c.md) 
 
@@ -122,7 +122,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/263/battle-cobra-btl-c-2o) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/263) 
 - **Battle Value:** 944 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2o.md) 
 
@@ -145,7 +145,7 @@
   - TAG 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/264/battle-cobra-btl-c-2oa) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/264) 
 - **Battle Value:** 1113 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2oa.md) 
 
@@ -163,7 +163,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/265/battle-cobra-btl-c-2ob) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/265) 
 - **Battle Value:** 895 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2ob.md) 
 
@@ -181,7 +181,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/266/battle-cobra-btl-c-2oc) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/266) 
 - **Battle Value:** 726 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2oc.md) 
 
@@ -200,7 +200,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/267/battle-cobra-btl-c-2od) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/267) 
 - **Battle Value:** 1221 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2od.md) 
 
@@ -218,7 +218,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/268/battle-cobra-btl-c-2oe) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/268) 
 - **Battle Value:** 840 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2oe.md) 
 
@@ -236,7 +236,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/269/battle-cobra-btl-c-2of) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/269) 
 - **Battle Value:** 1300 
 - [*More Info*](battle_cobra/battle_cobra_btl-c-2of.md) 
 
@@ -254,7 +254,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/274/battle-cobra-x) 
+- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/274) 
 - **Battle Value:** 1492 
 - [*More Info*](battle_cobra/battle_cobra_x.md) 
 
@@ -272,7 +272,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8390/battle-cobra-g) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8390) 
 - **Battle Value:** 1593 
 - [*More Info*](battle_cobra/battle_cobra_g.md) 
 
@@ -291,13 +291,13 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8389/battle-cobra-t) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8389) 
 - **Battle Value:** 1666 
 - [*More Info*](battle_cobra/battle_cobra_t.md) 
 
 ## Battle Cobra I 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Clan (3147) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 6 / 9 
@@ -309,7 +309,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8391/battle-cobra-i) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8391) 
 - **Battle Value:** 1385 
 - [*More Info*](battle_cobra/battle_cobra_i.md) 
 
@@ -328,7 +328,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8392/battle-cobra-j) 
+- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8392) 
 - **Battle Value:** 1272 
 - [*More Info*](battle_cobra/battle_cobra_j.md) 
 

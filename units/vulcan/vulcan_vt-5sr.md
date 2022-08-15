@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3463/vulcan-vt-5sr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3463) 
 - **Battle Value:** 1210 
 
 ## Availability 
@@ -62,4 +62,14 @@
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Rasalhague Dominion 
+- Tamar Pact 
 

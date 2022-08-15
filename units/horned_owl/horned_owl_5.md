@@ -16,7 +16,7 @@
   - Heavy Medium Laser 
 - **Design Quirks:** 
   - Stabilized Weapon (Heavy Medium Laser) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2476/peregrine-horned-owl-5) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2476) 
 - **Battle Value:** 1523 
 
 ## Availability 
@@ -41,5 +41,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

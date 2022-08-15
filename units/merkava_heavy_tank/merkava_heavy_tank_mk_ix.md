@@ -15,7 +15,7 @@
   - LRM 15 (ammo: 16) 
   - Streak SRM 4 (ammo: 25) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2174/merkava-heavy-tank-mk-ix) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2174) 
 - **Battle Value:** 1038 
 
 ## Availability 
@@ -44,4 +44,11 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

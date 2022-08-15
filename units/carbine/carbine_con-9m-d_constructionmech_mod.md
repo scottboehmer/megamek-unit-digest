@@ -20,13 +20,16 @@
   - Exposed Actuators 
   - Gas Hog 
   - Illegal Design 
-  - No Torso Twist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8098/carbine-con-9m-d-constructionmech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8098) 
 - **Battle Value:** 257 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Pirate 
+
+### ilClan 
 
 - Pirate 
 

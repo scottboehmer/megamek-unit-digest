@@ -18,7 +18,7 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8386/annihilator-anh-5w) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8386) 
 - **Battle Value:** 2595 
 
 ## Availability 
@@ -29,5 +29,13 @@
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Mercenary 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Kell Hounds 
+- Mercenary 
+- Star League (Wolf) 
 - Wolf's Dragoons 
 

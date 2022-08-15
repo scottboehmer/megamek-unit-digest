@@ -18,7 +18,7 @@
   - Clan ER Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/385/blackjack-bj2-or) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/385) 
 - **Battle Value:** 2010 
 
 ## Availability 
@@ -29,11 +29,36 @@
 
 ### Civil War 
 
+- Capellan Confederation 
+- ComStar 
 - Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Second Star League 
+- St. Ives Compact 
+- Wolf's Dragoons 
+- Word of Blake 
 
 ### Jihad 
 
+- Capellan Confederation 
+- ComStar 
 - Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
 ### Early Republic 
 
@@ -43,6 +68,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -57,6 +83,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -72,10 +99,22 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 

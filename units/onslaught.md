@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2321/onslaught-sa-os) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2321) 
 - **Battle Value:** 1562 
 - [*More Info*](onslaught/onslaught_sa-os.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2322/onslaught-sa-os2) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2322) 
 - **Battle Value:** 1693 
 - [*More Info*](onslaught/onslaught_sa-os2.md) 
 
@@ -66,7 +66,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2323/onslaught-sa-os3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2323) 
 - **Battle Value:** 1659 
 - [*More Info*](onslaught/onslaught_sa-os3.md) 
 

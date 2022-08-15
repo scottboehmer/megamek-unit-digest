@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1230/goliath-gol-2h) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1230) 
 - **Battle Value:** 1583 
 
 ## Availability 
@@ -53,6 +53,16 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

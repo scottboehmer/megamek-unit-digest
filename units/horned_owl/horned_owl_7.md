@@ -18,12 +18,16 @@
   - Partial Wing 
   - Targeting Computer 
   - Light TAG 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7749/peregrine-horned-owl-7-shimafukuro) 
+- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7749) 
 - **Battle Value:** 1725 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

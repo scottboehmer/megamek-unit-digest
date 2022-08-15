@@ -18,7 +18,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3338/typhoon-urban-assault-vehicle-tracked) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3338) 
 - **Battle Value:** 1166 
 
 ## Availability 

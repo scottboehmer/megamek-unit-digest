@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC × 3 
   - LRM 10 (ammo: 12) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/445/burke-defense-tank-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/445) 
 - **Battle Value:** 815 
 
 ## Availability 
@@ -98,6 +98,10 @@
 - Republic of the Sphere 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

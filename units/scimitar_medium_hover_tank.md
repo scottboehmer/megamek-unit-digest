@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2831/scimitar-medium-hover-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2831) 
 - **Battle Value:** 532 
 - [*More Info*](scimitar_medium_hover_tank/scimitar_medium_hover_tank_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - LRM 15 (ammo: 16) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2830/scimitar-medium-hover-tank-missile) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2830) 
 - **Battle Value:** 704 
 - [*More Info*](scimitar_medium_hover_tank/scimitar_medium_hover_tank_missile.md) 
 
@@ -43,7 +43,7 @@
   - Narc (ammo: 12) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2832/scimitar-medium-hover-tank-tag) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2832) 
 - **Battle Value:** 582 
 - [*More Info*](scimitar_medium_hover_tank/scimitar_medium_hover_tank_tag.md) 
 
@@ -59,7 +59,7 @@
   - RAC/2 (ammo: 90) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2829/scimitar-medium-hover-tank-c3) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2829) 
 - **Battle Value:** 680 
 - [*More Info*](scimitar_medium_hover_tank/scimitar_medium_hover_tank_c3.md) 
 

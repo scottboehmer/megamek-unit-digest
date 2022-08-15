@@ -16,7 +16,7 @@
   - SRM 6 (ammo: 15) 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5447/hunchback-hbk-6s) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5447) 
 - **Battle Value:** 1380 
 
 ## Availability 
@@ -49,4 +49,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

@@ -19,8 +19,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1691/jenner-jr7-c4) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1691) 
 - **Battle Value:** 703 
 
 ## Availability 
@@ -38,6 +37,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

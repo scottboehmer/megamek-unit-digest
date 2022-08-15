@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2955/skulker-wheeled-scout-tank-c3m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2955) 
 - **Battle Value:** 230 
 
 ## Availability 
@@ -70,4 +70,16 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Vesper Marches 
 

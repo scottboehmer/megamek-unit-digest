@@ -19,8 +19,8 @@
   - CASE 
   - Targeting Computer 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3331/turkina-h) 
+  - Easy to Pilot 
+- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3331) 
 - **Battle Value:** 2712 
 
 ## Availability 
@@ -71,4 +71,15 @@
 - Clan Nova Cat 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

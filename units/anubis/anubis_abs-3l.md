@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3702/anubis-abs-3l) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3702) 
 - **Battle Value:** 951 
 
 ## Availability 
@@ -57,6 +57,13 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### ilClan 
+
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 

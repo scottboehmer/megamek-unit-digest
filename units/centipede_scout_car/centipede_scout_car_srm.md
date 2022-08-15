@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 2 × 6 (ammo: 50) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/513/centipede-scout-car-srm) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/513) 
 - **Battle Value:** 431 
 
 ## Availability 
@@ -49,5 +49,14 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 - Wolf's Dragoons 
 

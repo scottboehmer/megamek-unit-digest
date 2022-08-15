@@ -11,7 +11,7 @@
 - **Weapons:** 
   - LRM 20 (ammo: 12) 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1579/hunter-light-support-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1579) 
 - **Battle Value:** 648 
 - [*More Info*](hunter_light_support_tank/hunter_light_support_tank_standard.md) 
 
@@ -28,7 +28,7 @@
   - Medium Laser × 2 
   - Flamer 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1577/hunter-light-support-tank-lrm10) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1577) 
 - **Battle Value:** 645 
 - [*More Info*](hunter_light_support_tank/hunter_light_support_tank_lrm10.md) 
 
@@ -44,7 +44,7 @@
   - LRM 15 (ammo: 16) 
   - Flamer 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1578/hunter-light-support-tank-lrm15) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1578) 
 - **Battle Value:** 599 
 - [*More Info*](hunter_light_support_tank/hunter_light_support_tank_lrm15.md) 
 
@@ -58,7 +58,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LRM 20 (ammo: 18) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1574/hunter-light-support-tank-ammo) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1574) 
 - **Battle Value:** 675 
 - [*More Info*](hunter_light_support_tank/hunter_light_support_tank_ammo.md) 
 
@@ -72,7 +72,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 2 (ammo: 16) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1573/hunter-light-support-tank-3054-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1573) 
 - **Battle Value:** 641 
 - [*More Info*](hunter_light_support_tank/hunter_light_support_tank_3054_upgrade.md) 
 
@@ -87,7 +87,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV (ammo: 24) 
   - ER Large Laser 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1575/hunter-light-support-tank-erll) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1575) 
 - **Battle Value:** 660 
 - [*More Info*](hunter_light_support_tank/hunter_light_support_tank_erll.md) 
 
@@ -102,7 +102,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV (ammo: 24) 
   - Large Pulse Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1576/hunter-light-support-tank-lpl) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1576) 
 - **Battle Value:** 610 
 - [*More Info*](hunter_light_support_tank/hunter_light_support_tank_lpl.md) 
 
@@ -116,7 +116,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 15) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1572/hunter-light-support-tank-assault-hunter) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1572) 
 - **Battle Value:** 670 
 - [*More Info*](hunter_light_support_tank/hunter_light_support_tank_assault_hunter.md) 
 
@@ -134,7 +134,7 @@
 - **Equipment:** 
   - Mine Dispenser × 2 
   - Fully Amphibious Chassis 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4341/hunter-light-support-tank-amphibious) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4341) 
 - **Battle Value:** 572 
 - [*More Info*](hunter_light_support_tank/hunter_light_support_tank_amphibious.md) 
 

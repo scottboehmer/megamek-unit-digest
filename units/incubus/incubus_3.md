@@ -16,7 +16,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3443/vixen-incubus-3) 
+- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3443) 
 - **Battle Value:** 1324 
 
 ## Availability 
@@ -102,4 +102,13 @@
 - Clan Hell's Horses 
 - Clan Sea Fox 
 - Mercenary 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Mercenary 
+- Wolf's Dragoons 
 

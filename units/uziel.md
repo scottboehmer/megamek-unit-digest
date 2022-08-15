@@ -19,7 +19,7 @@
   - Cowl 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5331/uziel-uzl-2s) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5331) 
 - **Battle Value:** 1352 
 - [*More Info*](uziel/uziel_uzl-2s.md) 
 
@@ -42,7 +42,7 @@
   - Cowl 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5332/uziel-uzl-3s) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5332) 
 - **Battle Value:** 1189 
 - [*More Info*](uziel/uziel_uzl-3s.md) 
 
@@ -63,7 +63,7 @@
   - Cowl 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3367/uziel-uzl-2s-jacob) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3367) 
 - **Battle Value:** 1513 
 - [*More Info*](uziel/uziel_uzl-2s_jacob.md) 
 
@@ -87,7 +87,7 @@
   - Cowl 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3366/uziel-uzl-2s-jacob-ii) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3366) 
 - **Battle Value:** 1271 
 - [*More Info*](uziel/uziel_uzl-2s_jacob_ii.md) 
 
@@ -109,7 +109,7 @@
   - Cowl 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5679/uziel-uzl-8s) 
+- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5679) 
 - **Battle Value:** 1393 
 - [*More Info*](uziel/uziel_uzl-8s.md) 
 

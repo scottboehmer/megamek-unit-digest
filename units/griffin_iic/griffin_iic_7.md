@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1316/griffin-iic-7) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1316) 
 - **Battle Value:** 1952 
 
 ## Availability 
@@ -38,4 +38,11 @@
 
 - Clan Nova Cat 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Star League (Smoke Jaguar) 
 

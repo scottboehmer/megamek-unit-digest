@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Arrow IV (ammo: 15) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2675/regulator-hovertank-arrow-iv) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2675) 
 - **Battle Value:** 1016 
 
 ## Availability 
@@ -38,6 +38,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

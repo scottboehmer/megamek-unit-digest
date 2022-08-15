@@ -15,7 +15,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1946/longshot-lng-1b) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1946) 
 - **Battle Value:** 899 
 - [*More Info*](longshot/longshot_lng-1b.md) 
 
@@ -33,7 +33,7 @@
   - Small X-Pulse Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1947/longshot-lng-2) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1947) 
 - **Battle Value:** 1215 
 - [*More Info*](longshot/longshot_lng-2.md) 
 
@@ -52,7 +52,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1948/longshot-lng-3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1948) 
 - **Battle Value:** 955 
 - [*More Info*](longshot/longshot_lng-3.md) 
 
@@ -71,7 +71,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1949/longshot-lng-3c) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1949) 
 - **Battle Value:** 971 
 - [*More Info*](longshot/longshot_lng-3c.md) 
 
@@ -89,7 +89,29 @@
   - Small X-Pulse Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1950/longshot-lng-4) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1950) 
 - **Battle Value:** 1086 
 - [*More Info*](longshot/longshot_lng-4.md) 
+
+## Longshot LNG-2 (Reskov) 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere Mixed (3084) 
+- **Chassis:** 35 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 6 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Clan Streak SRM 6 × 2 (ammo: 30) 
+  - Clan ER Medium Laser × 2 
+  - Clan ER Small Laser 
+  - Small Laser 
+- **Equipment:** 
+  - Clan Targeting Computer 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9243) 
+- **Battle Value:** 1787 
+- [*More Info*](longshot/longshot_lng-2_reskov.md) 
 

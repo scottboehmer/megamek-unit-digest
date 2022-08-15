@@ -21,7 +21,7 @@
   - Improved Targeting (Long) 
   - Barrel Fists 
   - Vestigial Hands 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/526/cerberus-mr-5m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/526) 
 - **Battle Value:** 2057 
 
 ## Availability 
@@ -81,4 +81,9 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
+- Magistracy of Canopus 
 

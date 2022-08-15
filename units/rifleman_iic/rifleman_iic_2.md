@@ -19,7 +19,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2711/rifleman-iic-2) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2711) 
 - **Battle Value:** 1345 
 
 ## Availability 
@@ -83,7 +83,6 @@
 
 ### Jihad 
 
-- Capellan Confederation 
 - Clan Blood Spirit 
 - Clan Burrock 
 - Clan Cloud Cobra 
@@ -102,17 +101,7 @@
 - Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
-- ComStar 
-- Draconis Combine 
-- Federated Suns 
-- Free Rasalhague Republic 
-- Free Worlds League 
-- Kell Hounds 
-- Lyran Alliance 
-- Mercenary 
 - Society 
-- Solaris 7 
-- Word of Blake 
 
 ### Early Republic 
 
@@ -127,5 +116,10 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Protectorate 
 - Raven Alliance 
 

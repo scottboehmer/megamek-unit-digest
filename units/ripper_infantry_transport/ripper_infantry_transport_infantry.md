@@ -14,7 +14,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2720/ripper-infantry-transport-infantry) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2720) 
 - **Battle Value:** 108 
 
 ## Availability 
@@ -40,4 +40,11 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

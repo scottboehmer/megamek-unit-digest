@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 10) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2781/saladin-assault-hover-tank-ultra) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2781) 
 - **Battle Value:** 806 
 
 ## Availability 
@@ -62,6 +62,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/579/chevalier-light-tank-bap) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/579) 
 - **Battle Value:** 583 
 
 ## Availability 
@@ -55,4 +55,9 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

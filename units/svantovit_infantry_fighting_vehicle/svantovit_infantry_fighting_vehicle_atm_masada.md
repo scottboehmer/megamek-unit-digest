@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3137/svantovit-infantry-fighting-vehicle-atm-masada) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3137) 
 - **Battle Value:** 988 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

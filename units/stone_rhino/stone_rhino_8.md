@@ -23,7 +23,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449) 
 - **Battle Value:** 2804 
 
 ## Availability 
@@ -33,6 +33,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

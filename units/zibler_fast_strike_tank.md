@@ -12,7 +12,7 @@
   - Light AC/2 × 4 (ammo: 90) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6322/zibler-fast-strike-tank-a) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6322) 
 - **Battle Value:** 664 
 - [*More Info*](zibler_fast_strike_tank/zibler_fast_strike_tank_a.md) 
 
@@ -31,7 +31,7 @@
 - **Equipment:** 
   - CASE 
   - Machine Gun Array 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6323/zibler-fast-strike-tank-b) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6323) 
 - **Battle Value:** 1047 
 - [*More Info*](zibler_fast_strike_tank/zibler_fast_strike_tank_b.md) 
 
@@ -49,7 +49,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6324/zibler-fast-strike-tank-c) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6324) 
 - **Battle Value:** 1017 
 - [*More Info*](zibler_fast_strike_tank/zibler_fast_strike_tank_c.md) 
 
@@ -66,7 +66,7 @@
 - **Equipment:** 
   - C3 Boosted Support 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6325/zibler-fast-strike-tank-d) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6325) 
 - **Battle Value:** 1021 
 - [*More Info*](zibler_fast_strike_tank/zibler_fast_strike_tank_d.md) 
 
@@ -85,7 +85,7 @@
   - CASE 
   - C3 Support 
   - Targeting Computer 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6321/zibler-fast-strike-tank-prime) 
+- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6321) 
 - **Battle Value:** 1118 
 - [*More Info*](zibler_fast_strike_tank/zibler_fast_strike_tank_prime.md) 
 

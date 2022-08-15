@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/2 × 2 (ammo: 90) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/679/condor-heavy-hover-tank-davion) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/679) 
 - **Battle Value:** 577 
 
 ## Availability 
@@ -52,6 +52,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

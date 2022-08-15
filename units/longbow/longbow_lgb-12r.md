@@ -22,7 +22,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1932/longbow-lgb-12r) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1932) 
 - **Battle Value:** 1979 
 
 ## Availability 
@@ -51,4 +51,13 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League (Wolf) 
+- Vesper Marches 
 

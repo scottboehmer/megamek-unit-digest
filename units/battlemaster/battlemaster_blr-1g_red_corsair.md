@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO:Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/284/battlemaster-blr-1g-red-corsair) 
+- **Sources:** TRO:Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/284) 
 - **Battle Value:** 2745 
 
 ## Availability 

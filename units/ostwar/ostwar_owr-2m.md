@@ -17,7 +17,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4769/ostwar-owr-2m) 
+- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4769) 
 - **Battle Value:** 1205 
 
 ## Availability 

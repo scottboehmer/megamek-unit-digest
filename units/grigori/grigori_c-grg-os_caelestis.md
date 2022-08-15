@@ -23,7 +23,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1326/grigori-c-grg-os-caelestis) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1326) 
 - **Battle Value:** 1378 
 
 ## Availability 

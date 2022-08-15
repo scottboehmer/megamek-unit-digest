@@ -16,9 +16,8 @@
   - Medium Laser × 6 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1707/jinggau-jn-g7l) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1707) 
 - **Battle Value:** 2137 
 
 ## Availability 
@@ -36,6 +35,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

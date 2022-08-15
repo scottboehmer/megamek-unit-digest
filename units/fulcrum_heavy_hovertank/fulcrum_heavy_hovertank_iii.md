@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - C3 Support 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1156/fulcrum-heavy-hovertank-iii) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1156) 
 - **Battle Value:** 1185 
 
 ## Availability 
@@ -55,4 +55,14 @@
 - Mercenary 
 - Republic of the Sphere 
 - Taurian Concordat 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

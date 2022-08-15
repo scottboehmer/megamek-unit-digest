@@ -20,7 +20,7 @@
   - Command ’Mech 
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2209/mongoose-mon-66b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2209) 
 - **Battle Value:** 934 
 
 ## Availability 
@@ -170,5 +170,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

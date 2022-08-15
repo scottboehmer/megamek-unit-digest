@@ -18,14 +18,14 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6402/wendigo-prime) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6402) 
 - **Battle Value:** 2122 
 - [*More Info*](wendigo/wendigo_prime.md) 
 
 ## Wendigo A 
 
 - **Role:** Sniper 
-- **Tech Base:** Clan (3135) 
+- **Tech Base:** Clan (3150) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
 - **Armor:** 152 (Laser Reflective) 
@@ -38,14 +38,14 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6404/wendigo-a) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6404) 
 - **Battle Value:** 2072 
 - [*More Info*](wendigo/wendigo_a.md) 
 
 ## Wendigo B 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3135) 
+- **Tech Base:** Clan (3150) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
   - **Jumping:** 8 
@@ -59,14 +59,14 @@
   - ECM Suite 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6405/wendigo-b) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6405) 
 - **Battle Value:** 2369 
 - [*More Info*](wendigo/wendigo_b.md) 
 
 ## Wendigo C 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3135) 
+- **Tech Base:** Clan Mixed (3150) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9 (12), XL 
 - **Armor:** 152 (Laser Reflective) 
@@ -79,10 +79,10 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-  - Supercharger 
+  - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6406/wendigo-c) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6406) 
 - **Battle Value:** 2628 
 - [*More Info*](wendigo/wendigo_c.md) 
 

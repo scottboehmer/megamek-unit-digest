@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2268/night-gyr-f) 
+- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2268) 
 - **Battle Value:** 2958 
 
 ## Availability 
@@ -50,4 +50,13 @@
 - Clan Jade Falcon 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Sea Fox 
+- Mercenary 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
 

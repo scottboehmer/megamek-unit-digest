@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Rumble Seat 
   - Difficult Ejection 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6305/tomahawk-ii-b) 
+- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6305) 
 - **Battle Value:** 3513 
 
 ## Availability 
@@ -41,4 +41,11 @@
 
 - Clan Hell's Horses 
 - Clan Wolf 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

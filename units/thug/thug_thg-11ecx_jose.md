@@ -18,10 +18,10 @@
   - Command Console 
   - Null-Signature System 
 - **Design Quirks:** 
-  - No Torso Twist 
+  - Rugged (×2) 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7322/thug-thg-11ecx-jose) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7322) 
 - **Battle Value:** 1720 
 
 ## Availability 

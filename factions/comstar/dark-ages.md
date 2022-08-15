@@ -4,42 +4,46 @@
 
 ### 0.40 Tons 
 
-#### [Hurricane PA (L)](../../units/hurricane_pa_l.md) 
+#### [Tornado PA(L)](../../units/tornado_pal.md) 
 
-- [**Hurricane PA (L) P17**](../../units/hurricane_pa_l/hurricane_pa_l_p17.md) *Ambusher (3067)* `Stealth` 
+- [**Tornado PA(L) P17 'Hurricane'(Sqd6)**](../../units/tornado_pal/tornado_pal_p17_hurricanesqd6.md) *Ambusher (3067)* `Stealth` 
 
 ### 0.75 Tons 
 
 #### [Kobold Battle Armor](../../units/kobold_battle_armor.md) 
 
-- [**Kobold Battle Armor X-C3**](../../units/kobold_battle_armor/kobold_battle_armor_x-c3.md) *Ambusher (3076)* `C3i` , `Stealth` 
+- [**Kobold Battle Armor X-C3(Sqd6)**](../../units/kobold_battle_armor/kobold_battle_armor_x-c3sqd6.md) *Undefined (3076)* `C3i` , `Stealth` 
+
+#### [Kobold Battle Armor IIC](../../units/kobold_battle_armor_iic.md) 
+
+- [**Kobold Battle Armor IIC (Sqd6)**](../../units/kobold_battle_armor_iic/kobold_battle_armor_iic_sqd6.md) *Ambusher (3094)* `ECM` , `Stealth` , `TAG` 
 
 ### 1 Tons 
 
 #### [Infiltrator Mk. II Battle Armor](../../units/infiltrator_mk._ii_battle_armor.md) 
 
-- [**Infiltrator Mk. II Battle Armor (Magnetic)**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_magnetic.md) *Ambusher (3071)* `ECM` , `Stealth` 
+- [**Infiltrator Mk. II Battle Armor (Magnetic)(Sqd6)**](../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_magneticsqd6.md) *Ambusher (3071)* `ECM` , `Stealth` 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
-- [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor [Laser]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[laser].md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
+- [**IS Standard Battle Armor (Flamer)(Sqd6)**](../../units/is_standard_battle_armor/is_standard_battle_armor_flamersqd6.md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor (Laser)(Sqd6)**](../../units/is_standard_battle_armor/is_standard_battle_armor_lasersqd6.md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor (MG)(Sqd6)**](../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd6.md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor (SRM)(Sqd6)**](../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd6.md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor (LRR)(Sqd6)**](../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd6.md) *Ambusher (3061)* 
 
 #### [Purifier Adaptive Battle Armor](../../units/purifier_adaptive_battle_armor.md) 
 
-- [**Purifier Adaptive Battle Armor [Laser]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[laser].md) *Ambusher (3062)* `Stealth` 
-- [**Purifier Adaptive Battle Armor [Narc]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[narc].md) *Ambusher (3062)* `Stealth` 
-- [**Purifier Adaptive Battle Armor [TAG]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[tag].md) *Ambusher (3062)* `Stealth` , `TAG` 
-- [**Purifier Adaptive Battle Armor [PPC]**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_[ppc].md) *Ambusher (3069)* `Stealth` 
+- [**Purifier Adaptive Battle Armor (Laser)(Sqd6)**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_lasersqd6.md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor (Narc)(Sqd6)**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_narcsqd6.md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor (TAG)(Sqd6)**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_tagsqd6.md) *Ambusher (3062)* `Stealth` , `TAG` 
+- [**Purifier Adaptive Battle Armor (PPC)(Sqd6)**](../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_ppcsqd6.md) *Ambusher (3069)* `Stealth` 
 
 ### 1.50 Tons 
 
 #### [Gray Death Heavy Suit](../../units/gray_death_heavy_suit.md) 
 
-- [**Gray Death Heavy Suit (Standard)**](../../units/gray_death_heavy_suit/gray_death_heavy_suit_standard.md) *Scout (3083)* `Active Probe` 
+- [**Gray Death Heavy Suit (Standard)(Sqd6)**](../../units/gray_death_heavy_suit/gray_death_heavy_suit_standardsqd6.md) *Scout (3083)* `Active Probe` 
 
 ## Combat Vehicles 
 
@@ -184,11 +188,7 @@
 
 #### [Kheper](../../units/kheper.md) 
 
-- [**Kheper KPH-7R**](../../units/kheper/kheper_kph-7r.md) *Brawler (3135)* 
-
-#### [Lineholder](../../units/lineholder.md) 
-
-- [**Lineholder KW1-LH2**](../../units/lineholder/lineholder_kw1-lh2.md) *Skirmisher (3058)* 
+- [**Kheper KHP-7R**](../../units/kheper/kheper_khp-7r.md) *Brawler (3135)* 
 
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
@@ -307,7 +307,7 @@
 - [**Templar TLR1-OU**](../../units/templar/templar_tlr1-ou.md) *Brawler (3078)* `C3 Support` 
 - [**Templar TLR1-OH**](../../units/templar/templar_tlr1-oh.md) *Brawler (3080)* `C3 Support` 
 - [**Templar TLR1-OI**](../../units/templar/templar_tlr1-oi.md) *Brawler (3080)* `C3 Support` 
-- [**Templar TLR1-OBLO**](../../units/templar/templar_tlr1-oblo.md) *Undefined (3100)* `C3i` , `ECM` , `Unique` 
+- [**Templar TLR1-OBLO**](../../units/templar/templar_tlr1-oblo.md) *Brawler (3100)* `C3i` , `ECM` , `Unique` 
 - [**Templar TLR1-OR**](../../units/templar/templar_tlr1-or.md) *Sniper (3134)* 
 
 ### 90 Tons 

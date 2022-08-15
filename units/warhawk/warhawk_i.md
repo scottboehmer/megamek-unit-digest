@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #20 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8339/masakari-warhawk-i) 
+- **Sources:** Rec Guide:ilClan #20 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8339) 
 - **Battle Value:** 3026 
 
 ## Availability 
@@ -125,5 +125,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

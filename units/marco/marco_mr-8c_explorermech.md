@@ -19,7 +19,7 @@
   - Salvage Arm 
   - Cargo 
   - Searchlight 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4596/marco-mr-8c-explorermech) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4596) 
 - **Battle Value:** 304 
 
 ## Availability 

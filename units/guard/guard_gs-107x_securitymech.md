@@ -14,7 +14,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7823/guard-gs-107x-securitymech) 
+- **Sources:** TRO:IrTech , [Master Unit List](http://masterunitlist.info/Unit/Details/7823) 
 - **Battle Value:** 367 
 
 ## Availability 
@@ -105,4 +105,22 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

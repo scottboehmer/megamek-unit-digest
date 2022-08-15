@@ -13,8 +13,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4331/hoplite-hop-4c) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4331) 
 - **Battle Value:** 986 
 - [*More Info*](hoplite/hoplite_hop-4c.md) 
 
@@ -31,8 +30,7 @@
   - LRM 15 (ammo: 16) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4330/hoplite-hop-4b) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4330) 
 - **Battle Value:** 1162 
 - [*More Info*](hoplite/hoplite_hop-4b.md) 
 
@@ -53,8 +51,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1541/hoplite-hop-4bb) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1541) 
 - **Battle Value:** 1413 
 - [*More Info*](hoplite/hoplite_hop-4bb.md) 
 
@@ -73,8 +70,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1542/hoplite-hop-4cb) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1542) 
 - **Battle Value:** 1377 
 - [*More Info*](hoplite/hoplite_hop-4cb.md) 
 
@@ -91,8 +87,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1543/hoplite-hop-4d) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1543) 
 - **Battle Value:** 1022 
 - [*More Info*](hoplite/hoplite_hop-4d.md) 
 
@@ -113,8 +108,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1540/hoplite-c) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1540) 
 - **Battle Value:** 1736 
 - [*More Info*](hoplite/hoplite_c.md) 
 
@@ -134,8 +128,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1544/hoplite-hop-4x) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1544) 
 - **Battle Value:** 1880 
 - [*More Info*](hoplite/hoplite_hop-4x.md) 
 

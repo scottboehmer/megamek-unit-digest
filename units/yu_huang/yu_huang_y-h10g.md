@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Good Reputation 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3624/yu-huang-y-h10g) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3624) 
 - **Battle Value:** 2433 
 
 ## Availability 
@@ -55,6 +55,12 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+- Taurian Concordat 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

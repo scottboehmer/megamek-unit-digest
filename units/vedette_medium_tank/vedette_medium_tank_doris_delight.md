@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
   - ER Medium Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3387/vedette-medium-tank-doris-delight) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3387) 
 - **Battle Value:** 1219 
 
 ## Availability 

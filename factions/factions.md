@@ -1,11 +1,16 @@
 # Factions 
 
+## Alyina Mercantile League 
+
+- [ilClan](alyina-mercantile-league/ilclan.md) 
+
 ## Calderon Protectorate 
 
 - [Jihad](calderon-protectorate/jihad.md) 
 - [Early Republic](calderon-protectorate/early-republic.md) 
 - [Late Republic](calderon-protectorate/late-republic.md) 
 - [Dark Ages](calderon-protectorate/dark-ages.md) 
+- [ilClan](calderon-protectorate/ilclan.md) 
 
 ## Capellan Confederation 
 
@@ -19,6 +24,7 @@
 - [Early Republic](capellan-confederation/early-republic.md) 
 - [Late Republic](capellan-confederation/late-republic.md) 
 - [Dark Ages](capellan-confederation/dark-ages.md) 
+- [ilClan](capellan-confederation/ilclan.md) 
 
 ## Circinus Federation 
 
@@ -112,6 +118,7 @@
 - [Early Republic](clan-hells-horses/early-republic.md) 
 - [Late Republic](clan-hells-horses/late-republic.md) 
 - [Dark Ages](clan-hells-horses/dark-ages.md) 
+- [ilClan](clan-hells-horses/ilclan.md) 
 
 ## Clan Ice Hellion 
 
@@ -133,6 +140,7 @@
 - [Early Republic](clan-jade-falcon/early-republic.md) 
 - [Late Republic](clan-jade-falcon/late-republic.md) 
 - [Dark Ages](clan-jade-falcon/dark-ages.md) 
+- [ilClan](clan-jade-falcon/ilclan.md) 
 
 ## Clan Mongoose 
 
@@ -149,6 +157,11 @@
 - [Early Republic](clan-nova-cat/early-republic.md) 
 - [Late Republic](clan-nova-cat/late-republic.md) 
 - [Dark Ages](clan-nova-cat/dark-ages.md) 
+- [ilClan](clan-nova-cat/ilclan.md) 
+
+## Clan Protectorate 
+
+- [ilClan](clan-protectorate/ilclan.md) 
 
 ## Clan Sea Fox 
 
@@ -212,6 +225,7 @@
 - [Early Republic](clan-wolf/early-republic.md) 
 - [Late Republic](clan-wolf/late-republic.md) 
 - [Dark Ages](clan-wolf/dark-ages.md) 
+- [ilClan](clan-wolf/ilclan.md) 
 
 ## Clan Wolf-in-Exile 
 
@@ -221,6 +235,7 @@
 - [Early Republic](clan-wolf-in-exile/early-republic.md) 
 - [Late Republic](clan-wolf-in-exile/late-republic.md) 
 - [Dark Ages](clan-wolf-in-exile/dark-ages.md) 
+- [ilClan](clan-wolf-in-exile/ilclan.md) 
 
 ## Clan Wolverine 
 
@@ -249,12 +264,14 @@
 - [Early Republic](draconis-combine/early-republic.md) 
 - [Late Republic](draconis-combine/late-republic.md) 
 - [Dark Ages](draconis-combine/dark-ages.md) 
+- [ilClan](draconis-combine/ilclan.md) 
 
 ## Duchy of Andurien 
 
 - [Early Republic](duchy-of-andurien/early-republic.md) 
 - [Late Republic](duchy-of-andurien/late-republic.md) 
 - [Dark Ages](duchy-of-andurien/dark-ages.md) 
+- [ilClan](duchy-of-andurien/ilclan.md) 
 
 ## Duchy of Tamarind-Abbey 
 
@@ -295,6 +312,7 @@
 - [Early Republic](filtvelt-coalition/early-republic.md) 
 - [Late Republic](filtvelt-coalition/late-republic.md) 
 - [Dark Ages](filtvelt-coalition/dark-ages.md) 
+- [ilClan](filtvelt-coalition/ilclan.md) 
 
 ## Free Rasalhague Republic 
 
@@ -328,6 +346,7 @@
 - [Early Republic](fronc-reaches/early-republic.md) 
 - [Late Republic](fronc-reaches/late-republic.md) 
 - [Dark Ages](fronc-reaches/dark-ages.md) 
+- [ilClan](fronc-reaches/ilclan.md) 
 
 ## Kell Hounds 
 
@@ -372,6 +391,7 @@
 - [Early Republic](magistracy-of-canopus/early-republic.md) 
 - [Late Republic](magistracy-of-canopus/late-republic.md) 
 - [Dark Ages](magistracy-of-canopus/dark-ages.md) 
+- [ilClan](magistracy-of-canopus/ilclan.md) 
 
 ## Marian Hegemony 
 
@@ -383,6 +403,7 @@
 - [Early Republic](marian-hegemony/early-republic.md) 
 - [Late Republic](marian-hegemony/late-republic.md) 
 - [Dark Ages](marian-hegemony/dark-ages.md) 
+- [ilClan](marian-hegemony/ilclan.md) 
 
 ## Marik-Stewart Commonwealth 
 
@@ -403,6 +424,7 @@
 - [Early Republic](mercenary/early-republic.md) 
 - [Late Republic](mercenary/late-republic.md) 
 - [Dark Ages](mercenary/dark-ages.md) 
+- [ilClan](mercenary/ilclan.md) 
 
 ## Oriente Protectorate 
 
@@ -434,12 +456,14 @@
 - [Early Republic](pirate/early-republic.md) 
 - [Late Republic](pirate/late-republic.md) 
 - [Dark Ages](pirate/dark-ages.md) 
+- [ilClan](pirate/ilclan.md) 
 
 ## Rasalhague Dominion 
 
 - [Early Republic](rasalhague-dominion/early-republic.md) 
 - [Late Republic](rasalhague-dominion/late-republic.md) 
 - [Dark Ages](rasalhague-dominion/dark-ages.md) 
+- [ilClan](rasalhague-dominion/ilclan.md) 
 
 ## Raven Alliance 
 
@@ -478,6 +502,7 @@
 ## Scorpion Empire 
 
 - [Dark Ages](scorpion-empire/dark-ages.md) 
+- [ilClan](scorpion-empire/ilclan.md) 
 
 ## Second Star League 
 
@@ -499,6 +524,7 @@
 - [Early Republic](solaris-7/early-republic.md) 
 - [Late Republic](solaris-7/late-republic.md) 
 - [Dark Ages](solaris-7/dark-ages.md) 
+- [ilClan](solaris-7/ilclan.md) 
 
 ## St. Ives Compact 
 
@@ -510,6 +536,18 @@
 
 - [Star League](star-league/star-league.md) 
 
+## Star League (Jade Falcon) 
+
+- [ilClan](star-league-jade-falcon/ilclan.md) 
+
+## Star League (Smoke Jaguar) 
+
+- [ilClan](star-league-smoke-jaguar/ilclan.md) 
+
+## Star League (Wolf) 
+
+- [ilClan](star-league-wolf/ilclan.md) 
+
 ## Star League - Royal Divisions 
 
 - [Star League](star-league-royal-divisions/star-league.md) 
@@ -517,6 +555,10 @@
 ## Star League-in-Exile 
 
 - [Early Succession Wars](star-league-in-exile/early-succession-wars.md) 
+
+## Tamar Pact 
+
+- [ilClan](tamar-pact/ilclan.md) 
 
 ## Taurian Concordat 
 
@@ -530,10 +572,19 @@
 - [Early Republic](taurian-concordat/early-republic.md) 
 - [Late Republic](taurian-concordat/late-republic.md) 
 - [Dark Ages](taurian-concordat/dark-ages.md) 
+- [ilClan](taurian-concordat/ilclan.md) 
 
 ## Terran Hegemony 
 
 - [Star League](terran-hegemony/star-league.md) 
+
+## Vesper Marches 
+
+- [ilClan](vesper-marches/ilclan.md) 
+
+## Wolf Empire 
+
+- [ilClan](wolf-empire/ilclan.md) 
 
 ## Wolf's Dragoons 
 
@@ -545,6 +596,7 @@
 - [Early Republic](wolfs-dragoons/early-republic.md) 
 - [Late Republic](wolfs-dragoons/late-republic.md) 
 - [Dark Ages](wolfs-dragoons/dark-ages.md) 
+- [ilClan](wolfs-dragoons/ilclan.md) 
 
 ## Word of Blake 
 

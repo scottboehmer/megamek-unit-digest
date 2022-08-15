@@ -18,8 +18,9 @@
   - Beagle Active Probe 
   - MASC 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Hist:Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1488/hermes-her-1sb) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** Hist:Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1488) 
 - **Battle Value:** 1112 
 
 ## Availability 

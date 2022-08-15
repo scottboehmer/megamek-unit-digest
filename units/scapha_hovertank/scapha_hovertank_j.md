@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6668/scapha-hovertank-j) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6668) 
 - **Battle Value:** 900 
 
 ## Availability 
@@ -27,4 +27,10 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

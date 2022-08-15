@@ -17,7 +17,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6906/ghost-gst-90) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6906) 
 - **Battle Value:** 1012 
 
 ## Availability 
@@ -26,4 +26,9 @@
 
 - Mercenary 
 - Pirate 
+
+### ilClan 
+
+- Clan Protectorate 
+- Mercenary 
 

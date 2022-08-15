@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Era Digest: Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4283/hector-hor-1b) 
+- **Sources:** Era Digest: Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4283) 
 - **Battle Value:** 949 
 
 ## Availability 

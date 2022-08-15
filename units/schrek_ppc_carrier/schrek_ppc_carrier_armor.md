@@ -12,7 +12,7 @@
 - **Heat Sinks:** 30 (30) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2825/schrek-ppc-carrier-armor) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2825) 
 - **Battle Value:** 1005 
 
 ## Availability 
@@ -86,4 +86,22 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

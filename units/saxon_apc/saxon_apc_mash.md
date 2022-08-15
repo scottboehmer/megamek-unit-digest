@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - MASH (1 theaters) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2810/saxon-apc-mash) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2810) 
 - **Battle Value:** 436 
 
 ## Availability 
@@ -40,4 +40,11 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/935/duan-gung-d9-g9) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/935) 
 - **Battle Value:** 737 
 
 ## Availability 
@@ -60,6 +60,15 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

@@ -23,24 +23,12 @@
   - Non-Standard Parts 
   - Prototype 
   - Stabilized Weapon (Large Pulse Laser) 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/251/banzai-bnz-x) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/251) 
 - **Battle Value:** 2647 
 
 ## Availability 
 
 ### Jihad (Unique) 
-
-- Draconis Combine 
-
-### Early Republic 
-
-- Draconis Combine 
-
-### Late Republic 
-
-- Draconis Combine 
-
-### Dark Ages 
 
 - Draconis Combine 
 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2805/savannah-master-hovercraft-interdictor) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2805) 
 - **Battle Value:** 128 
 
 ## Availability 
@@ -44,4 +44,13 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

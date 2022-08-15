@@ -22,7 +22,7 @@
   - Stabilized Weapon (ATM 12) 
   - Stabilized Weapon (Heavy Medium Laser) 
   - Stabilized Weapon (Heavy Medium Laser) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2006/man-o-war-gargoyle-e) 
+- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2006) 
 - **Battle Value:** 2257 
 
 ## Availability 
@@ -136,4 +136,10 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Star League (Wolf) 
 

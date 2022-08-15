@@ -22,7 +22,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6922/cuirass-cdr-2bc3) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6922) 
 - **Battle Value:** 990 
 
 ## Availability 
@@ -32,6 +32,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

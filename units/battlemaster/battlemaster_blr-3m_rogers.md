@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** OTP:Falcon Incursion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3805/battlemaster-blr-3m-rogers) 
+- **Sources:** OTP:Falcon Incursion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3805) 
 - **Battle Value:** 1819 
 
 ## Availability 

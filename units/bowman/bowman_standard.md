@@ -22,7 +22,7 @@
   - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
-- **Sources:** RS 3068 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/3857/bowman-standard) 
+- **Sources:** RS 3068 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/3857) 
 - **Battle Value:** 2209 
 
 ## Availability 
@@ -72,5 +72,10 @@
 
 - Clan Hell's Horses 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
 - Scorpion Empire 
 

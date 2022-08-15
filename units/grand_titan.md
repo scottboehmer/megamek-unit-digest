@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1265/grand-titan-t-it-n10m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1265) 
 - **Battle Value:** 1817 
 - [*More Info*](grand_titan/grand_titan_t-it-n10m.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1266/grand-titan-t-it-n11m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1266) 
 - **Battle Value:** 2053 
 - [*More Info*](grand_titan/grand_titan_t-it-n11m.md) 
 
@@ -68,7 +68,7 @@
   - Difficult to Maintain 
   - Cowl 
   - Improved Life Support 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5604/grand-titan-t-it-n14r-vengeance) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5604) 
 - **Battle Value:** 2237 
 - [*More Info*](grand_titan/grand_titan_t-it-n14r_vengeance.md) 
 
@@ -96,7 +96,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6830/grand-titan-t-it-n13m) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6830) 
 - **Battle Value:** 2533 
 - [*More Info*](grand_titan/grand_titan_t-it-n13m.md) 
 

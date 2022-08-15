@@ -25,7 +25,7 @@
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
   - Fast Reload (LB 10-X AC) 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7296/enforcer-iii-enf-7d) 
+- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7296) 
 - **Battle Value:** 1495 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

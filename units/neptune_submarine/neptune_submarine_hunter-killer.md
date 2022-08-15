@@ -15,7 +15,7 @@
   - SRT 6 × 4 (ammo: 45) 
   - LRT 5 (ammo: 24) 
   - SRT 4 (ammo: 25) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2258/neptune-submarine-hunter-killer) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2258) 
 - **Battle Value:** 948 
 
 ## Availability 
@@ -53,6 +53,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

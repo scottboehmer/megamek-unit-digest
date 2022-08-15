@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 6 (ammo: 15) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2245/myrmidon-medium-tank-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2245) 
 - **Battle Value:** 815 
 
 ## Availability 
@@ -112,4 +112,20 @@
 - Pirate 
 - Republic of the Sphere 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

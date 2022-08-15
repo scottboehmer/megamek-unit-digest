@@ -12,7 +12,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (7 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4277/heavy-transport-b1) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4277) 
 - **Battle Value:** 184 
 - [*More Info*](heavy_transport_b1/heavy_transport_b1_standard.md) 
 

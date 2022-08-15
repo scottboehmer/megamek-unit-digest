@@ -15,7 +15,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2758/ryoken-ii-standard) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2758) 
 - **Battle Value:** 1801 
 - [*More Info*](ryoken_ii/ryoken_ii_standard.md) 
 
@@ -34,7 +34,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2759/ryoken-ii-2) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2759) 
 - **Battle Value:** 2141 
 - [*More Info*](ryoken_ii/ryoken_ii_2.md) 
 
@@ -53,7 +53,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2760/ryoken-ii-3) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2760) 
 - **Battle Value:** 2336 
 - [*More Info*](ryoken_ii/ryoken_ii_3.md) 
 
@@ -74,7 +74,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/8219/ryoken-ii-tassa) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/8219) 
 - **Battle Value:** 3103 
 - [*More Info*](ryoken_ii/ryoken_ii_tassa.md) 
 

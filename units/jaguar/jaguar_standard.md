@@ -19,7 +19,7 @@
   - Quad Turret 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6612/jaguar-standard) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6612) 
 - **Battle Value:** 1791 
 
 ## Availability 
@@ -37,4 +37,13 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Vesper Marches 
 

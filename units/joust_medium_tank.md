@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1711/joust-medium-tank-be700) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1711) 
 - **Battle Value:** 1315 
 - [*More Info*](joust_medium_tank/joust_medium_tank_be700.md) 
 
@@ -33,7 +33,7 @@
   - Light Machine Gun × 8 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1712/joust-medium-tank-be701) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1712) 
 - **Battle Value:** 1074 
 - [*More Info*](joust_medium_tank/joust_medium_tank_be701.md) 
 

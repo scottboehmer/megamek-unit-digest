@@ -17,8 +17,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Stable 
-  - No Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1033/falconer-flc-8r) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1033) 
 - **Battle Value:** 2231 
 
 ## Availability 
@@ -73,4 +72,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
 

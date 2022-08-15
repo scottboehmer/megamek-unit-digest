@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Poor Sealing 
   - Improved Cooling Jacket (Primitive PPC) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7185/griffin-grf-1a) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7185) 
 - **Battle Value:** 1024 
 - [*More Info*](griffin/griffin_grf-1a.md) 
 
@@ -36,7 +36,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1297/griffin-grf-1n) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1297) 
 - **Battle Value:** 1272 
 - [*More Info*](griffin/griffin_grf-1n.md) 
 
@@ -59,7 +59,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299/griffin-grf-2n) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299) 
 - **Battle Value:** 1606 
 - [*More Info*](griffin/griffin_grf-2n.md) 
 
@@ -80,7 +80,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1298/griffin-grf-1s) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1298) 
 - **Battle Value:** 1253 
 - [*More Info*](griffin/griffin_grf-1s.md) 
 
@@ -100,7 +100,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1295/griffin-grf-1e-sparky) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1295) 
 - **Battle Value:** 1449 
 - [*More Info*](griffin/griffin_grf-1e_sparky.md) 
 
@@ -122,7 +122,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294/griffin-grf-1ds) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294) 
 - **Battle Value:** 1285 
 - [*More Info*](griffin/griffin_grf-1ds.md) 
 
@@ -145,7 +145,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1300/griffin-grf-3m) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1300) 
 - **Battle Value:** 1521 
 - [*More Info*](griffin/griffin_grf-3m.md) 
 
@@ -169,7 +169,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305/griffin-grf-5m) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305) 
 - **Battle Value:** 1224 
 - [*More Info*](griffin/griffin_grf-5m.md) 
 
@@ -193,7 +193,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307/griffin-grf-6s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307) 
 - **Battle Value:** 1781 
 - [*More Info*](griffin/griffin_grf-6s.md) 
 
@@ -219,7 +219,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306/griffin-grf-6cs) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306) 
 - **Battle Value:** 1695 
 - [*More Info*](griffin/griffin_grf-6cs.md) 
 
@@ -242,7 +242,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1304/griffin-grf-5l) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1304) 
 - **Battle Value:** 1742 
 - [*More Info*](griffin/griffin_grf-5l.md) 
 
@@ -266,7 +266,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1309/griffin-grf-6s-francine) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1309) 
 - **Battle Value:** 1778 
 - [*More Info*](griffin/griffin_grf-6s_francine.md) 
 
@@ -291,7 +291,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303/griffin-grf-5k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303) 
 - **Battle Value:** 1390 
 - [*More Info*](griffin/griffin_grf-5k.md) 
 
@@ -315,7 +315,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1308/griffin-grf-6s-francine-ii) 
+- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1308) 
 - **Battle Value:** 2249 
 - [*More Info*](griffin/griffin_grf-6s_francine_ii.md) 
 
@@ -338,7 +338,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296/griffin-grf-1e2-sparky-20) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296) 
 - **Battle Value:** 1862 
 - [*More Info*](griffin/griffin_grf-1e2_sparky_2.0.md) 
 
@@ -359,7 +359,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1302/griffin-grf-4r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1302) 
 - **Battle Value:** 1412 
 - [*More Info*](griffin/griffin_grf-4r.md) 
 
@@ -380,7 +380,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301/griffin-grf-4n) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301) 
 - **Battle Value:** 1591 
 - [*More Info*](griffin/griffin_grf-4n.md) 
 
@@ -402,7 +402,7 @@
   - Rugged (×2) 
   - Ubiquitous (Inner Sphere) 
   - Battlefist (Left Arm) 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436/griffin-grf-3n) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436) 
 - **Battle Value:** 1560 
 - [*More Info*](griffin/griffin_grf-3n.md) 
 
@@ -428,7 +428,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6899/griffin-grf-6s2) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6899) 
 - **Battle Value:** 1870 
 - [*More Info*](griffin/griffin_grf-6s2.md) 
 
@@ -449,7 +449,7 @@
 - **Design Quirks:** 
   - Ubiquitous (Inner Sphere) 
   - Battlefist (Left Arm) 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7437/griffin-c) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7437) 
 - **Battle Value:** 2131 
 - [*More Info*](griffin/griffin_c.md) 
 

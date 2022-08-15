@@ -15,7 +15,7 @@
   - Small Pulse Laser × 3 
 - **Equipment:** 
   - Infantry (12.0 tons) 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6543/cardinal-transport-raf) 
+- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6543) 
 - **Battle Value:** 582 
 
 ## Availability 
@@ -29,4 +29,9 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
+- Star League (Smoke Jaguar) 
 

@@ -20,7 +20,7 @@
   - No Ejection System 
   - Improved Cooling Jacket (Blazer Cannon) 
   - Improved Cooling Jacket (Blazer Cannon) 
-- **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768/marauder-mad-4x) 
+- **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768) 
 - **Battle Value:** 1453 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/797/daikyu-dai-01) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/797) 
 - **Battle Value:** 1603 
 - [*More Info*](daikyu/daikyu_dai-01.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/800/daikyu-dai-02) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/800) 
 - **Battle Value:** 1831 
 - [*More Info*](daikyu/daikyu_dai-02.md) 
 
@@ -58,7 +58,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/798/daikyu-dai-01-tabitha) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/798) 
 - **Battle Value:** 1804 
 - [*More Info*](daikyu/daikyu_dai-01_tabitha.md) 
 
@@ -80,7 +80,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/801/daikyu-dai-03) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/801) 
 - **Battle Value:** 1692 
 - [*More Info*](daikyu/daikyu_dai-03.md) 
 
@@ -102,7 +102,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/799/daikyu-dai-01r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/799) 
 - **Battle Value:** 1513 
 - [*More Info*](daikyu/daikyu_dai-01r.md) 
 

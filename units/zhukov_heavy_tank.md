@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/10 × 2 (ammo: 20) 
   - SRM 6 (ammo: 15) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3650/zhukov-heavy-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3650) 
 - **Battle Value:** 920 
 - [*More Info*](zhukov_heavy_tank/zhukov_heavy_tank_standard.md) 
 
@@ -29,7 +29,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3651/zhukov-heavy-tank-wob) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3651) 
 - **Battle Value:** 983 
 - [*More Info*](zhukov_heavy_tank/zhukov_heavy_tank_wob.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3648/zhukov-heavy-tank-lb-x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3648) 
 - **Battle Value:** 956 
 - [*More Info*](zhukov_heavy_tank/zhukov_heavy_tank_lb-x.md) 
 
@@ -66,7 +66,7 @@
   - Guardian ECM Suite 
   - C3 Support 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3649/zhukov-heavy-tank-liao) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3649) 
 - **Battle Value:** 1021 
 - [*More Info*](zhukov_heavy_tank/zhukov_heavy_tank_liao.md) 
 

@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/6749/fox-armored-car-interdictor) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/6749) 
 - **Battle Value:** 547 
 
 ## Availability 
@@ -35,4 +35,9 @@
 - Capellan Confederation 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
 

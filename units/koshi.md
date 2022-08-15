@@ -21,11 +21,11 @@
   - Modular Weapon (SRM 4) 
   - Modular Weapon (SRM 4) 
   - Modular Weapon (SRM 4) 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6547/koshi-standard) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6547) 
 - **Battle Value:** 760 
 - [*More Info*](koshi/koshi_standard.md) 
 
-## Koshi (Standard) 2 
+## Koshi 2 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3095) 
@@ -39,15 +39,11 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
-- **Design Quirks:** 
-  - Modular Weapon (Light TAG) 
-  - Modular Weapon (Streak SRM 6) 
-  - Modular Weapon (Streak SRM 6) 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6548/koshi-2) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6548) 
 - **Battle Value:** 948 
-- [*More Info*](koshi/koshi_standard_2.md) 
+- [*More Info*](koshi/koshi_2.md) 
 
-## Koshi (Standard) 3 
+## Koshi 3 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3095) 
@@ -64,15 +60,7 @@
   - Light TAG 
   - Targeting Computer 
   - MASC 
-- **Design Quirks:** 
-  - Modular Weapon (Light TAG) 
-  - Modular Weapon (Heavy Small Laser) 
-  - Modular Weapon (Heavy Small Laser) 
-  - Modular Weapon (Heavy Small Laser) 
-  - Modular Weapon (Heavy Small Laser) 
-  - Modular Weapon (Heavy Small Laser) 
-  - Modular Weapon (Heavy Small Laser) 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6549/koshi-3) 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6549) 
 - **Battle Value:** 777 
-- [*More Info*](koshi/koshi_standard_3.md) 
+- [*More Info*](koshi/koshi_3.md) 
 

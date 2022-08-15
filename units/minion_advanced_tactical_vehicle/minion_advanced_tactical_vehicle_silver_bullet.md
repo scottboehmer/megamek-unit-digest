@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - Clan Targeting Computer 
-- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/2185/minion-advanced-tactical-vehicle-silver-bullet) 
+- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/2185) 
 - **Battle Value:** 421 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Sources:** Shrapnel 3:Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7720/thunder-stallion-4) 
+- **Sources:** Shrapnel 3:Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7720) 
 - **Battle Value:** 2607 
 
 ## Availability 
@@ -30,4 +30,10 @@
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Kell Hounds 
 

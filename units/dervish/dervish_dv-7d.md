@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/880/dervish-dv-7d) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/880) 
 - **Battle Value:** 1412 
 
 ## Availability 
@@ -66,7 +66,6 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
-- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
@@ -74,11 +73,15 @@
 
 - Calderon Protectorate 
 - Filtvelt Coalition 
-- Fronc Reaches 
 - Mercenary 
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

@@ -21,7 +21,7 @@
   - No/Minimal Arms 
   - Stabilized Weapon (Heavy Gauss Rifle) 
   - Stabilized Weapon (Heavy Gauss Rifle) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4152/fafnir-fnr-5) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4152) 
 - **Battle Value:** 2636 
 
 ## Availability 

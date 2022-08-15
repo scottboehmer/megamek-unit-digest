@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7791/black-knight-bl-18-knt) 
+- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7791) 
 - **Battle Value:** 2585 
 
 ## Availability 
@@ -33,4 +33,10 @@
 - Free Worlds League 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Free Worlds League 
+- Mercenary 
 

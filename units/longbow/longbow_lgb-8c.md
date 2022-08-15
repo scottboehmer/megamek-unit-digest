@@ -14,7 +14,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 4 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** Rec Guide:ilClan #20 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/8332/longbow-lgb-8c) 
+- **Sources:** Rec Guide:ilClan #20 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/8332) 
 - **Battle Value:** 1653 
 
 ## Availability 
@@ -179,47 +179,40 @@
 ### Late Republic 
 
 - Calderon Protectorate 
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Filtvelt Coalition 
-- Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
-- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
 - Pirate 
-- Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Calderon Protectorate 
-- Capellan Confederation 
-- Draconis Combine 
-- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
-- Federated Suns 
 - Filtvelt Coalition 
-- Free Worlds League 
-- Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
-- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
 - Pirate 
-- Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

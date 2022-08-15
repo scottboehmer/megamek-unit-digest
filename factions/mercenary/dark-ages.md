@@ -6,155 +6,169 @@
 
 #### [Gladiator Battle Armor](../../units/gladiator_battle_armor.md) 
 
-- [**Gladiator Battle Armor S**](../../units/gladiator_battle_armor/gladiator_battle_armor_s.md) *Scout (3084)* 
+- [**Gladiator Battle Armor S (Sqd4)**](../../units/gladiator_battle_armor/gladiator_battle_armor_s_sqd4.md) *Scout (3084)* 
 
 #### [Gorilla Exoskeleton](../../units/gorilla_exoskeleton.md) 
 
-- [**Gorilla Exoskeleton PEX-2B**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_pex-2b.md) *Undefined (3056)* 
+- [**Gorilla Exoskeleton PEX-2B(Sqd4)**](../../units/gorilla_exoskeleton/gorilla_exoskeleton_pex-2bsqd4.md) *Undefined (3056)* 
 
 #### [Groundhog Exoskeleton](../../units/groundhog_exoskeleton.md) 
 
-- [**Groundhog Exoskeleton CEX-205 [Armored Glove]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[armored_glove].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Basic Manipulator]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[basic_manipulator].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Cargo Lifter]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[cargo_lifter].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Industrial Drill]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[industrial_drill].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Mine Clearance]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[mine_clearance].md) *Undefined (3062)* 
-- [**Groundhog Exoskeleton CEX-205 [Salvage Arm]**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_[salvage_arm].md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Armored Glove)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_armored_glovesqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Basic Manipulator)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_basic_manipulatorsqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Cargo Lifter)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_cargo_liftersqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Industrial Drill)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_industrial_drillsqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Mine Clearance)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_mine_clearancesqd4.md) *Undefined (3062)* 
+- [**Groundhog Exoskeleton CEX-205 (Salvage Arm)(Sqd4)**](../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_salvage_armsqd4.md) *Undefined (3062)* 
+
+#### [Hantu](../../units/hantu.md) 
+
+- [**Hantu AIX-210(Sqd4)**](../../units/hantu/hantu_aix-210sqd4.md) *Undefined (3124)* `Stealth` 
 
 #### [Nighthawk PA(L)](../../units/nighthawk_pal.md) 
 
-- [**Nighthawk PA(L) Mk. XXX (Bounty Hunter)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx_bounty_hunter.md) *Ambusher (2957)* `Unique` 
+- [**Nighthawk PA(L) Mk. XXX (Bounty Hunter)(Non-Functional)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxx_bounty_hunternon-functional.md) *Undefined (2957)* `Unique` 
+- [**Nighthawk PA(L) Mk. XXX(Bountry Hunter)(Restored)**](../../units/nighthawk_pal/nighthawk_pal_mk._xxxbountry_hunterrestored.md) *Ambusher (3061)* `Stealth` , `Unique` 
 
 #### [Salrilla Exoskeleton](../../units/salrilla_exoskeleton.md) 
 
-- [**Salrilla Exoskeleton [Mine Clearance]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[mine_clearance].md) *Undefined (3058)* 
-- [**Salrilla Exoskeleton [Salvage Arm]**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_[salvage_arm].md) *Undefined (3058)* 
+- [**Salrilla Exoskeleton (Mine Clearance)(Sqd4)**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_mine_clearancesqd4.md) *Undefined (3058)* 
+- [**Salrilla Exoskeleton (Salvage Arm)(Sqd4)**](../../units/salrilla_exoskeleton/salrilla_exoskeleton_salvage_armsqd4.md) *Undefined (3058)* 
 
 ### 0.75 Tons 
 
 #### [Gray Death Scout Suit](../../units/gray_death_scout_suit.md) 
 
-- [**Gray Death Scout Suit (Standard)**](../../units/gray_death_scout_suit/gray_death_scout_suit_standard.md) *Scout (3052)* `Active Probe` 
+- [**Gray Death Scout Suit (Standard)(Sqd4)**](../../units/gray_death_scout_suit/gray_death_scout_suit_standardsqd4.md) *Scout (3052)* `Active Probe` 
 
 #### [Infiltrator Mk. I Battle Armor](../../units/infiltrator_mk._i_battle_armor.md) 
 
-- [**Infiltrator Mk. I Battle Armor (Special Ops)**](../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_special_ops.md) *Ambusher (3062)* `Active Probe` , `Stealth` 
+- [**Infiltrator Mk. I Battle Armor (Special Ops)(Sqd4)**](../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_special_opssqd4.md) *Ambusher (3062)* `Active Probe` , `Stealth` 
+
+#### [Kobold Battle Armor IIC](../../units/kobold_battle_armor_iic.md) 
+
+- [**Kobold Battle Armor IIC (Sqd4)**](../../units/kobold_battle_armor_iic/kobold_battle_armor_iic_sqd4.md) *Scout (3094)* `ECM` , `Stealth` , `TAG` 
 
 #### [Spectre Stealth Battle Armor](../../units/spectre_stealth_battle_armor.md) 
 
-- [**Spectre Stealth Battle Armor (Standard)**](../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standard.md) *Scout (3097)* `Stealth` 
+- [**Spectre Stealth Battle Armor (Standard)(Sqd4)**](../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standardsqd4.md) *Scout (3097)* `Stealth` 
 
 ### 1 Tons 
 
 #### [Cavalier Battle Armor](../../units/cavalier_battle_armor.md) 
 
-- [**Cavalier Battle Armor [Flamer]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[flamer].md) *Ambusher (3058)* 
-- [**Cavalier Battle Armor [Laser]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[laser].md) *Ambusher (3058)* 
-- [**Cavalier Battle Armor [MG]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[mg].md) *Ambusher (3058)* 
-- [**Cavalier Battle Armor [SRM]**](../../units/cavalier_battle_armor/cavalier_battle_armor_[srm].md) *Ambusher (3058)* 
+- [**Cavalier Battle Armor (Flamer)(Sqd4)**](../../units/cavalier_battle_armor/cavalier_battle_armor_flamersqd4.md) *Ambusher (3058)* 
+- [**Cavalier Battle Armor (Laser)(Sqd4)**](../../units/cavalier_battle_armor/cavalier_battle_armor_lasersqd4.md) *Ambusher (3058)* 
+- [**Cavalier Battle Armor (MG)(Sqd4)**](../../units/cavalier_battle_armor/cavalier_battle_armor_mgsqd4.md) *Ambusher (3058)* 
+- [**Cavalier Battle Armor (SRM)(Sqd4)**](../../units/cavalier_battle_armor/cavalier_battle_armor_srmsqd4.md) *Ambusher (3058)* 
 
 #### [Fa Shih Battle Armor](../../units/fa_shih_battle_armor.md) 
 
-- [**Fa Shih Battle Armor (Support) [King David]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_[king_david].md) *Ambusher (3074)* 
-- [**Fa Shih Battle Armor (Support) [Plasma]**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_[plasma].md) *Ambusher (3074)* 
+- [**Fa Shih Battle Armor (Support) (King David)(Sqd4)**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_king_davidsqd4.md) *Ambusher (3074)* 
+- [**Fa Shih Battle Armor (Support) (Plasma)(Sqd4)**](../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_plasmasqd4.md) *Ambusher (3074)* 
 
 #### [Gray Death Infiltrator Suit](../../units/gray_death_infiltrator_suit.md) 
 
-- [**Gray Death Infiltrator Suit (Firedrake)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_firedrake.md) *Scout (3102)* `Stealth` 
-- [**Gray Death Infiltrator Suit (Mines)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_mines.md) *Scout (3102)* `Stealth` 
-- [**Gray Death Infiltrator Suit (Remote Sensors)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_remote_sensors.md) *Scout (3102)* `Stealth` 
-- [**Gray Death Infiltrator Suit (Sensors)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_sensors.md) *Scout (3102)* `Active Probe` , `Stealth` 
-- [**Gray Death Infiltrator Suit (TAG)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_tag.md) *Scout (3102)* `Stealth` , `TAG` 
+- [**Gray Death Infiltrator Suit (Firedrake)(Sqd4)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_firedrakesqd4.md) *Scout (3102)* `Stealth` 
+- [**Gray Death Infiltrator Suit (Mines)(Sqd4)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_minessqd4.md) *Scout (3102)* `Stealth` 
+- [**Gray Death Infiltrator Suit (Remote Sensors)(Sqd4)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_remote_sensorssqd4.md) *Scout (3102)* `Stealth` 
+- [**Gray Death Infiltrator Suit (Sensors)(Sqd4)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_sensorssqd4.md) *Scout (3102)* `Active Probe` , `Stealth` 
+- [**Gray Death Infiltrator Suit (TAG)(Sqd4)**](../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_tagsqd4.md) *Scout (3102)* `Stealth` , `TAG` 
 
 #### [Gray Death Standard Suit](../../units/gray_death_standard_suit.md) 
 
-- [**Gray Death Standard Suit [Flamer]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[flamer].md) *Ambusher (3052)* `Active Probe` 
-- [**Gray Death Standard Suit [Laser]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[laser].md) *Ambusher (3052)* `Active Probe` 
-- [**Gray Death Standard Suit [MG]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[mg].md) *Ambusher (3052)* `Active Probe` 
-- [**Gray Death Standard Suit [SRM]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[srm].md) *Ambusher (3052)* `Active Probe` 
-- [**Gray Death Standard Suit [LRR]**](../../units/gray_death_standard_suit/gray_death_standard_suit_[lrr].md) *Ambusher (3069)* `Active Probe` 
+- [**Gray Death Standard Suit (Flamer)(Sqd4)**](../../units/gray_death_standard_suit/gray_death_standard_suit_flamersqd4.md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit (Laser)(Sqd4)**](../../units/gray_death_standard_suit/gray_death_standard_suit_lasersqd4.md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit (MG)(Sqd4)**](../../units/gray_death_standard_suit/gray_death_standard_suit_mgsqd4.md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit (SRM)(Sqd4)**](../../units/gray_death_standard_suit/gray_death_standard_suit_srmsqd4.md) *Ambusher (3052)* `Active Probe` 
+- [**Gray Death Standard Suit (LRR)(Sqd4)**](../../units/gray_death_standard_suit/gray_death_standard_suit_lrrsqd4.md) *Ambusher (3069)* `Active Probe` 
 
 #### [IS Standard Battle Armor](../../units/is_standard_battle_armor.md) 
 
-- [**IS Standard Battle Armor [Flamer]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[flamer].md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor [Laser]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[laser].md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor [MG]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[mg].md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor [SRM]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[srm].md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor [LRR]**](../../units/is_standard_battle_armor/is_standard_battle_armor_[lrr].md) *Ambusher (3061)* 
+- [**IS Standard Battle Armor (Flamer)(Sqd4)**](../../units/is_standard_battle_armor/is_standard_battle_armor_flamersqd4.md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor (Laser)(Sqd4)**](../../units/is_standard_battle_armor/is_standard_battle_armor_lasersqd4.md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor (MG)(Sqd4)**](../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd4.md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor (SRM)(Sqd4)**](../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd4.md) *Ambusher (3052)* 
+- [**IS Standard Battle Armor (LRR)(Sqd4)**](../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd4.md) *Ambusher (3061)* 
 
 #### [Leonidas Battle Armor](../../units/leonidas_battle_armor.md) 
 
-- [**Leonidas Battle Armor (David)**](../../units/leonidas_battle_armor/leonidas_battle_armor_david.md) *Ambusher (3096)* `ECM` , `Stealth` 
-- [**Leonidas Battle Armor (FireDrake)**](../../units/leonidas_battle_armor/leonidas_battle_armor_firedrake.md) *Ambusher (3096)* `ECM` , `Stealth` 
-- [**Leonidas Battle Armor (MG)**](../../units/leonidas_battle_armor/leonidas_battle_armor_mg.md) *Ambusher (3096)* `ECM` , `Stealth` 
-- [**Leonidas Battle Armor (Sensor)**](../../units/leonidas_battle_armor/leonidas_battle_armor_sensor.md) *Scout (3096)* `Active Probe` , `ECM` , `Stealth` 
-- [**Leonidas Battle Armor (TAG)**](../../units/leonidas_battle_armor/leonidas_battle_armor_tag.md) *Ambusher (3096)* `ECM` , `Stealth` , `TAG` 
+- [**Leonidas Battle Armor (David)(Sqd4)**](../../units/leonidas_battle_armor/leonidas_battle_armor_davidsqd4.md) *Ambusher (3096)* `ECM` , `Stealth` 
+- [**Leonidas Battle Armor (FireDrake)(Sqd4)**](../../units/leonidas_battle_armor/leonidas_battle_armor_firedrakesqd4.md) *Ambusher (3096)* `ECM` , `Stealth` 
+- [**Leonidas Battle Armor (MG)(Sqd4)**](../../units/leonidas_battle_armor/leonidas_battle_armor_mgsqd4.md) *Ambusher (3096)* `ECM` , `Stealth` 
+- [**Leonidas Battle Armor (Sensor)(Sqd4)**](../../units/leonidas_battle_armor/leonidas_battle_armor_sensorsqd4.md) *Scout (3096)* `Active Probe` , `ECM` , `Stealth` 
+- [**Leonidas Battle Armor (TAG)(Sqd4)**](../../units/leonidas_battle_armor/leonidas_battle_armor_tagsqd4.md) *Scout (3096)* `ECM` , `Stealth` , `TAG` 
 
 #### [Quirinus Battle Armor](../../units/quirinus_battle_armor.md) 
 
-- [**Quirinus Battle Armor (David)**](../../units/quirinus_battle_armor/quirinus_battle_armor_david.md) *Ambusher (3093)* `TAG` 
-- [**Quirinus Battle Armor (GL)**](../../units/quirinus_battle_armor/quirinus_battle_armor_gl.md) *Ambusher (3093)* `TAG` 
-- [**Quirinus Battle Armor (MG)**](../../units/quirinus_battle_armor/quirinus_battle_armor_mg.md) *Ambusher (3138)* `TAG` 
+- [**Quirinus Battle Armor (David)(Sqd4)**](../../units/quirinus_battle_armor/quirinus_battle_armor_davidsqd4.md) *Ambusher (3093)* `TAG` 
+- [**Quirinus Battle Armor (GL)(Sqd4)**](../../units/quirinus_battle_armor/quirinus_battle_armor_glsqd4.md) *Ambusher (3093)* `TAG` 
+- [**Quirinus Battle Armor (MG)(Sqd4)**](../../units/quirinus_battle_armor/quirinus_battle_armor_mgsqd4.md) *Ambusher (3138)* `TAG` 
 
 #### [Raiden Battle Armor](../../units/raiden_battle_armor.md) 
 
-- [**Raiden Battle Armor [Flamer]**](../../units/raiden_battle_armor/raiden_battle_armor_[flamer].md) *Ambusher (3055)* 
-- [**Raiden Battle Armor [Laser]**](../../units/raiden_battle_armor/raiden_battle_armor_[laser].md) *Ambusher (3055)* 
-- [**Raiden Battle Armor [MG]**](../../units/raiden_battle_armor/raiden_battle_armor_[mg].md) *Ambusher (3055)* 
-- [**Raiden Battle Armor [Tsunami]**](../../units/raiden_battle_armor/raiden_battle_armor_[tsunami].md) *Ambusher (3056)* 
-- [**Raiden Battle Armor [MRM]**](../../units/raiden_battle_armor/raiden_battle_armor_[mrm].md) *Ambusher (3064)* 
+- [**Raiden Battle Armor (Flamer)(Sqd4)**](../../units/raiden_battle_armor/raiden_battle_armor_flamersqd4.md) *Ambusher (3055)* 
+- [**Raiden Battle Armor (Laser)(Sqd4)**](../../units/raiden_battle_armor/raiden_battle_armor_lasersqd4.md) *Ambusher (3055)* 
+- [**Raiden Battle Armor (MG)(Sqd4)**](../../units/raiden_battle_armor/raiden_battle_armor_mgsqd4.md) *Ambusher (3055)* 
+- [**Raiden Battle Armor (Tsunami)(Sqd4)**](../../units/raiden_battle_armor/raiden_battle_armor_tsunamisqd4.md) *Ambusher (3056)* 
+- [**Raiden Battle Armor (MRM)(Sqd4)**](../../units/raiden_battle_armor/raiden_battle_armor_mrmsqd4.md) *Ambusher (3064)* 
 
 #### [Rottweiler Battle Armor](../../units/rottweiler_battle_armor.md) 
 
-- [**Rottweiler Battle Armor (Firedrake)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_firedrake.md) *Scout (3072)* `Stealth` 
+- [**Rottweiler Battle Armor (Firedrake)(Sqd4)**](../../units/rottweiler_battle_armor/rottweiler_battle_armor_firedrakesqd4.md) *Scout (3072)* `Stealth` 
+
+#### [Wraith Battle Armor](../../units/wraith_battle_armor.md) 
+
+- [**Wraith Battle Armor (Anti-Infantry)(Sqd4)**](../../units/wraith_battle_armor/wraith_battle_armor_anti-infantrysqd4.md) *Ambusher (3116)* `Active Probe` 
+- [**Wraith Battle Armor (Standard)(Sqd4)**](../../units/wraith_battle_armor/wraith_battle_armor_standardsqd4.md) *Ambusher (3116)* `Stealth` 
 
 ### 1.50 Tons 
 
 #### [Cuchulainn Support Armor](../../units/cuchulainn_support_armor.md) 
 
-- [**Cuchulainn Support Armor (Clan Model)**](../../units/cuchulainn_support_armor/cuchulainn_support_armor_clan_model.md) *Juggernaut (3134)* `Stealth` 
+- [**Cuchulainn Support Armor (Standard) (Sqd4)**](../../units/cuchulainn_support_armor/cuchulainn_support_armor_standard_sqd4.md) *Juggernaut (3134)* `Stealth` 
 
 #### [Gray Death Heavy Suit](../../units/gray_death_heavy_suit.md) 
 
-- [**Gray Death Heavy Suit (Standard)**](../../units/gray_death_heavy_suit/gray_death_heavy_suit_standard.md) *Scout (3083)* `Active Probe` 
+- [**Gray Death Heavy Suit (Standard)(Sqd4)**](../../units/gray_death_heavy_suit/gray_death_heavy_suit_standardsqd4.md) *Scout (3083)* `Active Probe` 
 
 #### [Marauder Battle Armor](../../units/marauder_battle_armor.md) 
 
-- [**Marauder Battle Armor (Standard)**](../../units/marauder_battle_armor/marauder_battle_armor_standard.md) *Ambusher (3110)* `TAG` 
+- [**Marauder Battle Armor (Standard)(Sqd4)**](../../units/marauder_battle_armor/marauder_battle_armor_standardsqd4.md) *Ambusher (3110)* `TAG` 
 
 #### [Sloth Battle Armor](../../units/sloth_battle_armor.md) 
 
-- [**Sloth Battle Armor (Interdictor)**](../../units/sloth_battle_armor/sloth_battle_armor_interdictor.md) *Ambusher (3075)* `ECM` 
-- [**Sloth Battle Armor (Huntsman)**](../../units/sloth_battle_armor/sloth_battle_armor_huntsman.md) *Scout (3093)* `Stealth` 
+- [**Sloth Battle Armor (Interdictor)(Sqd4)**](../../units/sloth_battle_armor/sloth_battle_armor_interdictorsqd4.md) *Ambusher (3075)* `ECM` 
+- [**Sloth Battle Armor 'Huntsman'(Sqd4)**](../../units/sloth_battle_armor/sloth_battle_armor_huntsmansqd4.md) *Scout (3093)* `Stealth` 
 
 ### 2 Tons 
 
 #### [Fenrir Battle Armor](../../units/fenrir_battle_armor.md) 
 
-- [**Fenrir Battle Armor [MG]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[mg].md) *Scout (3060)* 
-- [**Fenrir Battle Armor [MPL]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[mpl].md) *Scout (3060)* 
-- [**Fenrir Battle Armor [SL]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[sl].md) *Scout (3060)* 
-- [**Fenrir Battle Armor [SPL]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[spl].md) *Scout (3060)* 
-- [**Fenrir Battle Armor [SRM]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[srm].md) *Scout (3060)* 
-- [**Fenrir Battle Armor [ERML]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[erml].md) *Scout (3064)* 
-- [**Fenrir Battle Armor [Mortar]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[mortar].md) *Scout (3064)* 
-- [**Fenrir Battle Armor [VSP]**](../../units/fenrir_battle_armor/fenrir_battle_armor_[vsp].md) *Scout (3071)* 
+- [**Fenrir Battle Armor (MG)(Sqd4)**](../../units/fenrir_battle_armor/fenrir_battle_armor_mgsqd4.md) *Scout (3060)* 
+- [**Fenrir Battle Armor (MPL)(Sqd4)**](../../units/fenrir_battle_armor/fenrir_battle_armor_mplsqd4.md) *Scout (3060)* 
+- [**Fenrir Battle Armor (SL)(Sqd4)**](../../units/fenrir_battle_armor/fenrir_battle_armor_slsqd4.md) *Scout (3060)* 
+- [**Fenrir Battle Armor (SPL)(Sqd4)**](../../units/fenrir_battle_armor/fenrir_battle_armor_splsqd4.md) *Scout (3060)* 
+- [**Fenrir Battle Armor (SRM)(Sqd4)**](../../units/fenrir_battle_armor/fenrir_battle_armor_srmsqd4.md) *Scout (3060)* 
+- [**Fenrir Battle Armor (ERML)(Sqd4)**](../../units/fenrir_battle_armor/fenrir_battle_armor_ermlsqd4.md) *Scout (3064)* 
+- [**Fenrir Battle Armor (Mortar)(Sqd4)**](../../units/fenrir_battle_armor/fenrir_battle_armor_mortarsqd4.md) *Scout (3064)* 
+- [**Fenrir Battle Armor (VSP)(Sqd4)**](../../units/fenrir_battle_armor/fenrir_battle_armor_vspsqd4.md) *Scout (3071)* 
 
 #### [Fusilier Battle Armor](../../units/fusilier_battle_armor.md) 
 
-- [**Fusilier Battle Armor (Standard)**](../../units/fusilier_battle_armor/fusilier_battle_armor_standard.md) *Juggernaut (3121)* `Stealth` 
+- [**Fusilier Battle Armor (Standard)(Sqd4)**](../../units/fusilier_battle_armor/fusilier_battle_armor_standardsqd4.md) *Juggernaut (3121)* `Stealth` 
 
 #### [Kopis Assault Battle Armor](../../units/kopis_assault_battle_armor.md) 
 
-- [**Kopis Assault Battle Armor 'The Dark Alley'**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_the_dark_alley.md) *Ambusher (3077)* 
-- [**Kopis Assault Battle Armor (Anti-Infantry)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_anti-infantry.md) *Ambusher (3078)* 
-- [**Kopis Assault Battle Armor (AI Mk II)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_ai_mk_ii.md) *Ambusher (3090)* `Active Probe` 
-- [**Kopis Assault Battle Armor (AI Mk IIr)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_ai_mk_iir.md) *Ambusher (3117)* `Active Probe` 
-- [**Kopis Assault Battle Armor (Mortar)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_mortar.md) *Ambusher (3120)* 
+- [**Kopis Assault Battle Armor 'The Dark Alley'(Sqd4)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_the_dark_alleysqd4.md) *Ambusher (3077)* 
+- [**Kopis Assault Battle Armor (Anti-Infantry)(Sqd4)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_anti-infantrysqd4.md) *Ambusher (3078)* 
+- [**Kopis Assault Battle Armor (AI Mk II)(Sqd4)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_ai_mk_iisqd4.md) *Ambusher (3090)* `Active Probe` 
+- [**Kopis Assault Battle Armor (AI Mk IIr)(Sqd4)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_ai_mk_iirsqd4.md) *Ambusher (3117)* `Active Probe` 
+- [**Kopis Assault Battle Armor (Mortar)(Sqd4)**](../../units/kopis_assault_battle_armor/kopis_assault_battle_armor_mortarsqd4.md) *Ambusher (3120)* 
 
 #### [Ravager Assault Battle Armor](../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standard.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Standard)(Sqd4)**](../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd4.md) *Juggernaut (3084)* 
 
 ## Combat Vehicles 
 
@@ -210,10 +224,11 @@
 
 #### [Flatbed Truck](../../units/flatbed_truck.md) 
 
+- [**Flatbed Truck (AC)**](../../units/flatbed_truck/flatbed_truck_ac.md) *Scout (2580)* 
 - [**Flatbed Truck (Armor)**](../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
 - [**Flatbed Truck (Mortar)**](../../units/flatbed_truck/flatbed_truck_mortar.md) *Sniper (2580)* 
 - [**Flatbed Truck (SRM)**](../../units/flatbed_truck/flatbed_truck_srm.md) *Scout (2580)* 
-- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Scout (2580)* 
+- [**Flatbed Truck (Standard)**](../../units/flatbed_truck/flatbed_truck_standard.md) *Undefined (2580)* 
 - [**Flatbed Truck (LRM)**](../../units/flatbed_truck/flatbed_truck_lrm.md) *Missile Boat (2801)* 
 
 #### [Gun Trailer](../../units/gun_trailer.md) 
@@ -312,7 +327,7 @@
 
 #### [Nacon Armored Scout](../../units/nacon_armored_scout.md) 
 
-- [**Nacon Armored Scout (Standard)**](../../units/nacon_armored_scout/nacon_armored_scout_standard.md) *Striker (3096)* 
+- [**Nacon Armored Scout (Standard)**](../../units/nacon_armored_scout/nacon_armored_scout_standard.md) *Scout (3096)* 
 
 #### [Packrat LRPV](../../units/packrat_lrpv.md) 
 
@@ -414,8 +429,8 @@
 
 - [**Scorpion Light Tank (Standard)**](../../units/scorpion_light_tank/scorpion_light_tank_standard.md) *Brawler (2807)* 
 - [**Scorpion Light Tank (LRM)**](../../units/scorpion_light_tank/scorpion_light_tank_lrm.md) *Missile Boat (2813)* 
-- [**Scorpion Light Tank (SRM)**](../../units/scorpion_light_tank/scorpion_light_tank_srm.md) *Juggernaut (2840)* 
-- [**Scorpion Light Tank (ML)**](../../units/scorpion_light_tank/scorpion_light_tank_ml.md) *Juggernaut (2875)* 
+- [**Scorpion Light Tank (SRM)**](../../units/scorpion_light_tank/scorpion_light_tank_srm.md) *Ambusher (2840)* 
+- [**Scorpion Light Tank (ML)**](../../units/scorpion_light_tank/scorpion_light_tank_ml.md) *Ambusher (2875)* 
 - [**Scorpion Light Tank (MRM)**](../../units/scorpion_light_tank/scorpion_light_tank_mrm.md) *Brawler (3060)* 
 - [**Scorpion Light Tank (LAC)**](../../units/scorpion_light_tank/scorpion_light_tank_lac.md) *Brawler (3072)* 
 
@@ -464,7 +479,7 @@
 
 #### [Karnov UR Transport](../../units/karnov_ur_transport.md) 
 
-- [**Karnov UR Transport (Standard)**](../../units/karnov_ur_transport/karnov_ur_transport_standard.md) *Undefined (2600)* `Transport:6.0` 
+- [**Karnov UR Transport (Standard)**](../../units/karnov_ur_transport/karnov_ur_transport_standard.md) *Scout (2600)* `Transport:6.0` 
 - [**Karnov UR Transport (3055 Upgrade)**](../../units/karnov_ur_transport/karnov_ur_transport_3055_upgrade.md) *Undefined (3055)* `Transport:7.0` 
 
 #### [Lamprey Transport Helicopter](../../units/lamprey_transport_helicopter.md) 
@@ -503,9 +518,9 @@
 - [**Gun Trailer (LRM)**](../../units/gun_trailer/gun_trailer_lrm.md) *Missile Boat (3095)* 
 - [**Gun Trailer (Artillery/AA)**](../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Thumper)**](../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
-- [**Gun Trailer (Ultra)**](../../units/gun_trailer/gun_trailer_ultra.md) *Juggernaut (3098)* 
+- [**Gun Trailer (Ultra)**](../../units/gun_trailer/gun_trailer_ultra.md) *Ambusher (3098)* 
 - [**Gun Trailer (Thunderbolt)**](../../units/gun_trailer/gun_trailer_thunderbolt.md) *Missile Boat (3099)* 
-- [**Gun Trailer (Sniper Cannon)**](../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Missile Boat (3101)* 
+- [**Gun Trailer (Sniper Cannon)**](../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
 - [**Gun Trailer (Mjolnir)**](../../units/gun_trailer/gun_trailer_mjolnir.md) *Sniper (3112)* `ECM` , `Stealth` 
 
 #### [Hunter Light Support Tank](../../units/hunter_light_support_tank.md) 
@@ -756,7 +771,7 @@
 
 #### [SM1 Tank Destroyer](../../units/sm1_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](../../units/sm1_tank_destroyer/sm1_tank_destroyer_sm1.md) *Missile Boat (3068)* 
+- [**SM1 Tank Destroyer SM1**](../../units/sm1_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
 
 #### [SM1A Tank Destroyer](../../units/sm1a_tank_destroyer.md) 
 
@@ -928,7 +943,7 @@
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Missile Boat (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25**](../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
 
 #### [Moltke MBT](../../units/moltke_mbt.md) 
 
@@ -936,7 +951,7 @@
 
 #### [SM2 Heavy Artillery Vehicle](../../units/sm2_heavy_artillery_vehicle.md) 
 
-- [**SM2 Heavy Artillery Vehicle (LTC)**](../../units/sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle_ltc.md) *Missile Boat (3093)* 
+- [**SM2 Heavy Artillery Vehicle (LTC)**](../../units/sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle_ltc.md) *Sniper (3093)* 
 - [**SM2 Heavy Artillery Vehicle (Standard)**](../../units/sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle_standard.md) *Missile Boat (3093)* 
 
 #### [Testudo Siege Tank](../../units/testudo_siege_tank.md) 
@@ -1051,7 +1066,15 @@
 
 #### [Kelswa Assault Tank](../../units/kelswa_assault_tank.md) 
 
-- [**Kelswa Assault Tank (Standard)**](../../units/kelswa_assault_tank/kelswa_assault_tank_standard.md) *Juggernaut (3105)* 
+- [**Kelswa Assault Tank (Standard)**](../../units/kelswa_assault_tank/kelswa_assault_tank_standard.md) *Sniper (3105)* 
+
+#### [Marksman MBT](../../units/marksman_mbt.md) 
+
+- [**Marksman MBT M1J**](../../units/marksman_mbt/marksman_mbt_m1j.md) *Juggernaut (3128)* 
+
+#### [Mobile Long Tom Artillery (Unofficial)](../../units/mobile_long_tom_artillery_unofficial.md) 
+
+- [**Mobile Long Tom Artillery (Unofficial) (+ Carriage)**](../../units/mobile_long_tom_artillery_unofficial/mobile_long_tom_artillery_unofficial_+_carriage.md) *Missile Boat (2602)* 
 
 #### [Ontos Heavy Tank](../../units/ontos_heavy_tank.md) 
 
@@ -1189,6 +1212,7 @@
 #### [Wasp](../../units/wasp.md) 
 
 - [**Wasp WSP-1A**](../../units/wasp/wasp_wsp-1a.md) *Scout (2471)* 
+- [**Wasp WSP-3W**](../../units/wasp/wasp_wsp-3w.md) *Scout (3050)* 
 - [**Wasp WSP-3S**](../../units/wasp/wasp_wsp-3s.md) *Scout (3067)* `ECM` , `TAG` 
 - [**Wasp WSP-8T**](../../units/wasp/wasp_wsp-8t.md) *Scout (3075)* 
 - [**Wasp WSP-5A**](../../units/wasp/wasp_wsp-5a.md) *Scout (3114)* 
@@ -1254,8 +1278,8 @@
 #### [Koshi](../../units/koshi.md) 
 
 - [**Koshi (Standard)**](../../units/koshi/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi (Standard) 2**](../../units/koshi/koshi_standard_2.md) *Striker (3095)* `TAG` 
-- [**Koshi (Standard) 3**](../../units/koshi/koshi_standard_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi 2**](../../units/koshi/koshi_2.md) *Striker (3095)* `TAG` 
+- [**Koshi 3**](../../units/koshi/koshi_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Locust IIC](../../units/locust_iic.md) 
 
@@ -1279,7 +1303,7 @@
 - [**Mist Lynx L**](../../units/mist_lynx/mist_lynx_l.md) *Scout (3124)* `Active Probe` , `ECM` 
 - [**Mist Lynx N**](../../units/mist_lynx/mist_lynx_n.md) *Missile Boat (3139)* `Active Probe` , `TAG` 
 - [**Mist Lynx M**](../../units/mist_lynx/mist_lynx_m.md) *Striker (3140)* `Active Probe` 
-- [**Mist Lynx T**](../../units/mist_lynx/mist_lynx_t.md) *Scout (3142)* `Active Probe` , `ECM` 
+- [**Mist Lynx T**](../../units/mist_lynx/mist_lynx_t.md) *Striker (3142)* `Active Probe` , `ECM` 
 
 #### [Mjolnir](../../units/mjolnir.md) 
 
@@ -1342,7 +1366,7 @@
 
 #### [Crosscut](../../units/crosscut.md) 
 
-- [**Crosscut ED-X5M-B DemolitionMech MOD**](../../units/crosscut/crosscut_ed-x5m-b_demolitionmech_mod.md) *Undefined (3079)* `IndustrialMech` 
+- [**Crosscut ED-X5M-B DemolitionMech MOD**](../../units/crosscut/crosscut_ed-x5m-b_demolitionmech_mod.md) *Ambusher (3079)* `IndustrialMech` 
 - [**Crosscut ED-X4M-A LoggerMech MOD**](../../units/crosscut/crosscut_ed-x4m-a_loggermech_mod.md) *Sniper (3131)* `IndustrialMech` 
 - [**Crosscut ED-X4M-E LoggerMech MOD**](../../units/crosscut/crosscut_ed-x4m-e_loggermech_mod.md) *Sniper (3131)* `IndustrialMech` 
 - [**Crosscut ED-X4M-L LoggerMech MOD**](../../units/crosscut/crosscut_ed-x4m-l_loggermech_mod.md) *Sniper (3131)* `IndustrialMech` 
@@ -1458,7 +1482,6 @@
 
 - [**Valiant V4-LNT-K7**](../../units/valiant/valiant_v4-lnt-k7.md) *Striker (3068)* 
 - [**Valiant V4-LNT-J3**](../../units/valiant/valiant_v4-lnt-j3.md) *Striker (3074)* 
-- [**Valiant VLN-3T**](../../units/valiant/valiant_vln-3t.md) *Striker (3074)* 
 
 #### [Valkyrie](../../units/valkyrie.md) 
 
@@ -1591,12 +1614,12 @@
 
 #### [Peacemaker](../../units/peacemaker.md) 
 
-- [**Peacemaker PM-6 PoliceMech**](../../units/peacemaker/peacemaker_pm-6_policemech.md) *Undefined (3067)* `IndustrialMech` 
+- [**Peacemaker PM-6 PoliceMech**](../../units/peacemaker/peacemaker_pm-6_policemech.md) *Ambusher (3067)* `IndustrialMech` 
 
 #### [Phoenix Hawk L](../../units/phoenix_hawk_l.md) 
 
-- [**Phoenix Hawk L PXH-11K**](../../units/phoenix_hawk_l/phoenix_hawk_l_pxh-11k.md) *Scout (3116)* 
-- [**Phoenix Hawk L PXH-11K2**](../../units/phoenix_hawk_l/phoenix_hawk_l_pxh-11k2.md) *Striker (3116)* 
+- [**Phoenix Hawk L 'Fenikkusu Taka' PXH-11K**](../../units/phoenix_hawk_l/phoenix_hawk_l_fenikkusu_taka_pxh-11k.md) *Scout (3116)* 
+- [**Phoenix Hawk L 'Fenikkusu Taka' PXH-11K2**](../../units/phoenix_hawk_l/phoenix_hawk_l_fenikkusu_taka_pxh-11k2.md) *Striker (3116)* 
 
 #### [Spector](../../units/spector.md) 
 
@@ -1684,7 +1707,6 @@
 
 - [**Griffin IIC (Standard)**](../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
 - [**Griffin IIC 2**](../../units/griffin_iic/griffin_iic_2.md) *Striker (2973)* 
-- [**Griffin IIC 3**](../../units/griffin_iic/griffin_iic_3.md) *Striker (3060)* 
 
 #### [Harvester](../../units/harvester.md) 
 
@@ -1738,6 +1760,7 @@
 - [**Strider SR1-OR**](../../units/strider/strider_sr1-or.md) *Striker (3059)* 
 - [**Strider SR1-OF**](../../units/strider/strider_sr1-of.md) *Striker (3060)* 
 - [**Strider SR1-OG**](../../units/strider/strider_sr1-og.md) *Missile Boat (3070)* 
+- [**Strider SR1-OX**](../../units/strider/strider_sr1-ox.md) *Striker (3071)* 
 - [**Strider SR1-OH**](../../units/strider/strider_sr1-oh.md) *Sniper (3099)* 
 - [**Strider SR1-OM**](../../units/strider/strider_sr1-om.md) *Scout (3135)* `C3 Main` , `TAG` 
 
@@ -1755,6 +1778,7 @@
 
 #### [Blackjack](../../units/blackjack.md) 
 
+- [**Blackjack BJ-3**](../../units/blackjack/blackjack_bj-3.md) *Brawler (3042)* 
 - [**Blackjack BJ-2**](../../units/blackjack/blackjack_bj-2.md) *Sniper (3052)* 
 - [**Blackjack BJ-4**](../../units/blackjack/blackjack_bj-4.md) *Brawler (3067)* 
 - [**Blackjack BJ-5**](../../units/blackjack/blackjack_bj-5.md) *Sniper (3107)* 
@@ -1784,10 +1808,31 @@
 - [**Firestarter FS9-OD**](../../units/firestarter/firestarter_fs9-od.md) *Sniper (3057)* `C3 Support` , `ECM` 
 - [**Firestarter FS9-OE**](../../units/firestarter/firestarter_fs9-oe.md) *Striker (3058)* 
 - [**Firestarter FS9-OR**](../../units/firestarter/firestarter_fs9-or.md) *Sniper (3059)* 
+- [**Firestarter FS9-OX**](../../units/firestarter/firestarter_fs9-ox.md) *Striker (3059)* `Active Probe` , `ECM` 
 - [**Firestarter FS9-OF**](../../units/firestarter/firestarter_fs9-of.md) *Sniper (3060)* 
 - [**Firestarter FS9-OG**](../../units/firestarter/firestarter_fs9-og.md) *Striker (3063)* 
 - [**Firestarter FS9-OH**](../../units/firestarter/firestarter_fs9-oh.md) *Striker (3069)* `Active Probe` , `ECM` 
 - [**Firestarter FS9-OU**](../../units/firestarter/firestarter_fs9-ou.md) *Striker (3077)* 
+
+#### [Goshawk II](../../units/goshawk_ii.md) 
+
+- [**Goshawk II (Standard)**](../../units/goshawk_ii/goshawk_ii_standard.md) *Striker (3086)* `ECM` 
+
+#### [Grendel](../../units/grendel.md) 
+
+- [**Grendel Prime**](../../units/grendel/grendel_prime.md) *Striker (3052)* 
+- [**Grendel A**](../../units/grendel/grendel_a.md) *Missile Boat (3053)* 
+- [**Grendel B**](../../units/grendel/grendel_b.md) *Striker (3053)* 
+- [**Grendel C**](../../units/grendel/grendel_c.md) *Striker (3053)* 
+- [**Grendel D**](../../units/grendel/grendel_d.md) *Striker (3053)* 
+- [**Grendel E**](../../units/grendel/grendel_e.md) *Striker (3061)* 
+- [**Grendel H**](../../units/grendel/grendel_h.md) *Striker (3064)* 
+- [**Grendel F**](../../units/grendel/grendel_f.md) *Striker (3069)* 
+- [**Grendel M**](../../units/grendel/grendel_m.md) *Striker (3086)* 
+- [**Grendel G**](../../units/grendel/grendel_g.md) *Scout (3090)* `Active Probe` , `ECM` 
+- [**Grendel I**](../../units/grendel/grendel_i.md) *Striker (3140)* 
+- [**Grendel J**](../../units/grendel/grendel_j.md) *Striker (3140)* 
+- [**Grendel T**](../../units/grendel/grendel_t.md) *Striker (3142)* 
 
 #### [Hatchetman](../../units/hatchetman.md) 
 
@@ -1817,6 +1862,7 @@
 - [**Phoenix Hawk PXH-1c (Special)**](../../units/phoenix_hawk/phoenix_hawk_pxh-1c_special.md) *Striker (2765)* `ECM` 
 - [**Phoenix Hawk PXH-3M**](../../units/phoenix_hawk/phoenix_hawk_pxh-3m.md) *Striker (3045)* 
 - [**Phoenix Hawk PXH-2K**](../../units/phoenix_hawk/phoenix_hawk_pxh-2k.md) *Striker (3050)* 
+- [**Phoenix Hawk PXH-3K**](../../units/phoenix_hawk/phoenix_hawk_pxh-3k.md) *Striker (3050)* 
 - [**Phoenix Hawk PXH-7S**](../../units/phoenix_hawk/phoenix_hawk_pxh-7s.md) *Striker (3067)* 
 - [**Phoenix Hawk PXH-4M**](../../units/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)* 
 - [**Phoenix Hawk PXH-9**](../../units/phoenix_hawk/phoenix_hawk_pxh-9.md) *Striker (3140)* 
@@ -1877,6 +1923,15 @@
 
 - [**Aquagladius AQS-4**](../../units/aquagladius/aquagladius_aqs-4.md) *Striker (3066)* 
 
+#### [Avalanche](../../units/avalanche.md) 
+
+- [**Avalanche AVL-1O**](../../units/avalanche/avalanche_avl-1o.md) *Missile Boat (3133)* 
+- [**Avalanche AVL-1OA**](../../units/avalanche/avalanche_avl-1oa.md) *Skirmisher (3133)* 
+- [**Avalanche AVL-1OB**](../../units/avalanche/avalanche_avl-1ob.md) *Skirmisher (3133)* 
+- [**Avalanche AVL-1OC**](../../units/avalanche/avalanche_avl-1oc.md) *Skirmisher (3133)* 
+- [**Avalanche AVL-1ON**](../../units/avalanche/avalanche_avl-1on.md) *Sniper (3133)* 
+- [**Avalanche AVL-1OR**](../../units/avalanche/avalanche_avl-1or.md) *Missile Boat (3133)* 
+
 #### [Black Hawk](../../units/black_hawk.md) 
 
 - [**Black Hawk (Standard)**](../../units/black_hawk/black_hawk_standard.md) *Skirmisher (3073)* 
@@ -1893,6 +1948,7 @@
 - [**Blackjack BJ2-OE**](../../units/blackjack/blackjack_bj2-oe.md) *Sniper (3059)* 
 - [**Blackjack BJ2-OR**](../../units/blackjack/blackjack_bj2-or.md) *Brawler (3059)* 
 - [**Blackjack BJ2-OF**](../../units/blackjack/blackjack_bj2-of.md) *Sniper (3061)* 
+- [**Blackjack BJ2-OX**](../../units/blackjack/blackjack_bj2-ox.md) *Brawler (3074)* 
 - [**Blackjack BJ2-OU**](../../units/blackjack/blackjack_bj2-ou.md) *Brawler (3077)* 
 - [**Blackjack BJ2-OG**](../../units/blackjack/blackjack_bj2-og.md) *Brawler (3134)* 
 
@@ -2011,6 +2067,7 @@
 - [**Nova E**](../../units/nova/nova_e.md) *Skirmisher (3054)* 
 - [**Nova H**](../../units/nova/nova_h.md) *Skirmisher (3059)* 
 - [**Nova F**](../../units/nova/nova_f.md) *Skirmisher (3068)* 
+- [**Nova U**](../../units/nova/nova_u.md) *Striker (3077)* `Active Probe` , `ECM` 
 - [**Nova G**](../../units/nova/nova_g.md) *Skirmisher (3092)* 
 - [**Nova I**](../../units/nova/nova_i.md) *Skirmisher (3094)* 
 - [**Nova J**](../../units/nova/nova_j.md) *Skirmisher (3128)* 
@@ -2070,7 +2127,7 @@
 #### [Centurion](../../units/centurion.md) 
 
 - [**Centurion CN10-B**](../../units/centurion/centurion_cn10-b.md) *Brawler (3057)* 
-- [**Centurion CN10-J**](../../units/centurion/centurion_cn10-j.md) *Sniper (3057)* 
+- [**Centurion CN10-J**](../../units/centurion/centurion_cn10-j.md) *Brawler (3057)* 
 
 #### [Cronus](../../units/cronus.md) 
 
@@ -2090,7 +2147,6 @@
 
 #### [Gladiator](../../units/gladiator.md) 
 
-- [**Gladiator (Keller)**](../../units/gladiator/gladiator_keller.md) *Skirmisher (3071)* `C3i` , `Unique` 
 - [**Gladiator GLD-5R**](../../units/gladiator/gladiator_gld-5r.md) *Skirmisher (3075)* `C3 Support` , `ECM` 
 
 #### [Griffin](../../units/griffin.md) 
@@ -2124,9 +2180,11 @@
 
 - [**Mad Cat III (Standard)**](../../units/mad_cat_iii/mad_cat_iii_standard.md) *Missile Boat (3086)* 
 - [**Mad Cat III 2**](../../units/mad_cat_iii/mad_cat_iii_2.md) *Undefined (3089)* 
+- [**Mad Cat III 2 (MWDA)**](../../units/mad_cat_iii/mad_cat_iii_2_mwda.md) *Undefined (3089)* 
 - [**Mad Cat III 3**](../../units/mad_cat_iii/mad_cat_iii_3.md) *Sniper (3094)* 
 - [**Mad Cat III 4**](../../units/mad_cat_iii/mad_cat_iii_4.md) *Skirmisher (3095)* 
 - [**Mad Cat III 5**](../../units/mad_cat_iii/mad_cat_iii_5.md) *Skirmisher (3097)* 
+- [**Mad Cat III (Dark Age RS)**](../../units/mad_cat_iii/mad_cat_iii_dark_age_rs.md) *Undefined (3132)* 
 
 #### [Marshal](../../units/marshal.md) 
 
@@ -2269,6 +2327,24 @@
 - [**Lupus C**](../../units/lupus/lupus_c.md) *Skirmisher (3147)* 
 - [**Lupus D**](../../units/lupus/lupus_d.md) *Brawler (3147)* 
 
+#### [Mad Dog](../../units/mad_dog.md) 
+
+- [**Mad Dog Prime**](../../units/mad_dog/mad_dog_prime.md) *Missile Boat (2963)* 
+- [**Mad Dog A**](../../units/mad_dog/mad_dog_a.md) *Skirmisher (2963)* 
+- [**Mad Dog B**](../../units/mad_dog/mad_dog_b.md) *Skirmisher (2963)* 
+- [**Mad Dog C**](../../units/mad_dog/mad_dog_c.md) *Sniper (2963)* 
+- [**Mad Dog DD**](../../units/mad_dog/mad_dog_dd.md) *Brawler (3050)* 
+- [**Mad Dog S**](../../units/mad_dog/mad_dog_s.md) *Skirmisher (3052)* `Active Probe` 
+- [**Mad Dog D**](../../units/mad_dog/mad_dog_d.md) *Skirmisher (3054)* 
+- [**Mad Dog H**](../../units/mad_dog/mad_dog_h.md) *Missile Boat (3059)* 
+- [**Mad Dog E**](../../units/mad_dog/mad_dog_e.md) *Sniper (3069)* 
+- [**Mad Dog F**](../../units/mad_dog/mad_dog_f.md) *Skirmisher (3069)* 
+- [**Mad Dog U**](../../units/mad_dog/mad_dog_u.md) *Skirmisher (3077)* 
+- [**Mad Dog G**](../../units/mad_dog/mad_dog_g.md) *Brawler (3093)* 
+- [**Mad Dog V**](../../units/mad_dog/mad_dog_v.md) *Missile Boat (3098)* 
+- [**Mad Dog T**](../../units/mad_dog/mad_dog_t.md) *Missile Boat (3142)* 
+- [**Mad Dog I**](../../units/mad_dog/mad_dog_i.md) *Sniper (3144)* 
+
 #### [Mad Dog Mk IV](../../units/mad_dog_mk_iv.md) 
 
 - [**Mad Dog Mk IV Prime**](../../units/mad_dog_mk_iv/mad_dog_mk_iv_prime.md) *Brawler (3137)* 
@@ -2359,7 +2435,7 @@
 #### [Deep Lord](../../units/deep_lord.md) 
 
 - [**Deep Lord RCL-Z1M MilitiaMech**](../../units/deep_lord/deep_lord_rcl-z1m_militiamech.md) *Juggernaut (3085)* `IndustrialMech` 
-- [**Deep Lord RCL-Z1M-B MilitiaMech**](../../units/deep_lord/deep_lord_rcl-z1m-b_militiamech.md) *Brawler (3118)* `IndustrialMech` 
+- [**Deep Lord RCL-Z1M-B MilitiaMech**](../../units/deep_lord/deep_lord_rcl-z1m-b_militiamech.md) *Juggernaut (3118)* `IndustrialMech` 
 
 #### [Dig Lord](../../units/dig_lord.md) 
 
@@ -2521,6 +2597,7 @@
 
 #### [Guillotine](../../units/guillotine.md) 
 
+- [**Guillotine GLT-4L**](../../units/guillotine/guillotine_glt-4l.md) *Skirmisher (2825)* 
 - [**Guillotine GLT-5M**](../../units/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)* 
 - [**Guillotine GLT-6WB3**](../../units/guillotine/guillotine_glt-6wb3.md) *Brawler (3080)* `C3 Support` , `ECM` 
 - [**Guillotine GLT-7M**](../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
@@ -2564,7 +2641,7 @@
 
 #### [Uni](../../units/uni.md) 
 
-- [**Uni ATAE-70 CargoMech**](../../units/uni/uni_atae-70_cargomech.md) *Undefined (3050)* `IndustrialMech` 
+- [**Uni ATAE-70 CargoMech**](../../units/uni/uni_atae-70_cargomech.md) *Ambusher (3050)* `IndustrialMech` 
 - [**Uni ATAE-70M MilitiaMech**](../../units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
 
 #### [Warhammer](../../units/warhammer.md) 
@@ -2635,7 +2712,7 @@
 #### [Jade Hawk](../../units/jade_hawk.md) 
 
 - [**Jade Hawk JHK-03**](../../units/jade_hawk/jade_hawk_jhk-03.md) *Skirmisher (3135)* 
-- [**Jade Hawk JHK-04**](../../units/jade_hawk/jade_hawk_jhk-04.md) *Missile Boat (3135)* 
+- [**Jade Hawk JHK-04**](../../units/jade_hawk/jade_hawk_jhk-04.md) *Sniper (3135)* 
 
 #### [Maelstrom](../../units/maelstrom.md) 
 
@@ -2659,9 +2736,9 @@
 - [**Marauder MAD-2T**](../../units/marauder/marauder_mad-2t.md) *Sniper (3092)* 
 - [**Marauder MAD-7C**](../../units/marauder/marauder_mad-7c.md) *Sniper (3103)* `C3 Support` , `ECM` 
 - [**Marauder MAD-7R**](../../units/marauder/marauder_mad-7r.md) *Sniper (3103)* `ECM` 
-- [**Marauder (Bounty Hunter-3138)**](../../units/marauder/marauder_bounty_hunter-3138.md) *Undefined (3138)* `Unique` 
+- [**Marauder (Bounty Hunter-3138)**](../../units/marauder/marauder_bounty_hunter-3138.md) *Sniper (3138)* `Unique` 
 - [**Marauder MAD-11D**](../../units/marauder/marauder_mad-11d.md) *Sniper (3140)* 
-- [**Marauder Red Hunter**](../../units/marauder/marauder_red_hunter.md) *Juggernaut (3146)* `Unique` 
+- [**Marauder Red Hunter**](../../units/marauder/marauder_red_hunter.md) *Undefined (3146)* `Unique` 
 - [**Marauder Red Hunter 3146**](../../units/marauder/marauder_red_hunter_3146.md) *Juggernaut (3146)* `Unique` 
 
 #### [Mortis](../../units/mortis.md) 
@@ -2677,7 +2754,6 @@
 - [**Orion ON1-MD**](../../units/orion/orion_on1-md.md) *Brawler (3062)* 
 - [**Orion ON2-M**](../../units/orion/orion_on2-m.md) *Brawler (3063)* 
 - [**Orion ON3-M**](../../units/orion/orion_on3-m.md) *Sniper (3083)* `TAG` 
-- [**Orion C 2**](../../units/orion/orion_c_2.md) *Brawler (3143)* 
 
 #### [Pandarus](../../units/pandarus.md) 
 
@@ -2888,7 +2964,7 @@
 #### [Highlander](../../units/highlander.md) 
 
 - [**Highlander HGN-732**](../../units/highlander/highlander_hgn-732.md) *Sniper (2592)* 
-- [**Highlander HGN-732b**](../../units/highlander/highlander_hgn-732b.md) *Missile Boat (2598)* 
+- [**Highlander HGN-732b**](../../units/highlander/highlander_hgn-732b.md) *Sniper (2598)* 
 - [**Highlander HGN-734**](../../units/highlander/highlander_hgn-734.md) *Juggernaut (3062)* 
 - [**Highlander HGN-738**](../../units/highlander/highlander_hgn-738.md) *Juggernaut (3069)* 
 - [**Highlander HGN-740**](../../units/highlander/highlander_hgn-740.md) *Sniper (3115)* 
@@ -2921,6 +2997,9 @@
 - [**Sunder SD1-OR**](../../units/sunder/sunder_sd1-or.md) *Brawler (3059)* 
 - [**Sunder SD1-OD**](../../units/sunder/sunder_sd1-od.md) *Brawler (3063)* 
 - [**Sunder SD1-OE**](../../units/sunder/sunder_sd1-oe.md) *Brawler (3069)* 
+- [**Sunder SD1-OX**](../../units/sunder/sunder_sd1-ox.md) *Missile Boat (3073)* `C3 Support` 
+- [**Sunder SD1-OF**](../../units/sunder/sunder_sd1-of.md) *Missile Boat (3134)* `C3 Support` 
+- [**Sunder SD1-OG**](../../units/sunder/sunder_sd1-og.md) *Brawler (3134)* `C3 Support` 
 
 #### [Supernova](../../units/supernova.md) 
 
@@ -2947,6 +3026,25 @@
 
 - [**Cerberus MR-V2**](../../units/cerberus/cerberus_mr-v2.md) *Brawler (3054)* 
 - [**Cerberus MR-V3**](../../units/cerberus/cerberus_mr-v3.md) *Brawler (3062)* 
+
+#### [Executioner](../../units/executioner.md) 
+
+- [**Executioner Prime**](../../units/executioner/executioner_prime.md) *Sniper (3001)* 
+- [**Executioner A**](../../units/executioner/executioner_a.md) *Skirmisher (3001)* 
+- [**Executioner B**](../../units/executioner/executioner_b.md) *Skirmisher (3001)* 
+- [**Executioner C**](../../units/executioner/executioner_c.md) *Missile Boat (3001)* 
+- [**Executioner D**](../../units/executioner/executioner_d.md) *Skirmisher (3001)* 
+- [**Executioner TC**](../../units/executioner/executioner_tc.md) *Skirmisher (3052)* `Active Probe` 
+- [**Executioner H**](../../units/executioner/executioner_h.md) *Skirmisher (3059)* 
+- [**Executioner E**](../../units/executioner/executioner_e.md) *Skirmisher (3060)* 
+- [**Executioner K**](../../units/executioner/executioner_k.md) *Skirmisher (3068)* `Active Probe` 
+- [**Executioner P**](../../units/executioner/executioner_p.md) *Skirmisher (3069)* 
+- [**Executioner F**](../../units/executioner/executioner_f.md) *Sniper (3089)* 
+- [**Executioner G**](../../units/executioner/executioner_g.md) *Skirmisher (3100)* `Active Probe` , `ECM` 
+- [**Executioner I**](../../units/executioner/executioner_i.md) *Skirmisher (3101)* `ECM` 
+- [**Executioner J**](../../units/executioner/executioner_j.md) *Juggernaut (3104)* 
+- [**Executioner L**](../../units/executioner/executioner_l.md) *Sniper (3119)* 
+- [**Executioner T**](../../units/executioner/executioner_t.md) *Sniper (3142)* `ECM` 
 
 #### [Naginata](../../units/naginata.md) 
 
@@ -2988,6 +3086,7 @@
 - [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-RS**](../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K**](../../units/atlas/atlas_as7-k.md) *Sniper (3049)* 
+- [**Atlas AS7-S**](../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
 - [**Atlas AS7-S2**](../../units/atlas/atlas_as7-s2.md) *Sniper (3061)* `ECM` 
 - [**Atlas AS7-S3**](../../units/atlas/atlas_as7-s3.md) *Sniper (3062)* `ECM` 
 - [**Atlas AS7-S3-DC**](../../units/atlas/atlas_as7-s3-dc.md) *Sniper (3064)* `Command Console` 
@@ -3031,9 +3130,14 @@
 
 #### [King Crab](../../units/king_crab.md) 
 
+- [**King Crab KGC-000b**](../../units/king_crab/king_crab_kgc-000b.md) *Juggernaut (2743)* 
 - [**King Crab KGC-001**](../../units/king_crab/king_crab_kgc-001.md) *Juggernaut (3052)* 
 - [**King Crab KGC-005r**](../../units/king_crab/king_crab_kgc-005r.md) *Juggernaut (3071)* `C3 Support` 
 - [**King Crab KGC-007**](../../units/king_crab/king_crab_kgc-007.md) *Juggernaut (3071)* 
+
+#### [Kodiak](../../units/kodiak.md) 
+
+- [**Kodiak (Standard)**](../../units/kodiak/kodiak_standard.md) *Brawler (3001)* 
 
 #### [Malice](../../units/malice.md) 
 

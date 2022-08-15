@@ -12,7 +12,7 @@
   - Small Pulse Laser × 3 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/828/dart-drt-3s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/828) 
 - **Battle Value:** 436 
 - [*More Info*](dart/dart_drt-3s.md) 
 
@@ -28,7 +28,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/829/dart-drt-4s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/829) 
 - **Battle Value:** 656 
 - [*More Info*](dart/dart_drt-4s.md) 
 
@@ -44,7 +44,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/830/dart-drt-6s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/830) 
 - **Battle Value:** 641 
 - [*More Info*](dart/dart_drt-6s.md) 
 
@@ -63,7 +63,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/831/dart-drt-6t) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/831) 
 - **Battle Value:** 703 
 - [*More Info*](dart/dart_drt-6t.md) 
 

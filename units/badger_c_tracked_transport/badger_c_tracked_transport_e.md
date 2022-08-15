@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Infantry (5.0 tons) 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/196/badger-c-tracked-transport-e) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/196) 
 - **Battle Value:** 474 
 
 ## Availability 
@@ -47,4 +47,13 @@
 - Clan Wolf 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Lyran Commonwealth 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

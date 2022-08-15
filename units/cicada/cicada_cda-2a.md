@@ -15,8 +15,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/591/cicada-cda-2a) 
+- **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/591) 
 - **Battle Value:** 659 
 
 ## Availability 

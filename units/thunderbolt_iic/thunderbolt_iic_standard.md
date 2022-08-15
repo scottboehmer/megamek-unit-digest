@@ -26,7 +26,7 @@
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (Improved Heavy Large Laser) 
   - Modular Weapon (Improved Heavy Large Laser) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239/thunderbolt-iic-standard) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239) 
 - **Battle Value:** 2475 
 
 ## Availability 
@@ -40,6 +40,10 @@
 - Clan Jade Falcon 
 
 ### Dark Ages 
+
+- Clan Jade Falcon 
+
+### ilClan 
 
 - Clan Jade Falcon 
 

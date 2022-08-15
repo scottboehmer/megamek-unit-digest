@@ -16,7 +16,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6445/pixiu-heavy-tank-standard) 
+- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6445) 
 - **Battle Value:** 1350 
 
 ## Availability 
@@ -32,6 +32,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

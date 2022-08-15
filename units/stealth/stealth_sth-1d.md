@@ -20,7 +20,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3052/stealth-sth-1d) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3052) 
 - **Battle Value:** 1231 
 
 ## Availability 
@@ -71,5 +71,10 @@
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
+
+### ilClan 
+
+- Federated Suns 
 - Mercenary 
 

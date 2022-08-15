@@ -20,7 +20,7 @@
   - Ammunition Feed Problem (Light Machine Gun) 
   - Ammunition Feed Problem (Light Machine Gun) 
   - Ammunition Feed Problem (Light Machine Gun) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4795/patron-ptn-2m-patrolmech) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4795) 
 - **Battle Value:** 147 
 
 ## Availability 
@@ -70,4 +70,15 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

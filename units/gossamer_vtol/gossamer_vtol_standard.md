@@ -12,7 +12,7 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Pulse Laser × 3 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6537/gossamer-vtol-standard) 
+- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6537) 
 - **Battle Value:** 1091 
 
 ## Availability 
@@ -49,4 +49,16 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Raven Alliance 
+- Tamar Pact 
+- Wolf's Dragoons 
 

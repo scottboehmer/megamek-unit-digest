@@ -16,7 +16,7 @@
   - Barrel Fist (Left Arm) 
   - Modular Weapon (SRM 6) 
   - Modular Weapon (SRM 6) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1397/hatamoto-chi-htm-26t) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1397) 
 - **Battle Value:** 1536 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-26t.md) 
 
@@ -38,7 +38,7 @@
   - Barrel Fist (Left Arm) 
   - Modular Weapon (SRM 4) 
   - Modular Weapon (SRM 4) 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1400/hatamoto-chi-htm-27t-daniel) 
+- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1400) 
 - **Battle Value:** 1435 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-27t_daniel.md) 
 
@@ -60,7 +60,7 @@
   - Barrel Fist (Left Arm) 
   - Modular Weapon (SRM 6) 
   - Modular Weapon (SRM 6) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1398/hatamoto-chi-htm-27t) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1398) 
 - **Battle Value:** 1607 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-27t.md) 
 
@@ -83,7 +83,7 @@
   - Barrel Fist (Left Arm) 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 6) 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1399/hatamoto-chi-htm-27t-daniel-ii) 
+- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1399) 
 - **Battle Value:** 1661 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-27t_daniel_ii.md) 
 
@@ -107,7 +107,7 @@
   - Easy to Maintain 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 6) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1401/hatamoto-chi-htm-28t) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1401) 
 - **Battle Value:** 2039 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-28t.md) 
 
@@ -131,7 +131,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5457/hatamoto-chi-htm-28t-shin) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5457) 
 - **Battle Value:** 2213 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-28t_shin.md) 
 
@@ -157,7 +157,7 @@
   - Easy to Maintain 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 4) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1402/hatamoto-chi-htm-28tr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1402) 
 - **Battle Value:** 2034 
 - [*More Info*](hatamoto-chi/hatamoto-chi_htm-28tr.md) 
 

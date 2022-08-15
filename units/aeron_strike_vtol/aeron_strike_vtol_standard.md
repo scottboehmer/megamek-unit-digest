@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/14/aeron-strike-vtol-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/14) 
 - **Battle Value:** 764 
 
 ## Availability 
@@ -37,4 +37,9 @@
 - Duchy of Andurien 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Federated Suns 
 

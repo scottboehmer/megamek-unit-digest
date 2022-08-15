@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/852/deimos-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/852) 
 - **Battle Value:** 2394 
 - [*More Info*](deimos/deimos_2.md) 
 
@@ -40,7 +40,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/856/deimos-prime) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/856) 
 - **Battle Value:** 2188 
 - [*More Info*](deimos/deimos_prime.md) 
 
@@ -64,7 +64,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/853/deimos-a) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/853) 
 - **Battle Value:** 2785 
 - [*More Info*](deimos/deimos_a.md) 
 
@@ -88,13 +88,13 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/854/deimos-b) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/854) 
 - **Battle Value:** 2965 
 - [*More Info*](deimos/deimos_b.md) 
 
 ## Deimos H 
 
-- **Role:** Sniper 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3085) 
 - **Chassis:** 85 tons (Endo Steel) 
 - **Movement:** 3 / 5 (6), XL 
@@ -137,7 +137,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/855/deimos-c) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/855) 
 - **Battle Value:** 2737 
 - [*More Info*](deimos/deimos_c.md) 
 
@@ -162,7 +162,7 @@
   - Liquid Cargo 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/857/deimos-s) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/857) 
 - **Battle Value:** 2664 
 - [*More Info*](deimos/deimos_s.md) 
 
@@ -184,7 +184,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6856/deimos-d) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6856) 
 - **Battle Value:** 2682 
 - [*More Info*](deimos/deimos_d.md) 
 
@@ -211,7 +211,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6855/deimos-e) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6855) 
 - **Battle Value:** 3620 
 - [*More Info*](deimos/deimos_e.md) 
 

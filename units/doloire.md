@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Command ’Mech 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6678/doloire-dlr-o) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6678) 
 - **Battle Value:** 2561 
 - [*More Info*](doloire/doloire_dlr-o.md) 
 
@@ -41,7 +41,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Command ’Mech 
-- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6679/doloire-dlr-oa) 
+- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6679) 
 - **Battle Value:** 2218 
 - [*More Info*](doloire/doloire_dlr-oa.md) 
 
@@ -63,7 +63,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Command ’Mech 
-- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6680/doloire-dlr-ob) 
+- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6680) 
 - **Battle Value:** 2836 
 - [*More Info*](doloire/doloire_dlr-ob.md) 
 
@@ -88,7 +88,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Command ’Mech 
-- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6681/doloire-dlr-oc) 
+- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6681) 
 - **Battle Value:** 2242 
 - [*More Info*](doloire/doloire_dlr-oc.md) 
 
@@ -113,7 +113,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Command ’Mech 
-- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6682/doloire-dlr-od) 
+- **Sources:** Source:TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6682) 
 - **Battle Value:** 3071 
 - [*More Info*](doloire/doloire_dlr-od.md) 
 
@@ -136,7 +136,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Command ’Mech 
-- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7636/doloire-dlr-oblo) 
+- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7636) 
 - **Battle Value:** 2441 
 - [*More Info*](doloire/doloire_dlr-oblo.md) 
 

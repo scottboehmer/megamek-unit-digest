@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5192/templar-tlr1-o-grayson) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5192) 
 - **Battle Value:** 1868 
 
 ## Availability 
@@ -31,14 +31,6 @@
 - Federated Suns 
 
 ### Early Republic (Unique) 
-
-- Federated Suns 
-
-### Late Republic (Unique) 
-
-- Federated Suns 
-
-### Dark Ages 
 
 - Federated Suns 
 

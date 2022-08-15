@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3247/thunderbolt-tdr-9nais) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3247) 
 - **Battle Value:** 1864 
 
 ## Availability 
@@ -45,6 +45,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

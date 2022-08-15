@@ -18,12 +18,17 @@
   - ER Small Laser 
 - **Equipment:** 
   - Blue Shield PFD 
-- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6509/quasimodo-qsm-3d) 
+- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6509) 
 - **Battle Value:** 1575 
 
 ## Availability 
 
 ### Dark Ages 
 
+- Free Worlds League 
+
+### ilClan 
+
+- Draconis Combine 
 - Free Worlds League 
 

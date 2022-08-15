@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Low-Mounted Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/827/dark-crow-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/827) 
 - **Battle Value:** 1594 
 - [*More Info*](dark_crow/dark_crow_standard.md) 
 
@@ -37,7 +37,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Low-Mounted Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/824/dark-crow-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/824) 
 - **Battle Value:** 1575 
 - [*More Info*](dark_crow/dark_crow_2.md) 
 
@@ -59,7 +59,7 @@
   - Liquid Cargo 
 - **Design Quirks:** 
   - Low-Mounted Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/825/dark-crow-3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/825) 
 - **Battle Value:** 1687 
 - [*More Info*](dark_crow/dark_crow_3.md) 
 
@@ -80,7 +80,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Low-Mounted Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/826/dark-crow-4) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/826) 
 - **Battle Value:** 1538 
 - [*More Info*](dark_crow/dark_crow_4.md) 
 

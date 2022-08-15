@@ -13,7 +13,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2412/pandarus-lfa-1x) 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2412) 
 - **Battle Value:** 1486 
 - [*More Info*](pandarus/pandarus_lfa-1x.md) 
 
@@ -35,7 +35,7 @@
   - Improved Targeting (Long) 
   - Easy to Maintain 
   - Rumble Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4783/pandarus-lfa-1a) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4783) 
 - **Battle Value:** 1589 
 - [*More Info*](pandarus/pandarus_lfa-1a.md) 
 

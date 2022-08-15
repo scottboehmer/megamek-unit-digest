@@ -20,12 +20,16 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - No Ejection System 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6394/rokurokubi-rk-4x) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6394) 
 - **Battle Value:** 1858 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

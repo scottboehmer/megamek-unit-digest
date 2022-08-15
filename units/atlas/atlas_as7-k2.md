@@ -22,7 +22,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/145/atlas-as7-k2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/145) 
 - **Battle Value:** 2160 
 
 ## Availability 
@@ -31,12 +31,6 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
-- Clan Diamond Shark 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -51,8 +45,6 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -62,12 +54,6 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -83,8 +69,6 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -94,12 +78,6 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
-- Clan Hell's Horses 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -116,10 +94,27 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
-- Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

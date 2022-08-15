@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Improved Life Support 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6511/anzu-zu-j70) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6511) 
 - **Battle Value:** 1680 
 
 ## Availability 
@@ -35,4 +35,8 @@
 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+
+### ilClan 
+
+- Free Worlds League 
 

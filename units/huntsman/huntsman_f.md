@@ -21,14 +21,22 @@
   - CASE II 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6904/nobori-nin-huntsman-f) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6904) 
 - **Battle Value:** 2367 
 
 ## Availability 
 
 ### Dark Ages 
 
+- Clan Nova Cat 
 - Clan Sea Fox 
 - Free Worlds League 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Free Worlds League 
+- Star League (Smoke Jaguar) 
 

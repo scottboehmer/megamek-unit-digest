@@ -23,7 +23,7 @@
   - Reinforced Legs 
   - Battlefist (Left Arm) 
   - Exposed Weapon Linkage (ER Large Laser) 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7434/dominator-standard) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7434) 
 - **Battle Value:** 3018 
 - [*More Info*](dominator/dominator_standard.md) 
 
@@ -50,7 +50,7 @@
   - Battlefist (Left Arm) 
   - Exposed Weapon Linkage (ER Large Laser) 
   - Exposed Weapon Linkage (ER Large Laser) 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7435/dominator-2) 
+- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7435) 
 - **Battle Value:** 2906 
 - [*More Info*](dominator/dominator_2.md) 
 

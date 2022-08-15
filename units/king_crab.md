@@ -16,8 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1770/king-crab-kgc-000) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1770) 
 - **Battle Value:** 1906 
 - [*More Info*](king_crab/king_crab_kgc-000.md) 
 
@@ -37,8 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1772/king-crab-kgc-000b) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1772) 
 - **Battle Value:** 2039 
 - [*More Info*](king_crab/king_crab_kgc-000b.md) 
 
@@ -58,8 +56,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1778/king-crab-kgc-010) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1778) 
 - **Battle Value:** 2181 
 - [*More Info*](king_crab/king_crab_kgc-010.md) 
 
@@ -77,8 +74,7 @@
   - Large Laser 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1771/king-crab-kgc-0000) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1771) 
 - **Battle Value:** 1810 
 - [*More Info*](king_crab/king_crab_kgc-0000.md) 
 
@@ -99,8 +95,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1773/king-crab-kgc-001) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1773) 
 - **Battle Value:** 2221 
 - [*More Info*](king_crab/king_crab_kgc-001.md) 
 
@@ -121,8 +116,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1774/king-crab-kgc-005) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1774) 
 - **Battle Value:** 2264 
 - [*More Info*](king_crab/king_crab_kgc-005.md) 
 
@@ -147,8 +141,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1777/king-crab-kgc-008) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1777) 
 - **Battle Value:** 2369 
 - [*More Info*](king_crab/king_crab_kgc-008.md) 
 
@@ -169,8 +162,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775/king-crab-kgc-005r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775) 
 - **Battle Value:** 2335 
 - [*More Info*](king_crab/king_crab_kgc-005r.md) 
 
@@ -191,8 +183,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1776/king-crab-kgc-007) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1776) 
 - **Battle Value:** 2523 
 - [*More Info*](king_crab/king_crab_kgc-007.md) 
 
@@ -217,8 +208,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5494/king-crab-kgc-008b) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5494) 
 - **Battle Value:** 2374 
 - [*More Info*](king_crab/king_crab_kgc-008b.md) 
 
@@ -243,8 +233,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6635/king-crab-kgc-009) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6635) 
 - **Battle Value:** 2260 
 - [*More Info*](king_crab/king_crab_kgc-009.md) 
 
@@ -264,8 +253,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7514/king-crab-kgc-011) 
+- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7514) 
 - **Battle Value:** 2406 
 - [*More Info*](king_crab/king_crab_kgc-011.md) 
 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5444/raven-rvn-3m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5444) 
 - **Battle Value:** 659 
 
 ## Availability 
@@ -58,7 +58,6 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Free Worlds League - Non-Aligned Worlds 
-- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Oriente Protectorate 
@@ -68,12 +67,17 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
-- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

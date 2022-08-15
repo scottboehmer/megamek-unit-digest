@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473/hellhound-conjurer-standard) 
+- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473) 
 - **Battle Value:** 1813 
 
 ## Availability 
@@ -92,12 +92,14 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Escorpión Imperio 
+- Raven Alliance 
 
 ### Late Republic 
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Escorpión Imperio 
+- Raven Alliance 
 
 ### Dark Ages 
 
@@ -105,5 +107,14 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Escorpión Imperio 
+- Raven Alliance 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Wolf) 
+- Wolf Empire 
 

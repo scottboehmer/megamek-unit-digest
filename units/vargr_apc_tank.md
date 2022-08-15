@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (7.0 tons) 
-- **Sources:** House Arano , [Master Unit List](http://masterunitlist.info/Unit/Details/7615/vargr-apc-tank-standard) 
+- **Sources:** House Arano , [Master Unit List](http://masterunitlist.info/Unit/Details/7615) 
 - **Battle Value:** 758 
 - [*More Info*](vargr_apc_tank/vargr_apc_tank_standard.md) 
 
@@ -30,7 +30,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (7.0 tons) 
-- **Sources:** House Arano , [Master Unit List](http://masterunitlist.info/Unit/Details/7616/vargr-apc-tank-lrm) 
+- **Sources:** House Arano , [Master Unit List](http://masterunitlist.info/Unit/Details/7616) 
 - **Battle Value:** 827 
 - [*More Info*](vargr_apc_tank/vargr_apc_tank_lrm.md) 
 

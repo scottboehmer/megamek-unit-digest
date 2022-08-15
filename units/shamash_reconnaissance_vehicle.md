@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Small Laser × 4 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2921/shamash-reconnaissance-vehicle-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2921) 
 - **Battle Value:** 504 
 - [*More Info*](shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_standard.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Flamer × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2919/shamash-reconnaissance-vehicle-flamer) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2919) 
 - **Battle Value:** 228 
 - [*More Info*](shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_flamer.md) 
 
@@ -40,7 +40,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2920/shamash-reconnaissance-vehicle-interdictor) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2920) 
 - **Battle Value:** 520 
 - [*More Info*](shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_interdictor.md) 
 

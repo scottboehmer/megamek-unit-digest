@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2537/piranha-3) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2537) 
 - **Battle Value:** 1142 
 
 ## Availability 
@@ -45,6 +45,12 @@
 
 - Clan Sea Fox 
 - Escorpión Imperio 
+- Raven Alliance 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Protectorate 
 - Raven Alliance 
 - Scorpion Empire 
 

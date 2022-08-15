@@ -23,7 +23,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2897/shadow-hawk-shd-12c) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2897) 
 - **Battle Value:** 1574 
 
 ## Availability 
@@ -49,4 +49,9 @@
 - Draconis Combine 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Rasalhague Dominion 
 

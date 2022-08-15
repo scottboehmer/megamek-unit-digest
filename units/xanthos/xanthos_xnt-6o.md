@@ -21,7 +21,7 @@
   - Coolant Pod 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6825/xanthos-xnt-6o) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6825) 
 - **Battle Value:** 2320 
 
 ## Availability 
@@ -37,6 +37,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 

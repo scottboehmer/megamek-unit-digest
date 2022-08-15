@@ -16,7 +16,7 @@
   - Small Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6376/scimitar-mk-ii-hcv-3136-upgrade) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6376) 
 - **Battle Value:** 783 
 
 ## Availability 
@@ -24,6 +24,12 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
+
+### ilClan 
+
 - Draconis Combine 
 - Free Worlds League 
 - Mercenary 

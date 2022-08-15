@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3474/vulture-mad-dog-u) 
+- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3474) 
 - **Battle Value:** 2488 
 
 ## Availability 
@@ -46,6 +46,7 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -59,6 +60,7 @@
 - Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -66,7 +68,17 @@
 - Clan Jade Falcon 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
+- Mercenary 
 - Raven Alliance 
 - Republic of the Sphere 
 - Scorpion Empire 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Raven Alliance 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

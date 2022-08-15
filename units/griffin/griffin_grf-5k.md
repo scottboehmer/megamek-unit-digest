@@ -23,7 +23,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303/griffin-grf-5k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303) 
 - **Battle Value:** 1390 
 
 ## Availability 
@@ -47,6 +47,12 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
+
+- Clan Protectorate 
 - Draconis Combine 
 - Federated Suns 
 

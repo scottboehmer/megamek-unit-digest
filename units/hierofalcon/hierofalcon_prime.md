@@ -19,7 +19,7 @@
   - Partial Wing 
   - CASE 
   - TAG 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7484/hierofalcon-prime) 
+- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7484) 
 - **Battle Value:** 1878 
 
 ## Availability 
@@ -27,4 +27,10 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Mercenary 
+- Star League (Jade Falcon) 
 

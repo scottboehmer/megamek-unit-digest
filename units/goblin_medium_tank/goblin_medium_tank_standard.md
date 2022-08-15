@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1226/goblin-medium-tank-standard) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1226) 
 - **Battle Value:** 555 
 
 ## Availability 
@@ -69,6 +69,7 @@
 - Circinus Federation 
 - Draconis Combine 
 - Federated Suns 
+- Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -85,6 +86,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Free Rasalhague Republic 
+- Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -99,11 +101,11 @@
 
 - Capellan Confederation 
 - Circinus Federation 
-- ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
 - Federated Suns 
 - Free Rasalhague Republic 
+- Free Worlds League 
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -120,10 +122,10 @@
 
 - Capellan Confederation 
 - Circinus Federation 
-- ComStar 
 - Draconis Combine 
 - Federated Suns 
 - Free Rasalhague Republic 
+- Free Worlds League 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -140,11 +142,11 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Circinus Federation 
-- ComStar 
 - Draconis Combine 
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
+- Free Worlds League 
 - Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -154,7 +156,6 @@
 - Pirate 
 - Taurian Concordat 
 - Wolf's Dragoons 
-- Word of Blake 
 
 ### Early Republic 
 
@@ -174,6 +175,13 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Calderon Protectorate 
 - Filtvelt Coalition 

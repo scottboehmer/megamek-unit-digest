@@ -14,7 +14,7 @@
   - AC/10 × 2 (ammo: 20) 
   - SRM 6 × 2 (ammo: 30) 
   - LRM 5 × 4 (ammo: 48) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/321/behemoth-heavy-tank-armor) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/321) 
 - **Battle Value:** 1406 
 
 ## Availability 
@@ -104,4 +104,12 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

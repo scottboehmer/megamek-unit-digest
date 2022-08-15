@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - No/Minimal Arms 
-- **Sources:** RS 3145  NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6871/mangonel-mnl-4s) 
+- **Sources:** RS 3145  NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6871) 
 - **Battle Value:** 2659 
 
 ## Availability 
@@ -49,4 +49,12 @@
 - Mercenary 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

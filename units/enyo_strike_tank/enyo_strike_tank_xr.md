@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Armored Motive System 
   - Supercharger 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4128/enyo-strike-tank-xr) 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4128) 
 - **Battle Value:** 1094 
 
 ## Availability 

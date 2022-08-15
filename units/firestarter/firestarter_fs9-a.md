@@ -17,7 +17,7 @@
   - Flamer × 4 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1093/firestarter-fs9-a) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1093) 
 - **Battle Value:** 773 
 
 ## Availability 

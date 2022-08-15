@@ -21,7 +21,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Streak SRM 6) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2047/marauder-mad-9m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2047) 
 - **Battle Value:** 1704 
 
 ## Availability 
@@ -40,19 +40,18 @@
 - Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
+- Regulan Fiefs 
 
 ### Late Republic 
 
 - Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
+- Regulan Fiefs 
 
 ### Dark Ages 
 
-- Duchy of Tamarind-Abbey 
-- Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Mercenary 
+- Regulan Fiefs 
 

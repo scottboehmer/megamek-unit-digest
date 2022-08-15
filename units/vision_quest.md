@@ -12,7 +12,7 @@
   - Clan Improved Gauss Rifle (ammo: 16) 
   - Clan ER Large Laser × 2 
   - Medium Pulse Laser × 3 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5355/vision-quest-vq-1nc) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5355) 
 - **Battle Value:** 2180 
 - [*More Info*](vision_quest/vision_quest_vq-1nc.md) 
 
@@ -30,7 +30,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7638/vision-quest-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7638) 
 - **Battle Value:** 2458 
 - [*More Info*](vision_quest/vision_quest_standard.md) 
 
@@ -49,7 +49,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7639/vision-quest-2) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7639) 
 - **Battle Value:** 2556 
 - [*More Info*](vision_quest/vision_quest_2.md) 
 

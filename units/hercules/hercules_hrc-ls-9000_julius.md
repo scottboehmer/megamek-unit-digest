@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1483/hercules-hrc-ls-9000-julius) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1483) 
 - **Battle Value:** 1661 
 
 ## Availability 

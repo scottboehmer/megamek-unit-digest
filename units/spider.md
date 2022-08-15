@@ -15,7 +15,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3010/spider-sdr-5v) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3010) 
 - **Battle Value:** 622 
 - [*More Info*](spider/spider_sdr-5v.md) 
 
@@ -35,7 +35,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3009/spider-sdr-5k) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3009) 
 - **Battle Value:** 503 
 - [*More Info*](spider/spider_sdr-5k.md) 
 
@@ -55,7 +55,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3008/spider-sdr-5d) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3008) 
 - **Battle Value:** 524 
 - [*More Info*](spider/spider_sdr-5d.md) 
 
@@ -74,7 +74,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3015/spider-sdr-7m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3015) 
 - **Battle Value:** 621 
 - [*More Info*](spider/spider_sdr-7m.md) 
 
@@ -96,7 +96,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3020/spider-sdr-c) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3020) 
 - **Battle Value:** 616 
 - [*More Info*](spider/spider_sdr-c.md) 
 
@@ -115,7 +115,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3017/spider-sdr-8m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3017) 
 - **Battle Value:** 621 
 - [*More Info*](spider/spider_sdr-8m.md) 
 
@@ -134,7 +134,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3011/spider-sdr-7k) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3011) 
 - **Battle Value:** 752 
 - [*More Info*](spider/spider_sdr-7k.md) 
 
@@ -153,7 +153,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3012/spider-sdr-7k2) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3012) 
 - **Battle Value:** 884 
 - [*More Info*](spider/spider_sdr-7k2.md) 
 
@@ -174,7 +174,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3013/spider-sdr-7kc) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3013) 
 - **Battle Value:** 732 
 - [*More Info*](spider/spider_sdr-7kc.md) 
 
@@ -195,7 +195,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3014/spider-sdr-7kr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3014) 
 - **Battle Value:** 775 
 - [*More Info*](spider/spider_sdr-7kr.md) 
 
@@ -216,7 +216,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3019/spider-sdr-8x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3019) 
 - **Battle Value:** 765 
 - [*More Info*](spider/spider_sdr-8x.md) 
 
@@ -236,7 +236,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3016/spider-sdr-8k) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3016) 
 - **Battle Value:** 1007 
 - [*More Info*](spider/spider_sdr-8k.md) 
 
@@ -255,7 +255,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3018/spider-sdr-8r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3018) 
 - **Battle Value:** 694 
 - [*More Info*](spider/spider_sdr-8r.md) 
 
@@ -274,7 +274,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8306/spider-sdr-9m) 
+- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8306) 
 - **Battle Value:** 687 
 - [*More Info*](spider/spider_sdr-9m.md) 
 
@@ -296,7 +296,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6933/spider-sdr-8xr) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6933) 
 - **Battle Value:** 754 
 - [*More Info*](spider/spider_sdr-8xr.md) 
 
@@ -315,7 +315,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6934/spider-sdr-10k) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6934) 
 - **Battle Value:** 824 
 - [*More Info*](spider/spider_sdr-10k.md) 
 

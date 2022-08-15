@@ -18,7 +18,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1182/gallowglas-gal-1gls) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1182) 
 - **Battle Value:** 1695 
 
 ## Availability 
@@ -92,4 +92,8 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

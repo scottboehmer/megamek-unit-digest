@@ -15,7 +15,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4674/morrigu-fire-support-vehicle-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4674) 
 - **Battle Value:** 1685 
 - [*More Info*](morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_standard.md) 
 
@@ -29,7 +29,7 @@
 - **Heat Sinks:** 36 (36) 
 - **Weapons:** 
   - ER Large Laser × 3 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4673/morrigu-fire-support-vehicle-laser) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4673) 
 - **Battle Value:** 1324 
 - [*More Info*](morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_laser.md) 
 
@@ -48,7 +48,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5738/morrigu-fire-support-vehicle-hag) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5738) 
 - **Battle Value:** 2059 
 - [*More Info*](morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_hag.md) 
 

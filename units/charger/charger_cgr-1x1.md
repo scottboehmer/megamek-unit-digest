@@ -26,7 +26,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/563/charger-cgr-1x1) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/563) 
 - **Battle Value:** 2009 
 
 ## Availability 

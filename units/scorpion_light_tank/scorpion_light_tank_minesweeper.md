@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Minesweeper 
-- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4996/scorpion-light-tank-minesweeper) 
+- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4996) 
 - **Battle Value:** 323 
 
 ## Availability 
@@ -33,6 +33,12 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Fronc Reaches 

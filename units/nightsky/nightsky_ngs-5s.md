@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2281/nightsky-ngs-5s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2281) 
 - **Battle Value:** 1045 
 
 ## Availability 

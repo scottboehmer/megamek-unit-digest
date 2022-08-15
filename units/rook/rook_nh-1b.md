@@ -17,7 +17,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2741/rook-nh-1b) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2741) 
 - **Battle Value:** 1227 
 
 ## Availability 
@@ -39,6 +39,10 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
 
 - Mercenary 
 

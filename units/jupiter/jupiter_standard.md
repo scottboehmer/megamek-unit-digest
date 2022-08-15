@@ -20,14 +20,14 @@
   - Fine Manipulators 
   - Improved Sensors 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1725/jupiter-standard) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1725) 
 - **Battle Value:** 2784 
 
 ## Availability 
 
 ### Jihad 
 
-- Clan Hell's Horses 
+- Clan Goliath Scorpion 
 - Clan Jade Falcon 
 
 ### Early Republic 
@@ -44,4 +44,13 @@
 
 - Clan Jade Falcon 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Jade Falcon) 
 

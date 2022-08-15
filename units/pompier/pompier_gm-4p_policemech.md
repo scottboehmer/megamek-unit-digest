@@ -16,7 +16,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7837/pompier-gm-4p-policemech) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7837) 
 - **Battle Value:** 148 
 
 ## Availability 
@@ -37,4 +37,10 @@
 - Mercenary 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Mercenary 
+- Pirate 
 

@@ -23,7 +23,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318/behemoth-stone-rhino-standard) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318) 
 - **Battle Value:** 3001 
 
 ## Availability 
@@ -94,18 +94,27 @@
 ### Early Republic 
 
 - Escorpión Imperio 
+- Rasalhague Dominion 
 - Raven Alliance 
 
 ### Late Republic 
 
 - Clan Hell's Horses 
 - Escorpión Imperio 
+- Rasalhague Dominion 
 - Raven Alliance 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
 - Escorpión Imperio 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 

@@ -22,7 +22,7 @@
   - Prototype 
   - Unbalanced 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3603/xanthos-xnt-2o) 
+- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3603) 
 - **Battle Value:** 1300 
 - [*More Info*](xanthos/xanthos_xnt-2o.md) 
 
@@ -42,7 +42,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3604/xanthos-xnt-3o) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3604) 
 - **Battle Value:** 1948 
 - [*More Info*](xanthos/xanthos_xnt-3o.md) 
 
@@ -65,7 +65,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3605/xanthos-xnt-4o) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3605) 
 - **Battle Value:** 2548 
 - [*More Info*](xanthos/xanthos_xnt-4o.md) 
 
@@ -85,7 +85,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3606/xanthos-xnt-5o) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3606) 
 - **Battle Value:** 2146 
 - [*More Info*](xanthos/xanthos_xnt-5o.md) 
 
@@ -108,7 +108,7 @@
   - Coolant Pod 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6825/xanthos-xnt-6o) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6825) 
 - **Battle Value:** 2320 
 - [*More Info*](xanthos/xanthos_xnt-6o.md) 
 
@@ -128,7 +128,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6824/xanthos-xnt-7o) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6824) 
 - **Battle Value:** 2620 
 - [*More Info*](xanthos/xanthos_xnt-7o.md) 
 

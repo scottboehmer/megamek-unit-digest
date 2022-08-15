@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Mace) 
   - Jettison-Capable Weapon (Ultra AC/5) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6616/storm-raider-stm-r2) 
+- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6616) 
 - **Battle Value:** 671 
 
 ## Availability 
@@ -68,5 +68,19 @@
 - Pirate 
 - Regulan Fiefs 
 - Republic of the Sphere 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

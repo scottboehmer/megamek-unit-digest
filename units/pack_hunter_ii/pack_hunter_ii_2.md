@@ -18,7 +18,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2397/pack-hunter-ii-2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2397) 
 - **Battle Value:** 1457 
 
 ## Availability 
@@ -38,4 +38,8 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Star League (Wolf) 
 

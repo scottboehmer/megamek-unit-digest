@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1927/loki-hellbringer-e) 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1927) 
 - **Battle Value:** 2304 
 
 ## Availability 
@@ -37,6 +37,7 @@
 - Clan Wolf-in-Exile 
 - ComStar 
 - Draconis Combine 
+- Escorpión Imperio 
 - Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
@@ -52,12 +53,14 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 
 ### Late Republic 
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Wolf-in-Exile 
+- Escorpión Imperio 
 
 ### Dark Ages 
 
@@ -67,6 +70,7 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Escorpión Imperio 
 - Federated Suns 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
@@ -76,4 +80,20 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Tamar Pact 
+- Vesper Marches 
 

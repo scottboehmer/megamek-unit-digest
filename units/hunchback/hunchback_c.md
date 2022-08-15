@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #21 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8353/hunchback-c) 
+- **Sources:** Rec Guide:ilClan #21 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8353) 
 - **Battle Value:** 1893 
 
 ## Availability 
@@ -36,4 +36,15 @@
 - Clan Wolf 
 - Lyran Commonwealth 
 - Rasalhague Dominion 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

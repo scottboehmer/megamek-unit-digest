@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/948/eldingar-hover-sled-streak) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/948) 
 - **Battle Value:** 1843 
 
 ## Availability 
@@ -29,6 +29,10 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Rasalhague Dominion 
 

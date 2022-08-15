@@ -15,7 +15,7 @@
   - ECM Suite 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/947/eldingar-hover-sled-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/947) 
 - **Battle Value:** 1402 
 - [*More Info*](eldingar_hover_sled/eldingar_hover_sled_standard.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/948/eldingar-hover-sled-streak) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/948) 
 - **Battle Value:** 1843 
 - [*More Info*](eldingar_hover_sled/eldingar_hover_sled_streak.md) 
 
@@ -51,7 +51,7 @@
   - Angel ECM Suite 
   - Targeting Computer 
   - Infantry (5.0 tons) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6758/eldingar-hover-sled-hmmhv-humhov) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6758) 
 - **Battle Value:** 1124 
 - [*More Info*](eldingar_hover_sled/eldingar_hover_sled_humhov.md) 
 

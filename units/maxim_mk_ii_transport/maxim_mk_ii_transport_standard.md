@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (16 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2129/maxim-mk-ii-transport-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2129) 
 - **Battle Value:** 476 
 
 ## Availability 
@@ -36,4 +36,13 @@
 - Draconis Combine 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

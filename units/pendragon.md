@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE II 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2464/pendragon-pdg-1x-muse-red) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2464) 
 - **Battle Value:** 2230 
 - [*More Info*](pendragon/pendragon_pdg-1x_muse_red.md) 
 
@@ -39,7 +39,7 @@
   - Difficult to Maintain 
   - Improved Targeting (Long) 
   - Rumble Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4799/pendragon-pdg-1r) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4799) 
 - **Battle Value:** 2151 
 - [*More Info*](pendragon/pendragon_pdg-1r.md) 
 
@@ -59,7 +59,7 @@
   - CASE II 
   - C3 Main 
   - Coolant Pod 
-- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/8000/pendragon-pdg-3r) 
+- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/8000) 
 - **Battle Value:** 1991 
 - [*More Info*](pendragon/pendragon_pdg-3r.md) 
 

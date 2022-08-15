@@ -25,7 +25,7 @@
   - Modular Weapon (LRM 15) 
   - Modular Weapon (LRM 15) 
   - Modular Weapon (ER Medium Pulse Laser) 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4013/cougar-xr-standard) 
+- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4013) 
 - **Battle Value:** 1783 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/398/blizzard-hover-transport-standard) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/398) 
 - **Battle Value:** 277 
 
 ## Availability 
@@ -79,6 +79,16 @@
 - Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
+- Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Capellan Confederation 
+- Fronc Reaches 
+- Kell Hounds 
+- Magistracy of Canopus 
+- Mercenary 
 - Taurian Concordat 
 - Wolf's Dragoons 
 

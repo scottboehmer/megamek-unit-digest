@@ -19,7 +19,7 @@
   - Command ’Mech 
   - Improved Cooling Jacket (Large Laser) 
   - Improved Cooling Jacket (Large Laser) 
-- **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/963/emperor-emp-5a) 
+- **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/963) 
 - **Battle Value:** 1830 
 
 ## Availability 

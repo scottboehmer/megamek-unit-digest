@@ -21,8 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/923/dragonfly-viper-g) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/923) 
 - **Battle Value:** 1574 
 
 ## Availability 
@@ -40,6 +39,7 @@
 - Clan Wolf-in-Exile 
 - ComStar 
 - Draconis Combine 
+- Escorpión Imperio 
 - Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
@@ -52,18 +52,29 @@
 ### Early Republic 
 
 - Clan Hell's Horses 
+- Escorpión Imperio 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Late Republic 
 
 - Clan Hell's Horses 
+- Escorpión Imperio 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
+- Escorpión Imperio 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
 

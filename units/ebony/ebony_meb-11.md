@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/941/ebony-meb-11) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/941) 
 - **Battle Value:** 1135 
 
 ## Availability 
@@ -33,6 +33,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

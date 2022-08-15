@@ -19,7 +19,7 @@
   - C3 Boosted Main 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1350/gunslinger-gun-2erdr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1350) 
 - **Battle Value:** 2371 
 
 ## Availability 
@@ -40,6 +40,11 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

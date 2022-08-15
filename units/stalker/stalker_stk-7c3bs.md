@@ -22,7 +22,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3042/stalker-stk-7c3bs) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3042) 
 - **Battle Value:** 1712 
 
 ## Availability 
@@ -40,6 +40,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

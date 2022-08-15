@@ -14,7 +14,7 @@
   - 'Mech Mortar/8 × 2 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6251/gurzil-support-tank-standard) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6251) 
 - **Battle Value:** 1671 
 - [*More Info*](gurzil_support_tank/gurzil_support_tank_standard.md) 
 

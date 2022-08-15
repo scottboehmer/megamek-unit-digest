@@ -16,7 +16,7 @@
   - ER Micro Laser × 12 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2536/piranha-2) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2536) 
 - **Battle Value:** 853 
 
 ## Availability 
@@ -47,5 +47,11 @@
 - Clan Hell's Horses 
 - Clan Sea Fox 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
 - Scorpion Empire 
 

@@ -13,12 +13,19 @@
 - **Weapons:** 
   - Combine 
   - Vehicle Flamer (ammo: 20) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7856/demeter-wld-1-m-agromech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7856) 
 - **Battle Value:** 332 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Draconis Combine 
 - Federated Suns 

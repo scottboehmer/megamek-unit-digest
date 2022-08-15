@@ -4,7 +4,7 @@
 
 ## Vulpes VLP-1DX 'Beast' 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere Mixed (3134) 
 - **Chassis:** 60 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -19,12 +19,16 @@
   - Advanced Point Defense System (ammo: 12) 
   - Clan Talons 
   - Drone Operating System 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8382/vulpes-vlp-1dx-beast) 
+- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8382) 
 - **Battle Value:** 1288 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

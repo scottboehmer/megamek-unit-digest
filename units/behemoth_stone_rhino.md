@@ -22,7 +22,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3814/behemoth-stone-rhino-4) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3814) 
 - **Battle Value:** 2601 
 - [*More Info*](stone_rhino/stone_rhino_4.md) 
 
@@ -32,7 +32,7 @@
 - **Tech Base:** Clan (2846) 
 - **Chassis:** 100 tons 
 - **Movement:** 4 / 6, XL 
-- **Armor:** 262 
+- **Armor:** 264 
 - **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - ER Medium Laser × 6 
@@ -45,8 +45,8 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3815/behemoth-stone-rhino-5) 
-- **Battle Value:** 2151 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3815) 
+- **Battle Value:** 2157 
 - [*More Info*](stone_rhino/stone_rhino_5.md) 
 
 ## Stone Rhino (Standard) "Behemoth" 
@@ -70,7 +70,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318/behemoth-stone-rhino-standard) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318) 
 - **Battle Value:** 3001 
 - [*More Info*](stone_rhino/stone_rhino_standard.md) 
 
@@ -92,7 +92,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3816/behemoth-stone-rhino-6) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3816) 
 - **Battle Value:** 2981 
 - [*More Info*](stone_rhino/stone_rhino_6.md) 
 
@@ -115,7 +115,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7448/behemoth-stone-rhino-7) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7448) 
 - **Battle Value:** 2916 
 - [*More Info*](stone_rhino/stone_rhino_7.md) 
 
@@ -143,7 +143,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/319/behemoth-stone-rhino-2) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/319) 
 - **Battle Value:** 3107 
 - [*More Info*](stone_rhino/stone_rhino_2.md) 
 
@@ -168,7 +168,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/320/behemoth-stone-rhino-3) 
+- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/320) 
 - **Battle Value:** 3072 
 - [*More Info*](stone_rhino/stone_rhino_3.md) 
 
@@ -193,7 +193,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449/behemoth-stone-rhino-8) 
+- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449) 
 - **Battle Value:** 2804 
 - [*More Info*](stone_rhino/stone_rhino_8.md) 
 

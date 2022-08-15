@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2177/merlin-mln-1a) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2177) 
 - **Battle Value:** 1217 
 - [*More Info*](merlin/merlin_mln-1a.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2178/merlin-mln-1b) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2178) 
 - **Battle Value:** 1228 
 - [*More Info*](merlin/merlin_mln-1b.md) 
 
@@ -59,7 +59,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2179/merlin-mln-1b-porter) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2179) 
 - **Battle Value:** 1233 
 - [*More Info*](merlin/merlin_mln-1b_porter.md) 
 
@@ -80,7 +80,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2180/merlin-mln-1c) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2180) 
 - **Battle Value:** 1267 
 - [*More Info*](merlin/merlin_mln-1c.md) 
 
@@ -99,7 +99,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** XTRO Boondocks - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2181/merlin-mln-sx) 
+- **Sources:** XTRO Boondocks - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2181) 
 - **Battle Value:** 1121 
 - [*More Info*](merlin/merlin_mln-sx.md) 
 

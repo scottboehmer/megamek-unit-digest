@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1186/gallowglas-gal-4gls) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1186) 
 - **Battle Value:** 1944 
 
 ## Availability 
@@ -48,4 +48,8 @@
 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Mercenary 
 

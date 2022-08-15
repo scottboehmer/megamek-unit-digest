@@ -15,8 +15,7 @@
   - Flamer 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/592/cicada-cda-2b) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/592) 
 - **Battle Value:** 626 
 
 ## Availability 

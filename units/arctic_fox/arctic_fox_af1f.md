@@ -14,9 +14,8 @@
   - MML 7 × 2 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 3 
 - **Design Quirks:** 
-  - No Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/97/arctic-fox-af1f) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/97) 
 - **Battle Value:** 891 
 
 ## Availability 
@@ -56,4 +55,10 @@
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
 

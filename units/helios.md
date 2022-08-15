@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1464/helios-hel-3d) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1464) 
 - **Battle Value:** 1618 
 - [*More Info*](helios/helios_hel-3d.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1465/helios-hel-4a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1465) 
 - **Battle Value:** 1519 
 - [*More Info*](helios/helios_hel-4a.md) 
 
@@ -60,7 +60,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1467/helios-hel-c) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1467) 
 - **Battle Value:** 1533 
 - [*More Info*](helios/helios_hel-c.md) 
 
@@ -82,7 +82,7 @@
   - C3i 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1466/helios-hel-6x) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1466) 
 - **Battle Value:** 1761 
 - [*More Info*](helios/helios_hel-6x.md) 
 

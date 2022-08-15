@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Support 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/898/di-morgan-assault-tank-gauss) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/898) 
 - **Battle Value:** 1436 
 
 ## Availability 
@@ -70,4 +70,15 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

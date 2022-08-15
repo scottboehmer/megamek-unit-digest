@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/374/blackjack-bj-1db) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/374) 
 - **Battle Value:** 1015 
 
 ## Availability 

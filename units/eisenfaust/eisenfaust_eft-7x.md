@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Protected Actuators 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/945/eisenfaust-eft-7x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/945) 
 - **Battle Value:** 1203 
 
 ## Availability 
@@ -49,4 +49,11 @@
 - Marian Hegemony 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Vesper Marches 
 

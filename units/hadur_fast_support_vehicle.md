@@ -12,7 +12,7 @@
   - Arrow IV (ammo: 20) 
   - ER Medium Laser × 2 
   - AP Gauss Rifle × 2 (ammo: 40) 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6248/hadur-fast-support-vehicle-standard) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6248) 
 - **Battle Value:** 1512 
 - [*More Info*](hadur_fast_support_vehicle/hadur_fast_support_vehicle_standard.md) 
 

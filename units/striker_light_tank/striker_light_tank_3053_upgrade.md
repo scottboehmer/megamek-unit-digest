@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV (ammo: 8) 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3098/striker-light-tank-3053-upgrade) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3098) 
 - **Battle Value:** 691 
 
 ## Availability 
@@ -76,4 +76,15 @@
 - Filtvelt Coalition 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

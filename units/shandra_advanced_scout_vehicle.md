@@ -12,7 +12,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6699/shandra-advanced-scout-vehicle-original) 
+- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6699) 
 - **Battle Value:** 302 
 - [*More Info*](shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_original.md) 
 
@@ -30,7 +30,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6654/shandra-advanced-scout-vehicle-standard) 
+- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6654) 
 - **Battle Value:** 417 
 - [*More Info*](shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_standard.md) 
 

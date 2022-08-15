@@ -20,7 +20,7 @@
   - Communications Equipment 
   - Cargo 
   - Searchlight 
-- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4595/marco-mr-7-explorermech) 
+- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4595) 
 - **Battle Value:** 295 
 
 ## Availability 

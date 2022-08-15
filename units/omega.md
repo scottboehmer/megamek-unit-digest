@@ -2,7 +2,7 @@
 
 ## Omega SHP-4X 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3078) 
 - **Chassis:** 150 tons (Superheavy Endo Steel) 
 - **Movement:** 2 / 3, XL 
@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE II 
   - C3i 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4746/omega-shp-x4) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4746) 
 - **Battle Value:** 3001 
 - [*More Info*](omega/omega_shp-4x.md) 
 

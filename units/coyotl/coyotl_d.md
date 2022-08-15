@@ -21,7 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7608/coyotl-d) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7608) 
 - **Battle Value:** 1980 
 
 ## Availability 
@@ -35,4 +35,16 @@
 - Lyran Commonwealth 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Federated Suns 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Star League (Smoke Jaguar) 
+- Tamar Pact 
 

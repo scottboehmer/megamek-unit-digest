@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/436/buccaneer-bcn-3r) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/436) 
 - **Battle Value:** 1434 
 
 ## Availability 
@@ -54,4 +54,8 @@
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
 

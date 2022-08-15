@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2863/sentinel-stn-4d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2863) 
 - **Battle Value:** 1179 
 
 ## Availability 

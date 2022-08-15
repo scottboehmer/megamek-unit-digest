@@ -18,7 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6265/gravedigger-gdr-1c) 
+- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6265) 
 - **Battle Value:** 1342 
 
 ## Availability 
@@ -32,6 +32,10 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
 
 - Mercenary 
 

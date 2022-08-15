@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2377/ostsol-otl-8d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2377) 
 - **Battle Value:** 1462 
 
 ## Availability 
@@ -39,6 +39,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

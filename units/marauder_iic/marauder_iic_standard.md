@@ -19,7 +19,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2065/marauder-iic-standard) 
+- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2065) 
 - **Battle Value:** 2680 
 
 ## Availability 
@@ -93,16 +93,26 @@
 
 - Clan Jade Falcon 
 - Rasalhague Dominion 
+- Republic of the Sphere 
 - Wolf's Dragoons 
 
 ### Late Republic 
 
 - Clan Jade Falcon 
 - Rasalhague Dominion 
+- Republic of the Sphere 
 - Wolf's Dragoons 
 
 ### Dark Ages 
 
+- Clan Jade Falcon 
+- Rasalhague Dominion 
+- Republic of the Sphere 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
 - Clan Jade Falcon 
 - Rasalhague Dominion 
 - Wolf's Dragoons 

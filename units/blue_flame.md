@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3840/blue-flame-blf-21) 
+- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3840) 
 - **Battle Value:** 1256 
 - [*More Info*](blue_flame/blue_flame_blf-21.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5672/blue-flame-blf-40) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5672) 
 - **Battle Value:** 1195 
 - [*More Info*](blue_flame/blue_flame_blf-40.md) 
 

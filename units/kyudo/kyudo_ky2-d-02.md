@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1851/kyudo-ky2-d-02) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1851) 
 - **Battle Value:** 1286 
 
 ## Availability 

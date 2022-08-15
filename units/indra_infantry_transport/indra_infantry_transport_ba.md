@@ -18,7 +18,7 @@
   - B-Pod 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1612/indra-infantry-transport-ba) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1612) 
 - **Battle Value:** 728 
 
 ## Availability 
@@ -45,4 +45,14 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Lyran Commonwealth 
+- Star League (Jade Falcon) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Wolf Empire 
 

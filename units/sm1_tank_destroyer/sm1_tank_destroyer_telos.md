@@ -4,7 +4,7 @@
 
 ## SM1 Tank Destroyer (Telos) 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3077) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 8 / 12, Fusion 
@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5607/sm-tank-destroyer-sm1-telos) 
+- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5607) 
 - **Battle Value:** 1055 
 
 ## Availability 
@@ -34,6 +34,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

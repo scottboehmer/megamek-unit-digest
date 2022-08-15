@@ -16,7 +16,7 @@
   - Medium Vibroblade 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/903/dola-dol-1a) 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/903) 
 - **Battle Value:** 911 
 - [*More Info*](dola/dola_dol-1a.md) 
 
@@ -36,7 +36,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Sword) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4086/dola-dol-1a1) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4086) 
 - **Battle Value:** 950 
 - [*More Info*](dola/dola_dol-1a1.md) 
 
@@ -56,7 +56,7 @@
   - TAG 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Small Vibroblade) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4087/dola-dol-1a2-yoh-ti-tsang) 
+- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4087) 
 - **Battle Value:** 791 
 - [*More Info*](dola/dola_dol-1a2_yoh_ti_tsangs.md) 
 

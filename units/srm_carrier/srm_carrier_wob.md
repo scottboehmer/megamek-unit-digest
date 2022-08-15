@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - C3i 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3031/srm-carrier-wob) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3031) 
 - **Battle Value:** 958 
 
 ## Availability 

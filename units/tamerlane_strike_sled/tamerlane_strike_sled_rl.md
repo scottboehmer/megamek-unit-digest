@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Rocket 10 × 4 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3157/tamerlane-strike-sled-rl) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3157) 
 - **Battle Value:** 484 
 
 ## Availability 
@@ -34,6 +34,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Fronc Reaches 
 - Magistracy of Canopus 

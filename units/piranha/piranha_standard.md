@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2535/piranha-standard) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2535) 
 - **Battle Value:** 998 
 
 ## Availability 
@@ -108,6 +108,13 @@
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
+- Raven Alliance 
+- Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
 - Raven Alliance 
 - Scorpion Empire 
 

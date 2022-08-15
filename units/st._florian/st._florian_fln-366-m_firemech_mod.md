@@ -17,7 +17,7 @@
   - Enviro-Sealing 
   - Coolant Pod × 3 
   - Searchlight × 2 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7826/st-florian-fln-366-m-firemech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7826) 
 - **Battle Value:** 1266 
 
 ## Availability 
@@ -25,6 +25,12 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+- Lyran Commonwealth 
+- Mercenary 
+- Pirate 
+
+### ilClan 
+
 - Lyran Commonwealth 
 - Mercenary 
 - Pirate 

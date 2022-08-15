@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7501/awesome-aws-11h) 
+- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7501) 
 - **Battle Value:** 2036 
 
 ## Availability 
@@ -29,4 +29,15 @@
 - Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

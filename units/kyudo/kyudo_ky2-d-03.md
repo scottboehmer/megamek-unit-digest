@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1852/kyudo-ky2-d-03) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1852) 
 - **Battle Value:** 1131 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Duchy of Andurien 
 
 ### Dark Ages 
+
+- Duchy of Andurien 
+
+### ilClan 
 
 - Duchy of Andurien 
 

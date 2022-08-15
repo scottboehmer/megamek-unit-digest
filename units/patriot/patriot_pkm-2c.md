@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Stable 
-- **Sources:** TRO 3075U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2447/patriot-pkm-2c) 
+- **Sources:** TRO 3075U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2447) 
 - **Battle Value:** 1613 
 
 ## Availability 
@@ -43,4 +43,8 @@
 
 - Free Worlds League 
 - Regulan Fiefs 
+
+### ilClan 
+
+- Free Worlds League 
 

@@ -21,7 +21,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3232/thunderbolt-tdr-10m) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3232) 
 - **Battle Value:** 1727 
 
 ## Availability 
@@ -63,4 +63,11 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

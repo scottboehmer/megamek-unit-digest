@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3372/valkyrie-vlk-qa) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3372) 
 - **Battle Value:** 723 
 
 ## Availability 
@@ -103,4 +103,10 @@
 - Fronc Reaches 
 - Pirate 
 - Taurian Concordat 
+
+### ilClan 
+
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Pirate 
 

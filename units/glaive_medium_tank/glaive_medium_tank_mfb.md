@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Mobile Field Base 
   - Limited Amphibious Chassis 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5729/glaive-medium-tank-mfb) 
+- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5729) 
 - **Battle Value:** 249 
 
 ## Availability 
@@ -37,4 +37,12 @@
 - Clan Jade Falcon 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

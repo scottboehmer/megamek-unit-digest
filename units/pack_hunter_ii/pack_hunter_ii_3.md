@@ -18,7 +18,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2398/pack-hunter-ii-3) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2398) 
 - **Battle Value:** 1438 
 
 ## Availability 
@@ -40,4 +40,10 @@
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
+- Star League (Wolf) 
 

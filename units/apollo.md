@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/54/apollo-apl-1m) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/54) 
 - **Battle Value:** 1207 
 - [*More Info*](apollo/apollo_apl-1m.md) 
 
@@ -32,7 +32,7 @@
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/55/apollo-apl-1r) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/55) 
 - **Battle Value:** 1148 
 - [*More Info*](apollo/apollo_apl-1r.md) 
 
@@ -50,7 +50,7 @@
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/56/apollo-apl-2s) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/56) 
 - **Battle Value:** 1283 
 - [*More Info*](apollo/apollo_apl-2s.md) 
 
@@ -69,7 +69,7 @@
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/57/apollo-apl-3t) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/57) 
 - **Battle Value:** 1240 
 - [*More Info*](apollo/apollo_apl-3t.md) 
 
@@ -90,7 +90,7 @@
   - Fast Reload (All Weapons) 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3706/apollo-apl-4m) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3706) 
 - **Battle Value:** 1302 
 - [*More Info*](apollo/apollo_apl-4m.md) 
 

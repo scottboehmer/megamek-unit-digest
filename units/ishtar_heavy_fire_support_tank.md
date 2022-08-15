@@ -14,7 +14,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1634/ishtar-heavy-fire-support-tank-original) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1634) 
 - **Battle Value:** 1072 
 - [*More Info*](ishtar_heavy_fire_support_tank/ishtar_heavy_fire_support_tank_original.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 48) 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1635/ishtar-heavy-fire-support-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1635) 
 - **Battle Value:** 1404 
 - [*More Info*](ishtar_heavy_fire_support_tank/ishtar_heavy_fire_support_tank_standard.md) 
 
@@ -53,7 +53,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1633/ishtar-heavy-fire-support-tank-gauss) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1633) 
 - **Battle Value:** 1616 
 - [*More Info*](ishtar_heavy_fire_support_tank/ishtar_heavy_fire_support_tank_gauss.md) 
 

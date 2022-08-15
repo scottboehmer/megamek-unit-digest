@@ -21,7 +21,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Gauss Rifle) 
-- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2043/marauder-mad-5s) 
+- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2043) 
 - **Battle Value:** 1799 
 
 ## Availability 
@@ -73,5 +73,10 @@
 
 - Filtvelt Coalition 
 - Lyran Commonwealth 
+- Mercenary 
+
+### ilClan 
+
+- Filtvelt Coalition 
 - Mercenary 
 

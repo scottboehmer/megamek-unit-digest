@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - TAG 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2404/padilla-heavy-artillery-tank-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2404) 
 - **Battle Value:** 1135 
 - [*More Info*](padilla_heavy_artillery_tank/padilla_heavy_artillery_tank_standard.md) 
 
@@ -30,7 +30,7 @@
   - LRM 20 × 2 (ammo: 36) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2403/padilla-heavy-artillery-tank-lrm) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2403) 
 - **Battle Value:** 1113 
 - [*More Info*](padilla_heavy_artillery_tank/padilla_heavy_artillery_tank_lrm.md) 
 

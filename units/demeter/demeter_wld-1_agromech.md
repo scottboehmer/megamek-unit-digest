@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Extended Fuel Tank 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7855/demeter-wld-1-agromech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7855) 
 - **Battle Value:** 339 
 
 ## Availability 
@@ -30,4 +30,9 @@
 - Draconis Combine 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
 

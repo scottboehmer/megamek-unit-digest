@@ -11,7 +11,7 @@
 - **Weapons:** 
   - PPC × 3 
   - LRM 10 (ammo: 12) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/445/burke-defense-tank-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/445) 
 - **Battle Value:** 815 
 - [*More Info*](burke_defense_tank/burke_defense_tank_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - PPC × 3 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/444/burke-defense-tank-royal) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/444) 
 - **Battle Value:** 1105 
 - [*More Info*](burke_defense_tank/burke_defense_tank_royal.md) 
 
@@ -43,7 +43,7 @@
   - Streak SRM 4 (ammo: 50) 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/443/burke-defense-tank-hppc) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/443) 
 - **Battle Value:** 875 
 - [*More Info*](burke_defense_tank/burke_defense_tank_hppc.md) 
 

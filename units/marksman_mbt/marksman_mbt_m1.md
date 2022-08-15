@@ -16,7 +16,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
   - MRM 10 × 2 (ammo: 24) 
   - Machine Gun × 4 (ammo: 100) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2078/marksman-mbt-m1) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2078) 
 - **Battle Value:** 1474 
 
 ## Availability 
@@ -66,4 +66,19 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3173/thanatos-tns-4s-felix) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3173) 
 - **Battle Value:** 2122 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Inner Sphere CASE 
 - **Design Quirks:** 
   - Vestigial Hands 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7683/excalibur-exc-b2b-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7683) 
 - **Battle Value:** 2001 
 
 ## Availability 

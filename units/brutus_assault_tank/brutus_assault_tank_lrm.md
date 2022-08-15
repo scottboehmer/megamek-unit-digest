@@ -14,7 +14,7 @@
   - LRM 20 × 2 (ammo: 36) 
   - SRM 6 × 2 (ammo: 15) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/432/brutus-assault-tank-lrm) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/432) 
 - **Battle Value:** 1248 
 
 ## Availability 
@@ -126,4 +126,16 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

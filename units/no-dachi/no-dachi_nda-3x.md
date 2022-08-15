@@ -21,24 +21,12 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2298/no-dachi-nda-3x) 
+- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2298) 
 - **Battle Value:** 2609 
 
 ## Availability 
 
 ### Jihad (Unique) 
-
-- Draconis Combine 
-
-### Early Republic 
-
-- Draconis Combine 
-
-### Late Republic 
-
-- Draconis Combine 
-
-### Dark Ages 
 
 - Draconis Combine 
 

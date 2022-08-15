@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/836/darter-scout-car-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/836) 
 - **Battle Value:** 125 
 
 ## Availability 
@@ -74,4 +74,13 @@
 - Filtvelt Coalition 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

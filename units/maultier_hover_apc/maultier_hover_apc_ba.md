@@ -14,7 +14,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2104/maultier-hover-apc-ba) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2104) 
 - **Battle Value:** 165 
 
 ## Availability 
@@ -34,6 +34,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

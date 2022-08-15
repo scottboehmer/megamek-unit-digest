@@ -22,7 +22,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1262/grand-dragon-drg-7kc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1262) 
 - **Battle Value:** 1673 
 
 ## Availability 
@@ -40,6 +40,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

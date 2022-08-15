@@ -23,7 +23,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (RAC/5) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2042/marauder-mad-5r) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2042) 
 - **Battle Value:** 1877 
 
 ## Availability 
@@ -46,6 +46,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Mercenary 

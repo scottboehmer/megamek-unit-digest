@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser 
   - Sniper (ammo: 20) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2077/marksman-artillery-vehicle-standard) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2077) 
 - **Battle Value:** 688 
 
 ## Availability 

@@ -17,35 +17,31 @@
 - **Equipment:** 
   - CASE 
   - Infantry (3.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3138/svantovit-infantry-fighting-vehicle-original) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3138) 
 - **Battle Value:** 889 
 
 ## Availability 
 
 ### Clan Invasion 
 
-- Capellan Confederation 
 - Clan Blood Spirit 
 - Clan Burrock 
 - Clan Cloud Cobra 
 - Clan Coyote 
+- Clan Diamond Shark 
 - Clan Fire Mandrill 
+- Clan Ghost Bear 
 - Clan Goliath Scorpion 
 - Clan Hell's Horses 
 - Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
 - Clan Snow Raven 
 - Clan Star Adder 
-- ComStar 
-- Draconis Combine 
-- Federated Commonwealth 
-- Federated Suns 
-- Free Rasalhague Republic 
-- Free Worlds League 
-- Lyran Alliance 
-- Lyran Commonwealth 
-- Second Star League 
-- St. Ives Compact 
-- Word of Blake 
+- Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 
 ### Civil War 
 
@@ -120,4 +116,21 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

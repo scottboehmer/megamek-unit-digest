@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Unbalanced 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5783/black-knight-bl-x-knt-red-reaper) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5783) 
 - **Battle Value:** 1858 
 
 ## Availability 

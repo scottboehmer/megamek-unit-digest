@@ -4,7 +4,7 @@
 
 ## Tolva (Standard) 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Clan (3145) 
 - **Chassis:** 40 tons Quad (Endo Steel) 
 - **Movement:** 5 / 8 
@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Quad Turret 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7882/tolva-standard) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7882) 
 - **Battle Value:** 1449 
 
 ## Availability 
@@ -28,5 +28,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

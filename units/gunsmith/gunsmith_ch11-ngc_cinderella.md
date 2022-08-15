@@ -4,7 +4,7 @@
 
 ## Gunsmith CH11-NGC 'Cinderella' 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere Mixed (3131) 
 - **Chassis:** 25 tons (Endo Steel) 
 - **Movement:** 8 / 12, XL 
@@ -16,12 +16,16 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - Full Head Ejection System 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8367/gunsmith-ch11-ngc-cinderella) 
+- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8367) 
 - **Battle Value:** 1519 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Solaris 7 
+
+### ilClan (Unique) 
 
 - Solaris 7 
 

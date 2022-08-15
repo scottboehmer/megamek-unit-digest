@@ -13,8 +13,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/591/cicada-cda-2a) 
+- **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/591) 
 - **Battle Value:** 659 
 - [*More Info*](cicada/cicada_cda-2a.md) 
 
@@ -31,8 +30,7 @@
   - Flamer 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/592/cicada-cda-2b) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/592) 
 - **Battle Value:** 626 
 - [*More Info*](cicada/cicada_cda-2b.md) 
 
@@ -49,8 +47,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/593/cicada-cda-3c) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/593) 
 - **Battle Value:** 771 
 - [*More Info*](cicada/cicada_cda-3c.md) 
 
@@ -70,8 +67,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/596/cicada-cda-3m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/596) 
 - **Battle Value:** 812 
 - [*More Info*](cicada/cicada_cda-3m.md) 
 
@@ -89,8 +85,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/594/cicada-cda-3f) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/594) 
 - **Battle Value:** 1329 
 - [*More Info*](cicada/cicada_cda-3f.md) 
 
@@ -110,8 +105,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/595/cicada-cda-3g) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/595) 
 - **Battle Value:** 1270 
 - [*More Info*](cicada/cicada_cda-3g.md) 
 
@@ -129,8 +123,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/597/cicada-cda-3ma) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/597) 
 - **Battle Value:** 1158 
 - [*More Info*](cicada/cicada_cda-3ma.md) 
 
@@ -147,8 +140,7 @@
   - ER Medium Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/598/cicada-cda-3p) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/598) 
 - **Battle Value:** 1502 
 - [*More Info*](cicada/cicada_cda-3p.md) 
 

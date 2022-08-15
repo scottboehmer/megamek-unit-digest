@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2916/shadow-hawk-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2916) 
 - **Battle Value:** 1907 
 
 ## Availability 
@@ -41,6 +41,11 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Clan Hell's Horses 
 - Rasalhague Dominion 

@@ -21,7 +21,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2931/shogun-c) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2931) 
 - **Battle Value:** 3008 
 
 ## Availability 
@@ -53,19 +53,25 @@
 - Clan Coyote 
 - Clan Ice Hellion 
 - Clan Star Adder 
-- Escorpión Imperio 
 - Wolf's Dragoons 
 
 ### Early Republic 
 
-- Escorpión Imperio 
+- Clan Diamond Shark 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
-- Escorpión Imperio 
+- Clan Sea Fox 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
-- Escorpión Imperio 
-- Scorpion Empire 
+- Clan Sea Fox 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Wolf's Dragoons 
 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1818/koryu-submarine-civilian) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1818) 
 - **Battle Value:** 87 
 
 ## Availability 
@@ -42,6 +42,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

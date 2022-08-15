@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2615/quickdraw-qkd-5mr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2615) 
 - **Battle Value:** 1465 
 
 ## Availability 
@@ -120,4 +120,24 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Rasalhague Dominion 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6464/catapult-ii-cplt-l7) 
+- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6464) 
 - **Battle Value:** 2574 
 
 ## Availability 
@@ -26,6 +26,11 @@
 
 - Capellan Confederation 
 - Duchy of Andurien 
-- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
 - Mercenary 
 

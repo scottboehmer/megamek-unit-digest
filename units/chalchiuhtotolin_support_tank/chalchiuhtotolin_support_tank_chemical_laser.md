@@ -17,7 +17,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Inner Sphere Chaff Pod × 2 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3938/chalchiuhtotolin-support-tank-chemical-laser) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3938) 
 - **Battle Value:** 1180 
 
 ## Availability 
@@ -35,4 +35,11 @@
 
 - Clan Jade Falcon 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Lyran Commonwealth 
+- Tamar Pact 
 

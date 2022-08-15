@@ -14,7 +14,7 @@
   - MML 5 × 2 (ammo: 48 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1789/kinnol-mbt-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1789) 
 - **Battle Value:** 1226 
 - [*More Info*](kinnol_mbt/kinnol_mbt_standard.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1788/kinnol-mbt-ppc) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1788) 
 - **Battle Value:** 1212 
 - [*More Info*](kinnol_mbt/kinnol_mbt_ppc.md) 
 
@@ -51,7 +51,7 @@
   - MML 5 × 2 (ammo: 48 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6796/kinnol-mbt-rac) 
+- **Sources:** RS 3145 NTNU - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6796) 
 - **Battle Value:** 1355 
 - [*More Info*](kinnol_mbt/kinnol_mbt_rac.md) 
 

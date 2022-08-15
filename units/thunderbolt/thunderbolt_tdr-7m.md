@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3244/thunderbolt-tdr-7m) 
+- **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3244) 
 - **Battle Value:** 1495 
 
 ## Availability 
@@ -102,6 +102,12 @@
 - Regulan Fiefs 
 
 ### Dark Ages 
+
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+
+### ilClan 
 
 - Magistracy of Canopus 
 - Marian Hegemony 

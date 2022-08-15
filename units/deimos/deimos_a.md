@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/853/deimos-a) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/853) 
 - **Battle Value:** 2785 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Raven Alliance 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

@@ -19,7 +19,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2941/shootist-st-9c) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2941) 
 - **Battle Value:** 1727 
 
 ## Availability 

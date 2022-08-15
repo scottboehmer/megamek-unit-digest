@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2018/manticore-heavy-tank-hppc) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2018) 
 - **Battle Value:** 1060 
 
 ## Availability 
@@ -62,4 +62,17 @@
 - Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

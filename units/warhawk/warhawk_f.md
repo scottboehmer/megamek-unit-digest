@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #20 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5491/masakari-warhawk-f) 
+- **Sources:** Rec Guide:ilClan #20 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5491) 
 - **Battle Value:** 2775 
 
 ## Availability 
@@ -125,5 +125,9 @@
 ### Dark Ages 
 
 - Escorpión Imperio 
+- Scorpion Empire 
+
+### ilClan 
+
 - Scorpion Empire 
 

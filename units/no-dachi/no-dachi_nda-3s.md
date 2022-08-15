@@ -22,7 +22,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5692/no-dachi-nda-3s) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5692) 
 - **Battle Value:** 1706 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Lyran Commonwealth 
 
 ### Dark Ages 
+
+- Lyran Commonwealth 
+
+### ilClan 
 
 - Lyran Commonwealth 
 

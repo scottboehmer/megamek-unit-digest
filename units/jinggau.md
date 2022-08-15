@@ -15,9 +15,8 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1708/jinggau-jn-g8a) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1708) 
 - **Battle Value:** 2072 
 - [*More Info*](jinggau/jinggau_jn-g8a.md) 
 
@@ -35,9 +34,8 @@
   - Medium Laser × 6 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1707/jinggau-jn-g7l) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1707) 
 - **Battle Value:** 2137 
 - [*More Info*](jinggau/jinggau_jn-g7l.md) 
 
@@ -60,9 +58,8 @@
   - TAG 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
   - Weak Head Armor (2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1709/jinggau-jn-g8bx-rush) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1709) 
 - **Battle Value:** 1337 
 - [*More Info*](jinggau/jinggau_jn-g8bx_rush.md) 
 
@@ -86,9 +83,8 @@
   - MASC 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-  - No Torso Twist 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1710/jinggau-jn-g9cc) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1710) 
 - **Battle Value:** 1656 
 - [*More Info*](jinggau/jinggau_jn-g9cc.md) 
 

@@ -19,8 +19,7 @@
   - TAG 
 - **Design Quirks:** 
   - Good Reputation 
-  - No Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1988/maelstrom-mtr-5k) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1988) 
 - **Battle Value:** 1694 
 
 ## Availability 
@@ -57,50 +56,29 @@
 
 ### Early Republic 
 
-- Capellan Confederation 
 - Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
 - Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
 
 ### Late Republic 
 
-- Capellan Confederation 
 - Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
 - Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
 
 ### Dark Ages 
 
-- Capellan Confederation 
 - Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
 - Federated Suns 
-- Free Worlds League 
-- Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
+
+### ilClan 
+
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
 

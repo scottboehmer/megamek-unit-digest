@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LB 20-X AC × 2 (ammo: 20 Cluster, 20 Standard) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4181/fortune-wheeled-assault-vehicle-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4181) 
 - **Battle Value:** 1349 
 - [*More Info*](fortune_wheeled_assault_vehicle/fortune_wheeled_assault_vehicle_standard.md) 
 
@@ -28,7 +28,7 @@
   - Flamer 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5737/fortune-wheeled-assault-vehicle-thunderbolt) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5737) 
 - **Battle Value:** 1402 
 - [*More Info*](fortune_wheeled_assault_vehicle/fortune_wheeled_assault_vehicle_thunderbolt.md) 
 
@@ -46,7 +46,7 @@
 - **Equipment:** 
   - C3 Main 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1149/fortune-wheeled-assault-vehicle-c3m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1149) 
 - **Battle Value:** 1178 
 - [*More Info*](fortune_wheeled_assault_vehicle/fortune_wheeled_assault_vehicle_c3m.md) 
 

@@ -16,7 +16,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3454/von-luckner-heavy-tank-vnl-k75n) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3454) 
 - **Battle Value:** 1350 
 
 ## Availability 
@@ -48,6 +48,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

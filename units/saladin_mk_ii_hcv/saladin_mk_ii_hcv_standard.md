@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - Streak SRM 4 (ammo: 25) 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6371/saladin-mk-ii-hcv-standard) 
+- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6371) 
 - **Battle Value:** 862 
 
 ## Availability 
@@ -21,6 +21,12 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Draconis Combine 
+- Free Worlds League 
+- Mercenary 
+
+### ilClan 
+
 - Draconis Combine 
 - Free Worlds League 
 - Mercenary 

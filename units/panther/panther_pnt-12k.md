@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2419/panther-pnt-12k) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2419) 
 - **Battle Value:** 930 
 
 ## Availability 
@@ -41,6 +41,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+
+### ilClan 
 
 - Draconis Combine 
 - Mercenary 

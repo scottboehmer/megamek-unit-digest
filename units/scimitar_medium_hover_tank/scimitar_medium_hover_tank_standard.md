@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2831/scimitar-medium-hover-tank-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2831) 
 - **Battle Value:** 532 
 
 ## Availability 
@@ -122,6 +122,12 @@
 - Rim Commonality 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+- Pirate 
+
+### ilClan 
 
 - Draconis Combine 
 - Mercenary 

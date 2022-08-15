@@ -21,7 +21,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2340/orion-iic-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2340) 
 - **Battle Value:** 2392 
 
 ## Availability 
@@ -58,4 +58,8 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Wolf) 
 

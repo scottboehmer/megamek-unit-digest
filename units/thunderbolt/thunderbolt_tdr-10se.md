@@ -23,7 +23,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3235/thunderbolt-tdr-10se) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3235) 
 - **Battle Value:** 2008 
 
 ## Availability 
@@ -68,4 +68,11 @@
 - Marian Hegemony 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Marian Hegemony 
+- Mercenary 
 

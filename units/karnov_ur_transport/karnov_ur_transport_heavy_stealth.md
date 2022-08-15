@@ -17,7 +17,7 @@
   - Jet Booster 
   - Infantry (4.0 tons) 
   - Cargo 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5787/karnov-ur-transport-heavy-stealth) 
+- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5787) 
 - **Battle Value:** 375 
 
 ## Availability 

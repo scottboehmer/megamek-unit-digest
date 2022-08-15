@@ -17,7 +17,7 @@
   - Inner Sphere CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7679/enfield-end-6j-ec) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7679) 
 - **Battle Value:** 1379 
 - [*More Info*](enfield/enfield_end-6j-ec.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/973/enfield-end-6q) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/973) 
 - **Battle Value:** 1248 
 - [*More Info*](enfield/enfield_end-6q.md) 
 
@@ -59,7 +59,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/972/enfield-end-6j) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/972) 
 - **Battle Value:** 1417 
 - [*More Info*](enfield/enfield_end-6j.md) 
 
@@ -81,7 +81,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/974/enfield-end-6s) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/974) 
 - **Battle Value:** 1413 
 - [*More Info*](enfield/enfield_end-6s.md) 
 
@@ -103,7 +103,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/975/enfield-end-6sr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/975) 
 - **Battle Value:** 1361 
 - [*More Info*](enfield/enfield_end-6sr.md) 
 

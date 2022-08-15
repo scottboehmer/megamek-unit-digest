@@ -22,7 +22,7 @@
   - Distracting 
   - Difficult Ejection 
   - Prototype 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7384/triskelion-trk-4v) 
+- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7384) 
 - **Battle Value:** 2702 
 
 ## Availability 
@@ -30,4 +30,11 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Mercenary 
+- Star League (Smoke Jaguar) 
+- Wolf's Dragoons 
 

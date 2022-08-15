@@ -31,7 +31,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Snub-Nose PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3581/wolverine-wvr-9k) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3581) 
 - **Battle Value:** 1400 
 
 ## Availability 
@@ -54,4 +54,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

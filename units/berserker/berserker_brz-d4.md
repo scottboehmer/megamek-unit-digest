@@ -22,7 +22,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6831/berserker-brz-d4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6831) 
 - **Battle Value:** 2659 
 
 ## Availability 
@@ -34,4 +34,10 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Tamar Pact 
+- Vesper Marches 
 

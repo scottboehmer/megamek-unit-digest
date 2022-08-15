@@ -22,7 +22,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1905/locust-lct-3m) 
+- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1905) 
 - **Battle Value:** 522 
 
 ## Availability 
@@ -110,8 +110,22 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Pirate 
+- Regulan Fiefs 
+- Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 

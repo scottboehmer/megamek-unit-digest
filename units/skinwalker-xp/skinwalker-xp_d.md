@@ -4,7 +4,7 @@
 
 ## Skinwalker-XP "Ryoken III-XP" D 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan Mixed (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (11), XL 
@@ -22,7 +22,7 @@
   - ER Micro Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7382/ryoken-iii-xp-skinwalker-d) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7382) 
 - **Battle Value:** 2533 
 
 ## Availability 

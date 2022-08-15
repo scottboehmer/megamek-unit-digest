@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2610/quickdraw-qkd-4g) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2610) 
 - **Battle Value:** 1192 
 - [*More Info*](quickdraw/quickdraw_qkd-4g.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2611/quickdraw-qkd-4h) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2611) 
 - **Battle Value:** 1242 
 - [*More Info*](quickdraw/quickdraw_qkd-4h.md) 
 
@@ -55,7 +55,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2612/quickdraw-qkd-5a) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2612) 
 - **Battle Value:** 1196 
 - [*More Info*](quickdraw/quickdraw_qkd-5a.md) 
 
@@ -74,7 +74,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2613/quickdraw-qkd-5k) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2613) 
 - **Battle Value:** 1265 
 - [*More Info*](quickdraw/quickdraw_qkd-5k.md) 
 
@@ -96,7 +96,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2614/quickdraw-qkd-5m) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2614) 
 - **Battle Value:** 1237 
 - [*More Info*](quickdraw/quickdraw_qkd-5m.md) 
 
@@ -117,7 +117,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2618/quickdraw-qkd-c) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2618) 
 - **Battle Value:** 1225 
 - [*More Info*](quickdraw/quickdraw_qkd-c.md) 
 
@@ -136,7 +136,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4886/quickdraw-qkd-5k2) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4886) 
 - **Battle Value:** 1312 
 - [*More Info*](quickdraw/quickdraw_qkd-5k2.md) 
 
@@ -157,7 +157,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2616/quickdraw-qkd-8k) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2616) 
 - **Battle Value:** 1583 
 - [*More Info*](quickdraw/quickdraw_qkd-8k.md) 
 
@@ -181,7 +181,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2615/quickdraw-qkd-5mr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2615) 
 - **Battle Value:** 1465 
 - [*More Info*](quickdraw/quickdraw_qkd-5mr.md) 
 
@@ -207,7 +207,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2617/quickdraw-qkd-8x) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2617) 
 - **Battle Value:** 1612 
 - [*More Info*](quickdraw/quickdraw_qkd-8x.md) 
 
@@ -232,7 +232,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4887/quickdraw-qkd-8p) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4887) 
 - **Battle Value:** 1598 
 - [*More Info*](quickdraw/quickdraw_qkd-8p.md) 
 
@@ -255,7 +255,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6887/quickdraw-qkd-9m) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6887) 
 - **Battle Value:** 1690 
 - [*More Info*](quickdraw/quickdraw_qkd-9m.md) 
 

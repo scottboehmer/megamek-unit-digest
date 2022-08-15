@@ -14,7 +14,7 @@
   - Flamer 
 - **Equipment:** 
   - MASH (1 theaters) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6753/mit-24-mash-vehicle-standard) 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6753) 
 - **Battle Value:** 206 
 
 ## Availability 
@@ -34,6 +34,7 @@
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
@@ -60,6 +61,7 @@
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
@@ -87,6 +89,7 @@
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
@@ -97,4 +100,33 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf Empire 
 

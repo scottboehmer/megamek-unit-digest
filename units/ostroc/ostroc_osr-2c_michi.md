@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2349/ostroc-osr-2c-michi) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2349) 
 - **Battle Value:** 1321 
 
 ## Availability 

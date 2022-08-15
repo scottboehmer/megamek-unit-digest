@@ -25,12 +25,16 @@
   - Supercharger 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6855/deimos-e) 
+- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6855) 
 - **Battle Value:** 3620 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Raven Alliance 
+
+### ilClan 
 
 - Raven Alliance 
 

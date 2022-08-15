@@ -14,12 +14,16 @@
   - Light AC/5 (ammo: 40) 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7851/carbine-con-9m-karenna) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7851) 
 - **Battle Value:** 280 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Pirate 
+
+### ilClan (Unique) 
 
 - Pirate 
 

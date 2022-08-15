@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3922/centurion-cn9-h) 
+- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3922) 
 - **Battle Value:** 848 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Marian Hegemony 
 
 ### Dark Ages 
+
+- Marian Hegemony 
+
+### ilClan 
 
 - Marian Hegemony 
 

@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/408/blood-reaper-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/408) 
 - **Battle Value:** 2665 
 - [*More Info*](blood_reaper/blood_reaper_standard.md) 
 
@@ -40,7 +40,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/407/blood-reaper-2) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/407) 
 - **Battle Value:** 2521 
 - [*More Info*](blood_reaper/blood_reaper_2.md) 
 

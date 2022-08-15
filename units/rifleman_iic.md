@@ -18,7 +18,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2710/rifleman-iic-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2710) 
 - **Battle Value:** 2307 
 - [*More Info*](rifleman_iic/rifleman_iic_standard.md) 
 
@@ -39,7 +39,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2711/rifleman-iic-2) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2711) 
 - **Battle Value:** 1345 
 - [*More Info*](rifleman_iic/rifleman_iic_2.md) 
 
@@ -62,7 +62,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2712/rifleman-iic-3) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2712) 
 - **Battle Value:** 1733 
 - [*More Info*](rifleman_iic/rifleman_iic_3.md) 
 
@@ -84,7 +84,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2713/rifleman-iic-4) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2713) 
 - **Battle Value:** 2140 
 - [*More Info*](rifleman_iic/rifleman_iic_4.md) 
 
@@ -104,7 +104,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2714/rifleman-iic-5) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2714) 
 - **Battle Value:** 2343 
 - [*More Info*](rifleman_iic/rifleman_iic_5.md) 
 
@@ -126,7 +126,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2715/rifleman-iic-6) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2715) 
 - **Battle Value:** 2220 
 - [*More Info*](rifleman_iic/rifleman_iic_6.md) 
 
@@ -149,7 +149,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2716/rifleman-iic-7) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2716) 
 - **Battle Value:** 2205 
 - [*More Info*](rifleman_iic/rifleman_iic_7.md) 
 
@@ -173,7 +173,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2717/rifleman-iic-8) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2717) 
 - **Battle Value:** 2541 
 - [*More Info*](rifleman_iic/rifleman_iic_8.md) 
 
@@ -195,7 +195,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8418/rifleman-iic-9) 
+- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8418) 
 - **Battle Value:** 2792 
 - [*More Info*](rifleman_iic/rifleman_iic_9.md) 
 
@@ -219,7 +219,7 @@
   - Anti-Aircraft Targeting 
   - Cowl 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8419/rifleman-iic-10) 
+- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8419) 
 - **Battle Value:** 1587 
 - [*More Info*](rifleman_iic/rifleman_iic_10.md) 
 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Jettison-Capable Weapon (ER Large Pulse Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2427/parash-2) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2427) 
 - **Battle Value:** 1523 
 
 ## Availability 
@@ -35,6 +35,11 @@
 - Rasalhague Dominion 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
+
+### ilClan 
 
 - Clan Hell's Horses 
 - Rasalhague Dominion 

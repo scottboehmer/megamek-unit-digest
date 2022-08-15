@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2090/marshal-mhl-x1) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2090) 
 - **Battle Value:** 1163 
 - [*More Info*](marshal/marshal_mhl-x1.md) 
 
@@ -42,7 +42,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2088/marshal-mhl-2l) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2088) 
 - **Battle Value:** 1313 
 - [*More Info*](marshal/marshal_mhl-2l.md) 
 
@@ -66,7 +66,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2089/marshal-mhl-6mc) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2089) 
 - **Battle Value:** 1457 
 - [*More Info*](marshal/marshal_mhl-6mc.md) 
 
@@ -86,7 +86,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** Fronc Reachs , [Master Unit List](http://masterunitlist.info/Unit/Details/7698/marshal-mhl-6fr) 
+- **Sources:** Fronc Reachs , [Master Unit List](http://masterunitlist.info/Unit/Details/7698) 
 - **Battle Value:** 1429 
 - [*More Info*](marshal/marshal_mhl-6fr.md) 
 
@@ -109,7 +109,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6895/marshal-mhl-3mc) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6895) 
 - **Battle Value:** 1714 
 - [*More Info*](marshal/marshal_mhl-3mc.md) 
 

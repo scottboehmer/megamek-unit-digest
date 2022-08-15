@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/896/devastator-dvs-x10-muse-earth) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/896) 
 - **Battle Value:** 3250 
 
 ## Availability 

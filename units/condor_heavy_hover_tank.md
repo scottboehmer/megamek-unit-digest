@@ -12,7 +12,7 @@
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/683/condor-heavy-hover-tank-standard) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/683) 
 - **Battle Value:** 653 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_standard.md) 
 
@@ -26,7 +26,7 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/682/condor-heavy-hover-tank-liao) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/682) 
 - **Battle Value:** 765 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_liao.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - AC/2 × 2 (ammo: 90) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/679/condor-heavy-hover-tank-davion) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/679) 
 - **Battle Value:** 577 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_davion.md) 
 
@@ -57,7 +57,7 @@
   - Medium Laser × 3 
   - Machine Gun × 2 (ammo: 100) 
   - Vehicle Flamer × 2 (ammo: 40) 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5776/condor-heavy-hover-tank-fission) 
+- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5776) 
 - **Battle Value:** 721 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_fission.md) 
 
@@ -73,7 +73,7 @@
   - Medium Laser × 3 
   - Vehicle Flamer × 2 (ammo: 20) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/680/condor-heavy-hover-tank-flamer) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/680) 
 - **Battle Value:** 715 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_flamer.md) 
 
@@ -88,7 +88,7 @@
 - **Weapons:** 
   - ER Medium Laser × 4 
   - SRM 2 × 3 (ammo: 100) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/681/condor-heavy-hover-tank-laser) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/681) 
 - **Battle Value:** 977 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_laser.md) 
 
@@ -104,7 +104,7 @@
   - LRM 15 (ammo: 16) 
   - LB 5-X AC (ammo: 40) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/685/condor-heavy-hover-tank-upgrade-standard) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/685) 
 - **Battle Value:** 965 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_standard.md) 
 
@@ -123,7 +123,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/684/condor-heavy-hover-tank-upgrade-laser) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/684) 
 - **Battle Value:** 1197 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) 
 
@@ -137,7 +137,7 @@
 - **Heat Sinks:** 18 (18) 
 - **Weapons:** 
   - Medium Re-Engineered Laser × 3 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6757/condor-heavy-hover-tank-laser-upgrade) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6757) 
 - **Battle Value:** 803 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_laser_upgrade.md) 
 

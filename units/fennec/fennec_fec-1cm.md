@@ -17,7 +17,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1036/fennec-fec-1cm) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1036) 
 - **Battle Value:** 1395 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

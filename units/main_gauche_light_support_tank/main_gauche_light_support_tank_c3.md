@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4568/main-gauche-light-support-tank-c3) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4568) 
 - **Battle Value:** 472 
 
 ## Availability 
@@ -68,4 +68,13 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

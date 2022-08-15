@@ -24,7 +24,7 @@
   - Easy to Maintain 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 4) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1402/hatamoto-chi-htm-28tr) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1402) 
 - **Battle Value:** 2034 
 
 ## Availability 
@@ -48,4 +48,8 @@
 
 - Draconis Combine 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
 

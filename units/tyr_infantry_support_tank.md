@@ -14,7 +14,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5314/tyr-infantry-support-tank-standard) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5314) 
 - **Battle Value:** 1260 
 - [*More Info*](tyr_infantry_support_tank/tyr_infantry_support_tank_standard.md) 
 
@@ -31,7 +31,7 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5730/tyr-infantry-support-tank-kurita) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5730) 
 - **Battle Value:** 687 
 - [*More Info*](tyr_infantry_support_tank/tyr_infantry_support_tank_kurita.md) 
 

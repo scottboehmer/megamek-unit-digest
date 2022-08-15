@@ -25,7 +25,7 @@
   - Command ’Mech 
   - Distracting 
   - Searchlight 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6685/ares-ars-v1-zeus) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6685) 
 - **Battle Value:** 3247 
 - [*More Info*](ares/ares_ars-v1_zeus.md) 
 
@@ -53,7 +53,7 @@
   - Command ’Mech 
   - Distracting 
   - Searchlight 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6686/ares-ars-v1a-hera) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6686) 
 - **Battle Value:** 2944 
 - [*More Info*](ares/ares_ars-v1a_hera.md) 
 
@@ -82,7 +82,7 @@
   - Command ’Mech 
   - Distracting 
   - Searchlight 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6687/ares-ars-v1b-hades) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6687) 
 - **Battle Value:** 2839 
 - [*More Info*](ares/ares_ars-v1b_hades.md) 
 
@@ -112,7 +112,7 @@
   - Command ’Mech 
   - Distracting 
   - Searchlight 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6688/ares-ars-v1c-aphrodite) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6688) 
 - **Battle Value:** 2903 
 - [*More Info*](ares/ares_ars-v1c_aphrodite.md) 
 
@@ -143,7 +143,7 @@
   - Command ’Mech 
   - Distracting 
   - Searchlight 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6689/ares-ars-v1d-hephaestus) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6689) 
 - **Battle Value:** 2960 
 - [*More Info*](ares/ares_ars-v1d_hephaestus.md) 
 

@@ -22,7 +22,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/331/berserker-brz-c3) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/331) 
 - **Battle Value:** 2395 
 
 ## Availability 
@@ -56,4 +56,10 @@
 - Mercenary 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
 

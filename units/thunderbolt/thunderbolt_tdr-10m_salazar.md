@@ -26,7 +26,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3085/BD Salazar Tsakalotos - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3234/thunderbolt-tdr-10m-salazar) 
+- **Sources:** TRO 3085/BD Salazar Tsakalotos - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3234) 
 - **Battle Value:** 1763 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser × 4 
   - SRM 2 × 3 (ammo: 100) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/681/condor-heavy-hover-tank-laser) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/681) 
 - **Battle Value:** 977 
 
 ## Availability 
@@ -79,6 +79,10 @@
 - Wolf's Dragoons 
 
 ### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
 
 - Mercenary 
 

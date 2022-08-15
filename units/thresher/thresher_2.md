@@ -21,7 +21,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3199/thresher-2) 
+- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3199) 
 - **Battle Value:** 2337 
 
 ## Availability 

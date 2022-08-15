@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Stabilized Weapon (Gauss Rifle) 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/533/cestus-cts-6y) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/533) 
 - **Battle Value:** 1701 
 
 ## Availability 
@@ -30,26 +30,10 @@
 ### Early Succession Wars 
 
 - Capellan Confederation 
-- Clan Blood Spirit 
 - Clan Burrock 
-- Clan Cloud Cobra 
-- Clan Coyote 
 - Clan Fire Mandrill 
-- Clan Ghost Bear 
-- Clan Goliath Scorpion 
-- Clan Hell's Horses 
-- Clan Ice Hellion 
 - Clan Jade Falcon 
-- Clan Mongoose 
-- Clan Nova Cat 
-- Clan Sea Fox 
 - Clan Smoke Jaguar 
-- Clan Snow Raven 
-- Clan Star Adder 
-- Clan Steel Viper 
-- Clan Widowmaker 
-- Clan Wolf 
-- Clan Wolverine 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -134,4 +118,10 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
 

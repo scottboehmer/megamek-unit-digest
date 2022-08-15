@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Stable 
   - Poor Cooling Jacket (ER PPC) 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6415/dragon-ii-drg-11r) 
+- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6415) 
 - **Battle Value:** 2183 
 
 ## Availability 
@@ -36,6 +36,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

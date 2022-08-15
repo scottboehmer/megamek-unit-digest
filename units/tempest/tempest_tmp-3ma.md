@@ -18,7 +18,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Directional Torso Mount (Medium Laser) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5189/tempest-tmp-3ma) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5189) 
 - **Battle Value:** 1425 
 
 ## Availability 
@@ -71,4 +71,9 @@
 - Mercenary 
 - Regulan Fiefs 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8163/ostsol-c) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8163) 
 - **Battle Value:** 2277 
 
 ## Availability 
@@ -27,6 +27,16 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Sea Fox 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Rasalhague Dominion 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
 - Clan Sea Fox 
 - Free Worlds League 
 - Lyran Commonwealth 

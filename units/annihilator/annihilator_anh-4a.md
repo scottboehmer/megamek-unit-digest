@@ -17,7 +17,7 @@
   - Light AC/2 × 2 (ammo: 90) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/42/annihilator-anh-4a) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/42) 
 - **Battle Value:** 1726 
 
 ## Availability 
@@ -58,4 +58,11 @@
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
 

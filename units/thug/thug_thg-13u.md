@@ -18,13 +18,17 @@
   - CASE II 
   - Supercharger 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8171/thug-thg-13u) 
+  - Rugged (×2) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8171) 
 - **Battle Value:** 2545 
 
 ## Availability 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

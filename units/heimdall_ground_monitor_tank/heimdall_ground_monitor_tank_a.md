@@ -16,7 +16,7 @@
   - Heavy Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4292/heimdall-ground-monitor-tank-a) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4292) 
 - **Battle Value:** 2244 
 
 ## Availability 
@@ -57,6 +57,14 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
+- Lyran Commonwealth 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Raven Alliance 
 

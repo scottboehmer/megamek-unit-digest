@@ -14,7 +14,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2856/sentinel-stn-1s) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2856) 
 - **Battle Value:** 632 
 - [*More Info*](sentinel/sentinel_stn-1s.md) 
 
@@ -33,7 +33,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ammunition Feed Problem (Streak SRM 2) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2860/sentinel-stn-3l) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2860) 
 - **Battle Value:** 717 
 - [*More Info*](sentinel/sentinel_stn-3l.md) 
 
@@ -51,7 +51,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2861/sentinel-stn-3lb) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2861) 
 - **Battle Value:** 1260 
 - [*More Info*](sentinel/sentinel_stn-3lb.md) 
 
@@ -70,7 +70,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ammunition Feed Problem (SRM 2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2857/sentinel-stn-3k) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2857) 
 - **Battle Value:** 652 
 - [*More Info*](sentinel/sentinel_stn-3k.md) 
 
@@ -89,7 +89,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ammunition Feed Problem (SRM 2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2858/sentinel-stn-3ka) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2858) 
 - **Battle Value:** 847 
 - [*More Info*](sentinel/sentinel_stn-3ka.md) 
 
@@ -108,7 +108,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ammunition Feed Problem (SRM 2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2859/sentinel-stn-3kb) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2859) 
 - **Battle Value:** 823 
 - [*More Info*](sentinel/sentinel_stn-3kb.md) 
 
@@ -127,7 +127,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ammunition Feed Problem (SRM 2) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2862/sentinel-stn-3m) 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2862) 
 - **Battle Value:** 758 
 - [*More Info*](sentinel/sentinel_stn-3m.md) 
 
@@ -146,7 +146,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2863/sentinel-stn-4d) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2863) 
 - **Battle Value:** 1179 
 - [*More Info*](sentinel/sentinel_stn-4d.md) 
 
@@ -166,7 +166,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ammunition Feed Problem (SRM 2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2865/sentinel-stn-c) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2865) 
 - **Battle Value:** 689 
 - [*More Info*](sentinel/sentinel_stn-c.md) 
 
@@ -185,7 +185,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2864/sentinel-stn-5wb) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2864) 
 - **Battle Value:** 999 
 - [*More Info*](sentinel/sentinel_stn-5wb.md) 
 
@@ -204,7 +204,7 @@
   - Thunderbolt 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8160/sentinel-stn-6s) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8160) 
 - **Battle Value:** 1089 
 - [*More Info*](sentinel/sentinel_stn-6s.md) 
 

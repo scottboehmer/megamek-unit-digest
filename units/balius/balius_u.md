@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/216/balius-u) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/216) 
 - **Battle Value:** 2014 
 
 ## Availability 
@@ -38,6 +38,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

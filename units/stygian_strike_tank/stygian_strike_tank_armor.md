@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 (ammo: 32) 
   - ER Medium Laser × 2 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5157/stygian-strike-tank-armor) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5157) 
 - **Battle Value:** 1001 
 
 ## Availability 
@@ -93,4 +93,22 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

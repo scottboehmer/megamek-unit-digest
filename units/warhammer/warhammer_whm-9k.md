@@ -19,7 +19,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7567/warhammer-whm-9k) 
+- **Sources:** Rec Guide:ilClan #7 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7567) 
 - **Battle Value:** 1744 
 
 ## Availability 
@@ -30,6 +30,11 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Draconis Combine 
+- Mercenary 
+
+### ilClan 
 
 - Draconis Combine 
 - Mercenary 

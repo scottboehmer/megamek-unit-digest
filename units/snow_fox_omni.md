@@ -15,7 +15,7 @@
   - Active Probe 
   - MASC 
   - Targeting Computer 
-- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7878/snow-fox-omni-prime) 
+- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7878) 
 - **Battle Value:** 1464 
 - [*More Info*](snow_fox_omni/snow_fox_omni_prime.md) 
 
@@ -33,7 +33,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7879/snow-fox-omni-a) 
+- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7879) 
 - **Battle Value:** 831 
 - [*More Info*](snow_fox_omni/snow_fox_omni_a.md) 
 
@@ -50,7 +50,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7880/snow-fox-omni-b) 
+- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7880) 
 - **Battle Value:** 1249 
 - [*More Info*](snow_fox_omni/snow_fox_omni_b.md) 
 

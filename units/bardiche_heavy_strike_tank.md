@@ -15,7 +15,7 @@
   - MagShot Gauss Rifle × 4 (ammo: 100) 
 - **Equipment:** 
   - Mine Dispenser × 2 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6496/bardiche-heavy-strike-tank-standard) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6496) 
 - **Battle Value:** 1086 
 - [*More Info*](bardiche_heavy_strike_tank/bardiche_heavy_strike_tank_standard.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Minesweeper 
   - Mine Dispenser × 4 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6497/bardiche-heavy-strike-tank-minesweeper) 
+- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6497) 
 - **Battle Value:** 988 
 - [*More Info*](bardiche_heavy_strike_tank/bardiche_heavy_strike_tank_minesweeper.md) 
 

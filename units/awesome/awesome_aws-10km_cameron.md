@@ -4,7 +4,7 @@
 
 ## Awesome AWS-10KM (Cameron) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere Mixed (3075) 
 - **Chassis:** 80 tons (Endo Steel) 
 - **Movement:** 3 / 5, Armored 
@@ -22,7 +22,7 @@
   - C3i 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7397/awesome-aws-10km-cameron) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7397) 
 - **Battle Value:** 2466 
 
 ## Availability 

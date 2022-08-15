@@ -20,7 +20,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Good Reputation 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5696/lao-hu-lhu-4e) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5696) 
 - **Battle Value:** 2123 
 
 ## Availability 
@@ -38,6 +38,10 @@
 - Capellan Confederation 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
 
 - Capellan Confederation 
 

@@ -24,8 +24,8 @@
   - CASE 
   - Armored Liquid Cargo × 2 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3333/turkina-u) 
+  - Easy to Pilot 
+- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3333) 
 - **Battle Value:** 2520 
 
 ## Availability 
@@ -69,4 +69,15 @@
 - Clan Nova Cat 
 - Escorpión Imperio 
 - Scorpion Empire 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Scorpion Empire 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

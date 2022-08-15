@@ -24,7 +24,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** SO:Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619/nightstar-nsr-9j-holt) 
+- **Sources:** SO:Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619) 
 - **Battle Value:** 3433 
 
 ## Availability 
@@ -46,6 +46,10 @@
 - Mercenary 
 
 ### Dark Ages (Unique) 
+
+- Mercenary 
+
+### ilClan (Unique) 
 
 - Mercenary 
 

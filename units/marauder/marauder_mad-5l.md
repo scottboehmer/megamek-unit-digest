@@ -22,7 +22,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (ER PPC) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2040/marauder-mad-5l) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2040) 
 - **Battle Value:** 2244 
 
 ## Availability 
@@ -54,6 +54,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

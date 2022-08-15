@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1418/hatchetman-hct-7s) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1418) 
 - **Battle Value:** 1243 
 
 ## Availability 
@@ -52,4 +52,13 @@
 - Mercenary 
 - Republic of the Sphere 
 - Wolf's Dragoons 
+
+### ilClan 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

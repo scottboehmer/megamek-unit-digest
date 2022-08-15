@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3601/wyvern-iic-standard) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3601) 
 - **Battle Value:** 1624 
 - [*More Info*](wyvern_iic/wyvern_iic_standard.md) 
 
@@ -46,7 +46,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3602/wyvern-iic-2) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3602) 
 - **Battle Value:** 1524 
 - [*More Info*](wyvern_iic/wyvern_iic_2.md) 
 

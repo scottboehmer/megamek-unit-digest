@@ -16,7 +16,7 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (8.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1227/goblin-medium-tank-x) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1227) 
 - **Battle Value:** 849 
 
 ## Availability 

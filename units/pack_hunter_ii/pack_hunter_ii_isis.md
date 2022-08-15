@@ -18,12 +18,16 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5540/pack-hunter-ii-isis) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5540) 
 - **Battle Value:** 1276 
 
 ## Availability 
 
 ### Dark Ages (Unique) 
+
+- Rasalhague Dominion 
+
+### ilClan (Unique) 
 
 - Rasalhague Dominion 
 

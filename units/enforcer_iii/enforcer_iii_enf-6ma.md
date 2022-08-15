@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Barrel Fists 
   - Fast Reload (AC/10) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/983/enforcer-iii-enf-6ma) 
+- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/983) 
 - **Battle Value:** 1275 
 
 ## Availability 
@@ -45,6 +45,12 @@
 - Mercenary 
 
 ### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
 
 - Federated Suns 
 - Filtvelt Coalition 

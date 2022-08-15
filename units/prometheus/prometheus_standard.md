@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Prototype 
-- **Sources:** Unbound - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4871/prometheus-standard) 
+- **Sources:** Unbound - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4871) 
 - **Battle Value:** 2401 
 
 ## Availability 

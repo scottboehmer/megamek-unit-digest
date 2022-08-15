@@ -29,7 +29,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (SRM 4) 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2952/sirocco-src-5c) 
+- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2952) 
 - **Battle Value:** 2107 
 
 ## Availability 
@@ -70,4 +70,8 @@
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Free Worlds League 
 

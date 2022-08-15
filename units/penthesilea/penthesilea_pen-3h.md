@@ -25,7 +25,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - EM Interference (Bombast Laser) 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7347/penthesilea-pen-3h) 
+- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7347) 
 - **Battle Value:** 1654 
 
 ## Availability 
@@ -36,6 +36,9 @@
 
 ### Dark Ages 
 
-- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
+
 - Magistracy of Canopus 
 

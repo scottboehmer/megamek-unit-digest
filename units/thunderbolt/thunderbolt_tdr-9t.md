@@ -20,7 +20,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3251/thunderbolt-tdr-9t) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3251) 
 - **Battle Value:** 1589 
 
 ## Availability 
@@ -35,6 +35,11 @@
 - Taurian Concordat 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
 
 - Fronc Reaches 
 - Taurian Concordat 

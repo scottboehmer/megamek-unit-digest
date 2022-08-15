@@ -18,7 +18,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Searchlight 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/189/baboon-howler-standard) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/189) 
 - **Battle Value:** 645 
 
 ## Availability 
@@ -51,13 +51,23 @@
 
 - Clan Jade Falcon 
 - Escorpión Imperio 
+- Raven Alliance 
 
 ### Late Republic 
 
 - Clan Jade Falcon 
 - Escorpión Imperio 
+- Raven Alliance 
 
 ### Dark Ages 
 
 - Clan Jade Falcon 
+- Raven Alliance 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Mercenary 
+- Raven Alliance 
 

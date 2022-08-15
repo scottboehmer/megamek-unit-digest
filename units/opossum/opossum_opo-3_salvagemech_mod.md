@@ -14,7 +14,7 @@
   - Light AC/2 (ammo: 45) 
 - **Equipment:** 
   - Salvage Arm 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7848/opossum-opo-3-salvagemech-mod) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7848) 
 - **Battle Value:** 239 
 
 ## Availability 
@@ -26,4 +26,11 @@
 - Mercenary 
 - Pirate 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Mercenary 
+- Pirate 
 

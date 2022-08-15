@@ -23,7 +23,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (RAC/5) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2046/marauder-mad-7d) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2046) 
 - **Battle Value:** 1986 
 
 ## Availability 
@@ -41,6 +41,10 @@
 - Federated Suns 
 
 ### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
 
 - Federated Suns 
 

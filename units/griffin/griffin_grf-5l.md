@@ -21,7 +21,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1304/griffin-grf-5l) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1304) 
 - **Battle Value:** 1742 
 
 ## Availability 
@@ -29,16 +29,25 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 
 ### Early Republic 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
 

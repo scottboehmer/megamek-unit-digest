@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2198/mobile-headquarters-ice) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2198) 
 - **Battle Value:** 319 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2271/night-hawk-ntk-2q) 
+- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2271) 
 - **Battle Value:** 997 
 
 ## Availability 
@@ -205,4 +205,12 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Raven Alliance 
+
+### ilClan 
+
+- Filtvelt Coalition 
+- Lyran Commonwealth 
+- Mercenary 
+- Raven Alliance 
+- Tamar Pact 
 

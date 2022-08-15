@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/45/annihilator-c-2) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/45) 
 - **Battle Value:** 2722 
 
 ## Availability 
@@ -109,4 +109,9 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Clan Hell's Horses 
+- Rasalhague Dominion 
 

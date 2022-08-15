@@ -15,8 +15,11 @@
   - LRM 15 × 2 (ammo: 32) 
   - Light AC/5 × 4 (ammo: 80) 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2100/mauler-mal-1k) 
+  - Stabilized Weapon (Light AC/5) 
+  - Stabilized Weapon (Light AC/5) 
+  - Stabilized Weapon (Light AC/5) 
+  - Stabilized Weapon (Light AC/5) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2100) 
 - **Battle Value:** 1622 
 
 ## Availability 
@@ -34,6 +37,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

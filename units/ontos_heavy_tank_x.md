@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - Combat Vehicle Escape Pod 
-- **Sources:** XTR Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/4749/ontos-heavy-tank-x-all-aspect-assault-tank) 
+- **Sources:** XTR Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/4749) 
 - **Battle Value:** 1031 
 - [*More Info*](ontos_heavy_tank_x/ontos_heavy_tank_x_all-aspect_assault_tank.md) 
 

@@ -14,8 +14,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3205/thug-thg-11e) 
+  - Rugged (×2) 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3205) 
 - **Battle Value:** 1640 
 - [*More Info*](thug/thug_thg-11e.md) 
 
@@ -33,8 +33,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3206/thug-thg-11eb) 
+  - Rugged (×2) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3206) 
 - **Battle Value:** 1759 
 - [*More Info*](thug/thug_thg-11eb.md) 
 
@@ -54,10 +54,10 @@
   - Command Console 
   - Null-Signature System 
 - **Design Quirks:** 
-  - No Torso Twist 
+  - Rugged (×2) 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7322/thug-thg-11ecx-jose) 
+- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7322) 
 - **Battle Value:** 1720 
 - [*More Info*](thug/thug_thg-11ecx_jose.md) 
 
@@ -73,8 +73,8 @@
   - PPC × 2 
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3204/thug-thg-10e) 
+  - Rugged (×2) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3204) 
 - **Battle Value:** 1501 
 - [*More Info*](thug/thug_thg-10e.md) 
 
@@ -93,8 +93,8 @@
   - CASE 
   - C3i 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3207/thug-thg-12e) 
+  - Rugged (×2) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3207) 
 - **Battle Value:** 1751 
 - [*More Info*](thug/thug_thg-12e.md) 
 
@@ -114,8 +114,8 @@
   - CASE 
   - C3 Support 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3208/thug-thg-12k) 
+  - Rugged (×2) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3208) 
 - **Battle Value:** 1824 
 - [*More Info*](thug/thug_thg-12k.md) 
 
@@ -133,8 +133,8 @@
 - **Equipment:** 
   - C3i 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3209/thug-thg-13k) 
+  - Rugged (×2) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3209) 
 - **Battle Value:** 2086 
 - [*More Info*](thug/thug_thg-13k.md) 
 
@@ -153,8 +153,8 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** FM:Mercenaries SII - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5228/thug-thg-11e-reich) 
+  - Rugged (×2) 
+- **Sources:** FM:Mercenaries SII - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5228) 
 - **Battle Value:** 2612 
 - [*More Info*](thug/thug_thg-11e_reich.md) 
 
@@ -174,8 +174,8 @@
   - CASE II 
   - Supercharger 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8171/thug-thg-13u) 
+  - Rugged (×2) 
+- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8171) 
 - **Battle Value:** 2545 
 - [*More Info*](thug/thug_thg-13u.md) 
 

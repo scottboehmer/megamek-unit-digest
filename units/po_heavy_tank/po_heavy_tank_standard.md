@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 20) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2549/po-heavy-tank-standard) 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2549) 
 - **Battle Value:** 719 
 
 ## Availability 
@@ -127,5 +127,20 @@
 - Raven Alliance 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 

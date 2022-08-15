@@ -15,7 +15,7 @@
   - TAG 
   - Communications Equipment 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2983/sokuryou-sku-197-surveymech) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2983) 
 - **Battle Value:** 395 
 
 ## Availability 
@@ -29,6 +29,10 @@
 - Draconis Combine 
 
 ### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
 
 - Draconis Combine 
 

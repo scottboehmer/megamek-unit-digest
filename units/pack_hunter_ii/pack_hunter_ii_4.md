@@ -18,7 +18,7 @@
   - AES × 4 
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6935/pack-hunter-ii-4) 
+- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6935) 
 - **Battle Value:** 1447 
 
 ## Availability 
@@ -34,4 +34,9 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+
+### ilClan 
+
+- Kell Hounds 
+- Star League (Wolf) 
 

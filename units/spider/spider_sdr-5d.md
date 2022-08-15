@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3008/spider-sdr-5d) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3008) 
 - **Battle Value:** 524 
 
 ## Availability 
@@ -48,4 +48,5 @@
 ### Jihad 
 
 - Federated Suns 
+- Filtvelt Coalition 
 

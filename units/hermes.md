@@ -12,8 +12,9 @@
   - Medium Laser × 2 
   - Flamer 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1487/hermes-her-1s) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1487) 
 - **Battle Value:** 716 
 - [*More Info*](hermes/hermes_her-1s.md) 
 
@@ -33,8 +34,9 @@
   - Beagle Active Probe 
   - MASC 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** Hist:Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1488/hermes-her-1sb) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** Hist:Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1488) 
 - **Battle Value:** 1112 
 - [*More Info*](hermes/hermes_her-1sb.md) 
 
@@ -50,8 +52,9 @@
   - Medium Laser × 2 
   - Flamer 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1485/hermes-her-1a) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1485) 
 - **Battle Value:** 601 
 - [*More Info*](hermes/hermes_her-1a.md) 
 
@@ -66,8 +69,9 @@
 - **Weapons:** 
   - Medium Laser × 3 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1486/hermes-her-1b) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1486) 
 - **Battle Value:** 687 
 - [*More Info*](hermes/hermes_her-1b.md) 
 
@@ -85,8 +89,9 @@
   - Beagle Active Probe 
   - MASC 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1489/hermes-her-3s) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1489) 
 - **Battle Value:** 649 
 - [*More Info*](hermes/hermes_her-3s.md) 
 
@@ -104,8 +109,9 @@
   - Guardian ECM Suite 
   - MASC 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1490/hermes-her-3s1) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1490) 
 - **Battle Value:** 726 
 - [*More Info*](hermes/hermes_her-3s1.md) 
 
@@ -124,8 +130,9 @@
   - MASC 
   - TAG 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1491/hermes-her-3s2) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1491) 
 - **Battle Value:** 600 
 - [*More Info*](hermes/hermes_her-3s2.md) 
 
@@ -143,8 +150,9 @@
   - Guardian ECM Suite 
   - MASC 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1494/hermes-her-4s) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1494) 
 - **Battle Value:** 1012 
 - [*More Info*](hermes/hermes_her-4s.md) 
 
@@ -164,8 +172,9 @@
   - MASC 
   - C3 Support 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1492/hermes-her-4k) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1492) 
 - **Battle Value:** 1470 
 - [*More Info*](hermes/hermes_her-4k.md) 
 
@@ -184,8 +193,9 @@
   - MASC 
   - C3i 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1493/hermes-her-4m) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1493) 
 - **Battle Value:** 1362 
 - [*More Info*](hermes/hermes_her-4m.md) 
 
@@ -203,8 +213,9 @@
   - Guardian ECM Suite 
   - MASC 
 - **Design Quirks:** 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1495/hermes-her-4wb) 
+  - Improved Communications 
+  - Stable 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1495) 
 - **Battle Value:** 1042 
 - [*More Info*](hermes/hermes_her-4wb.md) 
 

@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3550/wight-wgt-2sc) 
+- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3550) 
 - **Battle Value:** 1093 
 
 ## Availability 
@@ -30,50 +30,58 @@
 
 ### Early Republic 
 
-- Capellan Confederation 
-- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
-- Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Late Republic 
 
-- Capellan Confederation 
-- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
-- Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Dark Ages 
 
-- Capellan Confederation 
-- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
-- Federated Suns 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
 

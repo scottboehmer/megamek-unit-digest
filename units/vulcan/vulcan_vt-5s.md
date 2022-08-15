@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3462/vulcan-vt-5s) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3462) 
 - **Battle Value:** 883 
 
 ## Availability 
@@ -68,6 +68,12 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+
+### ilClan 
+
 - Marian Hegemony 
 - Mercenary 
 - Pirate 

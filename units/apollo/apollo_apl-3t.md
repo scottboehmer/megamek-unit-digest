@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/57/apollo-apl-3t) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/57) 
 - **Battle Value:** 1240 
 
 ## Availability 
@@ -65,4 +65,9 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
 

@@ -19,8 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-  - No Torso Twist 
-- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1699/jenner-iic-2) 
+- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1699) 
 - **Battle Value:** 1406 
 
 ## Availability 
@@ -57,6 +56,12 @@
 
 - Clan Jade Falcon 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Draconis Combine 
+- Mercenary 
+
+### ilClan 
+
 - Clan Sea Fox 
 - Draconis Combine 
 - Mercenary 

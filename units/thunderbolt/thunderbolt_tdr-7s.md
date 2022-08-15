@@ -23,7 +23,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8190/thunderbolt-tdr-7s) 
+- **Sources:** Rec Guide:ilClan #15 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8190) 
 - **Battle Value:** 1582 
 
 ## Availability 
@@ -77,4 +77,17 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
+- Wolf Empire 
 

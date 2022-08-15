@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3502/warhammer-iic-3) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3502) 
 - **Battle Value:** 2382 
 
 ## Availability 
@@ -126,4 +126,14 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Draconis Combine 
+- Duchy of Andurien 
+- Free Worlds League 
+- Lyran Commonwealth 
 

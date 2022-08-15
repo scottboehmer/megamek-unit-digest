@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1187/gallowglas-gal-4glsa) 
+- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1187) 
 - **Battle Value:** 2017 
 
 ## Availability 

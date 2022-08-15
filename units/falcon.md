@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1022/falcon-flc-4n) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1022) 
 - **Battle Value:** 610 
 - [*More Info*](falcon/falcon_flc-4n.md) 
 
@@ -33,7 +33,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1023/falcon-flc-4nb) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1023) 
 - **Battle Value:** 947 
 - [*More Info*](falcon/falcon_flc-4nb.md) 
 
@@ -51,7 +51,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1025/falcon-flc-4nb-pp) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1025) 
 - **Battle Value:** 881 
 - [*More Info*](falcon/falcon_flc-4nb-pp.md) 
 
@@ -70,7 +70,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1026/falcon-flc-4nb-pp2) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1026) 
 - **Battle Value:** 947 
 - [*More Info*](falcon/falcon_flc-4nb-pp2.md) 
 
@@ -88,7 +88,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1024/falcon-flc-4nb-saho) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1024) 
 - **Battle Value:** 774 
 - [*More Info*](falcon/falcon_flc-4nb_saho.md) 
 
@@ -108,7 +108,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1027/falcon-flc-4p) 
+- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1027) 
 - **Battle Value:** 649 
 - [*More Info*](falcon/falcon_flc-4p.md) 
 
@@ -129,7 +129,7 @@
   - MASC 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1028/falcon-flc-5p) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1028) 
 - **Battle Value:** 945 
 - [*More Info*](falcon/falcon_flc-5p.md) 
 
@@ -151,7 +151,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1029/falcon-flc-6c) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1029) 
 - **Battle Value:** 1290 
 - [*More Info*](falcon/falcon_flc-6c.md) 
 

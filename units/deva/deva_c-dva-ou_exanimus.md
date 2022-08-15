@@ -25,7 +25,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/892/deva-c-dva-ou-exanimus) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/892) 
 - **Battle Value:** 1685 
 
 ## Availability 

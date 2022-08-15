@@ -18,7 +18,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1916/locust-iic-3) 
+- **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1916) 
 - **Battle Value:** 980 
 
 ## Availability 
@@ -45,6 +45,7 @@
 
 ### Civil War 
 
+- Capellan Confederation 
 - Clan Diamond Shark 
 - Clan Ghost Bear 
 - Clan Hell's Horses 
@@ -54,11 +55,13 @@
 - Clan Star Adder 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Free Worlds League 
 - Kell Hounds 
 - Mercenary 
 
 ### Jihad 
 
+- Capellan Confederation 
 - Clan Burrock 
 - Clan Diamond Shark 
 - Clan Ghost Bear 
@@ -69,6 +72,7 @@
 - Clan Star Adder 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Free Worlds League 
 - Kell Hounds 
 - Mercenary 
 
@@ -120,4 +124,25 @@
 - Oriente Protectorate 
 - Rasalhague Dominion 
 - Raven Alliance 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Free Worlds League 
+- Kell Hounds 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

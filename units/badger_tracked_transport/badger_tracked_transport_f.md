@@ -14,7 +14,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Infantry (8.0 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/205/badger-tracked-transport-f) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/205) 
 - **Battle Value:** 399 
 
 ## Availability 
@@ -50,4 +50,10 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Vesper Marches 
 

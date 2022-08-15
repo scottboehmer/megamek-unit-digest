@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stabilized Weapon (Heavy Gauss Rifle) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1539/hollander-ii-bzk-f7) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1539) 
 - **Battle Value:** 1192 
 
 ## Availability 
@@ -56,4 +56,10 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
+- Tamar Pact 
 

@@ -19,7 +19,7 @@
   - Poor Performance 
   - Prototype 
   - Poor Cooling Jacket (Large Laser) 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5618/eisenfaust-eft-2) 
+- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5618) 
 - **Battle Value:** 715 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Clan CASE II 
   - C3 Support 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6726/malice-mal-xv) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6726) 
 - **Battle Value:** 1996 
 
 ## Availability 
@@ -24,4 +24,9 @@
 ### Dark Ages 
 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Star League (Smoke Jaguar) 
 

@@ -22,7 +22,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2708/rifleman-rfl-x3-muse-wind) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2708) 
 - **Battle Value:** 2012 
 
 ## Availability 

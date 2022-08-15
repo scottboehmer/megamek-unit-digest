@@ -18,19 +18,10 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7789/shadow-hawk-shd-7h) 
+- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7789) 
 - **Battle Value:** 1394 
 
 ## Availability 
-
-### Early Republic 
-
-- Duchy of Andurien 
-- Fronc Reaches 
-- Magistracy of Canopus 
-- Marian Hegemony 
-- Mercenary 
-- Rim Commonality 
 
 ### Late Republic 
 
@@ -78,4 +69,23 @@
 - Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
 

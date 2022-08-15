@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/580/chevalier-light-tank-mml) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/580) 
 - **Battle Value:** 671 
 
 ## Availability 
@@ -52,4 +52,16 @@
 - Lyran Commonwealth 
 - Republic of the Sphere 
 - Rim Commonality 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Tamar Pact 
+- Vesper Marches 
 

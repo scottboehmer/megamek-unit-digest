@@ -4,7 +4,7 @@
 
 ## Skinwalker-XP "Ryoken III-XP" B 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan (3143) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 (7) / 9 (14), XL 
@@ -20,7 +20,7 @@
   - ECM Suite 
   - Supercharger 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7380/ryoken-iii-xp-skinwalker-b) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7380) 
 - **Battle Value:** 3667 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - Static Ammo Feed (LB 10-X AC) 
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (ER Medium Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/393/blade-bld-xx) 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/393) 
 - **Battle Value:** 1064 
 
 ## Availability 
@@ -42,4 +42,9 @@
 - Capellan Confederation 
 - ComStar 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Mercenary 
 

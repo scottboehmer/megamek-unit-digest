@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3217/thunder-fox-tft-a9) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3217) 
 - **Battle Value:** 1325 
 
 ## Availability 
@@ -47,4 +47,11 @@
 - Draconis Combine 
 - Lyran Commonwealth 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Draconis Combine 
+- Lyran Commonwealth 
+- Star League (Wolf) 
+- Vesper Marches 
 

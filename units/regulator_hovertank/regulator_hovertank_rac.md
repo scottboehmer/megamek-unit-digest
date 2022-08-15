@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2676/regulator-hovertank-rac) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2676) 
 - **Battle Value:** 1149 
 
 ## Availability 
@@ -36,6 +36,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Capellan Confederation 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 

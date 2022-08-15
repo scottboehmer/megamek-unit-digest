@@ -10,7 +10,7 @@
 - **Heat Sinks:** 30 (30) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2827/schrek-ppc-carrier-standard) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2827) 
 - **Battle Value:** 935 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_standard.md) 
 
@@ -25,7 +25,7 @@
 - **Weapons:** 
   - PPC × 3 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2824/schrek-ppc-carrier-anti-infantry) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2824) 
 - **Battle Value:** 881 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_anti-infantry.md) 
 
@@ -39,7 +39,7 @@
 - **Heat Sinks:** 30 (30) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2825/schrek-ppc-carrier-armor) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2825) 
 - **Battle Value:** 1005 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_armor.md) 
 
@@ -58,7 +58,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 24) 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2826/schrek-ppc-carrier-c3m) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2826) 
 - **Battle Value:** 993 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) 
 

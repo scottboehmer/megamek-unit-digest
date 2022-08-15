@@ -17,7 +17,7 @@
   - ECM Suite 
   - Active Probe 
   - Infantry (5.0 tons) 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5726/hephaestus-scout-tank-d) 
+- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5726) 
 - **Battle Value:** 850 
 
 ## Availability 
@@ -35,6 +35,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

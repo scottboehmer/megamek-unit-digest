@@ -17,7 +17,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1026/falcon-flc-4nb-pp2) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1026) 
 - **Battle Value:** 947 
 
 ## Availability 

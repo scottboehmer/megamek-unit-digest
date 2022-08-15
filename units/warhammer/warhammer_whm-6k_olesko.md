@@ -19,7 +19,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7798/warhammer-whm-6k-olesko) 
+- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7798) 
 - **Battle Value:** 1338 
 
 ## Availability 

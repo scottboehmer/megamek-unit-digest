@@ -18,7 +18,7 @@
   - Angel ECM Suite 
   - Partial Wing 
   - TAG 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8252/eris-ers-3r) 
+- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8252) 
 - **Battle Value:** 1868 
 
 ## Availability 
@@ -43,4 +43,9 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
 

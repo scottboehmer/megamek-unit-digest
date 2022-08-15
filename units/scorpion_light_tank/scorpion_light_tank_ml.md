@@ -4,7 +4,7 @@
 
 ## Scorpion Light Tank (ML) 
 
-- **Role:** Juggernaut 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (2875) 
 - **Chassis:** 25 tons Tracked 
 - **Movement:** 4 / 6, ICE 
@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2844/scorpion-light-tank-ml) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2844) 
 - **Battle Value:** 320 
 
 ## Availability 
@@ -185,6 +185,20 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Escorpión Imperio 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Scorpion Empire 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
 - Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 

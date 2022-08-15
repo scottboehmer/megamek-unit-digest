@@ -23,8 +23,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
-  - No Torso Twist 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5494/king-crab-kgc-008b) 
+- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5494) 
 - **Battle Value:** 2374 
 
 ## Availability 
@@ -45,4 +44,8 @@
 
 - Federated Suns 
 - Republic of the Sphere 
+
+### ilClan 
+
+- Federated Suns 
 

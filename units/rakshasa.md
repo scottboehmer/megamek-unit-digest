@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2631/rakshasa-mdg-1a) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2631) 
 - **Battle Value:** 1795 
 - [*More Info*](rakshasa/rakshasa_mdg-1a.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2633/rakshasa-mdg-1b) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2633) 
 - **Battle Value:** 1748 
 - [*More Info*](rakshasa/rakshasa_mdg-1b.md) 
 
@@ -55,7 +55,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2634/rakshasa-mdg-2a) 
+- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2634) 
 - **Battle Value:** 1766 
 - [*More Info*](rakshasa/rakshasa_mdg-2a.md) 
 
@@ -76,7 +76,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2632/rakshasa-mdg-1ar) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2632) 
 - **Battle Value:** 1675 
 - [*More Info*](rakshasa/rakshasa_mdg-1ar.md) 
 

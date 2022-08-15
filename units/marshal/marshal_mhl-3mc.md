@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6895/marshal-mhl-3mc) 
+- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6895) 
 - **Battle Value:** 1714 
 
 ## Availability 
@@ -32,6 +32,11 @@
 - Magistracy of Canopus 
 
 ### Dark Ages 
+
+- Fronc Reaches 
+- Magistracy of Canopus 
+
+### ilClan 
 
 - Fronc Reaches 
 - Magistracy of Canopus 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Thumper (ammo: 40) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3210/thumper-artillery-vehicle-standard) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3210) 
 - **Battle Value:** 568 
 
 ## Availability 
@@ -237,4 +237,8 @@
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
 

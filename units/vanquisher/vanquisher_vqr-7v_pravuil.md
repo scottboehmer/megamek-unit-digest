@@ -4,7 +4,7 @@
 
 ## Vanquisher VQR-7V (Pravuil) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 100 tons (Endo Steel) 
 - **Movement:** 3 / 5 
@@ -22,7 +22,7 @@
   - C3i 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TP:Arcturus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7342/vanquisher-vqr-7v-pravuil) 
+- **Sources:** TP:Arcturus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7342) 
 - **Battle Value:** 2073 
 
 ## Availability 
