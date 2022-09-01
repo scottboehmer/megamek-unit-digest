@@ -1,8 +1,8 @@
-# Wendigo-VP (Prime) 
+# Wendigo-VP Prime 
 
 [Other Wendigo-VP variants](../wendigo-vp.md) 
 
-## Wendigo-VP (Prime) 
+## Wendigo-VP Prime 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3134) 

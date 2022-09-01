@@ -5,7 +5,7 @@
 ## Wendigo C 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan Mixed (3150) 
+- **Tech Base:** Clan Mixed (3135) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9 (12), XL 
 - **Armor:** 152 (Laser Reflective) 

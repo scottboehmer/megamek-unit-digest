@@ -432,7 +432,6 @@
 - [**Hellion C**](../../units/hellion/hellion_c.md) *Striker (3061)* 
 - [**Hellion D**](../../units/hellion/hellion_d.md) *Striker (3068)* 
 - [**Hellion E**](../../units/hellion/hellion_e.md) *Striker (3070)* `ECM` 
-- [**Hellion F**](../../units/hellion/hellion_f.md) *Striker (3077)* `Active Probe` 
 
 #### [Hussar](../../units/hussar.md) 
 
@@ -576,7 +575,6 @@
 - [**Ice Ferret D**](../../units/ice_ferret/ice_ferret_d.md) *Striker (2948)* 
 - [**Ice Ferret E**](../../units/ice_ferret/ice_ferret_e.md) *Striker (3056)* 
 - [**Ice Ferret H**](../../units/ice_ferret/ice_ferret_h.md) *Striker (3061)* 
-- [**Ice Ferret U**](../../units/ice_ferret/ice_ferret_u.md) *Striker (3077)* 
 
 #### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
@@ -626,7 +624,6 @@
 - [**Nova S**](../../units/nova/nova_s.md) *Skirmisher (3050)* `Active Probe` 
 - [**Nova E**](../../units/nova/nova_e.md) *Skirmisher (3054)* 
 - [**Nova H**](../../units/nova/nova_h.md) *Skirmisher (3059)* 
-- [**Nova U**](../../units/nova/nova_u.md) *Striker (3077)* `Active Probe` , `ECM` 
 
 ### 55 Tons 
 
@@ -665,11 +662,11 @@
 - [**Stormcrow B**](../../units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](../../units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](../../units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3049)* 
 - [**Stormcrow TC**](../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
-- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3150)* 
 
 #### [Vapor Eagle](../../units/vapor_eagle.md) 
 
@@ -987,7 +984,6 @@
 - [**Turkina D**](../../units/turkina/turkina_d.md) *Juggernaut (3061)* 
 - [**Turkina H**](../../units/turkina/turkina_h.md) *Juggernaut (3062)* 
 - [**Turkina E**](../../units/turkina/turkina_e.md) *Juggernaut (3070)* 
-- [**Turkina U**](../../units/turkina/turkina_u.md) *Juggernaut (3077)* `Active Probe` 
 
 ### 100 Tons 
 
@@ -1024,7 +1020,6 @@
 - [**Dire Wolf C**](../../units/dire_wolf/dire_wolf_c.md) *Juggernaut (3054)* `ECM` 
 - [**Dire Wolf H**](../../units/dire_wolf/dire_wolf_h.md) *Juggernaut (3059)* 
 - [**Dire Wolf X**](../../units/dire_wolf/dire_wolf_x.md) *Juggernaut (3060)* 
-- [**Dire Wolf U**](../../units/dire_wolf/dire_wolf_u.md) *Juggernaut (3077)* 
 
 #### [Imp](../../units/imp.md) 
 

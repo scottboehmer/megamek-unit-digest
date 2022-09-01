@@ -1,6 +1,6 @@
 # Hel 
 
-## Hel "Loki Mk II" (Prime) 
+## Hel "Loki Mk II" Prime 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3121) 

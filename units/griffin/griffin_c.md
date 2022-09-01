@@ -29,24 +29,19 @@
 - Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
-- Oriente Protectorate 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
-- Rim Commonality 
 - Wolf's Dragoons 
 
 ### ilClan 
@@ -55,11 +50,8 @@
 - Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Protectorate 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 

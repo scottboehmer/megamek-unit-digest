@@ -5,7 +5,7 @@
 ## Stormcrow "Ryoken" P 
 
 - **Role:** Striker 
-- **Tech Base:** Clan (3150) 
+- **Tech Base:** Clan (3049) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
 - **Armor:** 182 (Ferro Fibrous) 
@@ -143,11 +143,8 @@
 - Alyina Mercantile League 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Protectorate 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Federated Suns 
 - Mercenary 

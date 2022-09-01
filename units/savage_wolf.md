@@ -45,7 +45,7 @@
 - **Battle Value:** 2666 
 - [*More Info*](savage_wolf/savage_wolf_pr_2.md) 
 
-## Savage Wolf "Mad Cat Mk IV" (Prime) 
+## Savage Wolf "Mad Cat Mk IV" Prime 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3136) 

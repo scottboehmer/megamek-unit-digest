@@ -157,7 +157,6 @@
 - [Early Republic](clan-nova-cat/early-republic.md) 
 - [Late Republic](clan-nova-cat/late-republic.md) 
 - [Dark Ages](clan-nova-cat/dark-ages.md) 
-- [ilClan](clan-nova-cat/ilclan.md) 
 
 ## Clan Protectorate 
 
@@ -225,7 +224,6 @@
 - [Early Republic](clan-wolf/early-republic.md) 
 - [Late Republic](clan-wolf/late-republic.md) 
 - [Dark Ages](clan-wolf/dark-ages.md) 
-- [ilClan](clan-wolf/ilclan.md) 
 
 ## Clan Wolf-in-Exile 
 
@@ -235,7 +233,6 @@
 - [Early Republic](clan-wolf-in-exile/early-republic.md) 
 - [Late Republic](clan-wolf-in-exile/late-republic.md) 
 - [Dark Ages](clan-wolf-in-exile/dark-ages.md) 
-- [ilClan](clan-wolf-in-exile/ilclan.md) 
 
 ## Clan Wolverine 
 

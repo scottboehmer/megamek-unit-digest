@@ -5,7 +5,7 @@
 ## Rattlesnake II RSN-1 
 
 - **Role:** Undefined 
-- **Tech Base:** Inner Sphere Mixed (3150) 
+- **Tech Base:** Inner Sphere Mixed (3149) 
 - **Chassis:** 45 tons (Endo Steel) 
 - **Movement:** 7 / 11 (14), XL 
   - **Jumping:** 7 

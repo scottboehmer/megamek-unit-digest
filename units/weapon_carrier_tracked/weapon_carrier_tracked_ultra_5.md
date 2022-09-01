@@ -28,7 +28,6 @@
 - Mercenary 
 - Star League 
 - Star League - Royal Divisions 
-- Terran Hegemony 
 
 ### Early Succession Wars 
 

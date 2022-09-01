@@ -31,7 +31,6 @@
 - Free Worlds League 
 - Lyran Alliance 
 - Second Star League 
-- St. Ives Compact 
 - Word of Blake 
 
 ### Jihad 

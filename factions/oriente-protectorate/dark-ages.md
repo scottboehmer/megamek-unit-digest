@@ -652,7 +652,6 @@
 - [**JES III Missile Carrier (Standard)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_standard.md) *Missile Boat (3133)* 
 - [**JES III Missile Carrier (Thunderbolt)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_thunderbolt.md) *Missile Boat (3133)* 
 - [**JES III Missile Carrier (Speed)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_speed.md) *Missile Boat (3135)* 
-- [**JES III Missile Carrier (C3)**](../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_c3.md) *Missile Boat (3140)* `C3 Support` 
 
 #### [Laser Carrier](../../units/laser_carrier.md) 
 
@@ -1043,7 +1042,6 @@
 - [**Incubus 2**](../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../units/incubus/incubus_8.md) *Striker (2962)* 
-- [**Incubus 9**](../../units/incubus/incubus_9.md) *Striker (3150)* 
 
 #### [Jackal](../../units/jackal.md) 
 
@@ -1092,7 +1090,6 @@
 - [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
 - [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
 - [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
-- [**Cougar T**](../../units/cougar/cougar_t.md) *Brawler (3142)* `Active Probe` , `ECM` 
 
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
@@ -1124,7 +1121,6 @@
 #### [Ostscout](../../units/ostscout.md) 
 
 - [**Ostscout OTT-9S**](../../units/ostscout/ostscout_ott-9s.md) *Scout (3065)* `Active Probe` , `ECM` , `TAG` 
-- [**Ostscout OTT-12R**](../../units/ostscout/ostscout_ott-12r.md) *Scout (3145)* `ECM` , `Stealth` 
 
 #### [Owens](../../units/owens.md) 
 
@@ -1242,7 +1238,6 @@
 - [**Phoenix Hawk PXH-1c (Special)**](../../units/phoenix_hawk/phoenix_hawk_pxh-1c_special.md) *Striker (2765)* `ECM` 
 - [**Phoenix Hawk PXH-7K**](../../units/phoenix_hawk/phoenix_hawk_pxh-7k.md) *Striker (3070)* `C3 Support` 
 - [**Phoenix Hawk PXH-4M**](../../units/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)* 
-- [**Phoenix Hawk PXH-9**](../../units/phoenix_hawk/phoenix_hawk_pxh-9.md) *Striker (3140)* 
 
 #### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
 
@@ -1372,7 +1367,6 @@
 - [**Griffin GRF-3M**](../../units/griffin/griffin_grf-3m.md) *Sniper (3049)* 
 - [**Griffin GRF-4R**](../../units/griffin/griffin_grf-4r.md) *Striker (3076)* 
 - [**Griffin GRF-3N**](../../units/griffin/griffin_grf-3n.md) *Sniper (3093)* 
-- [**Griffin C**](../../units/griffin/griffin_c.md) *Sniper (3144)* 
 
 #### [Lineholder](../../units/lineholder.md) 
 
@@ -1534,7 +1528,6 @@
 - [**Hellbringer D**](../../units/hellbringer/hellbringer_d.md) *Striker (3069)* 
 - [**Hellbringer E**](../../units/hellbringer/hellbringer_e.md) *Sniper (3069)* 
 - [**Hellbringer G**](../../units/hellbringer/hellbringer_g.md) *Skirmisher (3112)* 
-- [**Hellbringer T**](../../units/hellbringer/hellbringer_t.md) *Sniper (3142)* 
 
 #### [Rifleman IIC](../../units/rifleman_iic.md) 
 
@@ -1670,7 +1663,7 @@
 
 #### [Savage Wolf](../../units/savage_wolf.md) 
 
-- [**Savage Wolf (Prime)**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
+- [**Savage Wolf Prime**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
 - [**Savage Wolf A**](../../units/savage_wolf/savage_wolf_a.md) *Skirmisher (3136)* 
 - [**Savage Wolf B**](../../units/savage_wolf/savage_wolf_b.md) *Skirmisher (3136)* 
 - [**Savage Wolf C**](../../units/savage_wolf/savage_wolf_c.md) *Missile Boat (3136)* 
@@ -1757,7 +1750,6 @@
 - [**Cyclops CP-11-G**](../../units/cyclops/cyclops_cp-11-g.md) *Sniper (3058)* 
 - [**Cyclops CP-11-B**](../../units/cyclops/cyclops_cp-11-b.md) *Juggernaut (3071)* 
 - [**Cyclops CP-11-C2**](../../units/cyclops/cyclops_cp-11-c2.md) *Brawler (3073)* `C3 Main` , `TAG` 
-- [**Cyclops C**](../../units/cyclops/cyclops_c.md) *Brawler (3147)* 
 
 #### [Emperor](../../units/emperor.md) 
 
@@ -1773,14 +1765,6 @@
 - [**Mad Cat Mk II 2**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_2.md) *Brawler (3069)* 
 - [**Mad Cat Mk II 4**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_4.md) *Sniper (3090)* `Active Probe` 
 - [**Mad Cat Mk II 5**](../../units/mad_cat_mk_ii/mad_cat_mk_ii_5.md) *Brawler (3109)* `Active Probe` 
-
-#### [Regent](../../units/regent.md) 
-
-- [**Regent Prime**](../../units/regent/regent_prime.md) *Juggernaut (3145)* 
-- [**Regent A**](../../units/regent/regent_a.md) *Sniper (3145)* 
-- [**Regent B**](../../units/regent/regent_b.md) *Juggernaut (3145)* 
-- [**Regent C**](../../units/regent/regent_c.md) *Sniper (3145)* 
-- [**Regent D**](../../units/regent/regent_d.md) *Sniper (3145)* 
 
 #### [St. Florian](../../units/st._florian.md) 
 
@@ -1822,7 +1806,6 @@
 - [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
 - [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 - [**Atlas AS7-K2**](../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
-- [**Atlas AS8-KE**](../../units/atlas/atlas_as8-ke.md) *Juggernaut (3140)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 

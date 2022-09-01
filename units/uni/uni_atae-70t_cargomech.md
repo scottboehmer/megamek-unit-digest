@@ -24,5 +24,4 @@
 ### Star League 
 
 - Rim Worlds Republic - Terran Corps 
-- Terran Hegemony 
 

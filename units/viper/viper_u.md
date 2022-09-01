@@ -30,10 +30,8 @@
 ### Jihad 
 
 - Clan Cloud Cobra 
-- Clan Fire Mandrill 
 - Clan Goliath Scorpion 
 - Clan Star Adder 
-- Clan Steel Viper 
 - Escorpión Imperio 
 
 ### Early Republic 

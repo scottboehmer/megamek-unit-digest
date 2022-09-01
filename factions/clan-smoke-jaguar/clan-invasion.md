@@ -329,7 +329,6 @@
 - [**Mist Lynx D**](../../units/mist_lynx/mist_lynx_d.md) *Striker (2926)* `Active Probe` 
 - [**Mist Lynx E**](../../units/mist_lynx/mist_lynx_e.md) *Striker (3054)* `Active Probe` 
 - [**Mist Lynx H**](../../units/mist_lynx/mist_lynx_h.md) *Striker (3059)* `Active Probe` 
-- [**Mist Lynx P**](../../units/mist_lynx/mist_lynx_p.md) *Scout (3061)* `Active Probe` 
 
 #### [Mongoose](../../units/mongoose.md) 
 
@@ -467,7 +466,6 @@
 - [**Ice Ferret C**](../../units/ice_ferret/ice_ferret_c.md) *Missile Boat (2948)* 
 - [**Ice Ferret D**](../../units/ice_ferret/ice_ferret_d.md) *Striker (2948)* 
 - [**Ice Ferret E**](../../units/ice_ferret/ice_ferret_e.md) *Striker (3056)* 
-- [**Ice Ferret H**](../../units/ice_ferret/ice_ferret_h.md) *Striker (3061)* 
 
 #### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
@@ -548,12 +546,12 @@
 - [**Stormcrow B**](../../units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](../../units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](../../units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3049)* 
 - [**Stormcrow TC**](../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow (Kotare)**](../../units/stormcrow/stormcrow_kotare.md) *Skirmisher (3059)* 
 - [**Stormcrow H**](../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
-- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3150)* 
 
 #### [Vapor Eagle](../../units/vapor_eagle.md) 
 

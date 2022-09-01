@@ -295,7 +295,6 @@
 
 - [**Yellow Jacket Gunship (Ammo)**](../../units/yellow_jacket_gunship/yellow_jacket_gunship_ammo.md) *Sniper (3058)* 
 - [**Yellow Jacket Gunship (Standard)**](../../units/yellow_jacket_gunship/yellow_jacket_gunship_standard.md) *Sniper (3058)* 
-- [**Yellow Jacket Gunship (RAC)**](../../units/yellow_jacket_gunship/yellow_jacket_gunship_rac.md) *Striker (3066)* 
 
 ### 35 Tons 
 
@@ -316,14 +315,12 @@
 #### [Plainsman Medium Hovertank](../../units/plainsman_medium_hovertank.md) 
 
 - [**Plainsman Medium Hovertank (Standard)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_standard.md) *Striker (3030)* 
-- [**Plainsman Medium Hovertank (Scout)**](../../units/plainsman_medium_hovertank/plainsman_medium_hovertank_scout.md) *Scout (3065)* `Active Probe` 
 
 #### [Saladin Assault Hover Tank](../../units/saladin_assault_hover_tank.md) 
 
 - [**Saladin Assault Hover Tank (Standard)**](../../units/saladin_assault_hover_tank/saladin_assault_hover_tank_standard.md) *Striker (2942)* 
 - [**Saladin Assault Hover Tank (Armor)**](../../units/saladin_assault_hover_tank/saladin_assault_hover_tank_armor.md) *Striker (2960)* 
 - [**Saladin Assault Hover Tank (LB-X)**](../../units/saladin_assault_hover_tank/saladin_assault_hover_tank_lb-x.md) *Striker (3061)* 
-- [**Saladin Assault Hover Tank (Ultra)**](../../units/saladin_assault_hover_tank/saladin_assault_hover_tank_ultra.md) *Striker (3064)* 
 
 #### [Saracen Medium Hover Tank](../../units/saracen_medium_hover_tank.md) 
 
@@ -371,7 +368,6 @@
 
 - [**Chaparral Missile Artillery Tank (Standard)**](../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_standard.md) *Missile Boat (2611)* 
 - [**Chaparral Missile Artillery Tank (MG)**](../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_mg.md) *Missile Boat (3062)* 
-- [**Chaparral Missile Artillery Tank (SRM)**](../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (3064)* 
 
 #### [Condor Heavy Hover Tank](../../units/condor_heavy_hover_tank.md) 
 
@@ -472,7 +468,6 @@
 
 - [**SRM Carrier (Standard)**](../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
 - [**SRM Carrier (3054 Upgrade)**](../../units/srm_carrier/srm_carrier_3054_upgrade.md) *Ambusher (3054)* 
-- [**SRM Carrier (C3)**](../../units/srm_carrier/srm_carrier_c3.md) *Ambusher (3065)* `C3 Support` , `ECM` 
 
 #### [Thumper Artillery Vehicle](../../units/thumper_artillery_vehicle.md) 
 
@@ -561,7 +556,6 @@
 - [**Ontos Heavy Tank (Fusion)**](../../units/ontos_heavy_tank/ontos_heavy_tank_fusion.md) *Juggernaut (2863)* 
 - [**Ontos Heavy Tank (LRM)**](../../units/ontos_heavy_tank/ontos_heavy_tank_lrm.md) *Missile Boat (2876)* 
 - [**Ontos Heavy Tank (3053 Upgrade)**](../../units/ontos_heavy_tank/ontos_heavy_tank_3053_upgrade.md) *Juggernaut (3053)* 
-- [**Ontos Heavy Tank (Light Gauss)**](../../units/ontos_heavy_tank/ontos_heavy_tank_light_gauss.md) *Sniper (3065)* 
 
 ### 100 Tons 
 
@@ -640,7 +634,6 @@
 - [**Tarantula ZPH-1A**](../../units/tarantula/tarantula_zph-1a.md) *Scout (3054)* 
 - [**Tarantula ZPH-2A**](../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 - [**Tarantula ZPH-3A**](../../units/tarantula/tarantula_zph-3a.md) *Striker (3063)* 
-- [**Tarantula ZPH-4A**](../../units/tarantula/tarantula_zph-4a.md) *Striker (3066)* `C3 Support` 
 
 ### 30 Tons 
 
@@ -732,10 +725,6 @@
 - [**Powerman SC XV HaulerMech**](../../units/powerman/powerman_sc_xv_haulermech.md) *Ambusher (2895)* `IndustrialMech` 
 
 ### 40 Tons 
-
-#### [Araña](../../units/araña.md) 
-
-- [**Araña ARA-S-1 MilitiaMech**](../../units/araña/araña_ara-s-1_militiamech.md) *Undefined (3087)* `IndustrialMech` 
 
 #### [Cicada](../../units/cicada.md) 
 
@@ -1001,7 +990,6 @@
 - [**Avatar AV1-OC**](../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Main` , `TAG` 
 - [**Avatar AV1-OG**](../../units/avatar/avatar_av1-og.md) *Sniper (3056)* 
 - [**Avatar AV1-OD**](../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Support` 
-- [**Avatar AV1-OF**](../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
 
 #### [Cataphract](../../units/cataphract.md) 
 
@@ -1048,7 +1036,6 @@
 
 - [**Warhammer WHM-6R**](../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
 - [**Warhammer WHM-6L**](../../units/warhammer/warhammer_whm-6l.md) *Brawler (2825)* 
-- [**Warhammer WHM-8D**](../../units/warhammer/warhammer_whm-8d.md) *Brawler (3066)* `C3 Support` 
 
 ### 75 Tons 
 
@@ -1074,7 +1061,6 @@
 #### [War Dog](../../units/war_dog.md) 
 
 - [**War Dog WR-DG-02FC**](../../units/war_dog/war_dog_wr-dg-02fc.md) *Brawler (3052)* `ECM` 
-- [**War Dog WR-DG-03FC**](../../units/war_dog/war_dog_wr-dg-03fc.md) *Brawler (3064)* `C3 Support` 
 
 ### 80 Tons 
 

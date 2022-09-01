@@ -37,7 +37,6 @@
 - Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Nova Cat 
-- Clan Smoke Jaguar 
 - Clan Snow Raven 
 - Clan Star Adder 
 - Clan Steel Viper 
@@ -149,11 +148,8 @@
 - Alyina Mercantile League 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Protectorate 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 

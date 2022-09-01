@@ -1638,15 +1638,15 @@
 
 #### [Wendigo](../../units/wendigo.md) 
 
-- [**Wendigo (Prime)**](../../units/wendigo/wendigo_prime.md) *Skirmisher (3135)* 
-- [**Wendigo A**](../../units/wendigo/wendigo_a.md) *Sniper (3150)* 
-- [**Wendigo B**](../../units/wendigo/wendigo_b.md) *Skirmisher (3150)* `ECM` 
-- [**Wendigo C**](../../units/wendigo/wendigo_c.md) *Skirmisher (3150)* 
+- [**Wendigo Prime**](../../units/wendigo/wendigo_prime.md) *Skirmisher (3135)* 
+- [**Wendigo A**](../../units/wendigo/wendigo_a.md) *Sniper (3135)* 
+- [**Wendigo B**](../../units/wendigo/wendigo_b.md) *Skirmisher (3135)* `ECM` 
+- [**Wendigo C**](../../units/wendigo/wendigo_c.md) *Skirmisher (3135)* 
 
 #### [Wendigo-VP](../../units/wendigo-vp.md) 
 
-- [**Wendigo-VP (Prime)**](../../units/wendigo-vp/wendigo-vp_prime.md) *Skirmisher (3134)* 
-- [**Wendigo-VP A**](../../units/wendigo-vp/wendigo-vp_a.md) *Skirmisher (3150)* 
+- [**Wendigo-VP Prime**](../../units/wendigo-vp/wendigo-vp_prime.md) *Skirmisher (3134)* 
+- [**Wendigo-VP A**](../../units/wendigo-vp/wendigo-vp_a.md) *Skirmisher (3134)* 
 
 ### 55 Tons 
 
@@ -1725,16 +1725,16 @@
 - [**Stormcrow B**](../../units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](../../units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](../../units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3049)* 
 - [**Stormcrow TC**](../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
 - [**Stormcrow G**](../../units/stormcrow/stormcrow_g.md) *Striker (3068)* 
 - [**Stormcrow F**](../../units/stormcrow/stormcrow_f.md) *Striker (3069)* 
-- [**Stormcrow J**](../../units/stormcrow/stormcrow_j.md) *Striker (3150)* 
-- [**Stormcrow K**](../../units/stormcrow/stormcrow_k.md) *Striker (3150)* 
-- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3150)* 
-- [**Stormcrow T**](../../units/stormcrow/stormcrow_t.md) *Striker (3150)* `Active Probe` 
+- [**Stormcrow K**](../../units/stormcrow/stormcrow_k.md) *Striker (3120)* 
+- [**Stormcrow J**](../../units/stormcrow/stormcrow_j.md) *Striker (3130)* 
+- [**Stormcrow T**](../../units/stormcrow/stormcrow_t.md) *Striker (3142)* `Active Probe` 
 
 #### [Thunder Fox](../../units/thunder_fox.md) 
 
@@ -2062,7 +2062,7 @@
 
 #### [Savage Wolf](../../units/savage_wolf.md) 
 
-- [**Savage Wolf (Prime)**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
+- [**Savage Wolf Prime**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
 - [**Savage Wolf A**](../../units/savage_wolf/savage_wolf_a.md) *Skirmisher (3136)* 
 - [**Savage Wolf B**](../../units/savage_wolf/savage_wolf_b.md) *Skirmisher (3136)* 
 - [**Savage Wolf C**](../../units/savage_wolf/savage_wolf_c.md) *Missile Boat (3136)* 

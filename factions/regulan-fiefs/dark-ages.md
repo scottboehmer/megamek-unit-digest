@@ -1065,7 +1065,6 @@
 - [**Incubus 2**](../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../units/incubus/incubus_8.md) *Striker (2962)* 
-- [**Incubus 9**](../../units/incubus/incubus_9.md) *Striker (3150)* 
 
 #### [Jackal](../../units/jackal.md) 
 
@@ -1725,7 +1724,7 @@
 
 #### [Savage Wolf](../../units/savage_wolf.md) 
 
-- [**Savage Wolf (Prime)**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
+- [**Savage Wolf Prime**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
 - [**Savage Wolf A**](../../units/savage_wolf/savage_wolf_a.md) *Skirmisher (3136)* 
 - [**Savage Wolf B**](../../units/savage_wolf/savage_wolf_b.md) *Skirmisher (3136)* 
 - [**Savage Wolf C**](../../units/savage_wolf/savage_wolf_c.md) *Missile Boat (3136)* 

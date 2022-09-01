@@ -32,7 +32,6 @@
 - Rim Worlds Republic - Terran Corps 
 - Star League 
 - Taurian Concordat 
-- Terran Hegemony 
 
 ### Early Succession Wars 
 

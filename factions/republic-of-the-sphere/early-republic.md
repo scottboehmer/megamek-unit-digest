@@ -2483,7 +2483,7 @@
 
 #### [Grand Summoner](../../units/grand_summoner.md) 
 
-- [**Grand Summoner (Prime)**](../../units/grand_summoner/grand_summoner_prime.md) *Skirmisher (3093)* 
+- [**Grand Summoner Prime**](../../units/grand_summoner/grand_summoner_prime.md) *Skirmisher (3093)* 
 - [**Grand Summoner A**](../../units/grand_summoner/grand_summoner_a.md) *Sniper (3093)* 
 - [**Grand Summoner B**](../../units/grand_summoner/grand_summoner_b.md) *Missile Boat (3093)* 
 - [**Grand Summoner C**](../../units/grand_summoner/grand_summoner_c.md) *Skirmisher (3093)* 

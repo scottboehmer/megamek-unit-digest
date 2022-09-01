@@ -660,11 +660,11 @@
 - [**Stormcrow B**](../../units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](../../units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](../../units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3049)* 
 - [**Stormcrow TC**](../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
-- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3150)* 
 
 #### [Vapor Eagle](../../units/vapor_eagle.md) 
 

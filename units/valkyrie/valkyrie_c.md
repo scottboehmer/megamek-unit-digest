@@ -42,7 +42,6 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Kell Hounds 
 - Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Rasalhague Dominion 
@@ -58,11 +57,8 @@
 - Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Protectorate 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 

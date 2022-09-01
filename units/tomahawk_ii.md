@@ -1,6 +1,6 @@
 # Tomahawk II 
 
-## Tomahawk II (Prime) 
+## Tomahawk II Prime 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3088) 

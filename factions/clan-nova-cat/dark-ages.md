@@ -501,7 +501,6 @@
 - [**Fire Moth P**](../../units/fire_moth/fire_moth_p.md) *Striker (3132)* 
 - [**Fire Moth I**](../../units/fire_moth/fire_moth_i.md) *Sniper (3139)* 
 - [**Fire Moth T**](../../units/fire_moth/fire_moth_t.md) *Striker (3142)* 
-- [**Fire Moth J**](../../units/fire_moth/fire_moth_j.md) *Striker (3145)* 
 
 #### [Locust](../../units/locust.md) 
 
@@ -691,10 +690,6 @@
 - [**Ocelot 3**](../../units/ocelot/ocelot_3.md) *Striker (3075)* `Active Probe` , `ECM` 
 - [**Ocelot 4**](../../units/ocelot/ocelot_4.md) *Striker (3096)* 
 
-#### [Ostscout](../../units/ostscout.md) 
-
-- [**Ostscout OTT-12R**](../../units/ostscout/ostscout_ott-12r.md) *Scout (3145)* `ECM` , `Stealth` 
-
 #### [Phoenix Hawk L](../../units/phoenix_hawk_l.md) 
 
 - [**Phoenix Hawk L 'Fenikkusu Taka' PXH-11K**](../../units/phoenix_hawk_l/phoenix_hawk_l_fenikkusu_taka_pxh-11k.md) *Scout (3116)* 
@@ -742,10 +737,6 @@
 - [**Harvester HVR-199 AgroMech**](../../units/harvester/harvester_hvr-199_agromech.md) *Undefined (3128)* `IndustrialMech` 
 
 ### 45 Tons 
-
-#### [Hammerhead](../../units/hammerhead.md) 
-
-- [**Hammerhead (Standard)**](../../units/hammerhead/hammerhead_standard.md) *Skirmisher (3149)* 
 
 #### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
@@ -830,15 +821,15 @@
 
 #### [Wendigo](../../units/wendigo.md) 
 
-- [**Wendigo (Prime)**](../../units/wendigo/wendigo_prime.md) *Skirmisher (3135)* 
-- [**Wendigo A**](../../units/wendigo/wendigo_a.md) *Sniper (3150)* 
-- [**Wendigo B**](../../units/wendigo/wendigo_b.md) *Skirmisher (3150)* `ECM` 
-- [**Wendigo C**](../../units/wendigo/wendigo_c.md) *Skirmisher (3150)* 
+- [**Wendigo Prime**](../../units/wendigo/wendigo_prime.md) *Skirmisher (3135)* 
+- [**Wendigo A**](../../units/wendigo/wendigo_a.md) *Sniper (3135)* 
+- [**Wendigo B**](../../units/wendigo/wendigo_b.md) *Skirmisher (3135)* `ECM` 
+- [**Wendigo C**](../../units/wendigo/wendigo_c.md) *Skirmisher (3135)* 
 
 #### [Wendigo-VP](../../units/wendigo-vp.md) 
 
-- [**Wendigo-VP (Prime)**](../../units/wendigo-vp/wendigo-vp_prime.md) *Skirmisher (3134)* 
-- [**Wendigo-VP A**](../../units/wendigo-vp/wendigo-vp_a.md) *Skirmisher (3150)* 
+- [**Wendigo-VP Prime**](../../units/wendigo-vp/wendigo-vp_prime.md) *Skirmisher (3134)* 
+- [**Wendigo-VP A**](../../units/wendigo-vp/wendigo-vp_a.md) *Skirmisher (3134)* 
 
 ### 55 Tons 
 
@@ -846,7 +837,6 @@
 
 - [**Griffin GRF-5K**](../../units/griffin/griffin_grf-5k.md) *Missile Boat (3071)* 
 - [**Griffin GRF-4R**](../../units/griffin/griffin_grf-4r.md) *Striker (3076)* 
-- [**Griffin C**](../../units/griffin/griffin_c.md) *Sniper (3144)* 
 
 #### [Mad Cat III](../../units/mad_cat_iii.md) 
 
@@ -865,16 +855,16 @@
 - [**Stormcrow B**](../../units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](../../units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](../../units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3049)* 
 - [**Stormcrow TC**](../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
 - [**Stormcrow G**](../../units/stormcrow/stormcrow_g.md) *Striker (3068)* 
 - [**Stormcrow F**](../../units/stormcrow/stormcrow_f.md) *Striker (3069)* 
-- [**Stormcrow J**](../../units/stormcrow/stormcrow_j.md) *Striker (3150)* 
-- [**Stormcrow K**](../../units/stormcrow/stormcrow_k.md) *Striker (3150)* 
-- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3150)* 
-- [**Stormcrow T**](../../units/stormcrow/stormcrow_t.md) *Striker (3150)* `Active Probe` 
+- [**Stormcrow K**](../../units/stormcrow/stormcrow_k.md) *Striker (3120)* 
+- [**Stormcrow J**](../../units/stormcrow/stormcrow_j.md) *Striker (3130)* 
+- [**Stormcrow T**](../../units/stormcrow/stormcrow_t.md) *Striker (3142)* `Active Probe` 
 
 ### 60 Tons 
 
@@ -998,7 +988,7 @@
 
 #### [Savage Wolf](../../units/savage_wolf.md) 
 
-- [**Savage Wolf (Prime)**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
+- [**Savage Wolf Prime**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
 - [**Savage Wolf A**](../../units/savage_wolf/savage_wolf_a.md) *Skirmisher (3136)* 
 - [**Savage Wolf B**](../../units/savage_wolf/savage_wolf_b.md) *Skirmisher (3136)* 
 - [**Savage Wolf C**](../../units/savage_wolf/savage_wolf_c.md) *Missile Boat (3136)* 

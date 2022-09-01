@@ -1,8 +1,8 @@
-# Warwolf (Prime) 
+# Warwolf Prime 
 
 [Other Warwolf variants](../warwolf.md) 
 
-## Warwolf (Prime) 
+## Warwolf Prime 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3138) 

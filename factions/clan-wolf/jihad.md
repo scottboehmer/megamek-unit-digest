@@ -696,13 +696,13 @@
 - [**Stormcrow B**](../../units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](../../units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](../../units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3049)* 
 - [**Stormcrow TC**](../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
 - [**Stormcrow G**](../../units/stormcrow/stormcrow_g.md) *Striker (3068)* 
 - [**Stormcrow F**](../../units/stormcrow/stormcrow_f.md) *Striker (3069)* 
-- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3150)* 
 
 #### [Sun Cobra](../../units/sun_cobra.md) 
 
@@ -1122,7 +1122,7 @@
 
 #### [Tomahawk](../../units/tomahawk.md) 
 
-- [**Tomahawk (Prime)**](../../units/tomahawk/tomahawk_prime.md) *Juggernaut (3063)* `ECM` 
+- [**Tomahawk Prime**](../../units/tomahawk/tomahawk_prime.md) *Juggernaut (3063)* `ECM` 
 - [**Tomahawk A**](../../units/tomahawk/tomahawk_a.md) *Juggernaut (3063)* 
 - [**Tomahawk B**](../../units/tomahawk/tomahawk_b.md) *Juggernaut (3063)* 
 - [**Tomahawk C**](../../units/tomahawk/tomahawk_c.md) *Juggernaut (3063)* 

@@ -5,7 +5,7 @@
 ## Wendigo B 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3150) 
+- **Tech Base:** Clan (3135) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
   - **Jumping:** 8 

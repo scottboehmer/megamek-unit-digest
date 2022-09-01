@@ -176,11 +176,6 @@
 
 - [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
 
-#### [Kokou Defense Tank](../../units/kokou_defense_tank.md) 
-
-- [**Kokou Defense Tank (Standard)**](../../units/kokou_defense_tank/kokou_defense_tank_standard.md) *Undefined (2843)* 
-- [**Kokou Defense Tank (XL)**](../../units/kokou_defense_tank/kokou_defense_tank_xl.md) *Sniper (2843)* 
-
 ### 75 Tons 
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
@@ -293,22 +288,11 @@
 
 - [**Clint CLNT-1-2R**](../../units/clint/clint_clnt-1-2r.md) *Striker (2607)* 
 
-#### [Coyotl](../../units/coyotl.md) 
-
-- [**Coyotl Prime**](../../units/coyotl/coyotl_prime.md) *Striker (2854)* 
-- [**Coyotl A**](../../units/coyotl/coyotl_a.md) *Striker (2854)* 
-- [**Coyotl B**](../../units/coyotl/coyotl_b.md) *Striker (2854)* 
-
 #### [Sentinel](../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
 
 ### 45 Tons 
-
-#### [Night Chanter](../../units/night_chanter.md) 
-
-- [**Night Chanter Prime**](../../units/night_chanter/night_chanter_prime.md) *Skirmisher (2865)* 
-- [**Night Chanter A**](../../units/night_chanter/night_chanter_a.md) *Sniper (2865)* 
 
 #### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
@@ -369,12 +353,6 @@
 #### [Lancelot](../../units/lancelot.md) 
 
 - [**Lancelot LNC25-01**](../../units/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)* 
-
-#### [Lupus](../../units/lupus.md) 
-
-- [**Lupus Prime**](../../units/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM` 
-- [**Lupus A**](../../units/lupus/lupus_a.md) *Brawler (2857)* 
-- [**Lupus B**](../../units/lupus/lupus_b.md) *Skirmisher (2857)* 
 
 #### [Ostroc](../../units/ostroc.md) 
 
@@ -481,13 +459,6 @@
 
 ### 95 Tons 
 
-#### [Gladiator-B (Executioner-B)](../../units/gladiator-b_executioner-b.md) 
-
-- [**Gladiator-B (Executioner-B) Prime**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_prime.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) A**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_a.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) B**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_b.md) *Sniper (2873)* 
-- [**Gladiator-B (Executioner-B) C**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_c.md) *Sniper (2873)* 
-
 #### [Nightstar](../../units/nightstar.md) 
 
 - [**Nightstar NSR-9J**](../../units/nightstar/nightstar_nsr-9j.md) *Juggernaut (2767)* 
@@ -501,8 +472,6 @@
 #### [Atlas](../../units/atlas.md) 
 
 - [**Atlas C**](../../units/atlas/atlas_c.md) *Juggernaut (2830)* 
-- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
-- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 

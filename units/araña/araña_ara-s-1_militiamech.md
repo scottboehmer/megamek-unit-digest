@@ -32,7 +32,6 @@
 ### Civil War 
 
 - Capellan Confederation 
-- St. Ives Compact 
 
 ### Jihad 
 

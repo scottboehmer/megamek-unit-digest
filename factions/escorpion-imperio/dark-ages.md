@@ -450,7 +450,6 @@
 - [**Hellion F**](../../units/hellion/hellion_f.md) *Striker (3077)* `Active Probe` 
 - [**Hellion G**](../../units/hellion/hellion_g.md) *Striker (3119)* 
 - [**Hellion P**](../../units/hellion/hellion_p.md) *Striker (3124)* `ECM` , `TAG` 
-- [**Hellion T**](../../units/hellion/hellion_t.md) *Striker (3142)* 
 
 #### [Incubus](../../units/incubus.md) 
 
@@ -505,10 +504,6 @@
 #### [Arbiter](../../units/arbiter.md) 
 
 - [**Arbiter ARB-001 SecurityMech**](../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
-
-#### [Cazador](../../units/cazador.md) 
-
-- [**Cazador (Standard)**](../../units/cazador/cazador_standard.md) *Striker (3145)* 
 
 #### [DemolitionMech](../../units/demolitionmech.md) 
 
@@ -574,10 +569,6 @@
 - [**Pouncer E**](../../units/pouncer/pouncer_e.md) *Striker (3061)* 
 - [**Pouncer H**](../../units/pouncer/pouncer_h.md) *Striker (3062)* 
 - [**Pouncer F**](../../units/pouncer/pouncer_f.md) *Scout (3069)* `Active Probe` 
-
-#### [Tolva](../../units/tolva.md) 
-
-- [**Tolva (Standard)**](../../units/tolva/tolva_standard.md) *Skirmisher (3145)* 
 
 #### [Viper](../../units/viper.md) 
 
@@ -715,15 +706,15 @@
 - [**Stormcrow B**](../../units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](../../units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](../../units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3049)* 
 - [**Stormcrow TC**](../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
 - [**Stormcrow G**](../../units/stormcrow/stormcrow_g.md) *Striker (3068)* 
 - [**Stormcrow F**](../../units/stormcrow/stormcrow_f.md) *Striker (3069)* 
-- [**Stormcrow J**](../../units/stormcrow/stormcrow_j.md) *Striker (3150)* 
-- [**Stormcrow K**](../../units/stormcrow/stormcrow_k.md) *Striker (3150)* 
-- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3150)* 
+- [**Stormcrow K**](../../units/stormcrow/stormcrow_k.md) *Striker (3120)* 
+- [**Stormcrow J**](../../units/stormcrow/stormcrow_j.md) *Striker (3130)* 
 
 #### [Sun Bear](../../units/sun_bear.md) 
 
@@ -802,7 +793,6 @@
 - [**Ebon Jaguar U**](../../units/ebon_jaguar/ebon_jaguar_u.md) *Sniper (3077)* 
 - [**Ebon Jaguar F**](../../units/ebon_jaguar/ebon_jaguar_f.md) *Sniper (3104)* 
 - [**Ebon Jaguar G**](../../units/ebon_jaguar/ebon_jaguar_g.md) *Skirmisher (3125)* 
-- [**Ebon Jaguar T**](../../units/ebon_jaguar/ebon_jaguar_t.md) *Sniper (3142)* 
 
 #### [Fire Scorpion](../../units/fire_scorpion.md) 
 

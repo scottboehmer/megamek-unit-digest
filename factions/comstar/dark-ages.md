@@ -202,7 +202,7 @@
 
 #### [Mad Dog Mk III](../../units/mad_dog_mk_iii.md) 
 
-- [**Mad Dog Mk III (Prime)**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_prime.md) *Missile Boat (3109)* 
+- [**Mad Dog Mk III Prime**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_prime.md) *Missile Boat (3109)* 
 - [**Mad Dog Mk III A**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_a.md) *Skirmisher (3109)* 
 - [**Mad Dog Mk III B**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_b.md) *Missile Boat (3109)* 
 - [**Mad Dog Mk III BLO**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_blo.md) *Missile Boat (3109)* `C3i` , `Unique` 

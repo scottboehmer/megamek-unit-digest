@@ -487,15 +487,6 @@
 - [**Highlander HGN-732**](../../units/highlander/highlander_hgn-732.md) *Sniper (2592)* 
 - [**Highlander HGN-732b**](../../units/highlander/highlander_hgn-732b.md) *Sniper (2598)* 
 
-### 95 Tons 
-
-#### [Gladiator-B (Executioner-B)](../../units/gladiator-b_executioner-b.md) 
-
-- [**Gladiator-B (Executioner-B) Prime**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_prime.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) A**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_a.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) B**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_b.md) *Sniper (2873)* 
-- [**Gladiator-B (Executioner-B) C**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_c.md) *Sniper (2873)* 
-
 ### 100 Tons 
 
 #### [Atlas](../../units/atlas.md) 

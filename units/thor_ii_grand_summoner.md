@@ -1,6 +1,6 @@
 # Thor II (Grand Summoner) 
 
-## Grand Summoner "Thor II" (Prime) 
+## Grand Summoner "Thor II" Prime 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3093) 

@@ -286,12 +286,6 @@
 
 - [**Thumper Artillery Vehicle (Standard)**](../../units/thumper_artillery_vehicle/thumper_artillery_vehicle_standard.md) *Missile Boat (2734)* 
 
-#### [Weapon Carrier (Tracked)](../../units/weapon_carrier_tracked.md) 
-
-- [**Weapon Carrier (Tracked) (AC/20)**](../../units/weapon_carrier_tracked/weapon_carrier_tracked_ac_20.md) *Ambusher (2775)* 
-- [**Weapon Carrier (Tracked) (LB-10X)**](../../units/weapon_carrier_tracked/weapon_carrier_tracked_lb-10x.md) *Sniper (2775)* 
-- [**Weapon Carrier (Tracked) (Ultra/5)**](../../units/weapon_carrier_tracked/weapon_carrier_tracked_ultra_5.md) *Sniper (2775)* 
-
 ### 65 Tons 
 
 #### [Marksman Artillery Vehicle](../../units/marksman_artillery_vehicle.md) 
@@ -647,10 +641,6 @@
 
 - [**Ostroc OSR-2C**](../../units/ostroc/ostroc_osr-2c.md) *Skirmisher (2511)* 
 
-#### [Rifleman](../../units/rifleman.md) 
-
-- [**Rifleman RFL-3N**](../../units/rifleman/rifleman_rfl-3n.md) *Sniper (2770)* 
-
 ### 65 Tons 
 
 #### [Catapult](../../units/catapult.md) 
@@ -701,10 +691,6 @@
 #### [Shootist](../../units/shootist.md) 
 
 - [**Shootist ST-8A**](../../units/shootist/shootist_st-8a.md) *Brawler (2621)* 
-
-#### [Uni](../../units/uni.md) 
-
-- [**Uni ATAE-70T CargoMech**](../../units/uni/uni_atae-70t_cargomech.md) *Undefined (3074)* `IndustrialMech` 
 
 #### [Warhammer](../../units/warhammer.md) 
 

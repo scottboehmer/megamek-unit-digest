@@ -23,10 +23,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Clan Steel Viper 
-
 ### Early Republic 
 
 - Clan Wolf-in-Exile 

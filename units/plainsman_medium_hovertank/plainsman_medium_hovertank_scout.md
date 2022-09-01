@@ -36,7 +36,6 @@
 - Outworlds Alliance 
 - Pirate 
 - Second Star League 
-- St. Ives Compact 
 - Taurian Concordat 
 - Wolf's Dragoons 
 - Word of Blake 

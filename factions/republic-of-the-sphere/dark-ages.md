@@ -2562,7 +2562,7 @@
 
 #### [Mad Dog Mk III](../../units/mad_dog_mk_iii.md) 
 
-- [**Mad Dog Mk III (Prime)**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_prime.md) *Missile Boat (3109)* 
+- [**Mad Dog Mk III Prime**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_prime.md) *Missile Boat (3109)* 
 - [**Mad Dog Mk III A**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_a.md) *Skirmisher (3109)* 
 - [**Mad Dog Mk III B**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_b.md) *Missile Boat (3109)* 
 - [**Mad Dog Mk III C**](../../units/mad_dog_mk_iii/mad_dog_mk_iii_c.md) *Skirmisher (3109)* 
@@ -2796,7 +2796,7 @@
 
 #### [Grand Summoner](../../units/grand_summoner.md) 
 
-- [**Grand Summoner (Prime)**](../../units/grand_summoner/grand_summoner_prime.md) *Skirmisher (3093)* 
+- [**Grand Summoner Prime**](../../units/grand_summoner/grand_summoner_prime.md) *Skirmisher (3093)* 
 - [**Grand Summoner A**](../../units/grand_summoner/grand_summoner_a.md) *Sniper (3093)* 
 - [**Grand Summoner B**](../../units/grand_summoner/grand_summoner_b.md) *Missile Boat (3093)* 
 - [**Grand Summoner C**](../../units/grand_summoner/grand_summoner_c.md) *Skirmisher (3093)* 
@@ -2979,7 +2979,7 @@
 
 #### [Savage Wolf](../../units/savage_wolf.md) 
 
-- [**Savage Wolf (Prime)**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
+- [**Savage Wolf Prime**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
 - [**Savage Wolf A**](../../units/savage_wolf/savage_wolf_a.md) *Skirmisher (3136)* 
 - [**Savage Wolf B**](../../units/savage_wolf/savage_wolf_b.md) *Skirmisher (3136)* 
 - [**Savage Wolf C**](../../units/savage_wolf/savage_wolf_c.md) *Missile Boat (3136)* 

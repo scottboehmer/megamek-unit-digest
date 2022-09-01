@@ -35,7 +35,6 @@
 - Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Nova Cat 
-- Clan Smoke Jaguar 
 - Clan Snow Raven 
 - Clan Star Adder 
 - Clan Steel Viper 

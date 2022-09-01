@@ -47,9 +47,7 @@
 - Clan Snow Raven 
 - Clan Star Adder 
 - Clan Steel Viper 
-- Clan Widowmaker 
 - Clan Wolf 
-- Clan Wolverine 
 
 ### Late Succession Wars - LosTech 
 
@@ -235,11 +233,8 @@
 - Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Protectorate 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 

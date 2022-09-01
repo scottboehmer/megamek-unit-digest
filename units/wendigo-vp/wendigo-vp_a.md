@@ -5,7 +5,7 @@
 ## Wendigo-VP A 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3150) 
+- **Tech Base:** Clan (3134) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
   - **Jumping:** 8 

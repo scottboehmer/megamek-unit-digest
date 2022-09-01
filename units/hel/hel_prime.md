@@ -1,8 +1,8 @@
-# Hel (Prime) 
+# Hel Prime 
 
 [Other Hel variants](../hel.md) 
 
-## Hel "Loki Mk II" (Prime) 
+## Hel "Loki Mk II" Prime 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3121) 

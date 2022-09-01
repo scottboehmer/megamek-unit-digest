@@ -28,7 +28,6 @@
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
@@ -40,11 +39,8 @@
 - Alyina Mercantile League 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Protectorate 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Star League (Jade Falcon) 

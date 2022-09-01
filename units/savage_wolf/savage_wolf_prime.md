@@ -1,8 +1,8 @@
-# Savage Wolf (Prime) 
+# Savage Wolf Prime 
 
 [Other Savage Wolf variants](../savage_wolf.md) 
 
-## Savage Wolf "Mad Cat Mk IV" (Prime) 
+## Savage Wolf "Mad Cat Mk IV" Prime 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3136) 
@@ -58,11 +58,8 @@
 - Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Protectorate 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 

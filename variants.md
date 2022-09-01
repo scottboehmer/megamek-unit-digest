@@ -4729,7 +4729,7 @@
 
 #### [Wulfen](units/wulfen.md) 
 
-- [**Wulfen (Prime)**](units/wulfen/wulfen_prime.md) *Scout (3137)* `ECM` , `Stealth` 
+- [**Wulfen Prime**](units/wulfen/wulfen_prime.md) *Scout (3137)* `ECM` , `Stealth` 
 - [**Wulfen A**](units/wulfen/wulfen_a.md) *Striker (3137)* `ECM` , `Stealth` 
 - [**Wulfen B**](units/wulfen/wulfen_b.md) *Scout (3137)* `ECM` , `Stealth` 
 - [**Wulfen C**](units/wulfen/wulfen_c.md) *Striker (3137)* `ECM` , `Stealth` 
@@ -5786,8 +5786,8 @@
 
 #### [Rattlesnake II](units/rattlesnake_ii.md) 
 
+- [**Rattlesnake II RSN-1**](units/rattlesnake_ii/rattlesnake_ii_rsn-1.md) *Undefined (3149)* `ECM` 
 - [**Rattlesnake II RSN-2**](units/rattlesnake_ii/rattlesnake_ii_rsn-2.md) *Undefined (3149)* `ECM` , `Stealth` 
-- [**Rattlesnake II RSN-1**](units/rattlesnake_ii/rattlesnake_ii_rsn-1.md) *Undefined (3150)* `ECM` 
 
 #### [Shadow Cat](units/shadow_cat.md) 
 
@@ -6374,15 +6374,15 @@
 
 #### [Wendigo](units/wendigo.md) 
 
-- [**Wendigo (Prime)**](units/wendigo/wendigo_prime.md) *Skirmisher (3135)* 
-- [**Wendigo A**](units/wendigo/wendigo_a.md) *Sniper (3150)* 
-- [**Wendigo B**](units/wendigo/wendigo_b.md) *Skirmisher (3150)* `ECM` 
-- [**Wendigo C**](units/wendigo/wendigo_c.md) *Skirmisher (3150)* 
+- [**Wendigo Prime**](units/wendigo/wendigo_prime.md) *Skirmisher (3135)* 
+- [**Wendigo A**](units/wendigo/wendigo_a.md) *Sniper (3135)* 
+- [**Wendigo B**](units/wendigo/wendigo_b.md) *Skirmisher (3135)* `ECM` 
+- [**Wendigo C**](units/wendigo/wendigo_c.md) *Skirmisher (3135)* 
 
 #### [Wendigo-VP](units/wendigo-vp.md) 
 
-- [**Wendigo-VP (Prime)**](units/wendigo-vp/wendigo-vp_prime.md) *Skirmisher (3134)* 
-- [**Wendigo-VP A**](units/wendigo-vp/wendigo-vp_a.md) *Skirmisher (3150)* 
+- [**Wendigo-VP Prime**](units/wendigo-vp/wendigo-vp_prime.md) *Skirmisher (3134)* 
+- [**Wendigo-VP A**](units/wendigo-vp/wendigo-vp_a.md) *Skirmisher (3134)* 
 
 ### 55 Tons 
 
@@ -6789,6 +6789,7 @@
 - [**Stormcrow B**](units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow P**](units/stormcrow/stormcrow_p.md) *Striker (3049)* 
 - [**Stormcrow Attwater**](units/stormcrow/stormcrow_attwater.md) *Sniper (3052)* `Unique` 
 - [**Stormcrow TC**](units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
@@ -6798,10 +6799,9 @@
 - [**Stormcrow G**](units/stormcrow/stormcrow_g.md) *Striker (3068)* 
 - [**Stormcrow F**](units/stormcrow/stormcrow_f.md) *Striker (3069)* 
 - [**Stormcrow Z**](units/stormcrow/stormcrow_z.md) *Striker (3072)* `Active Probe` , `ECM` , `NovaC3` 
-- [**Stormcrow J**](units/stormcrow/stormcrow_j.md) *Striker (3150)* 
-- [**Stormcrow K**](units/stormcrow/stormcrow_k.md) *Striker (3150)* 
-- [**Stormcrow P**](units/stormcrow/stormcrow_p.md) *Striker (3150)* 
-- [**Stormcrow T**](units/stormcrow/stormcrow_t.md) *Striker (3150)* `Active Probe` 
+- [**Stormcrow K**](units/stormcrow/stormcrow_k.md) *Striker (3120)* 
+- [**Stormcrow J**](units/stormcrow/stormcrow_j.md) *Striker (3130)* 
+- [**Stormcrow T**](units/stormcrow/stormcrow_t.md) *Striker (3142)* `Active Probe` 
 
 #### [Sun Bear](units/sun_bear.md) 
 
@@ -7096,7 +7096,7 @@
 
 #### [Mad Dog Mk III](units/mad_dog_mk_iii.md) 
 
-- [**Mad Dog Mk III (Prime)**](units/mad_dog_mk_iii/mad_dog_mk_iii_prime.md) *Missile Boat (3109)* 
+- [**Mad Dog Mk III Prime**](units/mad_dog_mk_iii/mad_dog_mk_iii_prime.md) *Missile Boat (3109)* 
 - [**Mad Dog Mk III A**](units/mad_dog_mk_iii/mad_dog_mk_iii_a.md) *Skirmisher (3109)* 
 - [**Mad Dog Mk III B**](units/mad_dog_mk_iii/mad_dog_mk_iii_b.md) *Missile Boat (3109)* 
 - [**Mad Dog Mk III BLO**](units/mad_dog_mk_iii/mad_dog_mk_iii_blo.md) *Missile Boat (3109)* `C3i` , `Unique` 
@@ -7471,7 +7471,7 @@
 
 #### [Hel](units/hel.md) 
 
-- [**Hel (Prime)**](units/hel/hel_prime.md) *Sniper (3121)* 
+- [**Hel Prime**](units/hel/hel_prime.md) *Sniper (3121)* 
 - [**Hel A**](units/hel/hel_a.md) *Brawler (3121)* `ECM` 
 - [**Hel B**](units/hel/hel_b.md) *Brawler (3121)* 
 
@@ -7870,7 +7870,7 @@
 
 #### [Grand Summoner](units/grand_summoner.md) 
 
-- [**Grand Summoner (Prime)**](units/grand_summoner/grand_summoner_prime.md) *Skirmisher (3093)* 
+- [**Grand Summoner Prime**](units/grand_summoner/grand_summoner_prime.md) *Skirmisher (3093)* 
 - [**Grand Summoner A**](units/grand_summoner/grand_summoner_a.md) *Sniper (3093)* 
 - [**Grand Summoner B**](units/grand_summoner/grand_summoner_b.md) *Missile Boat (3093)* 
 - [**Grand Summoner C**](units/grand_summoner/grand_summoner_c.md) *Skirmisher (3093)* 
@@ -8396,7 +8396,7 @@
 
 - [**Savage Wolf PR**](units/savage_wolf/savage_wolf_pr.md) *Skirmisher (3130)* 
 - [**Savage Wolf PR 2**](units/savage_wolf/savage_wolf_pr_2.md) *Skirmisher (3131)* 
-- [**Savage Wolf (Prime)**](units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
+- [**Savage Wolf Prime**](units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
 - [**Savage Wolf A**](units/savage_wolf/savage_wolf_a.md) *Skirmisher (3136)* 
 - [**Savage Wolf B**](units/savage_wolf/savage_wolf_b.md) *Skirmisher (3136)* 
 - [**Savage Wolf C**](units/savage_wolf/savage_wolf_c.md) *Missile Boat (3136)* 
@@ -8497,7 +8497,7 @@
 
 #### [Warwolf](units/warwolf.md) 
 
-- [**Warwolf (Prime)**](units/warwolf/warwolf_prime.md) *Brawler (3138)* `TAG` 
+- [**Warwolf Prime**](units/warwolf/warwolf_prime.md) *Brawler (3138)* `TAG` 
 - [**Warwolf A**](units/warwolf/warwolf_a.md) *Brawler (3138)* 
 - [**Warwolf B**](units/warwolf/warwolf_b.md) *Sniper (3138)* 
 - [**Warwolf C**](units/warwolf/warwolf_c.md) *Brawler (3138)* 
@@ -9830,14 +9830,14 @@
 
 #### [Tomahawk](units/tomahawk.md) 
 
-- [**Tomahawk (Prime)**](units/tomahawk/tomahawk_prime.md) *Juggernaut (3063)* `ECM` 
+- [**Tomahawk Prime**](units/tomahawk/tomahawk_prime.md) *Juggernaut (3063)* `ECM` 
 - [**Tomahawk A**](units/tomahawk/tomahawk_a.md) *Juggernaut (3063)* 
 - [**Tomahawk B**](units/tomahawk/tomahawk_b.md) *Juggernaut (3063)* 
 - [**Tomahawk C**](units/tomahawk/tomahawk_c.md) *Juggernaut (3063)* 
 
 #### [Tomahawk II](units/tomahawk_ii.md) 
 
-- [**Tomahawk II (Prime)**](units/tomahawk_ii/tomahawk_ii_prime.md) *Sniper (3088)* 
+- [**Tomahawk II Prime**](units/tomahawk_ii/tomahawk_ii_prime.md) *Sniper (3088)* 
 - [**Tomahawk II A**](units/tomahawk_ii/tomahawk_ii_a.md) *Juggernaut (3088)* 
 - [**Tomahawk II B**](units/tomahawk_ii/tomahawk_ii_b.md) *Sniper (3088)* 
 - [**Tomahawk II C**](units/tomahawk_ii/tomahawk_ii_c.md) *Missile Boat (3088)* 

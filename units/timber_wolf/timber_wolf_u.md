@@ -30,7 +30,6 @@
 
 - Clan Cloud Cobra 
 - Clan Diamond Shark 
-- Clan Fire Mandrill 
 - Clan Ghost Bear 
 - Clan Goliath Scorpion 
 - Clan Hell's Horses 
@@ -38,7 +37,6 @@
 - Clan Nova Cat 
 - Clan Snow Raven 
 - Clan Star Adder 
-- Clan Steel Viper 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
@@ -99,11 +97,8 @@
 - Alyina Mercantile League 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Protectorate 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Kell Hounds 
 - Mercenary 
 - Rasalhague Dominion 

@@ -33,16 +33,12 @@
 ### Jihad 
 
 - Clan Blood Spirit 
-- Clan Burrock 
 - Clan Cloud Cobra 
 - Clan Coyote 
-- Clan Fire Mandrill 
 - Clan Goliath Scorpion 
-- Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Star Adder 
-- Clan Steel Viper 
 - Clan Stone Lion 
 - Escorpión Imperio 
 - Society 

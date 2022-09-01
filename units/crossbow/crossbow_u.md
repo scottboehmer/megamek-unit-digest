@@ -34,7 +34,6 @@
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Snow Raven 
-- Clan Steel Viper 
 - Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 

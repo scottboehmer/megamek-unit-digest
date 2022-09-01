@@ -1,6 +1,6 @@
 # Wulfen 
 
-## Wulfen (Prime) 
+## Wulfen Prime 
 
 - **Role:** Scout 
 - **Tech Base:** Clan Mixed (3137) 

@@ -46,7 +46,6 @@
 - Clan Steel Viper 
 - Clan Widowmaker 
 - Clan Wolf 
-- Clan Wolverine 
 
 ### Late Succession Wars - LosTech 
 

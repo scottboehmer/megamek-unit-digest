@@ -1,8 +1,8 @@
-# Mad Dog Mk III (Prime) 
+# Mad Dog Mk III Prime 
 
 [Other Mad Dog Mk III variants](../mad_dog_mk_iii.md) 
 
-## Mad Dog Mk III "Vulture Mk III" (Prime) 
+## Mad Dog Mk III "Vulture Mk III" Prime 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (3109) 

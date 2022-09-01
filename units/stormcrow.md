@@ -96,6 +96,26 @@
 - **Battle Value:** 1863 
 - [*More Info*](stormcrow/stormcrow_d.md) 
 
+## Stormcrow "Ryoken" P 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3049) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 182 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - Streak SRM 6 × 2 (ammo: 15) 
+  - Medium Pulse Laser × 3 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Stable 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7555) 
+- **Battle Value:** 2213 
+- [*More Info*](stormcrow/stormcrow_p.md) 
+
 ## Stormcrow "Ryoken" Attwater 
 
 - **Role:** Sniper 
@@ -276,10 +296,29 @@
 - **Battle Value:** 2855 
 - [*More Info*](stormcrow/stormcrow_z.md) 
 
+## Stormcrow "Ryoken" K 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3120) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 182 (Ferro Fibrous) 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - Improved Heavy Medium Laser × 4 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Stable 
+- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7554) 
+- **Battle Value:** 2001 
+- [*More Info*](stormcrow/stormcrow_k.md) 
+
 ## Stormcrow "Ryoken" J 
 
 - **Role:** Striker 
-- **Tech Base:** Clan (3150) 
+- **Tech Base:** Clan (3130) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
 - **Armor:** 182 (Ferro Fibrous) 
@@ -296,49 +335,10 @@
 - **Battle Value:** 2300 
 - [*More Info*](stormcrow/stormcrow_j.md) 
 
-## Stormcrow "Ryoken" K 
-
-- **Role:** Striker 
-- **Tech Base:** Clan (3150) 
-- **Chassis:** 55 tons (Endo Steel) 
-- **Movement:** 6 / 9, XL 
-- **Armor:** 182 (Ferro Fibrous) 
-- **Heat Sinks:** 15 (30) 
-- **Weapons:** 
-  - Gauss Rifle (ammo: 16) 
-  - Improved Heavy Medium Laser × 4 
-- **Equipment:** 
-  - CASE 
-- **Design Quirks:** 
-  - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7554) 
-- **Battle Value:** 2001 
-- [*More Info*](stormcrow/stormcrow_k.md) 
-
-## Stormcrow "Ryoken" P 
-
-- **Role:** Striker 
-- **Tech Base:** Clan (3150) 
-- **Chassis:** 55 tons (Endo Steel) 
-- **Movement:** 6 / 9, XL 
-- **Armor:** 182 (Ferro Fibrous) 
-- **Heat Sinks:** 12 (24) 
-- **Weapons:** 
-  - ER Large Laser × 2 
-  - Streak SRM 6 × 2 (ammo: 15) 
-  - Medium Pulse Laser × 3 
-- **Equipment:** 
-  - CASE 
-- **Design Quirks:** 
-  - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7555) 
-- **Battle Value:** 2213 
-- [*More Info*](stormcrow/stormcrow_p.md) 
-
 ## Stormcrow "Ryoken" T 
 
 - **Role:** Striker 
-- **Tech Base:** Clan (3150) 
+- **Tech Base:** Clan (3142) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 6 / 9 (12), XL 
 - **Armor:** 182 (Ferro Fibrous) 

@@ -30,20 +30,16 @@
 ### Jihad 
 
 - Clan Blood Spirit 
-- Clan Burrock 
 - Clan Cloud Cobra 
 - Clan Coyote 
 - Clan Diamond Shark 
-- Clan Fire Mandrill 
 - Clan Ghost Bear 
 - Clan Goliath Scorpion 
 - Clan Hell's Horses 
-- Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Snow Raven 
 - Clan Star Adder 
-- Clan Steel Viper 
 - Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 

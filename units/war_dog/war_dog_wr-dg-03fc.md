@@ -35,7 +35,6 @@
 - Lyran Alliance 
 - Mercenary 
 - Second Star League 
-- St. Ives Compact 
 - Wolf's Dragoons 
 - Word of Blake 
 

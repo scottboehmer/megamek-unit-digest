@@ -176,11 +176,6 @@
 
 - [**Heavy BattleMech Recovery Vehicle (Standard)**](../../units/heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
 
-#### [Kokou Defense Tank](../../units/kokou_defense_tank.md) 
-
-- [**Kokou Defense Tank (Standard)**](../../units/kokou_defense_tank/kokou_defense_tank_standard.md) *Undefined (2843)* 
-- [**Kokou Defense Tank (XL)**](../../units/kokou_defense_tank/kokou_defense_tank_xl.md) *Sniper (2843)* 
-
 ### 75 Tons 
 
 #### [Mobile Long Tom Artillery](../../units/mobile_long_tom_artillery.md) 
@@ -239,10 +234,6 @@
 
 - [**Harvester Ant KIC-3 AgroMech**](../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
 
-#### [Locust IIC](../../units/locust_iic.md) 
-
-- [**Locust IIC (Standard)**](../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
-
 #### [Mongoose](../../units/mongoose.md) 
 
 - [**Mongoose MON-66**](../../units/mongoose/mongoose_mon-66.md) *Scout (2660)* `Active Probe` 
@@ -297,12 +288,6 @@
 
 - [**Clint CLNT-1-2R**](../../units/clint/clint_clnt-1-2r.md) *Striker (2607)* 
 
-#### [Coyotl](../../units/coyotl.md) 
-
-- [**Coyotl Prime**](../../units/coyotl/coyotl_prime.md) *Striker (2854)* 
-- [**Coyotl A**](../../units/coyotl/coyotl_a.md) *Striker (2854)* 
-- [**Coyotl B**](../../units/coyotl/coyotl_b.md) *Striker (2854)* 
-
 #### [Sentinel](../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
@@ -313,18 +298,9 @@
 
 ### 45 Tons 
 
-#### [Night Chanter](../../units/night_chanter.md) 
-
-- [**Night Chanter Prime**](../../units/night_chanter/night_chanter_prime.md) *Skirmisher (2865)* 
-- [**Night Chanter A**](../../units/night_chanter/night_chanter_a.md) *Sniper (2865)* 
-
 #### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
 - [**Phoenix Hawk PXH-1b (Special)**](../../units/phoenix_hawk/phoenix_hawk_pxh-1b_special.md) *Skirmisher (2760)* `ECM` 
-
-#### [Shadow Hawk IIC](../../units/shadow_hawk_iic.md) 
-
-- [**Shadow Hawk IIC (Standard)**](../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
 
 #### [Wyvern](../../units/wyvern.md) 
 
@@ -356,10 +332,6 @@
 
 - [**Lynx LNX-9Q**](../../units/lynx/lynx_lnx-9q.md) *Skirmisher (2761)* 
 
-#### [Naja](../../units/naja.md) 
-
-- [**Naja (Standard)**](../../units/naja/naja_standard.md) *Brawler (2826)* 
-
 #### [Shadow Hawk](../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2Hb**](../../units/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)* 
@@ -373,12 +345,6 @@
 #### [Lancelot](../../units/lancelot.md) 
 
 - [**Lancelot LNC25-01**](../../units/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)* 
-
-#### [Lupus](../../units/lupus.md) 
-
-- [**Lupus Prime**](../../units/lupus/lupus_prime.md) *Missile Boat (2857)* `ECM` 
-- [**Lupus A**](../../units/lupus/lupus_a.md) *Brawler (2857)* 
-- [**Lupus B**](../../units/lupus/lupus_b.md) *Skirmisher (2857)* 
 
 #### [Ostroc](../../units/ostroc.md) 
 
@@ -406,7 +372,6 @@
 #### [Thunderbolt](../../units/thunderbolt.md) 
 
 - [**Thunderbolt TDR-5Sb**](../../units/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)* 
-- [**Thunderbolt C**](../../units/thunderbolt/thunderbolt_c.md) *Sniper (2832)* 
 
 ### 70 Tons 
 
@@ -484,21 +449,7 @@
 - [**Pulverizer PUL-2V**](../../units/pulverizer/pulverizer_pul-2v.md) *Brawler (2823)* `ECM` 
 - [**Pulverizer PUL-3R**](../../units/pulverizer/pulverizer_pul-3r.md) *Brawler (2823)* `ECM` 
 
-### 95 Tons 
-
-#### [Gladiator-B (Executioner-B)](../../units/gladiator-b_executioner-b.md) 
-
-- [**Gladiator-B (Executioner-B) Prime**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_prime.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) A**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_a.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) B**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_b.md) *Sniper (2873)* 
-- [**Gladiator-B (Executioner-B) C**](../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_c.md) *Sniper (2873)* 
-
 ### 100 Tons 
-
-#### [Atlas](../../units/atlas.md) 
-
-- [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
-- [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 
 #### [Atlas II](../../units/atlas_ii.md) 
 

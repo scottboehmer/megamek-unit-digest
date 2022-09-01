@@ -28,7 +28,6 @@
 
 - Clan Cloud Cobra 
 - Clan Diamond Shark 
-- Clan Fire Mandrill 
 - Clan Ghost Bear 
 - Clan Goliath Scorpion 
 - Clan Hell's Horses 
@@ -36,7 +35,6 @@
 - Clan Nova Cat 
 - Clan Snow Raven 
 - Clan Star Adder 
-- Clan Steel Viper 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Draconis Combine 

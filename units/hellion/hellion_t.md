@@ -31,7 +31,6 @@
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Sea Fox 
-- Escorpión Imperio 
 - Scorpion Empire 
 
 ### ilClan 

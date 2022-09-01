@@ -44,7 +44,6 @@
 - Clan Steel Viper 
 - Clan Widowmaker 
 - Clan Wolf 
-- Clan Wolverine 
 
 ### Late Succession Wars - LosTech 
 
@@ -204,11 +203,8 @@
 - Alyina Mercantile League 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
-- Clan Nova Cat 
 - Clan Protectorate 
 - Clan Sea Fox 
-- Clan Wolf 
-- Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 

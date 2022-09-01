@@ -407,7 +407,6 @@
 - [**Hellion C**](../../units/hellion/hellion_c.md) *Striker (3061)* 
 - [**Hellion D**](../../units/hellion/hellion_d.md) *Striker (3068)* 
 - [**Hellion E**](../../units/hellion/hellion_e.md) *Striker (3070)* `ECM` 
-- [**Hellion F**](../../units/hellion/hellion_f.md) *Striker (3077)* `Active Probe` 
 
 #### [Hussar](../../units/hussar.md) 
 
@@ -436,7 +435,6 @@
 - [**Kit Fox G**](../../units/kit_fox/kit_fox_g.md) *Sniper (3054)* `ECM` 
 - [**Kit Fox H**](../../units/kit_fox/kit_fox_h.md) *Striker (3059)* 
 - [**Kit Fox J**](../../units/kit_fox/kit_fox_j.md) *Striker (3060)* 
-- [**Kit Fox U**](../../units/kit_fox/kit_fox_u.md) *Sniper (3077)* 
 
 #### [Mandrill](../../units/mandrill.md) 
 
@@ -510,7 +508,6 @@
 - [**Viper D**](../../units/viper/viper_d.md) *Striker (2940)* 
 - [**Viper E**](../../units/viper/viper_e.md) *Striker (3054)* 
 - [**Viper H**](../../units/viper/viper_h.md) *Striker (3062)* 
-- [**Viper U**](../../units/viper/viper_u.md) *Striker (3077)* `ECM` 
 
 ### 45 Tons 
 
@@ -538,7 +535,6 @@
 - [**Ice Ferret D**](../../units/ice_ferret/ice_ferret_d.md) *Striker (2948)* 
 - [**Ice Ferret E**](../../units/ice_ferret/ice_ferret_e.md) *Striker (3056)* 
 - [**Ice Ferret H**](../../units/ice_ferret/ice_ferret_h.md) *Striker (3061)* 
-- [**Ice Ferret U**](../../units/ice_ferret/ice_ferret_u.md) *Striker (3077)* 
 
 #### [Phoenix Hawk](../../units/phoenix_hawk.md) 
 
@@ -618,7 +614,6 @@
 - [**Nova S**](../../units/nova/nova_s.md) *Skirmisher (3050)* `Active Probe` 
 - [**Nova E**](../../units/nova/nova_e.md) *Skirmisher (3054)* 
 - [**Nova H**](../../units/nova/nova_h.md) *Skirmisher (3059)* 
-- [**Nova U**](../../units/nova/nova_u.md) *Striker (3077)* `Active Probe` , `ECM` 
 
 ### 55 Tons 
 
@@ -647,11 +642,11 @@
 - [**Stormcrow B**](../../units/stormcrow/stormcrow_b.md) *Striker (2930)* 
 - [**Stormcrow C**](../../units/stormcrow/stormcrow_c.md) *Striker (2930)* 
 - [**Stormcrow D**](../../units/stormcrow/stormcrow_d.md) *Missile Boat (2930)* 
+- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3049)* 
 - [**Stormcrow TC**](../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
-- [**Stormcrow P**](../../units/stormcrow/stormcrow_p.md) *Striker (3150)* 
 
 #### [Vapor Eagle](../../units/vapor_eagle.md) 
 
@@ -684,7 +679,6 @@
 - [**Mad Dog DD**](../../units/mad_dog/mad_dog_dd.md) *Brawler (3050)* 
 - [**Mad Dog S**](../../units/mad_dog/mad_dog_s.md) *Skirmisher (3052)* `Active Probe` 
 - [**Mad Dog D**](../../units/mad_dog/mad_dog_d.md) *Skirmisher (3054)* 
-- [**Mad Dog U**](../../units/mad_dog/mad_dog_u.md) *Skirmisher (3077)* 
 
 #### [Matador](../../units/matador.md) 
 
@@ -724,7 +718,6 @@
 - [**Ebon Jaguar C**](../../units/ebon_jaguar/ebon_jaguar_c.md) *Missile Boat (3049)* 
 - [**Ebon Jaguar D**](../../units/ebon_jaguar/ebon_jaguar_d.md) *Skirmisher (3059)* 
 - [**Ebon Jaguar H**](../../units/ebon_jaguar/ebon_jaguar_h.md) *Skirmisher (3062)* 
-- [**Ebon Jaguar U**](../../units/ebon_jaguar/ebon_jaguar_u.md) *Sniper (3077)* 
 
 #### [Exterminator](../../units/exterminator.md) 
 
@@ -806,7 +799,6 @@
 - [**Summoner M**](../../units/summoner/summoner_m.md) *Sniper (3051)* 
 - [**Summoner E**](../../units/summoner/summoner_e.md) *Skirmisher (3054)* 
 - [**Summoner F**](../../units/summoner/summoner_f.md) *Skirmisher (3054)* 
-- [**Summoner U**](../../units/summoner/summoner_u.md) *Sniper (3078)* 
 
 #### [Warhammer](../../units/warhammer.md) 
 
@@ -850,7 +842,6 @@
 - [**Timber Wolf E**](../../units/timber_wolf/timber_wolf_e.md) *Sniper (3054)* `TAG` 
 - [**Timber Wolf H**](../../units/timber_wolf/timber_wolf_h.md) *Missile Boat (3059)* 
 - [**Timber Wolf M**](../../units/timber_wolf/timber_wolf_m.md) *Brawler (3068)* 
-- [**Timber Wolf U**](../../units/timber_wolf/timber_wolf_u.md) *Sniper (3077)* 
 
 ### 80 Tons 
 
@@ -973,7 +964,6 @@
 - [**Turkina D**](../../units/turkina/turkina_d.md) *Juggernaut (3061)* 
 - [**Turkina H**](../../units/turkina/turkina_h.md) *Juggernaut (3062)* 
 - [**Turkina E**](../../units/turkina/turkina_e.md) *Juggernaut (3070)* 
-- [**Turkina U**](../../units/turkina/turkina_u.md) *Juggernaut (3077)* `Active Probe` 
 
 ### 100 Tons 
 
@@ -1011,7 +1001,6 @@
 - [**Dire Wolf C**](../../units/dire_wolf/dire_wolf_c.md) *Juggernaut (3054)* `ECM` 
 - [**Dire Wolf H**](../../units/dire_wolf/dire_wolf_h.md) *Juggernaut (3059)* 
 - [**Dire Wolf X**](../../units/dire_wolf/dire_wolf_x.md) *Juggernaut (3060)* 
-- [**Dire Wolf U**](../../units/dire_wolf/dire_wolf_u.md) *Juggernaut (3077)* 
 
 #### [Imp](../../units/imp.md) 
 

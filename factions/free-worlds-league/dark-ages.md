@@ -1636,10 +1636,10 @@
 
 #### [Wendigo](../../units/wendigo.md) 
 
-- [**Wendigo (Prime)**](../../units/wendigo/wendigo_prime.md) *Skirmisher (3135)* 
-- [**Wendigo A**](../../units/wendigo/wendigo_a.md) *Sniper (3150)* 
-- [**Wendigo B**](../../units/wendigo/wendigo_b.md) *Skirmisher (3150)* `ECM` 
-- [**Wendigo C**](../../units/wendigo/wendigo_c.md) *Skirmisher (3150)* 
+- [**Wendigo Prime**](../../units/wendigo/wendigo_prime.md) *Skirmisher (3135)* 
+- [**Wendigo A**](../../units/wendigo/wendigo_a.md) *Sniper (3135)* 
+- [**Wendigo B**](../../units/wendigo/wendigo_b.md) *Skirmisher (3135)* `ECM` 
+- [**Wendigo C**](../../units/wendigo/wendigo_c.md) *Skirmisher (3135)* 
 
 ### 55 Tons 
 
@@ -2060,7 +2060,7 @@
 
 #### [Savage Wolf](../../units/savage_wolf.md) 
 
-- [**Savage Wolf (Prime)**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
+- [**Savage Wolf Prime**](../../units/savage_wolf/savage_wolf_prime.md) *Skirmisher (3136)* 
 - [**Savage Wolf A**](../../units/savage_wolf/savage_wolf_a.md) *Skirmisher (3136)* 
 - [**Savage Wolf B**](../../units/savage_wolf/savage_wolf_b.md) *Skirmisher (3136)* 
 - [**Savage Wolf C**](../../units/savage_wolf/savage_wolf_c.md) *Missile Boat (3136)* 

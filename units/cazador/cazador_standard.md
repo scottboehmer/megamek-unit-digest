@@ -27,7 +27,6 @@
 
 ### Dark Ages 
 
-- Escorpión Imperio 
 - Scorpion Empire 
 
 ### ilClan 

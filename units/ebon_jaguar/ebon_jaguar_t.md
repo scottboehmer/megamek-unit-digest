@@ -32,7 +32,6 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Draconis Combine 
-- Escorpión Imperio 
 - Raven Alliance 
 - Scorpion Empire 
 - Wolf's Dragoons 

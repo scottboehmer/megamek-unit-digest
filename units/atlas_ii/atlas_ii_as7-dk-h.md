@@ -39,7 +39,6 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Kell Hounds 
 - Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 

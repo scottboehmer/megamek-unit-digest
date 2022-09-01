@@ -1,8 +1,8 @@
-# Grand Summoner (Prime) 
+# Grand Summoner Prime 
 
 [Other Grand Summoner variants](../grand_summoner.md) 
 
-## Grand Summoner "Thor II" (Prime) 
+## Grand Summoner "Thor II" Prime 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3093) 

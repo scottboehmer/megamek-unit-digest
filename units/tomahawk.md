@@ -1,6 +1,6 @@
 # Tomahawk 
 
-## Tomahawk (Prime) 
+## Tomahawk Prime 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3063) 
