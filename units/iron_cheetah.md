@@ -103,7 +103,7 @@
 ## Iron Cheetah L 
 
 - **Role:** Brawler 
-- **Tech Base:** Clan (3135) 
+- **Tech Base:** Clan Mixed (3135) 
 - **Chassis:** 100 tons (Endo Steel) 
 - **Movement:** 4 / 6 (8), XL 
 - **Armor:** 307 (Ferro Fibrous) 
@@ -117,7 +117,7 @@
   - Light Active Probe 
   - CASE II 
   - CASE 
-  - Supercharger 
+  - Inner Sphere Supercharger 
 - **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8324) 
 - **Battle Value:** 3480 
 - [*More Info*](iron_cheetah/iron_cheetah_l.md) 

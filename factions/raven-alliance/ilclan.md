@@ -580,11 +580,11 @@
 - [**Gulon GLN-1B SecurityMech**](../../units/gulon/gulon_gln-1b_securitymech.md) *Ambusher (3000)* `IndustrialMech` 
 - [**Gulon C SolahmaMech**](../../units/gulon/gulon_c_solahmamech.md) *Ambusher (3145)* `IndustrialMech` 
 
-#### [Koshi](../../units/koshi.md) 
+#### [Koshi (Standard)](../../units/koshi_standard.md) 
 
-- [**Koshi (Standard)**](../../units/koshi/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi 2**](../../units/koshi/koshi_2.md) *Striker (3095)* `TAG` 
-- [**Koshi 3**](../../units/koshi/koshi_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi (Standard)**](../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
+- [**Koshi (Standard) 2**](../../units/koshi_standard/koshi_standard_2.md) *Undefined (3095)* `TAG` 
+- [**Koshi (Standard) 3**](../../units/koshi_standard/koshi_standard_3.md) *Undefined (3095)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Locust IIC](../../units/locust_iic.md) 
 

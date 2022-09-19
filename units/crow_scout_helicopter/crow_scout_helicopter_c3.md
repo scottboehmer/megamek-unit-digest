@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/745) 
+- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/745) 
 - **Battle Value:** 288 
 
 ## Availability 

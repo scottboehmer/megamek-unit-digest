@@ -12,7 +12,7 @@
 - **Cockpit:** Primitive 
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
-  - PPC 
+  - Primitive PPC 
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
 - **Design Quirks:** 
@@ -20,8 +20,8 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1973) 
-- **Battle Value:** 1461 
+- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1973) 
+- **Battle Value:** 1438 
 
 ## Availability 
 

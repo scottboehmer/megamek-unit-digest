@@ -153,7 +153,6 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-  - Rumble Seat 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771) 
 - **Battle Value:** 1830 
 - [*More Info*](axman/axman_axm-6t.md) 

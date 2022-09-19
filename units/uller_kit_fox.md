@@ -87,7 +87,7 @@
 - **Tech Base:** Clan (2921) 
 - **Chassis:** 30 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
-- **Armor:** 71 (Ferro Fibrous) 
+- **Armor:** 76 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Arrow IV (ammo: 15) 
@@ -97,7 +97,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #11 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7746) 
-- **Battle Value:** 850 
+- **Battle Value:** 866 
 - [*More Info*](kit_fox/kit_fox_v.md) 
 
 ## Kit Fox "Uller" C 
@@ -233,10 +233,10 @@
 - **Chassis:** 30 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
   - **Jumping:** 6 
-- **Armor:** 71 (Ferro Fibrous) 
+- **Armor:** 76 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - Ultra AC/5 (ammo: 20) 
+  - Ultra AC/5 (ammo: 40) 
   - ER Medium Laser × 2 
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
@@ -244,7 +244,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7744) 
-- **Battle Value:** 1134 
+- **Battle Value:** 1178 
 - [*More Info*](kit_fox/kit_fox_j.md) 
 
 ## Kit Fox "Uller" F 
@@ -373,7 +373,7 @@
 - **Tech Base:** Clan (3142) 
 - **Chassis:** 30 tons (Endo Steel) 
 - **Movement:** 6 / 9 (12), XL 
-- **Armor:** 71 (Ferro Fibrous) 
+- **Armor:** 76 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Large Laser 
@@ -387,6 +387,6 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7743) 
-- **Battle Value:** 1380 
+- **Battle Value:** 1397 
 - [*More Info*](kit_fox/kit_fox_t.md) 
 

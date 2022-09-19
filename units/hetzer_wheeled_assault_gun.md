@@ -81,9 +81,9 @@
 - **Weapons:** 
   - AC/20 (ammo: 10) 
 - **Equipment:** 
-  - Beagle Active Probe 
+  - Remote Sensor Dispenser 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1510) 
-- **Battle Value:** 553 
+- **Battle Value:** 544 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) 
 
 ## Hetzer Wheeled Assault Gun (LB-X) 
@@ -96,7 +96,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LB 20-X AC (ammo: 15 Standard, 10 Cluster) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1508) 
+- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1508) 
 - **Battle Value:** 767 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lb-x.md) 
 
@@ -114,7 +114,7 @@
   - C3i 
   - CASE 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1511) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1511) 
 - **Battle Value:** 733 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_sealed.md) 
 

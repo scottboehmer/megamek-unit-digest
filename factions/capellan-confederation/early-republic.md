@@ -492,7 +492,7 @@
 - [**Hetzer Wheeled Assault Gun (AC10)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_ac10.md) *Ambusher (2893)* 
 - [**Hetzer Wheeled Assault Gun (SRM)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_srm.md) *Ambusher (2957)* 
 - [**Hetzer Wheeled Assault Gun (LRM)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lrm.md) *Missile Boat (3001)* 
-- [**Hetzer Wheeled Assault Gun (Scout)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* `Active Probe` 
+- [**Hetzer Wheeled Assault Gun (Scout)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* 
 - [**Hetzer Wheeled Assault Gun (LB-X)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lb-x.md) *Ambusher (3063)* 
 
 #### [Joust Medium Tank](../../units/joust_medium_tank.md) 
@@ -988,11 +988,11 @@
 
 - [**Harvester Ant KIC-3 AgroMech**](../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
 
-#### [Koshi](../../units/koshi.md) 
+#### [Koshi (Standard)](../../units/koshi_standard.md) 
 
-- [**Koshi (Standard)**](../../units/koshi/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi 2**](../../units/koshi/koshi_2.md) *Striker (3095)* `TAG` 
-- [**Koshi 3**](../../units/koshi/koshi_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi (Standard)**](../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
+- [**Koshi (Standard) 2**](../../units/koshi_standard/koshi_standard_2.md) *Undefined (3095)* `TAG` 
+- [**Koshi (Standard) 3**](../../units/koshi_standard/koshi_standard_3.md) *Undefined (3095)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Locust IIC](../../units/locust_iic.md) 
 
@@ -1249,9 +1249,9 @@
 
 ### 50 Tons 
 
-#### [Black Hawk](../../units/black_hawk.md) 
+#### [Black Hawk (Standard)](../../units/black_hawk_standard.md) 
 
-- [**Black Hawk (Standard)**](../../units/black_hawk/black_hawk_standard.md) *Skirmisher (3073)* 
+- [**Black Hawk (Standard)**](../../units/black_hawk_standard/black_hawk_standard.md) *Skirmisher (3073)* 
 
 #### [Blackjack](../../units/blackjack.md) 
 

@@ -1,52 +1,58 @@
-# Koshi 2 
+# Black Hawk (Standard) 
 
-[Other Koshi variants](../koshi.md) 
+[Other Black Hawk (Standard) variants](../black_hawk_standard.md) 
 
-## Koshi 2 
+## Black Hawk (Standard) 
 
-- **Role:** Striker 
-- **Tech Base:** Clan (3095) 
-- **Chassis:** 25 tons (Endo Steel) 
-- **Movement:** 7 / 11, XL 
-  - **Jumping:** 6 
-- **Armor:** 67 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (20) 
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3073) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 136 
+- **Heat Sinks:** 14 (28) 
 - **Weapons:** 
-  - Streak SRM 6 × 2 (ammo: 30) 
+  - ER Large Laser × 2 
+  - Streak SRM 4 × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-  - Light TAG 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6548) 
-- **Battle Value:** 948 
+- **Sources:** TRO 3145 Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6554) 
+- **Battle Value:** 2183 
 
 ## Availability 
+
+### Jihad 
+
+- Clan Hell's Horses 
 
 ### Early Republic 
 
 - Capellan Confederation 
-- Clan Diamond Shark 
 - Clan Hell's Horses 
-- Clan Jade Falcon 
 - Clan Nova Cat 
-- Clan Wolf 
+- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Free Worlds League - Non-Aligned Worlds 
 - Kell Hounds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
 - Mercenary 
-- Rasalhague Dominion 
-- Raven Alliance 
+- Oriente Protectorate 
+- Regulan Fiefs 
 - Republic of the Sphere 
+- Rim Commonality 
 - Wolf's Dragoons 
 
 ### Late Republic 
 
 - Capellan Confederation 
 - Clan Hell's Horses 
-- Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Sea Fox 
-- Clan Wolf 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -59,7 +65,6 @@
 - Mercenary 
 - Oriente Protectorate 
 - Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -69,10 +74,8 @@
 
 - Capellan Confederation 
 - Clan Hell's Horses 
-- Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Sea Fox 
-- Clan Wolf 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -86,7 +89,6 @@
 - Mercenary 
 - Oriente Protectorate 
 - Rasalhague Dominion 
-- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -97,7 +99,6 @@
 - Alyina Mercantile League 
 - Capellan Confederation 
 - Clan Hell's Horses 
-- Clan Jade Falcon 
 - Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 
@@ -108,11 +109,6 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Rasalhague Dominion 
-- Raven Alliance 
-- Star League (Jade Falcon) 
-- Star League (Smoke Jaguar) 
-- Star League (Wolf) 
 - Tamar Pact 
 - Vesper Marches 
-- Wolf Empire 
 

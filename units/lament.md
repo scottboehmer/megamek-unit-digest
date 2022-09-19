@@ -17,7 +17,6 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
-  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6676) 
@@ -42,7 +41,6 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
-  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7400) 
@@ -67,7 +65,6 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
-  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6722) 
@@ -91,7 +88,6 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
-  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6723) 
@@ -115,7 +111,6 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
-  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6724) 
@@ -141,7 +136,6 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
-  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383) 

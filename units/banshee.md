@@ -10,7 +10,7 @@
 - **Cockpit:** Primitive 
 - **Heat Sinks:** 16 (16) 
 - **Weapons:** 
-  - PPC 
+  - Primitive PPC 
   - AC/5 (ammo: 40) 
   - Medium Laser × 2 
   - Small Laser 
@@ -20,7 +20,7 @@
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
 - **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3785) 
-- **Battle Value:** 1465 
+- **Battle Value:** 1461 
 - [*More Info*](banshee/banshee_bnc-1e.md) 
 
 ## Banshee BNC-3E 

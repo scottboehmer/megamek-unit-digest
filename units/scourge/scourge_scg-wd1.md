@@ -17,7 +17,6 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Reinforced Legs 
-  - Rumble Seat 
 - **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6626) 
 - **Battle Value:** 2061 
 

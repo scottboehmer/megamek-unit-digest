@@ -10,7 +10,7 @@
 - **Cockpit:** Primitive 
 - **Heat Sinks:** 17 (17) 
 - **Weapons:** 
-  - PPC 
+  - Primitive PPC 
   - Large Laser 
   - AC/5 (ammo: 20) 
 - **Design Quirks:** 
@@ -19,7 +19,7 @@
   - Rugged (×2) 
   - Oversized 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972) 
-- **Battle Value:** 1436 
+- **Battle Value:** 1401 
 - [*More Info*](mackie/mackie_msk-5s.md) 
 
 ## Mackie MSK-6S 
@@ -32,7 +32,7 @@
 - **Cockpit:** Primitive 
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
-  - PPC 
+  - Primitive PPC 
   - AC/10 (ammo: 20) 
   - Medium Laser × 2 
 - **Design Quirks:** 
@@ -40,8 +40,8 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1973) 
-- **Battle Value:** 1461 
+- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1973) 
+- **Battle Value:** 1438 
 - [*More Info*](mackie/mackie_msk-6s.md) 
 
 ## Mackie MSK-7A 

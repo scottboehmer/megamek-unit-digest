@@ -1,26 +1,23 @@
-# Koshi 3 
+# Koshi (Standard) 2 
 
-[Other Koshi variants](../koshi.md) 
+[Other Koshi (Standard) variants](../koshi_standard.md) 
 
-## Koshi 3 
+## Koshi (Standard) 2 
 
-- **Role:** Scout 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3095) 
 - **Chassis:** 25 tons (Endo Steel) 
-- **Movement:** 7 / 11 (14), XL 
+- **Movement:** 7 / 11, XL 
   - **Jumping:** 6 
 - **Armor:** 67 (Ferro Fibrous) 
-- **Heat Sinks:** 11 (22) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - Heavy Small Laser × 6 
+  - Streak SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
-  - ECM Suite 
-  - Active Probe 
+  - CASE 
   - Light TAG 
-  - Targeting Computer 
-  - MASC 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6549) 
-- **Battle Value:** 777 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6548) 
+- **Battle Value:** 948 
 
 ## Availability 
 

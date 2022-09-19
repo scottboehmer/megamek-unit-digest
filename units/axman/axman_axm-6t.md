@@ -18,7 +18,6 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-  - Rumble Seat 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771) 
 - **Battle Value:** 1830 
 

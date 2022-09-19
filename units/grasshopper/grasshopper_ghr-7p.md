@@ -18,7 +18,6 @@
 - **Equipment:** 
   - Bloodhound Active Probe 
 - **Design Quirks:** 
-  - Rumble Seat 
   - Non-Standard Parts 
   - Rugged (×2) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4234) 

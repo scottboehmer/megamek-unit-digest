@@ -40,6 +40,24 @@
 - **Battle Value:** 1272 
 - [*More Info*](griffin/griffin_grf-1n.md) 
 
+## Griffin GRF-2N2 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2703) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 179 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - PPC 
+  - SRM 6 × 2 (ammo: 30) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+- **Battle Value:** 1513 
+- [*More Info*](griffin/griffin_grf-2n2.md) 
+
 ## Griffin GRF-2N 
 
 - **Role:** Skirmisher 

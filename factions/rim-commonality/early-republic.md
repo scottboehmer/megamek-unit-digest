@@ -468,7 +468,7 @@
 - [**Hetzer Wheeled Assault Gun (Standard)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_standard.md) *Ambusher (2887)* 
 - [**Hetzer Wheeled Assault Gun (SRM)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_srm.md) *Ambusher (2957)* 
 - [**Hetzer Wheeled Assault Gun (LRM)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lrm.md) *Missile Boat (3001)* 
-- [**Hetzer Wheeled Assault Gun (Scout)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* `Active Probe` 
+- [**Hetzer Wheeled Assault Gun (Scout)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* 
 
 #### [Joust Medium Tank](../../units/joust_medium_tank.md) 
 
@@ -892,9 +892,9 @@
 
 - [**Harvester Ant KIC-3 AgroMech**](../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
 
-#### [Koshi](../../units/koshi.md) 
+#### [Koshi (Standard)](../../units/koshi_standard.md) 
 
-- [**Koshi (Standard)**](../../units/koshi/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
+- [**Koshi (Standard)**](../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
 
 #### [Peacekeeper](../../units/peacekeeper.md) 
 
@@ -1107,9 +1107,9 @@
 
 ### 50 Tons 
 
-#### [Black Hawk](../../units/black_hawk.md) 
+#### [Black Hawk (Standard)](../../units/black_hawk_standard.md) 
 
-- [**Black Hawk (Standard)**](../../units/black_hawk/black_hawk_standard.md) *Skirmisher (3073)* 
+- [**Black Hawk (Standard)**](../../units/black_hawk_standard/black_hawk_standard.md) *Skirmisher (3073)* 
 
 #### [Blackjack](../../units/blackjack.md) 
 

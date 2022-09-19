@@ -14,7 +14,7 @@
   - Rocket 10 × 2 
   - ER Small Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/746) 
+- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/746) 
 - **Battle Value:** 415 
 
 ## Availability 

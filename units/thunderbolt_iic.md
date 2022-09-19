@@ -16,7 +16,6 @@
   - CASE II 
 - **Design Quirks:** 
   - Protected Actuators 
-  - Rumble Seat 
   - Difficult to Maintain 
   - Modular Weapon (Streak LRM 15) 
   - Modular Weapon (ER Medium Laser) 
@@ -47,7 +46,6 @@
   - Clan ECM Suite 
 - **Design Quirks:** 
   - Protected Actuators 
-  - Rumble Seat 
   - Difficult to Maintain 
 - **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240) 
 - **Battle Value:** 2177 

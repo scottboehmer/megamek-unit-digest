@@ -1608,6 +1608,7 @@
 
 #### [Waneta](../../units/waneta.md) 
 
+- [**Waneta S-WN-1LAM**](../../units/waneta/waneta_s-wn-1lam.md) *Undefined (3078)* 
 - [**Waneta S-WN-2LAM**](../../units/waneta/waneta_s-wn-2lam.md) *Skirmisher (3078)* 
 
 #### [Wolverine](../../units/wolverine.md) 

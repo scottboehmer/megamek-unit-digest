@@ -18,7 +18,6 @@
   - Small Laser 
 - **Design Quirks:** 
   - Prototype 
-  - Rumble Seat 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5771) 
 - **Battle Value:** 1269 
 

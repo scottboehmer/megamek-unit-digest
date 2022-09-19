@@ -1,10 +1,10 @@
-# BattleMaster BLR-1GHE 'HellSinger' 
+# BattleMaster BLR-1GHE 'HellSlinger' 
 
 [Other BattleMaster variants](../battlemaster.md) 
 
-## BattleMaster BLR-1GHE 'HellSinger' 
+## BattleMaster BLR-1GHE 'HellSlinger' 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2750) 
 - **Chassis:** 85 tons 
 - **Movement:** 4 / 6 

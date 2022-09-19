@@ -15,7 +15,6 @@
 - **Equipment:** 
   - CASE II 
 - **Design Quirks:** 
-  - Rumble Seat 
   - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6303) 
 - **Battle Value:** 3210 
@@ -38,7 +37,6 @@
 - **Equipment:** 
   - CASE II 
 - **Design Quirks:** 
-  - Rumble Seat 
   - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6304) 
 - **Battle Value:** 2697 
@@ -62,7 +60,6 @@
   - Laser Anti-Missile System 
   - CASE 
 - **Design Quirks:** 
-  - Rumble Seat 
   - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6305) 
 - **Battle Value:** 3513 
@@ -82,7 +79,6 @@
 - **Equipment:** 
   - CASE II 
 - **Design Quirks:** 
-  - Rumble Seat 
   - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6306) 
 - **Battle Value:** 2938 

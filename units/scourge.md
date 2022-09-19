@@ -15,7 +15,6 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Reinforced Legs 
-  - Rumble Seat 
 - **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6626) 
 - **Battle Value:** 2061 
 - [*More Info*](scourge/scourge_scg-wd1.md) 
@@ -37,7 +36,6 @@
   - AES 
 - **Design Quirks:** 
   - Reinforced Legs 
-  - Rumble Seat 
   - Difficult to Maintain 
   - Exposed Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8109) 
@@ -61,7 +59,6 @@
   - AES 
 - **Design Quirks:** 
   - Reinforced Legs 
-  - Rumble Seat 
 - **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6625) 
 - **Battle Value:** 2172 
 - [*More Info*](scourge/scourge_scg-wf1.md) 

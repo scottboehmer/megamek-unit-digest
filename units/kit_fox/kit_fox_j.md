@@ -9,10 +9,10 @@
 - **Chassis:** 30 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
   - **Jumping:** 6 
-- **Armor:** 71 (Ferro Fibrous) 
+- **Armor:** 76 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - Ultra AC/5 (ammo: 20) 
+  - Ultra AC/5 (ammo: 40) 
   - ER Medium Laser × 2 
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7744) 
-- **Battle Value:** 1134 
+- **Battle Value:** 1178 
 
 ## Availability 
 

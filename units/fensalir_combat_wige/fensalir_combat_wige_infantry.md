@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (16 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1056) 
+- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/1056) 
 - **Battle Value:** 1424 
 
 ## Availability 

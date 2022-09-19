@@ -546,11 +546,11 @@
 - [**Crimson Hawk 2**](../../units/crimson_hawk/crimson_hawk_2.md) *Brawler (3073)* 
 - [**Crimson Hawk 4**](../../units/crimson_hawk/crimson_hawk_4.md) *Striker (3099)* 
 
-#### [Koshi](../../units/koshi.md) 
+#### [Koshi (Standard)](../../units/koshi_standard.md) 
 
-- [**Koshi (Standard)**](../../units/koshi/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi 2**](../../units/koshi/koshi_2.md) *Striker (3095)* `TAG` 
-- [**Koshi 3**](../../units/koshi/koshi_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi (Standard)**](../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
+- [**Koshi (Standard) 2**](../../units/koshi_standard/koshi_standard_2.md) *Undefined (3095)* `TAG` 
+- [**Koshi (Standard) 3**](../../units/koshi_standard/koshi_standard_3.md) *Undefined (3095)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Locust IIC](../../units/locust_iic.md) 
 
@@ -830,11 +830,11 @@
 
 ### 50 Tons 
 
-#### [Black Hawk](../../units/black_hawk.md) 
+#### [Black Hawk (Standard)](../../units/black_hawk_standard.md) 
 
-- [**Black Hawk (Standard)**](../../units/black_hawk/black_hawk_standard.md) *Skirmisher (3073)* 
-- [**Black Hawk 2**](../../units/black_hawk/black_hawk_2.md) *Skirmisher (3092)* 
-- [**Black Hawk 3**](../../units/black_hawk/black_hawk_3.md) *Skirmisher (3092)* 
+- [**Black Hawk (Standard)**](../../units/black_hawk_standard/black_hawk_standard.md) *Skirmisher (3073)* 
+- [**Black Hawk (Standard) 2**](../../units/black_hawk_standard/black_hawk_standard_2.md) *Undefined (3092)* 
+- [**Black Hawk (Standard) 3**](../../units/black_hawk_standard/black_hawk_standard_3.md) *Undefined (3092)* 
 
 #### [Buster](../../units/buster.md) 
 

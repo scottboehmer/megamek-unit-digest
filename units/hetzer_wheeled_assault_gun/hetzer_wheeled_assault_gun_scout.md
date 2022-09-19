@@ -13,9 +13,9 @@
 - **Weapons:** 
   - AC/20 (ammo: 10) 
 - **Equipment:** 
-  - Beagle Active Probe 
+  - Remote Sensor Dispenser 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1510) 
-- **Battle Value:** 553 
+- **Battle Value:** 544 
 
 ## Availability 
 

@@ -536,11 +536,11 @@
 - [**Fire Falcon F**](../../units/fire_falcon/fire_falcon_f.md) *Striker (3072)* `Active Probe` 
 - [**Fire Falcon G**](../../units/fire_falcon/fire_falcon_g.md) *Striker (3113)* 
 
-#### [Koshi](../../units/koshi.md) 
+#### [Koshi (Standard)](../../units/koshi_standard.md) 
 
-- [**Koshi (Standard)**](../../units/koshi/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi 2**](../../units/koshi/koshi_2.md) *Striker (3095)* `TAG` 
-- [**Koshi 3**](../../units/koshi/koshi_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi (Standard)**](../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
+- [**Koshi (Standard) 2**](../../units/koshi_standard/koshi_standard_2.md) *Undefined (3095)* `TAG` 
+- [**Koshi (Standard) 3**](../../units/koshi_standard/koshi_standard_3.md) *Undefined (3095)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Locust IIC](../../units/locust_iic.md) 
 

@@ -16,7 +16,6 @@
   - AC/5 (ammo: 20) 
 - **Design Quirks:** 
   - Easy to Maintain 
-  - Rumble Seat 
   - Barrel Fist (Right Arm) 
   - Improved Cooling Jacket (Blazer Cannon) 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772) 

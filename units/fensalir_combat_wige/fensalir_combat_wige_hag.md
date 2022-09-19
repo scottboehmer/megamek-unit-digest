@@ -16,7 +16,7 @@
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
   - Infantry (5 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1055) 
+- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/1055) 
 - **Battle Value:** 2399 
 
 ## Availability 

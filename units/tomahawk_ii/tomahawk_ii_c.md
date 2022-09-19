@@ -16,7 +16,6 @@
 - **Equipment:** 
   - CASE II 
 - **Design Quirks:** 
-  - Rumble Seat 
   - Difficult Ejection 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6306) 
 - **Battle Value:** 2938 

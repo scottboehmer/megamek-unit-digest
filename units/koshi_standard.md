@@ -1,4 +1,4 @@
-# Koshi 
+# Koshi (Standard) 
 
 ## Koshi (Standard) 
 
@@ -15,19 +15,13 @@
   - Active Probe 
   - CASE 
   - Light TAG 
-- **Design Quirks:** 
-  - Modular Weapon (Light TAG) 
-  - Modular Weapon (SRM 4) 
-  - Modular Weapon (SRM 4) 
-  - Modular Weapon (SRM 4) 
-  - Modular Weapon (SRM 4) 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6547) 
 - **Battle Value:** 760 
-- [*More Info*](koshi/koshi_standard.md) 
+- [*More Info*](koshi_standard/koshi_standard.md) 
 
-## Koshi 2 
+## Koshi (Standard) 2 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3095) 
 - **Chassis:** 25 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 
@@ -41,11 +35,11 @@
   - Light TAG 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6548) 
 - **Battle Value:** 948 
-- [*More Info*](koshi/koshi_2.md) 
+- [*More Info*](koshi_standard/koshi_standard_2.md) 
 
-## Koshi 3 
+## Koshi (Standard) 3 
 
-- **Role:** Scout 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3095) 
 - **Chassis:** 25 tons (Endo Steel) 
 - **Movement:** 7 / 11 (14), XL 
@@ -62,5 +56,5 @@
   - MASC 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6549) 
 - **Battle Value:** 777 
-- [*More Info*](koshi/koshi_3.md) 
+- [*More Info*](koshi_standard/koshi_standard_3.md) 
 

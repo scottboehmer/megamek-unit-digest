@@ -38,6 +38,22 @@
 - **Battle Value:** 1233 
 - [*More Info*](champion/champion_chp-1n2.md) 
 
+## Champion CHP-1Nb2 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2737) 
+- **Chassis:** 60 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 143 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - PPC 
+- **Design Quirks:** 
+  - No/Minimal Arms 
+- **Battle Value:** 1559 
+- [*More Info*](champion/champion_chp-1nb2.md) 
+
 ## Champion CHP-1Nb 
 
 - **Role:** Sniper 

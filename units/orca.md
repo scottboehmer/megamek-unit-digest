@@ -23,7 +23,6 @@
   - CASE II 
 - **Design Quirks:** 
   - Distracting 
-  - Rumble Seat 
   - Hard to Pilot 
   - Poor Performance 
   - Prototype 

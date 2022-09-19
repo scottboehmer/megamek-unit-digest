@@ -486,7 +486,7 @@
 - [**Hetzer Wheeled Assault Gun (Standard)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_standard.md) *Ambusher (2887)* 
 - [**Hetzer Wheeled Assault Gun (AC10)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_ac10.md) *Ambusher (2893)* 
 - [**Hetzer Wheeled Assault Gun (SRM)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_srm.md) *Ambusher (2957)* 
-- [**Hetzer Wheeled Assault Gun (Scout)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* `Active Probe` 
+- [**Hetzer Wheeled Assault Gun (Scout)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* 
 
 #### [Joust Medium Tank](../../units/joust_medium_tank.md) 
 

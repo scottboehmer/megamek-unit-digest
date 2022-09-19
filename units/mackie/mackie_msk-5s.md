@@ -12,7 +12,7 @@
 - **Cockpit:** Primitive 
 - **Heat Sinks:** 17 (17) 
 - **Weapons:** 
-  - PPC 
+  - Primitive PPC 
   - Large Laser 
   - AC/5 (ammo: 20) 
 - **Design Quirks:** 
@@ -21,7 +21,7 @@
   - Rugged (×2) 
   - Oversized 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972) 
-- **Battle Value:** 1436 
+- **Battle Value:** 1401 
 
 ## Availability 
 

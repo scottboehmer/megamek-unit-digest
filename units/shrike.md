@@ -21,7 +21,6 @@
   - Command ’Mech 
   - Distracting 
   - Reinforced Legs 
-  - Rumble Seat 
   - Exposed Weapon Linkage (Ultra AC/5) 
   - Exposed Weapon Linkage (Ultra AC/5) 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6292) 
@@ -49,7 +48,6 @@
   - Command ’Mech 
   - Distracting 
   - Reinforced Legs 
-  - Rumble Seat 
   - Exposed Weapon Linkage (Ultra AC/10) 
   - Exposed Weapon Linkage (Ultra AC/10) 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6293) 
@@ -77,7 +75,6 @@
   - Command ’Mech 
   - Distracting 
   - Reinforced Legs 
-  - Rumble Seat 
   - Exposed Weapon Linkage (ER PPC) 
   - Exposed Weapon Linkage (ER PPC) 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6294) 

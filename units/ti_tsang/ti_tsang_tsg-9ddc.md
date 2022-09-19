@@ -26,7 +26,6 @@
   - Non-Standard Parts 
   - Improved Life Support 
   - Protected Actuators 
-  - Rumble Seat 
   - Jettison-Capable Weapon (Lance) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
 - **Battle Value:** 2013 

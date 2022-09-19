@@ -14,10 +14,15 @@ Units without Roles:
 Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
 Beowulf C
+Black Hawk (Standard) 2
+Black Hawk (Standard) 3
+Koshi (Standard) 2
+Koshi (Standard) 3
 Ti Ts'ang TSG-9 'China Doll'
 Mad Cat III 2 (MWDA)
 Mad Cat III (Dark Age RS)
 Ryoken II (Tassa)
+BattleMaster BLR-1GHE 'HellSlinger'
 Archer C 2
 Blackjack C
 Rock Hound ProspectorMech AM-PRM-RH7 'Rock Possum'
@@ -43,31 +48,10 @@ StrongArm SC CV ConstructionMech
 StrongArm SC CVI ConstructionMech
 Arana MilitiaMech ARA-S-1
 Reptar MilitiaMech EPT-C-1
-Bull Shark BSK-M3
-Bull Shark BSK-MAZ
-Corsair COR-5R
-Corsair COR-5T
-Corsair COR-6R
-Corsair COR-7A
-Corsair COR-7R
-Corsair COR-BR Broadside
-Corsair COR-RA Ravager
-Roughneck RGH-1A
-Roughneck RGH-1B
-Roughneck RGH-1C
-Roughneck RGH-2A
-Roughneck RGH-3A
-Roughneck RGH-BLT Bolt
-Roughneck RGH-PH Powerhouse
-Roughneck RGH-R Reaver
-Sun Spider A
-Sun Spider Ambush
-Sun Spider B
-Sun Spider C
-Sun Spider D
-Sun Spider Manul
-Sun Spider Prime
-Sun Spider Vanguard
+Waneta S-WN-1LAM
+Champion CHP-1Nb2
+Griffin GRF-2N2
+Thunderbolt TDR-5Sb2
 Mad Cat III 2
 Stinger C 2
 Stinger C
@@ -93,7 +77,34 @@ Pompier Firemech GM-3HT
 Shugosha PTN-LAW LoaderMech
 Uni ATAE-70T CargoMech (Standard)
 Vampyr SC-V-1 SalvageMech (Standard)
+Bull Shark BSK-M3
+Bull Shark BSK-MAZ
+Corsair COR-5R
+Corsair COR-5T
+Corsair COR-6R
+Corsair COR-7A
+Corsair COR-7R
+Corsair COR-BR Broadside
+Corsair COR-RA Ravager
+Roughneck RGH-1A
+Roughneck RGH-1B
+Roughneck RGH-1C
+Roughneck RGH-2A
+Roughneck RGH-3A
+Roughneck RGH-BLT Bolt
+Roughneck RGH-PH Powerhouse
+Roughneck RGH-R Reaver
+Sun Spider A
+Sun Spider Ambush
+Sun Spider B
+Sun Spider C
+Sun Spider D
+Sun Spider Manul
+Sun Spider Prime
+Sun Spider Vanguard
 Talon TLN-5VNO
+Liberator LIB-4T
+Ostscout IIC (Standard)
 Arbiter SecurityMech ARB-001
 Ti Ts'ang TSG-9DDC 'Prototype'
 Pathfinder PFF-2T
@@ -141,6 +152,7 @@ BattleMech Recovery Vehicle (Standard)
 Flatbed Truck (Standard)
 Heavy BattleMech Recovery Vehicle (Standard)
 Morningstar City Command Vehicle (HPG)
+Crow Scout Helicopter 'Dragonfly'
 Transportable Field Repair Unit JI-100
 Manta Fast Attack Submarine (Support)
 Moray Heavy Attack Submarine (Original)
@@ -288,4 +300,4 @@ Tornado PA(L) G17(Sqd5)
 Tortoise II (aSRM)(Sqd5)
 
 --------------------------------------------------
-6391 files -> 6391 parsed files (0 skipped) -> 6172 converted files -> 6163 validated units
+6404 files -> 6404 parsed files (0 skipped) -> 6184 converted files -> 6174 validated units

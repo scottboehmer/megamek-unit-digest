@@ -697,9 +697,9 @@
 
 ### 50 Tons 
 
-#### [Black Hawk](../../units/black_hawk.md) 
+#### [Black Hawk (Standard)](../../units/black_hawk_standard.md) 
 
-- [**Black Hawk (Standard)**](../../units/black_hawk/black_hawk_standard.md) *Skirmisher (3073)* 
+- [**Black Hawk (Standard)**](../../units/black_hawk_standard/black_hawk_standard.md) *Skirmisher (3073)* 
 
 #### [Conjurer](../../units/conjurer.md) 
 

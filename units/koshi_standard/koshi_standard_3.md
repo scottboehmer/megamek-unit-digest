@@ -1,30 +1,26 @@
-# Koshi (Standard) 
+# Koshi (Standard) 3 
 
-[Other Koshi variants](../koshi.md) 
+[Other Koshi (Standard) variants](../koshi_standard.md) 
 
-## Koshi (Standard) 
+## Koshi (Standard) 3 
 
-- **Role:** Striker 
-- **Tech Base:** Clan (3091) 
+- **Role:** Undefined 
+- **Tech Base:** Clan (3095) 
 - **Chassis:** 25 tons (Endo Steel) 
-- **Movement:** 7 / 11, XL 
+- **Movement:** 7 / 11 (14), XL 
   - **Jumping:** 6 
 - **Armor:** 67 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (20) 
+- **Heat Sinks:** 11 (22) 
 - **Weapons:** 
-  - SRM 4 × 4 (ammo: 75) 
+  - Heavy Small Laser × 6 
 - **Equipment:** 
+  - ECM Suite 
   - Active Probe 
-  - CASE 
   - Light TAG 
-- **Design Quirks:** 
-  - Modular Weapon (Light TAG) 
-  - Modular Weapon (SRM 4) 
-  - Modular Weapon (SRM 4) 
-  - Modular Weapon (SRM 4) 
-  - Modular Weapon (SRM 4) 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6547) 
-- **Battle Value:** 760 
+  - Targeting Computer 
+  - MASC 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6549) 
+- **Battle Value:** 777 
 
 ## Availability 
 
@@ -38,20 +34,12 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
 - Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
 - Kell Hounds 
-- Lyran Commonwealth 
-- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
 - Rasalhague Dominion 
 - Raven Alliance 
-- Regulan Fiefs 
 - Republic of the Sphere 
-- Rim Commonality 
 - Wolf's Dragoons 
 
 ### Late Republic 

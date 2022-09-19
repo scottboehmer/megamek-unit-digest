@@ -838,7 +838,7 @@
 
 - [**BattleMaster BLR-1G**](../../units/battlemaster/battlemaster_blr-1g.md) *Brawler (2633)* 
 - [**BattleMaster BLR-1G-DC**](../../units/battlemaster/battlemaster_blr-1g-dc.md) *Brawler (2633)* `Command Console` 
-- [**BattleMaster BLR-1GHE 'HellSinger'**](../../units/battlemaster/battlemaster_blr-1ghe_hellsinger.md) *Brawler (2750)* 
+- [**BattleMaster BLR-1GHE 'HellSlinger'**](../../units/battlemaster/battlemaster_blr-1ghe_hellslinger.md) *Undefined (2750)* 
 - [**BattleMaster BLR-1Gb**](../../units/battlemaster/battlemaster_blr-1gb.md) *Brawler (2760)* 
 - [**BattleMaster BLR-1Gbc**](../../units/battlemaster/battlemaster_blr-1gbc.md) *Brawler (2763)* `Command Console` 
 

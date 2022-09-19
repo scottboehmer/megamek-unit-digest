@@ -1,10 +1,10 @@
-# Black Hawk 3 
+# Black Hawk (Standard) 3 
 
-[Other Black Hawk variants](../black_hawk.md) 
+[Other Black Hawk (Standard) variants](../black_hawk_standard.md) 
 
-## Black Hawk 3 
+## Black Hawk (Standard) 3 
 
-- **Role:** Skirmisher 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3092) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 

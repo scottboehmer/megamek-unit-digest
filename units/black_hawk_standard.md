@@ -1,4 +1,4 @@
-# Black Hawk 
+# Black Hawk (Standard) 
 
 ## Black Hawk (Standard) 
 
@@ -16,11 +16,11 @@
   - CASE 
 - **Sources:** TRO 3145 Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6554) 
 - **Battle Value:** 2183 
-- [*More Info*](black_hawk/black_hawk_standard.md) 
+- [*More Info*](black_hawk_standard/black_hawk_standard.md) 
 
-## Black Hawk 2 
+## Black Hawk (Standard) 2 
 
-- **Role:** Skirmisher 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3092) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
@@ -34,11 +34,11 @@
   - CASE 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6555) 
 - **Battle Value:** 2161 
-- [*More Info*](black_hawk/black_hawk_2.md) 
+- [*More Info*](black_hawk_standard/black_hawk_standard_2.md) 
 
-## Black Hawk 3 
+## Black Hawk (Standard) 3 
 
-- **Role:** Skirmisher 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3092) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
@@ -50,5 +50,5 @@
   - ER Medium Laser × 4 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6556) 
 - **Battle Value:** 2317 
-- [*More Info*](black_hawk/black_hawk_3.md) 
+- [*More Info*](black_hawk_standard/black_hawk_standard_3.md) 
 

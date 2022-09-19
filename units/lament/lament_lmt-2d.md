@@ -21,7 +21,6 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Protected Actuators 
-  - Rumble Seat 
   - Difficult to Maintain 
   - Non-Standard Parts 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383) 

@@ -20,7 +20,6 @@
   - AES × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Rumble Seat 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7295) 
 - **Battle Value:** 1521 
 

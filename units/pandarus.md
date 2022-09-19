@@ -34,7 +34,6 @@
   - Poor Targeting (Short) 
   - Improved Targeting (Long) 
   - Easy to Maintain 
-  - Rumble Seat 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4783) 
 - **Battle Value:** 1589 
 - [*More Info*](pandarus/pandarus_lfa-1a.md) 

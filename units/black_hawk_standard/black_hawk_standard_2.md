@@ -1,50 +1,40 @@
-# Black Hawk (Standard) 
+# Black Hawk (Standard) 2 
 
-[Other Black Hawk variants](../black_hawk.md) 
+[Other Black Hawk (Standard) variants](../black_hawk_standard.md) 
 
-## Black Hawk (Standard) 
+## Black Hawk (Standard) 2 
 
-- **Role:** Skirmisher 
-- **Tech Base:** Clan (3073) 
+- **Role:** Undefined 
+- **Tech Base:** Clan (3092) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
   - **Jumping:** 5 
-- **Armor:** 136 
+- **Armor:** 152 
 - **Heat Sinks:** 14 (28) 
 - **Weapons:** 
   - ER Large Laser × 2 
-  - Streak SRM 4 × 4 (ammo: 100) 
+  - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6554) 
-- **Battle Value:** 2183 
+- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6555) 
+- **Battle Value:** 2161 
 
 ## Availability 
 
-### Jihad 
-
-- Clan Hell's Horses 
-
 ### Early Republic 
 
-- Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
 - Federated Suns 
-- Free Worlds League - Non-Aligned Worlds 
 - Kell Hounds 
-- Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Regulan Fiefs 
 - Republic of the Sphere 
-- Rim Commonality 
 - Wolf's Dragoons 
 
 ### Late Republic 
@@ -64,7 +54,6 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -88,7 +77,6 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
-- Rasalhague Dominion 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -105,10 +93,8 @@
 - Duchy of Andurien 
 - Federated Suns 
 - Free Worlds League 
-- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
-- Rasalhague Dominion 
 - Tamar Pact 
 - Vesper Marches 
 

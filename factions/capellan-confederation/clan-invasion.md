@@ -335,7 +335,7 @@
 - [**Hetzer Wheeled Assault Gun (AC10)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_ac10.md) *Ambusher (2893)* 
 - [**Hetzer Wheeled Assault Gun (SRM)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_srm.md) *Ambusher (2957)* 
 - [**Hetzer Wheeled Assault Gun (LRM)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lrm.md) *Missile Boat (3001)* 
-- [**Hetzer Wheeled Assault Gun (Scout)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* `Active Probe` 
+- [**Hetzer Wheeled Assault Gun (Scout)**](../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* 
 
 ### 45 Tons 
 

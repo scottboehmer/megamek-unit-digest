@@ -8,7 +8,7 @@
 - **Tech Base:** Clan (2921) 
 - **Chassis:** 30 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
-- **Armor:** 71 (Ferro Fibrous) 
+- **Armor:** 76 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Arrow IV (ammo: 15) 
@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #11 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7746) 
-- **Battle Value:** 850 
+- **Battle Value:** 866 
 
 ## Availability 
 

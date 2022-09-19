@@ -1661,6 +1661,7 @@
 
 - [**Crow Scout Helicopter (Standard)**](units/crow_scout_helicopter/crow_scout_helicopter_standard.md) *Scout (3068)* `Active Probe` , `ECM` , `TAG` 
 - [**Crow Scout Helicopter (Export)**](units/crow_scout_helicopter/crow_scout_helicopter_export.md) *Scout (3069)* 
+- [**Crow Scout Helicopter 'Dragonfly'**](units/crow_scout_helicopter/crow_scout_helicopter_dragonfly.md) *Undefined (3070)* `Active Probe` , `C3 Support` , `ECM` , `TAG` 
 - [**Crow Scout Helicopter (C3)**](units/crow_scout_helicopter/crow_scout_helicopter_c3.md) *Scout (3070)* `Active Probe` , `C3 Support` , `ECM` 
 
 #### [M.A.S.H. Truck](units/m.a.s.h._truck.md) 
@@ -1782,6 +1783,8 @@
 - [**Pandion Combat WiGE (C3)**](units/pandion_combat_wige/pandion_combat_wige_c3.md) *Scout (3078)* `Active Probe` , `C3 Support` , `TAG` 
 - [**Pandion Combat WiGE (Infantry)**](units/pandion_combat_wige/pandion_combat_wige_infantry.md) *Scout (3078)* `Active Probe` , `Transport:4.0` 
 - [**Pandion Combat WiGE (Standard)**](units/pandion_combat_wige/pandion_combat_wige_standard.md) *Striker (3078)* `Active Probe` 
+- [**Pandion Combat WiGE (3135 Upgrade)**](units/pandion_combat_wige/pandion_combat_wige_3135_upgrade.md) *Striker (3135)* 
+- [**Pandion Combat WiGE (3140 Upgrade)**](units/pandion_combat_wige/pandion_combat_wige_3140_upgrade.md) *Striker (3140)* 
 
 #### [Rotunda Scout Vehicle](units/rotunda_scout_vehicle.md) 
 
@@ -2391,7 +2394,7 @@
 - [**Hetzer Wheeled Assault Gun (AC10)**](units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_ac10.md) *Ambusher (2893)* 
 - [**Hetzer Wheeled Assault Gun (SRM)**](units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_srm.md) *Ambusher (2957)* 
 - [**Hetzer Wheeled Assault Gun (LRM)**](units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lrm.md) *Missile Boat (3001)* 
-- [**Hetzer Wheeled Assault Gun (Scout)**](units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* `Active Probe` 
+- [**Hetzer Wheeled Assault Gun (Scout)**](units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* 
 - [**Hetzer Wheeled Assault Gun (LB-X)**](units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lb-x.md) *Ambusher (3063)* 
 - [**Hetzer Wheeled Assault Gun (Sealed)**](units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_sealed.md) *Brawler (3076)* `C3i` 
 
@@ -3337,6 +3340,9 @@
 - [**Fensalir Combat WiGE (Infantry)**](units/fensalir_combat_wige/fensalir_combat_wige_infantry.md) *Skirmisher (3084)* `Transport:16.0` 
 - [**Fensalir Combat WiGE (Standard)**](units/fensalir_combat_wige/fensalir_combat_wige_standard.md) *Skirmisher (3084)* `Transport:4.0` 
 - [**Fensalir Combat WiGE (XXL)**](units/fensalir_combat_wige/fensalir_combat_wige_xxl.md) *Skirmisher (3084)* 
+- [**Fensalir Combat WiGE (3132 Upgrade)**](units/fensalir_combat_wige/fensalir_combat_wige_3132_upgrade.md) *Skirmisher (3132)* `ECM` 
+- [**Fensalir Combat WiGE (3137 Upgrade)**](units/fensalir_combat_wige/fensalir_combat_wige_3137_upgrade.md) *Sniper (3137)* `ECM` 
+- [**Fensalir Combat WiGE (Stealth)**](units/fensalir_combat_wige/fensalir_combat_wige_stealth.md) *Sniper (3141)* `ECM` , `Stealth` 
 
 #### [Fortune Wheeled Assault Vehicle](units/fortune_wheeled_assault_vehicle.md) 
 
@@ -4139,11 +4145,11 @@
 - [**Jackrabbit JKR-9R 'Joker'**](units/jackrabbit/jackrabbit_jkr-9r_joker.md) *Striker (2768)* 
 - [**Jackrabbit JKR-9W**](units/jackrabbit/jackrabbit_jkr-9w.md) *Striker (3074)* 
 
-#### [Koshi](units/koshi.md) 
+#### [Koshi (Standard)](units/koshi_standard.md) 
 
-- [**Koshi (Standard)**](units/koshi/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi 2**](units/koshi/koshi_2.md) *Striker (3095)* `TAG` 
-- [**Koshi 3**](units/koshi/koshi_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi (Standard)**](units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
+- [**Koshi (Standard) 2**](units/koshi_standard/koshi_standard_2.md) *Undefined (3095)* `TAG` 
+- [**Koshi (Standard) 3**](units/koshi_standard/koshi_standard_3.md) *Undefined (3095)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Koto](units/koto.md) 
 
@@ -4961,6 +4967,10 @@
 - [**Ostscout OTT-12R**](units/ostscout/ostscout_ott-12r.md) *Scout (3145)* `ECM` , `Stealth` 
 - [**Ostscout OTT-8J**](units/ostscout/ostscout_ott-8j.md) *Scout (3145)* `Active Probe` , `ECM` 
 
+#### [Ostscout IIC](units/ostscout_iic.md) 
+
+- [**Ostscout IIC (Standard)**](units/ostscout_iic/ostscout_iic_standard.md) *Undefined (3067)* `Active Probe` , `ECM` , `TAG` 
+
 #### [Owens](units/owens.md) 
 
 - [**Owens OW-1**](units/owens/owens_ow-1.md) *Missile Boat (3056)* `Active Probe` , `C3 Support` , `TAG` 
@@ -5335,6 +5345,10 @@
 #### [Kontio](units/kontio.md) 
 
 - [**Kontio (Standard)**](units/kontio/kontio_standard.md) *Striker (3145)* `ECM` , `Stealth` 
+
+#### [Liberator](units/liberator.md) 
+
+- [**Liberator LIB-4T**](units/liberator/liberator_lib-4t.md) *Undefined (3018)* 
 
 #### [Lobo](units/lobo.md) 
 
@@ -5928,11 +5942,11 @@
 - [**Avalanche AVL-1ON**](units/avalanche/avalanche_avl-1on.md) *Sniper (3133)* 
 - [**Avalanche AVL-1OR**](units/avalanche/avalanche_avl-1or.md) *Missile Boat (3133)* 
 
-#### [Black Hawk](units/black_hawk.md) 
+#### [Black Hawk (Standard)](units/black_hawk_standard.md) 
 
-- [**Black Hawk (Standard)**](units/black_hawk/black_hawk_standard.md) *Skirmisher (3073)* 
-- [**Black Hawk 2**](units/black_hawk/black_hawk_2.md) *Skirmisher (3092)* 
-- [**Black Hawk 3**](units/black_hawk/black_hawk_3.md) *Skirmisher (3092)* 
+- [**Black Hawk (Standard)**](units/black_hawk_standard/black_hawk_standard.md) *Skirmisher (3073)* 
+- [**Black Hawk (Standard) 2**](units/black_hawk_standard/black_hawk_standard_2.md) *Undefined (3092)* 
+- [**Black Hawk (Standard) 3**](units/black_hawk_standard/black_hawk_standard_3.md) *Undefined (3092)* 
 
 #### [Blackjack](units/blackjack.md) 
 
@@ -6511,6 +6525,7 @@
 #### [Griffin](units/griffin.md) 
 
 - [**Griffin GRF-1N**](units/griffin/griffin_grf-1n.md) *Sniper (2492)* 
+- [**Griffin GRF-2N2**](units/griffin/griffin_grf-2n2.md) *Undefined (2703)* `ECM` 
 - [**Griffin GRF-2N**](units/griffin/griffin_grf-2n.md) *Skirmisher (2751)* `ECM` 
 - [**Griffin GRF-1S**](units/griffin/griffin_grf-1s.md) *Skirmisher (2857)* 
 - [**Griffin GRF-1E 'Sparky'**](units/griffin/griffin_grf-1e_sparky.md) *Skirmisher (3035)* `Unique` 
@@ -6837,6 +6852,7 @@
 
 #### [Waneta](units/waneta.md) 
 
+- [**Waneta S-WN-1LAM**](units/waneta/waneta_s-wn-1lam.md) *Undefined (3078)* 
 - [**Waneta S-WN-2LAM**](units/waneta/waneta_s-wn-2lam.md) *Skirmisher (3078)* 
 
 #### [Wolverine](units/wolverine.md) 
@@ -6941,6 +6957,7 @@
 
 - [**Champion CHP-1N**](units/champion/champion_chp-1n.md) *Skirmisher (2602)* 
 - [**Champion CHP-1N2**](units/champion/champion_chp-1n2.md) *Skirmisher (2667)* 
+- [**Champion CHP-1Nb2**](units/champion/champion_chp-1nb2.md) *Undefined (2737)* 
 - [**Champion CHP-1Nb**](units/champion/champion_chp-1nb.md) *Sniper (2751)* 
 - [**Champion CHP-2N**](units/champion/champion_chp-2n.md) *Skirmisher (2810)* 
 - [**Champion C**](units/champion/champion_c.md) *Skirmisher (2867)* 
@@ -7627,6 +7644,7 @@
 
 - [**Thunderbolt TDR-1C**](units/thunderbolt/thunderbolt_tdr-1c.md) *Missile Boat (2491)* 
 - [**Thunderbolt TDR-5S**](units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
+- [**Thunderbolt TDR-5Sb2**](units/thunderbolt/thunderbolt_tdr-5sb2.md) *Undefined (2680)* 
 - [**Thunderbolt TDR-5Sd**](units/thunderbolt/thunderbolt_tdr-5sd.md) *Brawler (2750)* 
 - [**Thunderbolt TDR-5Sb**](units/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)* 
 - [**Thunderbolt TDR-5D**](units/thunderbolt/thunderbolt_tdr-5d.md) *Brawler (2821)* 
@@ -8845,7 +8863,7 @@
 
 - [**BattleMaster BLR-1G**](units/battlemaster/battlemaster_blr-1g.md) *Brawler (2633)* 
 - [**BattleMaster BLR-1G-DC**](units/battlemaster/battlemaster_blr-1g-dc.md) *Brawler (2633)* `Command Console` 
-- [**BattleMaster BLR-1GHE 'HellSinger'**](units/battlemaster/battlemaster_blr-1ghe_hellsinger.md) *Brawler (2750)* 
+- [**BattleMaster BLR-1GHE 'HellSlinger'**](units/battlemaster/battlemaster_blr-1ghe_hellslinger.md) *Undefined (2750)* 
 - [**BattleMaster BLR-1Gb**](units/battlemaster/battlemaster_blr-1gb.md) *Brawler (2760)* 
 - [**BattleMaster BLR-1Gd**](units/battlemaster/battlemaster_blr-1gd.md) *Brawler (2760)* 
 - [**BattleMaster BLR-1Gbc**](units/battlemaster/battlemaster_blr-1gbc.md) *Brawler (2763)* `Command Console` 

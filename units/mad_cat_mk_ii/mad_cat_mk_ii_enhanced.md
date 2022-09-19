@@ -20,7 +20,6 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Protected Actuators 
-  - Rumble Seat 
 - **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4564) 
 - **Battle Value:** 2732 
 

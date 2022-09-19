@@ -17,7 +17,6 @@
   - Remote Sensor Dispenser 
 - **Design Quirks:** 
   - Command ’Mech 
-  - Rumble Seat 
 - **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5795) 
 - **Battle Value:** 1258 
 - [*More Info*](cataphract/cataphract_ctf-0x.md) 

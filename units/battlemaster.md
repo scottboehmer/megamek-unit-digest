@@ -42,9 +42,9 @@
 - **Battle Value:** 1494 
 - [*More Info*](battlemaster/battlemaster_blr-1g-dc.md) 
 
-## BattleMaster BLR-1GHE 'HellSinger' 
+## BattleMaster BLR-1GHE 'HellSlinger' 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2750) 
 - **Chassis:** 85 tons 
 - **Movement:** 4 / 6 
@@ -59,7 +59,7 @@
   - Weak Head Armor (1) 
 - **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5877) 
 - **Battle Value:** 1712 
-- [*More Info*](battlemaster/battlemaster_blr-1ghe_hellsinger.md) 
+- [*More Info*](battlemaster/battlemaster_blr-1ghe_hellslinger.md) 
 
 ## BattleMaster BLR-1Gb 
 

@@ -37,9 +37,9 @@
 
 ### 50 Tons 
 
-#### [Black Hawk](../../units/black_hawk.md) 
+#### [Black Hawk (Standard)](../../units/black_hawk_standard.md) 
 
-- [**Black Hawk (Standard)**](../../units/black_hawk/black_hawk_standard.md) *Skirmisher (3073)* 
-- [**Black Hawk 2**](../../units/black_hawk/black_hawk_2.md) *Skirmisher (3092)* 
-- [**Black Hawk 3**](../../units/black_hawk/black_hawk_3.md) *Skirmisher (3092)* 
+- [**Black Hawk (Standard)**](../../units/black_hawk_standard/black_hawk_standard.md) *Skirmisher (3073)* 
+- [**Black Hawk (Standard) 2**](../../units/black_hawk_standard/black_hawk_standard_2.md) *Undefined (3092)* 
+- [**Black Hawk (Standard) 3**](../../units/black_hawk_standard/black_hawk_standard_3.md) *Undefined (3092)* 
 

@@ -18,7 +18,6 @@
   - CASE II 
 - **Design Quirks:** 
   - Protected Actuators 
-  - Rumble Seat 
   - Difficult to Maintain 
   - Modular Weapon (Streak LRM 15) 
   - Modular Weapon (ER Medium Laser) 

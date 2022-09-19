@@ -21,8 +21,6 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Design Quirks:** 
-  - Rumble Seat 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6355) 
 - **Battle Value:** 1919 
 

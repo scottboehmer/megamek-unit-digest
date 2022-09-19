@@ -8,7 +8,7 @@
 - **Tech Base:** Clan (3142) 
 - **Chassis:** 30 tons (Endo Steel) 
 - **Movement:** 6 / 9 (12), XL 
-- **Armor:** 71 (Ferro Fibrous) 
+- **Armor:** 76 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Large Laser 
@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7743) 
-- **Battle Value:** 1380 
+- **Battle Value:** 1397 
 
 ## Availability 
 

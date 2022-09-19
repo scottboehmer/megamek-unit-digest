@@ -23,7 +23,6 @@
   - Command ’Mech 
   - Distracting 
   - Reinforced Legs 
-  - Rumble Seat 
   - Exposed Weapon Linkage (ER PPC) 
   - Exposed Weapon Linkage (ER PPC) 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6294) 
