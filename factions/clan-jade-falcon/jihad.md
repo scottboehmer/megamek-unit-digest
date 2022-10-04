@@ -557,6 +557,10 @@
 
 - [**Ostscout OTT-7Jb**](../../units/ostscout/ostscout_ott-7jb.md) *Scout (2600)* `Active Probe` 
 
+#### [Ostscout IIC](../../units/ostscout_iic.md) 
+
+- [**Ostscout IIC (Standard)**](../../units/ostscout_iic/ostscout_iic_standard.md) *Undefined (3067)* `Active Probe` , `ECM` , `TAG` , `Unique` 
+
 #### [Spirit](../../units/spirit.md) 
 
 - [**Spirit (Standard)**](../../units/spirit/spirit_standard.md) *Striker (3063)* `ECM` 

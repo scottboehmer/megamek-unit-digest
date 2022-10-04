@@ -23,5 +23,7 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Succession Wars - LosTech (Unique) 
+
+- Free Worlds League 
 

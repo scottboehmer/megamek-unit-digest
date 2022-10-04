@@ -20,5 +20,11 @@
 
 ## Availability 
 
-Availability Unknown 
+### Jihad (Unique) 
+
+- Draconis Combine 
+
+### Early Republic (Unique) 
+
+- Draconis Combine 
 

@@ -1661,7 +1661,7 @@
 
 - [**Crow Scout Helicopter (Standard)**](units/crow_scout_helicopter/crow_scout_helicopter_standard.md) *Scout (3068)* `Active Probe` , `ECM` , `TAG` 
 - [**Crow Scout Helicopter (Export)**](units/crow_scout_helicopter/crow_scout_helicopter_export.md) *Scout (3069)* 
-- [**Crow Scout Helicopter 'Dragonfly'**](units/crow_scout_helicopter/crow_scout_helicopter_dragonfly.md) *Undefined (3070)* `Active Probe` , `C3 Support` , `ECM` , `TAG` 
+- [**Crow Scout Helicopter 'Dragonfly'**](units/crow_scout_helicopter/crow_scout_helicopter_dragonfly.md) *Undefined (3070)* `Active Probe` , `C3 Support` , `ECM` , `TAG` , `Unique` 
 - [**Crow Scout Helicopter (C3)**](units/crow_scout_helicopter/crow_scout_helicopter_c3.md) *Scout (3070)* `Active Probe` , `C3 Support` , `ECM` 
 
 #### [M.A.S.H. Truck](units/m.a.s.h._truck.md) 
@@ -4969,7 +4969,7 @@
 
 #### [Ostscout IIC](units/ostscout_iic.md) 
 
-- [**Ostscout IIC (Standard)**](units/ostscout_iic/ostscout_iic_standard.md) *Undefined (3067)* `Active Probe` , `ECM` , `TAG` 
+- [**Ostscout IIC (Standard)**](units/ostscout_iic/ostscout_iic_standard.md) *Undefined (3067)* `Active Probe` , `ECM` , `TAG` , `Unique` 
 
 #### [Owens](units/owens.md) 
 
@@ -5348,7 +5348,7 @@
 
 #### [Liberator](units/liberator.md) 
 
-- [**Liberator LIB-4T**](units/liberator/liberator_lib-4t.md) *Undefined (3018)* 
+- [**Liberator LIB-4T**](units/liberator/liberator_lib-4t.md) *Undefined (3018)* `Unique` 
 
 #### [Lobo](units/lobo.md) 
 

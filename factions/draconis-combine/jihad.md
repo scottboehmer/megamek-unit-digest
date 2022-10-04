@@ -194,6 +194,7 @@
 #### [Crow Scout Helicopter](../../units/crow_scout_helicopter.md) 
 
 - [**Crow Scout Helicopter (Standard)**](../../units/crow_scout_helicopter/crow_scout_helicopter_standard.md) *Scout (3068)* `Active Probe` , `ECM` , `TAG` 
+- [**Crow Scout Helicopter 'Dragonfly'**](../../units/crow_scout_helicopter/crow_scout_helicopter_dragonfly.md) *Undefined (3070)* `Active Probe` , `C3 Support` , `ECM` , `TAG` , `Unique` 
 - [**Crow Scout Helicopter (C3)**](../../units/crow_scout_helicopter/crow_scout_helicopter_c3.md) *Scout (3070)* `Active Probe` , `C3 Support` , `ECM` 
 
 #### [Mantis Light Attack VTOL](../../units/mantis_light_attack_vtol.md) 

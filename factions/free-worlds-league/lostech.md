@@ -523,6 +523,10 @@
 - [**Hermes II HER-2S**](../../units/hermes_ii/hermes_ii_her-2s.md) *Scout (2798)* 
 - [**Hermes II HER-2M 'Mercury'**](../../units/hermes_ii/hermes_ii_her-2m_mercury.md) *Striker (2802)* 
 
+#### [Liberator](../../units/liberator.md) 
+
+- [**Liberator LIB-4T**](../../units/liberator/liberator_lib-4t.md) *Undefined (3018)* `Unique` 
+
 #### [Vulcan](../../units/vulcan.md) 
 
 - [**Vulcan VL-2T**](../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 

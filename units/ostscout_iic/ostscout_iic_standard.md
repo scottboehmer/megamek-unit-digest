@@ -28,5 +28,17 @@
 
 ## Availability 
 
-Availability Unknown 
+### Civil War (Unique) 
+
+- Clan Diamond Shark 
+- Clan Jade Falcon 
+
+### Jihad (Unique) 
+
+- Clan Diamond Shark 
+- Clan Jade Falcon 
+
+### Early Republic (Unique) 
+
+- Clan Diamond Shark 
 

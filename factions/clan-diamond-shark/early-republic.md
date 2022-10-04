@@ -594,6 +594,10 @@
 - [**Ocelot (Standard)**](../../units/ocelot/ocelot_standard.md) *Striker (3067)* `Active Probe` 
 - [**Ocelot 3**](../../units/ocelot/ocelot_3.md) *Striker (3075)* `Active Probe` , `ECM` 
 
+#### [Ostscout IIC](../../units/ostscout_iic.md) 
+
+- [**Ostscout IIC (Standard)**](../../units/ostscout_iic/ostscout_iic_standard.md) *Undefined (3067)* `Active Probe` , `ECM` , `TAG` , `Unique` 
+
 #### [Powerman](../../units/powerman.md) 
 
 - [**Powerman SC XV HaulerMech**](../../units/powerman/powerman_sc_xv_haulermech.md) *Ambusher (2895)* `IndustrialMech` 
