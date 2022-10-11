@@ -678,10 +678,13 @@
 - [**Cougar E**](../../units/cougar/cougar_e.md) *Brawler (3063)* 
 - [**Cougar F**](../../units/cougar/cougar_f.md) *Brawler (3071)* 
 - [**Cougar G**](../../units/cougar/cougar_g.md) *Sniper (3071)* 
-- [**Cougar X 2**](../../units/cougar/cougar_x_2.md) *Striker (3089)* 
-- [**Cougar X 3**](../../units/cougar/cougar_x_3.md) *Striker (3093)* 
 - [**Cougar I**](../../units/cougar/cougar_i.md) *Striker (3099)* 
-- [**Cougar X**](../../units/cougar/cougar_x.md) *Striker (3132)* 
+
+#### [Cougar-X](../../units/cougar-x.md) 
+
+- [**Cougar-X**](../../units/cougar-x/cougar-x.md) *Striker (3086)* 
+- [**Cougar-X 2**](../../units/cougar-x/cougar-x_2.md) *Striker (3089)* 
+- [**Cougar-X 3**](../../units/cougar-x/cougar-x_3.md) *Striker (3093)* 
 
 #### [DemolitionMech](../../units/demolitionmech.md) 
 

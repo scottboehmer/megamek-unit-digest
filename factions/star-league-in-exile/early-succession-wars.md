@@ -474,12 +474,9 @@
 
 #### [Powerman](../../units/powerman.md) 
 
+- [**Powerman SC XI LoaderMech**](../../units/powerman/powerman_sc_xi_loadermech.md) *Ambusher (2764)* `IndustrialMech` 
 - [**Powerman SC XI-M LoaderMech MOD**](../../units/powerman/powerman_sc_xi-m_loadermech_mod.md) *Brawler (2801)* `IndustrialMech` 
 - [**Powerman SC XI-M-B LoaderMech MOD**](../../units/powerman/powerman_sc_xi-m-b_loadermech_mod.md) *Brawler (2801)* `IndustrialMech` 
-
-#### [Powerman SC XI LoaderMech](../../units/powerman_sc_xi_loadermech.md) 
-
-- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Ambusher (2764)* `IndustrialMech` 
 
 #### [Spector](../../units/spector.md) 
 

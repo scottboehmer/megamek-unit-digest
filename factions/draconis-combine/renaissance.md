@@ -821,23 +821,14 @@
 - [**Charger CGR-1A1**](../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
 - [**Charger CGR-1A9**](../../units/charger/charger_cgr-1a9.md) *Skirmisher (3034)* 
 
-#### [Hatamoto-Chi](../../units/hatamoto-chi.md) 
+#### [Hatamoto](../../units/hatamoto.md) 
 
-- [**Hatamoto-Chi HTM-26T**](../../units/hatamoto-chi/hatamoto-chi_htm-26t.md) *Brawler (3039)* 
-- [**Hatamoto-Chi HTM-27T (Daniel)**](../../units/hatamoto-chi/hatamoto-chi_htm-27t_daniel.md) *Sniper (3039)* `Unique` 
-- [**Hatamoto-Chi HTM-27T**](../../units/hatamoto-chi/hatamoto-chi_htm-27t.md) *Brawler (3042)* 
-
-#### [Hatamoto-Hi](../../units/hatamoto-hi.md) 
-
-- [**Hatamoto-Hi HTM-27U**](../../units/hatamoto-hi/hatamoto-hi_htm-27u.md) *Brawler (3047)* 
-
-#### [Hatamoto-Kaze](../../units/hatamoto-kaze.md) 
-
-- [**Hatamoto-Kaze HTM-27V**](../../units/hatamoto-kaze/hatamoto-kaze_htm-27v.md) *Sniper (3048)* 
-
-#### [Hatamoto-Ku](../../units/hatamoto-ku.md) 
-
-- [**Hatamoto-Ku HTM-27W**](../../units/hatamoto-ku/hatamoto-ku_htm-27w.md) *Sniper (3048)* 
+- [**Hatamoto-Chi HTM-26T**](../../units/hatamoto/hatamoto-chi_htm-26t.md) *Brawler (3039)* 
+- [**Hatamoto-Chi HTM-27T (Daniel)**](../../units/hatamoto/hatamoto-chi_htm-27t_daniel.md) *Sniper (3039)* `Unique` 
+- [**Hatamoto-Chi HTM-27T**](../../units/hatamoto/hatamoto-chi_htm-27t.md) *Brawler (3042)* 
+- [**Hatamoto-Hi HTM-27U**](../../units/hatamoto/hatamoto-hi_htm-27u.md) *Brawler (3047)* 
+- [**Hatamoto-Kaze HTM-27V**](../../units/hatamoto/hatamoto-kaze_htm-27v.md) *Sniper (3048)* 
+- [**Hatamoto-Ku HTM-27W**](../../units/hatamoto/hatamoto-ku_htm-27w.md) *Sniper (3048)* 
 
 #### [Thug](../../units/thug.md) 
 

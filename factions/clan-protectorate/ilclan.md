@@ -1018,21 +1018,21 @@
 
 - [**Burrower DTM-1 MiningMech**](../../units/burrower/burrower_dtm-1_miningmech.md) *Undefined (3115)* `IndustrialMech` 
 
-#### [Crossbow](../../units/crossbow.md) 
+#### [Crossbow OmniMech](../../units/crossbow_omnimech.md) 
 
-- [**Crossbow Prime**](../../units/crossbow/crossbow_prime.md) *Missile Boat (2870)* 
-- [**Crossbow A**](../../units/crossbow/crossbow_a.md) *Skirmisher (2870)* 
-- [**Crossbow B**](../../units/crossbow/crossbow_b.md) *Skirmisher (2870)* 
-- [**Crossbow H**](../../units/crossbow/crossbow_h.md) *Skirmisher (3061)* 
-- [**Crossbow C**](../../units/crossbow/crossbow_c.md) *Skirmisher (3063)* `ECM` 
-- [**Crossbow D**](../../units/crossbow/crossbow_d.md) *Missile Boat (3064)* 
-- [**Crossbow E**](../../units/crossbow/crossbow_e.md) *Skirmisher (3072)* 
-- [**Crossbow U**](../../units/crossbow/crossbow_u.md) *Skirmisher (3077)* 
-- [**Crossbow F**](../../units/crossbow/crossbow_f.md) *Skirmisher (3116)* 
-- [**Crossbow W**](../../units/crossbow/crossbow_w.md) *Sniper (3128)* 
-- [**Crossbow G**](../../units/crossbow/crossbow_g.md) *Sniper (3136)* 
-- [**Crossbow J**](../../units/crossbow/crossbow_j.md) *Skirmisher (3142)* 
-- [**Crossbow T**](../../units/crossbow/crossbow_t.md) *Skirmisher (3142)* `Active Probe` 
+- [**Crossbow Prime**](../../units/crossbow_omnimech/crossbow_prime.md) *Missile Boat (2870)* 
+- [**Crossbow A**](../../units/crossbow_omnimech/crossbow_a.md) *Skirmisher (2870)* 
+- [**Crossbow B**](../../units/crossbow_omnimech/crossbow_b.md) *Skirmisher (2870)* 
+- [**Crossbow H**](../../units/crossbow_omnimech/crossbow_h.md) *Skirmisher (3061)* 
+- [**Crossbow C**](../../units/crossbow_omnimech/crossbow_c.md) *Skirmisher (3063)* `ECM` 
+- [**Crossbow D**](../../units/crossbow_omnimech/crossbow_d.md) *Missile Boat (3064)* 
+- [**Crossbow E**](../../units/crossbow_omnimech/crossbow_e.md) *Skirmisher (3072)* 
+- [**Crossbow U**](../../units/crossbow_omnimech/crossbow_u.md) *Skirmisher (3077)* 
+- [**Crossbow F**](../../units/crossbow_omnimech/crossbow_f.md) *Skirmisher (3116)* 
+- [**Crossbow W**](../../units/crossbow_omnimech/crossbow_w.md) *Sniper (3128)* 
+- [**Crossbow G**](../../units/crossbow_omnimech/crossbow_g.md) *Sniper (3136)* 
+- [**Crossbow J**](../../units/crossbow_omnimech/crossbow_j.md) *Skirmisher (3142)* 
+- [**Crossbow T**](../../units/crossbow_omnimech/crossbow_t.md) *Skirmisher (3142)* `Active Probe` 
 
 #### [Dig Lord](../../units/dig_lord.md) 
 

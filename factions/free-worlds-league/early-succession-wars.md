@@ -481,11 +481,8 @@
 
 #### [Patron](../../units/patron.md) 
 
+- [**Patron PTN-1 LoaderMech**](../../units/patron/patron_ptn-1_loadermech.md) *Ambusher (2470)* `IndustrialMech` 
 - [**Patron LoaderMech**](../../units/patron/patron_loadermech.md) *Ambusher (2550)* `IndustrialMech` 
-
-#### [Patron LoaderMech](../../units/patron_loadermech.md) 
-
-- [**Patron LoaderMech PTN-1**](../../units/patron_loadermech/patron_loadermech_ptn-1.md) *Ambusher (2470)* `IndustrialMech` 
 
 ### 20 Tons 
 
@@ -618,11 +615,8 @@
 
 #### [Powerman](../../units/powerman.md) 
 
+- [**Powerman SC XI LoaderMech**](../../units/powerman/powerman_sc_xi_loadermech.md) *Ambusher (2764)* `IndustrialMech` 
 - [**Powerman SC XV HaulerMech**](../../units/powerman/powerman_sc_xv_haulermech.md) *Ambusher (2895)* `IndustrialMech` 
-
-#### [Powerman SC XI LoaderMech](../../units/powerman_sc_xi_loadermech.md) 
-
-- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Ambusher (2764)* `IndustrialMech` 
 
 #### [Talon](../../units/talon.md) 
 

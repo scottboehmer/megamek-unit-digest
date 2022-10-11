@@ -614,11 +614,11 @@
 
 - [**Bombardier BMB-12D**](../../units/bombardier/bombardier_bmb-12d.md) *Missile Boat (2735)* 
 
-#### [Crossbow](../../units/crossbow.md) 
+#### [Crossbow OmniMech](../../units/crossbow_omnimech.md) 
 
-- [**Crossbow Prime**](../../units/crossbow/crossbow_prime.md) *Missile Boat (2870)* 
-- [**Crossbow A**](../../units/crossbow/crossbow_a.md) *Skirmisher (2870)* 
-- [**Crossbow B**](../../units/crossbow/crossbow_b.md) *Skirmisher (2870)* 
+- [**Crossbow Prime**](../../units/crossbow_omnimech/crossbow_prime.md) *Missile Boat (2870)* 
+- [**Crossbow A**](../../units/crossbow_omnimech/crossbow_a.md) *Skirmisher (2870)* 
+- [**Crossbow B**](../../units/crossbow_omnimech/crossbow_b.md) *Skirmisher (2870)* 
 
 #### [Crusader](../../units/crusader.md) 
 

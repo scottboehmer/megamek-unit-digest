@@ -1337,20 +1337,20 @@
 - [**Bishamon BSN-4K**](../../units/bishamon/bishamon_bsn-4k.md) *Striker (3060)* `C3 Main` , `TAG` 
 - [**Bishamon BSN-5KC**](../../units/bishamon/bishamon_bsn-5kc.md) *Striker (3076)* `C3 Support` , `ECM` 
 
-#### [Firestarter](../../units/firestarter.md) 
+#### [Firestarter OmniMech](../../units/firestarter_omnimech.md) 
 
-- [**Firestarter FS9-O**](../../units/firestarter/firestarter_fs9-o.md) *Striker (3056)* `Active Probe` 
-- [**Firestarter FS9-OA**](../../units/firestarter/firestarter_fs9-oa.md) *Striker (3057)* 
-- [**Firestarter FS9-OB**](../../units/firestarter/firestarter_fs9-ob.md) *Striker (3057)* `C3 Support` , `TAG` 
-- [**Firestarter FS9-OC**](../../units/firestarter/firestarter_fs9-oc.md) *Missile Boat (3057)* `C3 Support` 
-- [**Firestarter FS9-OD**](../../units/firestarter/firestarter_fs9-od.md) *Sniper (3057)* `C3 Support` , `ECM` 
-- [**Firestarter FS9-OE**](../../units/firestarter/firestarter_fs9-oe.md) *Striker (3058)* 
-- [**Firestarter FS9-OR**](../../units/firestarter/firestarter_fs9-or.md) *Sniper (3059)* 
-- [**Firestarter FS9-OX**](../../units/firestarter/firestarter_fs9-ox.md) *Striker (3059)* `Active Probe` , `ECM` 
-- [**Firestarter FS9-OF**](../../units/firestarter/firestarter_fs9-of.md) *Sniper (3060)* 
-- [**Firestarter FS9-OG**](../../units/firestarter/firestarter_fs9-og.md) *Striker (3063)* 
-- [**Firestarter FS9-OH**](../../units/firestarter/firestarter_fs9-oh.md) *Striker (3069)* `Active Probe` , `ECM` 
-- [**Firestarter FS9-OU**](../../units/firestarter/firestarter_fs9-ou.md) *Striker (3077)* 
+- [**Firestarter FS9-O**](../../units/firestarter_omnimech/firestarter_fs9-o.md) *Striker (3056)* `Active Probe` 
+- [**Firestarter FS9-OA**](../../units/firestarter_omnimech/firestarter_fs9-oa.md) *Striker (3057)* 
+- [**Firestarter FS9-OB**](../../units/firestarter_omnimech/firestarter_fs9-ob.md) *Striker (3057)* `C3 Support` , `TAG` 
+- [**Firestarter FS9-OC**](../../units/firestarter_omnimech/firestarter_fs9-oc.md) *Missile Boat (3057)* `C3 Support` 
+- [**Firestarter FS9-OD**](../../units/firestarter_omnimech/firestarter_fs9-od.md) *Sniper (3057)* `C3 Support` , `ECM` 
+- [**Firestarter FS9-OE**](../../units/firestarter_omnimech/firestarter_fs9-oe.md) *Striker (3058)* 
+- [**Firestarter FS9-OR**](../../units/firestarter_omnimech/firestarter_fs9-or.md) *Sniper (3059)* 
+- [**Firestarter FS9-OX**](../../units/firestarter_omnimech/firestarter_fs9-ox.md) *Striker (3059)* `Active Probe` , `ECM` 
+- [**Firestarter FS9-OF**](../../units/firestarter_omnimech/firestarter_fs9-of.md) *Sniper (3060)* 
+- [**Firestarter FS9-OG**](../../units/firestarter_omnimech/firestarter_fs9-og.md) *Striker (3063)* 
+- [**Firestarter FS9-OH**](../../units/firestarter_omnimech/firestarter_fs9-oh.md) *Striker (3069)* `Active Probe` , `ECM` 
+- [**Firestarter FS9-OU**](../../units/firestarter_omnimech/firestarter_fs9-ou.md) *Striker (3077)* 
 
 #### [Hatchetman](../../units/hatchetman.md) 
 
@@ -1404,18 +1404,18 @@
 - [**Black Hawk (Standard) 2**](../../units/black_hawk_standard/black_hawk_standard_2.md) *Undefined (3092)* 
 - [**Black Hawk (Standard) 3**](../../units/black_hawk_standard/black_hawk_standard_3.md) *Undefined (3092)* 
 
-#### [Blackjack](../../units/blackjack.md) 
+#### [Blackjack OmniMech](../../units/blackjack_omnimech.md) 
 
-- [**Blackjack BJ2-O**](../../units/blackjack/blackjack_bj2-o.md) *Brawler (3057)* 
-- [**Blackjack BJ2-OA**](../../units/blackjack/blackjack_bj2-oa.md) *Missile Boat (3057)* 
-- [**Blackjack BJ2-OB**](../../units/blackjack/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
-- [**Blackjack BJ2-OC**](../../units/blackjack/blackjack_bj2-oc.md) *Brawler (3057)* 
-- [**Blackjack BJ2-OD**](../../units/blackjack/blackjack_bj2-od.md) *Brawler (3057)* 
-- [**Blackjack BJ2-OE**](../../units/blackjack/blackjack_bj2-oe.md) *Sniper (3059)* 
-- [**Blackjack BJ2-OR**](../../units/blackjack/blackjack_bj2-or.md) *Brawler (3059)* 
-- [**Blackjack BJ2-OF**](../../units/blackjack/blackjack_bj2-of.md) *Sniper (3061)* 
-- [**Blackjack BJ2-OX**](../../units/blackjack/blackjack_bj2-ox.md) *Brawler (3074)* 
-- [**Blackjack BJ2-OU**](../../units/blackjack/blackjack_bj2-ou.md) *Brawler (3077)* 
+- [**Blackjack BJ2-O**](../../units/blackjack_omnimech/blackjack_bj2-o.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OA**](../../units/blackjack_omnimech/blackjack_bj2-oa.md) *Missile Boat (3057)* 
+- [**Blackjack BJ2-OB**](../../units/blackjack_omnimech/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
+- [**Blackjack BJ2-OC**](../../units/blackjack_omnimech/blackjack_bj2-oc.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OD**](../../units/blackjack_omnimech/blackjack_bj2-od.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OE**](../../units/blackjack_omnimech/blackjack_bj2-oe.md) *Sniper (3059)* 
+- [**Blackjack BJ2-OR**](../../units/blackjack_omnimech/blackjack_bj2-or.md) *Brawler (3059)* 
+- [**Blackjack BJ2-OF**](../../units/blackjack_omnimech/blackjack_bj2-of.md) *Sniper (3061)* 
+- [**Blackjack BJ2-OX**](../../units/blackjack_omnimech/blackjack_bj2-ox.md) *Brawler (3074)* 
+- [**Blackjack BJ2-OU**](../../units/blackjack_omnimech/blackjack_bj2-ou.md) *Brawler (3077)* 
 
 #### [Buster](../../units/buster.md) 
 
@@ -1877,33 +1877,18 @@
 - [**Charger CGR-KMZ**](../../units/charger/charger_cgr-kmz.md) *Sniper (3071)* 
 - [**Charger CGR-3Kr**](../../units/charger/charger_cgr-3kr.md) *Skirmisher (3078)* 
 
-#### [Hatamoto-Chi](../../units/hatamoto-chi.md) 
+#### [Hatamoto](../../units/hatamoto.md) 
 
-- [**Hatamoto-Chi HTM-27T**](../../units/hatamoto-chi/hatamoto-chi_htm-27t.md) *Brawler (3042)* 
-- [**Hatamoto-Chi HTM-28T**](../../units/hatamoto-chi/hatamoto-chi_htm-28t.md) *Sniper (3059)* `C3 Support` 
-- [**Hatamoto-Chi HTM-28Tr**](../../units/hatamoto-chi/hatamoto-chi_htm-28tr.md) *Juggernaut (3071)* `C3 Support` , `ECM` 
-
-#### [Hatamoto-Hi](../../units/hatamoto-hi.md) 
-
-- [**Hatamoto-Hi HTM-27U**](../../units/hatamoto-hi/hatamoto-hi_htm-27u.md) *Brawler (3047)* 
-- [**Hatamoto-Hi HTM-C**](../../units/hatamoto-hi/hatamoto-hi_htm-c.md) *Brawler (3050)* `C3 Support` 
-- [**Hatamoto-Hi HTM-CM**](../../units/hatamoto-hi/hatamoto-hi_htm-cm.md) *Brawler (3050)* `C3 Main` , `TAG` 
-
-#### [Hatamoto-Kaeru](../../units/hatamoto-kaeru.md) 
-
-- [**Hatamoto-Kaeru HTM-35K**](../../units/hatamoto-kaeru/hatamoto-kaeru_htm-35k.md) *Brawler (3076)* 
-
-#### [Hatamoto-Kaze](../../units/hatamoto-kaze.md) 
-
-- [**Hatamoto-Kaze HTM-27V**](../../units/hatamoto-kaze/hatamoto-kaze_htm-27v.md) *Sniper (3048)* 
-
-#### [Hatamoto-Ku](../../units/hatamoto-ku.md) 
-
-- [**Hatamoto-Ku HTM-27W**](../../units/hatamoto-ku/hatamoto-ku_htm-27w.md) *Sniper (3048)* 
-
-#### [Hatamoto-Mizo](../../units/hatamoto-mizo.md) 
-
-- [**Hatamoto-Mizo HTM-27Y**](../../units/hatamoto-mizo/hatamoto-mizo_htm-27y.md) *Sniper (3050)* 
+- [**Hatamoto-Chi HTM-27T**](../../units/hatamoto/hatamoto-chi_htm-27t.md) *Brawler (3042)* 
+- [**Hatamoto-Hi HTM-27U**](../../units/hatamoto/hatamoto-hi_htm-27u.md) *Brawler (3047)* 
+- [**Hatamoto-Kaze HTM-27V**](../../units/hatamoto/hatamoto-kaze_htm-27v.md) *Sniper (3048)* 
+- [**Hatamoto-Ku HTM-27W**](../../units/hatamoto/hatamoto-ku_htm-27w.md) *Sniper (3048)* 
+- [**Hatamoto-Mizo HTM-27Y**](../../units/hatamoto/hatamoto-mizo_htm-27y.md) *Sniper (3050)* 
+- [**Hatamoto-Hi HTM-C**](../../units/hatamoto/hatamoto-hi_htm-c.md) *Brawler (3050)* `C3 Support` 
+- [**Hatamoto-Hi HTM-CM**](../../units/hatamoto/hatamoto-hi_htm-cm.md) *Brawler (3050)* `C3 Main` , `TAG` 
+- [**Hatamoto-Chi HTM-28T**](../../units/hatamoto/hatamoto-chi_htm-28t.md) *Sniper (3059)* `C3 Support` 
+- [**Hatamoto-Chi HTM-28Tr**](../../units/hatamoto/hatamoto-chi_htm-28tr.md) *Juggernaut (3071)* `C3 Support` , `ECM` 
+- [**Hatamoto-Kaeru HTM-35K**](../../units/hatamoto/hatamoto-kaeru_htm-35k.md) *Brawler (3076)* 
 
 #### [O-Bakemono](../../units/o-bakemono.md) 
 

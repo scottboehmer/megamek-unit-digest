@@ -1500,19 +1500,19 @@
 - [**Black Hawk (Standard) 2**](../../units/black_hawk_standard/black_hawk_standard_2.md) *Undefined (3092)* 
 - [**Black Hawk (Standard) 3**](../../units/black_hawk_standard/black_hawk_standard_3.md) *Undefined (3092)* 
 
-#### [Blackjack](../../units/blackjack.md) 
+#### [Blackjack OmniMech](../../units/blackjack_omnimech.md) 
 
-- [**Blackjack BJ2-O**](../../units/blackjack/blackjack_bj2-o.md) *Brawler (3057)* 
-- [**Blackjack BJ2-OA**](../../units/blackjack/blackjack_bj2-oa.md) *Missile Boat (3057)* 
-- [**Blackjack BJ2-OB**](../../units/blackjack/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
-- [**Blackjack BJ2-OC**](../../units/blackjack/blackjack_bj2-oc.md) *Brawler (3057)* 
-- [**Blackjack BJ2-OD**](../../units/blackjack/blackjack_bj2-od.md) *Brawler (3057)* 
-- [**Blackjack BJ2-OE**](../../units/blackjack/blackjack_bj2-oe.md) *Sniper (3059)* 
-- [**Blackjack BJ2-OR**](../../units/blackjack/blackjack_bj2-or.md) *Brawler (3059)* 
-- [**Blackjack BJ2-OF**](../../units/blackjack/blackjack_bj2-of.md) *Sniper (3061)* 
-- [**Blackjack BJ2-OX**](../../units/blackjack/blackjack_bj2-ox.md) *Brawler (3074)* 
-- [**Blackjack BJ2-OU**](../../units/blackjack/blackjack_bj2-ou.md) *Brawler (3077)* 
-- [**Blackjack BJ2-OG**](../../units/blackjack/blackjack_bj2-og.md) *Brawler (3134)* 
+- [**Blackjack BJ2-O**](../../units/blackjack_omnimech/blackjack_bj2-o.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OA**](../../units/blackjack_omnimech/blackjack_bj2-oa.md) *Missile Boat (3057)* 
+- [**Blackjack BJ2-OB**](../../units/blackjack_omnimech/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
+- [**Blackjack BJ2-OC**](../../units/blackjack_omnimech/blackjack_bj2-oc.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OD**](../../units/blackjack_omnimech/blackjack_bj2-od.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OE**](../../units/blackjack_omnimech/blackjack_bj2-oe.md) *Sniper (3059)* 
+- [**Blackjack BJ2-OR**](../../units/blackjack_omnimech/blackjack_bj2-or.md) *Brawler (3059)* 
+- [**Blackjack BJ2-OF**](../../units/blackjack_omnimech/blackjack_bj2-of.md) *Sniper (3061)* 
+- [**Blackjack BJ2-OX**](../../units/blackjack_omnimech/blackjack_bj2-ox.md) *Brawler (3074)* 
+- [**Blackjack BJ2-OU**](../../units/blackjack_omnimech/blackjack_bj2-ou.md) *Brawler (3077)* 
+- [**Blackjack BJ2-OG**](../../units/blackjack_omnimech/blackjack_bj2-og.md) *Brawler (3134)* 
 
 #### [Blitzkrieg](../../units/blitzkrieg.md) 
 

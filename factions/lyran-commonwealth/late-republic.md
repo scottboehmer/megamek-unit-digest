@@ -1582,20 +1582,20 @@
 - [**Eisenfaust EFT-7X**](../../units/eisenfaust/eisenfaust_eft-7x.md) *Brawler (3076)* 
 - [**Eisenfaust EFT-8X**](../../units/eisenfaust/eisenfaust_eft-8x.md) *Brawler (3080)* 
 
-#### [Firestarter](../../units/firestarter.md) 
+#### [Firestarter OmniMech](../../units/firestarter_omnimech.md) 
 
-- [**Firestarter FS9-O**](../../units/firestarter/firestarter_fs9-o.md) *Striker (3056)* `Active Probe` 
-- [**Firestarter FS9-OA**](../../units/firestarter/firestarter_fs9-oa.md) *Striker (3057)* 
-- [**Firestarter FS9-OB**](../../units/firestarter/firestarter_fs9-ob.md) *Striker (3057)* `C3 Support` , `TAG` 
-- [**Firestarter FS9-OC**](../../units/firestarter/firestarter_fs9-oc.md) *Missile Boat (3057)* `C3 Support` 
-- [**Firestarter FS9-OD**](../../units/firestarter/firestarter_fs9-od.md) *Sniper (3057)* `C3 Support` , `ECM` 
-- [**Firestarter FS9-OE**](../../units/firestarter/firestarter_fs9-oe.md) *Striker (3058)* 
-- [**Firestarter FS9-OR**](../../units/firestarter/firestarter_fs9-or.md) *Sniper (3059)* 
-- [**Firestarter FS9-OX**](../../units/firestarter/firestarter_fs9-ox.md) *Striker (3059)* `Active Probe` , `ECM` 
-- [**Firestarter FS9-OF**](../../units/firestarter/firestarter_fs9-of.md) *Sniper (3060)* 
-- [**Firestarter FS9-OG**](../../units/firestarter/firestarter_fs9-og.md) *Striker (3063)* 
-- [**Firestarter FS9-OH**](../../units/firestarter/firestarter_fs9-oh.md) *Striker (3069)* `Active Probe` , `ECM` 
-- [**Firestarter FS9-OU**](../../units/firestarter/firestarter_fs9-ou.md) *Striker (3077)* 
+- [**Firestarter FS9-O**](../../units/firestarter_omnimech/firestarter_fs9-o.md) *Striker (3056)* `Active Probe` 
+- [**Firestarter FS9-OA**](../../units/firestarter_omnimech/firestarter_fs9-oa.md) *Striker (3057)* 
+- [**Firestarter FS9-OB**](../../units/firestarter_omnimech/firestarter_fs9-ob.md) *Striker (3057)* `C3 Support` , `TAG` 
+- [**Firestarter FS9-OC**](../../units/firestarter_omnimech/firestarter_fs9-oc.md) *Missile Boat (3057)* `C3 Support` 
+- [**Firestarter FS9-OD**](../../units/firestarter_omnimech/firestarter_fs9-od.md) *Sniper (3057)* `C3 Support` , `ECM` 
+- [**Firestarter FS9-OE**](../../units/firestarter_omnimech/firestarter_fs9-oe.md) *Striker (3058)* 
+- [**Firestarter FS9-OR**](../../units/firestarter_omnimech/firestarter_fs9-or.md) *Sniper (3059)* 
+- [**Firestarter FS9-OX**](../../units/firestarter_omnimech/firestarter_fs9-ox.md) *Striker (3059)* `Active Probe` , `ECM` 
+- [**Firestarter FS9-OF**](../../units/firestarter_omnimech/firestarter_fs9-of.md) *Sniper (3060)* 
+- [**Firestarter FS9-OG**](../../units/firestarter_omnimech/firestarter_fs9-og.md) *Striker (3063)* 
+- [**Firestarter FS9-OH**](../../units/firestarter_omnimech/firestarter_fs9-oh.md) *Striker (3069)* `Active Probe` , `ECM` 
+- [**Firestarter FS9-OU**](../../units/firestarter_omnimech/firestarter_fs9-ou.md) *Striker (3077)* 
 
 #### [Hatchetman](../../units/hatchetman.md) 
 
@@ -1660,12 +1660,15 @@
 #### [Centurion](../../units/centurion.md) 
 
 - [**Centurion CN9-Ar**](../../units/centurion/centurion_cn9-ar.md) *Sniper (3072)* 
-- [**Centurion CN11-O**](../../units/centurion/centurion_cn11-o.md) *Brawler (3111)* 
-- [**Centurion CN11-OA**](../../units/centurion/centurion_cn11-oa.md) *Brawler (3111)* 
-- [**Centurion CN11-OB**](../../units/centurion/centurion_cn11-ob.md) *Sniper (3111)* `ECM` 
-- [**Centurion CN11-OC**](../../units/centurion/centurion_cn11-oc.md) *Skirmisher (3111)* `C3 Support` , `ECM` 
-- [**Centurion CN11-OD**](../../units/centurion/centurion_cn11-od.md) *Brawler (3111)* `Active Probe` 
-- [**Centurion CN11-OE**](../../units/centurion/centurion_cn11-oe.md) *Sniper (3111)* `C3 Support` , `ECM` 
+
+#### [Centurion OmniMech](../../units/centurion_omnimech.md) 
+
+- [**Centurion CN11-O**](../../units/centurion_omnimech/centurion_cn11-o.md) *Brawler (3111)* 
+- [**Centurion CN11-OA**](../../units/centurion_omnimech/centurion_cn11-oa.md) *Brawler (3111)* 
+- [**Centurion CN11-OB**](../../units/centurion_omnimech/centurion_cn11-ob.md) *Sniper (3111)* `ECM` 
+- [**Centurion CN11-OC**](../../units/centurion_omnimech/centurion_cn11-oc.md) *Skirmisher (3111)* `C3 Support` , `ECM` 
+- [**Centurion CN11-OD**](../../units/centurion_omnimech/centurion_cn11-od.md) *Brawler (3111)* `Active Probe` 
+- [**Centurion CN11-OE**](../../units/centurion_omnimech/centurion_cn11-oe.md) *Sniper (3111)* `C3 Support` , `ECM` 
 
 #### [Chameleon](../../units/chameleon.md) 
 

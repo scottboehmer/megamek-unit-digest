@@ -1086,9 +1086,9 @@
 - [**Black Hawk (Standard) 2**](../../units/black_hawk_standard/black_hawk_standard_2.md) *Undefined (3092)* 
 - [**Black Hawk (Standard) 3**](../../units/black_hawk_standard/black_hawk_standard_3.md) *Undefined (3092)* 
 
-#### [Blackjack](../../units/blackjack.md) 
+#### [Blackjack OmniMech](../../units/blackjack_omnimech.md) 
 
-- [**Blackjack BJ2-OX**](../../units/blackjack/blackjack_bj2-ox.md) *Brawler (3074)* 
+- [**Blackjack BJ2-OX**](../../units/blackjack_omnimech/blackjack_bj2-ox.md) *Brawler (3074)* 
 
 #### [Buster](../../units/buster.md) 
 

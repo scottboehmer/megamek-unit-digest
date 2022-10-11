@@ -290,9 +290,9 @@
 
 - [**Ostscout OTT-7Jb**](../../units/ostscout/ostscout_ott-7jb.md) *Scout (2600)* `Active Probe` 
 
-#### [Powerman SC XI LoaderMech](../../units/powerman_sc_xi_loadermech.md) 
+#### [Powerman](../../units/powerman.md) 
 
-- [**Powerman SC XI LoaderMech (Standard)**](../../units/powerman_sc_xi_loadermech/powerman_sc_xi_loadermech_standard.md) *Ambusher (2764)* `IndustrialMech` 
+- [**Powerman SC XI LoaderMech**](../../units/powerman/powerman_sc_xi_loadermech.md) *Ambusher (2764)* `IndustrialMech` 
 
 #### [Talon](../../units/talon.md) 
 

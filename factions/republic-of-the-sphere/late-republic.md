@@ -2110,18 +2110,18 @@
 - [**Black Hawk (Standard) 2**](../../units/black_hawk_standard/black_hawk_standard_2.md) *Undefined (3092)* 
 - [**Black Hawk (Standard) 3**](../../units/black_hawk_standard/black_hawk_standard_3.md) *Undefined (3092)* 
 
-#### [Blackjack](../../units/blackjack.md) 
+#### [Blackjack OmniMech](../../units/blackjack_omnimech.md) 
 
-- [**Blackjack BJ2-O**](../../units/blackjack/blackjack_bj2-o.md) *Brawler (3057)* 
-- [**Blackjack BJ2-OA**](../../units/blackjack/blackjack_bj2-oa.md) *Missile Boat (3057)* 
-- [**Blackjack BJ2-OB**](../../units/blackjack/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
-- [**Blackjack BJ2-OC**](../../units/blackjack/blackjack_bj2-oc.md) *Brawler (3057)* 
-- [**Blackjack BJ2-OD**](../../units/blackjack/blackjack_bj2-od.md) *Brawler (3057)* 
-- [**Blackjack BJ2-OE**](../../units/blackjack/blackjack_bj2-oe.md) *Sniper (3059)* 
-- [**Blackjack BJ2-OR**](../../units/blackjack/blackjack_bj2-or.md) *Brawler (3059)* 
-- [**Blackjack BJ2-OF**](../../units/blackjack/blackjack_bj2-of.md) *Sniper (3061)* 
-- [**Blackjack BJ2-OX**](../../units/blackjack/blackjack_bj2-ox.md) *Brawler (3074)* 
-- [**Blackjack BJ2-OU**](../../units/blackjack/blackjack_bj2-ou.md) *Brawler (3077)* 
+- [**Blackjack BJ2-O**](../../units/blackjack_omnimech/blackjack_bj2-o.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OA**](../../units/blackjack_omnimech/blackjack_bj2-oa.md) *Missile Boat (3057)* 
+- [**Blackjack BJ2-OB**](../../units/blackjack_omnimech/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
+- [**Blackjack BJ2-OC**](../../units/blackjack_omnimech/blackjack_bj2-oc.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OD**](../../units/blackjack_omnimech/blackjack_bj2-od.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OE**](../../units/blackjack_omnimech/blackjack_bj2-oe.md) *Sniper (3059)* 
+- [**Blackjack BJ2-OR**](../../units/blackjack_omnimech/blackjack_bj2-or.md) *Brawler (3059)* 
+- [**Blackjack BJ2-OF**](../../units/blackjack_omnimech/blackjack_bj2-of.md) *Sniper (3061)* 
+- [**Blackjack BJ2-OX**](../../units/blackjack_omnimech/blackjack_bj2-ox.md) *Brawler (3074)* 
+- [**Blackjack BJ2-OU**](../../units/blackjack_omnimech/blackjack_bj2-ou.md) *Brawler (3077)* 
 
 #### [Blitzkrieg](../../units/blitzkrieg.md) 
 
@@ -2143,12 +2143,15 @@
 - [**Centurion CN9-D4D**](../../units/centurion/centurion_cn9-d4d.md) *Skirmisher (3066)* 
 - [**Centurion CN9-Ar**](../../units/centurion/centurion_cn9-ar.md) *Sniper (3072)* 
 - [**Centurion CN9-YLW3 'Yen Lo Wang'**](../../units/centurion/centurion_cn9-ylw3_yen_lo_wang.md) *Brawler (3101)* `Unique` 
-- [**Centurion CN11-O**](../../units/centurion/centurion_cn11-o.md) *Brawler (3111)* 
-- [**Centurion CN11-OA**](../../units/centurion/centurion_cn11-oa.md) *Brawler (3111)* 
-- [**Centurion CN11-OB**](../../units/centurion/centurion_cn11-ob.md) *Sniper (3111)* `ECM` 
-- [**Centurion CN11-OC**](../../units/centurion/centurion_cn11-oc.md) *Skirmisher (3111)* `C3 Support` , `ECM` 
-- [**Centurion CN11-OD**](../../units/centurion/centurion_cn11-od.md) *Brawler (3111)* `Active Probe` 
-- [**Centurion CN11-OE**](../../units/centurion/centurion_cn11-oe.md) *Sniper (3111)* `C3 Support` , `ECM` 
+
+#### [Centurion OmniMech](../../units/centurion_omnimech.md) 
+
+- [**Centurion CN11-O**](../../units/centurion_omnimech/centurion_cn11-o.md) *Brawler (3111)* 
+- [**Centurion CN11-OA**](../../units/centurion_omnimech/centurion_cn11-oa.md) *Brawler (3111)* 
+- [**Centurion CN11-OB**](../../units/centurion_omnimech/centurion_cn11-ob.md) *Sniper (3111)* `ECM` 
+- [**Centurion CN11-OC**](../../units/centurion_omnimech/centurion_cn11-oc.md) *Skirmisher (3111)* `C3 Support` , `ECM` 
+- [**Centurion CN11-OD**](../../units/centurion_omnimech/centurion_cn11-od.md) *Brawler (3111)* `Active Probe` 
+- [**Centurion CN11-OE**](../../units/centurion_omnimech/centurion_cn11-oe.md) *Sniper (3111)* `C3 Support` , `ECM` 
 
 #### [Chameleon](../../units/chameleon.md) 
 
@@ -2897,10 +2900,10 @@
 
 - [**Goliath GOL-6M**](../../units/goliath/goliath_gol-6m.md) *Sniper (3083)* 
 
-#### [Hatamoto-Chi](../../units/hatamoto-chi.md) 
+#### [Hatamoto](../../units/hatamoto.md) 
 
-- [**Hatamoto-Chi HTM-28T**](../../units/hatamoto-chi/hatamoto-chi_htm-28t.md) *Sniper (3059)* `C3 Support` 
-- [**Hatamoto-Chi HTM-28Tr**](../../units/hatamoto-chi/hatamoto-chi_htm-28tr.md) *Juggernaut (3071)* `C3 Support` , `ECM` 
+- [**Hatamoto-Chi HTM-28T**](../../units/hatamoto/hatamoto-chi_htm-28t.md) *Sniper (3059)* `C3 Support` 
+- [**Hatamoto-Chi HTM-28Tr**](../../units/hatamoto/hatamoto-chi_htm-28tr.md) *Juggernaut (3071)* `C3 Support` , `ECM` 
 
 #### [Phoenix Hawk IIC](../../units/phoenix_hawk_iic.md) 
 
