@@ -2292,3 +2292,30 @@
 - [**Titan TI-1Aj**](../../units/titan/titan_ti-1aj.md) *Juggernaut (3123)* 
 - [**Titan TI-1Ar**](../../units/titan/titan_ti-1ar.md) *Juggernaut (3123)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Thrush](../../units/thrush.md) 
+
+- [**Thrush TR-7p**](../../units/thrush/thrush_tr-7p.md) *Interceptor (3059)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+
+### 100 Tons 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-D6**](../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
+- [**Stuka STU-D7**](../../units/stuka/stuka_stu-d7.md) *Attack Fighter (3070)* 
+

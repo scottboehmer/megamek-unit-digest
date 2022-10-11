@@ -322,3 +322,17 @@
 
 - [**Marauder II MAD-4A**](../../units/marauder_ii/marauder_ii_mad-4a.md) *Juggernaut (3012)* 
 
+## Fighters 
+
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15B**](../../units/slayer/slayer_sl-15b.md) *Dogfighter (2872)* 
+

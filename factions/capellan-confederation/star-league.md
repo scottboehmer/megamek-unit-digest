@@ -630,3 +630,35 @@
 
 - [**Xanthos XNT-3O**](../../units/xanthos/xanthos_xnt-3o.md) *Juggernaut (2579)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
+
+### 50 Tons 
+
+#### [Samurai](../../units/samurai.md) 
+
+- [**Samurai SL-25**](../../units/samurai/samurai_sl-25.md) *Fast Dogfighter (2472)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+
+### 100 Tons 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+

@@ -643,3 +643,47 @@
 - [**Kiso K-3N-KR4 ConstructionMech**](../../units/kiso/kiso_k-3n-kr4_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
 - [**Kiso K-3N-KR5 ConstructionMech**](../../units/kiso/kiso_k-3n-kr5_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+
+### 50 Tons 
+
+#### [Samurai](../../units/samurai.md) 
+
+- [**Samurai SL-25**](../../units/samurai/samurai_sl-25.md) *Fast Dogfighter (2472)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
+
+### 65 Tons 
+
+#### [Lucifer](../../units/lucifer.md) 
+
+- [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
+
+### 100 Tons 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+

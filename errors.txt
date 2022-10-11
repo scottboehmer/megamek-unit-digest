@@ -1,5 +1,31 @@
 Invalid design in file 'Wasp LAM WSP-110.mtf': Design is overweight by 3.00 tons
 Unable to convert data from 'Uni ATAE-70 ArtilleryMech.mtf': Unexpected number of criticals for split component: ISThumper
+Unable to convert data from 'Cheetah F-11.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Cheetah F-13.blk': Unrecognized armor_type: 20
+Unable to convert data from 'Chippewa CHP-W7.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Chippewa CHP-W7T.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Chippewa CHP-W8.blk': Unrecognized armor_type: 20
+Unable to convert data from 'Corsair CSR-V18.blk': Unrecognized armor_type: 20
+Unable to convert data from 'Lucifer II LCF-R16KR.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Lucifer LCF-R16.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Riever F-700b.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Sai S-4.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Sai S-4C.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Sai S-4X.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Sai S-8.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Samurai SL-26.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Samurai SL-27.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Seydlitz SYD-Z2A.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Seydlitz SYD-Z2B.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Seydlitz SYD-Z3A.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Seydlitz SYD-Z4.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Shilone SL-18.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Sholagar SL-22.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Sparrowhawk SPR-6D.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Sparrowhawk SPR-7D.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Stingray F-95.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Transgressor TR-15.blk': Unrecognized armor_type: 19
+Unable to convert data from 'Transgressor TR-16.blk': Unrecognized armor_type: 19
 
 --------------------------------------------------
 Unrecognized Components:
@@ -8,6 +34,64 @@ Unrecognized Components:
 Units without Battle Value:
 Rhino (Standard) - unknown battle value
 Tessen TSN-X4R 'Rapunzel' - unknown battle value
+Cheetah F-10 - The method or operation is not implemented.
+Cheetah F-11-R - The method or operation is not implemented.
+Cheetah F-11-RR - The method or operation is not implemented.
+Cheetah F-12-S - The method or operation is not implemented.
+Cheetah F-14-S - The method or operation is not implemented.
+Chippewa CHP-W10 - The method or operation is not implemented.
+Chippewa CHP-W5 - The method or operation is not implemented.
+Corsair CSR-V12 - The method or operation is not implemented.
+Corsair CSR-V12M 'Regulus' - The method or operation is not implemented.
+Corsair CSR-V14 - The method or operation is not implemented.
+Corsair CSR-V20 - The method or operation is not implemented.
+Lucifer II LCF-R16K - The method or operation is not implemented.
+Lucifer LCF-R15 - The method or operation is not implemented.
+Lucifer LCF-R20 - The method or operation is not implemented.
+Riever F-100 - The method or operation is not implemented.
+Riever F-100a - The method or operation is not implemented.
+Riever F-100b - The method or operation is not implemented.
+Riever F-700 - The method or operation is not implemented.
+Riever F-700a - The method or operation is not implemented.
+Sai S-3 - The method or operation is not implemented.
+Sai S-7 - The method or operation is not implemented.
+Samurai SL-25 - The method or operation is not implemented.
+Seydlitz SYD-21 - The method or operation is not implemented.
+Seydlitz SYD-Z1 - The method or operation is not implemented.
+Seydlitz SYD-Z2 - The method or operation is not implemented.
+Seydlitz SYD-Z3 - The method or operation is not implemented.
+Shilone SL-17 - The method or operation is not implemented.
+Shilone SL-17AC - The method or operation is not implemented.
+Shilone SL-17R - The method or operation is not implemented.
+Sholagar SL-21 - The method or operation is not implemented.
+Sholagar SL-21L - The method or operation is not implemented.
+Slayer SL-15 - The method or operation is not implemented.
+Slayer SL-15A - The method or operation is not implemented.
+Slayer SL-15B - The method or operation is not implemented.
+Slayer SL-15C - The method or operation is not implemented.
+Slayer SL-15K - The method or operation is not implemented.
+Slayer SL-15R - The method or operation is not implemented.
+Sparrowhawk SPR-8H - The method or operation is not implemented.
+Sparrowhawk SPR-H5 - The method or operation is not implemented.
+Sparrowhawk SPR-H5K - The method or operation is not implemented.
+Stingray F-90 - The method or operation is not implemented.
+Stingray F-90S - The method or operation is not implemented.
+Stingray F-92 - The method or operation is not implemented.
+Stingray F-94 - The method or operation is not implemented.
+Stuka STU-D6 - The method or operation is not implemented.
+Stuka STU-D7 - The method or operation is not implemented.
+Stuka STU-K10 - The method or operation is not implemented.
+Stuka STU-K15 - The method or operation is not implemented.
+Stuka STU-K5 - The method or operation is not implemented.
+Thrush TR-7 - The method or operation is not implemented.
+Thrush TR-7p - The method or operation is not implemented.
+Thrush TR-8 - The method or operation is not implemented.
+Transgressor TR-13 - The method or operation is not implemented.
+Transgressor TR-13A - The method or operation is not implemented.
+Transgressor TR-14 'AC' - The method or operation is not implemented.
+Transit TR-10 - The method or operation is not implemented.
+Transit TR-11 - The method or operation is not implemented.
+Transit TR-12 - The method or operation is not implemented.
 
 --------------------------------------------------
 Units without Roles:
@@ -300,4 +384,4 @@ Tornado PA(L) G17(Sqd5)
 Tortoise II (aSRM)(Sqd5)
 
 --------------------------------------------------
-6404 files -> 6404 parsed files (0 skipped) -> 6184 converted files -> 6174 validated units
+6488 files -> 6488 parsed files (0 skipped) -> 6242 converted files -> 6233 validated units

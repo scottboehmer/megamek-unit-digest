@@ -1,0 +1,70 @@
+# Stingray 
+
+## Stingray F-90 
+
+- **Role:** Dogfighter 
+- **Tech Base:** Inner Sphere (2762) 
+- **Chassis:** 60 tons 
+- **Thrust:** 6 / 9, Fusion 
+- **Fuel:** 400 
+- **Armor:** 184 
+- **Heat Sinks:** 20 (20) 
+- **Weapons:** 
+  - PPC 
+  - Large Laser × 2 
+  - Medium Laser × 2 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3069) 
+- **Battle Value:** Unknown 
+- [*More Info*](stingray/stingray_f-90.md) 
+
+## Stingray F-90S 
+
+- **Role:** Dogfighter 
+- **Tech Base:** Inner Sphere (2911) 
+- **Chassis:** 60 tons 
+- **Thrust:** 6 / 9, Fusion 
+- **Fuel:** 400 
+- **Armor:** 168 
+- **Heat Sinks:** 19 (19) 
+- **Weapons:** 
+  - Large Laser × 2 
+  - AC/5 (ammo: 20) 
+  - Medium Laser × 2 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3070) 
+- **Battle Value:** Unknown 
+- [*More Info*](stingray/stingray_f-90s.md) 
+
+## Stingray F-92 
+
+- **Role:** Fire Support 
+- **Tech Base:** Inner Sphere (3050) 
+- **Chassis:** 60 tons 
+- **Thrust:** 6 / 9, Fusion 
+- **Fuel:** 400 
+- **Armor:** 184 
+- **Heat Sinks:** 20 (20) 
+- **Weapons:** 
+  - ER PPC 
+  - ER Large Laser × 2 
+  - Medium Laser × 2 
+- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3071) 
+- **Battle Value:** Unknown 
+- [*More Info*](stingray/stingray_f-92.md) 
+
+## Stingray F-94 
+
+- **Role:** Fire Support 
+- **Tech Base:** Inner Sphere (3052) 
+- **Chassis:** 60 tons 
+- **Thrust:** 6 / 9, Fusion 
+- **Fuel:** 400 
+- **Armor:** 184 
+- **Heat Sinks:** 20 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - LRM 10 × 2 (ammo: 12) 
+  - Medium Laser × 3 
+- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3073) 
+- **Battle Value:** Unknown 
+- [*More Info*](stingray/stingray_f-94.md) 
+

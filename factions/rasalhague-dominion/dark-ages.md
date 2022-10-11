@@ -1440,3 +1440,11 @@
 
 - [**Stone Rhino (Standard)**](../../units/stone_rhino/stone_rhino_standard.md) *Sniper (2847)* 
 
+## Fighters 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15K**](../../units/slayer/slayer_sl-15k.md) *Dogfighter (3066)* 
+

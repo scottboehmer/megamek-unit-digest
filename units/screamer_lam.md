@@ -8,7 +8,7 @@
 - **Movement:** 5 / 8 
   - **Jumping:** 4 
   - **AirMech:** 12 / 18 
-  - **Aerospace:** 4 / 6 
+  - **Thrust:** 4 / 6 
 - **Armor:** 144 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 

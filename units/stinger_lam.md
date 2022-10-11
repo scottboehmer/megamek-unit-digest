@@ -8,7 +8,7 @@
 - **Movement:** 6 / 9 
   - **Jumping:** 6 
   - **AirMech:** 18 / 27 
-  - **Aerospace:** 6 / 9 
+  - **Thrust:** 6 / 9 
 - **Armor:** 80 
 - **Heat Sinks:** 11 (11) 
 - **Weapons:** 
@@ -25,7 +25,7 @@
 - **Movement:** 6 / 9 
   - **Jumping:** 6 
   - **AirMech:** 18 / 27 
-  - **Aerospace:** 6 / 9 
+  - **Thrust:** 6 / 9 
 - **Armor:** 80 
 - **Heat Sinks:** 11 (11) 
 - **Weapons:** 

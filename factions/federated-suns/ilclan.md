@@ -2457,3 +2457,30 @@
 - [**Ares ARS-V1C Aphrodite**](../../units/ares/ares_ars-v1c_aphrodite.md) *Juggernaut (3136)* `C3 Main` , `ECM` , `TAG` 
 - [**Ares ARS-V1D Hephaestus**](../../units/ares/ares_ars-v1d_hephaestus.md) *Juggernaut (3136)* `C3 Support` 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Thrush](../../units/thrush.md) 
+
+- [**Thrush TR-7p**](../../units/thrush/thrush_tr-7p.md) *Interceptor (3059)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+
+### 100 Tons 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-D6**](../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
+- [**Stuka STU-D7**](../../units/stuka/stuka_stu-d7.md) *Attack Fighter (3070)* 
+

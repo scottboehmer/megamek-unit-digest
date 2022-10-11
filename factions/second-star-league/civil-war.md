@@ -1116,3 +1116,12 @@
 
 - [**Marauder II MAD-4S**](../../units/marauder_ii/marauder_ii_mad-4s.md) *Juggernaut (3064)* 
 
+## Fighters 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+- [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+

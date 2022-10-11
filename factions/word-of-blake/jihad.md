@@ -2366,3 +2366,31 @@
 
 - [**Omega SHP-4X**](../../units/omega/omega_shp-4x.md) *Sniper (3078)* `C3i` 
 
+## Fighters 
+
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-12-S**](../../units/cheetah/cheetah_f-12-s.md) *Interceptor (2868)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+- [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+
+### 100 Tons 
+
+#### [Riever](../../units/riever.md) 
+
+- [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
+- [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+

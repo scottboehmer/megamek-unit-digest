@@ -1707,3 +1707,19 @@
 
 - [**Thunder Hawk TDK-7X**](../../units/thunder_hawk/thunder_hawk_tdk-7x.md) *Sniper (2771)* 
 
+## Fighters 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+- [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+

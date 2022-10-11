@@ -496,3 +496,29 @@
 
 - [**Banshee BNC-3E**](../../units/banshee/banshee_bnc-3e.md) *Sniper (2475)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+
+### 50 Tons 
+
+#### [Samurai](../../units/samurai.md) 
+
+- [**Samurai SL-25**](../../units/samurai/samurai_sl-25.md) *Fast Dogfighter (2472)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
+

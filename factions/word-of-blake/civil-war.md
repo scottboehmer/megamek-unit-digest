@@ -1706,3 +1706,25 @@
 - [**Vanquisher VQR-2A**](../../units/vanquisher/vanquisher_vqr-2a.md) *Sniper (3063)* `C3i` 
 - [**Vanquisher VQR-2B**](../../units/vanquisher/vanquisher_vqr-2b.md) *Juggernaut (3067)* `C3i` 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-12-S**](../../units/cheetah/cheetah_f-12-s.md) *Interceptor (2868)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+- [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+
+### 100 Tons 
+
+#### [Riever](../../units/riever.md) 
+
+- [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
+- [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+

@@ -123,3 +123,17 @@
 
 - [**Atlas AS7-00 (Jurn)**](../../units/atlas/atlas_as7-00_jurn.md) *Sniper (3081)* `Active Probe` , `Command Console` , `Unique` 
 
+## Fighters 
+
+### 65 Tons 
+
+#### [Shilone](../../units/shilone.md) 
+
+- [**Shilone SL-17R**](../../units/shilone/shilone_sl-17r.md) *Fire Support (3042)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15R**](../../units/slayer/slayer_sl-15r.md) *Dogfighter (3044)* 
+

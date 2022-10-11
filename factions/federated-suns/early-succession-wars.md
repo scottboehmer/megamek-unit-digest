@@ -995,3 +995,54 @@
 
 - [**Pillager PLG-3Z**](../../units/pillager/pillager_plg-3z.md) *Juggernaut (2594)* 
 
+## Fighters 
+
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
+
+### 65 Tons 
+
+#### [Lucifer](../../units/lucifer.md) 
+
+- [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+
+### 100 Tons 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-K10**](../../units/stuka/stuka_stu-k10.md) *Attack Fighter (2711)* 
+

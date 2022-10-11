@@ -530,3 +530,41 @@
 - [**Mackie MSK-8B**](../../units/mackie/mackie_msk-8b.md) *Juggernaut (2576)* 
 - [**Mackie MSK-9H**](../../units/mackie/mackie_msk-9h.md) *Juggernaut (2576)* `Active Probe` 
 
+## Fighters 
+
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
+
+### 50 Tons 
+
+#### [Samurai](../../units/samurai.md) 
+
+- [**Samurai SL-25**](../../units/samurai/samurai_sl-25.md) *Fast Dogfighter (2472)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
+
+### 65 Tons 
+
+#### [Lucifer](../../units/lucifer.md) 
+
+- [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
+

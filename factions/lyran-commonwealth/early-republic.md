@@ -2278,3 +2278,41 @@
 - [**Xanthos XNT-4O**](../../units/xanthos/xanthos_xnt-4o.md) *Sniper (3068)* `ECM` , `Stealth` 
 - [**Xanthos XNT-5O**](../../units/xanthos/xanthos_xnt-5o.md) *Skirmisher (3076)* 
 
+## Fighters 
+
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
+- [**Seydlitz SYD-Z2**](../../units/seydlitz/seydlitz_syd-z2.md) *Interceptor (2765)* 
+- [**Seydlitz SYD-Z3**](../../units/seydlitz/seydlitz_syd-z3.md) *Interceptor (2894)* 
+- [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+- [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+
+### 65 Tons 
+
+#### [Lucifer](../../units/lucifer.md) 
+
+- [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+- [**Lucifer LCF-R20**](../../units/lucifer/lucifer_lcf-r20.md) *Attack Fighter (2609)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+
+### 100 Tons 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-D6**](../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
+

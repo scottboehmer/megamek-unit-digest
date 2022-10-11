@@ -1177,3 +1177,11 @@
 - [**Stone Rhino 6**](../../units/stone_rhino/stone_rhino_6.md) *Brawler (2999)* 
 - [**Stone Rhino 7**](../../units/stone_rhino/stone_rhino_7.md) *Sniper (3001)* 
 
+## Fighters 
+
+### 40 Tons 
+
+#### [Sai](../../units/sai.md) 
+
+- [**Sai S-7**](../../units/sai/sai_s-7.md) *Fast Dogfighter (3065)* 
+

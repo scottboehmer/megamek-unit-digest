@@ -565,3 +565,41 @@
 - [**Banshee BNC-3E**](../../units/banshee/banshee_bnc-3e.md) *Sniper (2475)* 
 - [**Banshee BNC-3M**](../../units/banshee/banshee_bnc-3m.md) *Brawler (2579)* 
 
+## Fighters 
+
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+
+### 50 Tons 
+
+#### [Samurai](../../units/samurai.md) 
+
+- [**Samurai SL-25**](../../units/samurai/samurai_sl-25.md) *Fast Dogfighter (2472)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+
+### 100 Tons 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+

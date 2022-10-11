@@ -10,7 +10,7 @@
 - **Movement:** 6 / 9 
   - **Jumping:** 6 
   - **AirMech:** 18 / 27 
-  - **Aerospace:** 6 / 9 
+  - **Thrust:** 6 / 9 
 - **Armor:** 96 
 - **Cockpit:** Small 
 - **Heat Sinks:** 10 (20) 

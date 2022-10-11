@@ -1940,3 +1940,11 @@
 
 - [**Thunder Hawk TDK-7S**](../../units/thunder_hawk/thunder_hawk_tdk-7s.md) *Sniper (3065)* 
 
+## Fighters 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+

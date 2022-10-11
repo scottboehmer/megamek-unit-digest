@@ -309,3 +309,17 @@
 
 - [**Atlas AS7-D**](../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 
+## Fighters 
+
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15B**](../../units/slayer/slayer_sl-15b.md) *Dogfighter (2872)* 
+

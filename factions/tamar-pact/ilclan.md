@@ -1990,3 +1990,11 @@
 
 - [**Xanthos XNT-5O**](../../units/xanthos/xanthos_xnt-5o.md) *Skirmisher (3076)* 
 
+## Fighters 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+

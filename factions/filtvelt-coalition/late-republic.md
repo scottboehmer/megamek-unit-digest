@@ -1365,3 +1365,77 @@
 
 - [**Xanthos XNT-2O**](../../units/xanthos/xanthos_xnt-2o.md) *Juggernaut (2564)* 
 
+## Fighters 
+
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
+- [**Seydlitz SYD-Z2**](../../units/seydlitz/seydlitz_syd-z2.md) *Interceptor (2765)* 
+- [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-11-R**](../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
+- [**Cheetah F-11-RR**](../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
+
+#### [Thrush](../../units/thrush.md) 
+
+- [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
+- [**Thrush TR-7p**](../../units/thrush/thrush_tr-7p.md) *Interceptor (3059)* 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+
+### 35 Tons 
+
+#### [Sholagar](../../units/sholagar.md) 
+
+- [**Sholagar SL-21**](../../units/sholagar/sholagar_sl-21.md) *Interceptor (2803)* 
+- [**Sholagar SL-21L**](../../units/sholagar/sholagar_sl-21l.md) *Interceptor (2911)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
+- [**Corsair CSR-V20**](../../units/corsair/corsair_csr-v20.md) *Dogfighter (3010)* 
+- [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
+
+### 65 Tons 
+
+#### [Shilone](../../units/shilone.md) 
+
+- [**Shilone SL-17**](../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+- [**Chippewa CHP-W10**](../../units/chippewa/chippewa_chp-w10.md) *Attack Fighter (2953)* 
+
+### 100 Tons 
+
+#### [Riever](../../units/riever.md) 
+
+- [**Riever F-100**](../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
+- [**Riever F-100a**](../../units/riever/riever_f-100a.md) *Attack Fighter (2829)* 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-D6**](../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
+

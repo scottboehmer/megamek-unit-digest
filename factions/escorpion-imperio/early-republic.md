@@ -1177,3 +1177,21 @@
 - [**Stone Rhino (Standard)**](../../units/stone_rhino/stone_rhino_standard.md) *Sniper (2847)* 
 - [**Stone Rhino 2**](../../units/stone_rhino/stone_rhino_2.md) *Juggernaut (3061)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Thrush](../../units/thrush.md) 
+
+- [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
+
+#### [Transit](../../units/transit.md) 
+
+- [**Transit TR-10**](../../units/transit/transit_tr-10.md) *Dogfighter (2932)* 
+

@@ -2228,3 +2228,39 @@
 - [**Marauder II MAD-4S**](../../units/marauder_ii/marauder_ii_mad-4s.md) *Juggernaut (3064)* 
 - [**Marauder II MAD-6D**](../../units/marauder_ii/marauder_ii_mad-6d.md) *Skirmisher (3083)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Thrush](../../units/thrush.md) 
+
+- [**Thrush TR-7p**](../../units/thrush/thrush_tr-7p.md) *Interceptor (3059)* 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
+- [**Corsair CSR-V20**](../../units/corsair/corsair_csr-v20.md) *Dogfighter (3010)* 
+- [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+
+### 100 Tons 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-D6**](../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
+- [**Stuka STU-D7**](../../units/stuka/stuka_stu-d7.md) *Attack Fighter (3070)* 
+

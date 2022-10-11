@@ -925,3 +925,85 @@
 - [**Kiso K-3N-KR4 ConstructionMech**](../../units/kiso/kiso_k-3n-kr4_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
 - [**Kiso K-3N-KR5 ConstructionMech**](../../units/kiso/kiso_k-3n-kr5_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+- [**Sparrowhawk SPR-H5K**](../../units/sparrowhawk/sparrowhawk_spr-h5k.md) *Interceptor (3018)* 
+
+### 35 Tons 
+
+#### [Sholagar](../../units/sholagar.md) 
+
+- [**Sholagar SL-21**](../../units/sholagar/sholagar_sl-21.md) *Interceptor (2803)* 
+- [**Sholagar SL-21L**](../../units/sholagar/sholagar_sl-21l.md) *Interceptor (2911)* 
+
+### 40 Tons 
+
+#### [Sai](../../units/sai.md) 
+
+- [**Sai S-3**](../../units/sai/sai_s-3.md) *Fast Dogfighter (3045)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
+
+#### [Samurai](../../units/samurai.md) 
+
+- [**Samurai SL-25**](../../units/samurai/samurai_sl-25.md) *Fast Dogfighter (2472)* 
+
+### 65 Tons 
+
+#### [Lucifer](../../units/lucifer.md) 
+
+- [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+
+#### [Lucifer II](../../units/lucifer_ii.md) 
+
+- [**Lucifer II LCF-R16K**](../../units/lucifer_ii/lucifer_ii_lcf-r16k.md) *Dogfighter (2993)* 
+
+#### [Shilone](../../units/shilone.md) 
+
+- [**Shilone SL-17**](../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
+- [**Shilone SL-17AC**](../../units/shilone/shilone_sl-17ac.md) *Dogfighter (2935)* 
+- [**Shilone SL-17R**](../../units/shilone/shilone_sl-17r.md) *Fire Support (3042)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
+- [**Slayer SL-15A**](../../units/slayer/slayer_sl-15a.md) *Dogfighter (2872)* 
+- [**Slayer SL-15B**](../../units/slayer/slayer_sl-15b.md) *Dogfighter (2872)* 
+- [**Slayer SL-15C**](../../units/slayer/slayer_sl-15c.md) *Dogfighter (2872)* 
+- [**Slayer SL-15R**](../../units/slayer/slayer_sl-15r.md) *Dogfighter (3044)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+
+### 100 Tons 
+
+#### [Riever](../../units/riever.md) 
+
+- [**Riever F-100**](../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
+- [**Riever F-100a**](../../units/riever/riever_f-100a.md) *Attack Fighter (2829)* 
+- [**Riever F-100b**](../../units/riever/riever_f-100b.md) *Attack Fighter (2835)* 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+

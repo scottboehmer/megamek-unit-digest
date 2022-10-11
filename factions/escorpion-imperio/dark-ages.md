@@ -1076,3 +1076,39 @@
 - [**Stone Rhino (Standard)**](../../units/stone_rhino/stone_rhino_standard.md) *Sniper (2847)* 
 - [**Stone Rhino 2**](../../units/stone_rhino/stone_rhino_2.md) *Juggernaut (3061)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Thrush](../../units/thrush.md) 
+
+- [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
+
+#### [Transit](../../units/transit.md) 
+
+- [**Transit TR-10**](../../units/transit/transit_tr-10.md) *Dogfighter (2932)* 
+
+### 65 Tons 
+
+#### [Shilone](../../units/shilone.md) 
+
+- [**Shilone SL-17**](../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
+
+### 100 Tons 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+

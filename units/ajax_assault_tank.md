@@ -92,7 +92,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-  - Infantry (4.0 tons) × 2 
+  - Infantry (4.0 tons) 
   - Drone Control System 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5741) 
 - **Battle Value:** 1502 

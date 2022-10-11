@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Vehicle Flamer × 2 (ammo: 40) 
 - **Equipment:** 
-  - Insulated Cargo × 2 
+  - Insulated Cargo 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/687) 
 - **Battle Value:** 347 
 

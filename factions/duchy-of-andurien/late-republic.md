@@ -1777,3 +1777,48 @@
 
 - [**King Crab KGC-001**](../../units/king_crab/king_crab_kgc-001.md) *Juggernaut (3052)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-11-R**](../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
+- [**Cheetah F-14-S**](../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
+- [**Cheetah F-11-RR**](../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
+
+#### [Thrush](../../units/thrush.md) 
+
+- [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
+- [**Thrush TR-7p**](../../units/thrush/thrush_tr-7p.md) *Interceptor (3059)* 
+- [**Thrush TR-8**](../../units/thrush/thrush_tr-8.md) *Interceptor (3065)* 
+
+### 50 Tons 
+
+#### [Transit](../../units/transit.md) 
+
+- [**Transit TR-10**](../../units/transit/transit_tr-10.md) *Dogfighter (2932)* 
+- [**Transit TR-11**](../../units/transit/transit_tr-11.md) *Dogfighter (2933)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+
+### 75 Tons 
+
+#### [Transgressor](../../units/transgressor.md) 
+
+- [**Transgressor TR-13A**](../../units/transgressor/transgressor_tr-13a.md) *Dogfighter (3052)* 
+
+### 100 Tons 
+
+#### [Riever](../../units/riever.md) 
+
+- [**Riever F-100**](../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
+- [**Riever F-100a**](../../units/riever/riever_f-100a.md) *Attack Fighter (2829)* 
+- [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
+- [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+

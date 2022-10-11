@@ -9,7 +9,7 @@
 - **Chassis:** 55 tons Bimodal LAM 
 - **Movement:** 5 / 8 
   - **Jumping:** 3 
-  - **Aerospace:** 3 / 5 
+  - **Thrust:** 3 / 5 
 - **Armor:** 104 
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 

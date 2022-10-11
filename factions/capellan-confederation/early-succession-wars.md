@@ -984,3 +984,57 @@
 
 - [**Xanthos XNT-3O**](../../units/xanthos/xanthos_xnt-3o.md) *Juggernaut (2579)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
+- [**Cheetah F-11-R**](../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
+
+#### [Thrush](../../units/thrush.md) 
+
+- [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
+
+### 75 Tons 
+
+#### [Transgressor](../../units/transgressor.md) 
+
+- [**Transgressor TR-13**](../../units/transgressor/transgressor_tr-13.md) *Dogfighter (2890)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+
+### 100 Tons 
+
+#### [Riever](../../units/riever.md) 
+
+- [**Riever F-100**](../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
+- [**Riever F-100a**](../../units/riever/riever_f-100a.md) *Attack Fighter (2829)* 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+

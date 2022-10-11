@@ -3288,3 +3288,52 @@
 
 - [**Orca OC-1X**](../../units/orca/orca_oc-1x.md) *Sniper (3103)* `ECM` , `Unique` 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-14-S**](../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
+
+### 40 Tons 
+
+#### [Sai](../../units/sai.md) 
+
+- [**Sai S-7**](../../units/sai/sai_s-7.md) *Fast Dogfighter (3065)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+
+### 65 Tons 
+
+#### [Shilone](../../units/shilone.md) 
+
+- [**Shilone SL-17R**](../../units/shilone/shilone_sl-17r.md) *Fire Support (3042)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15K**](../../units/slayer/slayer_sl-15k.md) *Dogfighter (3066)* 
+
+### 100 Tons 
+
+#### [Riever](../../units/riever.md) 
+
+- [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
+- [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-D7**](../../units/stuka/stuka_stu-d7.md) *Attack Fighter (3070)* 
+

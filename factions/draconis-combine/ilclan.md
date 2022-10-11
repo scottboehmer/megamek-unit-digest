@@ -2348,3 +2348,43 @@
 - [**Marauder II MAD-6C**](../../units/marauder_ii/marauder_ii_mad-6c.md) *Sniper (3134)* `Command Console` 
 - [**Marauder II MAD-8K**](../../units/marauder_ii/marauder_ii_mad-8k.md) *Sniper (3138)* 
 
+## Fighters 
+
+### 35 Tons 
+
+#### [Sholagar](../../units/sholagar.md) 
+
+- [**Sholagar SL-21**](../../units/sholagar/sholagar_sl-21.md) *Interceptor (2803)* 
+- [**Sholagar SL-21L**](../../units/sholagar/sholagar_sl-21l.md) *Interceptor (2911)* 
+
+### 40 Tons 
+
+#### [Sai](../../units/sai.md) 
+
+- [**Sai S-7**](../../units/sai/sai_s-7.md) *Fast Dogfighter (3065)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+
+### 65 Tons 
+
+#### [Shilone](../../units/shilone.md) 
+
+- [**Shilone SL-17R**](../../units/shilone/shilone_sl-17r.md) *Fire Support (3042)* 
+
+### 80 Tons 
+
+#### [Slayer](../../units/slayer.md) 
+
+- [**Slayer SL-15R**](../../units/slayer/slayer_sl-15r.md) *Dogfighter (3044)* 
+- [**Slayer SL-15K**](../../units/slayer/slayer_sl-15k.md) *Dogfighter (3066)* 
+
+### 100 Tons 
+
+#### [Stuka](../../units/stuka.md) 
+
+- [**Stuka STU-D7**](../../units/stuka/stuka_stu-d7.md) *Attack Fighter (3070)* 
+

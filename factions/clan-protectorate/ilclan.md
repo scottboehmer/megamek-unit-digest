@@ -1278,3 +1278,17 @@
 
 - [**Marauder II MAD-6S**](../../units/marauder_ii/marauder_ii_mad-6s.md) *Juggernaut (3133)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-14-S**](../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+

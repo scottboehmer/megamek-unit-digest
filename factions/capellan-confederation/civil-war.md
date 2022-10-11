@@ -1529,3 +1529,68 @@
 - [**Pillager PLG-3Z**](../../units/pillager/pillager_plg-3z.md) *Juggernaut (2594)* 
 - [**Pillager PLG-4Z**](../../units/pillager/pillager_plg-4z.md) *Sniper (3064)* `ECM` , `Stealth` 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
+- [**Cheetah F-11-R**](../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
+- [**Cheetah F-11-RR**](../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
+
+#### [Thrush](../../units/thrush.md) 
+
+- [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
+- [**Thrush TR-7p**](../../units/thrush/thrush_tr-7p.md) *Interceptor (3059)* 
+- [**Thrush TR-8**](../../units/thrush/thrush_tr-8.md) *Interceptor (3065)* 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+
+### 50 Tons 
+
+#### [Corsair](../../units/corsair.md) 
+
+- [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
+
+#### [Transit](../../units/transit.md) 
+
+- [**Transit TR-10**](../../units/transit/transit_tr-10.md) *Dogfighter (2932)* 
+- [**Transit TR-11**](../../units/transit/transit_tr-11.md) *Dogfighter (2933)* 
+- [**Transit TR-12**](../../units/transit/transit_tr-12.md) *Fast Dogfighter (3063)* 
+
+### 60 Tons 
+
+#### [Stingray](../../units/stingray.md) 
+
+- [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
+- [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+- [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+
+### 75 Tons 
+
+#### [Transgressor](../../units/transgressor.md) 
+
+- [**Transgressor TR-13**](../../units/transgressor/transgressor_tr-13.md) *Dogfighter (2890)* 
+- [**Transgressor TR-14 'AC'**](../../units/transgressor/transgressor_tr-14_ac.md) *Dogfighter (2906)* 
+- [**Transgressor TR-13A**](../../units/transgressor/transgressor_tr-13a.md) *Dogfighter (3052)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+
+### 100 Tons 
+
+#### [Riever](../../units/riever.md) 
+
+- [**Riever F-100**](../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
+- [**Riever F-100a**](../../units/riever/riever_f-100a.md) *Attack Fighter (2829)* 
+- [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
+- [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+
