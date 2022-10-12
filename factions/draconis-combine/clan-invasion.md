@@ -1532,11 +1532,21 @@
 - [**Sai S-4X**](../../units/sai/sai_s-4x.md) *Fast Dogfighter (3048)* 
 - [**Sai S-4**](../../units/sai/sai_s-4.md) *Fast Dogfighter (3061)* 
 
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-63**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63.md) *Fast Dogfighter (2680)* 
+
 ### 50 Tons 
 
 #### [Corsair](../../units/corsair.md) 
 
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
+
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-213B**](../../units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
 
 #### [Samurai](../../units/samurai.md) 
 
@@ -1566,6 +1576,12 @@
 - [**Shilone SL-17AC**](../../units/shilone/shilone_sl-17ac.md) *Dogfighter (2935)* 
 - [**Shilone SL-17R**](../../units/shilone/shilone_sl-17r.md) *Fire Support (3042)* 
 
+### 75 Tons 
+
+#### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
+
+- [**Hammerhead HMR-HD**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) *Fast Dogfighter (2571)* 
+
 ### 80 Tons 
 
 #### [Slayer](../../units/slayer.md) 
@@ -1577,6 +1593,11 @@
 - [**Slayer SL-15R**](../../units/slayer/slayer_sl-15r.md) *Dogfighter (3044)* 
 
 ### 90 Tons 
+
+#### [Ahab](../../units/ahab.md) 
+
+- [**Ahab AHB-X**](../../units/ahab/ahab_ahb-x.md) *Attack Fighter (2697)* 
+- [**Ahab AHB-443**](../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
 
 #### [Chippewa](../../units/chippewa.md) 
 

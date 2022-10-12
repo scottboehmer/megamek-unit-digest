@@ -654,6 +654,10 @@
 - [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
 - [**Seydlitz SYD-Z2**](../../units/seydlitz/seydlitz_syd-z2.md) *Interceptor (2765)* 
 
+#### [Trident](../../units/trident.md) 
+
+- [**Trident TRN-3U**](../../units/trident/trident_trn-3u.md) *Interceptor (2812)* 
+
 ### 25 Tons 
 
 #### [Cheetah](../../units/cheetah.md) 
@@ -665,6 +669,10 @@
 - [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
 
 ### 30 Tons 
+
+#### [Spad](../../units/spad.md) 
+
+- [**Spad SPD-502**](../../units/spad/spad_spd-502.md) *Fast Dogfighter (2749)* 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 

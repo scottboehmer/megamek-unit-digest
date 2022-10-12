@@ -983,12 +983,22 @@
 
 ## Fighters 
 
+### 20 Tons 
+
+#### [Trident](../../units/trident.md) 
+
+- [**Trident TRN-3T**](../../units/trident/trident_trn-3t.md) *Interceptor (2717)* 
+
 ### 25 Tons 
 
 #### [Cheetah](../../units/cheetah.md) 
 
 - [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
 - [**Cheetah F-11-R**](../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
+
+#### [Swift](../../units/swift.md) 
+
+- [**Swift SWF-606**](../../units/swift/swift_swf-606.md) *Interceptor (2682)* 
 
 #### [Thrush](../../units/thrush.md) 
 
@@ -1000,25 +1010,73 @@
 
 - [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
 
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+
+### 40 Tons 
+
+#### [Rogue](../../units/rogue.md) 
+
+- [**Rogue RGU-133E**](../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+- [**Rogue RGU-133F**](../../units/rogue/rogue_rgu-133f.md) *Fast Dogfighter (2639)* 
+- [**Rogue RGU-133L**](../../units/rogue/rogue_rgu-133l.md) *Fast Dogfighter (2681)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-43**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-43.md) *Fast Dogfighter (2646)* 
+- [**Tomahawk THK-53**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-53.md) *Fast Dogfighter (2650)* 
+- [**Tomahawk THK-63**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63.md) *Fast Dogfighter (2680)* 
+
 ### 50 Tons 
 
 #### [Corsair](../../units/corsair.md) 
 
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-214**](../../units/hellcat_ii/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
+
 ### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-100**](../../units/gotha/gotha_gtha-100.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-500**](../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
 
 #### [Stingray](../../units/stingray.md) 
 
 - [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
 
+### 65 Tons 
+
+#### [Ironsides](../../units/ironsides.md) 
+
+- [**Ironsides IRN-SD1**](../../units/ironsides/ironsides_irn-sd1.md) *Dogfighter (2613)* 
+- [**Ironsides IRN-SD2**](../../units/ironsides/ironsides_irn-sd2.md) *Dogfighter (2616)* 
+
 ### 75 Tons 
+
+#### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
+
+- [**Hammerhead HMR-HD**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) *Fast Dogfighter (2571)* 
+- [**Hammerhead HMR-HE**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-he.md) *Fire Support (2672)* 
 
 #### [Transgressor](../../units/transgressor.md) 
 
 - [**Transgressor TR-13**](../../units/transgressor/transgressor_tr-13.md) *Dogfighter (2890)* 
 
 ### 90 Tons 
+
+#### [Ahab](../../units/ahab.md) 
+
+- [**Ahab AHB-X**](../../units/ahab/ahab_ahb-x.md) *Attack Fighter (2697)* 
+- [**Ahab AHB-443**](../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
 
 #### [Chippewa](../../units/chippewa.md) 
 

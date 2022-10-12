@@ -508,3 +508,29 @@
 - [**Storm Giant (Standard)**](../../units/storm_giant/storm_giant_standard.md) *Missile Boat (2862)* 
 - [**Storm Giant 2**](../../units/storm_giant/storm_giant_2.md) *Missile Boat (2862)* 
 
+## Fighters 
+
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-63**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63.md) *Fast Dogfighter (2680)* 
+
+### 50 Tons 
+
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-214**](../../units/hellcat_ii/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
+
+### 65 Tons 
+
+#### [Ironsides](../../units/ironsides.md) 
+
+- [**Ironsides IRN-SD2**](../../units/ironsides/ironsides_irn-sd2.md) *Dogfighter (2616)* 
+

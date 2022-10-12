@@ -1287,11 +1287,23 @@
 - [**Cheetah F-14-S**](../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
 - [**Cheetah F-13**](../../units/cheetah/cheetah_f-13.md) *Interceptor (3069)* 
 
+#### [Swift](../../units/swift.md) 
+
+- [**Swift C**](../../units/swift/swift_c.md) *Interceptor (2834)* 
+
 ### 40 Tons 
 
 #### [Sai](../../units/sai.md) 
 
 - [**Sai S-4C**](../../units/sai/sai_s-4c.md) *Fast Dogfighter (3052)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk 'C'**](../../units/tomahawk_aerospace_fighter/tomahawk_c.md) *Fast Dogfighter (2833)* 
+- [**Tomahawk CH**](../../units/tomahawk_aerospace_fighter/tomahawk_ch.md) *Fast Dogfighter (3064)* 
+- [**Tomahawk THK-63CS**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63cs.md) *Fire Support (3069)* 
 
 ### 60 Tons 
 

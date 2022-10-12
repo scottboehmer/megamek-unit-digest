@@ -926,3 +926,16 @@
 - [**Seydlitz SYD-Z2B**](../../units/seydlitz/seydlitz_syd-z2b.md) *Interceptor (3062)* 
 - [**Seydlitz SYD-Z3A**](../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
 
+### 25 Tons 
+
+#### [Swift](../../units/swift.md) 
+
+- [**Swift C**](../../units/swift/swift_c.md) *Interceptor (2834)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk 'C'**](../../units/tomahawk_aerospace_fighter/tomahawk_c.md) *Fast Dogfighter (2833)* 
+- [**Tomahawk CH**](../../units/tomahawk_aerospace_fighter/tomahawk_ch.md) *Fast Dogfighter (3064)* 
+

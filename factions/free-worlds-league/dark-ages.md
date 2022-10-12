@@ -2309,6 +2309,10 @@
 
 ### 60 Tons 
 
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-600**](../../units/gotha/gotha_gtha-600.md) *Dogfighter (3067)* 
+
 #### [Stingray](../../units/stingray.md) 
 
 - [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 

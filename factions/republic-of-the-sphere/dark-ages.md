@@ -3496,6 +3496,10 @@
 
 - [**Sholagar SL-22**](../../units/sholagar/sholagar_sl-22.md) *Interceptor (3070)* 
 
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-115**](../../units/zero/zero_zro-115.md) *Dogfighter (3055)* 
+
 ### 40 Tons 
 
 #### [Sai](../../units/sai.md) 
@@ -3505,6 +3509,12 @@
 - [**Sai S-7**](../../units/sai/sai_s-7.md) *Fast Dogfighter (3065)* 
 - [**Sai S-8**](../../units/sai/sai_s-8.md) *Fast Dogfighter (3069)* 
 
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-63CS**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63cs.md) *Fire Support (3069)* 
+
 ### 50 Tons 
 
 #### [Corsair](../../units/corsair.md) 
@@ -3512,11 +3522,19 @@
 - [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
 - [**Corsair CSR-V18**](../../units/corsair/corsair_csr-v18.md) *Fire Support (3069)* 
 
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-215**](../../units/hellcat_ii/hellcat_ii_hct-215.md) *Fire Support (3070)* `Active Probe` 
+
 #### [Samurai](../../units/samurai.md) 
 
 - [**Samurai SL-27**](../../units/samurai/samurai_sl-27.md) *Fast Dogfighter (3068)* 
 
 ### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-600**](../../units/gotha/gotha_gtha-600.md) *Dogfighter (3067)* 
 
 #### [Stingray](../../units/stingray.md) 
 
@@ -3529,11 +3547,23 @@
 
 - [**Shilone SL-18**](../../units/shilone/shilone_sl-18.md) *Dogfighter (3068)* 
 
+### 75 Tons 
+
+#### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
+
+- [**Hammerhead HMR-HE**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-he.md) *Fire Support (2672)* 
+
 ### 80 Tons 
 
 #### [Slayer](../../units/slayer.md) 
 
 - [**Slayer SL-15K**](../../units/slayer/slayer_sl-15k.md) *Dogfighter (3066)* 
+
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-300**](../../units/rapier/rapier_rpr-300.md) *Dogfighter (3074)* 
 
 ### 100 Tons 
 

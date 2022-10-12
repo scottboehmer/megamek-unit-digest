@@ -1969,6 +1969,12 @@
 
 - [**Lucifer LCF-R16**](../../units/lucifer/lucifer_lcf-r16.md) *Attack Fighter (3052)* 
 
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-300**](../../units/rapier/rapier_rpr-300.md) *Dogfighter (3074)* 
+
 ### 90 Tons 
 
 #### [Chippewa](../../units/chippewa.md) 

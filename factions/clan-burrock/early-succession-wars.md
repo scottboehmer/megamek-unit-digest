@@ -533,3 +533,23 @@
 
 - [**Thunder Hawk TDK-7X**](../../units/thunder_hawk/thunder_hawk_tdk-7x.md) *Sniper (2771)* 
 
+## Fighters 
+
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-63**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63.md) *Fast Dogfighter (2680)* 
+
+### 50 Tons 
+
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-214**](../../units/hellcat_ii/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
+

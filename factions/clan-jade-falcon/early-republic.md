@@ -1104,3 +1104,18 @@
 
 - [**Scylla 3**](../../units/scylla/scylla_3.md) *Brawler (3082)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Swift](../../units/swift.md) 
+
+- [**Swift C**](../../units/swift/swift_c.md) *Interceptor (2834)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk 'C'**](../../units/tomahawk_aerospace_fighter/tomahawk_c.md) *Fast Dogfighter (2833)* 
+- [**Tomahawk CH**](../../units/tomahawk_aerospace_fighter/tomahawk_ch.md) *Fast Dogfighter (3064)* 
+

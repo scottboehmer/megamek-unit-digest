@@ -1929,6 +1929,11 @@
 
 ### 60 Tons 
 
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-500**](../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-400**](../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
+
 #### [Stingray](../../units/stingray.md) 
 
 - [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
@@ -1968,6 +1973,12 @@
 - [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
 - [**Slayer SL-15B**](../../units/slayer/slayer_sl-15b.md) *Dogfighter (2872)* 
 - [**Slayer SL-15R**](../../units/slayer/slayer_sl-15r.md) *Dogfighter (3044)* 
+
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-100**](../../units/rapier/rapier_rpr-100.md) *Dogfighter (2596)* 
 
 ### 90 Tons 
 

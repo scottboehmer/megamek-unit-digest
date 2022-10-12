@@ -2304,6 +2304,12 @@
 - [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
 - [**Thrush TR-7p**](../../units/thrush/thrush_tr-7p.md) *Interceptor (3059)* 
 
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-63CS**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63cs.md) *Fire Support (3069)* 
+
 ### 50 Tons 
 
 #### [Transit](../../units/transit.md) 
@@ -2311,6 +2317,10 @@
 - [**Transit TR-11**](../../units/transit/transit_tr-11.md) *Dogfighter (2933)* 
 
 ### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-600**](../../units/gotha/gotha_gtha-600.md) *Dogfighter (3067)* 
 
 #### [Stingray](../../units/stingray.md) 
 

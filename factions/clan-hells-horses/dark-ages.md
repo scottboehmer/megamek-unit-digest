@@ -1448,3 +1448,18 @@
 - [**Tomahawk II B**](../../units/tomahawk_ii/tomahawk_ii_b.md) *Sniper (3088)* 
 - [**Tomahawk II C**](../../units/tomahawk_ii/tomahawk_ii_c.md) *Missile Boat (3088)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Swift](../../units/swift.md) 
+
+- [**Swift C**](../../units/swift/swift_c.md) *Interceptor (2834)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk 'C'**](../../units/tomahawk_aerospace_fighter/tomahawk_c.md) *Fast Dogfighter (2833)* 
+- [**Tomahawk CH**](../../units/tomahawk_aerospace_fighter/tomahawk_ch.md) *Fast Dogfighter (3064)* 
+

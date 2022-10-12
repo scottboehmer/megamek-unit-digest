@@ -596,11 +596,29 @@
 
 ## Fighters 
 
+### 20 Tons 
+
+#### [Trident](../../units/trident.md) 
+
+- [**Trident TRN-3U**](../../units/trident/trident_trn-3u.md) *Interceptor (2812)* 
+
 ### 30 Tons 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
 - [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+
+### 40 Tons 
+
+#### [Rogue](../../units/rogue.md) 
+
+- [**Rogue RGU-133E**](../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+
+### 75 Tons 
+
+#### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
+
+- [**Hammerhead HMR-HD**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) *Fast Dogfighter (2571)* 
 
 ### 90 Tons 
 

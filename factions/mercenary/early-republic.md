@@ -2817,6 +2817,12 @@
 - [**Sholagar SL-21L**](../../units/sholagar/sholagar_sl-21l.md) *Interceptor (2911)* 
 - [**Sholagar SL-22**](../../units/sholagar/sholagar_sl-22.md) *Interceptor (3070)* 
 
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-63**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63.md) *Fast Dogfighter (2680)* 
+
 ### 50 Tons 
 
 #### [Corsair](../../units/corsair.md) 
@@ -2826,6 +2832,11 @@
 - [**Corsair CSR-V18**](../../units/corsair/corsair_csr-v18.md) *Fire Support (3069)* 
 
 ### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-500**](../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-400**](../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
 
 #### [Stingray](../../units/stingray.md) 
 
@@ -2863,6 +2874,13 @@
 - [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
 - [**Slayer SL-15R**](../../units/slayer/slayer_sl-15r.md) *Dogfighter (3044)* 
 - [**Slayer SL-15K**](../../units/slayer/slayer_sl-15k.md) *Dogfighter (3066)* 
+
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-100**](../../units/rapier/rapier_rpr-100.md) *Dogfighter (2596)* 
+- [**Rapier RPR-300**](../../units/rapier/rapier_rpr-300.md) *Dogfighter (3074)* 
 
 ### 90 Tons 
 

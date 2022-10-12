@@ -1128,9 +1128,34 @@
 
 ## Fighters 
 
+### 25 Tons 
+
+#### [Swift](../../units/swift.md) 
+
+- [**Swift C**](../../units/swift/swift_c.md) *Interceptor (2834)* 
+
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+
 ### 40 Tons 
 
 #### [Sai](../../units/sai.md) 
 
 - [**Sai S-4C**](../../units/sai/sai_s-4c.md) *Fast Dogfighter (3052)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk 'C'**](../../units/tomahawk_aerospace_fighter/tomahawk_c.md) *Fast Dogfighter (2833)* 
+- [**Tomahawk CH**](../../units/tomahawk_aerospace_fighter/tomahawk_ch.md) *Fast Dogfighter (3064)* 
+
+### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-500**](../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
 

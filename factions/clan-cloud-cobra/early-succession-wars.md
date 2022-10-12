@@ -513,3 +513,43 @@
 
 - [**Pillager PLG-3Z**](../../units/pillager/pillager_plg-3z.md) *Juggernaut (2594)* 
 
+## Fighters 
+
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+
+### 40 Tons 
+
+#### [Rogue](../../units/rogue.md) 
+
+- [**Rogue RGU-133E**](../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+- [**Rogue RGU-133F**](../../units/rogue/rogue_rgu-133f.md) *Fast Dogfighter (2639)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-63**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63.md) *Fast Dogfighter (2680)* 
+
+### 50 Tons 
+
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-214**](../../units/hellcat_ii/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
+
+### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-100**](../../units/gotha/gotha_gtha-100.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-500**](../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-200**](../../units/rapier/rapier_rpr-200.md) *Fire Support (2761)* 
+

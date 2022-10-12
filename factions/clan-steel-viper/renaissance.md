@@ -581,3 +581,11 @@
 
 - [**Storm Giant 2**](../../units/storm_giant/storm_giant_2.md) *Missile Boat (2862)* 
 
+## Fighters 
+
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+

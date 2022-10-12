@@ -1060,3 +1060,24 @@
 - [**Stone Rhino 6**](../../units/stone_rhino/stone_rhino_6.md) *Brawler (2999)* 
 - [**Stone Rhino 7**](../../units/stone_rhino/stone_rhino_7.md) *Sniper (3001)* 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Swift](../../units/swift.md) 
+
+- [**Swift C**](../../units/swift/swift_c.md) *Interceptor (2834)* 
+
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk 'C'**](../../units/tomahawk_aerospace_fighter/tomahawk_c.md) *Fast Dogfighter (2833)* 
+- [**Tomahawk CH**](../../units/tomahawk_aerospace_fighter/tomahawk_ch.md) *Fast Dogfighter (3064)* 
+

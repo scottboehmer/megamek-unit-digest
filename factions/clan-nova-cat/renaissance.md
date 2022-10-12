@@ -597,3 +597,23 @@
 
 - [**Stone Rhino 6**](../../units/stone_rhino/stone_rhino_6.md) *Brawler (2999)* 
 
+## Fighters 
+
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+
+### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-500**](../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-200**](../../units/rapier/rapier_rpr-200.md) *Fire Support (2761)* 
+

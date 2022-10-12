@@ -2357,6 +2357,10 @@
 - [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
 - [**Corsair CSR-V18**](../../units/corsair/corsair_csr-v18.md) *Fire Support (3069)* 
 
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-212**](../../units/hellcat_ii/hellcat_ii_hct-212.md) *Fast Dogfighter (2838)* 
+
 ### 60 Tons 
 
 #### [Stingray](../../units/stingray.md) 

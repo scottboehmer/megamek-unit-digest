@@ -844,6 +844,10 @@
 - [**Seydlitz SYD-Z2**](../../units/seydlitz/seydlitz_syd-z2.md) *Interceptor (2765)* 
 - [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
 
+#### [Trident](../../units/trident.md) 
+
+- [**Trident TRN-3U**](../../units/trident/trident_trn-3u.md) *Interceptor (2812)* 
+
 ### 25 Tons 
 
 #### [Cheetah](../../units/cheetah.md) 
@@ -875,6 +879,10 @@
 - [**Corsair CSR-V20**](../../units/corsair/corsair_csr-v20.md) *Dogfighter (3010)* 
 
 ### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-400**](../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
 
 #### [Stingray](../../units/stingray.md) 
 

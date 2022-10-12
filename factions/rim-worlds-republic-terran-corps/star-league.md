@@ -544,6 +544,34 @@
 
 - [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
 
+#### [Swift](../../units/swift.md) 
+
+- [**Swift SWF-606**](../../units/swift/swift_swf-606.md) *Interceptor (2682)* 
+
+### 30 Tons 
+
+#### [Spad](../../units/spad.md) 
+
+- [**Spad SPD-502**](../../units/spad/spad_spd-502.md) *Fast Dogfighter (2749)* 
+
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+
+### 40 Tons 
+
+#### [Rogue](../../units/rogue.md) 
+
+- [**Rogue RGU-133F**](../../units/rogue/rogue_rgu-133f.md) *Fast Dogfighter (2639)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-33**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-33.md) *Fast Dogfighter (2642)* 
+
 ### 50 Tons 
 
 #### [Samurai](../../units/samurai.md) 
@@ -558,9 +586,20 @@
 
 ### 65 Tons 
 
+#### [Ironsides](../../units/ironsides.md) 
+
+- [**Ironsides IRN-SD1**](../../units/ironsides/ironsides_irn-sd1.md) *Dogfighter (2613)* 
+- [**Ironsides IRN-SD2**](../../units/ironsides/ironsides_irn-sd2.md) *Dogfighter (2616)* 
+
 #### [Lucifer](../../units/lucifer.md) 
 
 - [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+
+### 75 Tons 
+
+#### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
+
+- [**Hammerhead HMR-HE**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-he.md) *Fire Support (2672)* 
 
 ### 80 Tons 
 
@@ -568,7 +607,19 @@
 
 - [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
 
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-100**](../../units/rapier/rapier_rpr-100.md) *Dogfighter (2596)* 
+- [**Rapier RPR-101**](../../units/rapier/rapier_rpr-101.md) *Dogfighter (2635)* 
+
 ### 90 Tons 
+
+#### [Ahab](../../units/ahab.md) 
+
+- [**Ahab AHB-X**](../../units/ahab/ahab_ahb-x.md) *Attack Fighter (2697)* 
+- [**Ahab AHB-443**](../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
 
 #### [Chippewa](../../units/chippewa.md) 
 

@@ -1193,9 +1193,19 @@
 
 ### 25 Tons 
 
+#### [Swift](../../units/swift.md) 
+
+- [**Swift C**](../../units/swift/swift_c.md) *Interceptor (2834)* 
+
 #### [Thrush](../../units/thrush.md) 
 
 - [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
+
+### 30 Tons 
+
+#### [Spad](../../units/spad.md) 
+
+- [**Spad SPD-502**](../../units/spad/spad_spd-502.md) *Fast Dogfighter (2749)* 
 
 ### 50 Tons 
 
@@ -1203,7 +1213,23 @@
 
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-213B**](../../units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
+
 #### [Transit](../../units/transit.md) 
 
 - [**Transit TR-10**](../../units/transit/transit_tr-10.md) *Dogfighter (2932)* 
+
+### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-500**](../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+
+### 75 Tons 
+
+#### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
+
+- [**Hammerhead HMR-HD**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) *Fast Dogfighter (2571)* 
 

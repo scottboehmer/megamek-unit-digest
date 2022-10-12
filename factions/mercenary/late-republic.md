@@ -3060,6 +3060,13 @@
 - [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
 - [**Slayer SL-15K**](../../units/slayer/slayer_sl-15k.md) *Dogfighter (3066)* 
 
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-100**](../../units/rapier/rapier_rpr-100.md) *Dogfighter (2596)* 
+- [**Rapier RPR-300**](../../units/rapier/rapier_rpr-300.md) *Dogfighter (3074)* 
+
 ### 90 Tons 
 
 #### [Chippewa](../../units/chippewa.md) 

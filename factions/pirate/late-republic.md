@@ -1175,6 +1175,12 @@
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 - [**Corsair CSR-V20**](../../units/corsair/corsair_csr-v20.md) *Dogfighter (3010)* 
 
+### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-400**](../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
+
 ### 65 Tons 
 
 #### [Shilone](../../units/shilone.md) 

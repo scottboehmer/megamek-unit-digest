@@ -586,17 +586,57 @@
 
 - [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
 
+#### [Trident](../../units/trident.md) 
+
+- [**Trident TRN-3T**](../../units/trident/trident_trn-3t.md) *Interceptor (2717)* 
+
 ### 30 Tons 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
 - [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
 
+### 40 Tons 
+
+#### [Rogue](../../units/rogue.md) 
+
+- [**Rogue RGU-133E**](../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+- [**Rogue RGU-133F**](../../units/rogue/rogue_rgu-133f.md) *Fast Dogfighter (2639)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-43**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-43.md) *Fast Dogfighter (2646)* 
+- [**Tomahawk THK-53**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-53.md) *Fast Dogfighter (2650)* 
+- [**Tomahawk THK-63**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63.md) *Fast Dogfighter (2680)* 
+
+### 50 Tons 
+
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-213B**](../../units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
+- [**Hellcat II HCT-214**](../../units/hellcat_ii/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
+
+### 60 Tons 
+
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-100**](../../units/gotha/gotha_gtha-100.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-300**](../../units/gotha/gotha_gtha-300.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-500**](../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+
 ### 65 Tons 
 
 #### [Lucifer](../../units/lucifer.md) 
 
 - [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+
+### 75 Tons 
+
+#### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
+
+- [**Hammerhead HMR-HD**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) *Fast Dogfighter (2571)* 
 
 ### 80 Tons 
 

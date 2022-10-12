@@ -1153,6 +1153,10 @@
 
 ### 25 Tons 
 
+#### [Swift](../../units/swift.md) 
+
+- [**Swift C**](../../units/swift/swift_c.md) *Interceptor (2834)* 
+
 #### [Thrush](../../units/thrush.md) 
 
 - [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
@@ -1172,6 +1176,12 @@
 #### [Shilone](../../units/shilone.md) 
 
 - [**Shilone SL-17**](../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
+
+### 75 Tons 
+
+#### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
+
+- [**Hammerhead HMR-HD**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) *Fast Dogfighter (2571)* 
 
 ### 80 Tons 
 

@@ -951,3 +951,10 @@
 - [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
 - [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
 
+### 90 Tons 
+
+#### [Ahab](../../units/ahab.md) 
+
+- [**Ahab AHB-X**](../../units/ahab/ahab_ahb-x.md) *Attack Fighter (2697)* 
+- [**Ahab AHB-443**](../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
+

@@ -92,6 +92,54 @@ Transgressor TR-16 - The method or operation is not implemented.
 Transit TR-10 - The method or operation is not implemented.
 Transit TR-11 - The method or operation is not implemented.
 Transit TR-12 - The method or operation is not implemented.
+Swift C - The method or operation is not implemented.
+Tomahawk 'C' - The method or operation is not implemented.
+Tomahawk CH - The method or operation is not implemented.
+Ahab AHB-443 - The method or operation is not implemented.
+Ahab AHB-643 - The method or operation is not implemented.
+Ahab AHB-MD - The method or operation is not implemented.
+Ahab AHB-X - The method or operation is not implemented.
+Gotha GTHA-100 - The method or operation is not implemented.
+Gotha GTHA-300 - The method or operation is not implemented.
+Gotha GTHA-400 - The method or operation is not implemented.
+Gotha GTHA-500 - The method or operation is not implemented.
+Gotha GTHA-600 - The method or operation is not implemented.
+Hammerhead HMR-HD - The method or operation is not implemented.
+Hammerhead HMR-HE - The method or operation is not implemented.
+Hammerhead HMR-HF - The method or operation is not implemented.
+Hammerhead HMR-HG - The method or operation is not implemented.
+Hellcat II HCT-212 - The method or operation is not implemented.
+Hellcat II HCT-213B - The method or operation is not implemented.
+Hellcat II HCT-214 - The method or operation is not implemented.
+Hellcat II HCT-215 - The method or operation is not implemented.
+Ironsides IRN-SD1 - The method or operation is not implemented.
+Ironsides IRN-SD2 - The method or operation is not implemented.
+Ironsides IRN-SD3 - The method or operation is not implemented.
+Rapier RPR-100 - The method or operation is not implemented.
+Rapier RPR-101 - The method or operation is not implemented.
+Rapier RPR-102 - The method or operation is not implemented.
+Rapier RPR-200 - The method or operation is not implemented.
+Rapier RPR-300 - The method or operation is not implemented.
+Rogue RGU-133E - The method or operation is not implemented.
+Rogue RGU-133F - The method or operation is not implemented.
+Rogue RGU-133L - The method or operation is not implemented.
+Rogue RGU-133LP - The method or operation is not implemented.
+Rogue RGU-133P - The method or operation is not implemented.
+Spad SPD-502 - The method or operation is not implemented.
+Spad SPD-503 - The method or operation is not implemented.
+Spad SPD-504 - The method or operation is not implemented.
+Swift SWF-606 - The method or operation is not implemented.
+Swift SWF-606R - The method or operation is not implemented.
+Tomahawk THK-33 - The method or operation is not implemented.
+Tomahawk THK-43 - The method or operation is not implemented.
+Tomahawk THK-53 - The method or operation is not implemented.
+Tomahawk THK-63 - The method or operation is not implemented.
+Tomahawk THK-63CS - The method or operation is not implemented.
+Trident TRN-3T - The method or operation is not implemented.
+Trident TRN-3U - The method or operation is not implemented.
+Trident TRN-3V - The method or operation is not implemented.
+Zero ZRO-114 - The method or operation is not implemented.
+Zero ZRO-115 - The method or operation is not implemented.
 
 --------------------------------------------------
 Units without Roles:
@@ -384,4 +432,4 @@ Tornado PA(L) G17(Sqd5)
 Tortoise II (aSRM)(Sqd5)
 
 --------------------------------------------------
-6488 files -> 6488 parsed files (0 skipped) -> 6268 converted files -> 6258 validated units
+6536 files -> 6536 parsed files (0 skipped) -> 6316 converted files -> 6307 validated units

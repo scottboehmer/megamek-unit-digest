@@ -1780,6 +1780,10 @@
 - [**Corsair CSR-V20**](../../units/corsair/corsair_csr-v20.md) *Dogfighter (3010)* 
 - [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
 
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-212**](../../units/hellcat_ii/hellcat_ii_hct-212.md) *Fast Dogfighter (2838)* 
+
 ### 60 Tons 
 
 #### [Stingray](../../units/stingray.md) 
@@ -1803,6 +1807,13 @@
 
 - [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
 - [**Slayer SL-15R**](../../units/slayer/slayer_sl-15r.md) *Dogfighter (3044)* 
+
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-100**](../../units/rapier/rapier_rpr-100.md) *Dogfighter (2596)* 
+- [**Rapier RPR-102**](../../units/rapier/rapier_rpr-102.md) *Dogfighter (2842)* 
 
 ### 90 Tons 
 

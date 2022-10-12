@@ -131,6 +131,16 @@
 
 - [**Seydlitz SYD-Z2B**](../../units/seydlitz/seydlitz_syd-z2b.md) *Interceptor (3062)* 
 
+#### [Trident](../../units/trident.md) 
+
+- [**Trident TRN-3T**](../../units/trident/trident_trn-3t.md) *Interceptor (2717)* 
+
+### 30 Tons 
+
+#### [Spad](../../units/spad.md) 
+
+- [**Spad SPD-502**](../../units/spad/spad_spd-502.md) *Fast Dogfighter (2749)* 
+
 ### 65 Tons 
 
 #### [Shilone](../../units/shilone.md) 

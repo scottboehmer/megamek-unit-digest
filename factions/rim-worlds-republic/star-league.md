@@ -136,6 +136,12 @@
 
 - [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
 
+### 40 Tons 
+
+#### [Rogue](../../units/rogue.md) 
+
+- [**Rogue RGU-133F**](../../units/rogue/rogue_rgu-133f.md) *Fast Dogfighter (2639)* 
+
 ### 65 Tons 
 
 #### [Lucifer](../../units/lucifer.md) 

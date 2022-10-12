@@ -842,6 +842,10 @@
 
 ### 60 Tons 
 
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-400**](../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
+
 #### [Stingray](../../units/stingray.md) 
 
 - [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
@@ -854,6 +858,10 @@
 - [**Transgressor TR-14 'AC'**](../../units/transgressor/transgressor_tr-14_ac.md) *Dogfighter (2906)* 
 
 ### 90 Tons 
+
+#### [Ahab](../../units/ahab.md) 
+
+- [**Ahab AHB-X**](../../units/ahab/ahab_ahb-x.md) *Attack Fighter (2697)* 
 
 #### [Chippewa](../../units/chippewa.md) 
 

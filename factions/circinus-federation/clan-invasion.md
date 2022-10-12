@@ -783,6 +783,10 @@
 - [**Seydlitz SYD-Z2**](../../units/seydlitz/seydlitz_syd-z2.md) *Interceptor (2765)* 
 - [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
 
+#### [Trident](../../units/trident.md) 
+
+- [**Trident TRN-3U**](../../units/trident/trident_trn-3u.md) *Interceptor (2812)* 
+
 ### 25 Tons 
 
 #### [Cheetah](../../units/cheetah.md) 

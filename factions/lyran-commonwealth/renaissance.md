@@ -908,6 +908,10 @@
 - [**Seydlitz SYD-Z2**](../../units/seydlitz/seydlitz_syd-z2.md) *Interceptor (2765)* 
 - [**Seydlitz SYD-Z3**](../../units/seydlitz/seydlitz_syd-z3.md) *Interceptor (2894)* 
 
+#### [Trident](../../units/trident.md) 
+
+- [**Trident TRN-3U**](../../units/trident/trident_trn-3u.md) *Interceptor (2812)* 
+
 ### 25 Tons 
 
 #### [Cheetah](../../units/cheetah.md) 
@@ -926,12 +930,22 @@
 
 - [**Sholagar SL-21**](../../units/sholagar/sholagar_sl-21.md) *Interceptor (2803)* 
 
+### 40 Tons 
+
+#### [Rogue](../../units/rogue.md) 
+
+- [**Rogue RGU-133P**](../../units/rogue/rogue_rgu-133p.md) *Fire Support (2821)* 
+
 ### 50 Tons 
 
 #### [Corsair](../../units/corsair.md) 
 
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 - [**Corsair CSR-V20**](../../units/corsair/corsair_csr-v20.md) *Dogfighter (3010)* 
+
+#### [Hellcat II](../../units/hellcat_ii.md) 
+
+- [**Hellcat II HCT-212**](../../units/hellcat_ii/hellcat_ii_hct-212.md) *Fast Dogfighter (2838)* 
 
 ### 60 Tons 
 
@@ -952,6 +966,12 @@
 #### [Slayer](../../units/slayer.md) 
 
 - [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
+
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-102**](../../units/rapier/rapier_rpr-102.md) *Dogfighter (2842)* 
 
 ### 90 Tons 
 

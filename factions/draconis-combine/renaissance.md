@@ -983,6 +983,10 @@
 
 ### 90 Tons 
 
+#### [Ahab](../../units/ahab.md) 
+
+- [**Ahab AHB-X**](../../units/ahab/ahab_ahb-x.md) *Attack Fighter (2697)* 
+
 #### [Chippewa](../../units/chippewa.md) 
 
 - [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 

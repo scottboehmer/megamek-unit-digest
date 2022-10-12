@@ -729,6 +729,25 @@
 
 - [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
 
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+
+### 40 Tons 
+
+#### [Rogue](../../units/rogue.md) 
+
+- [**Rogue RGU-133E**](../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk THK-43**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-43.md) *Fast Dogfighter (2646)* 
+- [**Tomahawk THK-63**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63.md) *Fast Dogfighter (2680)* 
+
 ### 50 Tons 
 
 #### [Corsair](../../units/corsair.md) 
@@ -743,6 +762,10 @@
 
 ### 65 Tons 
 
+#### [Ironsides](../../units/ironsides.md) 
+
+- [**Ironsides IRN-SD1**](../../units/ironsides/ironsides_irn-sd1.md) *Dogfighter (2613)* 
+
 #### [Lucifer](../../units/lucifer.md) 
 
 - [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
@@ -752,6 +775,10 @@
 - [**Shilone SL-17**](../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
 
 ### 75 Tons 
+
+#### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
+
+- [**Hammerhead HMR-HD**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) *Fast Dogfighter (2571)* 
 
 #### [Transgressor](../../units/transgressor.md) 
 
@@ -764,6 +791,10 @@
 - [**Slayer SL-15B**](../../units/slayer/slayer_sl-15b.md) *Dogfighter (2872)* 
 
 ### 90 Tons 
+
+#### [Ahab](../../units/ahab.md) 
+
+- [**Ahab AHB-443**](../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
 
 #### [Chippewa](../../units/chippewa.md) 
 

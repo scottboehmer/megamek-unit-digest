@@ -583,3 +583,17 @@
 
 - [**Stone Rhino 7**](../../units/stone_rhino/stone_rhino_7.md) *Sniper (3001)* 
 
+## Fighters 
+
+### 35 Tons 
+
+#### [Zero](../../units/zero.md) 
+
+- [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
+
+### 85 Tons 
+
+#### [Rapier](../../units/rapier.md) 
+
+- [**Rapier RPR-200**](../../units/rapier/rapier_rpr-200.md) *Fire Support (2761)* 
+

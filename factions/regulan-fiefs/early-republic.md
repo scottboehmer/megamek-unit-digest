@@ -1771,6 +1771,10 @@
 
 ### 60 Tons 
 
+#### [Gotha](../../units/gotha.md) 
+
+- [**Gotha GTHA-400**](../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
+
 #### [Stingray](../../units/stingray.md) 
 
 - [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
