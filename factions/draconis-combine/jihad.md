@@ -2189,13 +2189,18 @@
 
 - [**Sholagar SL-21**](../../units/sholagar/sholagar_sl-21.md) *Interceptor (2803)* 
 - [**Sholagar SL-21L**](../../units/sholagar/sholagar_sl-21l.md) *Interceptor (2911)* 
+- [**Sholagar SL-22**](../../units/sholagar/sholagar_sl-22.md) *Interceptor (3070)* 
 
 ### 40 Tons 
 
 #### [Sai](../../units/sai.md) 
 
 - [**Sai S-3**](../../units/sai/sai_s-3.md) *Fast Dogfighter (3045)* 
+- [**Sai S-4X**](../../units/sai/sai_s-4x.md) *Fast Dogfighter (3048)* 
+- [**Sai S-4C**](../../units/sai/sai_s-4c.md) *Fast Dogfighter (3052)* 
+- [**Sai S-4**](../../units/sai/sai_s-4.md) *Fast Dogfighter (3061)* 
 - [**Sai S-7**](../../units/sai/sai_s-7.md) *Fast Dogfighter (3065)* 
+- [**Sai S-8**](../../units/sai/sai_s-8.md) *Fast Dogfighter (3069)* 
 
 ### 50 Tons 
 
@@ -2219,12 +2224,14 @@
 #### [Lucifer II](../../units/lucifer_ii.md) 
 
 - [**Lucifer II LCF-R16K**](../../units/lucifer_ii/lucifer_ii_lcf-r16k.md) *Dogfighter (2993)* 
+- [**Lucifer II LCF-R16KR**](../../units/lucifer_ii/lucifer_ii_lcf-r16kr.md) *Dogfighter (3051)* 
 
 #### [Shilone](../../units/shilone.md) 
 
 - [**Shilone SL-17**](../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
 - [**Shilone SL-17AC**](../../units/shilone/shilone_sl-17ac.md) *Dogfighter (2935)* 
 - [**Shilone SL-17R**](../../units/shilone/shilone_sl-17r.md) *Fire Support (3042)* 
+- [**Shilone SL-18**](../../units/shilone/shilone_sl-18.md) *Dogfighter (3068)* 
 
 ### 80 Tons 
 
@@ -2249,6 +2256,7 @@
 
 - [**Riever F-100**](../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
 - [**Riever F-100b**](../../units/riever/riever_f-100b.md) *Attack Fighter (2835)* 
+- [**Riever F-700b**](../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
 
 #### [Stuka](../../units/stuka.md) 
 

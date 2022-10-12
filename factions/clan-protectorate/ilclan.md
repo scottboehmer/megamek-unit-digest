@@ -1285,6 +1285,13 @@
 #### [Cheetah](../../units/cheetah.md) 
 
 - [**Cheetah F-14-S**](../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
+- [**Cheetah F-13**](../../units/cheetah/cheetah_f-13.md) *Interceptor (3069)* 
+
+### 40 Tons 
+
+#### [Sai](../../units/sai.md) 
+
+- [**Sai S-4C**](../../units/sai/sai_s-4c.md) *Fast Dogfighter (3052)* 
 
 ### 60 Tons 
 

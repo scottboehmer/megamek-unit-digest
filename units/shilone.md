@@ -5,7 +5,7 @@
 - **Role:** Fire Support 
 - **Tech Base:** Inner Sphere (2796) 
 - **Chassis:** 65 tons 
-- **Thrust:** 6 / 9, Fusion 
+- **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 184 
 - **Heat Sinks:** 20 (20) 
@@ -23,7 +23,7 @@
 - **Role:** Dogfighter 
 - **Tech Base:** Inner Sphere (2935) 
 - **Chassis:** 65 tons 
-- **Thrust:** 6 / 9, Fusion 
+- **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 184 
 - **Heat Sinks:** 19 (19) 
@@ -41,7 +41,7 @@
 - **Role:** Fire Support 
 - **Tech Base:** Inner Sphere (3042) 
 - **Chassis:** 65 tons 
-- **Thrust:** 6 / 9, Fusion 
+- **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 184 
 - **Heat Sinks:** 20 (20) 
@@ -53,4 +53,21 @@
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2925) 
 - **Battle Value:** Unknown 
 - [*More Info*](shilone/shilone_sl-17r.md) 
+
+## Shilone SL-18 
+
+- **Role:** Dogfighter 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 65 tons 
+- **Thrust:** 6 / 9, XL 
+- **Fuel:** 400 
+- **Armor:** 197 (Ferro Aluminum) 
+- **Heat Sinks:** 20 (20) 
+- **Weapons:** 
+  - ER Large Laser 
+  - MML 7 × 4 (ammo: 34 LRM, 28 SRM) 
+  - ER Medium Laser × 2 
+- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2926) 
+- **Battle Value:** Unknown 
+- [*More Info*](shilone/shilone_sl-18.md) 
 

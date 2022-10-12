@@ -5,7 +5,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (2803) 
 - **Chassis:** 35 tons 
-- **Thrust:** 10 / 15, Fusion 
+- **Thrust:** 10 / 15 
 - **Fuel:** 400 
 - **Armor:** 96 
 - **Heat Sinks:** 10 (10) 
@@ -21,7 +21,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (2911) 
 - **Chassis:** 35 tons 
-- **Thrust:** 10 / 15, Fusion 
+- **Thrust:** 10 / 15 
 - **Fuel:** 400 
 - **Armor:** 96 
 - **Heat Sinks:** 11 (11) 
@@ -30,4 +30,20 @@
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2936) 
 - **Battle Value:** Unknown 
 - [*More Info*](sholagar/sholagar_sl-21l.md) 
+
+## Sholagar SL-22 
+
+- **Role:** Interceptor 
+- **Tech Base:** Inner Sphere (3070) 
+- **Chassis:** 35 tons 
+- **Thrust:** 10 / 15, Light 
+- **Fuel:** 400 
+- **Armor:** 116 (Ferro Aluminum) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - MML 7 (ammo: 17 LRM, 14 SRM) 
+  - ER Medium Laser × 2 
+- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2937) 
+- **Battle Value:** Unknown 
+- [*More Info*](sholagar/sholagar_sl-22.md) 
 

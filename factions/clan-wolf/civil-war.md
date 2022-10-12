@@ -999,3 +999,11 @@
 - [**Tomahawk B**](../../units/tomahawk/tomahawk_b.md) *Juggernaut (3063)* 
 - [**Tomahawk C**](../../units/tomahawk/tomahawk_c.md) *Juggernaut (3063)* 
 
+## Fighters 
+
+### 40 Tons 
+
+#### [Sai](../../units/sai.md) 
+
+- [**Sai S-4C**](../../units/sai/sai_s-4c.md) *Fast Dogfighter (3052)* 
+

@@ -568,3 +568,9 @@
 
 - [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
 
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+

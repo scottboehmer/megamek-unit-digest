@@ -1008,3 +1008,11 @@
 - [**Atlas C 2**](../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
 - [**Atlas C 3**](../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 
+## Fighters 
+
+### 40 Tons 
+
+#### [Sai](../../units/sai.md) 
+
+- [**Sai S-4C**](../../units/sai/sai_s-4c.md) *Fast Dogfighter (3052)* 
+

@@ -2384,7 +2384,22 @@
 #### [Seydlitz](../../units/seydlitz.md) 
 
 - [**Seydlitz SYD-Z3**](../../units/seydlitz/seydlitz_syd-z3.md) *Interceptor (2894)* 
+- [**Seydlitz SYD-Z2A**](../../units/seydlitz/seydlitz_syd-z2a.md) *Interceptor (3050)* 
 - [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
+- [**Seydlitz SYD-Z3A**](../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
+- [**Seydlitz SYD-Z4**](../../units/seydlitz/seydlitz_syd-z4.md) *Interceptor (3065)* 
+
+### 30 Tons 
+
+#### [Sparrowhawk](../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-6D**](../../units/sparrowhawk/sparrowhawk_spr-6d.md) *Interceptor (3051)* 
+
+### 50 Tons 
+
+#### [Samurai](../../units/samurai.md) 
+
+- [**Samurai SL-27**](../../units/samurai/samurai_sl-27.md) *Fast Dogfighter (3068)* 
 
 ### 60 Tons 
 
@@ -2392,6 +2407,7 @@
 
 - [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
 - [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+- [**Stingray F-95**](../../units/stingray/stingray_f-95.md) *Fire Support (3069)* 
 
 ### 65 Tons 
 
@@ -2399,10 +2415,13 @@
 
 - [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
 - [**Lucifer LCF-R20**](../../units/lucifer/lucifer_lcf-r20.md) *Attack Fighter (2609)* 
+- [**Lucifer LCF-R16**](../../units/lucifer/lucifer_lcf-r16.md) *Attack Fighter (3052)* 
 
 ### 90 Tons 
 
 #### [Chippewa](../../units/chippewa.md) 
 
 - [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+- [**Chippewa CHP-W8**](../../units/chippewa/chippewa_chp-w8.md) *Attack Fighter (3068)* 
 

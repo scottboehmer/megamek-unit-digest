@@ -1715,6 +1715,12 @@
 
 - [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
 
+### 50 Tons 
+
+#### [Samurai](../../units/samurai.md) 
+
+- [**Samurai SL-27**](../../units/samurai/samurai_sl-27.md) *Fast Dogfighter (3068)* 
+
 ### 60 Tons 
 
 #### [Stingray](../../units/stingray.md) 
@@ -1722,4 +1728,10 @@
 - [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
 - [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
 - [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
 

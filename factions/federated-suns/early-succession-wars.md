@@ -1018,6 +1018,10 @@
 
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 
+#### [Samurai](../../units/samurai.md) 
+
+- [**Samurai SL-26**](../../units/samurai/samurai_sl-26.md) *Fast Dogfighter (2620)* 
+
 ### 60 Tons 
 
 #### [Stingray](../../units/stingray.md) 

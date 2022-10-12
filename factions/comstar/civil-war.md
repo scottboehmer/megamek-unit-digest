@@ -1522,3 +1522,9 @@
 - [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
 - [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
 
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+

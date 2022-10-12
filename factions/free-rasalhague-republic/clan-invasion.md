@@ -1246,6 +1246,7 @@
 
 #### [Seydlitz](../../units/seydlitz.md) 
 
+- [**Seydlitz SYD-Z2A**](../../units/seydlitz/seydlitz_syd-z2a.md) *Interceptor (3050)* 
 - [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
 
 ### 25 Tons 
@@ -1253,18 +1254,26 @@
 #### [Cheetah](../../units/cheetah.md) 
 
 - [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
+- [**Cheetah F-11**](../../units/cheetah/cheetah_f-11.md) *Interceptor (3051)* 
 
 ### 30 Tons 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
 - [**Sparrowhawk SPR-H5K**](../../units/sparrowhawk/sparrowhawk_spr-h5k.md) *Interceptor (3018)* 
+- [**Sparrowhawk SPR-6D**](../../units/sparrowhawk/sparrowhawk_spr-6d.md) *Interceptor (3051)* 
 
 ### 35 Tons 
 
 #### [Sholagar](../../units/sholagar.md) 
 
 - [**Sholagar SL-21L**](../../units/sholagar/sholagar_sl-21l.md) *Interceptor (2911)* 
+
+### 40 Tons 
+
+#### [Sai](../../units/sai.md) 
+
+- [**Sai S-4**](../../units/sai/sai_s-4.md) *Fast Dogfighter (3061)* 
 
 ### 50 Tons 
 
@@ -1293,6 +1302,7 @@
 #### [Lucifer II](../../units/lucifer_ii.md) 
 
 - [**Lucifer II LCF-R16K**](../../units/lucifer_ii/lucifer_ii_lcf-r16k.md) *Dogfighter (2993)* 
+- [**Lucifer II LCF-R16KR**](../../units/lucifer_ii/lucifer_ii_lcf-r16kr.md) *Dogfighter (3051)* 
 
 #### [Shilone](../../units/shilone.md) 
 
@@ -1315,6 +1325,7 @@
 #### [Chippewa](../../units/chippewa.md) 
 
 - [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
 
 ### 100 Tons 
 

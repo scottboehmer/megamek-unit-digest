@@ -2230,7 +2230,20 @@
 
 ## Fighters 
 
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-Z2A**](../../units/seydlitz/seydlitz_syd-z2a.md) *Interceptor (3050)* 
+- [**Seydlitz SYD-Z2B**](../../units/seydlitz/seydlitz_syd-z2b.md) *Interceptor (3062)* 
+- [**Seydlitz SYD-Z3A**](../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
+- [**Seydlitz SYD-Z4**](../../units/seydlitz/seydlitz_syd-z4.md) *Interceptor (3065)* 
+
 ### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah F-13**](../../units/cheetah/cheetah_f-13.md) *Interceptor (3069)* 
 
 #### [Thrush](../../units/thrush.md) 
 
@@ -2241,6 +2254,8 @@
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
 - [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+- [**Sparrowhawk SPR-6D**](../../units/sparrowhawk/sparrowhawk_spr-6d.md) *Interceptor (3051)* 
+- [**Sparrowhawk SPR-7D**](../../units/sparrowhawk/sparrowhawk_spr-7d.md) *Interceptor (3062)* 
 
 ### 50 Tons 
 
@@ -2249,12 +2264,19 @@
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 - [**Corsair CSR-V20**](../../units/corsair/corsair_csr-v20.md) *Dogfighter (3010)* 
 - [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
+- [**Corsair CSR-V18**](../../units/corsair/corsair_csr-v18.md) *Fire Support (3069)* 
 
 ### 60 Tons 
 
 #### [Stingray](../../units/stingray.md) 
 
 - [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
 
 ### 100 Tons 
 

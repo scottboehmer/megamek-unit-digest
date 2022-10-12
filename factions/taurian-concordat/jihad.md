@@ -1213,6 +1213,7 @@
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
 - [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+- [**Sparrowhawk SPR-6D**](../../units/sparrowhawk/sparrowhawk_spr-6d.md) *Interceptor (3051)* 
 
 ### 35 Tons 
 
@@ -1255,6 +1256,7 @@
 
 - [**Transgressor TR-13**](../../units/transgressor/transgressor_tr-13.md) *Dogfighter (2890)* 
 - [**Transgressor TR-13A**](../../units/transgressor/transgressor_tr-13a.md) *Dogfighter (3052)* 
+- [**Transgressor TR-16**](../../units/transgressor/transgressor_tr-16.md) *Fire Support (3058)* 
 
 ### 80 Tons 
 
@@ -1269,6 +1271,7 @@
 
 - [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
 - [**Chippewa CHP-W10**](../../units/chippewa/chippewa_chp-w10.md) *Attack Fighter (2953)* 
+- [**Chippewa CHP-W7T**](../../units/chippewa/chippewa_chp-w7t.md) *Attack Fighter (3069)* 
 
 ### 100 Tons 
 

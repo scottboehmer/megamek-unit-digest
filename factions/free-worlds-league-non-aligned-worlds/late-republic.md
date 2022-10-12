@@ -1499,6 +1499,7 @@
 - [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
 - [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
 - [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+- [**Stingray F-95**](../../units/stingray/stingray_f-95.md) *Fire Support (3069)* 
 
 ### 75 Tons 
 
@@ -1512,4 +1513,5 @@
 
 - [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
 - [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+- [**Riever F-700b**](../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
 

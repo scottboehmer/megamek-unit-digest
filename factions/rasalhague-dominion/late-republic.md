@@ -1294,6 +1294,18 @@
 
 ## Fighters 
 
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-Z3A**](../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
+
+### 35 Tons 
+
+#### [Sholagar](../../units/sholagar.md) 
+
+- [**Sholagar SL-22**](../../units/sholagar/sholagar_sl-22.md) *Interceptor (3070)* 
+
 ### 65 Tons 
 
 #### [Shilone](../../units/shilone.md) 
@@ -1306,4 +1318,10 @@
 
 - [**Slayer SL-15R**](../../units/slayer/slayer_sl-15r.md) *Dogfighter (3044)* 
 - [**Slayer SL-15K**](../../units/slayer/slayer_sl-15k.md) *Dogfighter (3066)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../units/chippewa.md) 
+
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
 

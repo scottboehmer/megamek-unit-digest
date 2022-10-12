@@ -5,7 +5,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (2520) 
 - **Chassis:** 30 tons 
-- **Thrust:** 10 / 15, Fusion 
+- **Thrust:** 10 / 15 
 - **Fuel:** 400 
 - **Armor:** 120 
 - **Heat Sinks:** 10 (10) 
@@ -21,7 +21,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (2906) 
 - **Chassis:** 30 tons 
-- **Thrust:** 10 / 15, Fusion 
+- **Thrust:** 10 / 15 
 - **Fuel:** 400 
 - **Armor:** 128 
 - **Heat Sinks:** 10 (10) 
@@ -37,7 +37,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (3018) 
 - **Chassis:** 30 tons 
-- **Thrust:** 10 / 15, Fusion 
+- **Thrust:** 10 / 15 
 - **Fuel:** 400 
 - **Armor:** 120 
 - **Heat Sinks:** 10 (10) 
@@ -46,4 +46,36 @@
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2993) 
 - **Battle Value:** Unknown 
 - [*More Info*](sparrowhawk/sparrowhawk_spr-h5k.md) 
+
+## Sparrowhawk SPR-6D 
+
+- **Role:** Interceptor 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 30 tons 
+- **Thrust:** 10 / 15, XL 
+- **Fuel:** 560 
+- **Armor:** 143 (Ferro Aluminum) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+  - Small Pulse Laser × 2 
+- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2989) 
+- **Battle Value:** Unknown 
+- [*More Info*](sparrowhawk/sparrowhawk_spr-6d.md) 
+
+## Sparrowhawk SPR-7D 
+
+- **Role:** Interceptor 
+- **Tech Base:** Inner Sphere (3062) 
+- **Chassis:** 30 tons 
+- **Thrust:** 10 / 15, XL 
+- **Fuel:** 560 
+- **Armor:** 143 (Ferro Aluminum) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - Medium Pulse Laser × 2 
+- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2990) 
+- **Battle Value:** Unknown 
+- [*More Info*](sparrowhawk/sparrowhawk_spr-7d.md) 
 

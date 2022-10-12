@@ -590,6 +590,7 @@
 #### [Chippewa](../../units/chippewa.md) 
 
 - [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
 
 ### 100 Tons 
 

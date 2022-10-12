@@ -5,7 +5,7 @@
 - **Role:** Attack Fighter 
 - **Tech Base:** Inner Sphere (2815) 
 - **Chassis:** 100 tons 
-- **Thrust:** 5 / 8, Fusion 
+- **Thrust:** 5 / 8 
 - **Fuel:** 400 
 - **Armor:** 256 
 - **Heat Sinks:** 28 (28) 
@@ -22,7 +22,7 @@
 - **Role:** Attack Fighter 
 - **Tech Base:** Inner Sphere (2829) 
 - **Chassis:** 100 tons 
-- **Thrust:** 5 / 8, Fusion 
+- **Thrust:** 5 / 8 
 - **Fuel:** 400 
 - **Armor:** 256 
 - **Heat Sinks:** 28 (28) 
@@ -38,7 +38,7 @@
 - **Role:** Attack Fighter 
 - **Tech Base:** Inner Sphere (2835) 
 - **Chassis:** 100 tons 
-- **Thrust:** 5 / 8, Fusion 
+- **Thrust:** 5 / 8 
 - **Fuel:** 400 
 - **Armor:** 224 
 - **Heat Sinks:** 28 (28) 
@@ -82,4 +82,21 @@
 - **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2691) 
 - **Battle Value:** Unknown 
 - [*More Info*](riever/riever_f-700a.md) 
+
+## Riever F-700b 
+
+- **Role:** Attack Fighter 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 100 tons 
+- **Thrust:** 5 / 8, XL 
+- **Fuel:** 400 
+- **Armor:** 295 (Ferro Aluminum) 
+- **Heat Sinks:** 19 (19) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 20) 
+  - LRM 10 (ammo: 24) 
+  - Streak SRM 6 × 6 (ammo: 60) 
+- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2692) 
+- **Battle Value:** Unknown 
+- [*More Info*](riever/riever_f-700b.md) 
 

@@ -943,6 +943,7 @@
 #### [Sai](../../units/sai.md) 
 
 - [**Sai S-3**](../../units/sai/sai_s-3.md) *Fast Dogfighter (3045)* 
+- [**Sai S-4X**](../../units/sai/sai_s-4x.md) *Fast Dogfighter (3048)* 
 
 ### 50 Tons 
 

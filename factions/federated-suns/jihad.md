@@ -2318,6 +2318,7 @@
 - [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
 - [**Seydlitz SYD-Z2**](../../units/seydlitz/seydlitz_syd-z2.md) *Interceptor (2765)* 
 - [**Seydlitz SYD-Z3**](../../units/seydlitz/seydlitz_syd-z3.md) *Interceptor (2894)* 
+- [**Seydlitz SYD-Z2A**](../../units/seydlitz/seydlitz_syd-z2a.md) *Interceptor (3050)* 
 - [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
 
 ### 25 Tons 
@@ -2332,12 +2333,20 @@
 
 - [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
 - [**Sparrowhawk SPR-8H**](../../units/sparrowhawk/sparrowhawk_spr-8h.md) *Interceptor (2906)* 
+- [**Sparrowhawk SPR-6D**](../../units/sparrowhawk/sparrowhawk_spr-6d.md) *Interceptor (3051)* 
+- [**Sparrowhawk SPR-7D**](../../units/sparrowhawk/sparrowhawk_spr-7d.md) *Interceptor (3062)* 
 
 ### 35 Tons 
 
 #### [Sholagar](../../units/sholagar.md) 
 
 - [**Sholagar SL-21L**](../../units/sholagar/sholagar_sl-21l.md) *Interceptor (2911)* 
+
+### 40 Tons 
+
+#### [Sai](../../units/sai.md) 
+
+- [**Sai S-4**](../../units/sai/sai_s-4.md) *Fast Dogfighter (3061)* 
 
 ### 50 Tons 
 
@@ -2346,6 +2355,7 @@
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 - [**Corsair CSR-V20**](../../units/corsair/corsair_csr-v20.md) *Dogfighter (3010)* 
 - [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
+- [**Corsair CSR-V18**](../../units/corsair/corsair_csr-v18.md) *Fire Support (3069)* 
 
 ### 60 Tons 
 
@@ -2361,6 +2371,7 @@
 
 - [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
 - [**Lucifer LCF-R20**](../../units/lucifer/lucifer_lcf-r20.md) *Attack Fighter (2609)* 
+- [**Lucifer LCF-R16**](../../units/lucifer/lucifer_lcf-r16.md) *Attack Fighter (3052)* 
 
 ### 80 Tons 
 
@@ -2372,6 +2383,7 @@
 
 #### [Chippewa](../../units/chippewa.md) 
 
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
 - [**Chippewa CHP-W10**](../../units/chippewa/chippewa_chp-w10.md) *Attack Fighter (2953)* 
 
 ### 100 Tons 

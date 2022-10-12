@@ -2380,6 +2380,12 @@
 
 - [**Cheetah F-12-S**](../../units/cheetah/cheetah_f-12-s.md) *Interceptor (2868)* 
 
+### 50 Tons 
+
+#### [Samurai](../../units/samurai.md) 
+
+- [**Samurai SL-27**](../../units/samurai/samurai_sl-27.md) *Fast Dogfighter (3068)* 
+
 ### 60 Tons 
 
 #### [Stingray](../../units/stingray.md) 
@@ -2393,4 +2399,5 @@
 
 - [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
 - [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+- [**Riever F-700b**](../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
 

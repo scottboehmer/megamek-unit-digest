@@ -1824,6 +1824,9 @@
 #### [Sai](../../units/sai.md) 
 
 - [**Sai S-3**](../../units/sai/sai_s-3.md) *Fast Dogfighter (3045)* 
+- [**Sai S-4X**](../../units/sai/sai_s-4x.md) *Fast Dogfighter (3048)* 
+- [**Sai S-4C**](../../units/sai/sai_s-4c.md) *Fast Dogfighter (3052)* 
+- [**Sai S-4**](../../units/sai/sai_s-4.md) *Fast Dogfighter (3061)* 
 - [**Sai S-7**](../../units/sai/sai_s-7.md) *Fast Dogfighter (3065)* 
 
 ### 50 Tons 
@@ -1848,6 +1851,7 @@
 #### [Lucifer II](../../units/lucifer_ii.md) 
 
 - [**Lucifer II LCF-R16K**](../../units/lucifer_ii/lucifer_ii_lcf-r16k.md) *Dogfighter (2993)* 
+- [**Lucifer II LCF-R16KR**](../../units/lucifer_ii/lucifer_ii_lcf-r16kr.md) *Dogfighter (3051)* 
 
 #### [Shilone](../../units/shilone.md) 
 

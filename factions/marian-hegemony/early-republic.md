@@ -1284,6 +1284,7 @@
 - [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
 - [**Seydlitz SYD-Z2**](../../units/seydlitz/seydlitz_syd-z2.md) *Interceptor (2765)* 
 - [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
+- [**Seydlitz SYD-Z4**](../../units/seydlitz/seydlitz_syd-z4.md) *Interceptor (3065)* 
 
 ### 25 Tons 
 
@@ -1291,6 +1292,7 @@
 
 - [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
 - [**Cheetah F-11-R**](../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
+- [**Cheetah F-11**](../../units/cheetah/cheetah_f-11.md) *Interceptor (3051)* 
 - [**Cheetah F-14-S**](../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
 - [**Cheetah F-11-RR**](../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
 
@@ -1305,6 +1307,7 @@
 
 - [**Sholagar SL-21**](../../units/sholagar/sholagar_sl-21.md) *Interceptor (2803)* 
 - [**Sholagar SL-21L**](../../units/sholagar/sholagar_sl-21l.md) *Interceptor (2911)* 
+- [**Sholagar SL-22**](../../units/sholagar/sholagar_sl-22.md) *Interceptor (3070)* 
 
 ### 50 Tons 
 
@@ -1326,6 +1329,7 @@
 #### [Lucifer](../../units/lucifer.md) 
 
 - [**Lucifer LCF-R15**](../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+- [**Lucifer LCF-R16**](../../units/lucifer/lucifer_lcf-r16.md) *Attack Fighter (3052)* 
 
 #### [Shilone](../../units/shilone.md) 
 

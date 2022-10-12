@@ -1076,5 +1076,6 @@
 
 #### [Sai](../../units/sai.md) 
 
+- [**Sai S-4C**](../../units/sai/sai_s-4c.md) *Fast Dogfighter (3052)* 
 - [**Sai S-7**](../../units/sai/sai_s-7.md) *Fast Dogfighter (3065)* 
 

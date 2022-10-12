@@ -3347,15 +3347,21 @@
 #### [Seydlitz](../../units/seydlitz.md) 
 
 - [**Seydlitz SYD-21**](../../units/seydlitz/seydlitz_syd-21.md) *Interceptor (2504)* 
+- [**Seydlitz SYD-Z2A**](../../units/seydlitz/seydlitz_syd-z2a.md) *Interceptor (3050)* 
 - [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
+- [**Seydlitz SYD-Z2B**](../../units/seydlitz/seydlitz_syd-z2b.md) *Interceptor (3062)* 
+- [**Seydlitz SYD-Z3A**](../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
+- [**Seydlitz SYD-Z4**](../../units/seydlitz/seydlitz_syd-z4.md) *Interceptor (3065)* 
 
 ### 25 Tons 
 
 #### [Cheetah](../../units/cheetah.md) 
 
 - [**Cheetah F-11-R**](../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
+- [**Cheetah F-11**](../../units/cheetah/cheetah_f-11.md) *Interceptor (3051)* 
 - [**Cheetah F-14-S**](../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
 - [**Cheetah F-11-RR**](../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
+- [**Cheetah F-13**](../../units/cheetah/cheetah_f-13.md) *Interceptor (3069)* 
 
 #### [Thrush](../../units/thrush.md) 
 
@@ -3368,6 +3374,8 @@
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
 - [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
+- [**Sparrowhawk SPR-6D**](../../units/sparrowhawk/sparrowhawk_spr-6d.md) *Interceptor (3051)* 
+- [**Sparrowhawk SPR-7D**](../../units/sparrowhawk/sparrowhawk_spr-7d.md) *Interceptor (3062)* 
 
 ### 35 Tons 
 
@@ -3375,6 +3383,7 @@
 
 - [**Sholagar SL-21**](../../units/sholagar/sholagar_sl-21.md) *Interceptor (2803)* 
 - [**Sholagar SL-21L**](../../units/sholagar/sholagar_sl-21l.md) *Interceptor (2911)* 
+- [**Sholagar SL-22**](../../units/sholagar/sholagar_sl-22.md) *Interceptor (3070)* 
 
 ### 50 Tons 
 
@@ -3382,6 +3391,7 @@
 
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 - [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
+- [**Corsair CSR-V18**](../../units/corsair/corsair_csr-v18.md) *Fire Support (3069)* 
 
 ### 60 Tons 
 
@@ -3390,13 +3400,19 @@
 - [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
 - [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
 - [**Stingray F-94**](../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+- [**Stingray F-95**](../../units/stingray/stingray_f-95.md) *Fire Support (3069)* 
 
 ### 65 Tons 
+
+#### [Lucifer](../../units/lucifer.md) 
+
+- [**Lucifer LCF-R16**](../../units/lucifer/lucifer_lcf-r16.md) *Attack Fighter (3052)* 
 
 #### [Shilone](../../units/shilone.md) 
 
 - [**Shilone SL-17**](../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
 - [**Shilone SL-17R**](../../units/shilone/shilone_sl-17r.md) *Fire Support (3042)* 
+- [**Shilone SL-18**](../../units/shilone/shilone_sl-18.md) *Dogfighter (3068)* 
 
 ### 75 Tons 
 
@@ -3404,6 +3420,7 @@
 
 - [**Transgressor TR-13**](../../units/transgressor/transgressor_tr-13.md) *Dogfighter (2890)* 
 - [**Transgressor TR-13A**](../../units/transgressor/transgressor_tr-13a.md) *Dogfighter (3052)* 
+- [**Transgressor TR-16**](../../units/transgressor/transgressor_tr-16.md) *Fire Support (3058)* 
 
 ### 80 Tons 
 
@@ -3417,6 +3434,7 @@
 #### [Chippewa](../../units/chippewa.md) 
 
 - [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
 
 ### 100 Tons 
 
@@ -3424,6 +3442,7 @@
 
 - [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
 - [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+- [**Riever F-700b**](../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
 
 #### [Stuka](../../units/stuka.md) 
 

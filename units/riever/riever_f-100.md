@@ -7,7 +7,7 @@
 - **Role:** Attack Fighter 
 - **Tech Base:** Inner Sphere (2815) 
 - **Chassis:** 100 tons 
-- **Thrust:** 5 / 8, Fusion 
+- **Thrust:** 5 / 8 
 - **Fuel:** 400 
 - **Armor:** 256 
 - **Heat Sinks:** 28 (28) 

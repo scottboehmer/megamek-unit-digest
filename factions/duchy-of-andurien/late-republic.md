@@ -1784,6 +1784,7 @@
 #### [Cheetah](../../units/cheetah.md) 
 
 - [**Cheetah F-11-R**](../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
+- [**Cheetah F-11**](../../units/cheetah/cheetah_f-11.md) *Interceptor (3051)* 
 - [**Cheetah F-14-S**](../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
 - [**Cheetah F-11-RR**](../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
 
@@ -1806,6 +1807,7 @@
 
 - [**Stingray F-90**](../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
 - [**Stingray F-92**](../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+- [**Stingray F-95**](../../units/stingray/stingray_f-95.md) *Fire Support (3069)* 
 
 ### 75 Tons 
 
@@ -1821,4 +1823,5 @@
 - [**Riever F-100a**](../../units/riever/riever_f-100a.md) *Attack Fighter (2829)* 
 - [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
 - [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+- [**Riever F-700b**](../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
 

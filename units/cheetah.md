@@ -5,7 +5,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (2630) 
 - **Chassis:** 25 tons 
-- **Thrust:** 12 / 18, Fusion 
+- **Thrust:** 12 / 18 
 - **Fuel:** 320 
 - **Armor:** 48 
 - **Heat Sinks:** 10 (10) 
@@ -21,7 +21,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (2802) 
 - **Chassis:** 25 tons 
-- **Thrust:** 12 / 18, Fusion 
+- **Thrust:** 12 / 18 
 - **Fuel:** 480 
 - **Armor:** 48 
 - **Heat Sinks:** 10 (10) 
@@ -36,7 +36,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (2868) 
 - **Chassis:** 25 tons 
-- **Thrust:** 12 / 18, Fusion 
+- **Thrust:** 12 / 18 
 - **Fuel:** 240 
 - **Armor:** 48 
 - **Heat Sinks:** 10 (10) 
@@ -47,12 +47,28 @@
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_f-12-s.md) 
 
+## Cheetah F-11 
+
+- **Role:** Interceptor 
+- **Tech Base:** Inner Sphere (3051) 
+- **Chassis:** 25 tons 
+- **Thrust:** 12 / 18, XL 
+- **Fuel:** 480 
+- **Armor:** 80 (Ferro Aluminum) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+  - Small Pulse Laser 
+- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/572) 
+- **Battle Value:** Unknown 
+- [*More Info*](cheetah/cheetah_f-11.md) 
+
 ## Cheetah F-14-S 
 
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (3052) 
 - **Chassis:** 25 tons 
-- **Thrust:** 12 / 18, Fusion 
+- **Thrust:** 12 / 18 
 - **Fuel:** 240 
 - **Armor:** 32 
 - **Heat Sinks:** 10 (10) 
@@ -78,4 +94,20 @@
 - **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/574) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_f-11-rr.md) 
+
+## Cheetah F-13 
+
+- **Role:** Interceptor 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 25 tons 
+- **Thrust:** 12 / 18, XL 
+- **Fuel:** 480 
+- **Armor:** 99 (Heavy Ferro Aluminum) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser × 4 
+  - ER Small Laser 
+- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/576) 
+- **Battle Value:** Unknown 
+- [*More Info*](cheetah/cheetah_f-13.md) 
 

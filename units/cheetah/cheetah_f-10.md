@@ -7,7 +7,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (2630) 
 - **Chassis:** 25 tons 
-- **Thrust:** 12 / 18, Fusion 
+- **Thrust:** 12 / 18 
 - **Fuel:** 320 
 - **Armor:** 48 
 - **Heat Sinks:** 10 (10) 

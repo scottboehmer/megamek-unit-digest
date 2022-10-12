@@ -5,7 +5,7 @@
 - **Role:** Dogfighter 
 - **Tech Base:** Inner Sphere (2762) 
 - **Chassis:** 60 tons 
-- **Thrust:** 6 / 9, Fusion 
+- **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 184 
 - **Heat Sinks:** 20 (20) 
@@ -22,7 +22,7 @@
 - **Role:** Dogfighter 
 - **Tech Base:** Inner Sphere (2911) 
 - **Chassis:** 60 tons 
-- **Thrust:** 6 / 9, Fusion 
+- **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 168 
 - **Heat Sinks:** 19 (19) 
@@ -39,7 +39,7 @@
 - **Role:** Fire Support 
 - **Tech Base:** Inner Sphere (3050) 
 - **Chassis:** 60 tons 
-- **Thrust:** 6 / 9, Fusion 
+- **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 184 
 - **Heat Sinks:** 20 (20) 
@@ -56,7 +56,7 @@
 - **Role:** Fire Support 
 - **Tech Base:** Inner Sphere (3052) 
 - **Chassis:** 60 tons 
-- **Thrust:** 6 / 9, Fusion 
+- **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 184 
 - **Heat Sinks:** 20 (20) 
@@ -67,4 +67,20 @@
 - **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3073) 
 - **Battle Value:** Unknown 
 - [*More Info*](stingray/stingray_f-94.md) 
+
+## Stingray F-95 
+
+- **Role:** Fire Support 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 60 tons 
+- **Thrust:** 6 / 9 
+- **Fuel:** 400 
+- **Armor:** 206 (Ferro Aluminum) 
+- **Heat Sinks:** 19 (19) 
+- **Weapons:** 
+  - Heavy PPC 
+  - ER Large Laser × 2 
+- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3074) 
+- **Battle Value:** Unknown 
+- [*More Info*](stingray/stingray_f-95.md) 
 

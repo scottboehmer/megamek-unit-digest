@@ -817,6 +817,7 @@
 #### [Samurai](../../units/samurai.md) 
 
 - [**Samurai SL-25**](../../units/samurai/samurai_sl-25.md) *Fast Dogfighter (2472)* 
+- [**Samurai SL-26**](../../units/samurai/samurai_sl-26.md) *Fast Dogfighter (2620)* 
 
 ### 60 Tons 
 
@@ -829,6 +830,7 @@
 #### [Chippewa](../../units/chippewa.md) 
 
 - [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+- [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
 
 ### 100 Tons 
 

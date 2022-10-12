@@ -925,6 +925,7 @@
 
 - [**Transgressor TR-13**](../../units/transgressor/transgressor_tr-13.md) *Dogfighter (2890)* 
 - [**Transgressor TR-13A**](../../units/transgressor/transgressor_tr-13a.md) *Dogfighter (3052)* 
+- [**Transgressor TR-16**](../../units/transgressor/transgressor_tr-16.md) *Fire Support (3058)* 
 
 ### 80 Tons 
 

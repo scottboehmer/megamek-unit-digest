@@ -5,7 +5,7 @@
 - **Role:** Dogfighter 
 - **Tech Base:** Inner Sphere (2932) 
 - **Chassis:** 50 tons 
-- **Thrust:** 6 / 9, Fusion 
+- **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 168 
 - **Heat Sinks:** 13 (13) 
@@ -21,7 +21,7 @@
 - **Role:** Dogfighter 
 - **Tech Base:** Inner Sphere (2933) 
 - **Chassis:** 50 tons 
-- **Thrust:** 6 / 9, Fusion 
+- **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 168 
 - **Heat Sinks:** 13 (13) 

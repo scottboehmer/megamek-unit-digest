@@ -5,7 +5,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (2798) 
 - **Chassis:** 25 tons 
-- **Thrust:** 12 / 18, Fusion 
+- **Thrust:** 12 / 18 
 - **Fuel:** 400 
 - **Armor:** 24 
 - **Heat Sinks:** 10 (10) 
@@ -20,7 +20,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (3059) 
 - **Chassis:** 25 tons 
-- **Thrust:** 12 / 18, Fusion 
+- **Thrust:** 12 / 18 
 - **Fuel:** 320 
 - **Armor:** 24 
 - **Heat Sinks:** 10 (10) 
@@ -35,7 +35,7 @@
 - **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (3065) 
 - **Chassis:** 25 tons 
-- **Thrust:** 12 / 18, Fusion 
+- **Thrust:** 12 / 18 
 - **Fuel:** 400 
 - **Armor:** 24 
 - **Heat Sinks:** 10 (10) 

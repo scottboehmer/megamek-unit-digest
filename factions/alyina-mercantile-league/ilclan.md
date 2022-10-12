@@ -917,3 +917,12 @@
 - [**Bane (Standard)**](../../units/bane/bane_standard.md) *Sniper (2827)* 
 - [**Bane 6**](../../units/bane/bane_6.md) *Sniper (3110)* `ECM` 
 
+## Fighters 
+
+### 20 Tons 
+
+#### [Seydlitz](../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-Z2B**](../../units/seydlitz/seydlitz_syd-z2b.md) *Interceptor (3062)* 
+- [**Seydlitz SYD-Z3A**](../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
+
