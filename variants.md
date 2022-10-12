@@ -5662,7 +5662,7 @@
 
 #### [Hammerhead](units/hammerhead.md) 
 
-- [**Hammerhead (Standard)**](units/hammerhead/hammerhead_standard.md) *Skirmisher (3149)* 
+- [**Hammerhead (Standard)**](units/hammerhead/hammerhead_standard.md) *Skirmisher (3146)* 
 
 #### [Hatchetman](units/hatchetman.md) 
 

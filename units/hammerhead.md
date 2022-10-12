@@ -3,7 +3,7 @@
 ## Hammerhead (Standard) 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Clan (3149) 
+- **Tech Base:** Clan (3146) 
 - **Chassis:** 45 tons (Endo Steel) 
 - **Movement:** 6 / 8, XL 
 - **Armor:** 120 (Hardened) 
