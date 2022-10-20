@@ -1481,12 +1481,21 @@
 - [**Cheetah F-14-S**](../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
 - [**Cheetah F-11-RR**](../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
 
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+
 #### [Thrush](../../units/thrush.md) 
 
 - [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
 - [**Thrush TR-7p**](../../units/thrush/thrush_tr-7p.md) *Interceptor (3059)* 
 
 ### 50 Tons 
+
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+- [**Lightning LTN-G15b**](../../units/lightning_aerospace_fighter/lightning_ltn-g15b.md) *Dogfighter (2721)* 
 
 #### [Transit](../../units/transit.md) 
 
@@ -1507,9 +1516,19 @@
 
 ### 75 Tons 
 
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
+
 #### [Transgressor](../../units/transgressor.md) 
 
 - [**Transgressor TR-13A**](../../units/transgressor/transgressor_tr-13a.md) *Dogfighter (3052)* 
+
+### 90 Tons 
+
+#### [Shikra](../../units/shikra.md) 
+
+- [**Shikra SKR-4M**](../../units/shikra/shikra_skr-4m.md) *Fire Support (3101)* 
 
 ### 100 Tons 
 
@@ -1518,4 +1537,8 @@
 - [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
 - [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
 - [**Riever F-700b**](../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
 

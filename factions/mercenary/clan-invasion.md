@@ -1537,11 +1537,19 @@
 - [**Cheetah F-11**](../../units/cheetah/cheetah_f-11.md) *Interceptor (3051)* 
 - [**Cheetah F-11-RR**](../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
 
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+
 #### [Thrush](../../units/thrush.md) 
 
 - [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
 
 ### 30 Tons 
+
+#### [Centurion Aerospace Fighter](../../units/centurion_aerospace_fighter.md) 
+
+- [**Centurion CNT-1D**](../../units/centurion_aerospace_fighter/centurion_cnt-1d.md) *Interceptor (2473)* 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
@@ -1562,12 +1570,20 @@
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 - [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
 
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+
 ### 60 Tons 
 
 #### [Gotha](../../units/gotha.md) 
 
 - [**Gotha GTHA-500**](../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
 - [**Gotha GTHA-400**](../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
+
+#### [Hellcat](../../units/hellcat.md) 
+
+- [**Hellcat HCT-213**](../../units/hellcat/hellcat_hct-213.md) *Dogfighter (2671)* 
 
 #### [Stingray](../../units/stingray.md) 
 
@@ -1594,6 +1610,10 @@
 
 ### 75 Tons 
 
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
+
 #### [Transgressor](../../units/transgressor.md) 
 
 - [**Transgressor TR-13**](../../units/transgressor/transgressor_tr-13.md) *Dogfighter (2890)* 
@@ -1608,6 +1628,11 @@
 - [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
 - [**Slayer SL-15B**](../../units/slayer/slayer_sl-15b.md) *Dogfighter (2872)* 
 - [**Slayer SL-15R**](../../units/slayer/slayer_sl-15r.md) *Dogfighter (3044)* 
+
+#### [Vulcan Aerospace Fighter](../../units/vulcan_aerospace_fighter.md) 
+
+- [**Vulcan VLC-5N**](../../units/vulcan_aerospace_fighter/vulcan_vlc-5n.md) *Attack Fighter (2650)* 
+- [**Vulcan VLC-6N**](../../units/vulcan_aerospace_fighter/vulcan_vlc-6n.md) *Attack Fighter (2767)* 
 
 ### 85 Tons 
 
@@ -1635,4 +1660,9 @@
 
 - [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
 - [**Stuka STU-D6**](../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D46**](../../units/thunderbird/thunderbird_trb-d46.md) *Attack Fighter (2724)* 
 

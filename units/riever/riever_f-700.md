@@ -10,7 +10,7 @@
 - **Thrust:** 6 / 9, XL 
 - **Fuel:** 400 
 - **Armor:** 248 
-- **Heat Sinks:** 20 (20) 
+- **Heat Sinks:** 20 (40) 
 - **Weapons:** 
   - AC/20 (ammo: 15) 
   - LRM 10 (ammo: 24) 

@@ -718,13 +718,25 @@
 
 - [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
 
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+
 ### 30 Tons 
+
+#### [Centurion Aerospace Fighter](../../units/centurion_aerospace_fighter.md) 
+
+- [**Centurion CNT-1D**](../../units/centurion_aerospace_fighter/centurion_cnt-1d.md) *Interceptor (2473)* 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
 - [**Sparrowhawk SPR-H5**](../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
 
 ### 40 Tons 
+
+#### [DragonFly](../../units/dragonfly.md) 
+
+- [**DragonFly MM-1**](../../units/dragonfly/dragonfly_mm-1.md) *Attack Fighter (2574)* 
 
 #### [Rogue](../../units/rogue.md) 
 
@@ -749,6 +761,10 @@
 - [**Hellcat II HCT-213B**](../../units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
 - [**Hellcat II HCT-214**](../../units/hellcat_ii/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
 
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+
 ### 60 Tons 
 
 #### [Gotha](../../units/gotha.md) 
@@ -756,6 +772,10 @@
 - [**Gotha GTHA-100**](../../units/gotha/gotha_gtha-100.md) *Attack Fighter (2657)* 
 - [**Gotha GTHA-300**](../../units/gotha/gotha_gtha-300.md) *Attack Fighter (2657)* 
 - [**Gotha GTHA-500**](../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+
+#### [Hellcat](../../units/hellcat.md) 
+
+- [**Hellcat HCT-213**](../../units/hellcat/hellcat_hct-213.md) *Dogfighter (2671)* 
 
 #### [Stingray](../../units/stingray.md) 
 
@@ -768,6 +788,12 @@
 - [**Shilone SL-17**](../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
 
 ### 75 Tons 
+
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
+- [**Eagle EGL-R9**](../../units/eagle_aerospace_fighter/eagle_egl-r9.md) *Dogfighter (2601)* 
+- [**Eagle EGL-R10**](../../units/eagle_aerospace_fighter/eagle_egl-r10.md) *Dogfighter (2684)* 
 
 #### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
 
@@ -789,4 +815,8 @@
 #### [Stuka](../../units/stuka.md) 
 
 - [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
 

@@ -10,7 +10,7 @@
 - **Thrust:** 7 / 11, XL 
 - **Fuel:** 640 
 - **Armor:** 161 (Ferro Aluminum) 
-- **Heat Sinks:** 15 (15) 
+- **Heat Sinks:** 15 (30) 
 - **Weapons:** 
   - Plasma Rifle (ammo: 20) 
   - ER Medium Laser × 5 

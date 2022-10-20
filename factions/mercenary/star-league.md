@@ -504,6 +504,14 @@
 
 - [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
 
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+
+#### [Swift](../../units/swift.md) 
+
+- [**Swift SWF-606CA (Aaron)**](../../units/swift/swift_swf-606ca_aaron.md) *Interceptor (2756)* `Unique` 
+
 ### 30 Tons 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
@@ -531,11 +539,20 @@
 
 ### 50 Tons 
 
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+
 #### [Samurai](../../units/samurai.md) 
 
 - [**Samurai SL-25**](../../units/samurai/samurai_sl-25.md) *Fast Dogfighter (2472)* 
 
 ### 60 Tons 
+
+#### [Hellcat](../../units/hellcat.md) 
+
+- [**Hellcat HCT-213**](../../units/hellcat/hellcat_hct-213.md) *Dogfighter (2671)* 
+- [**Hellcat HCT-213D**](../../units/hellcat/hellcat_hct-213d.md) *Dogfighter (2701)* 
 
 #### [Stingray](../../units/stingray.md) 
 
@@ -549,6 +566,11 @@
 
 ### 75 Tons 
 
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R1**](../../units/eagle_aerospace_fighter/eagle_egl-r1.md) *Attack Fighter (2324)* 
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
+
 #### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
 
 - [**Hammerhead HMR-HD**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) *Fast Dogfighter (2571)* 
@@ -558,4 +580,10 @@
 #### [Ahab](../../units/ahab.md) 
 
 - [**Ahab AHB-443**](../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
+
+### 100 Tons 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
 

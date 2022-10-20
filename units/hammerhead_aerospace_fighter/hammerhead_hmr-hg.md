@@ -10,7 +10,7 @@
 - **Thrust:** 7 / 11 
 - **Fuel:** 400 
 - **Armor:** 206 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 10) 
 - **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1377) 

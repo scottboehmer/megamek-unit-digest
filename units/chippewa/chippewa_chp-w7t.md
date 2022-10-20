@@ -10,7 +10,7 @@
 - **Thrust:** 5 / 8, XL 
 - **Fuel:** 400 
 - **Armor:** 116 (Ferro Aluminum) 
-- **Heat Sinks:** 23 (23) 
+- **Heat Sinks:** 23 (46) 
 - **Weapons:** 
   - Plasma Rifle × 2 (ammo: 20) 
   - Snub-Nose PPC × 2 

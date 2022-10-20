@@ -1717,6 +1717,10 @@
 
 ### 25 Tons 
 
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+
 #### [Swift](../../units/swift.md) 
 
 - [**Swift SWF-606**](../../units/swift/swift_swf-606.md) *Interceptor (2682)* 
@@ -1739,6 +1743,7 @@
 
 - [**Zero ZRO-114**](../../units/zero/zero_zro-114.md) *Dogfighter (2703)* 
 - [**Zero ZRO-115**](../../units/zero/zero_zro-115.md) *Dogfighter (3055)* 
+- [**Zero ZRO-CX-3**](../../units/zero/zero_zro-cx-3.md) *Fire Support (3073)* 
 
 ### 40 Tons 
 
@@ -1756,6 +1761,7 @@
 - [**Tomahawk THK-53**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-53.md) *Fast Dogfighter (2650)* 
 - [**Tomahawk THK-63**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63.md) *Fast Dogfighter (2680)* 
 - [**Tomahawk THK-63CS**](../../units/tomahawk_aerospace_fighter/tomahawk_thk-63cs.md) *Fire Support (3069)* 
+- [**Tomahawk CX-11**](../../units/tomahawk_aerospace_fighter/tomahawk_cx-11.md) *Fire Support (3074)* 
 
 ### 50 Tons 
 
@@ -1764,6 +1770,10 @@
 - [**Hellcat II HCT-213B**](../../units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
 - [**Hellcat II HCT-214**](../../units/hellcat_ii/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
 - [**Hellcat II HCT-215**](../../units/hellcat_ii/hellcat_ii_hct-215.md) *Fire Support (3070)* `Active Probe` 
+
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
 
 #### [Samurai](../../units/samurai.md) 
 
@@ -1786,13 +1796,27 @@
 #### [Ironsides](../../units/ironsides.md) 
 
 - [**Ironsides IRN-SD1**](../../units/ironsides/ironsides_irn-sd1.md) *Dogfighter (2613)* 
+- [**Ironsides CX-19**](../../units/ironsides/ironsides_cx-19.md) *Dogfighter (3071)* `Unique` 
 
 ### 75 Tons 
+
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
 
 #### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
 
 - [**Hammerhead HMR-HD**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) *Fast Dogfighter (2571)* 
 - [**Hammerhead HMR-HE**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-he.md) *Fire Support (2672)* 
+
+#### [Huscarl](../../units/huscarl.md) 
+
+- [**Huscarl HSCL-1-O**](../../units/huscarl/huscarl_hscl-1-o.md) *Attack Fighter (3064)* 
+- [**Huscarl HSCL-1-OA**](../../units/huscarl/huscarl_hscl-1-oa.md) *Attack Fighter (3064)* 
+- [**Huscarl HSCL-1-OB**](../../units/huscarl/huscarl_hscl-1-ob.md) *Attack Fighter (3064)* 
+- [**Huscarl HSCL-1-OC**](../../units/huscarl/huscarl_hscl-1-oc.md) *Attack Fighter (3064)* 
+- [**Huscarl HSCL-1-OD**](../../units/huscarl/huscarl_hscl-1-od.md) *Attack Fighter (3068)* 
+- [**Huscarl HSCL-1-OR**](../../units/huscarl/huscarl_hscl-1-or.md) *Attack Fighter (3079)* 
 
 ### 85 Tons 
 
@@ -1810,4 +1834,10 @@
 #### [Chippewa](../../units/chippewa.md) 
 
 - [**Chippewa CHP-W7**](../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+
+### 100 Tons 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
 

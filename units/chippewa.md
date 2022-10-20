@@ -19,6 +19,24 @@
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-w5.md) 
 
+## Chippewa CHP-W5b 
+
+- **Role:** Attack Fighter 
+- **Tech Base:** Inner Sphere (2731) 
+- **Chassis:** 90 tons 
+- **Thrust:** 6 / 9, XL 
+- **Fuel:** 400 
+- **Armor:** 134 (Ferro Aluminum) 
+- **Heat Sinks:** 25 (50) 
+- **Weapons:** 
+  - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
+  - ER Large Laser × 4 
+  - Medium Laser × 2 
+  - Small Laser × 2 
+- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/585) 
+- **Battle Value:** Unknown 
+- [*More Info*](chippewa/chippewa_chp-w5b.md) 
+
 ## Chippewa CHP-W7 
 
 - **Role:** Attack Fighter 
@@ -27,7 +45,7 @@
 - **Thrust:** 5 / 8, XL 
 - **Fuel:** 400 
 - **Armor:** 116 (Ferro Aluminum) 
-- **Heat Sinks:** 24 (24) 
+- **Heat Sinks:** 24 (48) 
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 32) 
   - Large Pulse Laser × 4 
@@ -57,6 +75,26 @@
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-w10.md) 
 
+## Chippewa CHP-W7 (Manfred) 
+
+- **Role:** Attack Fighter 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 90 tons 
+- **Thrust:** 5 / 8, XL 
+- **Fuel:** 400 
+- **Armor:** 188 (Ferro Aluminum) 
+- **Heat Sinks:** 20 (40) 
+- **Weapons:** 
+  - Heavy Gauss Rifle (ammo: 20) 
+  - LRM 15 (ammo: 16) 
+  - Large Pulse Laser × 2 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser × 2 
+  - Small Pulse Laser × 2 
+- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3952) 
+- **Battle Value:** Unknown 
+- [*More Info*](chippewa/chippewa_chp-w7_manfred.md) 
+
 ## Chippewa CHP-W8 
 
 - **Role:** Attack Fighter 
@@ -65,7 +103,7 @@
 - **Thrust:** 5 / 8, XL 
 - **Fuel:** 400 
 - **Armor:** 168 (Heavy Ferro Aluminum) 
-- **Heat Sinks:** 24 (24) 
+- **Heat Sinks:** 24 (48) 
 - **Weapons:** 
   - Large Pulse Laser × 4 
   - MML 7 w/ Artemis IV × 3 (ammo: 34 LRM, 14 SRM) 
@@ -83,7 +121,7 @@
 - **Thrust:** 5 / 8, XL 
 - **Fuel:** 400 
 - **Armor:** 116 (Ferro Aluminum) 
-- **Heat Sinks:** 23 (23) 
+- **Heat Sinks:** 23 (46) 
 - **Weapons:** 
   - Plasma Rifle × 2 (ammo: 20) 
   - Snub-Nose PPC × 2 
@@ -94,4 +132,20 @@
 - **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/587) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-w7t.md) 
+
+## Chippewa CHP-X-P (Gladstone) 
+
+- **Role:** Attack Fighter 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 90 tons 
+- **Thrust:** 5 / 8 
+- **Fuel:** 800 
+- **Armor:** 120 (Laser Reflective) 
+- **Heat Sinks:** 25 (50) 
+- **Weapons:** 
+  - ELRM 15 × 2 (ammo: 36) 
+  - ER Medium Laser × 10 
+- **Sources:** XTRO Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/589) 
+- **Battle Value:** Unknown 
+- [*More Info*](chippewa/chippewa_chp-x-p_gladstone.md) 
 

@@ -1324,12 +1324,28 @@
 - [**Cheetah F-11-R**](../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
 - [**Cheetah F-11-RR**](../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
 
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+
 #### [Thrush](../../units/thrush.md) 
 
 - [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
 - [**Thrush TR-7p**](../../units/thrush/thrush_tr-7p.md) *Interceptor (3059)* 
 
 ### 30 Tons 
+
+#### [Centurion Aerospace Fighter](../../units/centurion_aerospace_fighter.md) 
+
+- [**Centurion CNT-1D**](../../units/centurion_aerospace_fighter/centurion_cnt-1d.md) *Interceptor (2473)* 
+
+#### [Issedone](../../units/issedone.md) 
+
+- [**Issedone Prime**](../../units/issedone/issedone_prime.md) *Fast Dogfighter (2871)* 
+- [**Issedone A**](../../units/issedone/issedone_a.md) *Fire Support (2871)* 
+- [**Issedone B**](../../units/issedone/issedone_b.md) *Fire Support (2871)* 
+- [**Issedone C**](../../units/issedone/issedone_c.md) *Fast Dogfighter (3146)* `ECM` , `TAG` 
+- [**Issedone D**](../../units/issedone/issedone_d.md) *Fast Dogfighter (3146)* 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
@@ -1351,17 +1367,47 @@
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 - [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
 
+#### [Lancer](../../units/lancer.md) 
+
+- [**Lancer LX-2**](../../units/lancer/lancer_lx-2.md) *Fast Dogfighter (3064)* 
+
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+- [**Lightning LTN-G16O**](../../units/lightning_aerospace_fighter/lightning_ltn-g16o.md) *Dogfighter (3068)* 
+
+### 60 Tons 
+
+#### [Hellcat](../../units/hellcat.md) 
+
+- [**Hellcat HCT-213**](../../units/hellcat/hellcat_hct-213.md) *Dogfighter (2671)* 
+- [**Hellcat HCT-313**](../../units/hellcat/hellcat_hct-313.md) *Fire Support (3073)* 
+
 ### 65 Tons 
 
 #### [Shilone](../../units/shilone.md) 
 
 - [**Shilone SL-17**](../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
 
+#### [Troika](../../units/troika.md) 
+
+- [**Troika CMT-4U**](../../units/troika/troika_cmt-4u.md) *Dogfighter (3066)* 
+
+### 75 Tons 
+
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
+
 ### 80 Tons 
 
 #### [Slayer](../../units/slayer.md) 
 
 - [**Slayer SL-15**](../../units/slayer/slayer_sl-15.md) *Dogfighter (2770)* 
+
+#### [Vulcan Aerospace Fighter](../../units/vulcan_aerospace_fighter.md) 
+
+- [**Vulcan VLC-8N**](../../units/vulcan_aerospace_fighter/vulcan_vlc-8n.md) *Attack Fighter (3074)* 
 
 ### 90 Tons 
 
@@ -1381,4 +1427,8 @@
 
 - [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
 - [**Stuka STU-D6**](../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
 

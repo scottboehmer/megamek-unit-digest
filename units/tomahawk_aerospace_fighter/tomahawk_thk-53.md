@@ -10,7 +10,7 @@
 - **Thrust:** 8 / 12 
 - **Fuel:** 400 
 - **Armor:** 188 (Ferro Aluminum) 
-- **Heat Sinks:** 16 (16) 
+- **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - Medium Laser × 6 
 - **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3272) 

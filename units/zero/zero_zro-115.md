@@ -10,7 +10,7 @@
 - **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 160 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER PPC 
   - Medium Laser 

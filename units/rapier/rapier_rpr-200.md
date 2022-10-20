@@ -10,7 +10,7 @@
 - **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 232 (Ferro Aluminum) 
-- **Heat Sinks:** 14 (14) 
+- **Heat Sinks:** 14 (28) 
 - **Weapons:** 
   - ER PPC × 2 
   - LB 10-X AC (ammo: 20 Cluster) 

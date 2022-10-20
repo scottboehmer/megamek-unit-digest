@@ -10,7 +10,7 @@
 - **Thrust:** 5 / 8 
 - **Fuel:** 400 
 - **Armor:** 179 (Ferro Aluminum) 
-- **Heat Sinks:** 20 (20) 
+- **Heat Sinks:** 20 (40) 
 - **Weapons:** 
   - LRM 20 w/ Artemis IV (ammo: 12) 
   - ER Large Laser × 2 

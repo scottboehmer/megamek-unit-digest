@@ -10,7 +10,7 @@
 - **Thrust:** 10 / 15, Light 
 - **Fuel:** 400 
 - **Armor:** 116 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 2 

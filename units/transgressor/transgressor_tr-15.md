@@ -10,7 +10,7 @@
 - **Thrust:** 6 / 9, XL 
 - **Fuel:** 400 
 - **Armor:** 241 (Ferro Aluminum) 
-- **Heat Sinks:** 25 (25) 
+- **Heat Sinks:** 25 (50) 
 - **Weapons:** 
   - Heavy PPC × 2 
   - ER Large Laser 

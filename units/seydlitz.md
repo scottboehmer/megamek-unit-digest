@@ -53,7 +53,7 @@
 - **Thrust:** 11 / 17, XL 
 - **Fuel:** 400 
 - **Armor:** 62 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 5 
 - **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2882) 
@@ -83,7 +83,7 @@
 - **Thrust:** 11 / 17, XL 
 - **Fuel:** 400 
 - **Armor:** 80 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 4 
 - **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2883) 
@@ -98,7 +98,7 @@
 - **Thrust:** 11 / 17, XL 
 - **Fuel:** 400 
 - **Armor:** 80 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Pulse Laser × 2 
 - **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2885) 
@@ -113,10 +113,43 @@
 - **Thrust:** 11 / 17, XL 
 - **Fuel:** 400 
 - **Armor:** 62 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Large Laser 
 - **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2886) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-z4.md) 
+
+## Seydlitz (Mary) 'Yari' 
+
+- **Role:** Interceptor 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 20 tons 
+- **Thrust:** 11 / 17, XL 
+- **Fuel:** 320 
+- **Armor:** 56 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2877) 
+- **Battle Value:** Unknown 
+- [*More Info*](seydlitz/seydlitz_mary_yari.md) 
+
+## Seydlitz SYD-45X 'Starling' 
+
+- **Role:** Interceptor 
+- **Tech Base:** Inner Sphere (3073) 
+- **Chassis:** 25 tons 
+- **Thrust:** 14 / 21, XXL 
+- **Fuel:** 400 
+- **Armor:** 69 (Heavy Ferro Aluminum) 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Bombast Laser 
+- **Equipment:** 
+  - Chaff Pod 
+- **Sources:** XTRO Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2879) 
+- **Battle Value:** Unknown 
+- [*More Info*](seydlitz/seydlitz_syd-45x_starling.md) 
 

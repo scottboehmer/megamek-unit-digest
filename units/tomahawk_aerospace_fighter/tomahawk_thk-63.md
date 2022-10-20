@@ -10,7 +10,7 @@
 - **Thrust:** 8 / 12 
 - **Fuel:** 400 
 - **Armor:** 179 (Ferro Aluminum) 
-- **Heat Sinks:** 12 (12) 
+- **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - Large Laser × 2 
   - Small Laser 

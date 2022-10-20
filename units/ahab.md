@@ -37,6 +37,25 @@
 - **Battle Value:** Unknown 
 - [*More Info*](ahab/ahab_ahb-443.md) 
 
+## Ahab AHB-443b 
+
+- **Role:** Attack Fighter 
+- **Tech Base:** Inner Sphere (2703) 
+- **Chassis:** 90 tons 
+- **Thrust:** 5 / 8 
+- **Fuel:** 400 
+- **Armor:** 277 (Ferro Aluminum) 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - LRM 20 × 2 (ammo: 36) 
+  - ER Large Laser 
+  - SRM 6 × 2 (ammo: 30) 
+  - Medium Laser × 2 
+  - Narc (ammo: 24) 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3681) 
+- **Battle Value:** Unknown 
+- [*More Info*](ahab/ahab_ahb-443b.md) 
+
 ## Ahab AHB-MD 
 
 - **Role:** Attack Fighter 
@@ -45,7 +64,7 @@
 - **Thrust:** 5 / 8 
 - **Fuel:** 400 
 - **Armor:** 248 
-- **Heat Sinks:** 22 (22) 
+- **Heat Sinks:** 22 (44) 
 - **Weapons:** 
   - MRM 40 × 2 (ammo: 24) 
   - Large Pulse Laser 
@@ -64,7 +83,7 @@
 - **Thrust:** 5 / 8 
 - **Fuel:** 400 
 - **Armor:** 248 
-- **Heat Sinks:** 22 (22) 
+- **Heat Sinks:** 22 (44) 
 - **Weapons:** 
   - Heavy PPC 
   - MRM 40 × 2 (ammo: 12) 

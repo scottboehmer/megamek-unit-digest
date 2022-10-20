@@ -8,6 +8,79 @@ Unrecognized Components:
 Units without Battle Value:
 Rhino (Standard) - unknown battle value
 Tessen TSN-X4R 'Rapunzel' - unknown battle value
+Firebird FR-1 - The method or operation is not implemented.
+Star Dagger S-2B - The method or operation is not implemented.
+Thrush TR-5 - The method or operation is not implemented.
+Transit TR-9 - The method or operation is not implemented.
+Chippewa IIC 2 - The method or operation is not implemented.
+Chippewa IIC (Standard) - The method or operation is not implemented.
+Goth A - The method or operation is not implemented.
+Goth B - The method or operation is not implemented.
+Goth C - The method or operation is not implemented.
+Goth D - The method or operation is not implemented.
+Goth Prime - The method or operation is not implemented.
+Ironsides IRN-SD1b-EC - The method or operation is not implemented.
+Issedone A - The method or operation is not implemented.
+Issedone B - The method or operation is not implemented.
+Issedone C - The method or operation is not implemented.
+Issedone D - The method or operation is not implemented.
+Issedone Prime - The method or operation is not implemented.
+Kublai E - The method or operation is not implemented.
+Kublai F - The method or operation is not implemented.
+Kublai G - The method or operation is not implemented.
+Ogotai A - The method or operation is not implemented.
+Ogotai B - The method or operation is not implemented.
+Ogotai Prime - The method or operation is not implemented.
+Pella (Standard) - The method or operation is not implemented.
+Qasar A - The method or operation is not implemented.
+Qasar B - The method or operation is not implemented.
+Qasar C - The method or operation is not implemented.
+Qasar D - The method or operation is not implemented.
+Qasar Prime - The method or operation is not implemented.
+Rapier RPR-100b-EC - The method or operation is not implemented.
+Sabre SB-27b-EC - The method or operation is not implemented.
+Tomahawk THK-63-EC - The method or operation is not implemented.
+Voidseeker Mk 39-004 Interceptor - The method or operation is not implemented.
+Voidseeker Mk 39-007 Striker - The method or operation is not implemented.
+DragonFly MM-1 - The method or operation is not implemented.
+Blackwasp Mk. 30 - The method or operation is not implemented.
+Aeshna Heavy Drone Fighter (Standard) - The method or operation is not implemented.
+Scarab Medium Drone Fighter (Standard) - The method or operation is not implemented.
+Tabanid Light Drone Fighter (Standard) - The method or operation is not implemented.
+Chippewa CHP-W5b - The method or operation is not implemented.
+Corsair CSR-V12b - The method or operation is not implemented.
+Eagle EGL-R6b - The method or operation is not implemented.
+Hellcat II HCT-213C - The method or operation is not implemented.
+Lightning LTN-G15b - The method or operation is not implemented.
+Sabre SB-27b - The method or operation is not implemented.
+Stuka STU-K5b2 - The method or operation is not implemented.
+Stuka STU-K5b2 - The method or operation is not implemented.
+Thunderbird TRB-D36b - The method or operation is not implemented.
+Zero ZRO-116b - The method or operation is not implemented.
+Cheetah OF-17A-R - The method or operation is not implemented.
+Corax C - The method or operation is not implemented.
+Corsair CSR-12D - The method or operation is not implemented.
+Hydaspes 3 - The method or operation is not implemented.
+Lucifer III LCR-3 - The method or operation is not implemented.
+Persepolis (Standard) - The method or operation is not implemented.
+Rapier RPR-300S - The method or operation is not implemented.
+Sabre SB-31D - The method or operation is not implemented.
+Suzaku SU-14 - The method or operation is not implemented.
+Transit TR-13G - The method or operation is not implemented.
+Tyre 3 - The method or operation is not implemented.
+Umbra RF-1 - The method or operation is not implemented.
+Wildkatze WKT-1S - The method or operation is not implemented.
+Wildkatze WKT-2S - The method or operation is not implemented.
+Chippewa CHP-W7 (Manfred) - The method or operation is not implemented.
+Corsair (Bob) 'Roswell' - The method or operation is not implemented.
+Hydaspes (Algar) - The method or operation is not implemented.
+Issus (Erika) - The method or operation is not implemented.
+Seydlitz (Mary) 'Yari' - The method or operation is not implemented.
+Slayer SL-15 (Eric) - The method or operation is not implemented.
+Stingray F-92 (Michael) - The method or operation is not implemented.
+Thrush (Maximilian)'C-1247' - The method or operation is not implemented.
+Tyre (Michiko) - The method or operation is not implemented.
+Banshee BSE-X2 - The method or operation is not implemented.
 Cheetah F-10 - The method or operation is not implemented.
 Cheetah F-11-R - The method or operation is not implemented.
 Cheetah F-11-RR - The method or operation is not implemented.
@@ -140,6 +213,297 @@ Trident TRN-3U - The method or operation is not implemented.
 Trident TRN-3V - The method or operation is not implemented.
 Zero ZRO-114 - The method or operation is not implemented.
 Zero ZRO-115 - The method or operation is not implemented.
+Avar A - The method or operation is not implemented.
+Avar B - The method or operation is not implemented.
+Avar C - The method or operation is not implemented.
+Avar D - The method or operation is not implemented.
+Avar E - The method or operation is not implemented.
+Avar Prime - The method or operation is not implemented.
+Bashkir A - The method or operation is not implemented.
+Bashkir B - The method or operation is not implemented.
+Bashkir C - The method or operation is not implemented.
+Bashkir D - The method or operation is not implemented.
+Bashkir E - The method or operation is not implemented.
+Bashkir Prime - The method or operation is not implemented.
+Batu A - The method or operation is not implemented.
+Batu B - The method or operation is not implemented.
+Batu C - The method or operation is not implemented.
+Batu D - The method or operation is not implemented.
+Batu E - The method or operation is not implemented.
+Batu Prime - The method or operation is not implemented.
+Jagatai A - The method or operation is not implemented.
+Jagatai B - The method or operation is not implemented.
+Jagatai C - The method or operation is not implemented.
+Jagatai D - The method or operation is not implemented.
+Jagatai E - The method or operation is not implemented.
+Jagatai Prime - The method or operation is not implemented.
+Jagatai X - The method or operation is not implemented.
+Jengiz A - The method or operation is not implemented.
+Jengiz B - The method or operation is not implemented.
+Jengiz C - The method or operation is not implemented.
+Jengiz D - The method or operation is not implemented.
+Jengiz E - The method or operation is not implemented.
+Jengiz Prime - The method or operation is not implemented.
+Jengiz X - The method or operation is not implemented.
+Kirghiz A - The method or operation is not implemented.
+Kirghiz B - The method or operation is not implemented.
+Kirghiz C - The method or operation is not implemented.
+Kirghiz D - The method or operation is not implemented.
+Kirghiz E - The method or operation is not implemented.
+Kirghiz Prime - The method or operation is not implemented.
+Sabutai A - The method or operation is not implemented.
+Sabutai B - The method or operation is not implemented.
+Sabutai C - The method or operation is not implemented.
+Sabutai D - The method or operation is not implemented.
+Sabutai E - The method or operation is not implemented.
+Sabutai Prime - The method or operation is not implemented.
+Sabutai X - The method or operation is not implemented.
+Scytha A - The method or operation is not implemented.
+Scytha B - The method or operation is not implemented.
+Scytha C - The method or operation is not implemented.
+Scytha D - The method or operation is not implemented.
+Scytha E - The method or operation is not implemented.
+Scytha Prime - The method or operation is not implemented.
+Scytha X - The method or operation is not implemented.
+Sulla A - The method or operation is not implemented.
+Sulla B - The method or operation is not implemented.
+Sulla C - The method or operation is not implemented.
+Sulla D - The method or operation is not implemented.
+Sulla E - The method or operation is not implemented.
+Sulla Prime - The method or operation is not implemented.
+Turk A - The method or operation is not implemented.
+Turk B - The method or operation is not implemented.
+Turk C - The method or operation is not implemented.
+Turk D - The method or operation is not implemented.
+Turk E - The method or operation is not implemented.
+Turk Prime - The method or operation is not implemented.
+Vandal A - The method or operation is not implemented.
+Vandal B - The method or operation is not implemented.
+Vandal C - The method or operation is not implemented.
+Vandal D - The method or operation is not implemented.
+Vandal E - The method or operation is not implemented.
+Vandal Prime - The method or operation is not implemented.
+Visigoth A - The method or operation is not implemented.
+Visigoth B - The method or operation is not implemented.
+Visigoth C - The method or operation is not implemented.
+Visigoth D - The method or operation is not implemented.
+Visigoth E - The method or operation is not implemented.
+Visigoth Prime - The method or operation is not implemented.
+Ammon (Standard) - The method or operation is not implemented.
+Chaeronea (Standard) - The method or operation is not implemented.
+Hydaspes (Standard) - The method or operation is not implemented.
+Issus (Standard) - The method or operation is not implemented.
+Tyre 2 - The method or operation is not implemented.
+Tyre (Standard) - The method or operation is not implemented.
+Corax CRX-O - The method or operation is not implemented.
+Corax CRX-OA - The method or operation is not implemented.
+Corax CRX-OB - The method or operation is not implemented.
+Corax CRX-OC - The method or operation is not implemented.
+Dagger DARO-1 - The method or operation is not implemented.
+Dagger DARO-1A - The method or operation is not implemented.
+Dagger DARO-1B - The method or operation is not implemented.
+Defiance DFC-O - The method or operation is not implemented.
+Defiance DFC-OA - The method or operation is not implemented.
+Defiance DFC-OB - The method or operation is not implemented.
+Defiance DFC-OC - The method or operation is not implemented.
+Eisensturm EST-O - The method or operation is not implemented.
+Eisensturm EST-OA - The method or operation is not implemented.
+Eisensturm EST-OB - The method or operation is not implemented.
+Eisensturm EST-OC - The method or operation is not implemented.
+Eisensturm EST-R3 - The method or operation is not implemented.
+Huscarl HSCL-1-O - The method or operation is not implemented.
+Huscarl HSCL-1-OA - The method or operation is not implemented.
+Huscarl HSCL-1-OB - The method or operation is not implemented.
+Huscarl HSCL-1-OC - The method or operation is not implemented.
+Lancer LX-2 - The method or operation is not implemented.
+Lancer LX-2A - The method or operation is not implemented.
+Oni ON-1 - The method or operation is not implemented.
+Oni ON-2 - The method or operation is not implemented.
+Shiva SHV-O - The method or operation is not implemented.
+Shiva SHV-OA - The method or operation is not implemented.
+Shiva SHV-OB - The method or operation is not implemented.
+Shiva SHV-OC - The method or operation is not implemented.
+Tatsu MIK-O - The method or operation is not implemented.
+Tatsu MIK-OA - The method or operation is not implemented.
+Tatsu MIK-OB - The method or operation is not implemented.
+Tatsu MIK-OC - The method or operation is not implemented.
+Troika CMT-3T - The method or operation is not implemented.
+Troika CMT-4U - The method or operation is not implemented.
+Ammon 2 - The method or operation is not implemented.
+Chaeronea 2 - The method or operation is not implemented.
+Chaeronea 3 - The method or operation is not implemented.
+Chaeronea 4 - The method or operation is not implemented.
+Hydaspes 2 - The method or operation is not implemented.
+Issus 2 - The method or operation is not implemented.
+Issus 3 - The method or operation is not implemented.
+Xerxes 2 - The method or operation is not implemented.
+Xerxes 3 - The method or operation is not implemented.
+Xerxes (Standard) - The method or operation is not implemented.
+Corax CRX-OD - The method or operation is not implemented.
+Corax CRX-OR - The method or operation is not implemented.
+Dagger DARO-1C - The method or operation is not implemented.
+Dagger DARO-1D - The method or operation is not implemented.
+Defiance DFC-OD - The method or operation is not implemented.
+Eisensturm EST-OD - The method or operation is not implemented.
+Huscarl HSCL-1-OD - The method or operation is not implemented.
+Huscarl HSCL-1-OR - The method or operation is not implemented.
+Lancer LX-3 - The method or operation is not implemented.
+Shiva SHV-OD - The method or operation is not implemented.
+Tatsu MIK-OD - The method or operation is not implemented.
+Tatsu MIK-OE - The method or operation is not implemented.
+Troika CMT-6T - The method or operation is not implemented.
+Centurion CNT-1A - The method or operation is not implemented.
+Centurion CNT-1D - The method or operation is not implemented.
+Centurion CNT-2D - The method or operation is not implemented.
+Centurion CNT-3S - The method or operation is not implemented.
+Deathstalker F-77 - The method or operation is not implemented.
+Deathstalker F-77A - The method or operation is not implemented.
+Eagle EGL-R1 - The method or operation is not implemented.
+Eagle EGL-R10 - The method or operation is not implemented.
+Eagle EGL-R11 - The method or operation is not implemented.
+Eagle EGL-R4 - The method or operation is not implemented.
+Eagle EGL-R6 - The method or operation is not implemented.
+Eagle EGL-R9 - The method or operation is not implemented.
+Hellcat HCT-213 - The method or operation is not implemented.
+Hellcat HCT-213D - The method or operation is not implemented.
+Hellcat HCT-213R - The method or operation is not implemented.
+Hellcat HCT-213S - The method or operation is not implemented.
+Hellcat HCT-313 - The method or operation is not implemented.
+Lightning LTN-G14 - The method or operation is not implemented.
+Lightning LTN-G15 - The method or operation is not implemented.
+Lightning LTN-G16D - The method or operation is not implemented.
+Lightning LTN-G16L - The method or operation is not implemented.
+Lightning LTN-G16O - The method or operation is not implemented.
+Lightning LTN-G16S - The method or operation is not implemented.
+Lightning LTN-G16T - The method or operation is not implemented.
+Sabre SB-26 - The method or operation is not implemented.
+Sabre SB-27 - The method or operation is not implemented.
+Sabre SB-28 - The method or operation is not implemented.
+Sabre SB-29 - The method or operation is not implemented.
+Starfire SF-1X - The method or operation is not implemented.
+Thunderbird TRB-D36 - The method or operation is not implemented.
+Thunderbird TRB-D46 - The method or operation is not implemented.
+Thunderbird TRB-D50 - The method or operation is not implemented.
+Thunderbird TRB-D56 - The method or operation is not implemented.
+Typhoon TFN-2A - The method or operation is not implemented.
+Typhoon TFN-3A - The method or operation is not implemented.
+Typhoon TFN-3M - The method or operation is not implemented.
+Typhoon TFN-5H - The method or operation is not implemented.
+Vulcan VLC-5N - The method or operation is not implemented.
+Vulcan VLC-6N - The method or operation is not implemented.
+Vulcan VLC-8N - The method or operation is not implemented.
+Ahab AHB-443b - The method or operation is not implemented.
+Gotha GTHA-500b - The method or operation is not implemented.
+Hammerhead HMR-HDb - The method or operation is not implemented.
+Ironsides IRN-SD1b - The method or operation is not implemented.
+Rapier RPR-100b - The method or operation is not implemented.
+Rogue RGU-133Eb - The method or operation is not implemented.
+Tomahawk THK-63b - The method or operation is not implemented.
+Trident TRN-3Tb - The method or operation is not implemented.
+Rusalka S-RSL-O Invictus - The method or operation is not implemented.
+Rusalka S-RSL-OA Dominus - The method or operation is not implemented.
+Rusalka S-RSL-OB Infernus - The method or operation is not implemented.
+Rusalka S-RSL-OC Comminus - The method or operation is not implemented.
+Rusalka S-RSL-OD Luminos - The method or operation is not implemented.
+Rusalka S-RSL-OE Eminus - The method or operation is not implemented.
+Shade S-HA-O Invictus - The method or operation is not implemented.
+Shade S-HA-OA Dominus - The method or operation is not implemented.
+Shade S-HA-OB Infernus - The method or operation is not implemented.
+Shade S-HA-OC Comminus - The method or operation is not implemented.
+Shade S-HA-OD Luminos - The method or operation is not implemented.
+Shade S-HA-OE Eminus - The method or operation is not implemented.
+Striga S-STR-O Invictus - The method or operation is not implemented.
+Striga S-STR-OA Dominus - The method or operation is not implemented.
+Striga S-STR-OB Infernus - The method or operation is not implemented.
+Striga S-STR-OC Comminus - The method or operation is not implemented.
+Striga S-STR-OD Luminos - The method or operation is not implemented.
+Striga S-STR-OE Eminus - The method or operation is not implemented.
+Mengqin MNG-8L - The method or operation is not implemented.
+Morgenstern MR-1S - The method or operation is not implemented.
+Morgenstern MR-1SA - The method or operation is not implemented.
+Morgenstern MR-1SB - The method or operation is not implemented.
+Morgenstern MR-1SC - The method or operation is not implemented.
+Morgenstern MR-1SD - The method or operation is not implemented.
+Ostrogoth A - The method or operation is not implemented.
+Ostrogoth B - The method or operation is not implemented.
+Ostrogoth C - The method or operation is not implemented.
+Ostrogoth Prime - The method or operation is not implemented.
+Poignard PGD-L3 - The method or operation is not implemented.
+Poignard PGD-R3 - The method or operation is not implemented.
+Poignard PGD-Y3 - The method or operation is not implemented.
+Sagittarii SGT-2R - The method or operation is not implemented.
+Sagittarii SGT-3R - The method or operation is not implemented.
+Wusun A - The method or operation is not implemented.
+Wusun B - The method or operation is not implemented.
+Wusun C - The method or operation is not implemented.
+Wusun Prime - The method or operation is not implemented.
+Cutlass CUT-01D - The method or operation is not implemented.
+Cutlass CUT-01E - The method or operation is not implemented.
+Rondel RDL-01C - The method or operation is not implemented.
+Koroshiya KOS-1A - The method or operation is not implemented.
+Yun Y-2 - The method or operation is not implemented.
+Aquila AQA-1M - The method or operation is not implemented.
+Picaroon CSR-F100 - The method or operation is not implemented.
+Shikra SKR-4M - The method or operation is not implemented.
+Jengiz F - The method or operation is not implemented.
+Morgenstern MR-1SE - The method or operation is not implemented.
+Ostrogoth D - The method or operation is not implemented.
+Sagittarii SGT-4R - The method or operation is not implemented.
+Scytha F - The method or operation is not implemented.
+Sparrowhawk SPR-7Dr - The method or operation is not implemented.
+Stingray F-96R - The method or operation is not implemented.
+Sulla F - The method or operation is not implemented.
+Tatsu MIK-OF - The method or operation is not implemented.
+Troika CMT-7T - The method or operation is not implemented.
+Wusun D - The method or operation is not implemented.
+Schrack SCK-O - The method or operation is not implemented.
+Schrack SCK-OA - The method or operation is not implemented.
+Schrack SCK-OB - The method or operation is not implemented.
+Simurgh SMG-O - The method or operation is not implemented.
+Simurgh SMG-OA - The method or operation is not implemented.
+Simurgh SMG-OB - The method or operation is not implemented.
+Sternensturm STM-O - The method or operation is not implemented.
+Sternensturm STM-OA - The method or operation is not implemented.
+Sternensturm STM-OB - The method or operation is not implemented.
+Bashkir Z - The method or operation is not implemented.
+Batu Z - The method or operation is not implemented.
+Sabutai Z - The method or operation is not implemented.
+Sangihe Shrike-Thrush 'Nanook' - The method or operation is not implemented.
+Cheetah II F-12A - The method or operation is not implemented.
+Ammon XR - The method or operation is not implemented.
+Scytha XR - The method or operation is not implemented.
+Ironsides CX-19 - The method or operation is not implemented.
+Tomahawk CX-11 - The method or operation is not implemented.
+Zero ZRO-CX-3 - The method or operation is not implemented.
+Sabre SB-31 'Defense Special' - The method or operation is not implemented.
+Sholagar SL-27X - The method or operation is not implemented.
+Corsair CSR-X12 Rigid Night - The method or operation is not implemented.
+Dagger DAR4-XP - The method or operation is not implemented.
+Hellcat II HCT-213BC (Herman) - The method or operation is not implemented.
+Swift SWF-606CA (Aaron) - The method or operation is not implemented.
+Oni ON-2X - The method or operation is not implemented.
+Shilone SL-17X - The method or operation is not implemented.
+Transit TR-13X 'Glare' - The method or operation is not implemented.
+Troika CMT-3TV (Viktor) - The method or operation is not implemented.
+Cheetah OF-17 - The method or operation is not implemented.
+Shiva SHV-S - The method or operation is not implemented.
+Lucifer LCF-X30 - The method or operation is not implemented.
+Seydlitz SYD-45X 'Starling' - The method or operation is not implemented.
+Slayer SL-CX1 - The method or operation is not implemented.
+Thunderbird TRB-XTS - The method or operation is not implemented.
+Battle Taxi NL-43 - The method or operation is not implemented.
+Deathstalker XF-78 - The method or operation is not implemented.
+Chippewa CHP-X-P (Gladstone) - The method or operation is not implemented.
+Lightning LTN-G16-P (Branson) - The method or operation is not implemented.
+Vulcan VLC-3N - The method or operation is not implemented.
+Hammerhead HMR-HA - The method or operation is not implemented.
+Hammerhead HMR-HC - The method or operation is not implemented.
+Persepolis 2 - The method or operation is not implemented.
+Malaika BAM-1A1 - The method or operation is not implemented.
+Sparrowhawk SPR-DH - The method or operation is not implemented.
+Star Dagger S-2 - The method or operation is not implemented.
+Rapier RPR-300X - The method or operation is not implemented.
+Starfire SF-1X (Prototype) - The method or operation is not implemented.
 
 --------------------------------------------------
 Units without Roles:
@@ -430,6 +794,13 @@ Kobold Battle Armor X-C3(Sqd6)
 Groundhog Exoskeleton 'Master Thief'(Sqd1)
 Tornado PA(L) G17(Sqd5)
 Tortoise II (aSRM)(Sqd5)
+Thrush TR-5
+Stuka STU-K5b2
+Stuka STU-K5b2
+Wildkatze WKT-2S
+Banshee BSE-X2
+Cheetah II F-12A
+Starfire SF-1X (Prototype)
 
 --------------------------------------------------
-6536 files -> 6536 parsed files (0 skipped) -> 6316 converted files -> 6307 validated units
+6901 files -> 6901 parsed files (0 skipped) -> 6680 converted files -> 6669 validated units

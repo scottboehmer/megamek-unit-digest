@@ -10,7 +10,7 @@
 - **Thrust:** 11 / 17, XL 
 - **Fuel:** 400 
 - **Armor:** 62 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 5 
 - **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2882) 

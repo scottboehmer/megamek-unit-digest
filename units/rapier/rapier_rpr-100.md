@@ -10,7 +10,7 @@
 - **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 192 
-- **Heat Sinks:** 12 (12) 
+- **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - AC/20 (ammo: 10) 
   - PPC × 2 

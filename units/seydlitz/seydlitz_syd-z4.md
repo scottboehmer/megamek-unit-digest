@@ -10,7 +10,7 @@
 - **Thrust:** 11 / 17, XL 
 - **Fuel:** 400 
 - **Armor:** 62 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Large Laser 
 - **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2886) 

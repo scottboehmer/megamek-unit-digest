@@ -984,11 +984,19 @@
 
 - [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
 
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+
 #### [Thrush](../../units/thrush.md) 
 
 - [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
 
 ### 30 Tons 
+
+#### [Centurion Aerospace Fighter](../../units/centurion_aerospace_fighter.md) 
+
+- [**Centurion CNT-1D**](../../units/centurion_aerospace_fighter/centurion_cnt-1d.md) *Interceptor (2473)* 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
@@ -1009,11 +1017,20 @@
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 - [**Corsair CSR-V20**](../../units/corsair/corsair_csr-v20.md) *Dogfighter (3010)* 
 
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+- [**Lightning LTN-G16-P (Branson)**](../../units/lightning_aerospace_fighter/lightning_ltn-g16-p_branson.md) *Dogfighter (3071)* `Unique` 
+
 ### 60 Tons 
 
 #### [Gotha](../../units/gotha.md) 
 
 - [**Gotha GTHA-400**](../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
+
+#### [Hellcat](../../units/hellcat.md) 
+
+- [**Hellcat HCT-213**](../../units/hellcat/hellcat_hct-213.md) *Dogfighter (2671)* 
 
 #### [Stingray](../../units/stingray.md) 
 
@@ -1029,7 +1046,15 @@
 
 - [**Shilone SL-17**](../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
 
+#### [Troika](../../units/troika.md) 
+
+- [**Troika CMT-4U**](../../units/troika/troika_cmt-4u.md) *Dogfighter (3066)* 
+
 ### 75 Tons 
+
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
 
 #### [Transgressor](../../units/transgressor.md) 
 
@@ -1047,6 +1072,7 @@
 
 - [**Chippewa CHP-W5**](../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
 - [**Chippewa CHP-W10**](../../units/chippewa/chippewa_chp-w10.md) *Attack Fighter (2953)* 
+- [**Chippewa CHP-X-P (Gladstone)**](../../units/chippewa/chippewa_chp-x-p_gladstone.md) *Attack Fighter (3074)* `Unique` 
 
 ### 100 Tons 
 
@@ -1058,4 +1084,8 @@
 
 - [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
 - [**Stuka STU-K15**](../../units/stuka/stuka_stu-k15.md) *Attack Fighter (2965)* 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
 

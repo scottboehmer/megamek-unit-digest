@@ -48,6 +48,22 @@
 - **Battle Value:** Unknown 
 - [*More Info*](rogue/rogue_rgu-133l.md) 
 
+## Rogue RGU-133Eb 
+
+- **Role:** Fast Dogfighter 
+- **Tech Base:** Inner Sphere (2710) 
+- **Chassis:** 40 tons 
+- **Thrust:** 7 / 11, XL 
+- **Fuel:** 400 
+- **Armor:** 98 (Ferro Aluminum) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 15 w/ Artemis IV × 2 (ammo: 16) 
+  - Medium Pulse Laser × 2 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4929) 
+- **Battle Value:** Unknown 
+- [*More Info*](rogue/rogue_rgu-133eb.md) 
+
 ## Rogue RGU-133P 
 
 - **Role:** Fire Support 
@@ -72,7 +88,7 @@
 - **Thrust:** 7 / 11 
 - **Fuel:** 400 
 - **Armor:** 98 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Medium Pulse Laser × 2 

@@ -293,6 +293,12 @@
 
 - [**Swift SWF-606**](../../units/swift/swift_swf-606.md) *Interceptor (2682)* 
 
+### 45 Tons 
+
+#### [Tomahawk Aerospace Fighter](../../units/tomahawk_aerospace_fighter.md) 
+
+- [**Tomahawk CX-11**](../../units/tomahawk_aerospace_fighter/tomahawk_cx-11.md) *Fire Support (3074)* 
+
 ### 60 Tons 
 
 #### [Gotha](../../units/gotha.md) 

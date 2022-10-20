@@ -10,7 +10,7 @@
 - **Thrust:** 5 / 8, XL 
 - **Fuel:** 400 
 - **Armor:** 216 
-- **Heat Sinks:** 21 (21) 
+- **Heat Sinks:** 21 (42) 
 - **Weapons:** 
   - RAC/5 × 2 (ammo: 80) 
   - LRM 20 w/ Artemis IV (ammo: 18) 

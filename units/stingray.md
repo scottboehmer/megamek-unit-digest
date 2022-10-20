@@ -42,7 +42,7 @@
 - **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 184 
-- **Heat Sinks:** 20 (20) 
+- **Heat Sinks:** 20 (40) 
 - **Weapons:** 
   - ER PPC 
   - ER Large Laser × 2 
@@ -68,6 +68,25 @@
 - **Battle Value:** Unknown 
 - [*More Info*](stingray/stingray_f-94.md) 
 
+## Stingray F-92 (Michael) 
+
+- **Role:** Dogfighter 
+- **Tech Base:** Inner Sphere (3068) 
+- **Chassis:** 60 tons 
+- **Thrust:** 6 / 9 
+- **Fuel:** 400 
+- **Armor:** 248 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Large Pulse Laser 
+  - Medium Pulse Laser × 4 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - Targeting Computer 
+- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3072) 
+- **Battle Value:** Unknown 
+- [*More Info*](stingray/stingray_f-92_michael.md) 
+
 ## Stingray F-95 
 
 - **Role:** Fire Support 
@@ -76,11 +95,26 @@
 - **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 206 (Ferro Aluminum) 
-- **Heat Sinks:** 19 (19) 
+- **Heat Sinks:** 19 (38) 
 - **Weapons:** 
   - Heavy PPC 
   - ER Large Laser × 2 
 - **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3074) 
 - **Battle Value:** Unknown 
 - [*More Info*](stingray/stingray_f-95.md) 
+
+## Stingray F-96R 
+
+- **Role:** Dogfighter 
+- **Tech Base:** Inner Sphere (3132) 
+- **Chassis:** 60 tons 
+- **Thrust:** 6 / 9 
+- **Fuel:** 400 
+- **Armor:** 206 (Ferro Aluminum) 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - Large Re-Engineered Laser × 3 
+- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6814) 
+- **Battle Value:** Unknown 
+- [*More Info*](stingray/stingray_f-96r.md) 
 

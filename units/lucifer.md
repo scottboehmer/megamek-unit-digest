@@ -43,7 +43,7 @@
 - **Thrust:** 5 / 8 
 - **Fuel:** 400 
 - **Armor:** 179 (Ferro Aluminum) 
-- **Heat Sinks:** 20 (20) 
+- **Heat Sinks:** 20 (40) 
 - **Weapons:** 
   - LRM 20 w/ Artemis IV (ammo: 12) 
   - ER Large Laser × 2 
@@ -52,4 +52,21 @@
 - **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1955) 
 - **Battle Value:** Unknown 
 - [*More Info*](lucifer/lucifer_lcf-r16.md) 
+
+## Lucifer LCF-X30 
+
+- **Role:** Attack Fighter 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 65 tons 
+- **Thrust:** 5 / 8, XL 
+- **Fuel:** 400 
+- **Armor:** 376 (Ferro Aluminum) 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Blazer Cannon 
+  - ELRM 10 × 2 (ammo: 18) 
+  - Medium X-Pulse Laser 
+- **Sources:** XTRO Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1957) 
+- **Battle Value:** Unknown 
+- [*More Info*](lucifer/lucifer_lcf-x30.md) 
 

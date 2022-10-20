@@ -10,7 +10,7 @@
 - **Thrust:** 5 / 8, XL 
 - **Fuel:** 400 
 - **Armor:** 295 (Ferro Aluminum) 
-- **Heat Sinks:** 19 (19) 
+- **Heat Sinks:** 19 (38) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 20) 
   - LRM 10 (ammo: 24) 

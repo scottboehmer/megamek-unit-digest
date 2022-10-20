@@ -10,7 +10,7 @@
 - **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 224 
-- **Heat Sinks:** 25 (25) 
+- **Heat Sinks:** 25 (50) 
 - **Weapons:** 
   - ER Large Laser × 3 
   - Medium Laser × 4 

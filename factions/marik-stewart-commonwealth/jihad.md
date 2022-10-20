@@ -20,3 +20,17 @@
 
 - [**Guillotine GLT-6WB3**](../../units/guillotine/guillotine_glt-6wb3.md) *Brawler (3080)* `C3 Support` , `ECM` 
 
+## Fighters 
+
+### 25 Tons 
+
+#### [Cheetah](../../units/cheetah.md) 
+
+- [**Cheetah OF-17A-R**](../../units/cheetah/cheetah_of-17a-r.md) *Interceptor (3080)* `ECM` , `Stealth` 
+
+### 50 Tons 
+
+#### [Lancer](../../units/lancer.md) 
+
+- [**Lancer LX-3**](../../units/lancer/lancer_lx-3.md) *Fast Dogfighter (3074)* `ECM` 
+

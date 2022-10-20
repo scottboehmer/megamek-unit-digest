@@ -2323,11 +2323,21 @@
 
 ### 25 Tons 
 
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+- [**Sabre SB-27b**](../../units/sabre/sabre_sb-27b.md) *Interceptor (2722)* 
+
 #### [Thrush](../../units/thrush.md) 
 
 - [**Thrush TR-7**](../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
 
 ### 30 Tons 
+
+#### [Centurion Aerospace Fighter](../../units/centurion_aerospace_fighter.md) 
+
+- [**Centurion CNT-1D**](../../units/centurion_aerospace_fighter/centurion_cnt-1d.md) *Interceptor (2473)* 
+- [**Centurion CNT-2D**](../../units/centurion_aerospace_fighter/centurion_cnt-2d.md) *Interceptor (2837)* 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
 
@@ -2348,20 +2358,45 @@
 
 - [**Sai S-4**](../../units/sai/sai_s-4.md) *Fast Dogfighter (3061)* 
 
+### 45 Tons 
+
+#### [Dagger](../../units/dagger.md) 
+
+- [**Dagger DARO-1**](../../units/dagger/dagger_daro-1.md) *Fast Dogfighter (3062)* 
+- [**Dagger DARO-1A**](../../units/dagger/dagger_daro-1a.md) *Fast Dogfighter (3062)* 
+- [**Dagger DARO-1B**](../../units/dagger/dagger_daro-1b.md) *Fast Dogfighter (3062)* 
+- [**Dagger DARO-1C**](../../units/dagger/dagger_daro-1c.md) *Fast Dogfighter (3068)* 
+- [**Dagger DARO-1D**](../../units/dagger/dagger_daro-1d.md) *Fast Dogfighter (3068)* `Active Probe` , `ECM` 
+- [**Dagger DAR4-XP**](../../units/dagger/dagger_dar4-xp.md) *Fast Dogfighter (3070)* `Unique` 
+
 ### 50 Tons 
 
 #### [Corsair](../../units/corsair.md) 
 
 - [**Corsair CSR-V12**](../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
+- [**Corsair CSR-V12b**](../../units/corsair/corsair_csr-v12b.md) *Dogfighter (2780)* 
 - [**Corsair CSR-V20**](../../units/corsair/corsair_csr-v20.md) *Dogfighter (3010)* 
 - [**Corsair CSR-V14**](../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
 - [**Corsair CSR-V18**](../../units/corsair/corsair_csr-v18.md) *Fire Support (3069)* 
+- [**Corsair (Bob) 'Roswell'**](../../units/corsair/corsair_bob_roswell.md) *Dogfighter (3070)* `Unique` 
+- [**Corsair CSR-X12 Rigid Night**](../../units/corsair/corsair_csr-x12_rigid_night.md) *Fast Dogfighter (3074)* `Unique` 
 
 #### [Hellcat II](../../units/hellcat_ii.md) 
 
 - [**Hellcat II HCT-212**](../../units/hellcat_ii/hellcat_ii_hct-212.md) *Fast Dogfighter (2838)* 
 
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+- [**Lightning LTN-G16D**](../../units/lightning_aerospace_fighter/lightning_ltn-g16d.md) *Dogfighter (3068)* 
+
 ### 60 Tons 
+
+#### [Hellcat](../../units/hellcat.md) 
+
+- [**Hellcat HCT-213R**](../../units/hellcat/hellcat_hct-213r.md) *Dogfighter (2675)* 
+- [**Hellcat HCT-213S**](../../units/hellcat/hellcat_hct-213s.md) *Dogfighter (2683)* 
+- [**Hellcat HCT-213D**](../../units/hellcat/hellcat_hct-213d.md) *Dogfighter (2701)* 
 
 #### [Stingray](../../units/stingray.md) 
 
@@ -2377,11 +2412,24 @@
 - [**Lucifer LCF-R20**](../../units/lucifer/lucifer_lcf-r20.md) *Attack Fighter (2609)* 
 - [**Lucifer LCF-R16**](../../units/lucifer/lucifer_lcf-r16.md) *Attack Fighter (3052)* 
 
+### 75 Tons 
+
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R4**](../../units/eagle_aerospace_fighter/eagle_egl-r4.md) *Attack Fighter (2492)* 
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
+- [**Eagle EGL-R9**](../../units/eagle_aerospace_fighter/eagle_egl-r9.md) *Dogfighter (2601)* 
+- [**Eagle EGL-R10**](../../units/eagle_aerospace_fighter/eagle_egl-r10.md) *Dogfighter (2684)* 
+
 ### 80 Tons 
 
 #### [Slayer](../../units/slayer.md) 
 
 - [**Slayer SL-15R**](../../units/slayer/slayer_sl-15r.md) *Dogfighter (3044)* 
+
+#### [Vulcan Aerospace Fighter](../../units/vulcan_aerospace_fighter.md) 
+
+- [**Vulcan VLC-8N**](../../units/vulcan_aerospace_fighter/vulcan_vlc-8n.md) *Attack Fighter (3074)* 
 
 ### 90 Tons 
 
@@ -2399,8 +2447,14 @@
 #### [Stuka](../../units/stuka.md) 
 
 - [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-K5b2**](../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
 - [**Stuka STU-K10**](../../units/stuka/stuka_stu-k10.md) *Attack Fighter (2711)* 
 - [**Stuka STU-K15**](../../units/stuka/stuka_stu-k15.md) *Attack Fighter (2965)* 
 - [**Stuka STU-D6**](../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
 - [**Stuka STU-D7**](../../units/stuka/stuka_stu-d7.md) *Attack Fighter (3070)* 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36b**](../../units/thunderbird/thunderbird_trb-d36b.md) *Attack Fighter (2715)* 
 

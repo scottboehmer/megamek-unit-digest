@@ -10,7 +10,7 @@
 - **Thrust:** 7 / 11, XL 
 - **Fuel:** 400 
 - **Armor:** 143 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 

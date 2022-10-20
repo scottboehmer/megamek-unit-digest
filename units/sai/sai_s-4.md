@@ -10,7 +10,7 @@
 - **Thrust:** 8 / 12, XL 
 - **Fuel:** 400 
 - **Armor:** 125 (Ferro Aluminum) 
-- **Heat Sinks:** 14 (14) 
+- **Heat Sinks:** 14 (28) 
 - **Weapons:** 
   - ER PPC 
   - SRM 4 w/ Artemis IV × 2 (ammo: 50) 

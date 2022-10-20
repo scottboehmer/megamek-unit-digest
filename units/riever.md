@@ -58,7 +58,7 @@
 - **Thrust:** 6 / 9, XL 
 - **Fuel:** 400 
 - **Armor:** 248 
-- **Heat Sinks:** 20 (20) 
+- **Heat Sinks:** 20 (40) 
 - **Weapons:** 
   - AC/20 (ammo: 15) 
   - LRM 10 (ammo: 24) 
@@ -75,7 +75,7 @@
 - **Thrust:** 5 / 8, XL 
 - **Fuel:** 400 
 - **Armor:** 264 
-- **Heat Sinks:** 20 (20) 
+- **Heat Sinks:** 20 (40) 
 - **Weapons:** 
   - LB 10-X AC × 2 (ammo: 40 Cluster) 
   - SRM 6 × 8 (ammo: 90) 
@@ -91,7 +91,7 @@
 - **Thrust:** 5 / 8, XL 
 - **Fuel:** 400 
 - **Armor:** 295 (Ferro Aluminum) 
-- **Heat Sinks:** 19 (19) 
+- **Heat Sinks:** 19 (38) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 20) 
   - LRM 10 (ammo: 24) 

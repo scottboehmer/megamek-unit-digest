@@ -10,7 +10,7 @@
 - **Thrust:** 8 / 12 
 - **Fuel:** 480 
 - **Armor:** 120 
-- **Heat Sinks:** 12 (12) 
+- **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - ER Medium Laser × 2 
   - MRM 10 × 2 (ammo: 48) 

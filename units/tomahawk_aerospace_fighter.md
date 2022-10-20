@@ -40,7 +40,7 @@
 - **Thrust:** 8 / 12 
 - **Fuel:** 400 
 - **Armor:** 188 (Ferro Aluminum) 
-- **Heat Sinks:** 16 (16) 
+- **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - Medium Laser × 6 
 - **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3272) 
@@ -55,13 +55,45 @@
 - **Thrust:** 8 / 12 
 - **Fuel:** 400 
 - **Armor:** 179 (Ferro Aluminum) 
-- **Heat Sinks:** 12 (12) 
+- **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - Large Laser × 2 
   - Small Laser 
 - **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3273) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-63.md) 
+
+## Tomahawk THK-63b 
+
+- **Role:** Fast Dogfighter 
+- **Tech Base:** Inner Sphere (2751) 
+- **Chassis:** 45 tons 
+- **Thrust:** 8 / 12, XL 
+- **Fuel:** 400 
+- **Armor:** 188 (Ferro Aluminum) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER PPC 
+  - Large Laser × 2 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5255) 
+- **Battle Value:** Unknown 
+- [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-63b.md) 
+
+## Tomahawk THK-63-EC 
+
+- **Role:** Fast Dogfighter 
+- **Tech Base:** Clan (2818) 
+- **Chassis:** 45 tons 
+- **Thrust:** 8 / 12 
+- **Fuel:** 400 
+- **Armor:** 179 (Ferro Aluminum) 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Improved Large Laser × 2 
+  - Inner Sphere Small Laser 
+- **Sources:** Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7688) 
+- **Battle Value:** Unknown 
+- [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-63-ec.md) 
 
 ## Tomahawk 'C' 
 
@@ -71,7 +103,7 @@
 - **Thrust:** 8 / 12 
 - **Fuel:** 400 
 - **Armor:** 211 (Ferro Aluminum) 
-- **Heat Sinks:** 13 (13) 
+- **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Small Laser 
@@ -87,7 +119,7 @@
 - **Thrust:** 8 / 12 
 - **Fuel:** 400 
 - **Armor:** 211 (Ferro Aluminum) 
-- **Heat Sinks:** 13 (13) 
+- **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - Heavy Large Laser × 2 
   - Heavy Small Laser 
@@ -103,11 +135,27 @@
 - **Thrust:** 8 / 12 
 - **Fuel:** 400 
 - **Armor:** 179 (Ferro Aluminum) 
-- **Heat Sinks:** 12 (12) 
+- **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Small Laser 
 - **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3274) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-63cs.md) 
+
+## Tomahawk CX-11 
+
+- **Role:** Fire Support 
+- **Tech Base:** Inner Sphere (3074) 
+- **Chassis:** 45 tons 
+- **Thrust:** 8 / 12 
+- **Fuel:** 400 
+- **Armor:** 144 (Laser Reflective) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - ER Small Laser 
+- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5558) 
+- **Battle Value:** Unknown 
+- [*More Info*](tomahawk_aerospace_fighter/tomahawk_cx-11.md) 
 

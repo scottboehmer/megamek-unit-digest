@@ -10,7 +10,7 @@
 - **Thrust:** 6 / 9, Light 
 - **Fuel:** 480 
 - **Armor:** 232 (Ferro Aluminum) 
-- **Heat Sinks:** 14 (14) 
+- **Heat Sinks:** 14 (28) 
 - **Weapons:** 
   - Snub-Nose PPC 
   - ER Medium Laser × 2 

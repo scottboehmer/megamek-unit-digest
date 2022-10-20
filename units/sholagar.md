@@ -31,6 +31,24 @@
 - **Battle Value:** Unknown 
 - [*More Info*](sholagar/sholagar_sl-21l.md) 
 
+## Sholagar SL-27X 
+
+- **Role:** Interceptor 
+- **Tech Base:** Inner Sphere (3069) 
+- **Chassis:** 35 tons 
+- **Thrust:** 11 / 17, XXL 
+- **Fuel:** 400 
+- **Armor:** 112 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Light PPC × 3 
+  - SRM 4 (iOS) 
+- **Equipment:** 
+  - Angel ECM Suite 
+- **Sources:** XTRO Corporation - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2938) 
+- **Battle Value:** Unknown 
+- [*More Info*](sholagar/sholagar_sl-27x.md) 
+
 ## Sholagar SL-22 
 
 - **Role:** Interceptor 
@@ -39,7 +57,7 @@
 - **Thrust:** 10 / 15, Light 
 - **Fuel:** 400 
 - **Armor:** 116 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 2 

@@ -10,7 +10,7 @@
 - **Thrust:** 8 / 12, XL 
 - **Fuel:** 400 
 - **Armor:** 115 (Ferro Aluminum) 
-- **Heat Sinks:** 14 (14) 
+- **Heat Sinks:** 14 (28) 
 - **Weapons:** 
   - ER PPC 
   - Streak SRM 4 × 4 (ammo: 50) 

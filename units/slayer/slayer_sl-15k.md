@@ -10,7 +10,7 @@
 - **Thrust:** 6 / 9 
 - **Fuel:** 800 
 - **Armor:** 232 
-- **Heat Sinks:** 20 (20) 
+- **Heat Sinks:** 20 (40) 
 - **Weapons:** 
   - LB 10-X AC (ammo: 30 Cluster) 
   - ER Medium Laser × 6 

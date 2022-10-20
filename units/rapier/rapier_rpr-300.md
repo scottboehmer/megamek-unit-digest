@@ -10,7 +10,7 @@
 - **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 232 (Ferro Aluminum) 
-- **Heat Sinks:** 11 (11) 
+- **Heat Sinks:** 11 (22) 
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 16) 
   - PPC × 2 

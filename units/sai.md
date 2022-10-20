@@ -40,7 +40,7 @@
 - **Thrust:** 8 / 12, XL 
 - **Fuel:** 400 
 - **Armor:** 115 (Ferro Aluminum) 
-- **Heat Sinks:** 14 (14) 
+- **Heat Sinks:** 14 (28) 
 - **Weapons:** 
   - ER PPC 
   - Streak SRM 4 × 4 (ammo: 50) 
@@ -58,7 +58,7 @@
 - **Thrust:** 8 / 12, XL 
 - **Fuel:** 400 
 - **Armor:** 125 (Ferro Aluminum) 
-- **Heat Sinks:** 14 (14) 
+- **Heat Sinks:** 14 (28) 
 - **Weapons:** 
   - ER PPC 
   - SRM 4 w/ Artemis IV × 2 (ammo: 50) 
@@ -74,7 +74,7 @@
 - **Thrust:** 8 / 12 
 - **Fuel:** 480 
 - **Armor:** 120 
-- **Heat Sinks:** 12 (12) 
+- **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - ER Medium Laser × 2 
   - MRM 10 × 2 (ammo: 48) 
@@ -90,7 +90,7 @@
 - **Thrust:** 8 / 12, XL 
 - **Fuel:** 480 
 - **Armor:** 161 (Ferro Aluminum) 
-- **Heat Sinks:** 16 (16) 
+- **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - Light PPC × 2 
   - ER Medium Laser × 4 

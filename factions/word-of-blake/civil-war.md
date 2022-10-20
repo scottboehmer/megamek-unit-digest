@@ -1720,6 +1720,10 @@
 
 - [**Cheetah F-12-S**](../../units/cheetah/cheetah_f-12-s.md) *Interceptor (2868)* 
 
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+
 #### [Swift](../../units/swift.md) 
 
 - [**Swift SWF-606**](../../units/swift/swift_swf-606.md) *Interceptor (2682)* 
@@ -1760,6 +1764,23 @@
 - [**Hellcat II HCT-213B**](../../units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
 - [**Hellcat II HCT-214**](../../units/hellcat_ii/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
 
+#### [Lancer](../../units/lancer.md) 
+
+- [**Lancer LX-2**](../../units/lancer/lancer_lx-2.md) *Fast Dogfighter (3064)* 
+
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+
+### 55 Tons 
+
+#### [Defiance OmniFighter](../../units/defiance_omnifighter.md) 
+
+- [**Defiance DFC-O**](../../units/defiance_omnifighter/defiance_dfc-o.md) *Dogfighter (3067)* 
+- [**Defiance DFC-OA**](../../units/defiance_omnifighter/defiance_dfc-oa.md) *Fire Support (3067)* 
+- [**Defiance DFC-OB**](../../units/defiance_omnifighter/defiance_dfc-ob.md) *Fire Support (3067)* 
+- [**Defiance DFC-OC**](../../units/defiance_omnifighter/defiance_dfc-oc.md) *Dogfighter (3067)* 
+
 ### 60 Tons 
 
 #### [Gotha](../../units/gotha.md) 
@@ -1780,6 +1801,10 @@
 
 ### 75 Tons 
 
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
+
 #### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
 
 - [**Hammerhead HMR-HD**](../../units/hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) *Fast Dogfighter (2571)* 
@@ -1791,11 +1816,19 @@
 
 - [**Rapier RPR-100**](../../units/rapier/rapier_rpr-100.md) *Dogfighter (2596)* 
 
+#### [Shiva](../../units/shiva.md) 
+
+- [**Shiva SHV-O**](../../units/shiva/shiva_shv-o.md) *Attack Fighter (3060)* 
+- [**Shiva SHV-OA**](../../units/shiva/shiva_shv-oa.md) *Attack Fighter (3060)* 
+- [**Shiva SHV-OB**](../../units/shiva/shiva_shv-ob.md) *Attack Fighter (3060)* 
+- [**Shiva SHV-OC**](../../units/shiva/shiva_shv-oc.md) *Attack Fighter (3060)* 
+
 ### 90 Tons 
 
 #### [Ahab](../../units/ahab.md) 
 
 - [**Ahab AHB-443**](../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443b**](../../units/ahab/ahab_ahb-443b.md) *Attack Fighter (2703)* 
 - [**Ahab AHB-MD**](../../units/ahab/ahab_ahb-md.md) *Attack Fighter (3061)* 
 - [**Ahab AHB-643**](../../units/ahab/ahab_ahb-643.md) *Attack Fighter (3067)* 
 
@@ -1805,4 +1838,8 @@
 
 - [**Riever F-700**](../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
 - [**Riever F-700a**](../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
 

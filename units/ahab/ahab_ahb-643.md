@@ -10,7 +10,7 @@
 - **Thrust:** 5 / 8 
 - **Fuel:** 400 
 - **Armor:** 248 
-- **Heat Sinks:** 22 (22) 
+- **Heat Sinks:** 22 (44) 
 - **Weapons:** 
   - Heavy PPC 
   - MRM 40 × 2 (ammo: 12) 

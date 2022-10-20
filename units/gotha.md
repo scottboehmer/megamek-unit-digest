@@ -55,6 +55,24 @@
 - **Battle Value:** Unknown 
 - [*More Info*](gotha/gotha_gtha-500.md) 
 
+## Gotha GTHA-500b 
+
+- **Role:** Attack Fighter 
+- **Tech Base:** Inner Sphere (2703) 
+- **Chassis:** 60 tons 
+- **Thrust:** 5 / 8 
+- **Fuel:** 480 
+- **Armor:** 232 (Ferro Aluminum) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - LRM 15 w/ Artemis IV × 2 (ammo: 8) 
+  - Large Pulse Laser 
+  - Medium Laser × 4 
+  - Small Laser × 2 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4229) 
+- **Battle Value:** Unknown 
+- [*More Info*](gotha/gotha_gtha-500b.md) 
+
 ## Gotha GTHA-400 
 
 - **Role:** Attack Fighter 
@@ -81,7 +99,7 @@
 - **Thrust:** 6 / 9, Light 
 - **Fuel:** 480 
 - **Armor:** 232 (Ferro Aluminum) 
-- **Heat Sinks:** 14 (14) 
+- **Heat Sinks:** 14 (28) 
 - **Weapons:** 
   - Snub-Nose PPC 
   - ER Medium Laser × 2 

@@ -1805,6 +1805,10 @@
 
 - [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
 
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+
 ### 30 Tons 
 
 #### [Sparrowhawk](../../units/sparrowhawk.md) 
@@ -1820,6 +1824,10 @@
 - [**Sholagar SL-21L**](../../units/sholagar/sholagar_sl-21l.md) *Interceptor (2911)* 
 
 ### 40 Tons 
+
+#### [Batu](../../units/batu.md) 
+
+- [**Batu Prime**](../../units/batu/batu_prime.md) *Fast Dogfighter (2987)* 
 
 #### [Sai](../../units/sai.md) 
 
@@ -1845,9 +1853,19 @@
 
 - [**Hellcat II HCT-213B**](../../units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
 
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+
 #### [Samurai](../../units/samurai.md) 
 
 - [**Samurai SL-25**](../../units/samurai/samurai_sl-25.md) *Fast Dogfighter (2472)* 
+
+### 55 Tons 
+
+#### [Oni](../../units/oni.md) 
+
+- [**Oni ON-1**](../../units/oni/oni_on-1.md) *Fast Dogfighter (3066)* 
 
 ### 60 Tons 
 
@@ -1873,7 +1891,20 @@
 - [**Shilone SL-17AC**](../../units/shilone/shilone_sl-17ac.md) *Dogfighter (2935)* 
 - [**Shilone SL-17R**](../../units/shilone/shilone_sl-17r.md) *Fire Support (3042)* 
 
+### 70 Tons 
+
+#### [Tatsu](../../units/tatsu.md) 
+
+- [**Tatsu MIK-O**](../../units/tatsu/tatsu_mik-o.md) *Attack Fighter (3063)* 
+- [**Tatsu MIK-OA**](../../units/tatsu/tatsu_mik-oa.md) *Attack Fighter (3063)* 
+- [**Tatsu MIK-OB**](../../units/tatsu/tatsu_mik-ob.md) *Attack Fighter (3063)* 
+- [**Tatsu MIK-OC**](../../units/tatsu/tatsu_mik-oc.md) *Attack Fighter (3063)* 
+
 ### 75 Tons 
+
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
 
 #### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
 
@@ -1911,4 +1942,8 @@
 #### [Stuka](../../units/stuka.md) 
 
 - [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
 

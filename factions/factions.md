@@ -265,6 +265,7 @@
 
 ## Duchy of Andurien 
 
+- [Jihad](duchy-of-andurien/jihad.md) 
 - [Early Republic](duchy-of-andurien/early-republic.md) 
 - [Late Republic](duchy-of-andurien/late-republic.md) 
 - [Dark Ages](duchy-of-andurien/dark-ages.md) 

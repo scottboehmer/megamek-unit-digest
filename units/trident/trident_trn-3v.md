@@ -11,7 +11,7 @@
 - **Fuel:** 240 
 - **Armor:** 39 (Heavy Ferro Aluminum) 
 - **Cockpit:** Small 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Medium Pulse Laser 

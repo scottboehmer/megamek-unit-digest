@@ -103,11 +103,46 @@
 - **Thrust:** 12 / 18, XL 
 - **Fuel:** 480 
 - **Armor:** 99 (Heavy Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 4 
   - ER Small Laser 
 - **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/576) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_f-13.md) 
+
+## Cheetah OF-17 
+
+- **Role:** Interceptor 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 25 tons 
+- **Thrust:** 12 / 18, XL 
+- **Fuel:** 320 
+- **Armor:** 40 (Stealth) 
+- **Heat Sinks:** 10 (20) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Hyperspectral Imager 
+- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/578) 
+- **Battle Value:** Unknown 
+- [*More Info*](cheetah/cheetah_of-17.md) 
+
+## Cheetah OF-17A-R 
+
+- **Role:** Interceptor 
+- **Tech Base:** Inner Sphere (3080) 
+- **Chassis:** 25 tons 
+- **Thrust:** 12 / 18, XL 
+- **Fuel:** 320 
+- **Armor:** 40 (Stealth) 
+- **Cockpit:** Small 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Small Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Hyperspectral Imager 
+- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3946) 
+- **Battle Value:** Unknown 
+- [*More Info*](cheetah/cheetah_of-17a-r.md) 
 

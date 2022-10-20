@@ -2169,12 +2169,20 @@
 #### [Seydlitz](../../units/seydlitz.md) 
 
 - [**Seydlitz SYD-Z1**](../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
+- [**Seydlitz (Mary) 'Yari'**](../../units/seydlitz/seydlitz_mary_yari.md) *Interceptor (3069)* `Unique` 
 
 ### 25 Tons 
 
 #### [Cheetah](../../units/cheetah.md) 
 
 - [**Cheetah F-10**](../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
+
+#### [Sabre](../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+- [**Sabre SB-29**](../../units/sabre/sabre_sb-29.md) *Interceptor (3068)* 
+- [**Sabre SB-31 'Defense Special'**](../../units/sabre/sabre_sb-31_defense_special.md) *Interceptor (3068)* `Unique` 
+- [**Sabre SB-31D**](../../units/sabre/sabre_sb-31d.md) *Interceptor (3079)* 
 
 ### 30 Tons 
 
@@ -2192,6 +2200,10 @@
 - [**Sholagar SL-22**](../../units/sholagar/sholagar_sl-22.md) *Interceptor (3070)* 
 
 ### 40 Tons 
+
+#### [Batu](../../units/batu.md) 
+
+- [**Batu Prime**](../../units/batu/batu_prime.md) *Fast Dogfighter (2987)* 
 
 #### [Sai](../../units/sai.md) 
 
@@ -2218,9 +2230,21 @@
 
 - [**Hellcat II HCT-213B**](../../units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
 
+#### [Lightning Aerospace Fighter](../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+
 #### [Samurai](../../units/samurai.md) 
 
 - [**Samurai SL-25**](../../units/samurai/samurai_sl-25.md) *Fast Dogfighter (2472)* 
+
+### 55 Tons 
+
+#### [Oni](../../units/oni.md) 
+
+- [**Oni ON-1**](../../units/oni/oni_on-1.md) *Fast Dogfighter (3066)* 
+- [**Oni ON-2X**](../../units/oni/oni_on-2x.md) *Fast Dogfighter (3077)* `ECM` , `Stealth` , `Unique` 
+- [**Oni ON-2**](../../units/oni/oni_on-2.md) *Fast Dogfighter (3078)* `ECM` 
 
 ### 60 Tons 
 
@@ -2246,8 +2270,24 @@
 - [**Shilone SL-17AC**](../../units/shilone/shilone_sl-17ac.md) *Dogfighter (2935)* 
 - [**Shilone SL-17R**](../../units/shilone/shilone_sl-17r.md) *Fire Support (3042)* 
 - [**Shilone SL-18**](../../units/shilone/shilone_sl-18.md) *Dogfighter (3068)* 
+- [**Shilone SL-17X**](../../units/shilone/shilone_sl-17x.md) *Dogfighter (3075)* `Unique` 
+
+### 70 Tons 
+
+#### [Tatsu](../../units/tatsu.md) 
+
+- [**Tatsu MIK-O**](../../units/tatsu/tatsu_mik-o.md) *Attack Fighter (3063)* 
+- [**Tatsu MIK-OA**](../../units/tatsu/tatsu_mik-oa.md) *Attack Fighter (3063)* 
+- [**Tatsu MIK-OB**](../../units/tatsu/tatsu_mik-ob.md) *Attack Fighter (3063)* 
+- [**Tatsu MIK-OC**](../../units/tatsu/tatsu_mik-oc.md) *Attack Fighter (3063)* 
+- [**Tatsu MIK-OD**](../../units/tatsu/tatsu_mik-od.md) *Attack Fighter (3072)* 
+- [**Tatsu MIK-OE**](../../units/tatsu/tatsu_mik-oe.md) *Attack Fighter (3075)* `ECM` 
 
 ### 75 Tons 
+
+#### [Eagle Aerospace Fighter](../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R6**](../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
 
 #### [Hammerhead Aerospace Fighter](../../units/hammerhead_aerospace_fighter.md) 
 
@@ -2285,4 +2325,8 @@
 #### [Stuka](../../units/stuka.md) 
 
 - [**Stuka STU-K5**](../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+
+#### [Thunderbird](../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
 

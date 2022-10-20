@@ -1,5 +1,21 @@
 # Transit 
 
+## Transit TR-9 
+
+- **Role:** Dogfighter 
+- **Tech Base:** Inner Sphere (2571) 
+- **Chassis:** 50 tons 
+- **Thrust:** 6 / 9 
+- **Fuel:** 400 
+- **Armor:** 170 (Ferro Aluminum) 
+- **Heat Sinks:** 13 (13) 
+- **Weapons:** 
+  - AC/20 (ammo: 15) 
+  - Medium Laser × 4 
+- **Sources:** Field Report 2765 Liao - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8119) 
+- **Battle Value:** Unknown 
+- [*More Info*](transit/transit_tr-9.md) 
+
 ## Transit TR-10 
 
 - **Role:** Dogfighter 
@@ -39,11 +55,43 @@
 - **Thrust:** 7 / 11, XL 
 - **Fuel:** 400 
 - **Armor:** 184 
-- **Heat Sinks:** 12 (12) 
+- **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - LB 20-X AC (ammo: 20 Cluster) 
   - ER Medium Laser × 4 
 - **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3290) 
 - **Battle Value:** Unknown 
 - [*More Info*](transit/transit_tr-12.md) 
+
+## Transit TR-13X 'Glare' 
+
+- **Role:** Dogfighter 
+- **Tech Base:** Inner Sphere (3077) 
+- **Chassis:** 50 tons 
+- **Thrust:** 6 / 9, XL 
+- **Fuel:** 400 
+- **Armor:** 168 (Laser Reflective) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Improved Heavy Gauss Rifle (ammo: 12) 
+  - ER Medium Laser × 4 
+- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3291) 
+- **Battle Value:** Unknown 
+- [*More Info*](transit/transit_tr-13x_glare.md) 
+
+## Transit TR-13G 
+
+- **Role:** Fire Support 
+- **Tech Base:** Inner Sphere (3081) 
+- **Chassis:** 50 tons 
+- **Thrust:** 6 / 9, XL 
+- **Fuel:** 400 
+- **Armor:** 168 (Laser Reflective) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Long Tom Cannon (ammo: 15) 
+  - ER Medium Laser × 4 
+- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5274) 
+- **Battle Value:** Unknown 
+- [*More Info*](transit/transit_tr-13g.md) 
 

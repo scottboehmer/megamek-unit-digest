@@ -40,7 +40,7 @@
 - **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 224 
-- **Heat Sinks:** 25 (25) 
+- **Heat Sinks:** 25 (50) 
 - **Weapons:** 
   - ER Large Laser × 3 
   - Medium Laser × 4 
@@ -56,7 +56,7 @@
 - **Thrust:** 6 / 9 
 - **Fuel:** 400 
 - **Armor:** 197 (Ferro Aluminum) 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Gauss Rifle × 2 (ammo: 24) 
   - Medium Laser × 4 
@@ -72,7 +72,7 @@
 - **Thrust:** 6 / 9, XL 
 - **Fuel:** 400 
 - **Armor:** 241 (Ferro Aluminum) 
-- **Heat Sinks:** 25 (25) 
+- **Heat Sinks:** 25 (50) 
 - **Weapons:** 
   - Heavy PPC × 2 
   - ER Large Laser 
