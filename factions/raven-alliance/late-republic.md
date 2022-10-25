@@ -959,11 +959,11 @@
 
 - [**Ground Pounder DVM-2 MiningMech**](../../units/ground_pounder/ground_pounder_dvm-2_miningmech.md) *Ambusher (3125)* `IndustrialMech` 
 
-#### [Hel](../../units/hel.md) 
+#### [Hel OmniMech](../../units/hel_omnimech.md) 
 
-- [**Hel Prime**](../../units/hel/hel_prime.md) *Sniper (3121)* 
-- [**Hel A**](../../units/hel/hel_a.md) *Brawler (3121)* `ECM` 
-- [**Hel B**](../../units/hel/hel_b.md) *Brawler (3121)* 
+- [**Hel Prime**](../../units/hel_omnimech/hel_prime.md) *Sniper (3121)* 
+- [**Hel A**](../../units/hel_omnimech/hel_a.md) *Brawler (3121)* `ECM` 
+- [**Hel B**](../../units/hel_omnimech/hel_b.md) *Brawler (3121)* 
 
 #### [Linebacker](../../units/linebacker.md) 
 

@@ -2022,6 +2022,11 @@
 - [**Gravedigger GDR-1C**](../../units/gravedigger/gravedigger_gdr-1c.md) *Brawler (3102)* 
 - [**Gravedigger GDR-1D**](../../units/gravedigger/gravedigger_gdr-1d.md) *Sniper (3105)* `Active Probe` , `ECM` 
 
+#### [Hel](../../units/hel.md) 
+
+- [**Hel HL-1**](../../units/hel/hel_hl-1.md) *Undefined (3092)* 
+- [**Hel HL-2**](../../units/hel/hel_hl-2.md) *Skirmisher (3092)* 
+
 #### [Hunchback](../../units/hunchback.md) 
 
 - [**Hunchback HBK-5N**](../../units/hunchback/hunchback_hbk-5n.md) *Juggernaut (3057)* 

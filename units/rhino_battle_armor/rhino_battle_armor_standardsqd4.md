@@ -15,12 +15,10 @@
 - **Weapons:** 
   - Small Pulse Laser 
   - SRM 2 (ammo: 6) 
-- **Sources:** TRO Golden Century - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4912) 
+- **Sources:** TRO Golden Century - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9200) 
 - **Battle Value:** 68 (352 for 4 suits) 
 
 ## Availability 
 
-### Early Succession Wars 
-
-- Clan Hell's Horses 
+Availability Unknown 
 

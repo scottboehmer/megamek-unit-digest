@@ -695,7 +695,7 @@
 #### [Kamakiri Attack VTOL](../../units/kamakiri_attack_vtol.md) 
 
 - [**Kamakiri Attack VTOL (Standard)**](../../units/kamakiri_attack_vtol/kamakiri_attack_vtol_standard.md) *Missile Boat (3100)* 
-- [**Kamakiri Attack VTOL (Gauss)**](../../units/kamakiri_attack_vtol/kamakiri_attack_vtol_gauss.md) *Sniper (3106)* 
+- [**Kamakiri Attack VTOL (Gauss) 'Shi Kamakiri'**](../../units/kamakiri_attack_vtol/kamakiri_attack_vtol_gauss_shi_kamakiri.md) *Undefined (3106)* 
 
 #### [Padilla Tube Artillery Tank](../../units/padilla_tube_artillery_tank.md) 
 

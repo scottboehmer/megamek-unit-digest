@@ -7,6 +7,7 @@
 #### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
 
 - [**Clan Medium Battle Armor (Rabid)(Sqd5)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabidsqd5.md) *Scout (3067)* 
+- [**Clan Medium Battle Armor (Laser) 'Volk' (Sqd5)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_laser_volk_sqd5.md) *Scout (3071)* 
 - [**Clan Medium Battle Armor (Rache)(Sqd5)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rachesqd5.md) *Scout (3077)* 
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 

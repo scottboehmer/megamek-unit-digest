@@ -1137,11 +1137,11 @@
 - [**Ha Otoko (Standard)**](../../units/ha_otoko/ha_otoko_standard.md) *Missile Boat (3060)* 
 - [**Ha Otoko 3**](../../units/ha_otoko/ha_otoko_3.md) *Missile Boat (3082)* `ECM` 
 
-#### [Hel](../../units/hel.md) 
+#### [Hel OmniMech](../../units/hel_omnimech.md) 
 
-- [**Hel Prime**](../../units/hel/hel_prime.md) *Sniper (3121)* 
-- [**Hel A**](../../units/hel/hel_a.md) *Brawler (3121)* `ECM` 
-- [**Hel B**](../../units/hel/hel_b.md) *Brawler (3121)* 
+- [**Hel Prime**](../../units/hel_omnimech/hel_prime.md) *Sniper (3121)* 
+- [**Hel A**](../../units/hel_omnimech/hel_a.md) *Brawler (3121)* `ECM` 
+- [**Hel B**](../../units/hel_omnimech/hel_b.md) *Brawler (3121)* 
 
 #### [Hellbringer](../../units/hellbringer.md) 
 

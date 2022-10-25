@@ -7,6 +7,7 @@
 #### [Clan Medium Battle Armor](../../units/clan_medium_battle_armor.md) 
 
 - [**Clan Medium Battle Armor (Rabid)(Sqd5)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabidsqd5.md) *Scout (3067)* 
+- [**Clan Medium Battle Armor (Laser) 'Volk' (Sqd5)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_laser_volk_sqd5.md) *Scout (3071)* 
 - [**Clan Medium Battle Armor (Rache)(Sqd5)**](../../units/clan_medium_battle_armor/clan_medium_battle_armor_rachesqd5.md) *Scout (3077)* 
 
 #### [Elemental Battle Armor](../../units/elemental_battle_armor.md) 
@@ -1028,11 +1029,11 @@
 
 - [**Ground Pounder DVM-2 MiningMech**](../../units/ground_pounder/ground_pounder_dvm-2_miningmech.md) *Ambusher (3125)* `IndustrialMech` 
 
-#### [Hel](../../units/hel.md) 
+#### [Hel OmniMech](../../units/hel_omnimech.md) 
 
-- [**Hel Prime**](../../units/hel/hel_prime.md) *Sniper (3121)* 
-- [**Hel A**](../../units/hel/hel_a.md) *Brawler (3121)* `ECM` 
-- [**Hel B**](../../units/hel/hel_b.md) *Brawler (3121)* 
+- [**Hel Prime**](../../units/hel_omnimech/hel_prime.md) *Sniper (3121)* 
+- [**Hel A**](../../units/hel_omnimech/hel_a.md) *Brawler (3121)* `ECM` 
+- [**Hel B**](../../units/hel_omnimech/hel_b.md) *Brawler (3121)* 
 
 #### [Linebacker](../../units/linebacker.md) 
 

@@ -1,4 +1,4 @@
-# Loki Mk II (Hel) 
+# Loki Mk II (Hel OmniMech) 
 
 ## Hel "Loki Mk II" Prime 
 
@@ -19,7 +19,7 @@
   - Multi-Trac 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6277) 
 - **Battle Value:** 2189 
-- [*More Info*](hel/hel_prime.md) 
+- [*More Info*](hel_omnimech/hel_prime.md) 
 
 ## Hel "Loki Mk II" A 
 
@@ -43,7 +43,7 @@
   - Multi-Trac 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6278) 
 - **Battle Value:** 2249 
-- [*More Info*](hel/hel_a.md) 
+- [*More Info*](hel_omnimech/hel_a.md) 
 
 ## Hel "Loki Mk II" B 
 
@@ -64,5 +64,5 @@
   - Multi-Trac 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6279) 
 - **Battle Value:** 1798 
-- [*More Info*](hel/hel_b.md) 
+- [*More Info*](hel_omnimech/hel_b.md) 
 

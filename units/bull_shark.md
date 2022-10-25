@@ -15,6 +15,8 @@
   - Inner Sphere LRM 5 × 4 (ammo: 48) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Battle Value:** 1779 
 - [*More Info*](bull_shark/bull_shark_bsk-m3.md) 
 
@@ -33,6 +35,8 @@
   - Inner Sphere Thumper Cannon (ammo: 0) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Battle Value:** 2179 
 - [*More Info*](bull_shark/bull_shark_bsk-maz.md) 
 

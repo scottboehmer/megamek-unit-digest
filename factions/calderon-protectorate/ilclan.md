@@ -762,6 +762,8 @@
 #### [Toro](../../units/toro.md) 
 
 - [**Toro TR-A-6**](../../units/toro/toro_tr-a-6.md) *Missile Boat (2548)* 
+- [**Toro TR-B-9**](../../units/toro/toro_tr-b-9.md) *Brawler (3108)* `ECM` 
+- [**Toro TR-B-12**](../../units/toro/toro_tr-b-12.md) *Skirmisher (3146)* `ECM` 
 
 #### [Wight](../../units/wight.md) 
 

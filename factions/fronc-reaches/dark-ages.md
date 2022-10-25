@@ -55,8 +55,6 @@
 #### [TinStar BattleArmor](../../units/tinstar_battlearmor.md) 
 
 - [**TinStar BattleArmor (Standard)(Sqd4)**](../../units/tinstar_battlearmor/tinstar_battlearmor_standardsqd4.md) *Scout (3087)* 
-- [**TinStar BattleArmor (Standard)(Sqd5)**](../../units/tinstar_battlearmor/tinstar_battlearmor_standardsqd5.md) *Undefined (3087)* 
-- [**TinStar BattleArmor (Standard)(Sqd6)**](../../units/tinstar_battlearmor/tinstar_battlearmor_standardsqd6.md) *Undefined (3087)* 
 
 #### [Trinity Medium Battle Armor](../../units/trinity_medium_battle_armor.md) 
 
@@ -911,6 +909,7 @@
 
 - [**Toro TR-A-1**](../../units/toro/toro_tr-a-1.md) *Brawler (2481)* 
 - [**Toro TR-A-6**](../../units/toro/toro_tr-a-6.md) *Missile Boat (2548)* 
+- [**Toro TR-B-9**](../../units/toro/toro_tr-b-9.md) *Brawler (3108)* `ECM` 
 
 ### 40 Tons 
 

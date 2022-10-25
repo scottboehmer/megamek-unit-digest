@@ -164,7 +164,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8973) 
+- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8609) 
 - **Battle Value:** 48 (337 for 5 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_laser_volk_sqd5.md) 
 

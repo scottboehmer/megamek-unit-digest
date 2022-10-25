@@ -857,6 +857,11 @@
 - [**StrongArm SC CV ConstructionMech**](../../units/strongarm/strongarm_sc_cv_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 - [**StrongArm SC CVI ConstructionMech**](../../units/strongarm/strongarm_sc_cvi_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 
+#### [Toro](../../units/toro.md) 
+
+- [**Toro TR-B-9**](../../units/toro/toro_tr-b-9.md) *Brawler (3108)* `ECM` 
+- [**Toro TR-B-12**](../../units/toro/toro_tr-b-12.md) *Skirmisher (3146)* `ECM` 
+
 #### [Wight](../../units/wight.md) 
 
 - [**Wight WGT-2SC**](../../units/wight/wight_wgt-2sc.md) *Brawler (3069)* 

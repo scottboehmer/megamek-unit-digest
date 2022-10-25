@@ -36,7 +36,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** OTP:Fronc Reaches - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7700) 
+- **Source:** OTP:Fronc Reaches - Early Republic 
 - **Battle Value:** 55 (387 for 5 suits) 
 - [*More Info*](tinstar_battlearmor/tinstar_battlearmor_standardsqd5.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** OTP:Fronc Reaches - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7700) 
+- **Source:** OTP:Fronc Reaches - Early Republic 
 - **Battle Value:** 55 (498 for 6 suits) 
 - [*More Info*](tinstar_battlearmor/tinstar_battlearmor_standardsqd6.md) 
 

@@ -6,7 +6,7 @@
 
 #### [Rhino Battle Armor](../../units/rhino_battle_armor.md) 
 
-- [**Rhino Battle Armor (Standard)(Sqd4)**](../../units/rhino_battle_armor/rhino_battle_armor_standardsqd4.md) *Undefined (2871)* 
+- [**Rhino Battle Armor (Standard)(Sqd5)**](../../units/rhino_battle_armor/rhino_battle_armor_standardsqd5.md) *Undefined (2871)* 
 
 ## Combat Vehicles 
 

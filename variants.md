@@ -2868,7 +2868,7 @@
 #### [Kamakiri Attack VTOL](units/kamakiri_attack_vtol.md) 
 
 - [**Kamakiri Attack VTOL (Standard)**](units/kamakiri_attack_vtol/kamakiri_attack_vtol_standard.md) *Missile Boat (3100)* 
-- [**Kamakiri Attack VTOL (Gauss)**](units/kamakiri_attack_vtol/kamakiri_attack_vtol_gauss.md) *Sniper (3106)* 
+- [**Kamakiri Attack VTOL (Gauss) 'Shi Kamakiri'**](units/kamakiri_attack_vtol/kamakiri_attack_vtol_gauss_shi_kamakiri.md) *Undefined (3106)* 
 
 #### [Padilla Anti-Missile Tank](units/padilla_anti-missile_tank.md) 
 
@@ -5110,11 +5110,14 @@
 #### [Tiburon](units/tiburon.md) 
 
 - [**Tiburon (Standard)**](units/tiburon/tiburon_standard.md) *Striker (3099)* `Active Probe` , `ECM` 
+- [**Tiburon 2**](units/tiburon/tiburon_2.md) *Striker (3113)* `Active Probe` , `ECM` 
 
 #### [Toro](units/toro.md) 
 
 - [**Toro TR-A-1**](units/toro/toro_tr-a-1.md) *Brawler (2481)* 
 - [**Toro TR-A-6**](units/toro/toro_tr-a-6.md) *Missile Boat (2548)* 
+- [**Toro TR-B-9**](units/toro/toro_tr-b-9.md) *Brawler (3108)* `ECM` 
+- [**Toro TR-B-12**](units/toro/toro_tr-b-12.md) *Skirmisher (3146)* `ECM` 
 
 #### [Venom](units/venom.md) 
 
@@ -6118,6 +6121,11 @@
 
 - [**Gravedigger GDR-1C**](units/gravedigger/gravedigger_gdr-1c.md) *Brawler (3102)* 
 - [**Gravedigger GDR-1D**](units/gravedigger/gravedigger_gdr-1d.md) *Sniper (3105)* `Active Probe` , `ECM` 
+
+#### [Hel](units/hel.md) 
+
+- [**Hel HL-1**](units/hel/hel_hl-1.md) *Undefined (3092)* 
+- [**Hel HL-2**](units/hel/hel_hl-2.md) *Skirmisher (3092)* 
 
 #### [Hunchback](units/hunchback.md) 
 
@@ -7489,11 +7497,11 @@
 
 - [**Ha Otoko-HR (Standard)**](units/ha_otoko-hr/ha_otoko-hr_standard.md) *Missile Boat (3077)* 
 
-#### [Hel](units/hel.md) 
+#### [Hel OmniMech](units/hel_omnimech.md) 
 
-- [**Hel Prime**](units/hel/hel_prime.md) *Sniper (3121)* 
-- [**Hel A**](units/hel/hel_a.md) *Brawler (3121)* `ECM` 
-- [**Hel B**](units/hel/hel_b.md) *Brawler (3121)* 
+- [**Hel Prime**](units/hel_omnimech/hel_prime.md) *Sniper (3121)* 
+- [**Hel A**](units/hel_omnimech/hel_a.md) *Brawler (3121)* `ECM` 
+- [**Hel B**](units/hel_omnimech/hel_b.md) *Brawler (3121)* 
 
 #### [Hellbringer](units/hellbringer.md) 
 

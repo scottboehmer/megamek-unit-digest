@@ -17,6 +17,8 @@
   - Inner Sphere Thumper Cannon (ammo: 0) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Battle Value:** 2179 
 
 ## Availability 

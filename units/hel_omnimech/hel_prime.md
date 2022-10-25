@@ -1,6 +1,6 @@
-# Hel Prime 
+# Hel OmniMech Prime 
 
-[Other Hel variants](../hel.md) 
+[Other Hel OmniMech variants](../hel_omnimech.md) 
 
 ## Hel "Loki Mk II" Prime 
 

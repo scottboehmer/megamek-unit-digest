@@ -554,6 +554,7 @@ Stinger C
 Marauder Red Hunter
 Warhammer C 3
 Deimos H
+Hel HL-1
 Longshot LNG-2 (Reskov)
 Rattlesnake II RSN-1
 Rattlesnake II RSN-2
@@ -652,6 +653,7 @@ Crow Scout Helicopter 'Dragonfly'
 Transportable Field Repair Unit JI-100
 Manta Fast Attack Submarine (Support)
 Moray Heavy Attack Submarine (Original)
+Kamakiri Attack VTOL (Gauss) 'Shi Kamakiri'
 R10 Mechanized ICV (Coolant Truck)
 Garrot Superheavy Transport (Standard)
 MIT24 MASH Vehicle (Standard)
@@ -803,4 +805,4 @@ Cheetah II F-12A
 Starfire SF-1X (Prototype)
 
 --------------------------------------------------
-6901 files -> 6901 parsed files (0 skipped) -> 6680 converted files -> 6669 validated units
+6906 files -> 6906 parsed files (0 skipped) -> 6685 converted files -> 6674 validated units

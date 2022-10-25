@@ -1,6 +1,6 @@
-# Hel A 
+# Hel OmniMech A 
 
-[Other Hel variants](../hel.md) 
+[Other Hel OmniMech variants](../hel_omnimech.md) 
 
 ## Hel "Loki Mk II" A 
 

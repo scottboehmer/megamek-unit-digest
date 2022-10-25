@@ -1,68 +1,40 @@
 # Hel 
 
-## Hel "Loki Mk II" Prime 
+## Hel HL-1 
 
-- **Role:** Sniper 
-- **Tech Base:** Clan (3121) 
-- **Chassis:** 65 tons (Endo Steel) 
-- **Movement:** 4 / 6, XL 
-- **Armor:** 182 (Ferro Fibrous) 
-- **Cockpit:** Small 
-- **Heat Sinks:** 12 (24) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3092) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 160 
+- **Heat Sinks:** 14 (28) 
 - **Weapons:** 
-  - Gauss Rifle × 2 (ammo: 24) 
-  - ER Large Laser × 2 
-  - Streak SRM 4 (ammo: 25) 
+  - Heavy PPC 
+  - Streak SRM 6 (ammo: 15) 
+  - ER Medium Laser × 2 
 - **Equipment:** 
-  - CASE 
-- **Design Quirks:** 
-  - Multi-Trac 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6277) 
-- **Battle Value:** 2189 
-- [*More Info*](hel/hel_prime.md) 
+  - CASE II 
+- **Sources:** Shrapnel 10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8250) 
+- **Battle Value:** 1674 
+- [*More Info*](hel/hel_hl-1.md) 
 
-## Hel "Loki Mk II" A 
+## Hel HL-2 
 
-- **Role:** Brawler 
-- **Tech Base:** Clan (3121) 
-- **Chassis:** 65 tons (Endo Steel) 
-- **Movement:** 4 / 6, XL 
-- **Armor:** 182 (Ferro Fibrous) 
-- **Cockpit:** Small 
-- **Heat Sinks:** 16 (32) 
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3092) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 160 
+- **Heat Sinks:** 14 (28) 
 - **Weapons:** 
-  - ER PPC × 2 
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
-  - Medium Pulse Laser × 2 
-  - Improved Heavy Medium Laser × 2 
-  - AP Gauss Rifle × 2 (ammo: 40) 
+  - Large Laser × 2 
+  - Streak SRM 6 (ammo: 15) 
+  - ER Medium Laser × 2 
 - **Equipment:** 
-  - Angel ECM Suite 
-  - CASE 
-- **Design Quirks:** 
-  - Multi-Trac 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6278) 
-- **Battle Value:** 2249 
-- [*More Info*](hel/hel_a.md) 
-
-## Hel "Loki Mk II" B 
-
-- **Role:** Brawler 
-- **Tech Base:** Clan Mixed (3121) 
-- **Chassis:** 65 tons (Endo Steel) 
-- **Movement:** 4 / 6, XL 
-- **Armor:** 182 (Ferro Fibrous) 
-- **Cockpit:** Small 
-- **Heat Sinks:** 15 (30) 
-- **Weapons:** 
-  - Inner Sphere Long Tom Cannon (ammo: 15) 
-  - ER Large Laser 
-  - Medium Pulse Laser × 4 
-- **Equipment:** 
-  - CASE 
-- **Design Quirks:** 
-  - Multi-Trac 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6279) 
-- **Battle Value:** 1798 
-- [*More Info*](hel/hel_b.md) 
+  - CASE II 
+- **Sources:** Shrapnel 10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9251) 
+- **Battle Value:** 1549 
+- [*More Info*](hel/hel_hl-2.md) 
 

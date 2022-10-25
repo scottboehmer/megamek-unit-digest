@@ -17,33 +17,10 @@
   - Cutting Torch × 2 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Golden Century - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7671) 
+- **Source:** TRO Golden Century - Early Succession War 
 - **Battle Value:** 20 (142 for 5 suits) 
 
 ## Availability 
 
-### Early Succession Wars 
-
-- Clan Goliath Scorpion 
-- Clan Wolf 
-
-### Late Succession Wars - LosTech 
-
-- Clan Goliath Scorpion 
-
-### Late Succession Wars - Renaissance 
-
-- Clan Goliath Scorpion 
-
-### Clan Invasion 
-
-- Clan Goliath Scorpion 
-
-### Civil War 
-
-- Clan Goliath Scorpion 
-
-### Jihad 
-
-- Clan Goliath Scorpion 
+Availability Unknown 
 

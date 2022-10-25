@@ -7,8 +7,6 @@
 #### [Water Elemental Mining Suit](../../units/water_elemental_mining_suit.md) 
 
 - [**Water Elemental Mining Suit (Standard)(Sqd4)**](../../units/water_elemental_mining_suit/water_elemental_mining_suit_standardsqd4.md) *Undefined (2842)* 
-- [**Water Elemental Mining Suit (Standard)(Sqd5)**](../../units/water_elemental_mining_suit/water_elemental_mining_suit_standardsqd5.md) *Undefined (2842)* 
-- [**Water Elemental Mining Suit (Standard)(Sqd6)**](../../units/water_elemental_mining_suit/water_elemental_mining_suit_standardsqd6.md) *Undefined (2842)* 
 
 ## Combat Vehicles 
 

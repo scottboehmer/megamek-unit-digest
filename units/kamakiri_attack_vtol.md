@@ -15,9 +15,9 @@
 - **Battle Value:** 1231 
 - [*More Info*](kamakiri_attack_vtol/kamakiri_attack_vtol_standard.md) 
 
-## Kamakiri Attack VTOL (Gauss) 
+## Kamakiri Attack VTOL (Gauss) 'Shi Kamakiri' 
 
-- **Role:** Sniper 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3106) 
 - **Chassis:** 55 tons VTOL 
 - **Movement:** 7 / 11, XL 
@@ -27,5 +27,5 @@
   - Improved Heavy Gauss Rifle (ammo: 16) 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6383) 
 - **Battle Value:** 1405 
-- [*More Info*](kamakiri_attack_vtol/kamakiri_attack_vtol_gauss.md) 
+- [*More Info*](kamakiri_attack_vtol/kamakiri_attack_vtol_gauss_shi_kamakiri.md) 
 

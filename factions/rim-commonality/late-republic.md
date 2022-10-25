@@ -1252,6 +1252,10 @@
 - [**Ghost GST-10**](../../units/ghost/ghost_gst-10.md) *Sniper (3077)* `Active Probe` , `ECM` , `Stealth` 
 - [**Ghost GST-11**](../../units/ghost/ghost_gst-11.md) *Sniper (3082)* `Active Probe` , `ECM` 
 
+#### [Hel](../../units/hel.md) 
+
+- [**Hel HL-1**](../../units/hel/hel_hl-1.md) *Undefined (3092)* 
+
 #### [Hunchback](../../units/hunchback.md) 
 
 - [**Hunchback HBK-6N**](../../units/hunchback/hunchback_hbk-6n.md) *Juggernaut (3059)* 

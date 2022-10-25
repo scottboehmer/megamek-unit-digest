@@ -689,11 +689,11 @@
 - [**Ebon Jaguar G**](../../units/ebon_jaguar/ebon_jaguar_g.md) *Skirmisher (3125)* 
 - [**Ebon Jaguar T**](../../units/ebon_jaguar/ebon_jaguar_t.md) *Sniper (3142)* 
 
-#### [Hel](../../units/hel.md) 
+#### [Hel OmniMech](../../units/hel_omnimech.md) 
 
-- [**Hel Prime**](../../units/hel/hel_prime.md) *Sniper (3121)* 
-- [**Hel A**](../../units/hel/hel_a.md) *Brawler (3121)* `ECM` 
-- [**Hel B**](../../units/hel/hel_b.md) *Brawler (3121)* 
+- [**Hel Prime**](../../units/hel_omnimech/hel_prime.md) *Sniper (3121)* 
+- [**Hel A**](../../units/hel_omnimech/hel_a.md) *Brawler (3121)* `ECM` 
+- [**Hel B**](../../units/hel_omnimech/hel_b.md) *Brawler (3121)* 
 
 #### [Lament](../../units/lament.md) 
 

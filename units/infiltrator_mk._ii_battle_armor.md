@@ -225,7 +225,7 @@
 - **Equipment:** 
   - C3 Support 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8899) 
+- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8535) 
 - **Battle Value:** 36 (255 for 5 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_coral_intentsqd5.md) 
 
@@ -245,7 +245,7 @@
 - **Equipment:** 
   - C3 Support 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8535) 
+- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8899) 
 - **Battle Value:** 36 (327 for 6 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_coral_intentsqd6.md) 
 

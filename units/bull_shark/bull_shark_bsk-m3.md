@@ -17,6 +17,8 @@
   - Inner Sphere LRM 5 × 4 (ammo: 48) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
 - **Battle Value:** 1779 
 
 ## Availability 

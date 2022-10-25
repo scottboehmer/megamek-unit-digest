@@ -777,6 +777,7 @@
 #### [Tiburon](../../units/tiburon.md) 
 
 - [**Tiburon (Standard)**](../../units/tiburon/tiburon_standard.md) *Striker (3099)* `Active Probe` , `ECM` 
+- [**Tiburon 2**](../../units/tiburon/tiburon_2.md) *Striker (3113)* `Active Probe` , `ECM` 
 
 ### 40 Tons 
 
@@ -1074,11 +1075,11 @@
 - [**Ha Otoko 2**](../../units/ha_otoko/ha_otoko_2.md) *Brawler (3074)* 
 - [**Ha Otoko 3**](../../units/ha_otoko/ha_otoko_3.md) *Missile Boat (3082)* `ECM` 
 
-#### [Hel](../../units/hel.md) 
+#### [Hel OmniMech](../../units/hel_omnimech.md) 
 
-- [**Hel Prime**](../../units/hel/hel_prime.md) *Sniper (3121)* 
-- [**Hel A**](../../units/hel/hel_a.md) *Brawler (3121)* `ECM` 
-- [**Hel B**](../../units/hel/hel_b.md) *Brawler (3121)* 
+- [**Hel Prime**](../../units/hel_omnimech/hel_prime.md) *Sniper (3121)* 
+- [**Hel A**](../../units/hel_omnimech/hel_a.md) *Brawler (3121)* `ECM` 
+- [**Hel B**](../../units/hel_omnimech/hel_b.md) *Brawler (3121)* 
 
 #### [Lament](../../units/lament.md) 
 

@@ -50,8 +50,6 @@
 #### [TinStar BattleArmor](../../units/tinstar_battlearmor.md) 
 
 - [**TinStar BattleArmor (Standard)(Sqd4)**](../../units/tinstar_battlearmor/tinstar_battlearmor_standardsqd4.md) *Scout (3087)* 
-- [**TinStar BattleArmor (Standard)(Sqd5)**](../../units/tinstar_battlearmor/tinstar_battlearmor_standardsqd5.md) *Undefined (3087)* 
-- [**TinStar BattleArmor (Standard)(Sqd6)**](../../units/tinstar_battlearmor/tinstar_battlearmor_standardsqd6.md) *Undefined (3087)* 
 
 #### [Trinity Medium Battle Armor](../../units/trinity_medium_battle_armor.md) 
 
