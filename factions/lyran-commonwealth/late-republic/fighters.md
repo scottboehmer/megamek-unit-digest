@@ -1,0 +1,158 @@
+# Lyran Commonwealth / Late Republic 
+
+## Fighters 
+
+### 20 Tons 
+
+#### [Seydlitz](../../../units/seydlitz.md) 
+
+- [**Seydlitz SYD-Z3**](../../../units/seydlitz/seydlitz_syd-z3.md) *Interceptor (2894)* 
+- [**Seydlitz SYD-Z2A**](../../../units/seydlitz/seydlitz_syd-z2a.md) *Interceptor (3050)* 
+- [**Seydlitz SYD-Z1**](../../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
+- [**Seydlitz SYD-Z3A**](../../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
+- [**Seydlitz SYD-Z4**](../../../units/seydlitz/seydlitz_syd-z4.md) *Interceptor (3065)* 
+
+### 25 Tons 
+
+#### [Sabre](../../../units/sabre.md) 
+
+- [**Sabre SB-28**](../../../units/sabre/sabre_sb-28.md) *Interceptor (2753)* 
+
+### 30 Tons 
+
+#### [Centurion Aerospace Fighter](../../../units/centurion_aerospace_fighter.md) 
+
+- [**Centurion CNT-1D**](../../../units/centurion_aerospace_fighter/centurion_cnt-1d.md) *Interceptor (2473)* 
+- [**Centurion CNT-3S**](../../../units/centurion_aerospace_fighter/centurion_cnt-3s.md) *Interceptor (3068)* `TAG` 
+
+#### [Sparrowhawk](../../../units/sparrowhawk.md) 
+
+- [**Sparrowhawk SPR-6D**](../../../units/sparrowhawk/sparrowhawk_spr-6d.md) *Interceptor (3051)* 
+
+### 35 Tons 
+
+#### [Picaroon](../../../units/picaroon.md) 
+
+- [**Picaroon CSR-F100**](../../../units/picaroon/picaroon_csr-f100.md) *Fire Support (3097)* 
+
+### 40 Tons 
+
+#### [Sternensturm](../../../units/sternensturm.md) 
+
+- [**Sternensturm STM-O**](../../../units/sternensturm/sternensturm_stm-o.md) *Interceptor (3098)* 
+- [**Sternensturm STM-OA**](../../../units/sternensturm/sternensturm_stm-oa.md) *Interceptor (3098)* 
+- [**Sternensturm STM-OB**](../../../units/sternensturm/sternensturm_stm-ob.md) *Interceptor (3098)* `Active Probe` , `ECM` 
+
+### 45 Tons 
+
+#### [Wildkatze](../../../units/wildkatze.md) 
+
+- [**Wildkatze WKT-1S**](../../../units/wildkatze/wildkatze_wkt-1s.md) *Fast Dogfighter (3086)* 
+- [**Wildkatze WKT-2S**](../../../units/wildkatze/wildkatze_wkt-2s.md) *Undefined (3090)* 
+
+### 50 Tons 
+
+#### [Lancer](../../../units/lancer.md) 
+
+- [**Lancer LX-2**](../../../units/lancer/lancer_lx-2.md) *Fast Dogfighter (3064)* 
+- [**Lancer LX-2A**](../../../units/lancer/lancer_lx-2a.md) *Fast Dogfighter (3066)* 
+- [**Lancer LX-3**](../../../units/lancer/lancer_lx-3.md) *Fast Dogfighter (3074)* `ECM` 
+
+#### [Lightning Aerospace Fighter](../../../units/lightning_aerospace_fighter.md) 
+
+- [**Lightning LTN-G15**](../../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+- [**Lightning LTN-G16S**](../../../units/lightning_aerospace_fighter/lightning_ltn-g16s.md) *Dogfighter (3068)* 
+
+#### [Samurai](../../../units/samurai.md) 
+
+- [**Samurai SL-27**](../../../units/samurai/samurai_sl-27.md) *Fast Dogfighter (3068)* 
+
+### 60 Tons 
+
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat HCT-213**](../../../units/hellcat/hellcat_hct-213.md) *Dogfighter (2671)* 
+
+#### [Stingray](../../../units/stingray.md) 
+
+- [**Stingray F-92**](../../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+- [**Stingray F-94**](../../../units/stingray/stingray_f-94.md) *Fire Support (3052)* 
+- [**Stingray F-95**](../../../units/stingray/stingray_f-95.md) *Fire Support (3069)* 
+
+### 65 Tons 
+
+#### [Lucifer](../../../units/lucifer.md) 
+
+- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+- [**Lucifer LCF-R20**](../../../units/lucifer/lucifer_lcf-r20.md) *Attack Fighter (2609)* 
+- [**Lucifer LCF-R16**](../../../units/lucifer/lucifer_lcf-r16.md) *Attack Fighter (3052)* 
+
+#### [Lucifer III](../../../units/lucifer_iii.md) 
+
+- [**Lucifer III LCR-3**](../../../units/lucifer_iii/lucifer_iii_lcr-3.md) *Attack Fighter (3086)* 
+
+### 70 Tons 
+
+#### [Morgenstern](../../../units/morgenstern.md) 
+
+- [**Morgenstern MR-1S**](../../../units/morgenstern/morgenstern_mr-1s.md) *Fire Support (3086)* 
+- [**Morgenstern MR-1SA**](../../../units/morgenstern/morgenstern_mr-1sa.md) *Dogfighter (3086)* 
+- [**Morgenstern MR-1SB**](../../../units/morgenstern/morgenstern_mr-1sb.md) *Fire Support (3086)* 
+- [**Morgenstern MR-1SC**](../../../units/morgenstern/morgenstern_mr-1sc.md) *Dogfighter (3086)* 
+- [**Morgenstern MR-1SD**](../../../units/morgenstern/morgenstern_mr-1sd.md) *Fire Support (3086)* 
+
+### 75 Tons 
+
+#### [Eagle Aerospace Fighter](../../../units/eagle_aerospace_fighter.md) 
+
+- [**Eagle EGL-R6**](../../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
+- [**Eagle EGL-R11**](../../../units/eagle_aerospace_fighter/eagle_egl-r11.md) *Dogfighter (3071)* 
+
+#### [Huscarl](../../../units/huscarl.md) 
+
+- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Attack Fighter (3064)* 
+- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Attack Fighter (3064)* 
+- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Attack Fighter (3064)* 
+- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Attack Fighter (3064)* 
+- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Attack Fighter (3068)* 
+- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Attack Fighter (3079)* 
+
+### 85 Tons 
+
+#### [Rapier](../../../units/rapier.md) 
+
+- [**Rapier RPR-100**](../../../units/rapier/rapier_rpr-100.md) *Dogfighter (2596)* 
+- [**Rapier RPR-300**](../../../units/rapier/rapier_rpr-300.md) *Dogfighter (3074)* 
+- [**Rapier RPR-300S**](../../../units/rapier/rapier_rpr-300s.md) *Dogfighter (3081)* 
+
+### 90 Tons 
+
+#### [Chippewa](../../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+- [**Chippewa CHP-W8**](../../../units/chippewa/chippewa_chp-w8.md) *Attack Fighter (3068)* 
+
+#### [Typhoon](../../../units/typhoon.md) 
+
+- [**Typhoon TFN-5H**](../../../units/typhoon/typhoon_tfn-5h.md) *Attack Fighter (3074)* 
+
+### 95 Tons 
+
+#### [Eisensturm](../../../units/eisensturm.md) 
+
+- [**Eisensturm EST-R3**](../../../units/eisensturm/eisensturm_est-r3.md) *Dogfighter (3063)* 
+- [**Eisensturm EST-O**](../../../units/eisensturm/eisensturm_est-o.md) *Dogfighter (3066)* 
+- [**Eisensturm EST-OA**](../../../units/eisensturm/eisensturm_est-oa.md) *Fire Support (3066)* 
+- [**Eisensturm EST-OB**](../../../units/eisensturm/eisensturm_est-ob.md) *Fire Support (3066)* 
+- [**Eisensturm EST-OC**](../../../units/eisensturm/eisensturm_est-oc.md) *Dogfighter (3066)* 
+- [**Eisensturm EST-OD**](../../../units/eisensturm/eisensturm_est-od.md) *Dogfighter (3076)* 
+
+### 100 Tons 
+
+#### [Thunderbird](../../../units/thunderbird.md) 
+
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Attack Fighter (2724)* 
+- [**Thunderbird TRB-D56**](../../../units/thunderbird/thunderbird_trb-d56.md) *Attack Fighter (3074)* 
+
