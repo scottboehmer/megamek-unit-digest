@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Cruise Missile/50 (ammo: 1) 
   - MagShot Gauss Rifle × 2 (ammo: 50) 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/4416) 
+- **Sources:** TRO:Prototype - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4416) 
 - **Battle Value:** 1036 
 
 ## Availability 

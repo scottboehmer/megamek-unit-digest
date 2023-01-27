@@ -58,6 +58,26 @@
 - **Battle Value:** 1039 
 - [*More Info*](rifleman/rifleman_rfl-3n.md) 
 
+## Rifleman C 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere Mixed (2826) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 120 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - Clan Large Pulse Laser × 2 
+  - Clan LB 5-X AC × 2 (ammo: 20) 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
+- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693) 
+- **Battle Value:** 1335 
+- [*More Info*](rifleman/rifleman_c.md) 
+
 ## Rifleman RFL-4D 
 
 - **Role:** Sniper 
@@ -141,26 +161,6 @@
 - **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2699) 
 - **Battle Value:** 1395 
 - [*More Info*](rifleman/rifleman_rfl-5d.md) 
-
-## Rifleman C 
-
-- **Role:** Sniper 
-- **Tech Base:** Inner Sphere Mixed (3052) 
-- **Chassis:** 60 tons 
-- **Movement:** 4 / 6 
-- **Armor:** 120 
-- **Heat Sinks:** 12 (12) 
-- **Weapons:** 
-  - Clan Large Pulse Laser × 2 
-  - Clan LB 5-X AC × 2 (ammo: 20) 
-- **Design Quirks:** 
-  - Anti-Aircraft Targeting 
-  - Improved Communications 
-  - Searchlight 
-  - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693) 
-- **Battle Value:** 1335 
-- [*More Info*](rifleman/rifleman_c.md) 
 
 ## Rifleman RFL-5CS 
 

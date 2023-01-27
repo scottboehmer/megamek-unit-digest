@@ -12,8 +12,8 @@
 - **Armor:** 259 (Ferro Aluminum) 
 - **Heat Sinks:** 30 (60) 
 - **Weapons:** 
-  - ER PPC × 4 
   - AC/20 (ammo: 15) 
+  - PPC × 4 
   - Medium Laser × 3 
 - **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3111) 
 - **Battle Value:** Unknown 

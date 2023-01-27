@@ -261,7 +261,32 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566) 
 - **Battle Value:** 2121 
 - [*More Info*](charger/charger_cgr-3kr.md) 
+
+## Charger C 
+
+- **Role:** Scout 
+- **Tech Base:** Clan Mixed (3093) 
+- **Chassis:** 80 tons 
+- **Movement:** 5 / 8 (13), XL 
+- **Armor:** 245 (Ferro Lamellor) 
+- **Heat Sinks:** 15 (30) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - Improved Heavy Medium Laser × 4 
+- **Equipment:** 
+  - Inner Sphere Angel ECM Suite 
+  - Inner Sphere Bloodhound Active Probe 
+  - Inner Sphere Supercharger 
+  - MASC 
+  - Targeting Computer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Bad Reputation (Inner Sphere) 
+  - Barrel Fist (Left Arm) 
+- **Sources:** Rec Guide:ilClan #29 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9397) 
+- **Battle Value:** 2762 
+- [*More Info*](charger/charger_c.md) 
 

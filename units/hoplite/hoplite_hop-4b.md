@@ -5,7 +5,7 @@
 ## Hoplite HOP-4B 
 
 - **Role:** Sniper 
-- **Tech Base:** Inner Sphere (2682) 
+- **Tech Base:** Inner Sphere (2581) 
 - **Chassis:** 55 tons 
 - **Movement:** 4 / 6 
 - **Armor:** 184 

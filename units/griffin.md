@@ -40,6 +40,23 @@
 - **Battle Value:** 1272 
 - [*More Info*](griffin/griffin_grf-1n.md) 
 
+## Griffin GRF-1RG 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2597) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 152 
+- **Heat Sinks:** 17 (17) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser × 3 
+  - Small Laser × 2 
+  - Machine Gun × 2 (ammo: 200) 
+- **Sources:** Rec Guide:ilClan #1 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9402) 
+- **Battle Value:** 1141 
+- [*More Info*](griffin/griffin_grf-1rg.md) 
+
 ## Griffin GRF-2N2 
 
 - **Role:** Undefined 
@@ -121,6 +138,26 @@
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1295) 
 - **Battle Value:** 1449 
 - [*More Info*](griffin/griffin_grf-1e_sparky.md) 
+
+## Griffin GRF-3RG 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3048) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8 
+- **Armor:** 160 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Large Pulse Laser 
+  - Medium Pulse Laser × 2 
+  - Medium Laser 
+  - Small Pulse Laser × 2 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #1 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9401) 
+- **Battle Value:** 1213 
+- [*More Info*](griffin/griffin_grf-3rg.md) 
 
 ## Griffin GRF-1DS 
 
@@ -401,6 +438,26 @@
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301) 
 - **Battle Value:** 1591 
 - [*More Info*](griffin/griffin_grf-4n.md) 
+
+## Griffin GRF-6R 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3085) 
+- **Chassis:** 55 tons (Endo Composite) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 160 (Stealth) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Thunderbolt 10 (ammo: 18) 
+  - RAC/2 (ammo: 90) 
+  - ER Small Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #1 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9403) 
+- **Battle Value:** 1515 
+- [*More Info*](griffin/griffin_grf-6r.md) 
 
 ## Griffin GRF-3N 
 

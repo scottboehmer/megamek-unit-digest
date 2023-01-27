@@ -33,6 +33,13 @@
 - [**J-27 Ordnance Transport (Standard)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Trailer)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 
+### 15 Tons 
+
+#### [Command Van](../../../units/command_van.md) 
+
+- [**Command Van (ICE)**](../../../units/command_van/command_van_ice.md) *Scout (2907)* 
+- [**Command Van (Q-Vehicle)**](../../../units/command_van/command_van_q-vehicle.md) *Scout (2975)* 
+
 ### 20 Tons 
 
 #### [Heavy Transport B1](../../../units/heavy_transport_b1.md) 
@@ -67,7 +74,7 @@
 
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
-- [**Condor Heavy Hover Tank (Upgrade) (Standard)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_standard.md) *Missile Boat (3066)* 
+- [**Condor Heavy Hover Tank (Upgrade)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade.md) *Missile Boat (3066)* 
 
 ### 55 Tons 
 

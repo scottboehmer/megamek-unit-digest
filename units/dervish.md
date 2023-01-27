@@ -57,7 +57,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5869) 
+- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5869) 
 - **Battle Value:** 1251 
 - [*More Info*](dervish/dervish_dv-6md.md) 
 
@@ -144,7 +144,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/882) 
+- **Sources:** XTRO Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/882) 
 - **Battle Value:** 1717 
 - [*More Info*](dervish/dervish_dv-8d2_lightbringer.md) 
 
@@ -167,4 +167,25 @@
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/879) 
 - **Battle Value:** 1347 
 - [*More Info*](dervish/dervish_dv-6mr.md) 
+
+## Dervish DV-11DK 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere Mixed (3149) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+  - **Jumping:** 5 
+- **Armor:** 168 (Ballistic Reinforced) 
+- **Gyroscope:** Compact Gyro 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Clan LRM 10 × 2 (ammo: 24) 
+  - Medium Re-Engineered Laser × 2 
+  - Clan Streak SRM 2 × 2 (ammo: 50) 
+- **Equipment:** 
+  - AES × 2 
+  - CASE II 
+- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9396) 
+- **Battle Value:** 1919 
+- [*More Info*](dervish/dervish_dv-11dk.md) 
 

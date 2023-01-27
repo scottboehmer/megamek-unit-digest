@@ -17,6 +17,8 @@
   - CASE II 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
+  - Stabilized Weapon (HVAC/10) 
+  - Stabilized Weapon (HVAC/10) 
 - **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5784) 
 - **Battle Value:** 1904 
 

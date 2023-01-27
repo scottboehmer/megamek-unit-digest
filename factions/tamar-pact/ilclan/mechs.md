@@ -199,6 +199,7 @@
 - [**Firestarter FS9-M2**](../../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
 - [**Firestarter FS9-M3**](../../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 - [**Firestarter FS9-M4**](../../../units/firestarter/firestarter_fs9-m4.md) *Scout (3109)* 
+- [**Firestarter FS9-M 'Mirage II'**](../../../units/firestarter/firestarter_fs9-m_mirage_ii.md) *Striker (3143)* 
 
 #### [Fwltur](../../../units/fwltur.md) 
 
@@ -363,6 +364,8 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
 
 #### [Ghost](../../../units/ghost.md) 
 
@@ -400,6 +403,7 @@
 #### [Griffin](../../../units/griffin.md) 
 
 - [**Griffin GRF-6S**](../../../units/griffin/griffin_grf-6s.md) *Sniper (3066)* 
+- [**Griffin GRF-6R**](../../../units/griffin/griffin_grf-6r.md) *Sniper (3085)* `ECM` , `Stealth` 
 - [**Griffin GRF-3N**](../../../units/griffin/griffin_grf-3n.md) *Sniper (3093)* 
 - [**Griffin GRF-6S2**](../../../units/griffin/griffin_grf-6s2.md) *Sniper (3123)* `C3 Support` 
 - [**Griffin C**](../../../units/griffin/griffin_c.md) *Sniper (3144)* 

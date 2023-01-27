@@ -4,7 +4,7 @@
 
 ## Archer C 2 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Clan (3065) 
 - **Chassis:** 70 tons 
 - **Movement:** 4 / 6 

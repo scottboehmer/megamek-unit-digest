@@ -176,6 +176,7 @@
 
 #### [Hoplite](../../../units/hoplite.md) 
 
+- [**Hoplite HOP-4A**](../../../units/hoplite/hoplite_hop-4a.md) *Undefined (2578)* 
 - [**Hoplite HOP-4C**](../../../units/hoplite/hoplite_hop-4c.md) *Brawler (2584)* 
 
 #### [Kintaro](../../../units/kintaro.md) 

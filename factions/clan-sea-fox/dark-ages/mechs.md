@@ -249,6 +249,10 @@
 
 - [**Powerman SC XV HaulerMech**](../../../units/powerman/powerman_sc_xv_haulermech.md) *Ambusher (2895)* `IndustrialMech` 
 
+#### [Spector](../../../units/spector.md) 
+
+- [**Spector SPR-6F**](../../../units/spector/spector_spr-6f.md) *Striker (3119)* 
+
 #### [StrongArm](../../../units/strongarm.md) 
 
 - [**StrongArm SC CV ConstructionMech**](../../../units/strongarm/strongarm_sc_cv_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
@@ -284,6 +288,24 @@
 #### [Harvester](../../../units/harvester.md) 
 
 - [**Harvester HVR-199 AgroMech**](../../../units/harvester/harvester_hvr-199_agromech.md) *Undefined (3128)* `IndustrialMech` 
+
+#### [Phantom](../../../units/phantom.md) 
+
+- [**Phantom G**](../../../units/phantom/phantom_g.md) *Scout (3090)* 
+- [**Phantom I**](../../../units/phantom/phantom_i.md) *Scout (3141)* `TAG` 
+- [**Phantom J**](../../../units/phantom/phantom_j.md) *Striker (3141)* 
+- [**Phantom K**](../../../units/phantom/phantom_k.md) *Sniper (3141)* `Active Probe` , `ECM` 
+- [**Phantom L**](../../../units/phantom/phantom_l.md) *Scout (3142)* 
+- [**Phantom T**](../../../units/phantom/phantom_t.md) *Scout (3142)* 
+- [**Phantom R**](../../../units/phantom/phantom_r.md) *Striker (3145)* 
+
+#### [Pouncer](../../../units/pouncer.md) 
+
+- [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
+- [**Pouncer G**](../../../units/pouncer/pouncer_g.md) *Striker (3142)* 
+- [**Pouncer I**](../../../units/pouncer/pouncer_i.md) *Missile Boat (3142)* 
+- [**Pouncer T**](../../../units/pouncer/pouncer_t.md) *Scout (3142)* 
+- [**Pouncer X**](../../../units/pouncer/pouncer_x.md) *Striker (3147)* 
 
 ### 45 Tons 
 
@@ -597,6 +619,10 @@
 - [**Summoner AA**](../../../units/summoner/summoner_aa.md) *Sniper (3086)* 
 - [**Summoner T**](../../../units/summoner/summoner_t.md) *Sniper (3142)* 
 - [**Summoner J**](../../../units/summoner/summoner_j.md) *Skirmisher (3148)* `Active Probe` 
+
+#### [Warhammer](../../../units/warhammer.md) 
+
+- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
 
 ### 75 Tons 
 

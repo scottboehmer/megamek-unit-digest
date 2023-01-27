@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Jet Booster 
-- **Sources:** XTR Mercs , [Master Unit List](http://masterunitlist.info/Unit/Details/3518) 
+- **Sources:** XTRO Mercs - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3518) 
 - **Battle Value:** 372 
 
 ## Availability 

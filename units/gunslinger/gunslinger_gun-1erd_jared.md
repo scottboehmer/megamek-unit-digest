@@ -21,7 +21,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1348) 
+- **Sources:** RS:Unique Mechs - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1348) 
 - **Battle Value:** 1813 
 
 ## Availability 

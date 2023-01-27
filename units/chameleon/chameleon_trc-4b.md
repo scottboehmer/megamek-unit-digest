@@ -18,7 +18,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/546) 
+- **Sources:** Rec Guide 25 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/546) 
 - **Battle Value:** 999 
 
 ## Availability 

@@ -16,11 +16,11 @@
 - **Weapons:** 
   - Flamer 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8866) 
-- **Battle Value:** 39 (348 for 6 suits) 
+- **Battle Value:** 45 (404 for 6 suits) 
 
 ## Availability 
 

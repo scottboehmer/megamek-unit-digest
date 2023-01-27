@@ -319,7 +319,7 @@
 
 #### [Rifleman](../../../units/rifleman.md) 
 
-- [**Rifleman C**](../../../units/rifleman/rifleman_c.md) *Sniper (3052)* 
+- [**Rifleman C**](../../../units/rifleman/rifleman_c.md) *Sniper (2826)* 
 
 #### [Thresher](../../../units/thresher.md) 
 

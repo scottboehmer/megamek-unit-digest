@@ -14,7 +14,7 @@
   - Heavy Gauss Rifle (ammo: 20) 
   - LRM 10 w/ Artemis IV (ammo: 24) 
   - ER Medium Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3113) 
+- **Sources:** Rec Guide:ilClan #28 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3113) 
 - **Battle Value:** 1711 
 
 ## Availability 

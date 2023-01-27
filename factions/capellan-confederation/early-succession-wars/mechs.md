@@ -253,7 +253,7 @@
 
 #### [Hoplite](../../../units/hoplite.md) 
 
-- [**Hoplite HOP-4B**](../../../units/hoplite/hoplite_hop-4b.md) *Sniper (2682)* 
+- [**Hoplite HOP-4B**](../../../units/hoplite/hoplite_hop-4b.md) *Sniper (2581)* 
 
 #### [Osprey](../../../units/osprey.md) 
 

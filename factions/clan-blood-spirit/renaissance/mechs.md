@@ -298,6 +298,13 @@
 - [**Gargoyle C**](../../../units/gargoyle/gargoyle_c.md) *Skirmisher (2945)* 
 - [**Gargoyle D**](../../../units/gargoyle/gargoyle_d.md) *Skirmisher (2945)* 
 
+#### [Naga II](../../../units/naga_ii.md) 
+
+- [**Naga II Prime**](../../../units/naga_ii/naga_ii_prime.md) *Brawler (2866)* 
+- [**Naga II A**](../../../units/naga_ii/naga_ii_a.md) *Brawler (2866)* 
+- [**Naga II B**](../../../units/naga_ii/naga_ii_b.md) *Missile Boat (2866)* 
+- [**Naga II C**](../../../units/naga_ii/naga_ii_c.md) *Brawler (2866)* 
+
 #### [Thug](../../../units/thug.md) 
 
 - [**Thug THG-11E**](../../../units/thug/thug_thg-11e.md) *Brawler (2572)* 

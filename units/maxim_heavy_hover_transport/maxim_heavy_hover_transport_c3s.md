@@ -18,7 +18,7 @@
   - C3 Support 
   - TAG 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2122) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2122) 
 - **Battle Value:** 773 
 
 ## Availability 

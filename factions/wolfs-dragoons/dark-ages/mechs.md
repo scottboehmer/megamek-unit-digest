@@ -4,6 +4,10 @@
 
 ### 20 Tons 
 
+#### [Flea](../../../units/flea.md) 
+
+- [**Flea FLE-21**](../../../units/flea/flea_fle-21.md) *Striker (3139)* `ECM` , `Stealth` 
+
 #### [Locust](../../../units/locust.md) 
 
 - [**Locust LCT-5W2**](../../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Support` , `ECM` , `TAG` 
@@ -58,6 +62,10 @@
 - [**Arctic Fox AF1E**](../../../units/arctic_fox/arctic_fox_af1e.md) *Sniper (3069)* 
 - [**Arctic Fox AF1F**](../../../units/arctic_fox/arctic_fox_af1f.md) *Striker (3072)* 
 - [**Arctic Fox AF1U**](../../../units/arctic_fox/arctic_fox_af1u.md) *Sniper (3072)* 
+
+#### [Firefly](../../../units/firefly.md) 
+
+- [**Firefly FFL-5A**](../../../units/firefly/firefly_ffl-5a.md) *Striker (3144)* 
 
 #### [Incubus](../../../units/incubus.md) 
 
@@ -142,6 +150,14 @@
 - [**Arctic Wolf Prime**](../../../units/arctic_wolf/arctic_wolf_prime.md) *Striker (3067)* 
 - [**Arctic Wolf A**](../../../units/arctic_wolf/arctic_wolf_a.md) *Missile Boat (3067)* `ECM` 
 - [**Arctic Wolf J**](../../../units/arctic_wolf/arctic_wolf_j.md) *Striker (3070)* `Active Probe` , `ECM` 
+
+#### [Pouncer](../../../units/pouncer.md) 
+
+- [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
+- [**Pouncer G**](../../../units/pouncer/pouncer_g.md) *Striker (3142)* 
+- [**Pouncer I**](../../../units/pouncer/pouncer_i.md) *Missile Boat (3142)* 
+- [**Pouncer T**](../../../units/pouncer/pouncer_t.md) *Scout (3142)* 
+- [**Pouncer X**](../../../units/pouncer/pouncer_x.md) *Striker (3147)* 
 
 ### 45 Tons 
 
@@ -247,6 +263,10 @@
 - [**Nova X**](../../../units/nova/nova_x.md) *Skirmisher (3137)* 
 - [**Nova R**](../../../units/nova/nova_r.md) *Skirmisher (3140)* 
 - [**Nova T**](../../../units/nova/nova_t.md) *Skirmisher (3142)* 
+
+#### [Starslayer](../../../units/starslayer.md) 
+
+- [**Starslayer STY-4C**](../../../units/starslayer/starslayer_sty-4c.md) *Skirmisher (3145)* 
 
 ### 55 Tons 
 
@@ -434,6 +454,7 @@
 
 #### [Warhammer](../../../units/warhammer.md) 
 
+- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
 - [**Warhammer C 2**](../../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
 
 ### 75 Tons 
@@ -506,6 +527,7 @@
 #### [BattleMaster](../../../units/battlemaster.md) 
 
 - [**BattleMaster BLR-6G**](../../../units/battlemaster/battlemaster_blr-6g.md) *Brawler (3088)* 
+- [**BattleMaster BLR-6R**](../../../units/battlemaster/battlemaster_blr-6r.md) *Brawler (3104)* 
 
 #### [Longbow](../../../units/longbow.md) 
 

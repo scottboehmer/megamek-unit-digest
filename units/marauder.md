@@ -69,6 +69,29 @@
 - **Battle Value:** 1363 
 - [*More Info*](marauder/marauder_mad-3r.md) 
 
+## Marauder C 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan Mixed (2827) 
+- **Chassis:** 75 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 184 
+- **Heat Sinks:** 19 (19) 
+- **Weapons:** 
+  - Large Pulse Laser × 2 
+  - Ultra AC/5 (ammo: 20) 
+  - Inner Sphere Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (Ultra AC/5) 
+- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2032) 
+- **Battle Value:** 1711 
+- [*More Info*](marauder/marauder_c.md) 
+
 ## Marauder MAD-3D 
 
 - **Role:** Brawler 
@@ -247,29 +270,6 @@
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2039) 
 - **Battle Value:** 1787 
 - [*More Info*](marauder/marauder_mad-5d.md) 
-
-## Marauder C 
-
-- **Role:** Sniper 
-- **Tech Base:** Clan Mixed (3050) 
-- **Chassis:** 75 tons 
-- **Movement:** 4 / 6 
-- **Armor:** 184 
-- **Heat Sinks:** 19 (19) 
-- **Weapons:** 
-  - Large Pulse Laser × 2 
-  - Ultra AC/5 (ammo: 20) 
-  - Inner Sphere Medium Laser × 2 
-- **Equipment:** 
-  - CASE 
-- **Design Quirks:** 
-  - Command ’Mech 
-  - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
-  - Directional Torso Mount (Ultra AC/5) 
-- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2032) 
-- **Battle Value:** 1711 
-- [*More Info*](marauder/marauder_c.md) 
 
 ## Marauder MAD-5M 
 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - Combat Vehicle Escape Pod 
-- **Sources:** TR0:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4748) 
+- **Sources:** TRO:Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4748) 
 - **Battle Value:** 1110 
 
 ## Availability 

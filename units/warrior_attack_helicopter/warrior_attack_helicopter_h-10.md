@@ -13,8 +13,8 @@
 - **Weapons:** 
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
-  - Infantry (5 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3512) 
+  - Infantry (5.0 tons) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3512) 
 - **Battle Value:** 180 
 
 ## Availability 

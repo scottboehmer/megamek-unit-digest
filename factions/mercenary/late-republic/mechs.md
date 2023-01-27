@@ -550,6 +550,10 @@
 - [**Mongoose II MON-267**](../../../units/mongoose_ii/mongoose_ii_mon-267.md) *Scout (3073)* `Active Probe` , `C3 Support` , `ECM` , `Stealth` 
 - [**Mongoose II MON-268**](../../../units/mongoose_ii/mongoose_ii_mon-268.md) *Striker (3076)* `Active Probe` , `C3 Main` , `TAG` 
 
+#### [Pouncer](../../../units/pouncer.md) 
+
+- [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
+
 #### [Sentinel](../../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
@@ -795,6 +799,8 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
 
 #### [Crab](../../../units/crab.md) 
 
@@ -957,6 +963,7 @@
 - [**Griffin GRF-1N**](../../../units/griffin/griffin_grf-1n.md) *Sniper (2492)* 
 - [**Griffin GRF-2N**](../../../units/griffin/griffin_grf-2n.md) *Skirmisher (2751)* `ECM` 
 - [**Griffin GRF-1S**](../../../units/griffin/griffin_grf-1s.md) *Skirmisher (2857)* 
+- [**Griffin GRF-3RG**](../../../units/griffin/griffin_grf-3rg.md) *Skirmisher (3048)* 
 - [**Griffin GRF-1DS**](../../../units/griffin/griffin_grf-1ds.md) *Missile Boat (3049)* 
 - [**Griffin GRF-3M**](../../../units/griffin/griffin_grf-3m.md) *Sniper (3049)* 
 - [**Griffin GRF-5M**](../../../units/griffin/griffin_grf-5m.md) *Missile Boat (3066)* 
@@ -1155,6 +1162,8 @@
 - [**Merlin MLN-1A**](../../../units/merlin/merlin_mln-1a.md) *Brawler (3010)* 
 - [**Merlin MLN-1B**](../../../units/merlin/merlin_mln-1b.md) *Brawler (3053)* 
 - [**Merlin MLN-1C**](../../../units/merlin/merlin_mln-1c.md) *Brawler (3068)* 
+- [**Merlin MLN-1D**](../../../units/merlin/merlin_mln-1d.md) *Sniper (3090)* 
+- [**Merlin MLN-1E**](../../../units/merlin/merlin_mln-1e.md) *Sniper (3099)* 
 
 #### [Ostroc](../../../units/ostroc.md) 
 
@@ -1683,6 +1692,7 @@
 - [**BattleMaster BLR-M3**](../../../units/battlemaster/battlemaster_blr-m3.md) *Sniper (3070)* `C3 Main` , `TAG` 
 - [**BattleMaster BLR-6C**](../../../units/battlemaster/battlemaster_blr-6c.md) *Juggernaut (3081)* `Command Console` 
 - [**BattleMaster BLR-6G**](../../../units/battlemaster/battlemaster_blr-6g.md) *Brawler (3088)* 
+- [**BattleMaster BLR-6R**](../../../units/battlemaster/battlemaster_blr-6r.md) *Brawler (3104)* 
 
 #### [Black Watch](../../../units/black_watch.md) 
 

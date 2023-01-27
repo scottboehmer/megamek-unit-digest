@@ -16,11 +16,11 @@
 - **Weapons:** 
   - Small Laser 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8503) 
-- **Battle Value:** 45 (314 for 5 suits) 
+- **Battle Value:** 51 (357 for 5 suits) 
 
 ## Availability 
 

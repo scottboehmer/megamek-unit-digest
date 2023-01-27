@@ -25,6 +25,7 @@
 #### [Skulker Wheeled Scout Tank](../../../units/skulker_wheeled_scout_tank.md) 
 
 - [**Skulker Wheeled Scout Tank (Standard)**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_standard.md) *Scout (2659)* 
+- [**Skulker Wheeled Scout Tank C**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c.md) *Scout (3150)* `Active Probe` , `ECM` , `Stealth` 
 
 ### 22 Tons 
 

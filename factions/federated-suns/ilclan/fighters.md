@@ -117,6 +117,7 @@
 #### [Stuka](../../../units/stuka.md) 
 
 - [**Stuka STU-K5b2**](../../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
+- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Attack Fighter (2751)* 
 - [**Stuka STU-D6**](../../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
 - [**Stuka STU-D7**](../../../units/stuka/stuka_stu-d7.md) *Attack Fighter (3070)* 
 

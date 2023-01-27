@@ -4,6 +4,10 @@
 
 ### 20 Tons 
 
+#### [Flea](../../../units/flea.md) 
+
+- [**Flea FLE-21**](../../../units/flea/flea_fle-21.md) *Striker (3139)* `ECM` , `Stealth` 
+
 #### [Locust](../../../units/locust.md) 
 
 - [**Locust LCT-7S**](../../../units/locust/locust_lct-7s.md) *Scout (3128)* 
@@ -57,6 +61,10 @@
 - [**Mist Lynx T**](../../../units/mist_lynx/mist_lynx_t.md) *Striker (3142)* `Active Probe` , `ECM` 
 
 ### 30 Tons 
+
+#### [Firefly](../../../units/firefly.md) 
+
+- [**Firefly FFL-5A**](../../../units/firefly/firefly_ffl-5a.md) *Striker (3144)* 
 
 #### [Incubus](../../../units/incubus.md) 
 
@@ -132,6 +140,16 @@
 #### [Wolfhound](../../../units/wolfhound.md) 
 
 - [**Wolfhound WLF-6S**](../../../units/wolfhound/wolfhound_wlf-6s.md) *Striker (3133)* 
+
+### 40 Tons 
+
+#### [Pouncer](../../../units/pouncer.md) 
+
+- [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
+- [**Pouncer G**](../../../units/pouncer/pouncer_g.md) *Striker (3142)* 
+- [**Pouncer I**](../../../units/pouncer/pouncer_i.md) *Missile Boat (3142)* 
+- [**Pouncer T**](../../../units/pouncer/pouncer_t.md) *Scout (3142)* 
+- [**Pouncer X**](../../../units/pouncer/pouncer_x.md) *Striker (3147)* 
 
 ### 45 Tons 
 
@@ -218,6 +236,10 @@
 - [**Nova X**](../../../units/nova/nova_x.md) *Skirmisher (3137)* 
 - [**Nova R**](../../../units/nova/nova_r.md) *Skirmisher (3140)* 
 - [**Nova T**](../../../units/nova/nova_t.md) *Skirmisher (3142)* 
+
+#### [Starslayer](../../../units/starslayer.md) 
+
+- [**Starslayer STY-4C**](../../../units/starslayer/starslayer_sty-4c.md) *Skirmisher (3145)* 
 
 #### [Stormwolf](../../../units/stormwolf.md) 
 
@@ -366,6 +388,10 @@
 
 - [**Guillotine IIC 2**](../../../units/guillotine_iic/guillotine_iic_2.md) *Skirmisher (3070)* 
 
+#### [Warhammer](../../../units/warhammer.md) 
+
+- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
+
 ### 75 Tons 
 
 #### [Flashman](../../../units/flashman.md) 
@@ -428,6 +454,7 @@
 #### [BattleMaster](../../../units/battlemaster.md) 
 
 - [**BattleMaster C**](../../../units/battlemaster/battlemaster_c.md) *Brawler (3070)* 
+- [**BattleMaster BLR-6R**](../../../units/battlemaster/battlemaster_blr-6r.md) *Brawler (3104)* 
 - [**BattleMaster C 3**](../../../units/battlemaster/battlemaster_c_3.md) *Juggernaut (3145)* 
 
 #### [Longbow](../../../units/longbow.md) 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1085) 
+- **Sources:** Op. Klondyke - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1085) 
 - **Battle Value:** 808 
 
 ## Availability 

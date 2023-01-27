@@ -621,6 +621,7 @@
 
 - [**Griffin GRF-1N**](../../../units/griffin/griffin_grf-1n.md) *Sniper (2492)* 
 - [**Griffin GRF-1S**](../../../units/griffin/griffin_grf-1s.md) *Skirmisher (2857)* 
+- [**Griffin GRF-3RG**](../../../units/griffin/griffin_grf-3rg.md) *Skirmisher (3048)* 
 - [**Griffin GRF-1DS**](../../../units/griffin/griffin_grf-1ds.md) *Missile Boat (3049)* 
 - [**Griffin GRF-3M**](../../../units/griffin/griffin_grf-3m.md) *Sniper (3049)* 
 - [**Griffin GRF-6S**](../../../units/griffin/griffin_grf-6s.md) *Sniper (3066)* 
@@ -646,9 +647,9 @@
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2H**](../../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
+- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (2826)* 
 - [**Shadow Hawk SHD-5M**](../../../units/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)* 
 - [**Shadow Hawk SHD-2D2**](../../../units/shadow_hawk/shadow_hawk_shd-2d2.md) *Brawler (3049)* 
-- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (3050)* 
 - [**Shadow Hawk SHD-5S**](../../../units/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe` , `ECM` , `TAG` 
 - [**Shadow Hawk SHD-5D**](../../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
 
@@ -733,9 +734,9 @@
 #### [Rifleman](../../../units/rifleman.md) 
 
 - [**Rifleman RFL-3N**](../../../units/rifleman/rifleman_rfl-3n.md) *Sniper (2770)* 
+- [**Rifleman C**](../../../units/rifleman/rifleman_c.md) *Sniper (2826)* 
 - [**Rifleman RFL-5M**](../../../units/rifleman/rifleman_rfl-5m.md) *Brawler (3049)* 
 - [**Rifleman RFL-5D**](../../../units/rifleman/rifleman_rfl-5d.md) *Brawler (3050)* 
-- [**Rifleman C**](../../../units/rifleman/rifleman_c.md) *Sniper (3052)* 
 - [**Rifleman RFL-8D**](../../../units/rifleman/rifleman_rfl-8d.md) *Skirmisher (3064)* 
 
 ### 65 Tons 
@@ -831,11 +832,11 @@
 
 - [**Archer ARC-1A**](../../../units/archer/archer_arc-1a.md) *Missile Boat (2458)* 
 - [**Archer ARC-2R**](../../../units/archer/archer_arc-2r.md) *Missile Boat (2474)* 
+- [**Archer C**](../../../units/archer/archer_c.md) *Missile Boat (2824)* 
 - [**Archer ARC-2S**](../../../units/archer/archer_arc-2s.md) *Missile Boat (2915)* 
 - [**Archer ARC-4M**](../../../units/archer/archer_arc-4m.md) *Missile Boat (3049)* 
 - [**Archer ARC-5S**](../../../units/archer/archer_arc-5s.md) *Missile Boat (3050)* 
 - [**Archer ARC-5W**](../../../units/archer/archer_arc-5w.md) *Missile Boat (3050)* 
-- [**Archer C**](../../../units/archer/archer_c.md) *Missile Boat (3050)* 
 - [**Archer ARC-6S**](../../../units/archer/archer_arc-6s.md) *Missile Boat (3067)* 
 - [**Archer ARC-7S**](../../../units/archer/archer_arc-7s.md) *Missile Boat (3070)* 
 - [**Archer ARC-9M**](../../../units/archer/archer_arc-9m.md) *Missile Boat (3076)* 
@@ -931,7 +932,7 @@
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
-- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (3050)* 
+- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (2825)* 
 - [**Warhammer WHM-7S**](../../../units/warhammer/warhammer_whm-7s.md) *Brawler (3050)* 
 - [**Warhammer C 2**](../../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
 - [**Warhammer WHM-8D**](../../../units/warhammer/warhammer_whm-8d.md) *Brawler (3066)* `C3 Support` 
@@ -971,8 +972,8 @@
 #### [Marauder](../../../units/marauder.md) 
 
 - [**Marauder MAD-3R**](../../../units/marauder/marauder_mad-3r.md) *Sniper (2819)* 
+- [**Marauder C**](../../../units/marauder/marauder_c.md) *Sniper (2827)* 
 - [**Marauder MAD-5D**](../../../units/marauder/marauder_mad-5d.md) *Skirmisher (3047)* 
-- [**Marauder C**](../../../units/marauder/marauder_c.md) *Sniper (3050)* 
 - [**Marauder MAD-5M**](../../../units/marauder/marauder_mad-5m.md) *Skirmisher (3051)* 
 - [**Marauder MAD-5S**](../../../units/marauder/marauder_mad-5s.md) *Sniper (3051)* 
 - [**Marauder MAD-9S**](../../../units/marauder/marauder_mad-9s.md) *Sniper (3068)* `Active Probe` , `ECM` 

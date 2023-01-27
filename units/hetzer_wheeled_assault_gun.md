@@ -118,3 +118,31 @@
 - **Battle Value:** 733 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_sealed.md) 
 
+## Hetzer Wheeled Assault Gun (Cell) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3090) 
+- **Chassis:** 40 tons Wheeled 
+- **Movement:** 5 / 8, Fuel Cell 
+- **Armor:** 104 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 20) 
+- **Sources:** Rec Guide:ilClan #29 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9387) 
+- **Battle Value:** 900 
+- [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_cell.md) 
+
+## Hetzer Wheeled Assault Gun C 
+
+- **Role:** Ambusher 
+- **Tech Base:** Clan (3107) 
+- **Chassis:** 40 tons Wheeled 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - HAG 30 (ammo: 20) 
+- **Sources:** Rec Guide:ilClan #29 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9388) 
+- **Battle Value:** 1051 
+- [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_c.md) 
+

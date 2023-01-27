@@ -68,13 +68,10 @@
 - [**J-27 Ordnance Transport (Trailer)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Armor)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_armor.md) *Undefined (2833)* 
 
-#### [Mobile Long Tom Artillery Ammunition Trailer](../../../units/mobile_long_tom_artillery_ammunition_trailer.md) 
+#### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery Ammunition Trailer LT-MOB-25**](../../../units/mobile_long_tom_artillery_ammunition_trailer/mobile_long_tom_artillery_ammunition_trailer_lt-mob-25.md) *Undefined (2602)* 
-
-#### [Mobile Long Tom Artillery Support Carriage](../../../units/mobile_long_tom_artillery_support_carriage.md) 
-
-- [**Mobile Long Tom Artillery Support Carriage LT-MOB-25**](../../../units/mobile_long_tom_artillery_support_carriage/mobile_long_tom_artillery_support_carriage_lt-mob-25.md) *Undefined (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25 (Ammunition Carriage)**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25_ammunition_carriage.md) *Undefined (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25 (Support Carriage)**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25_support_carriage.md) *Undefined (2602)* 
 
 #### [Ripper Infantry Transport](../../../units/ripper_infantry_transport.md) 
 
@@ -97,6 +94,12 @@
 - [**Beagle Hover Scout (C3i)**](../../../units/beagle_hover_scout/beagle_hover_scout_c3i.md) *Scout (3069)* `C3i` 
 - [**Beagle Hover Scout (TAG)**](../../../units/beagle_hover_scout/beagle_hover_scout_tag.md) *Scout (3069)* `Active Probe` , `ECM` , `TAG` 
 - [**Beagle Hover Scout (Sealed)**](../../../units/beagle_hover_scout/beagle_hover_scout_sealed.md) *Scout (3076)* `C3i` 
+
+#### [Command Van](../../../units/command_van.md) 
+
+- [**Command Van**](../../../units/command_van/command_van.md) *Scout (2577)* 
+- [**Command Van (ICE)**](../../../units/command_van/command_van_ice.md) *Scout (2907)* 
+- [**Command Van (Q-Vehicle)**](../../../units/command_van/command_van_q-vehicle.md) *Scout (2975)* 
 
 #### [Mantis Light Attack VTOL](../../../units/mantis_light_attack_vtol.md) 
 
@@ -159,6 +162,7 @@
 - [**Skulker Wheeled Scout Tank (Standard)**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_standard.md) *Scout (2659)* 
 - [**Skulker Wheeled Scout Tank (MG)**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_mg.md) *Scout (2897)* `Transport:2.0` 
 - [**Skulker Wheeled Scout Tank (SRM)**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_srm.md) *Scout (2901)* 
+- [**Skulker Wheeled Scout Tank C**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c.md) *Scout (3150)* `Active Probe` , `ECM` , `Stealth` 
 
 #### [Wheeled Scout](../../../units/wheeled_scout.md) 
 
@@ -173,6 +177,7 @@
 - [**Warrior Attack Helicopter H-7**](../../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7.md) *Scout (2957)* 
 - [**Warrior Attack Helicopter H-7A**](../../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7a.md) *Scout (2965)* 
 - [**Warrior Attack Helicopter H-7C**](../../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7c.md) *Sniper (2974)* 
+- [**Warrior Attack Helicopter H-7F**](../../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7f.md) *Scout (3100)* `TAG` 
 
 ### 25 Tons 
 
@@ -181,6 +186,11 @@
 - [**Blizzard Hover Transport (Standard)**](../../../units/blizzard_hover_transport/blizzard_hover_transport_standard.md) *Scout (3054)* `Transport:6.0` 
 - [**Blizzard Hover Transport (SRM)**](../../../units/blizzard_hover_transport/blizzard_hover_transport_srm.md) *Scout (3062)* `Transport:6.0` 
 - [**Blizzard Hover Transport 'Black Blizzard'**](../../../units/blizzard_hover_transport/blizzard_hover_transport_black_blizzard.md) *Striker (3064)* `ECM` 
+
+#### [Browning Mobile HQ](../../../units/browning_mobile_hq.md) 
+
+- [**Browning Mobile HQ**](../../../units/browning_mobile_hq/browning_mobile_hq.md) *Undefined (2625)* `ECM` 
+- [**Browning Mobile HQ (Half Track)**](../../../units/browning_mobile_hq/browning_mobile_hq_half_track.md) *Undefined (2635)* `ECM` 
 
 #### [Cavalry Attack Helicopter](../../../units/cavalry_attack_helicopter.md) 
 
@@ -405,6 +415,10 @@
 
 - [**BattleMech Recovery Vehicle (Standard)**](../../../units/battlemech_recovery_vehicle/battlemech_recovery_vehicle_standard.md) *Undefined (2500)* 
 
+#### [Buzzard Hover Tank](../../../units/buzzard_hover_tank.md) 
+
+- [**Buzzard Hover Tank**](../../../units/buzzard_hover_tank/buzzard_hover_tank.md) *Striker (3076)* 
+
 #### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
 
 - [**Chaparral Missile Artillery Tank (Standard)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_standard.md) *Missile Boat (2611)* 
@@ -429,7 +443,11 @@
 
 #### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
 
-- [**Falcon Hover Tank (Standard)**](../../../units/falcon_hover_tank/falcon_hover_tank_standard.md) *Undefined (3023)* 
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
+
+#### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
+
+- [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
 
 #### [LTV-4 Hover Tank](../../../units/ltv-4_hover_tank.md) 
 
@@ -602,7 +620,7 @@
 
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery LT-MOB-25**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Missile Boat (2602)* 
 
 #### [Monitor Naval Vessel](../../../units/monitor_naval_vessel.md) 
 
@@ -700,6 +718,7 @@
 #### [SturmFeur Heavy Tank](../../../units/sturmfeur_heavy_tank.md) 
 
 - [**SturmFeur Heavy Tank (WoB)**](../../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) *Juggernaut (3075)* `C3i` , `TAG` 
+- [**SturmFeur Heavy Tank (Steiner)**](../../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_steiner.md) *Juggernaut (3080)* `ECM` , `TAG` 
 
 #### [Trajan Assault Infantry Fighting Vehicle](../../../units/trajan_assault_infantry_fighting_vehicle.md) 
 
@@ -713,9 +732,9 @@
 - [**Alacorn Heavy Tank Mk VI**](../../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) *Sniper (2590)* 
 - [**Alacorn Heavy Tank Mk VII**](../../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vii.md) *Juggernaut (3063)* 
 
-#### [Mobile Long Tom Artillery (Unofficial)](../../../units/mobile_long_tom_artillery_unofficial.md) 
+#### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery (Unofficial) (+ Carriage)**](../../../units/mobile_long_tom_artillery_unofficial/mobile_long_tom_artillery_unofficial_+_carriage.md) *Missile Boat (2602)* 
+- [**Mobile Long Tom Artillery (+Carriages)(Unofficial)**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_+carriagesunofficial.md) *Undefined (2602)* 
 
 #### [Ontos Heavy Tank](../../../units/ontos_heavy_tank.md) 
 

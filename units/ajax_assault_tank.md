@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3690) 
+- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3690) 
 - **Battle Value:** 1789 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_prime.md) 
 
@@ -35,7 +35,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3688) 
+- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3688) 
 - **Battle Value:** 2042 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_a.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3689) 
+- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3689) 
 - **Battle Value:** 1706 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_b.md) 
 
@@ -73,7 +73,7 @@
   - Guardian ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5740) 
+- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5740) 
 - **Battle Value:** 1839 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_c.md) 
 
@@ -94,7 +94,7 @@
   - CASE 
   - Infantry (4.0 tons) 
   - Drone Control System 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5741) 
+- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5741) 
 - **Battle Value:** 1502 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_d.md) 
 

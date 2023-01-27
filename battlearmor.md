@@ -514,6 +514,15 @@
 - [**Clan Medium Battle Armor (Rache)(Sqd5)**](units/clan_medium_battle_armor/clan_medium_battle_armor_rachesqd5.md) *Scout (3077)* 
 - [**Clan Medium Battle Armor (Rache)(Sqd6)**](units/clan_medium_battle_armor/clan_medium_battle_armor_rachesqd6.md) *Scout (3077)* 
 
+#### [Dragoon Battle Armor](units/dragoon_battle_armor.md) 
+
+- [**Dragoon Battle Armor (Sqd4)**](units/dragoon_battle_armor/dragoon_battle_armor_sqd4.md) *Ambusher (3072)* 
+- [**Dragoon Battle Armor (Sqd5)**](units/dragoon_battle_armor/dragoon_battle_armor_sqd5.md) *Ambusher (3072)* 
+- [**Dragoon Battle Armor (Sqd6)**](units/dragoon_battle_armor/dragoon_battle_armor_sqd6.md) *Ambusher (3072)* 
+- [**Dragoon Battle Armor (Upgrade)(Sqd4)**](units/dragoon_battle_armor/dragoon_battle_armor_upgradesqd4.md) *Undefined (3072)* 
+- [**Dragoon Battle Armor (Upgrade)(Sqd5)**](units/dragoon_battle_armor/dragoon_battle_armor_upgradesqd5.md) *Undefined (3072)* 
+- [**Dragoon Battle Armor (Upgrade)(Sqd6)**](units/dragoon_battle_armor/dragoon_battle_armor_upgradesqd6.md) *Undefined (3072)* 
+
 #### [Elemental Battle Armor](units/elemental_battle_armor.md) 
 
 - [**Elemental Battle Armor (Flamer)(Sqd3)**](units/elemental_battle_armor/elemental_battle_armor_flamersqd3.md) *Ambusher (2868)* 
@@ -914,9 +923,12 @@
 
 #### [TinStar BattleArmor](units/tinstar_battlearmor.md) 
 
+- [**TinStar BattleArmor (Original)(Sqd4)**](units/tinstar_battlearmor/tinstar_battlearmor_originalsqd4.md) *Ambusher (3087)* 
+- [**TinStar BattleArmor (Original)(Sqd5)**](units/tinstar_battlearmor/tinstar_battlearmor_originalsqd5.md) *Ambusher (3087)* 
+- [**TinStar BattleArmor (Original)(Sqd6)**](units/tinstar_battlearmor/tinstar_battlearmor_originalsqd6.md) *Ambusher (3087)* 
 - [**TinStar BattleArmor (Standard)(Sqd4)**](units/tinstar_battlearmor/tinstar_battlearmor_standardsqd4.md) *Scout (3087)* 
-- [**TinStar BattleArmor (Standard)(Sqd5)**](units/tinstar_battlearmor/tinstar_battlearmor_standardsqd5.md) *Undefined (3087)* 
-- [**TinStar BattleArmor (Standard)(Sqd6)**](units/tinstar_battlearmor/tinstar_battlearmor_standardsqd6.md) *Undefined (3087)* 
+- [**TinStar BattleArmor (Standard)(Sqd5)**](units/tinstar_battlearmor/tinstar_battlearmor_standardsqd5.md) *Ambusher (3087)* 
+- [**TinStar BattleArmor (Standard)(Sqd6)**](units/tinstar_battlearmor/tinstar_battlearmor_standardsqd6.md) *Ambusher (3087)* 
 
 #### [Trinity Medium Battle Armor](units/trinity_medium_battle_armor.md) 
 

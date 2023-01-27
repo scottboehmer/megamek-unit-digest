@@ -188,6 +188,10 @@
 
 - [**Powerman SC XV HaulerMech**](../../../units/powerman/powerman_sc_xv_haulermech.md) *Ambusher (2895)* `IndustrialMech` 
 
+#### [Spector](../../../units/spector.md) 
+
+- [**Spector SPR-6F**](../../../units/spector/spector_spr-6f.md) *Striker (3119)* 
+
 #### [StrongArm](../../../units/strongarm.md) 
 
 - [**StrongArm SC CV ConstructionMech**](../../../units/strongarm/strongarm_sc_cv_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
@@ -216,6 +220,10 @@
 #### [Harvester](../../../units/harvester.md) 
 
 - [**Harvester HVR-199 AgroMech**](../../../units/harvester/harvester_hvr-199_agromech.md) *Undefined (3128)* `IndustrialMech` 
+
+#### [Pouncer](../../../units/pouncer.md) 
+
+- [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
 
 ### 45 Tons 
 

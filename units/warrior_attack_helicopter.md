@@ -56,7 +56,7 @@
 - **Weapons:** 
   - LRM 5 (ammo: 24) 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3516) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3516) 
 - **Battle Value:** 419 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) 
 
@@ -70,7 +70,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - RAC/2 (ammo: 45) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3517) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3517) 
 - **Battle Value:** 484 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-9.md) 
 
@@ -85,8 +85,8 @@
 - **Weapons:** 
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
-  - Infantry (5 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3512) 
+  - Infantry (5.0 tons) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3512) 
 - **Battle Value:** 180 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-10.md) 
 
@@ -103,7 +103,24 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Jet Booster 
-- **Sources:** XTR Mercs , [Master Unit List](http://masterunitlist.info/Unit/Details/3518) 
+- **Sources:** XTRO Mercs - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3518) 
 - **Battle Value:** 372 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_hx-9.md) 
+
+## Warrior Attack Helicopter H-7F 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3100) 
+- **Chassis:** 21 tons VTOL 
+- **Movement:** 10 / 15, Fuel Cell 
+- **Armor:** 35 (Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Ultra AC/2 (ammo: 45) 
+  - SRM 2 (iOS) 
+- **Equipment:** 
+  - TAG 
+- **Sources:** Rec Guide:ilClan #28 - , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
+- **Battle Value:** 294 
+- [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-7f.md) 
 

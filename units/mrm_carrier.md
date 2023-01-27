@@ -12,7 +12,7 @@
   - MRM 30 × 3 (ammo: 24) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2243) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2243) 
 - **Battle Value:** 779 
 - [*More Info*](mrm_carrier/mrm_carrier_standard.md) 
 

@@ -18,7 +18,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2325) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2325) 
 - **Battle Value:** 1242 
 
 ## Availability 

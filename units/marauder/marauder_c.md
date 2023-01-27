@@ -5,7 +5,7 @@
 ## Marauder C 
 
 - **Role:** Sniper 
-- **Tech Base:** Clan Mixed (3050) 
+- **Tech Base:** Clan Mixed (2827) 
 - **Chassis:** 75 tons 
 - **Movement:** 4 / 6 
 - **Armor:** 184 

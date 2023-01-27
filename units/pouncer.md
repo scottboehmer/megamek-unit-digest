@@ -168,7 +168,108 @@
   - Remote Sensor Dispenser 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4850) 
+- **Sources:** Rec Guide 25 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4850) 
 - **Battle Value:** 1308 
 - [*More Info*](pouncer/pouncer_f.md) 
+
+## Pouncer W 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan (3089) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 5 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Large Pulse Laser × 2 
+  - Improved Heavy Medium Laser 
+- **Equipment:** 
+  - CASE II 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
+- **Sources:** Rec Guide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9264) 
+- **Battle Value:** 1751 
+- [*More Info*](pouncer/pouncer_w.md) 
+
+## Pouncer G 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3142) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 5 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Medium Pulse Laser × 3 
+  - Improved Heavy Medium Laser × 3 
+  - SRM 4 × 4 (ammo: 50) 
+- **Equipment:** 
+  - CASE II 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
+- **Sources:** Rec Guide 25 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9261) 
+- **Battle Value:** 1808 
+- [*More Info*](pouncer/pouncer_g.md) 
+
+## Pouncer I 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3142) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 5 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis V (ammo: 18) 
+  - ER Large Pulse Laser 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
+- **Sources:** Rec Guide 25 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9263) 
+- **Battle Value:** 1781 
+- [*More Info*](pouncer/pouncer_i.md) 
+
+## Pouncer T 
+
+- **Role:** Scout 
+- **Tech Base:** Clan Mixed (3142) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 5 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Inner Sphere Plasma Rifle × 2 (ammo: 30) 
+  - ER Small Laser 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
+- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9262) 
+- **Battle Value:** 1573 
+- [*More Info*](pouncer/pouncer_t.md) 
+
+## Pouncer X 
+
+- **Role:** Striker 
+- **Tech Base:** Clan Mixed (3147) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 6 / 9 (12), XL 
+  - **Jumping:** 5 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 16 (32) 
+- **Weapons:** 
+  - Plasma Cannon (ammo: 10) 
+  - Improved Heavy Small Laser × 7 
+  - Inner Sphere Lance 
+- **Equipment:** 
+  - Laser Anti-Missile System 
+  - Inner Sphere Supercharger 
+- **Design Quirks:** 
+  - Weak Head Armor (2) 
+- **Sources:** Rec Guide 25 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9265) 
+- **Battle Value:** 1455 
+- [*More Info*](pouncer/pouncer_x.md) 
 

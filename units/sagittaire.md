@@ -20,7 +20,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4967) 
+- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4967) 
 - **Battle Value:** 2088 
 - [*More Info*](sagittaire/sagittaire_sgt-8r.md) 
 
@@ -44,7 +44,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5717) 
+- **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5717) 
 - **Battle Value:** 2064 
 - [*More Info*](sagittaire/sagittaire_sgt-9d.md) 
 
@@ -65,7 +65,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5718) 
+- **Sources:** 3067 Unabridged - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5718) 
 - **Battle Value:** 1794 
 - [*More Info*](sagittaire/sagittaire_sgt-10x.md) 
 
@@ -91,7 +91,31 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6835) 
+- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6835) 
 - **Battle Value:** 1960 
 - [*More Info*](sagittaire/sagittaire_sgt-14d.md) 
+
+## Sagittaire SGT-14R 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere Mixed (3149) 
+- **Chassis:** 95 tons (Endo Composite) 
+- **Movement:** 3 / 5, Light 
+  - **Jumping:** 3 
+- **Armor:** 288 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - Clan ER PPC 
+  - Large VSP Laser × 2 
+  - Clan ER Medium Laser × 3 
+  - Clan Small Pulse Laser × 3 
+- **Equipment:** 
+  - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Targeting (Short) 
+  - Difficult to Maintain 
+  - Weak Head Armor (1) 
+- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9398) 
+- **Battle Value:** 2626 
+- [*More Info*](sagittaire/sagittaire_sgt-14r.md) 
 

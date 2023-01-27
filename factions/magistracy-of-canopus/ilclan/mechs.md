@@ -28,6 +28,7 @@
 - [**Flea FLE-17**](../../../units/flea/flea_fle-17.md) *Striker (3049)* 
 - [**Flea FLE-19**](../../../units/flea/flea_fle-19.md) *Striker (3068)* 
 - [**Flea FLE-20**](../../../units/flea/flea_fle-20.md) *Striker (3071)* `ECM` , `Stealth` 
+- [**Flea FLE-21**](../../../units/flea/flea_fle-21.md) *Striker (3139)* `ECM` , `Stealth` 
 
 #### [Gùn](../../../units/gùn.md) 
 
@@ -164,6 +165,10 @@
 
 - [**Dola DOL-1A1**](../../../units/dola/dola_dol-1a1.md) *Scout (3082)* `ECM` 
 
+#### [Firefly](../../../units/firefly.md) 
+
+- [**Firefly FFL-5A**](../../../units/firefly/firefly_ffl-5a.md) *Striker (3144)* 
+
 #### [Harvester](../../../units/harvester.md) 
 
 - [**Harvester HVR-99 AgroMech**](../../../units/harvester/harvester_hvr-99_agromech.md) *Ambusher (3049)* `IndustrialMech` 
@@ -266,6 +271,7 @@
 
 - [**Cicada CDA-3M**](../../../units/cicada/cicada_cda-3m.md) *Striker (3049)* 
 - [**Cicada CDA-3MA**](../../../units/cicada/cicada_cda-3ma.md) *Striker (3068)* 
+- [**Cicada CDA-4A**](../../../units/cicada/cicada_cda-4a.md) *Striker (3150)* 
 
 #### [Clint](../../../units/clint.md) 
 
@@ -399,6 +405,7 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
 
 #### [Ghost](../../../units/ghost.md) 
 
@@ -654,6 +661,7 @@
 - [**Cataphract CTF-3L**](../../../units/cataphract/cataphract_ctf-3l.md) *Sniper (3050)* 
 - [**Cataphract CTF-4L**](../../../units/cataphract/cataphract_ctf-4l.md) *Sniper (3067)* `ECM` , `Stealth` 
 - [**Cataphract CTF-3LL**](../../../units/cataphract/cataphract_ctf-3ll.md) *Skirmisher (3068)* 
+- [**Cataphract CTF-5LL**](../../../units/cataphract/cataphract_ctf-5ll.md) *Sniper (3135)* 
 
 #### [Gallant](../../../units/gallant.md) 
 

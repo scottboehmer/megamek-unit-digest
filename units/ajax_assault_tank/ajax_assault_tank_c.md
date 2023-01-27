@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5740) 
+- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5740) 
 - **Battle Value:** 1839 
 
 ## Availability 

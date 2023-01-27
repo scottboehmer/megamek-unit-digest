@@ -316,11 +316,18 @@
 
 #### [Naga](../../../units/naga.md) 
 
+- [**Naga A**](../../../units/naga/naga_a.md) *Missile Boat (2869)* 
+- [**Naga B**](../../../units/naga/naga_b.md) *Missile Boat (2869)* 
+- [**Naga C**](../../../units/naga/naga_c.md) *Missile Boat (2869)* 
+- [**Naga D**](../../../units/naga/naga_d.md) *Missile Boat (2869)* 
 - [**Naga Prime**](../../../units/naga/naga_prime.md) *Missile Boat (2945)* 
-- [**Naga A**](../../../units/naga/naga_a.md) *Missile Boat (2945)* 
-- [**Naga B**](../../../units/naga/naga_b.md) *Missile Boat (2945)* 
-- [**Naga C**](../../../units/naga/naga_c.md) *Missile Boat (2945)* 
-- [**Naga D**](../../../units/naga/naga_d.md) *Missile Boat (2945)* 
+
+#### [Naga II](../../../units/naga_ii.md) 
+
+- [**Naga II Prime**](../../../units/naga_ii/naga_ii_prime.md) *Brawler (2866)* 
+- [**Naga II A**](../../../units/naga_ii/naga_ii_a.md) *Brawler (2866)* 
+- [**Naga II B**](../../../units/naga_ii/naga_ii_b.md) *Missile Boat (2866)* 
+- [**Naga II C**](../../../units/naga_ii/naga_ii_c.md) *Brawler (2866)* 
 
 #### [Spartan](../../../units/spartan.md) 
 

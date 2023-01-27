@@ -40,6 +40,13 @@
 - [**Sprint Scout Helicopter (Troop Transport)**](../../../units/sprint_scout_helicopter/sprint_scout_helicopter_troop_transport.md) *Scout (3056)* `Transport:2.5` 
 - [**Sprint Scout Helicopter (C3)**](../../../units/sprint_scout_helicopter/sprint_scout_helicopter_c3.md) *Scout (3057)* `Active Probe` , `C3 Support` 
 
+### 15 Tons 
+
+#### [Command Van](../../../units/command_van.md) 
+
+- [**Command Van (ICE)**](../../../units/command_van/command_van_ice.md) *Scout (2907)* 
+- [**Command Van (Q-Vehicle)**](../../../units/command_van/command_van_q-vehicle.md) *Scout (2975)* 
+
 ### 20 Tons 
 
 #### [Centipede Scout Car](../../../units/centipede_scout_car.md) 

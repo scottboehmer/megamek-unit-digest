@@ -89,6 +89,28 @@
 - **Battle Value:** 1679 
 - [*More Info*](warhammer/warhammer_whm-7a.md) 
 
+## Warhammer C 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere Mixed (2825) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 160 
+- **Heat Sinks:** 20 (20) 
+- **Weapons:** 
+  - Clan Large Pulse Laser × 2 
+  - Clan Streak SRM 6 (ammo: 15) 
+  - Clan ER Medium Laser × 2 
+  - Clan ER Small Laser × 2 
+  - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Rugged (×3) 
+  - Searchlight 
+  - Stable 
+- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3479) 
+- **Battle Value:** 1728 
+- [*More Info*](warhammer/warhammer_c.md) 
+
 ## Warhammer WHM-6L 
 
 - **Role:** Brawler 
@@ -155,7 +177,7 @@
 ## Warhammer C 3 
 
 - **Role:** Undefined 
-- **Tech Base:** Clan Mixed (2850) 
+- **Tech Base:** Clan Mixed (2862) 
 - **Chassis:** 70 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
 - **Armor:** 217 
@@ -174,7 +196,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Source:** Rec Guide:ilClan #7 - Clan Invasion 
+- **Sources:** Rec Guide:ilClan #7 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7566) 
 - **Battle Value:** 2772 
 - [*More Info*](warhammer/warhammer_c_3.md) 
 
@@ -221,28 +243,6 @@
 - **Sources:** Rec Guide:ilClan #7 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3492) 
 - **Battle Value:** 1487 
 - [*More Info*](warhammer/warhammer_whm-7m.md) 
-
-## Warhammer C 
-
-- **Role:** Brawler 
-- **Tech Base:** Inner Sphere Mixed (3050) 
-- **Chassis:** 70 tons 
-- **Movement:** 4 / 6 
-- **Armor:** 160 
-- **Heat Sinks:** 20 (20) 
-- **Weapons:** 
-  - Clan Large Pulse Laser × 2 
-  - Clan Streak SRM 6 (ammo: 15) 
-  - Clan ER Medium Laser × 2 
-  - Clan ER Small Laser × 2 
-  - Machine Gun × 2 (ammo: 200) 
-- **Design Quirks:** 
-  - Rugged (×3) 
-  - Searchlight 
-  - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3479) 
-- **Battle Value:** 1728 
-- [*More Info*](warhammer/warhammer_c.md) 
 
 ## Warhammer WHM-7S 
 

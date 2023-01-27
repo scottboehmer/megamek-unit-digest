@@ -267,3 +267,23 @@
 - **Battle Value:** 2090 
 - [*More Info*](cataphract/cataphract_ctf-5l.md) 
 
+## Cataphract CTF-5LL 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3135) 
+- **Chassis:** 70 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 216 (Laser Reflective) 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - ER PPC 
+  - Medium Laser × 4 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9407) 
+- **Battle Value:** 2322 
+- [*More Info*](cataphract/cataphract_ctf-5ll.md) 
+

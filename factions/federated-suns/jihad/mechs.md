@@ -721,9 +721,9 @@
 
 - [**Shadow Hawk SHD-2H**](../../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
 - [**Shadow Hawk SHD-2D**](../../../units/shadow_hawk/shadow_hawk_shd-2d.md) *Striker (2796)* 
+- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (2826)* 
 - [**Shadow Hawk SHD-5M**](../../../units/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)* 
 - [**Shadow Hawk SHD-2D2**](../../../units/shadow_hawk/shadow_hawk_shd-2d2.md) *Brawler (3049)* 
-- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (3050)* 
 - [**Shadow Hawk SHD-5D**](../../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
 - [**Shadow Hawk SHD-9D**](../../../units/shadow_hawk/shadow_hawk_shd-9d.md) *Skirmisher (3070)* `C3 Support` 
 
@@ -809,11 +809,11 @@
 #### [Rifleman](../../../units/rifleman.md) 
 
 - [**Rifleman RFL-3N**](../../../units/rifleman/rifleman_rfl-3n.md) *Sniper (2770)* 
+- [**Rifleman C**](../../../units/rifleman/rifleman_c.md) *Sniper (2826)* 
 - [**Rifleman RFL-4D**](../../../units/rifleman/rifleman_rfl-4d.md) *Sniper (3021)* 
 - [**Rifleman RFL-3C**](../../../units/rifleman/rifleman_rfl-3c.md) *Brawler (3026)* 
 - [**Rifleman RFL-5M**](../../../units/rifleman/rifleman_rfl-5m.md) *Brawler (3049)* 
 - [**Rifleman RFL-5D**](../../../units/rifleman/rifleman_rfl-5d.md) *Brawler (3050)* 
-- [**Rifleman C**](../../../units/rifleman/rifleman_c.md) *Sniper (3052)* 
 - [**Rifleman RFL-6X**](../../../units/rifleman/rifleman_rfl-6x.md) *Sniper (3063)* 
 - [**Rifleman RFL-8D**](../../../units/rifleman/rifleman_rfl-8d.md) *Skirmisher (3064)* 
 - [**Rifleman RFL-6D**](../../../units/rifleman/rifleman_rfl-6d.md) *Skirmisher (3069)* `C3 Support` 
@@ -912,9 +912,9 @@
 #### [Archer](../../../units/archer.md) 
 
 - [**Archer ARC-2R**](../../../units/archer/archer_arc-2r.md) *Missile Boat (2474)* 
+- [**Archer C**](../../../units/archer/archer_c.md) *Missile Boat (2824)* 
 - [**Archer ARC-4M**](../../../units/archer/archer_arc-4m.md) *Missile Boat (3049)* 
 - [**Archer ARC-5S**](../../../units/archer/archer_arc-5s.md) *Missile Boat (3050)* 
-- [**Archer C**](../../../units/archer/archer_c.md) *Missile Boat (3050)* 
 
 #### [Avatar](../../../units/avatar.md) 
 
@@ -1007,9 +1007,9 @@
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
+- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (2825)* 
 - [**Warhammer WHM-6K**](../../../units/warhammer/warhammer_whm-6k.md) *Brawler (2830)* 
 - [**Warhammer WHM-6D**](../../../units/warhammer/warhammer_whm-6d.md) *Brawler (2835)* 
-- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (3050)* 
 - [**Warhammer WHM-7S**](../../../units/warhammer/warhammer_whm-7s.md) *Brawler (3050)* 
 - [**Warhammer C 2**](../../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
 - [**Warhammer WHM-8D**](../../../units/warhammer/warhammer_whm-8d.md) *Brawler (3066)* `C3 Support` 
@@ -1053,9 +1053,9 @@
 #### [Marauder](../../../units/marauder.md) 
 
 - [**Marauder MAD-3R**](../../../units/marauder/marauder_mad-3r.md) *Sniper (2819)* 
+- [**Marauder C**](../../../units/marauder/marauder_c.md) *Sniper (2827)* 
 - [**Marauder MAD-3D**](../../../units/marauder/marauder_mad-3d.md) *Brawler (2834)* 
 - [**Marauder MAD-5D**](../../../units/marauder/marauder_mad-5d.md) *Skirmisher (3047)* 
-- [**Marauder C**](../../../units/marauder/marauder_c.md) *Sniper (3050)* 
 - [**Marauder MAD-5M**](../../../units/marauder/marauder_mad-5m.md) *Skirmisher (3051)* 
 - [**Marauder MAD-5S**](../../../units/marauder/marauder_mad-5s.md) *Sniper (3051)* 
 - [**Marauder MAD-5D-DC**](../../../units/marauder/marauder_mad-5d-dc.md) *Brawler (3055)* `Command Console` 

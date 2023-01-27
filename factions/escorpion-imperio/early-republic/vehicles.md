@@ -173,6 +173,10 @@
 
 - [**Hachiman Fire Support Tank (Standard)**](../../../units/hachiman_fire_support_tank/hachiman_fire_support_tank_standard.md) *Missile Boat (2842)* 
 
+#### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
+
+- [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
+
 #### [Korvin Tank](../../../units/korvin_tank.md) 
 
 - [**Korvin Tank KRV-3**](../../../units/korvin_tank/korvin_tank_krv-3.md) *Missile Boat (2544)* 
@@ -222,10 +226,6 @@
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 
 - [**Oro Heavy Tank (Standard)**](../../../units/oro_heavy_tank/oro_heavy_tank_standard.md) *Brawler (2844)* 
-
-#### [Pike Support Vehicle](../../../units/pike_support_vehicle.md) 
-
-- [**Pike Support Vehicle (Clan)**](../../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
 
 #### [SRM Carrier](../../../units/srm_carrier.md) 
 

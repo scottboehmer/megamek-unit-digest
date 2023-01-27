@@ -5,7 +5,7 @@
 ## Rifleman C 
 
 - **Role:** Sniper 
-- **Tech Base:** Inner Sphere Mixed (3052) 
+- **Tech Base:** Inner Sphere Mixed (2826) 
 - **Chassis:** 60 tons 
 - **Movement:** 4 / 6 
 - **Armor:** 120 

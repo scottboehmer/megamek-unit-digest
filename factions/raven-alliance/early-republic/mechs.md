@@ -232,6 +232,7 @@
 - [**Phantom E**](../../../units/phantom/phantom_e.md) *Striker (3061)* 
 - [**Phantom H**](../../../units/phantom/phantom_h.md) *Striker (3062)* 
 - [**Phantom F**](../../../units/phantom/phantom_f.md) *Striker (3068)* `ECM` 
+- [**Phantom G**](../../../units/phantom/phantom_g.md) *Scout (3090)* 
 
 #### [Rock Hound](../../../units/rock_hound.md) 
 
@@ -392,6 +393,8 @@
 - [**Merlin MLN-1A**](../../../units/merlin/merlin_mln-1a.md) *Brawler (3010)* 
 - [**Merlin MLN-1B**](../../../units/merlin/merlin_mln-1b.md) *Brawler (3053)* 
 - [**Merlin MLN-1C**](../../../units/merlin/merlin_mln-1c.md) *Brawler (3068)* 
+- [**Merlin MLN-1D**](../../../units/merlin/merlin_mln-1d.md) *Sniper (3090)* 
+- [**Merlin MLN-1E**](../../../units/merlin/merlin_mln-1e.md) *Sniper (3099)* 
 
 #### [Thresher](../../../units/thresher.md) 
 
@@ -520,14 +523,23 @@
 #### [Charger](../../../units/charger.md) 
 
 - [**Charger CGR-1A9**](../../../units/charger/charger_cgr-1a9.md) *Skirmisher (3034)* 
+- [**Charger C**](../../../units/charger/charger_c.md) *Scout (3093)* `Active Probe` , `ECM` 
 
 #### [Naga](../../../units/naga.md) 
 
+- [**Naga A**](../../../units/naga/naga_a.md) *Missile Boat (2869)* 
+- [**Naga B**](../../../units/naga/naga_b.md) *Missile Boat (2869)* 
+- [**Naga C**](../../../units/naga/naga_c.md) *Missile Boat (2869)* 
+- [**Naga D**](../../../units/naga/naga_d.md) *Missile Boat (2869)* 
 - [**Naga Prime**](../../../units/naga/naga_prime.md) *Missile Boat (2945)* 
-- [**Naga A**](../../../units/naga/naga_a.md) *Missile Boat (2945)* 
-- [**Naga B**](../../../units/naga/naga_b.md) *Missile Boat (2945)* 
-- [**Naga C**](../../../units/naga/naga_c.md) *Missile Boat (2945)* 
-- [**Naga D**](../../../units/naga/naga_d.md) *Missile Boat (2945)* 
+
+#### [Naga II](../../../units/naga_ii.md) 
+
+- [**Naga II Prime**](../../../units/naga_ii/naga_ii_prime.md) *Brawler (2866)* 
+- [**Naga II A**](../../../units/naga_ii/naga_ii_a.md) *Brawler (2866)* 
+- [**Naga II B**](../../../units/naga_ii/naga_ii_b.md) *Missile Boat (2866)* 
+- [**Naga II C**](../../../units/naga_ii/naga_ii_c.md) *Brawler (2866)* 
+- [**Naga II H**](../../../units/naga_ii/naga_ii_h.md) *Brawler (3059)* 
 
 #### [Phoenix Hawk IIC](../../../units/phoenix_hawk_iic.md) 
 

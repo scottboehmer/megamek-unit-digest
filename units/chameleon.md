@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/546) 
+- **Sources:** Rec Guide 25 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/546) 
 - **Battle Value:** 999 
 - [*More Info*](chameleon/chameleon_trc-4b.md) 
 
@@ -98,4 +98,50 @@
 - **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5601) 
 - **Battle Value:** 2113 
 - [*More Info*](chameleon/chameleon_cln-7vq_q-mech.md) 
+
+## Chameleon CLN-8V 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3086) 
+- **Chassis:** 50 tons 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 144 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Medium X-Pulse Laser × 3 
+  - Medium Laser × 2 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
+  - Distracting 
+- **Sources:** RecGuide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9267) 
+- **Battle Value:** 1426 
+- [*More Info*](chameleon/chameleon_cln-8v.md) 
+
+## Chameleon CLN-9V 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3120) 
+- **Chassis:** 50 tons (Reinforced) 
+- **Movement:** 6 / 9, Light 
+  - **Jumping:** 6 
+- **Armor:** 119 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Light PPC 
+  - ER Medium Laser × 2 
+  - Small X-Pulse Laser × 3 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - CASE II 
+- **Design Quirks:** 
+  - Easy to Pilot 
+  - Distracting 
+- **Sources:** RecGuide 25 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9268) 
+- **Battle Value:** 1276 
+- [*More Info*](chameleon/chameleon_cln-9v.md) 
 

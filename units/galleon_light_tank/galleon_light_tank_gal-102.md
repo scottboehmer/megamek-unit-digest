@@ -15,7 +15,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1176) 
+- **Sources:** TRO3058U - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1176) 
 - **Battle Value:** 651 
 
 ## Availability 

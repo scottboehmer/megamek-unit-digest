@@ -482,6 +482,8 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
 
 #### [Enforcer III](../../../units/enforcer_iii.md) 
 
@@ -665,6 +667,10 @@
 #### [Heavy Lifter](../../../units/heavy_lifter.md) 
 
 - [**Heavy Lifter HCL-1 CargoMech**](../../../units/heavy_lifter/heavy_lifter_hcl-1_cargomech.md) *Ambusher (3066)* `IndustrialMech` 
+
+#### [Merlin](../../../units/merlin.md) 
+
+- [**Merlin MLN-1P**](../../../units/merlin/merlin_mln-1p.md) *Juggernaut (3114)* 
 
 #### [Ostroc](../../../units/ostroc.md) 
 
@@ -999,6 +1005,7 @@
 - [**BattleMaster BLR-10S**](../../../units/battlemaster/battlemaster_blr-10s.md) *Juggernaut (3070)* `ECM` 
 - [**BattleMaster BLR-10S2**](../../../units/battlemaster/battlemaster_blr-10s2.md) *Juggernaut (3072)* `C3 Support` , `ECM` 
 - [**BattleMaster BLR-6G**](../../../units/battlemaster/battlemaster_blr-6g.md) *Brawler (3088)* 
+- [**BattleMaster BLR-6R**](../../../units/battlemaster/battlemaster_blr-6r.md) *Brawler (3104)* 
 
 #### [Gunslinger](../../../units/gunslinger.md) 
 

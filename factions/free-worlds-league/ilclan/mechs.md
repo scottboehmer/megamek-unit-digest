@@ -33,6 +33,7 @@
 
 - [**Flea FLE-17**](../../../units/flea/flea_fle-17.md) *Striker (3049)* 
 - [**Flea FLE-19**](../../../units/flea/flea_fle-19.md) *Striker (3068)* 
+- [**Flea FLE-21**](../../../units/flea/flea_fle-21.md) *Striker (3139)* `ECM` , `Stealth` 
 
 #### [Locust](../../../units/locust.md) 
 
@@ -276,6 +277,7 @@
 - [**Firestarter FS9-M2**](../../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
 - [**Firestarter FS9-M3**](../../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 - [**Firestarter FS9-M4**](../../../units/firestarter/firestarter_fs9-m4.md) *Scout (3109)* 
+- [**Firestarter FS9-M 'Mirage II'**](../../../units/firestarter/firestarter_fs9-m_mirage_ii.md) *Striker (3143)* 
 
 #### [Fwltur](../../../units/fwltur.md) 
 
@@ -368,6 +370,7 @@
 - [**Cicada CDA-3G**](../../../units/cicada/cicada_cda-3g.md) *Striker (3056)* `Active Probe` 
 - [**Cicada CDA-3MA**](../../../units/cicada/cicada_cda-3ma.md) *Striker (3068)* 
 - [**Cicada CDA-3P**](../../../units/cicada/cicada_cda-3p.md) *Striker (3070)* 
+- [**Cicada CDA-4A**](../../../units/cicada/cicada_cda-4a.md) *Striker (3150)* 
 
 #### [Clint](../../../units/clint.md) 
 
@@ -391,6 +394,7 @@
 
 - [**Hermes II HER-5S**](../../../units/hermes_ii/hermes_ii_her-5s.md) *Striker (3050)* 
 - [**Hermes II HER-5Sr**](../../../units/hermes_ii/hermes_ii_her-5sr.md) *Sniper (3074)* `ECM` 
+- [**Hermes II HER-7A**](../../../units/hermes_ii/hermes_ii_her-7a.md) *Sniper (3120)* 
 
 #### [Icarus II](../../../units/icarus_ii.md) 
 
@@ -538,6 +542,8 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
 
 #### [Crab](../../../units/crab.md) 
 
@@ -668,6 +674,7 @@
 - [**Griffin GRF-3M**](../../../units/griffin/griffin_grf-3m.md) *Sniper (3049)* 
 - [**Griffin GRF-5M**](../../../units/griffin/griffin_grf-5m.md) *Missile Boat (3066)* 
 - [**Griffin GRF-4R**](../../../units/griffin/griffin_grf-4r.md) *Striker (3076)* 
+- [**Griffin GRF-6R**](../../../units/griffin/griffin_grf-6r.md) *Sniper (3085)* `ECM` , `Stealth` 
 - [**Griffin GRF-3N**](../../../units/griffin/griffin_grf-3n.md) *Sniper (3093)* 
 - [**Griffin C**](../../../units/griffin/griffin_c.md) *Sniper (3144)* 
 
@@ -722,6 +729,7 @@
 
 - [**Wraith TR1**](../../../units/wraith/wraith_tr1.md) *Skirmisher (3055)* 
 - [**Wraith TR2**](../../../units/wraith/wraith_tr2.md) *Skirmisher (3057)* 
+- [**Wraith TR5**](../../../units/wraith/wraith_tr5.md) *Skirmisher (3140)* 
 
 ### 60 Tons 
 
@@ -799,6 +807,7 @@
 #### [Quickdraw](../../../units/quickdraw.md) 
 
 - [**Quickdraw QKD-5Mr**](../../../units/quickdraw/quickdraw_qkd-5mr.md) *Missile Boat (3070)* `ECM` 
+- [**Quickdraw QKD-9G**](../../../units/quickdraw/quickdraw_qkd-9g.md) *Skirmisher (3144)* 
 
 #### [Rifleman](../../../units/rifleman.md) 
 
@@ -931,6 +940,10 @@
 - [**Avatar AV1-OU**](../../../units/avatar/avatar_av1-ou.md) *Missile Boat (3077)* `C3 Main` , `TAG` 
 - [**Avatar AV1-OI**](../../../units/avatar/avatar_av1-oi.md) *Missile Boat (3078)* 
 - [**Avatar AV1-OJ**](../../../units/avatar/avatar_av1-oj.md) *Sniper (3099)* 
+
+#### [Caesar](../../../units/caesar.md) 
+
+- [**Caesar CES-5R**](../../../units/caesar/caesar_ces-5r.md) *Brawler (3148)* 
 
 #### [Carronade](../../../units/carronade.md) 
 

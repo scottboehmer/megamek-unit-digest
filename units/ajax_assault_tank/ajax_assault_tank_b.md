@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3689) 
+- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3689) 
 - **Battle Value:** 1706 
 
 ## Availability 

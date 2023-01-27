@@ -58,13 +58,10 @@
 - [**J-27 Ordnance Transport (Standard)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Trailer)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 
-#### [Mobile Long Tom Artillery Ammunition Trailer](../../../units/mobile_long_tom_artillery_ammunition_trailer.md) 
+#### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery Ammunition Trailer LT-MOB-25**](../../../units/mobile_long_tom_artillery_ammunition_trailer/mobile_long_tom_artillery_ammunition_trailer_lt-mob-25.md) *Undefined (2602)* 
-
-#### [Mobile Long Tom Artillery Support Carriage](../../../units/mobile_long_tom_artillery_support_carriage.md) 
-
-- [**Mobile Long Tom Artillery Support Carriage LT-MOB-25**](../../../units/mobile_long_tom_artillery_support_carriage/mobile_long_tom_artillery_support_carriage_lt-mob-25.md) *Undefined (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25 (Ammunition Carriage)**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25_ammunition_carriage.md) *Undefined (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25 (Support Carriage)**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25_support_carriage.md) *Undefined (2602)* 
 
 #### [Ripper Infantry Transport](../../../units/ripper_infantry_transport.md) 
 
@@ -131,6 +128,7 @@
 
 - [**Skulker Wheeled Scout Tank (Standard)**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_standard.md) *Scout (2659)* 
 - [**Skulker Wheeled Scout Tank (C3M)**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c3m.md) *Scout (3077)* `C3 Main` , `TAG` 
+- [**Skulker Wheeled Scout Tank C**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c.md) *Scout (3150)* `Active Probe` , `ECM` , `Stealth` 
 
 #### [Warrior Attack Helicopter](../../../units/warrior_attack_helicopter.md) 
 
@@ -294,6 +292,7 @@
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
 - [**Condor Heavy Hover Tank (Upgrade) (Laser)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) *Missile Boat (3068)* `ECM` 
+- [**Condor Heavy Hover Tank C**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_c.md) *Striker (3082)* 
 
 #### [Daimyo HQ](../../../units/daimyo_hq.md) 
 
@@ -368,10 +367,6 @@
 - [**Oro Heavy Tank (Standard)**](../../../units/oro_heavy_tank/oro_heavy_tank_standard.md) *Brawler (2844)* 
 - [**Oro Heavy Tank (HAG)**](../../../units/oro_heavy_tank/oro_heavy_tank_hag.md) *Sniper (3073)* 
 
-#### [Pike Support Vehicle](../../../units/pike_support_vehicle.md) 
-
-- [**Pike Support Vehicle (Clan)**](../../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
-
 ### 65 Tons 
 
 #### [Axel Heavy Tank](../../../units/axel_heavy_tank.md) 
@@ -427,7 +422,7 @@
 
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery LT-MOB-25**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-25**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Missile Boat (2602)* 
 
 #### [Vidar Heavy Defense Tank](../../../units/vidar_heavy_defense_tank.md) 
 
@@ -482,9 +477,9 @@
 - [**JES II Strategic Missile Carrier (Standard)**](../../../units/jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_standard.md) *Missile Boat (3079)* `C3 Support` , `ECM` 
 - [**JES II Strategic Missile Carrier (Ammo)**](../../../units/jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_ammo.md) *Missile Boat (3080)* `ECM` 
 
-#### [Mobile Long Tom Artillery (Unofficial)](../../../units/mobile_long_tom_artillery_unofficial.md) 
+#### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
-- [**Mobile Long Tom Artillery (Unofficial) (+ Carriage)**](../../../units/mobile_long_tom_artillery_unofficial/mobile_long_tom_artillery_unofficial_+_carriage.md) *Missile Boat (2602)* 
+- [**Mobile Long Tom Artillery (+Carriages)(Unofficial)**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_+carriagesunofficial.md) *Undefined (2602)* 
 
 #### [Puma Assault Tank](../../../units/puma_assault_tank.md) 
 

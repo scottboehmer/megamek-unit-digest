@@ -53,7 +53,7 @@ Eagle EGL-R6b - The method or operation is not implemented.
 Hellcat II HCT-213C - The method or operation is not implemented.
 Lightning LTN-G15b - The method or operation is not implemented.
 Sabre SB-27b - The method or operation is not implemented.
-Stuka STU-K5b2 - The method or operation is not implemented.
+Stuka STU-K5b - The method or operation is not implemented.
 Stuka STU-K5b2 - The method or operation is not implemented.
 Thunderbird TRB-D36b - The method or operation is not implemented.
 Zero ZRO-116b - The method or operation is not implemented.
@@ -507,6 +507,7 @@ Starfire SF-1X (Prototype) - The method or operation is not implemented.
 
 --------------------------------------------------
 Units without Roles:
+Hoplite HOP-4A
 Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
 Beowulf C
@@ -519,7 +520,6 @@ Mad Cat III 2 (MWDA)
 Mad Cat III (Dark Age RS)
 Ryoken II (Tassa)
 BattleMaster BLR-1GHE 'HellSlinger'
-Archer C 2
 Blackjack C
 Rock Hound ProspectorMech AM-PRM-RH7 'Rock Possum'
 Rock Hound ProspectorMech AM-PRM-RH7
@@ -551,6 +551,7 @@ Thunderbolt TDR-5Sb2
 Mad Cat III 2
 Stinger C 2
 Stinger C
+Behemoth (Stone Rhino) BHN-6H
 Marauder Red Hunter
 Warhammer C 3
 Deimos H
@@ -608,13 +609,13 @@ Pathfinder PFF-2T
 Tessen TSN-X4R 'Rapunzel'
 Puma Assault Tank PAT-001
 Puma Assault Tank PAT-002
-Falcon Hover Tank (Standard)
 Ground Car (Standard)
 Heavy Transport B1 (Standard)
 Hover Tank (Standard)
 Jeep (Standard)
 Jet Sled (Standard)
 M.A.S.H. Truck (Small)
+Mobile Long Tom Artillery (+Carriages)(Unofficial)
 Skimmer (Standard)
 Speeder (Standard)
 Weapons Carrier A (LL)
@@ -637,9 +638,8 @@ Mobile Headquarters (ICE)
 Mobile Headquarters (LL)
 Mobile Headquarters (LRM)
 Mobile Headquarters (Standard)
-Mobile Long Tom Artillery Ammunition Trailer LT-MOB-25
-Mobile Long Tom Artillery Support Carriage LT-MOB-25
-Mobile Long Tom Artillery LT-MOB-25
+Mobile Long Tom Artillery LT-MOB-25 (Ammunition Carriage)
+Mobile Long Tom Artillery LT-MOB-25 (Support Carriage)
 Neptune Submarine (Standard)
 Karnov UR Transport (3055 Upgrade)
 Karnov UR Transport (BA)
@@ -665,12 +665,21 @@ Wheeled Scout (Sensors)
 Wheeled Scout (Standard)
 Hephaestus Jump Tank (AP)
 Nuberu Anti Aircraft Tank 2 'Numantia'
+Pegasus Scout Hover Tank (Upgrade)
+Mobile Long Tom Artillery LT-MOB-25F (Ammunition Carriage)
+Mobile Long Tom Artillery LT-MOB-25F (Ammunition Loader Carriage)
+Mobile Long Tom Artillery LT-MOB-25F (Drone Command Carriage)
+Mobile Long Tom Artillery LT-MOB-25F (Support Carriage)
+Browning Mobile HQ (Half Track)
+Browning Mobile HQ
+Ontos Heavy Tank (Chemical Laser)
 Packrat LRPV PKR-T5 (TOC)
 Desert Scorpion Light Tank (Standard)
 Koryu Submarine (Civilian)
 Koryu Submarine (Military)
 Karnov UR Transport (Heavy Stealth)
 Patton Tank -SB
+Demolisher II Heavy Tank II-X
 Cavalier Battle Armor [MG](Sqd6)
 Clan Medium Battle Armor (Laser) 'Volk' (Sqd6)
 Grenadier Battle Armor [TAG](Sqd5)
@@ -696,8 +705,9 @@ Water Elemental Mining Suit (Standard)(Sqd4)
 Water Elemental Mining Suit (Standard)(Sqd5)
 Water Elemental Mining Suit (Standard)(Sqd6)
 Machina Domini Interface Armor (Standard)(Sqd1)
-TinStar BattleArmor (Standard)(Sqd5)
-TinStar BattleArmor (Standard)(Sqd6)
+Dragoon Battle Armor (Upgrade)(Sqd4)
+Dragoon Battle Armor (Upgrade)(Sqd5)
+Dragoon Battle Armor (Upgrade)(Sqd6)
 Achileus Light Battle Armor [Laser]
 Hantu AIX-210(Sqd4)
 Hantu AIX-210(Sqd5)
@@ -798,11 +808,10 @@ Tornado PA(L) G17(Sqd5)
 Tortoise II (aSRM)(Sqd5)
 Thrush TR-5
 Stuka STU-K5b2
-Stuka STU-K5b2
 Wildkatze WKT-2S
 Banshee BSE-X2
 Cheetah II F-12A
 Starfire SF-1X (Prototype)
 
 --------------------------------------------------
-6906 files -> 6906 parsed files (0 skipped) -> 6685 converted files -> 6674 validated units
+7018 files -> 7018 parsed files (0 skipped) -> 6797 converted files -> 6782 validated units

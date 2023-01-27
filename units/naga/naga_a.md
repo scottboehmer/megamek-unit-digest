@@ -5,7 +5,7 @@
 ## Naga A 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Clan (2945) 
+- **Tech Base:** Clan (2869) 
 - **Chassis:** 80 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
 - **Armor:** 144 

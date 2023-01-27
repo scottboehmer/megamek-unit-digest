@@ -15,6 +15,8 @@
   - LB 5-X AC × 2 (ammo: 40 Cluster, 40 Standard) 
   - Medium Laser 
   - LRM 5 (ammo: 24) 
+- **Equipment:** 
+  - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/798) 

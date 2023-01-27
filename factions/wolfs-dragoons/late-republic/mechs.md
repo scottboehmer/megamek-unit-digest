@@ -108,6 +108,10 @@
 - [**Arctic Wolf A**](../../../units/arctic_wolf/arctic_wolf_a.md) *Missile Boat (3067)* `ECM` 
 - [**Arctic Wolf J**](../../../units/arctic_wolf/arctic_wolf_j.md) *Striker (3070)* `Active Probe` , `ECM` 
 
+#### [Pouncer](../../../units/pouncer.md) 
+
+- [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
+
 ### 45 Tons 
 
 #### [Blackjack](../../../units/blackjack.md) 
@@ -376,6 +380,7 @@
 #### [BattleMaster](../../../units/battlemaster.md) 
 
 - [**BattleMaster BLR-6G**](../../../units/battlemaster/battlemaster_blr-6g.md) *Brawler (3088)* 
+- [**BattleMaster BLR-6R**](../../../units/battlemaster/battlemaster_blr-6r.md) *Brawler (3104)* 
 
 #### [Longbow](../../../units/longbow.md) 
 

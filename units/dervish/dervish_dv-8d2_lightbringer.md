@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/882) 
+- **Sources:** XTRO Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/882) 
 - **Battle Value:** 1717 
 
 ## Availability 

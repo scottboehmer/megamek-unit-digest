@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2455) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2455) 
 - **Battle Value:** 706 
 
 ## Availability 

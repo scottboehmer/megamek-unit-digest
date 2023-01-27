@@ -1,30 +1,9 @@
 # Naga 
 
-## Naga Prime 
-
-- **Role:** Missile Boat 
-- **Tech Base:** Clan (2945) 
-- **Chassis:** 80 tons (Endo Steel) 
-- **Movement:** 5 / 8, XL 
-- **Armor:** 144 
-- **Heat Sinks:** 12 (24) 
-- **Weapons:** 
-  - Arrow IV × 2 (ammo: 30) 
-  - ER Small Laser × 3 
-- **Equipment:** 
-  - CASE 
-- **Design Quirks:** 
-  - Extended Torso Twist 
-  - No/Minimal Arms 
-  - Bad Reputation (Clan) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2251) 
-- **Battle Value:** 1642 
-- [*More Info*](naga/naga_prime.md) 
-
 ## Naga A 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Clan (2945) 
+- **Tech Base:** Clan (2869) 
 - **Chassis:** 80 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
 - **Armor:** 144 
@@ -46,7 +25,7 @@
 ## Naga B 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Clan (2945) 
+- **Tech Base:** Clan (2869) 
 - **Chassis:** 80 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
 - **Armor:** 144 
@@ -68,7 +47,7 @@
 ## Naga C 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Clan (2945) 
+- **Tech Base:** Clan (2869) 
 - **Chassis:** 80 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
 - **Armor:** 144 
@@ -90,7 +69,7 @@
 ## Naga D 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Clan (2945) 
+- **Tech Base:** Clan (2869) 
 - **Chassis:** 80 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
 - **Armor:** 144 
@@ -109,4 +88,25 @@
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2250) 
 - **Battle Value:** 1662 
 - [*More Info*](naga/naga_d.md) 
+
+## Naga Prime 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (2945) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 144 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Arrow IV × 2 (ammo: 30) 
+  - ER Small Laser × 3 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - No/Minimal Arms 
+  - Bad Reputation (Clan) 
+- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2251) 
+- **Battle Value:** 1642 
+- [*More Info*](naga/naga_prime.md) 
 

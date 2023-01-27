@@ -23,7 +23,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1524) 
+- **Sources:** TRO 3060 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1524) 
 - **Battle Value:** 2979 
 
 ## Availability 

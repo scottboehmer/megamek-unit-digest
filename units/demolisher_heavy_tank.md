@@ -107,20 +107,34 @@
 - **Battle Value:** 1297 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_arrow_iv.md) 
 
-## Demolisher Heavy Tank II-X 
+## Demolisher Heavy Tank (Cell) 
 
-- **Role:** Sniper 
-- **Tech Base:** Inner Sphere (3077) 
-- **Chassis:** 100 tons Tracked 
-- **Movement:** 3 / 5, Light 
-- **Armor:** 267 (Heavy Ferro Fibrous) 
-- **Heat Sinks:** 10 (10) 
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3111) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 3 / 5 (6), Fuel Cell 
+- **Armor:** 197 (Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
 - **Weapons:** 
-  - Improved Heavy Gauss Rifle (ammo: 16) 
-  - Clan Ultra AC/10 × 2 (ammo: 30) 
+  - Ultra AC/20 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4069) 
-- **Battle Value:** 1927 
-- [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_ii-x.md) 
+  - Supercharger 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9259) 
+- **Battle Value:** 1585 
+- [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_cell.md) 
+
+## Demolisher Heavy Tank (Reinforced) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3144) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 186 (Ballistic Reinforced) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/10 × 2 (ammo: 60) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9260) 
+- **Battle Value:** 1183 
+- [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_reinforced.md) 
 

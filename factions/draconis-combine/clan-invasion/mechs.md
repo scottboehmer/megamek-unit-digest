@@ -412,8 +412,8 @@
 
 - [**Shadow Hawk SHD-2H**](../../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
 - [**Shadow Hawk SHD-2K**](../../../units/shadow_hawk/shadow_hawk_shd-2k.md) *Sniper (2803)* 
+- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (2826)* 
 - [**Shadow Hawk SHD-5M**](../../../units/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)* 
-- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (3050)* 
 
 #### [Wolverine](../../../units/wolverine.md) 
 
@@ -500,8 +500,8 @@
 #### [Rifleman](../../../units/rifleman.md) 
 
 - [**Rifleman RFL-3N**](../../../units/rifleman/rifleman_rfl-3n.md) *Sniper (2770)* 
+- [**Rifleman C**](../../../units/rifleman/rifleman_c.md) *Sniper (2826)* 
 - [**Rifleman RFL-5M**](../../../units/rifleman/rifleman_rfl-5m.md) *Brawler (3049)* 
-- [**Rifleman C**](../../../units/rifleman/rifleman_c.md) *Sniper (3052)* 
 
 #### [Thresher](../../../units/thresher.md) 
 
@@ -559,10 +559,10 @@
 #### [Archer](../../../units/archer.md) 
 
 - [**Archer ARC-2R**](../../../units/archer/archer_arc-2r.md) *Missile Boat (2474)* 
+- [**Archer C**](../../../units/archer/archer_c.md) *Missile Boat (2824)* 
 - [**Archer ARC-2K**](../../../units/archer/archer_arc-2k.md) *Missile Boat (2856)* 
 - [**Archer ARC-4M**](../../../units/archer/archer_arc-4m.md) *Missile Boat (3049)* 
 - [**Archer ARC-5R**](../../../units/archer/archer_arc-5r.md) *Missile Boat (3050)* 
-- [**Archer C**](../../../units/archer/archer_c.md) *Missile Boat (3050)* 
 
 #### [Avatar](../../../units/avatar.md) 
 
@@ -613,9 +613,9 @@
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
+- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (2825)* 
 - [**Warhammer WHM-6K**](../../../units/warhammer/warhammer_whm-6k.md) *Brawler (2830)* 
 - [**Warhammer WHM-7M**](../../../units/warhammer/warhammer_whm-7m.md) *Brawler (3047)* 
-- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (3050)* 
 - [**Warhammer C 2**](../../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
 - [**Warhammer WHM-7M-DC**](../../../units/warhammer/warhammer_whm-7m-dc.md) *Brawler (3052)* `Command Console` 
 - [**Warhammer WHM-7K**](../../../units/warhammer/warhammer_whm-7k.md) *Brawler (3054)* `TAG` 
@@ -643,8 +643,8 @@
 #### [Marauder](../../../units/marauder.md) 
 
 - [**Marauder MAD-3R**](../../../units/marauder/marauder_mad-3r.md) *Sniper (2819)* 
+- [**Marauder C**](../../../units/marauder/marauder_c.md) *Sniper (2827)* 
 - [**Marauder MAD-5D**](../../../units/marauder/marauder_mad-5d.md) *Skirmisher (3047)* 
-- [**Marauder C**](../../../units/marauder/marauder_c.md) *Sniper (3050)* 
 - [**Marauder MAD-5M**](../../../units/marauder/marauder_mad-5m.md) *Skirmisher (3051)* 
 
 #### [Orion](../../../units/orion.md) 

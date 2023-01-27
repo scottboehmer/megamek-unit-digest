@@ -170,7 +170,7 @@
 ## Vulcan VT-5ML 'Aladdin' 
 
 - **Role:** Sniper 
-- **Tech Base:** Inner Sphere (3080) 
+- **Tech Base:** Inner Sphere (3143) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 6 / 9 
   - **Jumping:** 6 

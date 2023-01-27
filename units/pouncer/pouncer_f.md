@@ -22,7 +22,7 @@
   - Remote Sensor Dispenser 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4850) 
+- **Sources:** Rec Guide 25 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4850) 
 - **Battle Value:** 1308 
 
 ## Availability 

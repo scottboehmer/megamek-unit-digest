@@ -73,7 +73,7 @@
 - **Equipment:** 
   - TAG 
   - Infantry (3 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2117) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2117) 
 - **Battle Value:** 794 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_3052_upgrade.md) 
 
@@ -91,7 +91,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2124) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2124) 
 - **Battle Value:** 869 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_fire_support.md) 
 
@@ -110,7 +110,7 @@
 - **Equipment:** 
   - TAG 
   - Infantry (3 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2118) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2118) 
 - **Battle Value:** 715 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_anti-infantry.md) 
 
@@ -129,7 +129,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2119) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2119) 
 - **Battle Value:** 794 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_ba_factory_upgrade.md) 
 
@@ -148,7 +148,7 @@
 - **Equipment:** 
   - TAG 
   - Infantry (4 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2120) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2120) 
 - **Battle Value:** 817 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_ba_field_upgrade.md) 
 
@@ -187,7 +187,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2121) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2121) 
 - **Battle Value:** 817 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3m.md) 
 
@@ -207,7 +207,26 @@
   - C3 Support 
   - TAG 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2122) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2122) 
 - **Battle Value:** 773 
 - [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3s.md) 
+
+## Maxim Heavy Hover Transport (Escort) 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3101) 
+- **Chassis:** 50 tons Hover 
+- **Movement:** 8 / 12, Fuel Cell 
+- **Armor:** 107 (Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Streak SRM 6 (ammo: 15) 
+  - MML 5 × 3 (ammo: 24 LRM, 20 SRM) 
+  - Machine Gun × 3 (ammo: 200) 
+  - SRM 2 (iOS) × 2 
+- **Equipment:** 
+  - Machine Gun Array 
+- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9312) 
+- **Battle Value:** 816 
+- [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_escort.md) 
 

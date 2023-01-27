@@ -40,6 +40,7 @@
 - [**Flea FLE-17**](../../../units/flea/flea_fle-17.md) *Striker (3049)* 
 - [**Flea FLE-19**](../../../units/flea/flea_fle-19.md) *Striker (3068)* 
 - [**Flea FLE-20**](../../../units/flea/flea_fle-20.md) *Striker (3071)* `ECM` , `Stealth` 
+- [**Flea FLE-21**](../../../units/flea/flea_fle-21.md) *Striker (3139)* `ECM` , `Stealth` 
 
 #### [Gùn](../../../units/gùn.md) 
 
@@ -284,6 +285,7 @@
 - [**Firestarter FS9-M2**](../../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
 - [**Firestarter FS9-M3**](../../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 - [**Firestarter FS9-M4**](../../../units/firestarter/firestarter_fs9-m4.md) *Scout (3109)* 
+- [**Firestarter FS9-M 'Mirage II'**](../../../units/firestarter/firestarter_fs9-m_mirage_ii.md) *Striker (3143)* 
 
 #### [Fwltur](../../../units/fwltur.md) 
 
@@ -342,6 +344,7 @@
 #### [Assassin](../../../units/assassin.md) 
 
 - [**Assassin ASN-99**](../../../units/assassin/assassin_asn-99.md) *Scout (3068)* `ECM` , `Stealth` , `TAG` 
+- [**Assassin ASN-109**](../../../units/assassin/assassin_asn-109.md) *Scout (3140)* `ECM` , `Stealth` 
 
 #### [Calliope](../../../units/calliope.md) 
 
@@ -352,6 +355,10 @@
 - [**Chimera CMA-1S**](../../../units/chimera/chimera_cma-1s.md) *Striker (3063)* 
 - [**Chimera CMA-C**](../../../units/chimera/chimera_cma-c.md) *Striker (3063)* `C3 Support` 
 - [**Chimera CMA-2K**](../../../units/chimera/chimera_cma-2k.md) *Striker (3069)* `C3 Support` 
+
+#### [Cicada](../../../units/cicada.md) 
+
+- [**Cicada CDA-4A**](../../../units/cicada/cicada_cda-4a.md) *Striker (3150)* 
 
 #### [Clint](../../../units/clint.md) 
 
@@ -471,6 +478,7 @@
 - [**Vindicator VND-4L**](../../../units/vindicator/vindicator_vnd-4l.md) *Skirmisher (3063)* `ECM` , `Stealth` 
 - [**Vindicator VND-6L**](../../../units/vindicator/vindicator_vnd-6l.md) *Skirmisher (3068)* `ECM` , `Stealth` 
 - [**Vindicator VND-3Lr**](../../../units/vindicator/vindicator_vnd-3lr.md) *Skirmisher (3077)* 
+- [**Vindicator VND-7L**](../../../units/vindicator/vindicator_vnd-7l.md) *Brawler (3147)* 
 
 #### [Violator](../../../units/violator.md) 
 
@@ -530,6 +538,8 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
 
 #### [Ghost](../../../units/ghost.md) 
 
@@ -650,6 +660,7 @@
 #### [Wraith](../../../units/wraith.md) 
 
 - [**Wraith TR1**](../../../units/wraith/wraith_tr1.md) *Skirmisher (3055)* 
+- [**Wraith TR5**](../../../units/wraith/wraith_tr5.md) *Skirmisher (3140)* 
 
 #### [Yao Lien](../../../units/yao_lien.md) 
 
@@ -885,6 +896,7 @@
 - [**Cataphract CTF-4L**](../../../units/cataphract/cataphract_ctf-4l.md) *Sniper (3067)* `ECM` , `Stealth` 
 - [**Cataphract CTF-3LL**](../../../units/cataphract/cataphract_ctf-3ll.md) *Skirmisher (3068)* 
 - [**Cataphract CTF-5L**](../../../units/cataphract/cataphract_ctf-5l.md) *Sniper (3132)* 
+- [**Cataphract CTF-5LL**](../../../units/cataphract/cataphract_ctf-5ll.md) *Sniper (3135)* 
 
 #### [Catapult II](../../../units/catapult_ii.md) 
 

@@ -22,7 +22,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5717) 
+- **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5717) 
 - **Battle Value:** 2064 
 
 ## Availability 

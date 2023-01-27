@@ -99,8 +99,8 @@
 
 #### [Arctic Wolf II](../../../units/arctic_wolf_ii.md) 
 
-- [**Arctic Wolf II Prime**](../../../units/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* `Active Probe` , `ECM` 
-- [**Arctic Wolf II A**](../../../units/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)* 
+- [**Arctic Wolf II Prime**](../../../units/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* 
+- [**Arctic Wolf II A**](../../../units/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)* `Active Probe` , `ECM` 
 - [**Arctic Wolf II B**](../../../units/arctic_wolf_ii/arctic_wolf_ii_b.md) *Striker (3085)* 
 - [**Arctic Wolf II C**](../../../units/arctic_wolf_ii/arctic_wolf_ii_c.md) *Striker (3085)* 
 

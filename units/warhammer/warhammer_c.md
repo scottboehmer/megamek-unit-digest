@@ -5,7 +5,7 @@
 ## Warhammer C 
 
 - **Role:** Brawler 
-- **Tech Base:** Inner Sphere Mixed (3050) 
+- **Tech Base:** Inner Sphere Mixed (2825) 
 - **Chassis:** 70 tons 
 - **Movement:** 4 / 6 
 - **Armor:** 160 

@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 16) 
   - Medium Laser × 2 
   - Machine Gun × 5 (ammo: 100) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2735) 
+- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2735) 
 - **Battle Value:** 1178 
 
 ## Availability 

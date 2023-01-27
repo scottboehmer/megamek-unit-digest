@@ -66,6 +66,26 @@
 - **Battle Value:** 1705 
 - [*More Info*](archer/archer_arc-2rb.md) 
 
+## Archer C 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere Mixed (2824) 
+- **Chassis:** 70 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 208 
+- **Heat Sinks:** 20 (20) 
+- **Weapons:** 
+  - Clan LRM 20 × 2 (ammo: 24) 
+  - Clan ER Medium Laser × 4 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Stable 
+  - Ubiquitous (Inner Sphere) 
+  - Battlefists 
+- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90) 
+- **Battle Value:** 1811 
+- [*More Info*](archer/archer_c.md) 
+
 ## Archer ARC-2K 
 
 - **Role:** Missile Boat 
@@ -219,26 +239,6 @@
 - **Battle Value:** 1337 
 - [*More Info*](archer/archer_arc-5w.md) 
 
-## Archer C 
-
-- **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere Mixed (3050) 
-- **Chassis:** 70 tons 
-- **Movement:** 4 / 6 
-- **Armor:** 208 
-- **Heat Sinks:** 20 (20) 
-- **Weapons:** 
-  - Clan LRM 20 × 2 (ammo: 24) 
-  - Clan ER Medium Laser × 4 
-- **Design Quirks:** 
-  - Command ’Mech 
-  - Stable 
-  - Ubiquitous (Inner Sphere) 
-  - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90) 
-- **Battle Value:** 1811 
-- [*More Info*](archer/archer_c.md) 
-
 ## Archer ARC-5CS 
 
 - **Role:** Missile Boat 
@@ -286,7 +286,7 @@
 
 ## Archer C 2 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Clan (3065) 
 - **Chassis:** 70 tons 
 - **Movement:** 4 / 6 
@@ -372,7 +372,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/84) 
+- **Sources:** TRO CI - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/84) 
 - **Battle Value:** 1881 
 - [*More Info*](archer/archer_arc-7l.md) 
 

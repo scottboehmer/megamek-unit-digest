@@ -244,6 +244,7 @@
 
 - [**Hermes II HER-5S**](../../../units/hermes_ii/hermes_ii_her-5s.md) *Striker (3050)* 
 - [**Hermes II HER-5Sr**](../../../units/hermes_ii/hermes_ii_her-5sr.md) *Sniper (3074)* `ECM` 
+- [**Hermes II HER-7A**](../../../units/hermes_ii/hermes_ii_her-7a.md) *Sniper (3120)* 
 
 #### [Vulcan](../../../units/vulcan.md) 
 
@@ -297,6 +298,8 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
 
 #### [Eris](../../../units/eris.md) 
 
@@ -330,6 +333,7 @@
 
 - [**Griffin GRF-3M**](../../../units/griffin/griffin_grf-3m.md) *Sniper (3049)* 
 - [**Griffin GRF-5M**](../../../units/griffin/griffin_grf-5m.md) *Missile Boat (3066)* 
+- [**Griffin GRF-6R**](../../../units/griffin/griffin_grf-6r.md) *Sniper (3085)* `ECM` , `Stealth` 
 - [**Griffin GRF-3N**](../../../units/griffin/griffin_grf-3n.md) *Sniper (3093)* 
 
 #### [Lineholder](../../../units/lineholder.md) 

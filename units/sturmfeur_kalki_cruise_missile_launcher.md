@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Cruise Missile/50 (ammo: 1) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** XTR Corporations , [Master Unit List](http://masterunitlist.info/Unit/Details/3112) 
+- **Sources:** XTR Corporations - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3112) 
 - **Battle Value:** 910 
 - [*More Info*](sturmfeur_kalki_cruise_missile_launcher/sturmfeur_kalki_cruise_missile_launcher_standard.md) 
 

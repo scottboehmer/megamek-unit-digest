@@ -25,7 +25,7 @@
 - **Weapons:** 
   - SRM 6 × 9 (ammo: 45) 
   - Narc (ammo: 6) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3028) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3028) 
 - **Battle Value:** 794 
 - [*More Info*](srm_carrier/srm_carrier_3054_upgrade.md) 
 
@@ -42,7 +42,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3029) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3029) 
 - **Battle Value:** 903 
 - [*More Info*](srm_carrier/srm_carrier_c3.md) 
 
@@ -60,7 +60,7 @@
   - Guardian ECM Suite 
   - C3i 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3031) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3031) 
 - **Battle Value:** 958 
 - [*More Info*](srm_carrier/srm_carrier_wob.md) 
 

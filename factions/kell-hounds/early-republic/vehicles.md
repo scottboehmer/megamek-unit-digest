@@ -40,6 +40,13 @@
 
 - [**Hover Scout (Standard)**](../../../units/hover_scout/hover_scout_standard.md) *Striker (2801)* 
 
+### 15 Tons 
+
+#### [Command Van](../../../units/command_van.md) 
+
+- [**Command Van (ICE)**](../../../units/command_van/command_van_ice.md) *Scout (2907)* 
+- [**Command Van (Q-Vehicle)**](../../../units/command_van/command_van_q-vehicle.md) *Scout (2975)* 
+
 ### 20 Tons 
 
 #### [Centipede Scout Car](../../../units/centipede_scout_car.md) 
@@ -141,7 +148,7 @@
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
 - [**Condor Heavy Hover Tank (Laser)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_laser.md) *Striker (3061)* 
-- [**Condor Heavy Hover Tank (Upgrade) (Standard)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_standard.md) *Missile Boat (3066)* 
+- [**Condor Heavy Hover Tank (Upgrade)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade.md) *Missile Boat (3066)* 
 - [**Condor Heavy Hover Tank (Upgrade) (Laser)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) *Missile Boat (3068)* `ECM` 
 
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 

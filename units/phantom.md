@@ -160,7 +160,145 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4818) 
+- **Sources:** Rec Guide:ilClan #27 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4818) 
 - **Battle Value:** 1375 
 - [*More Info*](phantom/phantom_f.md) 
+
+## Phantom G 
+
+- **Role:** Scout 
+- **Tech Base:** Clan (3090) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 9 / 14, XL 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - ProtoMech AC/4 (ammo: 20) 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
+- **Sources:** Rec Guide:ilClan #27 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9346) 
+- **Battle Value:** 975 
+- [*More Info*](phantom/phantom_g.md) 
+
+## Phantom I 
+
+- **Role:** Scout 
+- **Tech Base:** Clan (3141) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 9 / 14, XL 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Improved Heavy Large Laser 
+  - ER Medium Laser 
+- **Equipment:** 
+  - Light TAG 
+  - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Sensors 
+- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9347) 
+- **Battle Value:** 1713 
+- [*More Info*](phantom/phantom_i.md) 
+
+## Phantom J 
+
+- **Role:** Striker 
+- **Tech Base:** Clan Mixed (3141) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 9 / 14 (18), XL 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Medium Laser × 3 
+  - Improved Heavy Medium Laser 
+  - ER Small Laser 
+- **Equipment:** 
+  - Inner Sphere Supercharger 
+- **Design Quirks:** 
+  - Improved Sensors 
+- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9348) 
+- **Battle Value:** 1902 
+- [*More Info*](phantom/phantom_j.md) 
+
+## Phantom K 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan (3141) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 9 / 14, XL 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Large Laser 
+- **Equipment:** 
+  - Watchdog CEWS 
+  - Targeting Computer 
+- **Design Quirks:** 
+  - Improved Sensors 
+- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9349) 
+- **Battle Value:** 1387 
+- [*More Info*](phantom/phantom_k.md) 
+
+## Phantom L 
+
+- **Role:** Scout 
+- **Tech Base:** Clan (3142) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 9 / 14, XL 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Plasma Cannon (ammo: 10) 
+  - AP Gauss Rifle × 3 (ammo: 40) 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
+- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9350) 
+- **Battle Value:** 1178 
+- [*More Info*](phantom/phantom_l.md) 
+
+## Phantom T 
+
+- **Role:** Scout 
+- **Tech Base:** Clan (3142) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 9 / 14, XL 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER Medium Pulse Laser 
+  - LRM 5 w/ Artemis V (ammo: 24) 
+  - ER Small Laser 
+  - Micro Pulse Laser 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
+- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9345) 
+- **Battle Value:** 1138 
+- [*More Info*](phantom/phantom_t.md) 
+
+## Phantom R 
+
+- **Role:** Striker 
+- **Tech Base:** Clan Mixed (3145) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 9 / 14, XL 
+- **Armor:** 115 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Improved Heavy Medium Laser × 2 
+  - SRM 6 (ammo: 15) 
+  - Inner Sphere Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Improved Sensors 
+- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9351) 
+- **Battle Value:** 1365 
+- [*More Info*](phantom/phantom_r.md) 
 

@@ -304,3 +304,23 @@
 - **Battle Value:** 798 
 - [*More Info*](firestarter/firestarter_fs9-m4.md) 
 
+## Firestarter FS9-M 'Mirage II' 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere Mixed (3143) 
+- **Chassis:** 35 tons (Endo Composite) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 6 
+- **Armor:** 119 (Laser Reflective) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Clan Plasma Cannon (ammo: 10) 
+  - Clan ER Medium Laser × 2 
+  - Clan ER Small Laser × 2 
+  - Flamer × 3 
+- **Design Quirks:** 
+  - Cowl 
+- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9374) 
+- **Battle Value:** 1660 
+- [*More Info*](firestarter/firestarter_fs9-m_mirage_ii.md) 
+

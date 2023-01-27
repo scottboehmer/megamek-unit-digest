@@ -28,8 +28,8 @@
 - **Armor:** 259 (Ferro Aluminum) 
 - **Heat Sinks:** 30 (60) 
 - **Weapons:** 
-  - ER PPC × 4 
   - AC/20 (ammo: 15) 
+  - PPC × 4 
   - Medium Laser × 3 
 - **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3111) 
 - **Battle Value:** Unknown 
@@ -52,6 +52,23 @@
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3108) 
 - **Battle Value:** Unknown 
 - [*More Info*](stuka/stuka_stu-k10.md) 
+
+## Stuka STU-K5b 
+
+- **Role:** Attack Fighter 
+- **Tech Base:** Inner Sphere (2751) 
+- **Chassis:** 100 tons 
+- **Thrust:** 5 / 8, XL 
+- **Fuel:** 400 
+- **Armor:** 259 (Ferro Aluminum) 
+- **Heat Sinks:** 30 (60) 
+- **Weapons:** 
+  - ER PPC × 4 
+  - AC/20 (ammo: 15) 
+  - Medium Laser × 3 
+- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3111) 
+- **Battle Value:** Unknown 
+- [*More Info*](stuka/stuka_stu-k5b.md) 
 
 ## Stuka STU-K15 
 

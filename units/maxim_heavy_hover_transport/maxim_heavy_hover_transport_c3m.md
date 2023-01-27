@@ -16,7 +16,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2121) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2121) 
 - **Battle Value:** 817 
 
 ## Availability 

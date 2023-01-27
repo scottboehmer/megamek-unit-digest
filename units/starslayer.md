@@ -106,3 +106,26 @@
 - **Battle Value:** 1781 
 - [*More Info*](starslayer/starslayer_sty-3dr.md) 
 
+## Starslayer STY-4C 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere Mixed (3145) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 5 (6) / 8 (9) 
+  - **Jumping:** 5 
+- **Armor:** 168 
+- **Myomer:** Triple-Strength 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Clan Improved Heavy Large Laser × 2 
+  - Clan ER Medium Laser × 2 
+  - Clan ER Small Laser 
+  - Clan Streak SRM 4 (iOS) 
+- **Equipment:** 
+  - Coolant Pod 
+- **Design Quirks:** 
+  - Rugged (×2) 
+- **Sources:** Rec Guide:ilClan #26 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9315) 
+- **Battle Value:** 2234 
+- [*More Info*](starslayer/starslayer_sty-4c.md) 
+

@@ -215,6 +215,10 @@
 
 - [**Harvester HVR-199 AgroMech**](../../../units/harvester/harvester_hvr-199_agromech.md) *Undefined (3128)* `IndustrialMech` 
 
+#### [Pouncer](../../../units/pouncer.md) 
+
+- [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
+
 #### [Viper](../../../units/viper.md) 
 
 - [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
@@ -537,6 +541,7 @@
 #### [Charger](../../../units/charger.md) 
 
 - [**Charger CGR-3Kr**](../../../units/charger/charger_cgr-3kr.md) *Skirmisher (3078)* 
+- [**Charger C**](../../../units/charger/charger_c.md) *Scout (3093)* `Active Probe` , `ECM` 
 
 #### [Phoenix Hawk IIC](../../../units/phoenix_hawk_iic.md) 
 

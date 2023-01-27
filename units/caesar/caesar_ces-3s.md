@@ -17,10 +17,11 @@
   - ER Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
+  - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/456) 
-- **Battle Value:** 1901 
+- **Battle Value:** 1909 
 
 ## Availability 
 

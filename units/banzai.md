@@ -14,8 +14,10 @@
   - Clan ER Small Laser 
   - Large Vibroblade 
 - **Equipment:** 
+  - Full Head Ejection System 
   - MASC 
-  - Clan Supercharger 
+  - Booby Trap 
+  - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Non-Standard Parts 

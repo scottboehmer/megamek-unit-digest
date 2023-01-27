@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Op. Klondyke , [Master Unit List](http://masterunitlist.info/Unit/Details/4172) 
+- **Sources:** Op. Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4172) 
 - **Battle Value:** 797 
 - [*More Info*](firefly/firefly_ffl-3a.md) 
 
@@ -40,7 +40,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1086) 
+- **Sources:** Op. Klondyke - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1086) 
 - **Battle Value:** 876 
 - [*More Info*](firefly/firefly_ffl-3sle.md) 
 
@@ -59,7 +59,7 @@
   - Small Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1083) 
+- **Sources:** Op. Klondyke - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1083) 
 - **Battle Value:** 888 
 - [*More Info*](firefly/firefly_ffl-3pp.md) 
 
@@ -80,7 +80,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1084) 
+- **Sources:** Op. Klondyke - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1084) 
 - **Battle Value:** 873 
 - [*More Info*](firefly/firefly_ffl-3pp2.md) 
 
@@ -101,7 +101,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1085) 
+- **Sources:** Op. Klondyke - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1085) 
 - **Battle Value:** 808 
 - [*More Info*](firefly/firefly_ffl-3pp3.md) 
 
@@ -228,4 +228,26 @@
 - **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1091) 
 - **Battle Value:** 921 
 - [*More Info*](firefly/firefly_ffl-4da.md) 
+
+## Firefly FFL-5A 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (3144) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+  - **Jumping:** 8 
+- **Armor:** 104 
+- **Heat Sinks:** 10 (23) 
+- **Weapons:** 
+  - ER Medium Laser × 3 
+  - LRM 5 (ammo: 24) 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+  - Partial Wing 
+  - CASE 
+- **Design Quirks:** 
+  - No/Minimal Arms 
+- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9394) 
+- **Battle Value:** 996 
+- [*More Info*](firefly/firefly_ffl-5a.md) 
 

@@ -63,7 +63,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1348) 
+- **Sources:** RS:Unique Mechs - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1348) 
 - **Battle Value:** 1813 
 - [*More Info*](gunslinger/gunslinger_gun-1erd_jared.md) 
 
@@ -84,7 +84,29 @@
   - C3 Boosted Main 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1350) 
+- **Sources:** TRO:CI - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1350) 
 - **Battle Value:** 2371 
 - [*More Info*](gunslinger/gunslinger_gun-2erdr.md) 
+
+## Gunslinger GUN-3ERD 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere Mixed (3131) 
+- **Chassis:** 85 tons 
+- **Movement:** 3 / 5, XL 
+  - **Jumping:** 2 
+- **Armor:** 246 (Ballistic Reinforced) 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Gauss Rifle × 2 (ammo: 32) 
+  - Clan ER Medium Laser × 4 
+  - Small X-Pulse Laser × 3 
+- **Equipment:** 
+  - CASE II 
+- **Design Quirks:** 
+  - Cowl 
+- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9354) 
+- **Battle Value:** 2844 
+- [*More Info*](gunslinger/gunslinger_gun-3erd.md) 
 

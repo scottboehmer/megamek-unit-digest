@@ -305,6 +305,7 @@
 - [**Spector SPR-5F**](../../../units/spector/spector_spr-5f.md) *Striker (3053)* `ECM` 
 - [**Spector SPR-5S**](../../../units/spector/spector_spr-5s.md) *Striker (3067)* `ECM` , `Stealth` 
 - [**Spector SPR-ST**](../../../units/spector/spector_spr-st.md) *Striker (3068)* `ECM` , `Stealth` 
+- [**Spector SPR-6F**](../../../units/spector/spector_spr-6f.md) *Striker (3119)* 
 
 #### [Stiletto](../../../units/stiletto.md) 
 
@@ -502,6 +503,8 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
 
 #### [Enfield](../../../units/enfield.md) 
 
@@ -588,8 +591,10 @@
 
 #### [Griffin](../../../units/griffin.md) 
 
+- [**Griffin GRF-3RG**](../../../units/griffin/griffin_grf-3rg.md) *Skirmisher (3048)* 
 - [**Griffin GRF-3M**](../../../units/griffin/griffin_grf-3m.md) *Sniper (3049)* 
 - [**Griffin GRF-6S**](../../../units/griffin/griffin_grf-6s.md) *Sniper (3066)* 
+- [**Griffin GRF-6R**](../../../units/griffin/griffin_grf-6r.md) *Sniper (3085)* `ECM` , `Stealth` 
 - [**Griffin GRF-3N**](../../../units/griffin/griffin_grf-3n.md) *Sniper (3093)* 
 - [**Griffin GRF-6S2**](../../../units/griffin/griffin_grf-6s2.md) *Sniper (3123)* `C3 Support` 
 
@@ -1000,6 +1005,7 @@
 - [**BattleMaster BLR-10S2**](../../../units/battlemaster/battlemaster_blr-10s2.md) *Juggernaut (3072)* `C3 Support` , `ECM` 
 - [**BattleMaster BLR-6X**](../../../units/battlemaster/battlemaster_blr-6x.md) *Skirmisher (3085)* 
 - [**BattleMaster BLR-6G**](../../../units/battlemaster/battlemaster_blr-6g.md) *Brawler (3088)* 
+- [**BattleMaster BLR-6R**](../../../units/battlemaster/battlemaster_blr-6r.md) *Brawler (3104)* 
 
 #### [Gunslinger](../../../units/gunslinger.md) 
 

@@ -208,6 +208,10 @@
 
 - [**Harvester HVR-199 AgroMech**](../../../units/harvester/harvester_hvr-199_agromech.md) *Undefined (3128)* `IndustrialMech` 
 
+#### [Pouncer](../../../units/pouncer.md) 
+
+- [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
+
 ### 45 Tons 
 
 #### [Phoenix Hawk](../../../units/phoenix_hawk.md) 

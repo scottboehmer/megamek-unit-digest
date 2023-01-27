@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Jet Booster 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5387) 
+- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5387) 
 - **Battle Value:** 665 
 
 ## Availability 

@@ -409,6 +409,7 @@
 - [**Firestarter FS9-M2**](../../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
 - [**Firestarter FS9-M3**](../../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 - [**Firestarter FS9-M4**](../../../units/firestarter/firestarter_fs9-m4.md) *Scout (3109)* 
+- [**Firestarter FS9-M 'Mirage II'**](../../../units/firestarter/firestarter_fs9-m_mirage_ii.md) *Striker (3143)* 
 
 #### [Fwltur](../../../units/fwltur.md) 
 
@@ -800,6 +801,8 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
 
 #### [Conjurer](../../../units/conjurer.md) 
 
@@ -949,6 +952,7 @@
 
 - [**Griffin GRF-5M**](../../../units/griffin/griffin_grf-5m.md) *Missile Boat (3066)* 
 - [**Griffin GRF-4R**](../../../units/griffin/griffin_grf-4r.md) *Striker (3076)* 
+- [**Griffin GRF-6R**](../../../units/griffin/griffin_grf-6r.md) *Sniper (3085)* `ECM` , `Stealth` 
 - [**Griffin GRF-3N**](../../../units/griffin/griffin_grf-3n.md) *Sniper (3093)* 
 - [**Griffin C**](../../../units/griffin/griffin_c.md) *Sniper (3144)* 
 
@@ -1309,6 +1313,7 @@
 #### [Cataphract](../../../units/cataphract.md) 
 
 - [**Cataphract CTF-5L**](../../../units/cataphract/cataphract_ctf-5l.md) *Sniper (3132)* 
+- [**Cataphract CTF-5LL**](../../../units/cataphract/cataphract_ctf-5ll.md) *Sniper (3135)* 
 
 #### [Daikyu](../../../units/daikyu.md) 
 
@@ -1671,6 +1676,7 @@
 - [**BattleMaster BLR-10S2**](../../../units/battlemaster/battlemaster_blr-10s2.md) *Juggernaut (3072)* `C3 Support` , `ECM` 
 - [**BattleMaster BLR-K4**](../../../units/battlemaster/battlemaster_blr-k4.md) *Skirmisher (3073)* 
 - [**BattleMaster BLR-6G**](../../../units/battlemaster/battlemaster_blr-6g.md) *Brawler (3088)* 
+- [**BattleMaster BLR-6R**](../../../units/battlemaster/battlemaster_blr-6r.md) *Brawler (3104)* 
 
 #### [Black Watch](../../../units/black_watch.md) 
 

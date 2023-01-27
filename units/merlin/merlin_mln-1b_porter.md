@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2179) 
+- **Sources:** RS:Unique Mechs-Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2179) 
 - **Battle Value:** 1233 
 
 ## Availability 

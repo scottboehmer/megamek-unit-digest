@@ -166,8 +166,8 @@
 
 #### [Hoplite](../../../units/hoplite.md) 
 
+- [**Hoplite HOP-4B**](../../../units/hoplite/hoplite_hop-4b.md) *Sniper (2581)* 
 - [**Hoplite HOP-4C**](../../../units/hoplite/hoplite_hop-4c.md) *Brawler (2584)* 
-- [**Hoplite HOP-4B**](../../../units/hoplite/hoplite_hop-4b.md) *Sniper (2682)* 
 
 #### [Scorpion](../../../units/scorpion.md) 
 
@@ -315,6 +315,10 @@
 #### [Atlas](../../../units/atlas.md) 
 
 - [**Atlas AS7-D**](../../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
+
+#### [Behemoth (Stone Rhino)](../../../units/behemoth_stone_rhino.md) 
+
+- [**Behemoth (Stone Rhino) BHN-6H**](../../../units/behemoth_stone_rhino/behemoth_stone_rhino_bhn-6h.md) *Undefined (3004)* `Unique` 
 
 #### [Imp](../../../units/imp.md) 
 

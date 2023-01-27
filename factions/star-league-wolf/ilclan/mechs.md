@@ -238,8 +238,8 @@
 
 #### [Arctic Wolf II](../../../units/arctic_wolf_ii.md) 
 
-- [**Arctic Wolf II Prime**](../../../units/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* `Active Probe` , `ECM` 
-- [**Arctic Wolf II A**](../../../units/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)* 
+- [**Arctic Wolf II Prime**](../../../units/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* 
+- [**Arctic Wolf II A**](../../../units/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)* `Active Probe` , `ECM` 
 - [**Arctic Wolf II B**](../../../units/arctic_wolf_ii/arctic_wolf_ii_b.md) *Striker (3085)* 
 - [**Arctic Wolf II C**](../../../units/arctic_wolf_ii/arctic_wolf_ii_c.md) *Striker (3085)* 
 
@@ -271,6 +271,13 @@
 - [**Phantom E**](../../../units/phantom/phantom_e.md) *Striker (3061)* 
 - [**Phantom H**](../../../units/phantom/phantom_h.md) *Striker (3062)* 
 - [**Phantom F**](../../../units/phantom/phantom_f.md) *Striker (3068)* `ECM` 
+- [**Phantom G**](../../../units/phantom/phantom_g.md) *Scout (3090)* 
+- [**Phantom I**](../../../units/phantom/phantom_i.md) *Scout (3141)* `TAG` 
+- [**Phantom J**](../../../units/phantom/phantom_j.md) *Striker (3141)* 
+- [**Phantom K**](../../../units/phantom/phantom_k.md) *Sniper (3141)* `Active Probe` , `ECM` 
+- [**Phantom L**](../../../units/phantom/phantom_l.md) *Scout (3142)* 
+- [**Phantom T**](../../../units/phantom/phantom_t.md) *Scout (3142)* 
+- [**Phantom R**](../../../units/phantom/phantom_r.md) *Striker (3145)* 
 
 #### [Pouncer](../../../units/pouncer.md) 
 
@@ -282,6 +289,11 @@
 - [**Pouncer E**](../../../units/pouncer/pouncer_e.md) *Striker (3061)* 
 - [**Pouncer H**](../../../units/pouncer/pouncer_h.md) *Striker (3062)* 
 - [**Pouncer F**](../../../units/pouncer/pouncer_f.md) *Scout (3069)* `Active Probe` 
+- [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
+- [**Pouncer G**](../../../units/pouncer/pouncer_g.md) *Striker (3142)* 
+- [**Pouncer I**](../../../units/pouncer/pouncer_i.md) *Missile Boat (3142)* 
+- [**Pouncer T**](../../../units/pouncer/pouncer_t.md) *Scout (3142)* 
+- [**Pouncer X**](../../../units/pouncer/pouncer_x.md) *Striker (3147)* 
 
 ### 45 Tons 
 
@@ -613,6 +625,7 @@
 
 #### [Warhammer](../../../units/warhammer.md) 
 
+- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
 - [**Warhammer WHD-10CT**](../../../units/warhammer/warhammer_whd-10ct.md) *Brawler (3085)* `C3 Support` 
 
 ### 75 Tons 
@@ -713,11 +726,20 @@
 
 #### [Naga](../../../units/naga.md) 
 
+- [**Naga A**](../../../units/naga/naga_a.md) *Missile Boat (2869)* 
+- [**Naga B**](../../../units/naga/naga_b.md) *Missile Boat (2869)* 
+- [**Naga C**](../../../units/naga/naga_c.md) *Missile Boat (2869)* 
+- [**Naga D**](../../../units/naga/naga_d.md) *Missile Boat (2869)* 
 - [**Naga Prime**](../../../units/naga/naga_prime.md) *Missile Boat (2945)* 
-- [**Naga A**](../../../units/naga/naga_a.md) *Missile Boat (2945)* 
-- [**Naga B**](../../../units/naga/naga_b.md) *Missile Boat (2945)* 
-- [**Naga C**](../../../units/naga/naga_c.md) *Missile Boat (2945)* 
-- [**Naga D**](../../../units/naga/naga_d.md) *Missile Boat (2945)* 
+
+#### [Naga II](../../../units/naga_ii.md) 
+
+- [**Naga II Prime**](../../../units/naga_ii/naga_ii_prime.md) *Brawler (2866)* 
+- [**Naga II A**](../../../units/naga_ii/naga_ii_a.md) *Brawler (2866)* 
+- [**Naga II B**](../../../units/naga_ii/naga_ii_b.md) *Missile Boat (2866)* 
+- [**Naga II C**](../../../units/naga_ii/naga_ii_c.md) *Brawler (2866)* 
+- [**Naga II H**](../../../units/naga_ii/naga_ii_h.md) *Brawler (3059)* 
+- [**Naga II W**](../../../units/naga_ii/naga_ii_w.md) *Sniper (3138)* 
 
 #### [Phoenix Hawk IIC](../../../units/phoenix_hawk_iic.md) 
 

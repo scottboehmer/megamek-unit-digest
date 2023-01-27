@@ -17,7 +17,7 @@
 - **Equipment:** 
   - TAG 
   - Infantry (3 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2118) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2118) 
 - **Battle Value:** 715 
 
 ## Availability 

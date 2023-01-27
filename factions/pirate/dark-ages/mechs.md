@@ -32,6 +32,7 @@
 
 - [**Flea FLE-17**](../../../units/flea/flea_fle-17.md) *Striker (3049)* 
 - [**Flea FLE-19**](../../../units/flea/flea_fle-19.md) *Striker (3068)* 
+- [**Flea FLE-21**](../../../units/flea/flea_fle-21.md) *Striker (3139)* `ECM` , `Stealth` 
 
 #### [Locust](../../../units/locust.md) 
 
@@ -324,6 +325,7 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
 
 #### [Conjurer](../../../units/conjurer.md) 
 

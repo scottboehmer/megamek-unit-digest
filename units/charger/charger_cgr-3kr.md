@@ -26,7 +26,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/566) 
 - **Battle Value:** 2121 
 
 ## Availability 

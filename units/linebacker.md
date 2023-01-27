@@ -186,7 +186,7 @@
 ## Linebacker I 
 
 - **Role:** Scout 
-- **Tech Base:** Clan (3142) 
+- **Tech Base:** Clan Mixed (3142) 
 - **Chassis:** 65 tons (Endo Steel) 
 - **Movement:** 6 / 9 (12), XL 
 - **Armor:** 192 (Ferro Fibrous) 
@@ -198,7 +198,7 @@
   - Active Probe 
   - Machine Gun Array × 6 
   - CASE 
-  - Supercharger 
+  - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Stable 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7525) 

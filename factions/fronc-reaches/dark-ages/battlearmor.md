@@ -54,6 +54,9 @@
 
 #### [TinStar BattleArmor](../../../units/tinstar_battlearmor.md) 
 
+- [**TinStar BattleArmor (Original)(Sqd4)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_originalsqd4.md) *Ambusher (3087)* 
+- [**TinStar BattleArmor (Original)(Sqd5)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_originalsqd5.md) *Ambusher (3087)* 
+- [**TinStar BattleArmor (Original)(Sqd6)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_originalsqd6.md) *Ambusher (3087)* 
 - [**TinStar BattleArmor (Standard)(Sqd4)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_standardsqd4.md) *Scout (3087)* 
 
 #### [Trinity Medium Battle Armor](../../../units/trinity_medium_battle_armor.md) 

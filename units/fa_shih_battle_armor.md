@@ -14,11 +14,11 @@
 - **Weapons:** 
   - Flamer 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1014) 
-- **Battle Value:** 39 (201 for 4 suits) 
+- **Battle Value:** 45 (233 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_flamersqd4.md) 
 
 ## Fa Shih Battle Armor (Flamer)(Sqd5) 
@@ -35,11 +35,11 @@
 - **Weapons:** 
   - Flamer 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8502) 
-- **Battle Value:** 39 (271 for 5 suits) 
+- **Battle Value:** 45 (314 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_flamersqd5.md) 
 
 ## Fa Shih Battle Armor (Flamer)(Sqd6) 
@@ -56,11 +56,11 @@
 - **Weapons:** 
   - Flamer 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8866) 
-- **Battle Value:** 39 (348 for 6 suits) 
+- **Battle Value:** 45 (404 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_flamersqd6.md) 
 
 ## Fa Shih Battle Armor (Laser)(Sqd4) 
@@ -77,11 +77,11 @@
 - **Weapons:** 
   - Small Laser 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1015) 
-- **Battle Value:** 45 (233 for 4 suits) 
+- **Battle Value:** 51 (265 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lasersqd4.md) 
 
 ## Fa Shih Battle Armor (Laser)(Sqd5) 
@@ -98,11 +98,11 @@
 - **Weapons:** 
   - Small Laser 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8503) 
-- **Battle Value:** 45 (314 for 5 suits) 
+- **Battle Value:** 51 (357 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lasersqd5.md) 
 
 ## Fa Shih Battle Armor (Laser)(Sqd6) 
@@ -119,11 +119,11 @@
 - **Weapons:** 
   - Small Laser 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8867) 
-- **Battle Value:** 45 (404 for 6 suits) 
+- **Battle Value:** 51 (459 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lasersqd6.md) 
 
 ## Fa Shih Battle Armor (LRR)(Sqd4) 
@@ -140,11 +140,11 @@
 - **Weapons:** 
   - Light Recoilless Rifle 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1016) 
-- **Battle Value:** 49 (257 for 4 suits) 
+- **Battle Value:** 56 (289 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lrrsqd4.md) 
 
 ## Fa Shih Battle Armor (LRR)(Sqd5) 
@@ -161,11 +161,11 @@
 - **Weapons:** 
   - Light Recoilless Rifle 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8504) 
-- **Battle Value:** 49 (346 for 5 suits) 
+- **Battle Value:** 56 (389 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lrrsqd5.md) 
 
 ## Fa Shih Battle Armor (LRR)(Sqd6) 
@@ -182,11 +182,11 @@
 - **Weapons:** 
   - Light Recoilless Rifle 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8868) 
-- **Battle Value:** 49 (445 for 6 suits) 
+- **Battle Value:** 56 (501 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lrrsqd6.md) 
 
 ## Fa Shih Battle Armor (MG)(Sqd4) 
@@ -203,11 +203,11 @@
 - **Weapons:** 
   - Machine Gun 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1017) 
-- **Battle Value:** 39 (201 for 4 suits) 
+- **Battle Value:** 45 (233 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_mgsqd4.md) 
 
 ## Fa Shih Battle Armor (MG)(Sqd5) 
@@ -224,11 +224,11 @@
 - **Weapons:** 
   - Machine Gun 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8505) 
-- **Battle Value:** 39 (271 for 5 suits) 
+- **Battle Value:** 45 (314 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_mgsqd5.md) 
 
 ## Fa Shih Battle Armor (MG)(Sqd6) 
@@ -245,11 +245,11 @@
 - **Weapons:** 
   - Machine Gun 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8869) 
-- **Battle Value:** 39 (348 for 6 suits) 
+- **Battle Value:** 45 (404 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_mgsqd6.md) 
 
 ## Fa Shih Battle Armor (TAG)(Sqd4) 
@@ -264,12 +264,12 @@
   - Basic Manipulator w/ Mine Clearance (right) 
   - Basic Manipulator w/ Mine Clearance (left) 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1018) 
-- **Battle Value:** 31 (161 for 4 suits) 
+- **Battle Value:** 37 (193 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_tagsqd4.md) 
 
 ## Fa Shih Battle Armor (TAG)(Sqd5) 
@@ -284,12 +284,12 @@
   - Basic Manipulator w/ Mine Clearance (right) 
   - Basic Manipulator w/ Mine Clearance (left) 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8506) 
-- **Battle Value:** 31 (217 for 5 suits) 
+- **Battle Value:** 37 (260 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_tagsqd5.md) 
 
 ## Fa Shih Battle Armor (TAG)(Sqd6) 
@@ -304,12 +304,12 @@
   - Basic Manipulator w/ Mine Clearance (right) 
   - Basic Manipulator w/ Mine Clearance (left) 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8870) 
-- **Battle Value:** 31 (279 for 6 suits) 
+- **Battle Value:** 37 (334 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_tagsqd6.md) 
 
 ## Fa Shih Battle Armor (Support) (King David)(Sqd4) 
@@ -440,11 +440,11 @@
 - **Weapons:** 
   - Machine Gun 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Clan Myomer Booster 
 - **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1019) 
-- **Battle Value:** 29 (150 for 4 suits) 
+- **Battle Value:** 35 (182 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_2_mgsqd4.md) 
 
 ## Fa Shih Battle Armor 2 (MG)(Sqd5) 
@@ -461,11 +461,11 @@
 - **Weapons:** 
   - Machine Gun 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Clan Myomer Booster 
 - **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8507) 
-- **Battle Value:** 29 (203 for 5 suits) 
+- **Battle Value:** 35 (246 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_2_mgsqd5.md) 
 
 ## Fa Shih Battle Armor 2 (MG)(Sqd6) 
@@ -482,10 +482,10 @@
 - **Weapons:** 
   - Machine Gun 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Clan Myomer Booster 
 - **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8871) 
-- **Battle Value:** 29 (260 for 6 suits) 
+- **Battle Value:** 35 (316 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_2_mgsqd6.md) 
 

@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - C3i 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1177) 
+- **Sources:** TRO3058U - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1177) 
 - **Battle Value:** 872 
 
 ## Availability 

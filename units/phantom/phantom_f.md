@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4818) 
+- **Sources:** Rec Guide:ilClan #27 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4818) 
 - **Battle Value:** 1375 
 
 ## Availability 

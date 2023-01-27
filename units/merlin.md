@@ -59,7 +59,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2179) 
+- **Sources:** RS:Unique Mechs-Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2179) 
 - **Battle Value:** 1233 
 - [*More Info*](merlin/merlin_mln-1b_porter.md) 
 
@@ -102,4 +102,96 @@
 - **Sources:** XTRO Boondocks - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2181) 
 - **Battle Value:** 1121 
 - [*More Info*](merlin/merlin_mln-sx.md) 
+
+## Merlin MLN-1D 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3090) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 168 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - PPC 
+  - Light PPC × 2 
+  - LRM 5 (ammo: 24) 
+  - Heavy Machine Gun (ammo: 50) 
+  - Flamer 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
+- **Sources:** Rec Guide:ilClan #26 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9316) 
+- **Battle Value:** 1370 
+- [*More Info*](merlin/merlin_mln-1d.md) 
+
+## Merlin MLN-1E 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3099) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 168 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - PPC 
+  - Light PPC × 2 
+  - MML 5 (ammo: 20 SRM, 24 LRM) 
+  - Flamer 
+- **Equipment:** 
+  - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
+- **Sources:** Rec Guide:ilClan #26 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9316) 
+- **Battle Value:** 1369 
+- [*More Info*](merlin/merlin_mln-1e.md) 
+
+## Merlin MLN-1P 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3114) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 168 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - Large VSP Laser 
+  - Medium VSP Laser × 2 
+  - LRM 5 (ammo: 24) 
+  - Flamer 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
+- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9318) 
+- **Battle Value:** 1182 
+- [*More Info*](merlin/merlin_mln-1p.md) 
+
+## Merlin C 
+
+- **Role:** Brawler 
+- **Tech Base:** Clan (3130) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 168 (Ferro Lamellor) 
+- **Heat Sinks:** 18 (36) 
+- **Weapons:** 
+  - ER PPC 
+  - Improved Heavy Medium Laser × 2 
+  - Streak LRM 5 (ammo: 24) 
+  - Heavy Machine Gun (ammo: 50) 
+  - Flamer 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
+- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9319) 
+- **Battle Value:** 1870 
+- [*More Info*](merlin/merlin_c.md) 
 

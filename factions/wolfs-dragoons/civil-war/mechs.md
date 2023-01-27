@@ -451,8 +451,8 @@
 
 #### [Hoplite](../../../units/hoplite.md) 
 
+- [**Hoplite HOP-4B**](../../../units/hoplite/hoplite_hop-4b.md) *Sniper (2581)* 
 - [**Hoplite HOP-4C**](../../../units/hoplite/hoplite_hop-4c.md) *Brawler (2584)* 
-- [**Hoplite HOP-4B**](../../../units/hoplite/hoplite_hop-4b.md) *Sniper (2682)* 
 - [**Hoplite HOP-4D**](../../../units/hoplite/hoplite_hop-4d.md) *Sniper (3050)* 
 - [**Hoplite C**](../../../units/hoplite/hoplite_c.md) *Brawler (3052)* 
 
@@ -694,6 +694,7 @@
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
+- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
 - [**Warhammer WHM-7M**](../../../units/warhammer/warhammer_whm-7m.md) *Brawler (3047)* 
 - [**Warhammer C 2**](../../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
 - [**Warhammer WHM-8D**](../../../units/warhammer/warhammer_whm-8d.md) *Brawler (3066)* `C3 Support` 

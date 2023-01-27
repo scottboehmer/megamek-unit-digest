@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light Gauss Rifle × 3 (ammo: 64) 
   - ER Medium Laser × 2 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2327) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2327) 
 - **Battle Value:** 1269 
 
 ## Availability 

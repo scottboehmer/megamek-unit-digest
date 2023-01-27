@@ -115,6 +115,24 @@
 - **Battle Value:** 1147 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2k.md) 
 
+## Shadow Hawk C 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere Mixed (2826) 
+- **Chassis:** 55 tons 
+- **Movement:** 5 / 8 
+  - **Jumping:** 5 
+- **Armor:** 152 
+- **Heat Sinks:** 13 (13) 
+- **Weapons:** 
+  - Clan ER Medium Laser 
+  - Clan LB 5-X AC (ammo: 20) 
+  - Clan LRM 5 (ammo: 24) 
+  - Clan Streak SRM 2 (ammo: 50) 
+- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2895) 
+- **Battle Value:** 1309 
+- [*More Info*](shadow_hawk/shadow_hawk_c.md) 
+
 ## Shadow Hawk SHD-5M 
 
 - **Role:** Missile Boat 
@@ -162,24 +180,6 @@
 - **Sources:** Rec Guide:ilClan #12 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2900) 
 - **Battle Value:** 1049 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2d2.md) 
-
-## Shadow Hawk C 
-
-- **Role:** Skirmisher 
-- **Tech Base:** Inner Sphere Mixed (3050) 
-- **Chassis:** 55 tons 
-- **Movement:** 5 / 8 
-  - **Jumping:** 5 
-- **Armor:** 152 
-- **Heat Sinks:** 13 (13) 
-- **Weapons:** 
-  - Clan ER Medium Laser 
-  - Clan LB 5-X AC (ammo: 20) 
-  - Clan LRM 5 (ammo: 24) 
-  - Clan Streak SRM 2 (ammo: 50) 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2895) 
-- **Battle Value:** 1309 
-- [*More Info*](shadow_hawk/shadow_hawk_c.md) 
 
 ## Shadow Hawk SHD-2Ht 
 

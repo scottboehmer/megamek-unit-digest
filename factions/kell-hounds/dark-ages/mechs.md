@@ -91,6 +91,10 @@
 - [**Cougar I**](../../../units/cougar/cougar_i.md) *Striker (3099)* 
 - [**Cougar T**](../../../units/cougar/cougar_t.md) *Brawler (3142)* `Active Probe` , `ECM` 
 
+#### [Spector](../../../units/spector.md) 
+
+- [**Spector SPR-6F**](../../../units/spector/spector_spr-6f.md) *Striker (3119)* 
+
 #### [Wolfhound](../../../units/wolfhound.md) 
 
 - [**Wolfhound WLF-2**](../../../units/wolfhound/wolfhound_wlf-2.md) *Striker (3052)* 
@@ -109,8 +113,8 @@
 
 #### [Arctic Wolf II](../../../units/arctic_wolf_ii.md) 
 
-- [**Arctic Wolf II Prime**](../../../units/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* `Active Probe` , `ECM` 
-- [**Arctic Wolf II A**](../../../units/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)* 
+- [**Arctic Wolf II Prime**](../../../units/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* 
+- [**Arctic Wolf II A**](../../../units/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)* `Active Probe` , `ECM` 
 - [**Arctic Wolf II B**](../../../units/arctic_wolf_ii/arctic_wolf_ii_b.md) *Striker (3085)* 
 - [**Arctic Wolf II C**](../../../units/arctic_wolf_ii/arctic_wolf_ii_c.md) *Striker (3085)* 
 
@@ -118,6 +122,14 @@
 
 - [**Mongoose II MON-267**](../../../units/mongoose_ii/mongoose_ii_mon-267.md) *Scout (3073)* `Active Probe` , `C3 Support` , `ECM` , `Stealth` 
 - [**Mongoose II MON-268**](../../../units/mongoose_ii/mongoose_ii_mon-268.md) *Striker (3076)* `Active Probe` , `C3 Main` , `TAG` 
+
+#### [Pouncer](../../../units/pouncer.md) 
+
+- [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
+- [**Pouncer G**](../../../units/pouncer/pouncer_g.md) *Striker (3142)* 
+- [**Pouncer I**](../../../units/pouncer/pouncer_i.md) *Missile Boat (3142)* 
+- [**Pouncer T**](../../../units/pouncer/pouncer_t.md) *Scout (3142)* 
+- [**Pouncer X**](../../../units/pouncer/pouncer_x.md) *Striker (3147)* 
 
 #### [Sentinel](../../../units/sentinel.md) 
 
@@ -351,6 +363,10 @@
 - [**Zeus-X ZEU-9WD**](../../../units/zeus-x/zeus-x_zeu-9wd.md) *Brawler (3067)* 
 
 ### 85 Tons 
+
+#### [Gunslinger](../../../units/gunslinger.md) 
+
+- [**Gunslinger GUN-3ERD**](../../../units/gunslinger/gunslinger_gun-3erd.md) *Juggernaut (3131)* 
 
 #### [Longbow](../../../units/longbow.md) 
 

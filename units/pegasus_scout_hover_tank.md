@@ -75,7 +75,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2455) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2455) 
 - **Battle Value:** 706 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_3058_upgrade.md) 
 
@@ -93,7 +93,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2458) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2458) 
 - **Battle Value:** 781 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_mrm.md) 
 
@@ -110,7 +110,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2456) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2456) 
 - **Battle Value:** 785 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_c3.md) 
 
@@ -148,7 +148,7 @@
   - Beagle Active Probe 
   - Environmentally Sealed Chassis 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2459) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2459) 
 - **Battle Value:** 577 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_sealed.md) 
 
@@ -169,4 +169,22 @@
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4798) 
 - **Battle Value:** 1119 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_x-pulse.md) 
+
+## Pegasus Scout Hover Tank (Upgrade) 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3091) 
+- **Chassis:** 35 tons Hover 
+- **Movement:** 9 / 14 (18), Light 
+- **Armor:** 109 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium X-Pulse Laser 
+  - MML 3 × 4 (ammo: 80 LRM) 
+- **Equipment:** 
+  - Beagle Active Probe 
+  - Supercharger 
+- **Sources:** Rec Guide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9254) 
+- **Battle Value:** 906 
+- [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_upgrade.md) 
 

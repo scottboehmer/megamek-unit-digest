@@ -181,6 +181,7 @@
 #### [Cricket](../../../units/cricket.md) 
 
 - [**Cricket RWN-01**](../../../units/cricket/cricket_rwn-01.md) *Scout (3132)* 
+- [**Cricket RWN-02**](../../../units/cricket/cricket_rwn-02.md) *Scout (3142)* 
 
 #### [Crosscut](../../../units/crosscut.md) 
 
@@ -304,6 +305,7 @@
 - [**Firestarter FS9-M2**](../../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
 - [**Firestarter FS9-M3**](../../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 - [**Firestarter FS9-M4**](../../../units/firestarter/firestarter_fs9-m4.md) *Scout (3109)* 
+- [**Firestarter FS9-M 'Mirage II'**](../../../units/firestarter/firestarter_fs9-m_mirage_ii.md) *Striker (3143)* 
 
 #### [Fwltur](../../../units/fwltur.md) 
 
@@ -602,6 +604,8 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
 
 #### [Crab](../../../units/crab.md) 
 
@@ -655,6 +659,10 @@
 - [**Apollo APL-1M**](../../../units/apollo/apollo_apl-1m.md) *Missile Boat (3054)* 
 - [**Apollo APL-1R**](../../../units/apollo/apollo_apl-1r.md) *Missile Boat (3056)* 
 - [**Apollo APL-2S**](../../../units/apollo/apollo_apl-2s.md) *Missile Boat (3056)* 
+
+#### [Dervish](../../../units/dervish.md) 
+
+- [**Dervish DV-11DK**](../../../units/dervish/dervish_dv-11dk.md) *Missile Boat (3149)* 
 
 #### [Exhumer](../../../units/exhumer.md) 
 
@@ -833,6 +841,7 @@
 
 - [**Quickdraw QKD-8K**](../../../units/quickdraw/quickdraw_qkd-8k.md) *Skirmisher (3064)* 
 - [**Quickdraw QKD-5Mr**](../../../units/quickdraw/quickdraw_qkd-5mr.md) *Missile Boat (3070)* `ECM` 
+- [**Quickdraw QKD-9G**](../../../units/quickdraw/quickdraw_qkd-9g.md) *Skirmisher (3144)* 
 
 #### [Rifleman](../../../units/rifleman.md) 
 
@@ -1165,6 +1174,7 @@
 - [**Gunslinger GUN-1ERD**](../../../units/gunslinger/gunslinger_gun-1erd.md) *Juggernaut (3053)* `Active Probe` , `ECM` 
 - [**Gunslinger GUN-2ERD**](../../../units/gunslinger/gunslinger_gun-2erd.md) *Juggernaut (3062)* `C3 Main` , `ECM` , `TAG` 
 - [**Gunslinger GUN-2ERDr**](../../../units/gunslinger/gunslinger_gun-2erdr.md) *Juggernaut (3078)* `C3 Main` , `TAG` 
+- [**Gunslinger GUN-3ERD**](../../../units/gunslinger/gunslinger_gun-3erd.md) *Juggernaut (3131)* 
 
 #### [Katana](../../../units/katana.md) 
 

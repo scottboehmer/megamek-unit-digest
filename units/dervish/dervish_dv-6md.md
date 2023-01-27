@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5869) 
+- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5869) 
 - **Battle Value:** 1251 
 
 ## Availability 

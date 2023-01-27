@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 6 × 9 (ammo: 45) 
   - Narc (ammo: 6) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3028) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3028) 
 - **Battle Value:** 794 
 
 ## Availability 

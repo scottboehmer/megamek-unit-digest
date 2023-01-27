@@ -8,18 +8,17 @@
 - **Movement:** 7 / 11, XL 
   - **Jumping:** 7 
 - **Armor:** 124 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (20) 
+- **Heat Sinks:** 11 (22) 
 - **Weapons:** 
-  - Streak SRM 4 × 4 (ammo: 50) 
-  - Small Pulse Laser × 2 
+  - LRM 15 × 2 (ammo: 24) 
+  - ER Medium Laser × 2 
+  - Small Pulse Laser 
 - **Equipment:** 
-  - ECM Suite 
-  - Active Probe 
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/107) 
-- **Battle Value:** 1645 
+- **Battle Value:** 2111 
 - [*More Info*](arctic_wolf_ii/arctic_wolf_ii_prime.md) 
 
 ## Arctic Wolf II A 
@@ -30,17 +29,18 @@
 - **Movement:** 7 / 11, XL 
   - **Jumping:** 7 
 - **Armor:** 124 (Ferro Fibrous) 
-- **Heat Sinks:** 11 (22) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - LRM 15 × 2 (ammo: 24) 
-  - ER Medium Laser × 2 
-  - Small Pulse Laser 
+  - Streak SRM 4 × 4 (ammo: 50) 
+  - Small Pulse Laser × 2 
 - **Equipment:** 
+  - ECM Suite 
+  - Active Probe 
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/104) 
-- **Battle Value:** 2111 
+- **Battle Value:** 1645 
 - [*More Info*](arctic_wolf_ii/arctic_wolf_ii_a.md) 
 
 ## Arctic Wolf II B 

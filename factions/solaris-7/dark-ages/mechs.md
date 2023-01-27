@@ -98,7 +98,7 @@
 
 #### [Vulcan](../../../units/vulcan.md) 
 
-- [**Vulcan VT-5ML 'Aladdin'**](../../../units/vulcan/vulcan_vt-5ml_aladdin.md) *Sniper (3080)* `ECM` , `Stealth` , `Unique` 
+- [**Vulcan VT-5ML 'Aladdin'**](../../../units/vulcan/vulcan_vt-5ml_aladdin.md) *Sniper (3143)* `ECM` , `Stealth` , `Unique` 
 
 #### [Watchman](../../../units/watchman.md) 
 

@@ -14,7 +14,7 @@
   - Long Tom Cannon (ammo: 15) 
   - Thunderbolt 5 (ammo: 12) 
   - ER Medium Laser × 2 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4934) 
+- **Sources:** TRO:Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4934) 
 - **Battle Value:** 1353 
 
 ## Availability 

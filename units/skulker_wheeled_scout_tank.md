@@ -57,7 +57,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5068) 
+- **Sources:** XTRO:Corporations - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5068) 
 - **Battle Value:** 491 
 - [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_x-5.md) 
 
@@ -71,7 +71,24 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2955) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2955) 
 - **Battle Value:** 230 
 - [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c3m.md) 
+
+## Skulker Wheeled Scout Tank C 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3150) 
+- **Chassis:** 20 tons Wheeled 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 72 (Stealth) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Clan Medium Chemical Laser (ammo: 30) 
+- **Equipment:** 
+  - Clan Watchdog CEWS 
+  - Clan CASE 
+- **Sources:** Rec Guide:ilClan #28 - , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
+- **Battle Value:** 404 
+- [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c.md) 
 

@@ -5,7 +5,7 @@
 ## Shadow Hawk C 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Inner Sphere Mixed (3050) 
+- **Tech Base:** Inner Sphere Mixed (2826) 
 - **Chassis:** 55 tons 
 - **Movement:** 5 / 8 
   - **Jumping:** 5 

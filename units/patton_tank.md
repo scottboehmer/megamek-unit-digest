@@ -52,3 +52,42 @@
 - **Battle Value:** 1387 
 - [*More Info*](patton_tank/patton_tank_-sb.md) 
 
+## Patton Tank (Taurian) 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3115) 
+- **Chassis:** 65 tons Tracked 
+- **Movement:** 4 / 6 (8), Fusion 
+- **Armor:** 228 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LB 10-X AC (ammo: 20 Standard, 10 Cluster) 
+  - ER Medium Laser 
+  - LRM 5 (ammo: 24) 
+  - Flamer 
+- **Equipment:** 
+  - Supercharger 
+- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9343) 
+- **Battle Value:** 1213 
+- [*More Info*](patton_tank/patton_tank_taurian.md) 
+
+## Patton Tank (XL) 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3120) 
+- **Chassis:** 65 tons Tracked 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 232 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/10 (ammo: 30) 
+  - Medium X-Pulse Laser 
+  - MML 5 w/ Artemis IV (ammo: 24 LRM, 20 SRM) 
+  - Flamer 
+- **Equipment:** 
+  - Targeting Computer 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9344) 
+- **Battle Value:** 1189 
+- [*More Info*](patton_tank/patton_tank_xl.md) 
+

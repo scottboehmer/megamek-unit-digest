@@ -5,7 +5,7 @@
 ## Warhammer C 3 
 
 - **Role:** Undefined 
-- **Tech Base:** Clan Mixed (2850) 
+- **Tech Base:** Clan Mixed (2862) 
 - **Chassis:** 70 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
 - **Armor:** 217 
@@ -24,10 +24,49 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Source:** Rec Guide:ilClan #7 - Clan Invasion 
+- **Sources:** Rec Guide:ilClan #7 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7566) 
 - **Battle Value:** 2772 
 
 ## Availability 
 
-Availability Unknown 
+### Clan Invasion 
+
+- Wolf's Dragoons 
+
+### Civil War 
+
+- Wolf's Dragoons 
+
+### Jihad 
+
+- Society 
+- Wolf's Dragoons 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Kell Hounds 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

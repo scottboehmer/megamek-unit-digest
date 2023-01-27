@@ -1,5 +1,39 @@
 # Hoplite 
 
+## Hoplite HOP-4A 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2578) 
+- **Chassis:** 55 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 184 
+- **Heat Sinks:** 16 (16) 
+- **Weapons:** 
+  - AC/10 (ammo: 10) 
+  - LRM 5 (ammo: 24) 
+- **Design Quirks:** 
+  - No/Minimal Arms 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4329) 
+- **Battle Value:** 986 
+- [*More Info*](hoplite/hoplite_hop-4a.md) 
+
+## Hoplite HOP-4B 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (2581) 
+- **Chassis:** 55 tons 
+- **Movement:** 4 / 6 
+- **Armor:** 184 
+- **Heat Sinks:** 16 (16) 
+- **Weapons:** 
+  - PPC 
+  - LRM 15 (ammo: 16) 
+- **Design Quirks:** 
+  - No/Minimal Arms 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4330) 
+- **Battle Value:** 1162 
+- [*More Info*](hoplite/hoplite_hop-4b.md) 
+
 ## Hoplite HOP-4C 
 
 - **Role:** Brawler 
@@ -16,23 +50,6 @@
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4331) 
 - **Battle Value:** 986 
 - [*More Info*](hoplite/hoplite_hop-4c.md) 
-
-## Hoplite HOP-4B 
-
-- **Role:** Sniper 
-- **Tech Base:** Inner Sphere (2682) 
-- **Chassis:** 55 tons 
-- **Movement:** 4 / 6 
-- **Armor:** 184 
-- **Heat Sinks:** 16 (16) 
-- **Weapons:** 
-  - PPC 
-  - LRM 15 (ammo: 16) 
-- **Design Quirks:** 
-  - No/Minimal Arms 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4330) 
-- **Battle Value:** 1162 
-- [*More Info*](hoplite/hoplite_hop-4b.md) 
 
 ## Hoplite HOP-4Bb 
 
@@ -51,7 +68,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1541) 
+- **Sources:** Hist Klondike - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1541) 
 - **Battle Value:** 1413 
 - [*More Info*](hoplite/hoplite_hop-4bb.md) 
 
@@ -70,7 +87,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1542) 
+- **Sources:** Hist Klondike - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1542) 
 - **Battle Value:** 1377 
 - [*More Info*](hoplite/hoplite_hop-4cb.md) 
 
@@ -128,7 +145,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1544) 
+- **Sources:** XTRO Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1544) 
 - **Battle Value:** 1880 
 - [*More Info*](hoplite/hoplite_hop-4x.md) 
 

@@ -304,6 +304,7 @@
 - [**Firestarter FS9-M2**](../../../units/firestarter/firestarter_fs9-m2.md) *Scout (3101)* 
 - [**Firestarter FS9-M3**](../../../units/firestarter/firestarter_fs9-m3.md) *Scout (3104)* `TAG` 
 - [**Firestarter FS9-M4**](../../../units/firestarter/firestarter_fs9-m4.md) *Scout (3109)* 
+- [**Firestarter FS9-M 'Mirage II'**](../../../units/firestarter/firestarter_fs9-m_mirage_ii.md) *Striker (3143)* 
 
 #### [Fwltur](../../../units/fwltur.md) 
 
@@ -548,6 +549,8 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
 
 #### [Enforcer](../../../units/enforcer.md) 
 
@@ -630,6 +633,7 @@
 - [**Dervish DV-8D**](../../../units/dervish/dervish_dv-8d.md) *Missile Boat (3062)* 
 - [**Dervish DV-9D**](../../../units/dervish/dervish_dv-9d.md) *Missile Boat (3068)* 
 - [**Dervish DV-6Mr**](../../../units/dervish/dervish_dv-6mr.md) *Brawler (3073)* 
+- [**Dervish DV-11DK**](../../../units/dervish/dervish_dv-11dk.md) *Missile Boat (3149)* 
 
 #### [Fennec](../../../units/fennec.md) 
 
@@ -769,6 +773,10 @@
 - [**Mad Dog Mk IV C**](../../../units/mad_dog_mk_iv/mad_dog_mk_iv_c.md) *Brawler (3137)* 
 - [**Mad Dog Mk IV D**](../../../units/mad_dog_mk_iv/mad_dog_mk_iv_d.md) *Brawler (3137)* 
 
+#### [Merlin](../../../units/merlin.md) 
+
+- [**Merlin MLN-1P**](../../../units/merlin/merlin_mln-1p.md) *Juggernaut (3114)* 
+
 #### [Ostroc](../../../units/ostroc.md) 
 
 - [**Ostroc OSR-2Cb**](../../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
@@ -785,6 +793,7 @@
 
 - [**Quickdraw QKD-5Mr**](../../../units/quickdraw/quickdraw_qkd-5mr.md) *Missile Boat (3070)* `ECM` 
 - [**Quickdraw QKD-9M**](../../../units/quickdraw/quickdraw_qkd-9m.md) *Skirmisher (3086)* `TAG` 
+- [**Quickdraw QKD-9G**](../../../units/quickdraw/quickdraw_qkd-9g.md) *Skirmisher (3144)* 
 
 #### [Rifleman](../../../units/rifleman.md) 
 
@@ -919,11 +928,13 @@
 #### [Caesar](../../../units/caesar.md) 
 
 - [**Caesar CES-4R**](../../../units/caesar/caesar_ces-4r.md) *Skirmisher (3067)* 
+- [**Caesar CES-5R**](../../../units/caesar/caesar_ces-5r.md) *Brawler (3148)* 
 
 #### [Cataphract](../../../units/cataphract.md) 
 
 - [**Cataphract CTF-5D**](../../../units/cataphract/cataphract_ctf-5d.md) *Skirmisher (3070)* `ECM` , `Stealth` 
 - [**Cataphract CTF-5L**](../../../units/cataphract/cataphract_ctf-5l.md) *Sniper (3132)* 
+- [**Cataphract CTF-5LL**](../../../units/cataphract/cataphract_ctf-5ll.md) *Sniper (3135)* 
 
 #### [Gallant](../../../units/gallant.md) 
 
@@ -1038,6 +1049,7 @@
 - [**Penetrator PTR-6M**](../../../units/penetrator/penetrator_ptr-6m.md) *Skirmisher (3058)* 
 - [**Penetrator PTR-6S**](../../../units/penetrator/penetrator_ptr-6s.md) *Skirmisher (3059)* `ECM` 
 - [**Penetrator PTR-6T**](../../../units/penetrator/penetrator_ptr-6t.md) *Skirmisher (3066)* 
+- [**Penetrator PTR-8D**](../../../units/penetrator/penetrator_ptr-8d.md) *Brawler (3144)* 
 
 #### [Rakshasa](../../../units/rakshasa.md) 
 
@@ -1132,6 +1144,7 @@
 - [**BattleMaster BLR-10S**](../../../units/battlemaster/battlemaster_blr-10s.md) *Juggernaut (3070)* `ECM` 
 - [**BattleMaster BLR-10S2**](../../../units/battlemaster/battlemaster_blr-10s2.md) *Juggernaut (3072)* `C3 Support` , `ECM` 
 - [**BattleMaster BLR-6G**](../../../units/battlemaster/battlemaster_blr-6g.md) *Brawler (3088)* 
+- [**BattleMaster BLR-6R**](../../../units/battlemaster/battlemaster_blr-6r.md) *Brawler (3104)* 
 
 #### [Gunslinger](../../../units/gunslinger.md) 
 
@@ -1268,6 +1281,7 @@
 - [**Sagittaire SGT-9D**](../../../units/sagittaire/sagittaire_sgt-9d.md) *Juggernaut (3074)* `C3 Main` , `TAG` 
 - [**Sagittaire SGT-10X**](../../../units/sagittaire/sagittaire_sgt-10x.md) *Brawler (3084)* 
 - [**Sagittaire SGT-14D**](../../../units/sagittaire/sagittaire_sgt-14d.md) *Juggernaut (3134)* `C3 Support` 
+- [**Sagittaire SGT-14R**](../../../units/sagittaire/sagittaire_sgt-14r.md) *Juggernaut (3149)* 
 
 ### 100 Tons 
 
@@ -1296,6 +1310,7 @@
 
 - [**Devastator DVS-2**](../../../units/devastator/devastator_dvs-2.md) *Juggernaut (3048)* 
 - [**Devastator DVS-3**](../../../units/devastator/devastator_dvs-3.md) *Sniper (3058)* 
+- [**Devastator DVS-11**](../../../units/devastator/devastator_dvs-11.md) *Juggernaut (3146)* 
 
 #### [Diomede](../../../units/diomede.md) 
 

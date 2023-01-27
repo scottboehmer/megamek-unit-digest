@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2124) 
+- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2124) 
 - **Battle Value:** 869 
 
 ## Availability 

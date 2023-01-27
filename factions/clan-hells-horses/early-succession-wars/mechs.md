@@ -246,6 +246,13 @@
 
 ### 80 Tons 
 
+#### [Naga II](../../../units/naga_ii.md) 
+
+- [**Naga II Prime**](../../../units/naga_ii/naga_ii_prime.md) *Brawler (2866)* 
+- [**Naga II A**](../../../units/naga_ii/naga_ii_a.md) *Brawler (2866)* 
+- [**Naga II B**](../../../units/naga_ii/naga_ii_b.md) *Missile Boat (2866)* 
+- [**Naga II C**](../../../units/naga_ii/naga_ii_c.md) *Brawler (2866)* 
+
 #### [Spartan](../../../units/spartan.md) 
 
 - [**Spartan C**](../../../units/spartan/spartan_c.md) *Skirmisher (2865)* 

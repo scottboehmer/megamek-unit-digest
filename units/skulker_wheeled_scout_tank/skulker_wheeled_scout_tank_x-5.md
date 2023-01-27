@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5068) 
+- **Sources:** XTRO:Corporations - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5068) 
 - **Battle Value:** 491 
 
 ## Availability 

@@ -14,12 +14,12 @@
   - Basic Manipulator w/ Mine Clearance (right) 
   - Basic Manipulator w/ Mine Clearance (left) 
 - **Equipment:** 
-  - Mine Dispenser 
+  - Mine Dispenser × 2 
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8870) 
-- **Battle Value:** 31 (279 for 6 suits) 
+- **Battle Value:** 37 (334 for 6 suits) 
 
 ## Availability 
 

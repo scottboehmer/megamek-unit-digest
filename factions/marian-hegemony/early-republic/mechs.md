@@ -315,6 +315,7 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
 
 #### [Ghost](../../../units/ghost.md) 
 
@@ -419,6 +420,8 @@
 - [**Merlin MLN-1A**](../../../units/merlin/merlin_mln-1a.md) *Brawler (3010)* 
 - [**Merlin MLN-1B**](../../../units/merlin/merlin_mln-1b.md) *Brawler (3053)* 
 - [**Merlin MLN-1C**](../../../units/merlin/merlin_mln-1c.md) *Brawler (3068)* 
+- [**Merlin MLN-1D**](../../../units/merlin/merlin_mln-1d.md) *Sniper (3090)* 
+- [**Merlin MLN-1E**](../../../units/merlin/merlin_mln-1e.md) *Sniper (3099)* 
 
 #### [Ostroc](../../../units/ostroc.md) 
 

@@ -238,6 +238,7 @@
 #### [Griffin](../../../units/griffin.md) 
 
 - [**Griffin GRF-1N**](../../../units/griffin/griffin_grf-1n.md) *Sniper (2492)* 
+- [**Griffin GRF-1RG**](../../../units/griffin/griffin_grf-1rg.md) *Missile Boat (2597)* 
 - [**Griffin GRF-2N**](../../../units/griffin/griffin_grf-2n.md) *Skirmisher (2751)* `ECM` 
 - [**Griffin GRF-1S**](../../../units/griffin/griffin_grf-1s.md) *Skirmisher (2857)* 
 
