@@ -44,9 +44,9 @@
 
 - [**Nexus NXS1-A**](../../../units/nexus/nexus_nxs1-a.md) *Striker (3054)* 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 #### [Tarantula](../../../units/tarantula.md) 
 

@@ -713,12 +713,12 @@
 - [**Executioner H**](../../../units/executioner/executioner_h.md) *Skirmisher (3059)* 
 - [**Executioner E**](../../../units/executioner/executioner_e.md) *Skirmisher (3060)* 
 
-#### [Gladiator-B (Executioner-B)](../../../units/gladiator-b_executioner-b.md) 
+#### [Executioner-B](../../../units/executioner-b.md) 
 
-- [**Gladiator-B (Executioner-B) Prime**](../../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_prime.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) A**](../../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_a.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) B**](../../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_b.md) *Sniper (2873)* 
-- [**Gladiator-B (Executioner-B) C**](../../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_c.md) *Sniper (2873)* 
+- [**Executioner-B Prime**](../../../units/executioner-b/executioner-b_prime.md) *Juggernaut (2873)* 
+- [**Executioner-B A**](../../../units/executioner-b/executioner-b_a.md) *Juggernaut (2873)* 
+- [**Executioner-B B**](../../../units/executioner-b/executioner-b_b.md) *Sniper (2873)* 
+- [**Executioner-B C**](../../../units/executioner-b/executioner-b_c.md) *Sniper (2873)* 
 
 #### [Turkina](../../../units/turkina.md) 
 

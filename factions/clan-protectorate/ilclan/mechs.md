@@ -106,9 +106,9 @@
 - [**Mist Lynx M**](../../../units/mist_lynx/mist_lynx_m.md) *Striker (3140)* `Active Probe` 
 - [**Mist Lynx T**](../../../units/mist_lynx/mist_lynx_t.md) *Striker (3142)* `Active Probe` , `ECM` 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 #### [Solitaire](../../../units/solitaire.md) 
 

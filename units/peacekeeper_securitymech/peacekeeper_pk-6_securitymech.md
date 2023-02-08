@@ -1,6 +1,6 @@
-# Peacekeeper PK-6 SecurityMech 
+# Peacekeeper SecurityMech PK-6 SecurityMech 
 
-[Other Peacekeeper variants](../peacekeeper.md) 
+[Other Peacekeeper SecurityMech variants](../peacekeeper_securitymech.md) 
 
 ## Peacekeeper PK-6 SecurityMech 
 

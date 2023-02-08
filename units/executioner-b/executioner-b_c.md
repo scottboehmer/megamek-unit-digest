@@ -1,8 +1,8 @@
-# Gladiator-B (Executioner-B) B 
+# Executioner-B C 
 
-[Other Gladiator-B (Executioner-B) variants](../gladiator-b_executioner-b.md) 
+[Other Executioner-B variants](../executioner-b.md) 
 
-## Gladiator-B (Executioner-B) B 
+## Executioner-B "Gladiator-B" C 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2873) 
@@ -10,15 +10,15 @@
 - **Movement:** 3 / 5, XL 
   - **Jumping:** 2 
 - **Armor:** 268 (Ferro Fibrous) 
-- **Heat Sinks:** 18 (36) 
+- **Heat Sinks:** 20 (40) 
 - **Weapons:** 
-  - Gauss Rifle × 2 (ammo: 40) 
-  - ER Large Laser × 2 
-  - Medium Pulse Laser × 4 
+  - ER PPC × 4 
+  - Ultra AC/5 × 2 (ammo: 40) 
+  - SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8465) 
-- **Battle Value:** 3157 
+- **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8466) 
+- **Battle Value:** 2979 
 
 ## Availability 
 

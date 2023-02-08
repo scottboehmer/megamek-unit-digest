@@ -40,9 +40,9 @@
 - [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
 - [**Locust IIC 3**](../../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 ### 30 Tons 
 

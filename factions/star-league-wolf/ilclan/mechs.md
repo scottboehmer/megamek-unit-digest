@@ -96,9 +96,9 @@
 - [**Mist Lynx M**](../../../units/mist_lynx/mist_lynx_m.md) *Striker (3140)* `Active Probe` 
 - [**Mist Lynx T**](../../../units/mist_lynx/mist_lynx_t.md) *Striker (3142)* `Active Probe` , `ECM` 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 ### 30 Tons 
 
@@ -452,14 +452,11 @@
 
 ### 60 Tons 
 
-#### [Galahad (Glass Spider)](../../../units/galahad_glass_spider.md) 
-
-- [**Galahad (Glass Spider) 4**](../../../units/galahad_glass_spider/galahad_glass_spider_4.md) *Sniper (3148)* 
-
 #### [Glass Spider](../../../units/glass_spider.md) 
 
 - [**Glass Spider (Standard)**](../../../units/glass_spider/glass_spider_standard.md) *Sniper (2834)* 
 - [**Glass Spider 2**](../../../units/glass_spider/glass_spider_2.md) *Sniper (2952)* 
+- [**Glass Spider 4**](../../../units/glass_spider/glass_spider_4.md) *Sniper (3148)* 
 
 #### [Lupus](../../../units/lupus.md) 
 

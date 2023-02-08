@@ -50,9 +50,9 @@
 - [**Mongoose MON-66b**](../../../units/mongoose/mongoose_mon-66b.md) *Striker (2740)* `Active Probe` 
 - [**Mongoose MON-67**](../../../units/mongoose/mongoose_mon-67.md) *Striker (2830)* 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 ### 30 Tons 
 

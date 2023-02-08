@@ -82,9 +82,9 @@
 - [**Hermit Crab HMC-14**](../../../units/hermit_crab/hermit_crab_hmc-14.md) *Striker (3108)* 
 - [**Hermit Crab HMC-15**](../../../units/hermit_crab/hermit_crab_hmc-15.md) *Striker (3108)* 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 ### 30 Tons 
 

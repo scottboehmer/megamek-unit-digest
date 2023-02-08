@@ -111,9 +111,9 @@
 - [**Mongoose MON-86**](../../../units/mongoose/mongoose_mon-86.md) *Striker (3078)* `Active Probe` 
 - [**Mongoose MON-96**](../../../units/mongoose/mongoose_mon-96.md) *Scout (3129)* `Active Probe` 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 #### [Raptor](../../../units/raptor.md) 
 

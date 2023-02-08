@@ -326,9 +326,9 @@
 - [**Atlas AS7-D**](../../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 - [**Atlas AS7-D (Danielle)**](../../../units/atlas/atlas_as7-d_danielle.md) *Juggernaut (3028)* `Unique` 
 
-#### [Behemoth (Stone Rhino)](../../../units/behemoth_stone_rhino.md) 
+#### [Behemoth](../../../units/behemoth.md) 
 
-- [**Behemoth (Stone Rhino) BHN-6H**](../../../units/behemoth_stone_rhino/behemoth_stone_rhino_bhn-6h.md) *Undefined (3004)* `Unique` 
+- [**Behemoth BHN-6H**](../../../units/behemoth/behemoth_bhn-6h.md) *Undefined (3004)* `Unique` 
 
 #### [Imp](../../../units/imp.md) 
 

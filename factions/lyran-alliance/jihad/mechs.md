@@ -119,9 +119,9 @@
 - [**Pathfinder PFF-2**](../../../units/pathfinder/pathfinder_pff-2.md) *Scout (3075)* `Active Probe` 
 - [**Pathfinder PFF-2T**](../../../units/pathfinder/pathfinder_pff-2t.md) *Undefined (3075)* `Active Probe` , `TAG` 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 #### [Tarantula](../../../units/tarantula.md) 
 

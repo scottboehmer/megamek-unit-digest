@@ -1,6 +1,6 @@
 # Gladiator-B (Executioner-B) 
 
-## Gladiator-B (Executioner-B) Prime 
+## Executioner-B "Gladiator-B" Prime 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (2873) 
@@ -18,9 +18,9 @@
   - CASE 
 - **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8463) 
 - **Battle Value:** 2721 
-- [*More Info*](gladiator-b_executioner-b/gladiator-b_executioner-b_prime.md) 
+- [*More Info*](executioner-b/executioner-b_prime.md) 
 
-## Gladiator-B (Executioner-B) A 
+## Executioner-B "Gladiator-B" A 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (2873) 
@@ -37,9 +37,9 @@
   - CASE 
 - **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8464) 
 - **Battle Value:** 2194 
-- [*More Info*](gladiator-b_executioner-b/gladiator-b_executioner-b_a.md) 
+- [*More Info*](executioner-b/executioner-b_a.md) 
 
-## Gladiator-B (Executioner-B) B 
+## Executioner-B "Gladiator-B" B 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2873) 
@@ -56,9 +56,9 @@
   - CASE 
 - **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8465) 
 - **Battle Value:** 3157 
-- [*More Info*](gladiator-b_executioner-b/gladiator-b_executioner-b_b.md) 
+- [*More Info*](executioner-b/executioner-b_b.md) 
 
-## Gladiator-B (Executioner-B) C 
+## Executioner-B "Gladiator-B" C 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2873) 
@@ -75,5 +75,5 @@
   - CASE 
 - **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8466) 
 - **Battle Value:** 2979 
-- [*More Info*](gladiator-b_executioner-b/gladiator-b_executioner-b_c.md) 
+- [*More Info*](executioner-b/executioner-b_c.md) 
 

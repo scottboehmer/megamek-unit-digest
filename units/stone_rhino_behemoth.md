@@ -1,8 +1,6 @@
-# Behemoth (Stone Rhino) BHN-6H 
+# Stone Rhino (Behemoth) 
 
-[Other Behemoth (Stone Rhino) variants](../behemoth_stone_rhino.md) 
-
-## Behemoth (Stone Rhino) BHN-6H 
+## Behemoth BHN-6H "Stone Rhino" 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3004) 
@@ -23,14 +21,5 @@
   - Barrel Fists 
 - **Sources:** Rec Guide:ilClan #2 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/8301) 
 - **Battle Value:** 1703 
-
-## Availability 
-
-### Late Succession Wars - LosTech (Unique) 
-
-- Wolf's Dragoons 
-
-### Late Succession Wars - Renaissance (Unique) 
-
-- Wolf's Dragoons 
+- [*More Info*](behemoth/behemoth_bhn-6h.md) 
 

@@ -1,8 +1,8 @@
-# Galahad (Glass Spider) 4 
+# Glass Spider 4 
 
-[Other Galahad (Glass Spider) variants](../galahad_glass_spider.md) 
+[Other Glass Spider variants](../glass_spider.md) 
 
-## Galahad (Glass Spider) 4 
+## Glass Spider 4 "Galahad" 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3148) 

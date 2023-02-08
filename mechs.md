@@ -540,9 +540,9 @@
 - [**Pathfinder PFF-2**](units/pathfinder/pathfinder_pff-2.md) *Scout (3075)* `Active Probe` 
 - [**Pathfinder PFF-2T**](units/pathfinder/pathfinder_pff-2t.md) *Undefined (3075)* `Active Probe` , `TAG` 
 
-#### [Peacekeeper](units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 #### [Raptor](units/raptor.md) 
 
@@ -3343,15 +3343,12 @@
 - [**Galahad GLH-3D**](units/galahad/galahad_glh-3d.md) *Sniper (3070)* `C3i` , `ECM` 
 - [**Galahad GLH-3D (Laodices)**](units/galahad/galahad_glh-3d_laodices.md) *Sniper (3070)* `C3i` , `ECM` , `Unique` 
 
-#### [Galahad (Glass Spider)](units/galahad_glass_spider.md) 
-
-- [**Galahad (Glass Spider) 4**](units/galahad_glass_spider/galahad_glass_spider_4.md) *Sniper (3148)* 
-
 #### [Glass Spider](units/glass_spider.md) 
 
 - [**Glass Spider (Standard)**](units/glass_spider/glass_spider_standard.md) *Sniper (2834)* 
 - [**Glass Spider 2**](units/glass_spider/glass_spider_2.md) *Sniper (2952)* 
 - [**Glass Spider 3**](units/glass_spider/glass_spider_3.md) *Sniper (3065)* 
+- [**Glass Spider 4**](units/glass_spider/glass_spider_4.md) *Sniper (3148)* 
 
 #### [Grand Dragon](units/grand_dragon.md) 
 
@@ -5783,12 +5780,12 @@
 - [**Executioner L**](units/executioner/executioner_l.md) *Sniper (3119)* 
 - [**Executioner T**](units/executioner/executioner_t.md) *Sniper (3142)* `ECM` 
 
-#### [Gladiator-B (Executioner-B)](units/gladiator-b_executioner-b.md) 
+#### [Executioner-B](units/executioner-b.md) 
 
-- [**Gladiator-B (Executioner-B) Prime**](units/gladiator-b_executioner-b/gladiator-b_executioner-b_prime.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) A**](units/gladiator-b_executioner-b/gladiator-b_executioner-b_a.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) B**](units/gladiator-b_executioner-b/gladiator-b_executioner-b_b.md) *Sniper (2873)* 
-- [**Gladiator-B (Executioner-B) C**](units/gladiator-b_executioner-b/gladiator-b_executioner-b_c.md) *Sniper (2873)* 
+- [**Executioner-B Prime**](units/executioner-b/executioner-b_prime.md) *Juggernaut (2873)* 
+- [**Executioner-B A**](units/executioner-b/executioner-b_a.md) *Juggernaut (2873)* 
+- [**Executioner-B B**](units/executioner-b/executioner-b_b.md) *Sniper (2873)* 
+- [**Executioner-B C**](units/executioner-b/executioner-b_c.md) *Sniper (2873)* 
 
 #### [Hauptmann](units/hauptmann.md) 
 
@@ -5983,9 +5980,9 @@
 - [**Bane 6**](units/bane/bane_6.md) *Sniper (3110)* `ECM` 
 - [**Bane 7**](units/bane/bane_7.md) *Sniper (3122)* 
 
-#### [Behemoth (Stone Rhino)](units/behemoth_stone_rhino.md) 
+#### [Behemoth](units/behemoth.md) 
 
-- [**Behemoth (Stone Rhino) BHN-6H**](units/behemoth_stone_rhino/behemoth_stone_rhino_bhn-6h.md) *Undefined (3004)* `Unique` 
+- [**Behemoth BHN-6H**](units/behemoth/behemoth_bhn-6h.md) *Undefined (3004)* `Unique` 
 
 #### [Berserker](units/berserker.md) 
 

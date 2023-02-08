@@ -160,9 +160,9 @@
 
 - [**Opossum OPO-2 SalvageMech**](../../../units/opossum/opossum_opo-2_salvagemech.md) *Undefined (3145)* `Active Probe` , `IndustrialMech` 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 #### [Tarantula](../../../units/tarantula.md) 
 

@@ -70,9 +70,9 @@
 - [**Mongoose MON-76**](../../../units/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM` 
 - [**Mongoose MON-86**](../../../units/mongoose/mongoose_mon-86.md) *Striker (3078)* `Active Probe` 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 #### [Solitaire](../../../units/solitaire.md) 
 
@@ -650,12 +650,12 @@
 - [**Executioner J**](../../../units/executioner/executioner_j.md) *Juggernaut (3104)* 
 - [**Executioner L**](../../../units/executioner/executioner_l.md) *Sniper (3119)* 
 
-#### [Gladiator-B (Executioner-B)](../../../units/gladiator-b_executioner-b.md) 
+#### [Executioner-B](../../../units/executioner-b.md) 
 
-- [**Gladiator-B (Executioner-B) Prime**](../../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_prime.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) A**](../../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_a.md) *Juggernaut (2873)* 
-- [**Gladiator-B (Executioner-B) B**](../../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_b.md) *Sniper (2873)* 
-- [**Gladiator-B (Executioner-B) C**](../../../units/gladiator-b_executioner-b/gladiator-b_executioner-b_c.md) *Sniper (2873)* 
+- [**Executioner-B Prime**](../../../units/executioner-b/executioner-b_prime.md) *Juggernaut (2873)* 
+- [**Executioner-B A**](../../../units/executioner-b/executioner-b_a.md) *Juggernaut (2873)* 
+- [**Executioner-B B**](../../../units/executioner-b/executioner-b_b.md) *Sniper (2873)* 
+- [**Executioner-B C**](../../../units/executioner-b/executioner-b_c.md) *Sniper (2873)* 
 
 ### 100 Tons 
 

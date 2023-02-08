@@ -94,9 +94,9 @@
 - [**Mist Lynx K**](../../../units/mist_lynx/mist_lynx_k.md) *Scout (3112)* `Active Probe` 
 - [**Mist Lynx L**](../../../units/mist_lynx/mist_lynx_l.md) *Scout (3124)* `Active Probe` , `ECM` 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 ### 30 Tons 
 

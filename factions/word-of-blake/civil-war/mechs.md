@@ -85,9 +85,9 @@
 - [**Nexus II NXS2-A**](../../../units/nexus_ii/nexus_ii_nxs2-a.md) *Scout (3066)* `C3i` 
 - [**Nexus II NXS2-B**](../../../units/nexus_ii/nexus_ii_nxs2-b.md) *Scout (3067)* `Active Probe` , `C3i` , `ECM` , `Stealth` , `TAG` 
 
-#### [Peacekeeper](../../../units/peacekeeper.md) 
+#### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
-- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
+- [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
 
 #### [Tarantula](../../../units/tarantula.md) 
 

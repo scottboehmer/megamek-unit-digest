@@ -64,7 +64,7 @@
 - **Battle Value:** 2508 
 - [*More Info*](glass_spider/glass_spider_3.md) 
 
-## Galahad (Glass Spider) 4 
+## Glass Spider 4 "Galahad" 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3148) 
@@ -85,5 +85,5 @@
   - Multi-Trac 
 - **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8131) 
 - **Battle Value:** 2309 
-- [*More Info*](galahad_glass_spider/galahad_glass_spider_4.md) 
+- [*More Info*](glass_spider/glass_spider_4.md) 
 
