@@ -5,7 +5,7 @@
 ## Drillson Heavy Hover Tank (ERLL) 
 
 - **Role:** Sniper 
-- **Tech Base:** Inner Sphere (3039) 
+- **Tech Base:** Inner Sphere (3045) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 9 / 14, Fusion 
 - **Armor:** 96 
@@ -15,7 +15,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/929) 
+- **Sources:** Rec Guide:ilClan #32 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/929) 
 - **Battle Value:** 960 
 
 ## Availability 

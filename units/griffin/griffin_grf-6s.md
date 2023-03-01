@@ -22,6 +22,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307) 
 - **Battle Value:** 1781 
 

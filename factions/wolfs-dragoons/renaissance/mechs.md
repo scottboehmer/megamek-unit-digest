@@ -328,7 +328,7 @@
 
 #### [Behemoth](../../../units/behemoth.md) 
 
-- [**Behemoth BHN-6H**](../../../units/behemoth/behemoth_bhn-6h.md) *Undefined (3004)* `Unique` 
+- [**Behemoth BHN-6H**](../../../units/behemoth/behemoth_bhn-6h.md) *Juggernaut (3004)* `Unique` 
 
 #### [Imp](../../../units/imp.md) 
 

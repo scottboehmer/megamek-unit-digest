@@ -18,8 +18,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
-  - Ubiquitous (Inner Sphere) 
-  - Battlefist (Left Arm) 
+  - Ubiquitous 
+  - Battlefists 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436) 
 - **Battle Value:** 1560 
 

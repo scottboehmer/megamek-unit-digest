@@ -90,9 +90,9 @@
 - [**Corsair CSR-V14**](../../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
 - [**Corsair CSR-V18**](../../../units/corsair/corsair_csr-v18.md) *Fire Support (3069)* 
 
-#### [Hellcat II](../../../units/hellcat_ii.md) 
+#### [Hellcat II Aerospace Fighter](../../../units/hellcat_ii_aerospace_fighter.md) 
 
-- [**Hellcat II HCT-215**](../../../units/hellcat_ii/hellcat_ii_hct-215.md) *Fire Support (3070)* `Active Probe` 
+- [**Hellcat II HCT-215**](../../../units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-215.md) *Fire Support (3070)* `Active Probe` 
 
 #### [Lancer](../../../units/lancer.md) 
 
@@ -129,9 +129,9 @@
 
 - [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Attack Fighter (2703)* 
 
-#### [Hellcat](../../../units/hellcat.md) 
+#### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
-- [**Hellcat HCT-213**](../../../units/hellcat/hellcat_hct-213.md) *Dogfighter (2671)* 
+- [**Hellcat HCT-213**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213.md) *Dogfighter (2671)* 
 
 #### [Stingray](../../../units/stingray.md) 
 

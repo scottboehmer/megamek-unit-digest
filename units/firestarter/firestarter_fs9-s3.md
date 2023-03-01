@@ -19,7 +19,9 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
-  - Cowl 
+  - Ubiquitous 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5442) 
 - **Battle Value:** 908 
 

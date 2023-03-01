@@ -22,9 +22,9 @@
 
 ### 60 Tons 
 
-#### [Hellcat](../../../units/hellcat.md) 
+#### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
-- [**Hellcat HCT-213S**](../../../units/hellcat/hellcat_hct-213s.md) *Dogfighter (2683)* 
+- [**Hellcat HCT-213S**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213s.md) *Dogfighter (2683)* 
 
 ### 65 Tons 
 

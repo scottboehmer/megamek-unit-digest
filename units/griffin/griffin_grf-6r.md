@@ -18,6 +18,11 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
+  - Jettison-Capable Weapon (RAC/2) 
 - **Sources:** Rec Guide:ilClan #1 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9403) 
 - **Battle Value:** 1515 
 

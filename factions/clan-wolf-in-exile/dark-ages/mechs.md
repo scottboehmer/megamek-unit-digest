@@ -366,6 +366,10 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Hunchback IIC](../../../units/hunchback_iic.md) 
 
 - [**Hunchback IIC (Standard)**](../../../units/hunchback_iic/hunchback_iic_standard.md) *Ambusher (2856)* 
@@ -406,6 +410,10 @@
 #### [Griffin](../../../units/griffin.md) 
 
 - [**Griffin C**](../../../units/griffin/griffin_c.md) *Sniper (3144)* 
+
+#### [Hoplite](../../../units/hoplite.md) 
+
+- [**Hoplite HOP-5C**](../../../units/hoplite/hoplite_hop-5c.md) *Brawler (3138)* 
 
 #### [Mad Cat III](../../../units/mad_cat_iii.md) 
 

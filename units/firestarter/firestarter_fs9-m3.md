@@ -19,8 +19,9 @@
   - TAG 
   - MASC 
 - **Design Quirks:** 
-  - Cowl 
-  - Improved Life Support 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6610) 
 - **Battle Value:** 866 
 

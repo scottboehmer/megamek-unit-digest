@@ -19,6 +19,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1302) 
 - **Battle Value:** 1412 
 

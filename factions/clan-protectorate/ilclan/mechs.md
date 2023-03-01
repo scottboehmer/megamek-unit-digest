@@ -359,6 +359,10 @@
 
 - [**Ghost GST-90**](../../../units/ghost/ghost_gst-90.md) *Striker (3133)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Huntsman](../../../units/huntsman.md) 
 
 - [**Huntsman Prime**](../../../units/huntsman/huntsman_prime.md) *Skirmisher (3049)* `Active Probe` , `TAG` 
@@ -571,6 +575,10 @@
 - [**Nova Cat H**](../../../units/nova_cat/nova_cat_h.md) *Skirmisher (3099)* 
 - [**Nova Cat I**](../../../units/nova_cat/nova_cat_i.md) *Juggernaut (3132)* 
 - [**Nova Cat T**](../../../units/nova_cat/nova_cat_t.md) *Sniper (3142)* 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

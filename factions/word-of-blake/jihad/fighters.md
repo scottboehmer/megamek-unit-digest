@@ -85,10 +85,10 @@
 
 ### 50 Tons 
 
-#### [Hellcat II](../../../units/hellcat_ii.md) 
+#### [Hellcat II Aerospace Fighter](../../../units/hellcat_ii_aerospace_fighter.md) 
 
-- [**Hellcat II HCT-213B**](../../../units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
-- [**Hellcat II HCT-214**](../../../units/hellcat_ii/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
+- [**Hellcat II HCT-213B**](../../../units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
+- [**Hellcat II HCT-214**](../../../units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
 
 #### [Lancer](../../../units/lancer.md) 
 

@@ -246,11 +246,16 @@
 #### [Vulcan](../../../units/vulcan.md) 
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 #### [Watchman](../../../units/watchman.md) 
 
 - [**Watchman WTC-4M**](../../../units/watchman/watchman_wtc-4m.md) *Skirmisher (3055)* 
 - [**Watchman WTC-4DM**](../../../units/watchman/watchman_wtc-4dm.md) *Skirmisher (3063)* 
+
+#### [Whitworth](../../../units/whitworth.md) 
+
+- [**Whitworth WTH-2H**](../../../units/whitworth/whitworth_wth-2h.md) *Brawler (3139)* 
 
 ### 45 Tons 
 
@@ -498,6 +503,11 @@
 #### [MuckRaker](../../../units/muckraker.md) 
 
 - [**MuckRaker GMMM-2 MiningMech**](../../../units/muckraker/muckraker_gmmm-2_miningmech.md) *Undefined (2737)* `IndustrialMech` 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

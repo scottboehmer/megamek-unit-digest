@@ -17,7 +17,7 @@
   - Cargo 
   - Flotation Hull 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/930) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/930) 
 - **Battle Value:** 825 
 
 ## Availability 

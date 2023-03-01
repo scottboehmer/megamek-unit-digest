@@ -12,7 +12,7 @@
 - **Heat Sinks:** 30 (30) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2825) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2825) 
 - **Battle Value:** 1005 
 
 ## Availability 

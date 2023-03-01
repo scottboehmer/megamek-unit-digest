@@ -298,6 +298,7 @@
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
 - [**Vulcan VT-5M**](../../../units/vulcan/vulcan_vt-5m.md) *Striker (3050)* 
 - [**Vulcan VT-6M**](../../../units/vulcan/vulcan_vt-6m.md) *Striker (3069)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 ### 45 Tons 
 
@@ -637,6 +638,11 @@
 #### [MuckRaker](../../../units/muckraker.md) 
 
 - [**MuckRaker GMMM-2 MiningMech**](../../../units/muckraker/muckraker_gmmm-2_miningmech.md) *Undefined (2737)* `IndustrialMech` 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-7**](../../../units/viper/viper_vp-7.md) *Brawler (3124)* `Active Probe` 
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

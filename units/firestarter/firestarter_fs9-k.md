@@ -16,7 +16,7 @@
   - Small Laser × 2 
   - Flamer × 2 
 - **Design Quirks:** 
-  - Cowl 
+  - Ubiquitous 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1097) 
 - **Battle Value:** 763 
 

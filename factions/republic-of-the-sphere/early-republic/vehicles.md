@@ -174,9 +174,9 @@
 - [**Heavy Wheeled APC (Standard)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 - [**Heavy Wheeled APC (WoB)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_wob.md) *Scout (3072)* `Transport:6.0` 
 
-#### [M.A.S.H. Truck](../../../units/m.a.s.h._truck.md) 
+#### [MASH Truck](../../../units/mash_truck.md) 
 
-- [**M.A.S.H. Truck (Standard)**](../../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+- [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
 
 #### [Minion Advanced Tactical Vehicle](../../../units/minion_advanced_tactical_vehicle.md) 
 
@@ -294,6 +294,8 @@
 - [**J. Edgar Light Hover Tank (Flamer)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_flamer.md) *Scout (2793)* 
 - [**J. Edgar Light Hover Tank (MG)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_mg.md) *Scout (2794)* 
 - [**J. Edgar Light Hover Tank (TAG)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_tag.md) *Scout (3053)* `Active Probe` , `TAG` 
+- [**J. Edgar Light Hover Tank (Light PPC)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_light_ppc.md) *Scout (3085)* 
+- [**J. Edgar Light Hover Tank (Chemical)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_chemical.md) *Scout (3088)* 
 
 #### [JI2A1 Attack APC](../../../units/ji2a1_attack_apc.md) 
 
@@ -637,6 +639,7 @@
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
 - [**Drillson Heavy Hover Tank (Sealed)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_sealed.md) *Striker (3076)* 
+- [**Drillson Heavy Hover Tank (MML)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_mml.md) *Undefined (3087)* 
 
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
@@ -969,6 +972,10 @@
 - [**SM2 Heavy Artillery Vehicle (LTC)**](../../../units/sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle_ltc.md) *Sniper (3093)* 
 - [**SM2 Heavy Artillery Vehicle (Standard)**](../../../units/sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle_standard.md) *Missile Boat (3093)* 
 
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank VNL-K65W**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65w.md) *Juggernaut (3063)* 
+
 #### [Zhukov Heavy Tank](../../../units/zhukov_heavy_tank.md) 
 
 - [**Zhukov Heavy Tank (Standard)**](../../../units/zhukov_heavy_tank/zhukov_heavy_tank_standard.md) *Juggernaut (3030)* 
@@ -1050,6 +1057,7 @@
 
 - [**Schrek PPC Carrier (Standard)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_standard.md) *Sniper (2813)* 
 - [**Schrek PPC Carrier (Anti-Infantry)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_anti-infantry.md) *Sniper (2833)* 
+- [**Schrek PPC Carrier (XL)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_xl.md) *Sniper (3058)* 
 - [**Schrek PPC Carrier (Armor)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_armor.md) *Sniper (3072)* 
 - [**Schrek PPC Carrier (C3M)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) *Sniper (3076)* `C3 Main` , `ECM` , `TAG` 
 

@@ -46,9 +46,9 @@
 
 - [**Heavy Transport B1 (Standard)**](../../../units/heavy_transport_b1/heavy_transport_b1_standard.md) *Undefined (2370)* `Transport:7.0` 
 
-#### [M.A.S.H. Truck](../../../units/m.a.s.h._truck.md) 
+#### [MASH Truck](../../../units/mash_truck.md) 
 
-- [**M.A.S.H. Truck (Standard)**](../../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+- [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
 
 ### 30 Tons 
 

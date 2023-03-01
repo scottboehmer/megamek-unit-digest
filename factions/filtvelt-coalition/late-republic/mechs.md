@@ -576,6 +576,11 @@
 
 - [**MuckRaker GMMM-2 MiningMech**](../../../units/muckraker/muckraker_gmmm-2_miningmech.md) *Undefined (2737)* `IndustrialMech` 
 
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
+
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 

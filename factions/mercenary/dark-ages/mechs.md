@@ -668,6 +668,11 @@
 
 - [**Vulcan VT-5S**](../../../units/vulcan/vulcan_vt-5s.md) *Striker (3050)* 
 - [**Vulcan VT-5Sr**](../../../units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
+
+#### [Whitworth](../../../units/whitworth.md) 
+
+- [**Whitworth WTH-2H**](../../../units/whitworth/whitworth_wth-2h.md) *Brawler (3139)* 
 
 ### 45 Tons 
 
@@ -924,6 +929,10 @@
 - [**Hel HL-1**](../../../units/hel/hel_hl-1.md) *Undefined (3092)* 
 - [**Hel HL-2**](../../../units/hel/hel_hl-2.md) *Skirmisher (3092)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Hunchback](../../../units/hunchback.md) 
 
 - [**Hunchback HBK-5N**](../../../units/hunchback/hunchback_hbk-5n.md) *Juggernaut (3057)* 
@@ -1072,6 +1081,10 @@
 - [**Grim Reaper GRM-R-PR29**](../../../units/grim_reaper/grim_reaper_grm-r-pr29.md) *Skirmisher (3052)* 
 - [**Grim Reaper GRM-R-PR30**](../../../units/grim_reaper/grim_reaper_grm-r-pr30.md) *Skirmisher (3066)* `C3 Support` 
 - [**Grim Reaper GRM-R-PR31**](../../../units/grim_reaper/grim_reaper_grm-r-pr31.md) *Skirmisher (3066)* `C3 Support` 
+
+#### [Hoplite](../../../units/hoplite.md) 
+
+- [**Hoplite HOP-5C**](../../../units/hoplite/hoplite_hop-5c.md) *Brawler (3138)* 
 
 #### [Lineholder](../../../units/lineholder.md) 
 
@@ -1558,6 +1571,14 @@
 
 - [**Uni ATAE-70 CargoMech**](../../../units/uni/uni_atae-70_cargomech.md) *Ambusher (3050)* `IndustrialMech` 
 - [**Uni ATAE-70M MilitiaMech**](../../../units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
+- [**Viper VP-7**](../../../units/viper/viper_vp-7.md) *Brawler (3124)* `Active Probe` 
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
+- [**Viper VP-9**](../../../units/viper/viper_vp-9.md) *Brawler (3147)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

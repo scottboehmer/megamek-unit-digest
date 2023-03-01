@@ -16,7 +16,9 @@
   - Flamer × 4 
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
-  - Cowl 
+  - Ubiquitous 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1096) 
 - **Battle Value:** 694 
 

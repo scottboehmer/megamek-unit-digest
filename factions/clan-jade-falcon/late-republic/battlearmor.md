@@ -70,6 +70,10 @@
 
 - [**Gnome Battle Armor (Standard)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_standardsqd5.md) *Juggernaut (3056)* 
 
+#### [Stormbird Battle Armor](../../../units/stormbird_battle_armor.md) 
+
+- [**Stormbird Battle Armor (Jade Falcon)(Sqd5)**](../../../units/stormbird_battle_armor/stormbird_battle_armor_jade_falconsqd5.md) *Ambusher (3092)* 
+
 ### 2 Tons 
 
 #### [Ironhold Assault Battle Armor](../../../units/ironhold_assault_battle_armor.md) 

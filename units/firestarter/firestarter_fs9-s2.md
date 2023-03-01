@@ -19,7 +19,9 @@
   - Anti-Missile System (ammo: 12) 
   - Beagle Active Probe 
 - **Design Quirks:** 
-  - Cowl 
+  - Ubiquitous 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5441) 
 - **Battle Value:** 842 
 

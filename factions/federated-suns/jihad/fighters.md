@@ -72,9 +72,9 @@
 - [**Corsair (Bob) 'Roswell'**](../../../units/corsair/corsair_bob_roswell.md) *Dogfighter (3070)* `Unique` 
 - [**Corsair CSR-X12 Rigid Night**](../../../units/corsair/corsair_csr-x12_rigid_night.md) *Fast Dogfighter (3074)* `Unique` 
 
-#### [Hellcat II](../../../units/hellcat_ii.md) 
+#### [Hellcat II Aerospace Fighter](../../../units/hellcat_ii_aerospace_fighter.md) 
 
-- [**Hellcat II HCT-212**](../../../units/hellcat_ii/hellcat_ii_hct-212.md) *Fast Dogfighter (2838)* 
+- [**Hellcat II HCT-212**](../../../units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-212.md) *Fast Dogfighter (2838)* 
 
 #### [Lightning Aerospace Fighter](../../../units/lightning_aerospace_fighter.md) 
 
@@ -83,11 +83,11 @@
 
 ### 60 Tons 
 
-#### [Hellcat](../../../units/hellcat.md) 
+#### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
-- [**Hellcat HCT-213R**](../../../units/hellcat/hellcat_hct-213r.md) *Dogfighter (2675)* 
-- [**Hellcat HCT-213S**](../../../units/hellcat/hellcat_hct-213s.md) *Dogfighter (2683)* 
-- [**Hellcat HCT-213D**](../../../units/hellcat/hellcat_hct-213d.md) *Dogfighter (2701)* 
+- [**Hellcat HCT-213R**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213r.md) *Dogfighter (2675)* 
+- [**Hellcat HCT-213S**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213s.md) *Dogfighter (2683)* 
+- [**Hellcat HCT-213D**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213d.md) *Dogfighter (2701)* 
 
 #### [Stingray](../../../units/stingray.md) 
 

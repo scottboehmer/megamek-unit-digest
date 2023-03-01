@@ -17,7 +17,8 @@
 - **Equipment:** 
   - C3i 
 - **Design Quirks:** 
-  - Cowl 
+  - Ubiquitous 
+  - Exposed Weapon Linkage (Flamer) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1094) 
 - **Battle Value:** 668 
 

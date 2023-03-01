@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3392) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3392) 
 - **Battle Value:** 478 
 
 ## Availability 

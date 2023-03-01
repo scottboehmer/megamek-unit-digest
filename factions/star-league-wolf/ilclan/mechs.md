@@ -367,6 +367,10 @@
 
 - [**Firestorm (Standard)**](../../../units/firestorm/firestorm_standard.md) *Skirmisher (3145)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Hunchback](../../../units/hunchback.md) 
 
 - [**Hunchback C**](../../../units/hunchback/hunchback_c.md) *Skirmisher (3065)* 
@@ -772,6 +776,11 @@
 - [**Alpha Wolf A**](../../../units/alpha_wolf/alpha_wolf_a.md) *Brawler (3150)* `ECM` , `Stealth` 
 - [**Alpha Wolf B**](../../../units/alpha_wolf/alpha_wolf_b.md) *Brawler (3150)* `ECM` , `Stealth` 
 - [**Alpha Wolf C**](../../../units/alpha_wolf/alpha_wolf_c.md) *Sniper (3150)* `ECM` , `Stealth` 
+
+#### [Blood Asp](../../../units/blood_asp.md) 
+
+- [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
+- [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 
 #### [Highlander IIC](../../../units/highlander_iic.md) 
 

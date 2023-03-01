@@ -64,3 +64,17 @@
 - **Battle Value:** 958 
 - [*More Info*](srm_carrier/srm_carrier_wob.md) 
 
+## SRM Carrier C 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3106) 
+- **Chassis:** 60 tons Tracked 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 60 (Hardened) 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - SRM 6 × 10 (ammo: 60) 
+- **Sources:** Rec Guide:ilClan #30 - Late Republc , [Master Unit List](http://masterunitlist.info/Unit/Details/9425) 
+- **Battle Value:** 936 
+- [*More Info*](srm_carrier/srm_carrier_c.md) 
+

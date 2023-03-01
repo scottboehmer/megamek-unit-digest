@@ -591,6 +591,11 @@
 
 - [**Thunder THR-1L**](../../../units/thunder/thunder_thr-1l.md) *Skirmisher (3055)* 
 
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
+
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 

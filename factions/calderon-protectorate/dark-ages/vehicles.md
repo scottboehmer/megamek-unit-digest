@@ -135,9 +135,9 @@
 - [**Heavy Wheeled APC (SRM)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Wheeled APC (Standard)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
-#### [M.A.S.H. Truck](../../../units/m.a.s.h._truck.md) 
+#### [MASH Truck](../../../units/mash_truck.md) 
 
-- [**M.A.S.H. Truck (Standard)**](../../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+- [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
 
 #### [Packrat LRPV](../../../units/packrat_lrpv.md) 
 
@@ -184,6 +184,7 @@
 - [**J. Edgar Light Hover Tank (Flamer)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_flamer.md) *Scout (2793)* 
 - [**J. Edgar Light Hover Tank (MG)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_mg.md) *Scout (2794)* 
 - [**J. Edgar Light Hover Tank (ICE)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_ice.md) *Scout (2854)* 
+- [**J. Edgar Light Hover Tank (Light PPC)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_light_ppc.md) *Scout (3085)* 
 
 #### [Scorpion Light Tank](../../../units/scorpion_light_tank.md) 
 
@@ -379,6 +380,7 @@
 - [**Vedette Medium Tank (Ultra)**](../../../units/vedette_medium_tank/vedette_medium_tank_ultra.md) *Sniper (3054)* 
 - [**Vedette Medium Tank (LB-X)**](../../../units/vedette_medium_tank/vedette_medium_tank_lb-x.md) *Sniper (3069)* 
 - [**Vedette Medium Tank (Cell)**](../../../units/vedette_medium_tank/vedette_medium_tank_cell.md) *Sniper (3075)* `C3 Support` 
+- [**Vedette Medium Tank (Armor)**](../../../units/vedette_medium_tank/vedette_medium_tank_armor.md) *Brawler (3111)* 
 
 ### 55 Tons 
 
@@ -511,6 +513,10 @@
 #### [Rhino Fire Support Tank](../../../units/rhino_fire_support_tank.md) 
 
 - [**Rhino Fire Support Tank (Standard)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_standard.md) *Missile Boat (2669)* 
+
+#### [Schrek AC Carrier](../../../units/schrek_ac_carrier.md) 
+
+- [**Schrek AC Carrier (Lothian)**](../../../units/schrek_ac_carrier/schrek_ac_carrier_lothian.md) *Sniper (3140)* 
 
 #### [Schrek PPC Carrier](../../../units/schrek_ppc_carrier.md) 
 

@@ -107,9 +107,9 @@
 - [**Heavy Wheeled APC (SRM)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Wheeled APC (Standard)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
-#### [M.A.S.H. Truck](../../../units/m.a.s.h._truck.md) 
+#### [MASH Truck](../../../units/mash_truck.md) 
 
-- [**M.A.S.H. Truck (Standard)**](../../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+- [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
 
 #### [MIT23 MASH Vehicle](../../../units/mit23_mash_vehicle.md) 
 
@@ -289,6 +289,8 @@
 
 - [**Drillson Heavy Hover Tank (Streak)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_streak.md) *Striker (3053)* 
 - [**Drillson Heavy Hover Tank (Sealed)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_sealed.md) *Striker (3076)* 
+- [**Drillson Heavy Hover Tank C**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_c.md) *Striker (3136)* 
+- [**Drillson Heavy Hover Tank C 2**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_c_2.md) *Striker (3138)* 
 
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
@@ -362,6 +364,11 @@
 
 - [**Oro Heavy Tank (Standard)**](../../../units/oro_heavy_tank/oro_heavy_tank_standard.md) *Brawler (2844)* 
 
+#### [Pike Support Vehicle](../../../units/pike_support_vehicle.md) 
+
+- [**Pike Support Vehicle (Clan)**](../../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
+- [**Pike Support Vehicle (Plasma)**](../../../units/pike_support_vehicle/pike_support_vehicle_plasma.md) *Sniper (3145)* 
+
 #### [Praetorian Mobile Strategic Command HQ](../../../units/praetorian_mobile_strategic_command_hq.md) 
 
 - [**Praetorian Mobile Strategic Command HQ (Standard)**](../../../units/praetorian_mobile_strategic_command_hq/praetorian_mobile_strategic_command_hq_standard.md) *Scout (3091)* 
@@ -369,6 +376,7 @@
 #### [SRM Carrier](../../../units/srm_carrier.md) 
 
 - [**SRM Carrier (3054 Upgrade)**](../../../units/srm_carrier/srm_carrier_3054_upgrade.md) *Ambusher (3054)* 
+- [**SRM Carrier C**](../../../units/srm_carrier/srm_carrier_c.md) *Missile Boat (3106)* 
 
 ### 65 Tons 
 

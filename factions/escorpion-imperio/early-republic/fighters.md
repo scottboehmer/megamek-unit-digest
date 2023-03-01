@@ -81,9 +81,9 @@
 
 - [**Corsair CSR-V12**](../../../units/corsair/corsair_csr-v12.md) *Dogfighter (2779)* 
 
-#### [Hellcat II](../../../units/hellcat_ii.md) 
+#### [Hellcat II Aerospace Fighter](../../../units/hellcat_ii_aerospace_fighter.md) 
 
-- [**Hellcat II HCT-213B**](../../../units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
+- [**Hellcat II HCT-213B**](../../../units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
 
 #### [Lightning Aerospace Fighter](../../../units/lightning_aerospace_fighter.md) 
 

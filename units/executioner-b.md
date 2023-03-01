@@ -16,6 +16,9 @@
   - Ultra AC/2 × 2 (ammo: 90) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Poor Performance 
 - **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8463) 
 - **Battle Value:** 2721 
 - [*More Info*](executioner-b/executioner-b_prime.md) 
@@ -35,6 +38,9 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Poor Performance 
 - **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8464) 
 - **Battle Value:** 2194 
 - [*More Info*](executioner-b/executioner-b_a.md) 
@@ -54,6 +60,9 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Poor Performance 
 - **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8465) 
 - **Battle Value:** 3157 
 - [*More Info*](executioner-b/executioner-b_b.md) 
@@ -73,6 +82,9 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Poor Performance 
 - **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8466) 
 - **Battle Value:** 2979 
 - [*More Info*](executioner-b/executioner-b_c.md) 

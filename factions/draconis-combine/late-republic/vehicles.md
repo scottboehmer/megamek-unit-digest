@@ -150,9 +150,9 @@
 - [**Kamisori Light Tank C**](../../../units/kamisori_light_tank/kamisori_light_tank_c.md) *Scout (3103)* 
 - [**Kamisori Light Tank R**](../../../units/kamisori_light_tank/kamisori_light_tank_r.md) *Scout (3103)* 
 
-#### [M.A.S.H. Truck](../../../units/m.a.s.h._truck.md) 
+#### [MASH Truck](../../../units/mash_truck.md) 
 
-- [**M.A.S.H. Truck (Standard)**](../../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+- [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
 
 #### [MIT23 MASH Vehicle](../../../units/mit23_mash_vehicle.md) 
 
@@ -241,6 +241,8 @@
 - [**J. Edgar Light Hover Tank (MG)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_mg.md) *Scout (2794)* 
 - [**J. Edgar Light Hover Tank (Kurita)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_kurita.md) *Striker (3053)* `C3 Support` 
 - [**J. Edgar Light Hover Tank (TAG)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_tag.md) *Scout (3053)* `Active Probe` , `TAG` 
+- [**J. Edgar Light Hover Tank (Light PPC)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_light_ppc.md) *Scout (3085)* 
+- [**J. Edgar Light Hover Tank (Chemical)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_chemical.md) *Scout (3088)* 
 
 #### [Kestrel VTOL](../../../units/kestrel_vtol.md) 
 
@@ -515,6 +517,7 @@
 
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
+- [**Drillson Heavy Hover Tank (MML)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_mml.md) *Undefined (3087)* 
 
 #### [JES I Tactical Missile Carrier](../../../units/jes_i_tactical_missile_carrier.md) 
 
@@ -567,6 +570,7 @@
 - [**Vedette Medium Tank (RAC)**](../../../units/vedette_medium_tank/vedette_medium_tank_rac.md) *Striker (3067)* 
 - [**Vedette Medium Tank (Light Gauss)**](../../../units/vedette_medium_tank/vedette_medium_tank_light_gauss.md) *Sniper (3068)* 
 - [**Vedette Medium Tank (Cell)**](../../../units/vedette_medium_tank/vedette_medium_tank_cell.md) *Sniper (3075)* `C3 Support` 
+- [**Vedette Medium Tank (Armor)**](../../../units/vedette_medium_tank/vedette_medium_tank_armor.md) *Brawler (3111)* 
 
 #### [Zibler Fast Strike Tank](../../../units/zibler_fast_strike_tank.md) 
 
@@ -806,8 +810,10 @@
 #### [Schrek PPC Carrier](../../../units/schrek_ppc_carrier.md) 
 
 - [**Schrek PPC Carrier (Standard)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_standard.md) *Sniper (2813)* 
+- [**Schrek PPC Carrier (XL)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_xl.md) *Sniper (3058)* 
 - [**Schrek PPC Carrier (Armor)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_armor.md) *Sniper (3072)* 
 - [**Schrek PPC Carrier (C3M)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) *Sniper (3076)* `C3 Main` , `ECM` , `TAG` 
+- [**Schrek PPC Carrier (LB-X)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_lb-x.md) *Sniper (3120)* 
 
 #### [Sniper Artillery](../../../units/sniper_artillery.md) 
 

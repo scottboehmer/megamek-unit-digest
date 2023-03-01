@@ -654,6 +654,7 @@
 #### [Vulcan](../../../units/vulcan.md) 
 
 - [**Vulcan VT-5Sr**](../../../units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 ### 45 Tons 
 
@@ -822,6 +823,10 @@
 
 - [**Ghost GST-10**](../../../units/ghost/ghost_gst-10.md) *Sniper (3077)* `Active Probe` , `ECM` , `Stealth` 
 - [**Ghost GST-11**](../../../units/ghost/ghost_gst-11.md) *Sniper (3082)* `Active Probe` , `ECM` 
+
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
 
 #### [Hunchback](../../../units/hunchback.md) 
 
@@ -1430,6 +1435,12 @@
 - [**Summoner AA**](../../../units/summoner/summoner_aa.md) *Sniper (3086)* 
 - [**Summoner T**](../../../units/summoner/summoner_t.md) *Sniper (3142)* 
 - [**Summoner J**](../../../units/summoner/summoner_j.md) *Skirmisher (3148)* `Active Probe` 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

@@ -17,7 +17,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2017) 
+- **Sources:** TRO:3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2017) 
 - **Battle Value:** 1008 
 
 ## Availability 

@@ -404,6 +404,10 @@
 - [**Strider SR1-OH**](../../../units/strider/strider_sr1-oh.md) *Sniper (3099)* 
 - [**Strider SR1-OM**](../../../units/strider/strider_sr1-om.md) *Scout (3135)* `C3 Main` , `TAG` 
 
+#### [Vulcan](../../../units/vulcan.md) 
+
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
+
 ### 45 Tons 
 
 #### [Firestarter OmniMech](../../../units/firestarter_omnimech.md) 
@@ -524,6 +528,10 @@
 
 - [**Ghost GST-10**](../../../units/ghost/ghost_gst-10.md) *Sniper (3077)* `Active Probe` , `ECM` , `Stealth` 
 - [**Ghost GST-11**](../../../units/ghost/ghost_gst-11.md) *Sniper (3082)* `Active Probe` , `ECM` 
+
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
 
 #### [Huron Warrior](../../../units/huron_warrior.md) 
 
@@ -934,6 +942,11 @@
 - [**Thunder THR-3L**](../../../units/thunder/thunder_thr-3l.md) *Missile Boat (3066)* `ECM` , `Stealth` 
 - [**Thunder THR-C4**](../../../units/thunder/thunder_thr-c4.md) *Skirmisher (3083)* 
 
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-7**](../../../units/viper/viper_vp-7.md) *Brawler (3124)* `Active Probe` 
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
+
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-7M**](../../../units/warhammer/warhammer_whm-7m.md) *Brawler (3047)* 
@@ -1216,6 +1229,7 @@
 - [**Pillager PLG-4Z**](../../../units/pillager/pillager_plg-4z.md) *Sniper (3064)* `ECM` , `Stealth` 
 - [**Pillager PLG-5L**](../../../units/pillager/pillager_plg-5l.md) *Missile Boat (3068)* `ECM` 
 - [**Pillager PLG-5Z**](../../../units/pillager/pillager_plg-5z.md) *Sniper (3070)* `ECM` , `Stealth` 
+- [**Pillager PLG-6Z**](../../../units/pillager/pillager_plg-6z.md) *Juggernaut (3142)* 
 
 #### [Xanthos](../../../units/xanthos.md) 
 

@@ -360,6 +360,7 @@
 - [**Vulcan VL-5T**](../../../units/vulcan/vulcan_vl-5t.md) *Striker (2778)* 
 - [**Vulcan VT-5S**](../../../units/vulcan/vulcan_vt-5s.md) *Striker (3050)* 
 - [**Vulcan VT-5Sr**](../../../units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 #### [Whitworth](../../../units/whitworth.md) 
 

@@ -477,6 +477,24 @@
 - [**Buraq Fast Battle Armor (Support)(Sqd5)**](units/buraq_fast_battle_armor/buraq_fast_battle_armor_supportsqd5.md) *Scout (3104)* `TAG` 
 - [**Buraq Fast Battle Armor (Support)(Sqd6)**](units/buraq_fast_battle_armor/buraq_fast_battle_armor_supportsqd6.md) *Scout (3104)* `TAG` 
 
+#### [Callisto Battle Armor](units/callisto_battle_armor.md) 
+
+- [**Callisto Battle Armor A (Bearhunter)(Sqd4)**](units/callisto_battle_armor/callisto_battle_armor_a_bearhuntersqd4.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (Bearhunter)(Sqd5)**](units/callisto_battle_armor/callisto_battle_armor_a_bearhuntersqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (Bearhunter)(Sqd6)**](units/callisto_battle_armor/callisto_battle_armor_a_bearhuntersqd6.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (ER Laser)(Sqd4)**](units/callisto_battle_armor/callisto_battle_armor_a_er_lasersqd4.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (ER Laser)(Sqd5)**](units/callisto_battle_armor/callisto_battle_armor_a_er_lasersqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (ER Laser)(Sqd6)**](units/callisto_battle_armor/callisto_battle_armor_a_er_lasersqd6.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (HMG)(Sqd4)**](units/callisto_battle_armor/callisto_battle_armor_a_hmgsqd4.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (HMG)(Sqd5)**](units/callisto_battle_armor/callisto_battle_armor_a_hmgsqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (HMG)(Sqd6)**](units/callisto_battle_armor/callisto_battle_armor_a_hmgsqd6.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (MRR)(Sqd4)**](units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd4.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (MRR)(Sqd5)**](units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (MRR)(Sqd6)**](units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd6.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (SRM)(Sqd4)**](units/callisto_battle_armor/callisto_battle_armor_b_srmsqd4.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (SRM)(Sqd5)**](units/callisto_battle_armor/callisto_battle_armor_b_srmsqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (SRM)(Sqd6)**](units/callisto_battle_armor/callisto_battle_armor_b_srmsqd6.md) *Undefined (3147)* 
+
 #### [Cavalier Battle Armor](units/cavalier_battle_armor.md) 
 
 - [**Cavalier Battle Armor (Flamer)(Sqd4)**](units/cavalier_battle_armor/cavalier_battle_armor_flamersqd4.md) *Ambusher (3058)* 
@@ -706,6 +724,9 @@
 - [**IS Standard Battle Armor 'Hive'(Sqd4)**](units/is_standard_battle_armor/is_standard_battle_armor_hivesqd4.md) *Ambusher (3076)* `C3 Support` , `Unique` 
 - [**IS Standard Battle Armor 'Hive'(Sqd5)**](units/is_standard_battle_armor/is_standard_battle_armor_hivesqd5.md) *Ambusher (3076)* `C3 Support` 
 - [**IS Standard Battle Armor 'Hive'(Sqd6)**](units/is_standard_battle_armor/is_standard_battle_armor_hivesqd6.md) *Ambusher (3076)* `C3 Support` 
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+- [**IS Standard Battle Armor (Magnetic)(Sqd5)**](units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd5.md) *Undefined (3141)* 
+- [**IS Standard Battle Armor (Magnetic)(Sqd6)**](units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd6.md) *Undefined (3141)* 
 - [**IS Standard Battle Armor (Baka) (LRR)(Sqd4)**](units/is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd4.md) *Ambusher (3150)* 
 - [**IS Standard Battle Armor (Baka) (LRR)(Sqd5)**](units/is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd5.md) *Undefined (3150)* 
 - [**IS Standard Battle Armor (Baka) (LRR)(Sqd6)**](units/is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd6.md) *Undefined (3150)* 
@@ -1173,6 +1194,15 @@
 - [**Sloth Battle Armor 'Huntsman'(Sqd4)**](units/sloth_battle_armor/sloth_battle_armor_huntsmansqd4.md) *Scout (3093)* `Stealth` 
 - [**Sloth Battle Armor 'Huntsman'(Sqd5)**](units/sloth_battle_armor/sloth_battle_armor_huntsmansqd5.md) *Scout (3093)* `Stealth` 
 - [**Sloth Battle Armor 'Huntsman'(Sqd6)**](units/sloth_battle_armor/sloth_battle_armor_huntsmansqd6.md) *Scout (3093)* `Stealth` 
+
+#### [Stormbird Battle Armor](units/stormbird_battle_armor.md) 
+
+- [**Stormbird Battle Armor (Jade Falcon)(Sqd4)**](units/stormbird_battle_armor/stormbird_battle_armor_jade_falconsqd4.md) *Ambusher (3092)* 
+- [**Stormbird Battle Armor (Jade Falcon)(Sqd5)**](units/stormbird_battle_armor/stormbird_battle_armor_jade_falconsqd5.md) *Ambusher (3092)* 
+- [**Stormbird Battle Armor (Jade Falcon)(Sqd6)**](units/stormbird_battle_armor/stormbird_battle_armor_jade_falconsqd6.md) *Ambusher (3092)* 
+- [**Stormbird Battle Armor (Sqd4)**](units/stormbird_battle_armor/stormbird_battle_armor_sqd4.md) *Ambusher (3092)* 
+- [**Stormbird Battle Armor (Sqd5)**](units/stormbird_battle_armor/stormbird_battle_armor_sqd5.md) *Ambusher (3092)* 
+- [**Stormbird Battle Armor (Sqd6)**](units/stormbird_battle_armor/stormbird_battle_armor_sqd6.md) *Ambusher (3092)* 
 
 #### [Taranis Battle Armor](units/taranis_battle_armor.md) 
 

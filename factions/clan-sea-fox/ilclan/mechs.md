@@ -426,6 +426,10 @@
 
 - [**Firestorm (Standard)**](../../../units/firestorm/firestorm_standard.md) *Skirmisher (3145)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Hunchback IIC](../../../units/hunchback_iic.md) 
 
 - [**Hunchback IIC 4**](../../../units/hunchback_iic/hunchback_iic_4.md) *Brawler (3075)* `ECM` 
@@ -676,6 +680,10 @@
 - [**Summoner T**](../../../units/summoner/summoner_t.md) *Sniper (3142)* 
 - [**Summoner J**](../../../units/summoner/summoner_j.md) *Skirmisher (3148)* `Active Probe` 
 
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-9**](../../../units/viper/viper_vp-9.md) *Brawler (3147)* `Active Probe` 
+
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
@@ -810,6 +818,7 @@
 #### [Shogun](../../../units/shogun.md) 
 
 - [**Shogun C**](../../../units/shogun/shogun_c.md) *Missile Boat (2850)* 
+- [**Shogun C 3**](../../../units/shogun/shogun_c_3.md) *Sniper (3139)* 
 
 #### [Stalker](../../../units/stalker.md) 
 

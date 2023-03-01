@@ -30,6 +30,7 @@
 - [**IS Standard Battle Armor (MG)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd5.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (SRM)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd5.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (LRR)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd5.md) *Ambusher (3061)* 
+- [**IS Standard Battle Armor (Magnetic)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd5.md) *Undefined (3141)* 
 
 #### [Leonidas Battle Armor](../../../units/leonidas_battle_armor.md) 
 

@@ -398,6 +398,10 @@
 
 - [**Firestorm (Standard)**](../../../units/firestorm/firestorm_standard.md) *Skirmisher (3145)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Hunchback IIC](../../../units/hunchback_iic.md) 
 
 - [**Hunchback IIC 4**](../../../units/hunchback_iic/hunchback_iic_4.md) *Brawler (3075)* `ECM` 

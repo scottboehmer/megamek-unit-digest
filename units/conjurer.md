@@ -63,6 +63,27 @@
 - **Battle Value:** 2097 
 - [*More Info*](conjurer/conjurer_2.md) 
 
+## Conjurer 6 "Hellhound" 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Clan (3063) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 163 (Ferro Fibrous) 
+- **Heat Sinks:** 19 (38) 
+- **Weapons:** 
+  - ER PPC 
+  - ER Medium Pulse Laser 
+  - LRM 10 (ammo: 12) 
+  - ER Medium Laser × 3 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+- **Sources:** Rec Guide:ilClan #30 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9429) 
+- **Battle Value:** 2223 
+- [*More Info*](conjurer/conjurer_6.md) 
+
 ## Conjurer 3 "Hellhound" 
 
 - **Role:** Skirmisher 

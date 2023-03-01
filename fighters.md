@@ -330,14 +330,14 @@
 - [**Corsair CSR-X12 Rigid Night**](units/corsair/corsair_csr-x12_rigid_night.md) *Fast Dogfighter (3074)* `Unique` 
 - [**Corsair CSR-12D**](units/corsair/corsair_csr-12d.md) *Fast Dogfighter (3081)* 
 
-#### [Hellcat II](units/hellcat_ii.md) 
+#### [Hellcat II Aerospace Fighter](units/hellcat_ii_aerospace_fighter.md) 
 
-- [**Hellcat II HCT-213B**](units/hellcat_ii/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
-- [**Hellcat II HCT-214**](units/hellcat_ii/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
-- [**Hellcat II HCT-213C**](units/hellcat_ii/hellcat_ii_hct-213c.md) *Fast Dogfighter (2724)* `Active Probe` 
-- [**Hellcat II HCT-213BC (Herman)**](units/hellcat_ii/hellcat_ii_hct-213bc_herman.md) *Fast Dogfighter (2774)* `Command Console` , `Unique` 
-- [**Hellcat II HCT-212**](units/hellcat_ii/hellcat_ii_hct-212.md) *Fast Dogfighter (2838)* 
-- [**Hellcat II HCT-215**](units/hellcat_ii/hellcat_ii_hct-215.md) *Fire Support (3070)* `Active Probe` 
+- [**Hellcat II HCT-213B**](units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-213b.md) *Fast Dogfighter (2710)* `Active Probe` 
+- [**Hellcat II HCT-214**](units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-214.md) *Fast Dogfighter (2715)* `Active Probe` 
+- [**Hellcat II HCT-213C**](units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-213c.md) *Fast Dogfighter (2724)* `Active Probe` 
+- [**Hellcat II HCT-213BC (Herman)**](units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-213bc_herman.md) *Fast Dogfighter (2774)* `Command Console` , `Unique` 
+- [**Hellcat II HCT-212**](units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-212.md) *Fast Dogfighter (2838)* 
+- [**Hellcat II HCT-215**](units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-215.md) *Fire Support (3070)* `Active Probe` 
 
 #### [Lancer](units/lancer.md) 
 
@@ -448,13 +448,13 @@
 - [**Gotha GTHA-400**](units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
 - [**Gotha GTHA-600**](units/gotha/gotha_gtha-600.md) *Dogfighter (3067)* 
 
-#### [Hellcat](units/hellcat.md) 
+#### [Hellcat Aerospace Fighter](units/hellcat_aerospace_fighter.md) 
 
-- [**Hellcat HCT-213**](units/hellcat/hellcat_hct-213.md) *Dogfighter (2671)* 
-- [**Hellcat HCT-213R**](units/hellcat/hellcat_hct-213r.md) *Dogfighter (2675)* 
-- [**Hellcat HCT-213S**](units/hellcat/hellcat_hct-213s.md) *Dogfighter (2683)* 
-- [**Hellcat HCT-213D**](units/hellcat/hellcat_hct-213d.md) *Dogfighter (2701)* 
-- [**Hellcat HCT-313**](units/hellcat/hellcat_hct-313.md) *Fire Support (3073)* 
+- [**Hellcat HCT-213**](units/hellcat_aerospace_fighter/hellcat_hct-213.md) *Dogfighter (2671)* 
+- [**Hellcat HCT-213R**](units/hellcat_aerospace_fighter/hellcat_hct-213r.md) *Dogfighter (2675)* 
+- [**Hellcat HCT-213S**](units/hellcat_aerospace_fighter/hellcat_hct-213s.md) *Dogfighter (2683)* 
+- [**Hellcat HCT-213D**](units/hellcat_aerospace_fighter/hellcat_hct-213d.md) *Dogfighter (2701)* 
+- [**Hellcat HCT-313**](units/hellcat_aerospace_fighter/hellcat_hct-313.md) *Fire Support (3073)* 
 
 #### [Schrack](units/schrack.md) 
 

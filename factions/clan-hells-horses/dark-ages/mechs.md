@@ -436,6 +436,10 @@
 
 - [**Conjurer (Standard)**](../../../units/conjurer/conjurer_standard.md) *Skirmisher (2829)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Mongrel](../../../units/mongrel.md) 
 
 - [**Mongrel MGL-T2**](../../../units/mongrel/mongrel_mgl-t2.md) *Striker (3108)* `ECM` 
@@ -807,18 +811,19 @@
 
 #### [Blood Asp](../../../units/blood_asp.md) 
 
-- [**Blood Asp Prime**](../../../units/blood_asp/blood_asp_prime.md) *Brawler (3060)* 
-- [**Blood Asp A**](../../../units/blood_asp/blood_asp_a.md) *Brawler (3060)* `ECM` 
-- [**Blood Asp B**](../../../units/blood_asp/blood_asp_b.md) *Missile Boat (3060)* `ECM` 
-- [**Blood Asp C**](../../../units/blood_asp/blood_asp_c.md) *Brawler (3060)* 
-- [**Blood Asp D**](../../../units/blood_asp/blood_asp_d.md) *Brawler (3060)* 
-- [**Blood Asp E**](../../../units/blood_asp/blood_asp_e.md) *Skirmisher (3063)* 
-- [**Blood Asp F**](../../../units/blood_asp/blood_asp_f.md) *Brawler (3071)* 
-- [**Blood Asp G**](../../../units/blood_asp/blood_asp_g.md) *Brawler (3074)* 
+- [**Blood Asp Prime**](../../../units/blood_asp/blood_asp_prime.md) *Undefined (3060)* 
+- [**Blood Asp A**](../../../units/blood_asp/blood_asp_a.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp B**](../../../units/blood_asp/blood_asp_b.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp C**](../../../units/blood_asp/blood_asp_c.md) *Undefined (3060)* 
+- [**Blood Asp D**](../../../units/blood_asp/blood_asp_d.md) *Undefined (3060)* 
+- [**Blood Asp E**](../../../units/blood_asp/blood_asp_e.md) *Undefined (3063)* 
+- [**Blood Asp F**](../../../units/blood_asp/blood_asp_f.md) *Undefined (3071)* 
+- [**Blood Asp G**](../../../units/blood_asp/blood_asp_g.md) *Undefined (3074)* 
 
 #### [Highlander IIC](../../../units/highlander_iic.md) 
 
 - [**Highlander IIC 3**](../../../units/highlander_iic/highlander_iic_3.md) *Missile Boat (3077)* `ECM` 
+- [**Highlander IIC 4**](../../../units/highlander_iic/highlander_iic_4.md) *Missile Boat (3147)* 
 
 #### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 
 

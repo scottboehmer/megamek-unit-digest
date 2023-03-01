@@ -14,7 +14,7 @@
   - Clan Enhanced PPC 
   - Clan Improved LRM 10 (ammo: 24) 
   - SRM 6 (ammo: 15) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7675) 
+- **Sources:** TRO:Golden Century - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7675) 
 - **Battle Value:** 1147 
 
 ## Availability 

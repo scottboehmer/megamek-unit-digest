@@ -37,6 +37,12 @@
 
 - [**Spectre Stealth Battle Armor (Standard)(Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standardsqd4.md) *Scout (3097)* `Stealth` 
 
+### 1 Tons 
+
+#### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+
 ### 2 Tons 
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 

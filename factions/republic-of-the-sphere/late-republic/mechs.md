@@ -591,6 +591,7 @@
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
 - [**Vulcan VT-5Sr**](../../../units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 ### 45 Tons 
 
@@ -1310,6 +1311,12 @@
 - [**Summoner HH**](../../../units/summoner/summoner_hh.md) *Skirmisher (3070)* 
 - [**Summoner U**](../../../units/summoner/summoner_u.md) *Sniper (3078)* 
 - [**Summoner AA**](../../../units/summoner/summoner_aa.md) *Sniper (3086)* 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

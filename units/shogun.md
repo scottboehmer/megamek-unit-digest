@@ -21,7 +21,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2934) 
+- **Sources:** Hist:Op. Klondike - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2934) 
 - **Battle Value:** 2087 
 - [*More Info*](shogun/shogun_shg-2h.md) 
 
@@ -116,4 +116,27 @@
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5058) 
 - **Battle Value:** 1733 
 - [*More Info*](shogun/shogun_shg-2f_trisha.md) 
+
+## Shogun C 3 
+
+- **Role:** Sniper 
+- **Tech Base:** Clan Mixed (3139) 
+- **Chassis:** 85 tons 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 249 (Ferro Fibrous) 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - ER PPC w/ PPC Capacitor 
+  - LRM 15 w/ Artemis V × 2 (ammo: 32) 
+  - ATM 6 × 2 (ammo: 10 Standard, 10 ER, 10 HE) 
+- **Equipment:** 
+  - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Non-Standard Parts 
+  - Barrel Fists 
+- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9463) 
+- **Battle Value:** 2748 
+- [*More Info*](shogun/shogun_c_3.md) 
 

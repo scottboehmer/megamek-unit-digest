@@ -15,6 +15,11 @@
   - Medium Laser × 3 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
+  - Jettison-Capable Weapon (Large Laser) 
 - **Sources:** Rec Guide:ilClan #1 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9402) 
 - **Battle Value:** 1141 
 

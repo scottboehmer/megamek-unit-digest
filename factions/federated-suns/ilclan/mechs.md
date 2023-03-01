@@ -432,6 +432,7 @@
 #### [Vulcan](../../../units/vulcan.md) 
 
 - [**Vulcan VT-5Sr**](../../../units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 #### [Watchman](../../../units/watchman.md) 
 
@@ -575,6 +576,10 @@
 
 - [**Ghost GST-10**](../../../units/ghost/ghost_gst-10.md) *Sniper (3077)* `Active Probe` , `ECM` , `Stealth` 
 - [**Ghost GST-11**](../../../units/ghost/ghost_gst-11.md) *Sniper (3082)* `Active Probe` , `ECM` 
+
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
 
 #### [Jabberwocky](../../../units/jabberwocky.md) 
 
@@ -959,6 +964,7 @@
 
 - [**JagerMech JM7-F**](../../../units/jagermech/jagermech_jm7-f.md) *Brawler (3062)* `ECM` 
 - [**JagerMech JM7-C3BS**](../../../units/jagermech/jagermech_jm7-c3bs.md) *Brawler (3075)* `C3 Support` 
+- [**JagerMech JM7-DD**](../../../units/jagermech/jagermech_jm7-dd.md) *Sniper (3146)* 
 
 #### [Lumberjack](../../../units/lumberjack.md) 
 
@@ -968,6 +974,10 @@
 #### [MuckRaker](../../../units/muckraker.md) 
 
 - [**MuckRaker GMMM-2 MiningMech**](../../../units/muckraker/muckraker_gmmm-2_miningmech.md) *Undefined (2737)* `IndustrialMech` 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

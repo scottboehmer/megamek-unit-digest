@@ -292,10 +292,12 @@
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
 - [**Vulcan VT-5S**](../../../units/vulcan/vulcan_vt-5s.md) *Striker (3050)* 
 - [**Vulcan VT-5Sr**](../../../units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 #### [Whitworth](../../../units/whitworth.md) 
 
 - [**Whitworth WTH-2**](../../../units/whitworth/whitworth_wth-2.md) *Missile Boat (3050)* 
+- [**Whitworth WTH-2H**](../../../units/whitworth/whitworth_wth-2h.md) *Brawler (3139)* 
 
 ### 45 Tons 
 
@@ -603,6 +605,10 @@
 #### [MuckRaker](../../../units/muckraker.md) 
 
 - [**MuckRaker GMMM-2 MiningMech**](../../../units/muckraker/muckraker_gmmm-2_miningmech.md) *Undefined (2737)* `IndustrialMech` 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-7**](../../../units/viper/viper_vp-7.md) *Brawler (3124)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

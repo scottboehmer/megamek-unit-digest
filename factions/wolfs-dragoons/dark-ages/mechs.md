@@ -274,6 +274,10 @@
 
 - [**Griffin C**](../../../units/griffin/griffin_c.md) *Sniper (3144)* 
 
+#### [Hoplite](../../../units/hoplite.md) 
+
+- [**Hoplite HOP-5C**](../../../units/hoplite/hoplite_hop-5c.md) *Brawler (3138)* 
+
 #### [Hyena](../../../units/hyena.md) 
 
 - [**Hyena HYN-4A SalvageMech**](../../../units/hyena/hyena_hyn-4a_salvagemech.md) *Scout (3066)* `IndustrialMech` 

@@ -20,6 +20,7 @@
   - Bloodhound Active Probe 
 - **Design Quirks:** 
   - Cowl 
+  - Difficult to Maintain 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1110) 
 - **Battle Value:** 1190 
 

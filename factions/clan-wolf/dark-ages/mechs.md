@@ -371,6 +371,10 @@
 
 - [**Firestorm (Standard)**](../../../units/firestorm/firestorm_standard.md) *Skirmisher (3145)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Hunchback](../../../units/hunchback.md) 
 
 - [**Hunchback C**](../../../units/hunchback/hunchback_c.md) *Skirmisher (3065)* 

@@ -145,9 +145,9 @@
 - [**Heavy Wheeled APC (SRM)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Wheeled APC (Standard)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
-#### [M.A.S.H. Truck](../../../units/m.a.s.h._truck.md) 
+#### [MASH Truck](../../../units/mash_truck.md) 
 
-- [**M.A.S.H. Truck (Standard)**](../../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+- [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
 
 #### [MIT23 MASH Vehicle](../../../units/mit23_mash_vehicle.md) 
 
@@ -243,6 +243,11 @@
 - [**Harasser Missile Platform (Standard)**](../../../units/harasser_missile_platform/harasser_missile_platform_standard.md) *Striker (2811)* 
 - [**Harasser Missile Platform (MML)**](../../../units/harasser_missile_platform/harasser_missile_platform_mml.md) *Striker (3087)* 
 - [**Harasser Missile Platform (Thunderbolt)**](../../../units/harasser_missile_platform/harasser_missile_platform_thunderbolt.md) *Sniper (3089)* 
+
+#### [J. Edgar Light Hover Tank](../../../units/j._edgar_light_hover_tank.md) 
+
+- [**J. Edgar Light Hover Tank (LAC)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_lac.md) *Scout (3070)* 
+- [**J. Edgar Light Hover Tank (Light PPC)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_light_ppc.md) *Scout (3085)* 
 
 #### [JI2A1 Attack APC](../../../units/ji2a1_attack_apc.md) 
 
@@ -490,6 +495,7 @@
 
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
+- [**Drillson Heavy Hover Tank (MML)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_mml.md) *Undefined (3087)* 
 
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
@@ -598,6 +604,7 @@
 #### [Pike Support Vehicle](../../../units/pike_support_vehicle.md) 
 
 - [**Pike Support Vehicle (Standard)**](../../../units/pike_support_vehicle/pike_support_vehicle_standard.md) *Sniper (2987)* 
+- [**Pike Support Vehicle (RAC) 'Assault Pike'**](../../../units/pike_support_vehicle/pike_support_vehicle_rac_assault_pike.md) *Sniper (3064)* 
 
 #### [Po Heavy Tank](../../../units/po_heavy_tank.md) 
 
@@ -743,6 +750,7 @@
 #### [Schrek PPC Carrier](../../../units/schrek_ppc_carrier.md) 
 
 - [**Schrek PPC Carrier (Standard)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_standard.md) *Sniper (2813)* 
+- [**Schrek PPC Carrier (XL)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_xl.md) *Sniper (3058)* 
 - [**Schrek PPC Carrier (Armor)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_armor.md) *Sniper (3072)* 
 - [**Schrek PPC Carrier (C3M)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) *Sniper (3076)* `C3 Main` , `ECM` , `TAG` 
 

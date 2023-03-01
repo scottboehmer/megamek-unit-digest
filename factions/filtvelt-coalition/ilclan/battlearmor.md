@@ -50,6 +50,10 @@
 - [**Cavalier Battle Armor (MG)(Sqd4)**](../../../units/cavalier_battle_armor/cavalier_battle_armor_mgsqd4.md) *Ambusher (3058)* 
 - [**Cavalier Battle Armor (SRM)(Sqd4)**](../../../units/cavalier_battle_armor/cavalier_battle_armor_srmsqd4.md) *Ambusher (3058)* 
 
+#### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+
 ### 2 Tons 
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 

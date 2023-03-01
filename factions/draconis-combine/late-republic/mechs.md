@@ -424,6 +424,7 @@
 #### [Vulcan](../../../units/vulcan.md) 
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 #### [Whitworth](../../../units/whitworth.md) 
 
@@ -881,6 +882,10 @@
 - [**No-Dachi NDA-2K**](../../../units/no-dachi/no-dachi_nda-2k.md) *Brawler (3059)* `ECM` 
 - [**No-Dachi NDA-2KO**](../../../units/no-dachi/no-dachi_nda-2ko.md) *Brawler (3060)* 
 - [**No-Dachi NDA-2KC**](../../../units/no-dachi/no-dachi_nda-2kc.md) *Skirmisher (3067)* `C3 Support` 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

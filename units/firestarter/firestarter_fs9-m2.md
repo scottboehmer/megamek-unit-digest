@@ -15,8 +15,13 @@
   - ER Medium Laser 
   - Flamer × 6 
 - **Design Quirks:** 
-  - Cowl 
-  - Improved Life Support 
+  - Ubiquitous 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6609) 
 - **Battle Value:** 751 
 

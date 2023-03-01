@@ -19,6 +19,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Plasma Rifle) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301) 
 - **Battle Value:** 1591 
 

@@ -21,6 +21,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Plasma Rifle) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1304) 
 - **Battle Value:** 1742 
 

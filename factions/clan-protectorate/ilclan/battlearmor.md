@@ -34,6 +34,10 @@
 - [**Elemental III Battle Armor (MicroPL)(Sqd5)**](../../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_microplsqd5.md) *Ambusher (3081)* `Stealth` 
 - [**Elemental III Battle Armor (Flamer)(Sqd5)**](../../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_flamersqd5.md) *Ambusher (3091)* `Stealth` 
 
+#### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor (Magnetic)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd5.md) *Undefined (3141)* 
+
 #### [Leonidas Battle Armor](../../../units/leonidas_battle_armor.md) 
 
 - [**Leonidas Battle Armor (David)(Sqd5)**](../../../units/leonidas_battle_armor/leonidas_battle_armor_davidsqd5.md) *Ambusher (3096)* `ECM` , `Stealth` 

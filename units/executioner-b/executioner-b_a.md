@@ -17,6 +17,9 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Poor Performance 
 - **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8464) 
 - **Battle Value:** 2194 
 

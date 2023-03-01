@@ -288,6 +288,7 @@
 - [**Conjurer (Standard)**](../../../units/conjurer/conjurer_standard.md) *Skirmisher (2829)* 
 - [**Conjurer 7**](../../../units/conjurer/conjurer_7.md) *Skirmisher (2836)* 
 - [**Conjurer 2**](../../../units/conjurer/conjurer_2.md) *Skirmisher (3062)* 
+- [**Conjurer 6**](../../../units/conjurer/conjurer_6.md) *Skirmisher (3063)* 
 - [**Conjurer 3**](../../../units/conjurer/conjurer_3.md) *Skirmisher (3064)* 
 - [**Conjurer 4**](../../../units/conjurer/conjurer_4.md) *Skirmisher (3065)* 
 - [**Conjurer 5**](../../../units/conjurer/conjurer_5.md) *Skirmisher (3067)* 

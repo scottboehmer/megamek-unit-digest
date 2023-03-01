@@ -297,6 +297,63 @@
 - **Battle Value:** 35 (313 for 6 suits) 
 - [*More Info*](is_standard_battle_armor/is_standard_battle_armor_hivesqd6.md) 
 
+## IS Standard Battle Armor (Magnetic)(Sqd4) 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3141) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 2 
+  - **Jumping:** 4 
+- **Armor:** 9 (Advanced) 
+- **Manipulators:** 
+  - Battle Claw (right) 
+- **Weapons:** 
+  - Clan Machine Gun 
+- **Equipment:** 
+  - Magnetic Clamps 
+  - Clan Jump Booster 
+- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9467) 
+- **Battle Value:** 40 (209 for 4 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) 
+
+## IS Standard Battle Armor (Magnetic)(Sqd5) 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3141) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 2 
+  - **Jumping:** 4 
+- **Armor:** 9 (Advanced) 
+- **Manipulators:** 
+  - Battle Claw (right) 
+- **Weapons:** 
+  - Clan Machine Gun 
+- **Equipment:** 
+  - Magnetic Clamps 
+  - Clan Jump Booster 
+- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9468) 
+- **Battle Value:** 40 (282 for 5 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_magneticsqd5.md) 
+
+## IS Standard Battle Armor (Magnetic)(Sqd6) 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3141) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 2 
+  - **Jumping:** 4 
+- **Armor:** 9 (Advanced) 
+- **Manipulators:** 
+  - Battle Claw (right) 
+- **Weapons:** 
+  - Clan Machine Gun 
+- **Equipment:** 
+  - Magnetic Clamps 
+  - Clan Jump Booster 
+- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9469) 
+- **Battle Value:** 40 (362 for 6 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_magneticsqd6.md) 
+
 ## IS Standard Battle Armor (Baka) (LRR)(Sqd4) 
 
 - **Role:** Ambusher 

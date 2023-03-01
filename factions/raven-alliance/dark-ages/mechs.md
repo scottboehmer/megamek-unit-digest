@@ -382,6 +382,10 @@
 - [**Crimson Langur D**](../../../units/crimson_langur/crimson_langur_d.md) *Striker (3068)* `TAG` 
 - [**Crimson Langur E**](../../../units/crimson_langur/crimson_langur_e.md) *Striker (3068)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Hunchback IIC](../../../units/hunchback_iic.md) 
 
 - [**Hunchback IIC 3**](../../../units/hunchback_iic/hunchback_iic_3.md) *Brawler (3062)* 
@@ -755,7 +759,16 @@
 - [**Omen (Standard)**](../../../units/omen/omen_standard.md) *Juggernaut (3087)* 
 - [**Omen 2**](../../../units/omen/omen_2.md) *Juggernaut (3141)* 
 
+#### [Shogun](../../../units/shogun.md) 
+
+- [**Shogun C 3**](../../../units/shogun/shogun_c_3.md) *Sniper (3139)* 
+
 ### 90 Tons 
+
+#### [Blood Asp](../../../units/blood_asp.md) 
+
+- [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
+- [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 
 #### [Kingfisher](../../../units/kingfisher.md) 
 

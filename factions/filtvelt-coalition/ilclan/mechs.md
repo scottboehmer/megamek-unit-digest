@@ -266,6 +266,7 @@
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
 - [**Vulcan VT-5Sr**](../../../units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 #### [Watchman](../../../units/watchman.md) 
 
@@ -536,6 +537,11 @@
 
 - [**MuckRaker GMMM-2 MiningMech**](../../../units/muckraker/muckraker_gmmm-2_miningmech.md) *Undefined (2737)* `IndustrialMech` 
 
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
+
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
@@ -641,6 +647,11 @@
 - [**Stalker STK-3F**](../../../units/stalker/stalker_stk-3f.md) *Juggernaut (2594)* 
 
 ### 90 Tons 
+
+#### [Blood Asp](../../../units/blood_asp.md) 
+
+- [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
+- [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 
 #### [Cyclops](../../../units/cyclops.md) 
 

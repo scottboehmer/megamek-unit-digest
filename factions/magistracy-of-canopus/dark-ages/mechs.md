@@ -324,6 +324,7 @@
 #### [Vulcan](../../../units/vulcan.md) 
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 ### 45 Tons 
 
@@ -672,6 +673,10 @@
 
 - [**Thunder THR-1L**](../../../units/thunder/thunder_thr-1l.md) *Skirmisher (3055)* 
 - [**Thunder THR-C4**](../../../units/thunder/thunder_thr-c4.md) *Skirmisher (3083)* 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-7**](../../../units/viper/viper_vp-7.md) *Brawler (3124)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

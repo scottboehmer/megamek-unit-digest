@@ -4,6 +4,14 @@
 
 ### 1 Tons 
 
+#### [Callisto Battle Armor](../../../units/callisto_battle_armor.md) 
+
+- [**Callisto Battle Armor A (Bearhunter)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_a_bearhuntersqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (ER Laser)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_a_er_lasersqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (HMG)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_a_hmgsqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (MRR)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (MRR)(Sqd6)**](../../../units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd6.md) *Undefined (3147)* 
+
 #### [Clan Medium Battle Armor](../../../units/clan_medium_battle_armor.md) 
 
 - [**Clan Medium Battle Armor (Rabid)(Sqd5)**](../../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabidsqd5.md) *Scout (3067)* 
@@ -29,6 +37,10 @@
 - [**Elemental III Battle Armor (AP Gauss)(Sqd5)**](../../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_ap_gausssqd5.md) *Ambusher (3081)* `Stealth` 
 - [**Elemental III Battle Armor (MicroPL)(Sqd5)**](../../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_microplsqd5.md) *Ambusher (3081)* `Stealth` 
 - [**Elemental III Battle Armor (Flamer)(Sqd5)**](../../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_flamersqd5.md) *Ambusher (3091)* `Stealth` 
+
+#### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor (Magnetic)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd5.md) *Undefined (3141)* 
 
 #### [Salamander Battle Armor](../../../units/salamander_battle_armor.md) 
 

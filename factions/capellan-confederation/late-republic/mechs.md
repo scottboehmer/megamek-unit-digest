@@ -342,6 +342,7 @@
 #### [Vulcan](../../../units/vulcan.md) 
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 ### 45 Tons 
 
@@ -745,6 +746,11 @@
 - [**Thunder THR-2L**](../../../units/thunder/thunder_thr-2l.md) *Skirmisher (3063)* `ECM` , `Stealth` 
 - [**Thunder THR-3L**](../../../units/thunder/thunder_thr-3l.md) *Missile Boat (3066)* `ECM` , `Stealth` 
 - [**Thunder THR-C4**](../../../units/thunder/thunder_thr-c4.md) *Skirmisher (3083)* 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-7**](../../../units/viper/viper_vp-7.md) *Brawler (3124)* `Active Probe` 
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

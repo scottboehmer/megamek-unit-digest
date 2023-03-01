@@ -17,7 +17,9 @@
   - Small Laser × 2 
   - Flamer × 4 
 - **Design Quirks:** 
-  - Cowl 
+  - Ubiquitous 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1095) 
 - **Battle Value:** 775 
 

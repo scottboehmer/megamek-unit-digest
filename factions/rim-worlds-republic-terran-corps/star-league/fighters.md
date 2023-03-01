@@ -58,9 +58,9 @@
 
 - [**Blackwasp Mk. 30**](../../../units/blackwasp/blackwasp_mk._30.md) *Fast Dogfighter (2728)* 
 
-#### [Hellcat II](../../../units/hellcat_ii.md) 
+#### [Hellcat II Aerospace Fighter](../../../units/hellcat_ii_aerospace_fighter.md) 
 
-- [**Hellcat II HCT-213BC (Herman)**](../../../units/hellcat_ii/hellcat_ii_hct-213bc_herman.md) *Fast Dogfighter (2774)* `Command Console` , `Unique` 
+- [**Hellcat II HCT-213BC (Herman)**](../../../units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-213bc_herman.md) *Fast Dogfighter (2774)* `Command Console` , `Unique` 
 
 #### [Lightning Aerospace Fighter](../../../units/lightning_aerospace_fighter.md) 
 
@@ -76,11 +76,11 @@
 
 - [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Attack Fighter (2703)* 
 
-#### [Hellcat](../../../units/hellcat.md) 
+#### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
-- [**Hellcat HCT-213R**](../../../units/hellcat/hellcat_hct-213r.md) *Dogfighter (2675)* 
-- [**Hellcat HCT-213S**](../../../units/hellcat/hellcat_hct-213s.md) *Dogfighter (2683)* 
-- [**Hellcat HCT-213D**](../../../units/hellcat/hellcat_hct-213d.md) *Dogfighter (2701)* 
+- [**Hellcat HCT-213R**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213r.md) *Dogfighter (2675)* 
+- [**Hellcat HCT-213S**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213s.md) *Dogfighter (2683)* 
+- [**Hellcat HCT-213D**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213d.md) *Dogfighter (2701)* 
 
 #### [Stingray](../../../units/stingray.md) 
 

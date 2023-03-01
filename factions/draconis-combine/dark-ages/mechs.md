@@ -482,6 +482,14 @@
 - [**Strider SR1-OH**](../../../units/strider/strider_sr1-oh.md) *Sniper (3099)* 
 - [**Strider SR1-OM**](../../../units/strider/strider_sr1-om.md) *Scout (3135)* `C3 Main` , `TAG` 
 
+#### [Vulcan](../../../units/vulcan.md) 
+
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
+
+#### [Whitworth](../../../units/whitworth.md) 
+
+- [**Whitworth WTH-2H**](../../../units/whitworth/whitworth_wth-2h.md) *Brawler (3139)* 
+
 ### 45 Tons 
 
 #### [Bishamon](../../../units/bishamon.md) 
@@ -619,6 +627,10 @@
 
 - [**Ghost GST-10**](../../../units/ghost/ghost_gst-10.md) *Sniper (3077)* `Active Probe` , `ECM` , `Stealth` 
 - [**Ghost GST-11**](../../../units/ghost/ghost_gst-11.md) *Sniper (3082)* `Active Probe` , `ECM` 
+
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
 
 #### [Legionnaire](../../../units/legionnaire.md) 
 
@@ -1020,6 +1032,10 @@
 - [**Nova Cat H**](../../../units/nova_cat/nova_cat_h.md) *Skirmisher (3099)* 
 - [**Nova Cat I**](../../../units/nova_cat/nova_cat_i.md) *Juggernaut (3132)* 
 - [**Nova Cat T**](../../../units/nova_cat/nova_cat_t.md) *Sniper (3142)* 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

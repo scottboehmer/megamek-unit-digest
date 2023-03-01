@@ -23,6 +23,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (LRM 10) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303) 
 - **Battle Value:** 1390 
 

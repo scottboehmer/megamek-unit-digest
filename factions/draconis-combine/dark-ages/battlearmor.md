@@ -80,6 +80,10 @@
 
 - [**Clan Medium Battle Armor (Rabid)(Sqd4)**](../../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabidsqd4.md) *Scout (3067)* 
 
+#### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+
 #### [Oni Battle Armor](../../../units/oni_battle_armor.md) 
 
 - [**Oni Battle Armor (Bearhunter)(Sqd4)**](../../../units/oni_battle_armor/oni_battle_armor_bearhuntersqd4.md) *Ambusher (3134)* `ECM` 

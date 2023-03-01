@@ -47,3 +47,28 @@
 - **Battle Value:** 2195 
 - [*More Info*](grizzly/grizzly_2.md) 
 
+## Grizzly 3 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Clan Mixed (3138) 
+- **Chassis:** 70 tons (Reinforced) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 208 
+- **Heat Sinks:** 13 (26) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Inner Sphere Plasma Rifle (ammo: 20) 
+  - LRM 10 w/ Artemis V (ammo: 12) 
+  - ER Medium Laser 
+  - ER Small Laser 
+- **Equipment:** 
+  - CASE II 
+  - Targeting Computer 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Exposed Actuators 
+- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9432) 
+- **Battle Value:** 2331 
+- [*More Info*](grizzly/grizzly_3.md) 
+

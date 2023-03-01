@@ -18,7 +18,7 @@
   - Anti-Missile System (ammo: 12) 
   - C3 Support 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3389) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3389) 
 - **Battle Value:** 719 
 
 ## Availability 

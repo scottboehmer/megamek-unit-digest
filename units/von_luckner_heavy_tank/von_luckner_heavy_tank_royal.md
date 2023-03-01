@@ -15,7 +15,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
   - Streak SRM 2 × 4 (ammo: 50) 
   - Small Pulse Laser 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3449) 
+- **Sources:** Hist: Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3449) 
 - **Battle Value:** 1261 
 
 ## Availability 

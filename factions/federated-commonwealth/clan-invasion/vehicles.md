@@ -156,9 +156,9 @@
 - [**Heavy Wheeled APC (SRM)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Wheeled APC (Standard)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
-#### [M.A.S.H. Truck](../../../units/m.a.s.h._truck.md) 
+#### [MASH Truck](../../../units/mash_truck.md) 
 
-- [**M.A.S.H. Truck (Standard)**](../../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+- [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
 
 #### [Packrat LRPV](../../../units/packrat_lrpv.md) 
 
@@ -394,7 +394,7 @@
 
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
-- [**Drillson Heavy Hover Tank (ERLL)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_erll.md) *Sniper (3039)* 
+- [**Drillson Heavy Hover Tank (ERLL)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_erll.md) *Sniper (3045)* 
 - [**Drillson Heavy Hover Tank (Streak)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_streak.md) *Striker (3053)* 
 
 #### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 

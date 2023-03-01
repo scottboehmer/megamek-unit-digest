@@ -101,6 +101,10 @@
 - [**Gossamer VTOL (Standard)**](../../../units/gossamer_vtol/gossamer_vtol_standard.md) *Striker (3123)* 
 - [**Gossamer VTOL (XL)**](../../../units/gossamer_vtol/gossamer_vtol_xl.md) *Scout (3124)* 
 
+#### [J. Edgar Light Hover Tank](../../../units/j._edgar_light_hover_tank.md) 
+
+- [**J. Edgar Light Hover Tank (X-Pulse)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_x-pulse.md) *Scout (3144)* 
+
 #### [Kestrel VTOL](../../../units/kestrel_vtol.md) 
 
 - [**Kestrel VTOL (Standard)**](../../../units/kestrel_vtol/kestrel_vtol_standard.md) *Scout (3007)* `Transport:3.5` 

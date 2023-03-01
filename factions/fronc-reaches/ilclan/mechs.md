@@ -285,6 +285,7 @@
 #### [Vulcan](../../../units/vulcan.md) 
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 #### [Whitworth](../../../units/whitworth.md) 
 
@@ -577,6 +578,11 @@
 #### [Thunder](../../../units/thunder.md) 
 
 - [**Thunder THR-1L**](../../../units/thunder/thunder_thr-1l.md) *Skirmisher (3055)* 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

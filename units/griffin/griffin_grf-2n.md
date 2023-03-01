@@ -21,6 +21,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299) 
 - **Battle Value:** 1606 
 

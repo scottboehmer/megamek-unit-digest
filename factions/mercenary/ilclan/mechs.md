@@ -739,6 +739,11 @@
 
 - [**Vulcan VT-5S**](../../../units/vulcan/vulcan_vt-5s.md) *Striker (3050)* 
 - [**Vulcan VT-5Sr**](../../../units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
+
+#### [Whitworth](../../../units/whitworth.md) 
+
+- [**Whitworth WTH-2H**](../../../units/whitworth/whitworth_wth-2h.md) *Brawler (3139)* 
 
 ### 45 Tons 
 
@@ -990,6 +995,10 @@
 - [**Hel HL-1**](../../../units/hel/hel_hl-1.md) *Undefined (3092)* 
 - [**Hel HL-2**](../../../units/hel/hel_hl-2.md) *Skirmisher (3092)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Hunchback](../../../units/hunchback.md) 
 
 - [**Hunchback HBK-5N**](../../../units/hunchback/hunchback_hbk-5n.md) *Juggernaut (3057)* 
@@ -1133,6 +1142,10 @@
 - [**Griffin GRF-6S**](../../../units/griffin/griffin_grf-6s.md) *Sniper (3066)* 
 - [**Griffin GRF-6R**](../../../units/griffin/griffin_grf-6r.md) *Sniper (3085)* `ECM` , `Stealth` 
 - [**Griffin GRF-3N**](../../../units/griffin/griffin_grf-3n.md) *Sniper (3093)* 
+
+#### [Hoplite](../../../units/hoplite.md) 
+
+- [**Hoplite HOP-5C**](../../../units/hoplite/hoplite_hop-5c.md) *Brawler (3138)* 
 
 #### [Kheper](../../../units/kheper.md) 
 
@@ -1624,6 +1637,14 @@
 - [**Uni ATAE-70 CargoMech**](../../../units/uni/uni_atae-70_cargomech.md) *Ambusher (3050)* `IndustrialMech` 
 - [**Uni ATAE-70M MilitiaMech**](../../../units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
 
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
+- [**Viper VP-7**](../../../units/viper/viper_vp-7.md) *Brawler (3124)* `Active Probe` 
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
+- [**Viper VP-9**](../../../units/viper/viper_vp-9.md) *Brawler (3147)* `Active Probe` 
+
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
@@ -1964,6 +1985,11 @@
 - [**Stalker II STK-9A**](../../../units/stalker_ii/stalker_ii_stk-9a.md) *Juggernaut (3137)* 
 
 ### 90 Tons 
+
+#### [Blood Asp](../../../units/blood_asp.md) 
+
+- [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
+- [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 
 #### [Cyclops](../../../units/cyclops.md) 
 

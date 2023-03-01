@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - RAC/5 (ammo: 40) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3394) 
+- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3394) 
 - **Battle Value:** 712 
 
 ## Availability 

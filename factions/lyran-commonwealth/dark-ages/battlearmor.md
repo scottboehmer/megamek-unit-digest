@@ -111,6 +111,7 @@
 - [**IS Standard Battle Armor (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (SRM)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (LRR)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd4.md) *Ambusher (3061)* 
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
 
 #### [Rottweiler Battle Armor](../../../units/rottweiler_battle_armor.md) 
 

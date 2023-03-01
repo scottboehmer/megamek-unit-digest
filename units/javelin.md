@@ -181,7 +181,26 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6938) 
+- **Sources:** RS 3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6938) 
 - **Battle Value:** 680 
 - [*More Info*](javelin/javelin_jvn-11p.md) 
+
+## Javelin JVN-12N 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere Mixed (3121) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 8 / 12, XL 
+  - **Jumping:** 8 
+- **Armor:** 93 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Clan SRM 6 × 2 (ammo: 30) 
+- **Equipment:** 
+  - CASE II 
+  - TAG 
+- **Design Quirks:** 
+  - Unbalanced 
+- **Battle Value:** 795 
+- [*More Info*](javelin/javelin_jvn-12n.md) 
 

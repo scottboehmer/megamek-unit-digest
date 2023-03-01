@@ -313,6 +313,10 @@
 
 - [**Firestorm (Standard)**](../../../units/firestorm/firestorm_standard.md) *Skirmisher (3145)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Hunchback](../../../units/hunchback.md) 
 
 - [**Hunchback C**](../../../units/hunchback/hunchback_c.md) *Skirmisher (3065)* 
@@ -338,6 +342,10 @@
 - [**Griffin GRF-5M**](../../../units/griffin/griffin_grf-5m.md) *Missile Boat (3066)* 
 - [**Griffin GRF-6R**](../../../units/griffin/griffin_grf-6r.md) *Sniper (3085)* `ECM` , `Stealth` 
 - [**Griffin C**](../../../units/griffin/griffin_c.md) *Sniper (3144)* 
+
+#### [Hoplite](../../../units/hoplite.md) 
+
+- [**Hoplite HOP-5C**](../../../units/hoplite/hoplite_hop-5c.md) *Brawler (3138)* 
 
 #### [Scorpion](../../../units/scorpion.md) 
 
@@ -472,6 +480,10 @@
 
 - [**MuckRaker GMMM-2 MiningMech**](../../../units/muckraker/muckraker_gmmm-2_miningmech.md) *Undefined (2737)* `IndustrialMech` 
 
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
+
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
@@ -590,6 +602,11 @@
 - [**Alpha Wolf A**](../../../units/alpha_wolf/alpha_wolf_a.md) *Brawler (3150)* `ECM` , `Stealth` 
 - [**Alpha Wolf B**](../../../units/alpha_wolf/alpha_wolf_b.md) *Brawler (3150)* `ECM` , `Stealth` 
 - [**Alpha Wolf C**](../../../units/alpha_wolf/alpha_wolf_c.md) *Sniper (3150)* `ECM` , `Stealth` 
+
+#### [Blood Asp](../../../units/blood_asp.md) 
+
+- [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
+- [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 
 #### [Highlander IIC](../../../units/highlander_iic.md) 
 

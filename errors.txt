@@ -508,6 +508,11 @@ Starfire SF-1X (Prototype) - The method or operation is not implemented.
 --------------------------------------------------
 Units without Roles:
 Hoplite HOP-4A
+Blood Asp A
+Blood Asp B
+Blood Asp C
+Blood Asp D
+Blood Asp Prime
 Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
 Beowulf C
@@ -519,6 +524,7 @@ Ti Ts'ang TSG-9 'China Doll'
 Mad Cat III 2 (MWDA)
 Mad Cat III (Dark Age RS)
 Ryoken II (Tassa)
+Ares ARS-V1E Apollo
 BattleMaster BLR-1GHE 'HellSlinger'
 Blackjack C
 Rock Hound ProspectorMech AM-PRM-RH7 'Rock Possum'
@@ -551,7 +557,11 @@ Thunderbolt TDR-5Sb2
 Mad Cat III 2
 Stinger C 2
 Stinger C
-Behemoth (Stone Rhino) BHN-6H
+Blood Asp E
+Blood Asp F
+Blood Asp G
+Blood Asp I
+Blood Asp T
 Marauder Red Hunter
 Warhammer C 3
 Deimos H
@@ -614,9 +624,8 @@ Heavy Transport B1 (Standard)
 Hover Tank (Standard)
 Jeep (Standard)
 Jet Sled (Standard)
-M.A.S.H. Truck (Small)
+MASH Truck (Small)
 Mobile Long Tom Artillery (+Carriages)(Unofficial)
-Skimmer (Standard)
 Speeder (Standard)
 Weapons Carrier A (LL)
 Wheeled Scout (Standard)
@@ -630,8 +639,8 @@ J-27 Ordnance Transport (Armor)
 J-27 Ordnance Transport (Fusion)
 J-27 Ordnance Transport (Trailer)
 J-27 Ordnance Transport (Standard)
-M.A.S.H. Truck (ICE)
-M.A.S.H. Truck (Standard)
+MASH Truck (ICE)
+MASH Truck (Standard)
 Mobile Headquarters (ICE - LL)
 Mobile Headquarters (ICE - LRM)
 Mobile Headquarters (ICE)
@@ -673,10 +682,15 @@ Mobile Long Tom Artillery LT-MOB-25F (Support Carriage)
 Browning Mobile HQ (Half Track)
 Browning Mobile HQ
 Ontos Heavy Tank (Chemical Laser)
+Harrier Hover Tank (Original)
+MASH Truck (AMS)
+Drillson Heavy Hover Tank (MML)
 Packrat LRPV PKR-T5 (TOC)
 Desert Scorpion Light Tank (Standard)
 Koryu Submarine (Civilian)
 Koryu Submarine (Military)
+Vedette Medium Tank (AC/10)
+Manticore Heavy Tank 'The Ballista'
 Karnov UR Transport (Heavy Stealth)
 Patton Tank -SB
 Demolisher II Heavy Tank II-X
@@ -708,6 +722,24 @@ Machina Domini Interface Armor (Standard)(Sqd1)
 Dragoon Battle Armor (Upgrade)(Sqd4)
 Dragoon Battle Armor (Upgrade)(Sqd5)
 Dragoon Battle Armor (Upgrade)(Sqd6)
+Callisto Battle Armor A [Bearhunter](Sqd4)
+Callisto Battle Armor A [Bearhunter](Sqd5)
+Callisto Battle Armor A [Bearhunter](Sqd6)
+Callisto Battle Armor A [ER Laser](Sqd4)
+Callisto Battle Armor A [ER Laser](Sqd5)
+Callisto Battle Armor A [ER Laser](Sqd6)
+Callisto Battle Armor A [HMG](Sqd4)
+Callisto Battle Armor A [HMG](Sqd5)
+Callisto Battle Armor A [HMG](Sqd6)
+Callisto Battle Armor B [MRR](Sqd4)
+Callisto Battle Armor B [MRR](Sqd5)
+Callisto Battle Armor B [MRR](Sqd6)
+Callisto Battle Armor B [SRM](Sqd4)
+Callisto Battle Armor B [SRM](Sqd5)
+Callisto Battle Armor B [SRM](Sqd6)
+IS Standard Battle Armor [Magnetic](Sqd4)
+IS Standard Battle Armor [Magnetic](Sqd5)
+IS Standard Battle Armor [Magnetic](Sqd6)
 Achileus Light Battle Armor [Laser]
 Hantu AIX-210(Sqd4)
 Hantu AIX-210(Sqd5)
@@ -814,4 +846,4 @@ Cheetah II F-12A
 Starfire SF-1X (Prototype)
 
 --------------------------------------------------
-7018 files -> 7018 parsed files (0 skipped) -> 6797 converted files -> 6782 validated units
+7101 files -> 7101 parsed files (0 skipped) -> 6880 converted files -> 6865 validated units

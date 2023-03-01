@@ -255,6 +255,10 @@
 
 - [**Griffin C**](../../../units/griffin/griffin_c.md) *Sniper (3144)* 
 
+#### [Hoplite](../../../units/hoplite.md) 
+
+- [**Hoplite HOP-5C**](../../../units/hoplite/hoplite_hop-5c.md) *Brawler (3138)* 
+
 #### [Hyena](../../../units/hyena.md) 
 
 - [**Hyena HYN-4A SalvageMech**](../../../units/hyena/hyena_hyn-4a_salvagemech.md) *Scout (3066)* `IndustrialMech` 
@@ -475,6 +479,11 @@
 - [**Stalker STK-9F**](../../../units/stalker/stalker_stk-9f.md) *Juggernaut (3142)* `Active Probe` 
 
 ### 90 Tons 
+
+#### [Blood Asp](../../../units/blood_asp.md) 
+
+- [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
+- [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 
 #### [Cyclops](../../../units/cyclops.md) 
 

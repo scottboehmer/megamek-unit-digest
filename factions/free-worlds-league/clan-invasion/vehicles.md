@@ -124,9 +124,9 @@
 - [**Heavy Wheeled APC (SRM)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Wheeled APC (Standard)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
-#### [M.A.S.H. Truck](../../../units/m.a.s.h._truck.md) 
+#### [MASH Truck](../../../units/mash_truck.md) 
 
-- [**M.A.S.H. Truck (Standard)**](../../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+- [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
 
 #### [Packrat LRPV](../../../units/packrat_lrpv.md) 
 
@@ -361,6 +361,7 @@
 
 - [**Vedette Medium Tank (Standard)**](../../../units/vedette_medium_tank/vedette_medium_tank_standard.md) *Brawler (2943)* 
 - [**Vedette Medium Tank (AC2)**](../../../units/vedette_medium_tank/vedette_medium_tank_ac2.md) *Brawler (2962)* 
+- [**Vedette Medium Tank (AC/10)**](../../../units/vedette_medium_tank/vedette_medium_tank_ac_10.md) *Undefined (3027)* 
 - [**Vedette Medium Tank (NETC)**](../../../units/vedette_medium_tank/vedette_medium_tank_netc.md) *Sniper (3056)* 
 
 ### 55 Tons 

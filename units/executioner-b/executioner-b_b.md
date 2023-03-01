@@ -17,6 +17,9 @@
   - Medium Pulse Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Distracting 
+  - Poor Performance 
 - **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8465) 
 - **Battle Value:** 3157 
 

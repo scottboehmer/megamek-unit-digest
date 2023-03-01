@@ -91,9 +91,9 @@
 - [**Heavy Wheeled APC (SRM)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Wheeled APC (Standard)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
-#### [M.A.S.H. Truck](../../../units/m.a.s.h._truck.md) 
+#### [MASH Truck](../../../units/mash_truck.md) 
 
-- [**M.A.S.H. Truck (Standard)**](../../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+- [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
 
 #### [Odin Scout Tank](../../../units/odin_scout_tank.md) 
 
@@ -207,6 +207,10 @@
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 
 - [**Oro Heavy Tank (Standard)**](../../../units/oro_heavy_tank/oro_heavy_tank_standard.md) *Brawler (2844)* 
+
+#### [Pike Support Vehicle](../../../units/pike_support_vehicle.md) 
+
+- [**Pike Support Vehicle (Clan)**](../../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
 
 #### [Thumper Artillery Vehicle](../../../units/thumper_artillery_vehicle.md) 
 

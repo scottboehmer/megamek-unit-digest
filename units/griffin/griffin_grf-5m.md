@@ -22,6 +22,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Light Gauss Rifle) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305) 
 - **Battle Value:** 1224 
 

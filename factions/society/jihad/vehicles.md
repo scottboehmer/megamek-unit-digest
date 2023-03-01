@@ -143,6 +143,10 @@
 
 - [**Oro Heavy Tank (Standard)**](../../../units/oro_heavy_tank/oro_heavy_tank_standard.md) *Brawler (2844)* 
 
+#### [Pike Support Vehicle](../../../units/pike_support_vehicle.md) 
+
+- [**Pike Support Vehicle (Clan)**](../../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
+
 ### 65 Tons 
 
 #### [Ishtar Heavy Fire Support Tank](../../../units/ishtar_heavy_fire_support_tank.md) 

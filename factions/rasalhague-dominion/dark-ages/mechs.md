@@ -397,6 +397,10 @@
 
 - [**Gravedigger GDR-1D**](../../../units/gravedigger/gravedigger_gdr-1d.md) *Sniper (3105)* `Active Probe` , `ECM` 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Hunchback](../../../units/hunchback.md) 
 
 - [**Hunchback C**](../../../units/hunchback/hunchback_c.md) *Skirmisher (3065)* 
@@ -587,6 +591,7 @@
 #### [Grizzly](../../../units/grizzly.md) 
 
 - [**Grizzly 2**](../../../units/grizzly/grizzly_2.md) *Skirmisher (3063)* 
+- [**Grizzly 3**](../../../units/grizzly/grizzly_3.md) *Skirmisher (3138)* 
 
 #### [Lumberjack](../../../units/lumberjack.md) 
 
@@ -735,6 +740,10 @@
 - [**Marauder IIC 3**](../../../units/marauder_iic/marauder_iic_3.md) *Brawler (3064)* 
 - [**Marauder IIC 4**](../../../units/marauder_iic/marauder_iic_4.md) *Sniper (3070)* 
 - [**Marauder IIC 7**](../../../units/marauder_iic/marauder_iic_7.md) *Juggernaut (3081)* `ECM` 
+
+#### [Shogun](../../../units/shogun.md) 
+
+- [**Shogun C 3**](../../../units/shogun/shogun_c_3.md) *Sniper (3139)* 
 
 ### 90 Tons 
 

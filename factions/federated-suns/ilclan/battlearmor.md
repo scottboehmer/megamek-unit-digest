@@ -91,6 +91,10 @@
 - [**Infiltrator Mk. II Battle Armor Coral Intent(Sqd4)**](../../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_coral_intentsqd4.md) *Ambusher (3074)* `C3 Support` , `Stealth` 
 - [**Infiltrator Mk. II Battle Armor (Marine)(Sqd4)**](../../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_marinesqd4.md) *Ambusher (3092)* `Stealth` 
 
+#### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+
 ### 1.50 Tons 
 
 #### [Gnome Battle Armor](../../../units/gnome_battle_armor.md) 

@@ -15,8 +15,6 @@
   - Plasma Rifle (ammo: 10) 
   - Medium X-Pulse Laser × 2 
   - Flamer × 3 
-- **Design Quirks:** 
-  - Cowl 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1092) 
 - **Battle Value:** 1065 
 

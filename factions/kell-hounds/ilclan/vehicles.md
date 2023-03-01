@@ -89,6 +89,10 @@
 - [**Browning Mobile HQ**](../../../units/browning_mobile_hq/browning_mobile_hq.md) *Undefined (2625)* `ECM` 
 - [**Browning Mobile HQ (Half Track)**](../../../units/browning_mobile_hq/browning_mobile_hq_half_track.md) *Undefined (2635)* `ECM` 
 
+#### [J. Edgar Light Hover Tank](../../../units/j._edgar_light_hover_tank.md) 
+
+- [**J. Edgar Light Hover Tank (X-Pulse)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_x-pulse.md) *Scout (3144)* 
+
 #### [Scorpion Light Tank](../../../units/scorpion_light_tank.md) 
 
 - [**Scorpion Light Tank (LAC)**](../../../units/scorpion_light_tank/scorpion_light_tank_lac.md) *Brawler (3072)* 

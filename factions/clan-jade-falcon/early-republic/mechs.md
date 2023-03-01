@@ -328,11 +328,16 @@
 #### [Conjurer](../../../units/conjurer.md) 
 
 - [**Conjurer (Standard)**](../../../units/conjurer/conjurer_standard.md) *Skirmisher (2829)* 
+- [**Conjurer 6**](../../../units/conjurer/conjurer_6.md) *Skirmisher (3063)* 
 
 #### [Crab](../../../units/crab.md) 
 
 - [**Crab CRB-27**](../../../units/crab/crab_crb-27.md) *Skirmisher (2719)* 
 - [**Crab CRB-27b**](../../../units/crab/crab_crb-27b.md) *Sniper (2719)* 
+
+#### [Hellcat-P](../../../units/hellcat-p.md) 
+
+- [**Hellcat-P (Standard)**](../../../units/hellcat-p/hellcat-p_standard.md) *Skirmisher (3065)* 
 
 #### [Hunchback IIC](../../../units/hunchback_iic.md) 
 

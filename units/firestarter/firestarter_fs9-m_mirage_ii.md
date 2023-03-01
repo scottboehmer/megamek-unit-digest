@@ -17,7 +17,9 @@
   - Clan ER Small Laser × 2 
   - Flamer × 3 
 - **Design Quirks:** 
-  - Cowl 
+  - Ubiquitous 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
 - **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9374) 
 - **Battle Value:** 1660 
 

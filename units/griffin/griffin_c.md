@@ -16,9 +16,6 @@
   - Streak LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Ubiquitous (Inner Sphere) 
-  - Battlefist (Left Arm) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7437) 
 - **Battle Value:** 2131 
 

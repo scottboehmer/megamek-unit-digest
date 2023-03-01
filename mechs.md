@@ -834,6 +834,7 @@
 - [**Javelin JVN-11D (Farrell)**](units/javelin/javelin_jvn-11d_farrell.md) *Striker (3068)* `Active Probe` , `Unique` 
 - [**Javelin JVN-11F**](units/javelin/javelin_jvn-11f.md) *Scout (3070)* 
 - [**Javelin JVN-11P**](units/javelin/javelin_jvn-11p.md) *Striker (3101)* 
+- [**Javelin JVN-12N**](units/javelin/javelin_jvn-12n.md) *Scout (3121)* `TAG` 
 
 #### [Kit Fox](units/kit_fox.md) 
 
@@ -1573,6 +1574,7 @@
 - [**Clint CLNT-2-3UL**](units/clint/clint_clnt-2-3ul.md) *Striker (3069)* 
 - [**Clint CLNT-3-3T**](units/clint/clint_clnt-3-3t.md) *Striker (3069)* 
 - [**Clint CLNT-6S**](units/clint/clint_clnt-6s.md) *Striker (3069)* 
+- [**Clint CLNT-3-4T**](units/clint/clint_clnt-3-4t.md) *Striker (3109)* 
 
 #### [Clint IIC](units/clint_iic.md) 
 
@@ -1847,6 +1849,7 @@
 - [**Vulcan VT-6M**](units/vulcan/vulcan_vt-6m.md) *Striker (3069)* 
 - [**Vulcan VT-6C**](units/vulcan/vulcan_vt-6c.md) *Striker (3070)* `C3i` 
 - [**Vulcan VT-5Sr**](units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
+- [**Vulcan VT-7T**](units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 - [**Vulcan VT-5ML 'Aladdin'**](units/vulcan/vulcan_vt-5ml_aladdin.md) *Sniper (3143)* `ECM` , `Stealth` , `Unique` 
 
 #### [Watchman](units/watchman.md) 
@@ -1871,6 +1874,7 @@
 - [**Whitworth WTH-3**](units/whitworth/whitworth_wth-3.md) *Missile Boat (3069)* `C3 Support` 
 - [**Whitworth WTH-K**](units/whitworth/whitworth_wth-k.md) *Missile Boat (3070)* `C3 Support` 
 - [**Whitworth WTH-5S**](units/whitworth/whitworth_wth-5s.md) *Brawler (3074)* `ECM` , `Unique` 
+- [**Whitworth WTH-2H**](units/whitworth/whitworth_wth-2h.md) *Brawler (3139)* 
 
 #### [Yurei](units/yurei.md) 
 
@@ -2361,6 +2365,7 @@
 - [**Conjurer (Standard)**](units/conjurer/conjurer_standard.md) *Skirmisher (2829)* 
 - [**Conjurer 7**](units/conjurer/conjurer_7.md) *Skirmisher (2836)* 
 - [**Conjurer 2**](units/conjurer/conjurer_2.md) *Skirmisher (3062)* 
+- [**Conjurer 6**](units/conjurer/conjurer_6.md) *Skirmisher (3063)* 
 - [**Conjurer 3**](units/conjurer/conjurer_3.md) *Skirmisher (3064)* 
 - [**Conjurer 4**](units/conjurer/conjurer_4.md) *Skirmisher (3065)* 
 - [**Conjurer 5**](units/conjurer/conjurer_5.md) *Skirmisher (3067)* 
@@ -2458,6 +2463,14 @@
 
 - [**Hel HL-1**](units/hel/hel_hl-1.md) *Undefined (3092)* 
 - [**Hel HL-2**](units/hel/hel_hl-2.md) *Skirmisher (3092)* 
+
+#### [Hellcat](units/hellcat.md) 
+
+- [**Hellcat (Standard)**](units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
+#### [Hellcat-P](units/hellcat-p.md) 
+
+- [**Hellcat-P (Standard)**](units/hellcat-p/hellcat-p_standard.md) *Skirmisher (3065)* 
 
 #### [Hunchback](units/hunchback.md) 
 
@@ -2926,6 +2939,7 @@
 - [**Hoplite HOP-4D**](units/hoplite/hoplite_hop-4d.md) *Sniper (3050)* 
 - [**Hoplite C**](units/hoplite/hoplite_c.md) *Brawler (3052)* 
 - [**Hoplite HOP-4X**](units/hoplite/hoplite_hop-4x.md) *Sniper (3075)* `Active Probe` 
+- [**Hoplite HOP-5C**](units/hoplite/hoplite_hop-5c.md) *Brawler (3138)* 
 
 #### [Hyena](units/hyena.md) 
 
@@ -4268,6 +4282,7 @@
 
 - [**Grizzly (Standard)**](units/grizzly/grizzly_standard.md) *Skirmisher (2947)* 
 - [**Grizzly 2**](units/grizzly/grizzly_2.md) *Skirmisher (3063)* 
+- [**Grizzly 3**](units/grizzly/grizzly_3.md) *Skirmisher (3138)* 
 
 #### [Guillotine](units/guillotine.md) 
 
@@ -4314,6 +4329,7 @@
 - [**JagerMech JM7-F**](units/jagermech/jagermech_jm7-f.md) *Brawler (3062)* `ECM` 
 - [**JagerMech JM7-G**](units/jagermech/jagermech_jm7-g.md) *Sniper (3068)* 
 - [**JagerMech JM7-C3BS**](units/jagermech/jagermech_jm7-c3bs.md) *Brawler (3075)* `C3 Support` 
+- [**JagerMech JM7-DD**](units/jagermech/jagermech_jm7-dd.md) *Sniper (3146)* 
 
 #### [Lightning](units/lightning.md) 
 
@@ -4421,6 +4437,14 @@
 - [**Uni ATAE-70 CargoMech**](units/uni/uni_atae-70_cargomech.md) *Ambusher (3050)* `IndustrialMech` 
 - [**Uni ATAE-70M MilitiaMech**](units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
 - [**Uni ATAE-70T CargoMech**](units/uni/uni_atae-70t_cargomech.md) *Undefined (3074)* `IndustrialMech` 
+
+#### [Viper](units/viper.md) 
+
+- [**Viper VP-1**](units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](units/viper/viper_vp-5.md) *Brawler (2958)* 
+- [**Viper VP-7**](units/viper/viper_vp-7.md) *Brawler (3124)* `Active Probe` 
+- [**Viper VP-8**](units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
+- [**Viper VP-9**](units/viper/viper_vp-9.md) *Brawler (3147)* `Active Probe` 
 
 #### [War Crow](units/war_crow.md) 
 
@@ -5393,6 +5417,7 @@
 - [**Shogun SHG-2E**](units/shogun/shogun_shg-2e.md) *Missile Boat (3005)* 
 - [**Shogun SHG-2F**](units/shogun/shogun_shg-2f.md) *Missile Boat (3029)* 
 - [**Shogun SHG-2F (Trisha)**](units/shogun/shogun_shg-2f_trisha.md) *Juggernaut (3071)* `Unique` 
+- [**Shogun C 3**](units/shogun/shogun_c_3.md) *Sniper (3139)* 
 
 #### [Stalker](units/stalker.md) 
 
@@ -5496,14 +5521,16 @@
 
 #### [Blood Asp](units/blood_asp.md) 
 
-- [**Blood Asp Prime**](units/blood_asp/blood_asp_prime.md) *Brawler (3060)* 
-- [**Blood Asp A**](units/blood_asp/blood_asp_a.md) *Brawler (3060)* `ECM` 
-- [**Blood Asp B**](units/blood_asp/blood_asp_b.md) *Missile Boat (3060)* `ECM` 
-- [**Blood Asp C**](units/blood_asp/blood_asp_c.md) *Brawler (3060)* 
-- [**Blood Asp D**](units/blood_asp/blood_asp_d.md) *Brawler (3060)* 
-- [**Blood Asp E**](units/blood_asp/blood_asp_e.md) *Skirmisher (3063)* 
-- [**Blood Asp F**](units/blood_asp/blood_asp_f.md) *Brawler (3071)* 
-- [**Blood Asp G**](units/blood_asp/blood_asp_g.md) *Brawler (3074)* 
+- [**Blood Asp Prime**](units/blood_asp/blood_asp_prime.md) *Undefined (3060)* 
+- [**Blood Asp A**](units/blood_asp/blood_asp_a.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp B**](units/blood_asp/blood_asp_b.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp C**](units/blood_asp/blood_asp_c.md) *Undefined (3060)* 
+- [**Blood Asp D**](units/blood_asp/blood_asp_d.md) *Undefined (3060)* 
+- [**Blood Asp E**](units/blood_asp/blood_asp_e.md) *Undefined (3063)* 
+- [**Blood Asp F**](units/blood_asp/blood_asp_f.md) *Undefined (3071)* 
+- [**Blood Asp G**](units/blood_asp/blood_asp_g.md) *Undefined (3074)* 
+- [**Blood Asp T**](units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
+- [**Blood Asp I**](units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 
 #### [Cyclops](units/cyclops.md) 
 
@@ -5561,6 +5588,7 @@
 - [**Highlander IIC (Standard)**](units/highlander_iic/highlander_iic_standard.md) *Missile Boat (2858)* 
 - [**Highlander IIC 2**](units/highlander_iic/highlander_iic_2.md) *Juggernaut (3072)* `ECM` 
 - [**Highlander IIC 3**](units/highlander_iic/highlander_iic_3.md) *Missile Boat (3077)* `ECM` 
+- [**Highlander IIC 4**](units/highlander_iic/highlander_iic_4.md) *Missile Boat (3147)* 
 
 #### [Juggernaut](units/juggernaut.md) 
 
@@ -5982,7 +6010,7 @@
 
 #### [Behemoth](units/behemoth.md) 
 
-- [**Behemoth BHN-6H**](units/behemoth/behemoth_bhn-6h.md) *Undefined (3004)* `Unique` 
+- [**Behemoth BHN-6H**](units/behemoth/behemoth_bhn-6h.md) *Juggernaut (3004)* `Unique` 
 
 #### [Berserker](units/berserker.md) 
 
@@ -6158,6 +6186,7 @@
 - [**Pillager PLG-5L**](units/pillager/pillager_plg-5l.md) *Missile Boat (3068)* `ECM` 
 - [**Pillager PLG-5Z**](units/pillager/pillager_plg-5z.md) *Sniper (3070)* `ECM` , `Stealth` 
 - [**Pillager PLG-4X 'Anvil'**](units/pillager/pillager_plg-4x_anvil.md) *Missile Boat (3077)* `Unique` 
+- [**Pillager PLG-6Z**](units/pillager/pillager_plg-6z.md) *Juggernaut (3142)* 
 
 #### [Scylla](units/scylla.md) 
 
@@ -6246,6 +6275,7 @@
 - [**Ares ARS-V1B Hades**](units/ares/ares_ars-v1b_hades.md) *Juggernaut (3136)* 
 - [**Ares ARS-V1C Aphrodite**](units/ares/ares_ars-v1c_aphrodite.md) *Juggernaut (3136)* `C3 Main` , `ECM` , `TAG` 
 - [**Ares ARS-V1D Hephaestus**](units/ares/ares_ars-v1d_hephaestus.md) *Juggernaut (3136)* `C3 Support` 
+- [**Ares ARS-V1E Apollo**](units/ares/ares_ars-v1e_apollo.md) *Undefined (3151)* 
 
 ### 150 Tons 
 

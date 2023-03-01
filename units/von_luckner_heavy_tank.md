@@ -33,7 +33,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
   - Small Pulse Laser 
   - Small Laser 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3450) 
+- **Sources:** Hist: Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3450) 
 - **Battle Value:** 1216 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_star_league.md) 
 
@@ -50,7 +50,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
   - Streak SRM 2 × 4 (ammo: 50) 
   - Small Pulse Laser 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3449) 
+- **Sources:** Hist: Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3449) 
 - **Battle Value:** 1261 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_royal.md) 
 
@@ -102,9 +102,29 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3454) 
+- **Sources:** Rec Guide:ilClan #32 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3454) 
 - **Battle Value:** 1350 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k75n.md) 
+
+## Von Luckner Heavy Tank VNL-K65W 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3063) 
+- **Chassis:** 75 tons Tracked 
+- **Movement:** 3 / 5, Light 
+- **Armor:** 197 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/20 (ammo: 20) 
+  - Streak SRM 4 × 2 (ammo: 25) 
+  - MML 5 w/ Artemis IV × 2 (ammo: 24 LRM, 20 SRM) 
+  - Small Pulse Laser 
+  - Light Machine Gun (ammo: 100) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #32 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9482) 
+- **Battle Value:** 1300 
+- [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65w.md) 
 
 ## Von Luckner Heavy Tank VNL-X71 (Yakuza) 
 
@@ -123,4 +143,59 @@
 - **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5788) 
 - **Battle Value:** 1188 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-x71_yakuza.md) 
+
+## Von Luckner Heavy Tank VNL-K105 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3130) 
+- **Chassis:** 75 tons Tracked 
+- **Movement:** 3 / 5, Light 
+- **Armor:** 143 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/20 × 2 (ammo: 30) 
+  - Streak SRM 4 (ammo: 25) 
+- **Equipment:** 
+  - CASE 
+- **Source:** Rec Guide:ilClan #32 - Dark Age 
+- **Battle Value:** 1326 
+- [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k105.md) 
+
+## Von Luckner Heavy Tank VNL-K85N 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3135) 
+- **Chassis:** 75 tons Tracked 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 176 (Hardened) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LB 20-X AC (ammo: 10 Standard, 5 Cluster) 
+  - SRM 6 × 2 (ammo: 15) 
+  - MRM 10 (ammo: 24) 
+  - SRM 4 (iOS) 
+  - Flamer 
+  - Machine Gun (ammo: 100) 
+- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9483) 
+- **Battle Value:** 1084 
+- [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k85n.md) 
+
+## Von Luckner Heavy Tank VNL-K90 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3145) 
+- **Chassis:** 75 tons Tracked 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 176 (Hardened) 
+- **Heat Sinks:** 13 (13) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - Snub-Nose PPC 
+  - SRM 4 (ammo: 25) 
+  - Rocket 10 
+  - Flamer 
+  - Machine Gun (ammo: 100) 
+- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9484) 
+- **Battle Value:** 1207 
+- [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k90.md) 
 

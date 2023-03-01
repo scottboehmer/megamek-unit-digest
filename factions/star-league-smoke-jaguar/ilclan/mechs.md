@@ -322,6 +322,10 @@
 
 - [**Crab CRB-27b**](../../../units/crab/crab_crb-27b.md) *Sniper (2719)* 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Huntsman](../../../units/huntsman.md) 
 
 - [**Huntsman Prime**](../../../units/huntsman/huntsman_prime.md) *Skirmisher (3049)* `Active Probe` , `TAG` 

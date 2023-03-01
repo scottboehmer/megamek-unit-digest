@@ -289,6 +289,14 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Conjurer](../../../units/conjurer.md) 
+
+- [**Conjurer 6**](../../../units/conjurer/conjurer_6.md) *Skirmisher (3063)* 
+
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Nova](../../../units/nova.md) 
 
 - [**Nova Prime**](../../../units/nova/nova_prime.md) *Skirmisher (2870)* 
@@ -339,6 +347,10 @@
 - [**Gyrfalcon 3**](../../../units/gyrfalcon/gyrfalcon_3.md) *Skirmisher (3112)* 
 - [**Gyrfalcon 4**](../../../units/gyrfalcon/gyrfalcon_4.md) *Skirmisher (3112)* 
 - [**Gyrfalcon 5**](../../../units/gyrfalcon/gyrfalcon_5.md) *Skirmisher (3133)* 
+
+#### [Hoplite](../../../units/hoplite.md) 
+
+- [**Hoplite HOP-5C**](../../../units/hoplite/hoplite_hop-5c.md) *Brawler (3138)* 
 
 #### [Stormcrow](../../../units/stormcrow.md) 
 
@@ -534,6 +546,11 @@
 - [**Thunder Stallion 4**](../../../units/thunder_stallion/thunder_stallion_4.md) *Juggernaut (3138)* 
 
 ### 90 Tons 
+
+#### [Blood Asp](../../../units/blood_asp.md) 
+
+- [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
+- [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 
 #### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 
 

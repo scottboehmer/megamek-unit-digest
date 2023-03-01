@@ -4,7 +4,7 @@
 
 ## Blood Asp F 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3071) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -18,9 +18,7 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/404) 
+- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/404) 
 - **Battle Value:** 2908 
 
 ## Availability 

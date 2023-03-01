@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/652) 
+- **Sources:** TRO 3060 - Early Succesion Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/652) 
 - **Battle Value:** 1395 
 - [*More Info*](clint_iic/clint_iic_standard.md) 
 
@@ -37,7 +37,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/653) 
+- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/653) 
 - **Battle Value:** 1890 
 - [*More Info*](clint_iic/clint_iic_2.md) 
 

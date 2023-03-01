@@ -56,9 +56,9 @@
 - [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
 - [**Gotha GTHA-400**](../../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
 
-#### [Hellcat](../../../units/hellcat.md) 
+#### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
-- [**Hellcat HCT-213**](../../../units/hellcat/hellcat_hct-213.md) *Dogfighter (2671)* 
+- [**Hellcat HCT-213**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213.md) *Dogfighter (2671)* 
 
 #### [Stingray](../../../units/stingray.md) 
 

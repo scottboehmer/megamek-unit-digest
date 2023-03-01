@@ -4,7 +4,7 @@
 
 ## Blood Asp Prime 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3060) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -17,9 +17,7 @@
   - Heavy Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/406) 
+- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/406) 
 - **Battle Value:** 2654 
 
 ## Availability 

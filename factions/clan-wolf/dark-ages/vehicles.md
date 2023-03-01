@@ -115,9 +115,9 @@
 - [**Heavy Wheeled APC (SRM)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_srm.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Wheeled APC (Standard)**](../../../units/heavy_wheeled_apc/heavy_wheeled_apc_standard.md) *Scout (2470)* `Transport:6.0` 
 
-#### [M.A.S.H. Truck](../../../units/m.a.s.h._truck.md) 
+#### [MASH Truck](../../../units/mash_truck.md) 
 
-- [**M.A.S.H. Truck (Standard)**](../../../units/m.a.s.h._truck/m.a.s.h._truck_standard.md) *Undefined (2671)* 
+- [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
 
 #### [MIT23 MASH Vehicle](../../../units/mit23_mash_vehicle.md) 
 
@@ -285,6 +285,11 @@
 
 - [**Condor Heavy Hover Tank C**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_c.md) *Striker (3082)* 
 
+#### [Drillson Heavy Hover Tank](../../../units/drillson_heavy_hover_tank.md) 
+
+- [**Drillson Heavy Hover Tank C**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_c.md) *Striker (3136)* 
+- [**Drillson Heavy Hover Tank C 2**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_c_2.md) *Striker (3138)* 
+
 #### [Epona Pursuit Tank](../../../units/epona_pursuit_tank.md) 
 
 - [**Epona Pursuit Tank Prime**](../../../units/epona_pursuit_tank/epona_pursuit_tank_prime.md) *Striker (2884)* 
@@ -349,9 +354,15 @@
 
 - [**Oro Heavy Tank (Standard)**](../../../units/oro_heavy_tank/oro_heavy_tank_standard.md) *Brawler (2844)* 
 
+#### [Pike Support Vehicle](../../../units/pike_support_vehicle.md) 
+
+- [**Pike Support Vehicle (Clan)**](../../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
+- [**Pike Support Vehicle (Plasma)**](../../../units/pike_support_vehicle/pike_support_vehicle_plasma.md) *Sniper (3145)* 
+
 #### [SRM Carrier](../../../units/srm_carrier.md) 
 
 - [**SRM Carrier (Standard)**](../../../units/srm_carrier/srm_carrier_standard.md) *Ambusher (2470)* 
+- [**SRM Carrier C**](../../../units/srm_carrier/srm_carrier_c.md) *Missile Boat (3106)* 
 
 ### 65 Tons 
 

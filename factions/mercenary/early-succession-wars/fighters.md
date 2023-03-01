@@ -58,10 +58,10 @@
 
 ### 60 Tons 
 
-#### [Hellcat](../../../units/hellcat.md) 
+#### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
-- [**Hellcat HCT-213**](../../../units/hellcat/hellcat_hct-213.md) *Dogfighter (2671)* 
-- [**Hellcat HCT-213D**](../../../units/hellcat/hellcat_hct-213d.md) *Dogfighter (2701)* 
+- [**Hellcat HCT-213**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213.md) *Dogfighter (2671)* 
+- [**Hellcat HCT-213D**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213d.md) *Dogfighter (2701)* 
 
 #### [Stingray](../../../units/stingray.md) 
 

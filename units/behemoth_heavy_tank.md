@@ -52,6 +52,26 @@
 - **Battle Value:** 1130 
 - [*More Info*](behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) 
 
+## Behemoth Heavy Tank (Refit) 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3060) 
+- **Chassis:** 100 tons Tracked 
+- **Movement:** 2 / 3, ICE 
+- **Armor:** 208 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
+  - SRM 6 × 2 (ammo: 30) 
+  - LRM 5 × 4 (ammo: 48) 
+  - SRM 2 × 4 (ammo: 50) 
+  - Machine Gun × 4 (ammo: 100) 
+- **Equipment:** 
+  - CASE 
+- **Source:** Rec Guide:ilClan #31 - Civil War 
+- **Battle Value:** 1246 
+- [*More Info*](behemoth_heavy_tank/behemoth_heavy_tank_refit.md) 
+
 ## Behemoth Heavy Tank (Kurita) 
 
 - **Role:** Juggernaut 
@@ -68,4 +88,63 @@
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/323) 
 - **Battle Value:** 1336 
 - [*More Info*](behemoth_heavy_tank/behemoth_heavy_tank_kurita.md) 
+
+## Behemoth Heavy Tank (Davion) 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3087) 
+- **Chassis:** 100 tons Tracked 
+- **Movement:** 2 / 3, Fusion 
+- **Armor:** 218 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Gauss Rifle × 2 (ammo: 40) 
+  - Streak SRM 6 × 2 (ammo: 15) 
+  - ER Medium Laser × 2 
+  - SRM 2 × 4 (ammo: 100) 
+  - Rocket 10 × 2 
+  - MagShot Gauss Rifle × 2 (ammo: 50) 
+- **Equipment:** 
+  - CASE 
+- **Source:** Rec Guide:ilClan #31 - Dark Age 
+- **Battle Value:** 1662 
+- [*More Info*](behemoth_heavy_tank/behemoth_heavy_tank_davion.md) 
+
+## Behemoth Heavy Tank (Liao) 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3138) 
+- **Chassis:** 100 tons Tracked 
+- **Movement:** 2 / 3, ICE 
+- **Armor:** 216 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+  - MML 5 × 8 (ammo: 72 LRM, 60 SRM) 
+  - Rocket 10 × 4 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - CASE 
+- **Source:** Rec Guide:ilClan #31 - Dark Age 
+- **Battle Value:** 1324 
+- [*More Info*](behemoth_heavy_tank/behemoth_heavy_tank_liao.md) 
+
+## Behemoth Heavy Tank (Kurita Upgrade) 
+
+- **Role:** Juggernaut 
+- **Tech Base:** Inner Sphere (3140) 
+- **Chassis:** 100 tons Tracked 
+- **Movement:** 2 / 3, Fusion 
+- **Armor:** 204 (Ballistic Reinforced) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Ultra AC/10 × 2 (ammo: 50) 
+  - Clan Streak SRM 6 × 3 (ammo: 30) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - CASE 
+  - Targeting Computer 
+- **Source:** Rec Guide:ilClan #31 - Dark Age 
+- **Battle Value:** 1432 
+- [*More Info*](behemoth_heavy_tank/behemoth_heavy_tank_kurita_upgrade.md) 
 

@@ -29,6 +29,20 @@
 - **Battle Value:** 881 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_anti-infantry.md) 
 
+## Schrek PPC Carrier (XL) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 138 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 30 (30) 
+- **Weapons:** 
+  - PPC × 3 
+- **Sources:** Rec Guide:ilClan #32 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9480) 
+- **Battle Value:** 1074 
+- [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_xl.md) 
+
 ## Schrek PPC Carrier (Armor) 
 
 - **Role:** Sniper 
@@ -39,7 +53,7 @@
 - **Heat Sinks:** 30 (30) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2825) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2825) 
 - **Battle Value:** 1005 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_armor.md) 
 
@@ -58,7 +72,24 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 24) 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2826) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2826) 
 - **Battle Value:** 993 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) 
+
+## Schrek PPC Carrier (LB-X) 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3120) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 112 (Hardened) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - PPC 
+  - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #32 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9479) 
+- **Battle Value:** 955 
+- [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_lb-x.md) 
 

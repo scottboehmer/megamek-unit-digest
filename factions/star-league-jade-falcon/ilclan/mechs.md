@@ -311,6 +311,10 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+
 #### [Nova](../../../units/nova.md) 
 
 - [**Nova Prime**](../../../units/nova/nova_prime.md) *Skirmisher (2870)* 

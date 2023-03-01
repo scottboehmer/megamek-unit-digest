@@ -127,9 +127,9 @@
 
 ### 60 Tons 
 
-#### [Hellcat](../../../units/hellcat.md) 
+#### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
-- [**Hellcat HCT-313**](../../../units/hellcat/hellcat_hct-313.md) *Fire Support (3073)* 
+- [**Hellcat HCT-313**](../../../units/hellcat_aerospace_fighter/hellcat_hct-313.md) *Fire Support (3073)* 
 
 #### [Visigoth](../../../units/visigoth.md) 
 

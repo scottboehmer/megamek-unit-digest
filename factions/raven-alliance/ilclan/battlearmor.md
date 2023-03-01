@@ -23,6 +23,14 @@
 
 ### 1 Tons 
 
+#### [Callisto Battle Armor](../../../units/callisto_battle_armor.md) 
+
+- [**Callisto Battle Armor A (Bearhunter)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_a_bearhuntersqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (ER Laser)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_a_er_lasersqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor A (HMG)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_a_hmgsqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (MRR)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd5.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (MRR)(Sqd6)**](../../../units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd6.md) *Undefined (3147)* 
+
 #### [Clan Medium Battle Armor](../../../units/clan_medium_battle_armor.md) 
 
 - [**Clan Medium Battle Armor (Rabid)(Sqd5)**](../../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabidsqd5.md) *Scout (3067)* 
@@ -69,4 +77,8 @@
 #### [Gnome Battle Armor](../../../units/gnome_battle_armor.md) 
 
 - [**Gnome Battle Armor (Standard)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_standardsqd5.md) *Juggernaut (3056)* 
+
+#### [Stormbird Battle Armor](../../../units/stormbird_battle_armor.md) 
+
+- [**Stormbird Battle Armor (Sqd5)**](../../../units/stormbird_battle_armor/stormbird_battle_armor_sqd5.md) *Ambusher (3092)* 
 

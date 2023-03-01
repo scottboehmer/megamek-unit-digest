@@ -36,6 +36,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (PPC) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1297) 
 - **Battle Value:** 1272 
 - [*More Info*](griffin/griffin_grf-1n.md) 
@@ -53,6 +54,11 @@
   - Medium Laser × 3 
   - Small Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
+  - Jettison-Capable Weapon (Large Laser) 
 - **Sources:** Rec Guide:ilClan #1 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9402) 
 - **Battle Value:** 1141 
 - [*More Info*](griffin/griffin_grf-1rg.md) 
@@ -72,6 +78,11 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
+  - Jettison-Capable Weapon (PPC) 
 - **Battle Value:** 1513 
 - [*More Info*](griffin/griffin_grf-2n2.md) 
 
@@ -94,6 +105,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299) 
 - **Battle Value:** 1606 
 - [*More Info*](griffin/griffin_grf-2n.md) 
@@ -115,6 +127,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Large Laser) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1298) 
 - **Battle Value:** 1253 
 - [*More Info*](griffin/griffin_grf-1s.md) 
@@ -135,6 +148,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (PPC) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1295) 
 - **Battle Value:** 1449 
 - [*More Info*](griffin/griffin_grf-1e_sparky.md) 
@@ -155,6 +169,11 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #1 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9401) 
 - **Battle Value:** 1213 
 - [*More Info*](griffin/griffin_grf-3rg.md) 
@@ -177,6 +196,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294) 
 - **Battle Value:** 1285 
 - [*More Info*](griffin/griffin_grf-1ds.md) 
@@ -200,6 +220,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1300) 
 - **Battle Value:** 1521 
 - [*More Info*](griffin/griffin_grf-3m.md) 
@@ -224,6 +245,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Light Gauss Rifle) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305) 
 - **Battle Value:** 1224 
 - [*More Info*](griffin/griffin_grf-5m.md) 
@@ -248,6 +270,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307) 
 - **Battle Value:** 1781 
 - [*More Info*](griffin/griffin_grf-6s.md) 
@@ -274,6 +297,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306) 
 - **Battle Value:** 1695 
 - [*More Info*](griffin/griffin_grf-6cs.md) 
@@ -297,6 +321,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Plasma Rifle) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1304) 
 - **Battle Value:** 1742 
 - [*More Info*](griffin/griffin_grf-5l.md) 
@@ -321,6 +346,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1309) 
 - **Battle Value:** 1778 
 - [*More Info*](griffin/griffin_grf-6s_francine.md) 
@@ -346,6 +372,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (LRM 10) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303) 
 - **Battle Value:** 1390 
 - [*More Info*](griffin/griffin_grf-5k.md) 
@@ -370,6 +397,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1308) 
 - **Battle Value:** 2249 
 - [*More Info*](griffin/griffin_grf-6s_francine_ii.md) 
@@ -393,6 +421,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296) 
 - **Battle Value:** 1862 
 - [*More Info*](griffin/griffin_grf-1e2_sparky_2.0.md) 
@@ -414,6 +443,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1302) 
 - **Battle Value:** 1412 
 - [*More Info*](griffin/griffin_grf-4r.md) 
@@ -435,6 +465,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (Plasma Rifle) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301) 
 - **Battle Value:** 1591 
 - [*More Info*](griffin/griffin_grf-4n.md) 
@@ -455,6 +486,11 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
+  - Jettison-Capable Weapon (RAC/2) 
 - **Sources:** Rec Guide:ilClan #1 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9403) 
 - **Battle Value:** 1515 
 - [*More Info*](griffin/griffin_grf-6r.md) 
@@ -475,8 +511,9 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
-  - Ubiquitous (Inner Sphere) 
-  - Battlefist (Left Arm) 
+  - Ubiquitous 
+  - Battlefists 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436) 
 - **Battle Value:** 1560 
 - [*More Info*](griffin/griffin_grf-3n.md) 
@@ -503,6 +540,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6899) 
 - **Battle Value:** 1870 
 - [*More Info*](griffin/griffin_grf-6s2.md) 
@@ -521,9 +559,6 @@
   - Streak LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Ubiquitous (Inner Sphere) 
-  - Battlefist (Left Arm) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7437) 
 - **Battle Value:** 2131 
 - [*More Info*](griffin/griffin_c.md) 

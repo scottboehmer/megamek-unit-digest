@@ -178,6 +178,10 @@
 - [**Hachiwara HCA-4T**](../../../units/hachiwara/hachiwara_hca-4t.md) *Skirmisher (3065)* 
 - [**Hachiwara HCA-4U**](../../../units/hachiwara/hachiwara_hca-4u.md) *Skirmisher (3066)* 
 
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-9**](../../../units/viper/viper_vp-9.md) *Brawler (3147)* `Active Probe` 
+
 ### 75 Tons 
 
 #### [Mortis](../../../units/mortis.md) 

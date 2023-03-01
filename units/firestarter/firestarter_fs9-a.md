@@ -16,7 +16,9 @@
   - Small Laser × 2 
   - Flamer × 4 
 - **Design Quirks:** 
-  - Cowl 
+  - Ubiquitous 
+  - Exposed Weapon Linkage (Flamer) 
+  - Exposed Weapon Linkage (Flamer) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1093) 
 - **Battle Value:** 773 
 

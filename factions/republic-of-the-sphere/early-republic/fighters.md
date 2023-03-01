@@ -108,9 +108,9 @@
 - [**Corsair CSR-V14**](../../../units/corsair/corsair_csr-v14.md) *Dogfighter (3051)* 
 - [**Corsair CSR-V18**](../../../units/corsair/corsair_csr-v18.md) *Fire Support (3069)* 
 
-#### [Hellcat II](../../../units/hellcat_ii.md) 
+#### [Hellcat II Aerospace Fighter](../../../units/hellcat_ii_aerospace_fighter.md) 
 
-- [**Hellcat II HCT-215**](../../../units/hellcat_ii/hellcat_ii_hct-215.md) *Fire Support (3070)* `Active Probe` 
+- [**Hellcat II HCT-215**](../../../units/hellcat_ii_aerospace_fighter/hellcat_ii_hct-215.md) *Fire Support (3070)* `Active Probe` 
 
 #### [Lancer](../../../units/lancer.md) 
 

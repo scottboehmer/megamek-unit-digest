@@ -4,7 +4,7 @@
 
 ## Blood Asp E 
 
-- **Role:** Skirmisher 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3063) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -18,9 +18,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/403) 
+- **Sources:** TRO 3060 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/403) 
 - **Battle Value:** 3179 
 
 ## Availability 

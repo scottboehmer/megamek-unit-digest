@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2020) 
+- **Sources:** TRO:3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2020) 
 - **Battle Value:** 1138 
 
 ## Availability 

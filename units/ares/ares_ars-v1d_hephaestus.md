@@ -6,7 +6,7 @@
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere Mixed (3136) 
-- **Chassis:** 135 tons Tripod (Endo Composite) 
+- **Chassis:** 135 tons Tripod (Superheavy Endo Composite) 
 - **Movement:** 2 / 3 
 - **Armor:** 456 
 - **Gyroscope:** Superheavy Gyro 

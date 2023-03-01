@@ -341,6 +341,10 @@
 - [**Strider SR1-OH**](../../../units/strider/strider_sr1-oh.md) *Sniper (3099)* 
 - [**Strider SR1-OM**](../../../units/strider/strider_sr1-om.md) *Scout (3135)* `C3 Main` , `TAG` 
 
+#### [Vulcan](../../../units/vulcan.md) 
+
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
+
 ### 45 Tons 
 
 #### [Bloodhound](../../../units/bloodhound.md) 
@@ -443,6 +447,10 @@
 
 - [**Hel HL-1**](../../../units/hel/hel_hl-1.md) *Undefined (3092)* 
 - [**Hel HL-2**](../../../units/hel/hel_hl-2.md) *Skirmisher (3092)* 
+
+#### [Hellcat](../../../units/hellcat.md) 
+
+- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
 
 #### [Hunchback](../../../units/hunchback.md) 
 
@@ -769,6 +777,11 @@
 #### [Thunder](../../../units/thunder.md) 
 
 - [**Thunder THR-1L**](../../../units/thunder/thunder_thr-1l.md) *Skirmisher (3055)* 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-7**](../../../units/viper/viper_vp-7.md) *Brawler (3124)* `Active Probe` 
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

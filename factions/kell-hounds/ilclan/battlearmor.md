@@ -65,6 +65,10 @@
 - [**Gray Death Standard Suit (SRM)(Sqd4)**](../../../units/gray_death_standard_suit/gray_death_standard_suit_srmsqd4.md) *Ambusher (3052)* `Active Probe` 
 - [**Gray Death Standard Suit (LRR)(Sqd4)**](../../../units/gray_death_standard_suit/gray_death_standard_suit_lrrsqd4.md) *Ambusher (3069)* `Active Probe` 
 
+#### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+
 #### [Rottweiler Battle Armor](../../../units/rottweiler_battle_armor.md) 
 
 - [**Rottweiler Battle Armor (Firedrake)(Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_firedrakesqd4.md) *Scout (3072)* `Stealth` 

@@ -17,6 +17,11 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
+  - Jettison-Capable Weapon (PPC) 
 - **Battle Value:** 1513 
 
 ## Availability 

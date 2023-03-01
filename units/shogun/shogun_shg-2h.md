@@ -23,7 +23,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2934) 
+- **Sources:** Hist:Op. Klondike - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2934) 
 - **Battle Value:** 2087 
 
 ## Availability 

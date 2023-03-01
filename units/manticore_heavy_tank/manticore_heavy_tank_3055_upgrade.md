@@ -15,7 +15,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2015) 
+- **Sources:** TRO:3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2015) 
 - **Battle Value:** 957 
 
 ## Availability 

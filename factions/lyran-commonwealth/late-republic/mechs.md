@@ -392,6 +392,7 @@
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
 - [**Vulcan VT-5S**](../../../units/vulcan/vulcan_vt-5s.md) *Striker (3050)* 
 - [**Vulcan VT-5Sr**](../../../units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
+- [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 ### 45 Tons 
 
@@ -834,6 +835,11 @@
 
 - [**Uni ATAE-70 CargoMech**](../../../units/uni/uni_atae-70_cargomech.md) *Ambusher (3050)* `IndustrialMech` 
 - [**Uni ATAE-70M MilitiaMech**](../../../units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
+
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-7**](../../../units/viper/viper_vp-7.md) *Brawler (3124)* `Active Probe` 
+- [**Viper VP-8**](../../../units/viper/viper_vp-8.md) *Brawler (3130)* `Active Probe` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

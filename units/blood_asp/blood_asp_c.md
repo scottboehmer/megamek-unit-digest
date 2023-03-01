@@ -4,7 +4,7 @@
 
 ## Blood Asp C 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3060) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -16,9 +16,7 @@
   - Ultra AC/10 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/401) 
+- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/401) 
 - **Battle Value:** 2270 
 
 ## Availability 

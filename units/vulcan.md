@@ -167,6 +167,30 @@
 - **Battle Value:** 1210 
 - [*More Info*](vulcan/vulcan_vt-5sr.md) 
 
+## Vulcan VT-7T 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3091) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 6 / 9 (12), XL 
+  - **Jumping:** 6 
+- **Armor:** 101 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Plasma Rifle (ammo: 20) 
+  - ER Medium Laser 
+  - Heavy Flamer (ammo: 10) 
+  - Heavy Machine Gun (ammo: 50) 
+- **Equipment:** 
+  - Supercharger 
+  - Targeting Computer 
+  - CASE II 
+- **Design Quirks:** 
+  - Narrow/Low Profile 
+- **Sources:** Rec Guide:ilClan #30 - Rec Guide:ilClan #30 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9427) 
+- **Battle Value:** 1500 
+- [*More Info*](vulcan/vulcan_vt-7t.md) 
+
 ## Vulcan VT-5ML 'Aladdin' 
 
 - **Role:** Sniper 

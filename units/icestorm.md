@@ -15,6 +15,7 @@
   - CASE 
   - TAG 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Rugged (×2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1602) 
 - **Battle Value:** 728 
@@ -34,6 +35,7 @@
 - **Equipment:** 
   - Light TAG 
 - **Design Quirks:** 
+  - Improved Sensors 
   - Rugged (×2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1603) 
 - **Battle Value:** 868 

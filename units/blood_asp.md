@@ -2,7 +2,7 @@
 
 ## Blood Asp Prime 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3060) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -15,15 +15,13 @@
   - Heavy Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/406) 
+- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/406) 
 - **Battle Value:** 2654 
 - [*More Info*](blood_asp/blood_asp_prime.md) 
 
 ## Blood Asp A 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3060) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -36,15 +34,13 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/399) 
+- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/399) 
 - **Battle Value:** 3452 
 - [*More Info*](blood_asp/blood_asp_a.md) 
 
 ## Blood Asp B 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3060) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -57,15 +53,13 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/400) 
+- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/400) 
 - **Battle Value:** 2885 
 - [*More Info*](blood_asp/blood_asp_b.md) 
 
 ## Blood Asp C 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3060) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -77,15 +71,13 @@
   - Ultra AC/10 × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/401) 
+- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/401) 
 - **Battle Value:** 2270 
 - [*More Info*](blood_asp/blood_asp_c.md) 
 
 ## Blood Asp D 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3060) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -98,15 +90,13 @@
   - Ultra AC/2 × 3 (ammo: 45) 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/402) 
+- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/402) 
 - **Battle Value:** 2396 
 - [*More Info*](blood_asp/blood_asp_d.md) 
 
 ## Blood Asp E 
 
-- **Role:** Skirmisher 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3063) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -120,15 +110,13 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/403) 
+- **Sources:** TRO 3060 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/403) 
 - **Battle Value:** 3179 
 - [*More Info*](blood_asp/blood_asp_e.md) 
 
 ## Blood Asp F 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3071) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -142,15 +130,13 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/404) 
+- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/404) 
 - **Battle Value:** 2908 
 - [*More Info*](blood_asp/blood_asp_f.md) 
 
 ## Blood Asp G 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3074) 
 - **Chassis:** 90 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -164,9 +150,45 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Design Quirks:** 
-  - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/405) 
+- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/405) 
 - **Battle Value:** 3270 
 - [*More Info*](blood_asp/blood_asp_g.md) 
+
+## Blood Asp T 
+
+- **Role:** Undefined 
+- **Tech Base:** Clan Mixed (3142) 
+- **Chassis:** 90 tons (Endo Steel) 
+- **Movement:** 4 / 6 (8), XL 
+- **Armor:** 256 
+- **Heat Sinks:** 22 (44) 
+- **Weapons:** 
+  - ER Large Laser × 2 
+  - Inner Sphere Plasma Rifle × 2 (ammo: 50) 
+  - ER Medium Laser × 4 
+  - SRM 6 (ammo: 15) 
+- **Equipment:** 
+  - CASE II 
+  - Inner Sphere Supercharger 
+- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9486) 
+- **Battle Value:** 3069 
+- [*More Info*](blood_asp/blood_asp_t.md) 
+
+## Blood Asp I 
+
+- **Role:** Undefined 
+- **Tech Base:** Clan Mixed (3148) 
+- **Chassis:** 90 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+- **Armor:** 256 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Inner Sphere Improved Heavy Gauss Rifle (ammo: 16) 
+  - Inner Sphere Large Re-Engineered Laser × 2 
+  - ER Small Laser × 4 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9485) 
+- **Battle Value:** 2252 
+- [*More Info*](blood_asp/blood_asp_i.md) 
 
