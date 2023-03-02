@@ -18,6 +18,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -300,6 +304,7 @@
 - [**Hetzer Wheeled Assault Gun (AC10)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_ac10.md) *Ambusher (2893)* 
 - [**Hetzer Wheeled Assault Gun (SRM)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_srm.md) *Ambusher (2957)* 
 - [**Hetzer Wheeled Assault Gun (LRM)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lrm.md) *Missile Boat (3001)* 
+- [**Hetzer Wheeled Assault Gun (LB-X)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lb-x.md) *Ambusher (3063)* 
 - [**Hetzer Wheeled Assault Gun (Cell)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_cell.md) *Ambusher (3090)* 
 
 #### [Light SRM Carrier](../../../units/light_srm_carrier.md) 
@@ -316,6 +321,10 @@
 - [**Stygian Strike Tank (Armor)**](../../../units/stygian_strike_tank/stygian_strike_tank_armor.md) *Missile Boat (3065)* 
 
 ### 45 Tons 
+
+#### [Goblin II Infantry Support Vehicle](../../../units/goblin_ii_infantry_support_vehicle.md) 
+
+- [**Goblin II Infantry Support Vehicle (Standard)**](../../../units/goblin_ii_infantry_support_vehicle/goblin_ii_infantry_support_vehicle_standard.md) *Missile Boat (3068)* `Transport:3.0` 
 
 #### [Goblin Medium Tank](../../../units/goblin_medium_tank.md) 
 
@@ -355,6 +364,10 @@
 
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
+
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
 
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
@@ -426,6 +439,7 @@
 #### [Manticore Heavy Tank](../../../units/manticore_heavy_tank.md) 
 
 - [**Manticore Heavy Tank (Standard)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_standard.md) *Brawler (2575)* 
+- [**Manticore Heavy Tank (3055 Upgrade)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_3055_upgrade.md) *Brawler (3055)* 
 
 #### [Marsden II MBT](../../../units/marsden_ii_mbt.md) 
 
@@ -459,6 +473,10 @@
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
 - [**Mobile Long Tom Artillery LT-MOB-25F**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25f.md) *Missile Boat (2695)* 
+
+#### [Patton Tank](../../../units/patton_tank.md) 
+
+- [**Patton Tank (Ultra)**](../../../units/patton_tank/patton_tank_ultra.md) *Brawler (3062)* 
 
 ### 70 Tons 
 
@@ -499,6 +517,7 @@
 
 - [**Demolisher Heavy Tank (Defensive)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_defensive.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
+- [**Demolisher Heavy Tank (Gauss)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_gauss.md) *Sniper (3053)* 
 - [**Demolisher Heavy Tank (MRM)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_mrm.md) *Juggernaut (3060)* `C3 Support` 
 - [**Demolisher Heavy Tank (Arrow IV)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_arrow_iv.md) *Missile Boat (3062)* 
 
@@ -506,9 +525,17 @@
 
 - [**Devastator Heavy Tank (Standard)**](../../../units/devastator_heavy_tank/devastator_heavy_tank_standard.md) *Juggernaut (3003)* 
 
+#### [Fortune Wheeled Assault Vehicle](../../../units/fortune_wheeled_assault_vehicle.md) 
+
+- [**Fortune Wheeled Assault Vehicle (Standard)**](../../../units/fortune_wheeled_assault_vehicle/fortune_wheeled_assault_vehicle_standard.md) *Juggernaut (3067)* 
+
 #### [Heavy LRM Carrier](../../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier (Standard)**](../../../units/heavy_lrm_carrier/heavy_lrm_carrier_standard.md) *Missile Boat (3058)* 
+
+#### [Heavy NLRM Carrier](../../../units/heavy_nlrm_carrier.md) 
+
+- [**Heavy NLRM Carrier (Standard)**](../../../units/heavy_nlrm_carrier/heavy_nlrm_carrier_standard.md) *Missile Boat (3083)* 
 
 #### [Partisan Air Defense Tank](../../../units/partisan_air_defense_tank.md) 
 
@@ -546,6 +573,10 @@
 
 ### 95 Tons 
 
+#### [Alacorn Heavy Tank](../../../units/alacorn_heavy_tank.md) 
+
+- [**Alacorn Heavy Tank Mk VI**](../../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) *Sniper (2590)* 
+
 #### [JES II Strategic Missile Carrier](../../../units/jes_ii_strategic_missile_carrier.md) 
 
 - [**JES II Strategic Missile Carrier (Standard)**](../../../units/jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_standard.md) *Missile Boat (3079)* `C3 Support` , `ECM` 
@@ -558,6 +589,7 @@
 #### [Ontos Heavy Tank](../../../units/ontos_heavy_tank.md) 
 
 - [**Ontos Heavy Tank (Standard)**](../../../units/ontos_heavy_tank/ontos_heavy_tank_standard.md) *Juggernaut (2832)* 
+- [**Ontos Heavy Tank (3053 Upgrade)**](../../../units/ontos_heavy_tank/ontos_heavy_tank_3053_upgrade.md) *Juggernaut (3053)* 
 
 ### 100 Tons 
 

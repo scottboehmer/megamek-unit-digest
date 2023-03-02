@@ -552,6 +552,14 @@
 
 #### [Pouncer](../../../units/pouncer.md) 
 
+- [**Pouncer Prime**](../../../units/pouncer/pouncer_prime.md) *Sniper (3050)* 
+- [**Pouncer A**](../../../units/pouncer/pouncer_a.md) *Missile Boat (3050)* 
+- [**Pouncer B**](../../../units/pouncer/pouncer_b.md) *Sniper (3050)* 
+- [**Pouncer C**](../../../units/pouncer/pouncer_c.md) *Striker (3050)* 
+- [**Pouncer D**](../../../units/pouncer/pouncer_d.md) *Striker (3050)* 
+- [**Pouncer E**](../../../units/pouncer/pouncer_e.md) *Striker (3061)* 
+- [**Pouncer H**](../../../units/pouncer/pouncer_h.md) *Striker (3062)* 
+- [**Pouncer F**](../../../units/pouncer/pouncer_f.md) *Scout (3069)* `Active Probe` 
 - [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
 
 #### [Sentinel](../../../units/sentinel.md) 
@@ -1903,6 +1911,7 @@
 
 #### [Marauder II](../../../units/marauder_ii.md) 
 
+- [**Marauder II MAD-5C**](../../../units/marauder_ii/marauder_ii_mad-5c.md) *Sniper (3052)* 
 - [**Marauder II MAD-4S**](../../../units/marauder_ii/marauder_ii_mad-4s.md) *Juggernaut (3064)* 
 - [**Marauder II MAD-6M**](../../../units/marauder_ii/marauder_ii_mad-6m.md) *Skirmisher (3078)* `ECM` 
 

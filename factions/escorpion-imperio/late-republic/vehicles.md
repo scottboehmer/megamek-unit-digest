@@ -2,6 +2,12 @@
 
 ## Combat Vehicles 
 
+### 5 Tons 
+
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 ### 10 Tons 
 
 #### [Armored Personnel Carrier](../../../units/armored_personnel_carrier.md) 
@@ -182,10 +188,6 @@
 
 - [**Hachiman Fire Support Tank (Standard)**](../../../units/hachiman_fire_support_tank/hachiman_fire_support_tank_standard.md) *Missile Boat (2842)* 
 
-#### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
-
-- [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
-
 #### [Korvin Tank](../../../units/korvin_tank.md) 
 
 - [**Korvin Tank KRV-3**](../../../units/korvin_tank/korvin_tank_krv-3.md) *Missile Boat (2544)* 
@@ -193,10 +195,6 @@
 #### [Ku Wheeled Assault Tank](../../../units/ku_wheeled_assault_tank.md) 
 
 - [**Ku Wheeled Assault Tank (Standard)**](../../../units/ku_wheeled_assault_tank/ku_wheeled_assault_tank_standard.md) *Brawler (2842)* 
-
-#### [LTV-4 Hover Tank](../../../units/ltv-4_hover_tank.md) 
-
-- [**LTV-4 Hover Tank (Standard)**](../../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
 
 #### [Maxim Heavy Hover Transport](../../../units/maxim_heavy_hover_transport.md) 
 

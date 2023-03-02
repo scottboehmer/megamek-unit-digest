@@ -19,7 +19,77 @@
 
 ## Availability 
 
+### Star League 
+
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+
 ### Early Succession Wars 
 
+- Circinus Federation 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Pirate 
 - Star League-in-Exile 
+- Taurian Concordat 
+
+### Late Succession Wars - LosTech 
+
+- Circinus Federation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+
+### Late Succession Wars - Renaissance 
+
+- Circinus Federation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+
+### Clan Invasion 
+
+- Circinus Federation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+
+### Civil War 
+
+- Circinus Federation 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+
+### Jihad 
+
+- Calderon Protectorate 
+- Circinus Federation 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

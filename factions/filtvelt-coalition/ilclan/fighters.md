@@ -44,6 +44,7 @@
 
 - [**Sparrowhawk SPR-H5**](../../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
 - [**Sparrowhawk SPR-6D**](../../../units/sparrowhawk/sparrowhawk_spr-6d.md) *Interceptor (3051)* 
+- [**Sparrowhawk SPR-7Dr**](../../../units/sparrowhawk/sparrowhawk_spr-7dr.md) *Interceptor (3130)* 
 
 ### 35 Tons 
 

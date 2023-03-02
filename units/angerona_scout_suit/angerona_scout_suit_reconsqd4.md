@@ -37,5 +37,7 @@
 
 ### ilClan 
 
+- Federated Suns 
+- Free Worlds League 
 - Mercenary 
 

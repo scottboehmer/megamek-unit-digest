@@ -39,4 +39,5 @@
 
 - Capellan Confederation 
 - Federated Suns 
+- Wolf's Dragoons 
 

@@ -32,7 +32,7 @@
 - [**Callisto Battle Armor A (ER Laser)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_a_er_lasersqd5.md) *Undefined (3147)* 
 - [**Callisto Battle Armor A (HMG)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_a_hmgsqd5.md) *Undefined (3147)* 
 - [**Callisto Battle Armor B (MRR)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd5.md) *Undefined (3147)* 
-- [**Callisto Battle Armor B (MRR)(Sqd6)**](../../../units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd6.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (SRM)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_b_srmsqd5.md) *Undefined (3147)* 
 
 #### [Clan Medium Battle Armor](../../../units/clan_medium_battle_armor.md) 
 

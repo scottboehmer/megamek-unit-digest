@@ -26,10 +26,4 @@
 ### Star League 
 
 - Rim Worlds Republic 
-- Rim Worlds Republic - Terran Corps 
-- Taurian Concordat 
-
-### Early Succession Wars 
-
-- Taurian Concordat 
 

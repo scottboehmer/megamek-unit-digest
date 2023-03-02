@@ -284,6 +284,7 @@
 #### [Whitworth](../../../units/whitworth.md) 
 
 - [**Whitworth WTH-1**](../../../units/whitworth/whitworth_wth-1.md) *Missile Boat (2689)* 
+- [**Whitworth WTH-2**](../../../units/whitworth/whitworth_wth-2.md) *Missile Boat (3050)* 
 
 ### 45 Tons 
 
@@ -965,6 +966,8 @@
 #### [Marauder II](../../../units/marauder_ii.md) 
 
 - [**Marauder II MAD-4A**](../../../units/marauder_ii/marauder_ii_mad-4a.md) *Juggernaut (3012)* 
+- [**Marauder II MAD-5A**](../../../units/marauder_ii/marauder_ii_mad-5a.md) *Sniper (3049)* 
+- [**Marauder II MAD-5C**](../../../units/marauder_ii/marauder_ii_mad-5c.md) *Sniper (3052)* 
 
 #### [Pillager](../../../units/pillager.md) 
 

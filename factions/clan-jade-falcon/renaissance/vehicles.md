@@ -4,6 +4,10 @@
 
 ### 3 Tons 
 
+#### [Ground Car](../../../units/ground_car.md) 
+
+- [**Ground Car (Standard)**](../../../units/ground_car/ground_car_standard.md) *Undefined (1950)* `Transport:0.5` 
+
 #### [Jet Sled](../../../units/jet_sled.md) 
 
 - [**Jet Sled (Standard)**](../../../units/jet_sled/jet_sled_standard.md) *Undefined (2300)* `Transport:0.5` 
@@ -14,15 +18,27 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
+#### [Armored Personnel Carrier](../../../units/armored_personnel_carrier.md) 
+
+- [**Armored Personnel Carrier (Hover LRM)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_hover_lrm.md) *Missile Boat (2500)* 
+- [**Armored Personnel Carrier (Hover MG)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_hover_mg.md) *Scout (2500)* 
+- [**Armored Personnel Carrier (Hover SRM)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_hover_srm.md) *Scout (2500)* `Transport:1.0` 
+- [**Armored Personnel Carrier (Hover)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_hover.md) *Scout (2500)* `Transport:1.0` 
+
 #### [Flatbed Truck](../../../units/flatbed_truck.md) 
 
 - [**Flatbed Truck (AC)**](../../../units/flatbed_truck/flatbed_truck_ac.md) *Scout (2580)* 
+- [**Flatbed Truck (Armor)**](../../../units/flatbed_truck/flatbed_truck_armor.md) *Scout (2580)* 
 - [**Flatbed Truck (Standard)**](../../../units/flatbed_truck/flatbed_truck_standard.md) *Undefined (2580)* 
 
 #### [J-27 Ordnance Transport](../../../units/j-27_ordnance_transport.md) 
@@ -80,6 +96,10 @@
 #### [MASH Truck](../../../units/mash_truck.md) 
 
 - [**MASH Truck (Standard)**](../../../units/mash_truck/mash_truck_standard.md) *Undefined (2671)* 
+
+#### [Wheeled Scout](../../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
 
 ### 21 Tons 
 

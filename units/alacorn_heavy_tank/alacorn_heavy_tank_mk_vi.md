@@ -131,6 +131,7 @@
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Republic of the Sphere 
 - Scorpion Empire 
 
@@ -139,6 +140,7 @@
 - Clan Protectorate 
 - Clan Sea Fox 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Scorpion Empire 
 - Tamar Pact 
 - Vesper Marches 

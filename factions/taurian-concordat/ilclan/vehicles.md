@@ -24,6 +24,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -331,6 +335,10 @@
 
 ### 45 Tons 
 
+#### [Goblin II Infantry Support Vehicle](../../../units/goblin_ii_infantry_support_vehicle.md) 
+
+- [**Goblin II Infantry Support Vehicle (Standard)**](../../../units/goblin_ii_infantry_support_vehicle/goblin_ii_infantry_support_vehicle_standard.md) *Missile Boat (3068)* `Transport:3.0` 
+
 #### [Goblin Medium Tank](../../../units/goblin_medium_tank.md) 
 
 - [**Goblin Medium Tank (Standard)**](../../../units/goblin_medium_tank/goblin_medium_tank_standard.md) *Brawler (2500)* `Transport:1.0` 
@@ -369,6 +377,10 @@
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
 - [**Drillson Heavy Hover Tank (MML)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_mml.md) *Undefined (3087)* 
+
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
 
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 

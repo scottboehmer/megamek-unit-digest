@@ -90,13 +90,13 @@
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
 
 ### 45 Tons 
 
@@ -158,6 +158,7 @@
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2Hb**](../../../units/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)* 
+- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (2826)* 
 
 #### [Stooping Hawk](../../../units/stooping_hawk.md) 
 
@@ -208,6 +209,10 @@
 
 - [**Ostroc OSR-2Cb**](../../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
 
+#### [Rifleman](../../../units/rifleman.md) 
+
+- [**Rifleman C**](../../../units/rifleman/rifleman_c.md) *Sniper (2826)* 
+
 ### 65 Tons 
 
 #### [Bombardier](../../../units/bombardier.md) 
@@ -238,6 +243,7 @@
 #### [Archer](../../../units/archer.md) 
 
 - [**Archer ARC-2Rb**](../../../units/archer/archer_arc-2rb.md) *Missile Boat (2752)* 
+- [**Archer C**](../../../units/archer/archer_c.md) *Missile Boat (2824)* 
 
 #### [Excalibur](../../../units/excalibur.md) 
 
@@ -259,6 +265,7 @@
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6Rb**](../../../units/warhammer/warhammer_whm-6rb.md) *Brawler (2599)* 
+- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (2825)* 
 
 ### 75 Tons 
 
@@ -274,6 +281,7 @@
 
 - [**Marauder MAD-1R**](../../../units/marauder/marauder_mad-1r.md) *Sniper (2612)* 
 - [**Marauder MAD-2R**](../../../units/marauder/marauder_mad-2r.md) *Sniper (2760)* 
+- [**Marauder C**](../../../units/marauder/marauder_c.md) *Sniper (2827)* 
 
 #### [Spirit Walker](../../../units/spirit_walker.md) 
 
@@ -297,6 +305,14 @@
 - [**Gargoyle B**](../../../units/gargoyle/gargoyle_b.md) *Sniper (2945)* 
 - [**Gargoyle C**](../../../units/gargoyle/gargoyle_c.md) *Skirmisher (2945)* 
 - [**Gargoyle D**](../../../units/gargoyle/gargoyle_d.md) *Skirmisher (2945)* 
+
+#### [Naga](../../../units/naga.md) 
+
+- [**Naga A**](../../../units/naga/naga_a.md) *Missile Boat (2869)* 
+- [**Naga B**](../../../units/naga/naga_b.md) *Missile Boat (2869)* 
+- [**Naga C**](../../../units/naga/naga_c.md) *Missile Boat (2869)* 
+- [**Naga D**](../../../units/naga/naga_d.md) *Missile Boat (2869)* 
+- [**Naga Prime**](../../../units/naga/naga_prime.md) *Missile Boat (2945)* 
 
 #### [Naga II](../../../units/naga_ii.md) 
 

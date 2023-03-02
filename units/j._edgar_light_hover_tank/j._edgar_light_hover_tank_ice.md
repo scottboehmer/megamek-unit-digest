@@ -28,6 +28,7 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 
@@ -43,6 +44,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 
@@ -59,6 +61,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - St. Ives Compact 
@@ -77,6 +80,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 
@@ -93,6 +97,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 
@@ -111,6 +116,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 
@@ -125,6 +131,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Regulan Fiefs 
 - Rim Commonality 
@@ -137,6 +144,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Taurian Concordat 
 
@@ -147,6 +155,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Taurian Concordat 
 
@@ -157,6 +166,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Taurian Concordat 
 

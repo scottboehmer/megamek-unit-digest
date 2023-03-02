@@ -1,6 +1,6 @@
-# Viper Z 
+# Viper OmniMech Z 
 
-[Other Viper variants](../viper.md) 
+[Other Viper OmniMech variants](../viper_omnimech.md) 
 
 ## Viper "Dragonfly" Z 
 

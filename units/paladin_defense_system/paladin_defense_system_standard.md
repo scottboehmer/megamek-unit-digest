@@ -24,7 +24,6 @@
 
 ### Late Republic 
 
-- Capellan Confederation 
 - Federated Suns 
 - Mercenary 
 - Republic of the Sphere 

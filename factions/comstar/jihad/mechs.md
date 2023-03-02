@@ -199,6 +199,10 @@
 - [**UrbanMech UM-R63**](../../../units/urbanmech/urbanmech_um-r63.md) *Sniper (3050)* 
 - [**UrbanMech UM-R69**](../../../units/urbanmech/urbanmech_um-r69.md) *Sniper (3063)* 
 
+#### [Valkyrie](../../../units/valkyrie.md) 
+
+- [**Valkyrie VLK-QA**](../../../units/valkyrie/valkyrie_vlk-qa.md) *Missile Boat (2787)* 
+
 ### 35 Tons 
 
 #### [Adder](../../../units/adder.md) 
@@ -293,18 +297,18 @@
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](../../../units/viper/viper_h.md) *Striker (3062)* 
-- [**Viper I**](../../../units/viper/viper_i.md) *Striker (3068)* `Active Probe` 
-- [**Viper F**](../../../units/viper/viper_f.md) *Striker (3070)* 
-- [**Viper G**](../../../units/viper/viper_g.md) *Striker (3071)* `Active Probe` 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](../../../units/viper_omnimech/viper_h.md) *Striker (3062)* 
+- [**Viper I**](../../../units/viper_omnimech/viper_i.md) *Striker (3068)* `Active Probe` 
+- [**Viper F**](../../../units/viper_omnimech/viper_f.md) *Striker (3070)* 
+- [**Viper G**](../../../units/viper_omnimech/viper_g.md) *Striker (3071)* `Active Probe` 
 
 #### [Vulcan](../../../units/vulcan.md) 
 

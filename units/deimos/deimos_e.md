@@ -32,9 +32,13 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
+- Rasalhague Dominion 
 - Raven Alliance 
 
 ### ilClan 
 
+- Clan Sea Fox 
+- Rasalhague Dominion 
 - Raven Alliance 
 

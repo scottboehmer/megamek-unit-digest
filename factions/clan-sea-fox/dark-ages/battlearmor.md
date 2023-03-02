@@ -4,6 +4,14 @@
 
 ### 0.75 Tons 
 
+#### [Constable Pacification Suit](../../../units/constable_pacification_suit.md) 
+
+- [**Constable Pacification Suit (ECM) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_ecm_sqd5.md) *Ambusher (3092)* `ECM` 
+- [**Constable Pacification Suit (LMG) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_lmg_sqd5.md) *Ambusher (3092)* 
+- [**Constable Pacification Suit (Sensor) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_sensor_sqd5.md) *Scout (3092)* `Active Probe` 
+- [**Constable Pacification Suit (SRM) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_srm_sqd5.md) *Ambusher (3092)* 
+- [**Constable Pacification Suit (TAG) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_tag_sqd5.md) *Scout (3092)* `TAG` 
+
 #### [Sea Fox Amphibious Armor](../../../units/sea_fox_amphibious_armor.md) 
 
 - [**Sea Fox Amphibious Armor (Standard)(Sqd5)**](../../../units/sea_fox_amphibious_armor/sea_fox_amphibious_armor_standardsqd5.md) *Ambusher (3116)* `Stealth` 

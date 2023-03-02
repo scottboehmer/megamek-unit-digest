@@ -72,6 +72,7 @@
 - Fronc Reaches 
 - Kell Hounds 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
@@ -82,6 +83,7 @@
 - Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 
 
@@ -89,6 +91,7 @@
 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 
 
@@ -96,6 +99,7 @@
 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 
 
@@ -103,6 +107,7 @@
 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Taurian Concordat 
 

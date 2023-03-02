@@ -71,6 +71,10 @@
 - [**Cavalier Battle Armor (MG)(Sqd4)**](../../../units/cavalier_battle_armor/cavalier_battle_armor_mgsqd4.md) *Ambusher (3058)* 
 - [**Cavalier Battle Armor (SRM)(Sqd4)**](../../../units/cavalier_battle_armor/cavalier_battle_armor_srmsqd4.md) *Ambusher (3058)* 
 
+#### [Dragoon Battle Armor](../../../units/dragoon_battle_armor.md) 
+
+- [**Dragoon Battle Armor (Sqd4)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd4.md) *Ambusher (3072)* 
+
 #### [Fa Shih Battle Armor](../../../units/fa_shih_battle_armor.md) 
 
 - [**Fa Shih Battle Armor (Support) (King David)(Sqd4)**](../../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_king_davidsqd4.md) *Ambusher (3074)* 

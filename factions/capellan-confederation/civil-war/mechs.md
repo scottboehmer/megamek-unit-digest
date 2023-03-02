@@ -253,15 +253,15 @@
 - [**Sha Yu SYU-2B**](../../../units/sha_yu/sha_yu_syu-2b.md) *Sniper (3063)* `ECM` , `Stealth` , `TAG` 
 - [**Sha Yu SYU-4B**](../../../units/sha_yu/sha_yu_syu-4b.md) *Striker (3065)* `C3 Support` , `ECM` , `Stealth` 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](../../../units/viper/viper_h.md) *Striker (3062)* 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](../../../units/viper_omnimech/viper_h.md) *Striker (3062)* 
 
 #### [Vulcan](../../../units/vulcan.md) 
 
@@ -744,10 +744,6 @@
 - [**BattleMaster BLR-1G-DC**](../../../units/battlemaster/battlemaster_blr-1g-dc.md) *Brawler (2633)* `Command Console` 
 - [**BattleMaster BLR-3M**](../../../units/battlemaster/battlemaster_blr-3m.md) *Brawler (3049)* 
 - [**BattleMaster BLR-3M-DC**](../../../units/battlemaster/battlemaster_blr-3m-dc.md) *Brawler (3053)* `Command Console` 
-
-#### [Gunslinger](../../../units/gunslinger.md) 
-
-- [**Gunslinger GUN-1ERD**](../../../units/gunslinger/gunslinger_gun-1erd.md) *Juggernaut (3053)* `Active Probe` , `ECM` 
 
 #### [Longbow](../../../units/longbow.md) 
 

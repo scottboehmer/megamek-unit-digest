@@ -33,6 +33,7 @@
 ### Clan Invasion 
 
 - Capellan Confederation 
+- ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
 - Federated Suns 
@@ -48,6 +49,7 @@
 ### Civil War 
 
 - Capellan Confederation 
+- ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
 - Federated Suns 

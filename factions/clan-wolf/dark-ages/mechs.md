@@ -58,6 +58,10 @@
 - [**CattleMaster CTL-3R2 'Hunter' IndustrialMech**](../../../units/cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) *Ambusher (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R3 SecurityMech**](../../../units/cattlemaster/cattlemaster_ctl-3r3_securitymech.md) *Striker (3072)* `IndustrialMech` 
 
+#### [Crimson Hawk](../../../units/crimson_hawk.md) 
+
+- [**Crimson Hawk 3**](../../../units/crimson_hawk/crimson_hawk_3.md) *Brawler (3075)* 
+
 #### [Icestorm](../../../units/icestorm.md) 
 
 - [**Icestorm (Standard)**](../../../units/icestorm/icestorm_standard.md) *Scout (2830)* `TAG` 
@@ -596,6 +600,7 @@
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
+- [**Warhammer C 2**](../../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
 
 ### 75 Tons 
 
@@ -719,6 +724,10 @@
 - [**Phoenix Hawk IIC 6**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_6.md) *Skirmisher (3070)* 
 - [**Phoenix Hawk IIC 7**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_7.md) *Skirmisher (3078)* 
 
+#### [Victor](../../../units/victor.md) 
+
+- [**Victor C**](../../../units/victor/victor_c.md) *Skirmisher (2835)* 
+
 #### [Warhammer IIC](../../../units/warhammer_iic.md) 
 
 - [**Warhammer IIC (Standard)**](../../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 
@@ -793,6 +802,10 @@
 - [**Executioner J**](../../../units/executioner/executioner_j.md) *Juggernaut (3104)* 
 - [**Executioner L**](../../../units/executioner/executioner_l.md) *Sniper (3119)* 
 - [**Executioner T**](../../../units/executioner/executioner_t.md) *Sniper (3142)* `ECM` 
+
+#### [Hellstar](../../../units/hellstar.md) 
+
+- [**Hellstar (Standard)**](../../../units/hellstar/hellstar_standard.md) *Sniper (3079)* 
 
 ### 100 Tons 
 

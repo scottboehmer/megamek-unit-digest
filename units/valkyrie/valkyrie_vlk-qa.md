@@ -38,6 +38,7 @@
 
 ### Late Succession Wars - Renaissance 
 
+- ComStar 
 - Federated Suns 
 - Kell Hounds 
 - Lyran Commonwealth 
@@ -47,6 +48,7 @@
 
 ### Clan Invasion 
 
+- ComStar 
 - Federated Commonwealth 
 - Federated Suns 
 - Kell Hounds 
@@ -58,6 +60,7 @@
 
 ### Civil War 
 
+- ComStar 
 - Federated Commonwealth 
 - Federated Suns 
 - Kell Hounds 
@@ -69,6 +72,7 @@
 ### Jihad 
 
 - Calderon Protectorate 
+- ComStar 
 - Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 

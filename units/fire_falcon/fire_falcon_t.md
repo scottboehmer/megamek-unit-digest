@@ -29,10 +29,12 @@
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
 
 ### ilClan 
 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Star League (Jade Falcon) 
 - Wolf's Dragoons 

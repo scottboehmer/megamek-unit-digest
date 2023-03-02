@@ -50,6 +50,7 @@
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Lyran Alliance 
+- Mercenary 
 
 ### Early Republic 
 

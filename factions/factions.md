@@ -96,7 +96,6 @@
 - [Clan Invasion](clan-ghost-bear/clan-invasion.md) 
 - [Civil War](clan-ghost-bear/civil-war.md) 
 - [Jihad](clan-ghost-bear/jihad.md) 
-- [Early Republic](clan-ghost-bear/early-republic.md) 
 
 ## Clan Goliath Scorpion 
 
@@ -479,6 +478,7 @@
 
 ## Republic of the Sphere 
 
+- [Jihad](republic-of-the-sphere/jihad.md) 
 - [Early Republic](republic-of-the-sphere/early-republic.md) 
 - [Late Republic](republic-of-the-sphere/late-republic.md) 
 - [Dark Ages](republic-of-the-sphere/dark-ages.md) 

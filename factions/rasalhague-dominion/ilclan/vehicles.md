@@ -22,6 +22,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -55,6 +59,7 @@
 
 #### [J-27 Ordnance Transport](../../../units/j-27_ordnance_transport.md) 
 
+- [**J-27 Ordnance Transport (Fusion)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_fusion.md) *Undefined (2578)* 
 - [**J-27 Ordnance Transport (Standard)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Trailer)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport K-27 'Killjoy'**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_k-27_killjoy.md) *Ambusher (2847)* 

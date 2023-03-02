@@ -1,11 +1,11 @@
-# Viper U 
+# Viper OmniMech R 
 
-[Other Viper variants](../viper.md) 
+[Other Viper OmniMech variants](../viper_omnimech.md) 
 
-## Viper "Dragonfly" U 
+## Viper "Dragonfly" R 
 
-- **Role:** Striker 
-- **Tech Base:** Clan Mixed (3077) 
+- **Role:** Scout 
+- **Tech Base:** Clan Mixed (3110) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 8 / 12, XL 
   - **Jumping:** 8 
@@ -13,33 +13,18 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 2 
-  - Inner Sphere Hatchet 
+  - Narc (ammo: 12) 
 - **Equipment:** 
-  - ECM Suite 
-  - Anti-Missile System (ammo: 24) 
+  - Inner Sphere Bloodhound Active Probe 
   - CASE 
-  - Liquid Cargo 
+  - Light TAG 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/927) 
-- **Battle Value:** 1417 
+- **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7588) 
+- **Battle Value:** 1335 
 
 ## Availability 
-
-### Jihad 
-
-- Clan Cloud Cobra 
-- Clan Goliath Scorpion 
-- Clan Star Adder 
-- Escorpión Imperio 
-
-### Early Republic 
-
-- Clan Hell's Horses 
-- Escorpión Imperio 
-- Rasalhague Dominion 
-- Republic of the Sphere 
 
 ### Late Republic 
 

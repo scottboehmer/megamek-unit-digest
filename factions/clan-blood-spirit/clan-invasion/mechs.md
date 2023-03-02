@@ -162,14 +162,14 @@
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
 
 ### 45 Tons 
 
@@ -469,6 +469,14 @@
 - [**Gargoyle D**](../../../units/gargoyle/gargoyle_d.md) *Skirmisher (2945)* 
 - [**Gargoyle H**](../../../units/gargoyle/gargoyle_h.md) *Skirmisher (3059)* 
 - [**Gargoyle E**](../../../units/gargoyle/gargoyle_e.md) *Skirmisher (3060)* 
+
+#### [Naga](../../../units/naga.md) 
+
+- [**Naga A**](../../../units/naga/naga_a.md) *Missile Boat (2869)* 
+- [**Naga B**](../../../units/naga/naga_b.md) *Missile Boat (2869)* 
+- [**Naga C**](../../../units/naga/naga_c.md) *Missile Boat (2869)* 
+- [**Naga D**](../../../units/naga/naga_d.md) *Missile Boat (2869)* 
+- [**Naga Prime**](../../../units/naga/naga_prime.md) *Missile Boat (2945)* 
 
 #### [Naga II](../../../units/naga_ii.md) 
 

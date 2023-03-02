@@ -24,16 +24,18 @@
 ### Early Republic 
 
 - Clan Wolf-in-Exile 
-- Lyran Commonwealth 
+- Kell Hounds 
 
 ### Late Republic 
 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
 - Lyran Commonwealth 
 
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Kell Hounds 
 - Lyran Commonwealth 
 
 ### ilClan 

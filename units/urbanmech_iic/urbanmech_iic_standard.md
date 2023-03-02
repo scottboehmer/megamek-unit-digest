@@ -49,6 +49,7 @@
 - Clan Ice Hellion 
 - Clan Snow Raven 
 - Escorpión Imperio 
+- Society 
 
 ### Early Republic 
 

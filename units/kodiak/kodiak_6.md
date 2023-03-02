@@ -32,5 +32,6 @@
 
 ### ilClan 
 
+- Clan Hell's Horses 
 - Rasalhague Dominion 
 

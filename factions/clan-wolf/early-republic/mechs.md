@@ -29,6 +29,10 @@
 - [**CattleMaster CTL-3R2 'Hunter' IndustrialMech**](../../../units/cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) *Ambusher (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R3 SecurityMech**](../../../units/cattlemaster/cattlemaster_ctl-3r3_securitymech.md) *Striker (3072)* `IndustrialMech` 
 
+#### [Crimson Hawk](../../../units/crimson_hawk.md) 
+
+- [**Crimson Hawk 3**](../../../units/crimson_hawk/crimson_hawk_3.md) *Brawler (3075)* 
+
 #### [Icestorm](../../../units/icestorm.md) 
 
 - [**Icestorm (Standard)**](../../../units/icestorm/icestorm_standard.md) *Scout (2830)* `TAG` 
@@ -372,6 +376,10 @@
 - [**Summoner HH**](../../../units/summoner/summoner_hh.md) *Skirmisher (3070)* 
 - [**Summoner U**](../../../units/summoner/summoner_u.md) *Sniper (3078)* 
 - [**Summoner AA**](../../../units/summoner/summoner_aa.md) *Sniper (3086)* 
+
+#### [Warhammer](../../../units/warhammer.md) 
+
+- [**Warhammer C 2**](../../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
 
 ### 75 Tons 
 

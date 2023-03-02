@@ -633,6 +633,21 @@
 
 - [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
 
+#### [Huntsman](../../../units/huntsman.md) 
+
+- [**Huntsman Prime**](../../../units/huntsman/huntsman_prime.md) *Skirmisher (3049)* `Active Probe` , `TAG` 
+- [**Huntsman A**](../../../units/huntsman/huntsman_a.md) *Sniper (3049)* 
+- [**Huntsman B**](../../../units/huntsman/huntsman_b.md) *Skirmisher (3049)* 
+- [**Huntsman C**](../../../units/huntsman/huntsman_c.md) *Missile Boat (3049)* 
+- [**Huntsman D**](../../../units/huntsman/huntsman_d.md) *Skirmisher (3061)* 
+- [**Huntsman H**](../../../units/huntsman/huntsman_h.md) *Skirmisher (3063)* `Active Probe` , `ECM` 
+- [**Huntsman N**](../../../units/huntsman/huntsman_n.md) *Sniper (3068)* 
+- [**Huntsman E**](../../../units/huntsman/huntsman_e.md) *Skirmisher (3070)* `Active Probe` , `TAG` 
+- [**Huntsman I**](../../../units/huntsman/huntsman_i.md) *Sniper (3088)* 
+- [**Huntsman F**](../../../units/huntsman/huntsman_f.md) *Skirmisher (3132)* 
+- [**Huntsman G**](../../../units/huntsman/huntsman_g.md) *Skirmisher (3139)* `Active Probe` 
+- [**Huntsman T**](../../../units/huntsman/huntsman_t.md) *Skirmisher (3142)* 
+
 #### [Legionnaire](../../../units/legionnaire.md) 
 
 - [**Legionnaire LGN-2K**](../../../units/legionnaire/legionnaire_lgn-2k.md) *Striker (3128)* 
@@ -666,6 +681,10 @@
 
 - [**Apollo APL-1M**](../../../units/apollo/apollo_apl-1m.md) *Missile Boat (3054)* 
 - [**Apollo APL-1R**](../../../units/apollo/apollo_apl-1r.md) *Missile Boat (3056)* 
+
+#### [Bakeneko](../../../units/bakeneko.md) 
+
+- [**Bakeneko BKN-1K**](../../../units/bakeneko/bakeneko_bkn-1k.md) *Skirmisher (3100)* 
 
 #### [Dervish](../../../units/dervish.md) 
 
@@ -1264,6 +1283,10 @@
 - [**Sunder SD1-OX**](../../../units/sunder/sunder_sd1-ox.md) *Missile Boat (3073)* `C3 Support` 
 - [**Sunder SD1-OF**](../../../units/sunder/sunder_sd1-of.md) *Missile Boat (3134)* `C3 Support` 
 - [**Sunder SD1-OG**](../../../units/sunder/sunder_sd1-og.md) *Brawler (3134)* `C3 Support` 
+
+#### [Supernova](../../../units/supernova.md) 
+
+- [**Supernova (Standard)**](../../../units/supernova/supernova_standard.md) *Sniper (2846)* 
 
 ### 95 Tons 
 

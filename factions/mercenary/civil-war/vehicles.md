@@ -23,6 +23,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -178,6 +182,13 @@
 
 - [**Hawk Moth Gunship (Armor)**](../../../units/hawk_moth_gunship/hawk_moth_gunship_armor.md) *Sniper (3060)* 
 - [**Hawk Moth Gunship (Standard)**](../../../units/hawk_moth_gunship/hawk_moth_gunship_standard.md) *Sniper (3060)* 
+
+#### [J. Edgar Light Hover Tank](../../../units/j._edgar_light_hover_tank.md) 
+
+- [**J. Edgar Light Hover Tank (Standard)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_standard.md) *Scout (2722)* 
+- [**J. Edgar Light Hover Tank (Flamer)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_flamer.md) *Scout (2793)* 
+- [**J. Edgar Light Hover Tank (MG)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_mg.md) *Scout (2794)* 
+- [**J. Edgar Light Hover Tank (ICE)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_ice.md) *Scout (2854)* 
 
 #### [Mobile Headquarters](../../../units/mobile_headquarters.md) 
 
@@ -336,9 +347,21 @@
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
 
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
+
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
 - [**Fulcrum Heavy Hovertank (Standard)**](../../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank_standard.md) *Striker (3057)* `ECM` , `TAG` 
+
+#### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
+
+- [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
+
+#### [LTV-4 Hover Tank](../../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
 
 #### [Maxim (I) Heavy Hover Transport](../../../units/maxim_i_heavy_hover_transport.md) 
 

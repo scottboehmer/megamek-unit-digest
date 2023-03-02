@@ -23,6 +23,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -55,6 +59,10 @@
 
 - [**Centipede Scout Car (Standard)**](../../../units/centipede_scout_car/centipede_scout_car_standard.md) *Scout (3054)* `Active Probe` 
 - [**Centipede Scout Car (SRM)**](../../../units/centipede_scout_car/centipede_scout_car_srm.md) *Scout (3062)* 
+
+#### [Fox Armored Car](../../../units/fox_armored_car.md) 
+
+- [**Fox Armored Car (Standard)**](../../../units/fox_armored_car/fox_armored_car_standard.md) *Scout (3084)* 
 
 #### [Heavy Hover APC](../../../units/heavy_hover_apc.md) 
 

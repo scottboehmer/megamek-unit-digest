@@ -35,6 +35,10 @@
 - [**Savannah Master Hovercraft (Standard)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_standard.md) *Scout (3025)* 
 - [**Savannah Master Hovercraft (Interdictor)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) *Scout (3077)* `ECM` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -367,7 +371,6 @@
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Ultra)**](../../../units/gun_trailer/gun_trailer_ultra.md) *Ambusher (3098)* 
 - [**Gun Trailer (Thunderbolt)**](../../../units/gun_trailer/gun_trailer_thunderbolt.md) *Missile Boat (3099)* 
-- [**Gun Trailer (Sniper Cannon)**](../../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
 
 #### [Hunter Light Support Tank](../../../units/hunter_light_support_tank.md) 
 
@@ -529,6 +532,10 @@
 - [**Drillson Heavy Hover Tank (ERLL)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_erll.md) *Sniper (3045)* 
 - [**Drillson Heavy Hover Tank (Streak)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_streak.md) *Striker (3053)* 
 - [**Drillson Heavy Hover Tank (Sealed)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_sealed.md) *Striker (3076)* 
+
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
 
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 

@@ -22,13 +22,6 @@
 
 ## Availability 
 
-### Early Republic 
-
-- Clan Nova Cat 
-- Draconis Combine 
-- Mercenary 
-- Republic of the Sphere 
-
 ### Late Republic 
 
 - Clan Nova Cat 

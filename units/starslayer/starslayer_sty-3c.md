@@ -48,6 +48,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Jihad 

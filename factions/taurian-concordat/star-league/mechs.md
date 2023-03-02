@@ -94,10 +94,6 @@
 
 - [**Cicada CDA-2A**](../../../units/cicada/cicada_cda-2a.md) *Scout (2740)* 
 
-#### [Whitworth](../../../units/whitworth.md) 
-
-- [**Whitworth WTH-0**](../../../units/whitworth/whitworth_wth-0.md) *Skirmisher (2754)* 
-
 ### 45 Tons 
 
 #### [Phoenix Hawk](../../../units/phoenix_hawk.md) 

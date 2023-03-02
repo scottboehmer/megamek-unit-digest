@@ -338,15 +338,15 @@
 - [**Strider SR1-OR**](../../../units/strider/strider_sr1-or.md) *Striker (3059)* 
 - [**Strider SR1-OF**](../../../units/strider/strider_sr1-of.md) *Striker (3060)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](../../../units/viper/viper_h.md) *Striker (3062)* 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](../../../units/viper_omnimech/viper_h.md) *Striker (3062)* 
 
 #### [Vulcan](../../../units/vulcan.md) 
 
@@ -419,6 +419,7 @@
 - [**Phoenix Hawk PXH-1**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)* 
 - [**Phoenix Hawk PXH-1D**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1d.md) *Skirmisher (2586)* 
 - [**Phoenix Hawk PXH-3M**](../../../units/phoenix_hawk/phoenix_hawk_pxh-3m.md) *Striker (3045)* 
+- [**Phoenix Hawk PXH-3D**](../../../units/phoenix_hawk/phoenix_hawk_pxh-3d.md) *Striker (3048)* 
 - [**Phoenix Hawk PXH-3PL**](../../../units/phoenix_hawk/phoenix_hawk_pxh-3pl.md) *Striker (3067)* 
 - [**Phoenix Hawk PXH-6D**](../../../units/phoenix_hawk/phoenix_hawk_pxh-6d.md) *Striker (3067)* 
 

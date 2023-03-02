@@ -22,6 +22,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -55,6 +59,7 @@
 
 #### [J-27 Ordnance Transport](../../../units/j-27_ordnance_transport.md) 
 
+- [**J-27 Ordnance Transport (Fusion)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_fusion.md) *Undefined (2578)* 
 - [**J-27 Ordnance Transport (Standard)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Trailer)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 
@@ -193,10 +198,6 @@
 - [**Coolant Truck 135-K**](../../../units/coolant_truck/coolant_truck_135-k.md) *Ambusher (2583)* 
 - [**Coolant Truck (Tracked)**](../../../units/coolant_truck/coolant_truck_tracked.md) *Undefined (2592)* 
 
-#### [Kite Reconnaissance Vehicle](../../../units/kite_reconnaissance_vehicle.md) 
-
-- [**Kite Reconnaissance Vehicle (Standard)**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* `Active Probe` , `ECM` , `TAG` 
-
 ### 35 Tons 
 
 #### [Gun Trailer](../../../units/gun_trailer.md) 
@@ -208,7 +209,6 @@
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Ultra)**](../../../units/gun_trailer/gun_trailer_ultra.md) *Ambusher (3098)* 
 - [**Gun Trailer (Thunderbolt)**](../../../units/gun_trailer/gun_trailer_thunderbolt.md) *Missile Boat (3099)* 
-- [**Gun Trailer (Sniper Cannon)**](../../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
 
 #### [Indra Infantry Transport](../../../units/indra_infantry_transport.md) 
 
@@ -337,6 +337,10 @@
 - [**Maxim Heavy Hover Transport (C3M)**](../../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3m.md) *Striker (3068)* `C3 Main` , `TAG` 
 - [**Maxim Heavy Hover Transport (C3S)**](../../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3s.md) *Striker (3068)* `C3 Support` , `TAG` , `Transport:4.0` 
 
+#### [Vedette Medium Tank](../../../units/vedette_medium_tank.md) 
+
+- [**Vedette Medium Tank (Standard)**](../../../units/vedette_medium_tank/vedette_medium_tank_standard.md) *Brawler (2943)* 
+
 ### 55 Tons 
 
 #### [Enyo Strike Tank](../../../units/enyo_strike_tank.md) 
@@ -357,6 +361,7 @@
 #### [Demon Tank](../../../units/demon_tank.md) 
 
 - [**Demon Tank (Standard)**](../../../units/demon_tank/demon_tank_standard.md) *Brawler (2716)* 
+- [**Demon Tank (Royal)**](../../../units/demon_tank/demon_tank_royal.md) *Skirmisher (2744)* 
 
 #### [LRM Carrier](../../../units/lrm_carrier.md) 
 

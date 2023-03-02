@@ -14,6 +14,14 @@
 - [**Fire Moth E**](../../../units/fire_moth/fire_moth_e.md) *Scout (3055)* 
 - [**Fire Moth H**](../../../units/fire_moth/fire_moth_h.md) *Striker (3060)* 
 
+#### [Locust](../../../units/locust.md) 
+
+- [**Locust LCT-1Vb**](../../../units/locust/locust_lct-1vb.md) *Striker (2610)* 
+
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha (Standard)**](../../../units/piranha/piranha_standard.md) *Striker (3051)* 
@@ -101,6 +109,10 @@
 - [**Hellion E**](../../../units/hellion/hellion_e.md) *Striker (3070)* `ECM` 
 - [**Hellion F**](../../../units/hellion/hellion_f.md) *Striker (3077)* `Active Probe` 
 
+#### [Hermes](../../../units/hermes.md) 
+
+- [**Hermes HER-1Sb**](../../../units/hermes/hermes_her-1sb.md) *Striker (2740)* `Active Probe` 
+
 #### [Hussar](../../../units/hussar.md) 
 
 - [**Hussar HSR-200-D**](../../../units/hussar/hussar_hsr-200-d.md) *Scout (2620)* 
@@ -132,6 +144,10 @@
 #### [Pack Hunter](../../../units/pack_hunter.md) 
 
 - [**Pack Hunter (Standard)**](../../../units/pack_hunter/pack_hunter_standard.md) *Striker (3059)* 
+
+#### [UrbanMech IIC](../../../units/urbanmech_iic.md) 
+
+- [**UrbanMech IIC (Standard)**](../../../units/urbanmech_iic/urbanmech_iic_standard.md) *Sniper (2849)* 
 
 ### 35 Tons 
 
@@ -179,21 +195,22 @@
 
 - [**Griffin IIC (Standard)**](../../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
 - [**Griffin IIC 2**](../../../units/griffin_iic/griffin_iic_2.md) *Striker (2973)* 
+- [**Griffin IIC 4**](../../../units/griffin_iic/griffin_iic_4.md) *Striker (3060)* 
 
 #### [Sentinel](../../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](../../../units/viper/viper_h.md) *Striker (3062)* 
-- [**Viper Z**](../../../units/viper/viper_z.md) *Striker (3072)* `Active Probe` , `ECM` , `NovaC3` , `TAG` 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](../../../units/viper_omnimech/viper_h.md) *Striker (3062)* 
+- [**Viper Z**](../../../units/viper_omnimech/viper_z.md) *Striker (3072)* `Active Probe` , `ECM` , `NovaC3` , `TAG` 
 
 ### 45 Tons 
 
@@ -449,6 +466,7 @@
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6Rb**](../../../units/warhammer/warhammer_whm-6rb.md) *Brawler (2599)* 
+- [**Warhammer WHM-7A**](../../../units/warhammer/warhammer_whm-7a.md) *Brawler (2761)* 
 - [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
 
 ### 75 Tons 
@@ -491,6 +509,10 @@
 
 ### 80 Tons 
 
+#### [Canis](../../../units/canis.md) 
+
+- [**Canis (Standard)**](../../../units/canis/canis_standard.md) *Sniper (3058)* 
+
 #### [Gargoyle](../../../units/gargoyle.md) 
 
 - [**Gargoyle Prime**](../../../units/gargoyle/gargoyle_prime.md) *Skirmisher (2945)* 
@@ -514,6 +536,7 @@
 - [**Warhammer IIC (Standard)**](../../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 
 - [**Warhammer IIC 2**](../../../units/warhammer_iic/warhammer_iic_2.md) *Missile Boat (2920)* 
 - [**Warhammer IIC 3**](../../../units/warhammer_iic/warhammer_iic_3.md) *Brawler (3060)* 
+- [**Warhammer IIC 4**](../../../units/warhammer_iic/warhammer_iic_4.md) *Brawler (3062)* 
 - [**Warhammer IIC 5**](../../../units/warhammer_iic/warhammer_iic_5.md) *Brawler (3070)* 
 
 ### 85 Tons 
@@ -548,6 +571,10 @@
 #### [Savage Coyote](../../../units/savage_coyote.md) 
 
 - [**Savage Coyote Z**](../../../units/savage_coyote/savage_coyote_z.md) *Juggernaut (3072)* `Active Probe` , `ECM` , `NovaC3` 
+
+#### [Shogun](../../../units/shogun.md) 
+
+- [**Shogun SHG-2H**](../../../units/shogun/shogun_shg-2h.md) *Missile Boat (2777)* 
 
 #### [Stalker](../../../units/stalker.md) 
 

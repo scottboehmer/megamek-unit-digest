@@ -33,6 +33,7 @@
 - Federated Commonwealth 
 - Federated Suns 
 - Mercenary 
+- St. Ives Compact 
 - Taurian Concordat 
 
 ### Jihad 

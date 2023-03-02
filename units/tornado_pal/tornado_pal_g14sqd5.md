@@ -17,10 +17,6 @@
 
 ## Availability 
 
-### Jihad 
-
-- Marian Hegemony 
-
 ### ilClan 
 
 - Star League (Smoke Jaguar) 

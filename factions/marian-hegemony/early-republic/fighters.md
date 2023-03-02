@@ -105,6 +105,10 @@
 
 - [**Eagle EGL-R6**](../../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
 
+#### [Transgressor](../../../units/transgressor.md) 
+
+- [**Transgressor TR-13**](../../../units/transgressor/transgressor_tr-13.md) *Dogfighter (2890)* 
+
 ### 80 Tons 
 
 #### [Slayer](../../../units/slayer.md) 
@@ -123,6 +127,8 @@
 
 - [**Riever F-100**](../../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
 - [**Riever F-100a**](../../../units/riever/riever_f-100a.md) *Attack Fighter (2829)* 
+- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
 
 #### [Stuka](../../../units/stuka.md) 
 

@@ -88,7 +88,6 @@
 
 ### Early Republic 
 
-- Capellan Confederation 
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
@@ -113,6 +112,7 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
@@ -129,6 +129,7 @@
 ### ilClan 
 
 - Alyina Mercantile League 
+- Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Protectorate 

@@ -242,6 +242,10 @@
 - [**Clint CLNT-5U**](../../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Support` , `TAG` 
 - [**Clint CLNT-3-3T**](../../../units/clint/clint_clnt-3-3t.md) *Striker (3069)* 
 
+#### [Cuirass](../../../units/cuirass.md) 
+
+- [**Cuirass CDR-2X**](../../../units/cuirass/cuirass_cdr-2x.md) *Sniper (3134)* 
+
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
 - [**Griffin IIC (Standard)**](../../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
@@ -399,6 +403,7 @@
 - [**Shadow Hawk SHD-7M**](../../../units/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)* 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
+- [**Shadow Hawk SHD-6D**](../../../units/shadow_hawk/shadow_hawk_shd-6d.md) *Skirmisher (3141)* 
 
 #### [Wolverine](../../../units/wolverine.md) 
 
@@ -650,6 +655,14 @@
 
 #### [Blood Asp](../../../units/blood_asp.md) 
 
+- [**Blood Asp Prime**](../../../units/blood_asp/blood_asp_prime.md) *Undefined (3060)* 
+- [**Blood Asp A**](../../../units/blood_asp/blood_asp_a.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp B**](../../../units/blood_asp/blood_asp_b.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp C**](../../../units/blood_asp/blood_asp_c.md) *Undefined (3060)* 
+- [**Blood Asp D**](../../../units/blood_asp/blood_asp_d.md) *Undefined (3060)* 
+- [**Blood Asp E**](../../../units/blood_asp/blood_asp_e.md) *Undefined (3063)* 
+- [**Blood Asp F**](../../../units/blood_asp/blood_asp_f.md) *Undefined (3071)* 
+- [**Blood Asp G**](../../../units/blood_asp/blood_asp_g.md) *Undefined (3074)* 
 - [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
 - [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 

@@ -39,9 +39,11 @@
 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
+- Lyran Commonwealth 
 
 ### ilClan 
 
 - Kell Hounds 
+- Lyran Commonwealth 
 - Star League (Wolf) 
 

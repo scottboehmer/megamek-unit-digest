@@ -23,6 +23,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -206,6 +210,7 @@
 
 #### [Fensalir Combat WiGE](../../../units/fensalir_combat_wige.md) 
 
+- [**Fensalir Combat WiGE (HAG)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_hag.md) *Skirmisher (3084)* `Transport:5.0` 
 - [**Fensalir Combat WiGE (XXL)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_xxl.md) *Skirmisher (3084)* 
 
 #### [Partisan Air Defense Tank](../../../units/partisan_air_defense_tank.md) 

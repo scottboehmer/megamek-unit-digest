@@ -24,6 +24,11 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Hell's Horses 
+- Clan Wolf 
+
 ### Late Succession Wars - LosTech 
 
 - Clan Hell's Horses 
@@ -31,11 +36,13 @@
 
 ### Late Succession Wars - Renaissance 
 
+- Clan Blood Spirit 
 - Clan Hell's Horses 
 - Clan Wolf 
 
 ### Clan Invasion 
 
+- Clan Blood Spirit 
 - Clan Cloud Cobra 
 - Clan Hell's Horses 
 - Clan Jade Falcon 

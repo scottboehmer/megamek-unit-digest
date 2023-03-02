@@ -17,19 +17,6 @@
 
 - [**Groundhog Exoskeleton CEX-205 (Armored Glove)(Sqd5)**](../../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_armored_glovesqd5.md) *Undefined (3062)* 
 
-#### [Nighthawk PA(L)](../../../units/nighthawk_pal.md) 
-
-- [**Nighthawk PA(L) Mk. XXII(Sqd5)**](../../../units/nighthawk_pal/nighthawk_pal_mk._xxiisqd5.md) *Ambusher (2749)* `Stealth` 
-
-#### [Tornado PA(L)](../../../units/tornado_pal.md) 
-
-- [**Tornado PA(L) G13 (David Light Gauss)(Sqd5)**](../../../units/tornado_pal/tornado_pal_g13_david_light_gausssqd5.md) *Ambusher (3066)* `Stealth` 
-- [**Tornado PA(L) G13 (Flamer)(Sqd5)**](../../../units/tornado_pal/tornado_pal_g13_flamersqd5.md) *Ambusher (3066)* `Stealth` 
-- [**Tornado PA(L) G13 (Grenade Launcher)(Sqd5)**](../../../units/tornado_pal/tornado_pal_g13_grenade_launchersqd5.md) *Ambusher (3066)* `Stealth` 
-- [**Tornado PA(L) G13 (Machine Gun)(Sqd5)**](../../../units/tornado_pal/tornado_pal_g13_machine_gunsqd5.md) *Ambusher (3066)* `Stealth` 
-- [**Tornado PA(L) G13 (Small Laser)(Sqd5)**](../../../units/tornado_pal/tornado_pal_g13_small_lasersqd5.md) *Ambusher (3066)* `Stealth` 
-- [**Tornado PA(L) G14(Sqd5)**](../../../units/tornado_pal/tornado_pal_g14sqd5.md) *Ambusher (3070)* `Stealth` 
-
 ### 1 Tons 
 
 #### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 

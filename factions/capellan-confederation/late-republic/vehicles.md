@@ -22,6 +22,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -439,6 +443,7 @@
 #### [Hetzer Wheeled Assault Gun](../../../units/hetzer_wheeled_assault_gun.md) 
 
 - [**Hetzer Wheeled Assault Gun (Standard)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_standard.md) *Ambusher (2887)* 
+- [**Hetzer Wheeled Assault Gun (Laser)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_laser.md) *Ambusher (2889)* 
 - [**Hetzer Wheeled Assault Gun (AC10)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_ac10.md) *Ambusher (2893)* 
 - [**Hetzer Wheeled Assault Gun (Scout)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) *Ambusher (3014)* 
 - [**Hetzer Wheeled Assault Gun (LB-X)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lb-x.md) *Ambusher (3063)* 
@@ -471,6 +476,10 @@
 - [**Stygian Strike Tank (Armor)**](../../../units/stygian_strike_tank/stygian_strike_tank_armor.md) *Missile Boat (3065)* 
 
 ### 45 Tons 
+
+#### [Bellona Hover Tank](../../../units/bellona_hover_tank.md) 
+
+- [**Bellona Hover Tank (Standard)**](../../../units/bellona_hover_tank/bellona_hover_tank_standard.md) *Striker (3070)* 
 
 #### [Danai Support Vehicle](../../../units/danai_support_vehicle.md) 
 
@@ -520,9 +529,21 @@
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
 
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
+
+#### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
+
+- [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
+
 #### [JES I Tactical Missile Carrier](../../../units/jes_i_tactical_missile_carrier.md) 
 
 - [**JES I Tactical Missile Carrier (3082 Upgrade)**](../../../units/jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_3082_upgrade.md) *Striker (3082)* 
+
+#### [LTV-4 Hover Tank](../../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
 
 #### [Maxim (I) Heavy Hover Transport](../../../units/maxim_i_heavy_hover_transport.md) 
 
@@ -857,10 +878,4 @@
 - [**DI Morgan Assault Tank (Standard)**](../../../units/di_morgan_assault_tank/di_morgan_assault_tank_standard.md) *Sniper (3073)* 
 - [**DI Morgan Assault Tank (Gauss)**](../../../units/di_morgan_assault_tank/di_morgan_assault_tank_gauss.md) *Sniper (3075)* `C3 Support` 
 - [**DI Morgan Assault Tank (LRM)**](../../../units/di_morgan_assault_tank/di_morgan_assault_tank_lrm.md) *Missile Boat (3075)* `C3 Support` 
-
-### 130 Tons 
-
-#### [Paladin Defense System](../../../units/paladin_defense_system.md) 
-
-- [**Paladin Defense System (Standard)**](../../../units/paladin_defense_system/paladin_defense_system_standard.md) *Missile Boat (3109)* 
 

@@ -115,7 +115,6 @@
 
 - [**Whitworth WTH-1S**](../../../units/whitworth/whitworth_wth-1s.md) *Skirmisher (2610)* 
 - [**Whitworth WTH-1**](../../../units/whitworth/whitworth_wth-1.md) *Missile Boat (2689)* 
-- [**Whitworth WTH-0**](../../../units/whitworth/whitworth_wth-0.md) *Skirmisher (2754)* 
 
 ### 45 Tons 
 

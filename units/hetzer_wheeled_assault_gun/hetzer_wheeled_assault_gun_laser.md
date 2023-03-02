@@ -118,7 +118,7 @@
 
 ### Late Republic 
 
-- Calderon Protectorate 
+- Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 

@@ -27,11 +27,13 @@
 ### Clan Invasion 
 
 - Clan Diamond Shark 
+- Clan Fire Mandrill 
 
 ### Civil War 
 
 - Clan Blood Spirit 
 - Clan Diamond Shark 
+- Clan Fire Mandrill 
 
 ### Jihad 
 

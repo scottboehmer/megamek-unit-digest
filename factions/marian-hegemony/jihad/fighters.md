@@ -87,6 +87,10 @@
 
 - [**Eagle EGL-R6**](../../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
 
+#### [Transgressor](../../../units/transgressor.md) 
+
+- [**Transgressor TR-13**](../../../units/transgressor/transgressor_tr-13.md) *Dogfighter (2890)* 
+
 ### 80 Tons 
 
 #### [Slayer](../../../units/slayer.md) 

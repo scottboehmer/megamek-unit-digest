@@ -36,6 +36,7 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Civil War 
@@ -47,6 +48,7 @@
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Jihad 

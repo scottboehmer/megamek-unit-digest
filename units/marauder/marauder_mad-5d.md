@@ -42,6 +42,7 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 - Word of Blake 
 
@@ -54,6 +55,7 @@
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 - Word of Blake 
 

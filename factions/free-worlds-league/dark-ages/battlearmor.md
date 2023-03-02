@@ -103,6 +103,13 @@
 - [**Longinus Battle Armor (David)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_davidsqd4.md) *Ambusher (3063)* 
 - [**Longinus Battle Armor (Magnetic)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_magneticsqd4.md) *Ambusher (3069)* 
 
+#### [Purifier Adaptive Battle Armor](../../../units/purifier_adaptive_battle_armor.md) 
+
+- [**Purifier Adaptive Battle Armor (Laser)(Sqd4)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_lasersqd4.md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor (Narc)(Sqd4)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_narcsqd4.md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor (TAG)(Sqd4)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_tagsqd4.md) *Ambusher (3062)* `Stealth` , `TAG` 
+- [**Purifier Adaptive Battle Armor (PPC)(Sqd4)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_ppcsqd4.md) *Ambusher (3069)* `Stealth` 
+
 #### [Quirinus Battle Armor](../../../units/quirinus_battle_armor.md) 
 
 - [**Quirinus Battle Armor (David)(Sqd4)**](../../../units/quirinus_battle_armor/quirinus_battle_armor_davidsqd4.md) *Ambusher (3093)* `TAG` 

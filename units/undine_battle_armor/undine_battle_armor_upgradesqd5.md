@@ -41,6 +41,7 @@
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Sea Fox 
 - Clan Wolf 
 - Escorpión Imperio 
@@ -48,6 +49,7 @@
 
 ### ilClan 
 
+- Clan Hell's Horses 
 - Clan Protectorate 
 - Clan Sea Fox 
 - Scorpion Empire 

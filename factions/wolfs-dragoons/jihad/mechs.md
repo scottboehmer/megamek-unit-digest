@@ -289,18 +289,18 @@
 
 - [**Sentry SNT-04**](../../../units/sentry/sentry_snt-04.md) *Sniper (3056)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](../../../units/viper/viper_h.md) *Striker (3062)* 
-- [**Viper I**](../../../units/viper/viper_i.md) *Striker (3068)* `Active Probe` 
-- [**Viper F**](../../../units/viper/viper_f.md) *Striker (3070)* 
-- [**Viper G**](../../../units/viper/viper_g.md) *Striker (3071)* `Active Probe` 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](../../../units/viper_omnimech/viper_h.md) *Striker (3062)* 
+- [**Viper I**](../../../units/viper_omnimech/viper_i.md) *Striker (3068)* `Active Probe` 
+- [**Viper F**](../../../units/viper_omnimech/viper_f.md) *Striker (3070)* 
+- [**Viper G**](../../../units/viper_omnimech/viper_g.md) *Striker (3071)* `Active Probe` 
 
 #### [Vulcan](../../../units/vulcan.md) 
 
@@ -469,6 +469,7 @@
 
 - [**Uziel UZL-3S**](../../../units/uziel/uziel_uzl-3s.md) *Striker (3065)* 
 - [**Uziel UZL-2S (Jacob)**](../../../units/uziel/uziel_uzl-2s_jacob.md) *Striker (3070)* `Unique` 
+- [**Uziel UZL-2S (Jacob II)**](../../../units/uziel/uziel_uzl-2s_jacob_ii.md) *Striker (3071)* `Unique` 
 
 ### 55 Tons 
 
@@ -711,6 +712,7 @@
 - [**Archer ARC-5R**](../../../units/archer/archer_arc-5r.md) *Missile Boat (3050)* 
 - [**Archer ARC-5W**](../../../units/archer/archer_arc-5w.md) *Missile Boat (3050)* 
 - [**Archer (Wolf)**](../../../units/archer/archer_wolf.md) *Missile Boat (3055)* `ECM` , `Unique` 
+- [**Archer C 2**](../../../units/archer/archer_c_2.md) *Brawler (3065)* 
 - [**Archer ARC-6S**](../../../units/archer/archer_arc-6s.md) *Missile Boat (3067)* 
 - [**Archer ARC-8M**](../../../units/archer/archer_arc-8m.md) *Missile Boat (3067)* 
 
@@ -926,10 +928,6 @@
 - [**BattleMaster BLR-4S**](../../../units/battlemaster/battlemaster_blr-4s.md) *Brawler (3062)* 
 - [**BattleMaster BLR-4S (Calvin)**](../../../units/battlemaster/battlemaster_blr-4s_calvin.md) *Brawler (3070)* `Unique` 
 - [**BattleMaster BLR-4S (Calvin II)**](../../../units/battlemaster/battlemaster_blr-4s_calvin_ii.md) *Brawler (3071)* `Unique` 
-
-#### [Gunslinger](../../../units/gunslinger.md) 
-
-- [**Gunslinger GUN-1ERD**](../../../units/gunslinger/gunslinger_gun-1erd.md) *Juggernaut (3053)* `Active Probe` , `ECM` 
 
 #### [Longbow](../../../units/longbow.md) 
 

@@ -348,6 +348,7 @@
 - [**Phoenix Hawk PXH-1c (Special)**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1c_special.md) *Striker (2765)* `ECM` 
 - [**Phoenix Hawk PXH-3M**](../../../units/phoenix_hawk/phoenix_hawk_pxh-3m.md) *Striker (3045)* 
 - [**Phoenix Hawk PXH-1bC**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1bc.md) *Skirmisher (3052)* `ECM` 
+- [**Phoenix Hawk PXH-4M**](../../../units/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)* 
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 

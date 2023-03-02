@@ -31,6 +31,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -381,10 +385,6 @@
 - [**Karnov UR Transport (3055 Upgrade)**](../../../units/karnov_ur_transport/karnov_ur_transport_3055_upgrade.md) *Undefined (3055)* `Transport:7.0` 
 - [**Karnov UR Transport (BA)**](../../../units/karnov_ur_transport/karnov_ur_transport_ba.md) *Undefined (3063)* `ECM` , `Transport:8.0` 
 
-#### [Kite Reconnaissance Vehicle](../../../units/kite_reconnaissance_vehicle.md) 
-
-- [**Kite Reconnaissance Vehicle (Standard)**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* `Active Probe` , `ECM` , `TAG` 
-
 #### [Main Gauche Light Support Tank](../../../units/main_gauche_light_support_tank.md) 
 
 - [**Main Gauche Light Support Tank (Standard)**](../../../units/main_gauche_light_support_tank/main_gauche_light_support_tank_standard.md) *Sniper (3064)* 
@@ -436,7 +436,6 @@
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Ultra)**](../../../units/gun_trailer/gun_trailer_ultra.md) *Ambusher (3098)* 
 - [**Gun Trailer (Thunderbolt)**](../../../units/gun_trailer/gun_trailer_thunderbolt.md) *Missile Boat (3099)* 
-- [**Gun Trailer (Sniper Cannon)**](../../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
 
 #### [Hunter Light Support Tank](../../../units/hunter_light_support_tank.md) 
 
@@ -495,10 +494,6 @@
 - [**Scimitar Medium Hover Tank (Standard)**](../../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_standard.md) *Striker (2937)* 
 - [**Scimitar Medium Hover Tank (Missile)**](../../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_missile.md) *Missile Boat (2957)* 
 - [**Scimitar Medium Hover Tank (C3)**](../../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_c3.md) *Scout (3073)* `C3 Support` 
-
-#### [Scimitar Mk II HCV](../../../units/scimitar_mk_ii_hcv.md) 
-
-- [**Scimitar Mk II HCV (Standard)**](../../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_standard.md) *Scout (3105)* `ECM` 
 
 #### [Striker Light Tank](../../../units/striker_light_tank.md) 
 
@@ -638,8 +633,13 @@
 
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
+- [**Drillson Heavy Hover Tank (Streak)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_streak.md) *Striker (3053)* 
 - [**Drillson Heavy Hover Tank (Sealed)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_sealed.md) *Striker (3076)* 
 - [**Drillson Heavy Hover Tank (MML)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_mml.md) *Undefined (3087)* 
+
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
 
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 

@@ -152,15 +152,15 @@
 
 - [**Clint CLNT-2-3T**](../../../units/clint/clint_clnt-2-3t.md) *Striker (2608)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](../../../units/viper/viper_h.md) *Striker (3062)* 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](../../../units/viper_omnimech/viper_h.md) *Striker (3062)* 
 
 #### [Vulcan](../../../units/vulcan.md) 
 
@@ -497,6 +497,7 @@
 #### [Gunslinger](../../../units/gunslinger.md) 
 
 - [**Gunslinger GUN-1ERD**](../../../units/gunslinger/gunslinger_gun-1erd.md) *Juggernaut (3053)* `Active Probe` , `ECM` 
+- [**Gunslinger GUN-2ERD**](../../../units/gunslinger/gunslinger_gun-2erd.md) *Juggernaut (3062)* `C3 Main` , `ECM` , `TAG` 
 
 #### [Longbow](../../../units/longbow.md) 
 

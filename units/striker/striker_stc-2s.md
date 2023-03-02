@@ -32,16 +32,19 @@
 ### Late Succession Wars - Renaissance 
 
 - Lyran Commonwealth 
+- St. Ives Compact 
 
 ### Clan Invasion 
 
 - Federated Commonwealth 
 - Lyran Alliance 
 - Lyran Commonwealth 
+- St. Ives Compact 
 
 ### Civil War 
 
 - Lyran Alliance 
+- St. Ives Compact 
 
 ### Jihad 
 

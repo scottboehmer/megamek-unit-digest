@@ -72,6 +72,11 @@
 
 ### 1 Tons 
 
+#### [Angerona Scout Suit](../../../units/angerona_scout_suit.md) 
+
+- [**Angerona Scout Suit (Standard)(Sqd4)**](../../../units/angerona_scout_suit/angerona_scout_suit_standardsqd4.md) *Ambusher (3083)* `Stealth` 
+- [**Angerona Scout Suit (Recon)(Sqd4)**](../../../units/angerona_scout_suit/angerona_scout_suit_reconsqd4.md) *Scout (3085)* `Active Probe` , `Stealth` 
+
 #### [Cavalier Battle Armor](../../../units/cavalier_battle_armor.md) 
 
 - [**Cavalier Battle Armor (Flamer)(Sqd4)**](../../../units/cavalier_battle_armor/cavalier_battle_armor_flamersqd4.md) *Ambusher (3058)* 
@@ -94,6 +99,12 @@
 #### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
 
 - [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+
+#### [Quirinus Battle Armor](../../../units/quirinus_battle_armor.md) 
+
+- [**Quirinus Battle Armor (David)(Sqd4)**](../../../units/quirinus_battle_armor/quirinus_battle_armor_davidsqd4.md) *Ambusher (3093)* `TAG` 
+- [**Quirinus Battle Armor (GL)(Sqd4)**](../../../units/quirinus_battle_armor/quirinus_battle_armor_glsqd4.md) *Ambusher (3093)* `TAG` 
+- [**Quirinus Battle Armor (MG)(Sqd4)**](../../../units/quirinus_battle_armor/quirinus_battle_armor_mgsqd4.md) *Ambusher (3138)* `TAG` 
 
 ### 1.50 Tons 
 

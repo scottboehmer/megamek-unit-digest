@@ -109,6 +109,7 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 

@@ -31,6 +31,7 @@
 
 - Capellan Confederation 
 - Clan Sea Fox 
+- Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
 - Star League (Smoke Jaguar) 

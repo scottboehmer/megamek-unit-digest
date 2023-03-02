@@ -60,6 +60,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 
@@ -76,6 +77,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - St. Ives Compact 
@@ -95,6 +97,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Second Star League 
@@ -115,6 +118,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Second Star League 
@@ -129,7 +133,6 @@
 - Circinus Federation 
 - ComStar 
 - Draconis Combine 
-- Escorpión Imperio 
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
@@ -138,6 +141,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 
@@ -150,7 +154,6 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
-- Escorpión Imperio 
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
@@ -159,6 +162,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
@@ -169,34 +173,66 @@
 ### Late Republic 
 
 - Calderon Protectorate 
-- Escorpión Imperio 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
 - Filtvelt Coalition 
+- Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
+- Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
 - Pirate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Calderon Protectorate 
-- Escorpión Imperio 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Federated Suns 
 - Filtvelt Coalition 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
+- Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
 - Pirate 
-- Scorpion Empire 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Rim Commonality 
 - Taurian Concordat 
 
 ### ilClan 
 
 - Calderon Protectorate 
+- Capellan Confederation 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
 - Filtvelt Coalition 
+- Free Worlds League 
 - Fronc Reaches 
+- Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
-- Scorpion Empire 
+- Tamar Pact 
 - Taurian Concordat 
+- Vesper Marches 
 

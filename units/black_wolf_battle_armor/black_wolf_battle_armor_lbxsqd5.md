@@ -21,11 +21,13 @@
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 
 ### ilClan 
 
+- Clan Hell's Horses 
 - Star League (Wolf) 
 - Wolf Empire 
 

@@ -14,6 +14,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -131,6 +135,9 @@
 #### [J. Edgar Light Hover Tank](../../../units/j._edgar_light_hover_tank.md) 
 
 - [**J. Edgar Light Hover Tank (Standard)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_standard.md) *Scout (2722)* 
+- [**J. Edgar Light Hover Tank (Flamer)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_flamer.md) *Scout (2793)* 
+- [**J. Edgar Light Hover Tank (MG)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_mg.md) *Scout (2794)* 
+- [**J. Edgar Light Hover Tank (ICE)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_ice.md) *Scout (2854)* 
 
 #### [Mobile Headquarters](../../../units/mobile_headquarters.md) 
 

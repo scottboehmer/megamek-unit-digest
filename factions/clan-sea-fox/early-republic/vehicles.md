@@ -8,12 +8,6 @@
 
 - [**Nacon Armored Scout (Standard)**](../../../units/nacon_armored_scout/nacon_armored_scout_standard.md) *Scout (3096)* 
 
-### 30 Tons 
-
-#### [Kite Reconnaissance Vehicle](../../../units/kite_reconnaissance_vehicle.md) 
-
-- [**Kite Reconnaissance Vehicle (Standard)**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* `Active Probe` , `ECM` , `TAG` 
-
 ### 45 Tons 
 
 #### [Cizin Hover Tank](../../../units/cizin_hover_tank.md) 

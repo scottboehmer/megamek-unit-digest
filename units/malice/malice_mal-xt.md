@@ -26,5 +26,6 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Federated Suns 
 - Mercenary 
 

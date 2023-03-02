@@ -33,4 +33,5 @@
 - Alyina Mercantile League 
 - Mercenary 
 - Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

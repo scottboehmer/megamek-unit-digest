@@ -14,6 +14,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -118,7 +122,9 @@
 
 #### [Wheeled Scout](../../../units/wheeled_scout.md) 
 
+- [**Wheeled Scout (Camera)**](../../../units/wheeled_scout/wheeled_scout_camera.md) *Undefined (2500)* 
 - [**Wheeled Scout (Standard)**](../../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+- [**Wheeled Scout (Sensors)**](../../../units/wheeled_scout/wheeled_scout_sensors.md) *Undefined (2600)* 
 
 ### 22 Tons 
 

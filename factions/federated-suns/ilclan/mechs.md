@@ -193,6 +193,10 @@
 - [**Incubus 6**](../../../units/incubus/incubus_6.md) *Brawler (3113)* 
 - [**Incubus 9**](../../../units/incubus/incubus_9.md) *Striker (3150)* 
 
+#### [Jackalope](../../../units/jackalope.md) 
+
+- [**Jackalope JLP-BD**](../../../units/jackalope/jackalope_jlp-bd.md) *Striker (3134)* `Active Probe` 
+
 #### [Javelin](../../../units/javelin.md) 
 
 - [**Javelin JVN-11B**](../../../units/javelin/javelin_jvn-11b.md) *Striker (3054)* `Active Probe` , `ECM` 
@@ -344,6 +348,11 @@
 #### [Powerman](../../../units/powerman.md) 
 
 - [**Powerman SC XV HaulerMech**](../../../units/powerman/powerman_sc_xv_haulermech.md) *Ambusher (2895)* `IndustrialMech` 
+
+#### [Rattlesnake](../../../units/rattlesnake.md) 
+
+- [**Rattlesnake JR7-31**](../../../units/rattlesnake/rattlesnake_jr7-31.md) *Undefined (3042)* `ECM` 
+- [**Rattlesnake JR7-31P**](../../../units/rattlesnake/rattlesnake_jr7-31p.md) *Undefined (3043)* `C3 Support` 
 
 #### [Spector](../../../units/spector.md) 
 
@@ -691,6 +700,7 @@
 #### [Scorpion](../../../units/scorpion.md) 
 
 - [**Scorpion SCP-1BR**](../../../units/scorpion/scorpion_scp-1br.md) *Skirmisher (3088)* 
+- [**Scorpion SCP-2N**](../../../units/scorpion/scorpion_scp-2n.md) *Skirmisher (3131)* `TAG` 
 
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
@@ -1101,6 +1111,14 @@
 - [**Charger CGR-SA5**](../../../units/charger/charger_cgr-sa5.md) *Juggernaut (3063)* 
 - [**Charger CGR-KMZ**](../../../units/charger/charger_cgr-kmz.md) *Sniper (3071)* 
 
+#### [Doloire](../../../units/doloire.md) 
+
+- [**Doloire DLR-O**](../../../units/doloire/doloire_dlr-o.md) *Brawler (3121)* `ECM` 
+- [**Doloire DLR-OA**](../../../units/doloire/doloire_dlr-oa.md) *Juggernaut (3121)* 
+- [**Doloire DLR-OB**](../../../units/doloire/doloire_dlr-ob.md) *Brawler (3121)* 
+- [**Doloire DLR-OC**](../../../units/doloire/doloire_dlr-oc.md) *Juggernaut (3121)* `C3 Main` , `TAG` 
+- [**Doloire DLR-OD**](../../../units/doloire/doloire_dlr-od.md) *Skirmisher (3121)* 
+
 #### [Goliath](../../../units/goliath.md) 
 
 - [**Goliath GOL-5D**](../../../units/goliath/goliath_gol-5d.md) *Brawler (3067)* 
@@ -1336,6 +1354,11 @@
 
 - [**King Crab KGC-001**](../../../units/king_crab/king_crab_kgc-001.md) *Juggernaut (3052)* 
 - [**King Crab KGC-008B**](../../../units/king_crab/king_crab_kgc-008b.md) *Sniper (3080)* `C3 Support` , `ECM` 
+- [**King Crab KGC-011**](../../../units/king_crab/king_crab_kgc-011.md) *Juggernaut (3143)* 
+
+#### [Malice](../../../units/malice.md) 
+
+- [**Malice MAL-XT**](../../../units/malice/malice_mal-xt.md) *Juggernaut (3134)* 
 
 #### [Marauder II](../../../units/marauder_ii.md) 
 

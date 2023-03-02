@@ -66,6 +66,11 @@
 
 ### 1 Tons 
 
+#### [Angerona Scout Suit](../../../units/angerona_scout_suit.md) 
+
+- [**Angerona Scout Suit (Standard)(Sqd4)**](../../../units/angerona_scout_suit/angerona_scout_suit_standardsqd4.md) *Ambusher (3083)* `Stealth` 
+- [**Angerona Scout Suit (Recon)(Sqd4)**](../../../units/angerona_scout_suit/angerona_scout_suit_reconsqd4.md) *Scout (3085)* `Active Probe` , `Stealth` 
+
 #### [Clan Medium Battle Armor](../../../units/clan_medium_battle_armor.md) 
 
 - [**Clan Medium Battle Armor (Rabid)(Sqd4)**](../../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabidsqd4.md) *Scout (3067)* 
@@ -102,6 +107,13 @@
 - [**Longinus Battle Armor (MG)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_mgsqd4.md) *Ambusher (3057)* 
 - [**Longinus Battle Armor (David)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_davidsqd4.md) *Ambusher (3063)* 
 - [**Longinus Battle Armor (Magnetic)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_magneticsqd4.md) *Ambusher (3069)* 
+
+#### [Purifier Adaptive Battle Armor](../../../units/purifier_adaptive_battle_armor.md) 
+
+- [**Purifier Adaptive Battle Armor (Laser)(Sqd4)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_lasersqd4.md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor (Narc)(Sqd4)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_narcsqd4.md) *Ambusher (3062)* `Stealth` 
+- [**Purifier Adaptive Battle Armor (TAG)(Sqd4)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_tagsqd4.md) *Ambusher (3062)* `Stealth` , `TAG` 
+- [**Purifier Adaptive Battle Armor (PPC)(Sqd4)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_ppcsqd4.md) *Ambusher (3069)* `Stealth` 
 
 #### [Quirinus Battle Armor](../../../units/quirinus_battle_armor.md) 
 

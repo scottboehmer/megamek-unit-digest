@@ -572,6 +572,11 @@
 - [**Phoenix Hawk L 'Fenikkusu Taka' PXH-11K**](../../../units/phoenix_hawk_l/phoenix_hawk_l_fenikkusu_taka_pxh-11k.md) *Scout (3116)* 
 - [**Phoenix Hawk L 'Fenikkusu Taka' PXH-11K2**](../../../units/phoenix_hawk_l/phoenix_hawk_l_fenikkusu_taka_pxh-11k2.md) *Striker (3116)* 
 
+#### [Rattlesnake](../../../units/rattlesnake.md) 
+
+- [**Rattlesnake JR7-31**](../../../units/rattlesnake/rattlesnake_jr7-31.md) *Undefined (3042)* `ECM` 
+- [**Rattlesnake JR7-31P**](../../../units/rattlesnake/rattlesnake_jr7-31p.md) *Undefined (3043)* `C3 Support` 
+
 #### [Spector](../../../units/spector.md) 
 
 - [**Spector SPR-5F**](../../../units/spector/spector_spr-5f.md) *Striker (3053)* `ECM` 
@@ -694,6 +699,14 @@
 
 #### [Pouncer](../../../units/pouncer.md) 
 
+- [**Pouncer Prime**](../../../units/pouncer/pouncer_prime.md) *Sniper (3050)* 
+- [**Pouncer A**](../../../units/pouncer/pouncer_a.md) *Missile Boat (3050)* 
+- [**Pouncer B**](../../../units/pouncer/pouncer_b.md) *Sniper (3050)* 
+- [**Pouncer C**](../../../units/pouncer/pouncer_c.md) *Striker (3050)* 
+- [**Pouncer D**](../../../units/pouncer/pouncer_d.md) *Striker (3050)* 
+- [**Pouncer E**](../../../units/pouncer/pouncer_e.md) *Striker (3061)* 
+- [**Pouncer H**](../../../units/pouncer/pouncer_h.md) *Striker (3062)* 
+- [**Pouncer F**](../../../units/pouncer/pouncer_f.md) *Scout (3069)* `Active Probe` 
 - [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
 - [**Pouncer G**](../../../units/pouncer/pouncer_g.md) *Striker (3142)* 
 - [**Pouncer I**](../../../units/pouncer/pouncer_i.md) *Missile Boat (3142)* 
@@ -969,6 +982,7 @@
 
 - [**Enforcer III ENF-6M**](../../../units/enforcer_iii/enforcer_iii_enf-6m.md) *Sniper (3059)* 
 - [**Enforcer III ENF-6Ma**](../../../units/enforcer_iii/enforcer_iii_enf-6ma.md) *Skirmisher (3065)* 
+- [**Enforcer III ENF-7D**](../../../units/enforcer_iii/enforcer_iii_enf-7d.md) *Sniper (3104)* 
 
 #### [Eris](../../../units/eris.md) 
 
@@ -1954,6 +1968,15 @@
 - [**Gunslinger GUN-2ERD**](../../../units/gunslinger/gunslinger_gun-2erd.md) *Juggernaut (3062)* `C3 Main` , `ECM` , `TAG` 
 - [**Gunslinger GUN-3ERD**](../../../units/gunslinger/gunslinger_gun-3erd.md) *Juggernaut (3131)* 
 
+#### [Jade Phoenix](../../../units/jade_phoenix.md) 
+
+- [**Jade Phoenix Prime**](../../../units/jade_phoenix/jade_phoenix_prime.md) *Sniper (3148)* 
+- [**Jade Phoenix A**](../../../units/jade_phoenix/jade_phoenix_a.md) *Skirmisher (3148)* 
+- [**Jade Phoenix B**](../../../units/jade_phoenix/jade_phoenix_b.md) *Skirmisher (3148)* 
+- [**Jade Phoenix C**](../../../units/jade_phoenix/jade_phoenix_c.md) *Skirmisher (3148)* 
+- [**Jade Phoenix D**](../../../units/jade_phoenix/jade_phoenix_d.md) *Sniper (3148)* 
+- [**Jade Phoenix E**](../../../units/jade_phoenix/jade_phoenix_e.md) *Sniper (3148)* 
+
 #### [Longbow](../../../units/longbow.md) 
 
 - [**Longbow LGB-0W**](../../../units/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 
@@ -1988,6 +2011,14 @@
 
 #### [Blood Asp](../../../units/blood_asp.md) 
 
+- [**Blood Asp Prime**](../../../units/blood_asp/blood_asp_prime.md) *Undefined (3060)* 
+- [**Blood Asp A**](../../../units/blood_asp/blood_asp_a.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp B**](../../../units/blood_asp/blood_asp_b.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp C**](../../../units/blood_asp/blood_asp_c.md) *Undefined (3060)* 
+- [**Blood Asp D**](../../../units/blood_asp/blood_asp_d.md) *Undefined (3060)* 
+- [**Blood Asp E**](../../../units/blood_asp/blood_asp_e.md) *Undefined (3063)* 
+- [**Blood Asp F**](../../../units/blood_asp/blood_asp_f.md) *Undefined (3071)* 
+- [**Blood Asp G**](../../../units/blood_asp/blood_asp_g.md) *Undefined (3074)* 
 - [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
 - [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 

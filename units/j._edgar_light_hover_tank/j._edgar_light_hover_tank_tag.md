@@ -58,6 +58,7 @@
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Alliance 
+- Mercenary 
 - Word of Blake 
 
 ### Early Republic 
@@ -70,6 +71,7 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -85,6 +87,7 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -101,6 +104,7 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -114,6 +118,7 @@
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
 - Tamar Pact 
 - Vesper Marches 
 

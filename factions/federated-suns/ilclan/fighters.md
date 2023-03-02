@@ -43,6 +43,10 @@
 - [**Dagger DARO-1D**](../../../units/dagger/dagger_daro-1d.md) *Fast Dogfighter (3068)* `Active Probe` , `ECM` 
 - [**Dagger DAR4-XP**](../../../units/dagger/dagger_dar4-xp.md) *Fast Dogfighter (3070)* `Unique` 
 
+#### [Sagittarii](../../../units/sagittarii.md) 
+
+- [**Sagittarii SGT-3R**](../../../units/sagittarii/sagittarii_sgt-3r.md) *Fast Dogfighter (3085)* 
+
 ### 50 Tons 
 
 #### [Corsair](../../../units/corsair.md) 

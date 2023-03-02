@@ -30,5 +30,6 @@
 ### ilClan 
 
 - Alyina Mercantile League 
+- Mercenary 
 - Star League (Jade Falcon) 
 

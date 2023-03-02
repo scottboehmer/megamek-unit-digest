@@ -202,6 +202,10 @@
 
 ### 70 Tons 
 
+#### [Archer](../../../units/archer.md) 
+
+- [**Archer C 2**](../../../units/archer/archer_c_2.md) *Brawler (3065)* 
+
 #### [Grasshopper](../../../units/grasshopper.md) 
 
 - [**Grasshopper GHR-7P**](../../../units/grasshopper/grasshopper_ghr-7p.md) *Skirmisher (3081)* `Active Probe` 
@@ -269,6 +273,10 @@
 - [**Zeus-X ZEU-9WD**](../../../units/zeus-x/zeus-x_zeu-9wd.md) *Brawler (3067)* 
 
 ### 85 Tons 
+
+#### [Gunslinger](../../../units/gunslinger.md) 
+
+- [**Gunslinger GUN-1ERD**](../../../units/gunslinger/gunslinger_gun-1erd.md) *Juggernaut (3053)* `Active Probe` , `ECM` 
 
 #### [Longbow](../../../units/longbow.md) 
 

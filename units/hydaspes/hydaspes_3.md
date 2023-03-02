@@ -28,12 +28,14 @@
 ### Early Republic 
 
 - Clan Diamond Shark 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Wolf 
 - Raven Alliance 
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Sea Fox 
 - Clan Wolf 
@@ -41,6 +43,7 @@
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Sea Fox 
@@ -50,6 +53,7 @@
 ### ilClan 
 
 - Alyina Mercantile League 
+- Clan Hell's Horses 
 - Clan Protectorate 
 - Clan Sea Fox 
 - Raven Alliance 

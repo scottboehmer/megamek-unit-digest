@@ -396,6 +396,7 @@
 
 - [**Scorpion SCP-1N**](../../../units/scorpion/scorpion_scp-1n.md) *Skirmisher (2570)* 
 - [**Scorpion SCP-1O**](../../../units/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)* 
+- [**Scorpion SCP-10M**](../../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
 
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 

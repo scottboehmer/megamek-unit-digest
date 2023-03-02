@@ -442,6 +442,10 @@
 - [**Marshal MHL-X1**](../../../units/marshal/marshal_mhl-x1.md) *Skirmisher (3059)* 
 - [**Marshal MHL-2L**](../../../units/marshal/marshal_mhl-2l.md) *Skirmisher (3063)* 
 
+#### [Scorpion](../../../units/scorpion.md) 
+
+- [**Scorpion SCP-10M**](../../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
+
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2H**](../../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
@@ -488,6 +492,7 @@
 
 #### [Quickdraw](../../../units/quickdraw.md) 
 
+- [**Quickdraw QKD-5M**](../../../units/quickdraw/quickdraw_qkd-5m.md) *Skirmisher (3049)* 
 - [**Quickdraw QKD-5Mr**](../../../units/quickdraw/quickdraw_qkd-5mr.md) *Missile Boat (3070)* `ECM` 
 
 #### [Rifleman](../../../units/rifleman.md) 
@@ -553,6 +558,7 @@
 - [**Thunderbolt TDR-9M**](../../../units/thunderbolt/thunderbolt_tdr-9m.md) *Skirmisher (3067)* 
 - [**Thunderbolt TDR-11SE**](../../../units/thunderbolt/thunderbolt_tdr-11se.md) *Skirmisher (3069)* `ECM` 
 - [**Thunderbolt TDR-11S**](../../../units/thunderbolt/thunderbolt_tdr-11s.md) *Juggernaut (3074)* 
+- [**Thunderbolt TDR-9T**](../../../units/thunderbolt/thunderbolt_tdr-9t.md) *Missile Boat (3083)* 
 
 ### 70 Tons 
 

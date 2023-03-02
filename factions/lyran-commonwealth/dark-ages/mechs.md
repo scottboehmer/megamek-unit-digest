@@ -393,6 +393,11 @@
 
 ### 40 Tons 
 
+#### [Arctic Wolf II](../../../units/arctic_wolf_ii.md) 
+
+- [**Arctic Wolf II Prime**](../../../units/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* 
+- [**Arctic Wolf II A**](../../../units/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)* `Active Probe` , `ECM` 
+
 #### [Assassin](../../../units/assassin.md) 
 
 - [**Assassin ASN-30**](../../../units/assassin/assassin_asn-30.md) *Scout (3062)* 
@@ -443,6 +448,14 @@
 
 #### [Phantom](../../../units/phantom.md) 
 
+- [**Phantom Prime**](../../../units/phantom/phantom_prime.md) *Scout (3052)* `Active Probe` , `ECM` , `TAG` 
+- [**Phantom A**](../../../units/phantom/phantom_a.md) *Striker (3052)* 
+- [**Phantom B**](../../../units/phantom/phantom_b.md) *Scout (3052)* `Active Probe` 
+- [**Phantom C**](../../../units/phantom/phantom_c.md) *Striker (3052)* 
+- [**Phantom D**](../../../units/phantom/phantom_d.md) *Striker (3052)* 
+- [**Phantom E**](../../../units/phantom/phantom_e.md) *Striker (3061)* 
+- [**Phantom H**](../../../units/phantom/phantom_h.md) *Striker (3062)* 
+- [**Phantom F**](../../../units/phantom/phantom_f.md) *Striker (3068)* `ECM` 
 - [**Phantom G**](../../../units/phantom/phantom_g.md) *Scout (3090)* 
 - [**Phantom I**](../../../units/phantom/phantom_i.md) *Scout (3141)* `TAG` 
 - [**Phantom J**](../../../units/phantom/phantom_j.md) *Striker (3141)* 
@@ -1053,6 +1066,10 @@
 
 - [**Helepolis HEP-4H**](../../../units/helepolis/helepolis_hep-4h.md) *Missile Boat (3074)* 
 
+#### [Jade Hawk](../../../units/jade_hawk.md) 
+
+- [**Jade Hawk (Standard)**](../../../units/jade_hawk/jade_hawk_standard.md) *Skirmisher (3136)* `Active Probe` 
+
 #### [Maelstrom](../../../units/maelstrom.md) 
 
 - [**Maelstrom MTR-5K**](../../../units/maelstrom/maelstrom_mtr-5k.md) *Skirmisher (3056)* `TAG` 
@@ -1290,6 +1307,10 @@
 
 - [**Cerberus MR-V2**](../../../units/cerberus/cerberus_mr-v2.md) *Brawler (3054)* 
 - [**Cerberus MR-V3**](../../../units/cerberus/cerberus_mr-v3.md) *Brawler (3062)* 
+
+#### [Cygnus](../../../units/cygnus.md) 
+
+- [**Cygnus (Standard)**](../../../units/cygnus/cygnus_standard.md) *Brawler (3075)* 
 
 #### [Hauptmann](../../../units/hauptmann.md) 
 

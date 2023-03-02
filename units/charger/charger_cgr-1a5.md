@@ -27,6 +27,7 @@
 ### Late Succession Wars - Renaissance 
 
 - Capellan Confederation 
+- Mercenary 
 - St. Ives Compact 
 
 ### Clan Invasion 

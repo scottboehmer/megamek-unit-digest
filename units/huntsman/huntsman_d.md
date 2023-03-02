@@ -56,12 +56,14 @@
 ### Late Republic 
 
 - Clan Nova Cat 
+- Draconis Combine 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- Draconis Combine 
 - Free Worlds League 
 - Republic of the Sphere 
 
@@ -69,6 +71,7 @@
 
 - Clan Protectorate 
 - Clan Sea Fox 
+- Draconis Combine 
 - Free Worlds League 
 - Star League (Smoke Jaguar) 
 

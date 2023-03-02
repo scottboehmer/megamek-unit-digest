@@ -276,6 +276,14 @@
 
 #### [Phantom](../../../units/phantom.md) 
 
+- [**Phantom Prime**](../../../units/phantom/phantom_prime.md) *Scout (3052)* `Active Probe` , `ECM` , `TAG` 
+- [**Phantom A**](../../../units/phantom/phantom_a.md) *Striker (3052)* 
+- [**Phantom B**](../../../units/phantom/phantom_b.md) *Scout (3052)* `Active Probe` 
+- [**Phantom C**](../../../units/phantom/phantom_c.md) *Striker (3052)* 
+- [**Phantom D**](../../../units/phantom/phantom_d.md) *Striker (3052)* 
+- [**Phantom E**](../../../units/phantom/phantom_e.md) *Striker (3061)* 
+- [**Phantom H**](../../../units/phantom/phantom_h.md) *Striker (3062)* 
+- [**Phantom F**](../../../units/phantom/phantom_f.md) *Striker (3068)* `ECM` 
 - [**Phantom G**](../../../units/phantom/phantom_g.md) *Scout (3090)* 
 - [**Phantom I**](../../../units/phantom/phantom_i.md) *Scout (3141)* `TAG` 
 - [**Phantom J**](../../../units/phantom/phantom_j.md) *Striker (3141)* 
@@ -286,31 +294,39 @@
 
 #### [Pouncer](../../../units/pouncer.md) 
 
+- [**Pouncer Prime**](../../../units/pouncer/pouncer_prime.md) *Sniper (3050)* 
+- [**Pouncer A**](../../../units/pouncer/pouncer_a.md) *Missile Boat (3050)* 
+- [**Pouncer B**](../../../units/pouncer/pouncer_b.md) *Sniper (3050)* 
+- [**Pouncer C**](../../../units/pouncer/pouncer_c.md) *Striker (3050)* 
+- [**Pouncer D**](../../../units/pouncer/pouncer_d.md) *Striker (3050)* 
+- [**Pouncer E**](../../../units/pouncer/pouncer_e.md) *Striker (3061)* 
+- [**Pouncer H**](../../../units/pouncer/pouncer_h.md) *Striker (3062)* 
+- [**Pouncer F**](../../../units/pouncer/pouncer_f.md) *Scout (3069)* `Active Probe` 
 - [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
 - [**Pouncer G**](../../../units/pouncer/pouncer_g.md) *Striker (3142)* 
 - [**Pouncer I**](../../../units/pouncer/pouncer_i.md) *Missile Boat (3142)* 
 - [**Pouncer T**](../../../units/pouncer/pouncer_t.md) *Scout (3142)* 
 - [**Pouncer X**](../../../units/pouncer/pouncer_x.md) *Striker (3147)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](../../../units/viper/viper_h.md) *Striker (3062)* 
-- [**Viper I**](../../../units/viper/viper_i.md) *Striker (3068)* `Active Probe` 
-- [**Viper F**](../../../units/viper/viper_f.md) *Striker (3070)* 
-- [**Viper G**](../../../units/viper/viper_g.md) *Striker (3071)* `Active Probe` 
-- [**Viper U**](../../../units/viper/viper_u.md) *Striker (3077)* `ECM` 
-- [**Viper R**](../../../units/viper/viper_r.md) *Scout (3110)* `Active Probe` , `TAG` 
-- [**Viper T**](../../../units/viper/viper_t.md) *Scout (3142)* `Active Probe` 
-- [**Viper J**](../../../units/viper/viper_j.md) *Striker (3144)* 
-- [**Viper K**](../../../units/viper/viper_k.md) *Scout (3147)* `Active Probe` , `ECM` , `TAG` 
-- [**Viper L**](../../../units/viper/viper_l.md) *Sniper (3147)* 
-- [**Viper M**](../../../units/viper/viper_m.md) *Striker (3149)* 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](../../../units/viper_omnimech/viper_h.md) *Striker (3062)* 
+- [**Viper I**](../../../units/viper_omnimech/viper_i.md) *Striker (3068)* `Active Probe` 
+- [**Viper F**](../../../units/viper_omnimech/viper_f.md) *Striker (3070)* 
+- [**Viper G**](../../../units/viper_omnimech/viper_g.md) *Striker (3071)* `Active Probe` 
+- [**Viper U**](../../../units/viper_omnimech/viper_u.md) *Striker (3077)* `ECM` 
+- [**Viper R**](../../../units/viper_omnimech/viper_r.md) *Scout (3110)* `Active Probe` , `TAG` 
+- [**Viper T**](../../../units/viper_omnimech/viper_t.md) *Scout (3142)* `Active Probe` 
+- [**Viper J**](../../../units/viper_omnimech/viper_j.md) *Striker (3144)* 
+- [**Viper K**](../../../units/viper_omnimech/viper_k.md) *Scout (3147)* `Active Probe` , `ECM` , `TAG` 
+- [**Viper L**](../../../units/viper_omnimech/viper_l.md) *Sniper (3147)* 
+- [**Viper M**](../../../units/viper_omnimech/viper_m.md) *Striker (3149)* 
 
 #### [Vulcan](../../../units/vulcan.md) 
 
@@ -745,6 +761,16 @@
 - [**BattleMaster BLR-K4**](../../../units/battlemaster/battlemaster_blr-k4.md) *Skirmisher (3073)* 
 - [**BattleMaster C 3**](../../../units/battlemaster/battlemaster_c_3.md) *Juggernaut (3145)* 
 
+#### [Deimos](../../../units/deimos.md) 
+
+- [**Deimos Prime**](../../../units/deimos/deimos_prime.md) *Sniper (3085)* 
+- [**Deimos A**](../../../units/deimos/deimos_a.md) *Brawler (3085)* `ECM` 
+- [**Deimos B**](../../../units/deimos/deimos_b.md) *Sniper (3085)* `ECM` 
+- [**Deimos C**](../../../units/deimos/deimos_c.md) *Sniper (3086)* `ECM` 
+- [**Deimos S**](../../../units/deimos/deimos_s.md) *Sniper (3086)* 
+- [**Deimos D**](../../../units/deimos/deimos_d.md) *Sniper (3119)* 
+- [**Deimos E**](../../../units/deimos/deimos_e.md) *Brawler (3140)* 
+
 #### [Longbow](../../../units/longbow.md) 
 
 - [**Longbow LGB-8V**](../../../units/longbow/longbow_lgb-8v.md) *Missile Boat (3068)* 
@@ -766,6 +792,14 @@
 
 #### [Blood Asp](../../../units/blood_asp.md) 
 
+- [**Blood Asp Prime**](../../../units/blood_asp/blood_asp_prime.md) *Undefined (3060)* 
+- [**Blood Asp A**](../../../units/blood_asp/blood_asp_a.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp B**](../../../units/blood_asp/blood_asp_b.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp C**](../../../units/blood_asp/blood_asp_c.md) *Undefined (3060)* 
+- [**Blood Asp D**](../../../units/blood_asp/blood_asp_d.md) *Undefined (3060)* 
+- [**Blood Asp E**](../../../units/blood_asp/blood_asp_e.md) *Undefined (3063)* 
+- [**Blood Asp F**](../../../units/blood_asp/blood_asp_f.md) *Undefined (3071)* 
+- [**Blood Asp G**](../../../units/blood_asp/blood_asp_g.md) *Undefined (3074)* 
 - [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
 - [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 
@@ -830,6 +864,10 @@
 - [**Executioner J**](../../../units/executioner/executioner_j.md) *Juggernaut (3104)* 
 - [**Executioner L**](../../../units/executioner/executioner_l.md) *Sniper (3119)* 
 - [**Executioner T**](../../../units/executioner/executioner_t.md) *Sniper (3142)* `ECM` 
+
+#### [Hellstar](../../../units/hellstar.md) 
+
+- [**Hellstar (Standard)**](../../../units/hellstar/hellstar_standard.md) *Sniper (3079)* 
 
 #### [Mastodon](../../../units/mastodon.md) 
 

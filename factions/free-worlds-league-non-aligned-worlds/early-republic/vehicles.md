@@ -27,6 +27,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -84,6 +88,10 @@
 - [**Sprint Scout Helicopter (Troop Transport)**](../../../units/sprint_scout_helicopter/sprint_scout_helicopter_troop_transport.md) *Scout (3056)* `Transport:2.5` 
 - [**Sprint Scout Helicopter (C3)**](../../../units/sprint_scout_helicopter/sprint_scout_helicopter_c3.md) *Scout (3057)* `Active Probe` , `C3 Support` 
 - [**Sprint Scout Helicopter (Interdictor)**](../../../units/sprint_scout_helicopter/sprint_scout_helicopter_interdictor.md) *Scout (3076)* `ECM` , `TAG` 
+
+#### [Thang-Ta APC](../../../units/thang-ta_apc.md) 
+
+- [**Thang-Ta APC (Standard)**](../../../units/thang-ta_apc/thang-ta_apc_standard.md) *Scout (3079)* `Transport:1.0` 
 
 ### 15 Tons 
 
@@ -300,7 +308,6 @@
 - [**Gun Trailer (Artillery/AA)**](../../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Ultra)**](../../../units/gun_trailer/gun_trailer_ultra.md) *Ambusher (3098)* 
-- [**Gun Trailer (Sniper Cannon)**](../../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
 
 #### [Hunter Light Support Tank](../../../units/hunter_light_support_tank.md) 
 
@@ -436,6 +443,10 @@
 
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
+
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
 
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 

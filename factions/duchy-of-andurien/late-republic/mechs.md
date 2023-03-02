@@ -424,7 +424,6 @@
 
 #### [Eris](../../../units/eris.md) 
 
-- [**Eris ERS-2H**](../../../units/eris/eris_ers-2h.md) *Skirmisher (3087)* 
 - [**Eris ERS-2N**](../../../units/eris/eris_ers-2n.md) *Skirmisher (3092)* 
 - [**Eris ERS-3R**](../../../units/eris/eris_ers-3r.md) *Skirmisher (3130)* `ECM` , `TAG` 
 
@@ -432,10 +431,6 @@
 
 - [**Ghost GST-10**](../../../units/ghost/ghost_gst-10.md) *Sniper (3077)* `Active Probe` , `ECM` , `Stealth` 
 - [**Ghost GST-11**](../../../units/ghost/ghost_gst-11.md) *Sniper (3082)* `Active Probe` , `ECM` 
-
-#### [Hel](../../../units/hel.md) 
-
-- [**Hel HL-1**](../../../units/hel/hel_hl-1.md) *Undefined (3092)* 
 
 #### [Hunchback](../../../units/hunchback.md) 
 

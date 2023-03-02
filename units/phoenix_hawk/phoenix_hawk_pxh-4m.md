@@ -25,8 +25,8 @@
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Fronc Reaches 
+- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
 - Taurian Concordat 
 
 ### Late Republic 
@@ -35,8 +35,8 @@
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Fronc Reaches 
+- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
 - Taurian Concordat 
 
 ### Dark Ages 
@@ -50,8 +50,8 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
 - Pirate 
 - Taurian Concordat 
 

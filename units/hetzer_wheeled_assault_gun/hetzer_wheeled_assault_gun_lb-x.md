@@ -37,6 +37,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Regulan Fiefs 
 - Taurian Concordat 
 
@@ -47,6 +48,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Regulan Fiefs 
 - Taurian Concordat 
 
@@ -69,5 +71,6 @@
 - Free Worlds League 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Taurian Concordat 
 

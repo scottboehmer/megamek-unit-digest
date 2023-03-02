@@ -36,6 +36,7 @@
 
 ### ilClan 
 
+- Federated Suns 
 - Mercenary 
 - Star League (Smoke Jaguar) 
 - Star League (Wolf) 

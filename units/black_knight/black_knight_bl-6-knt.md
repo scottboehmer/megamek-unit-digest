@@ -127,8 +127,6 @@
 - Draconis Combine 
 - Free Rasalhague Republic 
 - Free Worlds League 
-- Outworlds Alliance 
-- Taurian Concordat 
 - Word of Blake 
 
 ### Civil War 

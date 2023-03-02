@@ -28,25 +28,31 @@
 
 ### Clan Invasion 
 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Civil War 
 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Jihad 
 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Early Republic 
 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Late Republic 
 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Dark Ages 
 
+- Mercenary 
 - Wolf's Dragoons 
 

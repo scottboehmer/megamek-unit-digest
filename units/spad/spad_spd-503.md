@@ -49,6 +49,7 @@
 ### Jihad 
 
 - ComStar 
+- Society 
 - Word of Blake 
 
 ### Early Republic 

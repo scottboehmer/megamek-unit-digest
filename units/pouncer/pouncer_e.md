@@ -63,20 +63,50 @@
 
 ### Late Republic 
 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
+- Kell Hounds 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
+- Kell Hounds 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
 - Scorpion Empire 
+- Wolf's Dragoons 
 
 ### ilClan 
 
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
+- Kell Hounds 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
 - Scorpion Empire 
 - Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
 - Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

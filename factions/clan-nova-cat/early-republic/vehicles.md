@@ -18,6 +18,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -43,6 +47,7 @@
 
 #### [J-27 Ordnance Transport](../../../units/j-27_ordnance_transport.md) 
 
+- [**J-27 Ordnance Transport (Fusion)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_fusion.md) *Undefined (2578)* 
 - [**J-27 Ordnance Transport (Standard)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Trailer)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 
@@ -153,10 +158,6 @@
 - [**Coolant Truck 135-K**](../../../units/coolant_truck/coolant_truck_135-k.md) *Ambusher (2583)* 
 - [**Coolant Truck (Tracked)**](../../../units/coolant_truck/coolant_truck_tracked.md) *Undefined (2592)* 
 
-#### [Kite Reconnaissance Vehicle](../../../units/kite_reconnaissance_vehicle.md) 
-
-- [**Kite Reconnaissance Vehicle (Standard)**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* `Active Probe` , `ECM` , `TAG` 
-
 #### [Yasha VTOL](../../../units/yasha_vtol.md) 
 
 - [**Yasha VTOL 'Spectre'**](../../../units/yasha_vtol/yasha_vtol_spectre.md) *Scout (3085)* `ECM` , `Stealth` 
@@ -174,7 +175,6 @@
 - [**Gun Trailer (Stronghold)**](../../../units/gun_trailer/gun_trailer_stronghold.md) *Ambusher (3092)* `Transport:4.0` 
 - [**Gun Trailer (Artillery/AA)**](../../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
-- [**Gun Trailer (Sniper Cannon)**](../../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
 
 #### [Lightning Attack Hovercraft](../../../units/lightning_attack_hovercraft.md) 
 
@@ -183,10 +183,6 @@
 #### [MIT24 MASH Vehicle](../../../units/mit24_mash_vehicle.md) 
 
 - [**MIT24 MASH Vehicle (Standard)**](../../../units/mit24_mash_vehicle/mit24_mash_vehicle_standard.md) *Undefined (3086)* 
-
-#### [Scimitar Mk II HCV](../../../units/scimitar_mk_ii_hcv.md) 
-
-- [**Scimitar Mk II HCV (Standard)**](../../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_standard.md) *Scout (3105)* `ECM` 
 
 #### [Striker Light Tank](../../../units/striker_light_tank.md) 
 

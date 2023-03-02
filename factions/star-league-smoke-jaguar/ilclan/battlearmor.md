@@ -20,6 +20,16 @@
 - [**Tornado PA(L) G13 (Small Laser)(Sqd5)**](../../../units/tornado_pal/tornado_pal_g13_small_lasersqd5.md) *Ambusher (3066)* `Stealth` 
 - [**Tornado PA(L) G14(Sqd5)**](../../../units/tornado_pal/tornado_pal_g14sqd5.md) *Ambusher (3070)* `Stealth` 
 
+### 0.75 Tons 
+
+#### [Constable Pacification Suit](../../../units/constable_pacification_suit.md) 
+
+- [**Constable Pacification Suit (ECM) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_ecm_sqd5.md) *Ambusher (3092)* `ECM` 
+- [**Constable Pacification Suit (LMG) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_lmg_sqd5.md) *Ambusher (3092)* 
+- [**Constable Pacification Suit (Sensor) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_sensor_sqd5.md) *Scout (3092)* `Active Probe` 
+- [**Constable Pacification Suit (SRM) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_srm_sqd5.md) *Ambusher (3092)* 
+- [**Constable Pacification Suit (TAG) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_tag_sqd5.md) *Scout (3092)* `TAG` 
+
 ### 1 Tons 
 
 #### [Angerona Scout Suit](../../../units/angerona_scout_suit.md) 

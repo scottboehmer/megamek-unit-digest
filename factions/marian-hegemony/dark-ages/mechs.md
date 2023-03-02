@@ -405,6 +405,10 @@
 - [**Marshal MHL-X1**](../../../units/marshal/marshal_mhl-x1.md) *Skirmisher (3059)* 
 - [**Marshal MHL-2L**](../../../units/marshal/marshal_mhl-2l.md) *Skirmisher (3063)* 
 
+#### [Scorpion](../../../units/scorpion.md) 
+
+- [**Scorpion SCP-10M**](../../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
+
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2H**](../../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
@@ -451,6 +455,7 @@
 
 #### [Quickdraw](../../../units/quickdraw.md) 
 
+- [**Quickdraw QKD-5M**](../../../units/quickdraw/quickdraw_qkd-5m.md) *Skirmisher (3049)* 
 - [**Quickdraw QKD-5Mr**](../../../units/quickdraw/quickdraw_qkd-5mr.md) *Missile Boat (3070)* `ECM` 
 
 #### [Rifleman](../../../units/rifleman.md) 

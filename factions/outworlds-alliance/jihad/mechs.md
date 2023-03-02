@@ -129,6 +129,10 @@
 
 - [**Assassin ASN-21**](../../../units/assassin/assassin_asn-21.md) *Scout (2676)* 
 
+#### [Clint IIC](../../../units/clint_iic.md) 
+
+- [**Clint IIC (Standard)**](../../../units/clint_iic/clint_iic_standard.md) *Striker (2842)* 
+
 #### [Rock Hound](../../../units/rock_hound.md) 
 
 - [**Rock Hound AM-PRM-RH7 ProspectorMech**](../../../units/rock_hound/rock_hound_am-prm-rh7_prospectormech.md) *Undefined (3042)* `IndustrialMech` 

@@ -44,4 +44,6 @@
 
 - Capellan Confederation 
 - Federated Suns 
+- Marian Hegemony 
+- Taurian Concordat 
 

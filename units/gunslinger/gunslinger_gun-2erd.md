@@ -30,7 +30,7 @@
 - Federated Commonwealth 
 - Federated Suns 
 - Lyran Alliance 
-- Word of Blake 
+- Second Star League 
 
 ### Jihad 
 

@@ -34,6 +34,10 @@
 - [**Savannah Master Hovercraft (Standard)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_standard.md) *Scout (3025)* 
 - [**Savannah Master Hovercraft (SL)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_sl.md) *Scout (3033)* 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 

@@ -13,6 +13,8 @@
 - [**Fire Moth D**](../../../units/fire_moth/fire_moth_d.md) *Striker (2874)* 
 - [**Fire Moth E**](../../../units/fire_moth/fire_moth_e.md) *Scout (3055)* 
 - [**Fire Moth H**](../../../units/fire_moth/fire_moth_h.md) *Striker (3060)* 
+- [**Fire Moth F**](../../../units/fire_moth/fire_moth_f.md) *Striker (3070)* `Active Probe` 
+- [**Fire Moth K**](../../../units/fire_moth/fire_moth_k.md) *Striker (3071)* 
 
 #### [Piranha](../../../units/piranha.md) 
 
@@ -69,6 +71,7 @@
 - [**Arctic Cheetah C**](../../../units/arctic_cheetah/arctic_cheetah_c.md) *Striker (3037)* `Active Probe` 
 - [**Arctic Cheetah D**](../../../units/arctic_cheetah/arctic_cheetah_d.md) *Missile Boat (3037)* 
 - [**Arctic Cheetah H**](../../../units/arctic_cheetah/arctic_cheetah_h.md) *Striker (3062)* 
+- [**Arctic Cheetah E**](../../../units/arctic_cheetah/arctic_cheetah_e.md) *Striker (3071)* 
 
 #### [Crosscut](../../../units/crosscut.md) 
 
@@ -116,6 +119,7 @@
 - [**Kit Fox H**](../../../units/kit_fox/kit_fox_h.md) *Striker (3059)* 
 - [**Kit Fox J**](../../../units/kit_fox/kit_fox_j.md) *Striker (3060)* 
 - [**Kit Fox F**](../../../units/kit_fox/kit_fox_f.md) *Sniper (3069)* 
+- [**Kit Fox U**](../../../units/kit_fox/kit_fox_u.md) *Sniper (3077)* 
 
 #### [Pack Hunter](../../../units/pack_hunter.md) 
 
@@ -133,6 +137,7 @@
 - [**Adder S**](../../../units/adder/adder_s.md) *Scout (3050)* `Active Probe` , `ECM` 
 - [**Adder H**](../../../units/adder/adder_h.md) *Brawler (3059)* 
 - [**Adder E**](../../../units/adder/adder_e.md) *Sniper (3060)* 
+- [**Adder J**](../../../units/adder/adder_j.md) *Sniper (3070)* 
 
 #### [Dig King](../../../units/dig_king.md) 
 
@@ -187,15 +192,18 @@
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](../../../units/viper/viper_h.md) *Striker (3062)* 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](../../../units/viper_omnimech/viper_h.md) *Striker (3062)* 
+- [**Viper I**](../../../units/viper_omnimech/viper_i.md) *Striker (3068)* `Active Probe` 
+- [**Viper F**](../../../units/viper_omnimech/viper_f.md) *Striker (3070)* 
+- [**Viper G**](../../../units/viper_omnimech/viper_g.md) *Striker (3071)* `Active Probe` 
 
 ### 45 Tons 
 
@@ -212,6 +220,7 @@
 - [**Ice Ferret D**](../../../units/ice_ferret/ice_ferret_d.md) *Striker (2948)* 
 - [**Ice Ferret E**](../../../units/ice_ferret/ice_ferret_e.md) *Striker (3056)* 
 - [**Ice Ferret H**](../../../units/ice_ferret/ice_ferret_h.md) *Striker (3061)* 
+- [**Ice Ferret L**](../../../units/ice_ferret/ice_ferret_l.md) *Scout (3069)* 
 - [**Ice Ferret U**](../../../units/ice_ferret/ice_ferret_u.md) *Striker (3077)* 
 
 #### [Night Chanter](../../../units/night_chanter.md) 
@@ -275,6 +284,7 @@
 - [**Nova S**](../../../units/nova/nova_s.md) *Skirmisher (3050)* `Active Probe` 
 - [**Nova E**](../../../units/nova/nova_e.md) *Skirmisher (3054)* 
 - [**Nova H**](../../../units/nova/nova_h.md) *Skirmisher (3059)* 
+- [**Nova F**](../../../units/nova/nova_f.md) *Skirmisher (3068)* 
 - [**Nova U**](../../../units/nova/nova_u.md) *Striker (3077)* `Active Probe` , `ECM` 
 
 #### [Stalking Spider](../../../units/stalking_spider.md) 
@@ -327,6 +337,8 @@
 - [**Stormcrow E**](../../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
+- [**Stormcrow G**](../../../units/stormcrow/stormcrow_g.md) *Striker (3068)* 
+- [**Stormcrow F**](../../../units/stormcrow/stormcrow_f.md) *Striker (3069)* 
 
 #### [Vapor Eagle](../../../units/vapor_eagle.md) 
 
@@ -359,6 +371,9 @@
 - [**Mad Dog DD**](../../../units/mad_dog/mad_dog_dd.md) *Brawler (3050)* 
 - [**Mad Dog S**](../../../units/mad_dog/mad_dog_s.md) *Skirmisher (3052)* `Active Probe` 
 - [**Mad Dog D**](../../../units/mad_dog/mad_dog_d.md) *Skirmisher (3054)* 
+- [**Mad Dog H**](../../../units/mad_dog/mad_dog_h.md) *Missile Boat (3059)* 
+- [**Mad Dog E**](../../../units/mad_dog/mad_dog_e.md) *Sniper (3069)* 
+- [**Mad Dog F**](../../../units/mad_dog/mad_dog_f.md) *Skirmisher (3069)* 
 
 #### [Ostroc](../../../units/ostroc.md) 
 
@@ -400,6 +415,9 @@
 - [**Ebon Jaguar B**](../../../units/ebon_jaguar/ebon_jaguar_b.md) *Sniper (3049)* `Active Probe` , `TAG` 
 - [**Ebon Jaguar C**](../../../units/ebon_jaguar/ebon_jaguar_c.md) *Missile Boat (3049)* 
 - [**Ebon Jaguar D**](../../../units/ebon_jaguar/ebon_jaguar_d.md) *Skirmisher (3059)* 
+- [**Ebon Jaguar H**](../../../units/ebon_jaguar/ebon_jaguar_h.md) *Skirmisher (3062)* 
+- [**Ebon Jaguar E**](../../../units/ebon_jaguar/ebon_jaguar_e.md) *Skirmisher (3069)* 
+- [**Ebon Jaguar U**](../../../units/ebon_jaguar/ebon_jaguar_u.md) *Sniper (3077)* 
 
 #### [Exterminator](../../../units/exterminator.md) 
 
@@ -419,6 +437,8 @@
 - [**Hellbringer F**](../../../units/hellbringer/hellbringer_f.md) *Striker (3054)* 
 - [**Hellbringer J**](../../../units/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe` 
 - [**Hellbringer H**](../../../units/hellbringer/hellbringer_h.md) *Sniper (3059)* `Active Probe` 
+- [**Hellbringer D**](../../../units/hellbringer/hellbringer_d.md) *Striker (3069)* 
+- [**Hellbringer E**](../../../units/hellbringer/hellbringer_e.md) *Sniper (3069)* 
 
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 
@@ -482,6 +502,8 @@
 - [**Summoner E**](../../../units/summoner/summoner_e.md) *Skirmisher (3054)* 
 - [**Summoner F**](../../../units/summoner/summoner_f.md) *Skirmisher (3054)* 
 - [**Summoner H**](../../../units/summoner/summoner_h.md) *Skirmisher (3059)* 
+- [**Summoner G**](../../../units/summoner/summoner_g.md) *Skirmisher (3068)* 
+- [**Summoner HH**](../../../units/summoner/summoner_hh.md) *Skirmisher (3070)* 
 
 #### [Warhammer](../../../units/warhammer.md) 
 
@@ -524,6 +546,8 @@
 - [**Timber Wolf E**](../../../units/timber_wolf/timber_wolf_e.md) *Sniper (3054)* `TAG` 
 - [**Timber Wolf H**](../../../units/timber_wolf/timber_wolf_h.md) *Missile Boat (3059)* 
 - [**Timber Wolf M**](../../../units/timber_wolf/timber_wolf_m.md) *Brawler (3068)* 
+- [**Timber Wolf F**](../../../units/timber_wolf/timber_wolf_f.md) *Missile Boat (3069)* 
+- [**Timber Wolf U**](../../../units/timber_wolf/timber_wolf_u.md) *Sniper (3077)* 
 
 ### 80 Tons 
 
@@ -536,6 +560,8 @@
 - [**Gargoyle D**](../../../units/gargoyle/gargoyle_d.md) *Skirmisher (2945)* 
 - [**Gargoyle H**](../../../units/gargoyle/gargoyle_h.md) *Skirmisher (3059)* 
 - [**Gargoyle E**](../../../units/gargoyle/gargoyle_e.md) *Skirmisher (3060)* 
+- [**Gargoyle M**](../../../units/gargoyle/gargoyle_m.md) *Sniper (3068)* 
+- [**Gargoyle G**](../../../units/gargoyle/gargoyle_g.md) *Skirmisher (3069)* 
 
 #### [Naga](../../../units/naga.md) 
 
@@ -652,6 +678,7 @@
 - [**Kingfisher D**](../../../units/kingfisher/kingfisher_d.md) *Sniper (2887)* 
 - [**Kingfisher H**](../../../units/kingfisher/kingfisher_h.md) *Brawler (3061)* 
 - [**Kingfisher E**](../../../units/kingfisher/kingfisher_e.md) *Brawler (3063)* 
+- [**Kingfisher F**](../../../units/kingfisher/kingfisher_f.md) *Brawler (3069)* `ECM` 
 
 #### [Supernova](../../../units/supernova.md) 
 
@@ -669,6 +696,8 @@
 - [**Executioner TC**](../../../units/executioner/executioner_tc.md) *Skirmisher (3052)* `Active Probe` 
 - [**Executioner H**](../../../units/executioner/executioner_h.md) *Skirmisher (3059)* 
 - [**Executioner E**](../../../units/executioner/executioner_e.md) *Skirmisher (3060)* 
+- [**Executioner K**](../../../units/executioner/executioner_k.md) *Skirmisher (3068)* `Active Probe` 
+- [**Executioner P**](../../../units/executioner/executioner_p.md) *Skirmisher (3069)* 
 
 #### [Executioner-B](../../../units/executioner-b.md) 
 

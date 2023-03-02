@@ -289,6 +289,7 @@
 
 #### [Charger](../../../units/charger.md) 
 
+- [**Charger CGR-1A5**](../../../units/charger/charger_cgr-1a5.md) *Juggernaut (3023)* 
 - [**Charger CGR-SB 'Challenger'**](../../../units/charger/charger_cgr-sb_challenger.md) *Juggernaut (3025)* 
 
 #### [Goliath](../../../units/goliath.md) 

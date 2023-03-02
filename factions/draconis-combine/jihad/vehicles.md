@@ -27,6 +27,10 @@
 
 - [**Savannah Master Hovercraft (Interdictor)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) *Scout (3077)* `ECM` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 

@@ -608,10 +608,6 @@
 
 - [**Crockett CRK-5003-1**](../../../units/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
 
-#### [Gunslinger](../../../units/gunslinger.md) 
-
-- [**Gunslinger GUN-1ERD**](../../../units/gunslinger/gunslinger_gun-1erd.md) *Juggernaut (3053)* `Active Probe` , `ECM` 
-
 #### [Longbow](../../../units/longbow.md) 
 
 - [**Longbow LGB-0W**](../../../units/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 

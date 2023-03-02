@@ -1,30 +1,90 @@
-# Viper H 
+# Viper OmniMech B 
 
-[Other Viper variants](../viper.md) 
+[Other Viper OmniMech variants](../viper_omnimech.md) 
 
-## Viper "Dragonfly" H 
+## Viper "Dragonfly" B 
 
 - **Role:** Striker 
-- **Tech Base:** Clan (3062) 
+- **Tech Base:** Clan (2940) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 8 / 12, XL 
   - **Jumping:** 8 
 - **Armor:** 134 (Ferro Fibrous) 
-- **Heat Sinks:** 11 (22) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - ER Medium Laser × 2 
-  - Heavy Medium Laser × 2 
+  - ER PPC 
   - Small Pulse Laser × 2 
-- **Equipment:** 
-  - Anti-Missile System (ammo: 24) 
-  - CASE 
+  - Flamer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/924) 
-- **Battle Value:** 1732 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/918) 
+- **Battle Value:** 1830 
 
 ## Availability 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+
+### Clan Invasion 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
+- Wolf's Dragoons 
 
 ### Civil War 
 

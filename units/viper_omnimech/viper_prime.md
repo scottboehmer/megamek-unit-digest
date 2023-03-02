@@ -1,10 +1,10 @@
-# Viper A 
+# Viper OmniMech Prime 
 
-[Other Viper variants](../viper.md) 
+[Other Viper OmniMech variants](../viper_omnimech.md) 
 
-## Viper "Dragonfly" A 
+## Viper "Dragonfly" Prime 
 
-- **Role:** Striker 
+- **Role:** Scout 
 - **Tech Base:** Clan (2940) 
 - **Chassis:** 40 tons (Endo Steel) 
 - **Movement:** 8 / 12, XL 
@@ -12,15 +12,17 @@
 - **Armor:** 134 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - ER Medium Laser × 5 
-  - SRM 6 w/ Artemis IV (ammo: 15) 
+  - Medium Pulse Laser × 2 
+  - SRM 4 (ammo: 25) 
+  - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
+  - Anti-Missile System (ammo: 24) 
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/917) 
-- **Battle Value:** 1989 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/926) 
+- **Battle Value:** 1450 
 
 ## Availability 
 

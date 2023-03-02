@@ -45,6 +45,10 @@
 - [**Elemental Battle Armor (MicroPL)(Sqd5)**](../../../units/elemental_battle_armor/elemental_battle_armor_microplsqd5.md) *Ambusher (3060)* 
 - [**Elemental Battle Armor (Space) (MicroPL)(Sqd5)**](../../../units/elemental_battle_armor/elemental_battle_armor_space_microplsqd5.md) *Ambusher (3066)* 
 
+#### [Infiltrator Mk. II Battle Armor](../../../units/infiltrator_mk._ii_battle_armor.md) 
+
+- [**Infiltrator Mk. II Battle Armor (Magnetic)(Sqd5)**](../../../units/infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_magneticsqd5.md) *Ambusher (3071)* `ECM` , `Stealth` 
+
 #### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
 
 - [**IS Standard Battle Armor (Flamer)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_flamersqd5.md) *Ambusher (3052)* 
@@ -59,6 +63,7 @@
 - [**Longinus Battle Armor (Laser)(Sqd5)**](../../../units/longinus_battle_armor/longinus_battle_armor_lasersqd5.md) *Ambusher (3057)* 
 - [**Longinus Battle Armor (MG)(Sqd5)**](../../../units/longinus_battle_armor/longinus_battle_armor_mgsqd5.md) *Ambusher (3057)* 
 - [**Longinus Battle Armor (David)(Sqd5)**](../../../units/longinus_battle_armor/longinus_battle_armor_davidsqd5.md) *Ambusher (3063)* 
+- [**Longinus Battle Armor (Magnetic)(Sqd5)**](../../../units/longinus_battle_armor/longinus_battle_armor_magneticsqd5.md) *Ambusher (3069)* 
 
 #### [Purifier Adaptive Battle Armor](../../../units/purifier_adaptive_battle_armor.md) 
 
@@ -85,10 +90,4 @@
 #### [Gnome Battle Armor](../../../units/gnome_battle_armor.md) 
 
 - [**Gnome Battle Armor (Standard)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_standardsqd5.md) *Juggernaut (3056)* 
-
-### 2 Tons 
-
-#### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
-
-- [**Ravager Assault Battle Armor (Standard)(Sqd5)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd5.md) *Juggernaut (3084)* 
 

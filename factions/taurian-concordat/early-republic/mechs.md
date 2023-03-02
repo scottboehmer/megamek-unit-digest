@@ -246,7 +246,6 @@
 #### [Whitworth](../../../units/whitworth.md) 
 
 - [**Whitworth WTH-1**](../../../units/whitworth/whitworth_wth-1.md) *Missile Boat (2689)* 
-- [**Whitworth WTH-2**](../../../units/whitworth/whitworth_wth-2.md) *Missile Boat (3050)* 
 - [**Whitworth WTH-1H**](../../../units/whitworth/whitworth_wth-1h.md) *Juggernaut (3066)* 
 
 ### 45 Tons 

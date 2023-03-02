@@ -21,6 +21,16 @@
 
 - [**Groundhog Exoskeleton CEX-205 (Armored Glove)(Sqd5)**](../../../units/groundhog_exoskeleton/groundhog_exoskeleton_cex-205_armored_glovesqd5.md) *Undefined (3062)* 
 
+### 0.75 Tons 
+
+#### [Infiltrator Mk. I Battle Armor](../../../units/infiltrator_mk._i_battle_armor.md) 
+
+- [**Infiltrator Mk. I Battle Armor 'Waddle'(Sqd5)**](../../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_waddlesqd5.md) *Ambusher (3050)* `Stealth` 
+
+#### [Spectre Stealth Battle Armor](../../../units/spectre_stealth_battle_armor.md) 
+
+- [**Spectre Stealth Battle Armor (Standard)(Sqd5)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standardsqd5.md) *Scout (3097)* `Stealth` 
+
 ### 1 Tons 
 
 #### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
@@ -53,6 +63,11 @@
 - [**Purifier Adaptive Battle Armor (Narc)(Sqd5)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_narcsqd5.md) *Ambusher (3062)* `Stealth` 
 - [**Purifier Adaptive Battle Armor (TAG)(Sqd5)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_tagsqd5.md) *Ambusher (3062)* `Stealth` , `TAG` 
 - [**Purifier Adaptive Battle Armor (PPC)(Sqd5)**](../../../units/purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_ppcsqd5.md) *Ambusher (3069)* `Stealth` 
+
+#### [Trinity Medium Battle Armor](../../../units/trinity_medium_battle_armor.md) 
+
+- [**Trinity Medium Battle Armor (Asterion)(MRR)(Sqd5)**](../../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterionmrrsqd5.md) *Ambusher (3065)* 
+- [**Trinity Medium Battle Armor (Asterion)(PPC)(Sqd5)**](../../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_asterionppcsqd5.md) *Ambusher (3065)* 
 
 ### 1.50 Tons 
 

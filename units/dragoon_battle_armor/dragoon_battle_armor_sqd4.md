@@ -15,10 +15,28 @@
 - **Weapons:** 
   - Light Mortar 
   - Clan Flamer 
-- **Source:** Rec Guide:ilClan #29 - 
+- **Sources:** Rec Guide:ilClan #29 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9379) 
 - **Battle Value:** 39 (203 for 4 suits) 
 
 ## Availability 
 
-Availability Unknown 
+### Early Republic 
+
+- Kell Hounds 
+- Mercenary 
+
+### Late Republic 
+
+- Kell Hounds 
+- Mercenary 
+
+### Dark Ages 
+
+- Kell Hounds 
+- Mercenary 
+
+### ilClan 
+
+- Kell Hounds 
+- Mercenary 
 

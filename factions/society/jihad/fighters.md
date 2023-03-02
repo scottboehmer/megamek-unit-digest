@@ -29,6 +29,10 @@
 
 ### 30 Tons 
 
+#### [Spad](../../../units/spad.md) 
+
+- [**Spad SPD-503**](../../../units/spad/spad_spd-503.md) *Fast Dogfighter (2760)* 
+
 #### [Vandal OmniFighter](../../../units/vandal_omnifighter.md) 
 
 - [**Vandal Prime**](../../../units/vandal_omnifighter/vandal_prime.md) *Interceptor (2941)* `Active Probe` 

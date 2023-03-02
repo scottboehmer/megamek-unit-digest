@@ -29,15 +29,18 @@
 ### Late Republic 
 
 - Clan Wolf-in-Exile 
+- Federated Suns 
 - Lyran Commonwealth 
 
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Federated Suns 
 - Lyran Commonwealth 
 
 ### ilClan 
 
+- Federated Suns 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Vesper Marches 

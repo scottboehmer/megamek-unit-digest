@@ -21,18 +21,37 @@
 
 ### Early Republic 
 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 - Regulan Fiefs 
+- Rim Commonality 
 
 ### Late Republic 
 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 - Regulan Fiefs 
+- Rim Commonality 
 
 ### Dark Ages 
 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 - Regulan Fiefs 
+- Rim Commonality 
 
 ### ilClan 
 
+- Duchy of Andurien 
 - Free Worlds League 
 

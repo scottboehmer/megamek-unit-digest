@@ -2,6 +2,16 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Constable Pacification Suit](../../../units/constable_pacification_suit.md) 
+
+- [**Constable Pacification Suit (ECM) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_ecm_sqd5.md) *Ambusher (3092)* `ECM` 
+- [**Constable Pacification Suit (LMG) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_lmg_sqd5.md) *Ambusher (3092)* 
+- [**Constable Pacification Suit (Sensor) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_sensor_sqd5.md) *Scout (3092)* `Active Probe` 
+- [**Constable Pacification Suit (SRM) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_srm_sqd5.md) *Ambusher (3092)* 
+- [**Constable Pacification Suit (TAG) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_tag_sqd5.md) *Scout (3092)* `TAG` 
+
 ### 1 Tons 
 
 #### [Callisto Battle Armor](../../../units/callisto_battle_armor.md) 
@@ -10,7 +20,7 @@
 - [**Callisto Battle Armor A (ER Laser)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_a_er_lasersqd5.md) *Undefined (3147)* 
 - [**Callisto Battle Armor A (HMG)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_a_hmgsqd5.md) *Undefined (3147)* 
 - [**Callisto Battle Armor B (MRR)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd5.md) *Undefined (3147)* 
-- [**Callisto Battle Armor B (MRR)(Sqd6)**](../../../units/callisto_battle_armor/callisto_battle_armor_b_mrrsqd6.md) *Undefined (3147)* 
+- [**Callisto Battle Armor B (SRM)(Sqd5)**](../../../units/callisto_battle_armor/callisto_battle_armor_b_srmsqd5.md) *Undefined (3147)* 
 
 #### [Clan Medium Battle Armor](../../../units/clan_medium_battle_armor.md) 
 
@@ -88,4 +98,10 @@
 
 - [**Warg Assault Battle Armor (Standard)(Sqd5)**](../../../units/warg_assault_battle_armor/warg_assault_battle_armor_standardsqd5.md) *Juggernaut (3086)* 
 - [**Warg Assault Battle Armor (Reactive)(Sqd5)**](../../../units/warg_assault_battle_armor/warg_assault_battle_armor_reactivesqd5.md) *Juggernaut (3122)* 
+
+#### [Xiphos Assault Battle Armor](../../../units/xiphos_assault_battle_armor.md) 
+
+- [**Xiphos Assault Battle Armor A(Sqd5)**](../../../units/xiphos_assault_battle_armor/xiphos_assault_battle_armor_asqd5.md) *Juggernaut (3116)* 
+- [**Xiphos Assault Battle Armor B(Sqd5)**](../../../units/xiphos_assault_battle_armor/xiphos_assault_battle_armor_bsqd5.md) *Juggernaut (3116)* 
+- [**Xiphos Assault Battle Armor C(Sqd5)**](../../../units/xiphos_assault_battle_armor/xiphos_assault_battle_armor_csqd5.md) *Juggernaut (3116)* 
 

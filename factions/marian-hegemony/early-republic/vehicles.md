@@ -18,6 +18,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -194,6 +198,7 @@
 #### [Galleon Light Tank](../../../units/galleon_light_tank.md) 
 
 - [**Galleon Light Tank GAL-100**](../../../units/galleon_light_tank/galleon_light_tank_gal-100.md) *Scout (2692)* 
+- [**Galleon Light Tank GAL-200 (RL)**](../../../units/galleon_light_tank/galleon_light_tank_gal-200_rl.md) *Scout (2801)* 
 - [**Galleon Light Tank GAL-200**](../../../units/galleon_light_tank/galleon_light_tank_gal-200.md) *Scout (2915)* 
 - [**Galleon Light Tank GAL-102**](../../../units/galleon_light_tank/galleon_light_tank_gal-102.md) *Striker (3048)* `Active Probe` 
 - [**Galleon Light Tank GAL-200R**](../../../units/galleon_light_tank/galleon_light_tank_gal-200r.md) *Ambusher (3081)* 
@@ -227,7 +232,6 @@
 - [**Gun Trailer (Artillery/AA)**](../../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Ultra)**](../../../units/gun_trailer/gun_trailer_ultra.md) *Ambusher (3098)* 
-- [**Gun Trailer (Sniper Cannon)**](../../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
 
 #### [Hunter Light Support Tank](../../../units/hunter_light_support_tank.md) 
 
@@ -276,6 +280,7 @@
 - [**Hetzer Wheeled Assault Gun (AC10)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_ac10.md) *Ambusher (2893)* 
 - [**Hetzer Wheeled Assault Gun (SRM)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_srm.md) *Ambusher (2957)* 
 - [**Hetzer Wheeled Assault Gun (LRM)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lrm.md) *Missile Boat (3001)* 
+- [**Hetzer Wheeled Assault Gun (LB-X)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lb-x.md) *Ambusher (3063)* 
 - [**Hetzer Wheeled Assault Gun (Cell)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_cell.md) *Ambusher (3090)* 
 
 #### [Light SRM Carrier](../../../units/light_srm_carrier.md) 
@@ -328,6 +333,10 @@
 
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
+
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
 
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
@@ -394,6 +403,7 @@
 #### [Manticore Heavy Tank](../../../units/manticore_heavy_tank.md) 
 
 - [**Manticore Heavy Tank (Standard)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_standard.md) *Brawler (2575)* 
+- [**Manticore Heavy Tank (3055 Upgrade)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_3055_upgrade.md) *Brawler (3055)* 
 
 #### [Marsden II MBT](../../../units/marsden_ii_mbt.md) 
 
@@ -414,6 +424,7 @@
 #### [Po Heavy Tank](../../../units/po_heavy_tank.md) 
 
 - [**Po Heavy Tank (Standard)**](../../../units/po_heavy_tank/po_heavy_tank_standard.md) *Brawler (3031)* 
+- [**Po Heavy Tank (LB-X)**](../../../units/po_heavy_tank/po_heavy_tank_lb-x.md) *Brawler (3069)* 
 
 #### [SRM Carrier](../../../units/srm_carrier.md) 
 
@@ -514,6 +525,7 @@
 #### [Ontos Heavy Tank](../../../units/ontos_heavy_tank.md) 
 
 - [**Ontos Heavy Tank (Standard)**](../../../units/ontos_heavy_tank/ontos_heavy_tank_standard.md) *Juggernaut (2832)* 
+- [**Ontos Heavy Tank (3053 Upgrade)**](../../../units/ontos_heavy_tank/ontos_heavy_tank_3053_upgrade.md) *Juggernaut (3053)* 
 
 ### 100 Tons 
 

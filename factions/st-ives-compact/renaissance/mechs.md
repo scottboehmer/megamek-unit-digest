@@ -149,6 +149,7 @@
 
 - [**Vindicator VND-1R**](../../../units/vindicator/vindicator_vnd-1r.md) *Brawler (2826)* 
 - [**Vindicator VND-1X**](../../../units/vindicator/vindicator_vnd-1x.md) *Brawler (2826)* 
+- [**Vindicator VND-1AA 'Avenging Angel'**](../../../units/vindicator/vindicator_vnd-1aa_avenging_angel.md) *Skirmisher (2863)* 
 - [**Vindicator VND-1SIC**](../../../units/vindicator/vindicator_vnd-1sic.md) *Brawler (3031)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
@@ -338,6 +339,7 @@
 #### [Striker](../../../units/striker.md) 
 
 - [**Striker STC-2C**](../../../units/striker/striker_stc-2c.md) *Brawler (2571)* 
+- [**Striker STC-2S**](../../../units/striker/striker_stc-2s.md) *Brawler (2845)* 
 
 #### [Victor](../../../units/victor.md) 
 

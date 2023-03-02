@@ -23,20 +23,24 @@
 
 ### Jihad 
 
+- Clan Wolf 
 - Clan Wolf-in-Exile 
 
 ### Early Republic 
 
+- Clan Wolf 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
 
 ### Late Republic 
 
+- Clan Wolf 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
 

@@ -29,11 +29,13 @@
 
 - Federated Commonwealth 
 - Federated Suns 
+- St. Ives Compact 
 
 ### Civil War 
 
 - Federated Commonwealth 
 - Federated Suns 
+- St. Ives Compact 
 
 ### Jihad 
 

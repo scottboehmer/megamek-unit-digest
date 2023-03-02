@@ -290,10 +290,6 @@
 
 ### 75 Tons 
 
-#### [Black Knight](../../../units/black_knight.md) 
-
-- [**Black Knight BL-6-KNT**](../../../units/black_knight/black_knight_bl-6-knt.md) *Brawler (2578)* `Active Probe` 
-
 #### [Marauder](../../../units/marauder.md) 
 
 - [**Marauder MAD-3R**](../../../units/marauder/marauder_mad-3r.md) *Sniper (2819)* 

@@ -18,6 +18,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -47,6 +51,7 @@
 
 #### [J-27 Ordnance Transport](../../../units/j-27_ordnance_transport.md) 
 
+- [**J-27 Ordnance Transport (Fusion)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_fusion.md) *Undefined (2578)* 
 - [**J-27 Ordnance Transport (Standard)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_standard.md) *Undefined (2650)* 
 - [**J-27 Ordnance Transport (Trailer)**](../../../units/j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) *Undefined (2650)* 
 
@@ -207,6 +212,10 @@
 - [**Gun Trailer (Artillery/AA)**](../../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Sniper Cannon)**](../../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
+
+#### [Hunter Light Support Tank](../../../units/hunter_light_support_tank.md) 
+
+- [**Hunter Light Support Tank (Standard)**](../../../units/hunter_light_support_tank/hunter_light_support_tank_standard.md) *Missile Boat (2937)* 
 
 #### [Indra Infantry Transport](../../../units/indra_infantry_transport.md) 
 

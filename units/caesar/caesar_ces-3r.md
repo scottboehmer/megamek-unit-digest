@@ -42,6 +42,7 @@
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Jihad 

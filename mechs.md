@@ -1818,26 +1818,26 @@
 - [**Tsunami TS-P1**](units/tsunami/tsunami_ts-p1.md) *Scout (3052)* 
 - [**Tsunami TS-P1D**](units/tsunami/tsunami_ts-p1d.md) *Striker (3063)* 
 
-#### [Viper](units/viper.md) 
+#### [Viper OmniMech](units/viper_omnimech.md) 
 
-- [**Viper Prime**](units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](units/viper/viper_h.md) *Striker (3062)* 
-- [**Viper I**](units/viper/viper_i.md) *Striker (3068)* `Active Probe` 
-- [**Viper F**](units/viper/viper_f.md) *Striker (3070)* 
-- [**Viper G**](units/viper/viper_g.md) *Striker (3071)* `Active Probe` 
-- [**Viper Z**](units/viper/viper_z.md) *Striker (3072)* `Active Probe` , `ECM` , `NovaC3` , `TAG` 
-- [**Viper U**](units/viper/viper_u.md) *Striker (3077)* `ECM` 
-- [**Viper R**](units/viper/viper_r.md) *Scout (3110)* `Active Probe` , `TAG` 
-- [**Viper T**](units/viper/viper_t.md) *Scout (3142)* `Active Probe` 
-- [**Viper J**](units/viper/viper_j.md) *Striker (3144)* 
-- [**Viper K**](units/viper/viper_k.md) *Scout (3147)* `Active Probe` , `ECM` , `TAG` 
-- [**Viper L**](units/viper/viper_l.md) *Sniper (3147)* 
-- [**Viper M**](units/viper/viper_m.md) *Striker (3149)* 
+- [**Viper Prime**](units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](units/viper_omnimech/viper_h.md) *Striker (3062)* 
+- [**Viper I**](units/viper_omnimech/viper_i.md) *Striker (3068)* `Active Probe` 
+- [**Viper F**](units/viper_omnimech/viper_f.md) *Striker (3070)* 
+- [**Viper G**](units/viper_omnimech/viper_g.md) *Striker (3071)* `Active Probe` 
+- [**Viper Z**](units/viper_omnimech/viper_z.md) *Striker (3072)* `Active Probe` , `ECM` , `NovaC3` , `TAG` 
+- [**Viper U**](units/viper_omnimech/viper_u.md) *Striker (3077)* `ECM` 
+- [**Viper R**](units/viper_omnimech/viper_r.md) *Scout (3110)* `Active Probe` , `TAG` 
+- [**Viper T**](units/viper_omnimech/viper_t.md) *Scout (3142)* `Active Probe` 
+- [**Viper J**](units/viper_omnimech/viper_j.md) *Striker (3144)* 
+- [**Viper K**](units/viper_omnimech/viper_k.md) *Scout (3147)* `Active Probe` , `ECM` , `TAG` 
+- [**Viper L**](units/viper_omnimech/viper_l.md) *Sniper (3147)* 
+- [**Viper M**](units/viper_omnimech/viper_m.md) *Striker (3149)* 
 
 #### [Vulcan](units/vulcan.md) 
 

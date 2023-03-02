@@ -23,6 +23,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -306,10 +310,6 @@
 - [**Karnov UR Transport (BA)**](../../../units/karnov_ur_transport/karnov_ur_transport_ba.md) *Undefined (3063)* `ECM` , `Transport:8.0` 
 - [**Karnov UR Transport (Periphery)**](../../../units/karnov_ur_transport/karnov_ur_transport_periphery.md) *Scout (3064)* 
 
-#### [Kite Reconnaissance Vehicle](../../../units/kite_reconnaissance_vehicle.md) 
-
-- [**Kite Reconnaissance Vehicle (Standard)**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) *Scout (3105)* `Active Probe` , `ECM` , `TAG` 
-
 #### [Main Gauche Light Support Tank](../../../units/main_gauche_light_support_tank.md) 
 
 - [**Main Gauche Light Support Tank (Standard)**](../../../units/main_gauche_light_support_tank/main_gauche_light_support_tank_standard.md) *Sniper (3064)* 
@@ -341,7 +341,6 @@
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Ultra)**](../../../units/gun_trailer/gun_trailer_ultra.md) *Ambusher (3098)* 
 - [**Gun Trailer (Thunderbolt)**](../../../units/gun_trailer/gun_trailer_thunderbolt.md) *Missile Boat (3099)* 
-- [**Gun Trailer (Sniper Cannon)**](../../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
 
 #### [Hunter Light Support Tank](../../../units/hunter_light_support_tank.md) 
 
@@ -490,6 +489,10 @@
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
 
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
+
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 
 - [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
@@ -604,7 +607,6 @@
 #### [Pike Support Vehicle](../../../units/pike_support_vehicle.md) 
 
 - [**Pike Support Vehicle (Standard)**](../../../units/pike_support_vehicle/pike_support_vehicle_standard.md) *Sniper (2987)* 
-- [**Pike Support Vehicle (Clan)**](../../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
 - [**Pike Support Vehicle (RAC) 'Assault Pike'**](../../../units/pike_support_vehicle/pike_support_vehicle_rac_assault_pike.md) *Sniper (3064)* 
 
 #### [Po Heavy Tank](../../../units/po_heavy_tank.md) 

@@ -28,21 +28,25 @@
 
 - Draconis Combine 
 - Federated Suns 
+- Republic of the Sphere 
 
 ### Early Republic 
 
 - Draconis Combine 
 - Federated Suns 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Draconis Combine 
 - Federated Suns 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Draconis Combine 
 - Federated Suns 
+- Republic of the Sphere 
 
 ### ilClan 
 

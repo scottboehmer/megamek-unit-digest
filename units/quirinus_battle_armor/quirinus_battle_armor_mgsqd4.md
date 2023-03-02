@@ -50,6 +50,7 @@
 ### ilClan 
 
 - Duchy of Andurien 
+- Federated Suns 
 - Free Worlds League 
 - Mercenary 
 

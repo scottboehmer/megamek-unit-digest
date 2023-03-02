@@ -28,13 +28,16 @@
 
 ### Clan Invasion 
 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Civil War 
 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Jihad 
 
+- Mercenary 
 - Wolf's Dragoons 
 

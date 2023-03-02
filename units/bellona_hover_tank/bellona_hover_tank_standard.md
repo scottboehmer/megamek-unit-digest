@@ -31,13 +31,28 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Clan Hell's Horses 
+- Federated Suns 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Clan Hell's Horses 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Republic of the Sphere 
 
 ### ilClan 
 
+- Capellan Confederation 
 - Clan Hell's Horses 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
 

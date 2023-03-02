@@ -408,6 +408,7 @@
 
 - [**Scorpion SCP-1N**](../../../units/scorpion/scorpion_scp-1n.md) *Skirmisher (2570)* 
 - [**Scorpion SCP-1O**](../../../units/scorpion/scorpion_scp-1o.md) *Skirmisher (3049)* 
+- [**Scorpion SCP-10M**](../../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 
 
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
@@ -455,6 +456,7 @@
 
 - [**Quickdraw QKD-4G**](../../../units/quickdraw/quickdraw_qkd-4g.md) *Skirmisher (2779)* 
 - [**Quickdraw QKD-5A**](../../../units/quickdraw/quickdraw_qkd-5a.md) *Skirmisher (3002)* 
+- [**Quickdraw QKD-5M**](../../../units/quickdraw/quickdraw_qkd-5m.md) *Skirmisher (3049)* 
 - [**Quickdraw QKD-5Mr**](../../../units/quickdraw/quickdraw_qkd-5mr.md) *Missile Boat (3070)* `ECM` 
 
 #### [Rifleman](../../../units/rifleman.md) 

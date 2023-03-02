@@ -293,6 +293,14 @@
 
 #### [Pouncer](../../../units/pouncer.md) 
 
+- [**Pouncer Prime**](../../../units/pouncer/pouncer_prime.md) *Sniper (3050)* 
+- [**Pouncer A**](../../../units/pouncer/pouncer_a.md) *Missile Boat (3050)* 
+- [**Pouncer B**](../../../units/pouncer/pouncer_b.md) *Sniper (3050)* 
+- [**Pouncer C**](../../../units/pouncer/pouncer_c.md) *Striker (3050)* 
+- [**Pouncer D**](../../../units/pouncer/pouncer_d.md) *Striker (3050)* 
+- [**Pouncer E**](../../../units/pouncer/pouncer_e.md) *Striker (3061)* 
+- [**Pouncer H**](../../../units/pouncer/pouncer_h.md) *Striker (3062)* 
+- [**Pouncer F**](../../../units/pouncer/pouncer_f.md) *Scout (3069)* `Active Probe` 
 - [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
 - [**Pouncer G**](../../../units/pouncer/pouncer_g.md) *Striker (3142)* 
 - [**Pouncer I**](../../../units/pouncer/pouncer_i.md) *Missile Boat (3142)* 
@@ -753,6 +761,14 @@
 
 #### [Blood Asp](../../../units/blood_asp.md) 
 
+- [**Blood Asp Prime**](../../../units/blood_asp/blood_asp_prime.md) *Undefined (3060)* 
+- [**Blood Asp A**](../../../units/blood_asp/blood_asp_a.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp B**](../../../units/blood_asp/blood_asp_b.md) *Undefined (3060)* `ECM` 
+- [**Blood Asp C**](../../../units/blood_asp/blood_asp_c.md) *Undefined (3060)* 
+- [**Blood Asp D**](../../../units/blood_asp/blood_asp_d.md) *Undefined (3060)* 
+- [**Blood Asp E**](../../../units/blood_asp/blood_asp_e.md) *Undefined (3063)* 
+- [**Blood Asp F**](../../../units/blood_asp/blood_asp_f.md) *Undefined (3071)* 
+- [**Blood Asp G**](../../../units/blood_asp/blood_asp_g.md) *Undefined (3074)* 
 - [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
 - [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
 

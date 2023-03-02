@@ -112,6 +112,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
@@ -121,6 +122,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
@@ -130,6 +132,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 

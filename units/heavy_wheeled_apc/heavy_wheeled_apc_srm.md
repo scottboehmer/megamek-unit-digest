@@ -133,6 +133,7 @@
 - Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -171,6 +172,7 @@
 - Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Kell Hounds 
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -210,6 +212,7 @@
 - Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Kell Hounds 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 

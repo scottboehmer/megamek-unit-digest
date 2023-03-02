@@ -2,6 +2,16 @@
 
 ## Battle Armor 
 
+### 0.75 Tons 
+
+#### [Constable Pacification Suit](../../../units/constable_pacification_suit.md) 
+
+- [**Constable Pacification Suit (ECM) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_ecm_sqd5.md) *Ambusher (3092)* `ECM` 
+- [**Constable Pacification Suit (LMG) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_lmg_sqd5.md) *Ambusher (3092)* 
+- [**Constable Pacification Suit (Sensor) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_sensor_sqd5.md) *Scout (3092)* `Active Probe` 
+- [**Constable Pacification Suit (SRM) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_srm_sqd5.md) *Ambusher (3092)* 
+- [**Constable Pacification Suit (TAG) (Sqd5)**](../../../units/constable_pacification_suit/constable_pacification_suit_tag_sqd5.md) *Scout (3092)* `TAG` 
+
 ### 1 Tons 
 
 #### [Afreet Medium Battle Armor](../../../units/afreet_medium_battle_armor.md) 
@@ -78,4 +88,8 @@
 
 - [**Golem Assault Armor (Fast Assault)(Sqd5)**](../../../units/golem_assault_armor/golem_assault_armor_fast_assaultsqd5.md) *Juggernaut (3072)* 
 - [**Golem Assault Armor (Rock Golem)(Sqd5)**](../../../units/golem_assault_armor/golem_assault_armor_rock_golemsqd5.md) *Juggernaut (3072)* 
+
+#### [Warg Assault Battle Armor](../../../units/warg_assault_battle_armor.md) 
+
+- [**Warg Assault Battle Armor (Standard)(Sqd5)**](../../../units/warg_assault_battle_armor/warg_assault_battle_armor_standardsqd5.md) *Juggernaut (3086)* 
 

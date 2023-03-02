@@ -26,5 +26,35 @@
 
 ## Availability 
 
-Availability Unknown 
+### Civil War 
+
+- Wolf's Dragoons 
+
+### Jihad 
+
+- Kell Hounds 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Kell Hounds 
+- Wolf's Dragoons 
+
+### Late Republic 
+
+- Kell Hounds 
+- Wolf's Dragoons 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Kell Hounds 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Kell Hounds 
+- Wolf's Dragoons 
 

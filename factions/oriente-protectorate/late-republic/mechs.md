@@ -336,7 +336,6 @@
 - [**Phoenix Hawk PXH-1**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)* 
 - [**Phoenix Hawk PXH-1c (Special)**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1c_special.md) *Striker (2765)* `ECM` 
 - [**Phoenix Hawk PXH-7K**](../../../units/phoenix_hawk/phoenix_hawk_pxh-7k.md) *Striker (3070)* `C3 Support` 
-- [**Phoenix Hawk PXH-4M**](../../../units/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)* 
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
@@ -403,7 +402,6 @@
 
 #### [Eris](../../../units/eris.md) 
 
-- [**Eris ERS-2H**](../../../units/eris/eris_ers-2h.md) *Skirmisher (3087)* 
 - [**Eris ERS-2N**](../../../units/eris/eris_ers-2n.md) *Skirmisher (3092)* 
 - [**Eris ERS-3R**](../../../units/eris/eris_ers-3r.md) *Skirmisher (3130)* `ECM` , `TAG` 
 
@@ -412,10 +410,6 @@
 - [**Ghost GST-10**](../../../units/ghost/ghost_gst-10.md) *Sniper (3077)* `Active Probe` , `ECM` , `Stealth` 
 - [**Ghost GST-11**](../../../units/ghost/ghost_gst-11.md) *Sniper (3082)* `Active Probe` , `ECM` 
 - [**Ghost GST-50**](../../../units/ghost/ghost_gst-50.md) *Striker (3087)* 
-
-#### [Hel](../../../units/hel.md) 
-
-- [**Hel HL-1**](../../../units/hel/hel_hl-1.md) *Undefined (3092)* 
 
 #### [Hunchback](../../../units/hunchback.md) 
 

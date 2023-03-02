@@ -262,6 +262,7 @@
 #### [Archer](../../../units/archer.md) 
 
 - [**Archer (Wolf)**](../../../units/archer/archer_wolf.md) *Missile Boat (3055)* `ECM` , `Unique` 
+- [**Archer C 2**](../../../units/archer/archer_c_2.md) *Brawler (3065)* 
 
 #### [Gallowglas](../../../units/gallowglas.md) 
 

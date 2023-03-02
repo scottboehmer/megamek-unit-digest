@@ -344,7 +344,6 @@
 #### [Eris](../../../units/eris.md) 
 
 - [**Eris ERS-2H**](../../../units/eris/eris_ers-2h.md) *Skirmisher (3087)* 
-- [**Eris ERS-2N**](../../../units/eris/eris_ers-2n.md) *Skirmisher (3092)* 
 
 #### [Ghost](../../../units/ghost.md) 
 

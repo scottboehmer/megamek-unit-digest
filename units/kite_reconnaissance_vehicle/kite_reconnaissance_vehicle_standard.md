@@ -23,16 +23,6 @@
 
 ## Availability 
 
-### Early Republic 
-
-- Capellan Confederation 
-- Clan Nova Cat 
-- Clan Sea Fox 
-- Draconis Combine 
-- Lyran Commonwealth 
-- Rasalhague Dominion 
-- Republic of the Sphere 
-
 ### Late Republic 
 
 - Capellan Confederation 

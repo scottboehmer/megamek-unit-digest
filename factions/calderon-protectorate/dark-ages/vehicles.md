@@ -22,6 +22,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -351,6 +355,10 @@
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
 
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
+
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
 - [**Fulcrum Heavy Hovertank (Standard)**](../../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank_standard.md) *Striker (3057)* `ECM` , `TAG` 
@@ -490,6 +498,7 @@
 
 - [**Demolisher Heavy Tank (Defensive)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_defensive.md) *Juggernaut (2823)* 
 - [**Demolisher Heavy Tank (Standard Mk. II)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
+- [**Demolisher Heavy Tank (Gauss)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_gauss.md) *Sniper (3053)* 
 - [**Demolisher Heavy Tank (MRM)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_mrm.md) *Juggernaut (3060)* `C3 Support` 
 - [**Demolisher Heavy Tank (Arrow IV)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_arrow_iv.md) *Missile Boat (3062)* 
 

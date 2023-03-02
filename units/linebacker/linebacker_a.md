@@ -27,6 +27,7 @@
 ### Clan Invasion 
 
 - Clan Coyote 
+- Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Snow Raven 
 - Clan Wolf 
@@ -37,6 +38,7 @@
 - Clan Cloud Cobra 
 - Clan Coyote 
 - Clan Hell's Horses 
+- Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Snow Raven 
 - Clan Steel Viper 
@@ -49,6 +51,7 @@
 - Clan Cloud Cobra 
 - Clan Coyote 
 - Clan Hell's Horses 
+- Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Snow Raven 
 - Clan Star Adder 

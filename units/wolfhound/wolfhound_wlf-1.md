@@ -39,6 +39,7 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Civil War 
@@ -51,6 +52,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Jihad 

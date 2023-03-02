@@ -44,6 +44,7 @@
 - Federated Suns 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
 - Second Star League 

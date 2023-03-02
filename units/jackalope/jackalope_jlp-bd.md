@@ -37,6 +37,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Federated Suns 
 - Free Worlds League 
 - Mercenary 
 - Star League (Smoke Jaguar) 

@@ -26,6 +26,7 @@
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### Late Succession Wars - LosTech 
 
@@ -38,7 +39,6 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
-- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 
@@ -94,6 +94,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Second Star League 
@@ -116,6 +117,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Taurian Concordat 
@@ -136,6 +138,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
@@ -158,6 +161,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
@@ -181,6 +185,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
@@ -201,6 +206,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Tamar Pact 
 - Taurian Concordat 

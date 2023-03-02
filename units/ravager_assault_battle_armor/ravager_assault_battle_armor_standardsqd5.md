@@ -25,17 +25,13 @@
 
 ### Late Republic 
 
-- Escorpión Imperio 
 - Marian Hegemony 
 
 ### Dark Ages 
 
-- Escorpión Imperio 
 - Marian Hegemony 
-- Scorpion Empire 
 
 ### ilClan 
 
 - Marian Hegemony 
-- Scorpion Empire 
 

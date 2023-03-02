@@ -81,6 +81,7 @@
 - Clan Steel Viper 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Society 
 
 ### Early Republic 
 

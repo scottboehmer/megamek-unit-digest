@@ -28,6 +28,7 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Mercenary 
+- St. Ives Compact 
 
 ### Civil War 
 
@@ -35,6 +36,7 @@
 - Federated Suns 
 - Lyran Alliance 
 - Mercenary 
+- St. Ives Compact 
 
 ### Jihad 
 

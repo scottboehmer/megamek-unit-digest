@@ -28,7 +28,9 @@
 
 ### Jihad 
 
+- Clan Blood Spirit 
 - Clan Cloud Cobra 
+- Clan Coyote 
 - Clan Diamond Shark 
 - Clan Ghost Bear 
 - Clan Goliath Scorpion 
@@ -37,6 +39,7 @@
 - Clan Nova Cat 
 - Clan Snow Raven 
 - Clan Star Adder 
+- Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 

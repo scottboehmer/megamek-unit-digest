@@ -34,6 +34,7 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Civil War 
@@ -46,6 +47,7 @@
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
+- St. Ives Compact 
 - Taurian Concordat 
 - Wolf's Dragoons 
 

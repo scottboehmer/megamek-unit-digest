@@ -83,6 +83,7 @@
 ### Jihad 
 
 - Capellan Confederation 
+- Society 
 
 ### Early Republic 
 

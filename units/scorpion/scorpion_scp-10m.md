@@ -41,6 +41,7 @@
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -55,6 +56,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -70,6 +72,7 @@
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -84,5 +87,6 @@
 - Duchy of Andurien 
 - Free Worlds League 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
 

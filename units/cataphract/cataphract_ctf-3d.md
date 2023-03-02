@@ -30,12 +30,14 @@
 - Federated Suns 
 - Lyran Alliance 
 - Lyran Commonwealth 
+- St. Ives Compact 
 
 ### Civil War 
 
 - Federated Commonwealth 
 - Federated Suns 
 - Lyran Alliance 
+- St. Ives Compact 
 
 ### Jihad 
 

@@ -224,6 +224,14 @@
 
 #### [Phantom](../../../units/phantom.md) 
 
+- [**Phantom Prime**](../../../units/phantom/phantom_prime.md) *Scout (3052)* `Active Probe` , `ECM` , `TAG` 
+- [**Phantom A**](../../../units/phantom/phantom_a.md) *Striker (3052)* 
+- [**Phantom B**](../../../units/phantom/phantom_b.md) *Scout (3052)* `Active Probe` 
+- [**Phantom C**](../../../units/phantom/phantom_c.md) *Striker (3052)* 
+- [**Phantom D**](../../../units/phantom/phantom_d.md) *Striker (3052)* 
+- [**Phantom E**](../../../units/phantom/phantom_e.md) *Striker (3061)* 
+- [**Phantom H**](../../../units/phantom/phantom_h.md) *Striker (3062)* 
+- [**Phantom F**](../../../units/phantom/phantom_f.md) *Striker (3068)* `ECM` 
 - [**Phantom G**](../../../units/phantom/phantom_g.md) *Scout (3090)* 
 - [**Phantom I**](../../../units/phantom/phantom_i.md) *Scout (3141)* `TAG` 
 - [**Phantom J**](../../../units/phantom/phantom_j.md) *Striker (3141)* 

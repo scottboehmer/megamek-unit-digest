@@ -33,12 +33,16 @@
 ### Late Republic 
 
 - Federated Suns 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
 
 ### ilClan 
 
 - Federated Suns 
+- Mercenary 
 

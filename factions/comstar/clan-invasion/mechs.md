@@ -130,6 +130,10 @@
 - [**UrbanMech UM-R60**](../../../units/urbanmech/urbanmech_um-r60.md) *Ambusher (2675)* 
 - [**UrbanMech UM-R63**](../../../units/urbanmech/urbanmech_um-r63.md) *Sniper (3050)* 
 
+#### [Valkyrie](../../../units/valkyrie.md) 
+
+- [**Valkyrie VLK-QA**](../../../units/valkyrie/valkyrie_vlk-qa.md) *Missile Boat (2787)* 
+
 ### 35 Tons 
 
 #### [Falcon Hawk](../../../units/falcon_hawk.md) 
@@ -309,6 +313,7 @@
 
 - [**Trebuchet TBT-5N**](../../../units/trebuchet/trebuchet_tbt-5n.md) *Missile Boat (2799)* 
 - [**Trebuchet TBT-5S**](../../../units/trebuchet/trebuchet_tbt-5s.md) *Skirmisher (2864)* 
+- [**Trebuchet TBT-7M**](../../../units/trebuchet/trebuchet_tbt-7m.md) *Missile Boat (3048)* 
 
 ### 55 Tons 
 
@@ -591,10 +596,6 @@
 #### [Crockett](../../../units/crockett.md) 
 
 - [**Crockett CRK-5003-1**](../../../units/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
-
-#### [Gunslinger](../../../units/gunslinger.md) 
-
-- [**Gunslinger GUN-1ERD**](../../../units/gunslinger/gunslinger_gun-1erd.md) *Juggernaut (3053)* `Active Probe` , `ECM` 
 
 #### [Longbow](../../../units/longbow.md) 
 

@@ -392,7 +392,6 @@
 #### [Black Knight](../../../units/black_knight.md) 
 
 - [**Black Knight BL-6-KNT**](../../../units/black_knight/black_knight_bl-6-knt.md) *Brawler (2578)* `Active Probe` 
-- [**Black Knight BL-7-KNT-L**](../../../units/black_knight/black_knight_bl-7-knt-l.md) *Brawler (2809)* 
 
 #### [Lao Hu](../../../units/lao_hu.md) 
 

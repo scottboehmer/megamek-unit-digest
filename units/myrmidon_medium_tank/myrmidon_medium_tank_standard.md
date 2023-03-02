@@ -72,6 +72,7 @@
 
 - Calderon Protectorate 
 - Draconis Combine 
+- Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
@@ -87,6 +88,7 @@
 
 - Calderon Protectorate 
 - Draconis Combine 
+- Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
@@ -102,8 +104,10 @@
 
 - Calderon Protectorate 
 - Draconis Combine 
+- Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Filtvelt Coalition 
+- Free Worlds League 
 - Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -119,6 +123,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Filtvelt Coalition 
+- Free Worlds League 
 - Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 

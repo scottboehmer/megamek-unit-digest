@@ -38,6 +38,10 @@
 - Clan Star Adder 
 - Star League-in-Exile 
 
+### Jihad 
+
+- Society 
+
 ### Late Republic 
 
 - Mercenary 

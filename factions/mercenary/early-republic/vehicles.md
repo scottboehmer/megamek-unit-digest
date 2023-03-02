@@ -27,6 +27,10 @@
 
 - [**Savannah Master Hovercraft (Interdictor)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) *Scout (3077)* `ECM` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -246,6 +250,11 @@
 
 #### [J. Edgar Light Hover Tank](../../../units/j._edgar_light_hover_tank.md) 
 
+- [**J. Edgar Light Hover Tank (Standard)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_standard.md) *Scout (2722)* 
+- [**J. Edgar Light Hover Tank (Flamer)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_flamer.md) *Scout (2793)* 
+- [**J. Edgar Light Hover Tank (MG)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_mg.md) *Scout (2794)* 
+- [**J. Edgar Light Hover Tank (ICE)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_ice.md) *Scout (2854)* 
+- [**J. Edgar Light Hover Tank (TAG)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_tag.md) *Scout (3053)* `Active Probe` , `TAG` 
 - [**J. Edgar Light Hover Tank (LAC)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_lac.md) *Scout (3070)* 
 - [**J. Edgar Light Hover Tank (Light PPC)**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank_light_ppc.md) *Scout (3085)* 
 
@@ -337,7 +346,6 @@
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Ultra)**](../../../units/gun_trailer/gun_trailer_ultra.md) *Ambusher (3098)* 
 - [**Gun Trailer (Thunderbolt)**](../../../units/gun_trailer/gun_trailer_thunderbolt.md) *Missile Boat (3099)* 
-- [**Gun Trailer (Sniper Cannon)**](../../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
 
 #### [Hunter Light Support Tank](../../../units/hunter_light_support_tank.md) 
 
@@ -383,10 +391,6 @@
 - [**Scimitar Medium Hover Tank (Standard)**](../../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_standard.md) *Striker (2937)* 
 - [**Scimitar Medium Hover Tank (Missile)**](../../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_missile.md) *Missile Boat (2957)* 
 - [**Scimitar Medium Hover Tank (C3)**](../../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_c3.md) *Scout (3073)* `C3 Support` 
-
-#### [Scimitar Mk II HCV](../../../units/scimitar_mk_ii_hcv.md) 
-
-- [**Scimitar Mk II HCV (Standard)**](../../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_standard.md) *Scout (3105)* `ECM` 
 
 #### [Striker Light Tank](../../../units/striker_light_tank.md) 
 
@@ -497,6 +501,10 @@
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
 - [**Drillson Heavy Hover Tank (MML)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_mml.md) *Undefined (3087)* 
 
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
+
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
 - [**Fulcrum Heavy Hovertank (Standard)**](../../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank_standard.md) *Striker (3057)* `ECM` , `TAG` 
@@ -510,9 +518,17 @@
 
 - [**Hadur Fast Support Vehicle (Standard)**](../../../units/hadur_fast_support_vehicle/hadur_fast_support_vehicle_standard.md) *Missile Boat (3102)* 
 
+#### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
+
+- [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
+
 #### [JES I Tactical Missile Carrier](../../../units/jes_i_tactical_missile_carrier.md) 
 
 - [**JES I Tactical Missile Carrier (3082 Upgrade)**](../../../units/jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_3082_upgrade.md) *Striker (3082)* 
+
+#### [LTV-4 Hover Tank](../../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
 
 #### [Maxim (I) Heavy Hover Transport](../../../units/maxim_i_heavy_hover_transport.md) 
 

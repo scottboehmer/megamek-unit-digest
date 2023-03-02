@@ -599,6 +599,10 @@
 
 - [**Mad Cat Mk II Enhanced**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_enhanced.md) *Sniper (3083)* 
 
+#### [Pulverizer](../../../units/pulverizer.md) 
+
+- [**Pulverizer (Standard)**](../../../units/pulverizer/pulverizer_standard.md) *Sniper (2845)* `ECM` 
+
 #### [Supernova](../../../units/supernova.md) 
 
 - [**Supernova (Standard)**](../../../units/supernova/supernova_standard.md) *Sniper (2846)* 

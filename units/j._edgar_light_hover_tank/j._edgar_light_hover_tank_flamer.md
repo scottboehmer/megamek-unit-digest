@@ -26,6 +26,7 @@
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
 - Taurian Concordat 
 
 ### Late Succession Wars - LosTech 
@@ -76,6 +77,7 @@
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Alliance 
+- Mercenary 
 - Second Star League 
 - St. Ives Compact 
 - Taurian Concordat 
@@ -91,6 +93,7 @@
 - Free Worlds League 
 - Fronc Reaches 
 - Lyran Alliance 
+- Mercenary 
 - Taurian Concordat 
 - Word of Blake 
 
@@ -105,6 +108,7 @@
 - Fronc Reaches 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -117,9 +121,9 @@
 - Draconis Combine 
 - Filtvelt Coalition 
 - Fronc Reaches 
-- Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Taurian Concordat 
 
@@ -131,6 +135,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Taurian Concordat 
 
@@ -142,6 +147,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Taurian Concordat 
 

@@ -36,6 +36,7 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Mercenary 
+- St. Ives Compact 
 - Taurian Concordat 
 - Wolf's Dragoons 
 
@@ -48,6 +49,7 @@
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
+- St. Ives Compact 
 - Taurian Concordat 
 - Wolf's Dragoons 
 

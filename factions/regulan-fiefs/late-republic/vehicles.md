@@ -26,6 +26,10 @@
 
 - [**Jeep (Standard)**](../../../units/jeep/jeep_standard.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Skimmer](../../../units/skimmer.md) 
+
+- [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
+
 #### [Speeder](../../../units/speeder.md) 
 
 - [**Speeder (Standard)**](../../../units/speeder/speeder_standard.md) *Undefined (2300)* 
@@ -491,9 +495,21 @@
 - [**Drillson Heavy Hover Tank (Standard)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
 
+#### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
+
+- [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
+
+#### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
+
+- [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
+
 #### [JES I Tactical Missile Carrier](../../../units/jes_i_tactical_missile_carrier.md) 
 
 - [**JES I Tactical Missile Carrier (3082 Upgrade)**](../../../units/jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_3082_upgrade.md) *Striker (3082)* 
+
+#### [LTV-4 Hover Tank](../../../units/ltv-4_hover_tank.md) 
+
+- [**LTV-4 Hover Tank (Standard)**](../../../units/ltv-4_hover_tank/ltv-4_hover_tank_standard.md) *Striker (2464)* 
 
 #### [Maxim (I) Heavy Hover Transport](../../../units/maxim_i_heavy_hover_transport.md) 
 

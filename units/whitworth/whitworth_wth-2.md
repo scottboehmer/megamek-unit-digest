@@ -28,6 +28,7 @@
 - Draconis Combine 
 - Federated Commonwealth 
 - Federated Suns 
+- Mercenary 
 - Outworlds Alliance 
 - Taurian Concordat 
 
@@ -38,6 +39,7 @@
 - Federated Commonwealth 
 - Federated Suns 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Taurian Concordat 
 
@@ -49,6 +51,7 @@
 - Federated Suns 
 - Fronc Reaches 
 - Marian Hegemony 
+- Mercenary 
 - Taurian Concordat 
 
 ### Early Republic 
@@ -56,8 +59,6 @@
 - Calderon Protectorate 
 - Fronc Reaches 
 - Marian Hegemony 
-- Mercenary 
-- Taurian Concordat 
 
 ### Late Republic 
 

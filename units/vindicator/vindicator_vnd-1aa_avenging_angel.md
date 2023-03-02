@@ -35,14 +35,17 @@
 ### Late Succession Wars - Renaissance 
 
 - Free Rasalhague Republic 
+- St. Ives Compact 
 
 ### Clan Invasion 
 
 - Free Rasalhague Republic 
+- St. Ives Compact 
 
 ### Civil War 
 
 - Free Rasalhague Republic 
+- St. Ives Compact 
 - Taurian Concordat 
 
 ### Jihad 

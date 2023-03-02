@@ -23,6 +23,10 @@
 
 ## Availability 
 
+### Jihad 
+
+- Clan Wolf-in-Exile 
+
 ### Early Republic 
 
 - Clan Wolf-in-Exile 

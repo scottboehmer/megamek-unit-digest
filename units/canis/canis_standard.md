@@ -36,4 +36,5 @@
 
 - Clan Coyote 
 - Clan Jade Falcon 
+- Society 
 

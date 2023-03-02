@@ -41,6 +41,7 @@
 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Regulan Fiefs 
 - Republic of the Sphere 
 
@@ -48,6 +49,7 @@
 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Tamar Pact 
 - Vesper Marches 
 

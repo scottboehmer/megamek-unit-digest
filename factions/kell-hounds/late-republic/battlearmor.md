@@ -34,6 +34,10 @@
 
 ### 1 Tons 
 
+#### [Dragoon Battle Armor](../../../units/dragoon_battle_armor.md) 
+
+- [**Dragoon Battle Armor (Sqd4)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd4.md) *Ambusher (3072)* 
+
 #### [Gray Death Infiltrator Suit](../../../units/gray_death_infiltrator_suit.md) 
 
 - [**Gray Death Infiltrator Suit (Firedrake)(Sqd4)**](../../../units/gray_death_infiltrator_suit/gray_death_infiltrator_suit_firedrakesqd4.md) *Scout (3102)* `Stealth` 

@@ -30,13 +30,37 @@
 
 ### Late Republic 
 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - Rasalhague Dominion 
+- Raven Alliance 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - Rasalhague Dominion 
+- Raven Alliance 
 
 ### ilClan 
 
+- Alyina Mercantile League 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
 - Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
+- Wolf Empire 
 

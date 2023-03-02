@@ -31,9 +31,11 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+- Lyran Commonwealth 
 
 ### ilClan 
 
 - Clan Jade Falcon 
+- Lyran Commonwealth 
 - Star League (Jade Falcon) 
 

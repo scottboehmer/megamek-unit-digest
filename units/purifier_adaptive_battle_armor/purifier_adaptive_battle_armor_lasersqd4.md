@@ -31,20 +31,25 @@
 
 ### Early Republic 
 
+- Marik-Stewart Commonwealth 
 - Republic of the Sphere 
 - Taurian Concordat 
 
 ### Late Republic 
 
+- Marik-Stewart Commonwealth 
 - Republic of the Sphere 
 - Taurian Concordat 
 
 ### Dark Ages 
 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
 - Republic of the Sphere 
 - Taurian Concordat 
 
 ### ilClan 
 
+- Free Worlds League 
 - Taurian Concordat 
 

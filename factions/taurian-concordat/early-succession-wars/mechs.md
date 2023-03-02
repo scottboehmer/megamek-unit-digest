@@ -116,10 +116,6 @@
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
 - [**Vulcan VL-5T**](../../../units/vulcan/vulcan_vl-5t.md) *Striker (2778)* 
 
-#### [Whitworth](../../../units/whitworth.md) 
-
-- [**Whitworth WTH-0**](../../../units/whitworth/whitworth_wth-0.md) *Skirmisher (2754)* 
-
 ### 45 Tons 
 
 #### [Blackjack](../../../units/blackjack.md) 

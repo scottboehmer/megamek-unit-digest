@@ -90,6 +90,10 @@
 
 - [**UrbanMech UM-R60**](../../../units/urbanmech/urbanmech_um-r60.md) *Ambusher (2675)* 
 
+#### [Valkyrie](../../../units/valkyrie.md) 
+
+- [**Valkyrie VLK-QA**](../../../units/valkyrie/valkyrie_vlk-qa.md) *Missile Boat (2787)* 
+
 #### [Wasp LAM](../../../units/wasp_lam.md) 
 
 - [**Wasp LAM WSP-105**](../../../units/wasp_lam/wasp_lam_wsp-105.md) *Scout (2701)* 

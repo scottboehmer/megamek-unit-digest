@@ -357,7 +357,6 @@
 
 - [**Phoenix Hawk PXH-1c (Special)**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1c_special.md) *Striker (2765)* `ECM` 
 - [**Phoenix Hawk PXH-7K**](../../../units/phoenix_hawk/phoenix_hawk_pxh-7k.md) *Striker (3070)* `C3 Support` 
-- [**Phoenix Hawk PXH-4M**](../../../units/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)* 
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 

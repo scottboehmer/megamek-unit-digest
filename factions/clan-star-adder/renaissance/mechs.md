@@ -97,13 +97,13 @@
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
 
 ### 45 Tons 
 
@@ -156,6 +156,7 @@
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2Hb**](../../../units/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)* 
+- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (2826)* 
 
 #### [Stormcrow](../../../units/stormcrow.md) 
 
@@ -227,6 +228,7 @@
 #### [Archer](../../../units/archer.md) 
 
 - [**Archer ARC-2Rb**](../../../units/archer/archer_arc-2rb.md) *Missile Boat (2752)* 
+- [**Archer C**](../../../units/archer/archer_c.md) *Missile Boat (2824)* 
 
 #### [Excalibur](../../../units/excalibur.md) 
 
@@ -248,6 +250,7 @@
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6Rb**](../../../units/warhammer/warhammer_whm-6rb.md) *Brawler (2599)* 
+- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (2825)* 
 
 ### 75 Tons 
 

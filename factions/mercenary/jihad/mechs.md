@@ -437,18 +437,18 @@
 - [**Tsunami TS-P1**](../../../units/tsunami/tsunami_ts-p1.md) *Scout (3052)* 
 - [**Tsunami TS-P1D**](../../../units/tsunami/tsunami_ts-p1d.md) *Striker (3063)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](../../../units/viper/viper_h.md) *Striker (3062)* 
-- [**Viper I**](../../../units/viper/viper_i.md) *Striker (3068)* `Active Probe` 
-- [**Viper F**](../../../units/viper/viper_f.md) *Striker (3070)* 
-- [**Viper G**](../../../units/viper/viper_g.md) *Striker (3071)* `Active Probe` 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](../../../units/viper_omnimech/viper_h.md) *Striker (3062)* 
+- [**Viper I**](../../../units/viper_omnimech/viper_i.md) *Striker (3068)* `Active Probe` 
+- [**Viper F**](../../../units/viper_omnimech/viper_f.md) *Striker (3070)* 
+- [**Viper G**](../../../units/viper_omnimech/viper_g.md) *Striker (3071)* `Active Probe` 
 
 #### [Vulcan](../../../units/vulcan.md) 
 
@@ -464,6 +464,7 @@
 #### [Whitworth](../../../units/whitworth.md) 
 
 - [**Whitworth WTH-1**](../../../units/whitworth/whitworth_wth-1.md) *Missile Boat (2689)* 
+- [**Whitworth WTH-2**](../../../units/whitworth/whitworth_wth-2.md) *Missile Boat (3050)* 
 
 ### 45 Tons 
 
@@ -1555,6 +1556,8 @@
 #### [Marauder II](../../../units/marauder_ii.md) 
 
 - [**Marauder II MAD-4A**](../../../units/marauder_ii/marauder_ii_mad-4a.md) *Juggernaut (3012)* 
+- [**Marauder II MAD-5A**](../../../units/marauder_ii/marauder_ii_mad-5a.md) *Sniper (3049)* 
+- [**Marauder II MAD-5C**](../../../units/marauder_ii/marauder_ii_mad-5c.md) *Sniper (3052)* 
 - [**Marauder II (Bounty Hunter)**](../../../units/marauder_ii/marauder_ii_bounty_hunter.md) *Sniper (3064)* `Unique` 
 - [**Marauder II MAD-4S**](../../../units/marauder_ii/marauder_ii_mad-4s.md) *Juggernaut (3064)* 
 - [**Marauder II MAD-6M**](../../../units/marauder_ii/marauder_ii_mad-6m.md) *Skirmisher (3078)* `ECM` 

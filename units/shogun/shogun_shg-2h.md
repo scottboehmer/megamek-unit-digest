@@ -43,3 +43,7 @@
 - Free Worlds League 
 - Star League-in-Exile 
 
+### Jihad 
+
+- Society 
+

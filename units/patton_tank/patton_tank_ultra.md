@@ -59,6 +59,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Mercenary 
 - Republic of the Sphere 
 
@@ -67,6 +68,7 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Lyran Commonwealth 
+- Marian Hegemony 
 - Mercenary 
 - Tamar Pact 
 - Vesper Marches 

@@ -84,6 +84,7 @@
 - Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Outworlds Alliance 
 - Society 
 
 ### Early Republic 

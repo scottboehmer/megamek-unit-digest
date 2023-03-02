@@ -27,14 +27,17 @@
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Clan Wolf 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Wolf 
 
 ### ilClan 
 
+- Clan Hell's Horses 
 - Star League (Wolf) 
 - Wolf Empire 
 

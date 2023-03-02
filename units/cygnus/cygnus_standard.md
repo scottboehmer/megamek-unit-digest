@@ -49,6 +49,7 @@
 
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
+- Lyran Commonwealth 
 - Republic of the Sphere 
 - Wolf's Dragoons 
 
@@ -56,4 +57,5 @@
 
 - Clan Hell's Horses 
 - Kell Hounds 
+- Lyran Commonwealth 
 

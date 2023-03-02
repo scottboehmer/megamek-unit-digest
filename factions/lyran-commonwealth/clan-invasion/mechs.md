@@ -665,10 +665,6 @@
 - [**BattleMaster BLR-3S**](../../../units/battlemaster/battlemaster_blr-3s.md) *Brawler (3050)* 
 - [**BattleMaster BLR-3M-DC**](../../../units/battlemaster/battlemaster_blr-3m-dc.md) *Brawler (3053)* `Command Console` 
 
-#### [Gunslinger](../../../units/gunslinger.md) 
-
-- [**Gunslinger GUN-1ERD**](../../../units/gunslinger/gunslinger_gun-1erd.md) *Juggernaut (3053)* `Active Probe` , `ECM` 
-
 #### [Longbow](../../../units/longbow.md) 
 
 - [**Longbow LGB-0W**](../../../units/longbow/longbow_lgb-0w.md) *Missile Boat (2529)* 

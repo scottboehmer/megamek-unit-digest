@@ -163,11 +163,11 @@
 
 ### Early Republic 
 
-- Clan Ghost Bear 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Wolf 
 - Escorpión Imperio 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Late Republic 

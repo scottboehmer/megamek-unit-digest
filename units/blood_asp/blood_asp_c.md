@@ -52,9 +52,20 @@
 
 ### Dark Ages 
 
-- Clan Hell's Horses 
+- Raven Alliance 
 
 ### ilClan 
 
+- Capellan Confederation 
 - Clan Hell's Horses 
+- Clan Jade Falcon 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Magistracy of Canopus 
+- Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Wolf) 
+- Wolf Empire 
+- Wolf's Dragoons 
 

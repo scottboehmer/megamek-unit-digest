@@ -188,7 +188,7 @@
 - **Weapons:** 
   - ER Small Laser 
   - Squad Support Medium Recoilless Rifle 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9450) 
+- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9448) 
 - **Battle Value:** 99 (673 for 6 suits) 
 - [*More Info*](callisto_battle_armor/callisto_battle_armor_b_mrrsqd6.md) 
 
@@ -220,7 +220,7 @@
 - **Weapons:** 
   - Squad Support SRM 4 (ammo: 4) 
   - ER Small Laser 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9448) 
+- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9450) 
 - **Battle Value:** 101 (536 for 5 suits) 
 - [*More Info*](callisto_battle_armor/callisto_battle_armor_b_srmsqd5.md) 
 

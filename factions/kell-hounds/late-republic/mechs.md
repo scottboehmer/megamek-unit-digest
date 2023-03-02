@@ -117,6 +117,14 @@
 
 #### [Pouncer](../../../units/pouncer.md) 
 
+- [**Pouncer Prime**](../../../units/pouncer/pouncer_prime.md) *Sniper (3050)* 
+- [**Pouncer A**](../../../units/pouncer/pouncer_a.md) *Missile Boat (3050)* 
+- [**Pouncer B**](../../../units/pouncer/pouncer_b.md) *Sniper (3050)* 
+- [**Pouncer C**](../../../units/pouncer/pouncer_c.md) *Striker (3050)* 
+- [**Pouncer D**](../../../units/pouncer/pouncer_d.md) *Striker (3050)* 
+- [**Pouncer E**](../../../units/pouncer/pouncer_e.md) *Striker (3061)* 
+- [**Pouncer H**](../../../units/pouncer/pouncer_h.md) *Striker (3062)* 
+- [**Pouncer F**](../../../units/pouncer/pouncer_f.md) *Scout (3069)* `Active Probe` 
 - [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
 
 ### 45 Tons 
@@ -224,6 +232,7 @@
 
 #### [Archer](../../../units/archer.md) 
 
+- [**Archer C 2**](../../../units/archer/archer_c_2.md) *Brawler (3065)* 
 - [**Archer ARC-7C**](../../../units/archer/archer_arc-7c.md) *Missile Boat (3119)* 
 
 #### [Grasshopper](../../../units/grasshopper.md) 
@@ -294,6 +303,10 @@
 - [**Zeus-X ZEU-9WD**](../../../units/zeus-x/zeus-x_zeu-9wd.md) *Brawler (3067)* 
 
 ### 85 Tons 
+
+#### [Gunslinger](../../../units/gunslinger.md) 
+
+- [**Gunslinger GUN-1ERD**](../../../units/gunslinger/gunslinger_gun-1erd.md) *Juggernaut (3053)* `Active Probe` , `ECM` 
 
 #### [Longbow](../../../units/longbow.md) 
 

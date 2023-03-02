@@ -14,10 +14,21 @@
 - **Weapons:** 
   - Squad Support SRM 4 (ammo: 4) 
   - ER Small Laser 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9448) 
+- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9450) 
 - **Battle Value:** 101 (536 for 5 suits) 
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Clan Wolf 
+- Rasalhague Dominion 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Wolf) 
+- Wolf Empire 
 

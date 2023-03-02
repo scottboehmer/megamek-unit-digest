@@ -79,6 +79,7 @@
 
 ### Early Republic 
 
+- Clan Wolf 
 - Draconis Combine 
 - Federated Suns 
 - Kell Hounds 
@@ -88,6 +89,7 @@
 
 ### Late Republic 
 
+- Clan Wolf 
 - Draconis Combine 
 - Federated Suns 
 - Kell Hounds 
@@ -98,6 +100,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

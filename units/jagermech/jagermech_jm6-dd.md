@@ -34,6 +34,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Outworlds Alliance 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Civil War 
@@ -46,6 +47,7 @@
 - Lyran Alliance 
 - Mercenary 
 - Outworlds Alliance 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Jihad 

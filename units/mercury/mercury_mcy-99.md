@@ -70,6 +70,7 @@
 
 - ComStar 
 - Escorpión Imperio 
+- Society 
 - Word of Blake 
 
 ### Early Republic 

@@ -104,6 +104,10 @@
 
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4B**](../../../units/chameleon/chameleon_trc-4b.md) *Scout (2510)* 
+
 #### [Crab](../../../units/crab.md) 
 
 - [**Crab CRB-27**](../../../units/crab/crab_crb-27.md) *Skirmisher (2719)* 

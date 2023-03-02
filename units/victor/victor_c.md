@@ -156,6 +156,7 @@
 
 - Capellan Confederation 
 - Clan Nova Cat 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

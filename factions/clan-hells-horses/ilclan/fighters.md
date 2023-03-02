@@ -99,6 +99,7 @@
 
 - [**Tyre (Standard)**](../../../units/tyre/tyre_standard.md) *Attack Fighter (2907)* 
 - [**Tyre 2**](../../../units/tyre/tyre_2.md) *Attack Fighter (2912)* 
+- [**Tyre 3**](../../../units/tyre/tyre_3.md) *Attack Fighter (3086)* 
 
 ### 60 Tons 
 
@@ -181,6 +182,7 @@
 
 - [**Hydaspes (Standard)**](../../../units/hydaspes/hydaspes_standard.md) *Attack Fighter (2840)* 
 - [**Hydaspes 2**](../../../units/hydaspes/hydaspes_2.md) *Attack Fighter (3064)* 
+- [**Hydaspes 3**](../../../units/hydaspes/hydaspes_3.md) *Attack Fighter (3085)* 
 
 ### 100 Tons 
 

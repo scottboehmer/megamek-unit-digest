@@ -31,6 +31,18 @@
 
 - Clan Snow Raven 
 
+### Jihad 
+
+- Clan Snow Raven 
+
+### Early Republic 
+
+- Raven Alliance 
+
+### Late Republic 
+
+- Raven Alliance 
+
 ### Dark Ages 
 
 - Raven Alliance 

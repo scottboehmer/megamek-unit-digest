@@ -23,12 +23,21 @@
 
 ## Availability 
 
+### Clan Invasion 
+
+- Clan Ice Hellion 
+
+### Civil War 
+
+- Clan Ice Hellion 
+
 ### Jihad 
 
 - Clan Burrock 
 - Clan Cloud Cobra 
 - Clan Coyote 
 - Clan Hell's Horses 
+- Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Snow Raven 
 - Clan Star Adder 

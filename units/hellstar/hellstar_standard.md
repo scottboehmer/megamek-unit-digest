@@ -53,11 +53,14 @@
 
 - Capellan Confederation 
 - Clan Hell's Horses 
+- Clan Sea Fox 
+- Clan Wolf 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 - Federated Suns 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 - Wolf's Dragoons 
 
@@ -65,10 +68,12 @@
 
 - Capellan Confederation 
 - Clan Hell's Horses 
+- Clan Sea Fox 
 - Draconis Combine 
 - Federated Suns 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Rasalhague Dominion 
 - Star League (Smoke Jaguar) 
 - Star League (Wolf) 
 - Wolf's Dragoons 

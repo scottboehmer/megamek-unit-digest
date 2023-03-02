@@ -43,6 +43,7 @@
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Republic of the Sphere 
 
 ### Late Republic 
 

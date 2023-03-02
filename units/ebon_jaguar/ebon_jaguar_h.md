@@ -27,7 +27,9 @@
 
 ### Civil War 
 
+- Clan Blood Spirit 
 - Clan Cloud Cobra 
+- Clan Coyote 
 - Clan Diamond Shark 
 - Clan Fire Mandrill 
 - Clan Ghost Bear 
@@ -38,14 +40,17 @@
 - Clan Nova Cat 
 - Clan Snow Raven 
 - Clan Star Adder 
+- Clan Steel Viper 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 
 ### Jihad 
 
+- Clan Blood Spirit 
 - Clan Burrock 
 - Clan Cloud Cobra 
+- Clan Coyote 
 - Clan Diamond Shark 
 - Clan Fire Mandrill 
 - Clan Ghost Bear 

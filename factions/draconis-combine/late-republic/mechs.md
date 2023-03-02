@@ -541,6 +541,18 @@
 
 - [**Hunchback HBK-6N**](../../../units/hunchback/hunchback_hbk-6n.md) *Juggernaut (3059)* 
 
+#### [Huntsman](../../../units/huntsman.md) 
+
+- [**Huntsman Prime**](../../../units/huntsman/huntsman_prime.md) *Skirmisher (3049)* `Active Probe` , `TAG` 
+- [**Huntsman A**](../../../units/huntsman/huntsman_a.md) *Sniper (3049)* 
+- [**Huntsman B**](../../../units/huntsman/huntsman_b.md) *Skirmisher (3049)* 
+- [**Huntsman C**](../../../units/huntsman/huntsman_c.md) *Missile Boat (3049)* 
+- [**Huntsman D**](../../../units/huntsman/huntsman_d.md) *Skirmisher (3061)* 
+- [**Huntsman H**](../../../units/huntsman/huntsman_h.md) *Skirmisher (3063)* `Active Probe` , `ECM` 
+- [**Huntsman N**](../../../units/huntsman/huntsman_n.md) *Sniper (3068)* 
+- [**Huntsman E**](../../../units/huntsman/huntsman_e.md) *Skirmisher (3070)* `Active Probe` , `TAG` 
+- [**Huntsman I**](../../../units/huntsman/huntsman_i.md) *Sniper (3088)* 
+
 #### [Shockwave](../../../units/shockwave.md) 
 
 - [**Shockwave SKW-2F**](../../../units/shockwave/shockwave_skw-2f.md) *Skirmisher (3082)* 

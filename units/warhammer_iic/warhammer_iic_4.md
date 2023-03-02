@@ -42,6 +42,7 @@
 - Clan Nova Cat 
 - Clan Star Adder 
 - Clan Wolf-in-Exile 
+- Society 
 
 ### Early Republic 
 

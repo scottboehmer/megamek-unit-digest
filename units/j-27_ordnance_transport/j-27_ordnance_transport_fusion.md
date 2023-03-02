@@ -134,12 +134,20 @@
 - Clan Burrock 
 - Clan Cloud Cobra 
 - Clan Coyote 
+- Clan Diamond Shark 
 - Clan Fire Mandrill 
+- Clan Ghost Bear 
 - Clan Goliath Scorpion 
 - Clan Hell's Horses 
 - Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
 - Clan Snow Raven 
 - Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -158,12 +166,19 @@
 - Clan Blood Spirit 
 - Clan Cloud Cobra 
 - Clan Coyote 
+- Clan Diamond Shark 
 - Clan Fire Mandrill 
+- Clan Ghost Bear 
 - Clan Goliath Scorpion 
+- Clan Hell's Horses 
 - Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
 - Clan Snow Raven 
 - Clan Star Adder 
 - Clan Steel Viper 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -182,12 +197,20 @@
 - Clan Burrock 
 - Clan Cloud Cobra 
 - Clan Coyote 
+- Clan Diamond Shark 
 - Clan Fire Mandrill 
+- Clan Ghost Bear 
 - Clan Goliath Scorpion 
+- Clan Hell's Horses 
 - Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Snow Raven 
 - Clan Star Adder 
 - Clan Steel Viper 
 - Clan Stone Lion 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -199,6 +222,12 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Clan Diamond Shark 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -208,6 +237,8 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Rasalhague Dominion 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -215,6 +246,12 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -224,6 +261,8 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Rasalhague Dominion 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -231,6 +270,12 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -241,19 +286,32 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Rasalhague Dominion 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
 
 ### ilClan 
 
+- Alyina Mercantile League 
 - Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Protectorate 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 
+- Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 - Tamar Pact 
 - Vesper Marches 
+- Wolf Empire 
 

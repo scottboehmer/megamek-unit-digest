@@ -210,15 +210,15 @@
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
 
-#### [Viper](../../../units/viper.md) 
+#### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
-- [**Viper Prime**](../../../units/viper/viper_prime.md) *Scout (2940)* 
-- [**Viper A**](../../../units/viper/viper_a.md) *Striker (2940)* 
-- [**Viper B**](../../../units/viper/viper_b.md) *Striker (2940)* 
-- [**Viper C**](../../../units/viper/viper_c.md) *Striker (2940)* `Active Probe` 
-- [**Viper D**](../../../units/viper/viper_d.md) *Striker (2940)* 
-- [**Viper E**](../../../units/viper/viper_e.md) *Striker (3054)* 
-- [**Viper H**](../../../units/viper/viper_h.md) *Striker (3062)* 
+- [**Viper Prime**](../../../units/viper_omnimech/viper_prime.md) *Scout (2940)* 
+- [**Viper A**](../../../units/viper_omnimech/viper_a.md) *Striker (2940)* 
+- [**Viper B**](../../../units/viper_omnimech/viper_b.md) *Striker (2940)* 
+- [**Viper C**](../../../units/viper_omnimech/viper_c.md) *Striker (2940)* `Active Probe` 
+- [**Viper D**](../../../units/viper_omnimech/viper_d.md) *Striker (2940)* 
+- [**Viper E**](../../../units/viper_omnimech/viper_e.md) *Striker (3054)* 
+- [**Viper H**](../../../units/viper_omnimech/viper_h.md) *Striker (3062)* 
 
 ### 45 Tons 
 
@@ -401,6 +401,17 @@
 - [**Hellbringer F**](../../../units/hellbringer/hellbringer_f.md) *Striker (3054)* 
 - [**Hellbringer J**](../../../units/hellbringer/hellbringer_j.md) *Scout (3058)* `Active Probe` 
 - [**Hellbringer H**](../../../units/hellbringer/hellbringer_h.md) *Sniper (3059)* `Active Probe` 
+
+#### [Linebacker](../../../units/linebacker.md) 
+
+- [**Linebacker Prime**](../../../units/linebacker/linebacker_prime.md) *Skirmisher (3052)* 
+- [**Linebacker A**](../../../units/linebacker/linebacker_a.md) *Sniper (3052)* 
+- [**Linebacker B**](../../../units/linebacker/linebacker_b.md) *Skirmisher (3052)* 
+- [**Linebacker C**](../../../units/linebacker/linebacker_c.md) *Skirmisher (3052)* 
+- [**Linebacker D**](../../../units/linebacker/linebacker_d.md) *Skirmisher (3052)* 
+- [**Linebacker E**](../../../units/linebacker/linebacker_e.md) *Skirmisher (3061)* `Active Probe` 
+- [**Linebacker H**](../../../units/linebacker/linebacker_h.md) *Skirmisher (3062)* 
+- [**Linebacker F**](../../../units/linebacker/linebacker_f.md) *Skirmisher (3068)* 
 
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 

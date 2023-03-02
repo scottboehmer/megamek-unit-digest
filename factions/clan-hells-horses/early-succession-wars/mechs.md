@@ -120,6 +120,10 @@
 
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4B**](../../../units/chameleon/chameleon_trc-4b.md) *Scout (2510)* 
+
 #### [Crab](../../../units/crab.md) 
 
 - [**Crab CRB-27**](../../../units/crab/crab_crb-27.md) *Skirmisher (2719)* 
@@ -152,6 +156,7 @@
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2Hb**](../../../units/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)* 
+- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (2826)* 
 
 ### 60 Tons 
 
@@ -178,6 +183,10 @@
 
 - [**Ostroc OSR-2Cb**](../../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
 
+#### [Rifleman](../../../units/rifleman.md) 
+
+- [**Rifleman C**](../../../units/rifleman/rifleman_c.md) *Sniper (2826)* 
+
 ### 65 Tons 
 
 #### [Bombardier](../../../units/bombardier.md) 
@@ -202,6 +211,7 @@
 #### [Archer](../../../units/archer.md) 
 
 - [**Archer ARC-2Rb**](../../../units/archer/archer_arc-2rb.md) *Missile Boat (2752)* 
+- [**Archer C**](../../../units/archer/archer_c.md) *Missile Boat (2824)* 
 
 #### [Excalibur](../../../units/excalibur.md) 
 
@@ -223,6 +233,7 @@
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6Rb**](../../../units/warhammer/warhammer_whm-6rb.md) *Brawler (2599)* 
+- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (2825)* 
 
 ### 75 Tons 
 
@@ -238,6 +249,7 @@
 
 - [**Marauder MAD-1R**](../../../units/marauder/marauder_mad-1r.md) *Sniper (2612)* 
 - [**Marauder MAD-2R**](../../../units/marauder/marauder_mad-2r.md) *Sniper (2760)* 
+- [**Marauder C**](../../../units/marauder/marauder_c.md) *Sniper (2827)* 
 
 #### [Spirit Walker](../../../units/spirit_walker.md) 
 
@@ -245,6 +257,14 @@
 - [**Spirit Walker A**](../../../units/spirit_walker/spirit_walker_a.md) *Brawler (2866)* `Active Probe` 
 
 ### 80 Tons 
+
+#### [Naga](../../../units/naga.md) 
+
+- [**Naga A**](../../../units/naga/naga_a.md) *Missile Boat (2869)* 
+- [**Naga B**](../../../units/naga/naga_b.md) *Missile Boat (2869)* 
+- [**Naga C**](../../../units/naga/naga_c.md) *Missile Boat (2869)* 
+- [**Naga D**](../../../units/naga/naga_d.md) *Missile Boat (2869)* 
+- [**Naga Prime**](../../../units/naga/naga_prime.md) *Missile Boat (2945)* 
 
 #### [Naga II](../../../units/naga_ii.md) 
 

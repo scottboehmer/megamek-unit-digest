@@ -28,6 +28,11 @@
 
 ### 1 Tons 
 
+#### [Dragoon Battle Armor](../../../units/dragoon_battle_armor.md) 
+
+- [**Dragoon Battle Armor (Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd5.md) *Ambusher (3072)* 
+- [**Dragoon Battle Armor (Upgrade)(Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_upgradesqd5.md) *Undefined (3072)* 
+
 #### [Elemental Battle Armor](../../../units/elemental_battle_armor.md) 
 
 - [**Elemental Battle Armor (Flamer)(Sqd5)**](../../../units/elemental_battle_armor/elemental_battle_armor_flamersqd5.md) *Ambusher (2868)* 

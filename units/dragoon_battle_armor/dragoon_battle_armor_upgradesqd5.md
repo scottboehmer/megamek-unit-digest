@@ -15,10 +15,28 @@
 - **Weapons:** 
   - Clan Micro Pulse Laser 
   - Light Mortar 
-- **Source:** Rec Guide:ilClan #29 - 
+- **Sources:** Rec Guide:ilClan #29 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9383) 
 - **Battle Value:** 56 (395 for 5 suits) 
 
 ## Availability 
 
-Availability Unknown 
+### Jihad 
+
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Wolf's Dragoons 
+
+### Late Republic 
+
+- Wolf's Dragoons 
+
+### Dark Ages 
+
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Wolf's Dragoons 
 

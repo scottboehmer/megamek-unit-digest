@@ -1,4 +1,4 @@
-# Dragonfly (Viper) 
+# Dragonfly (Viper OmniMech) 
 
 ## Viper "Dragonfly" Prime 
 
@@ -21,7 +21,7 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/926) 
 - **Battle Value:** 1450 
-- [*More Info*](viper/viper_prime.md) 
+- [*More Info*](viper_omnimech/viper_prime.md) 
 
 ## Viper "Dragonfly" A 
 
@@ -42,7 +42,7 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/917) 
 - **Battle Value:** 1989 
-- [*More Info*](viper/viper_a.md) 
+- [*More Info*](viper_omnimech/viper_a.md) 
 
 ## Viper "Dragonfly" B 
 
@@ -62,7 +62,7 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/918) 
 - **Battle Value:** 1830 
-- [*More Info*](viper/viper_b.md) 
+- [*More Info*](viper_omnimech/viper_b.md) 
 
 ## Viper "Dragonfly" C 
 
@@ -85,7 +85,7 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/919) 
 - **Battle Value:** 1344 
-- [*More Info*](viper/viper_c.md) 
+- [*More Info*](viper_omnimech/viper_c.md) 
 
 ## Viper "Dragonfly" D 
 
@@ -108,7 +108,7 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/920) 
 - **Battle Value:** 1779 
-- [*More Info*](viper/viper_d.md) 
+- [*More Info*](viper_omnimech/viper_d.md) 
 
 ## Viper "Dragonfly" E 
 
@@ -130,7 +130,7 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/921) 
 - **Battle Value:** 1561 
-- [*More Info*](viper/viper_e.md) 
+- [*More Info*](viper_omnimech/viper_e.md) 
 
 ## Viper "Dragonfly" H 
 
@@ -153,7 +153,7 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/924) 
 - **Battle Value:** 1732 
-- [*More Info*](viper/viper_h.md) 
+- [*More Info*](viper_omnimech/viper_h.md) 
 
 ## Viper "Dragonfly" I 
 
@@ -177,7 +177,7 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/925) 
 - **Battle Value:** 1580 
-- [*More Info*](viper/viper_i.md) 
+- [*More Info*](viper_omnimech/viper_i.md) 
 
 ## Viper "Dragonfly" F 
 
@@ -199,7 +199,7 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/922) 
 - **Battle Value:** 1689 
-- [*More Info*](viper/viper_f.md) 
+- [*More Info*](viper_omnimech/viper_f.md) 
 
 ## Viper "Dragonfly" G 
 
@@ -222,7 +222,7 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/923) 
 - **Battle Value:** 1574 
-- [*More Info*](viper/viper_g.md) 
+- [*More Info*](viper_omnimech/viper_g.md) 
 
 ## Viper "Dragonfly" Z 
 
@@ -246,7 +246,7 @@
   - Narrow/Low Profile 
 - **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5644) 
 - **Battle Value:** 1692 
-- [*More Info*](viper/viper_z.md) 
+- [*More Info*](viper_omnimech/viper_z.md) 
 
 ## Viper "Dragonfly" U 
 
@@ -270,7 +270,7 @@
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/927) 
 - **Battle Value:** 1417 
-- [*More Info*](viper/viper_u.md) 
+- [*More Info*](viper_omnimech/viper_u.md) 
 
 ## Viper "Dragonfly" R 
 
@@ -293,7 +293,7 @@
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7588) 
 - **Battle Value:** 1335 
-- [*More Info*](viper/viper_r.md) 
+- [*More Info*](viper_omnimech/viper_r.md) 
 
 ## Viper "Dragonfly" T 
 
@@ -318,7 +318,7 @@
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7583) 
 - **Battle Value:** 1704 
-- [*More Info*](viper/viper_t.md) 
+- [*More Info*](viper_omnimech/viper_t.md) 
 
 ## Viper "Dragonfly" J 
 
@@ -339,7 +339,7 @@
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7584) 
 - **Battle Value:** 1259 
-- [*More Info*](viper/viper_j.md) 
+- [*More Info*](viper_omnimech/viper_j.md) 
 
 ## Viper "Dragonfly" K 
 
@@ -363,7 +363,7 @@
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7585) 
 - **Battle Value:** 1545 
-- [*More Info*](viper/viper_k.md) 
+- [*More Info*](viper_omnimech/viper_k.md) 
 
 ## Viper "Dragonfly" L 
 
@@ -384,7 +384,7 @@
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7586) 
 - **Battle Value:** 1417 
-- [*More Info*](viper/viper_l.md) 
+- [*More Info*](viper_omnimech/viper_l.md) 
 
 ## Viper "Dragonfly" M 
 
@@ -406,5 +406,5 @@
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7587) 
 - **Battle Value:** 2054 
-- [*More Info*](viper/viper_m.md) 
+- [*More Info*](viper_omnimech/viper_m.md) 
 

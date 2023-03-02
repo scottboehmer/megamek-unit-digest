@@ -40,10 +40,8 @@
 ### Civil War 
 
 - Free Worlds League 
-- Taurian Concordat 
 
 ### Jihad 
 
 - Free Worlds League 
-- Taurian Concordat 
 
