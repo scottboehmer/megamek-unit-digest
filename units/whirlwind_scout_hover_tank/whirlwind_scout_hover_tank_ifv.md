@@ -4,8 +4,8 @@
 
 ## Whirlwind Scout Hover Tank (IFV) 
 
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (3145) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3139) 
 - **Chassis:** 45 tons Hover 
 - **Movement:** 9 / 14, Fusion 
 - **Armor:** 104 
@@ -17,7 +17,7 @@
   - Beagle Active Probe 
   - CASE 
   - Infantry (4.0 tons) 
-- **Source:** Rec Guide:ilClan #28 - 
+- **Sources:** Rec Guide:ilClan #28 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9363) 
 - **Battle Value:** 756 
 
 ## Availability 

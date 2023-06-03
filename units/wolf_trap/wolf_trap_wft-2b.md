@@ -14,9 +14,7 @@
   - Gauss Rifle (ammo: 16) 
   - Medium X-Pulse Laser × 2 
 - **Design Quirks:** 
-  - Easy to Maintain 
-  - Easy to Pilot 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5415) 
 - **Battle Value:** 1439 
 

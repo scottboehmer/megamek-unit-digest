@@ -1,6 +1,6 @@
 # Glaive Medium Tank 
 
-## Glaive Medium Tank (Standard) 
+## Glaive Medium Tank 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3066) 
@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4217) 
 - **Battle Value:** 806 
-- [*More Info*](glaive_medium_tank/glaive_medium_tank_standard.md) 
+- [*More Info*](glaive_medium_tank/glaive_medium_tank.md) 
 
 ## Glaive Medium Tank (MFB) 
 

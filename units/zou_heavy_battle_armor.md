@@ -51,7 +51,7 @@
 - **Battle Value:** 56 (502 for 6 suits) 
 - [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_c3sqd6.md) 
 
-## Zou Heavy Battle Armor (Standard)(Sqd4) 
+## Zou Heavy Battle Armor (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3113) 
@@ -64,9 +64,9 @@
   - Medium Laser 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6369) 
 - **Battle Value:** 73 (381 for 4 suits) 
-- [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_standardsqd4.md) 
+- [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_sqd4.md) 
 
-## Zou Heavy Battle Armor (Standard)(Sqd5) 
+## Zou Heavy Battle Armor (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3113) 
@@ -79,9 +79,9 @@
   - Medium Laser 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8741) 
 - **Battle Value:** 73 (513 for 5 suits) 
-- [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_standardsqd5.md) 
+- [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_sqd5.md) 
 
-## Zou Heavy Battle Armor (Standard)(Sqd6) 
+## Zou Heavy Battle Armor (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3113) 
@@ -94,5 +94,5 @@
   - Medium Laser 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9104) 
 - **Battle Value:** 73 (660 for 6 suits) 
-- [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_standardsqd6.md) 
+- [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_sqd6.md) 
 

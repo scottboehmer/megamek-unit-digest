@@ -4,7 +4,7 @@
 
 ## Griffin GRF-2N2 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (2703) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 5 / 8 
@@ -22,6 +22,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (PPC) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6767) 
 - **Battle Value:** 1513 
 
 ## Availability 

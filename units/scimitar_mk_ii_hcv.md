@@ -1,6 +1,6 @@
 # Scimitar Mk II HCV 
 
-## Scimitar Mk II HCV (Standard) 
+## Scimitar Mk II HCV 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3105) 
@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
 - **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6375) 
 - **Battle Value:** 631 
-- [*More Info*](scimitar_mk_ii_hcv/scimitar_mk_ii_hcv_standard.md) 
+- [*More Info*](scimitar_mk_ii_hcv/scimitar_mk_ii_hcv.md) 
 
 ## Scimitar Mk II HCV (3136 Upgrade) 
 

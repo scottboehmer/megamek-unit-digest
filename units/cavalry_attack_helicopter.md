@@ -1,6 +1,6 @@
 # Cavalry Attack Helicopter 
 
-## Cavalry Attack Helicopter (Standard) 
+## Cavalry Attack Helicopter 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3054) 
@@ -13,7 +13,7 @@
   - SRM 2 × 3 (ammo: 50) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/506) 
 - **Battle Value:** 503 
-- [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_standard.md) 
+- [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter.md) 
 
 ## Cavalry Attack Helicopter (LRM) 
 
@@ -92,7 +92,7 @@
   - Guardian ECM Suite 
   - Jet Booster 
   - Infantry (4.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/508) 
+- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/508) 
 - **Battle Value:** 451 
 - [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_cadence_rain.md) 
 
@@ -110,7 +110,7 @@
   - Guardian ECM Suite 
   - Jet Booster 
   - Infantry (4.0 tons) 
-- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3909) 
+- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3909) 
 - **Battle Value:** 411 
 - [*More Info*](cavalry_attack_helicopter/cavalry_attack_helicopter_infiltrator.md) 
 

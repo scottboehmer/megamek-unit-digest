@@ -1,6 +1,6 @@
 # Hexareme HQ Hovercraft 
 
-## Hexareme HQ Hovercraft (Standard) 
+## Hexareme HQ Hovercraft 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (3115) 
@@ -18,5 +18,5 @@
   - Infantry (4.0 tons) 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7306) 
 - **Battle Value:** 1210 
-- [*More Info*](hexareme_hq_hovercraft/hexareme_hq_hovercraft_standard.md) 
+- [*More Info*](hexareme_hq_hovercraft/hexareme_hq_hovercraft.md) 
 

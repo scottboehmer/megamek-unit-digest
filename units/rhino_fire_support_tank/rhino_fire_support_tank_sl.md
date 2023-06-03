@@ -5,7 +5,7 @@
 ## Rhino Fire Support Tank (SL) 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (2840) 
+- **Tech Base:** Inner Sphere (2724) 
 - **Chassis:** 80 tons Tracked 
 - **Movement:** 3 / 5, Fusion 
 - **Armor:** 272 

@@ -19,7 +19,7 @@
 
 #### [HeavyHauler Exoskeleton](../../../units/heavyhauler_exoskeleton.md) 
 
-- [**HeavyHauler Exoskeleton (Standard)(Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_standardsqd4.md) *Undefined (3052)* 
+- [**HeavyHauler Exoskeleton (Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_sqd4.md) *Undefined (3052)* 
 
 #### [Salrilla Exoskeleton](../../../units/salrilla_exoskeleton.md) 
 
@@ -55,7 +55,7 @@
 - [**Constable Pacification Suit (ECM) (Sqd4)**](../../../units/constable_pacification_suit/constable_pacification_suit_ecm_sqd4.md) *Ambusher (3092)* `ECM` 
 - [**Constable Pacification Suit (LMG) (Sqd4)**](../../../units/constable_pacification_suit/constable_pacification_suit_lmg_sqd4.md) *Ambusher (3092)* 
 - [**Constable Pacification Suit (Sensor) (Sqd4)**](../../../units/constable_pacification_suit/constable_pacification_suit_sensor_sqd4.md) *Scout (3092)* `Active Probe` 
-- [**Constable Pacification Suit (SRM) (Sqd4)**](../../../units/constable_pacification_suit/constable_pacification_suit_srm_sqd4.md) *Undefined (3092)* 
+- [**Constable Pacification Suit (SRM) (Sqd4)**](../../../units/constable_pacification_suit/constable_pacification_suit_srm_sqd4.md) *Ambusher (3092)* 
 - [**Constable Pacification Suit (TAG) (Sqd4)**](../../../units/constable_pacification_suit/constable_pacification_suit_tag_sqd4.md) *Scout (3092)* `TAG` 
 
 #### [Kage Light Battle Armor](../../../units/kage_light_battle_armor.md) 
@@ -83,7 +83,7 @@
 
 #### [Void Medium Battle Armor](../../../units/void_medium_battle_armor.md) 
 
-- [**Void Medium Battle Armor (Standard)(Sqd4)**](../../../units/void_medium_battle_armor/void_medium_battle_armor_standardsqd4.md) *Scout (3067)* `Stealth` 
+- [**Void Medium Battle Armor (Sqd4)**](../../../units/void_medium_battle_armor/void_medium_battle_armor_sqd4.md) *Scout (3067)* `Stealth` 
 - [**Void Medium Battle Armor (DCA)(Sqd4)**](../../../units/void_medium_battle_armor/void_medium_battle_armor_dcasqd4.md) *Scout (3068)* `Stealth` 
 - [**Void Medium Battle Armor Caltrop(Sqd4)**](../../../units/void_medium_battle_armor/void_medium_battle_armor_caltropsqd4.md) *Ambusher (3078)* `Stealth` , `Unique` 
 - [**Void Medium Battle Armor (Minelayer)(Sqd4)**](../../../units/void_medium_battle_armor/void_medium_battle_armor_minelayersqd4.md) *Ambusher (3079)* `Stealth` 

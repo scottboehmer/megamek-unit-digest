@@ -1,6 +1,6 @@
 # Maxim (I) Heavy Hover Transport 
 
-## Maxim (I) Heavy Hover Transport (Standard) 
+## Maxim (I) Heavy Hover Transport 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3060) 
@@ -16,7 +16,7 @@
   - Infantry (12 tons) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2115) 
 - **Battle Value:** 770 
-- [*More Info*](maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport_standard.md) 
+- [*More Info*](maxim_i_heavy_hover_transport/maxim_i_heavy_hover_transport.md) 
 
 ## Maxim (I) Heavy Hover Transport (Company Command) 
 

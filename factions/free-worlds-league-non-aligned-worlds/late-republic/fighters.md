@@ -34,7 +34,7 @@
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-400**](../../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
+- [**Gotha GTHA-400**](../../../units/gotha/gotha_gtha-400.md) *Undefined (3019)* 
 
 #### [Stingray](../../../units/stingray.md) 
 
@@ -64,10 +64,10 @@
 #### [Riever](../../../units/riever.md) 
 
 - [**Riever F-700**](../../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
-- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
-- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
+- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Undefined (3050)* 
+- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
 

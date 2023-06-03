@@ -1,6 +1,6 @@
 # Fire Scorpion 
 
-## Fire Scorpion (Standard) 
+## Fire Scorpion 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2852) 
@@ -18,7 +18,7 @@
   - Cowl 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1071) 
 - **Battle Value:** 1546 
-- [*More Info*](fire_scorpion/fire_scorpion_standard.md) 
+- [*More Info*](fire_scorpion/fire_scorpion.md) 
 
 ## Fire Scorpion 2 
 

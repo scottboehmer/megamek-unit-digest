@@ -26,14 +26,14 @@
 
 #### [Gray Death Scout Suit](../../../units/gray_death_scout_suit.md) 
 
-- [**Gray Death Scout Suit (Standard)(Sqd5)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_standardsqd5.md) *Scout (3052)* `Active Probe` 
+- [**Gray Death Scout Suit (Sqd5)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_sqd5.md) *Scout (3052)* `Active Probe` 
 
 ### 1 Tons 
 
 #### [Dragoon Battle Armor](../../../units/dragoon_battle_armor.md) 
 
-- [**Dragoon Battle Armor (Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd5.md) *Ambusher (3072)* 
-- [**Dragoon Battle Armor (Upgrade)(Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_upgradesqd5.md) *Undefined (3072)* 
+- [**Dragoon Battle Armor (Advanced)(Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_advancedsqd5.md) *Undefined (3072)* 
+- [**Dragoon Battle Armor (Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd5.md) *Undefined (3072)* 
 
 #### [Elemental Battle Armor](../../../units/elemental_battle_armor.md) 
 

@@ -1,6 +1,6 @@
 # Viking IIC 
 
-## Viking IIC (Standard) 
+## Viking IIC 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (3095) 
@@ -22,5 +22,5 @@
   - Poor Targeting (Short) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6634) 
 - **Battle Value:** 2780 
-- [*More Info*](viking_iic/viking_iic_standard.md) 
+- [*More Info*](viking_iic/viking_iic.md) 
 

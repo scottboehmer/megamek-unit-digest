@@ -4,8 +4,8 @@
 
 ## Whirlwind Scout Hover Tank 
 
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (3025) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2890) 
 - **Chassis:** 45 tons Hover 
 - **Movement:** 8 / 12, Fusion 
 - **Armor:** 104 
@@ -15,7 +15,7 @@
   - AC/2 × 2 (ammo: 90) 
 - **Equipment:** 
   - Cargo 
-- **Source:** Rec Guide:ilClan #28 - 
+- **Sources:** Rec Guide:ilClan #28 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9362) 
 - **Battle Value:** 667 
 
 ## Availability 

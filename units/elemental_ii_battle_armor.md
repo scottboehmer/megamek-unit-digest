@@ -63,7 +63,7 @@
 - **Battle Value:** 44 (399 for 6 suits) 
 - [*More Info*](elemental_ii_battle_armor/elemental_ii_battle_armor_xsqd6.md) 
 
-## Elemental II Battle Armor (Standard)(Sqd4) 
+## Elemental II Battle Armor (Sqd4) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3084) 
@@ -80,9 +80,9 @@
   - Anti-Personnel Mount 
 - **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4123) 
 - **Battle Value:** 68 (354 for 4 suits) 
-- [*More Info*](elemental_ii_battle_armor/elemental_ii_battle_armor_standardsqd4.md) 
+- [*More Info*](elemental_ii_battle_armor/elemental_ii_battle_armor_sqd4.md) 
 
-## Elemental II Battle Armor (Standard)(Sqd5) 
+## Elemental II Battle Armor (Sqd5) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3084) 
@@ -99,9 +99,9 @@
   - Anti-Personnel Mount 
 - **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8616) 
 - **Battle Value:** 68 (477 for 5 suits) 
-- [*More Info*](elemental_ii_battle_armor/elemental_ii_battle_armor_standardsqd5.md) 
+- [*More Info*](elemental_ii_battle_armor/elemental_ii_battle_armor_sqd5.md) 
 
-## Elemental II Battle Armor (Standard)(Sqd6) 
+## Elemental II Battle Armor (Sqd6) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3084) 
@@ -118,5 +118,5 @@
   - Anti-Personnel Mount 
 - **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8980) 
 - **Battle Value:** 68 (613 for 6 suits) 
-- [*More Info*](elemental_ii_battle_armor/elemental_ii_battle_armor_standardsqd6.md) 
+- [*More Info*](elemental_ii_battle_armor/elemental_ii_battle_armor_sqd6.md) 
 

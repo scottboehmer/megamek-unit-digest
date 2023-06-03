@@ -1,6 +1,6 @@
 # Tufana Hovercraft 
 
-## Tufana Hovercraft (Standard) 
+## Tufana Hovercraft 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3079) 
@@ -15,7 +15,7 @@
   - TAG 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3314) 
 - **Battle Value:** 583 
-- [*More Info*](tufana_hovercraft/tufana_hovercraft_standard.md) 
+- [*More Info*](tufana_hovercraft/tufana_hovercraft.md) 
 
 ## Tufana Hovercraft (iNarc) 
 

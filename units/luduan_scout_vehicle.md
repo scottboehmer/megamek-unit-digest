@@ -1,6 +1,6 @@
 # Luduan Scout Vehicle 
 
-## Luduan Scout Vehicle (Standard) 
+## Luduan Scout Vehicle 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3136) 
@@ -16,5 +16,5 @@
   - TAG 
 - **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6437) 
 - **Battle Value:** 416 
-- [*More Info*](luduan_scout_vehicle/luduan_scout_vehicle_standard.md) 
+- [*More Info*](luduan_scout_vehicle/luduan_scout_vehicle.md) 
 

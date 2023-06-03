@@ -89,7 +89,7 @@
 
 #### [Tarantula](../../../units/tarantula.md) 
 
-- [**Tarantula ZPH-1A**](../../../units/tarantula/tarantula_zph-1a.md) *Scout (3054)* 
+- [**Tarantula ZPH-1**](../../../units/tarantula/tarantula_zph-1.md) *Undefined (3054)* 
 - [**Tarantula ZPH-2A**](../../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 - [**Tarantula ZPH-3A**](../../../units/tarantula/tarantula_zph-3a.md) *Striker (3063)* 
 - [**Tarantula ZPH-4A**](../../../units/tarantula/tarantula_zph-4a.md) *Striker (3066)* `C3 Support` 
@@ -426,7 +426,7 @@
 
 #### [Hunchback IIC](../../../units/hunchback_iic.md) 
 
-- [**Hunchback IIC (Standard)**](../../../units/hunchback_iic/hunchback_iic_standard.md) *Ambusher (2856)* 
+- [**Hunchback IIC**](../../../units/hunchback_iic/hunchback_iic.md) *Ambusher (2856)* 
 
 #### [Nightsky](../../../units/nightsky.md) 
 
@@ -487,7 +487,7 @@
 
 #### [Dervish](../../../units/dervish.md) 
 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 - [**Dervish DV-7D**](../../../units/dervish/dervish_dv-7d.md) *Missile Boat (3047)* 
 
 #### [Griffin](../../../units/griffin.md) 
@@ -619,7 +619,7 @@
 
 #### [Ha Otoko](../../../units/ha_otoko.md) 
 
-- [**Ha Otoko (Standard)**](../../../units/ha_otoko/ha_otoko_standard.md) *Missile Boat (3060)* 
+- [**Ha Otoko**](../../../units/ha_otoko/ha_otoko.md) *Missile Boat (3060)* 
 - [**Ha Otoko HKO-1C**](../../../units/ha_otoko/ha_otoko_hko-1c.md) *Missile Boat (3061)* 
 
 #### [Hellbringer](../../../units/hellbringer.md) 
@@ -974,7 +974,7 @@
 
 #### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 
 
-- [**Mad Cat Mk II (Standard)**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_standard.md) *Brawler (3062)* 
+- [**Mad Cat Mk II**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii.md) *Brawler (3062)* 
 
 #### [Mauler](../../../units/mauler.md) 
 

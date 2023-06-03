@@ -1,6 +1,6 @@
 # Thor Artillery Vehicle 
 
-## Thor Artillery Vehicle (Standard) 
+## Thor Artillery Vehicle 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2680) 
@@ -15,7 +15,7 @@
   - CASE 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3189) 
 - **Battle Value:** 608 
-- [*More Info*](thor_artillery_vehicle/thor_artillery_vehicle_standard.md) 
+- [*More Info*](thor_artillery_vehicle/thor_artillery_vehicle.md) 
 
 ## Thor Artillery Vehicle (AC) 
 

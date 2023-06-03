@@ -64,7 +64,7 @@
 - **Battle Value:** 1020 
 - [*More Info*](fury_command_tank/fury_command_tank_cx-17.md) 
 
-## Fury Command Tank (Standard) 
+## Fury Command Tank 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3064) 
@@ -78,7 +78,7 @@
   - Infantry (1.0 tons) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1161) 
 - **Battle Value:** 1184 
-- [*More Info*](fury_command_tank/fury_command_tank_standard.md) 
+- [*More Info*](fury_command_tank/fury_command_tank.md) 
 
 ## Fury Command Tank (C3S) 
 

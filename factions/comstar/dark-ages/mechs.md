@@ -78,7 +78,7 @@
 
 #### [Dasher II](../../../units/dasher_ii.md) 
 
-- [**Dasher II (Standard)**](../../../units/dasher_ii/dasher_ii_standard.md) *Scout (3077)* 
+- [**Dasher II**](../../../units/dasher_ii/dasher_ii.md) *Scout (3077)* 
 
 #### [Mongoose II](../../../units/mongoose_ii.md) 
 

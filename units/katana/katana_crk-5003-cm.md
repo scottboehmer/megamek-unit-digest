@@ -19,6 +19,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1763) 
 - **Battle Value:** 1554 
 

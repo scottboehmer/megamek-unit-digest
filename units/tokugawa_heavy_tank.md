@@ -32,7 +32,7 @@
 - **Battle Value:** 654 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_tkg-151.md) 
 
-## Tokugawa Heavy Tank (Standard) 
+## Tokugawa Heavy Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3053) 
@@ -46,7 +46,7 @@
   - Medium Pulse Laser × 2 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3263) 
 - **Battle Value:** 912 
-- [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_standard.md) 
+- [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank.md) 
 
 ## Tokugawa Heavy Tank (C3) 
 

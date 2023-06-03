@@ -1,6 +1,6 @@
 # Bardiche Heavy Strike Tank 
 
-## Bardiche Heavy Strike Tank (Standard) 
+## Bardiche Heavy Strike Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3101) 
@@ -17,7 +17,7 @@
   - Mine Dispenser × 2 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6496) 
 - **Battle Value:** 1086 
-- [*More Info*](bardiche_heavy_strike_tank/bardiche_heavy_strike_tank_standard.md) 
+- [*More Info*](bardiche_heavy_strike_tank/bardiche_heavy_strike_tank.md) 
 
 ## Bardiche Heavy Strike Tank (Minesweeper) 
 
@@ -37,4 +37,23 @@
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6497) 
 - **Battle Value:** 988 
 - [*More Info*](bardiche_heavy_strike_tank/bardiche_heavy_strike_tank_minesweeper.md) 
+
+## Bardiche Heavy Strike Tank C 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3143) 
+- **Chassis:** 70 tons Wheeled 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 160 (Reactive) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Clan Streak SRM 6 (ammo: 15) 
+  - Clan 'Mech Mortar/8 × 2 (ammo: 28) 
+  - Clan AP Gauss Rifle × 4 (ammo: 80) 
+- **Equipment:** 
+  - Minesweeper 
+  - Mine Dispenser × 2 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8049) 
+- **Battle Value:** 1072 
+- [*More Info*](bardiche_heavy_strike_tank/bardiche_heavy_strike_tank_c.md) 
 

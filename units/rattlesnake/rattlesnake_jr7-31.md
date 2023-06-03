@@ -4,7 +4,7 @@
 
 ## Rattlesnake JR7-31 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3042) 
 - **Chassis:** 35 tons 
 - **Movement:** 7 / 11, XL 

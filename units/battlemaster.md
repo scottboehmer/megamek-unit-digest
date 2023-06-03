@@ -44,7 +44,7 @@
 
 ## BattleMaster BLR-1GHE 'HellSlinger' 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2750) 
 - **Chassis:** 85 tons 
 - **Movement:** 4 / 6 
@@ -678,6 +678,51 @@
 - **Sources:** Rec Guide:ilClan #3- Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9404) 
 - **Battle Value:** 1960 
 - [*More Info*](battlemaster/battlemaster_blr-6r.md) 
+
+## BattleMaster BLR-6M 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3120) 
+- **Chassis:** 85 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 237 (Light Ferro Fibrous) 
+- **Gyroscope:** XL Gyro 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Heavy PPC 
+  - Thunderbolt 15 (ammo: 12) 
+  - ER Medium Laser × 2 
+  - ER Small Laser × 2 
+- **Equipment:** 
+  - Command Console 
+  - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
+- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7978) 
+- **Battle Value:** 1958 
+- [*More Info*](battlemaster/battlemaster_blr-6m.md) 
+
+## BattleMaster C 2 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere Mixed (3145) 
+- **Chassis:** 85 tons (Endo Steel) 
+- **Movement:** 4 / 6 
+- **Armor:** 232 
+- **Heat Sinks:** 17 (34) 
+- **Weapons:** 
+  - Clan ER PPC × 2 
+  - Clan Large Pulse Laser 
+  - Clan ER Medium Laser × 4 
+- **Equipment:** 
+  - Command Console 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Weak Head Armor (1) 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7979) 
+- **Battle Value:** 2538 
+- [*More Info*](battlemaster/battlemaster_c_2.md) 
 
 ## BattleMaster C 3 
 

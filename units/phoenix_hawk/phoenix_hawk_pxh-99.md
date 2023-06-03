@@ -20,6 +20,7 @@
   - Full Head Ejection System 
   - Modular Armor × 4 
 - **Design Quirks:** 
+  - Command ’Mech 
   - Improved Communications 
   - Jettison-Capable Weapon (Large X-Pulse Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8106) 

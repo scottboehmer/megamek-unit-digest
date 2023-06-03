@@ -20,7 +20,8 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5871) 
+  - Ubiquitous 
+- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5871) 
 - **Battle Value:** 1621 
 
 ## Availability 

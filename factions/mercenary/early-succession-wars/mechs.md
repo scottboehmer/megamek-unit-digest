@@ -163,7 +163,7 @@
 
 #### [Dervish](../../../units/dervish.md) 
 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 
 #### [Gladiator](../../../units/gladiator.md) 
 
@@ -253,7 +253,6 @@
 #### [Viper](../../../units/viper.md) 
 
 - [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
-- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

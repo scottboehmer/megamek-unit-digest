@@ -1,6 +1,6 @@
 # Thunder Stallion 
 
-## Thunder Stallion (Standard) 
+## Thunder Stallion 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2850) 
@@ -17,7 +17,7 @@
   - Cramped Cockpit 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3224) 
 - **Battle Value:** 2306 
-- [*More Info*](thunder_stallion/thunder_stallion_standard.md) 
+- [*More Info*](thunder_stallion/thunder_stallion.md) 
 
 ## Thunder Stallion 2 'Fire Stallion' 
 

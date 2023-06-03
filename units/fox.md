@@ -21,7 +21,7 @@
 - **Battle Value:** 1574 
 - [*More Info*](fox/fox_cs-1.md) 
 
-## Fox (Standard) 
+## Fox 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2835) 
@@ -39,5 +39,5 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7609) 
 - **Battle Value:** 2091 
-- [*More Info*](fox/fox_standard.md) 
+- [*More Info*](fox/fox.md) 
 

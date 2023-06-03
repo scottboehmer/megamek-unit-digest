@@ -16,8 +16,8 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Rugged (×2) 
+  - Ubiquitous 
   - Battlefists 
-  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2898) 
 - **Battle Value:** 851 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-1r.md) 
@@ -88,7 +88,6 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2899) 
 - **Battle Value:** 899 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2d.md) 
@@ -110,7 +109,6 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-  - Exposed Weapon Linkage (PPC) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2903) 
 - **Battle Value:** 1147 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2k.md) 
@@ -129,6 +127,11 @@
   - Clan LB 5-X AC (ammo: 20) 
   - Clan LRM 5 (ammo: 24) 
   - Clan Streak SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2895) 
 - **Battle Value:** 1309 
 - [*More Info*](shadow_hawk/shadow_hawk_c.md) 
@@ -196,6 +199,11 @@
   - Streak SRM 2 × 5 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7737) 
 - **Battle Value:** 1453 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2ht.md) 
@@ -218,6 +226,11 @@
   - Beagle Active Probe 
   - TAG 
   - Cargo 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7786) 
 - **Battle Value:** 1590 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5s.md) 
@@ -400,6 +413,33 @@
 - **Battle Value:** 1591 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-3k.md) 
 
+## Shadow Hawk SHD-11CS2 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3076) 
+- **Chassis:** 55 tons (Endo Steel) 
+- **Movement:** 5 / 8, Light 
+  - **Jumping:** 5 
+- **Armor:** 178 (Light Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+  - LRM 15 w/ Artemis IV (ammo: 16) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Full Head Ejection System 
+  - C3 Support 
+  - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
+- **Sources:** TRO:Jihad - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5036) 
+- **Battle Value:** 1779 
+- [*More Info*](shadow_hawk/shadow_hawk_shd-11cs2.md) 
+
 ## Shadow Hawk SHD-12C 
 
 - **Role:** Sniper 
@@ -468,6 +508,11 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7787) 
 - **Battle Value:** 1296 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5r.md) 
@@ -488,6 +533,11 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7789) 
 - **Battle Value:** 1394 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-7h.md) 
@@ -504,6 +554,11 @@
 - **Weapons:** 
   - Heavy PPC 
   - Light PPC 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7785) 
 - **Battle Value:** 1569 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-4h.md) 
@@ -524,6 +579,11 @@
   - Streak SRM 2 (iOS) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7788) 
 - **Battle Value:** 1371 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-6d.md) 

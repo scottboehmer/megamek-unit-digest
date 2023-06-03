@@ -4,7 +4,7 @@
 
 ## IS Standard Battle Armor (Magnetic)(Sqd6) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3141) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 2 

@@ -85,7 +85,7 @@
 
 #### [Kontio](../../../units/kontio.md) 
 
-- [**Kontio (Standard)**](../../../units/kontio/kontio_standard.md) *Striker (3145)* `ECM` , `Stealth` 
+- [**Kontio**](../../../units/kontio/kontio.md) *Striker (3145)* `ECM` , `Stealth` 
 
 #### [Night Stalker](../../../units/night_stalker.md) 
 
@@ -102,7 +102,7 @@
 
 #### [Watchman](../../../units/watchman.md) 
 
-- [**Watchman WTC-4MB 'Belle'**](../../../units/watchman/watchman_wtc-4mb_belle.md) *Scout (3125)* `Active Probe` , `ECM` , `Remote Drone Command Console` , `Unique` 
+- [**Watchman WTC-4MB 'Belle'**](../../../units/watchman/watchman_wtc-4mb_belle.md) *Scout (3144)* `Active Probe` , `ECM` , `Remote Drone Command Console` , `Unique` 
 
 ### 45 Tons 
 
@@ -143,7 +143,7 @@
 
 #### [Tessen](../../../units/tessen.md) 
 
-- [**Tessen TSN-X4R 'Rapunzel'**](../../../units/tessen/tessen_tsn-x4r_rapunzel.md) *Undefined (3137)* `ECM` , `Unique` 
+- [**Tessen TSN-X4R 'Rapunzel'**](../../../units/tessen/tessen_tsn-x4r_rapunzel.md) *Striker (3137)* `ECM` , `Unique` 
 
 #### [Trebuchet](../../../units/trebuchet.md) 
 
@@ -166,7 +166,7 @@
 
 #### [Wraith](../../../units/wraith.md) 
 
-- [**Wraith TR2-P 'Pocahontas'**](../../../units/wraith/wraith_tr2-p_pocahontas.md) *Striker (3130)* `Unique` 
+- [**Wraith TR2-P 'Pocahontas'**](../../../units/wraith/wraith_tr2-p_pocahontas.md) *Skirmisher (3130)* `Unique` 
 
 ### 60 Tons 
 

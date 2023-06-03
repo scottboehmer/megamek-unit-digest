@@ -1,8 +1,8 @@
 # Jagdpanzer II 
 
-## Jagdpanzer II (Standard) 
+## Jagdpanzer II 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 40 tons Wheeled 
 - **Movement:** 5 / 8, XL 
@@ -15,5 +15,5 @@
   - Guardian ECM Suite 
 - **Sources:** XTRO Boondocks - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1664) 
 - **Battle Value:** 957 
-- [*More Info*](jagdpanzer_ii/jagdpanzer_ii_standard.md) 
+- [*More Info*](jagdpanzer_ii/jagdpanzer_ii.md) 
 

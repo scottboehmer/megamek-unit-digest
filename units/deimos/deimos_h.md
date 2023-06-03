@@ -4,7 +4,7 @@
 
 ## Deimos H 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Clan (3085) 
 - **Chassis:** 85 tons (Endo Steel) 
 - **Movement:** 3 / 5 (6), XL 
@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Source:** Jihad 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9505) 
 - **Battle Value:** 3344 
 
 ## Availability 

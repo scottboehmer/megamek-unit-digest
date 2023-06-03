@@ -4,7 +4,7 @@
 
 ## Callisto Battle Armor B (SRM)(Sqd5) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Clan (3147) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 
@@ -12,10 +12,10 @@
 - **Manipulators:** 
   - Battle Claw (left) 
 - **Weapons:** 
-  - Squad Support SRM 4 (ammo: 4) 
+  - Squad Support SRM 4 (ammo: 1) 
   - ER Small Laser 
 - **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9450) 
-- **Battle Value:** 101 (536 for 5 suits) 
+- **Battle Value:** 100 (532 for 5 suits) 
 
 ## Availability 
 

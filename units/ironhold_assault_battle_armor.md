@@ -1,6 +1,6 @@
 # Ironhold Assault Battle Armor 
 
-## Ironhold Assault Battle Armor (Standard)(Sqd4) 
+## Ironhold Assault Battle Armor (Sqd4) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3077) 
@@ -15,9 +15,9 @@
   - AP Gauss Rifle × 2 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1623) 
 - **Battle Value:** 76 (398 for 4 suits) 
-- [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_standardsqd4.md) 
+- [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_sqd4.md) 
 
-## Ironhold Assault Battle Armor (Standard)(Sqd5) 
+## Ironhold Assault Battle Armor (Sqd5) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3077) 
@@ -32,9 +32,9 @@
   - AP Gauss Rifle × 2 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8539) 
 - **Battle Value:** 76 (536 for 5 suits) 
-- [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_standardsqd5.md) 
+- [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_sqd5.md) 
 
-## Ironhold Assault Battle Armor (Standard)(Sqd6) 
+## Ironhold Assault Battle Armor (Sqd6) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3077) 
@@ -49,7 +49,7 @@
   - AP Gauss Rifle × 2 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8903) 
 - **Battle Value:** 76 (688 for 6 suits) 
-- [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_standardsqd6.md) 
+- [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_sqd6.md) 
 
 ## Ironhold Assault Battle Armor (Fire)(Sqd4) 
 

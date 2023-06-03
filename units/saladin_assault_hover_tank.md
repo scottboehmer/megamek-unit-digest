@@ -1,6 +1,6 @@
 # Saladin Assault Hover Tank 
 
-## Saladin Assault Hover Tank (Standard) 
+## Saladin Assault Hover Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (2942) 
@@ -12,7 +12,7 @@
   - AC/20 (ammo: 15) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2780) 
 - **Battle Value:** 596 
-- [*More Info*](saladin_assault_hover_tank/saladin_assault_hover_tank_standard.md) 
+- [*More Info*](saladin_assault_hover_tank/saladin_assault_hover_tank.md) 
 
 ## Saladin Assault Hover Tank (Armor) 
 

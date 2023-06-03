@@ -51,7 +51,7 @@
 - **Battle Value:** 32 (290 for 6 suits) 
 - [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_hunter-killersqd6.md) 
 
-## Buraq Fast Battle Armor (Standard)(Sqd4) 
+## Buraq Fast Battle Armor (Sqd4) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3104) 
@@ -65,9 +65,9 @@
   - Myomer Booster 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6233) 
 - **Battle Value:** 38 (199 for 4 suits) 
-- [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_standardsqd4.md) 
+- [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_sqd4.md) 
 
-## Buraq Fast Battle Armor (Standard)(Sqd5) 
+## Buraq Fast Battle Armor (Sqd5) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3104) 
@@ -81,9 +81,9 @@
   - Myomer Booster 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8722) 
 - **Battle Value:** 38 (268 for 5 suits) 
-- [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_standardsqd5.md) 
+- [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_sqd5.md) 
 
-## Buraq Fast Battle Armor (Standard)(Sqd6) 
+## Buraq Fast Battle Armor (Sqd6) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3104) 
@@ -97,7 +97,7 @@
   - Myomer Booster 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9085) 
 - **Battle Value:** 38 (345 for 6 suits) 
-- [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_standardsqd6.md) 
+- [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_sqd6.md) 
 
 ## Buraq Fast Battle Armor (Support)(Sqd4) 
 

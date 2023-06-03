@@ -1,6 +1,6 @@
 # Aithon Assault Transport 
 
-## Aithon Assault Transport (Standard) 
+## Aithon Assault Transport 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (3084) 
@@ -17,5 +17,5 @@
   - Infantry (10.0 tons) 
 - **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/3685) 
 - **Battle Value:** 1500 
-- [*More Info*](aithon_assault_transport/aithon_assault_transport_standard.md) 
+- [*More Info*](aithon_assault_transport/aithon_assault_transport.md) 
 

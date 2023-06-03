@@ -1,6 +1,6 @@
 # Ares Medium Tank 
 
-## Ares Medium Tank (Standard) 
+## Ares Medium Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2842) 
@@ -16,7 +16,7 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/109) 
 - **Battle Value:** 1151 
-- [*More Info*](ares_medium_tank/ares_medium_tank_standard.md) 
+- [*More Info*](ares_medium_tank/ares_medium_tank.md) 
 
 ## Ares Medium Tank (Plasma) 
 

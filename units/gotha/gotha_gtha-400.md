@@ -4,7 +4,7 @@
 
 ## Gotha GTHA-400 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3019) 
 - **Chassis:** 60 tons 
 - **Thrust:** 5 / 8 

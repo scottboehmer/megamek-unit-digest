@@ -22,6 +22,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2867) 
 - **Battle Value:** 1143 
 

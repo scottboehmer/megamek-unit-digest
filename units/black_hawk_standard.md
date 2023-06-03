@@ -20,7 +20,7 @@
 
 ## Black Hawk (Standard) 2 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Clan (3092) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
@@ -38,7 +38,7 @@
 
 ## Black Hawk (Standard) 3 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Clan (3092) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 

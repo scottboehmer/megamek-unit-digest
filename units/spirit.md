@@ -1,6 +1,6 @@
 # Spirit 
 
-## Spirit (Standard) 
+## Spirit 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3063) 
@@ -21,7 +21,7 @@
   - Jettison-Capable Weapon (Streak SRM 4) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5108) 
 - **Battle Value:** 1673 
-- [*More Info*](spirit/spirit_standard.md) 
+- [*More Info*](spirit/spirit.md) 
 
 ## Spirit 2 
 
@@ -37,6 +37,8 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Unknown Component) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5665) 
 - **Battle Value:** 1773 
 - [*More Info*](spirit/spirit_2.md) 

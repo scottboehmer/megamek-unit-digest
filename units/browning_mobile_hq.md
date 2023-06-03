@@ -2,7 +2,7 @@
 
 ## Browning Mobile HQ 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (2625) 
 - **Chassis:** 25 tons Wheeled 
 - **Movement:** 7 / 11, Fusion 
@@ -19,7 +19,7 @@
 
 ## Browning Mobile HQ (Half Track) 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (2635) 
 - **Chassis:** 25 tons Tracked 
 - **Movement:** 6 / 9, Fusion 

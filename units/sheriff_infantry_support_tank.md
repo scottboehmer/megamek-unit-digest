@@ -1,6 +1,6 @@
 # Sheriff Infantry Support Tank 
 
-## Sheriff Infantry Support Tank (Standard) 
+## Sheriff Infantry Support Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3098) 
@@ -15,5 +15,5 @@
   - CASE 
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6443) 
 - **Battle Value:** 810 
-- [*More Info*](sheriff_infantry_support_tank/sheriff_infantry_support_tank_standard.md) 
+- [*More Info*](sheriff_infantry_support_tank/sheriff_infantry_support_tank.md) 
 

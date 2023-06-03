@@ -1,6 +1,6 @@
 # Corvis 
 
-## Corvis (Standard) 
+## Corvis 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (2845) 
@@ -20,7 +20,7 @@
   - Modular Weapon (Medium Pulse Laser) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/700) 
 - **Battle Value:** 1336 
-- [*More Info*](corvis/corvis_standard.md) 
+- [*More Info*](corvis/corvis.md) 
 
 ## Corvis 2 
 
@@ -38,6 +38,9 @@
   - CASE 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
   - Modular Weapon (HAG 20) 
   - Modular Weapon (Heavy Medium Laser) 
   - Modular Weapon (Heavy Medium Laser) 

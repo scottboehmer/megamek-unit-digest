@@ -1,6 +1,6 @@
 # Sleipnir APC Tank 
 
-## Sleipnir APC Tank (Standard) 
+## Sleipnir APC Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3002) 
@@ -15,7 +15,7 @@
   - Infantry (4.0 tons) 
 - **Sources:** House Arano , [Master Unit List](http://masterunitlist.info/Unit/Details/7613) 
 - **Battle Value:** 505 
-- [*More Info*](sleipnir_apc_tank/sleipnir_apc_tank_standard.md) 
+- [*More Info*](sleipnir_apc_tank/sleipnir_apc_tank.md) 
 
 ## Sleipnir APC Tank (SRM) 
 

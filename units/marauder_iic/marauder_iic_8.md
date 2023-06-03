@@ -20,7 +20,6 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2072) 
 - **Battle Value:** 2554 

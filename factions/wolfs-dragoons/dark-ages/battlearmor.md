@@ -19,7 +19,7 @@
 
 #### [Hantu](../../../units/hantu.md) 
 
-- [**Hantu AIX-210(Sqd5)**](../../../units/hantu/hantu_aix-210sqd5.md) *Undefined (3124)* `Stealth` 
+- [**Hantu AIX-210(Sqd5)**](../../../units/hantu/hantu_aix-210sqd5.md) *Ambusher (3124)* `Stealth` 
 
 #### [Salrilla Exoskeleton](../../../units/salrilla_exoskeleton.md) 
 
@@ -44,8 +44,8 @@
 
 #### [Dragoon Battle Armor](../../../units/dragoon_battle_armor.md) 
 
-- [**Dragoon Battle Armor (Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd5.md) *Ambusher (3072)* 
-- [**Dragoon Battle Armor (Upgrade)(Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_upgradesqd5.md) *Undefined (3072)* 
+- [**Dragoon Battle Armor (Advanced)(Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_advancedsqd5.md) *Undefined (3072)* 
+- [**Dragoon Battle Armor (Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd5.md) *Undefined (3072)* 
 
 #### [Elemental Battle Armor](../../../units/elemental_battle_armor.md) 
 
@@ -72,7 +72,7 @@
 - [**IS Standard Battle Armor (MG)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd5.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (SRM)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd5.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (LRR)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd5.md) *Ambusher (3061)* 
-- [**IS Standard Battle Armor (Magnetic)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd5.md) *Undefined (3141)* 
+- [**IS Standard Battle Armor (Magnetic)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd5.md) *Ambusher (3141)* 
 
 #### [Rottweiler Battle Armor](../../../units/rottweiler_battle_armor.md) 
 
@@ -81,15 +81,15 @@
 #### [Wraith Battle Armor](../../../units/wraith_battle_armor.md) 
 
 - [**Wraith Battle Armor (Anti-Infantry)(Sqd5)**](../../../units/wraith_battle_armor/wraith_battle_armor_anti-infantrysqd5.md) *Ambusher (3116)* `Active Probe` 
-- [**Wraith Battle Armor (Standard)(Sqd5)**](../../../units/wraith_battle_armor/wraith_battle_armor_standardsqd5.md) *Ambusher (3116)* `Stealth` 
+- [**Wraith Battle Armor (Sqd5)**](../../../units/wraith_battle_armor/wraith_battle_armor_sqd5.md) *Ambusher (3116)* `Stealth` 
 
 ### 1.50 Tons 
 
 #### [Cuchulainn Support Armor](../../../units/cuchulainn_support_armor.md) 
 
-- [**Cuchulainn Support Armor (Standard) (Sqd5)**](../../../units/cuchulainn_support_armor/cuchulainn_support_armor_standard_sqd5.md) *Juggernaut (3134)* `Stealth` 
+- [**Cuchulainn Support Armor (Sqd5)**](../../../units/cuchulainn_support_armor/cuchulainn_support_armor_sqd5.md) *Juggernaut (3134)* `Stealth` 
 
 #### [Gray Death Heavy Suit](../../../units/gray_death_heavy_suit.md) 
 
-- [**Gray Death Heavy Suit (Standard)(Sqd5)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_standardsqd5.md) *Scout (3083)* `Active Probe` 
+- [**Gray Death Heavy Suit (Sqd5)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_sqd5.md) *Scout (3083)* `Active Probe` 
 

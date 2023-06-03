@@ -10,7 +10,7 @@
 
 #### [HeavyHauler Exoskeleton](../../../units/heavyhauler_exoskeleton.md) 
 
-- [**HeavyHauler Exoskeleton (Standard)(Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_standardsqd4.md) *Undefined (3052)* 
+- [**HeavyHauler Exoskeleton (Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_sqd4.md) *Undefined (3052)* 
 
 #### [Salrilla Exoskeleton](../../../units/salrilla_exoskeleton.md) 
 
@@ -26,7 +26,7 @@
 
 #### [Gray Death Scout Suit](../../../units/gray_death_scout_suit.md) 
 
-- [**Gray Death Scout Suit (Standard)(Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_standardsqd4.md) *Scout (3052)* `Active Probe` 
+- [**Gray Death Scout Suit (Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_sqd4.md) *Scout (3052)* `Active Probe` 
 
 #### [Infiltrator Mk. I Battle Armor](../../../units/infiltrator_mk._i_battle_armor.md) 
 
@@ -59,7 +59,7 @@
 
 #### [Sloth Battle Armor](../../../units/sloth_battle_armor.md) 
 
-- [**Sloth Battle Armor (Standard)(Sqd4)**](../../../units/sloth_battle_armor/sloth_battle_armor_standardsqd4.md) *Ambusher (3050)* 
+- [**Sloth Battle Armor (Sqd4)**](../../../units/sloth_battle_armor/sloth_battle_armor_sqd4.md) *Ambusher (3050)* 
 
 ### 2 Tons 
 

@@ -12,7 +12,7 @@
 
 #### [Kobold Battle Armor](../../../units/kobold_battle_armor.md) 
 
-- [**Kobold Battle Armor X-C3(Sqd6)**](../../../units/kobold_battle_armor/kobold_battle_armor_x-c3sqd6.md) *Undefined (3076)* `C3i` , `Stealth` 
+- [**Kobold Battle Armor X-C3(Sqd6)**](../../../units/kobold_battle_armor/kobold_battle_armor_x-c3sqd6.md) *Ambusher (3076)* `C3i` , `Stealth` 
 
 #### [Kobold Battle Armor IIC](../../../units/kobold_battle_armor_iic.md) 
 
@@ -42,5 +42,5 @@
 
 #### [Gray Death Heavy Suit](../../../units/gray_death_heavy_suit.md) 
 
-- [**Gray Death Heavy Suit (Standard)(Sqd6)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_standardsqd6.md) *Scout (3083)* `Active Probe` 
+- [**Gray Death Heavy Suit (Sqd6)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_sqd6.md) *Scout (3083)* `Active Probe` 
 

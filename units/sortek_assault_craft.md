@@ -1,6 +1,6 @@
 # Sortek Assault Craft 
 
-## Sortek Assault Craft (Standard) 
+## Sortek Assault Craft 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3098) 
@@ -14,7 +14,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6318) 
 - **Battle Value:** 937 
-- [*More Info*](sortek_assault_craft/sortek_assault_craft_standard.md) 
+- [*More Info*](sortek_assault_craft/sortek_assault_craft.md) 
 
 ## Sortek Assault Craft (Interdictor) 
 

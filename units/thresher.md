@@ -1,6 +1,6 @@
 # Thresher 
 
-## Thresher (Standard) 
+## Thresher 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (2849) 
@@ -21,7 +21,7 @@
   - Improved Targeting (Medium) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3198) 
 - **Battle Value:** 2314 
-- [*More Info*](thresher/thresher_standard.md) 
+- [*More Info*](thresher/thresher.md) 
 
 ## Thresher 2 
 

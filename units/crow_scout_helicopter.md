@@ -1,6 +1,6 @@
 # Crow Scout Helicopter 
 
-## Crow Scout Helicopter (Standard) 
+## Crow Scout Helicopter 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3068) 
@@ -16,7 +16,7 @@
   - TAG 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/747) 
 - **Battle Value:** 288 
-- [*More Info*](crow_scout_helicopter/crow_scout_helicopter_standard.md) 
+- [*More Info*](crow_scout_helicopter/crow_scout_helicopter.md) 
 
 ## Crow Scout Helicopter (Export) 
 
@@ -36,7 +36,7 @@
 
 ## Crow Scout Helicopter 'Dragonfly' 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3070) 
 - **Chassis:** 15 tons VTOL 
 - **Movement:** 13 / 20, Fusion 

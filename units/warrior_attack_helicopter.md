@@ -109,8 +109,8 @@
 
 ## Warrior Attack Helicopter H-7F 
 
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (3100) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3143) 
 - **Chassis:** 21 tons VTOL 
 - **Movement:** 10 / 15, Fuel Cell 
 - **Armor:** 35 (Ferro Fibrous) 
@@ -120,7 +120,7 @@
   - SRM 2 (iOS) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Rec Guide:ilClan #28 - , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
+- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
 - **Battle Value:** 294 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-7f.md) 
 

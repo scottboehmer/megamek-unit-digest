@@ -30,7 +30,7 @@
 
 #### [Lucifer](../../../units/lucifer.md) 
 
-- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Undefined (2526)* 
 
 ### 80 Tons 
 
@@ -42,5 +42,5 @@
 
 #### [Typhoon](../../../units/typhoon.md) 
 
-- [**Typhoon TFN-2A**](../../../units/typhoon/typhoon_tfn-2a.md) *Attack Fighter (2461)* 
+- [**Typhoon TFN-2A**](../../../units/typhoon/typhoon_tfn-2a.md) *Undefined (2461)* 
 

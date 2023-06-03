@@ -1,6 +1,6 @@
 # Demon Medium Tank 
 
-## Demon Medium Tank (Standard) 
+## Demon Medium Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3077) 
@@ -14,7 +14,7 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/871) 
 - **Battle Value:** 454 
-- [*More Info*](demon_medium_tank/demon_medium_tank_standard.md) 
+- [*More Info*](demon_medium_tank/demon_medium_tank.md) 
 
 ## Demon Medium Tank (Rifle) 
 

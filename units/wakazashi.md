@@ -1,6 +1,6 @@
 # Wakazashi 
 
-## Wakazashi (Standard) 
+## Wakazashi 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (2830) 
@@ -20,5 +20,5 @@
   - Difficult to Maintain 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3475) 
 - **Battle Value:** 2909 
-- [*More Info*](wakazashi/wakazashi_standard.md) 
+- [*More Info*](wakazashi/wakazashi.md) 
 

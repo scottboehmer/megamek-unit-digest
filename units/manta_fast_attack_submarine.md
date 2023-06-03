@@ -1,6 +1,6 @@
 # Manta Fast Attack Submarine 
 
-## Manta Fast Attack Submarine (Standard) 
+## Manta Fast Attack Submarine 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2698) 
@@ -13,7 +13,7 @@
   - SRT 6 (ammo: 15) 
 - **Sources:** TRO3085S - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4581) 
 - **Battle Value:** 810 
-- [*More Info*](manta_fast_attack_submarine/manta_fast_attack_submarine_standard.md) 
+- [*More Info*](manta_fast_attack_submarine/manta_fast_attack_submarine.md) 
 
 ## Manta Fast Attack Submarine (Support) 
 

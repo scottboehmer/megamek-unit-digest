@@ -1,6 +1,6 @@
 # Shoden Assault Vehicle 
 
-## Shoden Assault Vehicle (Standard) 
+## Shoden Assault Vehicle 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3064) 
@@ -15,7 +15,7 @@
   - CASE 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5056) 
 - **Battle Value:** 1412 
-- [*More Info*](shoden_assault_vehicle/shoden_assault_vehicle_standard.md) 
+- [*More Info*](shoden_assault_vehicle/shoden_assault_vehicle.md) 
 
 ## Shoden Assault Vehicle (Streak) 
 

@@ -40,7 +40,7 @@
 
 #### [Rogue](../../../units/rogue.md) 
 
-- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Undefined (2631)* 
 - [**Rogue RGU-133F**](../../../units/rogue/rogue_rgu-133f.md) *Fast Dogfighter (2639)* 
 - [**Rogue RGU-133L**](../../../units/rogue/rogue_rgu-133l.md) *Fast Dogfighter (2681)* 
 
@@ -66,7 +66,7 @@
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Undefined (2657)* 
 
 #### [Stingray](../../../units/stingray.md) 
 
@@ -100,16 +100,16 @@
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
-- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
+- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Undefined (2703)* 
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Undefined (2735)* 
 
 ### 100 Tons 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
 

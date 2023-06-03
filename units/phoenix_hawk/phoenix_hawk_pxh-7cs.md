@@ -19,9 +19,10 @@
   - Full Head Ejection System 
   - C3i 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2507) 
 - **Battle Value:** 1281 
 

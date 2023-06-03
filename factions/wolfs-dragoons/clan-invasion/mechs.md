@@ -77,7 +77,7 @@
 
 #### [Tarantula](../../../units/tarantula.md) 
 
-- [**Tarantula ZPH-1A**](../../../units/tarantula/tarantula_zph-1a.md) *Scout (3054)* 
+- [**Tarantula ZPH-1**](../../../units/tarantula/tarantula_zph-1.md) *Undefined (3054)* 
 - [**Tarantula ZPH-2A**](../../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 
 ### 30 Tons 
@@ -416,7 +416,7 @@
 
 #### [Dervish](../../../units/dervish.md) 
 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 - [**Dervish DV-7D**](../../../units/dervish/dervish_dv-7d.md) *Missile Boat (3047)* 
 
 #### [Griffin](../../../units/griffin.md) 
@@ -659,7 +659,7 @@
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
-- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
+- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Brawler (2862)* `ECM` 
 - [**Warhammer WHM-7M**](../../../units/warhammer/warhammer_whm-7m.md) *Brawler (3047)* 
 - [**Warhammer C 2**](../../../units/warhammer/warhammer_c_2.md) *Brawler (3052)* 
 
@@ -797,7 +797,7 @@
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
 
-- [**Marauder IIC (Standard)**](../../../units/marauder_iic/marauder_iic_standard.md) *Brawler (2828)* 
+- [**Marauder IIC**](../../../units/marauder_iic/marauder_iic.md) *Brawler (2828)* 
 
 #### [Shogun](../../../units/shogun.md) 
 
@@ -844,7 +844,7 @@
 
 #### [Highlander IIC](../../../units/highlander_iic.md) 
 
-- [**Highlander IIC (Standard)**](../../../units/highlander_iic/highlander_iic_standard.md) *Missile Boat (2858)* 
+- [**Highlander IIC**](../../../units/highlander_iic/highlander_iic.md) *Missile Boat (2858)* 
 
 #### [Sunder](../../../units/sunder.md) 
 

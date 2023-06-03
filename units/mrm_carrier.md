@@ -1,6 +1,6 @@
 # MRM Carrier 
 
-## MRM Carrier (Standard) 
+## MRM Carrier 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3063) 
@@ -14,5 +14,5 @@
   - C3 Support 
 - **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2243) 
 - **Battle Value:** 779 
-- [*More Info*](mrm_carrier/mrm_carrier_standard.md) 
+- [*More Info*](mrm_carrier/mrm_carrier.md) 
 

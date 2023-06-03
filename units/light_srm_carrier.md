@@ -1,6 +1,6 @@
 # Light SRM Carrier 
 
-## Light SRM Carrier (Standard) 
+## Light SRM Carrier 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3058) 
@@ -12,5 +12,5 @@
   - SRM 6 × 5 (ammo: 45) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1869) 
 - **Battle Value:** 578 
-- [*More Info*](light_srm_carrier/light_srm_carrier_standard.md) 
+- [*More Info*](light_srm_carrier/light_srm_carrier.md) 
 

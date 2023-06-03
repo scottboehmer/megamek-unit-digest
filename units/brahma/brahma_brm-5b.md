@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/427) 
+- **Sources:** RS3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/427) 
 - **Battle Value:** 1730 
 
 ## Availability 

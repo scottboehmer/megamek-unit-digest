@@ -48,7 +48,7 @@
 
 #### [Rattlesnake](../../../units/rattlesnake.md) 
 
-- [**Rattlesnake JR7-31R (Gideon)**](../../../units/rattlesnake/rattlesnake_jr7-31r_gideon.md) *Undefined (3084)* `ECM` , `Unique` 
+- [**Rattlesnake JR7-31R (Gideon)**](../../../units/rattlesnake/rattlesnake_jr7-31r_gideon.md) *Striker (3084)* `ECM` , `Unique` 
 
 ### 40 Tons 
 

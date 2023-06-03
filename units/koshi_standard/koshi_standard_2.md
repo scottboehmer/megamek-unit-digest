@@ -4,7 +4,7 @@
 
 ## Koshi (Standard) 2 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Clan (3095) 
 - **Chassis:** 25 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 

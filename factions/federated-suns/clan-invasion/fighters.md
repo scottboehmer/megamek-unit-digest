@@ -90,15 +90,15 @@
 
 #### [Lucifer](../../../units/lucifer.md) 
 
-- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
-- [**Lucifer LCF-R20**](../../../units/lucifer/lucifer_lcf-r20.md) *Attack Fighter (2609)* 
-- [**Lucifer LCF-R16**](../../../units/lucifer/lucifer_lcf-r16.md) *Attack Fighter (3052)* 
+- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Undefined (2526)* 
+- [**Lucifer LCF-R20**](../../../units/lucifer/lucifer_lcf-r20.md) *Undefined (2609)* 
+- [**Lucifer LCF-R16**](../../../units/lucifer/lucifer_lcf-r16.md) *Undefined (3052)* 
 
 ### 75 Tons 
 
 #### [Eagle Aerospace Fighter](../../../units/eagle_aerospace_fighter.md) 
 
-- [**Eagle EGL-R4**](../../../units/eagle_aerospace_fighter/eagle_egl-r4.md) *Attack Fighter (2492)* 
+- [**Eagle EGL-R4**](../../../units/eagle_aerospace_fighter/eagle_egl-r4.md) *Undefined (2492)* 
 - [**Eagle EGL-R6**](../../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
 - [**Eagle EGL-R9**](../../../units/eagle_aerospace_fighter/eagle_egl-r9.md) *Dogfighter (2601)* 
 - [**Eagle EGL-R10**](../../../units/eagle_aerospace_fighter/eagle_egl-r10.md) *Dogfighter (2684)* 
@@ -113,23 +113,23 @@
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
-- [**Chippewa CHP-W10**](../../../units/chippewa/chippewa_chp-w10.md) *Attack Fighter (2953)* 
+- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Undefined (2735)* 
+- [**Chippewa CHP-W10**](../../../units/chippewa/chippewa_chp-w10.md) *Undefined (2953)* 
 
 ### 100 Tons 
 
 #### [Riever](../../../units/riever.md) 
 
-- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
+- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Undefined (3050)* 
 
 #### [Stuka](../../../units/stuka.md) 
 
-- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
-- [**Stuka STU-K10**](../../../units/stuka/stuka_stu-k10.md) *Attack Fighter (2711)* 
-- [**Stuka STU-K15**](../../../units/stuka/stuka_stu-k15.md) *Attack Fighter (2965)* 
-- [**Stuka STU-D6**](../../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
+- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Undefined (2571)* 
+- [**Stuka STU-K10**](../../../units/stuka/stuka_stu-k10.md) *Undefined (2711)* 
+- [**Stuka STU-K15**](../../../units/stuka/stuka_stu-k15.md) *Undefined (2965)* 
+- [**Stuka STU-D6**](../../../units/stuka/stuka_stu-d6.md) *Undefined (3051)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
 

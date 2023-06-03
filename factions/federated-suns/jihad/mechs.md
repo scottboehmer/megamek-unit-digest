@@ -91,7 +91,7 @@
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
-- [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 
 #### [Mist Lynx](../../../units/mist_lynx.md) 
 
@@ -129,7 +129,7 @@
 
 #### [Tarantula](../../../units/tarantula.md) 
 
-- [**Tarantula ZPH-1A**](../../../units/tarantula/tarantula_zph-1a.md) *Scout (3054)* 
+- [**Tarantula ZPH-1**](../../../units/tarantula/tarantula_zph-1.md) *Undefined (3054)* 
 - [**Tarantula ZPH-2A**](../../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 - [**Tarantula ZPH-3A**](../../../units/tarantula/tarantula_zph-3a.md) *Striker (3063)* 
 - [**Tarantula ZPH-4A**](../../../units/tarantula/tarantula_zph-4a.md) *Striker (3066)* `C3 Support` 
@@ -319,8 +319,8 @@
 
 #### [Rattlesnake](../../../units/rattlesnake.md) 
 
-- [**Rattlesnake JR7-31**](../../../units/rattlesnake/rattlesnake_jr7-31.md) *Undefined (3042)* `ECM` 
-- [**Rattlesnake JR7-31P**](../../../units/rattlesnake/rattlesnake_jr7-31p.md) *Undefined (3043)* `C3 Support` 
+- [**Rattlesnake JR7-31**](../../../units/rattlesnake/rattlesnake_jr7-31.md) *Striker (3042)* `ECM` 
+- [**Rattlesnake JR7-31P**](../../../units/rattlesnake/rattlesnake_jr7-31p.md) *Striker (3043)* `C3 Support` 
 
 #### [Raven](../../../units/raven.md) 
 
@@ -380,7 +380,7 @@
 
 #### [Dasher II](../../../units/dasher_ii.md) 
 
-- [**Dasher II (Standard)**](../../../units/dasher_ii/dasher_ii_standard.md) *Scout (3077)* 
+- [**Dasher II**](../../../units/dasher_ii/dasher_ii.md) *Scout (3077)* 
 
 #### [Hermes II](../../../units/hermes_ii.md) 
 
@@ -593,7 +593,7 @@
 
 #### [Hunchback IIC](../../../units/hunchback_iic.md) 
 
-- [**Hunchback IIC (Standard)**](../../../units/hunchback_iic/hunchback_iic_standard.md) *Ambusher (2856)* 
+- [**Hunchback IIC**](../../../units/hunchback_iic/hunchback_iic.md) *Ambusher (2856)* 
 
 #### [Jabberwocky](../../../units/jabberwocky.md) 
 
@@ -674,7 +674,7 @@
 #### [Dervish](../../../units/dervish.md) 
 
 - [**Dervish DV-1S**](../../../units/dervish/dervish_dv-1s.md) *Missile Boat (2520)* 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 - [**Dervish DV-7D**](../../../units/dervish/dervish_dv-7d.md) *Missile Boat (3047)* 
 - [**Dervish DV-8D**](../../../units/dervish/dervish_dv-8d.md) *Missile Boat (3062)* 
 - [**Dervish DV-9D**](../../../units/dervish/dervish_dv-9d.md) *Missile Boat (3068)* 
@@ -1285,7 +1285,7 @@
 
 #### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 
 
-- [**Mad Cat Mk II (Standard)**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_standard.md) *Brawler (3062)* 
+- [**Mad Cat Mk II**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii.md) *Brawler (3062)* 
 - [**Mad Cat Mk II 2**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_2.md) *Brawler (3069)* 
 
 #### [Mauler](../../../units/mauler.md) 

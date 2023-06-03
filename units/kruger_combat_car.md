@@ -14,7 +14,7 @@
 - **Battle Value:** 336 
 - [*More Info*](kruger_combat_car/kruger_combat_car_original.md) 
 
-## Kruger Combat Car (Standard) 
+## Kruger Combat Car 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3091) 
@@ -26,5 +26,5 @@
   - ER Medium Laser × 2 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6311) 
 - **Battle Value:** 429 
-- [*More Info*](kruger_combat_car/kruger_combat_car_standard.md) 
+- [*More Info*](kruger_combat_car/kruger_combat_car.md) 
 

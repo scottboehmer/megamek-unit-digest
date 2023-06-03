@@ -15,8 +15,8 @@
 - **Weapons:** 
   - Clan Medium Recoilless Rifle 
 - **Equipment:** 
-  - Anti-Personnel Mount 
   - Clan Jump Booster 
+  - Anti-Personnel Mount 
 - **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8018) 
 - **Battle Value:** 69 (357 for 4 suits) 
 

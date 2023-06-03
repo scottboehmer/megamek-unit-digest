@@ -4,7 +4,7 @@
 
 ## Yun Y-2 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3107) 
 - **Chassis:** 40 tons 
 - **Thrust:** 5 / 8 

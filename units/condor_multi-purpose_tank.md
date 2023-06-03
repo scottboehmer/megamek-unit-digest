@@ -1,6 +1,6 @@
 # Condor Multi-Purpose Tank 
 
-## Condor Multi-Purpose Tank (Standard) 
+## Condor Multi-Purpose Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3083) 
@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** XTRO Republic I - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7304) 
 - **Battle Value:** 811 
-- [*More Info*](condor_multi-purpose_tank/condor_multi-purpose_tank_standard.md) 
+- [*More Info*](condor_multi-purpose_tank/condor_multi-purpose_tank.md) 
 
 ## Condor Multi-Purpose Tank (Reactive) 
 

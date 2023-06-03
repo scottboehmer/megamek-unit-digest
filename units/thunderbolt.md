@@ -17,10 +17,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Multi-Trac 
-  - Rugged (×3) 
   - Difficult to Maintain 
   - Poor Workmanship 
-  - Ubiquitous (Inner Sphere) 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5237) 
 - **Battle Value:** 1237 
 - [*More Info*](thunderbolt/thunderbolt_tdr-1c.md) 
@@ -49,7 +47,7 @@
 
 ## Thunderbolt TDR-5Sb2 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2680) 
 - **Chassis:** 65 tons (Endo Steel) 
 - **Movement:** 4 / 6 
@@ -67,6 +65,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6766) 
 - **Battle Value:** 1561 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5sb2.md) 
 
@@ -201,27 +200,6 @@
 - **Battle Value:** 1374 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5ls.md) 
 
-## Thunderbolt TDR-5SE 
-
-- **Role:** Skirmisher 
-- **Tech Base:** Inner Sphere (2910) 
-- **Chassis:** 65 tons 
-- **Movement:** 4 / 6 
-  - **Jumping:** 4 
-- **Armor:** 208 
-- **Heat Sinks:** 17 (17) 
-- **Weapons:** 
-  - Large Laser 
-  - LRM 10 (ammo: 24) 
-  - Medium Laser × 3 
-- **Design Quirks:** 
-  - Multi-Trac 
-  - Rugged (×3) 
-  - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3240) 
-- **Battle Value:** 1414 
-- [*More Info*](thunderbolt/thunderbolt_tdr-5se.md) 
-
 ## Thunderbolt TDR-5SS 
 
 - **Role:** Brawler 
@@ -242,6 +220,27 @@
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3241) 
 - **Battle Value:** 1337 
 - [*More Info*](thunderbolt/thunderbolt_tdr-5ss.md) 
+
+## Thunderbolt TDR-5SE 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3000) 
+- **Chassis:** 65 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 208 
+- **Heat Sinks:** 17 (17) 
+- **Weapons:** 
+  - Large Laser 
+  - LRM 10 (ammo: 24) 
+  - Medium Laser × 3 
+- **Design Quirks:** 
+  - Multi-Trac 
+  - Rugged (×3) 
+  - Ubiquitous (Inner Sphere) 
+- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3240) 
+- **Battle Value:** 1414 
+- [*More Info*](thunderbolt/thunderbolt_tdr-5se.md) 
 
 ## Thunderbolt TDR-5S-T (Tallman) 
 

@@ -4,7 +4,7 @@
 
 ## Flea FLE-21 
 
-- **Role:** Striker 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3139) 
 - **Chassis:** 20 tons (Endo Steel) 
 - **Movement:** 9 / 14 (18), Light 

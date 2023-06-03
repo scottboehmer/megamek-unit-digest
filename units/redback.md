@@ -1,6 +1,6 @@
 # Redback 
 
-## Redback (Standard) 
+## Redback 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan Mixed (2828) 
@@ -17,5 +17,5 @@
   - Inner Sphere TAG 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7684) 
 - **Battle Value:** 2076 
-- [*More Info*](redback/redback_standard.md) 
+- [*More Info*](redback/redback.md) 
 

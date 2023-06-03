@@ -21,8 +21,8 @@
 #### [Koshi (Standard)](../../../units/koshi_standard.md) 
 
 - [**Koshi (Standard)**](../../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi (Standard) 2**](../../../units/koshi_standard/koshi_standard_2.md) *Undefined (3095)* `TAG` 
-- [**Koshi (Standard) 3**](../../../units/koshi_standard/koshi_standard_3.md) *Undefined (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi (Standard) 2**](../../../units/koshi_standard/koshi_standard_2.md) *Striker (3095)* `TAG` 
+- [**Koshi (Standard) 3**](../../../units/koshi_standard/koshi_standard_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
@@ -48,11 +48,11 @@
 
 #### [Pack Hunter](../../../units/pack_hunter.md) 
 
-- [**Pack Hunter (Standard)**](../../../units/pack_hunter/pack_hunter_standard.md) *Striker (3059)* 
+- [**Pack Hunter**](../../../units/pack_hunter/pack_hunter.md) *Striker (3059)* 
 
 #### [Pack Hunter II](../../../units/pack_hunter_ii.md) 
 
-- [**Pack Hunter II (Standard)**](../../../units/pack_hunter_ii/pack_hunter_ii_standard.md) *Striker (3077)* 
+- [**Pack Hunter II**](../../../units/pack_hunter_ii/pack_hunter_ii.md) *Striker (3077)* 
 - [**Pack Hunter II 3**](../../../units/pack_hunter_ii/pack_hunter_ii_3.md) *Striker (3082)* 
 - [**Pack Hunter II 4**](../../../units/pack_hunter_ii/pack_hunter_ii_4.md) *Sniper (3093)* 
 
@@ -94,7 +94,7 @@
 
 #### [Jaguar](../../../units/jaguar.md) 
 
-- [**Jaguar (Standard)**](../../../units/jaguar/jaguar_standard.md) *Striker (3121)* 
+- [**Jaguar**](../../../units/jaguar/jaguar.md) *Striker (3121)* 
 - [**Jaguar 2**](../../../units/jaguar/jaguar_2.md) *Striker (3123)* `Active Probe` , `TAG` 
 
 #### [Spector](../../../units/spector.md) 
@@ -112,7 +112,7 @@
 
 #### [Arctic Wolf II](../../../units/arctic_wolf_ii.md) 
 
-- [**Arctic Wolf II Prime**](../../../units/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Missile Boat (3085)* 
+- [**Arctic Wolf II Prime**](../../../units/arctic_wolf_ii/arctic_wolf_ii_prime.md) *Striker (3085)* 
 - [**Arctic Wolf II A**](../../../units/arctic_wolf_ii/arctic_wolf_ii_a.md) *Scout (3085)* `Active Probe` , `ECM` 
 - [**Arctic Wolf II B**](../../../units/arctic_wolf_ii/arctic_wolf_ii_b.md) *Striker (3085)* 
 - [**Arctic Wolf II C**](../../../units/arctic_wolf_ii/arctic_wolf_ii_c.md) *Striker (3085)* 
@@ -182,7 +182,7 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 8**](../../../units/shadow_hawk_iic/shadow_hawk_iic_8.md) *Missile Boat (3081)* `ECM` 
 
 ### 50 Tons 
@@ -204,7 +204,7 @@
 
 #### [Ursus II](../../../units/ursus_ii.md) 
 
-- [**Ursus II (Standard)**](../../../units/ursus_ii/ursus_ii_standard.md) *Skirmisher (3078)* `ECM` 
+- [**Ursus II**](../../../units/ursus_ii/ursus_ii.md) *Skirmisher (3078)* `ECM` 
 
 ### 55 Tons 
 
@@ -307,7 +307,7 @@
 
 #### [Warhammer](../../../units/warhammer.md) 
 
-- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
+- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Brawler (2862)* `ECM` 
 
 ### 75 Tons 
 
@@ -365,18 +365,18 @@
 
 #### [Viking IIC](../../../units/viking_iic.md) 
 
-- [**Viking IIC (Standard)**](../../../units/viking_iic/viking_iic_standard.md) *Missile Boat (3095)* 
+- [**Viking IIC**](../../../units/viking_iic/viking_iic.md) *Missile Boat (3095)* 
 
 ### 95 Tons 
 
 #### [Cygnus](../../../units/cygnus.md) 
 
-- [**Cygnus (Standard)**](../../../units/cygnus/cygnus_standard.md) *Brawler (3075)* 
+- [**Cygnus**](../../../units/cygnus/cygnus.md) *Brawler (3075)* 
 - [**Cygnus 4**](../../../units/cygnus/cygnus_4.md) *Juggernaut (3090)* 
 
 #### [Hellstar](../../../units/hellstar.md) 
 
-- [**Hellstar (Standard)**](../../../units/hellstar/hellstar_standard.md) *Sniper (3079)* 
+- [**Hellstar**](../../../units/hellstar/hellstar.md) *Sniper (3079)* 
 - [**Hellstar 2**](../../../units/hellstar/hellstar_2.md) *Sniper (3079)* 
 - [**Hellstar 3**](../../../units/hellstar/hellstar_3.md) *Brawler (3079)* `Active Probe` , `ECM` 
 

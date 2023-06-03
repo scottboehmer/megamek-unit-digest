@@ -1,6 +1,6 @@
 # Marksman Artillery Vehicle 
 
-## Marksman Artillery Vehicle (Standard) 
+## Marksman Artillery Vehicle 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2702) 
@@ -13,7 +13,7 @@
   - Sniper (ammo: 20) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2077) 
 - **Battle Value:** 688 
-- [*More Info*](marksman_artillery_vehicle/marksman_artillery_vehicle_standard.md) 
+- [*More Info*](marksman_artillery_vehicle/marksman_artillery_vehicle.md) 
 
 ## Marksman Artillery Vehicle (AC) 
 

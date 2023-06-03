@@ -4,8 +4,8 @@
 
 ## IS Standard Battle Armor (Baka) (LRR)(Sqd5) 
 
-- **Role:** Undefined 
-- **Tech Base:** Inner Sphere (3150) 
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3086) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
 - **Armor:** 9 (Standard) 
@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Light Recoilless Rifle 
   - SRM 2 (OS) × 2 
-- **Source:** Dark Age 
+- **Source:** TRO Dark Age - Dark Age 
 - **Battle Value:** 43 (302 for 5 suits) 
 
 ## Availability 

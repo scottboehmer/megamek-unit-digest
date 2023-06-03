@@ -1,6 +1,6 @@
 # DI Schmitt Tank 
 
-## DI Schmitt Tank (Standard) 
+## DI Schmitt Tank 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3115) 
@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6602) 
 - **Battle Value:** 1457 
-- [*More Info*](di_schmitt_tank/di_schmitt_tank_standard.md) 
+- [*More Info*](di_schmitt_tank/di_schmitt_tank.md) 
 
 ## DI Schmitt Tank (Targeting Computer) 
 

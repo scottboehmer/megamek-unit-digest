@@ -1,6 +1,6 @@
 # Lamprey Transport Helicopter 
 
-## Lamprey Transport Helicopter (Standard) 
+## Lamprey Transport Helicopter 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3119) 
@@ -15,5 +15,5 @@
   - Infantry (4.0 tons) 
 - **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6540) 
 - **Battle Value:** 478 
-- [*More Info*](lamprey_transport_helicopter/lamprey_transport_helicopter_standard.md) 
+- [*More Info*](lamprey_transport_helicopter/lamprey_transport_helicopter.md) 
 

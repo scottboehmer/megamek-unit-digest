@@ -1,6 +1,6 @@
 # Odin Scout Tank 
 
-## Odin Scout Tank (Standard) 
+## Odin Scout Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (2844) 
@@ -17,7 +17,7 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2317) 
 - **Battle Value:** 691 
-- [*More Info*](odin_scout_tank/odin_scout_tank_standard.md) 
+- [*More Info*](odin_scout_tank/odin_scout_tank.md) 
 
 ## Odin Scout Tank (Spotter) 
 

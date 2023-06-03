@@ -4,7 +4,7 @@
 
 ## Chippewa CHP-W5b 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2731) 
 - **Chassis:** 90 tons 
 - **Thrust:** 6 / 9, XL 

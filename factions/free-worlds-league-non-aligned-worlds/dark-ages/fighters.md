@@ -61,6 +61,6 @@
 #### [Riever](../../../units/riever.md) 
 
 - [**Riever F-700**](../../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
-- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
-- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
+- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Undefined (3050)* 
+- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 
 

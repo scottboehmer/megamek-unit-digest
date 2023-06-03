@@ -1,6 +1,6 @@
 # Cazador 
 
-## Cazador (Standard) 
+## Cazador 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3145) 
@@ -16,5 +16,5 @@
   - Supercharger 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7881) 
 - **Battle Value:** 921 
-- [*More Info*](cazador/cazador_standard.md) 
+- [*More Info*](cazador/cazador.md) 
 

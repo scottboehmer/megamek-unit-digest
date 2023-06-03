@@ -5,7 +5,7 @@
 ## Hellion P 
 
 - **Role:** Striker 
-- **Tech Base:** Clan (3124) 
+- **Tech Base:** Clan Mixed (3124) 
 - **Chassis:** 30 tons (Endo Steel) 
 - **Movement:** 7 / 11 (18), XL 
 - **Armor:** 105 (Ferro Fibrous) 
@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - MASC 
-  - Supercharger 
+  - Inner Sphere Supercharger 
   - TAG 
 - **Design Quirks:** 
   - Weak Head Armor (1) 

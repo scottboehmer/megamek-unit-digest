@@ -1,6 +1,6 @@
 # Karnov UR Gunship 
 
-## Karnov UR Gunship (Standard) 
+## Karnov UR Gunship 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3039) 
@@ -12,5 +12,5 @@
   - Machine Gun × 8 (ammo: 400) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1753) 
 - **Battle Value:** 221 
-- [*More Info*](karnov_ur_gunship/karnov_ur_gunship_standard.md) 
+- [*More Info*](karnov_ur_gunship/karnov_ur_gunship.md) 
 

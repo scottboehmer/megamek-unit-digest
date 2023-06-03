@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - Full Head Ejection System 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8367) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8367) 
 - **Battle Value:** 1519 
 - [*More Info*](gunsmith/gunsmith_ch11-ngc_cinderella.md) 
 

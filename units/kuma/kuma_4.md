@@ -18,6 +18,7 @@
   - HarJel II × 5 
 - **Design Quirks:** 
   - Hard to Pilot 
+  - Accurate Weapon (Unknown Component) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6888) 
 - **Battle Value:** 1865 
 

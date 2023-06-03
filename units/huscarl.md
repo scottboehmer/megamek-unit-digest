@@ -2,7 +2,7 @@
 
 ## Huscarl HSCL-1-O 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3064) 
 - **Chassis:** 75 tons 
 - **Thrust:** 5 / 8, XL 
@@ -19,7 +19,7 @@
 
 ## Huscarl HSCL-1-OA 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3064) 
 - **Chassis:** 75 tons 
 - **Thrust:** 5 / 8, XL 
@@ -37,7 +37,7 @@
 
 ## Huscarl HSCL-1-OB 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3064) 
 - **Chassis:** 75 tons 
 - **Thrust:** 5 / 8, XL 
@@ -54,7 +54,7 @@
 
 ## Huscarl HSCL-1-OC 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3064) 
 - **Chassis:** 75 tons 
 - **Thrust:** 5 / 8, XL 
@@ -70,7 +70,7 @@
 
 ## Huscarl HSCL-1-OD 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 75 tons 
 - **Thrust:** 5 / 8, XL 
@@ -90,7 +90,7 @@
 
 ## Huscarl HSCL-1-OR 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3079) 
 - **Chassis:** 75 tons 
 - **Thrust:** 5 / 8, XL 

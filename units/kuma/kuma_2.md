@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Accurate Weapon (Plasma Cannon) 
+  - Accurate Weapon (Unknown Component) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1847) 
 - **Battle Value:** 2309 
 

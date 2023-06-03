@@ -4,7 +4,7 @@
 
 ## Jengiz F 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3099) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 

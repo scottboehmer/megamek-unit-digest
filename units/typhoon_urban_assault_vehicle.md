@@ -1,6 +1,6 @@
 # Typhoon Urban Assault Vehicle 
 
-## Typhoon Urban Assault Vehicle (Standard) 
+## Typhoon Urban Assault Vehicle 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3057) 
@@ -18,7 +18,7 @@
   - Beagle Active Probe 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3337) 
 - **Battle Value:** 1104 
-- [*More Info*](typhoon_urban_assault_vehicle/typhoon_urban_assault_vehicle_standard.md) 
+- [*More Info*](typhoon_urban_assault_vehicle/typhoon_urban_assault_vehicle.md) 
 
 ## Typhoon Urban Assault Vehicle (Tracked) 
 

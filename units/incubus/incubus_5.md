@@ -16,6 +16,8 @@
   - Light Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Unknown Component) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3445) 
 - **Battle Value:** 1364 
 

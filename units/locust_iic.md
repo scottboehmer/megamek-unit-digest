@@ -1,6 +1,6 @@
 # Locust IIC 
 
-## Locust IIC (Standard) 
+## Locust IIC 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (2832) 
@@ -18,7 +18,7 @@
   - Weak Legs 
 - **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1914) 
 - **Battle Value:** 1100 
-- [*More Info*](locust_iic/locust_iic_standard.md) 
+- [*More Info*](locust_iic/locust_iic.md) 
 
 ## Locust IIC 2 
 

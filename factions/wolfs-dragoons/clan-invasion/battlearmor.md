@@ -13,7 +13,7 @@
 
 #### [Gray Death Scout Suit](../../../units/gray_death_scout_suit.md) 
 
-- [**Gray Death Scout Suit (Standard)(Sqd5)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_standardsqd5.md) *Scout (3052)* `Active Probe` 
+- [**Gray Death Scout Suit (Sqd5)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_sqd5.md) *Scout (3052)* `Active Probe` 
 
 ### 1 Tons 
 

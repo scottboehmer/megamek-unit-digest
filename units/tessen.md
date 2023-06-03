@@ -112,7 +112,7 @@
 
 ## Tessen TSN-X4R 'Rapunzel' 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere Mixed (3137) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 6 / 9, XL 
@@ -127,7 +127,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8377) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8377) 
 - **Battle Value:** unknown 
 - [*More Info*](tessen/tessen_tsn-x4r_rapunzel.md) 
 

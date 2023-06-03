@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
   - Improved Cooling Jacket (Blazer Cannon) 
-- **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772) 
+- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772) 
 - **Battle Value:** 1323 
 
 ## Availability 

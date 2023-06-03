@@ -4,7 +4,7 @@
 
 ## Pegasus Scout Hover Tank (Upgrade) 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3091) 
 - **Chassis:** 35 tons Hover 
 - **Movement:** 9 / 14 (18), Light 

@@ -1,6 +1,6 @@
 # Saladin Mk II HCV 
 
-## Saladin Mk II HCV (Standard) 
+## Saladin Mk II HCV 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3137) 
@@ -13,7 +13,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6371) 
 - **Battle Value:** 862 
-- [*More Info*](saladin_mk_ii_hcv/saladin_mk_ii_hcv_standard.md) 
+- [*More Info*](saladin_mk_ii_hcv/saladin_mk_ii_hcv.md) 
 
 ## Saladin Mk II HCV (BC3) 
 

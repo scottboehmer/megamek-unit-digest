@@ -5,7 +5,7 @@
 ## IS Standard Battle Armor (Baka) (SL)(Sqd5) 
 
 - **Role:** Undefined 
-- **Tech Base:** Inner Sphere (3150) 
+- **Tech Base:** Inner Sphere (3086) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
 - **Armor:** 9 (Standard) 
@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Small Laser 
   - SRM 2 (OS) × 2 
-- **Source:** Dark Age 
+- **Source:** TRO Dark Age - Dark Age 
 - **Battle Value:** 40 (279 for 5 suits) 
 
 ## Availability 

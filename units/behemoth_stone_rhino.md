@@ -49,7 +49,7 @@
 - **Battle Value:** 2157 
 - [*More Info*](stone_rhino/stone_rhino_5.md) 
 
-## Stone Rhino (Standard) "Behemoth" 
+## Stone Rhino "Behemoth" 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2847) 
@@ -72,7 +72,7 @@
   - Barrel Fists 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318) 
 - **Battle Value:** 3001 
-- [*More Info*](stone_rhino/stone_rhino_standard.md) 
+- [*More Info*](stone_rhino/stone_rhino.md) 
 
 ## Stone Rhino 6 "Behemoth" 
 

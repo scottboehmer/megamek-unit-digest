@@ -1,6 +1,6 @@
 # Horned Owl 
 
-## Horned Owl (Standard) "Peregrine" 
+## Horned Owl "Peregrine" 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (2835) 
@@ -16,7 +16,7 @@
   - Stabilized Weapon (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2472) 
 - **Battle Value:** 1434 
-- [*More Info*](horned_owl/horned_owl_standard.md) 
+- [*More Info*](horned_owl/horned_owl.md) 
 
 ## Horned Owl 2 "Peregrine" 
 
@@ -31,6 +31,8 @@
   - LRM 5 × 6 (ammo: 96) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
 - **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2473) 
 - **Battle Value:** 1191 
 - [*More Info*](horned_owl/horned_owl_2.md) 
@@ -51,6 +53,7 @@
   - Targeting Computer 
   - CASE 
 - **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (ER PPC) 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2474) 
 - **Battle Value:** 1545 
@@ -71,6 +74,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (ER Medium Laser) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2475) 
 - **Battle Value:** 1198 
@@ -89,6 +93,7 @@
   - ER Large Laser × 2 
   - Heavy Medium Laser 
 - **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (Heavy Medium Laser) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2476) 
 - **Battle Value:** 1523 
@@ -110,6 +115,8 @@
   - Partial Wing 
   - Targeting Computer 
   - Light TAG 
+- **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
 - **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7749) 
 - **Battle Value:** 1725 
 - [*More Info*](horned_owl/horned_owl_7.md) 
@@ -127,6 +134,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Stabilized Weapon (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7748) 
 - **Battle Value:** 1475 
 - [*More Info*](horned_owl/horned_owl_6.md) 

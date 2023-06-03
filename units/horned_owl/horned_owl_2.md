@@ -15,6 +15,8 @@
   - LRM 5 × 6 (ammo: 96) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
 - **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2473) 
 - **Battle Value:** 1191 
 

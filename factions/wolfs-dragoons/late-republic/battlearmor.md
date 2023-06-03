@@ -19,7 +19,7 @@
 
 #### [Hantu](../../../units/hantu.md) 
 
-- [**Hantu AIX-210(Sqd5)**](../../../units/hantu/hantu_aix-210sqd5.md) *Undefined (3124)* `Stealth` 
+- [**Hantu AIX-210(Sqd5)**](../../../units/hantu/hantu_aix-210sqd5.md) *Ambusher (3124)* `Stealth` 
 
 #### [Salrilla Exoskeleton](../../../units/salrilla_exoskeleton.md) 
 
@@ -30,8 +30,8 @@
 
 #### [Dragoon Battle Armor](../../../units/dragoon_battle_armor.md) 
 
-- [**Dragoon Battle Armor (Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd5.md) *Ambusher (3072)* 
-- [**Dragoon Battle Armor (Upgrade)(Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_upgradesqd5.md) *Undefined (3072)* 
+- [**Dragoon Battle Armor (Advanced)(Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_advancedsqd5.md) *Undefined (3072)* 
+- [**Dragoon Battle Armor (Sqd5)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd5.md) *Undefined (3072)* 
 
 #### [Elemental Battle Armor](../../../units/elemental_battle_armor.md) 
 
@@ -67,5 +67,5 @@
 
 #### [Gray Death Heavy Suit](../../../units/gray_death_heavy_suit.md) 
 
-- [**Gray Death Heavy Suit (Standard)(Sqd5)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_standardsqd5.md) *Scout (3083)* `Active Probe` 
+- [**Gray Death Heavy Suit (Sqd5)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_sqd5.md) *Scout (3083)* `Active Probe` 
 

@@ -4,7 +4,7 @@
 
 ## Riever F-700b 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 

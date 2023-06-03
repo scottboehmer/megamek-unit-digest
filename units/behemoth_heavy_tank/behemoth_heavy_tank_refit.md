@@ -4,7 +4,7 @@
 
 ## Behemoth Heavy Tank (Refit) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3060) 
 - **Chassis:** 100 tons Tracked 
 - **Movement:** 2 / 3, ICE 
@@ -18,7 +18,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Source:** Rec Guide:ilClan #31 - Civil War 
+- **Sources:** Rec Guide:ilClan #31 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9460) 
 - **Battle Value:** 1246 
 
 ## Availability 

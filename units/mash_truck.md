@@ -1,5 +1,21 @@
 # MASH Truck 
 
+## MASH Truck 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2671) 
+- **Chassis:** 20 tons Wheeled 
+- **Movement:** 5 / 8, Fusion 
+- **Armor:** 64 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Small Laser × 2 
+- **Equipment:** 
+  - MASH (1 theaters) 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1971) 
+- **Battle Value:** 220 
+- [*More Info*](mash_truck/mash_truck.md) 
+
 ## MASH Truck (Small) 
 
 - **Role:** Undefined 
@@ -15,22 +31,6 @@
   - Infantry (1.0 tons) 
 - **Battle Value:** 196 
 - [*More Info*](mash_truck/mash_truck_small.md) 
-
-## MASH Truck (Standard) 
-
-- **Role:** Undefined 
-- **Tech Base:** Inner Sphere (2671) 
-- **Chassis:** 20 tons Wheeled 
-- **Movement:** 5 / 8, Fusion 
-- **Armor:** 64 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - Small Laser × 2 
-- **Equipment:** 
-  - MASH (1 theaters) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1971) 
-- **Battle Value:** 220 
-- [*More Info*](mash_truck/mash_truck_standard.md) 
 
 ## MASH Truck (ICE) 
 
@@ -58,6 +58,7 @@
   - Anti-Missile System × 2 (ammo: 12) 
   - MASH (1 theaters) 
   - CASE 
+- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9453) 
 - **Battle Value:** 269 
 - [*More Info*](mash_truck/mash_truck_ams.md) 
 

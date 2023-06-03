@@ -1,6 +1,6 @@
 # Undine Battle Armor 
 
-## Undine Battle Armor (Standard)(Sqd4) 
+## Undine Battle Armor (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3059) 
@@ -17,9 +17,9 @@
   - Searchlight 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3351) 
 - **Battle Value:** 39 (203 for 4 suits) 
-- [*More Info*](undine_battle_armor/undine_battle_armor_standardsqd4.md) 
+- [*More Info*](undine_battle_armor/undine_battle_armor_sqd4.md) 
 
-## Undine Battle Armor (Standard)(Sqd5) 
+## Undine Battle Armor (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3059) 
@@ -36,9 +36,9 @@
   - Searchlight 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8596) 
 - **Battle Value:** 39 (273 for 5 suits) 
-- [*More Info*](undine_battle_armor/undine_battle_armor_standardsqd5.md) 
+- [*More Info*](undine_battle_armor/undine_battle_armor_sqd5.md) 
 
-## Undine Battle Armor (Standard)(Sqd6) 
+## Undine Battle Armor (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3059) 
@@ -55,7 +55,7 @@
   - Searchlight 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8960) 
 - **Battle Value:** 39 (352 for 6 suits) 
-- [*More Info*](undine_battle_armor/undine_battle_armor_standardsqd6.md) 
+- [*More Info*](undine_battle_armor/undine_battle_armor_sqd6.md) 
 
 ## Undine Battle Armor (Upgrade)(Sqd4) 
 

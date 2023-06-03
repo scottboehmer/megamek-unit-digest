@@ -1,6 +1,6 @@
 # Winterhawk APC 
 
-## Winterhawk APC (Standard) 
+## Winterhawk APC 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3059) 
@@ -15,5 +15,5 @@
   - Infantry (4.0 tons) 
 - **Sources:** TRO 3145 Lyran Commonwealth - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/6594) 
 - **Battle Value:** 204 
-- [*More Info*](winterhawk_apc/winterhawk_apc_standard.md) 
+- [*More Info*](winterhawk_apc/winterhawk_apc.md) 
 

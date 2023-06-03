@@ -17,7 +17,7 @@
 - **Battle Value:** 47 
 - [*More Info*](j-27_ordnance_transport/j-27_ordnance_transport_fusion.md) 
 
-## J-27 Ordnance Transport (Standard) 
+## J-27 Ordnance Transport 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2650) 
@@ -32,7 +32,7 @@
   - Cargo 
 - **Sources:** RS 3039 Unabriged , [Master Unit List](http://masterunitlist.info/Unit/Details/1645) 
 - **Battle Value:** 47 
-- [*More Info*](j-27_ordnance_transport/j-27_ordnance_transport_standard.md) 
+- [*More Info*](j-27_ordnance_transport/j-27_ordnance_transport.md) 
 
 ## J-27 Ordnance Transport (Trailer) 
 

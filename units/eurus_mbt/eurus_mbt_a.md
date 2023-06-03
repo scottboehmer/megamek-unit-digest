@@ -4,7 +4,7 @@
 
 ## Eurus MBT A 
 
-- **Role:** Brawler 
+- **Role:** Skirmisher 
 - **Tech Base:** Clan (3146) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 5 / 8 (10), XL 

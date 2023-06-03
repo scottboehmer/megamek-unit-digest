@@ -1,6 +1,6 @@
 # Hauberk Battle Armor 
 
-## Hauberk Battle Armor (Standard)(Sqd4) 
+## Hauberk Battle Armor (Sqd4) 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3070) 
@@ -14,9 +14,9 @@
   - Small Laser 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4269) 
 - **Battle Value:** 70 (363 for 4 suits) 
-- [*More Info*](hauberk_battle_armor/hauberk_battle_armor_standardsqd4.md) 
+- [*More Info*](hauberk_battle_armor/hauberk_battle_armor_sqd4.md) 
 
-## Hauberk Battle Armor (Standard)(Sqd5) 
+## Hauberk Battle Armor (Sqd5) 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3070) 
@@ -30,9 +30,9 @@
   - Small Laser 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8635) 
 - **Battle Value:** 70 (489 for 5 suits) 
-- [*More Info*](hauberk_battle_armor/hauberk_battle_armor_standardsqd5.md) 
+- [*More Info*](hauberk_battle_armor/hauberk_battle_armor_sqd5.md) 
 
-## Hauberk Battle Armor (Standard)(Sqd6) 
+## Hauberk Battle Armor (Sqd6) 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3070) 
@@ -46,7 +46,7 @@
   - Small Laser 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8999) 
 - **Battle Value:** 70 (629 for 6 suits) 
-- [*More Info*](hauberk_battle_armor/hauberk_battle_armor_standardsqd6.md) 
+- [*More Info*](hauberk_battle_armor/hauberk_battle_armor_sqd6.md) 
 
 ## Hauberk Battle Armor U15(Sqd4) 
 

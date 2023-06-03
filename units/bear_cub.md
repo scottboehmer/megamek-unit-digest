@@ -1,6 +1,6 @@
 # Bear Cub 
 
-## Bear Cub (Standard) 
+## Bear Cub 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3068) 
@@ -21,7 +21,7 @@
   - Cramped Cockpit 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/314) 
 - **Battle Value:** 1052 
-- [*More Info*](bear_cub/bear_cub_standard.md) 
+- [*More Info*](bear_cub/bear_cub.md) 
 
 ## Bear Cub 2 
 

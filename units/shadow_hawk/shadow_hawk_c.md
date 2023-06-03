@@ -16,6 +16,11 @@
   - Clan LB 5-X AC (ammo: 20) 
   - Clan LRM 5 (ammo: 24) 
   - Clan Streak SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2895) 
 - **Battle Value:** 1309 
 

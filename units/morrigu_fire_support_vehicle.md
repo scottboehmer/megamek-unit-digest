@@ -1,6 +1,6 @@
 # Morrigu Fire Support Vehicle 
 
-## Morrigu Fire Support Vehicle (Standard) 
+## Morrigu Fire Support Vehicle 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (3064) 
@@ -17,7 +17,7 @@
   - CASE 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4674) 
 - **Battle Value:** 1685 
-- [*More Info*](morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_standard.md) 
+- [*More Info*](morrigu_fire_support_vehicle/morrigu_fire_support_vehicle.md) 
 
 ## Morrigu Fire Support Vehicle (Laser) 
 

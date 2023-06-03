@@ -1,6 +1,6 @@
 # Hachiman Fire Support Tank 
 
-## Hachiman Fire Support Tank (Standard) 
+## Hachiman Fire Support Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2842) 
@@ -16,7 +16,7 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1359) 
 - **Battle Value:** 1484 
-- [*More Info*](hachiman_fire_support_tank/hachiman_fire_support_tank_standard.md) 
+- [*More Info*](hachiman_fire_support_tank/hachiman_fire_support_tank.md) 
 
 ## Hachiman Fire Support Tank (AAA) 
 

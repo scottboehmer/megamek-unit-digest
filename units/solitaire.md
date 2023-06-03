@@ -1,6 +1,6 @@
 # Solitaire 
 
-## Solitaire (Standard) 
+## Solitaire 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3064) 
@@ -18,7 +18,7 @@
   - Stabilized Weapon (Heavy Large Laser) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5097) 
 - **Battle Value:** 1284 
-- [*More Info*](solitaire/solitaire_standard.md) 
+- [*More Info*](solitaire/solitaire.md) 
 
 ## Solitaire 2 
 
@@ -36,6 +36,8 @@
   - MASC 
 - **Design Quirks:** 
   - Exposed Actuators 
+  - Improved Cooling Jacket (Heavy Large Laser) 
+  - Stabilized Weapon (Heavy Large Laser) 
   - Improved Cooling Jacket (Heavy Large Laser) 
   - Stabilized Weapon (Heavy Large Laser) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5655) 

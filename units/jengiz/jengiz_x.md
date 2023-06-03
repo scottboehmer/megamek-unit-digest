@@ -4,7 +4,7 @@
 
 ## Jengiz X 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3075) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 

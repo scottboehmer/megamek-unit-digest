@@ -414,7 +414,7 @@
   - Remote Sensor Dispenser 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8853) 
-- **Battle Value:** 43 (300 for 5 suits) 
+- **Battle Value:** 43 (385 for 6 suits) 
 - [*More Info*](elemental_battle_armor/elemental_battle_armor_headhuntersqd6.md) 
 
 ## Elemental Battle Armor (HMG)(Sqd3) 

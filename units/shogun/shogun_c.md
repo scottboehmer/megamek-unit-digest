@@ -9,7 +9,7 @@
 - **Chassis:** 85 tons 
 - **Movement:** 3 / 5 
   - **Jumping:** 3 
-- **Armor:** 232 (Ferro Fibrous) 
+- **Armor:** 240 (Ferro Fibrous) 
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - ER PPC 
@@ -22,7 +22,7 @@
   - Non-Standard Parts 
   - Barrel Fists 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2931) 
-- **Battle Value:** 3008 
+- **Battle Value:** 3032 
 
 ## Availability 
 

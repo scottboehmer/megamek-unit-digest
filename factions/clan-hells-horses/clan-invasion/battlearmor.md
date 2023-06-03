@@ -16,5 +16,5 @@
 
 #### [Gnome Battle Armor](../../../units/gnome_battle_armor.md) 
 
-- [**Gnome Battle Armor (Standard)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_standardsqd5.md) *Juggernaut (3056)* 
+- [**Gnome Battle Armor (Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_sqd5.md) *Juggernaut (3056)* 
 

@@ -1,6 +1,6 @@
 # Schrek PPC Carrier 
 
-## Schrek PPC Carrier (Standard) 
+## Schrek PPC Carrier 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (2813) 
@@ -12,7 +12,7 @@
   - PPC × 3 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2827) 
 - **Battle Value:** 935 
-- [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_standard.md) 
+- [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier.md) 
 
 ## Schrek PPC Carrier (Anti-Infantry) 
 

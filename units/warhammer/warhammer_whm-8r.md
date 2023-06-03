@@ -22,6 +22,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #7 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7563) 
 - **Battle Value:** 1697 
 

@@ -1,6 +1,6 @@
 # Jupiter 
 
-## Jupiter (Standard) 
+## Jupiter 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3068) 
@@ -20,7 +20,7 @@
   - Improved Targeting (Long) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1725) 
 - **Battle Value:** 2784 
-- [*More Info*](jupiter/jupiter_standard.md) 
+- [*More Info*](jupiter/jupiter.md) 
 
 ## Jupiter 2 
 

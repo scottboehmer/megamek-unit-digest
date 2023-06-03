@@ -126,6 +126,66 @@
 - **Battle Value:** 1492 
 - [*More Info*](battle_cobra/battle_cobra_x.md) 
 
+## Battle Cobra BTL-C-2OG 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Plasma Rifle (ammo: 20) 
+  - Snub-Nose PPC 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - CASE II 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+- **Sources:** Shrapnel 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9492) 
+- **Battle Value:** 1217 
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2og.md) 
+
+## Battle Cobra BTL-C-2OH 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Thunderbolt 15 (ammo: 12) 
+  - ER Medium Laser × 3 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+- **Sources:** Shrapnel 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9493) 
+- **Battle Value:** 1305 
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2oh.md) 
+
+## Battle Cobra BTL-C-2OI 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3083) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 5 / 8 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - iNarc (ammo: 12) 
+  - Medium Laser × 2 
+  - SRM 4 × 2 (ammo: 25) 
+- **Equipment:** 
+  - Laser Anti-Missile System 
+  - CASE II 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+- **Sources:** Shrapnel 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9494) 
+- **Battle Value:** 1019 
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2oi.md) 
+
 ## Battle Cobra G 
 
 - **Role:** Striker 
@@ -162,6 +222,28 @@
 - **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8389) 
 - **Battle Value:** 1666 
 - [*More Info*](battle_cobra/battle_cobra_t.md) 
+
+## Battle Cobra BTL-C-2OJ 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3144) 
+- **Chassis:** 40 tons (Endo Steel) 
+- **Movement:** 5 / 8 (10) 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Large Re-Engineered Laser 
+  - Medium Re-Engineered Laser 
+  - ER Medium Laser 
+- **Equipment:** 
+  - M-Pod × 2 
+  - Targeting Computer 
+  - Supercharger 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+- **Sources:** Shrapnel 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9495) 
+- **Battle Value:** 1269 
+- [*More Info*](battle_cobra/battle_cobra_btl-c-2oj.md) 
 
 ## Battle Cobra I 
 

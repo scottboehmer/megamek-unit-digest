@@ -21,6 +21,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
+  - Ubiquitous 
 - **Sources:** XTRO:Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3499) 
 - **Battle Value:** 1785 
 

@@ -4,7 +4,7 @@
 
 ## Constable Pacification Suit (SRM) (Sqd4) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Clan (3092) 
 - **Chassis:** Light Battle Armor (750 kg) 
 - **Movement:** 3 

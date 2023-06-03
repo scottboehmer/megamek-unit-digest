@@ -1,6 +1,6 @@
 # Kalki Cruise Missile Launcher 
 
-## Kalki Cruise Missile Launcher (Standard) 
+## Kalki Cruise Missile Launcher 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3079) 
@@ -13,5 +13,5 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Sources:** TRO:Prototype - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4416) 
 - **Battle Value:** 1036 
-- [*More Info*](kalki_cruise_missile_launcher/kalki_cruise_missile_launcher_standard.md) 
+- [*More Info*](kalki_cruise_missile_launcher/kalki_cruise_missile_launcher.md) 
 

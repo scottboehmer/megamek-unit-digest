@@ -2,7 +2,7 @@
 
 ## Riever F-100 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2815) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 
@@ -19,7 +19,7 @@
 
 ## Riever F-100a 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2829) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 
@@ -35,7 +35,7 @@
 
 ## Riever F-100b 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2835) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 
@@ -69,7 +69,7 @@
 
 ## Riever F-700a 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3050) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 
@@ -85,7 +85,7 @@
 
 ## Riever F-700b 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 

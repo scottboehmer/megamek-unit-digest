@@ -1,6 +1,6 @@
 # Resgate PA(L) 
 
-## Resgate PA(L) (Standard)(Sqd4) 
+## Resgate PA(L) (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3059) 
@@ -15,9 +15,9 @@
   - Improved Sensors 
 - **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4909) 
 - **Battle Value:** 12 (61 for 4 suits) 
-- [*More Info*](resgate_pal/resgate_pal_standardsqd4.md) 
+- [*More Info*](resgate_pal/resgate_pal_sqd4.md) 
 
-## Resgate PA(L) (Standard)(Sqd5) 
+## Resgate PA(L) (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3059) 
@@ -32,9 +32,9 @@
   - Improved Sensors 
 - **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8659) 
 - **Battle Value:** 12 (82 for 5 suits) 
-- [*More Info*](resgate_pal/resgate_pal_standardsqd5.md) 
+- [*More Info*](resgate_pal/resgate_pal_sqd5.md) 
 
-## Resgate PA(L) (Standard)(Sqd6) 
+## Resgate PA(L) (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3059) 
@@ -49,7 +49,7 @@
   - Improved Sensors 
 - **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9023) 
 - **Battle Value:** 12 (105 for 6 suits) 
-- [*More Info*](resgate_pal/resgate_pal_standardsqd6.md) 
+- [*More Info*](resgate_pal/resgate_pal_sqd6.md) 
 
 ## Resgate PA(L) (Interdictor)(Sqd4) 
 

@@ -2,7 +2,7 @@
 
 ## Vulcan VLC-3N 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2525) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, Primitive 
@@ -20,7 +20,7 @@
 
 ## Vulcan VLC-5N 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2650) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8 
@@ -38,7 +38,7 @@
 
 ## Vulcan VLC-6N 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2767) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8 
@@ -56,7 +56,7 @@
 
 ## Vulcan VLC-8N 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 

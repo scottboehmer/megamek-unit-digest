@@ -160,13 +160,13 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6914) 
+- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6914) 
 - **Battle Value:** 1136 
 - [*More Info*](blackjack/blackjack_bj-2r.md) 
 
 ## Blackjack C 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Clan (3150) 
 - **Chassis:** 45 tons 
 - **Movement:** 4 / 6 
@@ -178,7 +178,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE II 
-- **Source:** ForcePack Wolfs Dragoons - Early Republic 
+- **Sources:** ForcePack Wolfs Dragoons - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8388) 
 - **Battle Value:** 1639 
 - [*More Info*](blackjack/blackjack_c.md) 
 

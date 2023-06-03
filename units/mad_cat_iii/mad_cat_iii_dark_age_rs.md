@@ -18,6 +18,10 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6896) 
 - **Battle Value:** 2061 
 

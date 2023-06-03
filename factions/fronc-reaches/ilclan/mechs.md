@@ -32,7 +32,7 @@
 - [**Flea FLE-17**](../../../units/flea/flea_fle-17.md) *Striker (3049)* 
 - [**Flea FLE-19**](../../../units/flea/flea_fle-19.md) *Striker (3068)* 
 - [**Flea FLE-20**](../../../units/flea/flea_fle-20.md) *Striker (3071)* `ECM` , `Stealth` 
-- [**Flea FLE-21**](../../../units/flea/flea_fle-21.md) *Striker (3139)* `ECM` , `Stealth` 
+- [**Flea FLE-21**](../../../units/flea/flea_fle-21.md) *Scout (3139)* `ECM` , `Stealth` 
 
 #### [Locust](../../../units/locust.md) 
 
@@ -149,7 +149,7 @@
 
 #### [Incubus](../../../units/incubus.md) 
 
-- [**Incubus (Standard)**](../../../units/incubus/incubus_standard.md) *Striker (2954)* 
+- [**Incubus**](../../../units/incubus/incubus.md) *Striker (2954)* 
 - [**Incubus 2**](../../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../../units/incubus/incubus_8.md) *Striker (2962)* 
@@ -258,7 +258,7 @@
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
-- [**Griffin IIC (Standard)**](../../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
+- [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 
 #### [Harvester](../../../units/harvester.md) 
 
@@ -346,7 +346,7 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
-- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Striker (3086)* 
 
 #### [Ghost](../../../units/ghost.md) 
 
@@ -394,7 +394,7 @@
 
 #### [Dervish](../../../units/dervish.md) 
 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 - [**Dervish DV-7D**](../../../units/dervish/dervish_dv-7d.md) *Missile Boat (3047)* 
 - [**Dervish DV-6Mr**](../../../units/dervish/dervish_dv-6mr.md) *Brawler (3073)* 
 
@@ -582,7 +582,6 @@
 #### [Viper](../../../units/viper.md) 
 
 - [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
-- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

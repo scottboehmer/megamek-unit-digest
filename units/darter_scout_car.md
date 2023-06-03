@@ -1,6 +1,6 @@
 # Darter Scout Car 
 
-## Darter Scout Car (Standard) 
+## Darter Scout Car 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2822) 
@@ -14,7 +14,7 @@
   - Cargo 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/836) 
 - **Battle Value:** 125 
-- [*More Info*](darter_scout_car/darter_scout_car_standard.md) 
+- [*More Info*](darter_scout_car/darter_scout_car.md) 
 
 ## Darter Scout Car (SRM-2) 
 

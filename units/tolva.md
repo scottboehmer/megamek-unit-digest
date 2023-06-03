@@ -1,6 +1,6 @@
 # Tolva 
 
-## Tolva (Standard) 
+## Tolva 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3145) 
@@ -16,5 +16,5 @@
   - Targeting Computer 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7882) 
 - **Battle Value:** 1449 
-- [*More Info*](tolva/tolva_standard.md) 
+- [*More Info*](tolva/tolva.md) 
 

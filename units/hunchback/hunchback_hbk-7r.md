@@ -21,7 +21,7 @@
   - Poor Sealing 
   - Bad Reputation (Inner Sphere) 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4338) 
+- **Sources:** TRO:Proto - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4338) 
 - **Battle Value:** 1248 
 
 ## Availability 

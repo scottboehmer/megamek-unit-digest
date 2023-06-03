@@ -1,6 +1,6 @@
 # Great Wyrm 
 
-## Great Wyrm (Standard) 
+## Great Wyrm 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (2844) 
@@ -19,7 +19,7 @@
   - Stable 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1284) 
 - **Battle Value:** 1331 
-- [*More Info*](great_wyrm/great_wyrm_standard.md) 
+- [*More Info*](great_wyrm/great_wyrm.md) 
 
 ## Great Wyrm (Aemelia) 
 

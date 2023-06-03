@@ -39,7 +39,7 @@
 
 #### [Spectre Stealth Battle Armor](../../../units/spectre_stealth_battle_armor.md) 
 
-- [**Spectre Stealth Battle Armor (Standard)(Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standardsqd4.md) *Scout (3097)* `Stealth` 
+- [**Spectre Stealth Battle Armor (Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd4.md) *Scout (3097)* `Stealth` 
 
 ### 1 Tons 
 
@@ -73,7 +73,7 @@
 
 #### [Marauder Battle Armor](../../../units/marauder_battle_armor.md) 
 
-- [**Marauder Battle Armor (Standard)(Sqd4)**](../../../units/marauder_battle_armor/marauder_battle_armor_standardsqd4.md) *Ambusher (3110)* `TAG` 
+- [**Marauder Battle Armor (Sqd4)**](../../../units/marauder_battle_armor/marauder_battle_armor_sqd4.md) *Ambusher (3110)* `TAG` 
 
 ### 2 Tons 
 
@@ -86,5 +86,5 @@
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)(Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd4.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_sqd4.md) *Juggernaut (3084)* 
 

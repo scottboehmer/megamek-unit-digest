@@ -4,7 +4,7 @@
 
 ## BattleMaster BLR-1GHE 'HellSlinger' 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2750) 
 - **Chassis:** 85 tons 
 - **Movement:** 4 / 6 

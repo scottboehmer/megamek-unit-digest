@@ -4,7 +4,7 @@
 
 ## Chippewa CHP-W7T 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3069) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8, XL 

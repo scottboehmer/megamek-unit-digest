@@ -45,7 +45,7 @@
 - [**IS Standard Battle Armor (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (SRM)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (LRR)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd4.md) *Ambusher (3061)* 
-- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Ambusher (3141)* 
 
 #### [Leonidas Battle Armor](../../../units/leonidas_battle_armor.md) 
 
@@ -76,5 +76,5 @@
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)(Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd4.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_sqd4.md) *Juggernaut (3084)* 
 

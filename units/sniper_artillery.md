@@ -1,6 +1,6 @@
 # Sniper Artillery 
 
-## Sniper Artillery (Standard) 
+## Sniper Artillery 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3094) 
@@ -19,5 +19,5 @@
   - Hitch 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6327) 
 - **Battle Value:** 830 
-- [*More Info*](sniper_artillery/sniper_artillery_standard.md) 
+- [*More Info*](sniper_artillery/sniper_artillery.md) 
 

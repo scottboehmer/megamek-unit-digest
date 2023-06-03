@@ -35,7 +35,7 @@
 
 #### [Gray Death Scout Suit](../../../units/gray_death_scout_suit.md) 
 
-- [**Gray Death Scout Suit (Standard)(Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_standardsqd4.md) *Scout (3052)* `Active Probe` 
+- [**Gray Death Scout Suit (Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_sqd4.md) *Scout (3052)* `Active Probe` 
 
 #### [Infiltrator Mk. I Battle Armor](../../../units/infiltrator_mk._i_battle_armor.md) 
 
@@ -52,7 +52,7 @@
 
 #### [Dragoon Battle Armor](../../../units/dragoon_battle_armor.md) 
 
-- [**Dragoon Battle Armor (Sqd4)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd4.md) *Ambusher (3072)* 
+- [**Dragoon Battle Armor (Sqd4)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd4.md) *Undefined (3072)* 
 
 #### [Fa Shih Battle Armor](../../../units/fa_shih_battle_armor.md) 
 
@@ -105,7 +105,7 @@
 
 #### [Gray Death Heavy Suit](../../../units/gray_death_heavy_suit.md) 
 
-- [**Gray Death Heavy Suit (Standard)(Sqd4)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_standardsqd4.md) *Scout (3083)* `Active Probe` 
+- [**Gray Death Heavy Suit (Sqd4)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_sqd4.md) *Scout (3083)* `Active Probe` 
 
 #### [Sloth Battle Armor](../../../units/sloth_battle_armor.md) 
 
@@ -132,5 +132,5 @@
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)(Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd4.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_sqd4.md) *Juggernaut (3084)* 
 

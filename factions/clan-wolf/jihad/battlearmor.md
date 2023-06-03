@@ -26,21 +26,21 @@
 
 #### [Salamander Battle Armor](../../../units/salamander_battle_armor.md) 
 
-- [**Salamander Battle Armor (Standard)(Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_standardsqd5.md) *Ambusher (3058)* 
+- [**Salamander Battle Armor (Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_sqd5.md) *Ambusher (3058)* 
 - [**Salamander Battle Armor (Laser)(Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_lasersqd5.md) *Ambusher (3064)* 
 
 #### [Undine Battle Armor](../../../units/undine_battle_armor.md) 
 
-- [**Undine Battle Armor (Standard)(Sqd5)**](../../../units/undine_battle_armor/undine_battle_armor_standardsqd5.md) *Ambusher (3059)* 
+- [**Undine Battle Armor (Sqd5)**](../../../units/undine_battle_armor/undine_battle_armor_sqd5.md) *Ambusher (3059)* 
 - [**Undine Battle Armor (Upgrade)(Sqd5)**](../../../units/undine_battle_armor/undine_battle_armor_upgradesqd5.md) *Missile Boat (3069)* 
 
 ### 1.50 Tons 
 
 #### [Corona Heavy Battle Armor](../../../units/corona_heavy_battle_armor.md) 
 
-- [**Corona Heavy Battle Armor (Standard) (Sqd5)**](../../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard_sqd5.md) *Ambusher (3060)* 
+- [**Corona Heavy Battle Armor (Sqd5)**](../../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_sqd5.md) *Ambusher (3060)* 
 
 #### [Gnome Battle Armor](../../../units/gnome_battle_armor.md) 
 
-- [**Gnome Battle Armor (Standard)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_standardsqd5.md) *Juggernaut (3056)* 
+- [**Gnome Battle Armor (Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_sqd5.md) *Juggernaut (3056)* 
 

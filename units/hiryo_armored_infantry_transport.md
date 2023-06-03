@@ -1,6 +1,6 @@
 # Hiryo Armored Infantry Transport 
 
-## Hiryo Armored Infantry Transport (Standard) 
+## Hiryo Armored Infantry Transport 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3069) 
@@ -14,7 +14,7 @@
   - Infantry (8 tons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1528) 
 - **Battle Value:** 687 
-- [*More Info*](hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_standard.md) 
+- [*More Info*](hiryo_armored_infantry_transport/hiryo_armored_infantry_transport.md) 
 
 ## Hiryo Armored Infantry Transport (Light PPC) 
 

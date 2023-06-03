@@ -2,7 +2,7 @@
 
 ## Hantu AIX-210(Sqd4) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3124) 
 - **Chassis:** PA(L) Battle Armor (400 kg) 
 - **Movement:** 3 
@@ -16,7 +16,7 @@
 
 ## Hantu AIX-210(Sqd5) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3124) 
 - **Chassis:** PA(L) Battle Armor (400 kg) 
 - **Movement:** 3 
@@ -30,7 +30,7 @@
 
 ## Hantu AIX-210(Sqd6) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3124) 
 - **Chassis:** PA(L) Battle Armor (400 kg) 
 - **Movement:** 3 

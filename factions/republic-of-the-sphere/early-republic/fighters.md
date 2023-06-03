@@ -73,7 +73,7 @@
 
 #### [Tabanid Light Drone Fighter](../../../units/tabanid_light_drone_fighter.md) 
 
-- [**Tabanid Light Drone Fighter (Standard)**](../../../units/tabanid_light_drone_fighter/tabanid_light_drone_fighter_standard.md) *Interceptor (3072)* `Active Probe` , `Drone` 
+- [**Tabanid Light Drone Fighter**](../../../units/tabanid_light_drone_fighter/tabanid_light_drone_fighter.md) *Interceptor (3072)* `Active Probe` , `Drone` 
 
 #### [Zero](../../../units/zero.md) 
 
@@ -131,8 +131,8 @@
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
-- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Attack Fighter (2703)* 
+- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Undefined (2657)* 
+- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Undefined (2703)* 
 - [**Gotha GTHA-600**](../../../units/gotha/gotha_gtha-600.md) *Dogfighter (3067)* 
 
 #### [Schrack](../../../units/schrack.md) 
@@ -154,7 +154,7 @@
 
 #### [Lucifer III](../../../units/lucifer_iii.md) 
 
-- [**Lucifer III LCR-3**](../../../units/lucifer_iii/lucifer_iii_lcr-3.md) *Attack Fighter (3086)* 
+- [**Lucifer III LCR-3**](../../../units/lucifer_iii/lucifer_iii_lcr-3.md) *Undefined (3086)* 
 
 #### [Shilone](../../../units/shilone.md) 
 
@@ -175,16 +175,16 @@
 
 #### [Scarab Medium Drone Fighter](../../../units/scarab_medium_drone_fighter.md) 
 
-- [**Scarab Medium Drone Fighter (Standard)**](../../../units/scarab_medium_drone_fighter/scarab_medium_drone_fighter_standard.md) *Fast Dogfighter (3072)* `Drone` , `ECM` 
+- [**Scarab Medium Drone Fighter**](../../../units/scarab_medium_drone_fighter/scarab_medium_drone_fighter.md) *Fast Dogfighter (3072)* `Drone` , `ECM` 
 
 #### [Tatsu](../../../units/tatsu.md) 
 
-- [**Tatsu MIK-O**](../../../units/tatsu/tatsu_mik-o.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OA**](../../../units/tatsu/tatsu_mik-oa.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OB**](../../../units/tatsu/tatsu_mik-ob.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OC**](../../../units/tatsu/tatsu_mik-oc.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OD**](../../../units/tatsu/tatsu_mik-od.md) *Attack Fighter (3072)* 
-- [**Tatsu MIK-OE**](../../../units/tatsu/tatsu_mik-oe.md) *Attack Fighter (3075)* `ECM` 
+- [**Tatsu MIK-O**](../../../units/tatsu/tatsu_mik-o.md) *Undefined (3063)* 
+- [**Tatsu MIK-OA**](../../../units/tatsu/tatsu_mik-oa.md) *Undefined (3063)* 
+- [**Tatsu MIK-OB**](../../../units/tatsu/tatsu_mik-ob.md) *Undefined (3063)* 
+- [**Tatsu MIK-OC**](../../../units/tatsu/tatsu_mik-oc.md) *Undefined (3063)* 
+- [**Tatsu MIK-OD**](../../../units/tatsu/tatsu_mik-od.md) *Undefined (3072)* 
+- [**Tatsu MIK-OE**](../../../units/tatsu/tatsu_mik-oe.md) *Undefined (3075)* `ECM` 
 
 ### 75 Tons 
 
@@ -201,29 +201,29 @@
 
 #### [Huscarl](../../../units/huscarl.md) 
 
-- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Attack Fighter (3068)* 
-- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Attack Fighter (3079)* 
+- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Undefined (3068)* 
+- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Undefined (3079)* 
 
 ### 80 Tons 
 
 #### [Deathstalker](../../../units/deathstalker.md) 
 
-- [**Deathstalker F-77A**](../../../units/deathstalker/deathstalker_f-77a.md) *Attack Fighter (3073)* 
+- [**Deathstalker F-77A**](../../../units/deathstalker/deathstalker_f-77a.md) *Undefined (3073)* 
 
 #### [Jengiz](../../../units/jengiz.md) 
 
-- [**Jengiz Prime**](../../../units/jengiz/jengiz_prime.md) *Attack Fighter (3032)* `ECM` 
-- [**Jengiz A**](../../../units/jengiz/jengiz_a.md) *Attack Fighter (3032)* 
-- [**Jengiz B**](../../../units/jengiz/jengiz_b.md) *Attack Fighter (3032)* 
-- [**Jengiz C**](../../../units/jengiz/jengiz_c.md) *Attack Fighter (3032)* 
-- [**Jengiz D**](../../../units/jengiz/jengiz_d.md) *Attack Fighter (3063)* 
-- [**Jengiz E**](../../../units/jengiz/jengiz_e.md) *Attack Fighter (3064)* `ECM` 
-- [**Jengiz X**](../../../units/jengiz/jengiz_x.md) *Attack Fighter (3075)* `Active Probe` , `ECM` 
-- [**Jengiz F**](../../../units/jengiz/jengiz_f.md) *Attack Fighter (3099)* 
+- [**Jengiz Prime**](../../../units/jengiz/jengiz_prime.md) *Undefined (3032)* `ECM` 
+- [**Jengiz A**](../../../units/jengiz/jengiz_a.md) *Undefined (3032)* 
+- [**Jengiz B**](../../../units/jengiz/jengiz_b.md) *Undefined (3032)* 
+- [**Jengiz C**](../../../units/jengiz/jengiz_c.md) *Undefined (3032)* 
+- [**Jengiz D**](../../../units/jengiz/jengiz_d.md) *Undefined (3063)* 
+- [**Jengiz E**](../../../units/jengiz/jengiz_e.md) *Undefined (3064)* `ECM` 
+- [**Jengiz X**](../../../units/jengiz/jengiz_x.md) *Undefined (3075)* `Active Probe` , `ECM` 
+- [**Jengiz F**](../../../units/jengiz/jengiz_f.md) *Undefined (3099)* 
 
 #### [Slayer](../../../units/slayer.md) 
 
@@ -240,21 +240,21 @@
 
 #### [Shiva](../../../units/shiva.md) 
 
-- [**Shiva SHV-O**](../../../units/shiva/shiva_shv-o.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OA**](../../../units/shiva/shiva_shv-oa.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OB**](../../../units/shiva/shiva_shv-ob.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OC**](../../../units/shiva/shiva_shv-oc.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OD**](../../../units/shiva/shiva_shv-od.md) *Attack Fighter (3073)* `ECM` 
+- [**Shiva SHV-O**](../../../units/shiva/shiva_shv-o.md) *Undefined (3060)* 
+- [**Shiva SHV-OA**](../../../units/shiva/shiva_shv-oa.md) *Undefined (3060)* 
+- [**Shiva SHV-OB**](../../../units/shiva/shiva_shv-ob.md) *Undefined (3060)* 
+- [**Shiva SHV-OC**](../../../units/shiva/shiva_shv-oc.md) *Undefined (3060)* 
+- [**Shiva SHV-OD**](../../../units/shiva/shiva_shv-od.md) *Undefined (3073)* `ECM` 
 
 ### 90 Tons 
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Undefined (2735)* 
 
 #### [Typhoon](../../../units/typhoon.md) 
 
-- [**Typhoon TFN-5H**](../../../units/typhoon/typhoon_tfn-5h.md) *Attack Fighter (3074)* 
+- [**Typhoon TFN-5H**](../../../units/typhoon/typhoon_tfn-5h.md) *Undefined (3074)* 
 
 ### 95 Tons 
 
@@ -271,24 +271,24 @@
 
 #### [Aeshna Heavy Drone Fighter](../../../units/aeshna_heavy_drone_fighter.md) 
 
-- [**Aeshna Heavy Drone Fighter (Standard)**](../../../units/aeshna_heavy_drone_fighter/aeshna_heavy_drone_fighter_standard.md) *Attack Fighter (3072)* `Drone` 
+- [**Aeshna Heavy Drone Fighter**](../../../units/aeshna_heavy_drone_fighter/aeshna_heavy_drone_fighter.md) *Undefined (3072)* `Drone` 
 
 #### [Riever](../../../units/riever.md) 
 
 - [**Riever F-700**](../../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
-- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
-- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
+- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Undefined (3050)* 
+- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 
 
 #### [Stuka](../../../units/stuka.md) 
 
 - [**Stuka STU-K5b2**](../../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
-- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Attack Fighter (2751)* 
-- [**Stuka STU-D6**](../../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
-- [**Stuka STU-D7**](../../../units/stuka/stuka_stu-d7.md) *Attack Fighter (3070)* 
+- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Undefined (2751)* 
+- [**Stuka STU-D6**](../../../units/stuka/stuka_stu-d6.md) *Undefined (3051)* 
+- [**Stuka STU-D7**](../../../units/stuka/stuka_stu-d7.md) *Undefined (3070)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
-- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Attack Fighter (2724)* 
-- [**Thunderbird TRB-D56**](../../../units/thunderbird/thunderbird_trb-d56.md) *Attack Fighter (3074)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
+- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Undefined (2724)* 
+- [**Thunderbird TRB-D56**](../../../units/thunderbird/thunderbird_trb-d56.md) *Undefined (3074)* 
 

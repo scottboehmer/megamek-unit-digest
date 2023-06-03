@@ -22,8 +22,8 @@
 #### [Koshi (Standard)](../../../units/koshi_standard.md) 
 
 - [**Koshi (Standard)**](../../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi (Standard) 2**](../../../units/koshi_standard/koshi_standard_2.md) *Undefined (3095)* `TAG` 
-- [**Koshi (Standard) 3**](../../../units/koshi_standard/koshi_standard_3.md) *Undefined (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi (Standard) 2**](../../../units/koshi_standard/koshi_standard_2.md) *Striker (3095)* `TAG` 
+- [**Koshi (Standard) 3**](../../../units/koshi_standard/koshi_standard_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
 
 ### 30 Tons 
 
@@ -62,7 +62,7 @@
 
 #### [Pack Hunter](../../../units/pack_hunter.md) 
 
-- [**Pack Hunter (Standard)**](../../../units/pack_hunter/pack_hunter_standard.md) *Striker (3059)* 
+- [**Pack Hunter**](../../../units/pack_hunter/pack_hunter.md) *Striker (3059)* 
 
 ### 35 Tons 
 
@@ -142,7 +142,7 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 8**](../../../units/shadow_hawk_iic/shadow_hawk_iic_8.md) *Missile Boat (3081)* `ECM` 
 
 #### [Vindicator](../../../units/vindicator.md) 
@@ -154,8 +154,8 @@
 #### [Black Hawk (Standard)](../../../units/black_hawk_standard.md) 
 
 - [**Black Hawk (Standard)**](../../../units/black_hawk_standard/black_hawk_standard.md) *Skirmisher (3073)* 
-- [**Black Hawk (Standard) 2**](../../../units/black_hawk_standard/black_hawk_standard_2.md) *Undefined (3092)* 
-- [**Black Hawk (Standard) 3**](../../../units/black_hawk_standard/black_hawk_standard_3.md) *Undefined (3092)* 
+- [**Black Hawk (Standard) 2**](../../../units/black_hawk_standard/black_hawk_standard_2.md) *Skirmisher (3092)* 
+- [**Black Hawk (Standard) 3**](../../../units/black_hawk_standard/black_hawk_standard_3.md) *Skirmisher (3092)* 
 
 #### [Ghost](../../../units/ghost.md) 
 
@@ -176,7 +176,7 @@
 
 #### [Mad Cat III](../../../units/mad_cat_iii.md) 
 
-- [**Mad Cat III (Standard)**](../../../units/mad_cat_iii/mad_cat_iii_standard.md) *Missile Boat (3086)* 
+- [**Mad Cat III**](../../../units/mad_cat_iii/mad_cat_iii.md) *Missile Boat (3086)* 
 - [**Mad Cat III 2**](../../../units/mad_cat_iii/mad_cat_iii_2.md) *Undefined (3089)* 
 
 #### [Scorpion](../../../units/scorpion.md) 
@@ -341,7 +341,7 @@
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
 
-- [**Marauder IIC (Standard)**](../../../units/marauder_iic/marauder_iic_standard.md) *Brawler (2828)* 
+- [**Marauder IIC**](../../../units/marauder_iic/marauder_iic.md) *Brawler (2828)* 
 
 #### [Shogun](../../../units/shogun.md) 
 
@@ -351,7 +351,7 @@
 
 #### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 
 
-- [**Mad Cat Mk II (Standard)**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_standard.md) *Brawler (3062)* 
+- [**Mad Cat Mk II**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii.md) *Brawler (3062)* 
 - [**Mad Cat Mk II 2**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_2.md) *Brawler (3069)* 
 - [**Mad Cat Mk II 4**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_4.md) *Sniper (3090)* `Active Probe` 
 
@@ -370,11 +370,11 @@
 
 #### [Cygnus](../../../units/cygnus.md) 
 
-- [**Cygnus (Standard)**](../../../units/cygnus/cygnus_standard.md) *Brawler (3075)* 
+- [**Cygnus**](../../../units/cygnus/cygnus.md) *Brawler (3075)* 
 
 #### [Hellstar](../../../units/hellstar.md) 
 
-- [**Hellstar (Standard)**](../../../units/hellstar/hellstar_standard.md) *Sniper (3079)* 
+- [**Hellstar**](../../../units/hellstar/hellstar.md) *Sniper (3079)* 
 
 ### 100 Tons 
 
@@ -418,7 +418,7 @@
 
 #### [Kodiak](../../../units/kodiak.md) 
 
-- [**Kodiak (Standard)**](../../../units/kodiak/kodiak_standard.md) *Brawler (3001)* 
+- [**Kodiak**](../../../units/kodiak/kodiak.md) *Brawler (3001)* 
 
 #### [Marauder II](../../../units/marauder_ii.md) 
 

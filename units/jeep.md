@@ -1,6 +1,6 @@
 # Jeep 
 
-## Jeep (Standard) 
+## Jeep 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (1950) 
@@ -12,5 +12,5 @@
   - Infantry (2.0 tons) 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4395) 
 - **Battle Value:** 56 
-- [*More Info*](jeep/jeep_standard.md) 
+- [*More Info*](jeep/jeep.md) 
 

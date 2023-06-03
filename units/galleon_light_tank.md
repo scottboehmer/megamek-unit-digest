@@ -17,7 +17,7 @@
 
 ## Galleon Light Tank GAL-200 (RL) 
 
-- **Role:** Scout 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (2801) 
 - **Chassis:** 30 tons Tracked 
 - **Movement:** 6 / 9, ICE 
@@ -137,7 +137,7 @@
 
 ## Galleon Light Tank GAL-300 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3101) 
 - **Chassis:** 30 tons Tracked 
 - **Movement:** 6 / 9, Light 
@@ -171,9 +171,26 @@
 - **Battle Value:** 586 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-106.md) 
 
+## Galleon Light Tank GAL-105 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3134) 
+- **Chassis:** 30 tons Tracked 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 89 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser × 2 
+  - Thumper Cannon (ammo: 0) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** RS 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8041) 
+- **Battle Value:** 564 
+- [*More Info*](galleon_light_tank/galleon_light_tank_gal-105.md) 
+
 ## Galleon Light Tank GAL-201 
 
-- **Role:** Scout 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3135) 
 - **Chassis:** 30 tons Tracked 
 - **Movement:** 6 / 9, Fusion 

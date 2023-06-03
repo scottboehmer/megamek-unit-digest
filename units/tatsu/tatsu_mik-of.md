@@ -4,7 +4,7 @@
 
 ## Tatsu MIK-OF 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3100) 
 - **Chassis:** 70 tons 
 - **Thrust:** 5 / 8, XL 

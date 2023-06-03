@@ -20,7 +20,8 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3489) 
+  - Ubiquitous 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3489) 
 - **Battle Value:** 1431 
 
 ## Availability 

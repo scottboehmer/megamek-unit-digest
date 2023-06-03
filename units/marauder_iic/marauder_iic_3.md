@@ -19,9 +19,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2067) 
+- **Sources:** TRO:CI - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2067) 
 - **Battle Value:** 2445 
 
 ## Availability 

@@ -6,13 +6,13 @@
 
 #### [Resgate PA(L)](../../../units/resgate_pal.md) 
 
-- [**Resgate PA(L) (Standard)(Sqd5)**](../../../units/resgate_pal/resgate_pal_standardsqd5.md) *Ambusher (3059)* `Active Probe` 
+- [**Resgate PA(L) (Sqd5)**](../../../units/resgate_pal/resgate_pal_sqd5.md) *Ambusher (3059)* `Active Probe` 
 
 ### 1 Tons 
 
 #### [Afreet Medium Battle Armor](../../../units/afreet_medium_battle_armor.md) 
 
-- [**Afreet Medium Battle Armor (Standard)(Sqd5)**](../../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_standardsqd5.md) *Scout (3067)* `Active Probe` 
+- [**Afreet Medium Battle Armor (Sqd5)**](../../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_sqd5.md) *Scout (3067)* `Active Probe` 
 - [**Afreet Medium Battle Armor (Jade Falcon)(Sqd5)**](../../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_jade_falconsqd5.md) *Scout (3072)* 
 - [**Afreet Medium Battle Armor (Interdictor)(Sqd5)**](../../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_interdictorsqd5.md) *Scout (3076)* `ECM` 
 
@@ -38,22 +38,22 @@
 
 #### [Salamander Battle Armor](../../../units/salamander_battle_armor.md) 
 
-- [**Salamander Battle Armor (Standard)(Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_standardsqd5.md) *Ambusher (3058)* 
+- [**Salamander Battle Armor (Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_sqd5.md) *Ambusher (3058)* 
 - [**Salamander Battle Armor (Anti-Infantry)(Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_anti-infantrysqd5.md) *Ambusher (3070)* 
 
 ### 1.50 Tons 
 
 #### [Corona Heavy Battle Armor](../../../units/corona_heavy_battle_armor.md) 
 
-- [**Corona Heavy Battle Armor (Standard) (Sqd5)**](../../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard_sqd5.md) *Ambusher (3060)* 
+- [**Corona Heavy Battle Armor (Sqd5)**](../../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_sqd5.md) *Ambusher (3060)* 
 
 #### [Gnome Battle Armor](../../../units/gnome_battle_armor.md) 
 
-- [**Gnome Battle Armor (Standard)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_standardsqd5.md) *Juggernaut (3056)* 
+- [**Gnome Battle Armor (Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_sqd5.md) *Juggernaut (3056)* 
 
 ### 2 Tons 
 
 #### [Ironhold Assault Battle Armor](../../../units/ironhold_assault_battle_armor.md) 
 
-- [**Ironhold Assault Battle Armor (Standard)(Sqd5)**](../../../units/ironhold_assault_battle_armor/ironhold_assault_battle_armor_standardsqd5.md) *Juggernaut (3077)* 
+- [**Ironhold Assault Battle Armor (Sqd5)**](../../../units/ironhold_assault_battle_armor/ironhold_assault_battle_armor_sqd5.md) *Juggernaut (3077)* 
 

@@ -250,6 +250,26 @@
 - **Battle Value:** 1243 
 - [*More Info*](hatchetman/hatchetman_hct-7s.md) 
 
+## Hatchetman HCT-7D 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3092) 
+- **Chassis:** 45 tons 
+- **Movement:** 5 / 8, Armored 
+- **Armor:** 152 (Ferro Fibrous) 
+- **Gyroscope:** Armored Compact Gyro 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - ER Medium Laser × 4 
+  - Hatchet 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - Full Head Ejection System 
+  - Targeting Computer 
+- **Sources:** RS3150 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7988) 
+- **Battle Value:** 1296 
+- [*More Info*](hatchetman/hatchetman_hct-7d.md) 
+
 ## Hatchetman HCT-7R 
 
 - **Role:** Brawler 

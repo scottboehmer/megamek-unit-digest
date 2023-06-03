@@ -1,6 +1,6 @@
 # Demolisher II Heavy Tank 
 
-## Demolisher II Heavy Tank (Standard) 
+## Demolisher II Heavy Tank 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3059) 
@@ -16,7 +16,7 @@
   - CASE 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/866) 
 - **Battle Value:** 1619 
-- [*More Info*](demolisher_ii_heavy_tank/demolisher_ii_heavy_tank_standard.md) 
+- [*More Info*](demolisher_ii_heavy_tank/demolisher_ii_heavy_tank.md) 
 
 ## Demolisher II Heavy Tank (Thunderbolt) 
 
@@ -56,7 +56,7 @@
 
 ## Demolisher II Heavy Tank II-X 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3077) 
 - **Chassis:** 100 tons Tracked 
 - **Movement:** 3 / 5, Light 

@@ -5,7 +5,7 @@
 ## SturmFeur Heavy Tank (Steiner) 
 
 - **Role:** Juggernaut 
-- **Tech Base:** Inner Sphere (3080) 
+- **Tech Base:** Inner Sphere (3079) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, Light 
 - **Armor:** 317 (Heavy Ferro Fibrous) 

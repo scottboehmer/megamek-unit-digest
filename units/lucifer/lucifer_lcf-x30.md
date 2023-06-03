@@ -4,7 +4,7 @@
 
 ## Lucifer LCF-X30 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 65 tons 
 - **Thrust:** 5 / 8, XL 

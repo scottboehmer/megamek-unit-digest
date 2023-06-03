@@ -1,6 +1,6 @@
 # Xerxes 
 
-## Xerxes (Standard) 
+## Xerxes 
 
 - **Role:** Dogfighter 
 - **Tech Base:** Clan (2827) 
@@ -16,7 +16,7 @@
   - CASE 
 - **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5425) 
 - **Battle Value:** Unknown 
-- [*More Info*](xerxes/xerxes_standard.md) 
+- [*More Info*](xerxes/xerxes.md) 
 
 ## Xerxes 2 
 

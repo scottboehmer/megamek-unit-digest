@@ -1,6 +1,6 @@
 # Hellcat 
 
-## Hellcat (Standard) "Hellhound II" 
+## Hellcat "Hellhound II" 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3133) 
@@ -19,5 +19,5 @@
   - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9409) 
 - **Battle Value:** 1782 
-- [*More Info*](hellcat/hellcat_standard.md) 
+- [*More Info*](hellcat/hellcat.md) 
 

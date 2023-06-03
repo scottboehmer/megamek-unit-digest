@@ -16,7 +16,6 @@
   - SRM 4 (ammo: 25) 
   - Small Laser × 2 
 - **Design Quirks:** 
-  - Improved Life Support 
   - Protected Actuators 
   - Poor Performance 
   - Prototype 

@@ -18,6 +18,13 @@
 - **Equipment:** 
   - CASE II 
   - MASC 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Improved Communications 
+  - Cramped Cockpit 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (Heavy PPC) 
 - **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8258) 
 - **Battle Value:** 1778 
 

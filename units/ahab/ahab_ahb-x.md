@@ -4,7 +4,7 @@
 
 ## Ahab AHB-X 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2697) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 

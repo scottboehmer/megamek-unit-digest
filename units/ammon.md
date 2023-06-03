@@ -1,6 +1,6 @@
 # Ammon 
 
-## Ammon (Standard) 
+## Ammon 
 
 - **Role:** Dogfighter 
 - **Tech Base:** Clan (3064) 
@@ -17,7 +17,7 @@
   - CASE 
 - **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3696) 
 - **Battle Value:** Unknown 
-- [*More Info*](ammon/ammon_standard.md) 
+- [*More Info*](ammon/ammon.md) 
 
 ## Ammon 2 
 

@@ -4,7 +4,7 @@
 
 ## Kamakiri Attack VTOL (Gauss) 'Shi Kamakiri' 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3106) 
 - **Chassis:** 55 tons VTOL 
 - **Movement:** 7 / 11, XL 

@@ -4,7 +4,7 @@
 
 ## Blackjack C 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Clan (3150) 
 - **Chassis:** 45 tons 
 - **Movement:** 4 / 6 
@@ -16,7 +16,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE II 
-- **Source:** ForcePack Wolfs Dragoons - Early Republic 
+- **Sources:** ForcePack Wolfs Dragoons - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8388) 
 - **Battle Value:** 1639 
 
 ## Availability 

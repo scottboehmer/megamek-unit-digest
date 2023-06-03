@@ -4,8 +4,8 @@
 
 ## Warrior Attack Helicopter H-7F 
 
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (3100) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3143) 
 - **Chassis:** 21 tons VTOL 
 - **Movement:** 10 / 15, Fuel Cell 
 - **Armor:** 35 (Ferro Fibrous) 
@@ -15,7 +15,7 @@
   - SRM 2 (iOS) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Rec Guide:ilClan #28 - , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
+- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
 - **Battle Value:** 294 
 
 ## Availability 
@@ -176,7 +176,6 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League 
@@ -185,13 +184,10 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
-- Marik-Stewart Commonwealth 
 - Mercenary 
-- Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
 - Republic of the Sphere 
-- Rim Commonality 
 - Taurian Concordat 
 
 ### ilClan 

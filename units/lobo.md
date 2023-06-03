@@ -1,6 +1,6 @@
 # Lobo 
 
-## Lobo (Standard) 
+## Lobo 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3059) 
@@ -22,7 +22,7 @@
   - Directional Torso Mount (Anti-Missile System) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4528) 
 - **Battle Value:** 1715 
-- [*More Info*](lobo/lobo_standard.md) 
+- [*More Info*](lobo/lobo.md) 
 
 ## Lobo 2 
 
@@ -42,6 +42,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5668) 
 - **Battle Value:** 1869 
 - [*More Info*](lobo/lobo_2.md) 
@@ -66,6 +67,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
+  - Directional Torso Mount (All Weapons) 
 - **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5669) 
 - **Battle Value:** 1784 
 - [*More Info*](lobo/lobo_3.md) 

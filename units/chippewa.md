@@ -2,7 +2,7 @@
 
 ## Chippewa CHP-W5 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2584) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 
@@ -21,7 +21,7 @@
 
 ## Chippewa CHP-W5b 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2731) 
 - **Chassis:** 90 tons 
 - **Thrust:** 6 / 9, XL 
@@ -39,7 +39,7 @@
 
 ## Chippewa CHP-W7 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2735) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8, XL 
@@ -58,7 +58,7 @@
 
 ## Chippewa CHP-W10 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2953) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 
@@ -77,7 +77,7 @@
 
 ## Chippewa CHP-W7 (Manfred) 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8, XL 
@@ -97,7 +97,7 @@
 
 ## Chippewa CHP-W8 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8, XL 
@@ -115,7 +115,7 @@
 
 ## Chippewa CHP-W7T 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3069) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8, XL 
@@ -135,7 +135,7 @@
 
 ## Chippewa CHP-X-P (Gladstone) 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 

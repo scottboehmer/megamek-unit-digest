@@ -6,14 +6,14 @@ Unrecognized Components:
 
 --------------------------------------------------
 Units without Battle Value:
-Rhino (Standard) - unknown battle value
+Rhino - unknown battle value
 Tessen TSN-X4R 'Rapunzel' - unknown battle value
 Firebird FR-1 - The method or operation is not implemented.
 Star Dagger S-2B - The method or operation is not implemented.
 Thrush TR-5 - The method or operation is not implemented.
 Transit TR-9 - The method or operation is not implemented.
 Chippewa IIC 2 - The method or operation is not implemented.
-Chippewa IIC (Standard) - The method or operation is not implemented.
+Chippewa IIC - The method or operation is not implemented.
 Goth A - The method or operation is not implemented.
 Goth B - The method or operation is not implemented.
 Goth C - The method or operation is not implemented.
@@ -31,7 +31,7 @@ Kublai G - The method or operation is not implemented.
 Ogotai A - The method or operation is not implemented.
 Ogotai B - The method or operation is not implemented.
 Ogotai Prime - The method or operation is not implemented.
-Pella (Standard) - The method or operation is not implemented.
+Pella - The method or operation is not implemented.
 Qasar A - The method or operation is not implemented.
 Qasar B - The method or operation is not implemented.
 Qasar C - The method or operation is not implemented.
@@ -44,9 +44,9 @@ Voidseeker Mk 39-004 Interceptor - The method or operation is not implemented.
 Voidseeker Mk 39-007 Striker - The method or operation is not implemented.
 DragonFly MM-1 - The method or operation is not implemented.
 Blackwasp Mk. 30 - The method or operation is not implemented.
-Aeshna Heavy Drone Fighter (Standard) - The method or operation is not implemented.
-Scarab Medium Drone Fighter (Standard) - The method or operation is not implemented.
-Tabanid Light Drone Fighter (Standard) - The method or operation is not implemented.
+Aeshna Heavy Drone Fighter - The method or operation is not implemented.
+Scarab Medium Drone Fighter - The method or operation is not implemented.
+Tabanid Light Drone Fighter - The method or operation is not implemented.
 Chippewa CHP-W5b - The method or operation is not implemented.
 Corsair CSR-V12b - The method or operation is not implemented.
 Eagle EGL-R6b - The method or operation is not implemented.
@@ -62,7 +62,7 @@ Corax C - The method or operation is not implemented.
 Corsair CSR-12D - The method or operation is not implemented.
 Hydaspes 3 - The method or operation is not implemented.
 Lucifer III LCR-3 - The method or operation is not implemented.
-Persepolis (Standard) - The method or operation is not implemented.
+Persepolis - The method or operation is not implemented.
 Rapier RPR-300S - The method or operation is not implemented.
 Sabre SB-31D - The method or operation is not implemented.
 Suzaku SU-14 - The method or operation is not implemented.
@@ -289,12 +289,12 @@ Visigoth C - The method or operation is not implemented.
 Visigoth D - The method or operation is not implemented.
 Visigoth E - The method or operation is not implemented.
 Visigoth Prime - The method or operation is not implemented.
-Ammon (Standard) - The method or operation is not implemented.
-Chaeronea (Standard) - The method or operation is not implemented.
-Hydaspes (Standard) - The method or operation is not implemented.
-Issus (Standard) - The method or operation is not implemented.
+Ammon - The method or operation is not implemented.
+Chaeronea - The method or operation is not implemented.
+Hydaspes - The method or operation is not implemented.
+Issus - The method or operation is not implemented.
 Tyre 2 - The method or operation is not implemented.
-Tyre (Standard) - The method or operation is not implemented.
+Tyre - The method or operation is not implemented.
 Corax CRX-O - The method or operation is not implemented.
 Corax CRX-OA - The method or operation is not implemented.
 Corax CRX-OB - The method or operation is not implemented.
@@ -338,7 +338,7 @@ Issus 2 - The method or operation is not implemented.
 Issus 3 - The method or operation is not implemented.
 Xerxes 2 - The method or operation is not implemented.
 Xerxes 3 - The method or operation is not implemented.
-Xerxes (Standard) - The method or operation is not implemented.
+Xerxes - The method or operation is not implemented.
 Corax CRX-OD - The method or operation is not implemented.
 Corax CRX-OR - The method or operation is not implemented.
 Dagger DARO-1C - The method or operation is not implemented.
@@ -445,15 +445,19 @@ Yun Y-2 - The method or operation is not implemented.
 Aquila AQA-1M - The method or operation is not implemented.
 Picaroon CSR-F100 - The method or operation is not implemented.
 Shikra SKR-4M - The method or operation is not implemented.
+Cheetah IIC - The method or operation is not implemented.
 Jengiz F - The method or operation is not implemented.
+Lucifer III C - The method or operation is not implemented.
 Morgenstern MR-1SE - The method or operation is not implemented.
 Ostrogoth D - The method or operation is not implemented.
 Sagittarii SGT-4R - The method or operation is not implemented.
 Scytha F - The method or operation is not implemented.
+Seydlitz C - The method or operation is not implemented.
 Sparrowhawk SPR-7Dr - The method or operation is not implemented.
 Stingray F-96R - The method or operation is not implemented.
 Sulla F - The method or operation is not implemented.
 Tatsu MIK-OF - The method or operation is not implemented.
+Thrush TR-9 - The method or operation is not implemented.
 Troika CMT-7T - The method or operation is not implemented.
 Wusun D - The method or operation is not implemented.
 Schrack SCK-O - The method or operation is not implemented.
@@ -465,6 +469,7 @@ Simurgh SMG-OB - The method or operation is not implemented.
 Sternensturm STM-O - The method or operation is not implemented.
 Sternensturm STM-OA - The method or operation is not implemented.
 Sternensturm STM-OB - The method or operation is not implemented.
+Shikra SKR-4N - The method or operation is not implemented.
 Bashkir Z - The method or operation is not implemented.
 Batu Z - The method or operation is not implemented.
 Sabutai Z - The method or operation is not implemented.
@@ -508,25 +513,60 @@ Starfire SF-1X (Prototype) - The method or operation is not implemented.
 --------------------------------------------------
 Units without Roles:
 Hoplite HOP-4A
-Blood Asp A
-Blood Asp B
-Blood Asp C
-Blood Asp D
-Blood Asp Prime
+Tarantula ZPH-1
+Gladiator GLD-1R (Keller)
 Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
 Beowulf C
-Black Hawk (Standard) 2
-Black Hawk (Standard) 3
-Koshi (Standard) 2
-Koshi (Standard) 3
+Mad Cat Mk IV (Savage Wolf) PR
+Awesome AWS-11V
+BattleMaster BLR-6M
+BattleMaster C 2
+Bombard BMB-016
+Brahma BRM-6T
+Caesar CES-5D
+Cerberus MR-7K
+Devastator DVS-10
+Enforcer III ENF-6R
+Goshawk II 4
+Hatamoto-Kaze HTM-27V2
+Hatchetman HCT-7D
+Helios HEL-7L
+Hercules HRC-LS-9003
+Hercules HRC-LS-9004
+Hollander BZK-G2
+Hunchback HBK-6P
+Huron Warrior HUR-WO-R5L
+Icarus II ICR-2R
+Lineholder KW2-LH10
+Omega SHP-5R
+Orion C
+Orochi OR-3K
+Penetrator PTR-7D
+Shogun C 2
+Shogun SHG-3E
+Striker STC-2L
+Tempest C
+Tempest TMP-4M
+Venom SDR-9KE
+Watchman WTC-4DM2
+Yu Huang Y-H12GC
+Gotterdammerung GTD-20C
+Gotterdammerung GTD-30S
+Juliano JLN-5B
+Juliano JLN-5C
+King Crab KGC-009C
+Kodiak II 3
+Prey Seeker PY-SR20
+Prey Seeker PY-SR30
+Raider JL-3A
+Raider JL-3B
+Raider Mk II JL-3C
+Shrike 'Black Rose'
 Ti Ts'ang TSG-9 'China Doll'
 Mad Cat III 2 (MWDA)
 Mad Cat III (Dark Age RS)
 Ryoken II (Tassa)
-Ares ARS-V1E Apollo
-BattleMaster BLR-1GHE 'HellSlinger'
-Blackjack C
 Rock Hound ProspectorMech AM-PRM-RH7 'Rock Possum'
 Rock Hound ProspectorMech AM-PRM-RH7
 Rock Hound ProspectorMech AM-PRM-RH7A 'Rock Otter'
@@ -552,28 +592,12 @@ Arana MilitiaMech ARA-S-1
 Reptar MilitiaMech EPT-C-1
 Waneta S-WN-1LAM
 Champion CHP-1Nb2
-Griffin GRF-2N2
-Thunderbolt TDR-5Sb2
 Mad Cat III 2
-Stinger C 2
-Stinger C
-Blood Asp E
-Blood Asp F
-Blood Asp G
-Blood Asp I
-Blood Asp T
+Chameleon TRC-4C
 Marauder Red Hunter
-Warhammer C 3
-Deimos H
-Hel HL-1
-Longshot LNG-2 (Reskov)
-Rattlesnake II RSN-1
-Rattlesnake II RSN-2
-Rattlesnake JR7-31
-Rattlesnake JR7-31P
-Rattlesnake JR7-31R (Gideon)
+Shadow Hawk SHD-11CS2
 Grand Dragon DRG-1G (Emory)
-Carbine CON-7 ConstructionMech (Standard)
+Carbine CON-7 ConstructionMech
 CattleMaster CTL-3R 'Herder' IndustrialMech
 Copper SecurityMech CPK-19
 Crosscut ED-X2M LoggerMech MOD
@@ -583,8 +607,7 @@ Harvester Ant KIC-3M AgroMech MOD
 Harvester Ant KIC-3M-B AgroMech MOD
 Pompier Firemech GM-3HT
 Shugosha PTN-LAW LoaderMech
-Uni ATAE-70T CargoMech (Standard)
-Vampyr SC-V-1 SalvageMech (Standard)
+Vampyr SC-V-1 SalvageMech
 Bull Shark BSK-M3
 Bull Shark BSK-MAZ
 Corsair COR-5R
@@ -612,97 +635,125 @@ Sun Spider Prime
 Sun Spider Vanguard
 Talon TLN-5VNO
 Liberator LIB-4T
-Ostscout IIC (Standard)
-Arbiter SecurityMech ARB-001
+Ostscout IIC
 Ti Ts'ang TSG-9DDC 'Prototype'
 Pathfinder PFF-2T
-Tessen TSN-X4R 'Rapunzel'
+Awesome C
 Puma Assault Tank PAT-001
 Puma Assault Tank PAT-002
-Ground Car (Standard)
-Heavy Transport B1 (Standard)
-Hover Tank (Standard)
-Jeep (Standard)
-Jet Sled (Standard)
+Ground Car
+Heavy Transport B1
+Hover Tank
+Jeep
+Jet Sled
 MASH Truck (Small)
-Mobile Long Tom Artillery (+Carriages)(Unofficial)
-Speeder (Standard)
+Speeder
 Weapons Carrier A (LL)
-Wheeled Scout (Standard)
 Coolant Truck (Hover)
 Coolant Truck (Tracked)
 Demolisher Heavy Tank (Standard Mk. I)
-Engineering Vehicle (Standard)
+Engineering Vehicle
 Ferret Light Scout VTOL (Cargo)
-Hi-Scout Drone Carrier (Standard)
+Hi-Scout Drone Carrier
 J-27 Ordnance Transport (Armor)
 J-27 Ordnance Transport (Fusion)
 J-27 Ordnance Transport (Trailer)
-J-27 Ordnance Transport (Standard)
+J-27 Ordnance Transport
 MASH Truck (ICE)
-MASH Truck (Standard)
+MASH Truck
 Mobile Headquarters (ICE - LL)
 Mobile Headquarters (ICE - LRM)
 Mobile Headquarters (ICE)
 Mobile Headquarters (LL)
 Mobile Headquarters (LRM)
-Mobile Headquarters (Standard)
+Mobile Headquarters
 Mobile Long Tom Artillery LT-MOB-25 (Ammunition Carriage)
 Mobile Long Tom Artillery LT-MOB-25 (Support Carriage)
-Neptune Submarine (Standard)
+Mobile Long Tom Artillery LT-MOB-25
+Neptune Submarine
 Karnov UR Transport (3055 Upgrade)
 Karnov UR Transport (BA)
 Kestrel VTOL (MedEvac)
 Peregrine Attack VTOL (Cargo)
-BattleMech Recovery Vehicle (Standard)
-Flatbed Truck (Standard)
-Heavy BattleMech Recovery Vehicle (Standard)
+BattleMech Recovery Vehicle
+Flatbed Truck
+Heavy BattleMech Recovery Vehicle
 Morningstar City Command Vehicle (HPG)
-Crow Scout Helicopter 'Dragonfly'
+Aeron Strike VTOL
 Transportable Field Repair Unit JI-100
 Manta Fast Attack Submarine (Support)
 Moray Heavy Attack Submarine (Original)
-Kamakiri Attack VTOL (Gauss) 'Shi Kamakiri'
 R10 Mechanized ICV (Coolant Truck)
-Garrot Superheavy Transport (Standard)
-MIT24 MASH Vehicle (Standard)
-Mobile Tactical Command HQ (Standard)
+Garrot Superheavy Transport
+Huitzilopochtli Assault Tank 'Huey' (LRM)
+Huitzilopochtli Assault Tank 'Huey' (Streak)
+MIT24 MASH Vehicle
+Mobile Long Tom Artillery LT-MOB-95
+Padilla Tube Artillery Tank (AMS)
+Pilum Heavy Tank (ELRM)
+Schildkröte Line Tank
+Bardiche Heavy Strike Tank C
+Bellona Hover Tank (XL)
+Devastator II Superheavy Tank
+Galleon Light Tank GAL-105
+Hadur Fast Support Vehicle (LRM)
+Hadur Fast Support Vehicle (Reactive)
+Kite Reconnaissance Vehicle (Fusion)
+Predator Tank Destroyer (Elite)
+Schildkröte Line Tank (HPPC)
+Schildkröte Line Tank (Light Gauss)
+Schildkröte Line Tank (Plasma)
+Sekhmet Assault Vehicle (Streak)
+Shun Transport VTOL (Support)
+Skanda Light Tank (TSEMP)
+Swallow Attack WiGE (Spotter)
+Mobile Tactical Command HQ
 Kokou Defense Tank (Standard)
-Vector Combat Support VTOL (Scout)
 Wheeled Scout (Camera)
 Wheeled Scout (Sensors)
 Wheeled Scout (Standard)
 Hephaestus Jump Tank (AP)
 Nuberu Anti Aircraft Tank 2 'Numantia'
-Pegasus Scout Hover Tank (Upgrade)
+Bulldog Medium Tank (LB-X)
+Galleon Light Tank GAL-201
+Galleon Light Tank GAL-300
 Mobile Long Tom Artillery LT-MOB-25F (Ammunition Carriage)
 Mobile Long Tom Artillery LT-MOB-25F (Ammunition Loader Carriage)
 Mobile Long Tom Artillery LT-MOB-25F (Drone Command Carriage)
 Mobile Long Tom Artillery LT-MOB-25F (Support Carriage)
-Browning Mobile HQ (Half Track)
-Browning Mobile HQ
-Ontos Heavy Tank (Chemical Laser)
-Harrier Hover Tank (Original)
+Skulker Wheeled Scout Tank C
+SturmFeur Heavy Tank (Assault)
+SturmFeur Heavy Tank (Support) 'Gilmore'
+SturmFeur Heavy Tank (WoB)
+SturmFeur Heavy Tank
+Warrior Attack Helicopter H-7F
+Whirlwind Scout Hover Tank (AAA)
+Whirlwind Scout Hover Tank (IFV)
+Whirlwind Scout Hover Tank
+SRM Carrier C
+Behemoth Heavy Tank (Davion)
+Behemoth Heavy Tank (Kurita Upgrade)
+Behemoth Heavy Tank (Liao)
+Behemoth Heavy Tank (Refit)
+Harrier Heavy Hover Tank (PPC)
+Harrier Heavy Hover Tank (Re-Laser)
+Harrier Heavy Hover Tank
+Manticore Heavy Tank (XL)
 MASH Truck (AMS)
-Drillson Heavy Hover Tank (MML)
+Savannah Master Hovercraft (Reflective)
 Packrat LRPV PKR-T5 (TOC)
-Desert Scorpion Light Tank (Standard)
+Desert Scorpion Light Tank
 Koryu Submarine (Civilian)
 Koryu Submarine (Military)
-Vedette Medium Tank (AC/10)
-Manticore Heavy Tank 'The Ballista'
+Weapons/Troop Carrier (LRM)
+Jagdpanzer II
 Karnov UR Transport (Heavy Stealth)
-Patton Tank -SB
-Demolisher II Heavy Tank II-X
+Danai Support Vehicle (Arrow)
+LTV-4 Hover Tank
 Cavalier Battle Armor [MG](Sqd6)
 Clan Medium Battle Armor (Laser) 'Volk' (Sqd6)
-Grenadier Battle Armor [TAG](Sqd5)
-Trinity Medium Battle Armor (Theseus RL)[LRR](Sqd5)
-Trinity Medium Battle Armor (Ying Long)(Plasma)(Sqd5)
 Nighthawk PA(L) Mk. XXX (Bounty Hunter)(Non-Functional)
-Constable Pacification Suit [SRM] (Sqd4)
 Cavalier II Battle Armor [Flamer](Sqd4)
-IS Standard Battle Armor (Baka) [LRR](Sqd5)
 IS Standard Battle Armor (Baka) [LRR](Sqd6)
 IS Standard Battle Armor (Baka) [SL](Sqd5)
 IS Standard Battle Armor (Baka) [SL](Sqd6)
@@ -712,47 +763,38 @@ IS Standard Battle Armor (Fa Sure) [MG](Sqd5)
 IS Standard Battle Armor (Fa Sure) [MG](Sqd6)
 Kanazuchi Assault Battle Armor (Support)(Sqd5)
 Kanazuchi Assault Battle Armor (Support)(Sqd6)
-Rhino Battle Armor (Standard)(Sqd4)
-Rhino Battle Armor (Standard)(Sqd5)
-Rhino Battle Armor (Standard)(Sqd6)
-Water Elemental Mining Suit (Standard)(Sqd4)
-Water Elemental Mining Suit (Standard)(Sqd5)
-Water Elemental Mining Suit (Standard)(Sqd6)
-Machina Domini Interface Armor (Standard)(Sqd1)
-Dragoon Battle Armor (Upgrade)(Sqd4)
-Dragoon Battle Armor (Upgrade)(Sqd5)
-Dragoon Battle Armor (Upgrade)(Sqd6)
-Callisto Battle Armor A [Bearhunter](Sqd4)
-Callisto Battle Armor A [Bearhunter](Sqd5)
-Callisto Battle Armor A [Bearhunter](Sqd6)
-Callisto Battle Armor A [ER Laser](Sqd4)
-Callisto Battle Armor A [ER Laser](Sqd5)
-Callisto Battle Armor A [ER Laser](Sqd6)
-Callisto Battle Armor A [HMG](Sqd4)
-Callisto Battle Armor A [HMG](Sqd5)
-Callisto Battle Armor A [HMG](Sqd6)
-Callisto Battle Armor B [MRR](Sqd4)
-Callisto Battle Armor B [MRR](Sqd5)
-Callisto Battle Armor B [MRR](Sqd6)
-Callisto Battle Armor B [SRM](Sqd4)
-Callisto Battle Armor B [SRM](Sqd5)
-Callisto Battle Armor B [SRM](Sqd6)
-IS Standard Battle Armor [Magnetic](Sqd4)
-IS Standard Battle Armor [Magnetic](Sqd5)
-IS Standard Battle Armor [Magnetic](Sqd6)
+Longinus C Battle Armor [MMR] (Sqd4)
+Longinus C Battle Armor [MMR] (Sqd5)
+Longinus C Battle Armor [PPC] (Sqd4)
+Longinus C Battle Armor [PPC] (Sqd5)
+Rhino Battle Armor (Sqd4)
+Rhino Battle Armor (Sqd5)
+Rhino Battle Armor (Sqd6)
+Water Elemental Mining Suit (Sqd4)
+Water Elemental Mining Suit (Sqd5)
+Water Elemental Mining Suit (Sqd6)
+Machina Domini Interface Armor (Sqd1)
+TinStar BattleArmor (Sqd5)
+TinStar BattleArmor (Sqd6)
+TinStar BattleArmor (Original)(Sqd4)
+TinStar BattleArmor (Original)(Sqd5)
+TinStar BattleArmor (Original)(Sqd6)
+Dragoon Battle Armor (Advanced)(Sqd4)
+Dragoon Battle Armor (Advanced)(Sqd5)
+Dragoon Battle Armor (Advanced)(Sqd6)
+Dragoon Battle Armor (Sqd4)
+Dragoon Battle Armor (Sqd5)
+Dragoon Battle Armor (Sqd6)
 Achileus Light Battle Armor [Laser]
-Hantu AIX-210(Sqd4)
-Hantu AIX-210(Sqd5)
-Hantu AIX-210(Sqd6)
-Ailette Zero-G Engineering Exoskeleton (Standard)(Sqd4)
-Ailette Zero-G Engineering Exoskeleton (Standard)(Sqd5)
-Ailette Zero-G Engineering Exoskeleton (Standard)(Sqd6)
-Gladiator Exoskeleton (Standard) [AG](Sqd5)
-Gladiator Exoskeleton (Standard) [AG](Sqd4)
-Gladiator Exoskeleton (Standard) [AG](Sqd6)
-Gladiator Exoskeleton (Standard) [BC/ID](Sqd5)
-Gladiator Exoskeleton (Standard) [BC/ID](Sqd4)
-Gladiator Exoskeleton (Standard) [BC/ID](Sqd6)
+Ailette Zero-G Engineering Exoskeleton (Sqd4)
+Ailette Zero-G Engineering Exoskeleton (Sqd5)
+Ailette Zero-G Engineering Exoskeleton (Sqd6)
+Gladiator Exoskeleton [AG](Sqd5)
+Gladiator Exoskeleton [AG](Sqd4)
+Gladiator Exoskeleton [AG](Sqd6)
+Gladiator Exoskeleton [BC/ID](Sqd5)
+Gladiator Exoskeleton [BC/ID](Sqd4)
+Gladiator Exoskeleton [BC/ID](Sqd6)
 Gorilla Exoskeleton 'Falcata'(Sqd4)
 Gorilla Exoskeleton 'Falcata'(Sqd5)
 Gorilla Exoskeleton 'Falcata'(Sqd6)
@@ -777,12 +819,12 @@ Groundhog Exoskeleton CEX-205 [Mine Clearance](Sqd6)
 Groundhog Exoskeleton CEX-205 [Salvage Arm](Sqd4)
 Groundhog Exoskeleton CEX-205 [Salvage Arm](Sqd5)
 Groundhog Exoskeleton CEX-205 [Salvage Arm](Sqd6)
-HeavyHauler Exoskeleton (Standard)(Sqd4)
-HeavyHauler Exoskeleton (Standard)(Sqd5)
-HeavyHauler Exoskeleton (Standard)(Sqd6)
-Krise PA(L) (Standard)(Sqd4)
-Krise PA(L) (Standard)(Sqd5)
-Krise PA(L) (Standard)(Sqd6)
+HeavyHauler Exoskeleton (Sqd4)
+HeavyHauler Exoskeleton (Sqd5)
+HeavyHauler Exoskeleton (Sqd6)
+Krise PA(L) (Sqd4)
+Krise PA(L) (Sqd5)
+Krise PA(L) (Sqd6)
 PowerLoader Exoskeleton P-5000(Sqd4)
 PowerLoader Exoskeleton P-5000(Sqd5)
 PowerLoader Exoskeleton P-5000(Sqd6)
@@ -834,16 +876,118 @@ Tunnel Rat IV Mining Exoskeleton [Battle Claw/GL](Sqd6)
 Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG](Sqd4)
 Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG](Sqd5)
 Tunnel Rat IV Mining Exoskeleton [Battle Claw/LMG](Sqd6)
-Kobold Battle Armor X-C3(Sqd6)
 Groundhog Exoskeleton 'Master Thief'(Sqd1)
-Tornado PA(L) G17(Sqd5)
-Tortoise II (aSRM)(Sqd5)
+Firebird FR-1
 Thrush TR-5
+Goth A
+Rapier RPR-100b-EC
+DragonFly MM-1
+Aeshna Heavy Drone Fighter
+Chippewa CHP-W5b
+Stuka STU-K5b
 Stuka STU-K5b2
+Thunderbird TRB-D36b
+Hydaspes 3
+Lucifer III LCR-3
+Tyre 3
 Wildkatze WKT-2S
+Chippewa CHP-W7 (Manfred)
+Hydaspes (Algar)
 Banshee BSE-X2
-Cheetah II F-12A
+Chippewa CHP-W10
+Chippewa CHP-W5
+Chippewa CHP-W7
+Chippewa CHP-W7T
+Chippewa CHP-W8
+Lucifer LCF-R15
+Lucifer LCF-R16
+Lucifer LCF-R20
+Riever F-100
+Riever F-100a
+Riever F-100b
+Riever F-700a
+Riever F-700b
+Stuka STU-D6
+Stuka STU-D7
+Stuka STU-K10
+Stuka STU-K15
+Stuka STU-K5
+Ahab AHB-443
+Ahab AHB-643
+Ahab AHB-MD
+Ahab AHB-X
+Gotha GTHA-100
+Gotha GTHA-300
+Gotha GTHA-400
+Gotha GTHA-500
+Rogue RGU-133E
+Jengiz A
+Jengiz B
+Jengiz C
+Jengiz D
+Jengiz E
+Jengiz Prime
+Jengiz X
+Kirghiz A
+Kirghiz B
+Kirghiz C
+Kirghiz D
+Kirghiz E
+Kirghiz Prime
+Hydaspes
+Tyre 2
+Tyre
+Huscarl HSCL-1-O
+Huscarl HSCL-1-OA
+Huscarl HSCL-1-OB
+Huscarl HSCL-1-OC
+Shiva SHV-O
+Shiva SHV-OA
+Shiva SHV-OB
+Shiva SHV-OC
+Tatsu MIK-O
+Tatsu MIK-OA
+Tatsu MIK-OB
+Tatsu MIK-OC
+Hydaspes 2
+Huscarl HSCL-1-OD
+Huscarl HSCL-1-OR
+Shiva SHV-OD
+Tatsu MIK-OD
+Tatsu MIK-OE
+Deathstalker F-77
+Deathstalker F-77A
+Eagle EGL-R1
+Eagle EGL-R4
+Thunderbird TRB-D36
+Thunderbird TRB-D46
+Thunderbird TRB-D50
+Thunderbird TRB-D56
+Typhoon TFN-2A
+Typhoon TFN-3A
+Typhoon TFN-3M
+Typhoon TFN-5H
+Vulcan VLC-5N
+Vulcan VLC-6N
+Vulcan VLC-8N
+Ahab AHB-443b
+Gotha GTHA-500b
+Mengqin MNG-8L
+Yun Y-2
+Cheetah IIC
+Jengiz F
+Lucifer III C
+Seydlitz C
+Tatsu MIK-OF
+Thrush TR-9
+Shikra SKR-4N
+Lucifer LCF-X30
+Thunderbird TRB-XTS
+Deathstalker XF-78
+Chippewa CHP-X-P (Gladstone)
+Vulcan VLC-3N
+Hammerhead HMR-HA
 Starfire SF-1X (Prototype)
 
 --------------------------------------------------
-7101 files -> 7101 parsed files (0 skipped) -> 6880 converted files -> 6865 validated units
+7181 files -> 7181 parsed files (0 skipped) -> 6959 converted files -> 6945 validated units

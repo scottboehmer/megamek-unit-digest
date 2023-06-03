@@ -4,7 +4,7 @@
 
 ## Warhammer C 3 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Clan Mixed (2862) 
 - **Chassis:** 70 tons (Endo Steel) 
 - **Movement:** 4 / 6, XL 
@@ -24,6 +24,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #7 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7566) 
 - **Battle Value:** 2772 
 

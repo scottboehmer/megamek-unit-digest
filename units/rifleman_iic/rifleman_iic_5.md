@@ -16,7 +16,6 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2714) 
 - **Battle Value:** 2343 

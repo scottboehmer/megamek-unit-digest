@@ -16,7 +16,7 @@
 - **Battle Value:** 265 
 - [*More Info*](cobra_transport_vtol/cobra_transport_vtol_original.md) 
 
-## Cobra Transport VTOL (Standard) 
+## Cobra Transport VTOL 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2620) 
@@ -31,7 +31,7 @@
   - Cargo 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/659) 
 - **Battle Value:** 367 
-- [*More Info*](cobra_transport_vtol/cobra_transport_vtol_standard.md) 
+- [*More Info*](cobra_transport_vtol/cobra_transport_vtol.md) 
 
 ## Cobra Transport VTOL (Command) 
 

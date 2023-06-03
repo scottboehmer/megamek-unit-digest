@@ -4,7 +4,7 @@
 
 ## Browning Mobile HQ 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (2625) 
 - **Chassis:** 25 tons Wheeled 
 - **Movement:** 7 / 11, Fusion 

@@ -18,12 +18,12 @@
 
 #### [Huscarl](../../../units/huscarl.md) 
 
-- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Attack Fighter (3068)* 
-- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Attack Fighter (3079)* 
+- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Undefined (3068)* 
+- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Undefined (3079)* 
 
 ### 90 Tons 
 

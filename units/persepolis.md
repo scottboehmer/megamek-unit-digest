@@ -1,6 +1,6 @@
 # Persepolis 
 
-## Persepolis (Standard) 
+## Persepolis 
 
 - **Role:** Dogfighter 
 - **Tech Base:** Clan (3082) 
@@ -18,7 +18,7 @@
   - CASE 
 - **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4806) 
 - **Battle Value:** Unknown 
-- [*More Info*](persepolis/persepolis_standard.md) 
+- [*More Info*](persepolis/persepolis.md) 
 
 ## Persepolis 2 
 

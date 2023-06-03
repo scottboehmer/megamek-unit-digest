@@ -1,6 +1,6 @@
 # Karnov UR Transport 
 
-## Karnov UR Transport (Standard) 
+## Karnov UR Transport 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2600) 
@@ -12,7 +12,7 @@
   - Infantry (6.0 tons) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1759) 
 - **Battle Value:** 125 
-- [*More Info*](karnov_ur_transport/karnov_ur_transport_standard.md) 
+- [*More Info*](karnov_ur_transport/karnov_ur_transport.md) 
 
 ## Karnov UR Transport (AC) 
 

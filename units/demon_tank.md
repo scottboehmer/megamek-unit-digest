@@ -1,6 +1,6 @@
 # Demon Tank 
 
-## Demon Tank (Standard) 
+## Demon Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2716) 
@@ -16,7 +16,7 @@
   - CASE 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/876) 
 - **Battle Value:** 1094 
-- [*More Info*](demon_tank/demon_tank_standard.md) 
+- [*More Info*](demon_tank/demon_tank.md) 
 
 ## Demon Tank (Horned Demon) 
 

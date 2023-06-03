@@ -16,6 +16,9 @@
   - Medium VSP Laser × 3 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Fast Reload (LRM 15) 
 - **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7500) 
 - **Battle Value:** 1550 
 

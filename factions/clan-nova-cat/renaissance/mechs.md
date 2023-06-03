@@ -20,7 +20,7 @@
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
-- [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 
 #### [Mist Lynx](../../../units/mist_lynx.md) 
 
@@ -56,7 +56,7 @@
 
 #### [Incubus](../../../units/incubus.md) 
 
-- [**Incubus (Standard)**](../../../units/incubus/incubus_standard.md) *Striker (2954)* 
+- [**Incubus**](../../../units/incubus/incubus.md) *Striker (2954)* 
 - [**Incubus 2**](../../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../../units/incubus/incubus_8.md) *Striker (2962)* 
@@ -77,7 +77,7 @@
 
 #### [Jenner IIC](../../../units/jenner_iic.md) 
 
-- [**Jenner IIC (Standard)**](../../../units/jenner_iic/jenner_iic_standard.md) *Striker (3042)* 
+- [**Jenner IIC**](../../../units/jenner_iic/jenner_iic.md) *Striker (3042)* 
 - [**Jenner IIC 2**](../../../units/jenner_iic/jenner_iic_2.md) *Striker (3044)* 
 - [**Jenner IIC 3**](../../../units/jenner_iic/jenner_iic_3.md) *Striker (3048)* 
 
@@ -97,7 +97,7 @@
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
-- [**Griffin IIC (Standard)**](../../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
+- [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 - [**Griffin IIC 2**](../../../units/griffin_iic/griffin_iic_2.md) *Striker (2973)* 
 
 #### [Sentinel](../../../units/sentinel.md) 
@@ -135,7 +135,7 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
 
@@ -194,7 +194,7 @@
 #### [Vapor Eagle](../../../units/vapor_eagle.md) 
 
 - [**Vapor Eagle 6**](../../../units/vapor_eagle/vapor_eagle_6.md) *Skirmisher (2850)* 
-- [**Vapor Eagle (Standard)**](../../../units/vapor_eagle/vapor_eagle_standard.md) *Skirmisher (2863)* 
+- [**Vapor Eagle**](../../../units/vapor_eagle/vapor_eagle.md) *Skirmisher (2863)* 
 - [**Vapor Eagle 2**](../../../units/vapor_eagle/vapor_eagle_2.md) *Skirmisher (2912)* 
 - [**Vapor Eagle 5**](../../../units/vapor_eagle/vapor_eagle_5.md) *Skirmisher (2922)* 
 
@@ -202,7 +202,7 @@
 
 #### [Glass Spider](../../../units/glass_spider.md) 
 
-- [**Glass Spider (Standard)**](../../../units/glass_spider/glass_spider_standard.md) *Sniper (2834)* 
+- [**Glass Spider**](../../../units/glass_spider/glass_spider.md) *Sniper (2834)* 
 
 #### [Lancelot](../../../units/lancelot.md) 
 
@@ -221,7 +221,7 @@
 
 #### [Vision Quest](../../../units/vision_quest.md) 
 
-- [**Vision Quest (Standard)**](../../../units/vision_quest/vision_quest_standard.md) *Brawler (2832)* 
+- [**Vision Quest**](../../../units/vision_quest/vision_quest.md) *Brawler (2832)* 
 - [**Vision Quest 2**](../../../units/vision_quest/vision_quest_2.md) *Sniper (2868)* 
 
 ### 65 Tons 
@@ -265,7 +265,7 @@
 
 #### [Grizzly](../../../units/grizzly.md) 
 
-- [**Grizzly (Standard)**](../../../units/grizzly/grizzly_standard.md) *Skirmisher (2947)* 
+- [**Grizzly**](../../../units/grizzly/grizzly.md) *Skirmisher (2947)* 
 
 #### [Lumberjack](../../../units/lumberjack.md) 
 

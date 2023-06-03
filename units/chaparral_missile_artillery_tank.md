@@ -1,6 +1,6 @@
 # Chaparral Missile Artillery Tank 
 
-## Chaparral Missile Artillery Tank (Standard) 
+## Chaparral Missile Artillery Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2611) 
@@ -14,7 +14,23 @@
   - Medium Laser × 2 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/558) 
 - **Battle Value:** 812 
-- [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_standard.md) 
+- [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank.md) 
+
+## Chaparral Missile Artillery Tank (SRM) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2614) 
+- **Chassis:** 50 tons Tracked 
+- **Movement:** 4 / 6, Fusion 
+- **Armor:** 88 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Arrow IV (ammo: 20) 
+  - Medium Laser × 2 
+  - SRM 4 (ammo: 25) 
+- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/557) 
+- **Battle Value:** 832 
+- [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) 
 
 ## Chaparral Missile Artillery Tank (MG) 
 
@@ -32,22 +48,6 @@
 - **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/556) 
 - **Battle Value:** 801 
 - [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_mg.md) 
-
-## Chaparral Missile Artillery Tank (SRM) 
-
-- **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (3064) 
-- **Chassis:** 50 tons Tracked 
-- **Movement:** 4 / 6, Fusion 
-- **Armor:** 88 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - Arrow IV (ammo: 20) 
-  - Medium Laser × 2 
-  - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/557) 
-- **Battle Value:** 832 
-- [*More Info*](chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) 
 
 ## Chaparral Missile Artillery Tank (CASE) 
 

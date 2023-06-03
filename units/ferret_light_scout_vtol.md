@@ -1,6 +1,6 @@
 # Ferret Light Scout VTOL 
 
-## Ferret Light Scout VTOL (Standard) 
+## Ferret Light Scout VTOL 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2904) 
@@ -14,7 +14,7 @@
   - Infantry (1.0 tons) 
 - **Sources:** TRO 3039 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1060) 
 - **Battle Value:** 58 
-- [*More Info*](ferret_light_scout_vtol/ferret_light_scout_vtol_standard.md) 
+- [*More Info*](ferret_light_scout_vtol/ferret_light_scout_vtol.md) 
 
 ## Ferret Light Scout VTOL (Armor) 'Wild Weasel' 
 

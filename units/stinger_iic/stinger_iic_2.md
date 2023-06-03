@@ -4,7 +4,7 @@
 
 ## Stinger IIC 2 
 
-- **Role:** Striker 
+- **Role:** Scout 
 - **Tech Base:** Clan (3086) 
 - **Chassis:** 20 tons (Endo Steel) 
 - **Movement:** 5 / 8 

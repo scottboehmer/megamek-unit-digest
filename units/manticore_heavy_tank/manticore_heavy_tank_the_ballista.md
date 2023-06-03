@@ -4,7 +4,7 @@
 
 ## Manticore Heavy Tank 'The Ballista' 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3076) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 4 / 6 (8), XL 

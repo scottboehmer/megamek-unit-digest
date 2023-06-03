@@ -51,7 +51,7 @@
 - **Battle Value:** 64 (573 for 6 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_reconsqd6.md) 
 
-## Shedu Assault Battle Armor (Standard)(Sqd4) 
+## Shedu Assault Battle Armor (Sqd4) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3072) 
@@ -63,9 +63,9 @@
   - Heavy Machine Gun × 2 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5044) 
 - **Battle Value:** 72 (376 for 4 suits) 
-- [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_standardsqd4.md) 
+- [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_sqd4.md) 
 
-## Shedu Assault Battle Armor (Standard)(Sqd5) 
+## Shedu Assault Battle Armor (Sqd5) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3072) 
@@ -77,9 +77,9 @@
   - Heavy Machine Gun × 2 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8673) 
 - **Battle Value:** 72 (507 for 5 suits) 
-- [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_standardsqd5.md) 
+- [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_sqd5.md) 
 
-## Shedu Assault Battle Armor (Standard)(Sqd6) 
+## Shedu Assault Battle Armor (Sqd6) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3072) 
@@ -91,7 +91,7 @@
   - Heavy Machine Gun × 2 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9037) 
 - **Battle Value:** 72 (651 for 6 suits) 
-- [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_standardsqd6.md) 
+- [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_sqd6.md) 
 
 ## Shedu Assault Battle Armor (Support)(Sqd4) 
 

@@ -1,6 +1,6 @@
 # Scylla 
 
-## Scylla (Standard) 
+## Scylla 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (3062) 
@@ -20,7 +20,7 @@
   - Oversized 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5000) 
 - **Battle Value:** 2897 
-- [*More Info*](scylla/scylla_standard.md) 
+- [*More Info*](scylla/scylla.md) 
 
 ## Scylla 2 
 

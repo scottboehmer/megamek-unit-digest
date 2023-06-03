@@ -4,7 +4,7 @@
 
 ## Stinger C 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Clan (2832) 
 - **Chassis:** 20 tons (Endo Steel) 
 - **Movement:** 6 / 9 

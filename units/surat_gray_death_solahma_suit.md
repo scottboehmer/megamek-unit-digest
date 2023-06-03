@@ -1,6 +1,6 @@
 # Surat (Gray Death) Solahma Suit 
 
-## Surat (Gray Death) Solahma Suit (Standard)(Sqd4) 
+## Surat (Gray Death) Solahma Suit (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3090) 
@@ -15,9 +15,9 @@
   - Anti-Personnel Mount 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7307) 
 - **Battle Value:** 51 (267 for 4 suits) 
-- [*More Info*](surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_standardsqd4.md) 
+- [*More Info*](surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_sqd4.md) 
 
-## Surat (Gray Death) Solahma Suit (Standard)(Sqd5) 
+## Surat (Gray Death) Solahma Suit (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3090) 
@@ -32,9 +32,9 @@
   - Anti-Personnel Mount 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8822) 
 - **Battle Value:** 51 (359 for 5 suits) 
-- [*More Info*](surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_standardsqd5.md) 
+- [*More Info*](surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_sqd5.md) 
 
-## Surat (Gray Death) Solahma Suit (Standard)(Sqd6) 
+## Surat (Gray Death) Solahma Suit (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3090) 
@@ -49,5 +49,5 @@
   - Anti-Personnel Mount 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9185) 
 - **Battle Value:** 51 (462 for 6 suits) 
-- [*More Info*](surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_standardsqd6.md) 
+- [*More Info*](surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_sqd6.md) 
 

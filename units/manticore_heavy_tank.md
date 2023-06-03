@@ -1,6 +1,6 @@
 # Manticore Heavy Tank 
 
-## Manticore Heavy Tank (Standard) 
+## Manticore Heavy Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2575) 
@@ -15,7 +15,7 @@
   - Medium Laser 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2021) 
 - **Battle Value:** 993 
-- [*More Info*](manticore_heavy_tank/manticore_heavy_tank_standard.md) 
+- [*More Info*](manticore_heavy_tank/manticore_heavy_tank.md) 
 
 ## Manticore Heavy Tank EC 
 
@@ -141,7 +141,7 @@
 
 ## Manticore Heavy Tank 'The Ballista' 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3076) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 4 / 6 (8), XL 
@@ -161,7 +161,7 @@
 
 ## Manticore Heavy Tank (XL) 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3117) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 4 / 6, XL 
@@ -175,7 +175,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Source:** Dark Age 
+- **Sources:** Rec Guide:ilClan #31 -  Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9456) 
 - **Battle Value:** 1114 
 - [*More Info*](manticore_heavy_tank/manticore_heavy_tank_xl.md) 
 

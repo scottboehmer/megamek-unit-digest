@@ -162,7 +162,7 @@
 
 ## Trinity Medium Battle Armor (Ying Long)(Plasma)(Sqd5) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3065) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 
@@ -211,7 +211,7 @@
 
 ## Trinity Medium Battle Armor (Theseus RL)(LRR)(Sqd5) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3069) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 

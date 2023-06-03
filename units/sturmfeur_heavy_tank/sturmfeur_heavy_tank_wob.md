@@ -4,7 +4,7 @@
 
 ## SturmFeur Heavy Tank (WoB) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3075) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, Light 

@@ -4,7 +4,7 @@
 
 ## Gotha GTHA-300 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2657) 
 - **Chassis:** 60 tons 
 - **Thrust:** 4 / 6 

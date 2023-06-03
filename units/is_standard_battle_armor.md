@@ -297,9 +297,145 @@
 - **Battle Value:** 35 (313 for 6 suits) 
 - [*More Info*](is_standard_battle_armor/is_standard_battle_armor_hivesqd6.md) 
 
-## IS Standard Battle Armor (Magnetic)(Sqd4) 
+## IS Standard Battle Armor (Baka) (LRR)(Sqd4) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3086) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+- **Armor:** 9 (Standard) 
+- **Manipulators:** 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Light Recoilless Rifle 
+  - SRM 2 (OS) × 2 
+- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8022) 
+- **Battle Value:** 43 (224 for 4 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd4.md) 
+
+## IS Standard Battle Armor (Baka) (LRR)(Sqd5) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3086) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+- **Armor:** 9 (Standard) 
+- **Manipulators:** 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Light Recoilless Rifle 
+  - SRM 2 (OS) × 2 
+- **Source:** TRO Dark Age - Dark Age 
+- **Battle Value:** 43 (302 for 5 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd5.md) 
+
+## IS Standard Battle Armor (Baka) (LRR)(Sqd6) 
 
 - **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3086) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+- **Armor:** 9 (Standard) 
+- **Manipulators:** 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Light Recoilless Rifle 
+  - SRM 2 (OS) × 2 
+- **Source:** TRO Dark Age - Dark Age 
+- **Battle Value:** 43 (388 for 6 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd6.md) 
+
+## IS Standard Battle Armor (Baka) (SL)(Sqd4) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3086) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+- **Armor:** 9 (Standard) 
+- **Manipulators:** 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Small Laser 
+  - SRM 2 (OS) × 2 
+- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8023) 
+- **Battle Value:** 40 (207 for 4 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_slsqd4.md) 
+
+## IS Standard Battle Armor (Baka) (SL)(Sqd5) 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3086) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+- **Armor:** 9 (Standard) 
+- **Manipulators:** 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Small Laser 
+  - SRM 2 (OS) × 2 
+- **Source:** TRO Dark Age - Dark Age 
+- **Battle Value:** 40 (279 for 5 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_slsqd5.md) 
+
+## IS Standard Battle Armor (Baka) (SL)(Sqd6) 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3086) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+- **Armor:** 9 (Standard) 
+- **Manipulators:** 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - Small Laser 
+  - SRM 2 (OS) × 2 
+- **Source:** TRO Dark Age - Dark Age 
+- **Battle Value:** 40 (359 for 6 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_slsqd6.md) 
+
+## IS Standard Battle Armor (Fa Sure) (David)(Sqd4) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3140) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 9 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - David Light Gauss Rifle 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8025) 
+- **Battle Value:** 48 (251 for 4 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_fa_sure_davidsqd4.md) 
+
+## IS Standard Battle Armor (Fa Sure) (MG)(Sqd4) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3140) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 9 (Standard) 
+- **Manipulators:** 
+  - Basic Manipulator w/ Mine Clearance (right) 
+  - Basic Manipulator w/ Mine Clearance (left) 
+- **Weapons:** 
+  - Clan Machine Gun 
+- **Equipment:** 
+  - Mine Dispenser 
+  - Magnetic Clamps 
+- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8026) 
+- **Battle Value:** 45 (235 for 4 suits) 
+- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_fa_sure_mgsqd4.md) 
+
+## IS Standard Battle Armor (Magnetic)(Sqd4) 
+
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3141) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 2 
@@ -318,7 +454,7 @@
 
 ## IS Standard Battle Armor (Magnetic)(Sqd5) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3141) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 2 
@@ -337,7 +473,7 @@
 
 ## IS Standard Battle Armor (Magnetic)(Sqd6) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3141) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 2 
@@ -353,122 +489,6 @@
 - **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9469) 
 - **Battle Value:** 40 (362 for 6 suits) 
 - [*More Info*](is_standard_battle_armor/is_standard_battle_armor_magneticsqd6.md) 
-
-## IS Standard Battle Armor (Baka) (LRR)(Sqd4) 
-
-- **Role:** Ambusher 
-- **Tech Base:** Inner Sphere (3150) 
-- **Chassis:** Medium Battle Armor (1,000 kg) 
-- **Movement:** 1 
-- **Armor:** 9 (Standard) 
-- **Manipulators:** 
-  - Battle Claw (left) 
-- **Weapons:** 
-  - Light Recoilless Rifle 
-  - SRM 2 (OS) × 2 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8022) 
-- **Battle Value:** 43 (224 for 4 suits) 
-- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd4.md) 
-
-## IS Standard Battle Armor (Baka) (LRR)(Sqd5) 
-
-- **Role:** Undefined 
-- **Tech Base:** Inner Sphere (3150) 
-- **Chassis:** Medium Battle Armor (1,000 kg) 
-- **Movement:** 1 
-- **Armor:** 9 (Standard) 
-- **Manipulators:** 
-  - Battle Claw (left) 
-- **Weapons:** 
-  - Light Recoilless Rifle 
-  - SRM 2 (OS) × 2 
-- **Source:** Dark Age 
-- **Battle Value:** 43 (302 for 5 suits) 
-- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd5.md) 
-
-## IS Standard Battle Armor (Baka) (LRR)(Sqd6) 
-
-- **Role:** Undefined 
-- **Tech Base:** Inner Sphere (3150) 
-- **Chassis:** Medium Battle Armor (1,000 kg) 
-- **Movement:** 1 
-- **Armor:** 9 (Standard) 
-- **Manipulators:** 
-  - Battle Claw (left) 
-- **Weapons:** 
-  - Light Recoilless Rifle 
-  - SRM 2 (OS) × 2 
-- **Source:** Dark Age 
-- **Battle Value:** 43 (388 for 6 suits) 
-- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd6.md) 
-
-## IS Standard Battle Armor (Baka) (SL)(Sqd4) 
-
-- **Role:** Ambusher 
-- **Tech Base:** Inner Sphere (3150) 
-- **Chassis:** Medium Battle Armor (1,000 kg) 
-- **Movement:** 1 
-- **Armor:** 9 (Standard) 
-- **Manipulators:** 
-  - Battle Claw (left) 
-- **Weapons:** 
-  - Small Laser 
-  - SRM 2 (OS) × 2 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8023) 
-- **Battle Value:** 40 (207 for 4 suits) 
-- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_slsqd4.md) 
-
-## IS Standard Battle Armor (Baka) (SL)(Sqd5) 
-
-- **Role:** Undefined 
-- **Tech Base:** Inner Sphere (3150) 
-- **Chassis:** Medium Battle Armor (1,000 kg) 
-- **Movement:** 1 
-- **Armor:** 9 (Standard) 
-- **Manipulators:** 
-  - Battle Claw (left) 
-- **Weapons:** 
-  - Small Laser 
-  - SRM 2 (OS) × 2 
-- **Source:** Dark Age 
-- **Battle Value:** 40 (279 for 5 suits) 
-- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_slsqd5.md) 
-
-## IS Standard Battle Armor (Baka) (SL)(Sqd6) 
-
-- **Role:** Undefined 
-- **Tech Base:** Inner Sphere (3150) 
-- **Chassis:** Medium Battle Armor (1,000 kg) 
-- **Movement:** 1 
-- **Armor:** 9 (Standard) 
-- **Manipulators:** 
-  - Battle Claw (left) 
-- **Weapons:** 
-  - Small Laser 
-  - SRM 2 (OS) × 2 
-- **Source:** Dark Age 
-- **Battle Value:** 40 (359 for 6 suits) 
-- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_baka_slsqd6.md) 
-
-## IS Standard Battle Armor (Fa Sure) (David)(Sqd4) 
-
-- **Role:** Ambusher 
-- **Tech Base:** Inner Sphere (3150) 
-- **Chassis:** Medium Battle Armor (1,000 kg) 
-- **Movement:** 1 
-  - **Jumping:** 3 
-- **Armor:** 9 (Standard) 
-- **Manipulators:** 
-  - Basic Manipulator w/ Mine Clearance (right) 
-  - Basic Manipulator w/ Mine Clearance (left) 
-- **Weapons:** 
-  - David Light Gauss Rifle 
-- **Equipment:** 
-  - Mine Dispenser 
-  - Magnetic Clamps 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8025) 
-- **Battle Value:** 48 (251 for 4 suits) 
-- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_fa_sure_davidsqd4.md) 
 
 ## IS Standard Battle Armor (Fa Sure) (David)(Sqd5) 
 
@@ -509,26 +529,6 @@
 - **Source:** Dark Age 
 - **Battle Value:** 48 (434 for 6 suits) 
 - [*More Info*](is_standard_battle_armor/is_standard_battle_armor_fa_sure_davidsqd6.md) 
-
-## IS Standard Battle Armor (Fa Sure) (MG)(Sqd4) 
-
-- **Role:** Ambusher 
-- **Tech Base:** Inner Sphere (3150) 
-- **Chassis:** Medium Battle Armor (1,000 kg) 
-- **Movement:** 1 
-  - **Jumping:** 3 
-- **Armor:** 9 (Standard) 
-- **Manipulators:** 
-  - Basic Manipulator w/ Mine Clearance (right) 
-  - Basic Manipulator w/ Mine Clearance (left) 
-- **Weapons:** 
-  - Clan Machine Gun 
-- **Equipment:** 
-  - Mine Dispenser 
-  - Magnetic Clamps 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8026) 
-- **Battle Value:** 45 (235 for 4 suits) 
-- [*More Info*](is_standard_battle_armor/is_standard_battle_armor_fa_sure_mgsqd4.md) 
 
 ## IS Standard Battle Armor (Fa Sure) (MG)(Sqd5) 
 

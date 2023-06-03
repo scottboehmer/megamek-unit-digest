@@ -144,23 +144,6 @@
 - **Battle Value:** 1188 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-x71_yakuza.md) 
 
-## Von Luckner Heavy Tank VNL-K105 
-
-- **Role:** Juggernaut 
-- **Tech Base:** Inner Sphere (3130) 
-- **Chassis:** 75 tons Tracked 
-- **Movement:** 3 / 5, Light 
-- **Armor:** 143 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - Ultra AC/20 × 2 (ammo: 30) 
-  - Streak SRM 4 (ammo: 25) 
-- **Equipment:** 
-  - CASE 
-- **Source:** Rec Guide:ilClan #32 - Dark Age 
-- **Battle Value:** 1326 
-- [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k105.md) 
-
 ## Von Luckner Heavy Tank VNL-K85N 
 
 - **Role:** Juggernaut 

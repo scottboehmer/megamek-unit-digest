@@ -1,6 +1,6 @@
 # Ontos Heavy Tank 
 
-## Ontos Heavy Tank (Standard) 
+## Ontos Heavy Tank 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (2832) 
@@ -13,7 +13,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2331) 
 - **Battle Value:** 938 
-- [*More Info*](ontos_heavy_tank/ontos_heavy_tank_standard.md) 
+- [*More Info*](ontos_heavy_tank/ontos_heavy_tank.md) 
 
 ## Ontos Heavy Tank (Fusion) 
 
@@ -156,7 +156,7 @@
 
 ## Ontos Heavy Tank (Chemical Laser) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3148) 
 - **Chassis:** 95 tons Tracked 
 - **Movement:** 3 / 5, XL 

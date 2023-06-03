@@ -78,14 +78,14 @@
 
 #### [Tyre](../../../units/tyre.md) 
 
-- [**Tyre (Standard)**](../../../units/tyre/tyre_standard.md) *Attack Fighter (2907)* 
-- [**Tyre 2**](../../../units/tyre/tyre_2.md) *Attack Fighter (2912)* 
+- [**Tyre**](../../../units/tyre/tyre.md) *Undefined (2907)* 
+- [**Tyre 2**](../../../units/tyre/tyre_2.md) *Undefined (2912)* 
 
 ### 60 Tons 
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Attack Fighter (2703)* 
+- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Undefined (2703)* 
 
 #### [Visigoth](../../../units/visigoth.md) 
 
@@ -119,10 +119,10 @@
 
 #### [Jengiz](../../../units/jengiz.md) 
 
-- [**Jengiz Prime**](../../../units/jengiz/jengiz_prime.md) *Attack Fighter (3032)* `ECM` 
-- [**Jengiz A**](../../../units/jengiz/jengiz_a.md) *Attack Fighter (3032)* 
-- [**Jengiz B**](../../../units/jengiz/jengiz_b.md) *Attack Fighter (3032)* 
-- [**Jengiz C**](../../../units/jengiz/jengiz_c.md) *Attack Fighter (3032)* 
+- [**Jengiz Prime**](../../../units/jengiz/jengiz_prime.md) *Undefined (3032)* `ECM` 
+- [**Jengiz A**](../../../units/jengiz/jengiz_a.md) *Undefined (3032)* 
+- [**Jengiz B**](../../../units/jengiz/jengiz_b.md) *Undefined (3032)* 
+- [**Jengiz C**](../../../units/jengiz/jengiz_c.md) *Undefined (3032)* 
 
 ### 85 Tons 
 
@@ -134,7 +134,7 @@
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Undefined (2703)* 
 
 #### [Scytha](../../../units/scytha.md) 
 
@@ -148,9 +148,9 @@
 #### [Stuka](../../../units/stuka.md) 
 
 - [**Stuka STU-K5b2**](../../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
-- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Attack Fighter (2751)* 
+- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Undefined (2751)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36b**](../../../units/thunderbird/thunderbird_trb-d36b.md) *Attack Fighter (2715)* 
+- [**Thunderbird TRB-D36b**](../../../units/thunderbird/thunderbird_trb-d36b.md) *Undefined (2715)* 
 

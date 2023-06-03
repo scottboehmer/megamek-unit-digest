@@ -1,6 +1,6 @@
 # Condor Heavy Hover Tank 
 
-## Condor Heavy Hover Tank (Standard) 
+## Condor Heavy Hover Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (2564) 
@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 100) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/683) 
 - **Battle Value:** 653 
-- [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_standard.md) 
+- [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank.md) 
 
 ## Condor Heavy Hover Tank (Liao) 
 

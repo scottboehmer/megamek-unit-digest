@@ -1,6 +1,6 @@
 # Sea Hunter Maritime Tank 
 
-## Sea Hunter Maritime Tank (Standard) 
+## Sea Hunter Maritime Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3068) 
@@ -16,5 +16,5 @@
   - Combat Vehicle Escape Pod 
 - **Sources:** XTR Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/2854) 
 - **Battle Value:** 503 
-- [*More Info*](sea_hunter_maritime_tank/sea_hunter_maritime_tank_standard.md) 
+- [*More Info*](sea_hunter_maritime_tank/sea_hunter_maritime_tank.md) 
 

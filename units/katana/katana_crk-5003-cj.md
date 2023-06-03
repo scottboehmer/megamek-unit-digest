@@ -20,6 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1762) 
 - **Battle Value:** 1844 
 

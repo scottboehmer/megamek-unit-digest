@@ -1,6 +1,6 @@
 # Speeder 
 
-## Speeder (Standard) 
+## Speeder 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2300) 
@@ -10,5 +10,5 @@
 - **Heat Sinks:** 10 (10) 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5105) 
 - **Battle Value:** 69 
-- [*More Info*](speeder/speeder_standard.md) 
+- [*More Info*](speeder/speeder.md) 
 

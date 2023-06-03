@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE II 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2464) 
+- **Sources:** XTRO:Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2464) 
 - **Battle Value:** 2230 
 
 ## Availability 

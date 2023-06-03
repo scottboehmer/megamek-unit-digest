@@ -1,6 +1,6 @@
 # Chippewa IIC 
 
-## Chippewa IIC (Standard) 
+## Chippewa IIC 
 
 - **Role:** Fire Support 
 - **Tech Base:** Clan (2860) 
@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/590) 
 - **Battle Value:** Unknown 
-- [*More Info*](chippewa_iic/chippewa_iic_standard.md) 
+- [*More Info*](chippewa_iic/chippewa_iic.md) 
 
 ## Chippewa IIC 2 
 

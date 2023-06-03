@@ -4,7 +4,7 @@
 
 ## Firebird FR-1 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2390) 
 - **Chassis:** 45 tons 
 - **Thrust:** 5 / 8, Primitive 

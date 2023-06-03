@@ -2,7 +2,7 @@
 
 ## Kirghiz Prime 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (2874) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 
@@ -23,7 +23,7 @@
 
 ## Kirghiz A 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (2874) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 
@@ -44,7 +44,7 @@
 
 ## Kirghiz B 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (2874) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 
@@ -64,7 +64,7 @@
 
 ## Kirghiz C 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (2874) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 
@@ -86,7 +86,7 @@
 
 ## Kirghiz D 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3067) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 
@@ -107,7 +107,7 @@
 
 ## Kirghiz E 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3069) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 

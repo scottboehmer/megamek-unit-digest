@@ -11,7 +11,7 @@
 #### [Stinger](../../../units/stinger.md) 
 
 - [**Stinger STG-3Gb**](../../../units/stinger/stinger_stg-3gb.md) *Striker (2720)* 
-- [**Stinger C 2**](../../../units/stinger/stinger_c_2.md) *Undefined (2838)* 
+- [**Stinger C 2**](../../../units/stinger/stinger_c_2.md) *Scout (2838)* 
 
 #### [Thorn](../../../units/thorn.md) 
 
@@ -25,7 +25,7 @@
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
-- [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 - [**Locust IIC 3**](../../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
 #### [Mist Lynx](../../../units/mist_lynx.md) 
@@ -58,7 +58,7 @@
 
 #### [Incubus](../../../units/incubus.md) 
 
-- [**Incubus (Standard)**](../../../units/incubus/incubus_standard.md) *Striker (2954)* 
+- [**Incubus**](../../../units/incubus/incubus.md) *Striker (2954)* 
 - [**Incubus 2**](../../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../../units/incubus/incubus_8.md) *Striker (2962)* 
@@ -130,7 +130,7 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
 
@@ -178,7 +178,7 @@
 #### [Vapor Eagle](../../../units/vapor_eagle.md) 
 
 - [**Vapor Eagle 6**](../../../units/vapor_eagle/vapor_eagle_6.md) *Skirmisher (2850)* 
-- [**Vapor Eagle (Standard)**](../../../units/vapor_eagle/vapor_eagle_standard.md) *Skirmisher (2863)* 
+- [**Vapor Eagle**](../../../units/vapor_eagle/vapor_eagle.md) *Skirmisher (2863)* 
 - [**Vapor Eagle 2**](../../../units/vapor_eagle/vapor_eagle_2.md) *Skirmisher (2912)* 
 - [**Vapor Eagle 5**](../../../units/vapor_eagle/vapor_eagle_5.md) *Skirmisher (2922)* 
 
@@ -186,7 +186,7 @@
 
 #### [Glass Spider](../../../units/glass_spider.md) 
 
-- [**Glass Spider (Standard)**](../../../units/glass_spider/glass_spider_standard.md) *Sniper (2834)* 
+- [**Glass Spider**](../../../units/glass_spider/glass_spider.md) *Sniper (2834)* 
 
 #### [Lancelot](../../../units/lancelot.md) 
 
@@ -252,7 +252,7 @@
 
 #### [Grizzly](../../../units/grizzly.md) 
 
-- [**Grizzly (Standard)**](../../../units/grizzly/grizzly_standard.md) *Skirmisher (2947)* 
+- [**Grizzly**](../../../units/grizzly/grizzly.md) *Skirmisher (2947)* 
 
 #### [Lumberjack](../../../units/lumberjack.md) 
 
@@ -285,7 +285,7 @@
 
 #### [Masauwu](../../../units/masauwu.md) 
 
-- [**Masauwu (Standard)**](../../../units/masauwu/masauwu_standard.md) *Brawler (2832)* `ECM` 
+- [**Masauwu**](../../../units/masauwu/masauwu.md) *Brawler (2832)* `ECM` 
 
 #### [Spirit Walker](../../../units/spirit_walker.md) 
 

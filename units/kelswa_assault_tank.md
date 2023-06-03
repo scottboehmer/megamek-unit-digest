@@ -1,6 +1,6 @@
 # Kelswa Assault Tank 
 
-## Kelswa Assault Tank (Standard) 
+## Kelswa Assault Tank 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3105) 
@@ -16,5 +16,5 @@
   - CASE 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6604) 
 - **Battle Value:** 1748 
-- [*More Info*](kelswa_assault_tank/kelswa_assault_tank_standard.md) 
+- [*More Info*](kelswa_assault_tank/kelswa_assault_tank.md) 
 

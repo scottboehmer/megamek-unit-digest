@@ -1,6 +1,6 @@
 # Ripper Infantry Transport 
 
-## Ripper Infantry Transport (Standard) 
+## Ripper Infantry Transport 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2680) 
@@ -14,7 +14,7 @@
   - Infantry (1.0 tons) 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2725) 
 - **Battle Value:** 345 
-- [*More Info*](ripper_infantry_transport/ripper_infantry_transport_standard.md) 
+- [*More Info*](ripper_infantry_transport/ripper_infantry_transport.md) 
 
 ## Ripper Infantry Transport (Royal) 
 

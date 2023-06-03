@@ -141,7 +141,6 @@
   - Protected Actuators 
   - Cramped Cockpit 
   - Ubiquitous 
-  - Jettison-Capable Weapon (AC/10) 
 - **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7430) 
 - **Battle Value:** 1115 
 - [*More Info*](wolverine/wolverine_wvr-6d.md) 
@@ -355,6 +354,14 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - MASC 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Improved Communications 
+  - Protected Actuators 
+  - Cramped Cockpit 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (Heavy PPC) 
 - **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8253) 
 - **Battle Value:** 1752 
 - [*More Info*](wolverine/wolverine_wvr-7m2.md) 
@@ -492,6 +499,14 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Improved Communications 
+  - Protected Actuators 
+  - Cramped Cockpit 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (Ultra AC/10) 
 - **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8254) 
 - **Battle Value:** 1481 
 - [*More Info*](wolverine/wolverine_wvr-9r.md) 
@@ -513,6 +528,14 @@
   - CASE II 
   - Targeting Computer 
   - MASC 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Improved Communications 
+  - Protected Actuators 
+  - Cramped Cockpit 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8256) 
 - **Battle Value:** 1791 
 - [*More Info*](wolverine/wolverine_wvr-10r.md) 
@@ -533,6 +556,13 @@
 - **Equipment:** 
   - CASE II 
   - MASC 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Improved Communications 
+  - Cramped Cockpit 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (Heavy PPC) 
 - **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8258) 
 - **Battle Value:** 1778 
 - [*More Info*](wolverine/wolverine_wvr-11m.md) 
@@ -553,6 +583,14 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Improved Communications 
+  - Protected Actuators 
+  - Cramped Cockpit 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (RAC/5) 
 - **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8255) 
 - **Battle Value:** 1925 
 - [*More Info*](wolverine/wolverine_wvr-10d.md) 
@@ -569,6 +607,14 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
   - ER Medium Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Improved Communications 
+  - Protected Actuators 
+  - Cramped Cockpit 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8257) 
 - **Battle Value:** 1747 
 - [*More Info*](wolverine/wolverine_wvr-10v2.md) 

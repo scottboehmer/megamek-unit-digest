@@ -1,6 +1,6 @@
 # Orion IIC 
 
-## Orion IIC (Standard) 
+## Orion IIC 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2841) 
@@ -21,7 +21,7 @@
   - Rugged (×2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2340) 
 - **Battle Value:** 2392 
-- [*More Info*](orion_iic/orion_iic_standard.md) 
+- [*More Info*](orion_iic/orion_iic.md) 
 
 ## Orion IIC 'Burton' 
 

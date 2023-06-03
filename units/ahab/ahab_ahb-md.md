@@ -4,7 +4,7 @@
 
 ## Ahab AHB-MD 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3061) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 

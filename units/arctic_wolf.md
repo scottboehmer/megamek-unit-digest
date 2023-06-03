@@ -1,6 +1,6 @@
 # Arctic Wolf 
 
-## Arctic Wolf (Standard) 
+## Arctic Wolf 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3059) 
@@ -18,7 +18,7 @@
   - Improved Targeting (Short) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/99) 
 - **Battle Value:** 1330 
-- [*More Info*](arctic_wolf/arctic_wolf_standard.md) 
+- [*More Info*](arctic_wolf/arctic_wolf.md) 
 
 ## Arctic Wolf 2 
 

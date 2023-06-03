@@ -4,7 +4,7 @@
 
 ## TinStar BattleArmor (Original)(Sqd5) 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 

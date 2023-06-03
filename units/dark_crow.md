@@ -1,6 +1,6 @@
 # Dark Crow 
 
-## Dark Crow (Standard) 
+## Dark Crow 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3084) 
@@ -18,7 +18,7 @@
   - Low-Mounted Arms 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/827) 
 - **Battle Value:** 1594 
-- [*More Info*](dark_crow/dark_crow_standard.md) 
+- [*More Info*](dark_crow/dark_crow.md) 
 
 ## Dark Crow 2 
 

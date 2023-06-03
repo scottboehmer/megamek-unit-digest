@@ -2,7 +2,7 @@
 
 ## Lucifer LCF-R15 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2526) 
 - **Chassis:** 65 tons 
 - **Thrust:** 5 / 8 
@@ -20,7 +20,7 @@
 
 ## Lucifer LCF-R20 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2609) 
 - **Chassis:** 65 tons 
 - **Thrust:** 5 / 8 
@@ -37,7 +37,7 @@
 
 ## Lucifer LCF-R16 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3052) 
 - **Chassis:** 65 tons 
 - **Thrust:** 5 / 8 
@@ -55,7 +55,7 @@
 
 ## Lucifer LCF-X30 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 65 tons 
 - **Thrust:** 5 / 8, XL 

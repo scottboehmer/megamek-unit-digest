@@ -1,6 +1,6 @@
 # Salamander Battle Armor 
 
-## Salamander Battle Armor (Standard)(Sqd3) 
+## Salamander Battle Armor (Sqd3) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3058) 
@@ -16,9 +16,9 @@
   - SRM 1 (OS) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9211) 
 - **Battle Value:** 53 (191 for 3 suits) 
-- [*More Info*](salamander_battle_armor/salamander_battle_armor_standardsqd3.md) 
+- [*More Info*](salamander_battle_armor/salamander_battle_armor_sqd3.md) 
 
-## Salamander Battle Armor (Standard)(Sqd4) 
+## Salamander Battle Armor (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3058) 
@@ -34,9 +34,9 @@
   - SRM 1 (OS) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2789) 
 - **Battle Value:** 53 (276 for 4 suits) 
-- [*More Info*](salamander_battle_armor/salamander_battle_armor_standardsqd4.md) 
+- [*More Info*](salamander_battle_armor/salamander_battle_armor_sqd4.md) 
 
-## Salamander Battle Armor (Standard)(Sqd5) 
+## Salamander Battle Armor (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3058) 
@@ -52,9 +52,9 @@
   - SRM 1 (OS) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8584) 
 - **Battle Value:** 53 (372 for 5 suits) 
-- [*More Info*](salamander_battle_armor/salamander_battle_armor_standardsqd5.md) 
+- [*More Info*](salamander_battle_armor/salamander_battle_armor_sqd5.md) 
 
-## Salamander Battle Armor (Standard)(Sqd6) 
+## Salamander Battle Armor (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3058) 
@@ -70,7 +70,7 @@
   - SRM 1 (OS) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8948) 
 - **Battle Value:** 53 (479 for 6 suits) 
-- [*More Info*](salamander_battle_armor/salamander_battle_armor_standardsqd6.md) 
+- [*More Info*](salamander_battle_armor/salamander_battle_armor_sqd6.md) 
 
 ## Salamander Battle Armor (Laser)(Sqd4) 
 

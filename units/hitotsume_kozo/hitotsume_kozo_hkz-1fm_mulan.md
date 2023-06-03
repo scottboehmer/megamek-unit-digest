@@ -16,7 +16,7 @@
   - Heavy PPC 
   - ER Medium Laser × 2 
   - Large Vibroblade 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8380) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8380) 
 - **Battle Value:** 1772 
 
 ## Availability 

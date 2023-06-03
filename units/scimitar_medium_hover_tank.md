@@ -1,6 +1,6 @@
 # Scimitar Medium Hover Tank 
 
-## Scimitar Medium Hover Tank (Standard) 
+## Scimitar Medium Hover Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (2937) 
@@ -13,7 +13,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2831) 
 - **Battle Value:** 532 
-- [*More Info*](scimitar_medium_hover_tank/scimitar_medium_hover_tank_standard.md) 
+- [*More Info*](scimitar_medium_hover_tank/scimitar_medium_hover_tank.md) 
 
 ## Scimitar Medium Hover Tank (Missile) 
 

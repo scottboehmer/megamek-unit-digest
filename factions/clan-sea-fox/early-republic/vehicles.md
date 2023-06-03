@@ -6,13 +6,13 @@
 
 #### [Nacon Armored Scout](../../../units/nacon_armored_scout.md) 
 
-- [**Nacon Armored Scout (Standard)**](../../../units/nacon_armored_scout/nacon_armored_scout_standard.md) *Scout (3096)* 
+- [**Nacon Armored Scout**](../../../units/nacon_armored_scout/nacon_armored_scout.md) *Scout (3096)* 
 
 ### 45 Tons 
 
 #### [Cizin Hover Tank](../../../units/cizin_hover_tank.md) 
 
-- [**Cizin Hover Tank (Standard)**](../../../units/cizin_hover_tank/cizin_hover_tank_standard.md) *Striker (3097)* 
+- [**Cizin Hover Tank**](../../../units/cizin_hover_tank/cizin_hover_tank.md) *Striker (3097)* 
 
 #### [R10 Mechanized ICV](../../../units/r10_mechanized_icv.md) 
 

@@ -33,7 +33,7 @@
 
 #### [Howler](../../../units/howler.md) 
 
-- [**Howler (Standard)**](../../../units/howler/howler_standard.md) *Missile Boat (2871)* 
+- [**Howler**](../../../units/howler/howler.md) *Missile Boat (2871)* 
 - [**Howler 4**](../../../units/howler/howler_4.md) *Scout (2877)* 
 - [**Howler 5**](../../../units/howler/howler_5.md) *Striker (3053)* 
 - [**Howler 6**](../../../units/howler/howler_6.md) *Striker (3086)* 
@@ -48,8 +48,8 @@
 
 #### [Stinger](../../../units/stinger.md) 
 
-- [**Stinger C**](../../../units/stinger/stinger_c.md) *Undefined (2832)* 
-- [**Stinger C 2**](../../../units/stinger/stinger_c_2.md) *Undefined (2838)* 
+- [**Stinger C**](../../../units/stinger/stinger_c.md) *Scout (2832)* 
+- [**Stinger C 2**](../../../units/stinger/stinger_c_2.md) *Scout (2838)* 
 
 ### 25 Tons 
 
@@ -61,18 +61,18 @@
 
 #### [Crimson Hawk](../../../units/crimson_hawk.md) 
 
-- [**Crimson Hawk (Standard)**](../../../units/crimson_hawk/crimson_hawk_standard.md) *Sniper (3071)* 
+- [**Crimson Hawk**](../../../units/crimson_hawk/crimson_hawk.md) *Sniper (3071)* 
 - [**Crimson Hawk 4**](../../../units/crimson_hawk/crimson_hawk_4.md) *Striker (3099)* 
 
 #### [Koshi (Standard)](../../../units/koshi_standard.md) 
 
 - [**Koshi (Standard)**](../../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi (Standard) 2**](../../../units/koshi_standard/koshi_standard_2.md) *Undefined (3095)* `TAG` 
-- [**Koshi (Standard) 3**](../../../units/koshi_standard/koshi_standard_3.md) *Undefined (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi (Standard) 2**](../../../units/koshi_standard/koshi_standard_2.md) *Striker (3095)* `TAG` 
+- [**Koshi (Standard) 3**](../../../units/koshi_standard/koshi_standard_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
-- [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 - [**Locust IIC 2**](../../../units/locust_iic/locust_iic_2.md) *Striker (2837)* 
 - [**Locust IIC 3**](../../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
@@ -127,7 +127,7 @@
 
 #### [Incubus](../../../units/incubus.md) 
 
-- [**Incubus (Standard)**](../../../units/incubus/incubus_standard.md) *Striker (2954)* 
+- [**Incubus**](../../../units/incubus/incubus.md) *Striker (2954)* 
 - [**Incubus 2**](../../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../../units/incubus/incubus_8.md) *Striker (2962)* 
@@ -174,7 +174,7 @@
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
-- [**Griffin IIC (Standard)**](../../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
+- [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 
 #### [Harvester](../../../units/harvester.md) 
 
@@ -234,7 +234,7 @@
 
 #### [Hammerhead](../../../units/hammerhead.md) 
 
-- [**Hammerhead (Standard)**](../../../units/hammerhead/hammerhead_standard.md) *Skirmisher (3146)* 
+- [**Hammerhead**](../../../units/hammerhead/hammerhead.md) *Skirmisher (3146)* 
 
 #### [Hierofalcon](../../../units/hierofalcon.md) 
 
@@ -262,14 +262,14 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 
 ### 50 Tons 
 
 #### [Black Hawk (Standard)](../../../units/black_hawk_standard.md) 
 
 - [**Black Hawk (Standard)**](../../../units/black_hawk_standard/black_hawk_standard.md) *Skirmisher (3073)* 
-- [**Black Hawk (Standard) 2**](../../../units/black_hawk_standard/black_hawk_standard_2.md) *Undefined (3092)* 
+- [**Black Hawk (Standard) 2**](../../../units/black_hawk_standard/black_hawk_standard_2.md) *Skirmisher (3092)* 
 
 #### [Buster](../../../units/buster.md) 
 
@@ -278,7 +278,7 @@
 
 #### [Hellcat](../../../units/hellcat.md) 
 
-- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+- [**Hellcat**](../../../units/hellcat/hellcat.md) *Skirmisher (3133)* 
 
 ### 55 Tons 
 
@@ -288,7 +288,7 @@
 
 #### [Gyrfalcon](../../../units/gyrfalcon.md) 
 
-- [**Gyrfalcon (Standard)**](../../../units/gyrfalcon/gyrfalcon_standard.md) *Skirmisher (3112)* `Active Probe` 
+- [**Gyrfalcon**](../../../units/gyrfalcon/gyrfalcon.md) *Skirmisher (3112)* `Active Probe` 
 
 #### [Stormcrow](../../../units/stormcrow.md) 
 
@@ -389,7 +389,7 @@
 
 #### [Warhammer](../../../units/warhammer.md) 
 
-- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
+- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Brawler (2862)* `ECM` 
 
 ### 75 Tons 
 
@@ -436,7 +436,7 @@
 
 #### [Phoenix Hawk IIC](../../../units/phoenix_hawk_iic.md) 
 
-- [**Phoenix Hawk IIC (Standard)**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_standard.md) *Sniper (2851)* 
+- [**Phoenix Hawk IIC**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic.md) *Sniper (2851)* 
 - [**Phoenix Hawk IIC 2**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_2.md) *Missile Boat (2852)* 
 - [**Phoenix Hawk IIC 9**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_9.md) *Sniper (2853)* 
 - [**Phoenix Hawk IIC 5**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_5.md) *Sniper (3069)* 
@@ -445,7 +445,7 @@
 
 #### [Warhammer IIC](../../../units/warhammer_iic.md) 
 
-- [**Warhammer IIC (Standard)**](../../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 
+- [**Warhammer IIC**](../../../units/warhammer_iic/warhammer_iic.md) *Brawler (2829)* 
 - [**Warhammer IIC 5**](../../../units/warhammer_iic/warhammer_iic_5.md) *Brawler (3070)* 
 - [**Warhammer IIC 8**](../../../units/warhammer_iic/warhammer_iic_8.md) *Skirmisher (3079)* 
 - [**Warhammer IIC 10**](../../../units/warhammer_iic/warhammer_iic_10.md) *Sniper (3120)* 
@@ -464,7 +464,7 @@
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
 
-- [**Marauder IIC (Standard)**](../../../units/marauder_iic/marauder_iic_standard.md) *Brawler (2828)* 
+- [**Marauder IIC**](../../../units/marauder_iic/marauder_iic.md) *Brawler (2828)* 
 - [**Marauder IIC 9**](../../../units/marauder_iic/marauder_iic_9.md) *Sniper (2831)* 
 
 ### 90 Tons 
@@ -482,6 +482,6 @@
 
 #### [Bane](../../../units/bane.md) 
 
-- [**Bane (Standard)**](../../../units/bane/bane_standard.md) *Sniper (2827)* 
+- [**Bane**](../../../units/bane/bane.md) *Sniper (2827)* 
 - [**Bane 6**](../../../units/bane/bane_6.md) *Sniper (3110)* `ECM` 
 

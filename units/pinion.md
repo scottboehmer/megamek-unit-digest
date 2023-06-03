@@ -1,6 +1,6 @@
 # Pinion 
 
-## Pinion (Standard) 
+## Pinion 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3065) 
@@ -17,7 +17,7 @@
   - Bad Reputation (Clan) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4829) 
 - **Battle Value:** 1646 
-- [*More Info*](pinion/pinion_standard.md) 
+- [*More Info*](pinion/pinion.md) 
 
 ## Pinion 2 
 

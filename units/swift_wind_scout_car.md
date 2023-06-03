@@ -1,6 +1,6 @@
 # Swift Wind Scout Car 
 
-## Swift Wind Scout Car (Standard) 
+## Swift Wind Scout Car 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2817) 
@@ -13,7 +13,7 @@
   - Cargo 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3145) 
 - **Battle Value:** 83 
-- [*More Info*](swift_wind_scout_car/swift_wind_scout_car_standard.md) 
+- [*More Info*](swift_wind_scout_car/swift_wind_scout_car.md) 
 
 ## Swift Wind Scout Car (ICE) 
 

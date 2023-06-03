@@ -19,9 +19,10 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2503) 
 - **Battle Value:** 1282 
 

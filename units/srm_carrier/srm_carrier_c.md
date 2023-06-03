@@ -4,7 +4,7 @@
 
 ## SRM Carrier C 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3106) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 4 / 6, ICE 

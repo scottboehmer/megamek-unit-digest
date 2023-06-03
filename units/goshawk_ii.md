@@ -1,6 +1,6 @@
 # Goshawk II 
 
-## Goshawk II (Standard) 
+## Goshawk II 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3086) 
@@ -21,7 +21,7 @@
   - Nimble Jumper 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1249) 
 - **Battle Value:** 1849 
-- [*More Info*](goshawk_ii/goshawk_ii_standard.md) 
+- [*More Info*](goshawk_ii/goshawk_ii.md) 
 
 ## Goshawk II 2 
 
@@ -70,6 +70,28 @@
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1248) 
 - **Battle Value:** 2115 
 - [*More Info*](goshawk_ii/goshawk_ii_3.md) 
+
+## Goshawk II 4 
+
+- **Role:** Undefined 
+- **Tech Base:** Clan (3130) 
+- **Chassis:** 45 tons (Endo Steel) 
+- **Movement:** 7 / 11, XXL 
+  - **Jumping:** 7 
+- **Armor:** 144 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - Improved Heavy Large Laser 
+  - Streak LRM 10 (ammo: 12) 
+  - Plasma Cannon (ammo: 20) 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Nimble Jumper 
+- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7986) 
+- **Battle Value:** 1919 
+- [*More Info*](goshawk_ii/goshawk_ii_4.md) 
 
 ## Goshawk II RISC 
 

@@ -71,7 +71,7 @@
 
 #### [Dasher II](../../../units/dasher_ii.md) 
 
-- [**Dasher II (Standard)**](../../../units/dasher_ii/dasher_ii_standard.md) *Scout (3077)* 
+- [**Dasher II**](../../../units/dasher_ii/dasher_ii.md) *Scout (3077)* 
 
 ### 50 Tons 
 

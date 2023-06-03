@@ -1,6 +1,6 @@
 # Carnivore Assault Tank 
 
-## Carnivore Assault Tank (Standard) 
+## Carnivore Assault Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3082) 
@@ -17,7 +17,7 @@
   - CASE 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/465) 
 - **Battle Value:** 1997 
-- [*More Info*](carnivore_assault_tank/carnivore_assault_tank_standard.md) 
+- [*More Info*](carnivore_assault_tank/carnivore_assault_tank.md) 
 
 ## Carnivore Assault Tank (HAG) 
 

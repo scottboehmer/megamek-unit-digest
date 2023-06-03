@@ -1,6 +1,6 @@
 # Cave Lion 
 
-## Cave Lion (Standard) 
+## Cave Lion 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3122) 
@@ -17,5 +17,5 @@
   - CASE 
 - **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6954) 
 - **Battle Value:** 3044 
-- [*More Info*](cave_lion/cave_lion_standard.md) 
+- [*More Info*](cave_lion/cave_lion.md) 
 

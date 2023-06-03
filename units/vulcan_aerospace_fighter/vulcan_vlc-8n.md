@@ -4,7 +4,7 @@
 
 ## Vulcan VLC-8N 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 

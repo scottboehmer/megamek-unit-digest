@@ -4,7 +4,7 @@
 
 ## Crow Scout Helicopter 'Dragonfly' 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3070) 
 - **Chassis:** 15 tons VTOL 
 - **Movement:** 13 / 20, Fusion 

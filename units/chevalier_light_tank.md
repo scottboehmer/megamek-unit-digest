@@ -1,6 +1,6 @@
 # Chevalier Light Tank 
 
-## Chevalier Light Tank (Standard) 
+## Chevalier Light Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (2690) 
@@ -13,7 +13,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/582) 
 - **Battle Value:** 668 
-- [*More Info*](chevalier_light_tank/chevalier_light_tank_standard.md) 
+- [*More Info*](chevalier_light_tank/chevalier_light_tank.md) 
 
 ## Chevalier Light Tank (BAP) 
 

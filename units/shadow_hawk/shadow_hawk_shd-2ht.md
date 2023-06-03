@@ -17,6 +17,11 @@
   - Streak SRM 2 × 5 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7737) 
 - **Battle Value:** 1453 
 

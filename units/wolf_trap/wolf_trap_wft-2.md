@@ -19,7 +19,7 @@
   - Machine Gun Array 
   - CASE 
 - **Design Quirks:** 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3556) 
 - **Battle Value:** 1212 
 

@@ -1,5 +1,23 @@
 # Zorya Light Tank 
 
+## Zorya Light Tank 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (2842) 
+- **Chassis:** 35 tons Tracked 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 56 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - LRM 10 w/ Artemis IV (ammo: 12) 
+  - LB 5-X AC (ammo: 20 Cluster, 20 Standard) 
+- **Equipment:** 
+  - ECM Suite 
+  - CASE 
+- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3654) 
+- **Battle Value:** 562 
+- [*More Info*](zorya_light_tank/zorya_light_tank.md) 
+
 ## Zorya Light Tank (Ammo) 
 
 - **Role:** Missile Boat 
@@ -17,24 +35,6 @@
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3652) 
 - **Battle Value:** 575 
 - [*More Info*](zorya_light_tank/zorya_light_tank_ammo.md) 
-
-## Zorya Light Tank (Standard) 
-
-- **Role:** Missile Boat 
-- **Tech Base:** Clan (2842) 
-- **Chassis:** 35 tons Tracked 
-- **Movement:** 4 / 6, ICE 
-- **Armor:** 56 
-- **Heat Sinks:** 0 (0) 
-- **Weapons:** 
-  - LRM 10 w/ Artemis IV (ammo: 12) 
-  - LB 5-X AC (ammo: 20 Cluster, 20 Standard) 
-- **Equipment:** 
-  - ECM Suite 
-  - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3654) 
-- **Battle Value:** 562 
-- [*More Info*](zorya_light_tank/zorya_light_tank_standard.md) 
 
 ## Zorya Light Tank (ATM) 
 

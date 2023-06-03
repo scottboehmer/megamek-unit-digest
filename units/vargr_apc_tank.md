@@ -1,6 +1,6 @@
 # Vargr APC Tank 
 
-## Vargr APC Tank (Standard) 
+## Vargr APC Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2944) 
@@ -15,7 +15,7 @@
   - Infantry (7.0 tons) 
 - **Sources:** House Arano , [Master Unit List](http://masterunitlist.info/Unit/Details/7615) 
 - **Battle Value:** 758 
-- [*More Info*](vargr_apc_tank/vargr_apc_tank_standard.md) 
+- [*More Info*](vargr_apc_tank/vargr_apc_tank.md) 
 
 ## Vargr APC Tank (LRM) 
 

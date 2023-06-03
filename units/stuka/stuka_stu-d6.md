@@ -4,7 +4,7 @@
 
 ## Stuka STU-D6 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3051) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 

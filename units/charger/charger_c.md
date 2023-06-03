@@ -5,7 +5,7 @@
 ## Charger C 
 
 - **Role:** Scout 
-- **Tech Base:** Clan Mixed (3093) 
+- **Tech Base:** Clan Mixed (3130) 
 - **Chassis:** 80 tons 
 - **Movement:** 5 / 8 (13), XL 
 - **Armor:** 245 (Ferro Lamellor) 

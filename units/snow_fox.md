@@ -1,6 +1,6 @@
 # Snow Fox 
 
-## Snow Fox (Standard) 
+## Snow Fox 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3015) 
@@ -18,7 +18,7 @@
   - Hard to Pilot 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2979) 
 - **Battle Value:** 807 
-- [*More Info*](snow_fox/snow_fox_standard.md) 
+- [*More Info*](snow_fox/snow_fox.md) 
 
 ## Snow Fox 2 
 

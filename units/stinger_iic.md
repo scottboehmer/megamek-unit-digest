@@ -1,8 +1,8 @@
 # Stinger IIC 
 
-## Stinger IIC (Standard) 
+## Stinger IIC 
 
-- **Role:** Striker 
+- **Role:** Scout 
 - **Tech Base:** Clan (3085) 
 - **Chassis:** 20 tons (Endo Steel) 
 - **Movement:** 6 / 9 
@@ -20,11 +20,11 @@
   - Combat Computer 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5135) 
 - **Battle Value:** 730 
-- [*More Info*](stinger_iic/stinger_iic_standard.md) 
+- [*More Info*](stinger_iic/stinger_iic.md) 
 
 ## Stinger IIC 2 
 
-- **Role:** Striker 
+- **Role:** Scout 
 - **Tech Base:** Clan (3086) 
 - **Chassis:** 20 tons (Endo Steel) 
 - **Movement:** 5 / 8 

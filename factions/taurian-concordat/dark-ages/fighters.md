@@ -46,7 +46,7 @@
 
 #### [Star Dagger](../../../units/star_dagger.md) 
 
-- [**Star Dagger S-2**](../../../units/star_dagger/star_dagger_s-2.md) *Fast Dogfighter (3077)* 
+- [**Star Dagger S-2**](../../../units/star_dagger/star_dagger_s-2.md) *Fast Dogfighter (2330)* 
 
 ### 35 Tons 
 
@@ -111,23 +111,23 @@
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
-- [**Chippewa CHP-W10**](../../../units/chippewa/chippewa_chp-w10.md) *Attack Fighter (2953)* 
-- [**Chippewa CHP-W7T**](../../../units/chippewa/chippewa_chp-w7t.md) *Attack Fighter (3069)* 
+- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Undefined (2584)* 
+- [**Chippewa CHP-W10**](../../../units/chippewa/chippewa_chp-w10.md) *Undefined (2953)* 
+- [**Chippewa CHP-W7T**](../../../units/chippewa/chippewa_chp-w7t.md) *Undefined (3069)* 
 
 ### 100 Tons 
 
 #### [Riever](../../../units/riever.md) 
 
-- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
-- [**Riever F-100a**](../../../units/riever/riever_f-100a.md) *Attack Fighter (2829)* 
+- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Undefined (2815)* 
+- [**Riever F-100a**](../../../units/riever/riever_f-100a.md) *Undefined (2829)* 
 
 #### [Stuka](../../../units/stuka.md) 
 
-- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Undefined (2571)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
-- [**Thunderbird TRB-D50**](../../../units/thunderbird/thunderbird_trb-d50.md) *Attack Fighter (3065)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
+- [**Thunderbird TRB-D50**](../../../units/thunderbird/thunderbird_trb-d50.md) *Undefined (3065)* 
 

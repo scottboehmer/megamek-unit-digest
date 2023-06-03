@@ -54,7 +54,7 @@
 - **Battle Value:** 66 (592 for 6 suits) 
 - [*More Info*](ogre_battle_armor/ogre_battle_armor_interdictorsqd6.md) 
 
-## Ogre Battle Armor (Standard)(Sqd4) 
+## Ogre Battle Armor (Sqd4) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3091) 
@@ -68,9 +68,9 @@
   - SRM 2 (ammo: 13) 
 - **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6481) 
 - **Battle Value:** 54 (280 for 4 suits) 
-- [*More Info*](ogre_battle_armor/ogre_battle_armor_standardsqd4.md) 
+- [*More Info*](ogre_battle_armor/ogre_battle_armor_sqd4.md) 
 
-## Ogre Battle Armor (Standard)(Sqd5) 
+## Ogre Battle Armor (Sqd5) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3091) 
@@ -84,9 +84,9 @@
   - SRM 2 (ammo: 13) 
 - **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8756) 
 - **Battle Value:** 54 (376 for 5 suits) 
-- [*More Info*](ogre_battle_armor/ogre_battle_armor_standardsqd5.md) 
+- [*More Info*](ogre_battle_armor/ogre_battle_armor_sqd5.md) 
 
-## Ogre Battle Armor (Standard)(Sqd6) 
+## Ogre Battle Armor (Sqd6) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3091) 
@@ -100,5 +100,5 @@
   - SRM 2 (ammo: 13) 
 - **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9119) 
 - **Battle Value:** 54 (484 for 6 suits) 
-- [*More Info*](ogre_battle_armor/ogre_battle_armor_standardsqd6.md) 
+- [*More Info*](ogre_battle_armor/ogre_battle_armor_sqd6.md) 
 

@@ -19,7 +19,7 @@
 
 #### [Hantu](../../../units/hantu.md) 
 
-- [**Hantu AIX-210(Sqd4)**](../../../units/hantu/hantu_aix-210sqd4.md) *Undefined (3124)* `Stealth` 
+- [**Hantu AIX-210(Sqd4)**](../../../units/hantu/hantu_aix-210sqd4.md) *Ambusher (3124)* `Stealth` 
 
 #### [Salrilla Exoskeleton](../../../units/salrilla_exoskeleton.md) 
 
@@ -30,13 +30,13 @@
 
 #### [Gray Death Scout Suit](../../../units/gray_death_scout_suit.md) 
 
-- [**Gray Death Scout Suit (Standard)(Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_standardsqd4.md) *Scout (3052)* `Active Probe` 
+- [**Gray Death Scout Suit (Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_sqd4.md) *Scout (3052)* `Active Probe` 
 
 ### 1 Tons 
 
 #### [Dragoon Battle Armor](../../../units/dragoon_battle_armor.md) 
 
-- [**Dragoon Battle Armor (Sqd4)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd4.md) *Ambusher (3072)* 
+- [**Dragoon Battle Armor (Sqd4)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd4.md) *Undefined (3072)* 
 
 #### [Gray Death Infiltrator Suit](../../../units/gray_death_infiltrator_suit.md) 
 
@@ -61,7 +61,7 @@
 - [**IS Standard Battle Armor (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (SRM)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (LRR)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd4.md) *Ambusher (3061)* 
-- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Ambusher (3141)* 
 
 #### [Rottweiler Battle Armor](../../../units/rottweiler_battle_armor.md) 
 
@@ -71,9 +71,9 @@
 
 #### [Cuchulainn Support Armor](../../../units/cuchulainn_support_armor.md) 
 
-- [**Cuchulainn Support Armor (Standard) (Sqd4)**](../../../units/cuchulainn_support_armor/cuchulainn_support_armor_standard_sqd4.md) *Juggernaut (3134)* `Stealth` 
+- [**Cuchulainn Support Armor (Sqd4)**](../../../units/cuchulainn_support_armor/cuchulainn_support_armor_sqd4.md) *Juggernaut (3134)* `Stealth` 
 
 #### [Gray Death Heavy Suit](../../../units/gray_death_heavy_suit.md) 
 
-- [**Gray Death Heavy Suit (Standard)(Sqd4)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_standardsqd4.md) *Scout (3083)* `Active Probe` 
+- [**Gray Death Heavy Suit (Sqd4)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_sqd4.md) *Scout (3083)* `Active Probe` 
 

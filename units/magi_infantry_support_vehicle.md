@@ -1,6 +1,6 @@
 # Magi Infantry Support Vehicle 
 
-## Magi Infantry Support Vehicle (Standard) 
+## Magi Infantry Support Vehicle 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (2727) 
@@ -15,7 +15,7 @@
   - CASE 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1991) 
 - **Battle Value:** 798 
-- [*More Info*](magi_infantry_support_vehicle/magi_infantry_support_vehicle_standard.md) 
+- [*More Info*](magi_infantry_support_vehicle/magi_infantry_support_vehicle.md) 
 
 ## Magi Infantry Support Vehicle (UCSV) 
 

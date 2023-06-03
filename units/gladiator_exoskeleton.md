@@ -1,6 +1,6 @@
 # Gladiator Exoskeleton 
 
-## Gladiator Exoskeleton (Standard) (AG)(Sqd4) 
+## Gladiator Exoskeleton (AG)(Sqd4) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3056) 
@@ -12,9 +12,9 @@
   - Armored Glove (left) 
 - **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4216) 
 - **Battle Value:** 7 (34 for 4 suits) 
-- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_standard_agsqd4.md) 
+- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_agsqd4.md) 
 
-## Gladiator Exoskeleton (Standard) (AG)(Sqd5) 
+## Gladiator Exoskeleton (AG)(Sqd5) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3056) 
@@ -26,9 +26,9 @@
   - Armored Glove (left) 
 - **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8620) 
 - **Battle Value:** 7 (46 for 5 suits) 
-- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_standard_agsqd5.md) 
+- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_agsqd5.md) 
 
-## Gladiator Exoskeleton (Standard) (AG)(Sqd6) 
+## Gladiator Exoskeleton (AG)(Sqd6) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3056) 
@@ -40,9 +40,9 @@
   - Armored Glove (left) 
 - **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8984) 
 - **Battle Value:** 7 (59 for 6 suits) 
-- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_standard_agsqd6.md) 
+- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_agsqd6.md) 
 
-## Gladiator Exoskeleton (Standard) (BC/ID)(Sqd4) 
+## Gladiator Exoskeleton (BC/ID)(Sqd4) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3056) 
@@ -54,9 +54,9 @@
   - Battle Claw (left) 
 - **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7206) 
 - **Battle Value:** 7 (34 for 4 suits) 
-- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_standard_bc_idsqd4.md) 
+- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_bc_idsqd4.md) 
 
-## Gladiator Exoskeleton (Standard) (BC/ID)(Sqd5) 
+## Gladiator Exoskeleton (BC/ID)(Sqd5) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3056) 
@@ -68,9 +68,9 @@
   - Battle Claw (left) 
 - **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8808) 
 - **Battle Value:** 7 (46 for 5 suits) 
-- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_standard_bc_idsqd5.md) 
+- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_bc_idsqd5.md) 
 
-## Gladiator Exoskeleton (Standard) (BC/ID)(Sqd6) 
+## Gladiator Exoskeleton (BC/ID)(Sqd6) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3056) 
@@ -82,7 +82,7 @@
   - Battle Claw (left) 
 - **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9171) 
 - **Battle Value:** 7 (59 for 6 suits) 
-- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_standard_bc_idsqd6.md) 
+- [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_bc_idsqd6.md) 
 
 ## Gladiator Exoskeleton 'The Spider'(Sqd4) 
 

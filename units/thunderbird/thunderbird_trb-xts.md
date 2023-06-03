@@ -4,7 +4,7 @@
 
 ## Thunderbird TRB-XTS 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 

@@ -17,9 +17,10 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7760) 
 - **Battle Value:** 1315 
 

@@ -1,6 +1,6 @@
 # Angerona Scout Suit 
 
-## Angerona Scout Suit (Standard)(Sqd4) 
+## Angerona Scout Suit (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3083) 
@@ -17,9 +17,9 @@
   - Camo System 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/32) 
 - **Battle Value:** 46 (238 for 4 suits) 
-- [*More Info*](angerona_scout_suit/angerona_scout_suit_standardsqd4.md) 
+- [*More Info*](angerona_scout_suit/angerona_scout_suit_sqd4.md) 
 
-## Angerona Scout Suit (Standard)(Sqd5) 
+## Angerona Scout Suit (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3083) 
@@ -36,9 +36,9 @@
   - Camo System 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8480) 
 - **Battle Value:** 46 (320 for 5 suits) 
-- [*More Info*](angerona_scout_suit/angerona_scout_suit_standardsqd5.md) 
+- [*More Info*](angerona_scout_suit/angerona_scout_suit_sqd5.md) 
 
-## Angerona Scout Suit (Standard)(Sqd6) 
+## Angerona Scout Suit (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3083) 
@@ -55,7 +55,7 @@
   - Camo System 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8845) 
 - **Battle Value:** 46 (411 for 6 suits) 
-- [*More Info*](angerona_scout_suit/angerona_scout_suit_standardsqd6.md) 
+- [*More Info*](angerona_scout_suit/angerona_scout_suit_sqd6.md) 
 
 ## Angerona Scout Suit (Recon)(Sqd4) 
 

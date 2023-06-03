@@ -1,6 +1,6 @@
 # Diggs Drone Control Tank 
 
-## Diggs Drone Control Tank (Standard) 
+## Diggs Drone Control Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3101) 
@@ -17,5 +17,5 @@
   - Drone Control System 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7299) 
 - **Battle Value:** 655 
-- [*More Info*](diggs_drone_control_tank/diggs_drone_control_tank_standard.md) 
+- [*More Info*](diggs_drone_control_tank/diggs_drone_control_tank.md) 
 

@@ -95,7 +95,7 @@
 
 ## Longshot LNG-2 (Reskov) 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere Mixed (3084) 
 - **Chassis:** 35 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 

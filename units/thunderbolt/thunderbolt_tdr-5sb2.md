@@ -4,7 +4,7 @@
 
 ## Thunderbolt TDR-5Sb2 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2680) 
 - **Chassis:** 65 tons (Endo Steel) 
 - **Movement:** 4 / 6 
@@ -22,6 +22,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6766) 
 - **Battle Value:** 1561 
 
 ## Availability 

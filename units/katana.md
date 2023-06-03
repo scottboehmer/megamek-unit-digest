@@ -16,6 +16,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1760) 
 - **Battle Value:** 1629 
 - [*More Info*](katana/katana_crk-5003-2.md) 
@@ -37,6 +38,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1761) 
 - **Battle Value:** 1618 
 - [*More Info*](katana/katana_crk-5003-c.md) 
@@ -58,6 +60,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1763) 
 - **Battle Value:** 1554 
 - [*More Info*](katana/katana_crk-5003-cm.md) 
@@ -80,6 +83,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1762) 
 - **Battle Value:** 1844 
 - [*More Info*](katana/katana_crk-5003-cj.md) 
@@ -102,6 +106,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8428) 
 - **Battle Value:** 2363 
 - [*More Info*](katana/katana_crk-5006-1.md) 

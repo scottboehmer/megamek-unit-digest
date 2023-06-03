@@ -2,7 +2,7 @@
 
 ## Typhoon TFN-2A 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2461) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 
@@ -19,7 +19,7 @@
 
 ## Typhoon TFN-3A 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2469) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 
@@ -36,7 +36,7 @@
 
 ## Typhoon TFN-3M 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2473) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 
@@ -53,7 +53,7 @@
 
 ## Typhoon TFN-5H 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 

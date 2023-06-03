@@ -4,8 +4,8 @@
 
 ## SturmFeur Heavy Tank (Assault) 
 
-- **Role:** Sniper 
-- **Tech Base:** Inner Sphere (3080) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3150) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, Light 
 - **Armor:** 317 (Heavy Ferro Fibrous) 
@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Source:** Rec Guide:ilClan #28 - Jihad 
+- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9372) 
 - **Battle Value:** 2199 
 
 ## Availability 

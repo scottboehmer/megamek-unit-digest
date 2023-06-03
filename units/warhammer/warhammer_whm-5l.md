@@ -21,7 +21,8 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3484) 
+  - Ubiquitous 
+- **Sources:** RS 3085 PP - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3484) 
 - **Battle Value:** 1896 
 
 ## Availability 

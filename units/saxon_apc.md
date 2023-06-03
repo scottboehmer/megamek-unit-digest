@@ -1,6 +1,6 @@
 # Saxon APC 
 
-## Saxon APC (Standard) 
+## Saxon APC 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3070) 
@@ -14,7 +14,7 @@
   - Infantry (5 tons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2811) 
 - **Battle Value:** 435 
-- [*More Info*](saxon_apc/saxon_apc_standard.md) 
+- [*More Info*](saxon_apc/saxon_apc.md) 
 
 ## Saxon APC (Laser) 
 

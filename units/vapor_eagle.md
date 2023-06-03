@@ -22,7 +22,7 @@
 - **Battle Value:** 1959 
 - [*More Info*](vapor_eagle/vapor_eagle_6.md) 
 
-## Vapor Eagle (Standard) "Goshawk" 
+## Vapor Eagle "Goshawk" 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (2863) 
@@ -43,7 +43,7 @@
   - Nimble Jumper 
 - **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1243) 
 - **Battle Value:** 2368 
-- [*More Info*](vapor_eagle/vapor_eagle_standard.md) 
+- [*More Info*](vapor_eagle/vapor_eagle.md) 
 
 ## Vapor Eagle 2 "Goshawk" 
 

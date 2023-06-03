@@ -1,6 +1,6 @@
 # Jenner IIC 
 
-## Jenner IIC (Standard) 
+## Jenner IIC 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3042) 
@@ -18,7 +18,7 @@
   - No/Minimal Arms 
 - **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1698) 
 - **Battle Value:** 1047 
-- [*More Info*](jenner_iic/jenner_iic_standard.md) 
+- [*More Info*](jenner_iic/jenner_iic.md) 
 
 ## Jenner IIC 2 
 

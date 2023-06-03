@@ -18,6 +18,15 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (iNarc) 
+  - Directional Torso Mount (SRM 2) 
+  - Directional Torso Mount (SRM 6) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
 - **Sources:** Rec Guide:ilClan #23 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8416) 
 - **Battle Value:** 1365 
 

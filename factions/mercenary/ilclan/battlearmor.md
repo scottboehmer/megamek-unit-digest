@@ -23,7 +23,7 @@
 
 #### [Hantu](../../../units/hantu.md) 
 
-- [**Hantu AIX-210(Sqd4)**](../../../units/hantu/hantu_aix-210sqd4.md) *Undefined (3124)* `Stealth` 
+- [**Hantu AIX-210(Sqd4)**](../../../units/hantu/hantu_aix-210sqd4.md) *Ambusher (3124)* `Stealth` 
 
 #### [Nighthawk PA(L)](../../../units/nighthawk_pal.md) 
 
@@ -39,7 +39,7 @@
 
 #### [Gray Death Scout Suit](../../../units/gray_death_scout_suit.md) 
 
-- [**Gray Death Scout Suit (Standard)(Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_standardsqd4.md) *Scout (3052)* `Active Probe` 
+- [**Gray Death Scout Suit (Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_sqd4.md) *Scout (3052)* `Active Probe` 
 
 #### [Infiltrator Mk. I Battle Armor](../../../units/infiltrator_mk._i_battle_armor.md) 
 
@@ -51,17 +51,17 @@
 
 #### [Spectre Stealth Battle Armor](../../../units/spectre_stealth_battle_armor.md) 
 
-- [**Spectre Stealth Battle Armor (Standard)(Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standardsqd4.md) *Scout (3097)* `Stealth` 
+- [**Spectre Stealth Battle Armor (Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd4.md) *Scout (3097)* `Stealth` 
 
 ### 1 Tons 
 
 #### [Aegis Point Defense Suit](../../../units/aegis_point_defense_suit.md) 
 
-- [**Aegis Point Defense Suit (Standard)(Sqd4)**](../../../units/aegis_point_defense_suit/aegis_point_defense_suit_standardsqd4.md) *Scout (3132)* `Stealth` 
+- [**Aegis Point Defense Suit (Sqd4)**](../../../units/aegis_point_defense_suit/aegis_point_defense_suit_sqd4.md) *Scout (3132)* `Stealth` 
 
 #### [Angerona Scout Suit](../../../units/angerona_scout_suit.md) 
 
-- [**Angerona Scout Suit (Standard)(Sqd4)**](../../../units/angerona_scout_suit/angerona_scout_suit_standardsqd4.md) *Ambusher (3083)* `Stealth` 
+- [**Angerona Scout Suit (Sqd4)**](../../../units/angerona_scout_suit/angerona_scout_suit_sqd4.md) *Ambusher (3083)* `Stealth` 
 - [**Angerona Scout Suit (Recon)(Sqd4)**](../../../units/angerona_scout_suit/angerona_scout_suit_reconsqd4.md) *Scout (3085)* `Active Probe` , `Stealth` 
 
 #### [Cavalier Battle Armor](../../../units/cavalier_battle_armor.md) 
@@ -73,7 +73,7 @@
 
 #### [Dragoon Battle Armor](../../../units/dragoon_battle_armor.md) 
 
-- [**Dragoon Battle Armor (Sqd4)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd4.md) *Ambusher (3072)* 
+- [**Dragoon Battle Armor (Sqd4)**](../../../units/dragoon_battle_armor/dragoon_battle_armor_sqd4.md) *Undefined (3072)* 
 
 #### [Fa Shih Battle Armor](../../../units/fa_shih_battle_armor.md) 
 
@@ -103,7 +103,7 @@
 - [**IS Standard Battle Armor (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (SRM)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (LRR)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd4.md) *Ambusher (3061)* 
-- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Ambusher (3141)* 
 
 #### [Leonidas Battle Armor](../../../units/leonidas_battle_armor.md) 
 
@@ -141,21 +141,21 @@
 #### [Wraith Battle Armor](../../../units/wraith_battle_armor.md) 
 
 - [**Wraith Battle Armor (Anti-Infantry)(Sqd4)**](../../../units/wraith_battle_armor/wraith_battle_armor_anti-infantrysqd4.md) *Ambusher (3116)* `Active Probe` 
-- [**Wraith Battle Armor (Standard)(Sqd4)**](../../../units/wraith_battle_armor/wraith_battle_armor_standardsqd4.md) *Ambusher (3116)* `Stealth` 
+- [**Wraith Battle Armor (Sqd4)**](../../../units/wraith_battle_armor/wraith_battle_armor_sqd4.md) *Ambusher (3116)* `Stealth` 
 
 ### 1.50 Tons 
 
 #### [Cuchulainn Support Armor](../../../units/cuchulainn_support_armor.md) 
 
-- [**Cuchulainn Support Armor (Standard) (Sqd4)**](../../../units/cuchulainn_support_armor/cuchulainn_support_armor_standard_sqd4.md) *Juggernaut (3134)* `Stealth` 
+- [**Cuchulainn Support Armor (Sqd4)**](../../../units/cuchulainn_support_armor/cuchulainn_support_armor_sqd4.md) *Juggernaut (3134)* `Stealth` 
 
 #### [Gray Death Heavy Suit](../../../units/gray_death_heavy_suit.md) 
 
-- [**Gray Death Heavy Suit (Standard)(Sqd4)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_standardsqd4.md) *Scout (3083)* `Active Probe` 
+- [**Gray Death Heavy Suit (Sqd4)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_sqd4.md) *Scout (3083)* `Active Probe` 
 
 #### [Marauder Battle Armor](../../../units/marauder_battle_armor.md) 
 
-- [**Marauder Battle Armor (Standard)(Sqd4)**](../../../units/marauder_battle_armor/marauder_battle_armor_standardsqd4.md) *Ambusher (3110)* `TAG` 
+- [**Marauder Battle Armor (Sqd4)**](../../../units/marauder_battle_armor/marauder_battle_armor_sqd4.md) *Ambusher (3110)* `TAG` 
 
 #### [Sloth Battle Armor](../../../units/sloth_battle_armor.md) 
 
@@ -164,7 +164,7 @@
 
 #### [Taranis Battle Armor](../../../units/taranis_battle_armor.md) 
 
-- [**Taranis Battle Armor (Standard)(Sqd4)**](../../../units/taranis_battle_armor/taranis_battle_armor_standardsqd4.md) *Ambusher (3123)* `Stealth` 
+- [**Taranis Battle Armor (Sqd4)**](../../../units/taranis_battle_armor/taranis_battle_armor_sqd4.md) *Ambusher (3123)* `Stealth` 
 
 ### 2 Tons 
 
@@ -181,7 +181,7 @@
 
 #### [Fusilier Battle Armor](../../../units/fusilier_battle_armor.md) 
 
-- [**Fusilier Battle Armor (Standard)(Sqd4)**](../../../units/fusilier_battle_armor/fusilier_battle_armor_standardsqd4.md) *Juggernaut (3121)* `Stealth` 
+- [**Fusilier Battle Armor (Sqd4)**](../../../units/fusilier_battle_armor/fusilier_battle_armor_sqd4.md) *Juggernaut (3121)* `Stealth` 
 
 #### [Kopis Assault Battle Armor](../../../units/kopis_assault_battle_armor.md) 
 
@@ -193,7 +193,7 @@
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)(Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd4.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_sqd4.md) *Juggernaut (3084)* 
 
 #### [Tortoise II](../../../units/tortoise_ii.md) 
 

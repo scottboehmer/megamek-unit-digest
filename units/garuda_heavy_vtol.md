@@ -1,6 +1,6 @@
 # Garuda Heavy VTOL 
 
-## Garuda Heavy VTOL (Standard) 
+## Garuda Heavy VTOL 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3084) 
@@ -17,5 +17,5 @@
   - TAG 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4202) 
 - **Battle Value:** 1484 
-- [*More Info*](garuda_heavy_vtol/garuda_heavy_vtol_standard.md) 
+- [*More Info*](garuda_heavy_vtol/garuda_heavy_vtol.md) 
 

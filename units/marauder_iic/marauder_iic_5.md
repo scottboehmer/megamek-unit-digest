@@ -19,9 +19,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069) 
+- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069) 
 - **Battle Value:** 2386 
 
 ## Availability 

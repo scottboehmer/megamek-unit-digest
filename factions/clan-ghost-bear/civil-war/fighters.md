@@ -15,7 +15,7 @@
 
 #### [Chaeronea](../../../units/chaeronea.md) 
 
-- [**Chaeronea (Standard)**](../../../units/chaeronea/chaeronea_standard.md) *Interceptor (2849)* 
+- [**Chaeronea**](../../../units/chaeronea/chaeronea.md) *Interceptor (2849)* 
 - [**Chaeronea 2**](../../../units/chaeronea/chaeronea_2.md) *Interceptor (2883)* 
 
 #### [Sabre](../../../units/sabre.md) 
@@ -59,7 +59,7 @@
 
 #### [Issus](../../../units/issus.md) 
 
-- [**Issus (Standard)**](../../../units/issus/issus_standard.md) *Fast Dogfighter (2842)* 
+- [**Issus**](../../../units/issus/issus.md) *Fast Dogfighter (2842)* 
 - [**Issus (Erika)**](../../../units/issus/issus_erika.md) *Fast Dogfighter (3065)* `Unique` 
 
 #### [Rogue](../../../units/rogue.md) 
@@ -104,14 +104,14 @@
 
 #### [Tyre](../../../units/tyre.md) 
 
-- [**Tyre (Standard)**](../../../units/tyre/tyre_standard.md) *Attack Fighter (2907)* 
-- [**Tyre 2**](../../../units/tyre/tyre_2.md) *Attack Fighter (2912)* 
+- [**Tyre**](../../../units/tyre/tyre.md) *Undefined (2907)* 
+- [**Tyre 2**](../../../units/tyre/tyre_2.md) *Undefined (2912)* 
 
 ### 60 Tons 
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Attack Fighter (2703)* 
+- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Undefined (2703)* 
 
 #### [Visigoth](../../../units/visigoth.md) 
 
@@ -124,7 +124,7 @@
 
 #### [Ammon](../../../units/ammon.md) 
 
-- [**Ammon (Standard)**](../../../units/ammon/ammon_standard.md) *Dogfighter (3064)* 
+- [**Ammon**](../../../units/ammon/ammon.md) *Dogfighter (3064)* 
 
 #### [Ironsides](../../../units/ironsides.md) 
 
@@ -156,12 +156,12 @@
 
 #### [Jengiz](../../../units/jengiz.md) 
 
-- [**Jengiz Prime**](../../../units/jengiz/jengiz_prime.md) *Attack Fighter (3032)* `ECM` 
-- [**Jengiz A**](../../../units/jengiz/jengiz_a.md) *Attack Fighter (3032)* 
-- [**Jengiz B**](../../../units/jengiz/jengiz_b.md) *Attack Fighter (3032)* 
-- [**Jengiz C**](../../../units/jengiz/jengiz_c.md) *Attack Fighter (3032)* 
-- [**Jengiz D**](../../../units/jengiz/jengiz_d.md) *Attack Fighter (3063)* 
-- [**Jengiz E**](../../../units/jengiz/jengiz_e.md) *Attack Fighter (3064)* `ECM` 
+- [**Jengiz Prime**](../../../units/jengiz/jengiz_prime.md) *Undefined (3032)* `ECM` 
+- [**Jengiz A**](../../../units/jengiz/jengiz_a.md) *Undefined (3032)* 
+- [**Jengiz B**](../../../units/jengiz/jengiz_b.md) *Undefined (3032)* 
+- [**Jengiz C**](../../../units/jengiz/jengiz_c.md) *Undefined (3032)* 
+- [**Jengiz D**](../../../units/jengiz/jengiz_d.md) *Undefined (3063)* 
+- [**Jengiz E**](../../../units/jengiz/jengiz_e.md) *Undefined (3064)* `ECM` 
 
 ### 85 Tons 
 
@@ -171,36 +171,36 @@
 
 #### [Xerxes](../../../units/xerxes.md) 
 
-- [**Xerxes (Standard)**](../../../units/xerxes/xerxes_standard.md) *Dogfighter (2827)* 
+- [**Xerxes**](../../../units/xerxes/xerxes.md) *Dogfighter (2827)* 
 
 ### 90 Tons 
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Undefined (2703)* 
 
 ### 95 Tons 
 
 #### [Hydaspes](../../../units/hydaspes.md) 
 
-- [**Hydaspes (Standard)**](../../../units/hydaspes/hydaspes_standard.md) *Attack Fighter (2840)* 
+- [**Hydaspes**](../../../units/hydaspes/hydaspes.md) *Undefined (2840)* 
 
 ### 100 Tons 
 
 #### [Kirghiz](../../../units/kirghiz.md) 
 
-- [**Kirghiz Prime**](../../../units/kirghiz/kirghiz_prime.md) *Attack Fighter (2874)* 
-- [**Kirghiz A**](../../../units/kirghiz/kirghiz_a.md) *Attack Fighter (2874)* 
-- [**Kirghiz B**](../../../units/kirghiz/kirghiz_b.md) *Attack Fighter (2874)* 
-- [**Kirghiz C**](../../../units/kirghiz/kirghiz_c.md) *Attack Fighter (2874)* `Transport:10.0` 
-- [**Kirghiz D**](../../../units/kirghiz/kirghiz_d.md) *Attack Fighter (3067)* 
+- [**Kirghiz Prime**](../../../units/kirghiz/kirghiz_prime.md) *Undefined (2874)* 
+- [**Kirghiz A**](../../../units/kirghiz/kirghiz_a.md) *Undefined (2874)* 
+- [**Kirghiz B**](../../../units/kirghiz/kirghiz_b.md) *Undefined (2874)* 
+- [**Kirghiz C**](../../../units/kirghiz/kirghiz_c.md) *Undefined (2874)* `Transport:10.0` 
+- [**Kirghiz D**](../../../units/kirghiz/kirghiz_d.md) *Undefined (3067)* 
 
 #### [Stuka](../../../units/stuka.md) 
 
 - [**Stuka STU-K5b2**](../../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
-- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Attack Fighter (2751)* 
+- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Undefined (2751)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36b**](../../../units/thunderbird/thunderbird_trb-d36b.md) *Attack Fighter (2715)* 
+- [**Thunderbird TRB-D36b**](../../../units/thunderbird/thunderbird_trb-d36b.md) *Undefined (2715)* 
 

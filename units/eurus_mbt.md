@@ -2,7 +2,7 @@
 
 ## Eurus MBT Prime 
 
-- **Role:** Brawler 
+- **Role:** Sniper 
 - **Tech Base:** Clan (3146) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 5 / 8, XL 
@@ -21,7 +21,7 @@
 
 ## Eurus MBT A 
 
-- **Role:** Brawler 
+- **Role:** Skirmisher 
 - **Tech Base:** Clan (3146) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 5 / 8 (10), XL 
@@ -39,7 +39,7 @@
 
 ## Eurus MBT B 
 
-- **Role:** Sniper 
+- **Role:** Brawler 
 - **Tech Base:** Clan (3146) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 5 / 8, XL 

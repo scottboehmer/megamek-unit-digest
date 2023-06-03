@@ -36,7 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1772) 
+- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1772) 
 - **Battle Value:** 2039 
 - [*More Info*](king_crab/king_crab_kgc-000b.md) 
 
@@ -162,7 +162,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775) 
 - **Battle Value:** 2335 
 - [*More Info*](king_crab/king_crab_kgc-005r.md) 
 
@@ -236,6 +236,28 @@
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6635) 
 - **Battle Value:** 2260 
 - [*More Info*](king_crab/king_crab_kgc-009.md) 
+
+## King Crab KGC-009C 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere Mixed (3143) 
+- **Chassis:** 100 tons (Endo Steel) 
+- **Movement:** 3 / 5 
+- **Armor:** 307 
+- **Gyroscope:** Heavy-Duty Gyro 
+- **Cockpit:** Small 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Clan HAG 20 × 2 (ammo: 36) 
+  - Plasma Rifle × 2 (ammo: 40) 
+  - Clan ER Small Laser × 2 
+- **Equipment:** 
+  - Guardian ECM Suite 
+- **Design Quirks:** 
+  - Command ’Mech 
+- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8066) 
+- **Battle Value:** 2652 
+- [*More Info*](king_crab/king_crab_kgc-009c.md) 
 
 ## King Crab KGC-011 
 

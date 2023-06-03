@@ -16,7 +16,7 @@
 - **Battle Value:** 166 
 - [*More Info*](kestrel_vtol/kestrel_vtol_clan.md) 
 
-## Kestrel VTOL (Standard) 
+## Kestrel VTOL 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3007) 
@@ -30,7 +30,7 @@
   - Infantry (3.5 tons) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1769) 
 - **Battle Value:** 155 
-- [*More Info*](kestrel_vtol/kestrel_vtol_standard.md) 
+- [*More Info*](kestrel_vtol/kestrel_vtol.md) 
 
 ## Kestrel VTOL (SL) 
 

@@ -1,6 +1,6 @@
 # Reconquista 
 
-## Reconquista (Standard) 
+## Reconquista 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2862) 
@@ -15,5 +15,5 @@
   - Machine Gun (ammo: 100) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7472) 
 - **Battle Value:** 927 
-- [*More Info*](reconquista/reconquista_standard.md) 
+- [*More Info*](reconquista/reconquista.md) 
 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6857) 
+- **Sources:** RS 3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6857) 
 - **Battle Value:** 2680 
 
 ## Availability 

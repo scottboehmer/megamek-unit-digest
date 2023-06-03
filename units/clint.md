@@ -222,6 +222,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/9462) 
 - **Battle Value:** 1157 
 - [*More Info*](clint/clint_clnt-3-4t.md) 
 

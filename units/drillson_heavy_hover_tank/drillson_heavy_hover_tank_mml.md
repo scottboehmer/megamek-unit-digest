@@ -4,7 +4,7 @@
 
 ## Drillson Heavy Hover Tank (MML) 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 8 / 12, Fusion 

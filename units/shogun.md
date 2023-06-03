@@ -32,7 +32,7 @@
 - **Chassis:** 85 tons 
 - **Movement:** 3 / 5 
   - **Jumping:** 3 
-- **Armor:** 232 (Ferro Fibrous) 
+- **Armor:** 240 (Ferro Fibrous) 
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - ER PPC 
@@ -45,7 +45,7 @@
   - Non-Standard Parts 
   - Barrel Fists 
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2931) 
-- **Battle Value:** 3008 
+- **Battle Value:** 3032 
 - [*More Info*](shogun/shogun_c.md) 
 
 ## Shogun SHG-2E 
@@ -116,6 +116,52 @@
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5058) 
 - **Battle Value:** 1733 
 - [*More Info*](shogun/shogun_shg-2f_trisha.md) 
+
+## Shogun SHG-3E 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3090) 
+- **Chassis:** 85 tons 
+- **Movement:** 3 / 5 
+  - **Jumping:** 3 
+- **Armor:** 241 (Ferro Fibrous) 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Snub-Nose PPC 
+  - LRM 15 × 2 (ammo: 32) 
+  - Streak SRM 6 × 2 (ammo: 30) 
+- **Equipment:** 
+  - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Non-Standard Parts 
+  - Barrel Fists 
+- **Sources:** RS3150 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8003) 
+- **Battle Value:** 1988 
+- [*More Info*](shogun/shogun_shg-3e.md) 
+
+## Shogun C 2 
+
+- **Role:** Undefined 
+- **Tech Base:** Clan (3139) 
+- **Chassis:** 85 tons 
+- **Movement:** 3 / 5 
+  - **Jumping:** 3 
+- **Armor:** 245 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - ER PPC 
+  - Streak LRM 15 × 2 (ammo: 32) 
+  - Streak SRM 6 × 2 (ammo: 30) 
+- **Equipment:** 
+  - CASE II 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Non-Standard Parts 
+  - Barrel Fists 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8002) 
+- **Battle Value:** 2767 
+- [*More Info*](shogun/shogun_c_2.md) 
 
 ## Shogun C 3 
 

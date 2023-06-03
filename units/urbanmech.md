@@ -171,6 +171,28 @@
 - **Battle Value:** 699 
 - [*More Info*](urbanmech/urbanmech_um-r80.md) 
 
+## UrbanMech UM-R27 
+
+- **Role:** Ambusher 
+- **Tech Base:** Inner Sphere (3130) 
+- **Chassis:** 30 tons 
+- **Movement:** 2 / 3 
+  - **Jumping:** 2 
+- **Armor:** 96 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - SRM 6 × 3 (ammo: 45) 
+- **Equipment:** 
+  - AES × 2 
+  - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
+  - No/Minimal Arms 
+- **Sources:** Force Pack UrbanMech  - Late Republiic , [Master Unit List](http://masterunitlist.info/Unit/Details/9498) 
+- **Battle Value:** 610 
+- [*More Info*](urbanmech/urbanmech_um-r27.md) 
+
 ## UrbanMech UM-R93 
 
 - **Role:** Ambusher 

@@ -1,6 +1,6 @@
 # Matador 
 
-## Matador (Standard) 
+## Matador 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (2846) 
@@ -22,7 +22,7 @@
   - Battlefists 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2098) 
 - **Battle Value:** 2006 
-- [*More Info*](matador/matador_standard.md) 
+- [*More Info*](matador/matador.md) 
 
 ## Matador 2 
 

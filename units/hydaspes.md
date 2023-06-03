@@ -1,8 +1,8 @@
 # Hydaspes 
 
-## Hydaspes (Standard) 
+## Hydaspes 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (2840) 
 - **Chassis:** 95 tons 
 - **Thrust:** 5 / 8, XL 
@@ -18,11 +18,11 @@
   - CASE 
 - **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4352) 
 - **Battle Value:** Unknown 
-- [*More Info*](hydaspes/hydaspes_standard.md) 
+- [*More Info*](hydaspes/hydaspes.md) 
 
 ## Hydaspes 2 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3064) 
 - **Chassis:** 95 tons 
 - **Thrust:** 5 / 8, XL 
@@ -42,7 +42,7 @@
 
 ## Hydaspes (Algar) 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3070) 
 - **Chassis:** 95 tons 
 - **Thrust:** 5 / 8, XL 
@@ -60,7 +60,7 @@
 
 ## Hydaspes 3 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3085) 
 - **Chassis:** 95 tons 
 - **Thrust:** 5 / 8, XL 

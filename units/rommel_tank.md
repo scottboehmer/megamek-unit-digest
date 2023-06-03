@@ -1,6 +1,6 @@
 # Rommel Tank 
 
-## Rommel Tank (Standard) 
+## Rommel Tank 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3027) 
@@ -14,7 +14,7 @@
   - Small Laser 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2737) 
 - **Battle Value:** 933 
-- [*More Info*](rommel_tank/rommel_tank_standard.md) 
+- [*More Info*](rommel_tank/rommel_tank.md) 
 
 ## Rommel Tank (Gauss) 
 

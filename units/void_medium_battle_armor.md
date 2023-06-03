@@ -1,6 +1,6 @@
 # Void Medium Battle Armor 
 
-## Void Medium Battle Armor (Standard)(Sqd4) 
+## Void Medium Battle Armor (Sqd4) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3067) 
@@ -17,9 +17,9 @@
   - Jump Booster 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5359) 
 - **Battle Value:** 46 (240 for 4 suits) 
-- [*More Info*](void_medium_battle_armor/void_medium_battle_armor_standardsqd4.md) 
+- [*More Info*](void_medium_battle_armor/void_medium_battle_armor_sqd4.md) 
 
-## Void Medium Battle Armor (Standard)(Sqd5) 
+## Void Medium Battle Armor (Sqd5) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3067) 
@@ -36,9 +36,9 @@
   - Jump Booster 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8704) 
 - **Battle Value:** 46 (324 for 5 suits) 
-- [*More Info*](void_medium_battle_armor/void_medium_battle_armor_standardsqd5.md) 
+- [*More Info*](void_medium_battle_armor/void_medium_battle_armor_sqd5.md) 
 
-## Void Medium Battle Armor (Standard)(Sqd6) 
+## Void Medium Battle Armor (Sqd6) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3067) 
@@ -55,7 +55,7 @@
   - Jump Booster 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9068) 
 - **Battle Value:** 46 (416 for 6 suits) 
-- [*More Info*](void_medium_battle_armor/void_medium_battle_armor_standardsqd6.md) 
+- [*More Info*](void_medium_battle_armor/void_medium_battle_armor_sqd6.md) 
 
 ## Void Medium Battle Armor (DCA)(Sqd4) 
 

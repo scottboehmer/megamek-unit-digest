@@ -19,7 +19,7 @@
 
 #### [HeavyHauler Exoskeleton](../../../units/heavyhauler_exoskeleton.md) 
 
-- [**HeavyHauler Exoskeleton (Standard)(Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_standardsqd4.md) *Undefined (3052)* 
+- [**HeavyHauler Exoskeleton (Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_sqd4.md) *Undefined (3052)* 
 
 #### [Salrilla Exoskeleton](../../../units/salrilla_exoskeleton.md) 
 
@@ -61,7 +61,7 @@
 
 #### [Gray Death Scout Suit](../../../units/gray_death_scout_suit.md) 
 
-- [**Gray Death Scout Suit (Standard)(Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_standardsqd4.md) *Scout (3052)* `Active Probe` 
+- [**Gray Death Scout Suit (Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_sqd4.md) *Scout (3052)* `Active Probe` 
 
 #### [Infiltrator Mk. I Battle Armor](../../../units/infiltrator_mk._i_battle_armor.md) 
 
@@ -88,7 +88,7 @@
 #### [Gray Death Strike Suit](../../../units/gray_death_strike_suit.md) 
 
 - [**Gray Death Strike Suit (Prototype)(Sqd4)**](../../../units/gray_death_strike_suit/gray_death_strike_suit_prototypesqd4.md) *Ambusher (3073)* `TAG` 
-- [**Gray Death Strike Suit (Standard)(Sqd4)**](../../../units/gray_death_strike_suit/gray_death_strike_suit_standardsqd4.md) *Ambusher (3080)* `TAG` 
+- [**Gray Death Strike Suit (Sqd4)**](../../../units/gray_death_strike_suit/gray_death_strike_suit_sqd4.md) *Ambusher (3080)* `TAG` 
 
 #### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
 
@@ -100,7 +100,7 @@
 
 #### [Rottweiler Battle Armor](../../../units/rottweiler_battle_armor.md) 
 
-- [**Rottweiler Battle Armor (Standard)(Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_standardsqd4.md) *Scout (3065)* `Active Probe` , `Stealth` 
+- [**Rottweiler Battle Armor (Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_sqd4.md) *Scout (3065)* `Active Probe` , `Stealth` 
 - [**Rottweiler Battle Armor (Close Combat)(Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_close_combatsqd4.md) *Scout (3069)* `Active Probe` , `Stealth` 
 - [**Rottweiler Battle Armor (Upgrade)(Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_upgradesqd4.md) *Scout (3070)* `Stealth` 
 - [**Rottweiler Battle Armor (Firedrake)(Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_firedrakesqd4.md) *Scout (3072)* `Stealth` 
@@ -109,7 +109,7 @@
 
 #### [Sloth Battle Armor](../../../units/sloth_battle_armor.md) 
 
-- [**Sloth Battle Armor (Standard)(Sqd4)**](../../../units/sloth_battle_armor/sloth_battle_armor_standardsqd4.md) *Ambusher (3050)* 
+- [**Sloth Battle Armor (Sqd4)**](../../../units/sloth_battle_armor/sloth_battle_armor_sqd4.md) *Ambusher (3050)* 
 - [**Sloth Battle Armor (Interdictor)(Sqd4)**](../../../units/sloth_battle_armor/sloth_battle_armor_interdictorsqd4.md) *Ambusher (3075)* `ECM` 
 
 ### 2 Tons 

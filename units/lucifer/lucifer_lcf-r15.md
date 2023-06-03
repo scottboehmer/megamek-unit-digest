@@ -4,7 +4,7 @@
 
 ## Lucifer LCF-R15 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2526) 
 - **Chassis:** 65 tons 
 - **Thrust:** 5 / 8 

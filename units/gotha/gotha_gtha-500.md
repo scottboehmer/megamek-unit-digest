@@ -4,7 +4,7 @@
 
 ## Gotha GTHA-500 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2657) 
 - **Chassis:** 60 tons 
 - **Thrust:** 5 / 8 

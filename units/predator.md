@@ -1,6 +1,6 @@
 # Predator 
 
-## Predator (Standard) 
+## Predator 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3060) 
@@ -19,7 +19,7 @@
   - Difficult Ejection 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2567) 
 - **Battle Value:** 1754 
-- [*More Info*](predator/predator_standard.md) 
+- [*More Info*](predator/predator.md) 
 
 ## Predator 2 
 

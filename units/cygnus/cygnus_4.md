@@ -18,6 +18,10 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Static Ammo Feed (Unknown Component) 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Static Ammo Feed (Unknown Component) 
   - Exposed Weapon Linkage (LB 20-X AC) 
   - Static Ammo Feed (LB 20-X AC) 
   - Exposed Weapon Linkage (LB 20-X AC) 

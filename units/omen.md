@@ -1,6 +1,6 @@
 # Omen 
 
-## Omen (Standard) 
+## Omen 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3087) 
@@ -23,7 +23,7 @@
   - Rugged (×2) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2318) 
 - **Battle Value:** 2750 
-- [*More Info*](omen/omen_standard.md) 
+- [*More Info*](omen/omen.md) 
 
 ## Omen 2 
 

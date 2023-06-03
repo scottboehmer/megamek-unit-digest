@@ -1,6 +1,6 @@
 # Golem Assault Armor 
 
-## Golem Assault Armor (Standard)(Sqd4) 
+## Golem Assault Armor (Sqd4) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3067) 
@@ -15,9 +15,9 @@
   - Bearhunter Superheavy AC × 2 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4224) 
 - **Battle Value:** 125 (650 for 4 suits) 
-- [*More Info*](golem_assault_armor/golem_assault_armor_standardsqd4.md) 
+- [*More Info*](golem_assault_armor/golem_assault_armor_sqd4.md) 
 
-## Golem Assault Armor (Standard)(Sqd5) 
+## Golem Assault Armor (Sqd5) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3067) 
@@ -32,9 +32,9 @@
   - Bearhunter Superheavy AC × 2 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8623) 
 - **Battle Value:** 125 (875 for 5 suits) 
-- [*More Info*](golem_assault_armor/golem_assault_armor_standardsqd5.md) 
+- [*More Info*](golem_assault_armor/golem_assault_armor_sqd5.md) 
 
-## Golem Assault Armor (Standard)(Sqd6) 
+## Golem Assault Armor (Sqd6) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3067) 
@@ -49,7 +49,7 @@
   - Bearhunter Superheavy AC × 2 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8987) 
 - **Battle Value:** 125 (1125 for 6 suits) 
-- [*More Info*](golem_assault_armor/golem_assault_armor_standardsqd6.md) 
+- [*More Info*](golem_assault_armor/golem_assault_armor_sqd6.md) 
 
 ## Golem Assault Armor (Fast Assault)(Sqd4) 
 

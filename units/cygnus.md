@@ -1,6 +1,6 @@
 # Cygnus 
 
-## Cygnus (Standard) 
+## Cygnus 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3075) 
@@ -21,7 +21,7 @@
   - Static Ammo Feed (Ultra AC/10) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/781) 
 - **Battle Value:** 2583 
-- [*More Info*](cygnus/cygnus_standard.md) 
+- [*More Info*](cygnus/cygnus.md) 
 
 ## Cygnus 2 
 
@@ -37,6 +37,10 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Static Ammo Feed (Unknown Component) 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Static Ammo Feed (Unknown Component) 
   - Exposed Weapon Linkage (HAG 40) 
   - Static Ammo Feed (HAG 40) 
   - Exposed Weapon Linkage (HAG 40) 
@@ -58,6 +62,10 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Static Ammo Feed (Unknown Component) 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Static Ammo Feed (Unknown Component) 
   - Exposed Weapon Linkage (HAG 20) 
   - Static Ammo Feed (HAG 20) 
   - Static Ammo Feed (HAG 20) 
@@ -85,6 +93,10 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Static Ammo Feed (Unknown Component) 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Static Ammo Feed (Unknown Component) 
   - Exposed Weapon Linkage (LB 20-X AC) 
   - Static Ammo Feed (LB 20-X AC) 
   - Exposed Weapon Linkage (LB 20-X AC) 

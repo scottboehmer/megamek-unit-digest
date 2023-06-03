@@ -17,6 +17,25 @@
 - **Battle Value:** 893 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_srm2.md) 
 
+## Zephyr Hovertank 
+
+- **Role:** Striker 
+- **Tech Base:** Inner Sphere (2621) 
+- **Chassis:** 40 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 125 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - SRM 6 (ammo: 30) 
+  - Medium Laser × 3 
+  - Small Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - TAG 
+- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3632) 
+- **Battle Value:** 904 
+- [*More Info*](zephyr_hovertank/zephyr_hovertank.md) 
+
 ## Zephyr Hovertank (Royal) 
 
 - **Role:** Striker 
@@ -35,25 +54,6 @@
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3631) 
 - **Battle Value:** 811 
 - [*More Info*](zephyr_hovertank/zephyr_hovertank_royal.md) 
-
-## Zephyr Hovertank (Standard) 
-
-- **Role:** Striker 
-- **Tech Base:** Inner Sphere (2621) 
-- **Chassis:** 40 tons Hover 
-- **Movement:** 9 / 14, Fusion 
-- **Armor:** 125 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - SRM 6 (ammo: 30) 
-  - Medium Laser × 3 
-  - Small Laser 
-- **Equipment:** 
-  - Guardian ECM Suite 
-  - TAG 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3632) 
-- **Battle Value:** 904 
-- [*More Info*](zephyr_hovertank/zephyr_hovertank_standard.md) 
 
 ## Zephyr Hovertank EC 
 

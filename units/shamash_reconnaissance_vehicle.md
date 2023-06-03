@@ -1,6 +1,6 @@
 # Shamash Reconnaissance Vehicle 
 
-## Shamash Reconnaissance Vehicle (Standard) 
+## Shamash Reconnaissance Vehicle 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (2887) 
@@ -12,7 +12,7 @@
   - ER Small Laser × 4 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2921) 
 - **Battle Value:** 504 
-- [*More Info*](shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle_standard.md) 
+- [*More Info*](shamash_reconnaissance_vehicle/shamash_reconnaissance_vehicle.md) 
 
 ## Shamash Reconnaissance Vehicle (Flamer) 
 

@@ -19,7 +19,7 @@
 
 #### [HeavyHauler Exoskeleton](../../../units/heavyhauler_exoskeleton.md) 
 
-- [**HeavyHauler Exoskeleton (Standard)(Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_standardsqd4.md) *Undefined (3052)* 
+- [**HeavyHauler Exoskeleton (Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_sqd4.md) *Undefined (3052)* 
 
 #### [Salrilla Exoskeleton](../../../units/salrilla_exoskeleton.md) 
 
@@ -83,7 +83,7 @@
 
 #### [Void Medium Battle Armor](../../../units/void_medium_battle_armor.md) 
 
-- [**Void Medium Battle Armor (Standard)(Sqd4)**](../../../units/void_medium_battle_armor/void_medium_battle_armor_standardsqd4.md) *Scout (3067)* `Stealth` 
+- [**Void Medium Battle Armor (Sqd4)**](../../../units/void_medium_battle_armor/void_medium_battle_armor_sqd4.md) *Scout (3067)* `Stealth` 
 - [**Void Medium Battle Armor (DCA)(Sqd4)**](../../../units/void_medium_battle_armor/void_medium_battle_armor_dcasqd4.md) *Scout (3068)* `Stealth` 
 - [**Void Medium Battle Armor Caltrop(Sqd4)**](../../../units/void_medium_battle_armor/void_medium_battle_armor_caltropsqd4.md) *Ambusher (3078)* `Stealth` , `Unique` 
 - [**Void Medium Battle Armor (Minelayer)(Sqd4)**](../../../units/void_medium_battle_armor/void_medium_battle_armor_minelayersqd4.md) *Ambusher (3079)* `Stealth` 

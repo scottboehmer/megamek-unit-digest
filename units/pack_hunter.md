@@ -1,6 +1,6 @@
 # Pack Hunter 
 
-## Pack Hunter (Standard) 
+## Pack Hunter 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3059) 
@@ -15,7 +15,7 @@
   - Reinforced Legs 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2392) 
 - **Battle Value:** 1369 
-- [*More Info*](pack_hunter/pack_hunter_standard.md) 
+- [*More Info*](pack_hunter/pack_hunter.md) 
 
 ## Pack Hunter 2 
 

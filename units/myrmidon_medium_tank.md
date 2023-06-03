@@ -1,6 +1,6 @@
 # Myrmidon Medium Tank 
 
-## Myrmidon Medium Tank (Standard) 
+## Myrmidon Medium Tank 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (3060) 
@@ -13,7 +13,7 @@
   - SRM 6 (ammo: 15) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2245) 
 - **Battle Value:** 815 
-- [*More Info*](myrmidon_medium_tank/myrmidon_medium_tank_standard.md) 
+- [*More Info*](myrmidon_medium_tank/myrmidon_medium_tank.md) 
 
 ## Myrmidon Medium Tank P (Tate) 
 

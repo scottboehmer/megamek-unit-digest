@@ -1,6 +1,6 @@
 # Gallant Urban Assault Tank 
 
-## Gallant Urban Assault Tank (Standard) 
+## Gallant Urban Assault Tank 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (2574) 
@@ -17,5 +17,5 @@
   - CASE 
 - **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/4200) 
 - **Battle Value:** 1056 
-- [*More Info*](gallant_urban_assault_tank/gallant_urban_assault_tank_standard.md) 
+- [*More Info*](gallant_urban_assault_tank/gallant_urban_assault_tank.md) 
 

@@ -1,6 +1,6 @@
 # Gnome Battle Armor 
 
-## Gnome Battle Armor (Standard)(Sqd3) 
+## Gnome Battle Armor (Sqd3) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3056) 
@@ -15,9 +15,9 @@
   - Advanced SRM 2 (ammo: 2) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9212) 
 - **Battle Value:** 83 (299 for 3 suits) 
-- [*More Info*](gnome_battle_armor/gnome_battle_armor_standardsqd3.md) 
+- [*More Info*](gnome_battle_armor/gnome_battle_armor_sqd3.md) 
 
-## Gnome Battle Armor (Standard)(Sqd4) 
+## Gnome Battle Armor (Sqd4) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3056) 
@@ -32,9 +32,9 @@
   - Advanced SRM 2 (ammo: 2) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1216) 
 - **Battle Value:** 83 (431 for 4 suits) 
-- [*More Info*](gnome_battle_armor/gnome_battle_armor_standardsqd4.md) 
+- [*More Info*](gnome_battle_armor/gnome_battle_armor_sqd4.md) 
 
-## Gnome Battle Armor (Standard)(Sqd5) 
+## Gnome Battle Armor (Sqd5) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3056) 
@@ -49,9 +49,9 @@
   - Advanced SRM 2 (ammo: 2) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8518) 
 - **Battle Value:** 83 (581 for 5 suits) 
-- [*More Info*](gnome_battle_armor/gnome_battle_armor_standardsqd5.md) 
+- [*More Info*](gnome_battle_armor/gnome_battle_armor_sqd5.md) 
 
-## Gnome Battle Armor (Standard)(Sqd6) 
+## Gnome Battle Armor (Sqd6) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3056) 
@@ -66,7 +66,7 @@
   - Advanced SRM 2 (ammo: 2) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8882) 
 - **Battle Value:** 83 (747 for 6 suits) 
-- [*More Info*](gnome_battle_armor/gnome_battle_armor_standardsqd6.md) 
+- [*More Info*](gnome_battle_armor/gnome_battle_armor_sqd6.md) 
 
 ## Gnome Battle Armor (Upgrade) (Bearhunter)(Sqd4) 
 
@@ -278,20 +278,20 @@
 ## Gnome Battle Armor 'Dwarf'(Sqd4) 
 
 - **Role:** Juggernaut 
-- **Tech Base:** Inner Sphere (3140) 
+- **Tech Base:** Clan (3140) 
 - **Chassis:** Heavy Battle Armor (1,500 kg) 
 - **Movement:** 1 
-  - **Jumping:** 2 (0) 
+  - **Jumping:** 2 
 - **Armor:** 10 (Standard) 
 - **Manipulators:** 
   - Armored Glove (right) 
   - Battle Claw w/ Vibro-Claw (left) 
 - **Weapons:** 
-  - Small VSP Laser 
-  - Clan SRM 6 (OS) 
+  - Inner Sphere Small VSP Laser 
+  - SRM 6 (OS) 
 - **Equipment:** 
-  - Magnetic Clamps 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8385) 
+  - Inner Sphere Magnetic Clamps 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8385) 
 - **Battle Value:** 54 (281 for 4 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_dwarfsqd4.md) 
 

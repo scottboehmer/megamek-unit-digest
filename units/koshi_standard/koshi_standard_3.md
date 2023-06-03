@@ -4,7 +4,7 @@
 
 ## Koshi (Standard) 3 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Clan (3095) 
 - **Chassis:** 25 tons (Endo Steel) 
 - **Movement:** 7 / 11 (14), XL 

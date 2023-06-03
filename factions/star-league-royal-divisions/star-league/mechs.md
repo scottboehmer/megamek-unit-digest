@@ -216,7 +216,7 @@
 
 #### [Dervish](../../../units/dervish.md) 
 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 
 #### [Griffin](../../../units/griffin.md) 
 
@@ -400,7 +400,6 @@
 #### [Rifleman II](../../../units/rifleman_ii.md) 
 
 - [**Rifleman II RFL-3N-2**](../../../units/rifleman_ii/rifleman_ii_rfl-3n-2.md) *Brawler (2720)* `Active Probe` 
-- [**Rifleman II RFL-3N-2 (Kataga)**](../../../units/rifleman_ii/rifleman_ii_rfl-3n-2_kataga.md) *Brawler (2766)* `Active Probe` , `Unique` 
 
 #### [ScavengerMech](../../../units/scavengermech.md) 
 
@@ -422,6 +421,7 @@
 - [**Victor VTR-9A**](../../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9A1**](../../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
+- [**Victor VTR-9B (Kataga)**](../../../units/victor/victor_vtr-9b_kataga.md) *Brawler (2766)* `Active Probe` , `Unique` 
 
 ### 85 Tons 
 
@@ -429,7 +429,7 @@
 
 - [**BattleMaster BLR-1G**](../../../units/battlemaster/battlemaster_blr-1g.md) *Brawler (2633)* 
 - [**BattleMaster BLR-1G-DC**](../../../units/battlemaster/battlemaster_blr-1g-dc.md) *Brawler (2633)* `Command Console` 
-- [**BattleMaster BLR-1GHE 'HellSlinger'**](../../../units/battlemaster/battlemaster_blr-1ghe_hellslinger.md) *Undefined (2750)* 
+- [**BattleMaster BLR-1GHE 'HellSlinger'**](../../../units/battlemaster/battlemaster_blr-1ghe_hellslinger.md) *Brawler (2750)* 
 - [**BattleMaster BLR-1Gb**](../../../units/battlemaster/battlemaster_blr-1gb.md) *Brawler (2760)* 
 - [**BattleMaster BLR-1Gbc**](../../../units/battlemaster/battlemaster_blr-1gbc.md) *Brawler (2763)* `Command Console` 
 

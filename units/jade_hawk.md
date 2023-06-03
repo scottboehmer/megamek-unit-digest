@@ -49,7 +49,7 @@
 - **Battle Value:** 2102 
 - [*More Info*](jade_hawk/jade_hawk_jhk-04.md) 
 
-## Jade Hawk (Standard) 
+## Jade Hawk 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3136) 
@@ -72,7 +72,7 @@
   - Non-Standard Parts 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6566) 
 - **Battle Value:** 2523 
-- [*More Info*](jade_hawk/jade_hawk_standard.md) 
+- [*More Info*](jade_hawk/jade_hawk.md) 
 
 ## Jade Hawk 2 
 

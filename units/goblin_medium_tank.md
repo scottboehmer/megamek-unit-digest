@@ -1,5 +1,22 @@
 # Goblin Medium Tank 
 
+## Goblin Medium Tank 
+
+- **Role:** Brawler 
+- **Tech Base:** Inner Sphere (2500) 
+- **Chassis:** 45 tons Tracked 
+- **Movement:** 4 / 6, ICE 
+- **Armor:** 128 
+- **Heat Sinks:** 8 (8) 
+- **Weapons:** 
+  - Large Laser 
+  - Machine Gun (ammo: 100) 
+- **Equipment:** 
+  - Infantry (1.0 tons) 
+- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1226) 
+- **Battle Value:** 555 
+- [*More Info*](goblin_medium_tank/goblin_medium_tank.md) 
+
 ## Goblin Medium Tank (LRM) 
 
 - **Role:** Missile Boat 
@@ -50,23 +67,6 @@
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1225) 
 - **Battle Value:** 647 
 - [*More Info*](goblin_medium_tank/goblin_medium_tank_srm.md) 
-
-## Goblin Medium Tank (Standard) 
-
-- **Role:** Brawler 
-- **Tech Base:** Inner Sphere (2500) 
-- **Chassis:** 45 tons Tracked 
-- **Movement:** 4 / 6, ICE 
-- **Armor:** 128 
-- **Heat Sinks:** 8 (8) 
-- **Weapons:** 
-  - Large Laser 
-  - Machine Gun (ammo: 100) 
-- **Equipment:** 
-  - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1226) 
-- **Battle Value:** 555 
-- [*More Info*](goblin_medium_tank/goblin_medium_tank_standard.md) 
 
 ## Goblin Medium Tank X 
 

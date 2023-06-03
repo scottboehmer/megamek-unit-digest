@@ -1,6 +1,6 @@
 # Harasser Missile Platform 
 
-## Harasser Missile Platform (Standard) 
+## Harasser Missile Platform 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (2811) 
@@ -12,7 +12,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1390) 
 - **Battle Value:** 413 
-- [*More Info*](harasser_missile_platform/harasser_missile_platform_standard.md) 
+- [*More Info*](harasser_missile_platform/harasser_missile_platform.md) 
 
 ## Harasser Missile Platform 'Leaping Lisa' 
 

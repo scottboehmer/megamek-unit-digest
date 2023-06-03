@@ -1,6 +1,6 @@
 # Viper (Black Python) 
 
-## Black Python (Standard) "Viper" 
+## Black Python "Viper" 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3051) 
@@ -21,7 +21,7 @@
   - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3432) 
 - **Battle Value:** 2813 
-- [*More Info*](black_python/black_python_standard.md) 
+- [*More Info*](black_python/black_python.md) 
 
 ## Black Python 2 "Viper" 
 

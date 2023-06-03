@@ -1,6 +1,6 @@
 # DI Morgan Assault Tank 
 
-## DI Morgan Assault Tank (Standard) 
+## DI Morgan Assault Tank 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3073) 
@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/900) 
 - **Battle Value:** 1390 
-- [*More Info*](di_morgan_assault_tank/di_morgan_assault_tank_standard.md) 
+- [*More Info*](di_morgan_assault_tank/di_morgan_assault_tank.md) 
 
 ## DI Morgan Assault Tank (Gauss) 
 

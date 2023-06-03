@@ -14,12 +14,6 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Command ’Mech 
-  - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
-  - Directional Torso Mount (AC/5) 
-  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2033) 
 - **Battle Value:** 1420 
 - [*More Info*](marauder/marauder_mad-1r.md) 
@@ -43,6 +37,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (AC/5) 
+  - Exposed Weapon Linkage (AC/5) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2034) 
 - **Battle Value:** 1630 
 - [*More Info*](marauder/marauder_mad-2r.md) 
@@ -83,11 +78,6 @@
   - Inner Sphere Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Design Quirks:** 
-  - Command ’Mech 
-  - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
-  - Directional Torso Mount (Ultra AC/5) 
 - **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2032) 
 - **Battle Value:** 1711 
 - [*More Info*](marauder/marauder_c.md) 
@@ -109,6 +99,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Large Laser) 
+  - Exposed Weapon Linkage (Large Laser) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2035) 
 - **Battle Value:** 1470 
 - [*More Info*](marauder/marauder_mad-3d.md) 
@@ -170,12 +161,6 @@
 - **Weapons:** 
   - PPC × 3 
   - Medium Laser × 5 
-- **Design Quirks:** 
-  - Command ’Mech 
-  - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
-  - Directional Torso Mount (PPC) 
-  - Directional Torso Mount (Medium Laser) 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2030) 
 - **Battle Value:** 1919 
 - [*More Info*](marauder/marauder_bounty_hunter-3015.md) 
@@ -197,7 +182,9 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (SRM 4) 
+  - Exposed Weapon Linkage (SRM 4) 
   - Directional Torso Mount (SRM 4) 
+  - Exposed Weapon Linkage (SRM 4) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2052) 
 - **Battle Value:** 1459 
 - [*More Info*](marauder/marauder_mad-sd_douglass.md) 
@@ -215,9 +202,14 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Design Quirks:** 
   - Combat Computer 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
   - Cramped Cockpit 
   - Difficult to Maintain 
   - No Ejection System 
+  - Directional Torso Mount (SRM 6) 
+  - Exposed Weapon Linkage (SRM 6) 
   - Improved Cooling Jacket (Blazer Cannon) 
   - Improved Cooling Jacket (Blazer Cannon) 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768) 
@@ -237,11 +229,6 @@
   - Gauss Rifle (ammo: 16) 
   - ER PPC × 2 
   - Medium Laser × 3 
-- **Design Quirks:** 
-  - Command ’Mech 
-  - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
-  - Directional Torso Mount (Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2031) 
 - **Battle Value:** 2103 
 - [*More Info*](marauder/marauder_bounty_hunter-3044.md) 
@@ -267,6 +254,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Large Pulse Laser) 
+  - Exposed Weapon Linkage (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2039) 
 - **Battle Value:** 1787 
 - [*More Info*](marauder/marauder_mad-5d.md) 
@@ -291,6 +279,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (LB 10-X AC) 
+  - Exposed Weapon Linkage (LB 10-X AC) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2041) 
 - **Battle Value:** 1471 
 - [*More Info*](marauder/marauder_mad-5m.md) 
@@ -314,6 +303,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Gauss Rifle) 
+  - Exposed Weapon Linkage (Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2043) 
 - **Battle Value:** 1799 
 - [*More Info*](marauder/marauder_mad-5s.md) 
@@ -330,6 +320,12 @@
   - ER PPC × 2 
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (LB 10-X AC) 
+  - Exposed Weapon Linkage (LB 10-X AC) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7600) 
 - **Battle Value:** 1648 
 - [*More Info*](marauder/marauder_mad-5cs.md) 
@@ -350,6 +346,10 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Command Console 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7529) 
 - **Battle Value:** 1787 
 - [*More Info*](marauder/marauder_mad-5d-dc.md) 
@@ -374,6 +374,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (ER PPC) 
+  - Exposed Weapon Linkage (ER PPC) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2040) 
 - **Battle Value:** 2244 
 - [*More Info*](marauder/marauder_mad-5l.md) 
@@ -399,6 +400,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (RAC/5) 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2042) 
 - **Battle Value:** 1877 
 - [*More Info*](marauder/marauder_mad-5r.md) 
@@ -423,6 +425,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (RAC/5) 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2044) 
 - **Battle Value:** 1750 
 - [*More Info*](marauder/marauder_mad-5t.md) 
@@ -448,6 +451,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (RAC/5) 
+  - Exposed Weapon Linkage (RAC/5) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2046) 
 - **Battle Value:** 1986 
 - [*More Info*](marauder/marauder_mad-7d.md) 
@@ -471,6 +475,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Streak SRM 6) 
+  - Exposed Weapon Linkage (Streak SRM 6) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2047) 
 - **Battle Value:** 1704 
 - [*More Info*](marauder/marauder_mad-9m.md) 
@@ -493,6 +498,8 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Streak SRM 6) 
+  - Exposed Weapon Linkage (Streak SRM 6) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2048) 
 - **Battle Value:** 1875 
 - [*More Info*](marauder/marauder_mad-9m2.md) 
@@ -519,6 +526,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (LB 10-X AC) 
+  - Exposed Weapon Linkage (LB 10-X AC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2049) 
 - **Battle Value:** 1786 
 - [*More Info*](marauder/marauder_mad-9s.md) 
@@ -561,6 +569,10 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7697) 
 - **Battle Value:** 2150 
 - [*More Info*](marauder/marauder_mad-7d_von_staskov.md) 
@@ -586,6 +598,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Snub-Nose PPC) 
+  - Exposed Weapon Linkage (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2050) 
 - **Battle Value:** 1788 
 - [*More Info*](marauder/marauder_mad-9w.md) 
@@ -605,6 +618,12 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (LB 5-X AC) 
+  - Exposed Weapon Linkage (LB 5-X AC) 
 - **Sources:** Rec Guide:ilClan #6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7531) 
 - **Battle Value:** 1908 
 - [*More Info*](marauder/marauder_mad-7m.md) 
@@ -631,6 +650,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Snub-Nose PPC) 
+  - Exposed Weapon Linkage (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2051) 
 - **Battle Value:** 1868 
 - [*More Info*](marauder/marauder_mad-9w2.md) 
@@ -649,6 +669,12 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (Gauss Rifle) 
+  - Exposed Weapon Linkage (Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #6 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7533) 
 - **Battle Value:** 1903 
 - [*More Info*](marauder/marauder_mad-7s.md) 
@@ -667,6 +693,12 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (LB 5-X AC) 
+  - Exposed Weapon Linkage (LB 5-X AC) 
 - **Sources:** Rec Guide:ilClan #6 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7528) 
 - **Battle Value:** 1646 
 - [*More Info*](marauder/marauder_mad-2t.md) 
@@ -687,6 +719,12 @@
   - Guardian ECM Suite 
   - CASE II 
   - C3 Support 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (Light Gauss Rifle) 
+  - Exposed Weapon Linkage (Light Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7530) 
 - **Battle Value:** 1810 
 - [*More Info*](marauder/marauder_mad-7c.md) 
@@ -706,6 +744,12 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (Light Gauss Rifle) 
+  - Exposed Weapon Linkage (Light Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7532) 
 - **Battle Value:** 1832 
 - [*More Info*](marauder/marauder_mad-7r.md) 
@@ -730,6 +774,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Silver Bullet) 
+  - Exposed Weapon Linkage (Silver Bullet) 
 - **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6866) 
 - **Battle Value:** 1967 
 - [*More Info*](marauder/marauder_mad-9d.md) 
@@ -768,6 +813,12 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (Silver Bullet) 
+  - Exposed Weapon Linkage (Silver Bullet) 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7534) 
 - **Battle Value:** 2263 
 - [*More Info*](marauder/marauder_mad-11d.md) 
@@ -790,23 +841,4 @@
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7536) 
 - **Battle Value:** 2509 
 - [*More Info*](marauder/marauder_red_hunter.md) 
-
-## Marauder Red Hunter 3146 
-
-- **Role:** Juggernaut 
-- **Tech Base:** Inner Sphere Mixed (3146) 
-- **Chassis:** 75 tons 
-- **Movement:** 4 / 6 (8), XL 
-- **Armor:** 216 (Ballistic Reinforced) 
-- **Heat Sinks:** 14 (28) 
-- **Weapons:** 
-  - Snub-Nose PPC w/ PPC Capacitor × 2 
-  - Clan Ultra AC/10 (ammo: 20) 
-  - Clan ER Medium Laser × 2 
-- **Equipment:** 
-  - CASE II 
-  - Supercharger 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7536) 
-- **Battle Value:** 2509 
-- [*More Info*](marauder/marauder_red_hunter_3146.md) 
 

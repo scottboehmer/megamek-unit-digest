@@ -1,6 +1,6 @@
 # Mobile Tactical Command HQ 
 
-## Mobile Tactical Command HQ (Standard) 
+## Mobile Tactical Command HQ 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3132) 
@@ -15,5 +15,5 @@
   - Guardian ECM Suite 
   - Infantry (7 tons) 
 - **Battle Value:** 431 
-- [*More Info*](mobile_tactical_command_hq/mobile_tactical_command_hq_standard.md) 
+- [*More Info*](mobile_tactical_command_hq/mobile_tactical_command_hq.md) 
 

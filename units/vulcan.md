@@ -207,7 +207,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8370) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8370) 
 - **Battle Value:** 947 
 - [*More Info*](vulcan/vulcan_vt-5ml_aladdin.md) 
 

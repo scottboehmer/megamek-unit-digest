@@ -4,7 +4,7 @@
 
 ## Chippewa CHP-X-P (Gladstone) 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 

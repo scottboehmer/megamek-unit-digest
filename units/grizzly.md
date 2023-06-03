@@ -1,6 +1,6 @@
 # Grizzly 
 
-## Grizzly (Standard) 
+## Grizzly 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (2947) 
@@ -22,7 +22,7 @@
   - Exposed Actuators 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1332) 
 - **Battle Value:** 2219 
-- [*More Info*](grizzly/grizzly_standard.md) 
+- [*More Info*](grizzly/grizzly.md) 
 
 ## Grizzly 2 
 

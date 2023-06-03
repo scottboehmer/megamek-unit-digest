@@ -1,6 +1,6 @@
 # Bane 
 
-## Bane (Standard) "Kraken" 
+## Bane "Kraken" 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2827) 
@@ -18,7 +18,7 @@
   - Protected Actuators 
 - **Sources:** Rec Guide:ilClan #17 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1841) 
 - **Battle Value:** 1950 
-- [*More Info*](bane/bane_standard.md) 
+- [*More Info*](bane/bane.md) 
 
 ## Bane 2 "Kraken" 
 

@@ -19,6 +19,9 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
   - Fast Reload (Streak SRM 4) 
   - Fast Reload (Streak SRM 4) 
   - Fast Reload (LB 10-X AC) 

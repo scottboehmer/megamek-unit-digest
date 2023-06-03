@@ -1,6 +1,6 @@
 # Anhur Transport 
 
-## Anhur Transport (Standard) 
+## Anhur Transport 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (2840) 
@@ -15,7 +15,7 @@
   - Infantry (7 tons) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/35) 
 - **Battle Value:** 720 
-- [*More Info*](anhur_transport/anhur_transport_standard.md) 
+- [*More Info*](anhur_transport/anhur_transport.md) 
 
 ## Anhur Transport (BA) 
 

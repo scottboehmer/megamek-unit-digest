@@ -15,6 +15,10 @@
   - Light PPC × 2 
   - Medium X-Pulse Laser × 2 
   - Small X-Pulse Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Improved Communications 
+  - Jettison-Capable Weapon (Light PPC) 
 - **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7750) 
 - **Battle Value:** 1327 
 

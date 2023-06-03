@@ -313,7 +313,7 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
-- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Striker (3086)* 
 
 #### [Enforcer](../../../units/enforcer.md) 
 
@@ -370,7 +370,7 @@
 #### [Dervish](../../../units/dervish.md) 
 
 - [**Dervish DV-1S**](../../../units/dervish/dervish_dv-1s.md) *Missile Boat (2520)* 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 - [**Dervish DV-6Mr**](../../../units/dervish/dervish_dv-6mr.md) *Brawler (3073)* 
 
 #### [Eyleuka](../../../units/eyleuka.md) 

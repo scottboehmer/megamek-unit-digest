@@ -15,9 +15,14 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Design Quirks:** 
   - Combat Computer 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
   - Cramped Cockpit 
   - Difficult to Maintain 
   - No Ejection System 
+  - Directional Torso Mount (SRM 6) 
+  - Exposed Weapon Linkage (SRM 6) 
   - Improved Cooling Jacket (Blazer Cannon) 
   - Improved Cooling Jacket (Blazer Cannon) 
 - **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768) 

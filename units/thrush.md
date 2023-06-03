@@ -94,3 +94,19 @@
 - **Battle Value:** Unknown 
 - [*More Info*](thrush/sangihe_shrike-thrush_nanook.md) 
 
+## Thrush TR-9 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3143) 
+- **Chassis:** 25 tons 
+- **Thrust:** 12 / 18, XL 
+- **Fuel:** 320 
+- **Armor:** 56 (Laser Reflective) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Re-Engineered Laser × 2 
+  - ER Medium Laser × 3 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8015) 
+- **Battle Value:** Unknown 
+- [*More Info*](thrush/thrush_tr-9.md) 
+

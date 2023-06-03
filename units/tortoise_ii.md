@@ -16,7 +16,7 @@
 
 ## Tortoise II (aSRM)(Sqd5) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3134) 
 - **Chassis:** Assault Quad Battle Armor (2,000 kg) 
 - **Movement:** 2 (1) 

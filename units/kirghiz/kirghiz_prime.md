@@ -4,7 +4,7 @@
 
 ## Kirghiz Prime 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (2874) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 

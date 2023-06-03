@@ -4,7 +4,7 @@
 
 ## Vedette Medium Tank (AC/10) 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3027) 
 - **Chassis:** 50 tons Tracked 
 - **Movement:** 5 / 8, Fusion 

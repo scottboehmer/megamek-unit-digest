@@ -15,7 +15,7 @@
 - **Battle Value:** 584 
 - [*More Info*](shillelagh_missile_tank/shillelagh_missile_tank_original.md) 
 
-## Shillelagh Missile Tank (Standard) 
+## Shillelagh Missile Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3093) 
@@ -28,5 +28,5 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6378) 
 - **Battle Value:** 669 
-- [*More Info*](shillelagh_missile_tank/shillelagh_missile_tank_standard.md) 
+- [*More Info*](shillelagh_missile_tank/shillelagh_missile_tank.md) 
 

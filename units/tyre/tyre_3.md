@@ -4,7 +4,7 @@
 
 ## Tyre 3 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3086) 
 - **Chassis:** 55 tons 
 - **Thrust:** 5 / 8 

@@ -6,8 +6,8 @@
 
 #### [Gladiator Exoskeleton](../../../units/gladiator_exoskeleton.md) 
 
-- [**Gladiator Exoskeleton (Standard) (AG)(Sqd4)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_agsqd4.md) *Undefined (3056)* 
-- [**Gladiator Exoskeleton (Standard) (BC/ID)(Sqd4)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_bc_idsqd4.md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (AG)(Sqd4)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_agsqd4.md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (BC/ID)(Sqd4)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_bc_idsqd4.md) *Undefined (3056)* 
 
 #### [Groundhog Exoskeleton](../../../units/groundhog_exoskeleton.md) 
 

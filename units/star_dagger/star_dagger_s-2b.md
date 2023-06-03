@@ -5,7 +5,7 @@
 ## Star Dagger S-2B 
 
 - **Role:** Fast Dogfighter 
-- **Tech Base:** Inner Sphere (2571) 
+- **Tech Base:** Inner Sphere (2525) 
 - **Chassis:** 30 tons 
 - **Thrust:** 10 / 15 
 - **Fuel:** 400 

@@ -5,7 +5,7 @@
 ## Thunderbolt TDR-5SE 
 
 - **Role:** Skirmisher 
-- **Tech Base:** Inner Sphere (2910) 
+- **Tech Base:** Inner Sphere (3000) 
 - **Chassis:** 65 tons 
 - **Movement:** 4 / 6 
   - **Jumping:** 4 

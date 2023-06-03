@@ -1,6 +1,6 @@
 # Icestorm 
 
-## Icestorm (Standard) 
+## Icestorm 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (2830) 
@@ -19,7 +19,7 @@
   - Rugged (×2) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1602) 
 - **Battle Value:** 728 
-- [*More Info*](icestorm/icestorm_standard.md) 
+- [*More Info*](icestorm/icestorm.md) 
 
 ## Icestorm 2 
 

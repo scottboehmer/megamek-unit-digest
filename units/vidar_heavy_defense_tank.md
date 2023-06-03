@@ -1,6 +1,6 @@
 # Vidar Heavy Defense Tank 
 
-## Vidar Heavy Defense Tank (Standard) 
+## Vidar Heavy Defense Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (3085) 
@@ -15,5 +15,5 @@
   - Anti-Missile System × 2 (ammo: 48) 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5348) 
 - **Battle Value:** 1458 
-- [*More Info*](vidar_heavy_defense_tank/vidar_heavy_defense_tank_standard.md) 
+- [*More Info*](vidar_heavy_defense_tank/vidar_heavy_defense_tank.md) 
 

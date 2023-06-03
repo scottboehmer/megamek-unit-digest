@@ -2,7 +2,7 @@
 
 ## Gotha GTHA-100 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2657) 
 - **Chassis:** 60 tons 
 - **Thrust:** 4 / 6 
@@ -21,7 +21,7 @@
 
 ## Gotha GTHA-300 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2657) 
 - **Chassis:** 60 tons 
 - **Thrust:** 4 / 6 
@@ -39,7 +39,7 @@
 
 ## Gotha GTHA-500 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2657) 
 - **Chassis:** 60 tons 
 - **Thrust:** 5 / 8 
@@ -57,7 +57,7 @@
 
 ## Gotha GTHA-500b 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2703) 
 - **Chassis:** 60 tons 
 - **Thrust:** 5 / 8 
@@ -75,7 +75,7 @@
 
 ## Gotha GTHA-400 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3019) 
 - **Chassis:** 60 tons 
 - **Thrust:** 5 / 8 

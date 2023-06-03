@@ -1,6 +1,6 @@
 # Marten Scout VTOL 
 
-## Marten Scout VTOL (Standard) 
+## Marten Scout VTOL 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3021) 
@@ -15,7 +15,7 @@
   - Infantry (1.0 tons) 
 - **Sources:** TRO 3145 Federated Suns - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/6313) 
 - **Battle Value:** 179 
-- [*More Info*](marten_scout_vtol/marten_scout_vtol_standard.md) 
+- [*More Info*](marten_scout_vtol/marten_scout_vtol.md) 
 
 ## Marten Scout VTOL (Infantry) 
 

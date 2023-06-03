@@ -1,6 +1,6 @@
 # Gurzil Support Tank 
 
-## Gurzil Support Tank (Standard) 
+## Gurzil Support Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (3126) 
@@ -16,5 +16,5 @@
   - CASE 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6251) 
 - **Battle Value:** 1671 
-- [*More Info*](gurzil_support_tank/gurzil_support_tank_standard.md) 
+- [*More Info*](gurzil_support_tank/gurzil_support_tank.md) 
 

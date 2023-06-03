@@ -1,6 +1,6 @@
 # Stygian Strike Tank 
 
-## Stygian Strike Tank (Standard) 
+## Stygian Strike Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3062) 
@@ -13,7 +13,7 @@
   - ER Medium Laser × 2 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5158) 
 - **Battle Value:** 960 
-- [*More Info*](stygian_strike_tank/stygian_strike_tank_standard.md) 
+- [*More Info*](stygian_strike_tank/stygian_strike_tank.md) 
 
 ## Stygian Strike Tank (Armor) 
 

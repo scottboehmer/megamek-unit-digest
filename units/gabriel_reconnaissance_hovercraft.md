@@ -1,6 +1,6 @@
 # Gabriel Reconnaissance Hovercraft 
 
-## Gabriel Reconnaissance Hovercraft (Standard) 
+## Gabriel Reconnaissance Hovercraft 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2712) 
@@ -12,7 +12,7 @@
   - Medium Laser 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1165) 
 - **Battle Value:** 198 
-- [*More Info*](gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft_standard.md) 
+- [*More Info*](gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft.md) 
 
 ## Gabriel Reconnaissance Hovercraft (TDF) 
 

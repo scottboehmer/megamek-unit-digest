@@ -4,7 +4,7 @@
 
 ## Vulcan VLC-5N 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2650) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8 

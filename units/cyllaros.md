@@ -1,6 +1,6 @@
 # Cyllaros 
 
-## Cyllaros (Standard) 
+## Cyllaros 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3136) 
@@ -20,5 +20,5 @@
   - CASE 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6253) 
 - **Battle Value:** 1450 
-- [*More Info*](cyllaros/cyllaros_standard.md) 
+- [*More Info*](cyllaros/cyllaros.md) 
 

@@ -75,7 +75,7 @@
 
 #### [Djinn Battle Armor](../../../units/djinn_battle_armor.md) 
 
-- [**Djinn Battle Armor (Standard) (Sqd6)**](../../../units/djinn_battle_armor/djinn_battle_armor_standard_sqd6.md) *Scout (3070)* `TAG` 
+- [**Djinn Battle Armor (Sqd6)**](../../../units/djinn_battle_armor/djinn_battle_armor_sqd6.md) *Scout (3070)* `TAG` 
 - [**Djinn Battle Armor (Stealth) (Sqd6)**](../../../units/djinn_battle_armor/djinn_battle_armor_stealth_sqd6.md) *Ambusher (3071)* `Stealth` 
 - [**Djinn Battle Armor (Reflective) 'Terrorizer' (Flamer) (Sqd6)**](../../../units/djinn_battle_armor/djinn_battle_armor_reflective_terrorizer_flamer_sqd6.md) *Ambusher (3079)* 
 - [**Djinn Battle Armor (Reflective) 'Terrorizer' (Laser) (Sqd6)**](../../../units/djinn_battle_armor/djinn_battle_armor_reflective_terrorizer_laser_sqd6.md) *Ambusher (3079)* 
@@ -83,15 +83,15 @@
 
 #### [Machina Domini Interface Armor](../../../units/machina_domini_interface_armor.md) 
 
-- [**Machina Domini Interface Armor (Standard)(Sqd1)**](../../../units/machina_domini_interface_armor/machina_domini_interface_armor_standardsqd1.md) *Undefined (3078)* 
+- [**Machina Domini Interface Armor (Sqd1)**](../../../units/machina_domini_interface_armor/machina_domini_interface_armor_sqd1.md) *Undefined (3078)* 
 
 ### 1 Tons 
 
 #### [Asura Medium Battle Armor](../../../units/asura_medium_battle_armor.md) 
 
 - [**Asura Medium Battle Armor (Anti-Infantry)(Sqd6)**](../../../units/asura_medium_battle_armor/asura_medium_battle_armor_anti-infantrysqd6.md) *Ambusher (3072)* `Stealth` 
+- [**Asura Medium Battle Armor (Sqd6)**](../../../units/asura_medium_battle_armor/asura_medium_battle_armor_sqd6.md) *Ambusher (3072)* 
 - [**Asura Medium Battle Armor (SRM)(Sqd6)**](../../../units/asura_medium_battle_armor/asura_medium_battle_armor_srmsqd6.md) *Ambusher (3072)* 
-- [**Asura Medium Battle Armor (Standard)(Sqd6)**](../../../units/asura_medium_battle_armor/asura_medium_battle_armor_standardsqd6.md) *Ambusher (3072)* 
 
 #### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
 
@@ -125,7 +125,7 @@
 #### [Se'irim Medium Battle Armor](../../../units/seirim_medium_battle_armor.md) 
 
 - [**Se'irim Medium Battle Armor (Anti-Infantry)(Sqd6)**](../../../units/seirim_medium_battle_armor/seirim_medium_battle_armor_anti-infantrysqd6.md) *Ambusher (3072)* `Stealth` 
-- [**Se'irim Medium Battle Armor (Standard)(Sqd6)**](../../../units/seirim_medium_battle_armor/seirim_medium_battle_armor_standardsqd6.md) *Ambusher (3072)* `Stealth` 
+- [**Se'irim Medium Battle Armor (Sqd6)**](../../../units/seirim_medium_battle_armor/seirim_medium_battle_armor_sqd6.md) *Ambusher (3072)* `Stealth` 
 - [**Se'irim Medium Battle Armor (Capture Team)(Sqd6)**](../../../units/seirim_medium_battle_armor/seirim_medium_battle_armor_capture_teamsqd6.md) *Ambusher (3073)* `Stealth` 
 
 ### 1.50 Tons 
@@ -159,7 +159,7 @@
 #### [Shedu Assault Battle Armor](../../../units/shedu_assault_battle_armor.md) 
 
 - [**Shedu Assault Battle Armor (Recon)(Sqd6)**](../../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_reconsqd6.md) *Scout (3072)* `Active Probe` , `ECM` , `Stealth` 
-- [**Shedu Assault Battle Armor (Standard)(Sqd6)**](../../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_standardsqd6.md) *Juggernaut (3072)* 
+- [**Shedu Assault Battle Armor (Sqd6)**](../../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_sqd6.md) *Juggernaut (3072)* 
 - [**Shedu Assault Battle Armor (Support)(Sqd6)**](../../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_supportsqd6.md) *Juggernaut (3072)* 
 - [**Shedu Assault Battle Armor (Capture Team)(Sqd6)**](../../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_capture_teamsqd6.md) *Juggernaut (3074)* 
 - [**Shedu Assault Battle Armor (PPC)(Sqd6)**](../../../units/shedu_assault_battle_armor/shedu_assault_battle_armor_ppcsqd6.md) *Juggernaut (3074)* 

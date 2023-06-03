@@ -1,6 +1,6 @@
 # Star Python 
 
-## Star Python (Standard) 
+## Star Python 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3150) 
@@ -18,5 +18,5 @@
   - CASE 
 - **Sources:** Rec Guide:ilClan #23 - , [Master Unit List](http://masterunitlist.info/Unit/Details/8413) 
 - **Battle Value:** 1234 
-- [*More Info*](star_python/star_python_standard.md) 
+- [*More Info*](star_python/star_python.md) 
 

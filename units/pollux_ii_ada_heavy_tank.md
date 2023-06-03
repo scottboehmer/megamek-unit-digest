@@ -1,6 +1,6 @@
 # Pollux II ADA Heavy Tank 
 
-## Pollux II ADA Heavy Tank (Standard) 
+## Pollux II ADA Heavy Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3130) 
@@ -16,5 +16,5 @@
   - Guardian ECM Suite 
 - **Sources:** TP: Epsilon Eridani - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7401) 
 - **Battle Value:** 1192 
-- [*More Info*](pollux_ii_ada_heavy_tank/pollux_ii_ada_heavy_tank_standard.md) 
+- [*More Info*](pollux_ii_ada_heavy_tank/pollux_ii_ada_heavy_tank.md) 
 

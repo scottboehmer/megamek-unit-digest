@@ -20,7 +20,8 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3498) 
+  - Ubiquitous 
+- **Sources:** RS Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3498) 
 - **Battle Value:** 1653 
 
 ## Availability 

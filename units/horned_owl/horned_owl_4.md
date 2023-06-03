@@ -17,6 +17,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (ER Medium Laser) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2475) 
 - **Battle Value:** 1198 

@@ -16,11 +16,11 @@
 
 #### [Salamander Battle Armor](../../../units/salamander_battle_armor.md) 
 
-- [**Salamander Battle Armor (Standard)(Sqd3)**](../../../units/salamander_battle_armor/salamander_battle_armor_standardsqd3.md) *Ambusher (3058)* 
+- [**Salamander Battle Armor (Sqd3)**](../../../units/salamander_battle_armor/salamander_battle_armor_sqd3.md) *Ambusher (3058)* 
 
 ### 1.50 Tons 
 
 #### [Gnome Battle Armor](../../../units/gnome_battle_armor.md) 
 
-- [**Gnome Battle Armor (Standard)(Sqd3)**](../../../units/gnome_battle_armor/gnome_battle_armor_standardsqd3.md) *Juggernaut (3056)* 
+- [**Gnome Battle Armor (Sqd3)**](../../../units/gnome_battle_armor/gnome_battle_armor_sqd3.md) *Juggernaut (3056)* 
 

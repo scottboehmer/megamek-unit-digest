@@ -73,7 +73,7 @@
 
 #### [Lucifer](../../../units/lucifer.md) 
 
-- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Undefined (2526)* 
 
 #### [Lucifer II](../../../units/lucifer_ii.md) 
 
@@ -90,12 +90,12 @@
 
 #### [Tatsu](../../../units/tatsu.md) 
 
-- [**Tatsu MIK-O**](../../../units/tatsu/tatsu_mik-o.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OA**](../../../units/tatsu/tatsu_mik-oa.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OB**](../../../units/tatsu/tatsu_mik-ob.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OC**](../../../units/tatsu/tatsu_mik-oc.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OD**](../../../units/tatsu/tatsu_mik-od.md) *Attack Fighter (3072)* 
-- [**Tatsu MIK-OE**](../../../units/tatsu/tatsu_mik-oe.md) *Attack Fighter (3075)* `ECM` 
+- [**Tatsu MIK-O**](../../../units/tatsu/tatsu_mik-o.md) *Undefined (3063)* 
+- [**Tatsu MIK-OA**](../../../units/tatsu/tatsu_mik-oa.md) *Undefined (3063)* 
+- [**Tatsu MIK-OB**](../../../units/tatsu/tatsu_mik-ob.md) *Undefined (3063)* 
+- [**Tatsu MIK-OC**](../../../units/tatsu/tatsu_mik-oc.md) *Undefined (3063)* 
+- [**Tatsu MIK-OD**](../../../units/tatsu/tatsu_mik-od.md) *Undefined (3072)* 
+- [**Tatsu MIK-OE**](../../../units/tatsu/tatsu_mik-oe.md) *Undefined (3075)* `ECM` 
 
 ### 75 Tons 
 
@@ -105,12 +105,12 @@
 
 #### [Huscarl](../../../units/huscarl.md) 
 
-- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Attack Fighter (3068)* 
-- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Attack Fighter (3079)* 
+- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Undefined (3068)* 
+- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Undefined (3079)* 
 
 ### 80 Tons 
 
@@ -127,7 +127,7 @@
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Undefined (2735)* 
 
 ### 95 Tons 
 
@@ -139,15 +139,15 @@
 
 #### [Riever](../../../units/riever.md) 
 
-- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
-- [**Riever F-100b**](../../../units/riever/riever_f-100b.md) *Attack Fighter (2835)* 
+- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Undefined (2815)* 
+- [**Riever F-100b**](../../../units/riever/riever_f-100b.md) *Undefined (2835)* 
 
 #### [Stuka](../../../units/stuka.md) 
 
-- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Undefined (2571)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
-- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Attack Fighter (2724)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
+- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Undefined (2724)* 
 

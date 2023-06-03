@@ -52,7 +52,7 @@
 
 #### [Tabanid Light Drone Fighter](../../../units/tabanid_light_drone_fighter.md) 
 
-- [**Tabanid Light Drone Fighter (Standard)**](../../../units/tabanid_light_drone_fighter/tabanid_light_drone_fighter_standard.md) *Interceptor (3072)* `Active Probe` , `Drone` 
+- [**Tabanid Light Drone Fighter**](../../../units/tabanid_light_drone_fighter/tabanid_light_drone_fighter.md) *Interceptor (3072)* `Active Probe` , `Drone` 
 
 #### [Zero](../../../units/zero.md) 
 
@@ -63,7 +63,7 @@
 
 #### [Rogue](../../../units/rogue.md) 
 
-- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Undefined (2631)* 
 - [**Rogue RGU-133F**](../../../units/rogue/rogue_rgu-133f.md) *Fast Dogfighter (2639)* 
 - [**Rogue RGU-133L**](../../../units/rogue/rogue_rgu-133l.md) *Fast Dogfighter (2681)* 
 
@@ -117,7 +117,7 @@
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Undefined (2657)* 
 - [**Gotha GTHA-600**](../../../units/gotha/gotha_gtha-600.md) *Dogfighter (3067)* 
 
 #### [Stingray](../../../units/stingray.md) 
@@ -145,7 +145,7 @@
 
 #### [Scarab Medium Drone Fighter](../../../units/scarab_medium_drone_fighter.md) 
 
-- [**Scarab Medium Drone Fighter (Standard)**](../../../units/scarab_medium_drone_fighter/scarab_medium_drone_fighter_standard.md) *Fast Dogfighter (3072)* `Drone` , `ECM` 
+- [**Scarab Medium Drone Fighter**](../../../units/scarab_medium_drone_fighter/scarab_medium_drone_fighter.md) *Fast Dogfighter (3072)* `Drone` , `ECM` 
 
 ### 75 Tons 
 
@@ -169,11 +169,11 @@
 
 #### [Shiva](../../../units/shiva.md) 
 
-- [**Shiva SHV-O**](../../../units/shiva/shiva_shv-o.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OA**](../../../units/shiva/shiva_shv-oa.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OB**](../../../units/shiva/shiva_shv-ob.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OC**](../../../units/shiva/shiva_shv-oc.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OD**](../../../units/shiva/shiva_shv-od.md) *Attack Fighter (3073)* `ECM` 
+- [**Shiva SHV-O**](../../../units/shiva/shiva_shv-o.md) *Undefined (3060)* 
+- [**Shiva SHV-OA**](../../../units/shiva/shiva_shv-oa.md) *Undefined (3060)* 
+- [**Shiva SHV-OB**](../../../units/shiva/shiva_shv-ob.md) *Undefined (3060)* 
+- [**Shiva SHV-OC**](../../../units/shiva/shiva_shv-oc.md) *Undefined (3060)* 
+- [**Shiva SHV-OD**](../../../units/shiva/shiva_shv-od.md) *Undefined (3073)* `ECM` 
 
 #### [Striga](../../../units/striga.md) 
 
@@ -188,25 +188,25 @@
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
-- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Attack Fighter (2703)* 
-- [**Ahab AHB-MD**](../../../units/ahab/ahab_ahb-md.md) *Attack Fighter (3061)* 
-- [**Ahab AHB-643**](../../../units/ahab/ahab_ahb-643.md) *Attack Fighter (3067)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
+- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Undefined (2703)* 
+- [**Ahab AHB-MD**](../../../units/ahab/ahab_ahb-md.md) *Undefined (3061)* 
+- [**Ahab AHB-643**](../../../units/ahab/ahab_ahb-643.md) *Undefined (3067)* 
 
 ### 100 Tons 
 
 #### [Aeshna Heavy Drone Fighter](../../../units/aeshna_heavy_drone_fighter.md) 
 
-- [**Aeshna Heavy Drone Fighter (Standard)**](../../../units/aeshna_heavy_drone_fighter/aeshna_heavy_drone_fighter_standard.md) *Attack Fighter (3072)* `Drone` 
+- [**Aeshna Heavy Drone Fighter**](../../../units/aeshna_heavy_drone_fighter/aeshna_heavy_drone_fighter.md) *Undefined (3072)* `Drone` 
 
 #### [Riever](../../../units/riever.md) 
 
 - [**Riever F-700**](../../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
-- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
-- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
+- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Undefined (3050)* 
+- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
-- [**Thunderbird TRB-XTS**](../../../units/thunderbird/thunderbird_trb-xts.md) *Attack Fighter (3073)* `Unique` 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
+- [**Thunderbird TRB-XTS**](../../../units/thunderbird/thunderbird_trb-xts.md) *Undefined (3073)* `Unique` 
 

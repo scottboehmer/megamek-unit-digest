@@ -201,6 +201,7 @@
   - TAG 
 - **Design Quirks:** 
   - Unbalanced 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/9461) 
 - **Battle Value:** 795 
 - [*More Info*](javelin/javelin_jvn-12n.md) 
 

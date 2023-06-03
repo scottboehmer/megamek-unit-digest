@@ -1,6 +1,6 @@
 # Supernova 
 
-## Supernova (Standard) 
+## Supernova 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2846) 
@@ -15,7 +15,7 @@
   - Improved Targeting (Long) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3132) 
 - **Battle Value:** 2801 
-- [*More Info*](supernova/supernova_standard.md) 
+- [*More Info*](supernova/supernova.md) 
 
 ## Supernova 2 
 

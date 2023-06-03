@@ -244,7 +244,7 @@
 #### [Dervish](../../../units/dervish.md) 
 
 - [**Dervish DV-1S**](../../../units/dervish/dervish_dv-1s.md) *Missile Boat (2520)* 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 - [**Dervish DV-8D2 'Lightbringer'**](../../../units/dervish/dervish_dv-8d2_lightbringer.md) *Striker (3071)* `Unique` 
 - [**Dervish DV-6Mr**](../../../units/dervish/dervish_dv-6mr.md) *Brawler (3073)* 
 

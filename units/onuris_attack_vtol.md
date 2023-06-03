@@ -36,7 +36,7 @@
 
 ## Onuris Attack VTOL B 
 
-- **Role:** Missile Boat 
+- **Role:** Striker 
 - **Tech Base:** Clan (3145) 
 - **Chassis:** 30 tons VTOL 
 - **Movement:** 8 / 12 (16), XL 

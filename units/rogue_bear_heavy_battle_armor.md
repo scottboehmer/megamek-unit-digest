@@ -1,6 +1,6 @@
 # Rogue Bear Heavy Battle Armor 
 
-## Rogue Bear Heavy Battle Armor (Standard)(Sqd4) 
+## Rogue Bear Heavy Battle Armor (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3073) 
@@ -16,9 +16,9 @@
   - Machine Gun × 2 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4931) 
 - **Battle Value:** 67 (346 for 4 suits) 
-- [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_standardsqd4.md) 
+- [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_sqd4.md) 
 
-## Rogue Bear Heavy Battle Armor (Standard)(Sqd5) 
+## Rogue Bear Heavy Battle Armor (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3073) 
@@ -34,9 +34,9 @@
   - Machine Gun × 2 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8661) 
 - **Battle Value:** 67 (466 for 5 suits) 
-- [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_standardsqd5.md) 
+- [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_sqd5.md) 
 
-## Rogue Bear Heavy Battle Armor (Standard)(Sqd6) 
+## Rogue Bear Heavy Battle Armor (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3073) 
@@ -52,7 +52,7 @@
   - Machine Gun × 2 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9025) 
 - **Battle Value:** 67 (599 for 6 suits) 
-- [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_standardsqd6.md) 
+- [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_sqd6.md) 
 
 ## Rogue Bear Heavy Battle Armor HR(Sqd4) 
 

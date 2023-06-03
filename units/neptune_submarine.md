@@ -1,6 +1,6 @@
 # Neptune Submarine 
 
-## Neptune Submarine (Standard) 
+## Neptune Submarine 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2950) 
@@ -14,7 +14,7 @@
   - SRT 6 × 2 (ammo: 15) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4711) 
 - **Battle Value:** 963 
-- [*More Info*](neptune_submarine/neptune_submarine_standard.md) 
+- [*More Info*](neptune_submarine/neptune_submarine.md) 
 
 ## Neptune Submarine (SRT) 
 

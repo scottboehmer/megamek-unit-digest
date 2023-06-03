@@ -4,7 +4,7 @@
 
 ## Callisto Battle Armor B (MRR)(Sqd4) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Clan (3147) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 

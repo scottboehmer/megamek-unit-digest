@@ -48,7 +48,7 @@
 - **Battle Value:** 46 (416 for 6 suits) 
 - [*More Info*](seirim_medium_battle_armor/seirim_medium_battle_armor_anti-infantrysqd6.md) 
 
-## Se'irim Medium Battle Armor (Standard)(Sqd4) 
+## Se'irim Medium Battle Armor (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3072) 
@@ -64,9 +64,9 @@
   - Searchlight 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5017) 
 - **Battle Value:** 49 (253 for 4 suits) 
-- [*More Info*](seirim_medium_battle_armor/seirim_medium_battle_armor_standardsqd4.md) 
+- [*More Info*](seirim_medium_battle_armor/seirim_medium_battle_armor_sqd4.md) 
 
-## Se'irim Medium Battle Armor (Standard)(Sqd5) 
+## Se'irim Medium Battle Armor (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3072) 
@@ -82,9 +82,9 @@
   - Searchlight 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8669) 
 - **Battle Value:** 49 (340 for 5 suits) 
-- [*More Info*](seirim_medium_battle_armor/seirim_medium_battle_armor_standardsqd5.md) 
+- [*More Info*](seirim_medium_battle_armor/seirim_medium_battle_armor_sqd5.md) 
 
-## Se'irim Medium Battle Armor (Standard)(Sqd6) 
+## Se'irim Medium Battle Armor (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3072) 
@@ -100,7 +100,7 @@
   - Searchlight 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9033) 
 - **Battle Value:** 49 (437 for 6 suits) 
-- [*More Info*](seirim_medium_battle_armor/seirim_medium_battle_armor_standardsqd6.md) 
+- [*More Info*](seirim_medium_battle_armor/seirim_medium_battle_armor_sqd6.md) 
 
 ## Se'irim Medium Battle Armor (Capture Team)(Sqd4) 
 

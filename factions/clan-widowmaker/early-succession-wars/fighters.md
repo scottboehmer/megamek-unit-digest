@@ -40,8 +40,8 @@
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-100**](../../../units/gotha/gotha_gtha-100.md) *Attack Fighter (2657)* 
-- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Attack Fighter (2703)* 
+- [**Gotha GTHA-100**](../../../units/gotha/gotha_gtha-100.md) *Undefined (2657)* 
+- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Undefined (2703)* 
 
 ### 65 Tons 
 
@@ -59,7 +59,7 @@
 
 #### [Vulcan Aerospace Fighter](../../../units/vulcan_aerospace_fighter.md) 
 
-- [**Vulcan VLC-5N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-5n.md) *Attack Fighter (2650)* 
+- [**Vulcan VLC-5N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-5n.md) *Undefined (2650)* 
 
 ### 85 Tons 
 
@@ -71,16 +71,16 @@
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Undefined (2703)* 
 
 ### 100 Tons 
 
 #### [Stuka](../../../units/stuka.md) 
 
 - [**Stuka STU-K5b2**](../../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
-- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Attack Fighter (2751)* 
+- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Undefined (2751)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36b**](../../../units/thunderbird/thunderbird_trb-d36b.md) *Attack Fighter (2715)* 
+- [**Thunderbird TRB-D36b**](../../../units/thunderbird/thunderbird_trb-d36b.md) *Undefined (2715)* 
 

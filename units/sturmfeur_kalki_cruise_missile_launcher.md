@@ -1,6 +1,6 @@
 # SturmFeur 'Kalki' Cruise Missile Launcher 
 
-## SturmFeur 'Kalki' Cruise Missile Launcher (Standard) 
+## SturmFeur 'Kalki' Cruise Missile Launcher 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3068) 
@@ -13,5 +13,5 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** XTR Corporations - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3112) 
 - **Battle Value:** 910 
-- [*More Info*](sturmfeur_kalki_cruise_missile_launcher/sturmfeur_kalki_cruise_missile_launcher_standard.md) 
+- [*More Info*](sturmfeur_kalki_cruise_missile_launcher/sturmfeur_kalki_cruise_missile_launcher.md) 
 

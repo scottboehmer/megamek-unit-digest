@@ -1,6 +1,6 @@
 # Chalchiuhtotolin Support Tank 
 
-## Chalchiuhtotolin Support Tank (Standard) 
+## Chalchiuhtotolin Support Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3084) 
@@ -18,7 +18,7 @@
   - CASE 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/537) 
 - **Battle Value:** 1056 
-- [*More Info*](chalchiuhtotolin_support_tank/chalchiuhtotolin_support_tank_standard.md) 
+- [*More Info*](chalchiuhtotolin_support_tank/chalchiuhtotolin_support_tank.md) 
 
 ## Chalchiuhtotolin Support Tank (Bombast Laser) 
 

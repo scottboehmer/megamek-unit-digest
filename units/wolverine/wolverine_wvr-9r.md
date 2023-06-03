@@ -17,6 +17,14 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Improved Communications 
+  - Protected Actuators 
+  - Cramped Cockpit 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (Ultra AC/10) 
 - **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8254) 
 - **Battle Value:** 1481 
 

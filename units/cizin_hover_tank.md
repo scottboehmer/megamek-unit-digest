@@ -1,6 +1,6 @@
 # Cizin Hover Tank 
 
-## Cizin Hover Tank (Standard) 
+## Cizin Hover Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3097) 
@@ -15,7 +15,7 @@
   - Targeting Computer 
 - **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6380) 
 - **Battle Value:** 1514 
-- [*More Info*](cizin_hover_tank/cizin_hover_tank_standard.md) 
+- [*More Info*](cizin_hover_tank/cizin_hover_tank.md) 
 
 ## Cizin Hover Tank (Support) 
 

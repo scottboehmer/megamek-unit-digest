@@ -19,9 +19,10 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Light PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2504) 
 - **Battle Value:** 1395 
 

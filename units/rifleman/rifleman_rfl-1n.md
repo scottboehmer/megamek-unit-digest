@@ -16,7 +16,9 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Improved Communications 
   - Searchlight 
+  - Ubiquitous 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7183) 
 - **Battle Value:** 931 
 

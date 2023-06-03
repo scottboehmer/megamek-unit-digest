@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE II 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2464) 
+- **Sources:** XTRO:Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2464) 
 - **Battle Value:** 2230 
 - [*More Info*](pendragon/pendragon_pdg-1x_muse_red.md) 
 
@@ -38,7 +38,7 @@
   - No/Minimal Arms 
   - Difficult to Maintain 
   - Improved Targeting (Long) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4799) 
+- **Sources:** TRO:Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4799) 
 - **Battle Value:** 2151 
 - [*More Info*](pendragon/pendragon_pdg-1r.md) 
 
@@ -58,7 +58,7 @@
   - CASE II 
   - C3 Main 
   - Coolant Pod 
-- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/8000) 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8000) 
 - **Battle Value:** 1991 
 - [*More Info*](pendragon/pendragon_pdg-3r.md) 
 

@@ -16,6 +16,15 @@
   - SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 3 
   - Streak SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (ER PPC) 
+  - Directional Torso Mount (Streak SRM 2) 
+  - Directional Torso Mount (SRM 6) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2626) 
 - **Battle Value:** 1350 
 

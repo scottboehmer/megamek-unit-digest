@@ -4,7 +4,7 @@
 
 ## Rapier RPR-100b-EC 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2820) 
 - **Chassis:** 85 tons 
 - **Thrust:** 6 / 9, XL 

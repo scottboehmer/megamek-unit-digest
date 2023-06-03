@@ -15,6 +15,10 @@
   - ER PPC 
   - Medium Laser × 2 
   - Small Laser 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Narrow/Low Profile 
+  - No/Minimal Arms 
 - **Sources:** Shrapnel 4 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7929) 
 - **Battle Value:** 915 
 

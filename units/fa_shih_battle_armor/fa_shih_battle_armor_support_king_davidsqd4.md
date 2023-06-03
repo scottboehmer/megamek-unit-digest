@@ -10,15 +10,12 @@
 - **Movement:** 1 
   - **Jumping:** 3 
 - **Armor:** 7 (Standard) 
-- **Manipulators:** 
-  - Basic Manipulator (right) 
-  - Basic Manipulator (left) 
 - **Weapons:** 
   - King David Light Gauss Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1012) 
-- **Battle Value:** 36 (185 for 4 suits) 
+- **Battle Value:** 30 (157 for 4 suits) 
 
 ## Availability 
 

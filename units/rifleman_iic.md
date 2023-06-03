@@ -1,6 +1,6 @@
 # Rifleman IIC 
 
-## Rifleman IIC (Standard) 
+## Rifleman IIC 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2845) 
@@ -16,11 +16,10 @@
   - Active Probe 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2710) 
 - **Battle Value:** 2307 
-- [*More Info*](rifleman_iic/rifleman_iic_standard.md) 
+- [*More Info*](rifleman_iic/rifleman_iic.md) 
 
 ## Rifleman IIC 2 
 
@@ -37,7 +36,6 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2711) 
 - **Battle Value:** 1345 
@@ -60,7 +58,6 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2712) 
 - **Battle Value:** 1733 
@@ -82,7 +79,6 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2713) 
 - **Battle Value:** 2140 
@@ -102,7 +98,6 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2714) 
 - **Battle Value:** 2343 
@@ -124,7 +119,6 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2715) 
 - **Battle Value:** 2220 
@@ -147,7 +141,6 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2716) 
 - **Battle Value:** 2205 
@@ -171,7 +164,6 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2717) 
 - **Battle Value:** 2541 
@@ -193,7 +185,6 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8418) 
 - **Battle Value:** 2792 
@@ -217,7 +208,6 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8419) 
 - **Battle Value:** 1587 

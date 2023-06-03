@@ -168,7 +168,7 @@
 - **Equipment:** 
   - Spikes × 2 
   - Drone Operating System 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8366) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8366) 
 - **Battle Value:** 272 
 - [*More Info*](celerity/celerity_clr-03omm_rajah.md) 
 

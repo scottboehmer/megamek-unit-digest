@@ -16,8 +16,6 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Easy to Maintain 
-  - Anti-Aircraft Targeting 
-  - Rugged (×2) 
   - Ammunition Feed Problem (AC/5) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4755) 
 - **Battle Value:** 973 

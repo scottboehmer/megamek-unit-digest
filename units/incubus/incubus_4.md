@@ -15,6 +15,8 @@
   - Medium Pulse Laser × 2 
   - Micro Pulse Laser × 2 
   - ER Micro Laser × 2 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Unknown Component) 
 - **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3444) 
 - **Battle Value:** 1581 
 

@@ -1,6 +1,6 @@
 # Po Heavy Tank 
 
-## Po Heavy Tank (Standard) 
+## Po Heavy Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3031) 
@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2549) 
 - **Battle Value:** 719 
-- [*More Info*](po_heavy_tank/po_heavy_tank_standard.md) 
+- [*More Info*](po_heavy_tank/po_heavy_tank.md) 
 
 ## Po Heavy Tank (Light Gauss) 
 

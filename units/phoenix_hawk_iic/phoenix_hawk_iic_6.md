@@ -18,6 +18,9 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2516) 
 - **Battle Value:** 2490 
 

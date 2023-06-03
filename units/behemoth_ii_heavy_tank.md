@@ -1,6 +1,6 @@
 # Behemoth II Heavy Tank 
 
-## Behemoth II Heavy Tank (Standard) 
+## Behemoth II Heavy Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3102) 
@@ -14,7 +14,7 @@
   - Rocket 10 × 4 
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6447) 
 - **Battle Value:** 1903 
-- [*More Info*](behemoth_ii_heavy_tank/behemoth_ii_heavy_tank_standard.md) 
+- [*More Info*](behemoth_ii_heavy_tank/behemoth_ii_heavy_tank.md) 
 
 ## Behemoth II Heavy Tank (Support) 
 

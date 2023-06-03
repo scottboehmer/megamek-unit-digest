@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Jet Booster 
   - Infantry (4.0 tons) 
-- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3909) 
+- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3909) 
 - **Battle Value:** 411 
 
 ## Availability 

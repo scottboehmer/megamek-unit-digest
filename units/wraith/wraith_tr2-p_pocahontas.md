@@ -4,7 +4,7 @@
 
 ## Wraith TR2-P 'Pocahontas' 
 
-- **Role:** Striker 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere Mixed (3130) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 7 / 11 (14), XL 
@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8381) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8381) 
 - **Battle Value:** 2051 
 
 ## Availability 

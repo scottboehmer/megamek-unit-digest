@@ -4,7 +4,7 @@
 
 ## Merlin MLN-SX 
 
-- **Role:** Skirmisher 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3075) 
 - **Chassis:** 60 tons (Endo Composite) 
 - **Movement:** 4 / 6, Light 

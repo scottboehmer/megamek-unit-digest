@@ -1,6 +1,6 @@
 # Patton Tank 
 
-## Patton Tank (Standard) 
+## Patton Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3027) 
@@ -15,7 +15,7 @@
   - Flamer 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2450) 
 - **Battle Value:** 961 
-- [*More Info*](patton_tank/patton_tank_standard.md) 
+- [*More Info*](patton_tank/patton_tank.md) 
 
 ## Patton Tank (Ultra) 
 
@@ -35,7 +35,7 @@
 
 ## Patton Tank -SB 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3079) 
 - **Chassis:** 65 tons Tracked 
 - **Movement:** 4 / 6 (8), XL 

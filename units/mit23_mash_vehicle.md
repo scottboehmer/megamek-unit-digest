@@ -1,6 +1,6 @@
 # MIT23 MASH Vehicle 
 
-## MIT23 MASH Vehicle (Standard) 
+## MIT23 MASH Vehicle 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3067) 
@@ -12,5 +12,5 @@
   - MASH (1 theaters) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2191) 
 - **Battle Value:** 172 
-- [*More Info*](mit23_mash_vehicle/mit23_mash_vehicle_standard.md) 
+- [*More Info*](mit23_mash_vehicle/mit23_mash_vehicle.md) 
 

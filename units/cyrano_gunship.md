@@ -1,6 +1,6 @@
 # Cyrano Gunship 
 
-## Cyrano Gunship (Standard) 
+## Cyrano Gunship 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2622) 
@@ -14,7 +14,7 @@
   - Beagle Active Probe 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/787) 
 - **Battle Value:** 459 
-- [*More Info*](cyrano_gunship/cyrano_gunship_standard.md) 
+- [*More Info*](cyrano_gunship/cyrano_gunship.md) 
 
 ## Cyrano Gunship (Royal) 
 

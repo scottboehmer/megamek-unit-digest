@@ -1,6 +1,6 @@
 # Goblin Infantry Support Vehicle 
 
-## Goblin Infantry Support Vehicle (Standard) 
+## Goblin Infantry Support Vehicle 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3053) 
@@ -17,7 +17,7 @@
   - Infantry (3 tons) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1222) 
 - **Battle Value:** 790 
-- [*More Info*](goblin_infantry_support_vehicle/goblin_infantry_support_vehicle_standard.md) 
+- [*More Info*](goblin_infantry_support_vehicle/goblin_infantry_support_vehicle.md) 
 
 ## Goblin Infantry Support Vehicle (Sealed) 
 

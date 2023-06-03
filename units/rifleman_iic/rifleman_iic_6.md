@@ -18,7 +18,6 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2715) 
 - **Battle Value:** 2220 

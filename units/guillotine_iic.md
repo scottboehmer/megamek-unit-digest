@@ -1,6 +1,6 @@
 # Guillotine IIC 
 
-## Guillotine IIC (Standard) 
+## Guillotine IIC 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (2889) 
@@ -20,7 +20,7 @@
   - Searchlight 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1345) 
 - **Battle Value:** 2377 
-- [*More Info*](guillotine_iic/guillotine_iic_standard.md) 
+- [*More Info*](guillotine_iic/guillotine_iic.md) 
 
 ## Guillotine IIC 2 
 

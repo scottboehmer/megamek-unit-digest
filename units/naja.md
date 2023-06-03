@@ -20,7 +20,7 @@
 - **Battle Value:** 1588 
 - [*More Info*](naja/naja_kto-19b-ec.md) 
 
-## Naja (Standard) 
+## Naja 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (2826) 
@@ -40,5 +40,5 @@
   - Easy to Maintain 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7621) 
 - **Battle Value:** 1910 
-- [*More Info*](naja/naja_standard.md) 
+- [*More Info*](naja/naja.md) 
 

@@ -1,6 +1,6 @@
 # JES II Strategic Missile Carrier 
 
-## JES II Strategic Missile Carrier (Standard) 
+## JES II Strategic Missile Carrier 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3079) 
@@ -17,7 +17,7 @@
   - C3 Support 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1705) 
 - **Battle Value:** 1349 
-- [*More Info*](jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_standard.md) 
+- [*More Info*](jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier.md) 
 
 ## JES II Strategic Missile Carrier (Ammo) 
 

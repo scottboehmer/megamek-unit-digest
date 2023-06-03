@@ -1,6 +1,6 @@
 # Conjurer 
 
-## Conjurer (Standard) "Hellhound" 
+## Conjurer "Hellhound" 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (2829) 
@@ -19,7 +19,7 @@
   - Extended Torso Twist 
 - **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473) 
 - **Battle Value:** 1813 
-- [*More Info*](conjurer/conjurer_standard.md) 
+- [*More Info*](conjurer/conjurer.md) 
 
 ## Conjurer 7 "Hellhound" 
 

@@ -18,7 +18,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/214) 
+- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/214) 
 - **Battle Value:** 2417 
 
 ## Availability 

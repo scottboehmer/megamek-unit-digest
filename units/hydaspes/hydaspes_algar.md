@@ -4,7 +4,7 @@
 
 ## Hydaspes (Algar) 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3070) 
 - **Chassis:** 95 tons 
 - **Thrust:** 5 / 8, XL 

@@ -1,6 +1,6 @@
 # Thumper Artillery Vehicle 
 
-## Thumper Artillery Vehicle (Standard) 
+## Thumper Artillery Vehicle 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2734) 
@@ -13,7 +13,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3210) 
 - **Battle Value:** 568 
-- [*More Info*](thumper_artillery_vehicle/thumper_artillery_vehicle_standard.md) 
+- [*More Info*](thumper_artillery_vehicle/thumper_artillery_vehicle.md) 
 
 ## Thumper Artillery Vehicle TAV-1 
 

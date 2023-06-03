@@ -18,6 +18,8 @@
   - Partial Wing 
   - Targeting Computer 
   - Light TAG 
+- **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
 - **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7749) 
 - **Battle Value:** 1725 
 

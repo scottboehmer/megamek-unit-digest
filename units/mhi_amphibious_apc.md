@@ -1,6 +1,6 @@
 # MHI Amphibious APC 
 
-## MHI Amphibious APC (Standard) 
+## MHI Amphibious APC 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3101) 
@@ -15,5 +15,5 @@
   - Infantry (8.0 tons) 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6656) 
 - **Battle Value:** 473 
-- [*More Info*](mhi_amphibious_apc/mhi_amphibious_apc_standard.md) 
+- [*More Info*](mhi_amphibious_apc/mhi_amphibious_apc.md) 
 

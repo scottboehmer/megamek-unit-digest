@@ -1,6 +1,6 @@
 # Morrigan 
 
-## Morrigan (Standard) 
+## Morrigan 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3083) 
@@ -20,7 +20,7 @@
   - Stabilized Weapon (Heavy Large Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2231) 
 - **Battle Value:** 1523 
-- [*More Info*](morrigan/morrigan_standard.md) 
+- [*More Info*](morrigan/morrigan.md) 
 
 ## Morrigan 2 
 
@@ -39,6 +39,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Weak Legs 
+  - Stabilized Weapon (Heavy Large Laser) 
   - Stabilized Weapon (Heavy Large Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2229) 
 - **Battle Value:** 1874 
@@ -61,6 +62,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Legs 
+  - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (BattleMech Taser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2230) 
 - **Battle Value:** 1390 
@@ -82,6 +84,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Stabilized Weapon (TSEMP) 
+  - Stabilized Weapon (Unknown Component) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6927) 
 - **Battle Value:** 2063 
 - [*More Info*](morrigan/morrigan_4.md) 
@@ -102,6 +105,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Weak Legs 
+  - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (ER PPC) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6926) 
 - **Battle Value:** 1904 

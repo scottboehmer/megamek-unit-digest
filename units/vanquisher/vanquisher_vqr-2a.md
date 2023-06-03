@@ -19,6 +19,8 @@
   - C3i 
 - **Design Quirks:** 
   - Stable 
+  - No/Minimal Arms 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5338) 
 - **Battle Value:** 2234 
 

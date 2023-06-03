@@ -4,7 +4,7 @@
 
 ## Deathstalker XF-78 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 

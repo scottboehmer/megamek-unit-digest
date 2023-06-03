@@ -1,6 +1,6 @@
 # Arion 
 
-## Arion (Standard) 
+## Arion 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3136) 
@@ -18,5 +18,5 @@
   - CASE 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6252) 
 - **Battle Value:** 849 
-- [*More Info*](arion/arion_standard.md) 
+- [*More Info*](arion/arion.md) 
 

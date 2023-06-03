@@ -65,11 +65,11 @@
 
 #### [Lucifer](../../../units/lucifer.md) 
 
-- [**Lucifer LCF-R16**](../../../units/lucifer/lucifer_lcf-r16.md) *Attack Fighter (3052)* 
+- [**Lucifer LCF-R16**](../../../units/lucifer/lucifer_lcf-r16.md) *Undefined (3052)* 
 
 #### [Lucifer III](../../../units/lucifer_iii.md) 
 
-- [**Lucifer III LCR-3**](../../../units/lucifer_iii/lucifer_iii_lcr-3.md) *Attack Fighter (3086)* 
+- [**Lucifer III LCR-3**](../../../units/lucifer_iii/lucifer_iii_lcr-3.md) *Undefined (3086)* 
 
 ### 70 Tons 
 
@@ -91,12 +91,12 @@
 
 #### [Huscarl](../../../units/huscarl.md) 
 
-- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Attack Fighter (3068)* 
-- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Attack Fighter (3079)* 
+- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Undefined (3068)* 
+- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Undefined (3079)* 
 
 ### 85 Tons 
 
@@ -109,11 +109,11 @@
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W8**](../../../units/chippewa/chippewa_chp-w8.md) *Attack Fighter (3068)* 
+- [**Chippewa CHP-W8**](../../../units/chippewa/chippewa_chp-w8.md) *Undefined (3068)* 
 
 #### [Typhoon](../../../units/typhoon.md) 
 
-- [**Typhoon TFN-5H**](../../../units/typhoon/typhoon_tfn-5h.md) *Attack Fighter (3074)* 
+- [**Typhoon TFN-5H**](../../../units/typhoon/typhoon_tfn-5h.md) *Undefined (3074)* 
 
 ### 95 Tons 
 
@@ -130,5 +130,5 @@
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D56**](../../../units/thunderbird/thunderbird_trb-d56.md) *Attack Fighter (3074)* 
+- [**Thunderbird TRB-D56**](../../../units/thunderbird/thunderbird_trb-d56.md) *Undefined (3074)* 
 

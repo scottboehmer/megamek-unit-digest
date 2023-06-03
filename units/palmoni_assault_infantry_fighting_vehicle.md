@@ -1,6 +1,6 @@
 # Palmoni Assault Infantry Fighting Vehicle 
 
-## Palmoni Assault Infantry Fighting Vehicle (Standard) 
+## Palmoni Assault Infantry Fighting Vehicle 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3076) 
@@ -19,5 +19,5 @@
   - Infantry (8 tons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2411) 
 - **Battle Value:** 1116 
-- [*More Info*](palmoni_assault_infantry_fighting_vehicle/palmoni_assault_infantry_fighting_vehicle_standard.md) 
+- [*More Info*](palmoni_assault_infantry_fighting_vehicle/palmoni_assault_infantry_fighting_vehicle.md) 
 

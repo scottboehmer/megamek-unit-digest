@@ -18,6 +18,14 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Improved Communications 
+  - Protected Actuators 
+  - Cramped Cockpit 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (RAC/5) 
 - **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8255) 
 - **Battle Value:** 1925 
 

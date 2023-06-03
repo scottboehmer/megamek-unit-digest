@@ -1,6 +1,6 @@
 # Prowler Multi-Terrain Vehicle 
 
-## Prowler Multi-Terrain Vehicle (Standard) 
+## Prowler Multi-Terrain Vehicle 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2611) 
@@ -18,7 +18,7 @@
   - Fully Amphibious Chassis 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2586) 
 - **Battle Value:** 640 
-- [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle_standard.md) 
+- [*More Info*](prowler_multi-terrain_vehicle/prowler_multi-terrain_vehicle.md) 
 
 ## Prowler Multi-Terrain Vehicle (ECM) 
 

@@ -17,7 +17,7 @@
 
 #### [Chaeronea](../../../units/chaeronea.md) 
 
-- [**Chaeronea (Standard)**](../../../units/chaeronea/chaeronea_standard.md) *Interceptor (2849)* 
+- [**Chaeronea**](../../../units/chaeronea/chaeronea.md) *Interceptor (2849)* 
 - [**Chaeronea 2**](../../../units/chaeronea/chaeronea_2.md) *Interceptor (2883)* 
 
 #### [Sabre](../../../units/sabre.md) 
@@ -62,7 +62,7 @@
 
 #### [Issus](../../../units/issus.md) 
 
-- [**Issus (Standard)**](../../../units/issus/issus_standard.md) *Fast Dogfighter (2842)* 
+- [**Issus**](../../../units/issus/issus.md) *Fast Dogfighter (2842)* 
 
 ### 45 Tons 
 
@@ -106,14 +106,14 @@
 
 #### [Tyre](../../../units/tyre.md) 
 
-- [**Tyre (Standard)**](../../../units/tyre/tyre_standard.md) *Attack Fighter (2907)* 
-- [**Tyre 2**](../../../units/tyre/tyre_2.md) *Attack Fighter (2912)* 
+- [**Tyre**](../../../units/tyre/tyre.md) *Undefined (2907)* 
+- [**Tyre 2**](../../../units/tyre/tyre_2.md) *Undefined (2912)* 
 
 ### 60 Tons 
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Undefined (2657)* 
 
 #### [Visigoth](../../../units/visigoth.md) 
 
@@ -128,7 +128,7 @@
 
 #### [Ammon](../../../units/ammon.md) 
 
-- [**Ammon (Standard)**](../../../units/ammon/ammon_standard.md) *Dogfighter (3064)* 
+- [**Ammon**](../../../units/ammon/ammon.md) *Dogfighter (3064)* 
 
 #### [Shilone](../../../units/shilone.md) 
 
@@ -166,30 +166,30 @@
 
 #### [Vulcan Aerospace Fighter](../../../units/vulcan_aerospace_fighter.md) 
 
-- [**Vulcan VLC-5N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-5n.md) *Attack Fighter (2650)* 
-- [**Vulcan VLC-6N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-6n.md) *Attack Fighter (2767)* 
+- [**Vulcan VLC-5N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-5n.md) *Undefined (2650)* 
+- [**Vulcan VLC-6N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-6n.md) *Undefined (2767)* 
 
 ### 85 Tons 
 
 #### [Xerxes](../../../units/xerxes.md) 
 
-- [**Xerxes (Standard)**](../../../units/xerxes/xerxes_standard.md) *Dogfighter (2827)* 
+- [**Xerxes**](../../../units/xerxes/xerxes.md) *Dogfighter (2827)* 
 
 ### 90 Tons 
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
 
 ### 95 Tons 
 
 #### [Hydaspes](../../../units/hydaspes.md) 
 
-- [**Hydaspes (Standard)**](../../../units/hydaspes/hydaspes_standard.md) *Attack Fighter (2840)* 
+- [**Hydaspes**](../../../units/hydaspes/hydaspes.md) *Undefined (2840)* 
 
 ### 100 Tons 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
 

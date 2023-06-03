@@ -10,7 +10,7 @@
 
 #### [Ailette Zero-G Engineering Exoskeleton](../../../units/ailette_zero-g_engineering_exoskeleton.md) 
 
-- [**Ailette Zero-G Engineering Exoskeleton (Standard)(Sqd4)**](../../../units/ailette_zero-g_engineering_exoskeleton/ailette_zero-g_engineering_exoskeleton_standardsqd4.md) *Undefined (3056)* 
+- [**Ailette Zero-G Engineering Exoskeleton (Sqd4)**](../../../units/ailette_zero-g_engineering_exoskeleton/ailette_zero-g_engineering_exoskeleton_sqd4.md) *Undefined (3056)* 
 
 #### [Gorilla Exoskeleton](../../../units/gorilla_exoskeleton.md) 
 
@@ -27,15 +27,15 @@
 
 #### [HeavyHauler Exoskeleton](../../../units/heavyhauler_exoskeleton.md) 
 
-- [**HeavyHauler Exoskeleton (Standard)(Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_standardsqd4.md) *Undefined (3052)* 
+- [**HeavyHauler Exoskeleton (Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_sqd4.md) *Undefined (3052)* 
 
 #### [Krise PA(L)](../../../units/krise_pal.md) 
 
-- [**Krise PA(L) (Standard)(Sqd4)**](../../../units/krise_pal/krise_pal_standardsqd4.md) *Undefined (3067)* `Active Probe` 
+- [**Krise PA(L) (Sqd4)**](../../../units/krise_pal/krise_pal_sqd4.md) *Undefined (3067)* `Active Probe` 
 
 #### [PAB-28 Sniper Suit](../../../units/pab-28_sniper_suit.md) 
 
-- [**PAB-28 Sniper Suit (Standard)(Sqd4)**](../../../units/pab-28_sniper_suit/pab-28_sniper_suit_standardsqd4.md) *Ambusher (3090)* `Stealth` 
+- [**PAB-28 Sniper Suit (Sqd4)**](../../../units/pab-28_sniper_suit/pab-28_sniper_suit_sqd4.md) *Ambusher (3090)* `Stealth` 
 
 #### [Salrilla Exoskeleton](../../../units/salrilla_exoskeleton.md) 
 
@@ -114,10 +114,10 @@
 
 #### [Hauberk Battle Armor](../../../units/hauberk_battle_armor.md) 
 
-- [**Hauberk Battle Armor (Standard)(Sqd4)**](../../../units/hauberk_battle_armor/hauberk_battle_armor_standardsqd4.md) *Missile Boat (3070)* `Stealth` 
+- [**Hauberk Battle Armor (Sqd4)**](../../../units/hauberk_battle_armor/hauberk_battle_armor_sqd4.md) *Missile Boat (3070)* `Stealth` 
 - [**Hauberk Battle Armor Commando(Sqd4)**](../../../units/hauberk_battle_armor/hauberk_battle_armor_commandosqd4.md) *Ambusher (3088)* `Stealth` 
 
 #### [Hauberk II Battle Armor](../../../units/hauberk_ii_battle_armor.md) 
 
-- [**Hauberk II Battle Armor (Standard)(Sqd4)**](../../../units/hauberk_ii_battle_armor/hauberk_ii_battle_armor_standardsqd4.md) *Ambusher (3072)* `Stealth` 
+- [**Hauberk II Battle Armor (Sqd4)**](../../../units/hauberk_ii_battle_armor/hauberk_ii_battle_armor_sqd4.md) *Ambusher (3072)* `Stealth` 
 

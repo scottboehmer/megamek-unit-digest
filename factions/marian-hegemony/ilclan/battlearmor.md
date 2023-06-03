@@ -10,8 +10,8 @@
 
 #### [Gladiator Exoskeleton](../../../units/gladiator_exoskeleton.md) 
 
-- [**Gladiator Exoskeleton (Standard) (AG)(Sqd5)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_agsqd5.md) *Undefined (3056)* 
-- [**Gladiator Exoskeleton (Standard) (BC/ID)(Sqd5)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_bc_idsqd5.md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (AG)(Sqd5)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_agsqd5.md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (BC/ID)(Sqd5)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_bc_idsqd5.md) *Undefined (3056)* 
 
 #### [Gorilla Exoskeleton](../../../units/gorilla_exoskeleton.md) 
 
@@ -29,7 +29,7 @@
 
 #### [Spectre Stealth Battle Armor](../../../units/spectre_stealth_battle_armor.md) 
 
-- [**Spectre Stealth Battle Armor (Standard)(Sqd5)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standardsqd5.md) *Scout (3097)* `Stealth` 
+- [**Spectre Stealth Battle Armor (Sqd5)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd5.md) *Scout (3097)* `Stealth` 
 
 ### 1 Tons 
 
@@ -40,7 +40,7 @@
 - [**IS Standard Battle Armor (MG)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd5.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (SRM)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd5.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (LRR)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd5.md) *Ambusher (3061)* 
-- [**IS Standard Battle Armor (Magnetic)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd5.md) *Undefined (3141)* 
+- [**IS Standard Battle Armor (Magnetic)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd5.md) *Ambusher (3141)* 
 
 #### [Leonidas Battle Armor](../../../units/leonidas_battle_armor.md) 
 
@@ -73,12 +73,12 @@
 
 #### [Marauder Battle Armor](../../../units/marauder_battle_armor.md) 
 
-- [**Marauder Battle Armor (Standard)(Sqd5)**](../../../units/marauder_battle_armor/marauder_battle_armor_standardsqd5.md) *Ambusher (3110)* `TAG` 
+- [**Marauder Battle Armor (Sqd5)**](../../../units/marauder_battle_armor/marauder_battle_armor_sqd5.md) *Ambusher (3110)* `TAG` 
 
 ### 2 Tons 
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)(Sqd5)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd5.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Sqd5)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_sqd5.md) *Juggernaut (3084)* 
 - [**Ravager Assault Battle Armor (LRM)(Sqd5)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_lrmsqd5.md) *Missile Boat (3101)* 
 

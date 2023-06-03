@@ -1,6 +1,6 @@
 # Issus 
 
-## Issus (Standard) 
+## Issus 
 
 - **Role:** Fast Dogfighter 
 - **Tech Base:** Clan (2842) 
@@ -18,7 +18,7 @@
   - CASE 
 - **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4379) 
 - **Battle Value:** Unknown 
-- [*More Info*](issus/issus_standard.md) 
+- [*More Info*](issus/issus.md) 
 
 ## Issus (Erika) 
 

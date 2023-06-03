@@ -1,6 +1,6 @@
 # Amarok 
 
-## Amarok (Standard) 
+## Amarok 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan Mixed (3149) 
@@ -21,7 +21,7 @@
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8239) 
 - **Battle Value:** 3016 
-- [*More Info*](amarok/amarok_standard.md) 
+- [*More Info*](amarok/amarok.md) 
 
 ## Amarok 2 
 

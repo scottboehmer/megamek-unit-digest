@@ -1,6 +1,6 @@
 # Musketeer Hover Tank 
 
-## Musketeer Hover Tank (Standard) 
+## Musketeer Hover Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3065) 
@@ -16,7 +16,7 @@
   - TAG 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4688) 
 - **Battle Value:** 1120 
-- [*More Info*](musketeer_hover_tank/musketeer_hover_tank_standard.md) 
+- [*More Info*](musketeer_hover_tank/musketeer_hover_tank.md) 
 
 ## Musketeer Hover Tank (Armor) 
 

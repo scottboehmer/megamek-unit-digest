@@ -1,6 +1,6 @@
 # Blood Reaper 
 
-## Blood Reaper (Standard) 
+## Blood Reaper 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3079) 
@@ -20,7 +20,7 @@
   - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/408) 
 - **Battle Value:** 2665 
-- [*More Info*](blood_reaper/blood_reaper_standard.md) 
+- [*More Info*](blood_reaper/blood_reaper.md) 
 
 ## Blood Reaper 2 
 

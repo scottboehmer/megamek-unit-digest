@@ -1,5 +1,23 @@
 # Fensalir Combat WiGE 
 
+## Fensalir Combat WiGE 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3084) 
+- **Chassis:** 80 tons WiGE 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 228 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Heavy Gauss Rifle (ammo: 12) 
+  - MML 7 × 2 (ammo: 17 LRM, 14 SRM) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Infantry (4 tons) 
+- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/1057) 
+- **Battle Value:** 1687 
+- [*More Info*](fensalir_combat_wige/fensalir_combat_wige.md) 
+
 ## Fensalir Combat WiGE (HAG) 
 
 - **Role:** Skirmisher 
@@ -36,24 +54,6 @@
 - **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/1056) 
 - **Battle Value:** 1424 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_infantry.md) 
-
-## Fensalir Combat WiGE (Standard) 
-
-- **Role:** Skirmisher 
-- **Tech Base:** Inner Sphere (3084) 
-- **Chassis:** 80 tons WiGE 
-- **Movement:** 5 / 8, XL 
-- **Armor:** 228 (Heavy Ferro Fibrous) 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - Heavy Gauss Rifle (ammo: 12) 
-  - MML 7 × 2 (ammo: 17 LRM, 14 SRM) 
-  - ER Medium Laser × 2 
-- **Equipment:** 
-  - Infantry (4 tons) 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/1057) 
-- **Battle Value:** 1687 
-- [*More Info*](fensalir_combat_wige/fensalir_combat_wige_standard.md) 
 
 ## Fensalir Combat WiGE (XXL) 
 

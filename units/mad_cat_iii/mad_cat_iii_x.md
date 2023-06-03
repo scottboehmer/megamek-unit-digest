@@ -19,7 +19,9 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
   - Prototype 
+  - Bad Reputation (Clan) 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4563) 
 - **Battle Value:** 2232 
 

@@ -23,6 +23,8 @@
   - Command ’Mech 
   - Distracting 
   - Reinforced Legs 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Exposed Weapon Linkage (Unknown Component) 
   - Exposed Weapon Linkage (ER PPC) 
   - Exposed Weapon Linkage (ER PPC) 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6294) 

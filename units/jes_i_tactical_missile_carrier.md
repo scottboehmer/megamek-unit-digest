@@ -1,6 +1,6 @@
 # JES I Tactical Missile Carrier 
 
-## JES I Tactical Missile Carrier (Standard) 
+## JES I Tactical Missile Carrier 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3075) 
@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 100) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1703) 
 - **Battle Value:** 752 
-- [*More Info*](jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_standard.md) 
+- [*More Info*](jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier.md) 
 
 ## JES I Tactical Missile Carrier (3082 Upgrade) 
 

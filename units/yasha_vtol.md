@@ -1,5 +1,23 @@
 # Yasha VTOL 
 
+## Yasha VTOL 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (3085) 
+- **Chassis:** 30 tons VTOL 
+- **Movement:** 7 / 11, XL 
+- **Armor:** 69 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 15 (15) 
+- **Weapons:** 
+  - Heavy PPC 
+  - Light Machine Gun (ammo: 100) 
+- **Equipment:** 
+  - C3 Support 
+  - CASE 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3612) 
+- **Battle Value:** 799 
+- [*More Info*](yasha_vtol/yasha_vtol.md) 
+
 ## Yasha VTOL 'Spectre' 
 
 - **Role:** Scout 
@@ -34,22 +52,4 @@
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3611) 
 - **Battle Value:** 584 
 - [*More Info*](yasha_vtol/yasha_vtol_interdictor.md) 
-
-## Yasha VTOL (Standard) 
-
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (3085) 
-- **Chassis:** 30 tons VTOL 
-- **Movement:** 7 / 11, XL 
-- **Armor:** 69 (Heavy Ferro Fibrous) 
-- **Heat Sinks:** 15 (15) 
-- **Weapons:** 
-  - Heavy PPC 
-  - Light Machine Gun (ammo: 100) 
-- **Equipment:** 
-  - C3 Support 
-  - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3612) 
-- **Battle Value:** 799 
-- [*More Info*](yasha_vtol/yasha_vtol_standard.md) 
 

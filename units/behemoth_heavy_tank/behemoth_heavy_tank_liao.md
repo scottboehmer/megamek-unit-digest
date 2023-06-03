@@ -4,7 +4,7 @@
 
 ## Behemoth Heavy Tank (Liao) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3138) 
 - **Chassis:** 100 tons Tracked 
 - **Movement:** 2 / 3, ICE 
@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Source:** Rec Guide:ilClan #31 - Dark Age 
+- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9459) 
 - **Battle Value:** 1324 
 
 ## Availability 

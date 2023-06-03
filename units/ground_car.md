@@ -1,6 +1,6 @@
 # Ground Car 
 
-## Ground Car (Standard) 
+## Ground Car 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (1950) 
@@ -12,5 +12,5 @@
   - Infantry (0.5 tons) 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4251) 
 - **Battle Value:** 33 
-- [*More Info*](ground_car/ground_car_standard.md) 
+- [*More Info*](ground_car/ground_car.md) 
 

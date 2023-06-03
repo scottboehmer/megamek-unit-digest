@@ -205,7 +205,7 @@
 #### [Dervish](../../../units/dervish.md) 
 
 - [**Dervish DV-1S**](../../../units/dervish/dervish_dv-1s.md) *Missile Boat (2520)* 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 
 #### [Griffin](../../../units/griffin.md) 
 

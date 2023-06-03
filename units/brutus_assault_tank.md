@@ -1,6 +1,6 @@
 # Brutus Assault Tank 
 
-## Brutus Assault Tank (Standard) 
+## Brutus Assault Tank 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (2998) 
@@ -15,7 +15,7 @@
   - SRM 2 (ammo: 50) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/435) 
 - **Battle Value:** 1115 
-- [*More Info*](brutus_assault_tank/brutus_assault_tank_standard.md) 
+- [*More Info*](brutus_assault_tank/brutus_assault_tank.md) 
 
 ## Brutus Assault Tank (LRM) 
 

@@ -1,6 +1,6 @@
 # Afreet Medium Battle Armor 
 
-## Afreet Medium Battle Armor (Standard)(Sqd4) 
+## Afreet Medium Battle Armor (Sqd4) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3067) 
@@ -18,9 +18,9 @@
   - Jump Booster 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3679) 
 - **Battle Value:** 42 (217 for 4 suits) 
-- [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_standardsqd4.md) 
+- [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_sqd4.md) 
 
-## Afreet Medium Battle Armor (Standard)(Sqd5) 
+## Afreet Medium Battle Armor (Sqd5) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3067) 
@@ -38,9 +38,9 @@
   - Jump Booster 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8604) 
 - **Battle Value:** 42 (292 for 5 suits) 
-- [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_standardsqd5.md) 
+- [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_sqd5.md) 
 
-## Afreet Medium Battle Armor (Standard)(Sqd6) 
+## Afreet Medium Battle Armor (Sqd6) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3067) 
@@ -58,7 +58,7 @@
   - Jump Booster 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8968) 
 - **Battle Value:** 42 (376 for 6 suits) 
-- [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_standardsqd6.md) 
+- [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_sqd6.md) 
 
 ## Afreet Medium Battle Armor (Hell's Horses)(Sqd4) 
 

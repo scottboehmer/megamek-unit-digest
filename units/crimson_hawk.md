@@ -1,6 +1,6 @@
 # Crimson Hawk 
 
-## Crimson Hawk (Standard) 
+## Crimson Hawk 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3071) 
@@ -15,7 +15,7 @@
   - Protected Actuators 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/721) 
 - **Battle Value:** 1285 
-- [*More Info*](crimson_hawk/crimson_hawk_standard.md) 
+- [*More Info*](crimson_hawk/crimson_hawk.md) 
 
 ## Crimson Hawk 2 
 

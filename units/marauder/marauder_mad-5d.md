@@ -23,6 +23,7 @@
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
   - Directional Torso Mount (Large Pulse Laser) 
+  - Exposed Weapon Linkage (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2039) 
 - **Battle Value:** 1787 
 

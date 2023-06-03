@@ -16,10 +16,6 @@
 - **Weapons:** 
   - ER Medium Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
-- **Design Quirks:** 
-  - Easy to Maintain 
-  - Extended Torso Twist 
-  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3531) 
 - **Battle Value:** 488 
 

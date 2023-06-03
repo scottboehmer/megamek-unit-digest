@@ -39,8 +39,8 @@
 
 #### [Stinger](../../../units/stinger.md) 
 
-- [**Stinger C**](../../../units/stinger/stinger_c.md) *Undefined (2832)* 
-- [**Stinger C 2**](../../../units/stinger/stinger_c_2.md) *Undefined (2838)* 
+- [**Stinger C**](../../../units/stinger/stinger_c.md) *Scout (2832)* 
+- [**Stinger C 2**](../../../units/stinger/stinger_c_2.md) *Scout (2838)* 
 
 ### 25 Tons 
 
@@ -69,12 +69,12 @@
 #### [Koshi (Standard)](../../../units/koshi_standard.md) 
 
 - [**Koshi (Standard)**](../../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi (Standard) 2**](../../../units/koshi_standard/koshi_standard_2.md) *Undefined (3095)* `TAG` 
-- [**Koshi (Standard) 3**](../../../units/koshi_standard/koshi_standard_3.md) *Undefined (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi (Standard) 2**](../../../units/koshi_standard/koshi_standard_2.md) *Striker (3095)* `TAG` 
+- [**Koshi (Standard) 3**](../../../units/koshi_standard/koshi_standard_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
-- [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 - [**Locust IIC 3**](../../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 - [**Locust IIC 9**](../../../units/locust_iic/locust_iic_9.md) *Striker (3085)* 
 
@@ -129,7 +129,7 @@
 
 #### [Incubus](../../../units/incubus.md) 
 
-- [**Incubus (Standard)**](../../../units/incubus/incubus_standard.md) *Striker (2954)* 
+- [**Incubus**](../../../units/incubus/incubus.md) *Striker (2954)* 
 - [**Incubus 2**](../../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../../units/incubus/incubus_8.md) *Striker (2962)* 
@@ -183,7 +183,7 @@
 
 #### [Eyrie](../../../units/eyrie.md) 
 
-- [**Eyrie (Standard)**](../../../units/eyrie/eyrie_standard.md) *Striker (3087)* 
+- [**Eyrie**](../../../units/eyrie/eyrie.md) *Striker (3087)* 
 
 #### [Ostscout](../../../units/ostscout.md) 
 
@@ -216,7 +216,7 @@
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
-- [**Griffin IIC (Standard)**](../../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
+- [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 
 #### [Harvester](../../../units/harvester.md) 
 
@@ -260,7 +260,7 @@
 
 #### [Hammerhead](../../../units/hammerhead.md) 
 
-- [**Hammerhead (Standard)**](../../../units/hammerhead/hammerhead_standard.md) *Skirmisher (3146)* 
+- [**Hammerhead**](../../../units/hammerhead/hammerhead.md) *Skirmisher (3146)* 
 
 #### [Hierofalcon](../../../units/hierofalcon.md) 
 
@@ -310,7 +310,7 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 
 ### 50 Tons 
 
@@ -321,7 +321,7 @@
 
 #### [Hellcat](../../../units/hellcat.md) 
 
-- [**Hellcat (Standard)**](../../../units/hellcat/hellcat_standard.md) *Skirmisher (3133)* 
+- [**Hellcat**](../../../units/hellcat/hellcat.md) *Skirmisher (3133)* 
 
 #### [Nova](../../../units/nova.md) 
 
@@ -368,7 +368,7 @@
 
 #### [Gyrfalcon](../../../units/gyrfalcon.md) 
 
-- [**Gyrfalcon (Standard)**](../../../units/gyrfalcon/gyrfalcon_standard.md) *Skirmisher (3112)* `Active Probe` 
+- [**Gyrfalcon**](../../../units/gyrfalcon/gyrfalcon.md) *Skirmisher (3112)* `Active Probe` 
 
 #### [Stormcrow](../../../units/stormcrow.md) 
 
@@ -456,14 +456,14 @@
 
 #### [Warhammer](../../../units/warhammer.md) 
 
-- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Undefined (2862)* `ECM` 
+- [**Warhammer C 3**](../../../units/warhammer/warhammer_c_3.md) *Brawler (2862)* `ECM` 
 
 ### 75 Tons 
 
 #### [Jade Hawk](../../../units/jade_hawk.md) 
 
 - [**Jade Hawk JHK-03**](../../../units/jade_hawk/jade_hawk_jhk-03.md) *Skirmisher (3135)* 
-- [**Jade Hawk (Standard)**](../../../units/jade_hawk/jade_hawk_standard.md) *Skirmisher (3136)* `Active Probe` 
+- [**Jade Hawk**](../../../units/jade_hawk/jade_hawk.md) *Skirmisher (3136)* `Active Probe` 
 - [**Jade Hawk 2**](../../../units/jade_hawk/jade_hawk_2.md) *Skirmisher (3136)* 
 - [**Jade Hawk 3**](../../../units/jade_hawk/jade_hawk_3.md) *Skirmisher (3136)* 
 
@@ -510,7 +510,7 @@
 
 #### [Phoenix Hawk IIC](../../../units/phoenix_hawk_iic.md) 
 
-- [**Phoenix Hawk IIC (Standard)**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_standard.md) *Sniper (2851)* 
+- [**Phoenix Hawk IIC**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic.md) *Sniper (2851)* 
 - [**Phoenix Hawk IIC 2**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_2.md) *Missile Boat (2852)* 
 - [**Phoenix Hawk IIC 5**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_5.md) *Sniper (3069)* 
 - [**Phoenix Hawk IIC 6**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_6.md) *Skirmisher (3070)* 
@@ -518,7 +518,7 @@
 
 #### [Warhammer IIC](../../../units/warhammer_iic.md) 
 
-- [**Warhammer IIC (Standard)**](../../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 
+- [**Warhammer IIC**](../../../units/warhammer_iic/warhammer_iic.md) *Brawler (2829)* 
 - [**Warhammer IIC 5**](../../../units/warhammer_iic/warhammer_iic_5.md) *Brawler (3070)* 
 - [**Warhammer IIC 8**](../../../units/warhammer_iic/warhammer_iic_8.md) *Skirmisher (3079)* 
 - [**Warhammer IIC 10**](../../../units/warhammer_iic/warhammer_iic_10.md) *Sniper (3120)* 
@@ -568,7 +568,7 @@
 
 #### [Shrike](../../../units/shrike.md) 
 
-- [**Shrike (Standard)**](../../../units/shrike/shrike_standard.md) *Sniper (3113)* 
+- [**Shrike**](../../../units/shrike/shrike.md) *Sniper (3113)* 
 - [**Shrike 2**](../../../units/shrike/shrike_2.md) *Skirmisher (3115)* 
 - [**Shrike 3**](../../../units/shrike/shrike_3.md) *Sniper (3116)* 
 
@@ -599,7 +599,7 @@
 
 #### [Jupiter](../../../units/jupiter.md) 
 
-- [**Jupiter (Standard)**](../../../units/jupiter/jupiter_standard.md) *Sniper (3068)* 
+- [**Jupiter**](../../../units/jupiter/jupiter.md) *Sniper (3068)* 
 - [**Jupiter 2**](../../../units/jupiter/jupiter_2.md) *Sniper (3070)* 
 - [**Jupiter 3**](../../../units/jupiter/jupiter_3.md) *Sniper (3075)* 
 - [**Jupiter 4**](../../../units/jupiter/jupiter_4.md) *Brawler (3093)* 

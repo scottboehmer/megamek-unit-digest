@@ -14,6 +14,14 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
   - ER Medium Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Extended Torso Twist 
+  - Improved Communications 
+  - Protected Actuators 
+  - Cramped Cockpit 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8257) 
 - **Battle Value:** 1747 
 

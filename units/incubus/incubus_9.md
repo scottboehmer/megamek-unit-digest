@@ -17,6 +17,8 @@
   - AP Gauss Rifle × 3 (ammo: 40) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Unknown Component) 
 - **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7544) 
 - **Battle Value:** 1849 
 

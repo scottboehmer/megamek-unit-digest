@@ -4,7 +4,7 @@
 
 ## Eagle EGL-R1 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2324) 
 - **Chassis:** 75 tons 
 - **Thrust:** 5 / 8, Primitive 

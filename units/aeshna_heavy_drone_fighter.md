@@ -1,8 +1,8 @@
 # Aeshna Heavy Drone Fighter 
 
-## Aeshna Heavy Drone Fighter (Standard) 
+## Aeshna Heavy Drone Fighter 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3072) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 
@@ -17,5 +17,5 @@
   - Smart Robotic Control System (Improved) 
 - **Sources:** JHS:Terra - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/15) 
 - **Battle Value:** Unknown 
-- [*More Info*](aeshna_heavy_drone_fighter/aeshna_heavy_drone_fighter_standard.md) 
+- [*More Info*](aeshna_heavy_drone_fighter/aeshna_heavy_drone_fighter.md) 
 

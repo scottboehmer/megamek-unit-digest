@@ -1,5 +1,19 @@
 # Hawk Moth Gunship 
 
+## Hawk Moth Gunship 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3060) 
+- **Chassis:** 25 tons VTOL 
+- **Movement:** 8 / 12, ICE 
+- **Armor:** 26 (Ferro Fibrous) 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Light Gauss Rifle (ammo: 32) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1427) 
+- **Battle Value:** 492 
+- [*More Info*](hawk_moth_gunship/hawk_moth_gunship.md) 
+
 ## Hawk Moth Gunship (Armor) 
 
 - **Role:** Sniper 
@@ -13,20 +27,6 @@
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1426) 
 - **Battle Value:** 501 
 - [*More Info*](hawk_moth_gunship/hawk_moth_gunship_armor.md) 
-
-## Hawk Moth Gunship (Standard) 
-
-- **Role:** Sniper 
-- **Tech Base:** Inner Sphere (3060) 
-- **Chassis:** 25 tons VTOL 
-- **Movement:** 8 / 12, ICE 
-- **Armor:** 26 (Ferro Fibrous) 
-- **Heat Sinks:** 0 (0) 
-- **Weapons:** 
-  - Light Gauss Rifle (ammo: 32) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1427) 
-- **Battle Value:** 492 
-- [*More Info*](hawk_moth_gunship/hawk_moth_gunship_standard.md) 
 
 ## Hawk Moth Gunship (Thunderbolt) 
 

@@ -1,6 +1,6 @@
 # Kontio 
 
-## Kontio (Standard) 
+## Kontio 
 
 - **Role:** Striker 
 - **Tech Base:** Clan Mixed (3145) 
@@ -22,5 +22,5 @@
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8352) 
 - **Battle Value:** 1912 
-- [*More Info*](kontio/kontio_standard.md) 
+- [*More Info*](kontio/kontio.md) 
 

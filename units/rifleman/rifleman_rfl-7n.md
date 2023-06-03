@@ -16,6 +16,11 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7574) 
 - **Battle Value:** 1398 
 

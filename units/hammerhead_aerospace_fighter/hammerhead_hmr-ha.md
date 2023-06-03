@@ -4,7 +4,7 @@
 
 ## Hammerhead HMR-HA 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2407) 
 - **Chassis:** 75 tons 
 - **Thrust:** 6 / 9, Primitive 

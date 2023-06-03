@@ -129,7 +129,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2058) 
+- **Sources:** TRO:Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2058) 
 - **Battle Value:** 2623 
 - [*More Info*](marauder_ii/marauder_ii_mad-4s.md) 
 
@@ -196,7 +196,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2057) 
+- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2057) 
 - **Battle Value:** 2626 
 - [*More Info*](marauder_ii/marauder_ii_mad-4k.md) 
 
@@ -241,7 +241,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2064) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2064) 
 - **Battle Value:** 2218 
 - [*More Info*](marauder_ii/marauder_ii_mad-6m.md) 
 
@@ -264,7 +264,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2063) 
+- **Sources:** TRO 3085 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2063) 
 - **Battle Value:** 2378 
 - [*More Info*](marauder_ii/marauder_ii_mad-6d.md) 
 
@@ -286,7 +286,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6828) 
+- **Sources:** RS 3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6828) 
 - **Battle Value:** 2839 
 - [*More Info*](marauder_ii/marauder_ii_mad-4l.md) 
 

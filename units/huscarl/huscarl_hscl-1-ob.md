@@ -4,7 +4,7 @@
 
 ## Huscarl HSCL-1-OB 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3064) 
 - **Chassis:** 75 tons 
 - **Thrust:** 5 / 8, XL 

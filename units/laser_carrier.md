@@ -1,6 +1,6 @@
 # Laser Carrier 
 
-## Laser Carrier (Standard) 
+## Laser Carrier 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (2874) 
@@ -12,5 +12,5 @@
   - Medium Laser × 8 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1861) 
 - **Battle Value:** 566 
-- [*More Info*](laser_carrier/laser_carrier_standard.md) 
+- [*More Info*](laser_carrier/laser_carrier.md) 
 

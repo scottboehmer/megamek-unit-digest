@@ -120,14 +120,14 @@
 #### [Goth](../../../units/goth.md) 
 
 - [**Goth Prime**](../../../units/goth/goth_prime.md) *Fire Support (2873)* 
-- [**Goth A**](../../../units/goth/goth_a.md) *Attack Fighter (2873)* 
+- [**Goth A**](../../../units/goth/goth_a.md) *Undefined (2873)* 
 - [**Goth B**](../../../units/goth/goth_b.md) *Fire Support (2873)* `Active Probe` 
 - [**Goth C**](../../../units/goth/goth_c.md) *Fire Support (3146)* 
 - [**Goth D**](../../../units/goth/goth_d.md) *Fire Support (3146)* 
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Attack Fighter (2703)* 
+- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Undefined (2703)* 
 
 #### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
@@ -144,11 +144,11 @@
 
 #### [Lucifer](../../../units/lucifer.md) 
 
-- [**Lucifer LCF-R16**](../../../units/lucifer/lucifer_lcf-r16.md) *Attack Fighter (3052)* 
+- [**Lucifer LCF-R16**](../../../units/lucifer/lucifer_lcf-r16.md) *Undefined (3052)* 
 
 #### [Lucifer III](../../../units/lucifer_iii.md) 
 
-- [**Lucifer III LCR-3**](../../../units/lucifer_iii/lucifer_iii_lcr-3.md) *Attack Fighter (3086)* 
+- [**Lucifer III LCR-3**](../../../units/lucifer_iii/lucifer_iii_lcr-3.md) *Undefined (3086)* 
 
 #### [Shilone](../../../units/shilone.md) 
 
@@ -171,12 +171,12 @@
 
 #### [Huscarl](../../../units/huscarl.md) 
 
-- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Attack Fighter (3068)* 
-- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Attack Fighter (3079)* 
+- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Undefined (3068)* 
+- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Undefined (3079)* 
 
 #### [Transgressor](../../../units/transgressor.md) 
 
@@ -188,7 +188,7 @@
 
 #### [Deathstalker](../../../units/deathstalker.md) 
 
-- [**Deathstalker F-77A**](../../../units/deathstalker/deathstalker_f-77a.md) *Attack Fighter (3073)* 
+- [**Deathstalker F-77A**](../../../units/deathstalker/deathstalker_f-77a.md) *Undefined (3073)* 
 
 #### [Slayer](../../../units/slayer.md) 
 
@@ -197,7 +197,7 @@
 
 #### [Vulcan Aerospace Fighter](../../../units/vulcan_aerospace_fighter.md) 
 
-- [**Vulcan VLC-8N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-8n.md) *Attack Fighter (3074)* 
+- [**Vulcan VLC-8N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-8n.md) *Undefined (3074)* 
 
 ### 85 Tons 
 
@@ -210,8 +210,8 @@
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
-- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Undefined (2584)* 
+- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Undefined (2735)* 
 
 #### [Shikra](../../../units/shikra.md) 
 
@@ -219,7 +219,7 @@
 
 #### [Typhoon](../../../units/typhoon.md) 
 
-- [**Typhoon TFN-5H**](../../../units/typhoon/typhoon_tfn-5h.md) *Attack Fighter (3074)* 
+- [**Typhoon TFN-5H**](../../../units/typhoon/typhoon_tfn-5h.md) *Undefined (3074)* 
 
 ### 95 Tons 
 
@@ -234,28 +234,28 @@
 
 #### [Mengqin](../../../units/mengqin.md) 
 
-- [**Mengqin MNG-8L**](../../../units/mengqin/mengqin_mng-8l.md) *Attack Fighter (3081)* 
+- [**Mengqin MNG-8L**](../../../units/mengqin/mengqin_mng-8l.md) *Undefined (3081)* 
 
 ### 100 Tons 
 
 #### [Riever](../../../units/riever.md) 
 
 - [**Riever F-700**](../../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
-- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
-- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
+- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Undefined (3050)* 
+- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 
 
 #### [Stuka](../../../units/stuka.md) 
 
-- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Undefined (2571)* 
 - [**Stuka STU-K5b2**](../../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
-- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Attack Fighter (2751)* 
-- [**Stuka STU-D6**](../../../units/stuka/stuka_stu-d6.md) *Attack Fighter (3051)* 
-- [**Stuka STU-D7**](../../../units/stuka/stuka_stu-d7.md) *Attack Fighter (3070)* 
+- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Undefined (2751)* 
+- [**Stuka STU-D6**](../../../units/stuka/stuka_stu-d6.md) *Undefined (3051)* 
+- [**Stuka STU-D7**](../../../units/stuka/stuka_stu-d7.md) *Undefined (3070)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
-- [**Thunderbird TRB-D36b**](../../../units/thunderbird/thunderbird_trb-d36b.md) *Attack Fighter (2715)* 
-- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Attack Fighter (2724)* 
-- [**Thunderbird TRB-D56**](../../../units/thunderbird/thunderbird_trb-d56.md) *Attack Fighter (3074)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
+- [**Thunderbird TRB-D36b**](../../../units/thunderbird/thunderbird_trb-d36b.md) *Undefined (2715)* 
+- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Undefined (2724)* 
+- [**Thunderbird TRB-D56**](../../../units/thunderbird/thunderbird_trb-d56.md) *Undefined (3074)* 
 

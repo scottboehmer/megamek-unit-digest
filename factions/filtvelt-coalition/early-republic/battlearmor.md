@@ -35,7 +35,7 @@
 
 #### [Spectre Stealth Battle Armor](../../../units/spectre_stealth_battle_armor.md) 
 
-- [**Spectre Stealth Battle Armor (Standard)(Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standardsqd4.md) *Scout (3097)* `Stealth` 
+- [**Spectre Stealth Battle Armor (Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd4.md) *Scout (3097)* `Stealth` 
 
 ### 1 Tons 
 

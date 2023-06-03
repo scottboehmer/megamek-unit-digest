@@ -16,7 +16,7 @@
 - **Battle Value:** 762 
 - [*More Info*](marsden_ii_mbt/marsden_ii_mbt_ii_primitive.md) 
 
-## Marsden II MBT (Standard) 
+## Marsden II MBT 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (2473) 
@@ -30,7 +30,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2084) 
 - **Battle Value:** 984 
-- [*More Info*](marsden_ii_mbt/marsden_ii_mbt_standard.md) 
+- [*More Info*](marsden_ii_mbt/marsden_ii_mbt.md) 
 
 ## Marsden II MBT II-A 
 

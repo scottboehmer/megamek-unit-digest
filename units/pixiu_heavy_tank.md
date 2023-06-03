@@ -1,6 +1,6 @@
 # Pixiu Heavy Tank 
 
-## Pixiu Heavy Tank (Standard) 
+## Pixiu Heavy Tank 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3093) 
@@ -16,5 +16,5 @@
   - Guardian ECM Suite 
 - **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6445) 
 - **Battle Value:** 1350 
-- [*More Info*](pixiu_heavy_tank/pixiu_heavy_tank_standard.md) 
+- [*More Info*](pixiu_heavy_tank/pixiu_heavy_tank.md) 
 

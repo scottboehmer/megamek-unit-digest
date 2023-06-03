@@ -1,6 +1,6 @@
 # Sun Cobra 
 
-## Sun Cobra (Standard) 
+## Sun Cobra 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3074) 
@@ -17,7 +17,7 @@
   - Protected Actuators 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3122) 
 - **Battle Value:** 1677 
-- [*More Info*](sun_cobra/sun_cobra_standard.md) 
+- [*More Info*](sun_cobra/sun_cobra.md) 
 
 ## Sun Cobra 2 
 

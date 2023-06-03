@@ -4,7 +4,7 @@
 
 ## Rattlesnake JR7-31P 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3043) 
 - **Chassis:** 35 tons 
 - **Movement:** 7 / 11, XL 

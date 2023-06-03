@@ -20,6 +20,8 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
+  - Directional Torso Mount (Streak SRM 6) 
+  - Exposed Weapon Linkage (Streak SRM 6) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2048) 
 - **Battle Value:** 1875 
 

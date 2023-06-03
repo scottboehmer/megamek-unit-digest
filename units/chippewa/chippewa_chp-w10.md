@@ -4,7 +4,7 @@
 
 ## Chippewa CHP-W10 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2953) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 

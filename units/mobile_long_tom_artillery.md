@@ -2,7 +2,7 @@
 
 ## Mobile Long Tom Artillery (+Carriages)(Unofficial) 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2602) 
 - **Chassis:** 95 tons Tracked 
 - **Movement:** 2 / 3, ICE 
@@ -17,7 +17,7 @@
 
 ## Mobile Long Tom Artillery LT-MOB-25 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2602) 
 - **Chassis:** 75 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -142,4 +142,23 @@
 - **Sources:** Rec Guide:ilClan #28 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9369) 
 - **Battle Value:** 147 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25f_support_carriage.md) 
+
+## Mobile Long Tom Artillery LT-MOB-95 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3097) 
+- **Chassis:** 95 tons Tracked 
+- **Movement:** 2 / 3, ICE 
+- **Armor:** 120 (Hardened) 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Long Tom (ammo: 50) 
+  - Machine Gun × 4 (ammo: 200) 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+  - Communications Equipment 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8044) 
+- **Battle Value:** 1122 
+- [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-95.md) 
 

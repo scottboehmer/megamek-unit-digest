@@ -1,6 +1,6 @@
 # J. Edgar Light Hover Tank 
 
-## J. Edgar Light Hover Tank (Standard) 
+## J. Edgar Light Hover Tank 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2722) 
@@ -13,7 +13,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1641) 
 - **Battle Value:** 544 
-- [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank_standard.md) 
+- [*More Info*](j._edgar_light_hover_tank/j._edgar_light_hover_tank.md) 
 
 ## J. Edgar Light Hover Tank (Flamer) 
 
@@ -77,7 +77,7 @@
 
 ## J. Edgar Light Hover Tank (Kurita) 
 
-- **Role:** Striker 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3053) 
 - **Chassis:** 25 tons Hover 
 - **Movement:** 11 / 17, Fusion 

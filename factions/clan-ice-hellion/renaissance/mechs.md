@@ -6,13 +6,13 @@
 
 #### [Snow Fox](../../../units/snow_fox.md) 
 
-- [**Snow Fox (Standard)**](../../../units/snow_fox/snow_fox_standard.md) *Striker (3015)* 
+- [**Snow Fox**](../../../units/snow_fox/snow_fox.md) *Striker (3015)* 
 - [**Snow Fox 2**](../../../units/snow_fox/snow_fox_2.md) *Missile Boat (3015)* 
 
 #### [Stinger](../../../units/stinger.md) 
 
 - [**Stinger STG-3Gb**](../../../units/stinger/stinger_stg-3gb.md) *Striker (2720)* 
-- [**Stinger C**](../../../units/stinger/stinger_c.md) *Undefined (2832)* 
+- [**Stinger C**](../../../units/stinger/stinger_c.md) *Scout (2832)* 
 
 #### [Thorn](../../../units/thorn.md) 
 
@@ -26,7 +26,7 @@
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
-- [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 - [**Locust IIC 2**](../../../units/locust_iic/locust_iic_2.md) *Striker (2837)* 
 
 #### [Mist Lynx](../../../units/mist_lynx.md) 
@@ -58,11 +58,11 @@
 
 #### [Devil](../../../units/devil.md) 
 
-- [**Devil (Standard)**](../../../units/devil/devil_standard.md) *Sniper (2911)* 
+- [**Devil**](../../../units/devil/devil.md) *Sniper (2911)* 
 
 #### [Drift Shag](../../../units/drift_shag.md) 
 
-- [**Drift Shag (Standard)**](../../../units/drift_shag/drift_shag_standard.md) *Scout (2827)* 
+- [**Drift Shag**](../../../units/drift_shag/drift_shag.md) *Scout (2827)* 
 
 #### [Hussar](../../../units/hussar.md) 
 
@@ -71,7 +71,7 @@
 
 #### [Incubus](../../../units/incubus.md) 
 
-- [**Incubus (Standard)**](../../../units/incubus/incubus_standard.md) *Striker (2954)* 
+- [**Incubus**](../../../units/incubus/incubus.md) *Striker (2954)* 
 - [**Incubus 2**](../../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../../units/incubus/incubus_8.md) *Striker (2962)* 
@@ -92,7 +92,7 @@
 
 #### [Jenner IIC](../../../units/jenner_iic.md) 
 
-- [**Jenner IIC (Standard)**](../../../units/jenner_iic/jenner_iic_standard.md) *Striker (3042)* 
+- [**Jenner IIC**](../../../units/jenner_iic/jenner_iic.md) *Striker (3042)* 
 
 #### [Night Hawk](../../../units/night_hawk.md) 
 
@@ -111,7 +111,7 @@
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
-- [**Griffin IIC (Standard)**](../../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
+- [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 - [**Griffin IIC 2**](../../../units/griffin_iic/griffin_iic_2.md) *Striker (2973)* 
 
 #### [Sentinel](../../../units/sentinel.md) 
@@ -148,7 +148,7 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
 
@@ -195,7 +195,7 @@
 #### [Vapor Eagle](../../../units/vapor_eagle.md) 
 
 - [**Vapor Eagle 6**](../../../units/vapor_eagle/vapor_eagle_6.md) *Skirmisher (2850)* 
-- [**Vapor Eagle (Standard)**](../../../units/vapor_eagle/vapor_eagle_standard.md) *Skirmisher (2863)* 
+- [**Vapor Eagle**](../../../units/vapor_eagle/vapor_eagle.md) *Skirmisher (2863)* 
 - [**Vapor Eagle 2**](../../../units/vapor_eagle/vapor_eagle_2.md) *Skirmisher (2912)* 
 - [**Vapor Eagle 5**](../../../units/vapor_eagle/vapor_eagle_5.md) *Skirmisher (2922)* 
 
@@ -203,7 +203,7 @@
 
 #### [Glass Spider](../../../units/glass_spider.md) 
 
-- [**Glass Spider (Standard)**](../../../units/glass_spider/glass_spider_standard.md) *Sniper (2834)* 
+- [**Glass Spider**](../../../units/glass_spider/glass_spider.md) *Sniper (2834)* 
 
 #### [Lancelot](../../../units/lancelot.md) 
 
@@ -261,7 +261,7 @@
 
 #### [Grizzly](../../../units/grizzly.md) 
 
-- [**Grizzly (Standard)**](../../../units/grizzly/grizzly_standard.md) *Skirmisher (2947)* 
+- [**Grizzly**](../../../units/grizzly/grizzly.md) *Skirmisher (2947)* 
 
 #### [Lumberjack](../../../units/lumberjack.md) 
 
@@ -393,7 +393,7 @@
 
 #### [Kodiak](../../../units/kodiak.md) 
 
-- [**Kodiak (Standard)**](../../../units/kodiak/kodiak_standard.md) *Brawler (3001)* 
+- [**Kodiak**](../../../units/kodiak/kodiak.md) *Brawler (3001)* 
 
 #### [Pillager](../../../units/pillager.md) 
 

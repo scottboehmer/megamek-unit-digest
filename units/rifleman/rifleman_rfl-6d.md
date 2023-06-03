@@ -16,6 +16,11 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2701) 
 - **Battle Value:** 1274 
 

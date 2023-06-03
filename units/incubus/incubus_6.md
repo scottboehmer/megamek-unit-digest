@@ -17,7 +17,9 @@
 - **Equipment:** 
   - Talons 
   - CASE 
-- **Sources:** Ice Wind Metals - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8008) 
+- **Design Quirks:** 
+  - Jettison-Capable Weapon (Unknown Component) 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8008) 
 - **Battle Value:** 1578 
 
 ## Availability 

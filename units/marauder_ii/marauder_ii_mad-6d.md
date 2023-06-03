@@ -21,7 +21,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2063) 
+- **Sources:** TRO 3085 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2063) 
 - **Battle Value:** 2378 
 
 ## Availability 

@@ -1,6 +1,6 @@
 # Regulator II Hovertank 
 
-## Regulator II Hovertank (Standard) 
+## Regulator II Hovertank 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3076) 
@@ -12,7 +12,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2679) 
 - **Battle Value:** 1426 
-- [*More Info*](regulator_ii_hovertank/regulator_ii_hovertank_standard.md) 
+- [*More Info*](regulator_ii_hovertank/regulator_ii_hovertank.md) 
 
 ## Regulator II Hovertank (Stealth) 
 

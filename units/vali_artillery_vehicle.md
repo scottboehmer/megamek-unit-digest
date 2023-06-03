@@ -1,6 +1,6 @@
 # Vali Artillery Vehicle 
 
-## Vali Artillery Vehicle (Standard) 
+## Vali Artillery Vehicle 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2600) 
@@ -12,5 +12,5 @@
   - Arrow IV (ammo: 25) 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6773) 
 - **Battle Value:** 653 
-- [*More Info*](vali_artillery_vehicle/vali_artillery_vehicle_standard.md) 
+- [*More Info*](vali_artillery_vehicle/vali_artillery_vehicle.md) 
 

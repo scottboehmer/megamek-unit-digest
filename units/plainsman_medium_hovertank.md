@@ -1,6 +1,6 @@
 # Plainsman Medium Hovertank 
 
-## Plainsman Medium Hovertank (Standard) 
+## Plainsman Medium Hovertank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3030) 
@@ -13,7 +13,7 @@
   - SRM 2 (ammo: 50) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2541) 
 - **Battle Value:** 600 
-- [*More Info*](plainsman_medium_hovertank/plainsman_medium_hovertank_standard.md) 
+- [*More Info*](plainsman_medium_hovertank/plainsman_medium_hovertank.md) 
 
 ## Plainsman Medium Hovertank (Scout) 
 

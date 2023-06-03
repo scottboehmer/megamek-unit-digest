@@ -24,7 +24,7 @@
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
-- [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 
 #### [Mongoose](../../../units/mongoose.md) 
 
@@ -89,7 +89,7 @@
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
-- [**Griffin IIC (Standard)**](../../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
+- [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 
 #### [Sentinel](../../../units/sentinel.md) 
 
@@ -108,7 +108,7 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
 
@@ -131,7 +131,7 @@
 
 #### [Fox](../../../units/fox.md) 
 
-- [**Fox (Standard)**](../../../units/fox/fox_standard.md) *Missile Boat (2835)* 
+- [**Fox**](../../../units/fox/fox.md) *Missile Boat (2835)* 
 
 ### 55 Tons 
 
@@ -154,7 +154,7 @@
 
 #### [Naja](../../../units/naja.md) 
 
-- [**Naja (Standard)**](../../../units/naja/naja_standard.md) *Brawler (2826)* 
+- [**Naja**](../../../units/naja/naja.md) *Brawler (2826)* 
 
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
@@ -229,7 +229,7 @@
 #### [Minsk](../../../units/minsk.md) 
 
 - [**Minsk MNK-101**](../../../units/minsk/minsk_mnk-101.md) *Sniper (2830)* `Active Probe` 
-- [**Minsk (Standard)**](../../../units/minsk/minsk_standard.md) *Sniper (2862)* `Active Probe` 
+- [**Minsk**](../../../units/minsk/minsk.md) *Sniper (2862)* `Active Probe` 
 
 #### [Shootist](../../../units/shootist.md) 
 

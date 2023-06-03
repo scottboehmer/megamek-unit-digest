@@ -6,7 +6,7 @@
 
 #### [Ailette Zero-G Engineering Exoskeleton](../../../units/ailette_zero-g_engineering_exoskeleton.md) 
 
-- [**Ailette Zero-G Engineering Exoskeleton (Standard)(Sqd4)**](../../../units/ailette_zero-g_engineering_exoskeleton/ailette_zero-g_engineering_exoskeleton_standardsqd4.md) *Undefined (3056)* 
+- [**Ailette Zero-G Engineering Exoskeleton (Sqd4)**](../../../units/ailette_zero-g_engineering_exoskeleton/ailette_zero-g_engineering_exoskeleton_sqd4.md) *Undefined (3056)* 
 
 #### [Gorilla Exoskeleton](../../../units/gorilla_exoskeleton.md) 
 
@@ -14,7 +14,7 @@
 
 #### [HeavyHauler Exoskeleton](../../../units/heavyhauler_exoskeleton.md) 
 
-- [**HeavyHauler Exoskeleton (Standard)(Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_standardsqd4.md) *Undefined (3052)* 
+- [**HeavyHauler Exoskeleton (Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_sqd4.md) *Undefined (3052)* 
 
 #### [Salrilla Exoskeleton](../../../units/salrilla_exoskeleton.md) 
 

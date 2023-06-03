@@ -16,7 +16,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/387) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/387) 
 - **Battle Value:** 1320 
 
 ## Availability 

@@ -4,7 +4,7 @@
 
 ## Ahab AHB-443 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2703) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 

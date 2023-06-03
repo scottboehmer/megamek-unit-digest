@@ -4,7 +4,7 @@
 
 ## Callisto Battle Armor A (ER Laser)(Sqd6) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Clan (3147) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 

@@ -1,6 +1,6 @@
 # Griffin IIC 
 
-## Griffin IIC (Standard) 
+## Griffin IIC 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2852) 
@@ -19,7 +19,7 @@
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1310) 
 - **Battle Value:** 1608 
-- [*More Info*](griffin_iic/griffin_iic_standard.md) 
+- [*More Info*](griffin_iic/griffin_iic.md) 
 
 ## Griffin IIC 2 
 

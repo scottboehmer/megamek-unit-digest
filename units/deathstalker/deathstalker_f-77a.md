@@ -4,7 +4,7 @@
 
 ## Deathstalker F-77A 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, Light 

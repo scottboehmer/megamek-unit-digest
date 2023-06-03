@@ -1,6 +1,6 @@
 # Ocelot 
 
-## Ocelot (Standard) 
+## Ocelot 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3067) 
@@ -19,7 +19,7 @@
   - Jettison-Capable Weapon (ER Medium Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2313) 
 - **Battle Value:** 1439 
-- [*More Info*](ocelot/ocelot_standard.md) 
+- [*More Info*](ocelot/ocelot.md) 
 
 ## Ocelot 2 
 
@@ -34,6 +34,8 @@
   - ER PPC 
   - ER Medium Laser × 2 
 - **Design Quirks:** 
+  - Jettison-Capable Weapon (ER Medium Laser) 
+  - Jettison-Capable Weapon (ER Medium Laser) 
   - Jettison-Capable Weapon (ER Medium Laser) 
   - Jettison-Capable Weapon (ER Medium Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2314) 
@@ -57,6 +59,8 @@
   - Light Active Probe 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Jettison-Capable Weapon (Unknown Component) 
+  - Jettison-Capable Weapon (Unknown Component) 
   - Modular Weapon (Heavy Medium Laser) 
   - Modular Weapon (Heavy Medium Laser) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2315) 
@@ -76,6 +80,8 @@
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
+  - Jettison-Capable Weapon (Unknown Component) 
+  - Jettison-Capable Weapon (Unknown Component) 
   - Modular Weapon (Medium Pulse Laser) 
   - Modular Weapon (Medium Pulse Laser) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6925) 

@@ -1,6 +1,6 @@
 # Drillson Heavy Hover Tank 
 
-## Drillson Heavy Hover Tank (Standard) 
+## Drillson Heavy Hover Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3025) 
@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/932) 
 - **Battle Value:** 949 
-- [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_standard.md) 
+- [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank.md) 
 
 ## Drillson Heavy Hover Tank (SRM) 
 
@@ -35,7 +35,7 @@
 
 ## Drillson Heavy Hover Tank (ERLL) 
 
-- **Role:** Sniper 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3045) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 9 / 14, Fusion 
@@ -86,7 +86,7 @@
 
 ## Drillson Heavy Hover Tank (MML) 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 8 / 12, Fusion 

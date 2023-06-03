@@ -1,6 +1,6 @@
 # Night Wolf 
 
-## Night Wolf (Standard) 
+## Night Wolf 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3084) 
@@ -24,5 +24,5 @@
   - Directional Torso Mount (Anti-Missile System) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2273) 
 - **Battle Value:** 2878 
-- [*More Info*](night_wolf/night_wolf_standard.md) 
+- [*More Info*](night_wolf/night_wolf.md) 
 

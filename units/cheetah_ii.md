@@ -2,7 +2,7 @@
 
 ## Cheetah II F-12A 
 
-- **Role:** Undefined 
+- **Role:** Interceptor 
 - **Tech Base:** Inner Sphere (3021) 
 - **Chassis:** 25 tons 
 - **Thrust:** 13 / 20 

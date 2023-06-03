@@ -1,6 +1,6 @@
 # Tyr Infantry Support Tank 
 
-## Tyr Infantry Support Tank (Standard) 
+## Tyr Infantry Support Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3063) 
@@ -16,7 +16,7 @@
   - Infantry (5 tons) 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5314) 
 - **Battle Value:** 1260 
-- [*More Info*](tyr_infantry_support_tank/tyr_infantry_support_tank_standard.md) 
+- [*More Info*](tyr_infantry_support_tank/tyr_infantry_support_tank.md) 
 
 ## Tyr Infantry Support Tank (Kurita) 
 

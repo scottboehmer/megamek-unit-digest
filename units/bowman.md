@@ -22,7 +22,7 @@
 - **Battle Value:** 1657 
 - [*More Info*](bowman/bowman_4.md) 
 
-## Bowman (Standard) 
+## Bowman 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2973) 
@@ -44,7 +44,7 @@
   - Bad Reputation (Clan) 
 - **Sources:** RS 3068 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/3857) 
 - **Battle Value:** 2209 
-- [*More Info*](bowman/bowman_standard.md) 
+- [*More Info*](bowman/bowman.md) 
 
 ## Bowman 2 
 

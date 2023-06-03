@@ -2,7 +2,7 @@
 
 ## Hel HL-1 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (3092) 
 - **Chassis:** 50 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 

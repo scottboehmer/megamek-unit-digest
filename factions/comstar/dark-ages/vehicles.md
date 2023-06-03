@@ -29,7 +29,7 @@
 
 #### [Pollux II ADA Heavy Tank](../../../units/pollux_ii_ada_heavy_tank.md) 
 
-- [**Pollux II ADA Heavy Tank (Standard)**](../../../units/pollux_ii_ada_heavy_tank/pollux_ii_ada_heavy_tank_standard.md) *Missile Boat (3130)* `ECM` , `Unique` 
+- [**Pollux II ADA Heavy Tank**](../../../units/pollux_ii_ada_heavy_tank/pollux_ii_ada_heavy_tank.md) *Missile Boat (3130)* `ECM` , `Unique` 
 
 ### 95 Tons 
 

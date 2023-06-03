@@ -18,11 +18,11 @@
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Undefined (2657)* 
 
 ### 90 Tons 
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
 

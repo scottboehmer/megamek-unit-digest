@@ -4,7 +4,7 @@
 
 ## Riever F-100 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2815) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 

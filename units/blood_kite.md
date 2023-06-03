@@ -1,6 +1,6 @@
 # Blood Kite 
 
-## Blood Kite (Standard) 
+## Blood Kite 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2907) 
@@ -20,7 +20,7 @@
   - Rugged (×3) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3836) 
 - **Battle Value:** 2776 
-- [*More Info*](blood_kite/blood_kite_standard.md) 
+- [*More Info*](blood_kite/blood_kite.md) 
 
 ## Blood Kite 2 
 

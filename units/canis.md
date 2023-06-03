@@ -1,6 +1,6 @@
 # Canis 
 
-## Canis (Standard) 
+## Canis 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3058) 
@@ -18,7 +18,7 @@
   - Fast Reload (All Weapons) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/459) 
 - **Battle Value:** 2498 
-- [*More Info*](canis/canis_standard.md) 
+- [*More Info*](canis/canis.md) 
 
 ## Canis 2 
 

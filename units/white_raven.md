@@ -1,6 +1,6 @@
 # White Raven 
 
-## White Raven (Standard) 
+## White Raven 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3127) 
@@ -21,7 +21,7 @@
   - Improved Targeting (Short) 
 - **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7794) 
 - **Battle Value:** 2941 
-- [*More Info*](white_raven/white_raven_standard.md) 
+- [*More Info*](white_raven/white_raven.md) 
 
 ## White Raven 2 
 

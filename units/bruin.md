@@ -1,6 +1,6 @@
 # Bruin 
 
-## Bruin (Standard) 
+## Bruin 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3081) 
@@ -22,7 +22,7 @@
   - Exposed Actuators 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/430) 
 - **Battle Value:** 2630 
-- [*More Info*](bruin/bruin_standard.md) 
+- [*More Info*](bruin/bruin.md) 
 
 ## Bruin 2 
 

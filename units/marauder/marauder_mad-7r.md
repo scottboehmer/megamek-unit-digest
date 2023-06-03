@@ -17,6 +17,12 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (Light Gauss Rifle) 
+  - Exposed Weapon Linkage (Light Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7532) 
 - **Battle Value:** 1832 
 

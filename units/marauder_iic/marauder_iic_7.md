@@ -23,9 +23,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2071) 
+- **Sources:** TRO 3085 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2071) 
 - **Battle Value:** 2843 
 
 ## Availability 

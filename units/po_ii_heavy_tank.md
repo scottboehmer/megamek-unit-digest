@@ -1,6 +1,6 @@
 # Po II Heavy Tank 
 
-## Po II Heavy Tank (Standard) 
+## Po II Heavy Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3077) 
@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2551) 
 - **Battle Value:** 1181 
-- [*More Info*](po_ii_heavy_tank/po_ii_heavy_tank_standard.md) 
+- [*More Info*](po_ii_heavy_tank/po_ii_heavy_tank.md) 
 
 ## Po II Heavy Tank (Arrow IV) 
 

@@ -4,7 +4,7 @@
 
 ## Jengiz D 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3063) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 

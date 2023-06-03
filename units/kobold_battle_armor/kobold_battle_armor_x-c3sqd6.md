@@ -4,7 +4,7 @@
 
 ## Kobold Battle Armor X-C3(Sqd6) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3076) 
 - **Chassis:** Light Battle Armor (750 kg) 
 - **Movement:** 1 

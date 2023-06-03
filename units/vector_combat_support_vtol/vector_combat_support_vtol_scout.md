@@ -4,7 +4,7 @@
 
 ## Vector Combat Support VTOL (Scout) 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (2730) 
 - **Chassis:** 22 tons VTOL 
 - **Movement:** 12 / 18, Fusion 

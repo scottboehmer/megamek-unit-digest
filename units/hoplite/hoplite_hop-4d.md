@@ -11,7 +11,7 @@
 - **Armor:** 184 
 - **Heat Sinks:** 16 (16) 
 - **Weapons:** 
-  - LB 10-X AC (ammo: 10 Cluster, 10 Standard) 
+  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - No/Minimal Arms 

@@ -4,7 +4,7 @@
 
 ## Lucifer III LCR-3 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3086) 
 - **Chassis:** 65 tons 
 - **Thrust:** 5 / 8, XL 

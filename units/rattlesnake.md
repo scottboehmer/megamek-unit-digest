@@ -2,7 +2,7 @@
 
 ## Rattlesnake JR7-31 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3042) 
 - **Chassis:** 35 tons 
 - **Movement:** 7 / 11, XL 
@@ -19,7 +19,7 @@
 
 ## Rattlesnake JR7-31P 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3043) 
 - **Chassis:** 35 tons 
 - **Movement:** 7 / 11, XL 
@@ -37,7 +37,7 @@
 
 ## Rattlesnake JR7-31R (Gideon) 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere Mixed (3084) 
 - **Chassis:** 35 tons (Endo Steel) 
 - **Movement:** 7 / 11 (14), XL 

@@ -4,7 +4,7 @@
 
 ## Grenadier Battle Armor (TAG)(Sqd5) 
 
-- **Role:** Undefined 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3065) 
 - **Chassis:** Assault Battle Armor (2,000 kg) 
 - **Movement:** 2 

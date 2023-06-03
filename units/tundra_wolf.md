@@ -1,6 +1,6 @@
 # Tundra Wolf 
 
-## Tundra Wolf (Standard) 
+## Tundra Wolf 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3076) 
@@ -24,7 +24,7 @@
   - Weak Head Armor (1) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3315) 
 - **Battle Value:** 3131 
-- [*More Info*](tundra_wolf/tundra_wolf_standard.md) 
+- [*More Info*](tundra_wolf/tundra_wolf.md) 
 
 ## Tundra Wolf 2 
 

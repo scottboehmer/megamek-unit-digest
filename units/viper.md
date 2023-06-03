@@ -38,7 +38,7 @@
   - Rugged (×2) 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #32 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/9466) 
+- **Sources:** Rec Guide:ilClan #32 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/9488) 
 - **Battle Value:** 1539 
 - [*More Info*](viper/viper_vp-5.md) 
 

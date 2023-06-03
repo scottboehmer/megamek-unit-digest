@@ -1,6 +1,6 @@
 # Partisan AA Vehicle 
 
-## Partisan AA Vehicle (Standard) 
+## Partisan AA Vehicle 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3110) 
@@ -12,7 +12,7 @@
   - LB 5-X AC × 2 (ammo: 60 Cluster) 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6494) 
 - **Battle Value:** 597 
-- [*More Info*](partisan_aa_vehicle/partisan_aa_vehicle_standard.md) 
+- [*More Info*](partisan_aa_vehicle/partisan_aa_vehicle.md) 
 
 ## Partisan AA Vehicle (3134 Upgrade) 
 

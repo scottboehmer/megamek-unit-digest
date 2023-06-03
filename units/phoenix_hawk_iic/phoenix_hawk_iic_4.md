@@ -17,6 +17,9 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 

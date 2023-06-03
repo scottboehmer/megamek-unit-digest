@@ -4,7 +4,7 @@
 
 ## Demolisher II Heavy Tank II-X 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3077) 
 - **Chassis:** 100 tons Tracked 
 - **Movement:** 3 / 5, Light 

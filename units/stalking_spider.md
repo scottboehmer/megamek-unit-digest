@@ -1,6 +1,6 @@
 # Stalking Spider 
 
-## Stalking Spider (Standard) 
+## Stalking Spider 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3059) 
@@ -20,7 +20,7 @@
   - Stable 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3045) 
 - **Battle Value:** 2232 
-- [*More Info*](stalking_spider/stalking_spider_standard.md) 
+- [*More Info*](stalking_spider/stalking_spider.md) 
 
 ## Stalking Spider 2 
 

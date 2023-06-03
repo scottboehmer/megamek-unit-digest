@@ -119,8 +119,8 @@
 
 #### [Rattlesnake](../../../units/rattlesnake.md) 
 
-- [**Rattlesnake JR7-31**](../../../units/rattlesnake/rattlesnake_jr7-31.md) *Undefined (3042)* `ECM` 
-- [**Rattlesnake JR7-31P**](../../../units/rattlesnake/rattlesnake_jr7-31p.md) *Undefined (3043)* `C3 Support` 
+- [**Rattlesnake JR7-31**](../../../units/rattlesnake/rattlesnake_jr7-31.md) *Striker (3042)* `ECM` 
+- [**Rattlesnake JR7-31P**](../../../units/rattlesnake/rattlesnake_jr7-31p.md) *Striker (3043)* `C3 Support` 
 
 #### [Raven](../../../units/raven.md) 
 
@@ -229,7 +229,7 @@
 
 #### [Dervish](../../../units/dervish.md) 
 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 - [**Dervish DV-7D**](../../../units/dervish/dervish_dv-7d.md) *Missile Boat (3047)* 
 
 #### [Griffin](../../../units/griffin.md) 

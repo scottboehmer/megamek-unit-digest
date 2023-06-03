@@ -4,7 +4,7 @@
 
 ## Chameleon CLN-8V 
 
-- **Role:** Skirmisher 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3086) 
 - **Chassis:** 50 tons 
 - **Movement:** 6 / 9, XL 

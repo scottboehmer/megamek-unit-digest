@@ -1,6 +1,6 @@
 # Hi-Scout Drone Carrier 
 
-## Hi-Scout Drone Carrier (Standard) 
+## Hi-Scout Drone Carrier 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3000) 
@@ -15,7 +15,7 @@
   - Cargo 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1532) 
 - **Battle Value:** 347 
-- [*More Info*](hi-scout_drone_carrier/hi-scout_drone_carrier_standard.md) 
+- [*More Info*](hi-scout_drone_carrier/hi-scout_drone_carrier.md) 
 
 ## Hi-Scout Drone Carrier (Cunnington) 
 

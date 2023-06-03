@@ -1,6 +1,6 @@
 # Howler 
 
-## Howler (Standard) "Baboon" 
+## Howler "Baboon" 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2871) 
@@ -18,7 +18,7 @@
   - Searchlight 
 - **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/189) 
 - **Battle Value:** 645 
-- [*More Info*](howler/howler_standard.md) 
+- [*More Info*](howler/howler.md) 
 
 ## Howler 4 "Baboon" 
 

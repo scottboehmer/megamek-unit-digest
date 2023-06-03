@@ -1,6 +1,6 @@
 # Kinnol MBT 
 
-## Kinnol MBT (Standard) 
+## Kinnol MBT 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (3083) 
@@ -16,7 +16,7 @@
   - CASE 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1789) 
 - **Battle Value:** 1226 
-- [*More Info*](kinnol_mbt/kinnol_mbt_standard.md) 
+- [*More Info*](kinnol_mbt/kinnol_mbt.md) 
 
 ## Kinnol MBT (PPC) 
 

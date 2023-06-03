@@ -1,6 +1,6 @@
 # Ostscout IIC 
 
-## Ostscout IIC (Standard) 
+## Ostscout IIC 
 
 - **Role:** Undefined 
 - **Tech Base:** Clan Mixed (3067) 
@@ -23,5 +23,5 @@
   - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** XTRO Boondoggles - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5844) 
 - **Battle Value:** 520 
-- [*More Info*](ostscout_iic/ostscout_iic_standard.md) 
+- [*More Info*](ostscout_iic/ostscout_iic.md) 
 

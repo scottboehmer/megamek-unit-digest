@@ -1,6 +1,6 @@
 # Soarece Superheavy MBT 
 
-## Soarece Superheavy MBT (Standard) 
+## Soarece Superheavy MBT 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (2881) 
@@ -17,5 +17,5 @@
   - Limited Amphibious Chassis 
 - **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5778) 
 - **Battle Value:** 2267 
-- [*More Info*](soarece_superheavy_mbt/soarece_superheavy_mbt_standard.md) 
+- [*More Info*](soarece_superheavy_mbt/soarece_superheavy_mbt.md) 
 

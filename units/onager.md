@@ -1,6 +1,6 @@
 # Onager 
 
-## Onager (Standard) 
+## Onager 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3083) 
@@ -24,7 +24,7 @@
   - Exposed Weapon Linkage (HAG 30) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2319) 
 - **Battle Value:** 2732 
-- [*More Info*](onager/onager_standard.md) 
+- [*More Info*](onager/onager.md) 
 
 ## Onager 2 
 
@@ -47,6 +47,8 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Battlefist (Right Arm) 
+  - Exposed Weapon Linkage (HAG 30) 
+  - Exposed Weapon Linkage (HAG 30) 
   - Exposed Weapon Linkage (HAG 30) 
   - Exposed Weapon Linkage (HAG 30) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6847) 

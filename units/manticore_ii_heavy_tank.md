@@ -1,6 +1,6 @@
 # Manticore II Heavy Tank 
 
-## Manticore II Heavy Tank (Standard) 
+## Manticore II Heavy Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3112) 
@@ -16,5 +16,5 @@
   - Fully Amphibious Chassis 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6601) 
 - **Battle Value:** 1221 
-- [*More Info*](manticore_ii_heavy_tank/manticore_ii_heavy_tank_standard.md) 
+- [*More Info*](manticore_ii_heavy_tank/manticore_ii_heavy_tank.md) 
 

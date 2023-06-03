@@ -1,6 +1,6 @@
 # Gray Death Scout Suit 
 
-## Gray Death Scout Suit (Standard)(Sqd4) 
+## Gray Death Scout Suit (Sqd4) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3052) 
@@ -16,9 +16,9 @@
   - Jump Booster 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1275) 
 - **Battle Value:** 16 (81 for 4 suits) 
-- [*More Info*](gray_death_scout_suit/gray_death_scout_suit_standardsqd4.md) 
+- [*More Info*](gray_death_scout_suit/gray_death_scout_suit_sqd4.md) 
 
-## Gray Death Scout Suit (Standard)(Sqd5) 
+## Gray Death Scout Suit (Sqd5) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3052) 
@@ -34,9 +34,9 @@
   - Jump Booster 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8525) 
 - **Battle Value:** 16 (109 for 5 suits) 
-- [*More Info*](gray_death_scout_suit/gray_death_scout_suit_standardsqd5.md) 
+- [*More Info*](gray_death_scout_suit/gray_death_scout_suit_sqd5.md) 
 
-## Gray Death Scout Suit (Standard)(Sqd6) 
+## Gray Death Scout Suit (Sqd6) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3052) 
@@ -52,7 +52,7 @@
   - Jump Booster 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8889) 
 - **Battle Value:** 16 (140 for 6 suits) 
-- [*More Info*](gray_death_scout_suit/gray_death_scout_suit_standardsqd6.md) 
+- [*More Info*](gray_death_scout_suit/gray_death_scout_suit_sqd6.md) 
 
 ## Gray Death Scout Suit (Reaper)(Sqd4) 
 

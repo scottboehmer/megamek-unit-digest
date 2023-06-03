@@ -4,7 +4,7 @@
 
 ## Griffin GRF-1RG 
 
-- **Role:** Missile Boat 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (2597) 
 - **Chassis:** 55 tons 
 - **Movement:** 5 / 8 

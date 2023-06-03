@@ -1,5 +1,21 @@
 # Heavy Tracked APC 
 
+## Heavy Tracked APC 
+
+- **Role:** Scout 
+- **Tech Base:** Inner Sphere (2470) 
+- **Chassis:** 20 tons Tracked 
+- **Movement:** 5 / 8, ICE 
+- **Armor:** 56 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Machine Gun × 2 (ammo: 100) 
+- **Equipment:** 
+  - Infantry (6 tons) 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1453) 
+- **Battle Value:** 206 
+- [*More Info*](heavy_tracked_apc/heavy_tracked_apc.md) 
+
 ## Heavy Tracked APC (LRM) 
 
 - **Role:** Scout 
@@ -49,20 +65,4 @@
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1452) 
 - **Battle Value:** 266 
 - [*More Info*](heavy_tracked_apc/heavy_tracked_apc_srm.md) 
-
-## Heavy Tracked APC (Standard) 
-
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (2470) 
-- **Chassis:** 20 tons Tracked 
-- **Movement:** 5 / 8, ICE 
-- **Armor:** 56 
-- **Heat Sinks:** 0 (0) 
-- **Weapons:** 
-  - Machine Gun × 2 (ammo: 100) 
-- **Equipment:** 
-  - Infantry (6 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1453) 
-- **Battle Value:** 206 
-- [*More Info*](heavy_tracked_apc/heavy_tracked_apc_standard.md) 
 

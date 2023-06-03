@@ -88,7 +88,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8373) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8373) 
 - **Battle Value:** 1371 
 - [*More Info*](ghost/ghost_gst-10a_aurora.md) 
 

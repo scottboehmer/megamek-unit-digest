@@ -19,46 +19,10 @@
   - Rugged (×2) 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #32 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/9466) 
+- **Sources:** Rec Guide:ilClan #32 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/9488) 
 - **Battle Value:** 1539 
 
 ## Availability 
 
-### Early Succession Wars 
-
-- Free Worlds League 
-- Mercenary 
-
-### Late Succession Wars - LosTech 
-
-- Free Worlds League 
-- Mercenary 
-
-### Late Republic 
-
-- Calderon Protectorate 
-- Filtvelt Coalition 
-- Fronc Reaches 
-- Mercenary 
-- Pirate 
-- Republic of the Sphere 
-
-### Dark Ages 
-
-- Calderon Protectorate 
-- Filtvelt Coalition 
-- Fronc Reaches 
-- Mercenary 
-- Pirate 
-- Republic of the Sphere 
-
-### ilClan 
-
-- Calderon Protectorate 
-- Filtvelt Coalition 
-- Fronc Reaches 
-- Mercenary 
-- Pirate 
-- Tamar Pact 
-- Vesper Marches 
+Availability Unknown 
 

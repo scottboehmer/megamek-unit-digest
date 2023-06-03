@@ -19,6 +19,9 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2513) 
 - **Battle Value:** 2448 
 

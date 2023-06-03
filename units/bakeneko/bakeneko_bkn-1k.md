@@ -19,7 +19,7 @@
 - **Equipment:** 
   - CASE 
   - MASC 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6975) 
+- **Sources:** TRO DA - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6975) 
 - **Battle Value:** 2022 
 
 ## Availability 

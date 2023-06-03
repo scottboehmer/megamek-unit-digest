@@ -2,7 +2,7 @@
 
 ## TinStar BattleArmor (Original)(Sqd4) 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 
@@ -22,7 +22,7 @@
 
 ## TinStar BattleArmor (Original)(Sqd5) 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 
@@ -42,7 +42,7 @@
 
 ## TinStar BattleArmor (Original)(Sqd6) 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 
@@ -60,9 +60,9 @@
 - **Battle Value:** 77 (690 for 6 suits) 
 - [*More Info*](tinstar_battlearmor/tinstar_battlearmor_originalsqd6.md) 
 
-## TinStar BattleArmor (Standard)(Sqd4) 
+## TinStar BattleArmor (Sqd4) 
 
-- **Role:** Scout 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 
@@ -78,11 +78,11 @@
   - Anti-Personnel Mount 
 - **Sources:** OTP:Fronc Reaches - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7700) 
 - **Battle Value:** 55 (288 for 4 suits) 
-- [*More Info*](tinstar_battlearmor/tinstar_battlearmor_standardsqd4.md) 
+- [*More Info*](tinstar_battlearmor/tinstar_battlearmor_sqd4.md) 
 
-## TinStar BattleArmor (Standard)(Sqd5) 
+## TinStar BattleArmor (Sqd5) 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 
@@ -98,11 +98,11 @@
   - Anti-Personnel Mount 
 - **Source:** OTP:Fronc Reaches - Early Republic 
 - **Battle Value:** 55 (387 for 5 suits) 
-- [*More Info*](tinstar_battlearmor/tinstar_battlearmor_standardsqd5.md) 
+- [*More Info*](tinstar_battlearmor/tinstar_battlearmor_sqd5.md) 
 
-## TinStar BattleArmor (Standard)(Sqd6) 
+## TinStar BattleArmor (Sqd6) 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 3 
@@ -118,5 +118,5 @@
   - Anti-Personnel Mount 
 - **Source:** OTP:Fronc Reaches - Early Republic 
 - **Battle Value:** 55 (498 for 6 suits) 
-- [*More Info*](tinstar_battlearmor/tinstar_battlearmor_standardsqd6.md) 
+- [*More Info*](tinstar_battlearmor/tinstar_battlearmor_sqd6.md) 
 

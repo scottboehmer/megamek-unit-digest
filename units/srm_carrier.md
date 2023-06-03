@@ -1,6 +1,6 @@
 # SRM Carrier 
 
-## SRM Carrier (Standard) 
+## SRM Carrier 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (2470) 
@@ -12,7 +12,7 @@
   - SRM 6 × 10 (ammo: 60) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3030) 
 - **Battle Value:** 816 
-- [*More Info*](srm_carrier/srm_carrier_standard.md) 
+- [*More Info*](srm_carrier/srm_carrier.md) 
 
 ## SRM Carrier (3054 Upgrade) 
 
@@ -66,7 +66,7 @@
 
 ## SRM Carrier C 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3106) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 4 / 6, ICE 

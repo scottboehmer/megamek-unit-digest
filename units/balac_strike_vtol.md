@@ -1,5 +1,22 @@
 # Balac Strike VTOL 
 
+## Balac Strike VTOL 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3079) 
+- **Chassis:** 25 tons VTOL 
+- **Movement:** 11 / 17, XL 
+- **Armor:** 48 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - ER Medium Laser 
+  - ATM 6 × 2 (ammo: 20 Standard, 10 ER, 10 HE) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/210) 
+- **Battle Value:** 1271 
+- [*More Info*](balac_strike_vtol/balac_strike_vtol.md) 
+
 ## Balac Strike VTOL (LRM) 
 
 - **Role:** Missile Boat 
@@ -36,23 +53,6 @@
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/209) 
 - **Battle Value:** 934 
 - [*More Info*](balac_strike_vtol/balac_strike_vtol_spotter.md) 
-
-## Balac Strike VTOL (Standard) 
-
-- **Role:** Striker 
-- **Tech Base:** Clan (3079) 
-- **Chassis:** 25 tons VTOL 
-- **Movement:** 11 / 17, XL 
-- **Armor:** 48 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - ER Medium Laser 
-  - ATM 6 × 2 (ammo: 20 Standard, 10 ER, 10 HE) 
-- **Equipment:** 
-  - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/210) 
-- **Battle Value:** 1271 
-- [*More Info*](balac_strike_vtol/balac_strike_vtol_standard.md) 
 
 ## Balac Strike VTOL (Hybrid) 
 

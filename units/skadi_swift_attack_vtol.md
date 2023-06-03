@@ -1,6 +1,6 @@
 # Skadi Swift Attack VTOL 
 
-## Skadi Swift Attack VTOL (Standard) 
+## Skadi Swift Attack VTOL 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3099) 
@@ -13,5 +13,5 @@
   - ER Micro Laser × 2 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6246) 
 - **Battle Value:** 923 
-- [*More Info*](skadi_swift_attack_vtol/skadi_swift_attack_vtol_standard.md) 
+- [*More Info*](skadi_swift_attack_vtol/skadi_swift_attack_vtol.md) 
 

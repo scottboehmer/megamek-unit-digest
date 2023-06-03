@@ -1,6 +1,6 @@
 # Hellcat-P 
 
-## Hellcat-P (Standard) "Hellhound II-P" 
+## Hellcat-P "Hellhound II-P" 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3065) 
@@ -19,5 +19,5 @@
   - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #30 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9430) 
 - **Battle Value:** 1777 
-- [*More Info*](hellcat-p/hellcat-p_standard.md) 
+- [*More Info*](hellcat-p/hellcat-p.md) 
 

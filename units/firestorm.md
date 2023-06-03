@@ -1,6 +1,6 @@
 # Firestorm 
 
-## Firestorm (Standard) 
+## Firestorm 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan Mixed (3145) 
@@ -21,5 +21,5 @@
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8129) 
 - **Battle Value:** 2330 
-- [*More Info*](firestorm/firestorm_standard.md) 
+- [*More Info*](firestorm/firestorm.md) 
 

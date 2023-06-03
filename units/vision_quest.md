@@ -16,7 +16,7 @@
 - **Battle Value:** 2180 
 - [*More Info*](vision_quest/vision_quest_vq-1nc.md) 
 
-## Vision Quest (Standard) 
+## Vision Quest 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (2832) 
@@ -32,7 +32,7 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7638) 
 - **Battle Value:** 2458 
-- [*More Info*](vision_quest/vision_quest_standard.md) 
+- [*More Info*](vision_quest/vision_quest.md) 
 
 ## Vision Quest 2 
 

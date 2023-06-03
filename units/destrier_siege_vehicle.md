@@ -1,6 +1,6 @@
 # Destrier Siege Vehicle 
 
-## Destrier Siege Vehicle (Standard) 
+## Destrier Siege Vehicle 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3100) 
@@ -22,5 +22,5 @@
   - Infantry (4.0 tons) 
 - **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6329) 
 - **Battle Value:** 2123 
-- [*More Info*](destrier_siege_vehicle/destrier_siege_vehicle_standard.md) 
+- [*More Info*](destrier_siege_vehicle/destrier_siege_vehicle.md) 
 

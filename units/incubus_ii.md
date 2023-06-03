@@ -1,6 +1,6 @@
 # Incubus II 
 
-## Incubus II (Standard) 
+## Incubus II 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3085) 
@@ -20,5 +20,5 @@
   - Reinforced Legs 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4363) 
 - **Battle Value:** 1261 
-- [*More Info*](incubus_ii/incubus_ii_standard.md) 
+- [*More Info*](incubus_ii/incubus_ii.md) 
 

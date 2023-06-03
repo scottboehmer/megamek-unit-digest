@@ -14,10 +14,6 @@
 - **Weapons:** 
   - Clan ER Large Laser 
   - Clan Streak SRM 2 (iOS) 
-- **Design Quirks:** 
-  - Easy to Maintain 
-  - Extended Torso Twist 
-  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7496) 
 - **Battle Value:** 755 
 

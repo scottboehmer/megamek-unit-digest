@@ -1,6 +1,6 @@
 # Pella 
 
-## Pella (Standard) 
+## Pella 
 
 - **Role:** Fast Dogfighter 
 - **Tech Base:** Clan (2954) 
@@ -16,5 +16,5 @@
   - Active Probe 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7655) 
 - **Battle Value:** Unknown 
-- [*More Info*](pella/pella_standard.md) 
+- [*More Info*](pella/pella.md) 
 

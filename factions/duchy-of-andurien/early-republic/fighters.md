@@ -55,8 +55,8 @@
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
-- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Attack Fighter (2703)* 
+- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Undefined (2657)* 
+- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Undefined (2703)* 
 
 #### [Stingray](../../../units/stingray.md) 
 
@@ -86,18 +86,18 @@
 
 #### [Deathstalker](../../../units/deathstalker.md) 
 
-- [**Deathstalker XF-78**](../../../units/deathstalker/deathstalker_xf-78.md) *Attack Fighter (3068)* `ECM` , `Stealth` 
-- [**Deathstalker F-77A**](../../../units/deathstalker/deathstalker_f-77a.md) *Attack Fighter (3073)* 
+- [**Deathstalker XF-78**](../../../units/deathstalker/deathstalker_xf-78.md) *Undefined (3068)* `ECM` , `Stealth` 
+- [**Deathstalker F-77A**](../../../units/deathstalker/deathstalker_f-77a.md) *Undefined (3073)* 
 
 ### 85 Tons 
 
 #### [Shiva](../../../units/shiva.md) 
 
-- [**Shiva SHV-O**](../../../units/shiva/shiva_shv-o.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OA**](../../../units/shiva/shiva_shv-oa.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OB**](../../../units/shiva/shiva_shv-ob.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OC**](../../../units/shiva/shiva_shv-oc.md) *Attack Fighter (3060)* 
-- [**Shiva SHV-OD**](../../../units/shiva/shiva_shv-od.md) *Attack Fighter (3073)* `ECM` 
+- [**Shiva SHV-O**](../../../units/shiva/shiva_shv-o.md) *Undefined (3060)* 
+- [**Shiva SHV-OA**](../../../units/shiva/shiva_shv-oa.md) *Undefined (3060)* 
+- [**Shiva SHV-OB**](../../../units/shiva/shiva_shv-ob.md) *Undefined (3060)* 
+- [**Shiva SHV-OC**](../../../units/shiva/shiva_shv-oc.md) *Undefined (3060)* 
+- [**Shiva SHV-OD**](../../../units/shiva/shiva_shv-od.md) *Undefined (3073)* `ECM` 
 
 ### 100 Tons 
 
@@ -107,13 +107,13 @@
 
 #### [Riever](../../../units/riever.md) 
 
-- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
-- [**Riever F-100a**](../../../units/riever/riever_f-100a.md) *Attack Fighter (2829)* 
+- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Undefined (2815)* 
+- [**Riever F-100a**](../../../units/riever/riever_f-100a.md) *Undefined (2829)* 
 - [**Riever F-700**](../../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
-- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
-- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
+- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Undefined (3050)* 
+- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
 

@@ -4,7 +4,7 @@
 
 ## Mobile Long Tom Artillery LT-MOB-25 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2602) 
 - **Chassis:** 75 tons Tracked 
 - **Movement:** 3 / 5, ICE 

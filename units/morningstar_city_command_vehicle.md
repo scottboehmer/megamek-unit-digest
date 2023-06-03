@@ -1,5 +1,24 @@
 # Morningstar City Command Vehicle 
 
+## Morningstar City Command Vehicle 
+
+- **Role:** Skirmisher 
+- **Tech Base:** Inner Sphere (3065) 
+- **Chassis:** 60 tons Wheeled 
+- **Movement:** 5 / 8, XL 
+- **Armor:** 144 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - AC/10 (ammo: 20) 
+  - Machine Gun × 3 (ammo: 200) 
+- **Equipment:** 
+  - Targeting Computer 
+  - C3 Main 
+  - Infantry (4 tons) 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4671) 
+- **Battle Value:** 694 
+- [*More Info*](morningstar_city_command_vehicle/morningstar_city_command_vehicle.md) 
+
 ## Morningstar City Command Vehicle (Laser) 
 
 - **Role:** Skirmisher 
@@ -17,25 +36,6 @@
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4670) 
 - **Battle Value:** 856 
 - [*More Info*](morningstar_city_command_vehicle/morningstar_city_command_vehicle_laser.md) 
-
-## Morningstar City Command Vehicle (Standard) 
-
-- **Role:** Skirmisher 
-- **Tech Base:** Inner Sphere (3065) 
-- **Chassis:** 60 tons Wheeled 
-- **Movement:** 5 / 8, XL 
-- **Armor:** 144 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - AC/10 (ammo: 20) 
-  - Machine Gun × 3 (ammo: 200) 
-- **Equipment:** 
-  - Targeting Computer 
-  - C3 Main 
-  - Infantry (4 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4671) 
-- **Battle Value:** 694 
-- [*More Info*](morningstar_city_command_vehicle/morningstar_city_command_vehicle_standard.md) 
 
 ## Morningstar City Command Vehicle (Company Command) 
 

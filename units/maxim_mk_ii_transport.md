@@ -1,6 +1,6 @@
 # Maxim Mk II Transport 
 
-## Maxim Mk II Transport (Standard) 
+## Maxim Mk II Transport 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3083) 
@@ -15,7 +15,7 @@
   - Infantry (16 tons) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2129) 
 - **Battle Value:** 476 
-- [*More Info*](maxim_mk_ii_transport/maxim_mk_ii_transport_standard.md) 
+- [*More Info*](maxim_mk_ii_transport/maxim_mk_ii_transport.md) 
 
 ## Maxim Mk II Transport (Infantry Support) 'Shiloh' 
 

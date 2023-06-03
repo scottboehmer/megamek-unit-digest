@@ -4,7 +4,7 @@
 
 ## Wraith TR2-X 'Alexander' 
 
-- **Role:** Striker 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere Mixed (3076) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 

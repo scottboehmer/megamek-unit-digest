@@ -1,6 +1,6 @@
 # Maultier Hover APC 
 
-## Maultier Hover APC (Standard) 
+## Maultier Hover APC 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2647) 
@@ -14,7 +14,7 @@
   - Infantry (3 tons) 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2109) 
 - **Battle Value:** 209 
-- [*More Info*](maultier_hover_apc/maultier_hover_apc_standard.md) 
+- [*More Info*](maultier_hover_apc/maultier_hover_apc.md) 
 
 ## Maultier Hover APC (Basic) 
 

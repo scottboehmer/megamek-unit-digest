@@ -16,11 +16,11 @@
 - **Weapons:** 
   - Light Recoilless Rifle 
 - **Equipment:** 
-  - Mine Dispenser × 2 
+  - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8868) 
-- **Battle Value:** 56 (501 for 6 suits) 
+- **Battle Value:** 49 (445 for 6 suits) 
 
 ## Availability 
 

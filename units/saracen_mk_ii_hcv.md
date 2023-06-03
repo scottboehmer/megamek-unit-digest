@@ -1,6 +1,6 @@
 # Saracen Mk II HCV 
 
-## Saracen Mk II HCV (Standard) 
+## Saracen Mk II HCV 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3137) 
@@ -13,7 +13,7 @@
   - ER Medium Laser × 2 
 - **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6373) 
 - **Battle Value:** 837 
-- [*More Info*](saracen_mk_ii_hcv/saracen_mk_ii_hcv_standard.md) 
+- [*More Info*](saracen_mk_ii_hcv/saracen_mk_ii_hcv.md) 
 
 ## Saracen Mk II HCV (BC3) 
 

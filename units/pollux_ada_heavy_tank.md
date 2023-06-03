@@ -1,6 +1,6 @@
 # Pollux ADA Heavy Tank 
 
-## Pollux ADA Heavy Tank (Standard) 
+## Pollux ADA Heavy Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2710) 
@@ -15,5 +15,5 @@
   - Small Pulse Laser 
 - **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6779) 
 - **Battle Value:** 772 
-- [*More Info*](pollux_ada_heavy_tank/pollux_ada_heavy_tank_standard.md) 
+- [*More Info*](pollux_ada_heavy_tank/pollux_ada_heavy_tank.md) 
 

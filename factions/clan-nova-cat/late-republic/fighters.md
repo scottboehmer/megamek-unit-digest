@@ -17,7 +17,7 @@
 
 #### [Chaeronea](../../../units/chaeronea.md) 
 
-- [**Chaeronea (Standard)**](../../../units/chaeronea/chaeronea_standard.md) *Interceptor (2849)* 
+- [**Chaeronea**](../../../units/chaeronea/chaeronea.md) *Interceptor (2849)* 
 - [**Chaeronea 2**](../../../units/chaeronea/chaeronea_2.md) *Interceptor (2883)* 
 
 #### [Sabre](../../../units/sabre.md) 
@@ -63,7 +63,7 @@
 
 #### [Issus](../../../units/issus.md) 
 
-- [**Issus (Standard)**](../../../units/issus/issus_standard.md) *Fast Dogfighter (2842)* 
+- [**Issus**](../../../units/issus/issus.md) *Fast Dogfighter (2842)* 
 
 #### [Sai](../../../units/sai.md) 
 
@@ -101,8 +101,8 @@
 
 #### [Tyre](../../../units/tyre.md) 
 
-- [**Tyre (Standard)**](../../../units/tyre/tyre_standard.md) *Attack Fighter (2907)* 
-- [**Tyre 2**](../../../units/tyre/tyre_2.md) *Attack Fighter (2912)* 
+- [**Tyre**](../../../units/tyre/tyre.md) *Undefined (2907)* 
+- [**Tyre 2**](../../../units/tyre/tyre_2.md) *Undefined (2912)* 
 
 ### 60 Tons 
 
@@ -119,7 +119,7 @@
 
 #### [Ammon](../../../units/ammon.md) 
 
-- [**Ammon (Standard)**](../../../units/ammon/ammon_standard.md) *Dogfighter (3064)* 
+- [**Ammon**](../../../units/ammon/ammon.md) *Dogfighter (3064)* 
 
 ### 70 Tons 
 
@@ -135,24 +135,24 @@
 
 #### [Tatsu](../../../units/tatsu.md) 
 
-- [**Tatsu MIK-O**](../../../units/tatsu/tatsu_mik-o.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OA**](../../../units/tatsu/tatsu_mik-oa.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OB**](../../../units/tatsu/tatsu_mik-ob.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OC**](../../../units/tatsu/tatsu_mik-oc.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OD**](../../../units/tatsu/tatsu_mik-od.md) *Attack Fighter (3072)* 
-- [**Tatsu MIK-OE**](../../../units/tatsu/tatsu_mik-oe.md) *Attack Fighter (3075)* `ECM` 
-- [**Tatsu MIK-OF**](../../../units/tatsu/tatsu_mik-of.md) *Attack Fighter (3100)* 
+- [**Tatsu MIK-O**](../../../units/tatsu/tatsu_mik-o.md) *Undefined (3063)* 
+- [**Tatsu MIK-OA**](../../../units/tatsu/tatsu_mik-oa.md) *Undefined (3063)* 
+- [**Tatsu MIK-OB**](../../../units/tatsu/tatsu_mik-ob.md) *Undefined (3063)* 
+- [**Tatsu MIK-OC**](../../../units/tatsu/tatsu_mik-oc.md) *Undefined (3063)* 
+- [**Tatsu MIK-OD**](../../../units/tatsu/tatsu_mik-od.md) *Undefined (3072)* 
+- [**Tatsu MIK-OE**](../../../units/tatsu/tatsu_mik-oe.md) *Undefined (3075)* `ECM` 
+- [**Tatsu MIK-OF**](../../../units/tatsu/tatsu_mik-of.md) *Undefined (3100)* 
 
 ### 75 Tons 
 
 #### [Huscarl](../../../units/huscarl.md) 
 
-- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Attack Fighter (3068)* 
-- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Attack Fighter (3079)* 
+- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Undefined (3068)* 
+- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Undefined (3079)* 
 
 #### [Sabutai](../../../units/sabutai.md) 
 
@@ -168,20 +168,20 @@
 
 #### [Jengiz](../../../units/jengiz.md) 
 
-- [**Jengiz Prime**](../../../units/jengiz/jengiz_prime.md) *Attack Fighter (3032)* `ECM` 
-- [**Jengiz A**](../../../units/jengiz/jengiz_a.md) *Attack Fighter (3032)* 
-- [**Jengiz B**](../../../units/jengiz/jengiz_b.md) *Attack Fighter (3032)* 
-- [**Jengiz C**](../../../units/jengiz/jengiz_c.md) *Attack Fighter (3032)* 
-- [**Jengiz D**](../../../units/jengiz/jengiz_d.md) *Attack Fighter (3063)* 
-- [**Jengiz E**](../../../units/jengiz/jengiz_e.md) *Attack Fighter (3064)* `ECM` 
-- [**Jengiz X**](../../../units/jengiz/jengiz_x.md) *Attack Fighter (3075)* `Active Probe` , `ECM` 
-- [**Jengiz F**](../../../units/jengiz/jengiz_f.md) *Attack Fighter (3099)* 
+- [**Jengiz Prime**](../../../units/jengiz/jengiz_prime.md) *Undefined (3032)* `ECM` 
+- [**Jengiz A**](../../../units/jengiz/jengiz_a.md) *Undefined (3032)* 
+- [**Jengiz B**](../../../units/jengiz/jengiz_b.md) *Undefined (3032)* 
+- [**Jengiz C**](../../../units/jengiz/jengiz_c.md) *Undefined (3032)* 
+- [**Jengiz D**](../../../units/jengiz/jengiz_d.md) *Undefined (3063)* 
+- [**Jengiz E**](../../../units/jengiz/jengiz_e.md) *Undefined (3064)* `ECM` 
+- [**Jengiz X**](../../../units/jengiz/jengiz_x.md) *Undefined (3075)* `Active Probe` , `ECM` 
+- [**Jengiz F**](../../../units/jengiz/jengiz_f.md) *Undefined (3099)* 
 
 ### 85 Tons 
 
 #### [Xerxes](../../../units/xerxes.md) 
 
-- [**Xerxes (Standard)**](../../../units/xerxes/xerxes_standard.md) *Dogfighter (2827)* 
+- [**Xerxes**](../../../units/xerxes/xerxes.md) *Dogfighter (2827)* 
 
 ### 90 Tons 
 
@@ -199,17 +199,17 @@
 
 #### [Hydaspes](../../../units/hydaspes.md) 
 
-- [**Hydaspes (Standard)**](../../../units/hydaspes/hydaspes_standard.md) *Attack Fighter (2840)* 
-- [**Hydaspes 2**](../../../units/hydaspes/hydaspes_2.md) *Attack Fighter (3064)* 
+- [**Hydaspes**](../../../units/hydaspes/hydaspes.md) *Undefined (2840)* 
+- [**Hydaspes 2**](../../../units/hydaspes/hydaspes_2.md) *Undefined (3064)* 
 
 ### 100 Tons 
 
 #### [Kirghiz](../../../units/kirghiz.md) 
 
-- [**Kirghiz Prime**](../../../units/kirghiz/kirghiz_prime.md) *Attack Fighter (2874)* 
-- [**Kirghiz A**](../../../units/kirghiz/kirghiz_a.md) *Attack Fighter (2874)* 
-- [**Kirghiz B**](../../../units/kirghiz/kirghiz_b.md) *Attack Fighter (2874)* 
-- [**Kirghiz C**](../../../units/kirghiz/kirghiz_c.md) *Attack Fighter (2874)* `Transport:10.0` 
-- [**Kirghiz D**](../../../units/kirghiz/kirghiz_d.md) *Attack Fighter (3067)* 
-- [**Kirghiz E**](../../../units/kirghiz/kirghiz_e.md) *Attack Fighter (3069)* `Active Probe` , `ECM` 
+- [**Kirghiz Prime**](../../../units/kirghiz/kirghiz_prime.md) *Undefined (2874)* 
+- [**Kirghiz A**](../../../units/kirghiz/kirghiz_a.md) *Undefined (2874)* 
+- [**Kirghiz B**](../../../units/kirghiz/kirghiz_b.md) *Undefined (2874)* 
+- [**Kirghiz C**](../../../units/kirghiz/kirghiz_c.md) *Undefined (2874)* `Transport:10.0` 
+- [**Kirghiz D**](../../../units/kirghiz/kirghiz_d.md) *Undefined (3067)* 
+- [**Kirghiz E**](../../../units/kirghiz/kirghiz_e.md) *Undefined (3069)* `Active Probe` , `ECM` 
 

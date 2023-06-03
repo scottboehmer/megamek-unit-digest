@@ -451,7 +451,7 @@
 
 ## Tornado PA(L) G17(Sqd5) 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** PA(L) Battle Armor (400 kg) 
 - **Movement:** 1 

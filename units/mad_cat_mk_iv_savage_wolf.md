@@ -2,7 +2,7 @@
 
 ## Savage Wolf PR "Mad Cat Mk IV" 
 
-- **Role:** Skirmisher 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3130) 
 - **Chassis:** 75 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 

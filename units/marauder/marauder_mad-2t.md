@@ -16,6 +16,12 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (LB 5-X AC) 
+  - Exposed Weapon Linkage (LB 5-X AC) 
 - **Sources:** Rec Guide:ilClan #6 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7528) 
 - **Battle Value:** 1646 
 

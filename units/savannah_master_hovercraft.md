@@ -1,6 +1,6 @@
 # Savannah Master Hovercraft 
 
-## Savannah Master Hovercraft (Standard) 
+## Savannah Master Hovercraft 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3025) 
@@ -12,7 +12,7 @@
   - Medium Laser 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2807) 
 - **Battle Value:** 215 
-- [*More Info*](savannah_master_hovercraft/savannah_master_hovercraft_standard.md) 
+- [*More Info*](savannah_master_hovercraft/savannah_master_hovercraft.md) 
 
 ## Savannah Master Hovercraft (SL) 
 
@@ -44,7 +44,7 @@
 
 ## Savannah Master Hovercraft (Reflective) 
 
-- **Role:** Scout 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3094) 
 - **Chassis:** 5 tons Hover 
 - **Movement:** 13 / 20, Fusion 
@@ -52,7 +52,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Medium Laser 
-- **Source:** Dark Age 
+- **Sources:** Rec Guide:ilClan #31 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9452) 
 - **Battle Value:** 263 
 - [*More Info*](savannah_master_hovercraft/savannah_master_hovercraft_reflective.md) 
 

@@ -1,6 +1,6 @@
 # Warg Assault Battle Armor 
 
-## Warg Assault Battle Armor (Standard)(Sqd4) 
+## Warg Assault Battle Armor (Sqd4) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3086) 
@@ -16,9 +16,9 @@
   - Light Machine Gun 
 - **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3478) 
 - **Battle Value:** 94 (486 for 4 suits) 
-- [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_standardsqd4.md) 
+- [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_sqd4.md) 
 
-## Warg Assault Battle Armor (Standard)(Sqd5) 
+## Warg Assault Battle Armor (Sqd5) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3086) 
@@ -34,9 +34,9 @@
   - Light Machine Gun 
 - **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8599) 
 - **Battle Value:** 94 (655 for 5 suits) 
-- [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_standardsqd5.md) 
+- [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_sqd5.md) 
 
-## Warg Assault Battle Armor (Standard)(Sqd6) 
+## Warg Assault Battle Armor (Sqd6) 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3086) 
@@ -52,7 +52,7 @@
   - Light Machine Gun 
 - **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8963) 
 - **Battle Value:** 94 (842 for 6 suits) 
-- [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_standardsqd6.md) 
+- [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_sqd6.md) 
 
 ## Warg Assault Battle Armor (Reactive)(Sqd4) 
 

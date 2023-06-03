@@ -4,7 +4,7 @@
 
 ## Vulcan VLC-6N 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2767) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8 

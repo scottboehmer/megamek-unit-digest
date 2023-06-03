@@ -20,6 +20,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
+  - Ubiquitous 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3488) 
 - **Battle Value:** 1299 
 

@@ -1,6 +1,6 @@
 # Hellfire 
 
-## Hellfire (Standard) 
+## Hellfire 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3058) 
@@ -21,7 +21,7 @@
   - Difficult to Maintain 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4300) 
 - **Battle Value:** 2114 
-- [*More Info*](hellfire/hellfire_standard.md) 
+- [*More Info*](hellfire/hellfire.md) 
 
 ## Hellfire 2 
 

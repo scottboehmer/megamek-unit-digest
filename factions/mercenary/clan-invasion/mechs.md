@@ -70,7 +70,7 @@
 
 #### [Tarantula](../../../units/tarantula.md) 
 
-- [**Tarantula ZPH-1A**](../../../units/tarantula/tarantula_zph-1a.md) *Scout (3054)* 
+- [**Tarantula ZPH-1**](../../../units/tarantula/tarantula_zph-1.md) *Undefined (3054)* 
 - [**Tarantula ZPH-2A**](../../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 
 ### 30 Tons 
@@ -453,7 +453,7 @@
 
 #### [Dervish](../../../units/dervish.md) 
 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 - [**Dervish DV-7D**](../../../units/dervish/dervish_dv-7d.md) *Missile Boat (3047)* 
 
 #### [Gladiator](../../../units/gladiator.md) 
@@ -627,8 +627,8 @@
 
 - [**Thunderbolt TDR-5S**](../../../units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
 - [**Thunderbolt TDR-5D**](../../../units/thunderbolt/thunderbolt_tdr-5d.md) *Brawler (2821)* 
-- [**Thunderbolt TDR-5SE**](../../../units/thunderbolt/thunderbolt_tdr-5se.md) *Skirmisher (2910)* 
 - [**Thunderbolt TDR-5SS**](../../../units/thunderbolt/thunderbolt_tdr-5ss.md) *Brawler (2930)* 
+- [**Thunderbolt TDR-5SE**](../../../units/thunderbolt/thunderbolt_tdr-5se.md) *Skirmisher (3000)* 
 - [**Thunderbolt TDR-7M**](../../../units/thunderbolt/thunderbolt_tdr-7m.md) *Brawler (3049)* 
 - [**Thunderbolt TDR-9SE**](../../../units/thunderbolt/thunderbolt_tdr-9se.md) *Skirmisher (3049)* 
 - [**Thunderbolt TDR-9S**](../../../units/thunderbolt/thunderbolt_tdr-9s.md) *Brawler (3050)* 

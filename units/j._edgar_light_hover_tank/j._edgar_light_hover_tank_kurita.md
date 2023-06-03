@@ -4,7 +4,7 @@
 
 ## J. Edgar Light Hover Tank (Kurita) 
 
-- **Role:** Striker 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3053) 
 - **Chassis:** 25 tons Hover 
 - **Movement:** 11 / 17, Fusion 

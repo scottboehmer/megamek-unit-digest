@@ -1,26 +1,6 @@
 # Pack Hunter II 
 
-## Pack Hunter II (Isis) 
-
-- **Role:** Striker 
-- **Tech Base:** Clan (3077) 
-- **Chassis:** 30 tons (Endo Steel) 
-- **Movement:** 7 / 11, XL 
-  - **Jumping:** 7 
-- **Armor:** 96 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (20) 
-- **Weapons:** 
-  - Medium Pulse Laser × 2 
-  - SRM 6 w/ Artemis IV (ammo: 30) 
-  - ER Micro Laser × 4 
-- **Equipment:** 
-  - Full Head Ejection System 
-  - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5540) 
-- **Battle Value:** 1276 
-- [*More Info*](pack_hunter_ii/pack_hunter_ii_isis.md) 
-
-## Pack Hunter II (Standard) 
+## Pack Hunter II 
 
 - **Role:** Striker 
 - **Tech Base:** Clan Mixed (3077) 
@@ -39,7 +19,29 @@
   - Stabilized Weapon (ER PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2396) 
 - **Battle Value:** 1794 
-- [*More Info*](pack_hunter_ii/pack_hunter_ii_standard.md) 
+- [*More Info*](pack_hunter_ii/pack_hunter_ii.md) 
+
+## Pack Hunter II (Isis) 
+
+- **Role:** Striker 
+- **Tech Base:** Clan (3077) 
+- **Chassis:** 30 tons (Endo Steel) 
+- **Movement:** 7 / 11, XL 
+  - **Jumping:** 7 
+- **Armor:** 96 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+  - SRM 6 w/ Artemis IV (ammo: 30) 
+  - ER Micro Laser × 4 
+- **Equipment:** 
+  - Full Head Ejection System 
+  - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
+- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5540) 
+- **Battle Value:** 1276 
+- [*More Info*](pack_hunter_ii/pack_hunter_ii_isis.md) 
 
 ## Pack Hunter II 2 
 
@@ -56,6 +58,7 @@
   - A-Pod × 2 
   - Full Head Ejection System 
 - **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (ER PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2397) 
 - **Battle Value:** 1457 
@@ -77,6 +80,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2398) 
 - **Battle Value:** 1438 
 - [*More Info*](pack_hunter_ii/pack_hunter_ii_3.md) 
@@ -96,6 +100,7 @@
   - Full Head Ejection System 
   - AES × 4 
 - **Design Quirks:** 
+  - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (ER PPC) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6935) 
 - **Battle Value:** 1447 

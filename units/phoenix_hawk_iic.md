@@ -1,6 +1,6 @@
 # Phoenix Hawk IIC 
 
-## Phoenix Hawk IIC (Standard) 
+## Phoenix Hawk IIC 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2851) 
@@ -21,7 +21,7 @@
   - Fast Reload (Ultra AC/10) 
 - **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2511) 
 - **Battle Value:** 2057 
-- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_standard.md) 
+- [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic.md) 
 
 ## Phoenix Hawk IIC 2 
 
@@ -38,6 +38,9 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
   - Fast Reload (LRM 20) 
   - Fast Reload (LRM 20) 
   - Fast Reload (LRM 20) 
@@ -61,6 +64,11 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Fast Reload (Machine Gun) 
+  - Fast Reload (Ultra AC/10) 
+  - Fast Reload (All Weapons) 
 - **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196) 
 - **Battle Value:** 2469 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_9.md) 
@@ -82,6 +90,9 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2513) 
 - **Battle Value:** 2448 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_3.md) 
@@ -101,6 +112,9 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
@@ -125,6 +139,9 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
   - Fast Reload (HAG 20) 
   - Fast Reload (HAG 20) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2515) 
@@ -147,6 +164,9 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2516) 
 - **Battle Value:** 2490 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_6.md) 
@@ -168,6 +188,9 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
   - Fast Reload (Streak SRM 4) 
   - Fast Reload (Streak SRM 4) 
   - Fast Reload (LB 10-X AC) 
@@ -192,6 +215,9 @@
   - ECM Suite 
 - **Design Quirks:** 
   - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2518) 
 - **Battle Value:** 2903 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_8.md) 
@@ -209,6 +235,11 @@
   - ER Large Laser × 2 
   - ER Medium Laser × 6 
   - Inner Sphere Hatchet 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197) 
 - **Battle Value:** 2762 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_10.md) 

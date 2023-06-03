@@ -19,7 +19,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775) 
 - **Battle Value:** 2335 
 
 ## Availability 

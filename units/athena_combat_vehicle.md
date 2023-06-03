@@ -1,6 +1,6 @@
 # Athena Combat Vehicle 
 
-## Athena Combat Vehicle (Standard) 
+## Athena Combat Vehicle 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Clan (3008) 
@@ -17,7 +17,7 @@
   - Targeting Computer 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/137) 
 - **Battle Value:** 1641 
-- [*More Info*](athena_combat_vehicle/athena_combat_vehicle_standard.md) 
+- [*More Info*](athena_combat_vehicle/athena_combat_vehicle.md) 
 
 ## Athena Combat Vehicle XR 
 

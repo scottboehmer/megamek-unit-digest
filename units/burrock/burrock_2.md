@@ -5,7 +5,7 @@
 ## Burrock 2 
 
 - **Role:** Brawler 
-- **Tech Base:** Clan (3073) 
+- **Tech Base:** Clan (3071) 
 - **Chassis:** 75 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
 - **Armor:** 200 

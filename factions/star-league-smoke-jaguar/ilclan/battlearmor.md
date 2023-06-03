@@ -34,7 +34,7 @@
 
 #### [Angerona Scout Suit](../../../units/angerona_scout_suit.md) 
 
-- [**Angerona Scout Suit (Standard)(Sqd5)**](../../../units/angerona_scout_suit/angerona_scout_suit_standardsqd5.md) *Ambusher (3083)* `Stealth` 
+- [**Angerona Scout Suit (Sqd5)**](../../../units/angerona_scout_suit/angerona_scout_suit_sqd5.md) *Ambusher (3083)* `Stealth` 
 - [**Angerona Scout Suit (Recon)(Sqd5)**](../../../units/angerona_scout_suit/angerona_scout_suit_reconsqd5.md) *Scout (3085)* `Active Probe` , `Stealth` 
 
 #### [Clan Medium Battle Armor](../../../units/clan_medium_battle_armor.md) 
@@ -83,7 +83,7 @@
 
 #### [Salamander Battle Armor](../../../units/salamander_battle_armor.md) 
 
-- [**Salamander Battle Armor (Standard)(Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_standardsqd5.md) *Ambusher (3058)* 
+- [**Salamander Battle Armor (Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_sqd5.md) *Ambusher (3058)* 
 
 #### [Simian Battle Armor](../../../units/simian_battle_armor.md) 
 
@@ -94,35 +94,35 @@
 
 #### [Surat (Gray Death) Solahma Suit](../../../units/surat_gray_death_solahma_suit.md) 
 
-- [**Surat (Gray Death) Solahma Suit (Standard)(Sqd5)**](../../../units/surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_standardsqd5.md) *Ambusher (3090)* 
+- [**Surat (Gray Death) Solahma Suit (Sqd5)**](../../../units/surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_sqd5.md) *Ambusher (3090)* 
 
 #### [Undine Battle Armor](../../../units/undine_battle_armor.md) 
 
-- [**Undine Battle Armor (Standard)(Sqd5)**](../../../units/undine_battle_armor/undine_battle_armor_standardsqd5.md) *Ambusher (3059)* 
+- [**Undine Battle Armor (Sqd5)**](../../../units/undine_battle_armor/undine_battle_armor_sqd5.md) *Ambusher (3059)* 
 
 ### 1.50 Tons 
 
 #### [Centaur Battle Armor](../../../units/centaur_battle_armor.md) 
 
-- [**Centaur Battle Armor (Standard)(Sqd5)**](../../../units/centaur_battle_armor/centaur_battle_armor_standardsqd5.md) *Missile Boat (3136)* 
+- [**Centaur Battle Armor (Sqd5)**](../../../units/centaur_battle_armor/centaur_battle_armor_sqd5.md) *Missile Boat (3136)* 
 
 #### [Corona Heavy Battle Armor](../../../units/corona_heavy_battle_armor.md) 
 
-- [**Corona Heavy Battle Armor (Standard) (Sqd5)**](../../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard_sqd5.md) *Ambusher (3060)* 
+- [**Corona Heavy Battle Armor (Sqd5)**](../../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_sqd5.md) *Ambusher (3060)* 
 
 #### [Gnome Battle Armor](../../../units/gnome_battle_armor.md) 
 
-- [**Gnome Battle Armor (Standard)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_standardsqd5.md) *Juggernaut (3056)* 
+- [**Gnome Battle Armor (Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_sqd5.md) *Juggernaut (3056)* 
 
 #### [Taranis Battle Armor](../../../units/taranis_battle_armor.md) 
 
-- [**Taranis Battle Armor (Standard)(Sqd5)**](../../../units/taranis_battle_armor/taranis_battle_armor_standardsqd5.md) *Ambusher (3123)* `Stealth` 
+- [**Taranis Battle Armor (Sqd5)**](../../../units/taranis_battle_armor/taranis_battle_armor_sqd5.md) *Ambusher (3123)* `Stealth` 
 
 ### 2 Tons 
 
 #### [Tortoise II](../../../units/tortoise_ii.md) 
 
-- [**Tortoise II (aSRM)(Sqd5)**](../../../units/tortoise_ii/tortoise_ii_asrmsqd5.md) *Undefined (3134)* `Stealth` 
+- [**Tortoise II (aSRM)(Sqd5)**](../../../units/tortoise_ii/tortoise_ii_asrmsqd5.md) *Ambusher (3134)* `Stealth` 
 - [**Tortoise II (C3)(Sqd5)**](../../../units/tortoise_ii/tortoise_ii_c3sqd5.md) *Ambusher (3134)* `C3 Support` , `Stealth` 
 - [**Tortoise II (LRM)(Sqd5)**](../../../units/tortoise_ii/tortoise_ii_lrmsqd5.md) *Ambusher (3134)* `Stealth` 
 - [**Tortoise II (SRM)(Sqd5)**](../../../units/tortoise_ii/tortoise_ii_srmsqd5.md) *Ambusher (3134)* `Stealth` 

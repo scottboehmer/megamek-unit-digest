@@ -1,6 +1,6 @@
 # Gyrfalcon 
 
-## Gyrfalcon (Standard) 
+## Gyrfalcon 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3112) 
@@ -22,7 +22,7 @@
   - Reinforced Legs 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6266) 
 - **Battle Value:** 2367 
-- [*More Info*](gyrfalcon/gyrfalcon_standard.md) 
+- [*More Info*](gyrfalcon/gyrfalcon.md) 
 
 ## Gyrfalcon 2 
 

@@ -43,7 +43,7 @@
 
 #### [Rogue](../../../units/rogue.md) 
 
-- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Undefined (2631)* 
 - [**Rogue RGU-133L**](../../../units/rogue/rogue_rgu-133l.md) *Fast Dogfighter (2681)* 
 
 ### 45 Tons 
@@ -89,7 +89,7 @@
 
 #### [Lucifer](../../../units/lucifer.md) 
 
-- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Undefined (2526)* 
 
 ### 75 Tons 
 
@@ -118,15 +118,15 @@
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
 
 ### 100 Tons 
 
 #### [Stuka](../../../units/stuka.md) 
 
-- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Undefined (2571)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
 

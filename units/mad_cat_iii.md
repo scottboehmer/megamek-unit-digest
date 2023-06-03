@@ -17,10 +17,34 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
+  - Improved Communications 
   - Prototype 
+  - Bad Reputation (Clan) 
 - **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4563) 
 - **Battle Value:** 2232 
 - [*More Info*](mad_cat_iii/mad_cat_iii_x.md) 
+
+## Mad Cat III 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Clan (3086) 
+- **Chassis:** 55 tons (Endo Composite) 
+- **Movement:** 6 / 9, XL 
+- **Armor:** 163 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - LRM 20 w/ Artemis V × 2 (ammo: 24) 
+  - ER Medium Laser × 4 
+  - ER Micro Laser × 6 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
+- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4561) 
+- **Battle Value:** 2400 
+- [*More Info*](mad_cat_iii/mad_cat_iii.md) 
 
 ## Mad Cat III (Eve) 
 
@@ -45,28 +69,6 @@
 - **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5543) 
 - **Battle Value:** 2393 
 - [*More Info*](mad_cat_iii/mad_cat_iii_eve.md) 
-
-## Mad Cat III (Standard) 
-
-- **Role:** Missile Boat 
-- **Tech Base:** Clan (3086) 
-- **Chassis:** 55 tons (Endo Composite) 
-- **Movement:** 6 / 9, XL 
-- **Armor:** 163 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (20) 
-- **Weapons:** 
-  - LRM 20 w/ Artemis V × 2 (ammo: 24) 
-  - ER Medium Laser × 4 
-  - ER Micro Laser × 6 
-- **Equipment:** 
-  - CASE 
-- **Design Quirks:** 
-  - Difficult to Maintain 
-  - Improved Communications 
-  - Bad Reputation (Clan) 
-- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4561) 
-- **Battle Value:** 2400 
-- [*More Info*](mad_cat_iii/mad_cat_iii_standard.md) 
 
 ## Mad Cat III 2 
 
@@ -104,6 +106,10 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6896) 
 - **Battle Value:** 2095 
 - [*More Info*](mad_cat_iii/mad_cat_iii_2_mwda.md) 
@@ -192,6 +198,10 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6896) 
 - **Battle Value:** 2061 
 - [*More Info*](mad_cat_iii/mad_cat_iii_dark_age_rs.md) 

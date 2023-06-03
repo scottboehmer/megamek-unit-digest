@@ -1,6 +1,6 @@
 # Testudo Siege Tank 
 
-## Testudo Siege Tank (Standard) 
+## Testudo Siege Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3131) 
@@ -16,5 +16,5 @@
   - CASE 
 - **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6544) 
 - **Battle Value:** 1336 
-- [*More Info*](testudo_siege_tank/testudo_siege_tank_standard.md) 
+- [*More Info*](testudo_siege_tank/testudo_siege_tank.md) 
 

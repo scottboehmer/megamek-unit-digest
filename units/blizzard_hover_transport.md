@@ -1,6 +1,6 @@
 # Blizzard Hover Transport 
 
-## Blizzard Hover Transport (Standard) 
+## Blizzard Hover Transport 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3054) 
@@ -14,7 +14,7 @@
   - Infantry (6 tons) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/398) 
 - **Battle Value:** 277 
-- [*More Info*](blizzard_hover_transport/blizzard_hover_transport_standard.md) 
+- [*More Info*](blizzard_hover_transport/blizzard_hover_transport.md) 
 
 ## Blizzard Hover Transport (SRM) 
 

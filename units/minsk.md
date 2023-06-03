@@ -21,7 +21,7 @@
 - **Battle Value:** 2024 
 - [*More Info*](minsk/minsk_mnk-101.md) 
 
-## Minsk (Standard) 
+## Minsk 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan Mixed (2862) 
@@ -41,7 +41,7 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7640) 
 - **Battle Value:** 2028 
-- [*More Info*](minsk/minsk_standard.md) 
+- [*More Info*](minsk/minsk.md) 
 
 ## Minsk 2 
 

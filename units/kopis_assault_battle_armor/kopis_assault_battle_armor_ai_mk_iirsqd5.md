@@ -13,8 +13,8 @@
   - Heavy Battle Claw (right) 
   - Heavy Battle Claw (left) 
 - **Weapons:** 
-  - Medium Recoilless Rifle × 2 
-  - Heavy Grenade Launcher × 2 
+  - Clan Medium Recoilless Rifle × 2 
+  - Clan Heavy Grenade Launcher × 2 
 - **Equipment:** 
   - Improved Sensors 
 - **Sources:** RS3145 NTNU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8799) 

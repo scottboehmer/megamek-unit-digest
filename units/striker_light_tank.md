@@ -1,6 +1,6 @@
 # Striker Light Tank 
 
-## Striker Light Tank (Standard) 
+## Striker Light Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3006) 
@@ -13,7 +13,7 @@
   - SRM 6 (ammo: 30) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3105) 
 - **Battle Value:** 564 
-- [*More Info*](striker_light_tank/striker_light_tank_standard.md) 
+- [*More Info*](striker_light_tank/striker_light_tank.md) 
 
 ## Striker Light Tank (SRM) 
 

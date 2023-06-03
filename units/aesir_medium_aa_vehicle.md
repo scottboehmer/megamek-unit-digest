@@ -1,6 +1,6 @@
 # Aesir Medium AA Vehicle 
 
-## Aesir Medium AA Vehicle (Standard) 
+## Aesir Medium AA Vehicle 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3097) 
@@ -15,7 +15,7 @@
   - Armored Motive System 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6249) 
 - **Battle Value:** 708 
-- [*More Info*](aesir_medium_aa_vehicle/aesir_medium_aa_vehicle_standard.md) 
+- [*More Info*](aesir_medium_aa_vehicle/aesir_medium_aa_vehicle.md) 
 
 ## Aesir Medium AA Vehicle (HAG) 
 

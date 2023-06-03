@@ -1,6 +1,6 @@
 # Maxim Heavy Hover Transport 
 
-## Maxim Heavy Hover Transport (Standard) 
+## Maxim Heavy Hover Transport 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (2689) 
@@ -17,7 +17,7 @@
   - Infantry (3.0 tons) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2127) 
 - **Battle Value:** 764 
-- [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport_standard.md) 
+- [*More Info*](maxim_heavy_hover_transport/maxim_heavy_hover_transport.md) 
 
 ## Maxim Heavy Hover Transport (SRM4) 
 

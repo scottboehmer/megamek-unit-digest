@@ -19,6 +19,7 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #7 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7567) 
 - **Battle Value:** 1744 
 

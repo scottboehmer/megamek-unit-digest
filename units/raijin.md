@@ -16,6 +16,15 @@
   - SRM 6 (OS) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (ER PPC) 
+  - Directional Torso Mount (Streak SRM 2) 
+  - Directional Torso Mount (SRM 6 (OS)) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8415) 
 - **Battle Value:** 1302 
 - [*More Info*](raijin/raijin_rjn-101-x.md) 
@@ -34,6 +43,15 @@
   - SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 3 
   - Streak SRM 2 (ammo: 50) 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (ER PPC) 
+  - Directional Torso Mount (Streak SRM 2) 
+  - Directional Torso Mount (SRM 6) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
 - **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2626) 
 - **Battle Value:** 1350 
 - [*More Info*](raijin/raijin_rjn-101-a.md) 
@@ -54,6 +72,15 @@
   - Flamer × 2 
 - **Equipment:** 
   - Beagle Active Probe 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (ER PPC) 
+  - Directional Torso Mount (Medium Laser) 
+  - Directional Torso Mount (Flamer) 
+  - Directional Torso Mount (Medium Laser) 
+  - Directional Torso Mount (Flamer) 
+  - Directional Torso Mount (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8429) 
 - **Battle Value:** 1383 
 - [*More Info*](raijin/raijin_rjn-101-b.md) 
@@ -73,6 +100,14 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (Large Pulse Laser) 
+  - Directional Torso Mount (Streak SRM 6) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
 - **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2627) 
 - **Battle Value:** 1389 
 - [*More Info*](raijin/raijin_rjn-101-c.md) 
@@ -93,6 +128,15 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (iNarc) 
+  - Directional Torso Mount (SRM 2) 
+  - Directional Torso Mount (SRM 6) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
 - **Sources:** Rec Guide:ilClan #23 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8416) 
 - **Battle Value:** 1365 
 - [*More Info*](raijin/raijin_rjn-301-b.md) 

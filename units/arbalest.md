@@ -1,6 +1,6 @@
 # Arbalest 
 
-## Arbalest (Standard) 
+## Arbalest 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (3077) 
@@ -18,7 +18,7 @@
   - Easy to Maintain 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/62) 
 - **Battle Value:** 1029 
-- [*More Info*](arbalest/arbalest_standard.md) 
+- [*More Info*](arbalest/arbalest.md) 
 
 ## Arbalest 2 
 

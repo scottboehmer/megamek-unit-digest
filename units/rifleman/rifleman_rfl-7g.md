@@ -13,6 +13,11 @@
 - **Weapons:** 
   - Silver Bullet × 2 (ammo: 32) 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7572) 
 - **Battle Value:** 1302 
 

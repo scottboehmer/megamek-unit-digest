@@ -1,6 +1,6 @@
 # Monitor Naval Vessel 
 
-## Monitor Naval Vessel (Standard) 
+## Monitor Naval Vessel 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (2910) 
@@ -15,5 +15,5 @@
   - Infantry (1.5 tons) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2219) 
 - **Battle Value:** 789 
-- [*More Info*](monitor_naval_vessel/monitor_naval_vessel_standard.md) 
+- [*More Info*](monitor_naval_vessel/monitor_naval_vessel.md) 
 

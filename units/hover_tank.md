@@ -1,6 +1,6 @@
 # Hover Tank 
 
-## Hover Tank (Standard) 
+## Hover Tank 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2910) 
@@ -14,5 +14,5 @@
 - **Equipment:** 
   - Infantry (4.5 tons) 
 - **Battle Value:** 844 
-- [*More Info*](hover_tank/hover_tank_standard.md) 
+- [*More Info*](hover_tank/hover_tank.md) 
 

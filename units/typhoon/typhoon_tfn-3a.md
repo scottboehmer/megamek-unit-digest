@@ -4,7 +4,7 @@
 
 ## Typhoon TFN-3A 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2469) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 

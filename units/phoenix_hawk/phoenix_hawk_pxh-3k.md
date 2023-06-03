@@ -15,9 +15,10 @@
   - ER Large Laser × 2 
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2498) 
 - **Battle Value:** 1359 
 

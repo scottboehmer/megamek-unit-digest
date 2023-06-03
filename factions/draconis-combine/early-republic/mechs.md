@@ -65,7 +65,7 @@
 
 #### [Arbalest](../../../units/arbalest.md) 
 
-- [**Arbalest (Standard)**](../../../units/arbalest/arbalest_standard.md) *Missile Boat (3077)* `ECM` 
+- [**Arbalest**](../../../units/arbalest/arbalest.md) *Missile Boat (3077)* `ECM` 
 
 #### [CattleMaster](../../../units/cattlemaster.md) 
 
@@ -88,8 +88,8 @@
 #### [Koshi (Standard)](../../../units/koshi_standard.md) 
 
 - [**Koshi (Standard)**](../../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
-- [**Koshi (Standard) 2**](../../../units/koshi_standard/koshi_standard_2.md) *Undefined (3095)* `TAG` 
-- [**Koshi (Standard) 3**](../../../units/koshi_standard/koshi_standard_3.md) *Undefined (3095)* `Active Probe` , `ECM` , `TAG` 
+- [**Koshi (Standard) 2**](../../../units/koshi_standard/koshi_standard_2.md) *Striker (3095)* `TAG` 
+- [**Koshi (Standard) 3**](../../../units/koshi_standard/koshi_standard_3.md) *Scout (3095)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
@@ -139,7 +139,7 @@
 
 #### [Tarantula](../../../units/tarantula.md) 
 
-- [**Tarantula ZPH-1A**](../../../units/tarantula/tarantula_zph-1a.md) *Scout (3054)* 
+- [**Tarantula ZPH-1**](../../../units/tarantula/tarantula_zph-1.md) *Undefined (3054)* 
 - [**Tarantula ZPH-2A**](../../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 - [**Tarantula ZPH-3A**](../../../units/tarantula/tarantula_zph-3a.md) *Striker (3063)* 
 - [**Tarantula ZPH-4A**](../../../units/tarantula/tarantula_zph-4a.md) *Striker (3066)* `C3 Support` 
@@ -207,7 +207,7 @@
 
 #### [Pack Hunter II](../../../units/pack_hunter_ii.md) 
 
-- [**Pack Hunter II (Standard)**](../../../units/pack_hunter_ii/pack_hunter_ii_standard.md) *Striker (3077)* 
+- [**Pack Hunter II**](../../../units/pack_hunter_ii/pack_hunter_ii.md) *Striker (3077)* 
 
 #### [Spider](../../../units/spider.md) 
 
@@ -268,13 +268,13 @@
 
 #### [Morrigan](../../../units/morrigan.md) 
 
-- [**Morrigan (Standard)**](../../../units/morrigan/morrigan_standard.md) *Striker (3083)* `Active Probe` 
+- [**Morrigan**](../../../units/morrigan/morrigan.md) *Striker (3083)* `Active Probe` 
 - [**Morrigan 2**](../../../units/morrigan/morrigan_2.md) *Striker (3084)* 
 - [**Morrigan 3**](../../../units/morrigan/morrigan_3.md) *Striker (3085)* 
 
 #### [Ocelot](../../../units/ocelot.md) 
 
-- [**Ocelot (Standard)**](../../../units/ocelot/ocelot_standard.md) *Striker (3067)* `Active Probe` 
+- [**Ocelot**](../../../units/ocelot/ocelot.md) *Striker (3067)* `Active Probe` 
 - [**Ocelot 4**](../../../units/ocelot/ocelot_4.md) *Striker (3096)* 
 
 #### [Ostscout](../../../units/ostscout.md) 
@@ -357,12 +357,12 @@
 
 #### [Dasher II](../../../units/dasher_ii.md) 
 
-- [**Dasher II (Standard)**](../../../units/dasher_ii/dasher_ii_standard.md) *Scout (3077)* 
+- [**Dasher II**](../../../units/dasher_ii/dasher_ii.md) *Scout (3077)* 
 - [**Dasher II 2**](../../../units/dasher_ii/dasher_ii_2.md) *Striker (3084)* 
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
-- [**Griffin IIC (Standard)**](../../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
+- [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 - [**Griffin IIC 2**](../../../units/griffin_iic/griffin_iic_2.md) *Striker (2973)* 
 - [**Griffin IIC 4**](../../../units/griffin_iic/griffin_iic_4.md) *Striker (3060)* 
 - [**Griffin IIC 6**](../../../units/griffin_iic/griffin_iic_6.md) *Striker (3073)* 
@@ -450,7 +450,7 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 - [**Shadow Hawk IIC 3**](../../../units/shadow_hawk_iic/shadow_hawk_iic_3.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 4**](../../../units/shadow_hawk_iic/shadow_hawk_iic_4.md) *Striker (3060)* 
 - [**Shadow Hawk IIC 5**](../../../units/shadow_hawk_iic/shadow_hawk_iic_5.md) *Scout (3069)* 
@@ -472,8 +472,8 @@
 #### [Black Hawk (Standard)](../../../units/black_hawk_standard.md) 
 
 - [**Black Hawk (Standard)**](../../../units/black_hawk_standard/black_hawk_standard.md) *Skirmisher (3073)* 
-- [**Black Hawk (Standard) 2**](../../../units/black_hawk_standard/black_hawk_standard_2.md) *Undefined (3092)* 
-- [**Black Hawk (Standard) 3**](../../../units/black_hawk_standard/black_hawk_standard_3.md) *Undefined (3092)* 
+- [**Black Hawk (Standard) 2**](../../../units/black_hawk_standard/black_hawk_standard_2.md) *Skirmisher (3092)* 
+- [**Black Hawk (Standard) 3**](../../../units/black_hawk_standard/black_hawk_standard_3.md) *Skirmisher (3092)* 
 
 #### [Blackjack OmniMech](../../../units/blackjack_omnimech.md) 
 
@@ -501,7 +501,7 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
-- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Striker (3086)* 
 
 #### [Crab](../../../units/crab.md) 
 
@@ -582,7 +582,7 @@
 
 #### [Mad Cat III](../../../units/mad_cat_iii.md) 
 
-- [**Mad Cat III (Standard)**](../../../units/mad_cat_iii/mad_cat_iii_standard.md) *Missile Boat (3086)* 
+- [**Mad Cat III**](../../../units/mad_cat_iii/mad_cat_iii.md) *Missile Boat (3086)* 
 - [**Mad Cat III 2**](../../../units/mad_cat_iii/mad_cat_iii_2.md) *Undefined (3089)* 
 - [**Mad Cat III 2 (MWDA)**](../../../units/mad_cat_iii/mad_cat_iii_2_mwda.md) *Undefined (3089)* 
 - [**Mad Cat III 3**](../../../units/mad_cat_iii/mad_cat_iii_3.md) *Sniper (3094)* 
@@ -771,7 +771,7 @@
 
 #### [Ha Otoko](../../../units/ha_otoko.md) 
 
-- [**Ha Otoko (Standard)**](../../../units/ha_otoko/ha_otoko_standard.md) *Missile Boat (3060)* 
+- [**Ha Otoko**](../../../units/ha_otoko/ha_otoko.md) *Missile Boat (3060)* 
 - [**Ha Otoko HKO-1C**](../../../units/ha_otoko/ha_otoko_hko-1c.md) *Missile Boat (3061)* 
 - [**Ha Otoko 3**](../../../units/ha_otoko/ha_otoko_3.md) *Missile Boat (3082)* `ECM` 
 
@@ -926,7 +926,7 @@
 
 #### [Ryoken II](../../../units/ryoken_ii.md) 
 
-- [**Ryoken II (Standard)**](../../../units/ryoken_ii/ryoken_ii_standard.md) *Sniper (3075)* 
+- [**Ryoken II**](../../../units/ryoken_ii/ryoken_ii.md) *Sniper (3075)* 
 
 #### [Shugenja](../../../units/shugenja.md) 
 
@@ -970,7 +970,7 @@
 
 #### [Phoenix Hawk IIC](../../../units/phoenix_hawk_iic.md) 
 
-- [**Phoenix Hawk IIC (Standard)**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_standard.md) *Sniper (2851)* 
+- [**Phoenix Hawk IIC**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic.md) *Sniper (2851)* 
 - [**Phoenix Hawk IIC 2**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_2.md) *Missile Boat (2852)* 
 - [**Phoenix Hawk IIC 3**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_3.md) *Skirmisher (3062)* 
 - [**Phoenix Hawk IIC 4**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_4.md) *Skirmisher (3065)* 
@@ -992,7 +992,7 @@
 
 #### [Warhammer IIC](../../../units/warhammer_iic.md) 
 
-- [**Warhammer IIC (Standard)**](../../../units/warhammer_iic/warhammer_iic_standard.md) *Brawler (2829)* 
+- [**Warhammer IIC**](../../../units/warhammer_iic/warhammer_iic.md) *Brawler (2829)* 
 - [**Warhammer IIC 2**](../../../units/warhammer_iic/warhammer_iic_2.md) *Missile Boat (2920)* 
 - [**Warhammer IIC 3**](../../../units/warhammer_iic/warhammer_iic_3.md) *Brawler (3060)* 
 - [**Warhammer IIC 4**](../../../units/warhammer_iic/warhammer_iic_4.md) *Brawler (3062)* 
@@ -1082,7 +1082,7 @@
 
 #### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 
 
-- [**Mad Cat Mk II (Standard)**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_standard.md) *Brawler (3062)* 
+- [**Mad Cat Mk II**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii.md) *Brawler (3062)* 
 - [**Mad Cat Mk II 2**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_2.md) *Brawler (3069)* 
 - [**Mad Cat Mk II 4**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_4.md) *Sniper (3090)* `Active Probe` 
 
@@ -1126,7 +1126,7 @@
 
 #### [Hellstar](../../../units/hellstar.md) 
 
-- [**Hellstar (Standard)**](../../../units/hellstar/hellstar_standard.md) *Sniper (3079)* 
+- [**Hellstar**](../../../units/hellstar/hellstar.md) *Sniper (3079)* 
 
 #### [Naginata](../../../units/naginata.md) 
 

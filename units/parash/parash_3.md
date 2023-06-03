@@ -5,7 +5,7 @@
 ## Parash 3 
 
 - **Role:** Striker 
-- **Tech Base:** Inner Sphere Mixed (3083) 
+- **Tech Base:** Clan Mixed (3083) 
 - **Chassis:** 35 tons 
 - **Movement:** 7 / 11, XL 
   - **Jumping:** 7 
@@ -14,14 +14,15 @@
 - **Cockpit:** Interface 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - Clan Large Pulse Laser 
+  - Large Pulse Laser 
 - **Equipment:** 
-  - Angel ECM Suite 
-  - Bloodhound Active Probe 
-  - Clan TAG 
+  - Inner Sphere Angel ECM Suite 
+  - Inner Sphere Bloodhound Active Probe 
+  - TAG 
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Non-Standard Parts 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
   - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** XTR Republic III - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7375) 
 - **Battle Value:** 1785 

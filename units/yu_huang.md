@@ -134,3 +134,25 @@
 - **Battle Value:** 2131 
 - [*More Info*](yu_huang/yu_huang_y-h11g.md) 
 
+## Yu Huang Y-H12GC 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere Mixed (3146) 
+- **Chassis:** 90 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 4 
+- **Armor:** 272 
+- **Heat Sinks:** 14 (28) 
+- **Weapons:** 
+  - Clan ER PPC 
+  - Gauss Rifle (ammo: 16) 
+  - Medium VSP Laser 
+- **Equipment:** 
+  - C3 Boosted Main 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Good Reputation 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8010) 
+- **Battle Value:** 2298 
+- [*More Info*](yu_huang/yu_huang_y-h12gc.md) 
+

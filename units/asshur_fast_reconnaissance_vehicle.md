@@ -1,6 +1,6 @@
 # Asshur Fast Reconnaissance Vehicle 
 
-## Asshur Fast Reconnaissance Vehicle (Standard) 
+## Asshur Fast Reconnaissance Vehicle 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (2842) 
@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** RS 3060U , [Master Unit List](http://masterunitlist.info/Unit/Details/135) 
 - **Battle Value:** 952 
-- [*More Info*](asshur_fast_reconnaissance_vehicle/asshur_fast_reconnaissance_vehicle_standard.md) 
+- [*More Info*](asshur_fast_reconnaissance_vehicle/asshur_fast_reconnaissance_vehicle.md) 
 
 ## Asshur Fast Reconnaissance Vehicle (Proto AC) 
 

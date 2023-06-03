@@ -1,6 +1,6 @@
 # Oro Heavy Tank 
 
-## Oro Heavy Tank (Standard) 
+## Oro Heavy Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (2844) 
@@ -16,7 +16,7 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2342) 
 - **Battle Value:** 1116 
-- [*More Info*](oro_heavy_tank/oro_heavy_tank_standard.md) 
+- [*More Info*](oro_heavy_tank/oro_heavy_tank.md) 
 
 ## Oro Heavy Tank (HAG) 
 

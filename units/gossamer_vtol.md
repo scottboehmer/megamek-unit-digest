@@ -1,6 +1,6 @@
 # Gossamer VTOL 
 
-## Gossamer VTOL (Standard) 
+## Gossamer VTOL 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3123) 
@@ -12,7 +12,7 @@
   - Medium Pulse Laser × 3 
 - **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6537) 
 - **Battle Value:** 1091 
-- [*More Info*](gossamer_vtol/gossamer_vtol_standard.md) 
+- [*More Info*](gossamer_vtol/gossamer_vtol.md) 
 
 ## Gossamer VTOL (XL) 
 

@@ -18,6 +18,7 @@
   - AES × 4 
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
+  - Stabilized Weapon (ER PPC) 
 - **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6935) 
 - **Battle Value:** 1447 
 

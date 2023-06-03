@@ -18,7 +18,7 @@
   - C3 Support 
   - CASE 
 - **Design Quirks:** 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3559) 
 - **Battle Value:** 1001 
 

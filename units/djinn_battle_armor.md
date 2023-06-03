@@ -1,6 +1,6 @@
 # Djinn Battle Armor 
 
-## Djinn Battle Armor (Standard) (Sqd4) 
+## Djinn Battle Armor (Sqd4) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3070) 
@@ -18,9 +18,9 @@
   - Partial Wing 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4083) 
 - **Battle Value:** 26 (137 for 4 suits) 
-- [*More Info*](djinn_battle_armor/djinn_battle_armor_standard_sqd4.md) 
+- [*More Info*](djinn_battle_armor/djinn_battle_armor_sqd4.md) 
 
-## Djinn Battle Armor (Standard) (Sqd5) 
+## Djinn Battle Armor (Sqd5) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3070) 
@@ -38,9 +38,9 @@
   - Partial Wing 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8614) 
 - **Battle Value:** 26 (184 for 5 suits) 
-- [*More Info*](djinn_battle_armor/djinn_battle_armor_standard_sqd5.md) 
+- [*More Info*](djinn_battle_armor/djinn_battle_armor_sqd5.md) 
 
-## Djinn Battle Armor (Standard) (Sqd6) 
+## Djinn Battle Armor (Sqd6) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3070) 
@@ -58,7 +58,7 @@
   - Partial Wing 
 - **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8978) 
 - **Battle Value:** 26 (237 for 6 suits) 
-- [*More Info*](djinn_battle_armor/djinn_battle_armor_standard_sqd6.md) 
+- [*More Info*](djinn_battle_armor/djinn_battle_armor_sqd6.md) 
 
 ## Djinn Battle Armor (Stealth) (Sqd4) 
 

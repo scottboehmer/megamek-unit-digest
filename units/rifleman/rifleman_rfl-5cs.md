@@ -13,6 +13,11 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Ultra AC/5 × 2 (ammo: 40) 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7597) 
 - **Battle Value:** 1303 
 

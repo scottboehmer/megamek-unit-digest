@@ -1,6 +1,6 @@
 # Hetzer Wheeled Assault Gun 
 
-## Hetzer Wheeled Assault Gun (Standard) 
+## Hetzer Wheeled Assault Gun 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (2887) 
@@ -12,7 +12,7 @@
   - AC/20 (ammo: 20) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1513) 
 - **Battle Value:** 574 
-- [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_standard.md) 
+- [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun.md) 
 
 ## Hetzer Wheeled Assault Gun (Laser) 
 

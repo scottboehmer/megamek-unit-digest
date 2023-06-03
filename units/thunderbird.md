@@ -2,7 +2,7 @@
 
 ## Thunderbird TRB-D36 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2480) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 
@@ -19,7 +19,7 @@
 
 ## Thunderbird TRB-D36b 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2715) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 
@@ -36,7 +36,7 @@
 
 ## Thunderbird TRB-D46 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2724) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 
@@ -53,7 +53,7 @@
 
 ## Thunderbird TRB-D50 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3065) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 
@@ -71,7 +71,7 @@
 
 ## Thunderbird TRB-XTS 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 
@@ -88,7 +88,7 @@
 
 ## Thunderbird TRB-D56 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 

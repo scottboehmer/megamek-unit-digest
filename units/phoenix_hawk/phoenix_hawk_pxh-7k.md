@@ -18,9 +18,10 @@
   - Full Head Ejection System 
   - C3 Support 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508) 
 - **Battle Value:** 1241 
 

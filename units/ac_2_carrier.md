@@ -1,6 +1,6 @@
 # AC/2 Carrier 
 
-## AC/2 Carrier (Standard) 
+## AC/2 Carrier 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (2520) 
@@ -12,7 +12,7 @@
   - AC/2 × 5 (ammo: 180) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5) 
 - **Battle Value:** 403 
-- [*More Info*](ac_2_carrier/ac_2_carrier_standard.md) 
+- [*More Info*](ac_2_carrier/ac_2_carrier.md) 
 
 ## AC/2 Carrier (LB-X) 
 

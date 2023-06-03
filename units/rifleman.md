@@ -14,7 +14,9 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Improved Communications 
   - Searchlight 
+  - Ubiquitous 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7183) 
 - **Battle Value:** 931 
 - [*More Info*](rifleman/rifleman_rfl-1n.md) 
@@ -32,7 +34,9 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
+  - Improved Communications 
   - Searchlight 
+  - Ubiquitous 
 - **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7184) 
 - **Battle Value:** 1093 
 - [*More Info*](rifleman/rifleman_rfl-2n.md) 
@@ -173,6 +177,11 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Ultra AC/5 × 2 (ammo: 40) 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7597) 
 - **Battle Value:** 1303 
 - [*More Info*](rifleman/rifleman_rfl-5cs.md) 
@@ -278,6 +287,11 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2701) 
 - **Battle Value:** 1274 
 - [*More Info*](rifleman/rifleman_rfl-6d.md) 
@@ -409,6 +423,11 @@
 - **Weapons:** 
   - Silver Bullet × 2 (ammo: 32) 
   - ER Medium Laser × 2 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7572) 
 - **Battle Value:** 1302 
 - [*More Info*](rifleman/rifleman_rfl-7g.md) 
@@ -427,6 +446,11 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7576) 
 - **Battle Value:** 1871 
 - [*More Info*](rifleman/rifleman_c_3.md) 
@@ -445,6 +469,11 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7574) 
 - **Battle Value:** 1398 
 - [*More Info*](rifleman/rifleman_rfl-7n.md) 
@@ -463,6 +492,11 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Anti-Aircraft Targeting 
+  - Improved Communications 
+  - Searchlight 
+  - Ubiquitous 
 - **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7575) 
 - **Battle Value:** 1452 
 - [*More Info*](rifleman/rifleman_rfl-7n2.md) 

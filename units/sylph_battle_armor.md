@@ -14,11 +14,11 @@
 - **Weapons:** 
   - SRM 5 (OS) 
   - ER Micro Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8384) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8384) 
 - **Battle Value:** 52 (272 for 4 suits) 
 - [*More Info*](sylph_battle_armor/sylph_battle_armor_tinkerbellesqd4.md) 
 
-## Sylph Battle Armor (Standard)(Sqd4) 
+## Sylph Battle Armor (Sqd4) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3060) 
@@ -33,9 +33,9 @@
   - Bomb Rack (OS) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3146) 
 - **Battle Value:** 54 (280 for 4 suits) 
-- [*More Info*](sylph_battle_armor/sylph_battle_armor_standardsqd4.md) 
+- [*More Info*](sylph_battle_armor/sylph_battle_armor_sqd4.md) 
 
-## Sylph Battle Armor (Standard)(Sqd5) 
+## Sylph Battle Armor (Sqd5) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3060) 
@@ -50,9 +50,9 @@
   - Bomb Rack (OS) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8587) 
 - **Battle Value:** 54 (377 for 5 suits) 
-- [*More Info*](sylph_battle_armor/sylph_battle_armor_standardsqd5.md) 
+- [*More Info*](sylph_battle_armor/sylph_battle_armor_sqd5.md) 
 
-## Sylph Battle Armor (Standard)(Sqd6) 
+## Sylph Battle Armor (Sqd6) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3060) 
@@ -67,7 +67,7 @@
   - Bomb Rack (OS) 
 - **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8951) 
 - **Battle Value:** 54 (485 for 6 suits) 
-- [*More Info*](sylph_battle_armor/sylph_battle_armor_standardsqd6.md) 
+- [*More Info*](sylph_battle_armor/sylph_battle_armor_sqd6.md) 
 
 ## Sylph Battle Armor (Upgrade)(Sqd4) 
 

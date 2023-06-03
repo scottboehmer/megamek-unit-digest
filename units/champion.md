@@ -51,6 +51,7 @@
   - PPC 
 - **Design Quirks:** 
   - No/Minimal Arms 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6765) 
 - **Battle Value:** 1559 
 - [*More Info*](champion/champion_chp-1nb2.md) 
 

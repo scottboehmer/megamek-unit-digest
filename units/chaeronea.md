@@ -1,6 +1,6 @@
 # Chaeronea 
 
-## Chaeronea (Standard) 
+## Chaeronea 
 
 - **Role:** Interceptor 
 - **Tech Base:** Clan (2849) 
@@ -13,7 +13,7 @@
   - ER PPC 
 - **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3935) 
 - **Battle Value:** Unknown 
-- [*More Info*](chaeronea/chaeronea_standard.md) 
+- [*More Info*](chaeronea/chaeronea.md) 
 
 ## Chaeronea 2 
 

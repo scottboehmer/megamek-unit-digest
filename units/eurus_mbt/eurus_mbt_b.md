@@ -4,7 +4,7 @@
 
 ## Eurus MBT B 
 
-- **Role:** Sniper 
+- **Role:** Brawler 
 - **Tech Base:** Clan (3146) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 5 / 8, XL 

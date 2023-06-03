@@ -1,6 +1,6 @@
 # Hellstar 
 
-## Hellstar (Standard) 
+## Hellstar 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3079) 
@@ -15,7 +15,7 @@
   - Barrel Fists 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1481) 
 - **Battle Value:** 3084 
-- [*More Info*](hellstar/hellstar_standard.md) 
+- [*More Info*](hellstar/hellstar.md) 
 
 ## Hellstar 2 
 

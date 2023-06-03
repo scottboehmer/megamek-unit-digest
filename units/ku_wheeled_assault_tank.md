@@ -1,6 +1,6 @@
 # Ku Wheeled Assault Tank 
 
-## Ku Wheeled Assault Tank (Standard) 
+## Ku Wheeled Assault Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (2842) 
@@ -17,7 +17,7 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1846) 
 - **Battle Value:** 1091 
-- [*More Info*](ku_wheeled_assault_tank/ku_wheeled_assault_tank_standard.md) 
+- [*More Info*](ku_wheeled_assault_tank/ku_wheeled_assault_tank.md) 
 
 ## Ku Wheeled Assault Tank (IFV) 'Turhan II' 
 

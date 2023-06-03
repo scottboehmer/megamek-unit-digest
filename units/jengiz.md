@@ -2,7 +2,7 @@
 
 ## Jengiz Prime 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3032) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 
@@ -25,7 +25,7 @@
 
 ## Jengiz A 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3032) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 
@@ -42,7 +42,7 @@
 
 ## Jengiz B 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3032) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 
@@ -63,7 +63,7 @@
 
 ## Jengiz C 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3032) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 
@@ -83,7 +83,7 @@
 
 ## Jengiz D 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3063) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 
@@ -105,7 +105,7 @@
 
 ## Jengiz E 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3064) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 
@@ -124,7 +124,7 @@
 
 ## Jengiz X 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3075) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 
@@ -144,7 +144,7 @@
 
 ## Jengiz F 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3099) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 

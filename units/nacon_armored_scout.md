@@ -1,6 +1,6 @@
 # Nacon Armored Scout 
 
-## Nacon Armored Scout (Standard) 
+## Nacon Armored Scout 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3096) 
@@ -13,5 +13,5 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6244) 
 - **Battle Value:** 690 
-- [*More Info*](nacon_armored_scout/nacon_armored_scout_standard.md) 
+- [*More Info*](nacon_armored_scout/nacon_armored_scout.md) 
 

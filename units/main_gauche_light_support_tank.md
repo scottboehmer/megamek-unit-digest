@@ -1,6 +1,6 @@
 # Main Gauche Light Support Tank 
 
-## Main Gauche Light Support Tank (Standard) 
+## Main Gauche Light Support Tank 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3064) 
@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4569) 
 - **Battle Value:** 464 
-- [*More Info*](main_gauche_light_support_tank/main_gauche_light_support_tank_standard.md) 
+- [*More Info*](main_gauche_light_support_tank/main_gauche_light_support_tank.md) 
 
 ## Main Gauche Light Support Tank (C3) 
 

@@ -1,6 +1,6 @@
 # Thang-Ta APC 
 
-## Thang-Ta APC (Standard) 
+## Thang-Ta APC 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3079) 
@@ -14,5 +14,5 @@
   - Infantry (1.0 tons) 
 - **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6487) 
 - **Battle Value:** 241 
-- [*More Info*](thang-ta_apc/thang-ta_apc_standard.md) 
+- [*More Info*](thang-ta_apc/thang-ta_apc.md) 
 

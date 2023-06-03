@@ -114,12 +114,12 @@
 
 #### [Tatsu](../../../units/tatsu.md) 
 
-- [**Tatsu MIK-O**](../../../units/tatsu/tatsu_mik-o.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OA**](../../../units/tatsu/tatsu_mik-oa.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OB**](../../../units/tatsu/tatsu_mik-ob.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OC**](../../../units/tatsu/tatsu_mik-oc.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OD**](../../../units/tatsu/tatsu_mik-od.md) *Attack Fighter (3072)* 
-- [**Tatsu MIK-OE**](../../../units/tatsu/tatsu_mik-oe.md) *Attack Fighter (3075)* `ECM` 
+- [**Tatsu MIK-O**](../../../units/tatsu/tatsu_mik-o.md) *Undefined (3063)* 
+- [**Tatsu MIK-OA**](../../../units/tatsu/tatsu_mik-oa.md) *Undefined (3063)* 
+- [**Tatsu MIK-OB**](../../../units/tatsu/tatsu_mik-ob.md) *Undefined (3063)* 
+- [**Tatsu MIK-OC**](../../../units/tatsu/tatsu_mik-oc.md) *Undefined (3063)* 
+- [**Tatsu MIK-OD**](../../../units/tatsu/tatsu_mik-od.md) *Undefined (3072)* 
+- [**Tatsu MIK-OE**](../../../units/tatsu/tatsu_mik-oe.md) *Undefined (3075)* `ECM` 
 
 ### 75 Tons 
 
@@ -146,25 +146,25 @@
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Undefined (2584)* 
 
 ### 100 Tons 
 
 #### [Riever](../../../units/riever.md) 
 
-- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
-- [**Riever F-100b**](../../../units/riever/riever_f-100b.md) *Attack Fighter (2835)* 
-- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
+- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Undefined (2815)* 
+- [**Riever F-100b**](../../../units/riever/riever_f-100b.md) *Undefined (2835)* 
+- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 
 
 #### [Stuka](../../../units/stuka.md) 
 
-- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Undefined (2571)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
 

@@ -153,3 +153,18 @@
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-45x_starling.md) 
 
+## Seydlitz C 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3140) 
+- **Chassis:** 20 tons 
+- **Thrust:** 11 / 17, XL 
+- **Fuel:** 240 
+- **Armor:** 56 (Laser Reflective) 
+- **Heat Sinks:** 10 (20) 
+- **Weapons:** 
+  - Clan ER PPC 
+- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8014) 
+- **Battle Value:** Unknown 
+- [*More Info*](seydlitz/seydlitz_c.md) 
+

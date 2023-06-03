@@ -1,6 +1,6 @@
 # Hunchback IIC 
 
-## Hunchback IIC (Standard) 
+## Hunchback IIC 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (2856) 
@@ -18,7 +18,7 @@
   - Bad Reputation (Clan) 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1568) 
 - **Battle Value:** 1679 
-- [*More Info*](hunchback_iic/hunchback_iic_standard.md) 
+- [*More Info*](hunchback_iic/hunchback_iic.md) 
 
 ## Hunchback IIC 2 
 

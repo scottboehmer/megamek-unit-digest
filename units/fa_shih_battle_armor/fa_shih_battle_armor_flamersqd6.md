@@ -14,13 +14,13 @@
   - Basic Manipulator w/ Mine Clearance (right) 
   - Basic Manipulator w/ Mine Clearance (left) 
 - **Weapons:** 
-  - Flamer 
+  - Clan Flamer 
 - **Equipment:** 
-  - Mine Dispenser × 2 
+  - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8866) 
-- **Battle Value:** 45 (404 for 6 suits) 
+- **Battle Value:** 39 (348 for 6 suits) 
 
 ## Availability 
 

@@ -4,7 +4,7 @@
 
 ## Typhoon TFN-2A 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2461) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 

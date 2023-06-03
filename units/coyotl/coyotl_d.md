@@ -21,7 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7608) 
+- **Sources:** TRO:GC - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7608) 
 - **Battle Value:** 1980 
 
 ## Availability 

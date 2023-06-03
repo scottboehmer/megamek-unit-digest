@@ -15,7 +15,7 @@
   - SRM 6 w/ Artemis IV × 2 (ammo: 30) 
   - MRM 10 × 2 (ammo: 48) 
   - LRM 5 w/ Artemis IV × 2 (ammo: 24) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/323) 
+- **Sources:** Rec Guide:ilClan #31 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/323) 
 - **Battle Value:** 1336 
 
 ## Availability 

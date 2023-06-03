@@ -1,6 +1,6 @@
 # Kodiak 
 
-## Kodiak (Standard) 
+## Kodiak 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3001) 
@@ -20,7 +20,7 @@
   - Battlefists 
 - **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1805) 
 - **Battle Value:** 2927 
-- [*More Info*](kodiak/kodiak_standard.md) 
+- [*More Info*](kodiak/kodiak.md) 
 
 ## Kodiak 5 
 

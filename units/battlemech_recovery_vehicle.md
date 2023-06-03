@@ -1,6 +1,6 @@
 # BattleMech Recovery Vehicle 
 
-## BattleMech Recovery Vehicle (Standard) 
+## BattleMech Recovery Vehicle 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2500) 
@@ -12,5 +12,5 @@
   - Cargo 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/304) 
 - **Battle Value:** 90 
-- [*More Info*](battlemech_recovery_vehicle/battlemech_recovery_vehicle_standard.md) 
+- [*More Info*](battlemech_recovery_vehicle/battlemech_recovery_vehicle.md) 
 

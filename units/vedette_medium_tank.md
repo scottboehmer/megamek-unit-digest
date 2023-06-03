@@ -1,6 +1,6 @@
 # Vedette Medium Tank 
 
-## Vedette Medium Tank (Standard) 
+## Vedette Medium Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2943) 
@@ -13,7 +13,7 @@
   - Machine Gun (ammo: 200) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3395) 
 - **Battle Value:** 475 
-- [*More Info*](vedette_medium_tank/vedette_medium_tank_standard.md) 
+- [*More Info*](vedette_medium_tank/vedette_medium_tank.md) 
 
 ## Vedette Medium Tank (AC2) 
 
@@ -48,7 +48,7 @@
 
 ## Vedette Medium Tank (AC/10) 
 
-- **Role:** Undefined 
+- **Role:** Brawler 
 - **Tech Base:** Inner Sphere (3027) 
 - **Chassis:** 50 tons Tracked 
 - **Movement:** 5 / 8, Fusion 

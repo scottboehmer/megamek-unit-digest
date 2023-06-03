@@ -20,6 +20,26 @@
 - **Battle Value:** 999 
 - [*More Info*](chameleon/chameleon_trc-4b.md) 
 
+## Chameleon TRC-4C 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2820) 
+- **Chassis:** 50 tons 
+- **Movement:** 6 / 9 
+  - **Jumping:** 6 
+- **Armor:** 96 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Large Laser 
+  - Medium Laser × 2 
+  - Small Laser × 4 
+  - Machine Gun × 2 (ammo: 200) 
+- **Design Quirks:** 
+  - Easy to Pilot 
+- **Sources:** Rec Guide 25 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9405) 
+- **Battle Value:** 999 
+- [*More Info*](chameleon/chameleon_trc-4c.md) 
+
 ## Chameleon CLN-7V 
 
 - **Role:** Scout 
@@ -101,7 +121,7 @@
 
 ## Chameleon CLN-8V 
 
-- **Role:** Skirmisher 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3086) 
 - **Chassis:** 50 tons 
 - **Movement:** 6 / 9, XL 

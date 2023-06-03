@@ -4,7 +4,7 @@
 
 ## Chippewa CHP-W7 (Manfred) 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8, XL 

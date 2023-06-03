@@ -18,6 +18,7 @@
   - Targeting Computer 
   - CASE 
 - **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (ER PPC) 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2474) 
 - **Battle Value:** 1545 

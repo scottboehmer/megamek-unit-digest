@@ -16,11 +16,11 @@
 - **Weapons:** 
   - Machine Gun 
 - **Equipment:** 
-  - Mine Dispenser × 2 
+  - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
 - **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1017) 
-- **Battle Value:** 45 (233 for 4 suits) 
+- **Battle Value:** 39 (201 for 4 suits) 
 
 ## Availability 
 

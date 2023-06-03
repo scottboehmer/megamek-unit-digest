@@ -57,7 +57,7 @@
 - **Battle Value:** 63 (569 for 6 suits) 
 - [*More Info*](gray_death_strike_suit/gray_death_strike_suit_prototypesqd6.md) 
 
-## Gray Death Strike Suit (Standard)(Sqd4) 
+## Gray Death Strike Suit (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3080) 
@@ -73,9 +73,9 @@
   - Light TAG 
 - **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4237) 
 - **Battle Value:** 51 (268 for 4 suits) 
-- [*More Info*](gray_death_strike_suit/gray_death_strike_suit_standardsqd4.md) 
+- [*More Info*](gray_death_strike_suit/gray_death_strike_suit_sqd4.md) 
 
-## Gray Death Strike Suit (Standard)(Sqd5) 
+## Gray Death Strike Suit (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3080) 
@@ -91,9 +91,9 @@
   - Light TAG 
 - **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8626) 
 - **Battle Value:** 51 (360 for 5 suits) 
-- [*More Info*](gray_death_strike_suit/gray_death_strike_suit_standardsqd5.md) 
+- [*More Info*](gray_death_strike_suit/gray_death_strike_suit_sqd5.md) 
 
-## Gray Death Strike Suit (Standard)(Sqd6) 
+## Gray Death Strike Suit (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (3080) 
@@ -109,7 +109,7 @@
   - Light TAG 
 - **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8990) 
 - **Battle Value:** 51 (463 for 6 suits) 
-- [*More Info*](gray_death_strike_suit/gray_death_strike_suit_standardsqd6.md) 
+- [*More Info*](gray_death_strike_suit/gray_death_strike_suit_sqd6.md) 
 
 ## Gray Death Strike Suit (HarJel)(Sqd4) 
 

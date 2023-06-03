@@ -1,6 +1,6 @@
 # Hephaestus Jump Tank 
 
-## Hephaestus Jump Tank (Standard) 
+## Hephaestus Jump Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3083) 
@@ -18,7 +18,7 @@
   - TAG 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4311) 
 - **Battle Value:** 993 
-- [*More Info*](hephaestus_jump_tank/hephaestus_jump_tank_standard.md) 
+- [*More Info*](hephaestus_jump_tank/hephaestus_jump_tank.md) 
 
 ## Hephaestus Jump Tank (AP) 
 

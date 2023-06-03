@@ -4,7 +4,7 @@
 
 ## Dragoon Battle Armor (Sqd6) 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3072) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 

@@ -72,7 +72,7 @@
 
 #### [Arbalest](../../../units/arbalest.md) 
 
-- [**Arbalest (Standard)**](../../../units/arbalest/arbalest_standard.md) *Missile Boat (3077)* `ECM` 
+- [**Arbalest**](../../../units/arbalest/arbalest.md) *Missile Boat (3077)* `ECM` 
 - [**Arbalest 2**](../../../units/arbalest/arbalest_2.md) *Missile Boat (3079)* `ECM` 
 
 #### [Brigand](../../../units/brigand.md) 
@@ -113,7 +113,7 @@
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
-- [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 - [**Locust IIC 3**](../../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
 #### [Mist Lynx](../../../units/mist_lynx.md) 
@@ -144,7 +144,7 @@
 
 #### [Tarantula](../../../units/tarantula.md) 
 
-- [**Tarantula ZPH-1A**](../../../units/tarantula/tarantula_zph-1a.md) *Scout (3054)* 
+- [**Tarantula ZPH-1**](../../../units/tarantula/tarantula_zph-1.md) *Undefined (3054)* 
 - [**Tarantula ZPH-2A**](../../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 - [**Tarantula ZPH-3A**](../../../units/tarantula/tarantula_zph-3a.md) *Striker (3063)* 
 - [**Tarantula ZPH-4A**](../../../units/tarantula/tarantula_zph-4a.md) *Striker (3066)* `C3 Support` 
@@ -654,7 +654,7 @@
 
 #### [Hunchback IIC](../../../units/hunchback_iic.md) 
 
-- [**Hunchback IIC (Standard)**](../../../units/hunchback_iic/hunchback_iic_standard.md) *Ambusher (2856)* 
+- [**Hunchback IIC**](../../../units/hunchback_iic/hunchback_iic.md) *Ambusher (2856)* 
 
 #### [Huron Warrior](../../../units/huron_warrior.md) 
 
@@ -745,7 +745,7 @@
 #### [Dervish](../../../units/dervish.md) 
 
 - [**Dervish DV-1S**](../../../units/dervish/dervish_dv-1s.md) *Missile Boat (2520)* 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 - [**Dervish DV-7D**](../../../units/dervish/dervish_dv-7d.md) *Missile Boat (3047)* 
 - [**Dervish DV-8D**](../../../units/dervish/dervish_dv-8d.md) *Missile Boat (3062)* 
 - [**Dervish DV-6Mr**](../../../units/dervish/dervish_dv-6mr.md) *Brawler (3073)* 

@@ -1,8 +1,8 @@
 # Aeron Strike VTOL 
 
-## Aeron Strike VTOL (Standard) 
+## Aeron Strike VTOL 
 
-- **Role:** Scout 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3082) 
 - **Chassis:** 25 tons VTOL 
 - **Movement:** 12 / 18, XL 
@@ -15,7 +15,7 @@
   - Targeting Computer 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/14) 
 - **Battle Value:** 764 
-- [*More Info*](aeron_strike_vtol/aeron_strike_vtol_standard.md) 
+- [*More Info*](aeron_strike_vtol/aeron_strike_vtol.md) 
 
 ## Aeron Strike VTOL (BAP) 
 

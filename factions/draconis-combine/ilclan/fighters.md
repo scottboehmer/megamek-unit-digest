@@ -60,13 +60,13 @@
 
 #### [Tatsu](../../../units/tatsu.md) 
 
-- [**Tatsu MIK-O**](../../../units/tatsu/tatsu_mik-o.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OA**](../../../units/tatsu/tatsu_mik-oa.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OB**](../../../units/tatsu/tatsu_mik-ob.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OC**](../../../units/tatsu/tatsu_mik-oc.md) *Attack Fighter (3063)* 
-- [**Tatsu MIK-OD**](../../../units/tatsu/tatsu_mik-od.md) *Attack Fighter (3072)* 
-- [**Tatsu MIK-OE**](../../../units/tatsu/tatsu_mik-oe.md) *Attack Fighter (3075)* `ECM` 
-- [**Tatsu MIK-OF**](../../../units/tatsu/tatsu_mik-of.md) *Attack Fighter (3100)* 
+- [**Tatsu MIK-O**](../../../units/tatsu/tatsu_mik-o.md) *Undefined (3063)* 
+- [**Tatsu MIK-OA**](../../../units/tatsu/tatsu_mik-oa.md) *Undefined (3063)* 
+- [**Tatsu MIK-OB**](../../../units/tatsu/tatsu_mik-ob.md) *Undefined (3063)* 
+- [**Tatsu MIK-OC**](../../../units/tatsu/tatsu_mik-oc.md) *Undefined (3063)* 
+- [**Tatsu MIK-OD**](../../../units/tatsu/tatsu_mik-od.md) *Undefined (3072)* 
+- [**Tatsu MIK-OE**](../../../units/tatsu/tatsu_mik-oe.md) *Undefined (3075)* `ECM` 
+- [**Tatsu MIK-OF**](../../../units/tatsu/tatsu_mik-of.md) *Undefined (3100)* 
 
 ### 75 Tons 
 
@@ -76,12 +76,12 @@
 
 #### [Huscarl](../../../units/huscarl.md) 
 
-- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Attack Fighter (3064)* 
-- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Attack Fighter (3068)* 
-- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Attack Fighter (3079)* 
+- [**Huscarl HSCL-1-O**](../../../units/huscarl/huscarl_hscl-1-o.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OA**](../../../units/huscarl/huscarl_hscl-1-oa.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OB**](../../../units/huscarl/huscarl_hscl-1-ob.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OC**](../../../units/huscarl/huscarl_hscl-1-oc.md) *Undefined (3064)* 
+- [**Huscarl HSCL-1-OD**](../../../units/huscarl/huscarl_hscl-1-od.md) *Undefined (3068)* 
+- [**Huscarl HSCL-1-OR**](../../../units/huscarl/huscarl_hscl-1-or.md) *Undefined (3079)* 
 
 #### [Suzaku](../../../units/suzaku.md) 
 
@@ -91,7 +91,7 @@
 
 #### [Deathstalker](../../../units/deathstalker.md) 
 
-- [**Deathstalker F-77A**](../../../units/deathstalker/deathstalker_f-77a.md) *Attack Fighter (3073)* 
+- [**Deathstalker F-77A**](../../../units/deathstalker/deathstalker_f-77a.md) *Undefined (3073)* 
 
 #### [Kublai](../../../units/kublai.md) 
 
@@ -122,11 +122,11 @@
 
 #### [Riever](../../../units/riever.md) 
 
-- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
+- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 
 
 #### [Stuka](../../../units/stuka.md) 
 
 - [**Stuka STU-K5b2**](../../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
-- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Attack Fighter (2751)* 
-- [**Stuka STU-D7**](../../../units/stuka/stuka_stu-d7.md) *Attack Fighter (3070)* 
+- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Undefined (2751)* 
+- [**Stuka STU-D7**](../../../units/stuka/stuka_stu-d7.md) *Undefined (3070)* 
 

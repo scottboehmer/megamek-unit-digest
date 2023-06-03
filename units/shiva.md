@@ -2,7 +2,7 @@
 
 ## Shiva SHV-O 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3060) 
 - **Chassis:** 85 tons 
 - **Thrust:** 5 / 8, XL 
@@ -20,7 +20,7 @@
 
 ## Shiva SHV-OA 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3060) 
 - **Chassis:** 85 tons 
 - **Thrust:** 5 / 8, XL 
@@ -38,7 +38,7 @@
 
 ## Shiva SHV-OB 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3060) 
 - **Chassis:** 85 tons 
 - **Thrust:** 5 / 8, XL 
@@ -55,7 +55,7 @@
 
 ## Shiva SHV-OC 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3060) 
 - **Chassis:** 85 tons 
 - **Thrust:** 5 / 8, XL 
@@ -73,7 +73,7 @@
 
 ## Shiva SHV-OD 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 85 tons 
 - **Thrust:** 5 / 8, XL 

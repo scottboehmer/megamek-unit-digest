@@ -236,7 +236,7 @@
   - Small Vibroblade 
 - **Equipment:** 
   - CASE II 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8378) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8378) 
 - **Battle Value:** 2024 
 - [*More Info*](trebuchet/trebuchet_tbt-7mm_merida.md) 
 
@@ -275,6 +275,9 @@
   - Medium VSP Laser × 3 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Fast Reload (LRM 15) 
 - **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7500) 
 - **Battle Value:** 1550 
 - [*More Info*](trebuchet/trebuchet_tbt-9n.md) 

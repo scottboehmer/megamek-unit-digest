@@ -15,9 +15,10 @@
   - Medium Pulse Laser × 2 
   - Small Laser 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5872) 
 - **Battle Value:** 1139 
 

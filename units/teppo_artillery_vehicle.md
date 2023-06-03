@@ -1,6 +1,6 @@
 # Teppo Artillery Vehicle 
 
-## Teppo Artillery Vehicle (Standard) 
+## Teppo Artillery Vehicle 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3086) 
@@ -21,5 +21,5 @@
   - Infantry (4.0 tons) 
 - **Sources:** TRO 3085S - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5207) 
 - **Battle Value:** 1818 
-- [*More Info*](teppo_artillery_vehicle/teppo_artillery_vehicle_standard.md) 
+- [*More Info*](teppo_artillery_vehicle/teppo_artillery_vehicle.md) 
 

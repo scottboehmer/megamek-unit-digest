@@ -1,6 +1,6 @@
 # Ignis Infantry Support Tank 
 
-## Ignis Infantry Support Tank (Standard) 
+## Ignis Infantry Support Tank 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (2512) 
@@ -15,7 +15,7 @@
   - Infantry (1 tons) 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1605) 
 - **Battle Value:** 463 
-- [*More Info*](ignis_infantry_support_tank/ignis_infantry_support_tank_standard.md) 
+- [*More Info*](ignis_infantry_support_tank/ignis_infantry_support_tank.md) 
 
 ## Ignis Infantry Support Tank (SRM) 
 

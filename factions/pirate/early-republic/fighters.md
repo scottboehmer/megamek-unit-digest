@@ -63,7 +63,7 @@
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-400**](../../../units/gotha/gotha_gtha-400.md) *Attack Fighter (3019)* 
+- [**Gotha GTHA-400**](../../../units/gotha/gotha_gtha-400.md) *Undefined (3019)* 
 
 #### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
@@ -73,7 +73,7 @@
 
 #### [Lucifer](../../../units/lucifer.md) 
 
-- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
+- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Undefined (2526)* 
 
 #### [Shilone](../../../units/shilone.md) 
 
@@ -99,20 +99,20 @@
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
+- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Undefined (2584)* 
 
 ### 100 Tons 
 
 #### [Riever](../../../units/riever.md) 
 
-- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Attack Fighter (2815)* 
-- [**Riever F-100a**](../../../units/riever/riever_f-100a.md) *Attack Fighter (2829)* 
+- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Undefined (2815)* 
+- [**Riever F-100a**](../../../units/riever/riever_f-100a.md) *Undefined (2829)* 
 
 #### [Stuka](../../../units/stuka.md) 
 
-- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Attack Fighter (2571)* 
+- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Undefined (2571)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
 

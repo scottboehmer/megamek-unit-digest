@@ -4,7 +4,7 @@
 
 ## Galleon Light Tank GAL-201 
 
-- **Role:** Scout 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3135) 
 - **Chassis:** 30 tons Tracked 
 - **Movement:** 6 / 9, Fusion 

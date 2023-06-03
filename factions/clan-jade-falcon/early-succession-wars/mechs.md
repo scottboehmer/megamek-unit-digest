@@ -25,7 +25,7 @@
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
-- [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 - [**Locust IIC 2**](../../../units/locust_iic/locust_iic_2.md) *Striker (2837)* 
 
 #### [Mongoose](../../../units/mongoose.md) 
@@ -108,7 +108,7 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
 
@@ -151,7 +151,7 @@
 
 #### [Naja](../../../units/naja.md) 
 
-- [**Naja (Standard)**](../../../units/naja/naja_standard.md) *Brawler (2826)* 
+- [**Naja**](../../../units/naja/naja.md) *Brawler (2826)* 
 
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
@@ -222,7 +222,7 @@
 
 #### [Minsk](../../../units/minsk.md) 
 
-- [**Minsk (Standard)**](../../../units/minsk/minsk_standard.md) *Sniper (2862)* `Active Probe` 
+- [**Minsk**](../../../units/minsk/minsk.md) *Sniper (2862)* `Active Probe` 
 
 #### [Shootist](../../../units/shootist.md) 
 

@@ -1,6 +1,6 @@
 # Asshur Artillery Spotter 
 
-## Asshur Artillery Spotter (Standard) 
+## Asshur Artillery Spotter 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (2893) 
@@ -16,5 +16,5 @@
   - TAG 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/133) 
 - **Battle Value:** 930 
-- [*More Info*](asshur_artillery_spotter/asshur_artillery_spotter_standard.md) 
+- [*More Info*](asshur_artillery_spotter/asshur_artillery_spotter.md) 
 

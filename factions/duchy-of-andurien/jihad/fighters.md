@@ -6,7 +6,7 @@
 
 #### [Deathstalker](../../../units/deathstalker.md) 
 
-- [**Deathstalker XF-78**](../../../units/deathstalker/deathstalker_xf-78.md) *Attack Fighter (3068)* `ECM` , `Stealth` 
+- [**Deathstalker XF-78**](../../../units/deathstalker/deathstalker_xf-78.md) *Undefined (3068)* `ECM` , `Stealth` 
 
 ### 100 Tons 
 

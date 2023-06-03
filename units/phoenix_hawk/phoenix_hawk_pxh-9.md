@@ -17,6 +17,10 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Combat Computer 
+  - Improved Communications 
+  - Jettison-Capable Weapon (Large X-Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7751) 
 - **Battle Value:** 1244 
 

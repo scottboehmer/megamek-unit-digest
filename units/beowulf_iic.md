@@ -1,6 +1,6 @@
 # Beowulf IIC 
 
-## Beowulf IIC (Standard) 
+## Beowulf IIC 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3084) 
@@ -25,7 +25,7 @@
   - EM Interference (ER Medium Pulse Laser) 
 - **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3818) 
 - **Battle Value:** 2048 
-- [*More Info*](beowulf_iic/beowulf_iic_standard.md) 
+- [*More Info*](beowulf_iic/beowulf_iic.md) 
 
 ## Beowulf IIC PR 
 
@@ -47,6 +47,9 @@
   - Extended Torso Twist 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
+  - EM Interference (All Weapons) 
+  - EM Interference (ER Medium Pulse Laser) 
+  - EM Interference (ER Medium Pulse Laser) 
   - EM Interference (ER Large Laser) 
   - EM Interference (ER Medium Pulse Laser) 
   - EM Interference (ER Medium Pulse Laser) 

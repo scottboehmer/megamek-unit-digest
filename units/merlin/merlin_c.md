@@ -5,7 +5,7 @@
 ## Merlin C 
 
 - **Role:** Brawler 
-- **Tech Base:** Clan (3130) 
+- **Tech Base:** Clan (3093) 
 - **Chassis:** 60 tons 
 - **Movement:** 4 / 6 
   - **Jumping:** 4 

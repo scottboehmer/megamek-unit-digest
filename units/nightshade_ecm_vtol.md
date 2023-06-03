@@ -1,6 +1,6 @@
 # Nightshade ECM VTOL 
 
-## Nightshade ECM VTOL (Standard) 
+## Nightshade ECM VTOL 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2597) 
@@ -15,7 +15,7 @@
   - Cargo 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2278) 
 - **Battle Value:** 367 
-- [*More Info*](nightshade_ecm_vtol/nightshade_ecm_vtol_standard.md) 
+- [*More Info*](nightshade_ecm_vtol/nightshade_ecm_vtol.md) 
 
 ## Nightshade ECM VTOL (Royal) 
 

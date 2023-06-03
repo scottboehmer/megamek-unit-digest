@@ -1,6 +1,6 @@
 # Masauwu 
 
-## Masauwu (Standard) 
+## Masauwu 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (2832) 
@@ -23,5 +23,5 @@
   - Rugged (×2) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7642) 
 - **Battle Value:** 2299 
-- [*More Info*](masauwu/masauwu_standard.md) 
+- [*More Info*](masauwu/masauwu.md) 
 

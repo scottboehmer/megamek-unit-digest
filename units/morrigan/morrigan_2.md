@@ -20,6 +20,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Stabilized Weapon (Heavy Large Laser) 
+  - Stabilized Weapon (Heavy Large Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2229) 
 - **Battle Value:** 1874 
 

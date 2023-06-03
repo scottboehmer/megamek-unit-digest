@@ -1,6 +1,6 @@
 # Ryoken II 
 
-## Ryoken II (Standard) 
+## Ryoken II 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3075) 
@@ -17,7 +17,7 @@
   - Stable 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2758) 
 - **Battle Value:** 1801 
-- [*More Info*](ryoken_ii/ryoken_ii_standard.md) 
+- [*More Info*](ryoken_ii/ryoken_ii.md) 
 
 ## Ryoken II 2 
 

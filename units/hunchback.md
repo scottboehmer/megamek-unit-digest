@@ -387,7 +387,7 @@
   - Poor Sealing 
   - Bad Reputation (Inner Sphere) 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4338) 
+- **Sources:** TRO:Proto - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4338) 
 - **Battle Value:** 1248 
 - [*More Info*](hunchback/hunchback_hbk-7r.md) 
 
@@ -406,7 +406,7 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8374) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8374) 
 - **Battle Value:** 1289 
 - [*More Info*](hunchback/hunchback_hbk-lgn-pin_anastasia.md) 
 
@@ -425,9 +425,28 @@
   - Clan Micro Pulse Laser × 4 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8375) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8375) 
 - **Battle Value:** 1492 
 - [*More Info*](hunchback/hunchback_hbk-lgn-pin_drizella.md) 
+
+## Hunchback HBK-6P 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3133) 
+- **Chassis:** 50 tons (Endo Steel) 
+- **Movement:** 4 / 6, Light 
+- **Armor:** 169 
+- **Heat Sinks:** 11 (22) 
+- **Weapons:** 
+  - Light PPC × 6 
+  - Medium Laser × 2 
+- **Equipment:** 
+  - Radical Heat Sink System 
+- **Design Quirks:** 
+  - Battlefists 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7993) 
+- **Battle Value:** 1374 
+- [*More Info*](hunchback/hunchback_hbk-6p.md) 
 
 ## Hunchback HBK-7S 
 

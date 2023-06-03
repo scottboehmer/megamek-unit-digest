@@ -167,7 +167,7 @@
 
 #### [Dervish](../../../units/dervish.md) 
 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 
 #### [Griffin](../../../units/griffin.md) 
 
@@ -272,10 +272,6 @@
 #### [Shootist](../../../units/shootist.md) 
 
 - [**Shootist ST-8A**](../../../units/shootist/shootist_st-8a.md) *Brawler (2621)* 
-
-#### [Uni](../../../units/uni.md) 
-
-- [**Uni ATAE-70T CargoMech**](../../../units/uni/uni_atae-70t_cargomech.md) *Undefined (3074)* `IndustrialMech` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

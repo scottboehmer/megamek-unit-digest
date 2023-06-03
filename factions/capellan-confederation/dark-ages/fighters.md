@@ -30,7 +30,7 @@
 
 #### [Yun](../../../units/yun.md) 
 
-- [**Yun Y-2**](../../../units/yun/yun_y-2.md) *Attack Fighter (3107)* `ECM` , `Stealth` , `Transport:4.0` 
+- [**Yun Y-2**](../../../units/yun/yun_y-2.md) *Undefined (3107)* `ECM` , `Stealth` , `Transport:4.0` 
 
 ### 50 Tons 
 
@@ -93,24 +93,24 @@
 
 #### [Deathstalker](../../../units/deathstalker.md) 
 
-- [**Deathstalker F-77A**](../../../units/deathstalker/deathstalker_f-77a.md) *Attack Fighter (3073)* 
+- [**Deathstalker F-77A**](../../../units/deathstalker/deathstalker_f-77a.md) *Undefined (3073)* 
 
 ### 95 Tons 
 
 #### [Mengqin](../../../units/mengqin.md) 
 
-- [**Mengqin MNG-8L**](../../../units/mengqin/mengqin_mng-8l.md) *Attack Fighter (3081)* 
+- [**Mengqin MNG-8L**](../../../units/mengqin/mengqin_mng-8l.md) *Undefined (3081)* 
 
 ### 100 Tons 
 
 #### [Riever](../../../units/riever.md) 
 
 - [**Riever F-700**](../../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
-- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Attack Fighter (3050)* 
-- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Attack Fighter (3068)* 
+- [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Undefined (3050)* 
+- [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
-- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Attack Fighter (2724)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
+- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Undefined (2724)* 
 

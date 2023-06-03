@@ -61,7 +61,7 @@
 
 ## Stinger C 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Clan (2832) 
 - **Chassis:** 20 tons (Endo Steel) 
 - **Movement:** 6 / 9 
@@ -84,7 +84,7 @@
 
 ## Stinger C 2 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Clan (2838) 
 - **Chassis:** 20 tons (Endo Steel) 
 - **Movement:** 6 / 9 

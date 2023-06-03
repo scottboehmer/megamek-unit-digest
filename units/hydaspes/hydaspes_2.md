@@ -4,7 +4,7 @@
 
 ## Hydaspes 2 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3064) 
 - **Chassis:** 95 tons 
 - **Thrust:** 5 / 8, XL 

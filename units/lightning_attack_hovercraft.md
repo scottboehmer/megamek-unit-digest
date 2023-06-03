@@ -1,6 +1,6 @@
 # Lightning Attack Hovercraft 
 
-## Lightning Attack Hovercraft (Standard) 
+## Lightning Attack Hovercraft 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (2696) 
@@ -13,7 +13,7 @@
   - SRM 4 (OS) × 2 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1884) 
 - **Battle Value:** 510 
-- [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft_standard.md) 
+- [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft.md) 
 
 ## Lightning Attack Hovercraft (Royal) 
 

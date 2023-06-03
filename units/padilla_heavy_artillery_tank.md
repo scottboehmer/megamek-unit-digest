@@ -1,6 +1,6 @@
 # Padilla Heavy Artillery Tank 
 
-## Padilla Heavy Artillery Tank (Standard) 
+## Padilla Heavy Artillery Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2620) 
@@ -16,7 +16,7 @@
   - TAG 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2404) 
 - **Battle Value:** 1135 
-- [*More Info*](padilla_heavy_artillery_tank/padilla_heavy_artillery_tank_standard.md) 
+- [*More Info*](padilla_heavy_artillery_tank/padilla_heavy_artillery_tank.md) 
 
 ## Padilla Heavy Artillery Tank (LRM) 
 

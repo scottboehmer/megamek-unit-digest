@@ -1,5 +1,24 @@
 # Elemental III Battle Armor 
 
+## Elemental III Battle Armor (AP Gauss)(Sqd4) 
+
+- **Role:** Ambusher 
+- **Tech Base:** Clan (3081) 
+- **Chassis:** Medium Battle Armor (1,000 kg) 
+- **Movement:** 1 
+  - **Jumping:** 3 
+- **Armor:** 10 (Basic Stealth) 
+- **Manipulators:** 
+  - Battle Claw (left) 
+- **Weapons:** 
+  - AP Gauss Rifle 
+  - Advanced SRM 2 (OS) 
+- **Equipment:** 
+  - Anti-Personnel Mount 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8456) 
+- **Battle Value:** 76 (395 for 4 suits) 
+- [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_ap_gausssqd4.md) 
+
 ## Elemental III Battle Armor (AP Gauss)(Sqd5) 
 
 - **Role:** Ambusher 
@@ -18,25 +37,6 @@
 - **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8834) 
 - **Battle Value:** 76 (532 for 5 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_ap_gausssqd5.md) 
-
-## Elemental III Battle Armor (AP Gauss)(Sqd6) 
-
-- **Role:** Ambusher 
-- **Tech Base:** Clan (3081) 
-- **Chassis:** Medium Battle Armor (1,000 kg) 
-- **Movement:** 1 
-  - **Jumping:** 3 
-- **Armor:** 10 (Basic Stealth) 
-- **Manipulators:** 
-  - Battle Claw (left) 
-- **Weapons:** 
-  - AP Gauss Rifle 
-  - Advanced SRM 2 (OS) 
-- **Equipment:** 
-  - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9197) 
-- **Battle Value:** 76 (684 for 6 suits) 
-- [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_ap_gausssqd6.md) 
 
 ## Elemental III Battle Armor (Flamer)(Sqd4) 
 
@@ -114,7 +114,7 @@
 - **Battle Value:** 62 (559 for 6 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_microplsqd6.md) 
 
-## Elemental III Battle Armor (AP Gauss)(Sqd4) 
+## Elemental III Battle Armor (AP Gauss)(Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3091) 
@@ -129,9 +129,9 @@
   - Advanced SRM 2 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8456) 
-- **Battle Value:** 76 (395 for 4 suits) 
-- [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_ap_gausssqd4.md) 
+- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9197) 
+- **Battle Value:** 76 (684 for 6 suits) 
+- [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_ap_gausssqd6.md) 
 
 ## Elemental III Battle Armor (Flamer)(Sqd5) 
 

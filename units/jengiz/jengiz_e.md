@@ -4,7 +4,7 @@
 
 ## Jengiz E 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3064) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 

@@ -1,6 +1,6 @@
 # Thunderbolt IIC 
 
-## Thunderbolt IIC (Standard) 
+## Thunderbolt IIC 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3085) 
@@ -25,7 +25,7 @@
   - Modular Weapon (Improved Heavy Large Laser) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239) 
 - **Battle Value:** 2475 
-- [*More Info*](thunderbolt_iic/thunderbolt_iic_standard.md) 
+- [*More Info*](thunderbolt_iic/thunderbolt_iic.md) 
 
 ## Thunderbolt IIC 2 
 
@@ -47,6 +47,12 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Difficult to Maintain 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
 - **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240) 
 - **Battle Value:** 2177 
 - [*More Info*](thunderbolt_iic/thunderbolt_iic_2.md) 

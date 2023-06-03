@@ -17,6 +17,14 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - C3i 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (Large Pulse Laser) 
+  - Directional Torso Mount (Streak SRM 6) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
+  - Directional Torso Mount (ER Medium Laser) 
 - **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2627) 
 - **Battle Value:** 1389 
 

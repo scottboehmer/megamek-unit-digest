@@ -1,6 +1,6 @@
 # Devil 
 
-## Devil (Standard) 
+## Devil 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2911) 
@@ -17,5 +17,5 @@
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #8 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7571) 
 - **Battle Value:** 1691 
-- [*More Info*](devil/devil_standard.md) 
+- [*More Info*](devil/devil.md) 
 

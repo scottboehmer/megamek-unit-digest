@@ -1,6 +1,6 @@
 # Kite Reconnaissance Vehicle 
 
-## Kite Reconnaissance Vehicle (Standard) 
+## Kite Reconnaissance Vehicle 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3105) 
@@ -18,5 +18,22 @@
   - Light TAG 
 - **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6541) 
 - **Battle Value:** 616 
-- [*More Info*](kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_standard.md) 
+- [*More Info*](kite_reconnaissance_vehicle/kite_reconnaissance_vehicle.md) 
+
+## Kite Reconnaissance Vehicle (Fusion) 
+
+- **Role:** Undefined 
+- **Tech Base:** Clan (3147) 
+- **Chassis:** 30 tons Hover 
+- **Movement:** 9 / 14, Fusion 
+- **Armor:** 105 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Pulse Laser × 2 
+- **Equipment:** 
+  - Inner Sphere Angel ECM Suite 
+  - Armored Motive System 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8052) 
+- **Battle Value:** 889 
+- [*More Info*](kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_fusion.md) 
 

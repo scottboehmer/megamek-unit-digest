@@ -20,6 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Easy to Pilot 
+  - Poor Life Support 
 - **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8428) 
 - **Battle Value:** 2363 
 

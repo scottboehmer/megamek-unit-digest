@@ -1,6 +1,6 @@
 # Heavy LRM Carrier 
 
-## Heavy LRM Carrier (Standard) 
+## Heavy LRM Carrier 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3058) 
@@ -12,7 +12,7 @@
   - LRM 20 × 4 (ammo: 48) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1440) 
 - **Battle Value:** 948 
-- [*More Info*](heavy_lrm_carrier/heavy_lrm_carrier_standard.md) 
+- [*More Info*](heavy_lrm_carrier/heavy_lrm_carrier.md) 
 
 ## Heavy LRM Carrier (EN Variant) 
 

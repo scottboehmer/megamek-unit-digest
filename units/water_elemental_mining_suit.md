@@ -1,6 +1,6 @@
 # Water Elemental Mining Suit 
 
-## Water Elemental Mining Suit (Standard)(Sqd4) 
+## Water Elemental Mining Suit (Sqd4) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2842) 
@@ -17,9 +17,9 @@
   - Searchlight 
 - **Sources:** TRO Golden Century - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7671) 
 - **Battle Value:** 20 (106 for 4 suits) 
-- [*More Info*](water_elemental_mining_suit/water_elemental_mining_suit_standardsqd4.md) 
+- [*More Info*](water_elemental_mining_suit/water_elemental_mining_suit_sqd4.md) 
 
-## Water Elemental Mining Suit (Standard)(Sqd5) 
+## Water Elemental Mining Suit (Sqd5) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2842) 
@@ -36,9 +36,9 @@
   - Searchlight 
 - **Source:** TRO Golden Century - Early Succession War 
 - **Battle Value:** 20 (142 for 5 suits) 
-- [*More Info*](water_elemental_mining_suit/water_elemental_mining_suit_standardsqd5.md) 
+- [*More Info*](water_elemental_mining_suit/water_elemental_mining_suit_sqd5.md) 
 
-## Water Elemental Mining Suit (Standard)(Sqd6) 
+## Water Elemental Mining Suit (Sqd6) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2842) 
@@ -55,5 +55,5 @@
   - Searchlight 
 - **Source:** TRO Golden Century - Early Succession War 
 - **Battle Value:** 20 (183 for 6 suits) 
-- [*More Info*](water_elemental_mining_suit/water_elemental_mining_suit_standardsqd6.md) 
+- [*More Info*](water_elemental_mining_suit/water_elemental_mining_suit_sqd6.md) 
 

@@ -15,7 +15,7 @@
 - **Battle Value:** 1681 
 - [*More Info*](bulwark_assault_vehicle/bulwark_assault_vehicle_original.md) 
 
-## Bulwark Assault Vehicle (Standard) 
+## Bulwark Assault Vehicle 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3114) 
@@ -28,5 +28,5 @@
   - Heavy PPC 
 - **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6498) 
 - **Battle Value:** 1737 
-- [*More Info*](bulwark_assault_vehicle/bulwark_assault_vehicle_standard.md) 
+- [*More Info*](bulwark_assault_vehicle/bulwark_assault_vehicle.md) 
 

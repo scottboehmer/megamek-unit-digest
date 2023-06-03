@@ -38,7 +38,7 @@
 
 #### [Rogue](../../../units/rogue.md) 
 
-- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Undefined (2631)* 
 - [**Rogue RGU-133F**](../../../units/rogue/rogue_rgu-133f.md) *Fast Dogfighter (2639)* 
 - [**Rogue RGU-133Eb**](../../../units/rogue/rogue_rgu-133eb.md) *Fast Dogfighter (2710)* 
 
@@ -69,9 +69,9 @@
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-100**](../../../units/gotha/gotha_gtha-100.md) *Attack Fighter (2657)* 
-- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
-- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Attack Fighter (2703)* 
+- [**Gotha GTHA-100**](../../../units/gotha/gotha_gtha-100.md) *Undefined (2657)* 
+- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Undefined (2657)* 
+- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Undefined (2703)* 
 
 #### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
@@ -102,8 +102,8 @@
 
 #### [Vulcan Aerospace Fighter](../../../units/vulcan_aerospace_fighter.md) 
 
-- [**Vulcan VLC-5N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-5n.md) *Attack Fighter (2650)* 
-- [**Vulcan VLC-6N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-6n.md) *Attack Fighter (2767)* 
+- [**Vulcan VLC-5N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-5n.md) *Undefined (2650)* 
+- [**Vulcan VLC-6N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-6n.md) *Undefined (2767)* 
 
 ### 85 Tons 
 
@@ -118,22 +118,22 @@
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
-- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
+- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Undefined (2703)* 
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W5b**](../../../units/chippewa/chippewa_chp-w5b.md) *Attack Fighter (2731)* 
-- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+- [**Chippewa CHP-W5b**](../../../units/chippewa/chippewa_chp-w5b.md) *Undefined (2731)* 
+- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Undefined (2735)* 
 
 ### 100 Tons 
 
 #### [Stuka](../../../units/stuka.md) 
 
 - [**Stuka STU-K5b2**](../../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
-- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Attack Fighter (2751)* 
+- [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Undefined (2751)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36b**](../../../units/thunderbird/thunderbird_trb-d36b.md) *Attack Fighter (2715)* 
+- [**Thunderbird TRB-D36b**](../../../units/thunderbird/thunderbird_trb-d36b.md) *Undefined (2715)* 
 

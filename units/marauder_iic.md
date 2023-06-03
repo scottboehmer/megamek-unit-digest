@@ -1,6 +1,6 @@
 # Marauder IIC 
 
-## Marauder IIC (Standard) 
+## Marauder IIC 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (2828) 
@@ -15,11 +15,10 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2065) 
 - **Battle Value:** 2680 
-- [*More Info*](marauder_iic/marauder_iic_standard.md) 
+- [*More Info*](marauder_iic/marauder_iic.md) 
 
 ## Marauder IIC 9 
 
@@ -37,7 +36,6 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7537) 
 - **Battle Value:** 2595 
@@ -61,7 +59,6 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2072) 
 - **Battle Value:** 2554 
@@ -83,9 +80,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2066) 
+- **Sources:** TRO:CI - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2066) 
 - **Battle Value:** 2358 
 - [*More Info*](marauder_iic/marauder_iic_2.md) 
 
@@ -106,9 +102,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2067) 
+- **Sources:** TRO:CI - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2067) 
 - **Battle Value:** 2445 
 - [*More Info*](marauder_iic/marauder_iic_3.md) 
 
@@ -128,9 +123,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2068) 
+- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2068) 
 - **Battle Value:** 3447 
 - [*More Info*](marauder_iic/marauder_iic_4.md) 
 
@@ -151,9 +145,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069) 
+- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069) 
 - **Battle Value:** 2386 
 - [*More Info*](marauder_iic/marauder_iic_5.md) 
 
@@ -176,9 +169,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2070) 
+- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2070) 
 - **Battle Value:** 2646 
 - [*More Info*](marauder_iic/marauder_iic_6.md) 
 
@@ -203,9 +195,8 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2071) 
+- **Sources:** TRO 3085 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2071) 
 - **Battle Value:** 2843 
 - [*More Info*](marauder_iic/marauder_iic_7.md) 
 
@@ -227,7 +218,6 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
   - Exposed Actuators 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7538) 
 - **Battle Value:** 2877 

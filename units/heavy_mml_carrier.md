@@ -1,6 +1,6 @@
 # Heavy MML Carrier 
 
-## Heavy MML Carrier (Standard) 
+## Heavy MML Carrier 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3075) 
@@ -14,5 +14,5 @@
   - B-Pod × 4 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1441) 
 - **Battle Value:** 722 
-- [*More Info*](heavy_mml_carrier/heavy_mml_carrier_standard.md) 
+- [*More Info*](heavy_mml_carrier/heavy_mml_carrier.md) 
 

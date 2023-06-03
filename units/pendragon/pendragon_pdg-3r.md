@@ -18,7 +18,7 @@
   - CASE II 
   - C3 Main 
   - Coolant Pod 
-- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/8000) 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8000) 
 - **Battle Value:** 1991 
 
 ## Availability 

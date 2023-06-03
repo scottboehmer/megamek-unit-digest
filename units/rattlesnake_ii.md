@@ -2,7 +2,7 @@
 
 ## Rattlesnake II RSN-1 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere Mixed (3149) 
 - **Chassis:** 45 tons (Endo Steel) 
 - **Movement:** 7 / 11 (14), XL 
@@ -23,7 +23,7 @@
 
 ## Rattlesnake II RSN-2 
 
-- **Role:** Undefined 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere Mixed (3149) 
 - **Chassis:** 45 tons (Endo Steel) 
 - **Movement:** 7 / 11, XL 

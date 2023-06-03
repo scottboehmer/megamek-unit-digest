@@ -14,6 +14,12 @@
   - ER PPC × 2 
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Medium Pulse Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (LB 10-X AC) 
+  - Exposed Weapon Linkage (LB 10-X AC) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7600) 
 - **Battle Value:** 1648 
 

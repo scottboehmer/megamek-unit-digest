@@ -1,5 +1,22 @@
 # Partisan Air Defense Tank 
 
+## Partisan Air Defense Tank 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 143 (Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
+  - AC/2 × 2 (ammo: 45) 
+- **Equipment:** 
+  - C3 Support 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2440) 
+- **Battle Value:** 923 
+- [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank.md) 
+
 ## Partisan Air Defense Tank (Company Command) 
 
 - **Role:** Sniper 
@@ -33,23 +50,6 @@
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2436) 
 - **Battle Value:** 836 
 - [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_lance_command.md) 
-
-## Partisan Air Defense Tank (Standard) 
-
-- **Role:** Sniper 
-- **Tech Base:** Inner Sphere (3058) 
-- **Chassis:** 80 tons Tracked 
-- **Movement:** 3 / 5, Fusion 
-- **Armor:** 143 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
-  - AC/2 × 2 (ammo: 45) 
-- **Equipment:** 
-  - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2440) 
-- **Battle Value:** 923 
-- [*More Info*](partisan_air_defense_tank/partisan_air_defense_tank_standard.md) 
 
 ## Partisan Air Defense Tank (XL) 
 

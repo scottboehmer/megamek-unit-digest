@@ -16,6 +16,10 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Difficult to Maintain 
+  - Improved Communications 
+  - Bad Reputation (Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6896) 
 - **Battle Value:** 2095 
 

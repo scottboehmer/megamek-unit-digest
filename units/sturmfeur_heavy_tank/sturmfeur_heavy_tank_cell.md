@@ -5,7 +5,7 @@
 ## SturmFeur Heavy Tank (Cell) 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (3145) 
+- **Tech Base:** Inner Sphere (3149) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 4 / 6, Fuel Cell 
 - **Armor:** 317 (Heavy Ferro Fibrous) 
@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #28 - , [Master Unit List](http://masterunitlist.info/Unit/Details/3115) 
+- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3115) 
 - **Battle Value:** 1822 
 
 ## Availability 

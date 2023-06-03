@@ -33,7 +33,7 @@
 
 - [**Flea FLE-17**](../../../units/flea/flea_fle-17.md) *Striker (3049)* 
 - [**Flea FLE-19**](../../../units/flea/flea_fle-19.md) *Striker (3068)* 
-- [**Flea FLE-21**](../../../units/flea/flea_fle-21.md) *Striker (3139)* `ECM` , `Stealth` 
+- [**Flea FLE-21**](../../../units/flea/flea_fle-21.md) *Scout (3139)* `ECM` , `Stealth` 
 
 #### [Hornet](../../../units/hornet.md) 
 
@@ -140,7 +140,7 @@
 
 #### [Incubus](../../../units/incubus.md) 
 
-- [**Incubus (Standard)**](../../../units/incubus/incubus_standard.md) *Striker (2954)* 
+- [**Incubus**](../../../units/incubus/incubus.md) *Striker (2954)* 
 - [**Incubus 2**](../../../units/incubus/incubus_2.md) *Striker (2960)* 
 - [**Incubus 7**](../../../units/incubus/incubus_7.md) *Striker (2961)* 
 - [**Incubus 8**](../../../units/incubus/incubus_8.md) *Striker (2962)* 
@@ -248,7 +248,7 @@
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
-- [**Griffin IIC (Standard)**](../../../units/griffin_iic/griffin_iic_standard.md) *Missile Boat (2852)* 
+- [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 
 #### [Harvester](../../../units/harvester.md) 
 
@@ -331,7 +331,7 @@
 - [**Chameleon CLN-7V**](../../../units/chameleon/chameleon_cln-7v.md) *Scout (3056)* 
 - [**Chameleon CLN-7W**](../../../units/chameleon/chameleon_cln-7w.md) *Striker (3058)* 
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
-- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Skirmisher (3086)* 
+- [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Striker (3086)* 
 
 #### [Enforcer III](../../../units/enforcer_iii.md) 
 
@@ -376,7 +376,7 @@
 
 #### [Dervish](../../../units/dervish.md) 
 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 - [**Dervish DV-7D**](../../../units/dervish/dervish_dv-7d.md) *Missile Boat (3047)* 
 - [**Dervish DV-8D**](../../../units/dervish/dervish_dv-8d.md) *Missile Boat (3062)* 
 - [**Dervish DV-6Mr**](../../../units/dervish/dervish_dv-6mr.md) *Brawler (3073)* 
@@ -545,7 +545,6 @@
 #### [Viper](../../../units/viper.md) 
 
 - [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
-- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
 
 #### [Warhammer](../../../units/warhammer.md) 
 
@@ -653,19 +652,6 @@
 
 ### 90 Tons 
 
-#### [Blood Asp](../../../units/blood_asp.md) 
-
-- [**Blood Asp Prime**](../../../units/blood_asp/blood_asp_prime.md) *Undefined (3060)* 
-- [**Blood Asp A**](../../../units/blood_asp/blood_asp_a.md) *Undefined (3060)* `ECM` 
-- [**Blood Asp B**](../../../units/blood_asp/blood_asp_b.md) *Undefined (3060)* `ECM` 
-- [**Blood Asp C**](../../../units/blood_asp/blood_asp_c.md) *Undefined (3060)* 
-- [**Blood Asp D**](../../../units/blood_asp/blood_asp_d.md) *Undefined (3060)* 
-- [**Blood Asp E**](../../../units/blood_asp/blood_asp_e.md) *Undefined (3063)* 
-- [**Blood Asp F**](../../../units/blood_asp/blood_asp_f.md) *Undefined (3071)* 
-- [**Blood Asp G**](../../../units/blood_asp/blood_asp_g.md) *Undefined (3074)* 
-- [**Blood Asp T**](../../../units/blood_asp/blood_asp_t.md) *Undefined (3142)* 
-- [**Blood Asp I**](../../../units/blood_asp/blood_asp_i.md) *Undefined (3148)* 
-
 #### [Cyclops](../../../units/cyclops.md) 
 
 - [**Cyclops CP-11-G**](../../../units/cyclops/cyclops_cp-11-g.md) *Sniper (3058)* 
@@ -674,6 +660,19 @@
 #### [Highlander](../../../units/highlander.md) 
 
 - [**Highlander HGN-740**](../../../units/highlander/highlander_hgn-740.md) *Sniper (3115)* 
+
+#### [Star Adder (Blood Asp)](../../../units/star_adder_blood_asp.md) 
+
+- [**Star Adder (Blood Asp) Prime**](../../../units/star_adder_blood_asp/star_adder_blood_asp_prime.md) *Brawler (3060)* 
+- [**Star Adder (Blood Asp) A**](../../../units/star_adder_blood_asp/star_adder_blood_asp_a.md) *Brawler (3060)* `ECM` 
+- [**Star Adder (Blood Asp) B**](../../../units/star_adder_blood_asp/star_adder_blood_asp_b.md) *Missile Boat (3060)* `ECM` 
+- [**Star Adder (Blood Asp) C**](../../../units/star_adder_blood_asp/star_adder_blood_asp_c.md) *Brawler (3060)* 
+- [**Star Adder (Blood Asp) D**](../../../units/star_adder_blood_asp/star_adder_blood_asp_d.md) *Brawler (3060)* 
+- [**Star Adder (Blood Asp) E**](../../../units/star_adder_blood_asp/star_adder_blood_asp_e.md) *Skirmisher (3063)* 
+- [**Star Adder (Blood Asp) F**](../../../units/star_adder_blood_asp/star_adder_blood_asp_f.md) *Brawler (3071)* 
+- [**Star Adder (Blood Asp) G**](../../../units/star_adder_blood_asp/star_adder_blood_asp_g.md) *Brawler (3074)* 
+- [**Star Adder (Blood Asp) T**](../../../units/star_adder_blood_asp/star_adder_blood_asp_t.md) *Brawler (3142)* 
+- [**Star Adder (Blood Asp) I**](../../../units/star_adder_blood_asp/star_adder_blood_asp_i.md) *Brawler (3148)* 
 
 ### 95 Tons 
 

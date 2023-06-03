@@ -1,6 +1,6 @@
 # Mortar Carrier 
 
-## Mortar Carrier (Standard) 
+## Mortar Carrier 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3083) 
@@ -12,5 +12,5 @@
   - 'Mech Mortar/8 × 3 (ammo: 32) 
 - **Sources:** RS 3145 NTNU - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6793) 
 - **Battle Value:** 517 
-- [*More Info*](mortar_carrier/mortar_carrier_standard.md) 
+- [*More Info*](mortar_carrier/mortar_carrier.md) 
 

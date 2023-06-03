@@ -1,6 +1,6 @@
 # Regulator Hovertank 
 
-## Regulator Hovertank (Standard) 
+## Regulator Hovertank 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3057) 
@@ -12,7 +12,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2677) 
 - **Battle Value:** 1212 
-- [*More Info*](regulator_hovertank/regulator_hovertank_standard.md) 
+- [*More Info*](regulator_hovertank/regulator_hovertank.md) 
 
 ## Regulator Hovertank (Arrow IV) 
 

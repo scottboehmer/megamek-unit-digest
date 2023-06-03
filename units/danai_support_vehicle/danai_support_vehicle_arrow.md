@@ -1,10 +1,10 @@
-# Danai Support Vehicle Arrow 
+# Danai Support Vehicle (Arrow) 
 
 [Other Danai Support Vehicle variants](../danai_support_vehicle.md) 
 
-## Danai Support Vehicle Arrow 
+## Danai Support Vehicle (Arrow) 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3076) 
 - **Chassis:** 45 tons Wheeled 
 - **Movement:** 4 / 6, Fusion 

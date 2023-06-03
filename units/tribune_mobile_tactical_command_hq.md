@@ -1,6 +1,6 @@
 # Tribune Mobile Tactical Command HQ 
 
-## Tribune Mobile Tactical Command HQ (Standard) 
+## Tribune Mobile Tactical Command HQ 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3091) 
@@ -18,5 +18,5 @@
   - Remote Sensor Dispenser 
 - **Sources:** ED Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6958) 
 - **Battle Value:** 424 
-- [*More Info*](tribune_mobile_tactical_command_hq/tribune_mobile_tactical_command_hq_standard.md) 
+- [*More Info*](tribune_mobile_tactical_command_hq/tribune_mobile_tactical_command_hq.md) 
 

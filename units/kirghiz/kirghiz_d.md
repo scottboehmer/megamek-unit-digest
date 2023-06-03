@@ -4,7 +4,7 @@
 
 ## Kirghiz D 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3067) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 

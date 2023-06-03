@@ -2,7 +2,7 @@
 
 ## Mengqin MNG-8L 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3081) 
 - **Chassis:** 95 tons 
 - **Thrust:** 5 / 8 

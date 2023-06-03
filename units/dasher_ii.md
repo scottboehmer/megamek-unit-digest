@@ -1,6 +1,6 @@
 # Dasher II 
 
-## Dasher II (Standard) 
+## Dasher II 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3077) 
@@ -14,7 +14,7 @@
   - Poor Performance 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/848) 
 - **Battle Value:** 522 
-- [*More Info*](dasher_ii/dasher_ii_standard.md) 
+- [*More Info*](dasher_ii/dasher_ii.md) 
 
 ## Dasher II 2 
 

@@ -14,9 +14,10 @@
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Large Laser) 
 - **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2491) 
 - **Battle Value:** 1041 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1.md) 
@@ -34,9 +35,10 @@
   - Large Laser 
   - Medium Laser × 2 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Large Laser) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2494) 
 - **Battle Value:** 1083 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1d.md) 
@@ -56,9 +58,10 @@
 - **Equipment:** 
   - Guardian ECM Suite 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Large Laser) 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2496) 
 - **Battle Value:** 1145 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-2.md) 
@@ -76,9 +79,10 @@
   - Medium Laser × 2 
   - Small Laser 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Large Laser) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2495) 
 - **Battle Value:** 1073 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1k.md) 
@@ -96,9 +100,10 @@
   - Medium Pulse Laser × 2 
   - Small Laser 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5872) 
 - **Battle Value:** 1139 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1kk.md) 
@@ -121,9 +126,10 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2492) 
 - **Battle Value:** 1512 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1b_special.md) 
@@ -146,9 +152,10 @@
   - Guardian ECM Suite 
   - CASE 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2493) 
 - **Battle Value:** 1443 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1c_special.md) 
@@ -167,6 +174,11 @@
   - Clan Prototype ER Medium Laser × 2 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Improved Communications 
+  - Ubiquitous (Clans) 
+  - Jettison-Capable Weapon (Improved Large Laser) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7678) 
 - **Battle Value:** 1206 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1-ec.md) 
@@ -208,9 +220,10 @@
   - CASE 
   - MASC 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2502) 
 - **Battle Value:** 1237 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3s.md) 
@@ -232,9 +245,10 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2499) 
 - **Battle Value:** 1307 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3m.md) 
@@ -254,9 +268,10 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7760) 
 - **Battle Value:** 1315 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3d.md) 
@@ -273,6 +288,11 @@
   - ER Large Laser 
   - Medium Laser × 4 
   - Small Laser 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Improved Communications 
+  - Ubiquitous 
+  - Jettison-Capable Weapon (Medium Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2497) 
 - **Battle Value:** 1271 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-2k.md) 
@@ -290,9 +310,10 @@
   - ER Large Laser × 2 
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2498) 
 - **Battle Value:** 1359 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3k.md) 
@@ -315,9 +336,10 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2500) 
 - **Battle Value:** 1154 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3m_masters.md) 
@@ -339,6 +361,10 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Improved Communications 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7602) 
 - **Battle Value:** 1174 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-1bc.md) 
@@ -357,6 +383,10 @@
   - Medium X-Pulse Laser 
 - **Equipment:** 
   - Full Head Ejection System 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Improved Communications 
+  - Jettison-Capable Weapon (Large X-Pulse Laser) 
 - **Sources:** Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7699) 
 - **Battle Value:** 1322 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3d_jiemin.md) 
@@ -378,9 +408,10 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2503) 
 - **Battle Value:** 1282 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4l.md) 
@@ -402,9 +433,10 @@
   - Full Head Ejection System 
   - Targeting Computer 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2501) 
 - **Battle Value:** 1244 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-3pl.md) 
@@ -425,9 +457,10 @@
   - Full Head Ejection System 
   - Targeting Computer 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER PPC) 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2506) 
 - **Battle Value:** 1665 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-6d.md) 
@@ -449,9 +482,10 @@
   - Full Head Ejection System 
   - C3i 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2507) 
 - **Battle Value:** 1281 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7cs.md) 
@@ -473,9 +507,10 @@
   - Full Head Ejection System 
   - MASC 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2509) 
 - **Battle Value:** 1496 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7s.md) 
@@ -498,9 +533,10 @@
   - Full Head Ejection System 
   - TAG 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5807) 
 - **Battle Value:** 1442 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4l_sante.md) 
@@ -521,9 +557,10 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Plasma Rifle) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2505) 
 - **Battle Value:** 1530 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-5l.md) 
@@ -544,9 +581,10 @@
   - Full Head Ejection System 
   - C3 Support 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508) 
 - **Battle Value:** 1241 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7k.md) 
@@ -568,9 +606,10 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Light PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2504) 
 - **Battle Value:** 1395 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4w.md) 
@@ -592,9 +631,10 @@
   - Full Head Ejection System 
   - C3 Support 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Snub-Nose PPC) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2510) 
 - **Battle Value:** 1442 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-8cs.md) 
@@ -612,6 +652,10 @@
   - Light PPC × 2 
   - Medium X-Pulse Laser × 2 
   - Small X-Pulse Laser × 2 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Improved Communications 
+  - Jettison-Capable Weapon (Light PPC) 
 - **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7750) 
 - **Battle Value:** 1327 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-4m.md) 
@@ -633,7 +677,7 @@
   - Angel ECM Suite 
   - Full Head Ejection System 
   - Remote Drone Command Console 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8372) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8372) 
 - **Battle Value:** 1513 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-7kj_jasmine.md) 
 
@@ -655,6 +699,7 @@
   - Full Head Ejection System 
   - Modular Armor × 4 
 - **Design Quirks:** 
+  - Command ’Mech 
   - Improved Communications 
   - Jettison-Capable Weapon (Large X-Pulse Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8106) 
@@ -696,6 +741,10 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Combat Computer 
+  - Improved Communications 
+  - Jettison-Capable Weapon (Large X-Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7751) 
 - **Battle Value:** 1244 
 - [*More Info*](phoenix_hawk/phoenix_hawk_pxh-9.md) 

@@ -15,8 +15,8 @@
 - **Weapons:** 
   - Clan Flamer 
 - **Equipment:** 
-  - Anti-Personnel Mount 
   - Clan Jump Booster 
+  - Anti-Personnel Mount 
 - **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8017) 
 - **Battle Value:** 44 (229 for 4 suits) 
 

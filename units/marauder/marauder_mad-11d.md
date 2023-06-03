@@ -17,6 +17,12 @@
   - Medium X-Pulse Laser × 2 
 - **Equipment:** 
   - CASE II 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (Silver Bullet) 
+  - Exposed Weapon Linkage (Silver Bullet) 
 - **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7534) 
 - **Battle Value:** 2263 
 

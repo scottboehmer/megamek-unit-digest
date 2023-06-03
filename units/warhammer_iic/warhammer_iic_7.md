@@ -24,7 +24,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3506) 
+- **Sources:** RS 3085pp - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3506) 
 - **Battle Value:** 2915 
 
 ## Availability 

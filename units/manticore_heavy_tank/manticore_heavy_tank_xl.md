@@ -4,7 +4,7 @@
 
 ## Manticore Heavy Tank (XL) 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3117) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 4 / 6, XL 
@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Source:** Dark Age 
+- **Sources:** Rec Guide:ilClan #31 -  Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9456) 
 - **Battle Value:** 1114 
 
 ## Availability 

@@ -1,8 +1,8 @@
 # Tyre 
 
-## Tyre (Standard) 
+## Tyre 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (2907) 
 - **Chassis:** 55 tons 
 - **Thrust:** 5 / 8 
@@ -17,11 +17,11 @@
   - CASE 
 - **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5316) 
 - **Battle Value:** Unknown 
-- [*More Info*](tyre/tyre_standard.md) 
+- [*More Info*](tyre/tyre.md) 
 
 ## Tyre 2 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (2912) 
 - **Chassis:** 55 tons 
 - **Thrust:** 5 / 8 
@@ -61,7 +61,7 @@
 
 ## Tyre 3 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3086) 
 - **Chassis:** 55 tons 
 - **Thrust:** 5 / 8 

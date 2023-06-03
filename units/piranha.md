@@ -1,6 +1,6 @@
 # Piranha 
 
-## Piranha (Standard) 
+## Piranha 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3051) 
@@ -18,7 +18,7 @@
   - Improved Targeting (Short) 
 - **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2535) 
 - **Battle Value:** 998 
-- [*More Info*](piranha/piranha_standard.md) 
+- [*More Info*](piranha/piranha.md) 
 
 ## Piranha 2 
 

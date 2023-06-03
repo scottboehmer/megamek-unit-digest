@@ -1,6 +1,6 @@
 # Zephyros Infantry Support Vehicle 
 
-## Zephyros Infantry Support Vehicle (Standard) 
+## Zephyros Infantry Support Vehicle 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3084) 
@@ -16,7 +16,7 @@
   - CASE 
 - **Sources:** TRO 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3634) 
 - **Battle Value:** 840 
-- [*More Info*](zephyros_infantry_support_vehicle/zephyros_infantry_support_vehicle_standard.md) 
+- [*More Info*](zephyros_infantry_support_vehicle/zephyros_infantry_support_vehicle.md) 
 
 ## Zephyros Infantry Support Vehicle (Dual Turret) 
 

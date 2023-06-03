@@ -1,6 +1,6 @@
 # Donar Assault Helicopter 
 
-## Donar Assault Helicopter (Standard) 
+## Donar Assault Helicopter 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3017) 
@@ -15,7 +15,7 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/906) 
 - **Battle Value:** 915 
-- [*More Info*](donar_assault_helicopter/donar_assault_helicopter_standard.md) 
+- [*More Info*](donar_assault_helicopter/donar_assault_helicopter.md) 
 
 ## Donar Assault Helicopter (Recon) 
 

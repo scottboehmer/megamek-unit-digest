@@ -1,6 +1,6 @@
 # Storm Giant 
 
-## Storm Giant (Standard) 
+## Storm Giant 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2862) 
@@ -19,7 +19,7 @@
   - Oversized 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7649) 
 - **Battle Value:** 2676 
-- [*More Info*](storm_giant/storm_giant_standard.md) 
+- [*More Info*](storm_giant/storm_giant.md) 
 
 ## Storm Giant 2 
 

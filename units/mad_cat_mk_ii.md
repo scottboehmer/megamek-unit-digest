@@ -1,6 +1,6 @@
 # Mad Cat Mk II 
 
-## Mad Cat Mk II (Standard) 
+## Mad Cat Mk II 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3062) 
@@ -19,7 +19,7 @@
   - Improved Targeting (Medium) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4565) 
 - **Battle Value:** 3135 
-- [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_standard.md) 
+- [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii.md) 
 
 ## Mad Cat Mk II 2 
 

@@ -1,6 +1,6 @@
 # Ursus II 
 
-## Ursus II (Standard) 
+## Ursus II 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3078) 
@@ -23,5 +23,5 @@
   - Protected Actuators 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3365) 
 - **Battle Value:** 2069 
-- [*More Info*](ursus_ii/ursus_ii_standard.md) 
+- [*More Info*](ursus_ii/ursus_ii.md) 
 

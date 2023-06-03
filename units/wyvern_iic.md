@@ -1,6 +1,6 @@
 # Wyvern IIC 
 
-## Wyvern IIC (Standard) 
+## Wyvern IIC 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (2843) 
@@ -23,7 +23,7 @@
   - Protected Actuators 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3601) 
 - **Battle Value:** 1624 
-- [*More Info*](wyvern_iic/wyvern_iic_standard.md) 
+- [*More Info*](wyvern_iic/wyvern_iic.md) 
 
 ## Wyvern IIC 2 
 

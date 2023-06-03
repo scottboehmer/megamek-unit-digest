@@ -31,12 +31,12 @@
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-X**](../../../units/ahab/ahab_ahb-x.md) *Attack Fighter (2697)* 
-- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-X**](../../../units/ahab/ahab_ahb-x.md) *Undefined (2697)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
 
 ### 100 Tons 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
 

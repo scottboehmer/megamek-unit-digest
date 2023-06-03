@@ -1,5 +1,20 @@
 # JES III Missile Carrier 
 
+## JES III Missile Carrier 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3133) 
+- **Chassis:** 60 tons Wheeled 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 128 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 15 × 4 (ammo: 48) 
+  - Machine Gun × 2 (ammo: 100) 
+- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6669) 
+- **Battle Value:** 1037 
+- [*More Info*](jes_iii_missile_carrier/jes_iii_missile_carrier.md) 
+
 ## JES III Missile Carrier (MML) 
 
 - **Role:** Missile Boat 
@@ -15,21 +30,6 @@
 - **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6701) 
 - **Battle Value:** 947 
 - [*More Info*](jes_iii_missile_carrier/jes_iii_missile_carrier_mml.md) 
-
-## JES III Missile Carrier (Standard) 
-
-- **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (3133) 
-- **Chassis:** 60 tons Wheeled 
-- **Movement:** 3 / 5, XL 
-- **Armor:** 128 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - LRM 15 × 4 (ammo: 48) 
-  - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6669) 
-- **Battle Value:** 1037 
-- [*More Info*](jes_iii_missile_carrier/jes_iii_missile_carrier_standard.md) 
 
 ## JES III Missile Carrier (Thunderbolt) 
 

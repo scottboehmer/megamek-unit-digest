@@ -10,8 +10,8 @@
 
 #### [Gladiator Exoskeleton](../../../units/gladiator_exoskeleton.md) 
 
-- [**Gladiator Exoskeleton (Standard) (AG)(Sqd5)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_agsqd5.md) *Undefined (3056)* 
-- [**Gladiator Exoskeleton (Standard) (BC/ID)(Sqd5)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_standard_bc_idsqd5.md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (AG)(Sqd5)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_agsqd5.md) *Undefined (3056)* 
+- [**Gladiator Exoskeleton (BC/ID)(Sqd5)**](../../../units/gladiator_exoskeleton/gladiator_exoskeleton_bc_idsqd5.md) *Undefined (3056)* 
 
 #### [Gorilla Exoskeleton](../../../units/gorilla_exoskeleton.md) 
 
@@ -54,5 +54,5 @@
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)(Sqd5)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd5.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Sqd5)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_sqd5.md) *Juggernaut (3084)* 
 

@@ -1,6 +1,6 @@
 # Parash 
 
-## Parash (Standard) 
+## Parash 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3083) 
@@ -20,12 +20,12 @@
   - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2428) 
 - **Battle Value:** 1300 
-- [*More Info*](parash/parash_standard.md) 
+- [*More Info*](parash/parash.md) 
 
 ## Parash 3 
 
 - **Role:** Striker 
-- **Tech Base:** Inner Sphere Mixed (3083) 
+- **Tech Base:** Clan Mixed (3083) 
 - **Chassis:** 35 tons 
 - **Movement:** 7 / 11, XL 
   - **Jumping:** 7 
@@ -34,14 +34,15 @@
 - **Cockpit:** Interface 
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
-  - Clan Large Pulse Laser 
+  - Large Pulse Laser 
 - **Equipment:** 
-  - Angel ECM Suite 
-  - Bloodhound Active Probe 
-  - Clan TAG 
+  - Inner Sphere Angel ECM Suite 
+  - Inner Sphere Bloodhound Active Probe 
+  - TAG 
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Non-Standard Parts 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
   - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** XTR Republic III - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7375) 
 - **Battle Value:** 1785 
@@ -64,6 +65,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Narrow/Low Profile 
+  - Jettison-Capable Weapon (Unknown Component) 
   - Jettison-Capable Weapon (ER Large Pulse Laser) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2427) 
 - **Battle Value:** 1523 

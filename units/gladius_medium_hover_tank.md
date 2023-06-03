@@ -1,6 +1,6 @@
 # Gladius Medium Hover Tank 
 
-## Gladius Medium Hover Tank (Standard) 
+## Gladius Medium Hover Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3042) 
@@ -12,7 +12,7 @@
   - AC/10 (ammo: 20) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1214) 
 - **Battle Value:** 586 
-- [*More Info*](gladius_medium_hover_tank/gladius_medium_hover_tank_standard.md) 
+- [*More Info*](gladius_medium_hover_tank/gladius_medium_hover_tank.md) 
 
 ## Gladius Medium Hover Tank Mk II 
 

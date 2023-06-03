@@ -4,7 +4,7 @@
 
 ## Drillson Heavy Hover Tank (ERLL) 
 
-- **Role:** Sniper 
+- **Role:** Striker 
 - **Tech Base:** Inner Sphere (3045) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 9 / 14, Fusion 

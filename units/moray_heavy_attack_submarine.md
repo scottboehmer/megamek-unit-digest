@@ -19,7 +19,7 @@
 - **Battle Value:** 1592 
 - [*More Info*](moray_heavy_attack_submarine/moray_heavy_attack_submarine_original.md) 
 
-## Moray Heavy Attack Submarine (Standard) 
+## Moray Heavy Attack Submarine 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3072) 
@@ -36,5 +36,5 @@
   - CASE 
 - **Sources:** TRO 3085S - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4663) 
 - **Battle Value:** 1624 
-- [*More Info*](moray_heavy_attack_submarine/moray_heavy_attack_submarine_standard.md) 
+- [*More Info*](moray_heavy_attack_submarine/moray_heavy_attack_submarine.md) 
 

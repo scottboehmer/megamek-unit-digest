@@ -1,6 +1,6 @@
 # Centipede Scout Car 
 
-## Centipede Scout Car (Standard) 
+## Centipede Scout Car 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3054) 
@@ -15,7 +15,7 @@
   - Beagle Active Probe 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/514) 
 - **Battle Value:** 271 
-- [*More Info*](centipede_scout_car/centipede_scout_car_standard.md) 
+- [*More Info*](centipede_scout_car/centipede_scout_car.md) 
 
 ## Centipede Scout Car (SRM) 
 

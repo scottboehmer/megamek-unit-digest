@@ -2,7 +2,7 @@
 
 ## Stuka STU-K5 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2571) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 
@@ -37,7 +37,7 @@
 
 ## Stuka STU-K10 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2711) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 
@@ -55,7 +55,7 @@
 
 ## Stuka STU-K5b 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2751) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 
@@ -72,7 +72,7 @@
 
 ## Stuka STU-K15 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2965) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 
@@ -91,7 +91,7 @@
 
 ## Stuka STU-D6 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3051) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 
@@ -109,7 +109,7 @@
 
 ## Stuka STU-D7 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3070) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 

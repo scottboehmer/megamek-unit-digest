@@ -1,6 +1,6 @@
 # Light Thunderbolt Carrier 
 
-## Light Thunderbolt Carrier (Standard) 
+## Light Thunderbolt Carrier 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3072) 
@@ -12,5 +12,5 @@
   - Thunderbolt 5 × 5 (ammo: 36) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1877) 
 - **Battle Value:** 714 
-- [*More Info*](light_thunderbolt_carrier/light_thunderbolt_carrier_standard.md) 
+- [*More Info*](light_thunderbolt_carrier/light_thunderbolt_carrier.md) 
 

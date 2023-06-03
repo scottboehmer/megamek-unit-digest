@@ -1,6 +1,6 @@
 # Arcas 
 
-## Arcas (Standard) 
+## Arcas 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3061) 
@@ -19,7 +19,7 @@
   - Protected Actuators 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3717) 
 - **Battle Value:** 2484 
-- [*More Info*](arcas/arcas_standard.md) 
+- [*More Info*](arcas/arcas.md) 
 
 ## Arcas 2 
 

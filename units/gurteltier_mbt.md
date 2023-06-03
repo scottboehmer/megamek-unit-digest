@@ -1,6 +1,6 @@
 # Gurteltier MBT 
 
-## Gurteltier MBT (Standard) 
+## Gurteltier MBT 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3081) 
@@ -20,7 +20,7 @@
   - CASE 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/4256) 
 - **Battle Value:** 1985 
-- [*More Info*](gurteltier_mbt/gurteltier_mbt_standard.md) 
+- [*More Info*](gurteltier_mbt/gurteltier_mbt.md) 
 
 ## Gurteltier MBT (C3M) 
 

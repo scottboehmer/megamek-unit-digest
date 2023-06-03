@@ -18,11 +18,11 @@
 
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 
-- [**Oro Heavy Tank (Standard)**](../../../units/oro_heavy_tank/oro_heavy_tank_standard.md) *Brawler (2844)* 
+- [**Oro Heavy Tank**](../../../units/oro_heavy_tank/oro_heavy_tank.md) *Brawler (2844)* 
 
 ### 65 Tons 
 
 #### [Rommel Tank](../../../units/rommel_tank.md) 
 
-- [**Rommel Tank (Standard)**](../../../units/rommel_tank/rommel_tank_standard.md) *Juggernaut (3027)* 
+- [**Rommel Tank**](../../../units/rommel_tank/rommel_tank.md) *Juggernaut (3027)* 
 

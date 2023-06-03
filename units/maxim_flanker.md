@@ -1,6 +1,6 @@
 # Maxim Flanker 
 
-## Maxim Flanker (Standard) 
+## Maxim Flanker 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3074) 
@@ -17,5 +17,5 @@
   - Cargo 
 - **Sources:** XTRO Corporations - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2116) 
 - **Battle Value:** 776 
-- [*More Info*](maxim_flanker/maxim_flanker_standard.md) 
+- [*More Info*](maxim_flanker/maxim_flanker.md) 
 

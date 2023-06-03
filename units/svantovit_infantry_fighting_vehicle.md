@@ -19,7 +19,7 @@
 - **Battle Value:** 889 
 - [*More Info*](svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_original.md) 
 
-## Svantovit Infantry Fighting Vehicle (Standard) 
+## Svantovit Infantry Fighting Vehicle 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2870) 
@@ -36,7 +36,7 @@
   - Infantry (5.0 tons) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3139) 
 - **Battle Value:** 698 
-- [*More Info*](svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_standard.md) 
+- [*More Info*](svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle.md) 
 
 ## Svantovit Infantry Fighting Vehicle (ATM) 'Masada' 
 

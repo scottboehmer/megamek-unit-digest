@@ -1,5 +1,19 @@
 # Flatbed Truck 
 
+## Flatbed Truck 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2580) 
+- **Chassis:** 10 tons Wheeled 
+- **Movement:** 5 / 8, ICE 
+- **Armor:** 8 
+- **Heat Sinks:** 0 (0) 
+- **Equipment:** 
+  - Cargo 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1134) 
+- **Battle Value:** 34 
+- [*More Info*](flatbed_truck/flatbed_truck.md) 
+
 ## Flatbed Truck (AC) 
 
 - **Role:** Scout 
@@ -57,20 +71,6 @@
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1133) 
 - **Battle Value:** 67 
 - [*More Info*](flatbed_truck/flatbed_truck_srm.md) 
-
-## Flatbed Truck (Standard) 
-
-- **Role:** Undefined 
-- **Tech Base:** Inner Sphere (2580) 
-- **Chassis:** 10 tons Wheeled 
-- **Movement:** 5 / 8, ICE 
-- **Armor:** 8 
-- **Heat Sinks:** 0 (0) 
-- **Equipment:** 
-  - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1134) 
-- **Battle Value:** 34 
-- [*More Info*](flatbed_truck/flatbed_truck_standard.md) 
 
 ## Flatbed Truck (LRM) 
 

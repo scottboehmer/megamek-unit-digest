@@ -1,6 +1,6 @@
 # UrbanMech IIC 
 
-## UrbanMech IIC (Standard) 
+## UrbanMech IIC 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2849) 
@@ -20,7 +20,7 @@
   - No/Minimal Arms 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3361) 
 - **Battle Value:** 798 
-- [*More Info*](urbanmech_iic/urbanmech_iic_standard.md) 
+- [*More Info*](urbanmech_iic/urbanmech_iic.md) 
 
 ## UrbanMech IIC 2 
 

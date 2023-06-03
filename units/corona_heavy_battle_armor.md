@@ -1,6 +1,6 @@
 # Corona Heavy Battle Armor 
 
-## Corona Heavy Battle Armor (Standard) (Sqd4) 
+## Corona Heavy Battle Armor (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3060) 
@@ -16,9 +16,9 @@
   - Anti-Personnel Mount 
 - **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4006) 
 - **Battle Value:** 95 (495 for 4 suits) 
-- [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_standard_sqd4.md) 
+- [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_sqd4.md) 
 
-## Corona Heavy Battle Armor (Standard) (Sqd5) 
+## Corona Heavy Battle Armor (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3060) 
@@ -34,9 +34,9 @@
   - Anti-Personnel Mount 
 - **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8613) 
 - **Battle Value:** 95 (667 for 5 suits) 
-- [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_standard_sqd5.md) 
+- [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_sqd5.md) 
 
-## Corona Heavy Battle Armor (Standard) (Sqd6) 
+## Corona Heavy Battle Armor (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3060) 
@@ -52,7 +52,7 @@
   - Anti-Personnel Mount 
 - **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8977) 
 - **Battle Value:** 95 (857 for 6 suits) 
-- [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_standard_sqd6.md) 
+- [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_sqd6.md) 
 
 ## Corona Heavy Battle Armor (SRM) (Sqd4) 
 

@@ -1,8 +1,8 @@
 # SturmFeur Heavy Tank 
 
-## SturmFeur Heavy Tank (Standard) 
+## SturmFeur Heavy Tank 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3018) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Sources:** Rec Guide:ilClan #28 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3115) 
 - **Battle Value:** 1400 
-- [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_standard.md) 
+- [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank.md) 
 
 ## SturmFeur Heavy Tank (SRM) 
 
@@ -49,7 +49,7 @@
 
 ## SturmFeur Heavy Tank (WoB) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3075) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, Light 
@@ -68,30 +68,10 @@
 - **Battle Value:** 1561 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) 
 
-## SturmFeur Heavy Tank (Assault) 
-
-- **Role:** Sniper 
-- **Tech Base:** Inner Sphere (3080) 
-- **Chassis:** 85 tons Tracked 
-- **Movement:** 3 / 5, Light 
-- **Armor:** 317 (Heavy Ferro Fibrous) 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - Improved Heavy Gauss Rifle (ammo: 16) 
-  - Clan LRM 20 w/ Artemis IV (ammo: 12) 
-  - Clan LRM 10 w/ Artemis IV (ammo: 24) 
-  - Clan ER Medium Laser 
-- **Equipment:** 
-  - Guardian ECM Suite 
-  - CASE 
-- **Source:** Rec Guide:ilClan #28 - Jihad 
-- **Battle Value:** 2199 
-- [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_assault.md) 
-
 ## SturmFeur Heavy Tank (Steiner) 
 
 - **Role:** Juggernaut 
-- **Tech Base:** Inner Sphere (3080) 
+- **Tech Base:** Inner Sphere (3079) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, Light 
 - **Armor:** 317 (Heavy Ferro Fibrous) 
@@ -109,27 +89,10 @@
 - **Battle Value:** 1651 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_steiner.md) 
 
-## SturmFeur Heavy Tank (Cell) 
-
-- **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (3145) 
-- **Chassis:** 85 tons Tracked 
-- **Movement:** 4 / 6, Fuel Cell 
-- **Armor:** 317 (Heavy Ferro Fibrous) 
-- **Heat Sinks:** 1 (1) 
-- **Weapons:** 
-  - Clan LRM 20 w/ Artemis IV × 2 (ammo: 48) 
-  - Machine Gun × 2 (ammo: 200) 
-- **Equipment:** 
-  - CASE 
-- **Sources:** Rec Guide:ilClan #28 - , [Master Unit List](http://masterunitlist.info/Unit/Details/3115) 
-- **Battle Value:** 1822 
-- [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_cell.md) 
-
 ## SturmFeur Heavy Tank (Support) 'Gilmore' 
 
-- **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (3145) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3094) 
 - **Chassis:** 85 tons Tracked 
 - **Movement:** 3 / 5, Light 
 - **Armor:** 317 (Heavy Ferro Fibrous) 
@@ -141,7 +104,44 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Source:** Rec Guide:ilClan #28 - 
+- **Sources:** Rec Guide:ilClan #28 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9373) 
 - **Battle Value:** 1670 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_support_gilmore.md) 
+
+## SturmFeur Heavy Tank (Cell) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3149) 
+- **Chassis:** 85 tons Tracked 
+- **Movement:** 4 / 6, Fuel Cell 
+- **Armor:** 317 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 1 (1) 
+- **Weapons:** 
+  - Clan LRM 20 w/ Artemis IV × 2 (ammo: 48) 
+  - Machine Gun × 2 (ammo: 200) 
+- **Equipment:** 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3115) 
+- **Battle Value:** 1822 
+- [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_cell.md) 
+
+## SturmFeur Heavy Tank (Assault) 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3150) 
+- **Chassis:** 85 tons Tracked 
+- **Movement:** 3 / 5, Light 
+- **Armor:** 317 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Improved Heavy Gauss Rifle (ammo: 16) 
+  - Clan LRM 20 w/ Artemis IV (ammo: 12) 
+  - Clan LRM 10 w/ Artemis IV (ammo: 24) 
+  - Clan ER Medium Laser 
+- **Equipment:** 
+  - Guardian ECM Suite 
+  - CASE 
+- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9372) 
+- **Battle Value:** 2199 
+- [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_assault.md) 
 

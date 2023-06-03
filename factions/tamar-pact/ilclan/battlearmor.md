@@ -19,7 +19,7 @@
 
 #### [HeavyHauler Exoskeleton](../../../units/heavyhauler_exoskeleton.md) 
 
-- [**HeavyHauler Exoskeleton (Standard)(Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_standardsqd4.md) *Undefined (3052)* 
+- [**HeavyHauler Exoskeleton (Sqd4)**](../../../units/heavyhauler_exoskeleton/heavyhauler_exoskeleton_sqd4.md) *Undefined (3052)* 
 
 #### [Nighthawk PA(L)](../../../units/nighthawk_pal.md) 
 
@@ -85,7 +85,7 @@
 
 #### [Gray Death Strike Suit](../../../units/gray_death_strike_suit.md) 
 
-- [**Gray Death Strike Suit (Standard)(Sqd4)**](../../../units/gray_death_strike_suit/gray_death_strike_suit_standardsqd4.md) *Ambusher (3080)* `TAG` 
+- [**Gray Death Strike Suit (Sqd4)**](../../../units/gray_death_strike_suit/gray_death_strike_suit_sqd4.md) *Ambusher (3080)* `TAG` 
 - [**Gray Death Strike Suit (HarJel)(Sqd4)**](../../../units/gray_death_strike_suit/gray_death_strike_suit_harjelsqd4.md) *Ambusher (3107)* `TAG` 
 
 #### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
@@ -95,11 +95,11 @@
 - [**IS Standard Battle Armor (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (SRM)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (LRR)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd4.md) *Ambusher (3061)* 
-- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Undefined (3141)* 
+- [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Ambusher (3141)* 
 
 #### [Rottweiler Battle Armor](../../../units/rottweiler_battle_armor.md) 
 
-- [**Rottweiler Battle Armor (Standard)(Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_standardsqd4.md) *Scout (3065)* `Active Probe` , `Stealth` 
+- [**Rottweiler Battle Armor (Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_sqd4.md) *Scout (3065)* `Active Probe` , `Stealth` 
 - [**Rottweiler Battle Armor (Close Combat)(Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_close_combatsqd4.md) *Scout (3069)* `Active Probe` , `Stealth` 
 - [**Rottweiler Battle Armor (Upgrade)(Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_upgradesqd4.md) *Scout (3070)* `Stealth` 
 - [**Rottweiler Battle Armor (Firedrake)(Sqd4)**](../../../units/rottweiler_battle_armor/rottweiler_battle_armor_firedrakesqd4.md) *Scout (3072)* `Stealth` 
@@ -108,11 +108,11 @@
 
 #### [Gnome Battle Armor](../../../units/gnome_battle_armor.md) 
 
-- [**Gnome Battle Armor (Standard)(Sqd4)**](../../../units/gnome_battle_armor/gnome_battle_armor_standardsqd4.md) *Juggernaut (3056)* 
+- [**Gnome Battle Armor (Sqd4)**](../../../units/gnome_battle_armor/gnome_battle_armor_sqd4.md) *Juggernaut (3056)* 
 
 #### [Gray Death Heavy Suit](../../../units/gray_death_heavy_suit.md) 
 
-- [**Gray Death Heavy Suit (Standard)(Sqd4)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_standardsqd4.md) *Scout (3083)* `Active Probe` 
+- [**Gray Death Heavy Suit (Sqd4)**](../../../units/gray_death_heavy_suit/gray_death_heavy_suit_sqd4.md) *Scout (3083)* `Active Probe` 
 
 ### 2 Tons 
 
@@ -137,5 +137,5 @@
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)(Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd4.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_sqd4.md) *Juggernaut (3084)* 
 

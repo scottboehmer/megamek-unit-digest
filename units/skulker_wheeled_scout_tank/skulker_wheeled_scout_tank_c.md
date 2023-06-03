@@ -4,8 +4,8 @@
 
 ## Skulker Wheeled Scout Tank C 
 
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (3150) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** 20 tons Wheeled 
 - **Movement:** 9 / 14, Fusion 
 - **Armor:** 72 (Stealth) 
@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Clan Watchdog CEWS 
   - Clan CASE 
-- **Sources:** Rec Guide:ilClan #28 - , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
+- **Sources:** Rec Guide:ilClan #28 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
 - **Battle Value:** 404 
 
 ## Availability 
@@ -138,14 +138,19 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Regulan Fiefs 
 - Republic of the Sphere 
+- Rim Commonality 
 
 ### ilClan 
 

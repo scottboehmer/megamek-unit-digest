@@ -1,5 +1,19 @@
 # Yellow Jacket Gunship 
 
+## Yellow Jacket Gunship 
+
+- **Role:** Sniper 
+- **Tech Base:** Inner Sphere (3058) 
+- **Chassis:** 30 tons VTOL 
+- **Movement:** 6 / 9, ICE 
+- **Armor:** 56 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - Gauss Rifle (ammo: 16) 
+- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3617) 
+- **Battle Value:** 782 
+- [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship.md) 
+
 ## Yellow Jacket Gunship (Ammo) 
 
 - **Role:** Sniper 
@@ -13,20 +27,6 @@
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3613) 
 - **Battle Value:** 803 
 - [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_ammo.md) 
-
-## Yellow Jacket Gunship (Standard) 
-
-- **Role:** Sniper 
-- **Tech Base:** Inner Sphere (3058) 
-- **Chassis:** 30 tons VTOL 
-- **Movement:** 6 / 9, ICE 
-- **Armor:** 56 
-- **Heat Sinks:** 0 (0) 
-- **Weapons:** 
-  - Gauss Rifle (ammo: 16) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3617) 
-- **Battle Value:** 782 
-- [*More Info*](yellow_jacket_gunship/yellow_jacket_gunship_standard.md) 
 
 ## Yellow Jacket Gunship (RAC) 
 

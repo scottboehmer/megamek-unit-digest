@@ -1,6 +1,6 @@
 # Kanga-X Jump Tank 
 
-## Kanga-X Jump Tank (Standard) 
+## Kanga-X Jump Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3075) 
@@ -17,5 +17,5 @@
   - CASE 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1746) 
 - **Battle Value:** 1363 
-- [*More Info*](kanga-x_jump_tank/kanga-x_jump_tank_standard.md) 
+- [*More Info*](kanga-x_jump_tank/kanga-x_jump_tank.md) 
 

@@ -1,6 +1,6 @@
 # Harpagos 
 
-## Harpagos (Standard) 
+## Harpagos 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3136) 
@@ -17,5 +17,5 @@
   - CASE 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6254) 
 - **Battle Value:** 1721 
-- [*More Info*](harpagos/harpagos_standard.md) 
+- [*More Info*](harpagos/harpagos.md) 
 

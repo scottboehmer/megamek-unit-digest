@@ -1,6 +1,6 @@
 # Devastator Heavy Tank 
 
-## Devastator Heavy Tank (Standard) 
+## Devastator Heavy Tank 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3003) 
@@ -15,5 +15,5 @@
   - Flamer 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/897) 
 - **Battle Value:** 1037 
-- [*More Info*](devastator_heavy_tank/devastator_heavy_tank_standard.md) 
+- [*More Info*](devastator_heavy_tank/devastator_heavy_tank.md) 
 

@@ -15,11 +15,6 @@
   - Gauss Rifle (ammo: 16) 
   - ER PPC × 2 
   - Medium Laser × 3 
-- **Design Quirks:** 
-  - Command ’Mech 
-  - Hyper-Extending Actuators 
-  - Narrow/Low Profile 
-  - Directional Torso Mount (Gauss Rifle) 
 - **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2031) 
 - **Battle Value:** 2103 
 

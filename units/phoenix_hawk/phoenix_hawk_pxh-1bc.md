@@ -19,6 +19,10 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Improved Communications 
+  - Jettison-Capable Weapon (ER Large Laser) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7602) 
 - **Battle Value:** 1174 
 

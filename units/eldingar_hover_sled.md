@@ -1,6 +1,6 @@
 # Eldingar Hover Sled 
 
-## Eldingar Hover Sled (Standard) 
+## Eldingar Hover Sled 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3081) 
@@ -17,7 +17,7 @@
   - Infantry (5.0 tons) 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/947) 
 - **Battle Value:** 1402 
-- [*More Info*](eldingar_hover_sled/eldingar_hover_sled_standard.md) 
+- [*More Info*](eldingar_hover_sled/eldingar_hover_sled.md) 
 
 ## Eldingar Hover Sled (Streak) 
 

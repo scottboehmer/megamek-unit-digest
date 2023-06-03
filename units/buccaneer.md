@@ -83,7 +83,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8379) 
+- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8379) 
 - **Battle Value:** 1384 
 - [*More Info*](buccaneer/buccaneer_bcn-6px_pan.md) 
 

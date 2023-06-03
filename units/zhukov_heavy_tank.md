@@ -1,6 +1,6 @@
 # Zhukov Heavy Tank 
 
-## Zhukov Heavy Tank (Standard) 
+## Zhukov Heavy Tank 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3030) 
@@ -13,7 +13,7 @@
   - SRM 6 (ammo: 15) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3650) 
 - **Battle Value:** 920 
-- [*More Info*](zhukov_heavy_tank/zhukov_heavy_tank_standard.md) 
+- [*More Info*](zhukov_heavy_tank/zhukov_heavy_tank.md) 
 
 ## Zhukov Heavy Tank (WoB) 
 

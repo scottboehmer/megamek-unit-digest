@@ -6,7 +6,7 @@
 
 #### [Afreet Medium Battle Armor](../../../units/afreet_medium_battle_armor.md) 
 
-- [**Afreet Medium Battle Armor (Standard)(Sqd5)**](../../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_standardsqd5.md) *Scout (3067)* `Active Probe` 
+- [**Afreet Medium Battle Armor (Sqd5)**](../../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_sqd5.md) *Scout (3067)* `Active Probe` 
 - [**Afreet Medium Battle Armor (Hell's Horses)(Sqd5)**](../../../units/afreet_medium_battle_armor/afreet_medium_battle_armor_hells_horsessqd5.md) *Scout (3072)* 
 
 #### [Clan Medium Battle Armor](../../../units/clan_medium_battle_armor.md) 
@@ -28,13 +28,13 @@
 
 #### [Salamander Battle Armor](../../../units/salamander_battle_armor.md) 
 
-- [**Salamander Battle Armor (Standard)(Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_standardsqd5.md) *Ambusher (3058)* 
+- [**Salamander Battle Armor (Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_sqd5.md) *Ambusher (3058)* 
 
 ### 1.50 Tons 
 
 #### [Corona Heavy Battle Armor](../../../units/corona_heavy_battle_armor.md) 
 
-- [**Corona Heavy Battle Armor (Standard) (Sqd5)**](../../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_standard_sqd5.md) *Ambusher (3060)* 
+- [**Corona Heavy Battle Armor (Sqd5)**](../../../units/corona_heavy_battle_armor/corona_heavy_battle_armor_sqd5.md) *Ambusher (3060)* 
 
 #### [Elemental II Battle Armor](../../../units/elemental_ii_battle_armor.md) 
 
@@ -42,7 +42,7 @@
 
 #### [Gnome Battle Armor](../../../units/gnome_battle_armor.md) 
 
-- [**Gnome Battle Armor (Standard)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_standardsqd5.md) *Juggernaut (3056)* 
+- [**Gnome Battle Armor (Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_sqd5.md) *Juggernaut (3056)* 
 - [**Gnome Battle Armor (Upgrade) (Bearhunter)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_upgrade_bearhuntersqd5.md) *Juggernaut (3069)* 
 - [**Gnome Battle Armor (Upgrade) (MRR)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_upgrade_mrrsqd5.md) *Juggernaut (3069)* 
 - [**Gnome Battle Armor (Upgrade) (Pulse Laser)(Sqd5)**](../../../units/gnome_battle_armor/gnome_battle_armor_upgrade_pulse_lasersqd5.md) *Juggernaut (3069)* 

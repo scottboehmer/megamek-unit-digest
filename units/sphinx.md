@@ -1,6 +1,6 @@
 # Sphinx 
 
-## Sphinx (Standard) 
+## Sphinx 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3078) 
@@ -16,7 +16,7 @@
   - Rugged (×2) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3007) 
 - **Battle Value:** 2883 
-- [*More Info*](sphinx/sphinx_standard.md) 
+- [*More Info*](sphinx/sphinx.md) 
 
 ## Sphinx 2 
 

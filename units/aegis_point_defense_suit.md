@@ -1,6 +1,6 @@
 # Aegis Point Defense Suit 
 
-## Aegis Point Defense Suit (Standard)(Sqd4) 
+## Aegis Point Defense Suit (Sqd4) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3132) 
@@ -15,9 +15,9 @@
   - Anti-Personnel Mount 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7388) 
 - **Battle Value:** 34 (179 for 4 suits) 
-- [*More Info*](aegis_point_defense_suit/aegis_point_defense_suit_standardsqd4.md) 
+- [*More Info*](aegis_point_defense_suit/aegis_point_defense_suit_sqd4.md) 
 
-## Aegis Point Defense Suit (Standard)(Sqd5) 
+## Aegis Point Defense Suit (Sqd5) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3132) 
@@ -32,9 +32,9 @@
   - Anti-Personnel Mount 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8829) 
 - **Battle Value:** 34 (242 for 5 suits) 
-- [*More Info*](aegis_point_defense_suit/aegis_point_defense_suit_standardsqd5.md) 
+- [*More Info*](aegis_point_defense_suit/aegis_point_defense_suit_sqd5.md) 
 
-## Aegis Point Defense Suit (Standard)(Sqd6) 
+## Aegis Point Defense Suit (Sqd6) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3132) 
@@ -49,5 +49,5 @@
   - Anti-Personnel Mount 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9192) 
 - **Battle Value:** 34 (310 for 6 suits) 
-- [*More Info*](aegis_point_defense_suit/aegis_point_defense_suit_standardsqd6.md) 
+- [*More Info*](aegis_point_defense_suit/aegis_point_defense_suit_sqd6.md) 
 

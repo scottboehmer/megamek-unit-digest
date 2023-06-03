@@ -1,6 +1,6 @@
 # Hasek Mechanized Combat Vehicle 
 
-## Hasek Mechanized Combat Vehicle (Standard) 
+## Hasek Mechanized Combat Vehicle 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3101) 
@@ -15,5 +15,5 @@
   - Infantry (4.0 tons) 
 - **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6317) 
 - **Battle Value:** 841 
-- [*More Info*](hasek_mechanized_combat_vehicle/hasek_mechanized_combat_vehicle_standard.md) 
+- [*More Info*](hasek_mechanized_combat_vehicle/hasek_mechanized_combat_vehicle.md) 
 

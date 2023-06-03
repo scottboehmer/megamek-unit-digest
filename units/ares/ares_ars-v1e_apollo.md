@@ -4,7 +4,7 @@
 
 ## Ares ARS-V1E Apollo 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere Mixed (3151) 
 - **Chassis:** 135 tons Tripod (Superheavy Endo Composite) 
 - **Movement:** 2 / 3 
@@ -26,7 +26,7 @@
   - Command ’Mech 
   - Distracting 
   - Searchlight 
-- **Sources:** Dominions Divided - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9434) 
+- **Sources:** Dominions Divided - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9500) 
 - **Battle Value:** 2986 
 
 ## Availability 

@@ -5,7 +5,7 @@
 ## Chaparral Missile Artillery Tank (SRM) 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (3064) 
+- **Tech Base:** Inner Sphere (2614) 
 - **Chassis:** 50 tons Tracked 
 - **Movement:** 4 / 6, Fusion 
 - **Armor:** 88 
@@ -36,6 +36,7 @@
 - Outworlds Alliance 
 - Pirate 
 - Second Star League 
+- St. Ives Compact 
 - Taurian Concordat 
 - Wolf's Dragoons 
 - Word of Blake 

@@ -66,7 +66,7 @@
 ## Shadow Cat III C 
 
 - **Role:** Striker 
-- **Tech Base:** Clan (3111) 
+- **Tech Base:** Clan Mixed (3111) 
 - **Chassis:** 45 tons (Endo Steel) 
 - **Movement:** 6 / 9 (15), XL 
 - **Armor:** 153 (Ferro Fibrous) 
@@ -77,7 +77,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-  - Supercharger 
+  - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7494) 

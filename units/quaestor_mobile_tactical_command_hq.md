@@ -1,6 +1,6 @@
 # Quaestor Mobile Tactical Command HQ 
 
-## Quaestor Mobile Tactical Command HQ (Standard) 
+## Quaestor Mobile Tactical Command HQ 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3095) 
@@ -16,5 +16,5 @@
   - Communications Equipment 
 - **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7297) 
 - **Battle Value:** 437 
-- [*More Info*](quaestor_mobile_tactical_command_hq/quaestor_mobile_tactical_command_hq_standard.md) 
+- [*More Info*](quaestor_mobile_tactical_command_hq/quaestor_mobile_tactical_command_hq.md) 
 

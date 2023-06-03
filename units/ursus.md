@@ -1,6 +1,6 @@
 # Ursus 
 
-## Ursus (Standard) 
+## Ursus 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3059) 
@@ -23,7 +23,7 @@
   - Cramped Cockpit 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3363) 
 - **Battle Value:** 1778 
-- [*More Info*](ursus/ursus_standard.md) 
+- [*More Info*](ursus/ursus.md) 
 
 ## Ursus 2 
 

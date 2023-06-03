@@ -1,6 +1,6 @@
 # Commando IIC 
 
-## Commando IIC (Standard) 
+## Commando IIC 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (2856) 
@@ -19,5 +19,5 @@
   - Exposed Actuators 
 - **Sources:** TRO 3060 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/678) 
 - **Battle Value:** 978 
-- [*More Info*](commando_iic/commando_iic_standard.md) 
+- [*More Info*](commando_iic/commando_iic.md) 
 

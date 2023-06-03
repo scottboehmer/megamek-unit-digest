@@ -1,6 +1,6 @@
 # Gray Death Heavy Suit 
 
-## Gray Death Heavy Suit (Standard)(Sqd4) 
+## Gray Death Heavy Suit (Sqd4) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3083) 
@@ -17,9 +17,9 @@
   - Anti-Personnel Mount 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1273) 
 - **Battle Value:** 49 (256 for 4 suits) 
-- [*More Info*](gray_death_heavy_suit/gray_death_heavy_suit_standardsqd4.md) 
+- [*More Info*](gray_death_heavy_suit/gray_death_heavy_suit_sqd4.md) 
 
-## Gray Death Heavy Suit (Standard)(Sqd5) 
+## Gray Death Heavy Suit (Sqd5) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3083) 
@@ -36,9 +36,9 @@
   - Anti-Personnel Mount 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8523) 
 - **Battle Value:** 49 (344 for 5 suits) 
-- [*More Info*](gray_death_heavy_suit/gray_death_heavy_suit_standardsqd5.md) 
+- [*More Info*](gray_death_heavy_suit/gray_death_heavy_suit_sqd5.md) 
 
-## Gray Death Heavy Suit (Standard)(Sqd6) 
+## Gray Death Heavy Suit (Sqd6) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3083) 
@@ -55,5 +55,5 @@
   - Anti-Personnel Mount 
 - **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8887) 
 - **Battle Value:** 49 (443 for 6 suits) 
-- [*More Info*](gray_death_heavy_suit/gray_death_heavy_suit_standardsqd6.md) 
+- [*More Info*](gray_death_heavy_suit/gray_death_heavy_suit_sqd6.md) 
 

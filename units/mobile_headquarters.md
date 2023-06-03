@@ -1,5 +1,22 @@
 # Mobile Headquarters 
 
+## Mobile Headquarters 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2620) 
+- **Chassis:** 25 tons Wheeled 
+- **Movement:** 6 / 9, Fusion 
+- **Armor:** 80 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - Medium Laser 
+- **Equipment:** 
+  - Communications Equipment 
+  - Cargo 
+- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2201) 
+- **Battle Value:** 319 
+- [*More Info*](mobile_headquarters/mobile_headquarters.md) 
+
 ## Mobile Headquarters (LL) 
 
 - **Role:** Undefined 
@@ -31,23 +48,6 @@
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2200) 
 - **Battle Value:** 402 
 - [*More Info*](mobile_headquarters/mobile_headquarters_lrm.md) 
-
-## Mobile Headquarters (Standard) 
-
-- **Role:** Undefined 
-- **Tech Base:** Inner Sphere (2620) 
-- **Chassis:** 25 tons Wheeled 
-- **Movement:** 6 / 9, Fusion 
-- **Armor:** 80 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - Medium Laser 
-- **Equipment:** 
-  - Communications Equipment 
-  - Cargo 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2201) 
-- **Battle Value:** 319 
-- [*More Info*](mobile_headquarters/mobile_headquarters_standard.md) 
 
 ## Mobile Headquarters (ICE - LL) 
 

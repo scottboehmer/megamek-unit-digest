@@ -4,7 +4,7 @@
 
 ## Tyre 2 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (2912) 
 - **Chassis:** 55 tons 
 - **Thrust:** 5 / 8 

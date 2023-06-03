@@ -1,6 +1,6 @@
 # Sokar Urban Combat Unit 
 
-## Sokar Urban Combat Unit (Standard) 
+## Sokar Urban Combat Unit 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3084) 
@@ -14,5 +14,5 @@
   - Heavy Flamer × 2 (ammo: 20) 
 - **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/5096) 
 - **Battle Value:** 599 
-- [*More Info*](sokar_urban_combat_unit/sokar_urban_combat_unit_standard.md) 
+- [*More Info*](sokar_urban_combat_unit/sokar_urban_combat_unit.md) 
 

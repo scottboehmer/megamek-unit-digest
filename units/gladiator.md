@@ -79,15 +79,16 @@
 - **Battle Value:** 1291 
 - [*More Info*](gladiator/gladiator_gld-4r.md) 
 
-## Gladiator (Keller) 
+## Gladiator GLD-1R (Keller) 
 
-- **Role:** Skirmisher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3071) 
 - **Chassis:** 55 tons 
 - **Movement:** 4 / 6 (8), Light 
   - **Jumping:** 6 
-- **Armor:** 176 
+- **Armor:** 185 
 - **Gyroscope:** XL Gyro 
+- **Cockpit:** Armored 
 - **Heat Sinks:** 11 (22) 
 - **Weapons:** 
   - Snub-Nose PPC w/ PPC Capacitor 
@@ -100,8 +101,8 @@
   - Cowl 
   - Bad Reputation (Inner Sphere) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1197) 
-- **Battle Value:** 1517 
-- [*More Info*](gladiator/gladiator_keller.md) 
+- **Battle Value:** 1553 
+- [*More Info*](gladiator/gladiator_gld-1r_keller.md) 
 
 ## Gladiator GLD-5R 
 

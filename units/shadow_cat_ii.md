@@ -1,6 +1,6 @@
 # Shadow Cat II 
 
-## Shadow Cat II (Standard) 
+## Shadow Cat II 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3076) 
@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2894) 
 - **Battle Value:** 2064 
-- [*More Info*](shadow_cat_ii/shadow_cat_ii_standard.md) 
+- [*More Info*](shadow_cat_ii/shadow_cat_ii.md) 
 
 ## Shadow Cat II 2 
 

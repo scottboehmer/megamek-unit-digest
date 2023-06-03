@@ -1,6 +1,6 @@
 # Peregrine Attack VTOL 
 
-## Peregrine Attack VTOL (Standard) 
+## Peregrine Attack VTOL 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3021) 
@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2479) 
 - **Battle Value:** 344 
-- [*More Info*](peregrine_attack_vtol/peregrine_attack_vtol_standard.md) 
+- [*More Info*](peregrine_attack_vtol/peregrine_attack_vtol.md) 
 
 ## Peregrine Attack VTOL (Kurita) 
 

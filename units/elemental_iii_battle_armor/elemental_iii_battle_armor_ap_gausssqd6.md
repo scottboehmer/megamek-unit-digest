@@ -5,7 +5,7 @@
 ## Elemental III Battle Armor (AP Gauss)(Sqd6) 
 
 - **Role:** Ambusher 
-- **Tech Base:** Clan (3081) 
+- **Tech Base:** Clan (3091) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
   - **Jumping:** 3 

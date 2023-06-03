@@ -1,6 +1,6 @@
 # Skulker Wheeled Scout Tank 
 
-## Skulker Wheeled Scout Tank (Standard) 
+## Skulker Wheeled Scout Tank 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2659) 
@@ -12,7 +12,7 @@
   - Medium Laser 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
 - **Battle Value:** 314 
-- [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_standard.md) 
+- [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank.md) 
 
 ## Skulker Wheeled Scout Tank (MG) 
 
@@ -77,8 +77,8 @@
 
 ## Skulker Wheeled Scout Tank C 
 
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (3150) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** 20 tons Wheeled 
 - **Movement:** 9 / 14, Fusion 
 - **Armor:** 72 (Stealth) 
@@ -88,7 +88,7 @@
 - **Equipment:** 
   - Clan Watchdog CEWS 
   - Clan CASE 
-- **Sources:** Rec Guide:ilClan #28 - , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
+- **Sources:** Rec Guide:ilClan #28 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
 - **Battle Value:** 404 
 - [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c.md) 
 

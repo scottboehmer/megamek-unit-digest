@@ -4,7 +4,7 @@
 
 ## Behemoth Heavy Tank (Davion) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3087) 
 - **Chassis:** 100 tons Tracked 
 - **Movement:** 2 / 3, Fusion 
@@ -19,7 +19,7 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Source:** Rec Guide:ilClan #31 - Dark Age 
+- **Sources:** Rec Guide:ilClan #31 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9457) 
 - **Battle Value:** 1662 
 
 ## Availability 

@@ -4,7 +4,7 @@
 
 ## Ontos Heavy Tank (Chemical Laser) 
 
-- **Role:** Undefined 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3148) 
 - **Chassis:** 95 tons Tracked 
 - **Movement:** 3 / 5, XL 

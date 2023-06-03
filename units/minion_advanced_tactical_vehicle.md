@@ -1,6 +1,6 @@
 # Minion Advanced Tactical Vehicle 
 
-## Minion Advanced Tactical Vehicle (Standard) 
+## Minion Advanced Tactical Vehicle 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3064) 
@@ -14,7 +14,7 @@
   - C3 Support 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4640) 
 - **Battle Value:** 456 
-- [*More Info*](minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle_standard.md) 
+- [*More Info*](minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle.md) 
 
 ## Minion Advanced Tactical Vehicle (Targeting Computer) 
 

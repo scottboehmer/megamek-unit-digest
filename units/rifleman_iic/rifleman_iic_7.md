@@ -19,7 +19,6 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-  - Cowl 
   - Improved Communications 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2716) 
 - **Battle Value:** 2205 

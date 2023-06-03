@@ -1,6 +1,6 @@
 # Shadow Hawk IIC 
 
-## Shadow Hawk IIC (Standard) 
+## Shadow Hawk IIC 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (2831) 
@@ -21,7 +21,7 @@
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2911) 
 - **Battle Value:** 1732 
-- [*More Info*](shadow_hawk_iic/shadow_hawk_iic_standard.md) 
+- [*More Info*](shadow_hawk_iic/shadow_hawk_iic.md) 
 
 ## Shadow Hawk IIC 2 
 

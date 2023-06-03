@@ -15,9 +15,10 @@
   - Medium Laser × 2 
   - Small Laser 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Large Laser) 
 - **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2495) 
 - **Battle Value:** 1073 
 

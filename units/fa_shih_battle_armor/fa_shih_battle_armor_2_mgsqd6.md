@@ -16,11 +16,11 @@
 - **Weapons:** 
   - Machine Gun 
 - **Equipment:** 
-  - Mine Dispenser × 2 
+  - Mine Dispenser 
   - Magnetic Clamps 
   - Clan Myomer Booster 
 - **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8871) 
-- **Battle Value:** 35 (316 for 6 suits) 
+- **Battle Value:** 29 (260 for 6 suits) 
 
 ## Availability 
 

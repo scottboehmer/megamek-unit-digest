@@ -15,6 +15,11 @@
   - ER Large Laser × 2 
   - ER Medium Laser × 6 
   - Inner Sphere Hatchet 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
+  - Fast Reload (All Weapons) 
 - **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197) 
 - **Battle Value:** 2762 
 

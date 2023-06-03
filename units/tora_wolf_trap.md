@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3554) 
 - **Battle Value:** 1070 
 - [*More Info*](wolf_trap/wolf_trap_wft-1.md) 
@@ -37,7 +37,7 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3555) 
 - **Battle Value:** 1290 
 - [*More Info*](wolf_trap/wolf_trap_wft-1_daitama.md) 
@@ -58,7 +58,7 @@
   - C3 Support 
   - CASE 
 - **Design Quirks:** 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3559) 
 - **Battle Value:** 1001 
 - [*More Info*](wolf_trap/wolf_trap_wft-c.md) 
@@ -79,7 +79,7 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3558) 
 - **Battle Value:** 1021 
 - [*More Info*](wolf_trap/wolf_trap_wft-b.md) 
@@ -101,7 +101,7 @@
   - Machine Gun Array 
   - CASE 
 - **Design Quirks:** 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3556) 
 - **Battle Value:** 1212 
 - [*More Info*](wolf_trap/wolf_trap_wft-2.md) 
@@ -118,7 +118,7 @@
   - Silver Bullet (ammo: 16) 
   - Medium X-Pulse Laser × 2 
 - **Design Quirks:** 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3557) 
 - **Battle Value:** 1211 
 - [*More Info*](wolf_trap/wolf_trap_wft-2x.md) 
@@ -135,9 +135,7 @@
   - Gauss Rifle (ammo: 16) 
   - Medium X-Pulse Laser × 2 
 - **Design Quirks:** 
-  - Easy to Maintain 
-  - Easy to Pilot 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5415) 
 - **Battle Value:** 1439 
 - [*More Info*](wolf_trap/wolf_trap_wft-2b.md) 

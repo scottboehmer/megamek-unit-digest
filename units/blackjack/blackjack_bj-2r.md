@@ -16,7 +16,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6914) 
+- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6914) 
 - **Battle Value:** 1136 
 
 ## Availability 

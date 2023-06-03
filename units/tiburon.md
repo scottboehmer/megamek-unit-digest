@@ -1,6 +1,6 @@
 # Tiburon 
 
-## Tiburon (Standard) 
+## Tiburon 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3099) 
@@ -20,7 +20,7 @@
   - Multi-Trac 
 - **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6552) 
 - **Battle Value:** 1841 
-- [*More Info*](tiburon/tiburon_standard.md) 
+- [*More Info*](tiburon/tiburon.md) 
 
 ## Tiburon 2 
 

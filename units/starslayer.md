@@ -120,12 +120,12 @@
   - Clan Improved Heavy Large Laser × 2 
   - Clan ER Medium Laser × 2 
   - Clan ER Small Laser 
-  - Clan Streak SRM 4 (iOS) 
+  - SRM 4 (iOS) 
 - **Equipment:** 
   - Coolant Pod 
 - **Design Quirks:** 
   - Rugged (×2) 
 - **Sources:** Rec Guide:ilClan #26 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9315) 
-- **Battle Value:** 2234 
+- **Battle Value:** 2226 
 - [*More Info*](starslayer/starslayer_sty-4c.md) 
 

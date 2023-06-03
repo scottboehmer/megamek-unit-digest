@@ -1,6 +1,6 @@
 # Burrock 
 
-## Burrock (Standard) 
+## Burrock 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3066) 
@@ -17,12 +17,12 @@
   - Stable 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3878) 
 - **Battle Value:** 2230 
-- [*More Info*](burrock/burrock_standard.md) 
+- [*More Info*](burrock/burrock.md) 
 
 ## Burrock 2 
 
 - **Role:** Brawler 
-- **Tech Base:** Clan (3073) 
+- **Tech Base:** Clan (3071) 
 - **Chassis:** 75 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
 - **Armor:** 200 

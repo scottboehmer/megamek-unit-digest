@@ -1,6 +1,6 @@
 # Partisan Heavy Tank 
 
-## Partisan Heavy Tank (Standard) 
+## Partisan Heavy Tank 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (2791) 
@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2445) 
 - **Battle Value:** 673 
-- [*More Info*](partisan_heavy_tank/partisan_heavy_tank_standard.md) 
+- [*More Info*](partisan_heavy_tank/partisan_heavy_tank.md) 
 
 ## Partisan Heavy Tank (AC2) 
 

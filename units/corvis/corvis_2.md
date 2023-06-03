@@ -18,6 +18,9 @@
   - CASE 
   - Targeting Computer 
 - **Design Quirks:** 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
   - Modular Weapon (HAG 20) 
   - Modular Weapon (Heavy Medium Laser) 
   - Modular Weapon (Heavy Medium Laser) 

@@ -22,6 +22,9 @@
   - Extended Torso Twist 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
+  - EM Interference (All Weapons) 
+  - EM Interference (ER Medium Pulse Laser) 
+  - EM Interference (ER Medium Pulse Laser) 
   - EM Interference (ER Large Laser) 
   - EM Interference (ER Medium Pulse Laser) 
   - EM Interference (ER Medium Pulse Laser) 

@@ -2,7 +2,7 @@
 
 ## Tatsu MIK-O 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3063) 
 - **Chassis:** 70 tons 
 - **Thrust:** 5 / 8, XL 
@@ -21,7 +21,7 @@
 
 ## Tatsu MIK-OA 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3063) 
 - **Chassis:** 70 tons 
 - **Thrust:** 5 / 8, XL 
@@ -37,7 +37,7 @@
 
 ## Tatsu MIK-OB 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3063) 
 - **Chassis:** 70 tons 
 - **Thrust:** 5 / 8, XL 
@@ -54,7 +54,7 @@
 
 ## Tatsu MIK-OC 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3063) 
 - **Chassis:** 70 tons 
 - **Thrust:** 5 / 8, XL 
@@ -70,7 +70,7 @@
 
 ## Tatsu MIK-OD 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3072) 
 - **Chassis:** 70 tons 
 - **Thrust:** 5 / 8, XL 
@@ -87,7 +87,7 @@
 
 ## Tatsu MIK-OE 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3075) 
 - **Chassis:** 70 tons 
 - **Thrust:** 5 / 8, XL 
@@ -107,7 +107,7 @@
 
 ## Tatsu MIK-OF 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3100) 
 - **Chassis:** 70 tons 
 - **Thrust:** 5 / 8, XL 

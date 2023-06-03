@@ -1,6 +1,6 @@
 # Hover Scout 
 
-## Hover Scout (Standard) 
+## Hover Scout 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (2801) 
@@ -12,5 +12,5 @@
   - Medium Laser 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4332) 
 - **Battle Value:** 189 
-- [*More Info*](hover_scout/hover_scout_standard.md) 
+- [*More Info*](hover_scout/hover_scout.md) 
 

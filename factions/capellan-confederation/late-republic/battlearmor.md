@@ -19,7 +19,7 @@
 
 #### [Krise PA(L)](../../../units/krise_pal.md) 
 
-- [**Krise PA(L) (Standard)(Sqd4)**](../../../units/krise_pal/krise_pal_standardsqd4.md) *Undefined (3067)* `Active Probe` 
+- [**Krise PA(L) (Sqd4)**](../../../units/krise_pal/krise_pal_sqd4.md) *Undefined (3067)* `Active Probe` 
 
 #### [PowerLoader Exoskeleton](../../../units/powerloader_exoskeleton.md) 
 
@@ -99,5 +99,5 @@
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)(Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd4.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_sqd4.md) *Juggernaut (3084)* 
 

@@ -18,7 +18,8 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3481) 
+  - Ubiquitous 
+- **Sources:** RS 3085 PP - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3481) 
 - **Battle Value:** 1891 
 
 ## Availability 

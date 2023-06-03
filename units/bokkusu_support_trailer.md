@@ -1,6 +1,6 @@
 # Bokkusu Support Trailer 
 
-## Bokkusu Support Trailer (Standard) 
+## Bokkusu Support Trailer 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3086) 
@@ -18,5 +18,5 @@
   - Cargo 
 - **Sources:** TRO3086S - Early Repubic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/3844) 
 - **Battle Value:** 660 
-- [*More Info*](bokkusu_support_trailer/bokkusu_support_trailer_standard.md) 
+- [*More Info*](bokkusu_support_trailer/bokkusu_support_trailer.md) 
 

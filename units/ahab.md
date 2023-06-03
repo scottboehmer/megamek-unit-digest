@@ -2,7 +2,7 @@
 
 ## Ahab AHB-X 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2697) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 
@@ -20,7 +20,7 @@
 
 ## Ahab AHB-443 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2703) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 
@@ -39,7 +39,7 @@
 
 ## Ahab AHB-443b 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2703) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 
@@ -58,7 +58,7 @@
 
 ## Ahab AHB-MD 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3061) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 
@@ -77,7 +77,7 @@
 
 ## Ahab AHB-643 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3067) 
 - **Chassis:** 90 tons 
 - **Thrust:** 5 / 8 

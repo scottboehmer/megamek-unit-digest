@@ -1,6 +1,6 @@
 # Mantis Light Attack VTOL 
 
-## Mantis Light Attack VTOL (Standard) 
+## Mantis Light Attack VTOL 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3061) 
@@ -15,7 +15,7 @@
   - Beagle Active Probe 
 - **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2029) 
 - **Battle Value:** 434 
-- [*More Info*](mantis_light_attack_vtol/mantis_light_attack_vtol_standard.md) 
+- [*More Info*](mantis_light_attack_vtol/mantis_light_attack_vtol.md) 
 
 ## Mantis Light Attack VTOL (ECCM) 
 

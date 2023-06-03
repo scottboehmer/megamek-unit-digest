@@ -1,6 +1,6 @@
 # Jet Sled 
 
-## Jet Sled (Standard) 
+## Jet Sled 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2300) 
@@ -12,5 +12,5 @@
   - Infantry (0.5 tons) 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4401) 
 - **Battle Value:** 36 
-- [*More Info*](jet_sled/jet_sled_standard.md) 
+- [*More Info*](jet_sled/jet_sled.md) 
 

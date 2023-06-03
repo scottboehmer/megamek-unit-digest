@@ -1,6 +1,6 @@
 # Strix Stealth VTOL 
 
-## Strix Stealth VTOL (Standard) 
+## Strix Stealth VTOL 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3117) 
@@ -17,5 +17,5 @@
   - Jet Booster 
 - **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7298) 
 - **Battle Value:** 585 
-- [*More Info*](strix_stealth_vtol/strix_stealth_vtol_standard.md) 
+- [*More Info*](strix_stealth_vtol/strix_stealth_vtol.md) 
 

@@ -1,6 +1,6 @@
 # Mars Assault Vehicle 
 
-## Mars Assault Vehicle (Standard) 
+## Mars Assault Vehicle 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2871) 
@@ -20,7 +20,7 @@
   - CASE 
 - **Sources:** TRO 3060 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2082) 
 - **Battle Value:** 2076 
-- [*More Info*](mars_assault_vehicle/mars_assault_vehicle_standard.md) 
+- [*More Info*](mars_assault_vehicle/mars_assault_vehicle.md) 
 
 ## Mars Assault Vehicle (XL) 
 

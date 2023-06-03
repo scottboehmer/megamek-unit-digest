@@ -1,6 +1,6 @@
 # Padilla Anti-Missile Tank 
 
-## Padilla Anti-Missile Tank (Standard) 
+## Padilla Anti-Missile Tank 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3134) 
@@ -16,5 +16,5 @@
   - Targeting Computer 
 - **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7386) 
 - **Battle Value:** 982 
-- [*More Info*](padilla_anti-missile_tank/padilla_anti-missile_tank_standard.md) 
+- [*More Info*](padilla_anti-missile_tank/padilla_anti-missile_tank.md) 
 

@@ -1,6 +1,6 @@
 # Hammerhead 
 
-## Hammerhead (Standard) 
+## Hammerhead 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3146) 
@@ -19,5 +19,5 @@
   - Battlefists 
 - **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7511) 
 - **Battle Value:** 1686 
-- [*More Info*](hammerhead/hammerhead_standard.md) 
+- [*More Info*](hammerhead/hammerhead.md) 
 

@@ -4,7 +4,7 @@
 
 ## Behemoth Heavy Tank (Kurita Upgrade) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3140) 
 - **Chassis:** 100 tons Tracked 
 - **Movement:** 2 / 3, Fusion 
@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Source:** Rec Guide:ilClan #31 - Dark Age 
+- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9458) 
 - **Battle Value:** 1432 
 
 ## Availability 

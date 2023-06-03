@@ -4,7 +4,7 @@
 
 ## Arbiter ARB-001 SecurityMech 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3074) 
 - **Chassis:** 35 tons (Industrial) 
 - **Movement:** 5 / 8, Fuel Cell 

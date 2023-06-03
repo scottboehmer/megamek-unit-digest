@@ -20,6 +20,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2866) 
 - **Battle Value:** 1069 
 - [*More Info*](sentry/sentry_snt-04.md) 
@@ -44,6 +45,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
+  - Ubiquitous (Inner Sphere) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2867) 
 - **Battle Value:** 1143 
 - [*More Info*](sentry/sentry_snt-w5.md) 

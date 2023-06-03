@@ -18,7 +18,7 @@
 - **Battle Value:** 1072 
 - [*More Info*](ishtar_heavy_fire_support_tank/ishtar_heavy_fire_support_tank_original.md) 
 
-## Ishtar Heavy Fire Support Tank (Standard) 
+## Ishtar Heavy Fire Support Tank 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2976) 
@@ -36,7 +36,7 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1635) 
 - **Battle Value:** 1404 
-- [*More Info*](ishtar_heavy_fire_support_tank/ishtar_heavy_fire_support_tank_standard.md) 
+- [*More Info*](ishtar_heavy_fire_support_tank/ishtar_heavy_fire_support_tank.md) 
 
 ## Ishtar Heavy Fire Support Tank (Gauss) 
 

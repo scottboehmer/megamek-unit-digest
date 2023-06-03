@@ -35,7 +35,7 @@
 
 #### [Spectre Stealth Battle Armor](../../../units/spectre_stealth_battle_armor.md) 
 
-- [**Spectre Stealth Battle Armor (Standard)(Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_standardsqd4.md) *Scout (3097)* `Stealth` 
+- [**Spectre Stealth Battle Armor (Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd4.md) *Scout (3097)* `Stealth` 
 
 ### 1 Tons 
 
@@ -49,10 +49,10 @@
 
 #### [TinStar BattleArmor](../../../units/tinstar_battlearmor.md) 
 
-- [**TinStar BattleArmor (Original)(Sqd4)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_originalsqd4.md) *Ambusher (3087)* 
-- [**TinStar BattleArmor (Original)(Sqd5)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_originalsqd5.md) *Ambusher (3087)* 
-- [**TinStar BattleArmor (Original)(Sqd6)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_originalsqd6.md) *Ambusher (3087)* 
-- [**TinStar BattleArmor (Standard)(Sqd4)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_standardsqd4.md) *Scout (3087)* 
+- [**TinStar BattleArmor (Original)(Sqd4)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_originalsqd4.md) *Undefined (3087)* 
+- [**TinStar BattleArmor (Original)(Sqd5)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_originalsqd5.md) *Undefined (3087)* 
+- [**TinStar BattleArmor (Original)(Sqd6)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_originalsqd6.md) *Undefined (3087)* 
+- [**TinStar BattleArmor (Sqd4)**](../../../units/tinstar_battlearmor/tinstar_battlearmor_sqd4.md) *Ambusher (3087)* 
 
 #### [Trinity Medium Battle Armor](../../../units/trinity_medium_battle_armor.md) 
 
@@ -71,5 +71,5 @@
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)(Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd4.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_sqd4.md) *Juggernaut (3084)* 
 

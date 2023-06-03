@@ -1,6 +1,6 @@
 # Hawk Moth II Gunship 
 
-## Hawk Moth II Gunship (Standard) 
+## Hawk Moth II Gunship 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3112) 
@@ -13,7 +13,7 @@
   - SRM 6 × 2 (ammo: 15) 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6653) 
 - **Battle Value:** 910 
-- [*More Info*](hawk_moth_ii_gunship/hawk_moth_ii_gunship_standard.md) 
+- [*More Info*](hawk_moth_ii_gunship/hawk_moth_ii_gunship.md) 
 
 ## Hawk Moth II Gunship (Sniper) 
 

@@ -1,6 +1,6 @@
 # Nisos Attack WIGE 
 
-## Nisos Attack WIGE (Standard) 
+## Nisos Attack WIGE 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3122) 
@@ -13,7 +13,7 @@
   - SRM 6 (ammo: 15) 
 - **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6438) 
 - **Battle Value:** 1090 
-- [*More Info*](nisos_attack_wige/nisos_attack_wige_standard.md) 
+- [*More Info*](nisos_attack_wige/nisos_attack_wige.md) 
 
 ## Nisos Attack WIGE (Support) 
 

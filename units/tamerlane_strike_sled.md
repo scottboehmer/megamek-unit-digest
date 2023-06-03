@@ -1,6 +1,6 @@
 # Tamerlane Strike Sled 
 
-## Tamerlane Strike Sled (Standard) 
+## Tamerlane Strike Sled 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3071) 
@@ -13,7 +13,7 @@
   - SRM 2 (ammo: 50) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3158) 
 - **Battle Value:** 403 
-- [*More Info*](tamerlane_strike_sled/tamerlane_strike_sled_standard.md) 
+- [*More Info*](tamerlane_strike_sled/tamerlane_strike_sled.md) 
 
 ## Tamerlane Strike Sled (RL) 
 

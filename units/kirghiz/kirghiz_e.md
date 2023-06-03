@@ -4,7 +4,7 @@
 
 ## Kirghiz E 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3069) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8, XL 

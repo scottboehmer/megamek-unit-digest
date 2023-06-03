@@ -1,6 +1,6 @@
 # Scarab Medium Drone Fighter 
 
-## Scarab Medium Drone Fighter (Standard) 
+## Scarab Medium Drone Fighter 
 
 - **Role:** Fast Dogfighter 
 - **Tech Base:** Inner Sphere (3072) 
@@ -17,5 +17,5 @@
   - Smart Robotic Control System (Improved) 
 - **Sources:** JHS Terra - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2812) 
 - **Battle Value:** Unknown 
-- [*More Info*](scarab_medium_drone_fighter/scarab_medium_drone_fighter_standard.md) 
+- [*More Info*](scarab_medium_drone_fighter/scarab_medium_drone_fighter.md) 
 

@@ -1,6 +1,6 @@
 # Bulldog Medium Tank 
 
-## Bulldog Medium Tank (Standard) 
+## Bulldog Medium Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2673) 
@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 100) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/441) 
 - **Battle Value:** 605 
-- [*More Info*](bulldog_medium_tank/bulldog_medium_tank_standard.md) 
+- [*More Info*](bulldog_medium_tank/bulldog_medium_tank.md) 
 
 ## Bulldog Medium Tank (LRM) 
 
@@ -84,7 +84,7 @@
 
 ## Bulldog Medium Tank (LB-X) 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3110) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 4 / 6, Fuel Cell 

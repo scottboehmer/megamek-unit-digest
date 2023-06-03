@@ -19,10 +19,8 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Multi-Trac 
-  - Rugged (×3) 
   - Difficult to Maintain 
   - Poor Workmanship 
-  - Ubiquitous (Inner Sphere) 
 - **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5237) 
 - **Battle Value:** 1237 
 

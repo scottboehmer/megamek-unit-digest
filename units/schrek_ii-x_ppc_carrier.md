@@ -1,6 +1,6 @@
 # Schrek II-X PPC Carrier 
 
-## Schrek II-X PPC Carrier (Standard) 
+## Schrek II-X PPC Carrier 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3076) 
@@ -14,5 +14,5 @@
   - Targeting Computer 
 - **Sources:** XTR Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2823) 
 - **Battle Value:** 1110 
-- [*More Info*](schrek_ii-x_ppc_carrier/schrek_ii-x_ppc_carrier_standard.md) 
+- [*More Info*](schrek_ii-x_ppc_carrier/schrek_ii-x_ppc_carrier.md) 
 

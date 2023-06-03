@@ -97,7 +97,7 @@
 #### [Ogre Battle Armor](../../../units/ogre_battle_armor.md) 
 
 - [**Ogre Battle Armor (Interdictor)(Sqd4)**](../../../units/ogre_battle_armor/ogre_battle_armor_interdictorsqd4.md) *Juggernaut (3091)* `ECM` , `Stealth` 
-- [**Ogre Battle Armor (Standard)(Sqd4)**](../../../units/ogre_battle_armor/ogre_battle_armor_standardsqd4.md) *Juggernaut (3091)* 
+- [**Ogre Battle Armor (Sqd4)**](../../../units/ogre_battle_armor/ogre_battle_armor_sqd4.md) *Juggernaut (3091)* 
 
 #### [Phalanx Battle Armor](../../../units/phalanx_battle_armor.md) 
 
@@ -114,5 +114,5 @@
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 
-- [**Ravager Assault Battle Armor (Standard)(Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_standardsqd4.md) *Juggernaut (3084)* 
+- [**Ravager Assault Battle Armor (Sqd4)**](../../../units/ravager_assault_battle_armor/ravager_assault_battle_armor_sqd4.md) *Juggernaut (3084)* 
 

@@ -5,7 +5,7 @@
 ## IS Standard Battle Armor (Baka) (LRR)(Sqd4) 
 
 - **Role:** Ambusher 
-- **Tech Base:** Inner Sphere (3150) 
+- **Tech Base:** Inner Sphere (3086) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
 - **Armor:** 9 (Standard) 
@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Light Recoilless Rifle 
   - SRM 2 (OS) × 2 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8022) 
+- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8022) 
 - **Battle Value:** 43 (224 for 4 suits) 
 
 ## Availability 

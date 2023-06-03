@@ -11,7 +11,7 @@
 #### [Stinger](../../../units/stinger.md) 
 
 - [**Stinger STG-3Gb**](../../../units/stinger/stinger_stg-3gb.md) *Striker (2720)* 
-- [**Stinger C 2**](../../../units/stinger/stinger_c_2.md) *Undefined (2838)* 
+- [**Stinger C 2**](../../../units/stinger/stinger_c_2.md) *Scout (2838)* 
 
 #### [Thorn](../../../units/thorn.md) 
 
@@ -25,7 +25,7 @@
 
 #### [Locust IIC](../../../units/locust_iic.md) 
 
-- [**Locust IIC (Standard)**](../../../units/locust_iic/locust_iic_standard.md) *Striker (2832)* 
+- [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 
 #### [Mongoose](../../../units/mongoose.md) 
 
@@ -104,7 +104,7 @@
 
 #### [Shadow Hawk IIC](../../../units/shadow_hawk_iic.md) 
 
-- [**Shadow Hawk IIC (Standard)**](../../../units/shadow_hawk_iic/shadow_hawk_iic_standard.md) *Striker (2831)* 
+- [**Shadow Hawk IIC**](../../../units/shadow_hawk_iic/shadow_hawk_iic.md) *Striker (2831)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
 
@@ -143,7 +143,7 @@
 
 #### [Naja](../../../units/naja.md) 
 
-- [**Naja (Standard)**](../../../units/naja/naja_standard.md) *Brawler (2826)* 
+- [**Naja**](../../../units/naja/naja.md) *Brawler (2826)* 
 
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
@@ -174,7 +174,7 @@
 
 #### [Vision Quest](../../../units/vision_quest.md) 
 
-- [**Vision Quest (Standard)**](../../../units/vision_quest/vision_quest_standard.md) *Brawler (2832)* 
+- [**Vision Quest**](../../../units/vision_quest/vision_quest.md) *Brawler (2832)* 
 
 ### 65 Tons 
 

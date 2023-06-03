@@ -2,7 +2,7 @@
 
 ## Deathstalker F-77 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2744) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8 
@@ -19,7 +19,7 @@
 
 ## Deathstalker XF-78 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, XL 
@@ -38,7 +38,7 @@
 
 ## Deathstalker F-77A 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3073) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, Light 

@@ -1,6 +1,6 @@
 # Rhino 
 
-## Rhino (Standard) 
+## Rhino 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan Mixed (3140) 
@@ -16,5 +16,5 @@
   - Ram Plate 
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7883) 
 - **Battle Value:** unknown 
-- [*More Info*](rhino/rhino_standard.md) 
+- [*More Info*](rhino/rhino.md) 
 

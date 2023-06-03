@@ -4,7 +4,7 @@
 
 ## Galleon Light Tank GAL-200 (RL) 
 
-- **Role:** Scout 
+- **Role:** Ambusher 
 - **Tech Base:** Inner Sphere (2801) 
 - **Chassis:** 30 tons Tracked 
 - **Movement:** 6 / 9, ICE 

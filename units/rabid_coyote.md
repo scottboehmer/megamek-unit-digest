@@ -1,6 +1,6 @@
 # Rabid Coyote 
 
-## Rabid Coyote (Standard) 
+## Rabid Coyote 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3066) 
@@ -19,7 +19,7 @@
   - Bad Reputation (Clan) 
 - **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4891) 
 - **Battle Value:** 2081 
-- [*More Info*](rabid_coyote/rabid_coyote_standard.md) 
+- [*More Info*](rabid_coyote/rabid_coyote.md) 
 
 ## Rabid Coyote 2 
 

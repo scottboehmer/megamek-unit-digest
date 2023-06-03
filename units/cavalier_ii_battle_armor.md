@@ -13,8 +13,8 @@
 - **Weapons:** 
   - Clan Flamer 
 - **Equipment:** 
-  - Anti-Personnel Mount 
   - Clan Jump Booster 
+  - Anti-Personnel Mount 
 - **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8017) 
 - **Battle Value:** 44 (229 for 4 suits) 
 - [*More Info*](cavalier_ii_battle_armor/cavalier_ii_battle_armor_flamersqd4.md) 
@@ -32,8 +32,8 @@
 - **Weapons:** 
   - Clan Medium Recoilless Rifle 
 - **Equipment:** 
-  - Anti-Personnel Mount 
   - Clan Jump Booster 
+  - Anti-Personnel Mount 
 - **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8018) 
 - **Battle Value:** 69 (357 for 4 suits) 
 - [*More Info*](cavalier_ii_battle_armor/cavalier_ii_battle_armor_mrrsqd4.md) 
@@ -51,8 +51,8 @@
 - **Weapons:** 
   - Support PPC 
 - **Equipment:** 
-  - Anti-Personnel Mount 
   - Clan Jump Booster 
+  - Anti-Personnel Mount 
 - **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8019) 
 - **Battle Value:** 60 (311 for 4 suits) 
 - [*More Info*](cavalier_ii_battle_armor/cavalier_ii_battle_armor_ppcsqd4.md) 
@@ -70,8 +70,8 @@
 - **Weapons:** 
   - SRM 1 (ammo: 4) 
 - **Equipment:** 
-  - Anti-Personnel Mount 
   - Clan Jump Booster 
+  - Anti-Personnel Mount 
 - **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8020) 
 - **Battle Value:** 49 (252 for 4 suits) 
 - [*More Info*](cavalier_ii_battle_armor/cavalier_ii_battle_armor_srmsqd4.md) 

@@ -1,5 +1,24 @@
 # Mauna Kea Command Vessel 
 
+## Mauna Kea Command Vessel 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2515) 
+- **Chassis:** 85 tons Displacement Hull 
+- **Movement:** 3 / 5, ICE 
+- **Armor:** 240 
+- **Heat Sinks:** 0 (0) 
+- **Weapons:** 
+  - LRM 15 (ammo: 16) 
+  - AC/10 (ammo: 20) 
+  - Machine Gun × 5 (ammo: 100) 
+- **Equipment:** 
+  - Communications Equipment 
+  - Cargo 
+- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2113) 
+- **Battle Value:** 869 
+- [*More Info*](mauna_kea_command_vessel/mauna_kea_command_vessel.md) 
+
 ## Mauna Kea Command Vessel (LRM) 
 
 - **Role:** Missile Boat 
@@ -36,25 +55,6 @@
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2112) 
 - **Battle Value:** 1022 
 - [*More Info*](mauna_kea_command_vessel/mauna_kea_command_vessel_lrt.md) 
-
-## Mauna Kea Command Vessel (Standard) 
-
-- **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (2515) 
-- **Chassis:** 85 tons Displacement Hull 
-- **Movement:** 3 / 5, ICE 
-- **Armor:** 240 
-- **Heat Sinks:** 0 (0) 
-- **Weapons:** 
-  - LRM 15 (ammo: 16) 
-  - AC/10 (ammo: 20) 
-  - Machine Gun × 5 (ammo: 100) 
-- **Equipment:** 
-  - Communications Equipment 
-  - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2113) 
-- **Battle Value:** 869 
-- [*More Info*](mauna_kea_command_vessel/mauna_kea_command_vessel_standard.md) 
 
 ## Mauna Kea Command Vessel (LB-X) 
 

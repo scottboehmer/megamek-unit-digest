@@ -43,7 +43,7 @@
 
 ## Griffin GRF-1RG 
 
-- **Role:** Missile Boat 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (2597) 
 - **Chassis:** 55 tons 
 - **Movement:** 5 / 8 
@@ -65,7 +65,7 @@
 
 ## Griffin GRF-2N2 
 
-- **Role:** Undefined 
+- **Role:** Skirmisher 
 - **Tech Base:** Inner Sphere (2703) 
 - **Chassis:** 55 tons (Endo Steel) 
 - **Movement:** 5 / 8 
@@ -83,6 +83,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (PPC) 
+- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6767) 
 - **Battle Value:** 1513 
 - [*More Info*](griffin/griffin_grf-2n2.md) 
 

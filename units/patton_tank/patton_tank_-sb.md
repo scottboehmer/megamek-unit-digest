@@ -4,7 +4,7 @@
 
 ## Patton Tank -SB 
 
-- **Role:** Undefined 
+- **Role:** Sniper 
 - **Tech Base:** Inner Sphere (3079) 
 - **Chassis:** 65 tons Tracked 
 - **Movement:** 4 / 6 (8), XL 

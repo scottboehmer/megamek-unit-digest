@@ -19,9 +19,10 @@
   - Full Head Ejection System 
   - MASC 
 - **Design Quirks:** 
-  - Improved Communications 
   - Command ’Mech 
+  - Improved Communications 
   - Ubiquitous 
+  - Jettison-Capable Weapon (Large Pulse Laser) 
 - **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2509) 
 - **Battle Value:** 1496 
 

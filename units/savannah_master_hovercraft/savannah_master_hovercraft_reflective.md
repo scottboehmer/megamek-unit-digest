@@ -4,7 +4,7 @@
 
 ## Savannah Master Hovercraft (Reflective) 
 
-- **Role:** Scout 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3094) 
 - **Chassis:** 5 tons Hover 
 - **Movement:** 13 / 20, Fusion 
@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Medium Laser 
-- **Source:** Dark Age 
+- **Sources:** Rec Guide:ilClan #31 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9452) 
 - **Battle Value:** 263 
 
 ## Availability 

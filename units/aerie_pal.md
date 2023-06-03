@@ -1,6 +1,6 @@
 # Aerie PA(L) 
 
-## Aerie PA(L) (Standard)(Sqd4) 
+## Aerie PA(L) (Sqd4) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3067) 
@@ -16,9 +16,9 @@
   - Extended Life Support 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3674) 
 - **Battle Value:** 5 (27 for 4 suits) 
-- [*More Info*](aerie_pal/aerie_pal_standardsqd4.md) 
+- [*More Info*](aerie_pal/aerie_pal_sqd4.md) 
 
-## Aerie PA(L) (Standard)(Sqd5) 
+## Aerie PA(L) (Sqd5) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3067) 
@@ -34,9 +34,9 @@
   - Extended Life Support 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8601) 
 - **Battle Value:** 5 (37 for 5 suits) 
-- [*More Info*](aerie_pal/aerie_pal_standardsqd5.md) 
+- [*More Info*](aerie_pal/aerie_pal_sqd5.md) 
 
-## Aerie PA(L) (Standard)(Sqd6) 
+## Aerie PA(L) (Sqd6) 
 
 - **Role:** Ambusher 
 - **Tech Base:** Clan (3067) 
@@ -52,7 +52,7 @@
   - Extended Life Support 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8965) 
 - **Battle Value:** 5 (47 for 6 suits) 
-- [*More Info*](aerie_pal/aerie_pal_standardsqd6.md) 
+- [*More Info*](aerie_pal/aerie_pal_sqd6.md) 
 
 ## Aerie PA(L) (Salvage)(Sqd4) 
 

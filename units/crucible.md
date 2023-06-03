@@ -1,6 +1,6 @@
 # Crucible 
 
-## Crucible (Standard) 
+## Crucible 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3149) 
@@ -19,7 +19,7 @@
   - Oversized 
 - **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7734) 
 - **Battle Value:** 3108 
-- [*More Info*](crucible/crucible_standard.md) 
+- [*More Info*](crucible/crucible.md) 
 
 ## Crucible 2 
 

@@ -1,6 +1,6 @@
 # Enyo Strike Tank 
 
-## Enyo Strike Tank (Standard) 
+## Enyo Strike Tank 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3063) 
@@ -16,7 +16,7 @@
   - CASE 
 - **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4127) 
 - **Battle Value:** 1504 
-- [*More Info*](enyo_strike_tank/enyo_strike_tank_standard.md) 
+- [*More Info*](enyo_strike_tank/enyo_strike_tank.md) 
 
 ## Enyo Strike Tank (LB-X) 'Sholef' 
 

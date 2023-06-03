@@ -159,7 +159,7 @@
 
 #### [Dervish](../../../units/dervish.md) 
 
-- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2610)* 
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
 
 #### [Gladiator](../../../units/gladiator.md) 
 
@@ -235,7 +235,7 @@
 
 - [**Thunderbolt TDR-5S**](../../../units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
 - [**Thunderbolt TDR-5D**](../../../units/thunderbolt/thunderbolt_tdr-5d.md) *Brawler (2821)* 
-- [**Thunderbolt TDR-5SE**](../../../units/thunderbolt/thunderbolt_tdr-5se.md) *Skirmisher (2910)* 
+- [**Thunderbolt TDR-5SE**](../../../units/thunderbolt/thunderbolt_tdr-5se.md) *Skirmisher (3000)* 
 
 ### 70 Tons 
 

@@ -4,7 +4,7 @@
 
 ## Goth A 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Clan (2873) 
 - **Chassis:** 60 tons 
 - **Thrust:** 5 / 8 

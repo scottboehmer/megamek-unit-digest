@@ -15,6 +15,8 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
+- **Design Quirks:** 
+  - Stabilized Weapon (Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7748) 
 - **Battle Value:** 1475 
 

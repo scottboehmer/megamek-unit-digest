@@ -1,6 +1,6 @@
 # Pike Support Vehicle 
 
-## Pike Support Vehicle (Standard) 
+## Pike Support Vehicle 
 
 - **Role:** Sniper 
 - **Tech Base:** Inner Sphere (2987) 
@@ -13,7 +13,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2523) 
 - **Battle Value:** 648 
-- [*More Info*](pike_support_vehicle/pike_support_vehicle_standard.md) 
+- [*More Info*](pike_support_vehicle/pike_support_vehicle.md) 
 
 ## Pike Support Vehicle (Missile) 
 

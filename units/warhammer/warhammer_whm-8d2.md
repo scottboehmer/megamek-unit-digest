@@ -22,7 +22,8 @@
   - Rugged (×3) 
   - Searchlight 
   - Stable 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6868) 
+  - Ubiquitous 
+- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6868) 
 - **Battle Value:** 1654 
 
 ## Availability 

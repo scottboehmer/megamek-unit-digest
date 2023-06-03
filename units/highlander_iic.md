@@ -1,6 +1,6 @@
 # Highlander IIC 
 
-## Highlander IIC (Standard) 
+## Highlander IIC 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2858) 
@@ -23,7 +23,7 @@
   - Difficult Ejection 
 - **Sources:** TRO 3060 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1524) 
 - **Battle Value:** 2979 
-- [*More Info*](highlander_iic/highlander_iic_standard.md) 
+- [*More Info*](highlander_iic/highlander_iic.md) 
 
 ## Highlander IIC 2 
 

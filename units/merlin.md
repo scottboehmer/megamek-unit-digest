@@ -86,7 +86,7 @@
 
 ## Merlin MLN-SX 
 
-- **Role:** Skirmisher 
+- **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3075) 
 - **Chassis:** 60 tons (Endo Composite) 
 - **Movement:** 4 / 6, Light 
@@ -126,6 +126,30 @@
 - **Sources:** Rec Guide:ilClan #26 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9316) 
 - **Battle Value:** 1370 
 - [*More Info*](merlin/merlin_mln-1d.md) 
+
+## Merlin C 
+
+- **Role:** Brawler 
+- **Tech Base:** Clan (3093) 
+- **Chassis:** 60 tons 
+- **Movement:** 4 / 6 
+  - **Jumping:** 4 
+- **Armor:** 168 (Ferro Lamellor) 
+- **Heat Sinks:** 18 (36) 
+- **Weapons:** 
+  - ER PPC 
+  - Improved Heavy Medium Laser × 2 
+  - Streak LRM 5 (ammo: 24) 
+  - Heavy Machine Gun (ammo: 50) 
+  - Flamer 
+- **Equipment:** 
+  - CASE 
+- **Design Quirks:** 
+  - Easy to Maintain 
+  - Rugged (×2) 
+- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9319) 
+- **Battle Value:** 1870 
+- [*More Info*](merlin/merlin_c.md) 
 
 ## Merlin MLN-1E 
 
@@ -170,28 +194,4 @@
 - **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9318) 
 - **Battle Value:** 1182 
 - [*More Info*](merlin/merlin_mln-1p.md) 
-
-## Merlin C 
-
-- **Role:** Brawler 
-- **Tech Base:** Clan (3130) 
-- **Chassis:** 60 tons 
-- **Movement:** 4 / 6 
-  - **Jumping:** 4 
-- **Armor:** 168 (Ferro Lamellor) 
-- **Heat Sinks:** 18 (36) 
-- **Weapons:** 
-  - ER PPC 
-  - Improved Heavy Medium Laser × 2 
-  - Streak LRM 5 (ammo: 24) 
-  - Heavy Machine Gun (ammo: 50) 
-  - Flamer 
-- **Equipment:** 
-  - CASE 
-- **Design Quirks:** 
-  - Easy to Maintain 
-  - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9319) 
-- **Battle Value:** 1870 
-- [*More Info*](merlin/merlin_c.md) 
 

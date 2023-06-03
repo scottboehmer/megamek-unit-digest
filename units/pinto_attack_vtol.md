@@ -1,6 +1,6 @@
 # Pinto Attack VTOL 
 
-## Pinto Attack VTOL (Standard) 
+## Pinto Attack VTOL 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (3055) 
@@ -16,7 +16,7 @@
   - Infantry (1.0 tons) 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2532) 
 - **Battle Value:** 710 
-- [*More Info*](pinto_attack_vtol/pinto_attack_vtol_standard.md) 
+- [*More Info*](pinto_attack_vtol/pinto_attack_vtol.md) 
 
 ## Pinto Attack VTOL (WoB) 
 

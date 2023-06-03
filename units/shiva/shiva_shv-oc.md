@@ -4,7 +4,7 @@
 
 ## Shiva SHV-OC 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3060) 
 - **Chassis:** 85 tons 
 - **Thrust:** 5 / 8, XL 

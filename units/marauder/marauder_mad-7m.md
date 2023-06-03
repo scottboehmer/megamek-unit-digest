@@ -17,6 +17,12 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Hyper-Extending Actuators 
+  - Narrow/Low Profile 
+  - Directional Torso Mount (LB 5-X AC) 
+  - Exposed Weapon Linkage (LB 5-X AC) 
 - **Sources:** Rec Guide:ilClan #6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7531) 
 - **Battle Value:** 1908 
 

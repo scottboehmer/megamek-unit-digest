@@ -1,6 +1,6 @@
 # Scorpion Light Tank 
 
-## Scorpion Light Tank (Standard) 
+## Scorpion Light Tank 
 
 - **Role:** Brawler 
 - **Tech Base:** Inner Sphere (2807) 
@@ -13,7 +13,7 @@
   - Machine Gun (ammo: 100) 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2847) 
 - **Battle Value:** 306 
-- [*More Info*](scorpion_light_tank/scorpion_light_tank_standard.md) 
+- [*More Info*](scorpion_light_tank/scorpion_light_tank.md) 
 
 ## Scorpion Light Tank (LRM) 
 

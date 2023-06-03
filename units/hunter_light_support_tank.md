@@ -1,6 +1,6 @@
 # Hunter Light Support Tank 
 
-## Hunter Light Support Tank (Standard) 
+## Hunter Light Support Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2937) 
@@ -13,7 +13,7 @@
   - Flamer 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1579) 
 - **Battle Value:** 648 
-- [*More Info*](hunter_light_support_tank/hunter_light_support_tank_standard.md) 
+- [*More Info*](hunter_light_support_tank/hunter_light_support_tank.md) 
 
 ## Hunter Light Support Tank (LRM10) 
 

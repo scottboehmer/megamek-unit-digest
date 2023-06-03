@@ -16,7 +16,7 @@
 - **Battle Value:** 302 
 - [*More Info*](shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_original.md) 
 
-## Shandra Advanced Scout Vehicle (Standard) 
+## Shandra Advanced Scout Vehicle 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3089) 
@@ -32,5 +32,5 @@
   - Guardian ECM Suite 
 - **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6654) 
 - **Battle Value:** 417 
-- [*More Info*](shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle_standard.md) 
+- [*More Info*](shandra_advanced_scout_vehicle/shandra_advanced_scout_vehicle.md) 
 

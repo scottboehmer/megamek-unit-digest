@@ -39,7 +39,7 @@
 
 #### [Rogue](../../../units/rogue.md) 
 
-- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Undefined (2631)* 
 
 ### 45 Tons 
 
@@ -69,7 +69,7 @@
 
 #### [Gotha](../../../units/gotha.md) 
 
-- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Attack Fighter (2657)* 
+- [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Undefined (2657)* 
 
 #### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
@@ -88,8 +88,8 @@
 
 #### [Lucifer](../../../units/lucifer.md) 
 
-- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Attack Fighter (2526)* 
-- [**Lucifer LCF-R20**](../../../units/lucifer/lucifer_lcf-r20.md) *Attack Fighter (2609)* 
+- [**Lucifer LCF-R15**](../../../units/lucifer/lucifer_lcf-r15.md) *Undefined (2526)* 
+- [**Lucifer LCF-R20**](../../../units/lucifer/lucifer_lcf-r20.md) *Undefined (2609)* 
 
 ### 75 Tons 
 
@@ -112,23 +112,23 @@
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
 
 #### [Chippewa](../../../units/chippewa.md) 
 
-- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Attack Fighter (2584)* 
-- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Attack Fighter (2735)* 
+- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Undefined (2584)* 
+- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Undefined (2735)* 
 
 #### [Typhoon](../../../units/typhoon.md) 
 
-- [**Typhoon TFN-2A**](../../../units/typhoon/typhoon_tfn-2a.md) *Attack Fighter (2461)* 
-- [**Typhoon TFN-3A**](../../../units/typhoon/typhoon_tfn-3a.md) *Attack Fighter (2469)* 
-- [**Typhoon TFN-3M**](../../../units/typhoon/typhoon_tfn-3m.md) *Attack Fighter (2473)* 
+- [**Typhoon TFN-2A**](../../../units/typhoon/typhoon_tfn-2a.md) *Undefined (2461)* 
+- [**Typhoon TFN-3A**](../../../units/typhoon/typhoon_tfn-3a.md) *Undefined (2469)* 
+- [**Typhoon TFN-3M**](../../../units/typhoon/typhoon_tfn-3m.md) *Undefined (2473)* 
 
 ### 100 Tons 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
-- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Attack Fighter (2724)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
+- [**Thunderbird TRB-D46**](../../../units/thunderbird/thunderbird_trb-d46.md) *Undefined (2724)* 
 

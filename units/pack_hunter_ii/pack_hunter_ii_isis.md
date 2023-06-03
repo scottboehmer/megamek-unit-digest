@@ -18,6 +18,8 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - CASE 
+- **Design Quirks:** 
+  - Stabilized Weapon (Unknown Component) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5540) 
 - **Battle Value:** 1276 
 

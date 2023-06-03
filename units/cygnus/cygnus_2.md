@@ -16,6 +16,10 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Static Ammo Feed (Unknown Component) 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Static Ammo Feed (Unknown Component) 
   - Exposed Weapon Linkage (HAG 40) 
   - Static Ammo Feed (HAG 40) 
   - Exposed Weapon Linkage (HAG 40) 

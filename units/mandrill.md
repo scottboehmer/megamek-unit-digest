@@ -1,6 +1,6 @@
 # Mandrill 
 
-## Mandrill (Standard) 
+## Mandrill 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (2829) 
@@ -18,5 +18,5 @@
   - Narrow/Low Profile 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2011) 
 - **Battle Value:** 1209 
-- [*More Info*](mandrill/mandrill_standard.md) 
+- [*More Info*](mandrill/mandrill.md) 
 

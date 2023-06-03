@@ -1,6 +1,6 @@
 # Axel Heavy Tank IIC 
 
-## Axel Heavy Tank IIC (Standard) 
+## Axel Heavy Tank IIC 
 
 - **Role:** Brawler 
 - **Tech Base:** Clan (3074) 
@@ -17,7 +17,7 @@
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/182) 
 - **Battle Value:** 1612 
-- [*More Info*](axel_heavy_tank_iic/axel_heavy_tank_iic_standard.md) 
+- [*More Info*](axel_heavy_tank_iic/axel_heavy_tank_iic.md) 
 
 ## Axel Heavy Tank IIC (XL) 
 

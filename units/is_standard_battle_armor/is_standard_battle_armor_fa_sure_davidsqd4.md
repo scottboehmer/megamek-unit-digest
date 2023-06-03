@@ -5,7 +5,7 @@
 ## IS Standard Battle Armor (Fa Sure) (David)(Sqd4) 
 
 - **Role:** Ambusher 
-- **Tech Base:** Inner Sphere (3150) 
+- **Tech Base:** Inner Sphere (3140) 
 - **Chassis:** Medium Battle Armor (1,000 kg) 
 - **Movement:** 1 
   - **Jumping:** 3 
@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Mine Dispenser 
   - Magnetic Clamps 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8025) 
+- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8025) 
 - **Battle Value:** 48 (251 for 4 suits) 
 
 ## Availability 

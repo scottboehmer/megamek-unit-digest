@@ -1,6 +1,6 @@
 # Danai Support Vehicle 
 
-## Danai Support Vehicle (Standard) 
+## Danai Support Vehicle 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3073) 
@@ -13,11 +13,11 @@
   - Thumper (ammo: 20) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/822) 
 - **Battle Value:** 576 
-- [*More Info*](danai_support_vehicle/danai_support_vehicle_standard.md) 
+- [*More Info*](danai_support_vehicle/danai_support_vehicle.md) 
 
-## Danai Support Vehicle Arrow 
+## Danai Support Vehicle (Arrow) 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3076) 
 - **Chassis:** 45 tons Wheeled 
 - **Movement:** 4 / 6, Fusion 

@@ -1,6 +1,6 @@
 # Clan Interface Armor 
 
-## Clan Interface Armor (Standard)(Sqd1) 
+## Clan Interface Armor (Sqd1) 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3083) 
@@ -15,5 +15,5 @@
   - BattleMech Neural Interface Unit 
 - **Sources:** XTRO Republic III - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7387) 
 - **Battle Value:** 7 (7 for 1 suits) 
-- [*More Info*](clan_interface_armor/clan_interface_armor_standardsqd1.md) 
+- [*More Info*](clan_interface_armor/clan_interface_armor_sqd1.md) 
 

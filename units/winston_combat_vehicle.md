@@ -1,5 +1,25 @@
 # Winston Combat Vehicle 
 
+## Winston Combat Vehicle 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (3086) 
+- **Chassis:** 70 tons Tracked 
+- **Movement:** 3 / 5, Light 
+- **Armor:** 285 (Heavy Ferro Fibrous) 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 15 × 2 (ammo: 24) 
+  - Streak SRM 6 (ammo: 15) 
+  - Light PPC × 2 
+- **Equipment:** 
+  - Anti-Missile System (ammo: 12) 
+  - Targeting Computer 
+  - CASE 
+- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3553) 
+- **Battle Value:** 1507 
+- [*More Info*](winston_combat_vehicle/winston_combat_vehicle.md) 
+
 ## Winston Combat Vehicle (LAC) 
 
 - **Role:** Juggernaut 
@@ -18,26 +38,6 @@
 - **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3552) 
 - **Battle Value:** 1314 
 - [*More Info*](winston_combat_vehicle/winston_combat_vehicle_lac.md) 
-
-## Winston Combat Vehicle (Standard) 
-
-- **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (3086) 
-- **Chassis:** 70 tons Tracked 
-- **Movement:** 3 / 5, Light 
-- **Armor:** 285 (Heavy Ferro Fibrous) 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - LRM 15 × 2 (ammo: 24) 
-  - Streak SRM 6 (ammo: 15) 
-  - Light PPC × 2 
-- **Equipment:** 
-  - Anti-Missile System (ammo: 12) 
-  - Targeting Computer 
-  - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3553) 
-- **Battle Value:** 1507 
-- [*More Info*](winston_combat_vehicle/winston_combat_vehicle_standard.md) 
 
 ## Winston Combat Vehicle (Support) 
 

@@ -1,6 +1,6 @@
 # Jaguar 
 
-## Jaguar (Standard) 
+## Jaguar 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3121) 
@@ -19,7 +19,7 @@
   - Protected Actuators 
 - **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6612) 
 - **Battle Value:** 1791 
-- [*More Info*](jaguar/jaguar_standard.md) 
+- [*More Info*](jaguar/jaguar.md) 
 
 ## Jaguar 2 
 

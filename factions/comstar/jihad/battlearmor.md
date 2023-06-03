@@ -64,7 +64,7 @@
 - [**Kobold Battle Armor (MicroGL/TAG)(Sqd6)**](../../../units/kobold_battle_armor/kobold_battle_armor_microgl_tagsqd6.md) *Ambusher (3069)* `Stealth` , `TAG` 
 - [**Kobold Battle Armor (SL/Flamer)(Sqd6)**](../../../units/kobold_battle_armor/kobold_battle_armor_sl_flamersqd6.md) *Ambusher (3069)* `Stealth` 
 - [**Kobold Battle Armor (SL/TAG)(Sqd6)**](../../../units/kobold_battle_armor/kobold_battle_armor_sl_tagsqd6.md) *Ambusher (3069)* `Stealth` , `TAG` 
-- [**Kobold Battle Armor X-C3(Sqd6)**](../../../units/kobold_battle_armor/kobold_battle_armor_x-c3sqd6.md) *Undefined (3076)* `C3i` , `Stealth` 
+- [**Kobold Battle Armor X-C3(Sqd6)**](../../../units/kobold_battle_armor/kobold_battle_armor_x-c3sqd6.md) *Ambusher (3076)* `C3i` , `Stealth` 
 
 #### [Kobold Battle Armor IIC](../../../units/kobold_battle_armor_iic.md) 
 

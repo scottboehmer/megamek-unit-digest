@@ -4,7 +4,7 @@
 
 ## Rogue RGU-133E 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2631) 
 - **Chassis:** 40 tons 
 - **Thrust:** 7 / 11 

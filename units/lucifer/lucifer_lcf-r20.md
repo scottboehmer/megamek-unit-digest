@@ -4,7 +4,7 @@
 
 ## Lucifer LCF-R20 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2609) 
 - **Chassis:** 65 tons 
 - **Thrust:** 5 / 8 

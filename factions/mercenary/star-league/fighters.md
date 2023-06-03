@@ -32,7 +32,7 @@
 
 #### [Rogue](../../../units/rogue.md) 
 
-- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Attack Fighter (2631)* 
+- [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Undefined (2631)* 
 
 ### 45 Tons 
 
@@ -72,7 +72,7 @@
 
 #### [Eagle Aerospace Fighter](../../../units/eagle_aerospace_fighter.md) 
 
-- [**Eagle EGL-R1**](../../../units/eagle_aerospace_fighter/eagle_egl-r1.md) *Attack Fighter (2324)* 
+- [**Eagle EGL-R1**](../../../units/eagle_aerospace_fighter/eagle_egl-r1.md) *Undefined (2324)* 
 - [**Eagle EGL-R6**](../../../units/eagle_aerospace_fighter/eagle_egl-r6.md) *Dogfighter (2501)* 
 
 #### [Hammerhead Aerospace Fighter](../../../units/hammerhead_aerospace_fighter.md) 
@@ -83,11 +83,11 @@
 
 #### [Ahab](../../../units/ahab.md) 
 
-- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Attack Fighter (2703)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
 
 ### 100 Tons 
 
 #### [Thunderbird](../../../units/thunderbird.md) 
 
-- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Attack Fighter (2480)* 
+- [**Thunderbird TRB-D36**](../../../units/thunderbird/thunderbird_trb-d36.md) *Undefined (2480)* 
 

@@ -1,6 +1,6 @@
 # Bellona Hover Tank 
 
-## Bellona Hover Tank (Standard) 
+## Bellona Hover Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (3070) 
@@ -16,7 +16,7 @@
   - CASE 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/326) 
 - **Battle Value:** 1018 
-- [*More Info*](bellona_hover_tank/bellona_hover_tank_standard.md) 
+- [*More Info*](bellona_hover_tank/bellona_hover_tank.md) 
 
 ## Bellona Hover Tank (Laser) 
 
@@ -36,4 +36,22 @@
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/325) 
 - **Battle Value:** 1262 
 - [*More Info*](bellona_hover_tank/bellona_hover_tank_laser.md) 
+
+## Bellona Hover Tank (XL) 
+
+- **Role:** Undefined 
+- **Tech Base:** Clan (3135) 
+- **Chassis:** 45 tons Hover 
+- **Movement:** 10 / 15, XL 
+- **Armor:** 134 (Ferro Fibrous) 
+- **Heat Sinks:** 12 (12) 
+- **Weapons:** 
+  - ER Large Laser 
+  - Streak LRM 5 × 2 (ammo: 24) 
+- **Equipment:** 
+  - Targeting Computer 
+  - Armored Motive System 
+- **Sources:** RS 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8036) 
+- **Battle Value:** 1408 
+- [*More Info*](bellona_hover_tank/bellona_hover_tank_xl.md) 
 

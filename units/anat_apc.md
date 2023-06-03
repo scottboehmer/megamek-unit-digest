@@ -1,6 +1,6 @@
 # Anat APC 
 
-## Anat APC (Standard) 
+## Anat APC 
 
 - **Role:** Scout 
 - **Tech Base:** Clan (3092) 
@@ -15,5 +15,5 @@
   - Infantry (5.0 tons) 
 - **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6245) 
 - **Battle Value:** 282 
-- [*More Info*](anat_apc/anat_apc_standard.md) 
+- [*More Info*](anat_apc/anat_apc.md) 
 

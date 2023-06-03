@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2343) 
+- **Sources:** TRO:DA - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2343) 
 - **Battle Value:** 2077 
 
 ## Availability 

@@ -4,7 +4,7 @@
 
 ## Mobile Long Tom Artillery (+Carriages)(Unofficial) 
 
-- **Role:** Undefined 
+- **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2602) 
 - **Chassis:** 95 tons Tracked 
 - **Movement:** 2 / 3, ICE 

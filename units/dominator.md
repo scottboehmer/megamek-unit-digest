@@ -1,6 +1,6 @@
 # Dominator 
 
-## Dominator (Standard) 
+## Dominator 
 
 - **Role:** Skirmisher 
 - **Tech Base:** Clan (3148) 
@@ -25,7 +25,7 @@
   - Exposed Weapon Linkage (ER Large Laser) 
 - **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7434) 
 - **Battle Value:** 3018 
-- [*More Info*](dominator/dominator_standard.md) 
+- [*More Info*](dominator/dominator.md) 
 
 ## Dominator 2 
 

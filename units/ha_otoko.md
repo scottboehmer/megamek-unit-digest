@@ -1,6 +1,6 @@
 # Ha Otoko 
 
-## Ha Otoko (Standard) 
+## Ha Otoko 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Clan (3060) 
@@ -17,7 +17,7 @@
   - Bad Reputation (Clan) 
 - **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1355) 
 - **Battle Value:** 1873 
-- [*More Info*](ha_otoko/ha_otoko_standard.md) 
+- [*More Info*](ha_otoko/ha_otoko.md) 
 
 ## Ha Otoko HKO-1C 
 

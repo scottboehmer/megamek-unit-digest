@@ -1,6 +1,6 @@
 # Galahad (Glass Spider) 
 
-## Glass Spider (Standard) "Galahad" 
+## Glass Spider "Galahad" 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (2834) 
@@ -18,7 +18,7 @@
   - Multi-Trac 
 - **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1170) 
 - **Battle Value:** 1825 
-- [*More Info*](glass_spider/glass_spider_standard.md) 
+- [*More Info*](glass_spider/glass_spider.md) 
 
 ## Glass Spider 2 "Galahad" 
 

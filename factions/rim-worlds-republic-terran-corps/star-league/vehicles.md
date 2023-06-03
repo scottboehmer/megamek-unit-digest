@@ -16,7 +16,7 @@
 
 #### [Heavy Tracked APC](../../../units/heavy_tracked_apc.md) 
 
-- [**Heavy Tracked APC (Standard)**](../../../units/heavy_tracked_apc/heavy_tracked_apc_standard.md) *Scout (2470)* `Transport:6.0` 
+- [**Heavy Tracked APC**](../../../units/heavy_tracked_apc/heavy_tracked_apc.md) *Scout (2470)* `Transport:6.0` 
 
 #### [Rotunda Scout Vehicle](../../../units/rotunda_scout_vehicle.md) 
 
@@ -24,30 +24,30 @@
 
 #### [Skulker Wheeled Scout Tank](../../../units/skulker_wheeled_scout_tank.md) 
 
-- [**Skulker Wheeled Scout Tank (Standard)**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_standard.md) *Scout (2659)* 
-- [**Skulker Wheeled Scout Tank C**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c.md) *Scout (3150)* `Active Probe` , `ECM` , `Stealth` 
+- [**Skulker Wheeled Scout Tank**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank.md) *Scout (2659)* 
+- [**Skulker Wheeled Scout Tank C**](../../../units/skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c.md) *Undefined (3087)* `Active Probe` , `ECM` , `Stealth` 
 
 ### 22 Tons 
 
 #### [Vector Combat Support VTOL](../../../units/vector_combat_support_vtol.md) 
 
+- [**Vector Combat Support VTOL**](../../../units/vector_combat_support_vtol/vector_combat_support_vtol.md) *Striker (2730)* `Transport:3.0` 
 - [**Vector Combat Support VTOL (Attack)**](../../../units/vector_combat_support_vtol/vector_combat_support_vtol_attack.md) *Striker (2730)* 
 - [**Vector Combat Support VTOL (EW)**](../../../units/vector_combat_support_vtol/vector_combat_support_vtol_ew.md) *Striker (2730)* `ECM` , `TAG` 
-- [**Vector Combat Support VTOL (Scout)**](../../../units/vector_combat_support_vtol/vector_combat_support_vtol_scout.md) *Undefined (2730)* `Active Probe` , `TAG` 
-- [**Vector Combat Support VTOL (Standard)**](../../../units/vector_combat_support_vtol/vector_combat_support_vtol_standard.md) *Striker (2730)* `Transport:3.0` 
+- [**Vector Combat Support VTOL (Scout)**](../../../units/vector_combat_support_vtol/vector_combat_support_vtol_scout.md) *Scout (2730)* `Active Probe` , `TAG` 
 
 ### 25 Tons 
 
 #### [Mobile Headquarters](../../../units/mobile_headquarters.md) 
 
-- [**Mobile Headquarters (Standard)**](../../../units/mobile_headquarters/mobile_headquarters_standard.md) *Undefined (2620)* 
+- [**Mobile Headquarters**](../../../units/mobile_headquarters/mobile_headquarters.md) *Undefined (2620)* 
 
 ### 30 Tons 
 
 #### [Cobra Transport VTOL](../../../units/cobra_transport_vtol.md) 
 
 - [**Cobra Transport VTOL (Original)**](../../../units/cobra_transport_vtol/cobra_transport_vtol_original.md) *Scout (2582)* 
-- [**Cobra Transport VTOL (Standard)**](../../../units/cobra_transport_vtol/cobra_transport_vtol_standard.md) *Scout (2620)* 
+- [**Cobra Transport VTOL**](../../../units/cobra_transport_vtol/cobra_transport_vtol.md) *Scout (2620)* 
 - [**Cobra Transport VTOL (Command)**](../../../units/cobra_transport_vtol/cobra_transport_vtol_command.md) *Scout (2622)* `Transport:3.0` 
 - [**Cobra Transport VTOL (MASH)**](../../../units/cobra_transport_vtol/cobra_transport_vtol_mash.md) *Scout (2669)* 
 
@@ -57,14 +57,14 @@
 
 #### [Ignis Infantry Support Tank](../../../units/ignis_infantry_support_tank.md) 
 
-- [**Ignis Infantry Support Tank (Standard)**](../../../units/ignis_infantry_support_tank/ignis_infantry_support_tank_standard.md) *Juggernaut (2512)* `Transport:1.0` 
+- [**Ignis Infantry Support Tank**](../../../units/ignis_infantry_support_tank/ignis_infantry_support_tank.md) *Juggernaut (2512)* `Transport:1.0` 
 - [**Ignis Infantry Support Tank (SRM)**](../../../units/ignis_infantry_support_tank/ignis_infantry_support_tank_srm.md) *Juggernaut (2751)* `Transport:1.0` 
 
 ### 40 Tons 
 
 #### [Vali Artillery Vehicle](../../../units/vali_artillery_vehicle.md) 
 
-- [**Vali Artillery Vehicle (Standard)**](../../../units/vali_artillery_vehicle/vali_artillery_vehicle_standard.md) *Missile Boat (2600)* 
+- [**Vali Artillery Vehicle**](../../../units/vali_artillery_vehicle/vali_artillery_vehicle.md) *Missile Boat (2600)* 
 
 #### [Zephyr Hovertank](../../../units/zephyr_hovertank.md) 
 
@@ -75,13 +75,13 @@
 
 #### [Goblin Medium Tank](../../../units/goblin_medium_tank.md) 
 
-- [**Goblin Medium Tank (Standard)**](../../../units/goblin_medium_tank/goblin_medium_tank_standard.md) *Brawler (2500)* `Transport:1.0` 
+- [**Goblin Medium Tank**](../../../units/goblin_medium_tank/goblin_medium_tank.md) *Brawler (2500)* `Transport:1.0` 
 
 ### 50 Tons 
 
 #### [Kanga Medium Hovertank](../../../units/kanga_medium_hovertank.md) 
 
-- [**Kanga Medium Hovertank (Standard)**](../../../units/kanga_medium_hovertank/kanga_medium_hovertank_standard.md) *Striker (2653)* 
+- [**Kanga Medium Hovertank**](../../../units/kanga_medium_hovertank/kanga_medium_hovertank.md) *Striker (2653)* 
 
 #### [Korvin Tank](../../../units/korvin_tank.md) 
 
@@ -89,11 +89,11 @@
 
 #### [Manta Fast Attack Submarine](../../../units/manta_fast_attack_submarine.md) 
 
-- [**Manta Fast Attack Submarine (Standard)**](../../../units/manta_fast_attack_submarine/manta_fast_attack_submarine_standard.md) *Scout (2698)* 
+- [**Manta Fast Attack Submarine**](../../../units/manta_fast_attack_submarine/manta_fast_attack_submarine.md) *Scout (2698)* 
 
 #### [Sabaku Kaze Heavy Scout Hover Tank](../../../units/sabaku_kaze_heavy_scout_hover_tank.md) 
 
-- [**Sabaku Kaze Heavy Scout Hover Tank (Standard)**](../../../units/sabaku_kaze_heavy_scout_hover_tank/sabaku_kaze_heavy_scout_hover_tank_standard.md) *Striker (2695)* 
+- [**Sabaku Kaze Heavy Scout Hover Tank**](../../../units/sabaku_kaze_heavy_scout_hover_tank/sabaku_kaze_heavy_scout_hover_tank.md) *Striker (2695)* 
 
 #### [Turhan Urban Combat Vehicle](../../../units/turhan_urban_combat_vehicle.md) 
 
@@ -103,7 +103,7 @@
 
 #### [AC/2 Carrier](../../../units/ac_2_carrier.md) 
 
-- [**AC/2 Carrier (Standard)**](../../../units/ac_2_carrier/ac_2_carrier_standard.md) *Sniper (2520)* 
+- [**AC/2 Carrier**](../../../units/ac_2_carrier/ac_2_carrier.md) *Sniper (2520)* 
 
 #### [Demon Tank](../../../units/demon_tank.md) 
 
@@ -119,11 +119,11 @@
 
 #### [Padilla Heavy Artillery Tank](../../../units/padilla_heavy_artillery_tank.md) 
 
-- [**Padilla Heavy Artillery Tank (Standard)**](../../../units/padilla_heavy_artillery_tank/padilla_heavy_artillery_tank_standard.md) *Missile Boat (2620)* `TAG` 
+- [**Padilla Heavy Artillery Tank**](../../../units/padilla_heavy_artillery_tank/padilla_heavy_artillery_tank.md) *Missile Boat (2620)* `TAG` 
 
 #### [Pollux ADA Heavy Tank](../../../units/pollux_ada_heavy_tank.md) 
 
-- [**Pollux ADA Heavy Tank (Standard)**](../../../units/pollux_ada_heavy_tank/pollux_ada_heavy_tank_standard.md) *Missile Boat (2710)* 
+- [**Pollux ADA Heavy Tank**](../../../units/pollux_ada_heavy_tank/pollux_ada_heavy_tank.md) *Missile Boat (2710)* 
 
 #### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
 
@@ -147,7 +147,7 @@
 
 #### [Burke II Superheavy Tank](../../../units/burke_ii_superheavy_tank.md) 
 
-- [**Burke II Superheavy Tank (Standard)**](../../../units/burke_ii_superheavy_tank/burke_ii_superheavy_tank_standard.md) *Juggernaut (2776)* `Unique` 
+- [**Burke II Superheavy Tank**](../../../units/burke_ii_superheavy_tank/burke_ii_superheavy_tank.md) *Juggernaut (2776)* `Unique` 
 
 #### [Moray Heavy Attack Submarine](../../../units/moray_heavy_attack_submarine.md) 
 

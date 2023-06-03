@@ -20,7 +20,7 @@
 - **Battle Value:** 1043 
 - [*More Info*](trajan_assault_infantry_fighting_vehicle/trajan_assault_infantry_fighting_vehicle_ice.md) 
 
-## Trajan Assault Infantry Fighting Vehicle (Standard) 
+## Trajan Assault Infantry Fighting Vehicle 
 
 - **Role:** Juggernaut 
 - **Tech Base:** Inner Sphere (3080) 
@@ -40,5 +40,5 @@
   - Infantry (8 tons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3282) 
 - **Battle Value:** 1182 
-- [*More Info*](trajan_assault_infantry_fighting_vehicle/trajan_assault_infantry_fighting_vehicle_standard.md) 
+- [*More Info*](trajan_assault_infantry_fighting_vehicle/trajan_assault_infantry_fighting_vehicle.md) 
 

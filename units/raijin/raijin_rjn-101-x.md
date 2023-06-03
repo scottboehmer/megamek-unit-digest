@@ -18,6 +18,15 @@
   - SRM 6 (OS) 
 - **Equipment:** 
   - CASE 
+- **Design Quirks:** 
+  - Extended Torso Twist 
+  - Bad Reputation (Inner Sphere) 
+  - Directional Torso Mount (ER PPC) 
+  - Directional Torso Mount (Streak SRM 2) 
+  - Directional Torso Mount (SRM 6 (OS)) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
+  - Directional Torso Mount (Medium Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8415) 
 - **Battle Value:** 1302 
 

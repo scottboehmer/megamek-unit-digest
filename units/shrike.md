@@ -1,6 +1,6 @@
 # Shrike 
 
-## Shrike (Standard) 
+## Shrike 
 
 - **Role:** Sniper 
 - **Tech Base:** Clan (3113) 
@@ -25,7 +25,7 @@
   - Exposed Weapon Linkage (Ultra AC/5) 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6292) 
 - **Battle Value:** 2969 
-- [*More Info*](shrike/shrike_standard.md) 
+- [*More Info*](shrike/shrike.md) 
 
 ## Shrike 2 
 
@@ -48,6 +48,8 @@
   - Command ’Mech 
   - Distracting 
   - Reinforced Legs 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Exposed Weapon Linkage (Unknown Component) 
   - Exposed Weapon Linkage (Ultra AC/10) 
   - Exposed Weapon Linkage (Ultra AC/10) 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6293) 
@@ -75,9 +77,38 @@
   - Command ’Mech 
   - Distracting 
   - Reinforced Legs 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Exposed Weapon Linkage (Unknown Component) 
   - Exposed Weapon Linkage (ER PPC) 
   - Exposed Weapon Linkage (ER PPC) 
 - **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6294) 
 - **Battle Value:** 3698 
 - [*More Info*](shrike/shrike_3.md) 
+
+## Shrike 'Black Rose' 
+
+- **Role:** Undefined 
+- **Tech Base:** Clan (3134) 
+- **Chassis:** 95 tons (Endo Steel) 
+- **Movement:** 4 / 6, XL 
+  - **Jumping:** 5 
+- **Armor:** 288 
+- **Heat Sinks:** 21 (45) 
+- **Weapons:** 
+  - ER PPC × 2 
+  - LRM 10 (ammo: 12) 
+  - ER Medium Laser × 2 
+- **Equipment:** 
+  - Targeting Computer 
+  - Partial Wing 
+  - CASE 
+- **Design Quirks:** 
+  - Command ’Mech 
+  - Distracting 
+  - Reinforced Legs 
+  - Exposed Weapon Linkage (Unknown Component) 
+  - Exposed Weapon Linkage (Unknown Component) 
+- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9215) 
+- **Battle Value:** 3487 
+- [*More Info*](shrike/shrike_black_rose.md) 
 

@@ -1,6 +1,6 @@
 # Rhino Fire Support Tank 
 
-## Rhino Fire Support Tank (Standard) 
+## Rhino Fire Support Tank 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (2669) 
@@ -14,7 +14,7 @@
   - Medium Laser × 2 
 - **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4913) 
 - **Battle Value:** 1463 
-- [*More Info*](rhino_fire_support_tank/rhino_fire_support_tank_standard.md) 
+- [*More Info*](rhino_fire_support_tank/rhino_fire_support_tank.md) 
 
 ## Rhino Fire Support Tank (Royal) 
 
@@ -34,6 +34,23 @@
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2684) 
 - **Battle Value:** 1670 
 - [*More Info*](rhino_fire_support_tank/rhino_fire_support_tank_royal.md) 
+
+## Rhino Fire Support Tank (SL) 
+
+- **Role:** Missile Boat 
+- **Tech Base:** Inner Sphere (2724) 
+- **Chassis:** 80 tons Tracked 
+- **Movement:** 3 / 5, Fusion 
+- **Armor:** 272 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - LRM 20 × 2 (ammo: 18) 
+  - SRM 6 (ammo: 15) 
+  - Medium Laser × 2 
+  - Small Laser × 4 
+- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2685) 
+- **Battle Value:** 1464 
+- [*More Info*](rhino_fire_support_tank/rhino_fire_support_tank_sl.md) 
 
 ## Rhino Fire Support Tank (MG) 
 
@@ -104,23 +121,6 @@
 - **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2681) 
 - **Battle Value:** 1439 
 - [*More Info*](rhino_fire_support_tank/rhino_fire_support_tank_flamer.md) 
-
-## Rhino Fire Support Tank (SL) 
-
-- **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (2840) 
-- **Chassis:** 80 tons Tracked 
-- **Movement:** 3 / 5, Fusion 
-- **Armor:** 272 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - LRM 20 × 2 (ammo: 18) 
-  - SRM 6 (ammo: 15) 
-  - Medium Laser × 2 
-  - Small Laser × 4 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2685) 
-- **Battle Value:** 1464 
-- [*More Info*](rhino_fire_support_tank/rhino_fire_support_tank_sl.md) 
 
 ## Rhino Fire Support Tank (ML) 
 

@@ -1,6 +1,6 @@
 # Pegasus Scout Hover Tank 
 
-## Pegasus Scout Hover Tank (Standard) 
+## Pegasus Scout Hover Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (2791) 
@@ -13,7 +13,7 @@
   - Medium Laser 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2461) 
 - **Battle Value:** 640 
-- [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_standard.md) 
+- [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank.md) 
 
 ## Pegasus Scout Hover Tank (Sensors) 
 
@@ -172,7 +172,7 @@
 
 ## Pegasus Scout Hover Tank (Upgrade) 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3091) 
 - **Chassis:** 35 tons Hover 
 - **Movement:** 9 / 14 (18), Light 

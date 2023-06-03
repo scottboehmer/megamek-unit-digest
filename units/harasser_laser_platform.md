@@ -1,6 +1,6 @@
 # Harasser Laser Platform 
 
-## Harasser Laser Platform (Standard) 
+## Harasser Laser Platform 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (2957) 
@@ -12,5 +12,5 @@
   - Medium Laser × 2 
 - **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1385) 
 - **Battle Value:** 321 
-- [*More Info*](harasser_laser_platform/harasser_laser_platform_standard.md) 
+- [*More Info*](harasser_laser_platform/harasser_laser_platform.md) 
 

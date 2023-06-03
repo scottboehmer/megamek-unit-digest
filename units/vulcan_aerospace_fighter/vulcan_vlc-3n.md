@@ -4,7 +4,7 @@
 
 ## Vulcan VLC-3N 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2525) 
 - **Chassis:** 80 tons 
 - **Thrust:** 5 / 8, Primitive 

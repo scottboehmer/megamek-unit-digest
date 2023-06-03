@@ -1,6 +1,6 @@
 # Goblin II Infantry Support Vehicle 
 
-## Goblin II Infantry Support Vehicle (Standard) 
+## Goblin II Infantry Support Vehicle 
 
 - **Role:** Missile Boat 
 - **Tech Base:** Inner Sphere (3068) 
@@ -18,5 +18,5 @@
   - Infantry (3 tons) 
 - **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1220) 
 - **Battle Value:** 839 
-- [*More Info*](goblin_ii_infantry_support_vehicle/goblin_ii_infantry_support_vehicle_standard.md) 
+- [*More Info*](goblin_ii_infantry_support_vehicle/goblin_ii_infantry_support_vehicle.md) 
 

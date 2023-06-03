@@ -256,6 +256,29 @@
 - **Battle Value:** 1878 
 - [*More Info*](awesome/awesome_aws-11r.md) 
 
+## Awesome AWS-11V 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3135) 
+- **Chassis:** 80 tons (Endo Steel) 
+- **Movement:** 3 / 5 
+- **Armor:** 208 
+- **Gyroscope:** Compact Gyro 
+- **Heat Sinks:** 12 (24) 
+- **Weapons:** 
+  - ER PPC w/ PPC Capacitor 
+  - ELRM 15 (ammo: 18) 
+  - Light Gauss Rifle (ammo: 32) 
+  - ER Medium Laser 
+- **Equipment:** 
+  - Angel ECM Suite 
+  - CASE II 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
+- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7977) 
+- **Battle Value:** 1855 
+- [*More Info*](awesome/awesome_aws-11v.md) 
+
 ## Awesome AWS-11H 
 
 - **Role:** Sniper 
@@ -272,4 +295,20 @@
 - **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7501) 
 - **Battle Value:** 2036 
 - [*More Info*](awesome/awesome_aws-11h.md) 
+
+## Awesome C 
+
+- **Role:** Undefined 
+- **Tech Base:** Clan (3143) 
+- **Chassis:** 80 tons (Endo Composite) 
+- **Movement:** 3 / 5 
+- **Armor:** 247 
+- **Heat Sinks:** 27 (54) 
+- **Weapons:** 
+  - ER PPC × 4 
+- **Design Quirks:** 
+  - Battlefist (Left Arm) 
+- **Sources:** Spotlight On: Hellion Keshik - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8470) 
+- **Battle Value:** 2737 
+- [*More Info*](awesome/awesome_c.md) 
 

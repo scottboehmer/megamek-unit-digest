@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7607) 
+- **Sources:** TRO:GC - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7607) 
 - **Battle Value:** 1851 
 
 ## Availability 

@@ -1,6 +1,6 @@
 # Sabaku Kaze Heavy Scout Hover Tank 
 
-## Sabaku Kaze Heavy Scout Hover Tank (Standard) 
+## Sabaku Kaze Heavy Scout Hover Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Inner Sphere (2695) 
@@ -14,5 +14,5 @@
   - Small Laser × 2 
 - **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2761) 
 - **Battle Value:** 997 
-- [*More Info*](sabaku_kaze_heavy_scout_hover_tank/sabaku_kaze_heavy_scout_hover_tank_standard.md) 
+- [*More Info*](sabaku_kaze_heavy_scout_hover_tank/sabaku_kaze_heavy_scout_hover_tank.md) 
 

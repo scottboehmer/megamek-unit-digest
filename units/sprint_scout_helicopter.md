@@ -1,6 +1,6 @@
 # Sprint Scout Helicopter 
 
-## Sprint Scout Helicopter (Standard) 
+## Sprint Scout Helicopter 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3052) 
@@ -13,7 +13,7 @@
   - TAG 
 - **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3026) 
 - **Battle Value:** 82 
-- [*More Info*](sprint_scout_helicopter/sprint_scout_helicopter_standard.md) 
+- [*More Info*](sprint_scout_helicopter/sprint_scout_helicopter.md) 
 
 ## Sprint Scout Helicopter (Laser) 
 

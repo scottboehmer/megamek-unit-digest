@@ -4,7 +4,7 @@
 
 ## Bulldog Medium Tank (LB-X) 
 
-- **Role:** Brawler 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3110) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 4 / 6, Fuel Cell 

@@ -4,7 +4,7 @@
 
 ## Thunderbird TRB-D36 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2480) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 

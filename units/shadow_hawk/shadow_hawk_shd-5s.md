@@ -20,6 +20,11 @@
   - Beagle Active Probe 
   - TAG 
   - Cargo 
+- **Design Quirks:** 
+  - Improved Life Support 
+  - Rugged (×2) 
+  - Ubiquitous 
+  - Battlefists 
 - **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7786) 
 - **Battle Value:** 1590 
 

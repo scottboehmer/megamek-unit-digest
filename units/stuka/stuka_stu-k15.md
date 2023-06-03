@@ -4,7 +4,7 @@
 
 ## Stuka STU-K15 
 
-- **Role:** Attack Fighter 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2965) 
 - **Chassis:** 100 tons 
 - **Thrust:** 5 / 8 

@@ -1,6 +1,6 @@
 # Rottweiler Battle Armor 
 
-## Rottweiler Battle Armor (Standard)(Sqd4) 
+## Rottweiler Battle Armor (Sqd4) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3065) 
@@ -14,9 +14,9 @@
   - Improved Sensors 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4940) 
 - **Battle Value:** 40 (209 for 4 suits) 
-- [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_standardsqd4.md) 
+- [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_sqd4.md) 
 
-## Rottweiler Battle Armor (Standard)(Sqd5) 
+## Rottweiler Battle Armor (Sqd5) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3065) 
@@ -30,9 +30,9 @@
   - Improved Sensors 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8664) 
 - **Battle Value:** 40 (282 for 5 suits) 
-- [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_standardsqd5.md) 
+- [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_sqd5.md) 
 
-## Rottweiler Battle Armor (Standard)(Sqd6) 
+## Rottweiler Battle Armor (Sqd6) 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3065) 
@@ -46,7 +46,7 @@
   - Improved Sensors 
 - **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9028) 
 - **Battle Value:** 40 (362 for 6 suits) 
-- [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_standardsqd6.md) 
+- [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_sqd6.md) 
 
 ## Rottweiler Battle Armor (Close Combat)(Sqd4) 
 

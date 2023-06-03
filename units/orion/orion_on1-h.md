@@ -18,8 +18,6 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Easy to Maintain 
-  - Anti-Aircraft Targeting 
-  - Rugged (×2) 
   - Ammunition Feed Problem (Primitive AC/10) 
 - **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7405) 
 - **Battle Value:** 1307 

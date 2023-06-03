@@ -1,6 +1,6 @@
 # Mithras Light Tank 
 
-## Mithras Light Tank (Standard) 
+## Mithras Light Tank 
 
 - **Role:** Striker 
 - **Tech Base:** Clan (2845) 
@@ -15,7 +15,7 @@
   - CASE 
 - **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2193) 
 - **Battle Value:** 670 
-- [*More Info*](mithras_light_tank/mithras_light_tank_standard.md) 
+- [*More Info*](mithras_light_tank/mithras_light_tank.md) 
 
 ## Mithras Light Tank (ERLL) 
 

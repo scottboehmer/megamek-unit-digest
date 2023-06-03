@@ -1,6 +1,6 @@
 # Praetorian Mobile Strategic Command HQ 
 
-## Praetorian Mobile Strategic Command HQ (Standard) 
+## Praetorian Mobile Strategic Command HQ 
 
 - **Role:** Scout 
 - **Tech Base:** Inner Sphere (3091) 
@@ -17,5 +17,5 @@
   - Armored Motive System 
 - **Sources:** ED Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6957) 
 - **Battle Value:** 716 
-- [*More Info*](praetorian_mobile_strategic_command_hq/praetorian_mobile_strategic_command_hq_standard.md) 
+- [*More Info*](praetorian_mobile_strategic_command_hq/praetorian_mobile_strategic_command_hq.md) 
 

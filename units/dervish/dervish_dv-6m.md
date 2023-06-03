@@ -5,7 +5,7 @@
 ## Dervish DV-6M 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Inner Sphere (2610) 
+- **Tech Base:** Inner Sphere (2570) 
 - **Chassis:** 55 tons 
 - **Movement:** 5 / 8 
   - **Jumping:** 5 

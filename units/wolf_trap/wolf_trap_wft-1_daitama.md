@@ -19,7 +19,7 @@
   - C3i 
   - CASE 
 - **Design Quirks:** 
-  - Bad Reputation (Inner Sphere) 
+  - Bad Reputation (Inner Sphere & Clan) 
 - **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3555) 
 - **Battle Value:** 1290 
 

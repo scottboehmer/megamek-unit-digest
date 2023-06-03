@@ -173,7 +173,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/387) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/387) 
 - **Battle Value:** 1320 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-ox.md) 
 
@@ -194,7 +194,7 @@
   - HarJel × 5 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386) 
+- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386) 
 - **Battle Value:** 1223 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-ou.md) 
 

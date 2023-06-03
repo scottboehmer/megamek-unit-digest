@@ -2,8 +2,8 @@
 
 ## Whirlwind Scout Hover Tank 
 
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (3025) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2890) 
 - **Chassis:** 45 tons Hover 
 - **Movement:** 8 / 12, Fusion 
 - **Armor:** 104 
@@ -13,14 +13,14 @@
   - AC/2 × 2 (ammo: 90) 
 - **Equipment:** 
   - Cargo 
-- **Source:** Rec Guide:ilClan #28 - 
+- **Sources:** Rec Guide:ilClan #28 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9362) 
 - **Battle Value:** 667 
 - [*More Info*](whirlwind_scout_hover_tank/whirlwind_scout_hover_tank.md) 
 
 ## Whirlwind Scout Hover Tank (AAA) 
 
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (3067) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3064) 
 - **Chassis:** 45 tons Hover 
 - **Movement:** 9 / 14, Fusion 
 - **Armor:** 104 
@@ -30,14 +30,14 @@
   - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Source:** Rec Guide:ilClan #28 - 
+- **Sources:** Rec Guide:ilClan #28 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9364) 
 - **Battle Value:** 811 
 - [*More Info*](whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_aaa.md) 
 
 ## Whirlwind Scout Hover Tank (IFV) 
 
-- **Role:** Scout 
-- **Tech Base:** Inner Sphere (3145) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (3139) 
 - **Chassis:** 45 tons Hover 
 - **Movement:** 9 / 14, Fusion 
 - **Armor:** 104 
@@ -49,7 +49,7 @@
   - Beagle Active Probe 
   - CASE 
   - Infantry (4.0 tons) 
-- **Source:** Rec Guide:ilClan #28 - 
+- **Sources:** Rec Guide:ilClan #28 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9363) 
 - **Battle Value:** 756 
 - [*More Info*](whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_ifv.md) 
 
