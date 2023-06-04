@@ -25,5 +25,13 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Kell Hounds 
+- Mercenary 
+
+### ilClan 
+
+- Kell Hounds 
+- Mercenary 
 

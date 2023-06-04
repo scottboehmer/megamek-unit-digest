@@ -378,6 +378,10 @@
 
 - [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
 
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
+
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 
 - [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
@@ -616,6 +620,7 @@
 - [**Behemoth Heavy Tank**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Armor)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_armor.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Flamer)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) *Juggernaut (2981)* 
+- [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 - [**Behemoth Heavy Tank (Kurita)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_kurita.md) *Juggernaut (3062)* 
 
 #### [Neptune Submarine](../../../units/neptune_submarine.md) 

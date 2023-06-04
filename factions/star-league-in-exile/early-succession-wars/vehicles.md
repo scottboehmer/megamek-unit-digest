@@ -230,6 +230,10 @@
 
 - [**Condor Heavy Hover Tank**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank.md) *Striker (2564)* 
 
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
+
 #### [Kanga Medium Hovertank](../../../units/kanga_medium_hovertank.md) 
 
 - [**Kanga Medium Hovertank**](../../../units/kanga_medium_hovertank/kanga_medium_hovertank.md) *Striker (2653)* 

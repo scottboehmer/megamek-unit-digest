@@ -869,6 +869,7 @@
 - [**Shadow Hawk SHD-2Ht**](../../../units/shadow_hawk/shadow_hawk_shd-2ht.md) *Skirmisher (3052)* 
 - [**Shadow Hawk SHD-5D**](../../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
 - [**Shadow Hawk SHD-7M**](../../../units/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)* 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-12C**](../../../units/shadow_hawk/shadow_hawk_shd-12c.md) *Sniper (3079)* 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 
@@ -1039,6 +1040,11 @@
 
 - [**JagerMech III JM6-D3**](../../../units/jagermech_iii/jagermech_iii_jm6-d3.md) *Sniper (3058)* 
 - [**JagerMech III JM6-D4**](../../../units/jagermech_iii/jagermech_iii_jm6-d4.md) *Skirmisher (3073)* 
+
+#### [Jinggau](../../../units/jinggau.md) 
+
+- [**Jinggau JN-G7Lr**](../../../units/jinggau/jinggau_jn-g7lr.md) *Skirmisher (3078)* 
+- [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
 
 #### [Karhu](../../../units/karhu.md) 
 

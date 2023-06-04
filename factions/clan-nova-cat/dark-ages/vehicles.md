@@ -324,6 +324,10 @@
 
 ### 60 Tons 
 
+#### [LRM Carrier](../../../units/lrm_carrier.md) 
+
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
+
 #### [Pike Support Vehicle](../../../units/pike_support_vehicle.md) 
 
 - [**Pike Support Vehicle (Clan)**](../../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 
@@ -425,6 +429,7 @@
 #### [Behemoth Heavy Tank](../../../units/behemoth_heavy_tank.md) 
 
 - [**Behemoth Heavy Tank (Kurita)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_kurita.md) *Juggernaut (3062)* 
+- [**Behemoth Heavy Tank (Kurita Upgrade)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_kurita_upgrade.md) *Undefined (3140)* 
 
 #### [Mars Assault Vehicle](../../../units/mars_assault_vehicle.md) 
 

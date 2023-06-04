@@ -252,6 +252,7 @@
 - [**Javelin JVN-11A 'Fire Javelin'**](../../../units/javelin/javelin_jvn-11a_fire_javelin.md) *Striker (3053)* 
 - [**Javelin JVN-11B**](../../../units/javelin/javelin_jvn-11b.md) *Striker (3054)* `Active Probe` , `ECM` 
 - [**Javelin JVN-11D**](../../../units/javelin/javelin_jvn-11d.md) *Striker (3062)* `C3 Support` 
+- [**Javelin JVN-12N**](../../../units/javelin/javelin_jvn-12n.md) *Scout (3121)* `TAG` 
 
 #### [Nyx](../../../units/nyx.md) 
 
@@ -534,6 +535,7 @@
 #### [Icarus II](../../../units/icarus_ii.md) 
 
 - [**Icarus II ICR-2S**](../../../units/icarus_ii/icarus_ii_icr-2s.md) *Brawler (3073)* 
+- [**Icarus II ICR-2R**](../../../units/icarus_ii/icarus_ii_icr-2r.md) *Undefined (3124)* `TAG` 
 
 #### [Mongoose II](../../../units/mongoose_ii.md) 
 
@@ -624,6 +626,10 @@
 #### [Eisenfaust](../../../units/eisenfaust.md) 
 
 - [**Eisenfaust EFT-7X**](../../../units/eisenfaust/eisenfaust_eft-7x.md) *Brawler (3076)* 
+
+#### [Goshawk II](../../../units/goshawk_ii.md) 
+
+- [**Goshawk II 4**](../../../units/goshawk_ii/goshawk_ii_4.md) *Undefined (3130)* 
 
 #### [Hatchetman](../../../units/hatchetman.md) 
 
@@ -930,6 +936,7 @@
 - [**Shadow Hawk SHD-2Ht**](../../../units/shadow_hawk/shadow_hawk_shd-2ht.md) *Skirmisher (3052)* 
 - [**Shadow Hawk SHD-5D**](../../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
 - [**Shadow Hawk SHD-7M**](../../../units/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)* 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-12C**](../../../units/shadow_hawk/shadow_hawk_shd-12c.md) *Sniper (3079)* 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
@@ -1114,6 +1121,12 @@
 
 - [**JagerMech III JM6-D3**](../../../units/jagermech_iii/jagermech_iii_jm6-d3.md) *Sniper (3058)* 
 - [**JagerMech III JM6-D4**](../../../units/jagermech_iii/jagermech_iii_jm6-d4.md) *Skirmisher (3073)* 
+
+#### [Jinggau](../../../units/jinggau.md) 
+
+- [**Jinggau JN-G7Lr**](../../../units/jinggau/jinggau_jn-g7lr.md) *Skirmisher (3078)* 
+- [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
+- [**Jinggau JN-G9CCr**](../../../units/jinggau/jinggau_jn-g9ccr.md) *Skirmisher (3137)* `Active Probe` , `Command Console` , `ECM` , `Stealth` 
 
 #### [Koschei](../../../units/koschei.md) 
 
@@ -1870,6 +1883,12 @@
 #### [Xanthos](../../../units/xanthos.md) 
 
 - [**Xanthos XNT-5O**](../../../units/xanthos/xanthos_xnt-5o.md) *Skirmisher (3076)* 
+
+### 150 Tons 
+
+#### [Omega](../../../units/omega.md) 
+
+- [**Omega SHP-5R**](../../../units/omega/omega_shp-5r.md) *Undefined (3103)* `C3 Support` , `ECM` 
 
 ### 200 Tons 
 

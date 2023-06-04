@@ -22,5 +22,16 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Clan Nova Cat 
+- Draconis Combine 
+- Republic of the Sphere 
+
+### ilClan 
+
+- Clan Protectorate 
+- Draconis Combine 
+- Federated Suns 
+- Mercenary 
 

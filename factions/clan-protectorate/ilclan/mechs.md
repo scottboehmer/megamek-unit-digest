@@ -362,6 +362,10 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
+
 #### [Conjurer](../../../units/conjurer.md) 
 
 - [**Conjurer 2**](../../../units/conjurer/conjurer_2.md) *Skirmisher (3062)* 
@@ -543,6 +547,8 @@
 #### [Tempest](../../../units/tempest.md) 
 
 - [**Tempest TMP-3M2 'Storm Tempest'**](../../../units/tempest/tempest_tmp-3m2_storm_tempest.md) *Brawler (3067)* 
+- [**Tempest TMP-4M**](../../../units/tempest/tempest_tmp-4m.md) *Undefined (3134)* 
+- [**Tempest C**](../../../units/tempest/tempest_c.md) *Undefined (3150)* 
 
 ### 70 Tons 
 
@@ -679,11 +685,17 @@
 
 - [**Marauder IIC 4**](../../../units/marauder_iic/marauder_iic_4.md) *Sniper (3070)* 
 
+#### [Shogun](../../../units/shogun.md) 
+
+- [**Shogun C 2**](../../../units/shogun/shogun_c_2.md) *Undefined (3139)* 
+
 ### 90 Tons 
 
 #### [Juliano](../../../units/juliano.md) 
 
 - [**Juliano JLN-5A**](../../../units/juliano/juliano_jln-5a.md) *Brawler (3116)* 
+- [**Juliano JLN-5B**](../../../units/juliano/juliano_jln-5b.md) *Undefined (3146)* 
+- [**Juliano JLN-5C**](../../../units/juliano/juliano_jln-5c.md) *Undefined (3146)* 
 
 #### [Kingfisher](../../../units/kingfisher.md) 
 

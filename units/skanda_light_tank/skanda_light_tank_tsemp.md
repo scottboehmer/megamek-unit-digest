@@ -18,5 +18,18 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Republic 
+
+- Clan Jade Falcon 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Jade Falcon) 
+- Tamar Pact 
 

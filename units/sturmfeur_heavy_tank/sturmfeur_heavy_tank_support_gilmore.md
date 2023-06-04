@@ -22,5 +22,30 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Republic 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+
+### Dark Ages 
+
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
+- Regulan Fiefs 
+
+### ilClan 
+
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Mercenary 
 

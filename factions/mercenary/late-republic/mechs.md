@@ -237,6 +237,7 @@
 - [**Javelin JVN-10P**](../../../units/javelin/javelin_jvn-10p.md) *Striker (3049)* 
 - [**Javelin JVN-11A 'Fire Javelin'**](../../../units/javelin/javelin_jvn-11a_fire_javelin.md) *Striker (3053)* 
 - [**Javelin JVN-11B**](../../../units/javelin/javelin_jvn-11b.md) *Striker (3054)* `Active Probe` , `ECM` 
+- [**Javelin JVN-12N**](../../../units/javelin/javelin_jvn-12n.md) *Scout (3121)* `TAG` 
 
 #### [Kit Fox](../../../units/kit_fox.md) 
 
@@ -386,6 +387,7 @@
 
 - [**Hollander BZK-F3**](../../../units/hollander/hollander_bzk-f3.md) *Sniper (3054)* 
 - [**Hollander BZK-G1**](../../../units/hollander/hollander_bzk-g1.md) *Striker (3056)* 
+- [**Hollander BZK-G2**](../../../units/hollander/hollander_bzk-g2.md) *Undefined (3121)* 
 
 #### [Hollander III](../../../units/hollander_iii.md) 
 
@@ -500,6 +502,12 @@
 - [**Assassin ASN-23**](../../../units/assassin/assassin_asn-23.md) *Striker (3050)* 
 - [**Assassin ASN-30**](../../../units/assassin/assassin_asn-30.md) *Scout (3062)* 
 
+#### [Battle Cobra](../../../units/battle_cobra.md) 
+
+- [**Battle Cobra BTL-C-2OG**](../../../units/battle_cobra/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
+- [**Battle Cobra BTL-C-2OH**](../../../units/battle_cobra/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
+- [**Battle Cobra BTL-C-2OI**](../../../units/battle_cobra/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
+
 #### [Calliope](../../../units/calliope.md) 
 
 - [**Calliope CAL-1MAF**](../../../units/calliope/calliope_cal-1maf.md) *Brawler (3127)* 
@@ -520,6 +528,7 @@
 #### [Clint](../../../units/clint.md) 
 
 - [**Clint CLNT-5U**](../../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Support` , `TAG` 
+- [**Clint CLNT-3-4T**](../../../units/clint/clint_clnt-3-4t.md) *Striker (3109)* 
 
 #### [Dasher II](../../../units/dasher_ii.md) 
 
@@ -663,6 +672,7 @@
 - [**Hatchetman HCT-5DD**](../../../units/hatchetman/hatchetman_hct-5dd.md) *Skirmisher (3065)* 
 - [**Hatchetman HCT-6M**](../../../units/hatchetman/hatchetman_hct-6m.md) *Brawler (3084)* `Active Probe` 
 - [**Hatchetman HCT-7S**](../../../units/hatchetman/hatchetman_hct-7s.md) *Skirmisher (3084)* `ECM` 
+- [**Hatchetman HCT-7D**](../../../units/hatchetman/hatchetman_hct-7d.md) *Undefined (3092)* `ECM` 
 
 #### [Hellspawn](../../../units/hellspawn.md) 
 
@@ -831,6 +841,7 @@
 - [**Enforcer III ENF-6M**](../../../units/enforcer_iii/enforcer_iii_enf-6m.md) *Sniper (3059)* 
 - [**Enforcer III ENF-6G**](../../../units/enforcer_iii/enforcer_iii_enf-6g.md) *Skirmisher (3062)* 
 - [**Enforcer III ENF-6Ma**](../../../units/enforcer_iii/enforcer_iii_enf-6ma.md) *Skirmisher (3065)* 
+- [**Enforcer III ENF-6R**](../../../units/enforcer_iii/enforcer_iii_enf-6r.md) *Undefined (3102)* 
 
 #### [Eris](../../../units/eris.md) 
 
@@ -1708,6 +1719,7 @@
 - [**BattleMaster BLR-6C**](../../../units/battlemaster/battlemaster_blr-6c.md) *Juggernaut (3081)* `Command Console` 
 - [**BattleMaster BLR-6G**](../../../units/battlemaster/battlemaster_blr-6g.md) *Brawler (3088)* 
 - [**BattleMaster BLR-6R**](../../../units/battlemaster/battlemaster_blr-6r.md) *Brawler (3104)* 
+- [**BattleMaster BLR-6M**](../../../units/battlemaster/battlemaster_blr-6m.md) *Undefined (3120)* `Command Console` 
 
 #### [Black Watch](../../../units/black_watch.md) 
 
@@ -1734,6 +1746,10 @@
 - [**Longbow LGB-14C2**](../../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Support` 
 - [**Longbow LGB-14Q**](../../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
 - [**Longbow LGB-14V**](../../../units/longbow/longbow_lgb-14v.md) *Brawler (3105)* 
+
+#### [Shogun](../../../units/shogun.md) 
+
+- [**Shogun SHG-3E**](../../../units/shogun/shogun_shg-3e.md) *Undefined (3090)* 
 
 #### [Stalker](../../../units/stalker.md) 
 

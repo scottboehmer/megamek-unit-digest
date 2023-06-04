@@ -25,5 +25,10 @@
 
 ## Availability 
 
-Availability Unknown 
+### ilClan 
+
+- Kell Hounds 
+- Mercenary 
+- Tamar Pact 
+- Vesper Marches 
 

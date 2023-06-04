@@ -116,6 +116,7 @@
 #### [MASH Truck](../../../units/mash_truck.md) 
 
 - [**MASH Truck**](../../../units/mash_truck/mash_truck.md) *Undefined (2671)* 
+- [**MASH Truck (AMS)**](../../../units/mash_truck/mash_truck_ams.md) *Undefined (3148)* 
 
 #### [MIT23 MASH Vehicle](../../../units/mit23_mash_vehicle.md) 
 
@@ -184,6 +185,7 @@
 #### [Kite Reconnaissance Vehicle](../../../units/kite_reconnaissance_vehicle.md) 
 
 - [**Kite Reconnaissance Vehicle**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle.md) *Scout (3105)* `Active Probe` , `ECM` , `TAG` 
+- [**Kite Reconnaissance Vehicle (Fusion)**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_fusion.md) *Undefined (3147)* `ECM` 
 
 #### [Onuris Attack VTOL](../../../units/onuris_attack_vtol.md) 
 
@@ -345,6 +347,10 @@
 - [**Thor Artillery Vehicle (Clan)**](../../../units/thor_artillery_vehicle/thor_artillery_vehicle_clan.md) *Missile Boat (2870)* 
 
 ### 60 Tons 
+
+#### [LRM Carrier](../../../units/lrm_carrier.md) 
+
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
 
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 

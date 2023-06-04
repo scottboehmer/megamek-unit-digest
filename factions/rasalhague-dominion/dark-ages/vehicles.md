@@ -210,6 +210,7 @@
 #### [Kite Reconnaissance Vehicle](../../../units/kite_reconnaissance_vehicle.md) 
 
 - [**Kite Reconnaissance Vehicle**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle.md) *Scout (3105)* `Active Probe` , `ECM` , `TAG` 
+- [**Kite Reconnaissance Vehicle (Fusion)**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_fusion.md) *Undefined (3147)* `ECM` 
 
 #### [Quaestor Mobile Tactical Command HQ](../../../units/quaestor_mobile_tactical_command_hq.md) 
 
@@ -402,6 +403,7 @@
 #### [LRM Carrier](../../../units/lrm_carrier.md) 
 
 - [**LRM Carrier**](../../../units/lrm_carrier/lrm_carrier.md) *Missile Boat (2470)* 
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
 
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 

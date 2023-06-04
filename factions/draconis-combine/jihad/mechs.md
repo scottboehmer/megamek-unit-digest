@@ -638,6 +638,7 @@
 - [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (2826)* 
 - [**Shadow Hawk SHD-5M**](../../../units/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)* 
 - [**Shadow Hawk SHD-3K**](../../../units/shadow_hawk/shadow_hawk_shd-3k.md) *Sniper (3075)* `C3 Support` 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 
 #### [Stormcrow](../../../units/stormcrow.md) 
 

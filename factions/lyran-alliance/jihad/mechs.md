@@ -652,6 +652,7 @@
 - [**Shadow Hawk SHD-2D2**](../../../units/shadow_hawk/shadow_hawk_shd-2d2.md) *Brawler (3049)* 
 - [**Shadow Hawk SHD-5S**](../../../units/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe` , `ECM` , `TAG` 
 - [**Shadow Hawk SHD-5D**](../../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 
 #### [Slagmaiden](../../../units/slagmaiden.md) 
 
@@ -928,6 +929,7 @@
 
 - [**Uni ATAE-70 CargoMech**](../../../units/uni/uni_atae-70_cargomech.md) *Ambusher (3050)* `IndustrialMech` 
 - [**Uni ATAE-70M MilitiaMech**](../../../units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
+- [**Uni ATAE-70T CargoMech**](../../../units/uni/uni_atae-70t_cargomech.md) *Ambusher (3074)* `IndustrialMech` 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

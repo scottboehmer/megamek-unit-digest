@@ -239,6 +239,10 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
+
 #### [Conjurer](../../../units/conjurer.md) 
 
 - [**Conjurer 2**](../../../units/conjurer/conjurer_2.md) *Skirmisher (3062)* 
@@ -412,6 +416,10 @@
 - [**Warhammer IIC 8**](../../../units/warhammer_iic/warhammer_iic_8.md) *Skirmisher (3079)* 
 
 ### 85 Tons 
+
+#### [Deimos](../../../units/deimos.md) 
+
+- [**Deimos H**](../../../units/deimos/deimos_h.md) *Sniper (3085)* 
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
 

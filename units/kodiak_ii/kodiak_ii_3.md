@@ -24,5 +24,11 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Rasalhague Dominion 
+
+### ilClan 
+
+- Rasalhague Dominion 
 

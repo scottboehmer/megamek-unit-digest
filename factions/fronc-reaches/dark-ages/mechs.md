@@ -249,6 +249,7 @@
 - [**Clint CLNT-5U**](../../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Support` , `TAG` 
 - [**Clint CLNT-2-3UL**](../../../units/clint/clint_clnt-2-3ul.md) *Striker (3069)* 
 - [**Clint CLNT-3-3T**](../../../units/clint/clint_clnt-3-3t.md) *Striker (3069)* 
+- [**Clint CLNT-3-4T**](../../../units/clint/clint_clnt-3-4t.md) *Striker (3109)* 
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
@@ -356,10 +357,13 @@
 #### [Raider](../../../units/raider.md) 
 
 - [**Raider JL-1**](../../../units/raider/raider_jl-1.md) *Juggernaut (3134)* 
+- [**Raider JL-3A**](../../../units/raider/raider_jl-3a.md) *Undefined (3138)* 
+- [**Raider JL-3B**](../../../units/raider/raider_jl-3b.md) *Undefined (3138)* 
 
 #### [Raider Mk II](../../../units/raider_mk_ii.md) 
 
 - [**Raider Mk II JL-2**](../../../units/raider_mk_ii/raider_mk_ii_jl-2.md) *Brawler (3134)* 
+- [**Raider Mk II JL-3C**](../../../units/raider_mk_ii/raider_mk_ii_jl-3c.md) *Undefined (3139)* 
 
 #### [Starslayer](../../../units/starslayer.md) 
 

@@ -271,6 +271,7 @@
 
 - [**Hollander BZK-F3**](../../../units/hollander/hollander_bzk-f3.md) *Sniper (3054)* 
 - [**Hollander BZK-G1**](../../../units/hollander/hollander_bzk-g1.md) *Striker (3056)* 
+- [**Hollander BZK-G2**](../../../units/hollander/hollander_bzk-g2.md) *Undefined (3121)* 
 
 #### [Hollander III](../../../units/hollander_iii.md) 
 
@@ -630,6 +631,7 @@
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-5S**](../../../units/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe` , `ECM` , `TAG` 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
 
@@ -835,6 +837,7 @@
 
 - [**Uni ATAE-70 CargoMech**](../../../units/uni/uni_atae-70_cargomech.md) *Ambusher (3050)* `IndustrialMech` 
 - [**Uni ATAE-70M MilitiaMech**](../../../units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
+- [**Uni ATAE-70T CargoMech**](../../../units/uni/uni_atae-70t_cargomech.md) *Ambusher (3074)* `IndustrialMech` 
 
 #### [Viper](../../../units/viper.md) 
 

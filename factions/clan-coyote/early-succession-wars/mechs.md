@@ -127,6 +127,7 @@
 #### [Chameleon](../../../units/chameleon.md) 
 
 - [**Chameleon TRC-4B**](../../../units/chameleon/chameleon_trc-4b.md) *Scout (2510)* 
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
 
 #### [Crab](../../../units/crab.md) 
 

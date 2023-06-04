@@ -352,6 +352,10 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
+
 #### [Conjurer](../../../units/conjurer.md) 
 
 - [**Conjurer**](../../../units/conjurer/conjurer.md) *Skirmisher (2829)* 
@@ -633,6 +637,7 @@
 
 #### [Orion](../../../units/orion.md) 
 
+- [**Orion C**](../../../units/orion/orion_c.md) *Undefined (3142)* 
 - [**Orion C 2**](../../../units/orion/orion_c_2.md) *Brawler (3143)* 
 
 #### [Orion IIC](../../../units/orion_iic.md) 
@@ -759,6 +764,10 @@
 - [**Warhammer IIC 11**](../../../units/warhammer_iic/warhammer_iic_11.md) *Juggernaut (3124)* 
 
 ### 85 Tons 
+
+#### [BattleMaster](../../../units/battlemaster.md) 
+
+- [**BattleMaster C 2**](../../../units/battlemaster/battlemaster_c_2.md) *Undefined (3145)* `Command Console` 
 
 #### [Longbow](../../../units/longbow.md) 
 
@@ -889,4 +898,10 @@
 - [**Ares ARS-V1B Hades**](../../../units/ares/ares_ars-v1b_hades.md) *Juggernaut (3136)* 
 - [**Ares ARS-V1C Aphrodite**](../../../units/ares/ares_ars-v1c_aphrodite.md) *Juggernaut (3136)* `C3 Main` , `ECM` , `TAG` 
 - [**Ares ARS-V1D Hephaestus**](../../../units/ares/ares_ars-v1d_hephaestus.md) *Juggernaut (3136)* `C3 Support` 
+
+### 150 Tons 
+
+#### [Omega](../../../units/omega.md) 
+
+- [**Omega SHP-5R**](../../../units/omega/omega_shp-5r.md) *Undefined (3103)* `C3 Support` , `ECM` 
 

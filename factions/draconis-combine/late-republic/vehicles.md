@@ -484,6 +484,10 @@
 
 - [**Tyr Infantry Support Tank (Kurita)**](../../../units/tyr_infantry_support_tank/tyr_infantry_support_tank_kurita.md) *Missile Boat (3070)* `Transport:4.0` 
 
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank.md) *Undefined (2890)* 
+
 ### 50 Tons 
 
 #### [BattleMech Recovery Vehicle](../../../units/battlemech_recovery_vehicle.md) 
@@ -608,6 +612,7 @@
 - [**Padilla Tube Artillery Tank**](../../../units/padilla_tube_artillery_tank/padilla_tube_artillery_tank.md) *Missile Boat (3077)* 
 - [**Padilla Tube Artillery Tank (LTC)**](../../../units/padilla_tube_artillery_tank/padilla_tube_artillery_tank_ltc.md) *Missile Boat (3077)* `ECM` 
 - [**Padilla Tube Artillery Tank (Thumper)**](../../../units/padilla_tube_artillery_tank/padilla_tube_artillery_tank_thumper.md) *Missile Boat (3082)* `ECM` 
+- [**Padilla Tube Artillery Tank (AMS)**](../../../units/padilla_tube_artillery_tank/padilla_tube_artillery_tank_ams.md) *Undefined (3101)* `ECM` 
 
 #### [Prowler Multi-Terrain Vehicle](../../../units/prowler_multi-terrain_vehicle.md) 
 
@@ -651,6 +656,7 @@
 - [**Manticore Heavy Tank (C3M)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_c3m.md) *Brawler (3063)* `C3 Main` , `TAG` 
 - [**Manticore Heavy Tank (C3S)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_c3s.md) *Brawler (3063)* `C3 Support` 
 - [**Manticore Heavy Tank (HPPC)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_hppc.md) *Sniper (3074)* 
+- [**Manticore Heavy Tank (XL)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_xl.md) *Undefined (3117)* 
 
 #### [MHI Defense AA Tank](../../../units/mhi_defense_aa_tank.md) 
 
@@ -877,6 +883,7 @@
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
 - [**Mobile Long Tom Artillery (+Carriages)(Unofficial)**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_+carriagesunofficial.md) *Missile Boat (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-95**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-95.md) *Undefined (3097)* `ECM` 
 
 #### [Ontos Heavy Tank](../../../units/ontos_heavy_tank.md) 
 
@@ -892,6 +899,7 @@
 - [**Behemoth Heavy Tank**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Armor)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_armor.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Flamer)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) *Juggernaut (2981)* 
+- [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 - [**Behemoth Heavy Tank (Kurita)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_kurita.md) *Juggernaut (3062)* 
 
 #### [DI Morgan Assault Tank](../../../units/di_morgan_assault_tank.md) 

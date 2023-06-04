@@ -52,6 +52,10 @@
 
 - [**IS Standard Battle Armor (Magnetic)(Sqd5)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd5.md) *Ambusher (3141)* 
 
+#### [Longinus C Battle Armor](../../../units/longinus_c_battle_armor.md) 
+
+- [**Longinus C Battle Armor (MMR) (Sqd5)**](../../../units/longinus_c_battle_armor/longinus_c_battle_armor_mmr_sqd5.md) *Undefined (3144)* 
+
 #### [Salamander Battle Armor](../../../units/salamander_battle_armor.md) 
 
 - [**Salamander Battle Armor (Sqd5)**](../../../units/salamander_battle_armor/salamander_battle_armor_sqd5.md) *Ambusher (3058)* 

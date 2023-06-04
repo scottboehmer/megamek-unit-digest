@@ -185,6 +185,10 @@
 
 - [**Hachiman Fire Support Tank**](../../../units/hachiman_fire_support_tank/hachiman_fire_support_tank.md) *Missile Boat (2842)* 
 
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
+
 #### [Korvin Tank](../../../units/korvin_tank.md) 
 
 - [**Korvin Tank KRV-3**](../../../units/korvin_tank/korvin_tank_krv-3.md) *Missile Boat (2544)* 

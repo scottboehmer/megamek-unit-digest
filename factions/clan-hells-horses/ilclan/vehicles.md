@@ -308,6 +308,7 @@
 
 - [**Bellona Hover Tank**](../../../units/bellona_hover_tank/bellona_hover_tank.md) *Striker (3070)* 
 - [**Bellona Hover Tank (Laser)**](../../../units/bellona_hover_tank/bellona_hover_tank_laser.md) *Missile Boat (3076)* 
+- [**Bellona Hover Tank (XL)**](../../../units/bellona_hover_tank/bellona_hover_tank_xl.md) *Undefined (3135)* 
 
 #### [R10 Mechanized ICV](../../../units/r10_mechanized_icv.md) 
 
@@ -354,6 +355,8 @@
 #### [Hadur Fast Support Vehicle](../../../units/hadur_fast_support_vehicle.md) 
 
 - [**Hadur Fast Support Vehicle**](../../../units/hadur_fast_support_vehicle/hadur_fast_support_vehicle.md) *Missile Boat (3102)* 
+- [**Hadur Fast Support Vehicle (Reactive)**](../../../units/hadur_fast_support_vehicle/hadur_fast_support_vehicle_reactive.md) *Undefined (3142)* 
+- [**Hadur Fast Support Vehicle (LRM)**](../../../units/hadur_fast_support_vehicle/hadur_fast_support_vehicle_lrm.md) *Undefined (3145)* `TAG` 
 
 #### [Ku Wheeled Assault Tank](../../../units/ku_wheeled_assault_tank.md) 
 
@@ -400,6 +403,10 @@
 - [**Eurus MBT B**](../../../units/eurus_mbt/eurus_mbt_b.md) *Brawler (3146)* 
 - [**Eurus MBT C**](../../../units/eurus_mbt/eurus_mbt_c.md) *Brawler (3146)* 
 - [**Eurus MBT D**](../../../units/eurus_mbt/eurus_mbt_d.md) *Brawler (3146)* 
+
+#### [LRM Carrier](../../../units/lrm_carrier.md) 
+
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
 
 #### [Marsden II MBT](../../../units/marsden_ii_mbt.md) 
 

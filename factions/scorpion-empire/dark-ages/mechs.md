@@ -634,6 +634,7 @@
 
 - [**Awesome AWS-8Q**](../../../units/awesome/awesome_aws-8q.md) *Sniper (2665)* 
 - [**Awesome AWS-9Q**](../../../units/awesome/awesome_aws-9q.md) *Sniper (3057)* `ECM` 
+- [**Awesome C**](../../../units/awesome/awesome_c.md) *Undefined (3143)* 
 
 #### [Naga](../../../units/naga.md) 
 

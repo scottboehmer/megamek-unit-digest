@@ -273,6 +273,10 @@
 - [**Goblin Medium Tank (LRM)**](../../../units/goblin_medium_tank/goblin_medium_tank_lrm.md) *Missile Boat (2500)* `Transport:1.0` 
 - [**Goblin Medium Tank (SRM)**](../../../units/goblin_medium_tank/goblin_medium_tank_srm.md) *Juggernaut (2500)* `Transport:1.0` 
 
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank.md) *Undefined (2890)* 
+
 ### 50 Tons 
 
 #### [BattleMech Recovery Vehicle](../../../units/battlemech_recovery_vehicle.md) 
@@ -286,6 +290,10 @@
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
 - [**Condor Heavy Hover Tank**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank.md) *Striker (2564)* 
+
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
 
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 

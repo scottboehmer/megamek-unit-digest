@@ -27,5 +27,19 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Republic 
+
+- Marik-Stewart Commonwealth 
+- Mercenary 
+
+### Dark Ages 
+
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+
+### ilClan 
+
+- Free Worlds League 
+- Mercenary 
 

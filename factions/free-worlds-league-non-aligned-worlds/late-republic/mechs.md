@@ -487,6 +487,10 @@
 - [**Guillotine GLT-5M**](../../../units/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)* 
 - [**Guillotine GLT-7M**](../../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
 
+#### [Hercules](../../../units/hercules.md) 
+
+- [**Hercules HRC-LS-9003**](../../../units/hercules/hercules_hrc-ls-9003.md) *Undefined (3088)* `ECM` 
+
 #### [Lumberjack](../../../units/lumberjack.md) 
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 

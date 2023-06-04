@@ -373,6 +373,10 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
+
 #### [Conjurer](../../../units/conjurer.md) 
 
 - [**Conjurer**](../../../units/conjurer/conjurer.md) *Skirmisher (2829)* 
@@ -739,6 +743,7 @@
 - [**Deimos Prime**](../../../units/deimos/deimos_prime.md) *Sniper (3085)* 
 - [**Deimos A**](../../../units/deimos/deimos_a.md) *Brawler (3085)* `ECM` 
 - [**Deimos B**](../../../units/deimos/deimos_b.md) *Sniper (3085)* `ECM` 
+- [**Deimos H**](../../../units/deimos/deimos_h.md) *Sniper (3085)* 
 - [**Deimos C**](../../../units/deimos/deimos_c.md) *Sniper (3086)* `ECM` 
 - [**Deimos S**](../../../units/deimos/deimos_s.md) *Sniper (3086)* 
 - [**Deimos D**](../../../units/deimos/deimos_d.md) *Sniper (3119)* 

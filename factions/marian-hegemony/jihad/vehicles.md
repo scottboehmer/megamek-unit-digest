@@ -297,6 +297,10 @@
 - [**Fulcrum Heavy Hovertank**](../../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank.md) *Striker (3057)* `ECM` , `TAG` 
 - [**Fulcrum Heavy Hovertank III**](../../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank_iii.md) *Striker (3078)* `C3 Support` , `ECM` , `TAG` 
 
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
+
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 
 - [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 

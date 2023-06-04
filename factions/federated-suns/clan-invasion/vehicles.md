@@ -365,6 +365,10 @@
 - [**Goblin Medium Tank (LRM)**](../../../units/goblin_medium_tank/goblin_medium_tank_lrm.md) *Missile Boat (2500)* `Transport:1.0` 
 - [**Goblin Medium Tank (SRM)**](../../../units/goblin_medium_tank/goblin_medium_tank_srm.md) *Juggernaut (2500)* `Transport:1.0` 
 
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank.md) *Undefined (2890)* 
+
 ### 50 Tons 
 
 #### [BattleMech Recovery Vehicle](../../../units/battlemech_recovery_vehicle.md) 
@@ -395,6 +399,11 @@
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
 - [**Fulcrum Heavy Hovertank**](../../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank.md) *Striker (3057)* `ECM` , `TAG` 
+
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
+- [**Harrier Heavy Hover Tank (PPC)**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank_ppc.md) *Undefined (3030)* 
 
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 
@@ -625,6 +634,7 @@
 - [**Behemoth Heavy Tank**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Armor)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_armor.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Flamer)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) *Juggernaut (2981)* 
+- [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 
 #### [Neptune Submarine](../../../units/neptune_submarine.md) 
 

@@ -20,5 +20,21 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Raven Alliance 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Draconis Combine 
+- Lyran Commonwealth 
+- Rasalhague Dominion 
+- Raven Alliance 
 

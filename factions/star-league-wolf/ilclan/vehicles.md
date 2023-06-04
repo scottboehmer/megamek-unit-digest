@@ -466,6 +466,7 @@
 #### [LRM Carrier](../../../units/lrm_carrier.md) 
 
 - [**LRM Carrier**](../../../units/lrm_carrier/lrm_carrier.md) *Missile Boat (2470)* 
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
 
 #### [MHI Defense AA Tank](../../../units/mhi_defense_aa_tank.md) 
 
@@ -665,4 +666,10 @@
 
 - [**Mars Assault Vehicle**](../../../units/mars_assault_vehicle/mars_assault_vehicle.md) *Missile Boat (2871)* `ECM` 
 - [**Mars Assault Vehicle (ATM)**](../../../units/mars_assault_vehicle/mars_assault_vehicle_atm.md) *Juggernaut (3065)* `ECM` 
+
+### 160 Tons 
+
+#### [Devastator II Superheavy Tank](../../../units/devastator_ii_superheavy_tank.md) 
+
+- [**Devastator II Superheavy Tank**](../../../units/devastator_ii_superheavy_tank/devastator_ii_superheavy_tank.md) *Undefined (3143)* 
 

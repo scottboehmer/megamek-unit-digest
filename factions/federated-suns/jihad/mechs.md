@@ -726,6 +726,7 @@
 - [**Shadow Hawk SHD-2D2**](../../../units/shadow_hawk/shadow_hawk_shd-2d2.md) *Brawler (3049)* 
 - [**Shadow Hawk SHD-5D**](../../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
 - [**Shadow Hawk SHD-9D**](../../../units/shadow_hawk/shadow_hawk_shd-9d.md) *Skirmisher (3070)* `C3 Support` 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 
 #### [Wolverine](../../../units/wolverine.md) 
 

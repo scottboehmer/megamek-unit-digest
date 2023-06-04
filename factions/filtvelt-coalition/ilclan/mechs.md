@@ -241,6 +241,7 @@
 
 - [**Clint CLNT-5U**](../../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Support` , `TAG` 
 - [**Clint CLNT-3-3T**](../../../units/clint/clint_clnt-3-3t.md) *Striker (3069)* 
+- [**Clint CLNT-3-4T**](../../../units/clint/clint_clnt-3-4t.md) *Striker (3109)* 
 
 #### [Cuirass](../../../units/cuirass.md) 
 
@@ -355,6 +356,15 @@
 - [**Jabberwocky JAW-66C DemolitionMech**](../../../units/jabberwocky/jabberwocky_jaw-66c_demolitionmech.md) *Juggernaut (3070)* `IndustrialMech` 
 - [**Jabberwocky JAW-66D ConstructionMech**](../../../units/jabberwocky/jabberwocky_jaw-66d_constructionmech.md) *Juggernaut (3070)* `IndustrialMech` 
 - [**Jabberwocky JAW-67 MilitiaMech**](../../../units/jabberwocky/jabberwocky_jaw-67_militiamech.md) *Brawler (3076)* `IndustrialMech` 
+
+#### [Raider](../../../units/raider.md) 
+
+- [**Raider JL-3A**](../../../units/raider/raider_jl-3a.md) *Undefined (3138)* 
+- [**Raider JL-3B**](../../../units/raider/raider_jl-3b.md) *Undefined (3138)* 
+
+#### [Raider Mk II](../../../units/raider_mk_ii.md) 
+
+- [**Raider Mk II JL-3C**](../../../units/raider_mk_ii/raider_mk_ii_jl-3c.md) *Undefined (3139)* 
 
 #### [Trebuchet](../../../units/trebuchet.md) 
 

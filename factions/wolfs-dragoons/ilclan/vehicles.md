@@ -23,6 +23,10 @@
 
 - [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Savannah Master Hovercraft](../../../units/savannah_master_hovercraft.md) 
+
+- [**Savannah Master Hovercraft (Reflective)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_reflective.md) *Undefined (3094)* 
+
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
@@ -74,6 +78,10 @@
 #### [Heavy Transport B1](../../../units/heavy_transport_b1.md) 
 
 - [**Heavy Transport B1**](../../../units/heavy_transport_b1/heavy_transport_b1.md) *Undefined (2370)* `Transport:7.0` 
+
+#### [MASH Truck](../../../units/mash_truck.md) 
+
+- [**MASH Truck (AMS)**](../../../units/mash_truck/mash_truck_ams.md) *Undefined (3148)* 
 
 #### [Tamerlane Strike Sled](../../../units/tamerlane_strike_sled.md) 
 
@@ -187,6 +195,10 @@
 #### [Regulator Hovertank](../../../units/regulator_hovertank.md) 
 
 - [**Regulator Hovertank**](../../../units/regulator_hovertank/regulator_hovertank.md) *Sniper (3057)* 
+
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank (AAA)**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_aaa.md) *Undefined (3064)* 
 
 ### 50 Tons 
 

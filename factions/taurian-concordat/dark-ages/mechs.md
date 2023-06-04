@@ -232,6 +232,7 @@
 - [**Clint CLNT-5U**](../../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Support` , `TAG` 
 - [**Clint CLNT-2-3UL**](../../../units/clint/clint_clnt-2-3ul.md) *Striker (3069)* 
 - [**Clint CLNT-3-3T**](../../../units/clint/clint_clnt-3-3t.md) *Striker (3069)* 
+- [**Clint CLNT-3-4T**](../../../units/clint/clint_clnt-3-4t.md) *Striker (3109)* 
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
@@ -388,6 +389,7 @@
 
 - [**Brahma BRM-5A**](../../../units/brahma/brahma_brm-5a.md) *Skirmisher (3080)* 
 - [**Brahma BRM-5B**](../../../units/brahma/brahma_brm-5b.md) *Skirmisher (3080)* 
+- [**Brahma BRM-6T**](../../../units/brahma/brahma_brm-6t.md) *Undefined (3148)* 
 
 #### [Heavy Forester](../../../units/heavy_forester.md) 
 

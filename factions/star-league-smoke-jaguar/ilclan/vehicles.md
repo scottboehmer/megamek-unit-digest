@@ -412,6 +412,10 @@
 - [**Demon Tank**](../../../units/demon_tank/demon_tank.md) *Brawler (2716)* 
 - [**Demon Tank (Royal)**](../../../units/demon_tank/demon_tank_royal.md) *Skirmisher (2744)* 
 
+#### [LRM Carrier](../../../units/lrm_carrier.md) 
+
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
+
 #### [Pike Support Vehicle](../../../units/pike_support_vehicle.md) 
 
 - [**Pike Support Vehicle (Clan)**](../../../units/pike_support_vehicle/pike_support_vehicle_clan.md) *Sniper (3055)* 

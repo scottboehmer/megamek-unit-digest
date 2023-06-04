@@ -139,6 +139,12 @@
 
 - [**Zephyr Hovertank**](../../../units/zephyr_hovertank/zephyr_hovertank.md) *Striker (2621)* `ECM` , `TAG` 
 
+### 45 Tons 
+
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank (AAA)**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_aaa.md) *Undefined (3064)* 
+
 ### 50 Tons 
 
 #### [Bandit Hovercraft](../../../units/bandit_hovercraft.md) 

@@ -22,5 +22,17 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
+
+- Federated Suns 
+- Lyran Commonwealth 
+- Mercenary 
+- Taurian Concordat 
 

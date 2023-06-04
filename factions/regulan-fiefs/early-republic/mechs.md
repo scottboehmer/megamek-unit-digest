@@ -462,6 +462,7 @@
 - [**Shadow Hawk SHD-2H**](../../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
 - [**Shadow Hawk SHD-5M**](../../../units/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)* 
 - [**Shadow Hawk SHD-5S**](../../../units/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe` , `ECM` , `TAG` 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 
 #### [Wolverine](../../../units/wolverine.md) 
@@ -561,6 +562,11 @@
 #### [Ha Otoko](../../../units/ha_otoko.md) 
 
 - [**Ha Otoko**](../../../units/ha_otoko/ha_otoko.md) *Missile Boat (3060)* 
+
+#### [Jinggau](../../../units/jinggau.md) 
+
+- [**Jinggau JN-G7Lr**](../../../units/jinggau/jinggau_jn-g7lr.md) *Skirmisher (3078)* 
+- [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
 
 #### [Ostwar](../../../units/ostwar.md) 
 

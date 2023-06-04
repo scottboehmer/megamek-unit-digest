@@ -20,6 +20,10 @@
 - [**Chaeronea**](../../../units/chaeronea/chaeronea.md) *Interceptor (2849)* 
 - [**Chaeronea 2**](../../../units/chaeronea/chaeronea_2.md) *Interceptor (2883)* 
 
+#### [Cheetah IIC](../../../units/cheetah_iic.md) 
+
+- [**Cheetah IIC**](../../../units/cheetah_iic/cheetah_iic.md) *Undefined (3149)* `Active Probe` 
+
 #### [Sabre](../../../units/sabre.md) 
 
 - [**Sabre SB-27b**](../../../units/sabre/sabre_sb-27b.md) *Interceptor (2722)* 

@@ -28,5 +28,30 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Republic 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Federated Suns 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Federated Suns 
+- Free Worlds League 
 

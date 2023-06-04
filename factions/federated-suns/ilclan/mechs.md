@@ -35,6 +35,8 @@
 #### [Prey Seeker](../../../units/prey_seeker.md) 
 
 - [**Prey Seeker PY-SR10**](../../../units/prey_seeker/prey_seeker_py-sr10.md) *Striker (3136)* 
+- [**Prey Seeker PY-SR20**](../../../units/prey_seeker/prey_seeker_py-sr20.md) *Undefined (3140)* 
+- [**Prey Seeker PY-SR30**](../../../units/prey_seeker/prey_seeker_py-sr30.md) *Undefined (3141)* 
 
 ### 20 Tons 
 
@@ -202,6 +204,7 @@
 - [**Javelin JVN-11B**](../../../units/javelin/javelin_jvn-11b.md) *Striker (3054)* `Active Probe` , `ECM` 
 - [**Javelin JVN-11D**](../../../units/javelin/javelin_jvn-11d.md) *Striker (3062)* `C3 Support` 
 - [**Javelin JVN-11F**](../../../units/javelin/javelin_jvn-11f.md) *Scout (3070)* 
+- [**Javelin JVN-12N**](../../../units/javelin/javelin_jvn-12n.md) *Scout (3121)* `TAG` 
 
 #### [Nyx](../../../units/nyx.md) 
 
@@ -447,6 +450,7 @@
 
 - [**Watchman WTC-4M**](../../../units/watchman/watchman_wtc-4m.md) *Skirmisher (3055)* 
 - [**Watchman WTC-4DM**](../../../units/watchman/watchman_wtc-4dm.md) *Skirmisher (3063)* 
+- [**Watchman WTC-4DM2**](../../../units/watchman/watchman_wtc-4dm2.md) *Undefined (3145)* 
 
 ### 45 Tons 
 
@@ -463,11 +467,13 @@
 #### [Goshawk II](../../../units/goshawk_ii.md) 
 
 - [**Goshawk II**](../../../units/goshawk_ii/goshawk_ii.md) *Striker (3086)* `ECM` 
+- [**Goshawk II 4**](../../../units/goshawk_ii/goshawk_ii_4.md) *Undefined (3130)* 
 
 #### [Hatchetman](../../../units/hatchetman.md) 
 
 - [**Hatchetman HCT-6D**](../../../units/hatchetman/hatchetman_hct-6d.md) *Skirmisher (3062)* `ECM` 
 - [**Hatchetman HCT-7S**](../../../units/hatchetman/hatchetman_hct-7s.md) *Skirmisher (3084)* `ECM` 
+- [**Hatchetman HCT-7D**](../../../units/hatchetman/hatchetman_hct-7d.md) *Undefined (3092)* `ECM` 
 - [**Hatchetman HCT-5DT**](../../../units/hatchetman/hatchetman_hct-5dt.md) *Brawler (3145)* `ECM` 
 
 #### [Hellspawn](../../../units/hellspawn.md) 
@@ -579,6 +585,7 @@
 - [**Enforcer III ENF-6Ma**](../../../units/enforcer_iii/enforcer_iii_enf-6ma.md) *Skirmisher (3065)* 
 - [**Enforcer III ENF-6NAIS**](../../../units/enforcer_iii/enforcer_iii_enf-6nais.md) *Skirmisher (3074)* `C3 Support` , `ECM` 
 - [**Enforcer III ENF-7C3BS**](../../../units/enforcer_iii/enforcer_iii_enf-7c3bs.md) *Sniper (3075)* `C3 Support` 
+- [**Enforcer III ENF-6R**](../../../units/enforcer_iii/enforcer_iii_enf-6r.md) *Undefined (3102)* 
 - [**Enforcer III ENF-7D**](../../../units/enforcer_iii/enforcer_iii_enf-7d.md) *Sniper (3104)* 
 
 #### [Ghost](../../../units/ghost.md) 
@@ -612,10 +619,13 @@
 #### [Raider](../../../units/raider.md) 
 
 - [**Raider JL-1**](../../../units/raider/raider_jl-1.md) *Juggernaut (3134)* 
+- [**Raider JL-3A**](../../../units/raider/raider_jl-3a.md) *Undefined (3138)* 
+- [**Raider JL-3B**](../../../units/raider/raider_jl-3b.md) *Undefined (3138)* 
 
 #### [Raider Mk II](../../../units/raider_mk_ii.md) 
 
 - [**Raider Mk II JL-2**](../../../units/raider_mk_ii/raider_mk_ii_jl-2.md) *Brawler (3134)* 
+- [**Raider Mk II JL-3C**](../../../units/raider_mk_ii/raider_mk_ii_jl-3c.md) *Undefined (3139)* 
 
 #### [Shockwave](../../../units/shockwave.md) 
 
@@ -676,6 +686,7 @@
 - [**Lineholder KW1-LH2**](../../../units/lineholder/lineholder_kw1-lh2.md) *Skirmisher (3058)* 
 - [**Lineholder KW1-LH3**](../../../units/lineholder/lineholder_kw1-lh3.md) *Skirmisher (3059)* 
 - [**Lineholder KW1-LH8 'Linebreaker'**](../../../units/lineholder/lineholder_kw1-lh8_linebreaker.md) *Sniper (3065)* 
+- [**Lineholder KW2-LH10**](../../../units/lineholder/lineholder_kw2-lh10.md) *Undefined (3131)* `C3 Support` , `ECM` 
 
 #### [Mad Cat III](../../../units/mad_cat_iii.md) 
 
@@ -706,6 +717,7 @@
 
 - [**Shadow Hawk SHD-5D**](../../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
 - [**Shadow Hawk SHD-9D**](../../../units/shadow_hawk/shadow_hawk_shd-9d.md) *Skirmisher (3070)* `C3 Support` 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
 - [**Shadow Hawk SHD-6D**](../../../units/shadow_hawk/shadow_hawk_shd-6d.md) *Skirmisher (3141)* 
@@ -894,6 +906,11 @@
 - [**JagerMech III JM6-D3**](../../../units/jagermech_iii/jagermech_iii_jm6-d3.md) *Sniper (3058)* 
 - [**JagerMech III JM6-D4**](../../../units/jagermech_iii/jagermech_iii_jm6-d4.md) *Skirmisher (3073)* 
 
+#### [Jinggau](../../../units/jinggau.md) 
+
+- [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
+- [**Jinggau JN-G9CCr**](../../../units/jinggau/jinggau_jn-g9ccr.md) *Skirmisher (3137)* `Active Probe` , `Command Console` , `ECM` , `Stealth` 
+
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 
 - [**Rifleman IIC**](../../../units/rifleman_iic/rifleman_iic.md) *Sniper (2845)* `Active Probe` 
@@ -946,6 +963,7 @@
 #### [Caesar](../../../units/caesar.md) 
 
 - [**Caesar CES-4R**](../../../units/caesar/caesar_ces-4r.md) *Skirmisher (3067)* 
+- [**Caesar CES-5D**](../../../units/caesar/caesar_ces-5d.md) *Undefined (3148)* 
 - [**Caesar CES-5R**](../../../units/caesar/caesar_ces-5r.md) *Brawler (3148)* 
 
 #### [Cataphract](../../../units/cataphract.md) 
@@ -1070,6 +1088,7 @@
 - [**Penetrator PTR-4D**](../../../units/penetrator/penetrator_ptr-4d.md) *Skirmisher (3053)* 
 - [**Penetrator PTR-6M**](../../../units/penetrator/penetrator_ptr-6m.md) *Skirmisher (3058)* 
 - [**Penetrator PTR-6T**](../../../units/penetrator/penetrator_ptr-6t.md) *Skirmisher (3066)* 
+- [**Penetrator PTR-7D**](../../../units/penetrator/penetrator_ptr-7d.md) *Undefined (3133)* 
 - [**Penetrator PTR-8D**](../../../units/penetrator/penetrator_ptr-8d.md) *Brawler (3144)* 
 
 #### [Rakshasa](../../../units/rakshasa.md) 
@@ -1335,6 +1354,7 @@
 
 - [**Devastator DVS-2**](../../../units/devastator/devastator_dvs-2.md) *Juggernaut (3048)* 
 - [**Devastator DVS-3**](../../../units/devastator/devastator_dvs-3.md) *Sniper (3058)* 
+- [**Devastator DVS-10**](../../../units/devastator/devastator_dvs-10.md) *Undefined (3142)* 
 - [**Devastator DVS-11**](../../../units/devastator/devastator_dvs-11.md) *Juggernaut (3146)* 
 
 #### [Diomede](../../../units/diomede.md) 

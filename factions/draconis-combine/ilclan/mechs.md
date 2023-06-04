@@ -406,6 +406,7 @@
 - [**Venom SDR-9KA**](../../../units/venom/venom_sdr-9ka.md) *Striker (3056)* 
 - [**Venom SDR-9KB**](../../../units/venom/venom_sdr-9kb.md) *Striker (3057)* 
 - [**Venom SDR-9KC**](../../../units/venom/venom_sdr-9kc.md) *Striker (3066)* `C3 Support` 
+- [**Venom SDR-9KE**](../../../units/venom/venom_sdr-9ke.md) *Undefined (3108)* `Active Probe` , `TAG` 
 
 #### [Wight](../../../units/wight.md) 
 
@@ -512,6 +513,10 @@
 - [**Firestarter FS9-OG**](../../../units/firestarter_omnimech/firestarter_fs9-og.md) *Striker (3063)* 
 - [**Firestarter FS9-OH**](../../../units/firestarter_omnimech/firestarter_fs9-oh.md) *Striker (3069)* `Active Probe` , `ECM` 
 - [**Firestarter FS9-OU**](../../../units/firestarter_omnimech/firestarter_fs9-ou.md) *Striker (3077)* 
+
+#### [Goshawk II](../../../units/goshawk_ii.md) 
+
+- [**Goshawk II 4**](../../../units/goshawk_ii/goshawk_ii_4.md) *Undefined (3130)* 
 
 #### [Hatchetman](../../../units/hatchetman.md) 
 
@@ -718,6 +723,7 @@
 
 - [**Lineholder KW1-LH2**](../../../units/lineholder/lineholder_kw1-lh2.md) *Skirmisher (3058)* 
 - [**Lineholder KW1-LH3**](../../../units/lineholder/lineholder_kw1-lh3.md) *Skirmisher (3059)* 
+- [**Lineholder KW2-LH10**](../../../units/lineholder/lineholder_kw2-lh10.md) *Undefined (3131)* `C3 Support` , `ECM` 
 
 #### [Lynx](../../../units/lynx.md) 
 
@@ -751,6 +757,7 @@
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-3K**](../../../units/shadow_hawk/shadow_hawk_shd-3k.md) *Sniper (3075)* `C3 Support` 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-12C**](../../../units/shadow_hawk/shadow_hawk_shd-12c.md) *Sniper (3079)* 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
@@ -1139,6 +1146,10 @@
 - [**Hatamoto-Suna HTM-30S**](../../../units/hatamoto/hatamoto-suna_htm-30s.md) *Juggernaut (3138)* 
 - [**Hatamoto-Godai HTM-30Z**](../../../units/hatamoto/hatamoto-godai_htm-30z.md) *Juggernaut (3140)* `Active Probe` , `C3 Main` , `Command Console` , `ECM` , `TAG` 
 
+#### [Hatamoto-Kaze](../../../units/hatamoto-kaze.md) 
+
+- [**Hatamoto-Kaze HTM-27V2**](../../../units/hatamoto-kaze/hatamoto-kaze_htm-27v2.md) *Undefined (3115)* `C3 Support` 
+
 #### [O-Bakemono](../../../units/o-bakemono.md) 
 
 - [**O-Bakemono OBK-M10**](../../../units/o-bakemono/o-bakemono_obk-m10.md) *Missile Boat (3058)* 
@@ -1258,6 +1269,7 @@
 #### [Orochi](../../../units/orochi.md) 
 
 - [**Orochi OR-2I**](../../../units/orochi/orochi_or-2i.md) *Missile Boat (3084)* 
+- [**Orochi OR-3K**](../../../units/orochi/orochi_or-3k.md) *Undefined (3144)* 
 
 #### [Regent](../../../units/regent.md) 
 
@@ -1294,6 +1306,7 @@
 
 - [**Cerberus MR-V2**](../../../units/cerberus/cerberus_mr-v2.md) *Brawler (3054)* 
 - [**Cerberus MR-V3**](../../../units/cerberus/cerberus_mr-v3.md) *Brawler (3062)* 
+- [**Cerberus MR-7K**](../../../units/cerberus/cerberus_mr-7k.md) *Undefined (3121)* `C3 Support` 
 
 #### [Hellstar](../../../units/hellstar.md) 
 

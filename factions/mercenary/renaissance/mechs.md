@@ -253,6 +253,10 @@
 - [**Guillotine GLT-4L**](../../../units/guillotine/guillotine_glt-4l.md) *Skirmisher (2825)* 
 - [**Guillotine GLT-4P**](../../../units/guillotine/guillotine_glt-4p.md) *Skirmisher (2833)* 
 
+#### [Viper](../../../units/viper.md) 
+
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
+
 #### [Warhammer](../../../units/warhammer.md) 
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 

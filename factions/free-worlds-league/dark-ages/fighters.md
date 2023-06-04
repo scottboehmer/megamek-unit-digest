@@ -127,6 +127,7 @@
 #### [Shikra](../../../units/shikra.md) 
 
 - [**Shikra SKR-4M**](../../../units/shikra/shikra_skr-4m.md) *Fire Support (3101)* 
+- [**Shikra SKR-4N**](../../../units/shikra/shikra_skr-4n.md) *Undefined (3144)* 
 
 #### [Typhoon](../../../units/typhoon.md) 
 

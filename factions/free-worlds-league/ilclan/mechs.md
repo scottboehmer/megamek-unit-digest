@@ -375,6 +375,7 @@
 #### [Clint](../../../units/clint.md) 
 
 - [**Clint CLNT-5U**](../../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Support` , `TAG` 
+- [**Clint CLNT-3-4T**](../../../units/clint/clint_clnt-3-4t.md) *Striker (3109)* 
 
 #### [Dasher II](../../../units/dasher_ii.md) 
 
@@ -399,6 +400,7 @@
 #### [Icarus II](../../../units/icarus_ii.md) 
 
 - [**Icarus II ICR-2S**](../../../units/icarus_ii/icarus_ii_icr-2s.md) *Brawler (3073)* 
+- [**Icarus II ICR-2R**](../../../units/icarus_ii/icarus_ii_icr-2r.md) *Undefined (3124)* `TAG` 
 
 #### [Strider](../../../units/strider.md) 
 
@@ -691,6 +693,7 @@
 
 - [**Lineholder KW1-LH2**](../../../units/lineholder/lineholder_kw1-lh2.md) *Skirmisher (3058)* 
 - [**Lineholder KW1-LH3**](../../../units/lineholder/lineholder_kw1-lh3.md) *Skirmisher (3059)* 
+- [**Lineholder KW2-LH10**](../../../units/lineholder/lineholder_kw2-lh10.md) *Undefined (3131)* `C3 Support` , `ECM` 
 
 #### [Mad Cat III](../../../units/mad_cat_iii.md) 
 
@@ -721,6 +724,7 @@
 - [**Shadow Hawk SHD-5M**](../../../units/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)* 
 - [**Shadow Hawk SHD-5S**](../../../units/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe` , `ECM` , `TAG` 
 - [**Shadow Hawk SHD-7M**](../../../units/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)* 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
 - [**Shadow Hawk SHD-4H**](../../../units/shadow_hawk/shadow_hawk_shd-4h.md) *Sniper (3101)* 
@@ -883,6 +887,12 @@
 - [**Hellbringer G**](../../../units/hellbringer/hellbringer_g.md) *Skirmisher (3112)* 
 - [**Hellbringer T**](../../../units/hellbringer/hellbringer_t.md) *Sniper (3142)* 
 
+#### [Jinggau](../../../units/jinggau.md) 
+
+- [**Jinggau JN-G7Lr**](../../../units/jinggau/jinggau_jn-g7lr.md) *Skirmisher (3078)* 
+- [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
+- [**Jinggau JN-G9CCr**](../../../units/jinggau/jinggau_jn-g9ccr.md) *Skirmisher (3137)* `Active Probe` , `Command Console` , `ECM` , `Stealth` 
+
 #### [Koschei](../../../units/koschei.md) 
 
 - [**Koschei KSC-5I**](../../../units/koschei/koschei_ksc-5i.md) *Skirmisher (3071)* `ECM` 
@@ -914,6 +924,8 @@
 - [**Tempest TMP-3G**](../../../units/tempest/tempest_tmp-3g.md) *Brawler (3056)* 
 - [**Tempest TMP-3MA**](../../../units/tempest/tempest_tmp-3ma.md) *Brawler (3056)* 
 - [**Tempest TMP-3M2 'Storm Tempest'**](../../../units/tempest/tempest_tmp-3m2_storm_tempest.md) *Brawler (3067)* 
+- [**Tempest TMP-4M**](../../../units/tempest/tempest_tmp-4m.md) *Undefined (3134)* 
+- [**Tempest C**](../../../units/tempest/tempest_c.md) *Undefined (3150)* 
 
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
@@ -976,6 +988,8 @@
 
 - [**Hercules HRC-LS-9000**](../../../units/hercules/hercules_hrc-ls-9000.md) *Skirmisher (3054)* 
 - [**Hercules HRC-LS-9001**](../../../units/hercules/hercules_hrc-ls-9001.md) *Skirmisher (3056)* 
+- [**Hercules HRC-LS-9003**](../../../units/hercules/hercules_hrc-ls-9003.md) *Undefined (3088)* `ECM` 
+- [**Hercules HRC-LS-9004**](../../../units/hercules/hercules_hrc-ls-9004.md) *Undefined (3141)* 
 
 #### [Lumberjack](../../../units/lumberjack.md) 
 
@@ -1048,6 +1062,7 @@
 - [**Orion ON1-MD**](../../../units/orion/orion_on1-md.md) *Brawler (3062)* 
 - [**Orion ON2-M**](../../../units/orion/orion_on2-m.md) *Brawler (3063)* 
 - [**Orion ON3-M**](../../../units/orion/orion_on3-m.md) *Sniper (3083)* `TAG` 
+- [**Orion C**](../../../units/orion/orion_c.md) *Undefined (3142)* 
 - [**Orion C 2**](../../../units/orion/orion_c_2.md) *Brawler (3143)* 
 
 #### [Pandarus](../../../units/pandarus.md) 
@@ -1091,6 +1106,7 @@
 - [**Awesome AWS-9Q**](../../../units/awesome/awesome_aws-9q.md) *Sniper (3057)* `ECM` 
 - [**Awesome AWS-10KM**](../../../units/awesome/awesome_aws-10km.md) *Juggernaut (3068)* `ECM` 
 - [**Awesome AWS-11R**](../../../units/awesome/awesome_aws-11r.md) *Sniper (3133)* `ECM` , `Stealth` 
+- [**Awesome AWS-11V**](../../../units/awesome/awesome_aws-11v.md) *Undefined (3135)* `ECM` 
 - [**Awesome AWS-11H**](../../../units/awesome/awesome_aws-11h.md) *Sniper (3142)* 
 
 #### [Charger](../../../units/charger.md) 
@@ -1146,6 +1162,7 @@
 - [**BattleMaster BLR-M3**](../../../units/battlemaster/battlemaster_blr-m3.md) *Sniper (3070)* `C3 Main` , `TAG` 
 - [**BattleMaster BLR-6C**](../../../units/battlemaster/battlemaster_blr-6c.md) *Juggernaut (3081)* `Command Console` 
 - [**BattleMaster BLR-6G**](../../../units/battlemaster/battlemaster_blr-6g.md) *Brawler (3088)* 
+- [**BattleMaster BLR-6M**](../../../units/battlemaster/battlemaster_blr-6m.md) *Undefined (3120)* `Command Console` 
 
 #### [Gunslinger](../../../units/gunslinger.md) 
 
@@ -1196,6 +1213,8 @@
 #### [Juliano](../../../units/juliano.md) 
 
 - [**Juliano JLN-5A**](../../../units/juliano/juliano_jln-5a.md) *Brawler (3116)* 
+- [**Juliano JLN-5B**](../../../units/juliano/juliano_jln-5b.md) *Undefined (3146)* 
+- [**Juliano JLN-5C**](../../../units/juliano/juliano_jln-5c.md) *Undefined (3146)* 
 
 #### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 
 

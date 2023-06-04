@@ -22,5 +22,15 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Republic 
+
+- Capellan Confederation 
+
+### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
+
+- Capellan Confederation 
 

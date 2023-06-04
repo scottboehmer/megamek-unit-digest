@@ -135,6 +135,12 @@
 
 - [**Scimitar Medium Hover Tank (C3)**](../../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_c3.md) *Scout (3073)* `C3 Support` 
 
+### 45 Tons 
+
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank (AAA)**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_aaa.md) *Undefined (3064)* 
+
 ### 50 Tons 
 
 #### [Bandit Hovercraft](../../../units/bandit_hovercraft.md) 

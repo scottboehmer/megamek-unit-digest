@@ -19,5 +19,43 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Regulan Fiefs 
+- Republic of the Sphere 
+- Taurian Concordat 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Calderon Protectorate 
+- Capellan Confederation 
+- Clan Sea Fox 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Tamar Pact 
+- Taurian Concordat 
+- Vesper Marches 
+- Wolf Empire 
+- Wolf's Dragoons 
 

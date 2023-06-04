@@ -236,6 +236,7 @@
 #### [Skanda Light Tank](../../../units/skanda_light_tank.md) 
 
 - [**Skanda Light Tank**](../../../units/skanda_light_tank/skanda_light_tank.md) *Striker (3094)* 
+- [**Skanda Light Tank (TSEMP)**](../../../units/skanda_light_tank/skanda_light_tank_tsemp.md) *Undefined (3119)* 
 
 #### [Svantovit Infantry Fighting Vehicle](../../../units/svantovit_infantry_fighting_vehicle.md) 
 
@@ -386,6 +387,10 @@
 - [**JES III Missile Carrier (Thunderbolt)**](../../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_thunderbolt.md) *Missile Boat (3133)* 
 - [**JES III Missile Carrier (Speed)**](../../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_speed.md) *Missile Boat (3135)* 
 
+#### [LRM Carrier](../../../units/lrm_carrier.md) 
+
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
+
 #### [MHI Defense AA Tank](../../../units/mhi_defense_aa_tank.md) 
 
 - [**MHI Defense AA Tank**](../../../units/mhi_defense_aa_tank/mhi_defense_aa_tank.md) *Sniper (3106)* 
@@ -422,6 +427,10 @@
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
 - [**Mobile Long Tom Artillery LT-MOB-25F**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25f.md) *Missile Boat (2695)* 
+
+#### [Sekhmet Assault Vehicle](../../../units/sekhmet_assault_vehicle.md) 
+
+- [**Sekhmet Assault Vehicle (Streak)**](../../../units/sekhmet_assault_vehicle/sekhmet_assault_vehicle_streak.md) *Undefined (3146)* 
 
 ### 70 Tons 
 
@@ -518,6 +527,8 @@
 #### [Huitzilopochtli Assault Tank 'Huey'](../../../units/huitzilopochtli_assault_tank_huey.md) 
 
 - [**Huitzilopochtli Assault Tank 'Huey'**](../../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey.md) *Missile Boat (2845)* `ECM` 
+- [**Huitzilopochtli Assault Tank 'Huey' (LRM)**](../../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_lrm.md) *Undefined (3147)* `ECM` 
+- [**Huitzilopochtli Assault Tank 'Huey' (Streak)**](../../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_streak.md) *Undefined (3147)* `ECM` 
 
 #### [Trajan Assault Infantry Fighting Vehicle](../../../units/trajan_assault_infantry_fighting_vehicle.md) 
 

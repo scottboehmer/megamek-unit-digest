@@ -417,6 +417,11 @@
 - [**Fulcrum Heavy Hovertank**](../../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank.md) *Striker (3057)* `ECM` , `TAG` 
 - [**Fulcrum Heavy Hovertank II**](../../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank_ii.md) *Striker (3067)* `ECM` , `TAG` 
 
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
+- [**Harrier Heavy Hover Tank (PPC)**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank_ppc.md) *Undefined (3030)* 
+
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 
 - [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
@@ -698,6 +703,7 @@
 - [**Behemoth Heavy Tank**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Armor)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_armor.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Flamer)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) *Juggernaut (2981)* 
+- [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 - [**Behemoth Heavy Tank (Kurita)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_kurita.md) *Juggernaut (3062)* 
 
 #### [Neptune Submarine](../../../units/neptune_submarine.md) 

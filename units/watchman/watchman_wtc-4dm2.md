@@ -24,5 +24,11 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Federated Suns 
+
+### ilClan 
+
+- Federated Suns 
 

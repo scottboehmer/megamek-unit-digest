@@ -239,6 +239,7 @@
 - [**Clint CLNT-5U**](../../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Support` , `TAG` 
 - [**Clint CLNT-2-3UL**](../../../units/clint/clint_clnt-2-3ul.md) *Striker (3069)* 
 - [**Clint CLNT-3-3T**](../../../units/clint/clint_clnt-3-3t.md) *Striker (3069)* 
+- [**Clint CLNT-3-4T**](../../../units/clint/clint_clnt-3-4t.md) *Striker (3109)* 
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
@@ -360,6 +361,15 @@
 - [**Huron Warrior HUR-WO-R4L**](../../../units/huron_warrior/huron_warrior_hur-wo-r4l.md) *Skirmisher (3055)* 
 - [**Huron Warrior HUR-WO-R4O**](../../../units/huron_warrior/huron_warrior_hur-wo-r4o.md) *Skirmisher (3065)* 
 
+#### [Raider](../../../units/raider.md) 
+
+- [**Raider JL-3A**](../../../units/raider/raider_jl-3a.md) *Undefined (3138)* 
+- [**Raider JL-3B**](../../../units/raider/raider_jl-3b.md) *Undefined (3138)* 
+
+#### [Raider Mk II](../../../units/raider_mk_ii.md) 
+
+- [**Raider Mk II JL-3C**](../../../units/raider_mk_ii/raider_mk_ii_jl-3c.md) *Undefined (3139)* 
+
 #### [Trebuchet](../../../units/trebuchet.md) 
 
 - [**Trebuchet TBT-5N**](../../../units/trebuchet/trebuchet_tbt-5n.md) *Missile Boat (2799)* 
@@ -430,6 +440,7 @@
 
 - [**Brahma BRM-5A**](../../../units/brahma/brahma_brm-5a.md) *Skirmisher (3080)* 
 - [**Brahma BRM-5B**](../../../units/brahma/brahma_brm-5b.md) *Skirmisher (3080)* 
+- [**Brahma BRM-6T**](../../../units/brahma/brahma_brm-6t.md) *Undefined (3148)* 
 
 #### [Heavy Forester](../../../units/heavy_forester.md) 
 

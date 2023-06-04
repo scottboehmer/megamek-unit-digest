@@ -25,5 +25,33 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Republic 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Rim Commonality 
+
+### Late Republic 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Rim Commonality 
+
+### ilClan 
+
+- Free Worlds League 
+- Marian Hegemony 
 

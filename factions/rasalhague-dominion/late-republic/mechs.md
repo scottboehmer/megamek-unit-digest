@@ -301,6 +301,10 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
+
 #### [Gravedigger](../../../units/gravedigger.md) 
 
 - [**Gravedigger GDR-1D**](../../../units/gravedigger/gravedigger_gdr-1d.md) *Sniper (3105)* `Active Probe` , `ECM` 

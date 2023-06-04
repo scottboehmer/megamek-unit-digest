@@ -21,5 +21,15 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Clan Sea Fox 
+- Lyran Commonwealth 
+- Mercenary 
+
+### ilClan 
+
+- Clan Sea Fox 
+- Lyran Commonwealth 
+- Mercenary 
 

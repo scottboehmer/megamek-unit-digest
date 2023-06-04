@@ -438,6 +438,7 @@
 - [**Shadow Hawk SHD-5M**](../../../units/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)* 
 - [**Shadow Hawk SHD-5S**](../../../units/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe` , `ECM` , `TAG` 
 - [**Shadow Hawk SHD-7M**](../../../units/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)* 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 
 #### [Wolverine](../../../units/wolverine.md) 
@@ -603,6 +604,7 @@
 
 - [**Hercules HRC-LS-9000**](../../../units/hercules/hercules_hrc-ls-9000.md) *Skirmisher (3054)* 
 - [**Hercules HRC-LS-9001**](../../../units/hercules/hercules_hrc-ls-9001.md) *Skirmisher (3056)* 
+- [**Hercules HRC-LS-9003**](../../../units/hercules/hercules_hrc-ls-9003.md) *Undefined (3088)* `ECM` 
 
 #### [Lumberjack](../../../units/lumberjack.md) 
 

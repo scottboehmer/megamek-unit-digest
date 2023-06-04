@@ -428,6 +428,7 @@
 #### [Goshawk II](../../../units/goshawk_ii.md) 
 
 - [**Goshawk II**](../../../units/goshawk_ii/goshawk_ii.md) *Striker (3086)* `ECM` 
+- [**Goshawk II 4**](../../../units/goshawk_ii/goshawk_ii_4.md) *Undefined (3130)* 
 
 #### [Phoenix Hawk](../../../units/phoenix_hawk.md) 
 
@@ -538,14 +539,18 @@
 - [**Huron Warrior HUR-WO-R4L**](../../../units/huron_warrior/huron_warrior_hur-wo-r4l.md) *Skirmisher (3055)* 
 - [**Huron Warrior HUR-WO-R4N**](../../../units/huron_warrior/huron_warrior_hur-wo-r4n.md) *Missile Boat (3063)* `ECM` , `Stealth` 
 - [**Huron Warrior HUR-WO-R4O**](../../../units/huron_warrior/huron_warrior_hur-wo-r4o.md) *Skirmisher (3065)* 
+- [**Huron Warrior HUR-WO-R5L**](../../../units/huron_warrior/huron_warrior_hur-wo-r5l.md) *Undefined (3102)* `ECM` , `Stealth` 
 
 #### [Raider](../../../units/raider.md) 
 
 - [**Raider JL-1**](../../../units/raider/raider_jl-1.md) *Juggernaut (3134)* 
+- [**Raider JL-3A**](../../../units/raider/raider_jl-3a.md) *Undefined (3138)* 
+- [**Raider JL-3B**](../../../units/raider/raider_jl-3b.md) *Undefined (3138)* 
 
 #### [Raider Mk II](../../../units/raider_mk_ii.md) 
 
 - [**Raider Mk II JL-2**](../../../units/raider_mk_ii/raider_mk_ii_jl-2.md) *Brawler (3134)* 
+- [**Raider Mk II JL-3C**](../../../units/raider_mk_ii/raider_mk_ii_jl-3c.md) *Undefined (3139)* 
 
 #### [Shockwave](../../../units/shockwave.md) 
 
@@ -589,6 +594,7 @@
 
 - [**Lineholder KW1-LH2**](../../../units/lineholder/lineholder_kw1-lh2.md) *Skirmisher (3058)* 
 - [**Lineholder KW1-LH3**](../../../units/lineholder/lineholder_kw1-lh3.md) *Skirmisher (3059)* 
+- [**Lineholder KW2-LH10**](../../../units/lineholder/lineholder_kw2-lh10.md) *Undefined (3131)* `C3 Support` , `ECM` 
 
 #### [Mad Cat III](../../../units/mad_cat_iii.md) 
 
@@ -638,6 +644,7 @@
 - [**Shadow Hawk SHD-2Hb**](../../../units/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)* 
 - [**Shadow Hawk SHD-5D**](../../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
 - [**Shadow Hawk SHD-7M**](../../../units/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)* 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-8L**](../../../units/shadow_hawk/shadow_hawk_shd-8l.md) *Striker (3079)* `Active Probe` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
@@ -692,6 +699,7 @@
 - [**Helios HEL-3D**](../../../units/helios/helios_hel-3d.md) *Skirmisher (3058)* 
 - [**Helios HEL-4A**](../../../units/helios/helios_hel-4a.md) *Skirmisher (3060)* 
 - [**Helios HEL-C**](../../../units/helios/helios_hel-c.md) *Skirmisher (3060)* `C3 Support` 
+- [**Helios HEL-7L**](../../../units/helios/helios_hel-7l.md) *Undefined (3144)* `C3 Support` 
 
 #### [Lupus](../../../units/lupus.md) 
 
@@ -818,6 +826,8 @@
 - [**Jinggau JN-G8A**](../../../units/jinggau/jinggau_jn-g8a.md) *Skirmisher (3060)* 
 - [**Jinggau JN-G7L**](../../../units/jinggau/jinggau_jn-g7l.md) *Skirmisher (3068)* 
 - [**Jinggau JN-G9CC**](../../../units/jinggau/jinggau_jn-g9cc.md) *Skirmisher (3072)* `Active Probe` , `Command Console` , `ECM` , `Stealth` 
+- [**Jinggau JN-G9CCr**](../../../units/jinggau/jinggau_jn-g9ccr.md) *Skirmisher (3137)* `Active Probe` , `Command Console` , `ECM` , `Stealth` 
+- [**Jinggau JN-G9B**](../../../units/jinggau/jinggau_jn-g9b.md) *Skirmisher (3149)* 
 
 #### [Koschei](../../../units/koschei.md) 
 
@@ -1050,6 +1060,7 @@
 
 - [**Striker STC-2C**](../../../units/striker/striker_stc-2c.md) *Brawler (2571)* 
 - [**Striker STC-2D**](../../../units/striker/striker_stc-2d.md) *Brawler (3056)* 
+- [**Striker STC-2L**](../../../units/striker/striker_stc-2l.md) *Undefined (3123)* 
 
 #### [Victor](../../../units/victor.md) 
 
@@ -1166,6 +1177,7 @@
 - [**Yu Huang Y-H9GC**](../../../units/yu_huang/yu_huang_y-h9gc.md) *Skirmisher (3067)* `C3 Main` , `TAG` 
 - [**Yu Huang Y-H9GB**](../../../units/yu_huang/yu_huang_y-h9gb.md) *Skirmisher (3068)* 
 - [**Yu Huang Y-H11G**](../../../units/yu_huang/yu_huang_y-h11g.md) *Skirmisher (3075)* 
+- [**Yu Huang Y-H12GC**](../../../units/yu_huang/yu_huang_y-h12gc.md) *Undefined (3146)* `C3 Main` , `TAG` 
 
 ### 95 Tons 
 

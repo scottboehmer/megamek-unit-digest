@@ -459,6 +459,12 @@
 - [**Assassin ASN-23**](../../../units/assassin/assassin_asn-23.md) *Striker (3050)* 
 - [**Assassin ASN-30**](../../../units/assassin/assassin_asn-30.md) *Scout (3062)* 
 
+#### [Battle Cobra](../../../units/battle_cobra.md) 
+
+- [**Battle Cobra BTL-C-2OG**](../../../units/battle_cobra/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
+- [**Battle Cobra BTL-C-2OH**](../../../units/battle_cobra/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
+- [**Battle Cobra BTL-C-2OI**](../../../units/battle_cobra/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
+
 #### [Chimera](../../../units/chimera.md) 
 
 - [**Chimera CMA-1S**](../../../units/chimera/chimera_cma-1s.md) *Striker (3063)* 
@@ -607,6 +613,7 @@
 - [**Hatchetman HCT-5DD**](../../../units/hatchetman/hatchetman_hct-5dd.md) *Skirmisher (3065)* 
 - [**Hatchetman HCT-6M**](../../../units/hatchetman/hatchetman_hct-6m.md) *Brawler (3084)* `Active Probe` 
 - [**Hatchetman HCT-7S**](../../../units/hatchetman/hatchetman_hct-7s.md) *Skirmisher (3084)* `ECM` 
+- [**Hatchetman HCT-7D**](../../../units/hatchetman/hatchetman_hct-7d.md) *Undefined (3092)* `ECM` 
 
 #### [Hellspawn](../../../units/hellspawn.md) 
 
@@ -1631,6 +1638,10 @@
 - [**Longbow LGB-13C**](../../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C2**](../../../units/longbow/longbow_lgb-14c2.md) *Missile Boat (3088)* `C3 Support` 
+
+#### [Shogun](../../../units/shogun.md) 
+
+- [**Shogun SHG-3E**](../../../units/shogun/shogun_shg-3e.md) *Undefined (3090)* 
 
 #### [Stalker](../../../units/stalker.md) 
 

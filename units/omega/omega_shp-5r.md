@@ -24,5 +24,16 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Republic 
+
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Republic of the Sphere 
+
+### ilClan 
+
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

@@ -18,5 +18,12 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Clan Jade Falcon 
+
+### ilClan 
+
+- Mercenary 
+- Star League (Jade Falcon) 
 

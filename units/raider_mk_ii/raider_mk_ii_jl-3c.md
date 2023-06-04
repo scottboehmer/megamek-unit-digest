@@ -19,5 +19,24 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Capellan Confederation 
+- Federated Suns 
+- Fronc Reaches 
+- Mercenary 
+- Pirate 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
 

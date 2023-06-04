@@ -13,6 +13,10 @@
 - [**Cheetah F-13**](../../../units/cheetah/cheetah_f-13.md) *Interceptor (3069)* 
 - [**Cheetah OF-17A-R**](../../../units/cheetah/cheetah_of-17a-r.md) *Interceptor (3080)* `ECM` , `Stealth` 
 
+#### [Cheetah IIC](../../../units/cheetah_iic.md) 
+
+- [**Cheetah IIC**](../../../units/cheetah_iic/cheetah_iic.md) *Undefined (3149)* `Active Probe` 
+
 #### [Sabre](../../../units/sabre.md) 
 
 - [**Sabre SB-27**](../../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
@@ -141,6 +145,7 @@
 #### [Shikra](../../../units/shikra.md) 
 
 - [**Shikra SKR-4M**](../../../units/shikra/shikra_skr-4m.md) *Fire Support (3101)* 
+- [**Shikra SKR-4N**](../../../units/shikra/shikra_skr-4n.md) *Undefined (3144)* 
 
 #### [Typhoon](../../../units/typhoon.md) 
 

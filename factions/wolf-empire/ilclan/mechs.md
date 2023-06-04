@@ -319,6 +319,10 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
+
 #### [Conjurer](../../../units/conjurer.md) 
 
 - [**Conjurer**](../../../units/conjurer/conjurer.md) *Skirmisher (2829)* 
@@ -508,6 +512,7 @@
 
 #### [Orion](../../../units/orion.md) 
 
+- [**Orion C**](../../../units/orion/orion_c.md) *Undefined (3142)* 
 - [**Orion C 2**](../../../units/orion/orion_c_2.md) *Brawler (3143)* 
 
 #### [Savage Wolf](../../../units/savage_wolf.md) 
@@ -564,6 +569,7 @@
 #### [Awesome](../../../units/awesome.md) 
 
 - [**Awesome AWS-11R**](../../../units/awesome/awesome_aws-11r.md) *Sniper (3133)* `ECM` , `Stealth` 
+- [**Awesome AWS-11V**](../../../units/awesome/awesome_aws-11v.md) *Undefined (3135)* `ECM` 
 
 #### [Goliath](../../../units/goliath.md) 
 
@@ -609,6 +615,7 @@
 #### [BattleMaster](../../../units/battlemaster.md) 
 
 - [**BattleMaster BLR-1Gc**](../../../units/battlemaster/battlemaster_blr-1gc.md) *Brawler (2763)* `Command Console` 
+- [**BattleMaster C 2**](../../../units/battlemaster/battlemaster_c_2.md) *Undefined (3145)* `Command Console` 
 
 ### 90 Tons 
 

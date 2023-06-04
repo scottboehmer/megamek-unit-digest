@@ -355,6 +355,7 @@
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
 - [**Thunderbolt TDR-5S**](../../../units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
+- [**Thunderbolt TDR-5Sb2**](../../../units/thunderbolt/thunderbolt_tdr-5sb2.md) *Brawler (2680)* 
 - [**Thunderbolt TDR-5Sb**](../../../units/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)* 
 - [**Thunderbolt TDR-5L**](../../../units/thunderbolt/thunderbolt_tdr-5l.md) *Brawler (2823)* 
 - [**Thunderbolt TDR-5LS**](../../../units/thunderbolt/thunderbolt_tdr-5ls.md) *Brawler (2850)* 

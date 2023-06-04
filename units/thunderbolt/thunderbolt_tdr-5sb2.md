@@ -27,5 +27,31 @@
 
 ## Availability 
 
-Availability Unknown 
+### Star League 
+
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Pirate 
+- Star League 
+- Star League - Royal Divisions 
+- Taurian Concordat 
+
+### Early Succession Wars 
+
+- Capellan Confederation 
+- Circinus Federation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
 

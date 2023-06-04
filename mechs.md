@@ -5938,7 +5938,7 @@
 - [**Shrike**](units/shrike/shrike.md) *Sniper (3113)* 
 - [**Shrike 2**](units/shrike/shrike_2.md) *Skirmisher (3115)* 
 - [**Shrike 3**](units/shrike/shrike_3.md) *Sniper (3116)* 
-- [**Shrike 'Black Rose'**](units/shrike/shrike_black_rose.md) *Undefined (3134)* 
+- [**Shrike 'Black Rose'**](units/shrike/shrike_black_rose.md) *Undefined (3134)* `Unique` 
 
 #### [Sirocco](units/sirocco.md) 
 

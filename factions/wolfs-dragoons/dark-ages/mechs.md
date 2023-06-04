@@ -554,6 +554,7 @@
 #### [Shogun](../../../units/shogun.md) 
 
 - [**Shogun C**](../../../units/shogun/shogun_c.md) *Missile Boat (2850)* 
+- [**Shogun C 2**](../../../units/shogun/shogun_c_2.md) *Undefined (3139)* 
 
 #### [Stalker](../../../units/stalker.md) 
 

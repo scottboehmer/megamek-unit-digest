@@ -23,6 +23,10 @@
 
 - [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Savannah Master Hovercraft](../../../units/savannah_master_hovercraft.md) 
+
+- [**Savannah Master Hovercraft (Reflective)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_reflective.md) *Undefined (3094)* 
+
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
@@ -65,6 +69,10 @@
 #### [Heavy Transport B1](../../../units/heavy_transport_b1.md) 
 
 - [**Heavy Transport B1**](../../../units/heavy_transport_b1/heavy_transport_b1.md) *Undefined (2370)* `Transport:7.0` 
+
+#### [MASH Truck](../../../units/mash_truck.md) 
+
+- [**MASH Truck (AMS)**](../../../units/mash_truck/mash_truck_ams.md) *Undefined (3148)* 
 
 #### [MIT23 MASH Vehicle](../../../units/mit23_mash_vehicle.md) 
 
@@ -127,6 +135,12 @@
 #### [Zephyr Hovertank](../../../units/zephyr_hovertank.md) 
 
 - [**Zephyr Hovertank**](../../../units/zephyr_hovertank/zephyr_hovertank.md) *Striker (2621)* `ECM` , `TAG` 
+
+### 45 Tons 
+
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank (AAA)**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_aaa.md) *Undefined (3064)* 
 
 ### 50 Tons 
 

@@ -175,6 +175,7 @@
 - [**Javelin JVN-11B**](../../../units/javelin/javelin_jvn-11b.md) *Striker (3054)* `Active Probe` , `ECM` 
 - [**Javelin JVN-11D**](../../../units/javelin/javelin_jvn-11d.md) *Striker (3062)* `C3 Support` 
 - [**Javelin JVN-11F**](../../../units/javelin/javelin_jvn-11f.md) *Scout (3070)* 
+- [**Javelin JVN-12N**](../../../units/javelin/javelin_jvn-12n.md) *Scout (3121)* `TAG` 
 
 #### [Nyx](../../../units/nyx.md) 
 
@@ -392,6 +393,7 @@
 - [**Hatchetman HCT-6D**](../../../units/hatchetman/hatchetman_hct-6d.md) *Skirmisher (3062)* `ECM` 
 - [**Hatchetman HCT-5DD**](../../../units/hatchetman/hatchetman_hct-5dd.md) *Skirmisher (3065)* 
 - [**Hatchetman HCT-7S**](../../../units/hatchetman/hatchetman_hct-7s.md) *Skirmisher (3084)* `ECM` 
+- [**Hatchetman HCT-7D**](../../../units/hatchetman/hatchetman_hct-7d.md) *Undefined (3092)* `ECM` 
 
 #### [Hellspawn](../../../units/hellspawn.md) 
 
@@ -495,6 +497,7 @@
 - [**Enforcer III ENF-6Ma**](../../../units/enforcer_iii/enforcer_iii_enf-6ma.md) *Skirmisher (3065)* 
 - [**Enforcer III ENF-6NAIS**](../../../units/enforcer_iii/enforcer_iii_enf-6nais.md) *Skirmisher (3074)* `C3 Support` , `ECM` 
 - [**Enforcer III ENF-7C3BS**](../../../units/enforcer_iii/enforcer_iii_enf-7c3bs.md) *Sniper (3075)* `C3 Support` 
+- [**Enforcer III ENF-6R**](../../../units/enforcer_iii/enforcer_iii_enf-6r.md) *Undefined (3102)* 
 - [**Enforcer III ENF-7D**](../../../units/enforcer_iii/enforcer_iii_enf-7d.md) *Sniper (3104)* 
 
 #### [Ghost](../../../units/ghost.md) 
@@ -615,6 +618,7 @@
 
 - [**Shadow Hawk SHD-5D**](../../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
 - [**Shadow Hawk SHD-9D**](../../../units/shadow_hawk/shadow_hawk_shd-9d.md) *Skirmisher (3070)* `C3 Support` 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
 
@@ -748,6 +752,12 @@
 
 - [**JagerMech III JM6-D3**](../../../units/jagermech_iii/jagermech_iii_jm6-d3.md) *Sniper (3058)* 
 - [**JagerMech III JM6-D4**](../../../units/jagermech_iii/jagermech_iii_jm6-d4.md) *Skirmisher (3073)* 
+
+#### [Jinggau](../../../units/jinggau.md) 
+
+- [**Jinggau JN-G7Lr**](../../../units/jinggau/jinggau_jn-g7lr.md) *Skirmisher (3078)* 
+- [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
+- [**Jinggau JN-G9CCr**](../../../units/jinggau/jinggau_jn-g9ccr.md) *Skirmisher (3137)* `Active Probe` , `Command Console` , `ECM` , `Stealth` 
 
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 

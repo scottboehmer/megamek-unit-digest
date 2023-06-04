@@ -26,5 +26,16 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Clan Sea Fox 
+- Mercenary 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Clan Protectorate 
+- Clan Sea Fox 
+- Mercenary 
+- Wolf's Dragoons 
 

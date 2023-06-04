@@ -114,6 +114,10 @@
 - [**Packrat LRPV PKR-T5**](../../../units/packrat_lrpv/packrat_lrpv_pkr-t5.md) *Scout (2650)* `Transport:1.0` 
 - [**Packrat LRPV PKR-T5 (ICE)**](../../../units/packrat_lrpv/packrat_lrpv_pkr-t5_ice.md) *Scout (2846)* `Transport:1.0` 
 
+#### [Weapons/Troop Carrier](../../../units/weapons_troop_carrier.md) 
+
+- [**Weapons/Troop Carrier (LRM)**](../../../units/weapons_troop_carrier/weapons_troop_carrier_lrm.md) *Undefined (3025)* `Transport:1.5` 
+
 #### [Wheeled Scout](../../../units/wheeled_scout.md) 
 
 - [**Wheeled Scout (Camera)**](../../../units/wheeled_scout/wheeled_scout_camera.md) *Undefined (2500)* 
@@ -228,6 +232,10 @@
 
 - [**Goblin Medium Tank**](../../../units/goblin_medium_tank/goblin_medium_tank.md) *Brawler (2500)* `Transport:1.0` 
 
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank.md) *Undefined (2890)* 
+
 ### 50 Tons 
 
 #### [BattleMech Recovery Vehicle](../../../units/battlemech_recovery_vehicle.md) 
@@ -247,6 +255,10 @@
 #### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
 
 - [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
+
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
 
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 

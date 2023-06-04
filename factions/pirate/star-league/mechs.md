@@ -151,6 +151,7 @@
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
 - [**Thunderbolt TDR-5S**](../../../units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
+- [**Thunderbolt TDR-5Sb2**](../../../units/thunderbolt/thunderbolt_tdr-5sb2.md) *Brawler (2680)* 
 
 ### 70 Tons 
 

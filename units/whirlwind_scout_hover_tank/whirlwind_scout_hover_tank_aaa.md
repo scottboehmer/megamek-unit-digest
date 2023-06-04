@@ -20,5 +20,51 @@
 
 ## Availability 
 
-Availability Unknown 
+### Civil War 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Jihad 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Early Republic 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Late Republic 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
+
+### Dark Ages 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
+
+### ilClan 
+
+- Federated Suns 
+- Kell Hounds 
+- Lyran Commonwealth 
+- Mercenary 
+- Wolf's Dragoons 
 

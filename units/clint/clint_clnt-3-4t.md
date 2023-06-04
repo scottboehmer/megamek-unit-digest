@@ -27,5 +27,31 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Republic 
+
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
+- Filtvelt Coalition 
+- Free Worlds League 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
+- Taurian Concordat 
 

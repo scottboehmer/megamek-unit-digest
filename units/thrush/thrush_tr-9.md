@@ -19,5 +19,11 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Capellan Confederation 
+
+### ilClan 
+
+- Capellan Confederation 
 

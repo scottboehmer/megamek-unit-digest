@@ -22,5 +22,15 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Free Worlds League 
+- Mercenary 
 

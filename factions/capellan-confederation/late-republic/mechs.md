@@ -462,6 +462,7 @@
 - [**Huron Warrior HUR-WO-R4L**](../../../units/huron_warrior/huron_warrior_hur-wo-r4l.md) *Skirmisher (3055)* 
 - [**Huron Warrior HUR-WO-R4N**](../../../units/huron_warrior/huron_warrior_hur-wo-r4n.md) *Missile Boat (3063)* `ECM` , `Stealth` 
 - [**Huron Warrior HUR-WO-R4O**](../../../units/huron_warrior/huron_warrior_hur-wo-r4o.md) *Skirmisher (3065)* 
+- [**Huron Warrior HUR-WO-R5L**](../../../units/huron_warrior/huron_warrior_hur-wo-r5l.md) *Undefined (3102)* `ECM` , `Stealth` 
 
 #### [Shockwave](../../../units/shockwave.md) 
 
@@ -656,6 +657,7 @@
 - [**Jinggau JN-G8A**](../../../units/jinggau/jinggau_jn-g8a.md) *Skirmisher (3060)* 
 - [**Jinggau JN-G7L**](../../../units/jinggau/jinggau_jn-g7l.md) *Skirmisher (3068)* 
 - [**Jinggau JN-G9CC**](../../../units/jinggau/jinggau_jn-g9cc.md) *Skirmisher (3072)* `Active Probe` , `Command Console` , `ECM` , `Stealth` 
+- [**Jinggau JN-G9CCr**](../../../units/jinggau/jinggau_jn-g9ccr.md) *Skirmisher (3137)* `Active Probe` , `Command Console` , `ECM` , `Stealth` 
 
 #### [Koschei](../../../units/koschei.md) 
 
@@ -838,6 +840,7 @@
 
 - [**Striker STC-2C**](../../../units/striker/striker_stc-2c.md) *Brawler (2571)* 
 - [**Striker STC-2D**](../../../units/striker/striker_stc-2d.md) *Brawler (3056)* 
+- [**Striker STC-2L**](../../../units/striker/striker_stc-2l.md) *Undefined (3123)* 
 
 #### [Victor](../../../units/victor.md) 
 

@@ -19,5 +19,11 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Scorpion Empire 
+
+### ilClan 
+
+- Scorpion Empire 
 

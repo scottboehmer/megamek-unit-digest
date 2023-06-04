@@ -23,5 +23,45 @@
 
 ## Availability 
 
-Availability Unknown 
+### Jihad 
+
+- Clan Hell's Horses 
+
+### Early Republic 
+
+- Clan Hell's Horses 
+- Duchy of Andurien 
+- Federated Suns 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Duchy of Andurien 
+- Federated Suns 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
+- Regulan Fiefs 
+- Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Hell's Horses 
+- Duchy of Andurien 
+- Free Worlds League 
 

@@ -13,6 +13,10 @@
 - [**Bashkir D**](../../../units/bashkir/bashkir_d.md) *Interceptor (3063)* 
 - [**Bashkir E**](../../../units/bashkir/bashkir_e.md) *Interceptor (3071)* 
 
+#### [Seydlitz](../../../units/seydlitz.md) 
+
+- [**Seydlitz C**](../../../units/seydlitz/seydlitz_c.md) *Undefined (3140)* 
+
 ### 25 Tons 
 
 #### [Chaeronea](../../../units/chaeronea.md) 
@@ -110,6 +114,12 @@
 - [**Visigoth C**](../../../units/visigoth/visigoth_c.md) *Fast Dogfighter (2948)* 
 - [**Visigoth D**](../../../units/visigoth/visigoth_d.md) *Fast Dogfighter (3066)* 
 - [**Visigoth E**](../../../units/visigoth/visigoth_e.md) *Fast Dogfighter (3072)* 
+
+### 65 Tons 
+
+#### [Lucifer III](../../../units/lucifer_iii.md) 
+
+- [**Lucifer III C**](../../../units/lucifer_iii/lucifer_iii_c.md) *Undefined (3139)* 
 
 ### 70 Tons 
 

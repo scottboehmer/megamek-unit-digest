@@ -312,6 +312,7 @@
 #### [Clint](../../../units/clint.md) 
 
 - [**Clint CLNT-5U**](../../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Support` , `TAG` 
+- [**Clint CLNT-3-4T**](../../../units/clint/clint_clnt-3-4t.md) *Striker (3109)* 
 
 #### [Dasher II](../../../units/dasher_ii.md) 
 
@@ -532,6 +533,7 @@
 
 - [**Lineholder KW1-LH2**](../../../units/lineholder/lineholder_kw1-lh2.md) *Skirmisher (3058)* 
 - [**Lineholder KW1-LH3**](../../../units/lineholder/lineholder_kw1-lh3.md) *Skirmisher (3059)* 
+- [**Lineholder KW2-LH10**](../../../units/lineholder/lineholder_kw2-lh10.md) *Undefined (3131)* `C3 Support` , `ECM` 
 
 #### [Mad Cat III](../../../units/mad_cat_iii.md) 
 
@@ -552,6 +554,7 @@
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2Hb**](../../../units/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)* 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
 - [**Shadow Hawk SHD-4H**](../../../units/shadow_hawk/shadow_hawk_shd-4h.md) *Sniper (3101)* 
@@ -684,6 +687,11 @@
 - [**Hellbringer E**](../../../units/hellbringer/hellbringer_e.md) *Sniper (3069)* 
 - [**Hellbringer G**](../../../units/hellbringer/hellbringer_g.md) *Skirmisher (3112)* 
 - [**Hellbringer T**](../../../units/hellbringer/hellbringer_t.md) *Sniper (3142)* 
+
+#### [Jinggau](../../../units/jinggau.md) 
+
+- [**Jinggau JN-G7Lr**](../../../units/jinggau/jinggau_jn-g7lr.md) *Skirmisher (3078)* 
+- [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
 
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 

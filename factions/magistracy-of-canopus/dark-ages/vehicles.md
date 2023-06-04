@@ -140,6 +140,7 @@
 #### [MASH Truck](../../../units/mash_truck.md) 
 
 - [**MASH Truck**](../../../units/mash_truck/mash_truck.md) *Undefined (2671)* 
+- [**MASH Truck (AMS)**](../../../units/mash_truck/mash_truck_ams.md) *Undefined (3148)* 
 
 #### [Packrat LRPV](../../../units/packrat_lrpv.md) 
 
@@ -393,6 +394,11 @@
 - [**Regulator Hovertank (Arrow IV)**](../../../units/regulator_hovertank/regulator_hovertank_arrow_iv.md) *Missile Boat (3064)* 
 - [**Regulator Hovertank (RAC)**](../../../units/regulator_hovertank/regulator_hovertank_rac.md) *Striker (3068)* 
 
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank.md) *Undefined (2890)* 
+- [**Whirlwind Scout Hover Tank (IFV)**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_ifv.md) *Undefined (3139)* `Active Probe` , `Transport:4.0` 
+
 ### 50 Tons 
 
 #### [BattleMech Recovery Vehicle](../../../units/battlemech_recovery_vehicle.md) 
@@ -425,6 +431,10 @@
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
 - [**Fulcrum Heavy Hovertank**](../../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank.md) *Striker (3057)* `ECM` , `TAG` 
+
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank (PPC)**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank_ppc.md) *Undefined (3030)* 
 
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 
@@ -675,6 +685,7 @@
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
 - [**Mobile Long Tom Artillery (+Carriages)(Unofficial)**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_+carriagesunofficial.md) *Missile Boat (2602)* 
+- [**Mobile Long Tom Artillery LT-MOB-95**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-95.md) *Undefined (3097)* `ECM` 
 
 #### [Ontos Heavy Tank](../../../units/ontos_heavy_tank.md) 
 
@@ -689,6 +700,7 @@
 
 - [**Behemoth Heavy Tank**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Flamer)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) *Juggernaut (2981)* 
+- [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 
 #### [Behemoth II Heavy Tank](../../../units/behemoth_ii_heavy_tank.md) 
 

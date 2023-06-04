@@ -22,5 +22,13 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Lyran Commonwealth 
+- Mercenary 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Mercenary 
 

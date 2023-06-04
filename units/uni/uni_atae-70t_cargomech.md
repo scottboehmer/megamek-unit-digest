@@ -21,5 +21,24 @@
 
 ## Availability 
 
-Availability Unknown 
+### Jihad 
+
+- Lyran Alliance 
+
+### Early Republic 
+
+- Lyran Commonwealth 
+
+### Late Republic 
+
+- Lyran Commonwealth 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
+
+### ilClan 
+
+- Lyran Commonwealth 
+- Vesper Marches 
 

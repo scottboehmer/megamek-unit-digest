@@ -433,6 +433,10 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
+
 #### [Conjurer](../../../units/conjurer.md) 
 
 - [**Conjurer**](../../../units/conjurer/conjurer.md) *Skirmisher (2829)* 
@@ -857,6 +861,7 @@
 - [**Shrike**](../../../units/shrike/shrike.md) *Sniper (3113)* 
 - [**Shrike 2**](../../../units/shrike/shrike_2.md) *Skirmisher (3115)* 
 - [**Shrike 3**](../../../units/shrike/shrike_3.md) *Sniper (3116)* 
+- [**Shrike 'Black Rose'**](../../../units/shrike/shrike_black_rose.md) *Undefined (3134)* `Unique` 
 
 #### [Turkina](../../../units/turkina.md) 
 

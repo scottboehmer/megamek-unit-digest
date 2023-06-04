@@ -356,10 +356,13 @@
 #### [Raider](../../../units/raider.md) 
 
 - [**Raider JL-1**](../../../units/raider/raider_jl-1.md) *Juggernaut (3134)* 
+- [**Raider JL-3A**](../../../units/raider/raider_jl-3a.md) *Undefined (3138)* 
+- [**Raider JL-3B**](../../../units/raider/raider_jl-3b.md) *Undefined (3138)* 
 
 #### [Raider Mk II](../../../units/raider_mk_ii.md) 
 
 - [**Raider Mk II JL-2**](../../../units/raider_mk_ii/raider_mk_ii_jl-2.md) *Brawler (3134)* 
+- [**Raider Mk II JL-3C**](../../../units/raider_mk_ii/raider_mk_ii_jl-3c.md) *Undefined (3139)* 
 
 #### [Rifleman](../../../units/rifleman.md) 
 

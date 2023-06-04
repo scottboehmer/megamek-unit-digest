@@ -25,5 +25,27 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Republic 
+
+- Clan Sea Fox 
+- Republic of the Sphere 
+
+### Dark Ages 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Sea Fox 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Star League (Smoke Jaguar) 
 

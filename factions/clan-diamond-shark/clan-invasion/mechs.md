@@ -220,6 +220,10 @@
 
 ### 50 Tons 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
+
 #### [Conjurer](../../../units/conjurer.md) 
 
 - [**Conjurer**](../../../units/conjurer/conjurer.md) *Skirmisher (2829)* 

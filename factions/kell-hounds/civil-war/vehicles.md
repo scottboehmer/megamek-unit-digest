@@ -103,6 +103,12 @@
 
 - [**Engineering Vehicle**](../../../units/engineering_vehicle/engineering_vehicle.md) *Undefined (2570)* 
 
+### 45 Tons 
+
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank (AAA)**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_aaa.md) *Undefined (3064)* 
+
 ### 50 Tons 
 
 #### [BattleMech Recovery Vehicle](../../../units/battlemech_recovery_vehicle.md) 
@@ -112,6 +118,10 @@
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
 - [**Condor Heavy Hover Tank (Upgrade)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade.md) *Missile Boat (3066)* 
+
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
 
 #### [Maxim Heavy Hover Transport](../../../units/maxim_heavy_hover_transport.md) 
 

@@ -57,6 +57,10 @@
 - [**Elemental III Battle Armor (MicroPL)(Sqd5)**](../../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_microplsqd5.md) *Ambusher (3081)* `Stealth` 
 - [**Elemental III Battle Armor (Flamer)(Sqd5)**](../../../units/elemental_iii_battle_armor/elemental_iii_battle_armor_flamersqd5.md) *Ambusher (3091)* `Stealth` 
 
+#### [Longinus C Battle Armor](../../../units/longinus_c_battle_armor.md) 
+
+- [**Longinus C Battle Armor (MMR) (Sqd5)**](../../../units/longinus_c_battle_armor/longinus_c_battle_armor_mmr_sqd5.md) *Undefined (3144)* 
+
 #### [Quirinus Battle Armor](../../../units/quirinus_battle_armor.md) 
 
 - [**Quirinus Battle Armor (David)(Sqd5)**](../../../units/quirinus_battle_armor/quirinus_battle_armor_davidsqd5.md) *Ambusher (3093)* `TAG` 

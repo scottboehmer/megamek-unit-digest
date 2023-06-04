@@ -241,6 +241,10 @@
 - [**Drillson Heavy Hover Tank**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
 
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
+
 #### [Maxim Heavy Hover Transport](../../../units/maxim_heavy_hover_transport.md) 
 
 - [**Maxim Heavy Hover Transport**](../../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport.md) *Striker (2689)* `Transport:3.0` 

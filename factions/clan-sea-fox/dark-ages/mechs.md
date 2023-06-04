@@ -328,6 +328,7 @@
 #### [Goshawk II](../../../units/goshawk_ii.md) 
 
 - [**Goshawk II**](../../../units/goshawk_ii/goshawk_ii.md) *Striker (3086)* `ECM` 
+- [**Goshawk II 4**](../../../units/goshawk_ii/goshawk_ii_4.md) *Undefined (3130)* 
 
 #### [Grendel](../../../units/grendel.md) 
 
@@ -396,6 +397,10 @@
 
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
+
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
 
 #### [Conjurer](../../../units/conjurer.md) 
 
@@ -658,6 +663,10 @@
 
 - [**Flashman FLS-10E**](../../../units/flashman/flashman_fls-10e.md) *Skirmisher (3144)* 
 
+#### [Gotterdammerung](../../../units/gotterdammerung.md) 
+
+- [**Gotterdammerung GTD-20C**](../../../units/gotterdammerung/gotterdammerung_gtd-20c.md) *Undefined (3138)* 
+
 #### [Ryoken II](../../../units/ryoken_ii.md) 
 
 - [**Ryoken II**](../../../units/ryoken_ii/ryoken_ii.md) *Sniper (3075)* 
@@ -752,6 +761,7 @@
 - [**Deimos Prime**](../../../units/deimos/deimos_prime.md) *Sniper (3085)* 
 - [**Deimos A**](../../../units/deimos/deimos_a.md) *Brawler (3085)* `ECM` 
 - [**Deimos B**](../../../units/deimos/deimos_b.md) *Sniper (3085)* `ECM` 
+- [**Deimos H**](../../../units/deimos/deimos_h.md) *Sniper (3085)* 
 - [**Deimos C**](../../../units/deimos/deimos_c.md) *Sniper (3086)* `ECM` 
 - [**Deimos S**](../../../units/deimos/deimos_s.md) *Sniper (3086)* 
 - [**Deimos D**](../../../units/deimos/deimos_d.md) *Sniper (3119)* 
@@ -760,6 +770,7 @@
 #### [Shogun](../../../units/shogun.md) 
 
 - [**Shogun C**](../../../units/shogun/shogun_c.md) *Missile Boat (2850)* 
+- [**Shogun C 2**](../../../units/shogun/shogun_c_2.md) *Undefined (3139)* 
 
 #### [Stalker](../../../units/stalker.md) 
 

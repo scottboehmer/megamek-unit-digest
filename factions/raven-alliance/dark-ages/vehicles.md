@@ -199,6 +199,7 @@
 #### [Kite Reconnaissance Vehicle](../../../units/kite_reconnaissance_vehicle.md) 
 
 - [**Kite Reconnaissance Vehicle**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle.md) *Scout (3105)* `Active Probe` , `ECM` , `TAG` 
+- [**Kite Reconnaissance Vehicle (Fusion)**](../../../units/kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_fusion.md) *Undefined (3147)* `ECM` 
 
 #### [Skadi Swift Attack VTOL](../../../units/skadi_swift_attack_vtol.md) 
 
@@ -343,6 +344,7 @@
 
 - [**LRM Carrier**](../../../units/lrm_carrier/lrm_carrier.md) *Missile Boat (2470)* 
 - [**LRM Carrier (3055 Upgrade)**](../../../units/lrm_carrier/lrm_carrier_3055_upgrade.md) *Missile Boat (3055)* `C3 Support` 
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
 
 #### [Nuberu Anti Aircraft Tank](../../../units/nuberu_anti_aircraft_tank.md) 
 

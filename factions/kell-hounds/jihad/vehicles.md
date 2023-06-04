@@ -308,6 +308,12 @@
 
 - [**Zephyr Hovertank**](../../../units/zephyr_hovertank/zephyr_hovertank.md) *Striker (2621)* `ECM` , `TAG` 
 
+### 45 Tons 
+
+#### [Whirlwind Scout Hover Tank](../../../units/whirlwind_scout_hover_tank.md) 
+
+- [**Whirlwind Scout Hover Tank (AAA)**](../../../units/whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_aaa.md) *Undefined (3064)* 
+
 ### 50 Tons 
 
 #### [Bandit Hovercraft](../../../units/bandit_hovercraft.md) 
@@ -350,6 +356,10 @@
 #### [Fulcrum Heavy Hovertank](../../../units/fulcrum_heavy_hovertank.md) 
 
 - [**Fulcrum Heavy Hovertank**](../../../units/fulcrum_heavy_hovertank/fulcrum_heavy_hovertank.md) *Striker (3057)* `ECM` , `TAG` 
+
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
 
 #### [Maxim (I) Heavy Hover Transport](../../../units/maxim_i_heavy_hover_transport.md) 
 

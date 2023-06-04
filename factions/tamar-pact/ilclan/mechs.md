@@ -153,6 +153,7 @@
 
 - [**UrbanMech UM-AIV**](../../../units/urbanmech/urbanmech_um-aiv.md) *Missile Boat (3072)* 
 - [**UrbanMech UM-R80**](../../../units/urbanmech/urbanmech_um-r80.md) *Ambusher (3076)* `Active Probe` , `ECM` , `TAG` 
+- [**UrbanMech UM-R27**](../../../units/urbanmech/urbanmech_um-r27.md) *Ambusher (3130)* 
 
 #### [Valiant](../../../units/valiant.md) 
 
@@ -417,6 +418,7 @@
 
 - [**Lineholder KW1-LH2**](../../../units/lineholder/lineholder_kw1-lh2.md) *Skirmisher (3058)* 
 - [**Lineholder KW1-LH3**](../../../units/lineholder/lineholder_kw1-lh3.md) *Skirmisher (3059)* 
+- [**Lineholder KW2-LH10**](../../../units/lineholder/lineholder_kw2-lh10.md) *Undefined (3131)* `C3 Support` , `ECM` 
 
 #### [Lynx](../../../units/lynx.md) 
 
@@ -443,6 +445,7 @@
 
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
 

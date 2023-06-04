@@ -19,5 +19,15 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Succession Wars - Renaissance 
+
+- Mercenary 
+
+### Clan Invasion 
+
+- Mercenary 
+
+### Civil War 
+
+- Mercenary 
 

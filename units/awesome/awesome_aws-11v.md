@@ -26,5 +26,14 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Clan Wolf 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
+
+### ilClan 
+
+- Free Worlds League 
+- Wolf Empire 
 

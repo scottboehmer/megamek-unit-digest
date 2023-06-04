@@ -24,5 +24,13 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Succession Wars - LosTech 
+
+- Free Worlds League 
+- Mercenary 
+
+### Late Succession Wars - Renaissance 
+
+- Free Worlds League 
+- Mercenary 
 

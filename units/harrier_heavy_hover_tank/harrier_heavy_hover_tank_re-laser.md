@@ -21,5 +21,19 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Federated Suns 
+- Free Worlds League 
+- Republic of the Sphere 
+
+### ilClan 
+
+- Capellan Confederation 
+- Clan Protectorate 
+- Draconis Combine 
+- Duchy of Andurien 
+- Federated Suns 
+- Free Worlds League 
+- Mercenary 
 

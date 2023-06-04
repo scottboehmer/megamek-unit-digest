@@ -221,6 +221,7 @@
 #### [Griffin](../../../units/griffin.md) 
 
 - [**Griffin GRF-1N**](../../../units/griffin/griffin_grf-1n.md) *Sniper (2492)* 
+- [**Griffin GRF-2N2**](../../../units/griffin/griffin_grf-2n2.md) *Skirmisher (2703)* `ECM` 
 - [**Griffin GRF-2N**](../../../units/griffin/griffin_grf-2n.md) *Skirmisher (2751)* `ECM` 
 
 #### [Hoplite](../../../units/hoplite.md) 
@@ -266,6 +267,7 @@
 
 - [**Champion CHP-1N**](../../../units/champion/champion_chp-1n.md) *Skirmisher (2602)* 
 - [**Champion CHP-1N2**](../../../units/champion/champion_chp-1n2.md) *Skirmisher (2667)* 
+- [**Champion CHP-1Nb2**](../../../units/champion/champion_chp-1nb2.md) *Undefined (2737)* 
 - [**Champion CHP-1Nb**](../../../units/champion/champion_chp-1nb.md) *Sniper (2751)* 
 
 #### [Daedalus](../../../units/daedalus.md) 
@@ -332,6 +334,7 @@
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
 - [**Thunderbolt TDR-5S**](../../../units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
+- [**Thunderbolt TDR-5Sb2**](../../../units/thunderbolt/thunderbolt_tdr-5sb2.md) *Brawler (2680)* 
 - [**Thunderbolt TDR-5Sb**](../../../units/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)* 
 
 ### 70 Tons 

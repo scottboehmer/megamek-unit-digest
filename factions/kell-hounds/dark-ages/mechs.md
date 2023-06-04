@@ -118,6 +118,13 @@
 - [**Arctic Wolf II B**](../../../units/arctic_wolf_ii/arctic_wolf_ii_b.md) *Striker (3085)* 
 - [**Arctic Wolf II C**](../../../units/arctic_wolf_ii/arctic_wolf_ii_c.md) *Striker (3085)* 
 
+#### [Battle Cobra](../../../units/battle_cobra.md) 
+
+- [**Battle Cobra BTL-C-2OG**](../../../units/battle_cobra/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
+- [**Battle Cobra BTL-C-2OH**](../../../units/battle_cobra/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
+- [**Battle Cobra BTL-C-2OI**](../../../units/battle_cobra/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
+- [**Battle Cobra BTL-C-2OJ**](../../../units/battle_cobra/battle_cobra_btl-c-2oj.md) *Skirmisher (3144)* 
+
 #### [Mongoose II](../../../units/mongoose_ii.md) 
 
 - [**Mongoose II MON-267**](../../../units/mongoose_ii/mongoose_ii_mon-267.md) *Scout (3073)* `Active Probe` , `C3 Support` , `ECM` , `Stealth` 

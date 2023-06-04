@@ -17,6 +17,7 @@
 
 - [**Seydlitz SYD-Z2B**](../../../units/seydlitz/seydlitz_syd-z2b.md) *Interceptor (3062)* 
 - [**Seydlitz SYD-Z3A**](../../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
+- [**Seydlitz C**](../../../units/seydlitz/seydlitz_c.md) *Undefined (3140)* 
 
 ### 25 Tons 
 
@@ -121,6 +122,7 @@
 #### [Lucifer III](../../../units/lucifer_iii.md) 
 
 - [**Lucifer III LCR-3**](../../../units/lucifer_iii/lucifer_iii_lcr-3.md) *Undefined (3086)* 
+- [**Lucifer III C**](../../../units/lucifer_iii/lucifer_iii_c.md) *Undefined (3139)* 
 
 ### 70 Tons 
 

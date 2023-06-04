@@ -456,6 +456,10 @@
 - [**Buster BC XV HaulerMech**](../../../units/buster/buster_bc_xv_haulermech.md) *Ambusher (2615)* `IndustrialMech` 
 - [**Buster BC XXI HaulerMech**](../../../units/buster/buster_bc_xxi_haulermech.md) *Ambusher (3059)* `IndustrialMech` 
 
+#### [Chameleon](../../../units/chameleon.md) 
+
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
+
 #### [Conjurer](../../../units/conjurer.md) 
 
 - [**Conjurer**](../../../units/conjurer/conjurer.md) *Skirmisher (2829)* 
@@ -654,6 +658,11 @@
 - [**Hellbringer E**](../../../units/hellbringer/hellbringer_e.md) *Sniper (3069)* 
 - [**Hellbringer G**](../../../units/hellbringer/hellbringer_g.md) *Skirmisher (3112)* 
 - [**Hellbringer T**](../../../units/hellbringer/hellbringer_t.md) *Sniper (3142)* 
+
+#### [Jinggau](../../../units/jinggau.md) 
+
+- [**Jinggau JN-G7Lr**](../../../units/jinggau/jinggau_jn-g7lr.md) *Skirmisher (3078)* 
+- [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
 
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 

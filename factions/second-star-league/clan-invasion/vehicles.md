@@ -301,6 +301,10 @@
 
 - [**Falcon Hover Tank**](../../../units/falcon_hover_tank/falcon_hover_tank.md) *Striker (3023)* 
 
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
+
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 
 - [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
@@ -469,4 +473,10 @@
 #### [Ontos Heavy Tank](../../../units/ontos_heavy_tank.md) 
 
 - [**Ontos Heavy Tank (3053 Upgrade)**](../../../units/ontos_heavy_tank/ontos_heavy_tank_3053_upgrade.md) *Juggernaut (3053)* 
+
+### 100 Tons 
+
+#### [Behemoth Heavy Tank](../../../units/behemoth_heavy_tank.md) 
+
+- [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 

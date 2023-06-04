@@ -20,5 +20,11 @@
 
 ## Availability 
 
-Availability Unknown 
+### Star League 
+
+- Star League - Royal Divisions 
+
+### Early Succession Wars 
+
+- Star League-in-Exile 
 

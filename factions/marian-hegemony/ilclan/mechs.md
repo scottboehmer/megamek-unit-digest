@@ -246,6 +246,7 @@
 
 - [**Clint CLNT-5U**](../../../units/clint/clint_clnt-5u.md) *Striker (3062)* `C3 Support` , `TAG` 
 - [**Clint CLNT-3-3T**](../../../units/clint/clint_clnt-3-3t.md) *Striker (3069)* 
+- [**Clint CLNT-3-4T**](../../../units/clint/clint_clnt-3-4t.md) *Striker (3109)* 
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
@@ -393,6 +394,15 @@
 - [**Hunchback HBK-5S**](../../../units/hunchback/hunchback_hbk-5s.md) *Juggernaut (3058)* 
 - [**Hunchback HBK-6N**](../../../units/hunchback/hunchback_hbk-6n.md) *Juggernaut (3059)* 
 - [**Hunchback HBK-5H**](../../../units/hunchback/hunchback_hbk-5h.md) *Juggernaut (3064)* 
+
+#### [Raider](../../../units/raider.md) 
+
+- [**Raider JL-3A**](../../../units/raider/raider_jl-3a.md) *Undefined (3138)* 
+- [**Raider JL-3B**](../../../units/raider/raider_jl-3b.md) *Undefined (3138)* 
+
+#### [Raider Mk II](../../../units/raider_mk_ii.md) 
+
+- [**Raider Mk II JL-3C**](../../../units/raider_mk_ii/raider_mk_ii_jl-3c.md) *Undefined (3139)* 
 
 #### [Trebuchet](../../../units/trebuchet.md) 
 
@@ -602,6 +612,7 @@
 
 - [**Hercules HRC-LS-9000**](../../../units/hercules/hercules_hrc-ls-9000.md) *Skirmisher (3054)* 
 - [**Hercules HRC-LS-9001**](../../../units/hercules/hercules_hrc-ls-9001.md) *Skirmisher (3056)* 
+- [**Hercules HRC-LS-9003**](../../../units/hercules/hercules_hrc-ls-9003.md) *Undefined (3088)* `ECM` 
 
 #### [Lumberjack](../../../units/lumberjack.md) 
 

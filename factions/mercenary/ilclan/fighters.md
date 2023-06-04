@@ -12,6 +12,7 @@
 - [**Seydlitz SYD-Z2B**](../../../units/seydlitz/seydlitz_syd-z2b.md) *Interceptor (3062)* 
 - [**Seydlitz SYD-Z3A**](../../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
 - [**Seydlitz SYD-Z4**](../../../units/seydlitz/seydlitz_syd-z4.md) *Interceptor (3065)* 
+- [**Seydlitz C**](../../../units/seydlitz/seydlitz_c.md) *Undefined (3140)* 
 
 ### 25 Tons 
 
@@ -149,6 +150,7 @@
 #### [Lucifer III](../../../units/lucifer_iii.md) 
 
 - [**Lucifer III LCR-3**](../../../units/lucifer_iii/lucifer_iii_lcr-3.md) *Undefined (3086)* 
+- [**Lucifer III C**](../../../units/lucifer_iii/lucifer_iii_c.md) *Undefined (3139)* 
 
 #### [Shilone](../../../units/shilone.md) 
 
@@ -216,6 +218,7 @@
 #### [Shikra](../../../units/shikra.md) 
 
 - [**Shikra SKR-4M**](../../../units/shikra/shikra_skr-4m.md) *Fire Support (3101)* 
+- [**Shikra SKR-4N**](../../../units/shikra/shikra_skr-4n.md) *Undefined (3144)* 
 
 #### [Typhoon](../../../units/typhoon.md) 
 

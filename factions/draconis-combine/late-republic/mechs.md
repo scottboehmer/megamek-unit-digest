@@ -351,6 +351,7 @@
 - [**Venom SDR-9KA**](../../../units/venom/venom_sdr-9ka.md) *Striker (3056)* 
 - [**Venom SDR-9KB**](../../../units/venom/venom_sdr-9kb.md) *Striker (3057)* 
 - [**Venom SDR-9KC**](../../../units/venom/venom_sdr-9kc.md) *Striker (3066)* `C3 Support` 
+- [**Venom SDR-9KE**](../../../units/venom/venom_sdr-9ke.md) *Undefined (3108)* `Active Probe` , `TAG` 
 
 #### [Wight](../../../units/wight.md) 
 
@@ -634,6 +635,7 @@
 - [**Shadow Hawk SHD-2K**](../../../units/shadow_hawk/shadow_hawk_shd-2k.md) *Sniper (2803)* 
 - [**Shadow Hawk SHD-5M**](../../../units/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)* 
 - [**Shadow Hawk SHD-3K**](../../../units/shadow_hawk/shadow_hawk_shd-3k.md) *Sniper (3075)* `C3 Support` 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-12C**](../../../units/shadow_hawk/shadow_hawk_shd-12c.md) *Sniper (3079)* 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
@@ -980,6 +982,10 @@
 - [**Hatamoto-Kaeru HTM-35K**](../../../units/hatamoto/hatamoto-kaeru_htm-35k.md) *Brawler (3076)* 
 - [**Hatamoto-Ku HTM-27W2**](../../../units/hatamoto/hatamoto-ku_htm-27w2.md) *Brawler (3115)* `C3 Support` 
 
+#### [Hatamoto-Kaze](../../../units/hatamoto-kaze.md) 
+
+- [**Hatamoto-Kaze HTM-27V2**](../../../units/hatamoto-kaze/hatamoto-kaze_htm-27v2.md) *Undefined (3115)* `C3 Support` 
+
 #### [O-Bakemono](../../../units/o-bakemono.md) 
 
 - [**O-Bakemono OBK-M10**](../../../units/o-bakemono/o-bakemono_obk-m10.md) *Missile Boat (3058)* 
@@ -1129,6 +1135,7 @@
 
 - [**Cerberus MR-V2**](../../../units/cerberus/cerberus_mr-v2.md) *Brawler (3054)* 
 - [**Cerberus MR-V3**](../../../units/cerberus/cerberus_mr-v3.md) *Brawler (3062)* 
+- [**Cerberus MR-7K**](../../../units/cerberus/cerberus_mr-7k.md) *Undefined (3121)* `C3 Support` 
 
 #### [Hellstar](../../../units/hellstar.md) 
 

@@ -279,6 +279,7 @@
 #### [Goshawk II](../../../units/goshawk_ii.md) 
 
 - [**Goshawk II**](../../../units/goshawk_ii/goshawk_ii.md) *Striker (3086)* `ECM` 
+- [**Goshawk II 4**](../../../units/goshawk_ii/goshawk_ii_4.md) *Undefined (3130)* 
 
 #### [Grendel](../../../units/grendel.md) 
 
@@ -603,6 +604,10 @@
 - [**Timber Wolf T**](../../../units/timber_wolf/timber_wolf_t.md) *Missile Boat (3142)* 
 
 ### 80 Tons 
+
+#### [Awesome](../../../units/awesome.md) 
+
+- [**Awesome C**](../../../units/awesome/awesome_c.md) *Undefined (3143)* 
 
 #### [Naga](../../../units/naga.md) 
 

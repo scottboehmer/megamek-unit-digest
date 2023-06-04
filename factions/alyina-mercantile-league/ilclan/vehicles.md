@@ -115,6 +115,7 @@
 #### [MASH Truck](../../../units/mash_truck.md) 
 
 - [**MASH Truck**](../../../units/mash_truck/mash_truck.md) *Undefined (2671)* 
+- [**MASH Truck (AMS)**](../../../units/mash_truck/mash_truck_ams.md) *Undefined (3148)* 
 
 #### [MIT23 MASH Vehicle](../../../units/mit23_mash_vehicle.md) 
 
@@ -344,6 +345,14 @@
 - [**JES III Missile Carrier (Thunderbolt)**](../../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_thunderbolt.md) *Missile Boat (3133)* 
 - [**JES III Missile Carrier (Speed)**](../../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_speed.md) *Missile Boat (3135)* 
 
+#### [LRM Carrier](../../../units/lrm_carrier.md) 
+
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
+
+#### [Manticore Heavy Tank](../../../units/manticore_heavy_tank.md) 
+
+- [**Manticore Heavy Tank (XL)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_xl.md) *Undefined (3117)* 
+
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 
 - [**Oro Heavy Tank**](../../../units/oro_heavy_tank/oro_heavy_tank.md) *Brawler (2844)* 
@@ -444,6 +453,10 @@
 - [**Puma Assault Tank PAT-005b**](../../../units/puma_assault_tank/puma_assault_tank_pat-005b.md) *Missile Boat (2751)* 
 
 ### 100 Tons 
+
+#### [Behemoth Heavy Tank](../../../units/behemoth_heavy_tank.md) 
+
+- [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 
 #### [Mars Assault Vehicle](../../../units/mars_assault_vehicle.md) 
 

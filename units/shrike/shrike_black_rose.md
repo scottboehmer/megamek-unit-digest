@@ -30,5 +30,7 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages (Unique) 
+
+- Clan Jade Falcon 
 

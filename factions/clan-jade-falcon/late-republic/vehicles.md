@@ -212,6 +212,7 @@
 #### [Skanda Light Tank](../../../units/skanda_light_tank.md) 
 
 - [**Skanda Light Tank**](../../../units/skanda_light_tank/skanda_light_tank.md) *Striker (3094)* 
+- [**Skanda Light Tank (TSEMP)**](../../../units/skanda_light_tank/skanda_light_tank_tsemp.md) *Undefined (3119)* 
 
 #### [Svantovit Infantry Fighting Vehicle](../../../units/svantovit_infantry_fighting_vehicle.md) 
 
@@ -310,6 +311,10 @@
 
 - [**Demon Tank**](../../../units/demon_tank/demon_tank.md) *Brawler (2716)* 
 - [**Demon Tank (Royal)**](../../../units/demon_tank/demon_tank_royal.md) *Skirmisher (2744)* 
+
+#### [LRM Carrier](../../../units/lrm_carrier.md) 
+
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
 
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 

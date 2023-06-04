@@ -18,6 +18,10 @@
 
 - [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Savannah Master Hovercraft](../../../units/savannah_master_hovercraft.md) 
+
+- [**Savannah Master Hovercraft (Reflective)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_reflective.md) *Undefined (3094)* 
+
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
@@ -346,6 +350,7 @@
 #### [LRM Carrier](../../../units/lrm_carrier.md) 
 
 - [**LRM Carrier**](../../../units/lrm_carrier/lrm_carrier.md) *Missile Boat (2470)* 
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
 
 #### [Marsden II MBT](../../../units/marsden_ii_mbt.md) 
 
@@ -386,6 +391,7 @@
 
 - [**Bardiche Heavy Strike Tank**](../../../units/bardiche_heavy_strike_tank/bardiche_heavy_strike_tank.md) *Brawler (3101)* 
 - [**Bardiche Heavy Strike Tank (Minesweeper)**](../../../units/bardiche_heavy_strike_tank/bardiche_heavy_strike_tank_minesweeper.md) *Brawler (3114)* 
+- [**Bardiche Heavy Strike Tank C**](../../../units/bardiche_heavy_strike_tank/bardiche_heavy_strike_tank_c.md) *Undefined (3143)* 
 
 #### [Heavy BattleMech Recovery Vehicle](../../../units/heavy_battlemech_recovery_vehicle.md) 
 

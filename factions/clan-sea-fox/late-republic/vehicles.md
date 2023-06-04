@@ -317,6 +317,10 @@
 
 ### 60 Tons 
 
+#### [LRM Carrier](../../../units/lrm_carrier.md) 
+
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
+
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 
 - [**Oro Heavy Tank**](../../../units/oro_heavy_tank/oro_heavy_tank.md) *Brawler (2844)* 

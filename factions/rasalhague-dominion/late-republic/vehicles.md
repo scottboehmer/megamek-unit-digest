@@ -393,6 +393,7 @@
 #### [LRM Carrier](../../../units/lrm_carrier.md) 
 
 - [**LRM Carrier**](../../../units/lrm_carrier/lrm_carrier.md) *Missile Boat (2470)* 
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
 
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 

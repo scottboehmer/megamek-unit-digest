@@ -288,6 +288,7 @@
 #### [Viper](../../../units/viper.md) 
 
 - [**Viper VP-1**](../../../units/viper/viper_vp-1.md) *Brawler (2832)* 
+- [**Viper VP-5**](../../../units/viper/viper_vp-5.md) *Brawler (2958)* 
 
 #### [Warhammer](../../../units/warhammer.md) 
 

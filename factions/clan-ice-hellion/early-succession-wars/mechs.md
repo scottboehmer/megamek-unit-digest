@@ -136,6 +136,7 @@
 #### [Chameleon](../../../units/chameleon.md) 
 
 - [**Chameleon TRC-4B**](../../../units/chameleon/chameleon_trc-4b.md) *Scout (2510)* 
+- [**Chameleon TRC-4C**](../../../units/chameleon/chameleon_trc-4c.md) *Undefined (2820)* 
 
 #### [Crab](../../../units/crab.md) 
 
@@ -146,6 +147,7 @@
 
 #### [Griffin](../../../units/griffin.md) 
 
+- [**Griffin GRF-2N2**](../../../units/griffin/griffin_grf-2n2.md) *Skirmisher (2703)* `ECM` 
 - [**Griffin GRF-2N**](../../../units/griffin/griffin_grf-2n.md) *Skirmisher (2751)* `ECM` 
 
 #### [Kintaro](../../../units/kintaro.md) 

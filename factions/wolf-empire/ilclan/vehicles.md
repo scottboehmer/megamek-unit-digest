@@ -18,6 +18,10 @@
 
 - [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Savannah Master Hovercraft](../../../units/savannah_master_hovercraft.md) 
+
+- [**Savannah Master Hovercraft (Reflective)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_reflective.md) *Undefined (3094)* 
+
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
@@ -123,6 +127,7 @@
 #### [MASH Truck](../../../units/mash_truck.md) 
 
 - [**MASH Truck**](../../../units/mash_truck/mash_truck.md) *Undefined (2671)* 
+- [**MASH Truck (AMS)**](../../../units/mash_truck/mash_truck_ams.md) *Undefined (3148)* 
 
 #### [MIT23 MASH Vehicle](../../../units/mit23_mash_vehicle.md) 
 
@@ -327,6 +332,10 @@
 
 - [**Hachiman Fire Support Tank**](../../../units/hachiman_fire_support_tank/hachiman_fire_support_tank.md) *Missile Boat (2842)* 
 
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank (PPC)**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank_ppc.md) *Undefined (3030)* 
+
 #### [JES I Tactical Missile Carrier](../../../units/jes_i_tactical_missile_carrier.md) 
 
 - [**JES I Tactical Missile Carrier (3082 Upgrade)**](../../../units/jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_3082_upgrade.md) *Striker (3082)* 
@@ -375,6 +384,11 @@
 #### [LRM Carrier](../../../units/lrm_carrier.md) 
 
 - [**LRM Carrier**](../../../units/lrm_carrier/lrm_carrier.md) *Missile Boat (2470)* 
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
+
+#### [Manticore Heavy Tank](../../../units/manticore_heavy_tank.md) 
+
+- [**Manticore Heavy Tank (XL)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_xl.md) *Undefined (3117)* 
 
 #### [Marsden II MBT](../../../units/marsden_ii_mbt.md) 
 
@@ -415,6 +429,7 @@
 
 - [**Bardiche Heavy Strike Tank**](../../../units/bardiche_heavy_strike_tank/bardiche_heavy_strike_tank.md) *Brawler (3101)* 
 - [**Bardiche Heavy Strike Tank (Minesweeper)**](../../../units/bardiche_heavy_strike_tank/bardiche_heavy_strike_tank_minesweeper.md) *Brawler (3114)* 
+- [**Bardiche Heavy Strike Tank C**](../../../units/bardiche_heavy_strike_tank/bardiche_heavy_strike_tank_c.md) *Undefined (3143)* 
 
 #### [Heavy BattleMech Recovery Vehicle](../../../units/heavy_battlemech_recovery_vehicle.md) 
 
@@ -491,6 +506,10 @@
 - [**Puma Assault Tank PAT-005b**](../../../units/puma_assault_tank/puma_assault_tank_pat-005b.md) *Missile Boat (2751)* 
 
 ### 100 Tons 
+
+#### [Behemoth Heavy Tank](../../../units/behemoth_heavy_tank.md) 
+
+- [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 
 #### [Mars Assault Vehicle](../../../units/mars_assault_vehicle.md) 
 

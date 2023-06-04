@@ -271,6 +271,10 @@
 - [**Condor Heavy Hover Tank (Liao)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_liao.md) *Striker (2878)* 
 - [**Condor Heavy Hover Tank (Fission)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_fission.md) *Striker (3014)* 
 
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
+
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 
 - [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 

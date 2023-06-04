@@ -26,5 +26,19 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Republic 
+
+- Mercenary 
+
+### Late Republic 
+
+- Mercenary 
+
+### Dark Ages 
+
+- Mercenary 
+
+### ilClan 
+
+- Mercenary 
 

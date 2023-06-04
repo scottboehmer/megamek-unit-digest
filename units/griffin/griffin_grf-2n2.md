@@ -27,5 +27,13 @@
 
 ## Availability 
 
-Availability Unknown 
+### Star League 
+
+- Star League - Royal Divisions 
+
+### Early Succession Wars 
+
+- Clan Ice Hellion 
+- Clan Mongoose 
+- Star League-in-Exile 
 

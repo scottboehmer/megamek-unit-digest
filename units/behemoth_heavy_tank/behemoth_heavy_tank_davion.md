@@ -24,5 +24,28 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Republic 
+
+- Federated Suns 
+- Mercenary 
+
+### Late Republic 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
+
+- Clan Protectorate 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+- Taurian Concordat 
 

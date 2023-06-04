@@ -132,6 +132,10 @@
 - [**Aquagladius AQS-3**](../../../units/aquagladius/aquagladius_aqs-3.md) *Striker (3065)* 
 - [**Aquagladius AQS-4**](../../../units/aquagladius/aquagladius_aqs-4.md) *Striker (3066)* 
 
+#### [Bombard](../../../units/bombard.md) 
+
+- [**Bombard BMB-016**](../../../units/bombard/bombard_bmb-016.md) *Undefined (3138)* `Stealth` 
+
 #### [Ghost](../../../units/ghost.md) 
 
 - [**Ghost GST-10A 'Aurora'**](../../../units/ghost/ghost_gst-10a_aurora.md) *Striker (3130)* `ECM` , `Stealth` , `Unique` 

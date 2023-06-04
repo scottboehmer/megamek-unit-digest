@@ -21,5 +21,15 @@
 
 ## Availability 
 
-Availability Unknown 
+### Late Republic 
+
+- Draconis Combine 
+
+### Dark Ages 
+
+- Draconis Combine 
+
+### ilClan 
+
+- Draconis Combine 
 

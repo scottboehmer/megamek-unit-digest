@@ -25,6 +25,7 @@
 - [**Thrush TR-7**](../../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
 - [**Thrush TR-7p**](../../../units/thrush/thrush_tr-7p.md) *Interceptor (3059)* 
 - [**Thrush TR-8**](../../../units/thrush/thrush_tr-8.md) *Interceptor (3065)* 
+- [**Thrush TR-9**](../../../units/thrush/thrush_tr-9.md) *Undefined (3143)* 
 
 ### 40 Tons 
 

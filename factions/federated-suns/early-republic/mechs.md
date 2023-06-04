@@ -351,6 +351,7 @@
 - [**Hatchetman HCT-6D**](../../../units/hatchetman/hatchetman_hct-6d.md) *Skirmisher (3062)* `ECM` 
 - [**Hatchetman HCT-5DD**](../../../units/hatchetman/hatchetman_hct-5dd.md) *Skirmisher (3065)* 
 - [**Hatchetman HCT-7S**](../../../units/hatchetman/hatchetman_hct-7s.md) *Skirmisher (3084)* `ECM` 
+- [**Hatchetman HCT-7D**](../../../units/hatchetman/hatchetman_hct-7d.md) *Undefined (3092)* `ECM` 
 
 #### [Hellspawn](../../../units/hellspawn.md) 
 
@@ -586,6 +587,7 @@
 - [**Shadow Hawk SHD-2H**](../../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
 - [**Shadow Hawk SHD-5D**](../../../units/shadow_hawk/shadow_hawk_shd-5d.md) *Skirmisher (3066)* 
 - [**Shadow Hawk SHD-9D**](../../../units/shadow_hawk/shadow_hawk_shd-9d.md) *Skirmisher (3070)* `C3 Support` 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 
 #### [Sun Cobra](../../../units/sun_cobra.md) 
@@ -713,6 +715,11 @@
 
 - [**JagerMech III JM6-D3**](../../../units/jagermech_iii/jagermech_iii_jm6-d3.md) *Sniper (3058)* 
 - [**JagerMech III JM6-D4**](../../../units/jagermech_iii/jagermech_iii_jm6-d4.md) *Skirmisher (3073)* 
+
+#### [Jinggau](../../../units/jinggau.md) 
+
+- [**Jinggau JN-G7Lr**](../../../units/jinggau/jinggau_jn-g7lr.md) *Skirmisher (3078)* 
+- [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
 
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 

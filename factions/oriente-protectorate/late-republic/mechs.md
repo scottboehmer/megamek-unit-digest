@@ -493,6 +493,7 @@
 - [**Shadow Hawk SHD-5M**](../../../units/shadow_hawk/shadow_hawk_shd-5m.md) *Missile Boat (3048)* 
 - [**Shadow Hawk SHD-5S**](../../../units/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe` , `ECM` , `TAG` 
 - [**Shadow Hawk SHD-7M**](../../../units/shadow_hawk/shadow_hawk_shd-7m.md) *Missile Boat (3066)* 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
 
@@ -593,6 +594,12 @@
 
 - [**Ha Otoko**](../../../units/ha_otoko/ha_otoko.md) *Missile Boat (3060)* 
 
+#### [Jinggau](../../../units/jinggau.md) 
+
+- [**Jinggau JN-G7Lr**](../../../units/jinggau/jinggau_jn-g7lr.md) *Skirmisher (3078)* 
+- [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
+- [**Jinggau JN-G9CCr**](../../../units/jinggau/jinggau_jn-g9ccr.md) *Skirmisher (3137)* `Active Probe` , `Command Console` , `ECM` , `Stealth` 
+
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 
 - [**Rifleman IIC 5**](../../../units/rifleman_iic/rifleman_iic_5.md) *Skirmisher (3069)* 
@@ -662,6 +669,7 @@
 
 - [**Hercules HRC-LS-9000**](../../../units/hercules/hercules_hrc-ls-9000.md) *Skirmisher (3054)* 
 - [**Hercules HRC-LS-9001**](../../../units/hercules/hercules_hrc-ls-9001.md) *Skirmisher (3056)* 
+- [**Hercules HRC-LS-9003**](../../../units/hercules/hercules_hrc-ls-9003.md) *Undefined (3088)* `ECM` 
 
 #### [Lumberjack](../../../units/lumberjack.md) 
 

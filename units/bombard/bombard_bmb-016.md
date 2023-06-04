@@ -25,5 +25,11 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Solaris 7 
+
+### ilClan 
+
+- Solaris 7 
 

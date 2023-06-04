@@ -24,5 +24,23 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Republic 
+
+- Kell Hounds 
+- Mercenary 
+
+### Late Republic 
+
+- Kell Hounds 
+- Mercenary 
+
+### Dark Ages 
+
+- Kell Hounds 
+- Mercenary 
+
+### ilClan 
+
+- Kell Hounds 
+- Mercenary 
 

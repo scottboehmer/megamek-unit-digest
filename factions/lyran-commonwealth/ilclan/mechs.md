@@ -299,6 +299,10 @@
 
 - [**Havoc HVC-P6**](../../../units/havoc/havoc_hvc-p6.md) *Striker (3112)* 
 
+#### [Hollander](../../../units/hollander.md) 
+
+- [**Hollander BZK-G2**](../../../units/hollander/hollander_bzk-g2.md) *Undefined (3121)* 
+
 #### [Hollander III](../../../units/hollander_iii.md) 
 
 - [**Hollander III BZK-D1**](../../../units/hollander_iii/hollander_iii_bzk-d1.md) *Sniper (3114)* 
@@ -497,6 +501,7 @@
 #### [Goshawk II](../../../units/goshawk_ii.md) 
 
 - [**Goshawk II**](../../../units/goshawk_ii/goshawk_ii.md) *Striker (3086)* `ECM` 
+- [**Goshawk II 4**](../../../units/goshawk_ii/goshawk_ii_4.md) *Undefined (3130)* 
 
 #### [Hatchetman](../../../units/hatchetman.md) 
 
@@ -616,6 +621,7 @@
 - [**Hunchback HBK-6S**](../../../units/hunchback/hunchback_hbk-6s.md) *Striker (3063)* 
 - [**Hunchback C**](../../../units/hunchback/hunchback_c.md) *Skirmisher (3065)* 
 - [**Hunchback HBK-5SS**](../../../units/hunchback/hunchback_hbk-5ss.md) *Missile Boat (3068)* 
+- [**Hunchback HBK-6P**](../../../units/hunchback/hunchback_hbk-6p.md) *Undefined (3133)* 
 - [**Hunchback HBK-7S**](../../../units/hunchback/hunchback_hbk-7s.md) *Striker (3134)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Hunchback IIC](../../../units/hunchback_iic.md) 
@@ -700,6 +706,7 @@
 
 - [**Lineholder KW1-LH2**](../../../units/lineholder/lineholder_kw1-lh2.md) *Skirmisher (3058)* 
 - [**Lineholder KW1-LH3**](../../../units/lineholder/lineholder_kw1-lh3.md) *Skirmisher (3059)* 
+- [**Lineholder KW2-LH10**](../../../units/lineholder/lineholder_kw2-lh10.md) *Undefined (3131)* `C3 Support` , `ECM` 
 
 #### [Lynx](../../../units/lynx.md) 
 
@@ -732,6 +739,7 @@
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-5S**](../../../units/shadow_hawk/shadow_hawk_shd-5s.md) *Scout (3054)* `Active Probe` , `ECM` , `TAG` 
+- [**Shadow Hawk SHD-11CS2**](../../../units/shadow_hawk/shadow_hawk_shd-11cs2.md) *Undefined (3076)* `C3 Support` , `ECM` 
 - [**Shadow Hawk SHD-5R**](../../../units/shadow_hawk/shadow_hawk_shd-5r.md) *Missile Boat (3087)* 
 - [**Shadow Hawk SHD-7H**](../../../units/shadow_hawk/shadow_hawk_shd-7h.md) *Skirmisher (3097)* 
 
@@ -1002,6 +1010,7 @@
 
 - [**Uni ATAE-70 CargoMech**](../../../units/uni/uni_atae-70_cargomech.md) *Ambusher (3050)* `IndustrialMech` 
 - [**Uni ATAE-70M MilitiaMech**](../../../units/uni/uni_atae-70m_militiamech.md) *Sniper (3053)* `IndustrialMech` 
+- [**Uni ATAE-70T CargoMech**](../../../units/uni/uni_atae-70t_cargomech.md) *Ambusher (3074)* `IndustrialMech` 
 
 #### [Viper](../../../units/viper.md) 
 
@@ -1043,6 +1052,11 @@
 #### [Flashman](../../../units/flashman.md) 
 
 - [**Flashman FLS-10E**](../../../units/flashman/flashman_fls-10e.md) *Skirmisher (3144)* 
+
+#### [Gotterdammerung](../../../units/gotterdammerung.md) 
+
+- [**Gotterdammerung GTD-20C**](../../../units/gotterdammerung/gotterdammerung_gtd-20c.md) *Undefined (3138)* 
+- [**Gotterdammerung GTD-30S**](../../../units/gotterdammerung/gotterdammerung_gtd-30s.md) *Undefined (3138)* 
 
 #### [Götterdämmerung](../../../units/götterdämmerung.md) 
 
@@ -1382,6 +1396,7 @@
 - [**King Crab KGC-001**](../../../units/king_crab/king_crab_kgc-001.md) *Juggernaut (3052)* 
 - [**King Crab KGC-007**](../../../units/king_crab/king_crab_kgc-007.md) *Juggernaut (3071)* 
 - [**King Crab KGC-009**](../../../units/king_crab/king_crab_kgc-009.md) *Juggernaut (3104)* `ECM` 
+- [**King Crab KGC-009C**](../../../units/king_crab/king_crab_kgc-009c.md) *Undefined (3143)* `ECM` 
 - [**King Crab KGC-011**](../../../units/king_crab/king_crab_kgc-011.md) *Juggernaut (3143)* 
 
 #### [Marauder II](../../../units/marauder_ii.md) 

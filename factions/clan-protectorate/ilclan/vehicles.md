@@ -22,6 +22,10 @@
 
 - [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
 
+#### [Savannah Master Hovercraft](../../../units/savannah_master_hovercraft.md) 
+
+- [**Savannah Master Hovercraft (Reflective)**](../../../units/savannah_master_hovercraft/savannah_master_hovercraft_reflective.md) *Undefined (3094)* 
+
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
@@ -341,6 +345,12 @@
 - [**Hachiman Fire Support Tank**](../../../units/hachiman_fire_support_tank/hachiman_fire_support_tank.md) *Missile Boat (2842)* 
 - [**Hachiman Fire Support Tank (AAA)**](../../../units/hachiman_fire_support_tank/hachiman_fire_support_tank_aaa.md) *Sniper (3070)* 
 
+#### [Harrier Heavy Hover Tank](../../../units/harrier_heavy_hover_tank.md) 
+
+- [**Harrier Heavy Hover Tank**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank.md) *Undefined (2749)* 
+- [**Harrier Heavy Hover Tank (PPC)**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank_ppc.md) *Undefined (3030)* 
+- [**Harrier Heavy Hover Tank (Re-Laser)**](../../../units/harrier_heavy_hover_tank/harrier_heavy_hover_tank_re-laser.md) *Undefined (3149)* 
+
 #### [Ku Wheeled Assault Tank](../../../units/ku_wheeled_assault_tank.md) 
 
 - [**Ku Wheeled Assault Tank**](../../../units/ku_wheeled_assault_tank/ku_wheeled_assault_tank.md) *Brawler (2842)* 
@@ -380,6 +390,14 @@
 - [**Thor Artillery Vehicle (Clan)**](../../../units/thor_artillery_vehicle/thor_artillery_vehicle_clan.md) *Missile Boat (2870)* 
 
 ### 60 Tons 
+
+#### [LRM Carrier](../../../units/lrm_carrier.md) 
+
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
+
+#### [Manticore Heavy Tank](../../../units/manticore_heavy_tank.md) 
+
+- [**Manticore Heavy Tank (XL)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_xl.md) *Undefined (3117)* 
 
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 
@@ -504,7 +522,10 @@
 
 #### [Behemoth Heavy Tank](../../../units/behemoth_heavy_tank.md) 
 
+- [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 - [**Behemoth Heavy Tank (Kurita)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_kurita.md) *Juggernaut (3062)* 
+- [**Behemoth Heavy Tank (Davion)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_davion.md) *Undefined (3087)* 
+- [**Behemoth Heavy Tank (Kurita Upgrade)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_kurita_upgrade.md) *Undefined (3140)* 
 
 #### [Mars Assault Vehicle](../../../units/mars_assault_vehicle.md) 
 

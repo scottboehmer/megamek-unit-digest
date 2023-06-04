@@ -24,5 +24,12 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Free Worlds League 
+
+### ilClan 
+
+- Clan Protectorate 
+- Free Worlds League 
 

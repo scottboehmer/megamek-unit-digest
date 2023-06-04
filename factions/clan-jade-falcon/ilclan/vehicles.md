@@ -347,6 +347,10 @@
 - [**JES III Missile Carrier (Thunderbolt)**](../../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_thunderbolt.md) *Missile Boat (3133)* 
 - [**JES III Missile Carrier (Speed)**](../../../units/jes_iii_missile_carrier/jes_iii_missile_carrier_speed.md) *Missile Boat (3135)* 
 
+#### [LRM Carrier](../../../units/lrm_carrier.md) 
+
+- [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
+
 #### [Oro Heavy Tank](../../../units/oro_heavy_tank.md) 
 
 - [**Oro Heavy Tank**](../../../units/oro_heavy_tank/oro_heavy_tank.md) *Brawler (2844)* 
@@ -429,6 +433,8 @@
 #### [Huitzilopochtli Assault Tank 'Huey'](../../../units/huitzilopochtli_assault_tank_huey.md) 
 
 - [**Huitzilopochtli Assault Tank 'Huey'**](../../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey.md) *Missile Boat (2845)* `ECM` 
+- [**Huitzilopochtli Assault Tank 'Huey' (LRM)**](../../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_lrm.md) *Undefined (3147)* `ECM` 
+- [**Huitzilopochtli Assault Tank 'Huey' (Streak)**](../../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_streak.md) *Undefined (3147)* `ECM` 
 
 ### 95 Tons 
 
