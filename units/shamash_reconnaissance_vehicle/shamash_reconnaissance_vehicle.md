@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Small Laser × 4 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2921) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2921) 
 - **Battle Value:** 504 
 
 ## Availability 

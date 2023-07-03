@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2474) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/2474) 
 - **Battle Value:** 1545 
 
 ## Availability 

@@ -30,7 +30,7 @@
   - Directional Torso Mount (Light PPC) 
   - Directional Torso Mount (Medium VSP Laser) 
   - Directional Torso Mount (Light PPC) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5703) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5703) 
 - **Battle Value:** 1598 
 
 ## Availability 

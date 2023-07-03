@@ -16,7 +16,7 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Shrapnel 9 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9239) 
+- **Sources:** Shrapnel #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/9239) 
 - **Battle Value:** 1323 
 
 ## Availability 

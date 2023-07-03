@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/732) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/732) 
 - **Battle Value:** 1557 
 
 ## Availability 

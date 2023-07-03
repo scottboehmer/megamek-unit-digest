@@ -15,7 +15,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - Laser Anti-Missile System × 3 
-- **Sources:** XTRO Corporation - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4962) 
+- **Sources:** XTR: Corporation , [Master Unit List](http://masterunitlist.info/Unit/Details/4962) 
 - **Battle Value:** Unknown 
 
 ## Availability 

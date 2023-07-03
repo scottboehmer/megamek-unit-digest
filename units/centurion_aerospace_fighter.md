@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 3 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3924) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3924) 
 - **Battle Value:** Unknown 
 - [*More Info*](centurion_aerospace_fighter/centurion_cnt-1a.md) 
 
@@ -27,7 +27,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 3 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3925) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3925) 
 - **Battle Value:** Unknown 
 - [*More Info*](centurion_aerospace_fighter/centurion_cnt-1d.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 3 
-- **Sources:** TRO 3075 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3926) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3926) 
 - **Battle Value:** Unknown 
 - [*More Info*](centurion_aerospace_fighter/centurion_cnt-2d.md) 
 
@@ -60,7 +60,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - TAG 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3927) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3927) 
 - **Battle Value:** Unknown 
 - [*More Info*](centurion_aerospace_fighter/centurion_cnt-3s.md) 
 

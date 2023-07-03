@@ -18,7 +18,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7609) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7609) 
 - **Battle Value:** 2091 
 
 ## Availability 

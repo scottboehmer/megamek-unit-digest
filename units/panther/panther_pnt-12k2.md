@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2420) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2420) 
 - **Battle Value:** 930 
 
 ## Availability 

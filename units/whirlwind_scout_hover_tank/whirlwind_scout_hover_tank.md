@@ -15,7 +15,7 @@
   - AC/2 × 2 (ammo: 90) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Rec Guide:ilClan #28 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9362) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9362) 
 - **Battle Value:** 667 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Blazer Cannon 
   - ELRM 10 × 2 (ammo: 18) 
   - Medium X-Pulse Laser 
-- **Sources:** XTRO Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1957) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/1957) 
 - **Battle Value:** Unknown 
 
 ## Availability 

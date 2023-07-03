@@ -23,7 +23,7 @@
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (Improved Heavy Large Laser) 
   - Modular Weapon (Improved Heavy Large Laser) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5239) 
 - **Battle Value:** 2475 
 - [*More Info*](thunderbolt_iic/thunderbolt_iic.md) 
 
@@ -53,7 +53,7 @@
   - Modular Weapon (Unknown Component) 
   - Modular Weapon (Unknown Component) 
   - Modular Weapon (Unknown Component) 
-- **Sources:** Ice Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5240) 
+- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/5240) 
 - **Battle Value:** 2177 
 - [*More Info*](thunderbolt_iic/thunderbolt_iic_2.md) 
 

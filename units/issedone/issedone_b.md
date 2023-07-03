@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7652) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7652) 
 - **Battle Value:** Unknown 
 
 ## Availability 

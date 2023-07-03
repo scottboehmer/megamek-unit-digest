@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Improved Life Support 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1139) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1139) 
 - **Battle Value:** 791 
 
 ## Availability 

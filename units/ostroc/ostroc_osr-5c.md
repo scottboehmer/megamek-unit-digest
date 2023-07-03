@@ -18,7 +18,7 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2358) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2358) 
 - **Battle Value:** 1788 
 
 ## Availability 

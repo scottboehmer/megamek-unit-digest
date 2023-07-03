@@ -16,7 +16,7 @@
   - Light Machine Gun × 4 (ammo: 300) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/326) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/326) 
 - **Battle Value:** 1018 
 
 ## Availability 

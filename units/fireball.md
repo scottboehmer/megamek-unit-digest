@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Narrow/Low Profile 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1075) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1075) 
 - **Battle Value:** 385 
 - [*More Info*](fireball/fireball_alm-7d.md) 
 
@@ -32,7 +32,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Narrow/Low Profile 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1076) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1076) 
 - **Battle Value:** 574 
 - [*More Info*](fireball/fireball_alm-8d.md) 
 
@@ -50,7 +50,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Narrow/Low Profile 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1077) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1077) 
 - **Battle Value:** 527 
 - [*More Info*](fireball/fireball_alm-9d.md) 
 
@@ -71,7 +71,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1074) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1074) 
 - **Battle Value:** 957 
 - [*More Info*](fireball/fireball_alm-10d.md) 
 
@@ -94,7 +94,7 @@
   - Narrow/Low Profile 
   - Hard to Pilot 
   - Non-Standard Parts 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5781) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5781) 
 - **Battle Value:** 612 
 - [*More Info*](fireball/fireball_alm-xf.md) 
 

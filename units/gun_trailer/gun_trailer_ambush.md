@@ -14,7 +14,7 @@
   - Rocket 15 × 6 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6528) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6528) 
 - **Battle Value:** 108 
 
 ## Availability 

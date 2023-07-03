@@ -22,7 +22,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Gauss Rifle) 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8257) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/8257) 
 - **Battle Value:** 1747 
 
 ## Availability 

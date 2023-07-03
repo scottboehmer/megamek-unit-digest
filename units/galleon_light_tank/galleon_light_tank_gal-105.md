@@ -15,7 +15,7 @@
   - Thumper Cannon (ammo: 0) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8041) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8041) 
 - **Battle Value:** 564 
 
 ## Availability 

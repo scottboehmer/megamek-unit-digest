@@ -16,7 +16,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Light TAG 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6728) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6728) 
 - **Battle Value:** 36 (186 for 4 suits) 
 - [*More Info*](kobold_battle_armor_iic/kobold_battle_armor_iic_sqd4.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Light TAG 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8783) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8783) 
 - **Battle Value:** 36 (251 for 5 suits) 
 - [*More Info*](kobold_battle_armor_iic/kobold_battle_armor_iic_sqd5.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Light TAG 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9071) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9071) 
 - **Battle Value:** 36 (323 for 6 suits) 
 - [*More Info*](kobold_battle_armor_iic/kobold_battle_armor_iic_sqd6.md) 
 

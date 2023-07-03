@@ -23,7 +23,7 @@
   - Modular Weapon (TAG) 
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (ER Medium Laser) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2170) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2170) 
 - **Battle Value:** 683 
 
 ## Availability 

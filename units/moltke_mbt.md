@@ -11,7 +11,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Light Gauss Rifle × 2 (ammo: 48) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2205) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2205) 
 - **Battle Value:** 1355 
 - [*More Info*](moltke_mbt/moltke_mbt_m1.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - MML 7 × 5 (ammo: 51 LRM, 42 SRM) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2206) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2206) 
 - **Battle Value:** 1363 
 - [*More Info*](moltke_mbt/moltke_mbt_m2.md) 
 
@@ -43,7 +43,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2207) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2207) 
 - **Battle Value:** 1438 
 - [*More Info*](moltke_mbt/moltke_mbt_m3.md) 
 

@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3561) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3561) 
 - **Battle Value:** 967 
 
 ## Availability 

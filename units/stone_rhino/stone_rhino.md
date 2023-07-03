@@ -23,7 +23,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/318) 
 - **Battle Value:** 3001 
 
 ## Availability 

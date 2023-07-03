@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2975) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/2975) 
 - **Battle Value:** 1316 
 
 ## Availability 

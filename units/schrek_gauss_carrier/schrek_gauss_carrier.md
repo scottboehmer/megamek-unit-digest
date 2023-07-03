@@ -14,7 +14,7 @@
   - Light Gauss Rifle × 3 (ammo: 64) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Rec Guide:ilClan #32 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9478) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9478) 
 - **Battle Value:** 1116 
 
 ## Availability 

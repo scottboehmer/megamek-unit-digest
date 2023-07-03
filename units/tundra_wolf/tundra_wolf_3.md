@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3317) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3317) 
 - **Battle Value:** 3292 
 
 ## Availability 

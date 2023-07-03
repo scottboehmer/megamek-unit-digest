@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - MML 5 × 2 (ammo: 48 LRM, 20 SRM) 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2770) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2770) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Hitch 
   - Cargo 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1644) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1644) 
 - **Battle Value:** 47 
 - [*More Info*](j-27_ordnance_transport/j-27_ordnance_transport_fusion.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - Hitch 
   - Cargo 
-- **Sources:** RS 3039 Unabriged , [Master Unit List](http://masterunitlist.info/Unit/Details/1645) 
+- **Sources:** Record Sheets: 3039 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/1645) 
 - **Battle Value:** 47 
 - [*More Info*](j-27_ordnance_transport/j-27_ordnance_transport.md) 
 
@@ -45,7 +45,7 @@
 - **Equipment:** 
   - Hitch 
   - Cargo 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1646) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1646) 
 - **Battle Value:** 44 
 - [*More Info*](j-27_ordnance_transport/j-27_ordnance_transport_trailer.md) 
 
@@ -62,7 +62,7 @@
 - **Equipment:** 
   - Hitch 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1643) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1643) 
 - **Battle Value:** 70 
 - [*More Info*](j-27_ordnance_transport/j-27_ordnance_transport_armor.md) 
 
@@ -78,7 +78,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1647) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1647) 
 - **Battle Value:** 170 
 - [*More Info*](j-27_ordnance_transport/j-27_ordnance_transport_k-27_killjoy.md) 
 

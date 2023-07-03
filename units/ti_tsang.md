@@ -18,7 +18,7 @@
   - TAG 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254) 
 - **Battle Value:** 1880 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9h.md) 
 
@@ -39,7 +39,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3255) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3255) 
 - **Battle Value:** 1909 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9j.md) 
 
@@ -60,7 +60,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5241) 
+- **Sources:** BattleCorps , [Master Unit List](http://masterunitlist.info/Unit/Details/5241) 
 - **Battle Value:** 1739 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9_china_doll.md) 
 
@@ -81,7 +81,7 @@
   - Small Pulse Laser × 4 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** BD: Jason Zaklan - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7395) 
+- **Sources:** BattleTech Dossiers: Jason Zaklan , [Master Unit List](http://masterunitlist.info/Unit/Details/7395) 
 - **Battle Value:** 1641 
 - [*More Info*](ti_tsang/ti_tsang_jason.md) 
 
@@ -102,7 +102,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3252) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3252) 
 - **Battle Value:** 1989 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9c.md) 
 
@@ -126,7 +126,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
 - **Battle Value:** 2013 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9ddc_prototype.md) 
 
@@ -155,7 +155,7 @@
   - Improved Life Support 
   - Protected Actuators 
   - Jettison-Capable Weapon (Lance) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
 - **Battle Value:** 2013 
 - [*More Info*](ti_tsang/ti_tsang_tsg-9ddc.md) 
 
@@ -179,7 +179,7 @@
   - TAG 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6884) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6884) 
 - **Battle Value:** 1728 
 - [*More Info*](ti_tsang/ti_tsang_tsg-10l.md) 
 

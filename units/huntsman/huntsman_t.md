@@ -25,7 +25,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7781) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7781) 
 - **Battle Value:** 2105 
 
 ## Availability 

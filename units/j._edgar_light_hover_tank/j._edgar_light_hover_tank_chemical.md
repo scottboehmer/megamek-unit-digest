@@ -14,7 +14,7 @@
   - SRM 4 (ammo: 25) 
   - Clan Medium Chemical Laser (ammo: 30) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9473) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9473) 
 - **Battle Value:** 570 
 
 ## Availability 

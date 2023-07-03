@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3471) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3471) 
 - **Battle Value:** 2300 
 
 ## Availability 

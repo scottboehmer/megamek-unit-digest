@@ -28,7 +28,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2870) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2870) 
 - **Battle Value:** 2355 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Myomer Booster 
   - Searchlight 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5170) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/5170) 
 - **Battle Value:** 38 (195 for 4 suits) 
 
 ## Availability 

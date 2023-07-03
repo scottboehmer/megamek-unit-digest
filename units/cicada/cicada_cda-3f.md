@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/594) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/594) 
 - **Battle Value:** 1329 
 
 ## Availability 

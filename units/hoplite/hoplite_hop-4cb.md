@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Hist Klondike - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1542) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1542) 
 - **Battle Value:** 1377 
 
 ## Availability 

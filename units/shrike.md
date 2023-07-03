@@ -23,7 +23,7 @@
   - Reinforced Legs 
   - Exposed Weapon Linkage (Ultra AC/5) 
   - Exposed Weapon Linkage (Ultra AC/5) 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6292) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6292) 
 - **Battle Value:** 2969 
 - [*More Info*](shrike/shrike.md) 
 
@@ -52,7 +52,7 @@
   - Exposed Weapon Linkage (Unknown Component) 
   - Exposed Weapon Linkage (Ultra AC/10) 
   - Exposed Weapon Linkage (Ultra AC/10) 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6293) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6293) 
 - **Battle Value:** 2846 
 - [*More Info*](shrike/shrike_2.md) 
 
@@ -81,7 +81,7 @@
   - Exposed Weapon Linkage (Unknown Component) 
   - Exposed Weapon Linkage (ER PPC) 
   - Exposed Weapon Linkage (ER PPC) 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6294) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6294) 
 - **Battle Value:** 3698 
 - [*More Info*](shrike/shrike_3.md) 
 
@@ -108,7 +108,7 @@
   - Reinforced Legs 
   - Exposed Weapon Linkage (Unknown Component) 
   - Exposed Weapon Linkage (Unknown Component) 
-- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9215) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9215) 
 - **Battle Value:** 3487 
 - [*More Info*](shrike/shrike_black_rose.md) 
 

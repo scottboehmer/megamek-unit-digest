@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/309) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/309) 
 - **Battle Value:** Unknown 
 - [*More Info*](batu/batu_prime.md) 
 
@@ -34,7 +34,7 @@
   - Narc (ammo: 0) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/305) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/305) 
 - **Battle Value:** Unknown 
 - [*More Info*](batu/batu_a.md) 
 
@@ -52,7 +52,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/306) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/306) 
 - **Battle Value:** Unknown 
 - [*More Info*](batu/batu_b.md) 
 
@@ -71,7 +71,7 @@
   - ER Small Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/307) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/307) 
 - **Battle Value:** Unknown 
 - [*More Info*](batu/batu_c.md) 
 
@@ -87,7 +87,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/308) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/308) 
 - **Battle Value:** Unknown 
 - [*More Info*](batu/batu_d.md) 
 
@@ -103,7 +103,7 @@
 - **Weapons:** 
   - Ultra AC/20 (ammo: 20) 
   - Streak SRM 2 (iOS) × 4 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/6963) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/6963) 
 - **Battle Value:** Unknown 
 - [*More Info*](batu/batu_e.md) 
 
@@ -124,7 +124,7 @@
   - Nova CEWS 
   - CASE 
   - Targeting Computer 
-- **Sources:** The Wars of Reaving (s) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3809) 
+- **Sources:** The Wars of Reaving (s) , [Master Unit List](http://masterunitlist.info/Unit/Details/3809) 
 - **Battle Value:** Unknown 
 - [*More Info*](batu/batu_z.md) 
 

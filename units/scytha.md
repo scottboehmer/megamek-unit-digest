@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2853) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2853) 
 - **Battle Value:** Unknown 
 - [*More Info*](scytha/scytha_prime.md) 
 
@@ -37,7 +37,7 @@
   - Narc (ammo: 6) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2849) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2849) 
 - **Battle Value:** Unknown 
 - [*More Info*](scytha/scytha_a.md) 
 
@@ -57,7 +57,7 @@
   - Anti-Missile System (ammo: 24) 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2850) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2850) 
 - **Battle Value:** Unknown 
 - [*More Info*](scytha/scytha_b.md) 
 
@@ -77,7 +77,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2851) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2851) 
 - **Battle Value:** Unknown 
 - [*More Info*](scytha/scytha_c.md) 
 
@@ -98,7 +98,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2852) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2852) 
 - **Battle Value:** Unknown 
 - [*More Info*](scytha/scytha_d.md) 
 
@@ -120,7 +120,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5002) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/5002) 
 - **Battle Value:** Unknown 
 - [*More Info*](scytha/scytha_e.md) 
 
@@ -139,7 +139,7 @@
   - Watchdog CEWS 
   - CASE 
   - Inner Sphere Coolant Pod × 11 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5003) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/5003) 
 - **Battle Value:** Unknown 
 - [*More Info*](scytha/scytha_x.md) 
 
@@ -159,7 +159,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5004) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/5004) 
 - **Battle Value:** Unknown 
 - [*More Info*](scytha/scytha_xr.md) 
 
@@ -180,7 +180,7 @@
   - Watchdog CEWS 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6808) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6808) 
 - **Battle Value:** Unknown 
 - [*More Info*](scytha/scytha_f.md) 
 

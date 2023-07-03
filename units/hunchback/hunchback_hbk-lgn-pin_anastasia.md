@@ -17,7 +17,7 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8374) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8374) 
 - **Battle Value:** 1289 
 
 ## Availability 

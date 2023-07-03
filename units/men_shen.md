@@ -18,7 +18,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2160) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2160) 
 - **Battle Value:** 1550 
 - [*More Info*](men_shen/men_shen_ms1-o.md) 
 
@@ -41,7 +41,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2161) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2161) 
 - **Battle Value:** 1529 
 - [*More Info*](men_shen/men_shen_ms1-oa.md) 
 
@@ -63,7 +63,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2162) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2162) 
 - **Battle Value:** 1484 
 - [*More Info*](men_shen/men_shen_ms1-ob.md) 
 
@@ -86,7 +86,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2163) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2163) 
 - **Battle Value:** 1435 
 - [*More Info*](men_shen/men_shen_ms1-oc.md) 
 
@@ -109,7 +109,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2164) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2164) 
 - **Battle Value:** 1581 
 - [*More Info*](men_shen/men_shen_ms1-od.md) 
 
@@ -131,7 +131,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6981) 
+- **Sources:** BattleTech Dossiers: Youling Zhanshi , [Master Unit List](http://masterunitlist.info/Unit/Details/6981) 
 - **Battle Value:** 1550 
 - [*More Info*](men_shen/men_shen_li.md) 
 
@@ -155,7 +155,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2165) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2165) 
 - **Battle Value:** 1625 
 - [*More Info*](men_shen/men_shen_ms1-oe.md) 
 
@@ -178,7 +178,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2166) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2166) 
 - **Battle Value:** 1648 
 - [*More Info*](men_shen/men_shen_ms1-of.md) 
 
@@ -203,7 +203,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2167) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2167) 
 - **Battle Value:** 1725 
 - [*More Info*](men_shen/men_shen_ms1-ou.md) 
 
@@ -226,7 +226,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6894) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6894) 
 - **Battle Value:** 2267 
 - [*More Info*](men_shen/men_shen_ms1-og.md) 
 

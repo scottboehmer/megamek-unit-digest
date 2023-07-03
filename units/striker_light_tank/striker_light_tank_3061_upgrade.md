@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3099) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3099) 
 - **Battle Value:** 775 
 
 ## Availability 

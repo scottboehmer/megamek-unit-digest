@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6664) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6664) 
 - **Battle Value:** 602 
 
 ## Availability 

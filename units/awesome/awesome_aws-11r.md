@@ -25,7 +25,7 @@
   - Distracting 
   - Poor Performance 
   - Battlefist (Left Arm) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7349) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7349) 
 - **Battle Value:** 1878 
 
 ## Availability 

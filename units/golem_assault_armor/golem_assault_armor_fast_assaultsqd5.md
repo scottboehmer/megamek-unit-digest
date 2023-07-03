@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8621) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8621) 
 - **Battle Value:** 71 (494 for 5 suits) 
 
 ## Availability 

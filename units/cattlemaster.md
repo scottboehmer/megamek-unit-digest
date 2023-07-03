@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Searchlight 
   - Cargo 
-- **Sources:** RS:VA IM Exo - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3905) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/3905) 
 - **Battle Value:** 226 
 - [*More Info*](cattlemaster/cattlemaster_ctl-3r_herder_industrialmech.md) 
 
@@ -31,7 +31,7 @@
   - Machine Gun × 3 (ammo: 100) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** RS:VA IM Exo - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3906) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/3906) 
 - **Battle Value:** 245 
 - [*More Info*](cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) 
 
@@ -47,7 +47,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** RS:VA IM Exo - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7158) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7158) 
 - **Battle Value:** 358 
 - [*More Info*](cattlemaster/cattlemaster_ctl-3r3_securitymech.md) 
 

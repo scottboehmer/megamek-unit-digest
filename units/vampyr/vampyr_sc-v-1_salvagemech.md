@@ -19,7 +19,7 @@
   - Mech Sprayer 
   - Light Fluid Suction System 
   - Liquid Cargo × 2 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/5334) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/5334) 
 - **Battle Value:** 582 
 
 ## Availability 

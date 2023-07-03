@@ -15,7 +15,7 @@
 - **Equipment:** 
   - C3 Support 
   - Cargo 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/833) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/833) 
 - **Battle Value:** 125 
 
 ## Availability 

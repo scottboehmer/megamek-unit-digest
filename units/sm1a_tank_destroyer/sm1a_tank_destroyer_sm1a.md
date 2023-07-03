@@ -17,7 +17,7 @@
   - Light Active Probe 
   - CASE 
   - Machine Gun Array 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2972) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2972) 
 - **Battle Value:** 1214 
 
 ## Availability 

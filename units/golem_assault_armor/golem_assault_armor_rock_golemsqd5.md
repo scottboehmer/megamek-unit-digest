@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Detachable Heavy Recoilless Rifle × 2 
   - SRM 5 (OS) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8622) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8622) 
 - **Battle Value:** 105 (734 for 5 suits) 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Clan Machine Gun × 2 
   - Clan Bearhunter Superheavy AC × 2 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8773) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8773) 
 - **Battle Value:** 66 (462 for 5 suits) 
 
 ## Availability 

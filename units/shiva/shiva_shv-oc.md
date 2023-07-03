@@ -16,7 +16,7 @@
   - Light Gauss Rifle × 2 (ammo: 64) 
   - ER Medium Laser × 6 
   - ER Small Laser 
-- **Sources:** TRO 3067 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5055) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5055) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -24,7 +24,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (ER Large Laser) 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5807) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter , [Master Unit List](http://masterunitlist.info/Unit/Details/5807) 
 - **Battle Value:** 1442 
 
 ## Availability 

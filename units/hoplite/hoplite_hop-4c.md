@@ -15,7 +15,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4331) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4331) 
 - **Battle Value:** 986 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/346) 
+- **Sources:** Jihad Turning Points: Luthien , [Master Unit List](http://masterunitlist.info/Unit/Details/346) 
 - **Battle Value:** 2377 
 
 ## Availability 

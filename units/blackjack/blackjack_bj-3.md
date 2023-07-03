@@ -16,7 +16,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/388) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/388) 
 - **Battle Value:** 1271 
 
 ## Availability 

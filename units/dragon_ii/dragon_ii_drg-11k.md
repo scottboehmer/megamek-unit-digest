@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Stable 
   - Poor Cooling Jacket (ER PPC) 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6414) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6414) 
 - **Battle Value:** 1598 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Inner Sphere Partial Wing 
   - Anti-Personnel Mount 
   - Inner Sphere Camo System 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8662) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/8662) 
 - **Battle Value:** 48 (336 for 5 suits) 
 
 ## Availability 

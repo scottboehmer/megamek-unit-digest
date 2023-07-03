@@ -13,7 +13,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Rocket 15 × 5 
-- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7161) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7161) 
 - **Battle Value:** 306 
 
 ## Availability 

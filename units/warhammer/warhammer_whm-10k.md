@@ -23,7 +23,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7564) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7564) 
 - **Battle Value:** 2033 
 
 ## Availability 

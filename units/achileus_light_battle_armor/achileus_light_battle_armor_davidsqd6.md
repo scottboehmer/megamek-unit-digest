@@ -17,7 +17,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8838) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8838) 
 - **Battle Value:** 36 (327 for 6 suits) 
 
 ## Availability 

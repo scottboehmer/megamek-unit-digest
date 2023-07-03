@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light PPC 
   - MML 7 (ammo: 17 LRM, 14 SRM) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6596) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6596) 
 - **Battle Value:** 711 
 
 ## Availability 

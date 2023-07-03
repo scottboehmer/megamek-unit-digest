@@ -13,7 +13,7 @@
   - Heavy Machine Gun × 3 (ammo: 50) 
 - **Equipment:** 
   - Limited Amphibious Chassis 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6386) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6386) 
 - **Battle Value:** 955 
 - [*More Info*](sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle.md) 
 
@@ -30,7 +30,7 @@
   - Heavy Machine Gun × 3 (ammo: 50) 
 - **Equipment:** 
   - Limited Amphibious Chassis 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6387) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6387) 
 - **Battle Value:** 1338 
 - [*More Info*](sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle_ltc.md) 
 

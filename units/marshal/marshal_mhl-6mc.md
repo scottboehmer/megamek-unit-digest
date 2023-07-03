@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 30) 
   - Light PPC 
-  - MML 9 (ammo: 13 LRM, 11 SRM) 
+  - MML 9 (ammo: 11 SRM, 13 LRM) 
   - Medium Pulse Laser 
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 

@@ -25,7 +25,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7566) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7566) 
 - **Battle Value:** 2772 
 
 ## Availability 

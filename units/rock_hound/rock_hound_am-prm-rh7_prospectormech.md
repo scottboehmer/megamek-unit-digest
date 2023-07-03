@@ -17,7 +17,7 @@
   - Lift Hoist 
   - Searchlight 
   - Ejection Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4926) 
+- **Sources:** Handbook: Major Periphery States , [Master Unit List](http://masterunitlist.info/Unit/Details/4926) 
 - **Battle Value:** 523 
 
 ## Availability 

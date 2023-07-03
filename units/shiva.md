@@ -14,7 +14,7 @@
   - Large Pulse Laser × 4 
   - SRM 6 (ammo: 30) 
   - ER Small Laser 
-- **Sources:** TRO 3067 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5051) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5051) 
 - **Battle Value:** Unknown 
 - [*More Info*](shiva/shiva_shv-o.md) 
 
@@ -32,7 +32,7 @@
   - ER Large Laser × 2 
   - LRM 10 w/ Artemis IV (ammo: 24) 
   - ER Small Laser 
-- **Sources:** TRO 3067 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5053) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5053) 
 - **Battle Value:** Unknown 
 - [*More Info*](shiva/shiva_shv-oa.md) 
 
@@ -49,7 +49,7 @@
   - LRM 20 w/ Artemis IV × 4 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5054) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5054) 
 - **Battle Value:** Unknown 
 - [*More Info*](shiva/shiva_shv-ob.md) 
 
@@ -67,7 +67,7 @@
   - Light Gauss Rifle × 2 (ammo: 64) 
   - ER Medium Laser × 6 
   - ER Small Laser 
-- **Sources:** TRO 3067 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5055) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5055) 
 - **Battle Value:** Unknown 
 - [*More Info*](shiva/shiva_shv-oc.md) 
 
@@ -86,7 +86,7 @@
   - Medium VSP Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5759) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5759) 
 - **Battle Value:** Unknown 
 - [*More Info*](shiva/shiva_shv-od.md) 
 
@@ -103,7 +103,7 @@
   - Improved Heavy Gauss Rifle × 2 (ammo: 16) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2928) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/2928) 
 - **Battle Value:** Unknown 
 - [*More Info*](shiva/shiva_shv-s.md) 
 

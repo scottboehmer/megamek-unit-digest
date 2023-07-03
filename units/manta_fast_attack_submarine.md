@@ -11,7 +11,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - SRT 6 (ammo: 15) 
-- **Sources:** TRO3085S - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4581) 
+- **Sources:** TRO: 3085 Supplemental , [Master Unit List](http://masterunitlist.info/Unit/Details/4581) 
 - **Battle Value:** 810 
 - [*More Info*](manta_fast_attack_submarine/manta_fast_attack_submarine.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - LRT 15 (ammo: 16) 
   - ER Medium Laser × 2 
-- **Sources:** TRO3085S - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4582) 
+- **Sources:** TRO: 3085 Supplemental , [Master Unit List](http://masterunitlist.info/Unit/Details/4582) 
 - **Battle Value:** 925 
 - [*More Info*](manta_fast_attack_submarine/manta_fast_attack_submarine_support.md) 
 

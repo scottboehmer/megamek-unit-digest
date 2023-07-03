@@ -16,7 +16,7 @@
   - Streak SRM 4 × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6554) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6554) 
 - **Battle Value:** 2183 
 
 ## Availability 

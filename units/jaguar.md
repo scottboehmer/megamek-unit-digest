@@ -17,7 +17,7 @@
   - Quad Turret 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6612) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6612) 
 - **Battle Value:** 1791 
 - [*More Info*](jaguar/jaguar.md) 
 
@@ -41,7 +41,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6613) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6613) 
 - **Battle Value:** 1742 
 - [*More Info*](jaguar/jaguar_2.md) 
 

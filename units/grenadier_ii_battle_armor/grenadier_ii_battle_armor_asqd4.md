@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Clan SRM 4 (ammo: 0) 
   - Small Laser 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7389) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7389) 
 - **Battle Value:** 73 (377 for 4 suits) 
 
 ## Availability 

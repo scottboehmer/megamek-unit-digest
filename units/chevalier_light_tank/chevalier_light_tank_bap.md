@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/579) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/579) 
 - **Battle Value:** 583 
 
 ## Availability 

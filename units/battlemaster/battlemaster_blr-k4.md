@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/301) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/301) 
 - **Battle Value:** 2232 
 
 ## Availability 

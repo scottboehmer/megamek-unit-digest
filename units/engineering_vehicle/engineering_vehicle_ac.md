@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/20 (ammo: 5) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/988) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/988) 
 - **Battle Value:** 423 
 
 ## Availability 

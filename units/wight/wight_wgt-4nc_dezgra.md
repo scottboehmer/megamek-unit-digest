@@ -25,7 +25,7 @@
   - Exposed Actuators 
   - Weak Legs 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5600) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5600) 
 - **Battle Value:** 1578 
 
 ## Availability 

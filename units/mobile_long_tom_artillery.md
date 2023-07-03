@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Long Tom (ammo: 50) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2202) 
+- **Sources:** TRO: 3025 , [Master Unit List](http://masterunitlist.info/Unit/Details/2202) 
 - **Battle Value:** 1542 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_+carriagesunofficial.md) 
 
@@ -29,7 +29,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Hitch 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2202) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2202) 
 - **Battle Value:** 835 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) 
 
@@ -43,7 +43,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Hitch × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2203) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2203) 
 - **Battle Value:** 253 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25_ammunition_carriage.md) 
 
@@ -58,7 +58,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Hitch × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2204) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2204) 
 - **Battle Value:** 153 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25_support_carriage.md) 
 
@@ -76,7 +76,7 @@
 - **Equipment:** 
   - CASE 
   - Hitch 
-- **Sources:** Rec Guide:ilClan #28 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9365) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9365) 
 - **Battle Value:** 726 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25f.md) 
 
@@ -91,7 +91,7 @@
 - **Equipment:** 
   - CASE 
   - Hitch × 2 
-- **Sources:** Rec Guide:ilClan #28 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9367) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9367) 
 - **Battle Value:** 248 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25f_ammunition_carriage.md) 
 
@@ -107,7 +107,7 @@
   - CASE 
   - Hitch × 2 
   - Lift Hoist 
-- **Sources:** Rec Guide:ilClan #28 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9366) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9366) 
 - **Battle Value:** 188 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25f_ammunition_loader_carriage.md) 
 
@@ -123,7 +123,7 @@
   - Drone Control System 
   - Cargo 
   - Hitch × 2 
-- **Sources:** Rec Guide:ilClan #28 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9368) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9368) 
 - **Battle Value:** 147 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25f_drone_command_carriage.md) 
 
@@ -139,7 +139,7 @@
   - Communications Equipment 
   - Cargo 
   - Hitch × 2 
-- **Sources:** Rec Guide:ilClan #28 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9369) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9369) 
 - **Battle Value:** 147 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25f_support_carriage.md) 
 
@@ -158,7 +158,7 @@
   - Guardian ECM Suite 
   - CASE 
   - Communications Equipment 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8044) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8044) 
 - **Battle Value:** 1122 
 - [*More Info*](mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-95.md) 
 

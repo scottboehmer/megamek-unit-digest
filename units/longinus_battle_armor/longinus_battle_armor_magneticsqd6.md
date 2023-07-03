@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8928) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8928) 
 - **Battle Value:** 48 (434 for 6 suits) 
 
 ## Availability 

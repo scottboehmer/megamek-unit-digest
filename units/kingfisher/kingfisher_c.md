@@ -15,7 +15,7 @@
   - ER Medium Laser × 4 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1781) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1781) 
 - **Battle Value:** 2644 
 
 ## Availability 

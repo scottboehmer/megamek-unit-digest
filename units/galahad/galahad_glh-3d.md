@@ -18,7 +18,7 @@
   - C3i 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1169) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1169) 
 - **Battle Value:** 1268 
 
 ## Availability 

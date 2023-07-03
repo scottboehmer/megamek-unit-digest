@@ -14,7 +14,7 @@
   - Rocket 15 × 7 
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 12) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1882) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1882) 
 - **Battle Value:** 709 
 
 ## Availability 

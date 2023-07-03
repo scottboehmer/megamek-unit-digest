@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7344) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7344) 
 - **Battle Value:** 894 
 
 ## Availability 

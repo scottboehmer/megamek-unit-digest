@@ -15,7 +15,7 @@
   - Narc (ammo: 12) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1791) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1791) 
 - **Battle Value:** 1160 
 - [*More Info*](kintaro/kintaro_kto-19.md) 
 
@@ -36,7 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1792) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1792) 
 - **Battle Value:** 1265 
 - [*More Info*](kintaro/kintaro_kto-19b.md) 
 
@@ -54,7 +54,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1790) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1790) 
 - **Battle Value:** 1187 
 - [*More Info*](kintaro/kintaro_kto-18.md) 
 
@@ -73,7 +73,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1793) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1793) 
 - **Battle Value:** 1357 
 - [*More Info*](kintaro/kintaro_kto-20.md) 
 
@@ -94,7 +94,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1795) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1795) 
 - **Battle Value:** 1294 
 - [*More Info*](kintaro/kintaro_kto-c.md) 
 
@@ -115,7 +115,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1796) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1796) 
 - **Battle Value:** 1571 
 - [*More Info*](kintaro/kintaro_kto-k.md) 
 
@@ -136,7 +136,7 @@
   - C3i 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1794) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1794) 
 - **Battle Value:** 1295 
 - [*More Info*](kintaro/kintaro_kto-21.md) 
 

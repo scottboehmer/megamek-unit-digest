@@ -15,7 +15,7 @@
   - Medium Laser × 7 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Shrapnel 9 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9238) 
+- **Sources:** Shrapnel #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/9238) 
 - **Battle Value:** 1398 
 
 ## Availability 

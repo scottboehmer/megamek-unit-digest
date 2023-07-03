@@ -14,7 +14,7 @@
   - Cargo Lifter (left) 
 - **Equipment:** 
   - Cutting Torch 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8658) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8658) 
 - **Battle Value:** 4 (27 for 5 suits) 
 
 ## Availability 

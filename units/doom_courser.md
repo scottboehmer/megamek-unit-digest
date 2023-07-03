@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8393) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8393) 
 - **Battle Value:** 2283 
 - [*More Info*](doom_courser/doom_courser_prime.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8394) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8394) 
 - **Battle Value:** 2139 
 - [*More Info*](doom_courser/doom_courser_a.md) 
 
@@ -61,7 +61,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8395) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8395) 
 - **Battle Value:** 2091 
 - [*More Info*](doom_courser/doom_courser_b.md) 
 
@@ -81,7 +81,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8396) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8396) 
 - **Battle Value:** 2147 
 - [*More Info*](doom_courser/doom_courser_c.md) 
 
@@ -102,7 +102,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8397) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8397) 
 - **Battle Value:** 2453 
 - [*More Info*](doom_courser/doom_courser_d.md) 
 

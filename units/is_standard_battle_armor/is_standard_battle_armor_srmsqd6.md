@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - SRM 2 (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8909) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8909) 
 - **Battle Value:** 34 (303 for 6 suits) 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - CASE 
   - Communications Equipment 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8044) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8044) 
 - **Battle Value:** 1122 
 
 ## Availability 

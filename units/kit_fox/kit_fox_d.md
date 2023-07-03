@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3343) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3343) 
 - **Battle Value:** 1142 
 
 ## Availability 

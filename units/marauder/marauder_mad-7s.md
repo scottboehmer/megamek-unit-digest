@@ -22,7 +22,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (Gauss Rifle) 
   - Exposed Weapon Linkage (Gauss Rifle) 
-- **Sources:** Rec Guide:ilClan #6 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7533) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7533) 
 - **Battle Value:** 1903 
 
 ## Availability 

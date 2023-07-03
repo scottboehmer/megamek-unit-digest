@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8397) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8397) 
 - **Battle Value:** 2453 
 
 ## Availability 

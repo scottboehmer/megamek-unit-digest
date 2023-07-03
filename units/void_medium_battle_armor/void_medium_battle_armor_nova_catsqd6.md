@@ -17,7 +17,7 @@
   - Magshot Gauss Rifle 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9067) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9067) 
 - **Battle Value:** 49 (440 for 6 suits) 
 
 ## Availability 

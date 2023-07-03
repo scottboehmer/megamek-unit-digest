@@ -23,7 +23,7 @@
   - Command ’Mech 
   - Improved Communications 
   - Jettison-Capable Weapon (Large X-Pulse Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8106) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8106) 
 - **Battle Value:** 1444 
 
 ## Availability 

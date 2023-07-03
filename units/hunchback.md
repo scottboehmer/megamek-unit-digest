@@ -14,7 +14,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1552) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1552) 
 - **Battle Value:** 1041 
 - [*More Info*](hunchback/hunchback_hbk-4g.md) 
 
@@ -32,7 +32,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1555) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1555) 
 - **Battle Value:** 1067 
 - [*More Info*](hunchback/hunchback_hbk-4h.md) 
 
@@ -50,7 +50,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1556) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1556) 
 - **Battle Value:** 1143 
 - [*More Info*](hunchback/hunchback_hbk-4j.md) 
 
@@ -69,7 +69,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1557) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1557) 
 - **Battle Value:** 1087 
 - [*More Info*](hunchback/hunchback_hbk-4n.md) 
 
@@ -86,7 +86,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1558) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1558) 
 - **Battle Value:** 1138 
 - [*More Info*](hunchback/hunchback_hbk-4p.md) 
 
@@ -104,7 +104,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1559) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1559) 
 - **Battle Value:** 1043 
 - [*More Info*](hunchback/hunchback_hbk-4sp.md) 
 
@@ -122,7 +122,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1554) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1554) 
 - **Battle Value:** 952 
 - [*More Info*](hunchback/hunchback_hbk-4g_shakir.md) 
 
@@ -142,7 +142,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1561) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1561) 
 - **Battle Value:** 1056 
 - [*More Info*](hunchback/hunchback_hbk-5m.md) 
 
@@ -162,7 +162,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1553) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1553) 
 - **Battle Value:** 1126 
 - [*More Info*](hunchback/hunchback_hbk-4g_hohiro.md) 
 
@@ -180,7 +180,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1562) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1562) 
 - **Battle Value:** 1041 
 - [*More Info*](hunchback/hunchback_hbk-5n.md) 
 
@@ -201,7 +201,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1564) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1564) 
 - **Battle Value:** 1350 
 - [*More Info*](hunchback/hunchback_hbk-5s.md) 
 
@@ -221,7 +221,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4337) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4337) 
 - **Battle Value:** 1130 
 - [*More Info*](hunchback/hunchback_hbk-6n.md) 
 
@@ -239,7 +239,7 @@
   - SRM 6 (ammo: 15) 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5447) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5447) 
 - **Battle Value:** 1380 
 - [*More Info*](hunchback/hunchback_hbk-6s.md) 
 
@@ -259,7 +259,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1560) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1560) 
 - **Battle Value:** 1097 
 - [*More Info*](hunchback/hunchback_hbk-5h.md) 
 
@@ -279,7 +279,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #21 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8353) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/8353) 
 - **Battle Value:** 1893 
 - [*More Info*](hunchback/hunchback_c.md) 
 
@@ -301,7 +301,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1567) 
+- **Sources:** XTR: Corporations , [Master Unit List](http://masterunitlist.info/Unit/Details/1567) 
 - **Battle Value:** 1208 
 - [*More Info*](hunchback/hunchback_hbk-7x-4.md) 
 
@@ -322,7 +322,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1565) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1565) 
 - **Battle Value:** 1577 
 - [*More Info*](hunchback/hunchback_hbk-5sg.md) 
 
@@ -344,7 +344,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1566) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1566) 
 - **Battle Value:** 1295 
 - [*More Info*](hunchback/hunchback_hbk-5ss.md) 
 
@@ -364,7 +364,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1563) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1563) 
 - **Battle Value:** 1340 
 - [*More Info*](hunchback/hunchback_hbk-5p.md) 
 
@@ -387,7 +387,7 @@
   - Poor Sealing 
   - Bad Reputation (Inner Sphere) 
   - Battlefists 
-- **Sources:** TRO:Proto - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4338) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4338) 
 - **Battle Value:** 1248 
 - [*More Info*](hunchback/hunchback_hbk-7r.md) 
 
@@ -406,7 +406,7 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8374) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8374) 
 - **Battle Value:** 1289 
 - [*More Info*](hunchback/hunchback_hbk-lgn-pin_anastasia.md) 
 
@@ -425,7 +425,7 @@
   - Clan Micro Pulse Laser × 4 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8375) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8375) 
 - **Battle Value:** 1492 
 - [*More Info*](hunchback/hunchback_hbk-lgn-pin_drizella.md) 
 
@@ -444,7 +444,7 @@
   - Radical Heat Sink System 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7993) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7993) 
 - **Battle Value:** 1374 
 - [*More Info*](hunchback/hunchback_hbk-6p.md) 
 
@@ -466,7 +466,7 @@
   - TAG 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7346) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7346) 
 - **Battle Value:** 1628 
 - [*More Info*](hunchback/hunchback_hbk-7s.md) 
 

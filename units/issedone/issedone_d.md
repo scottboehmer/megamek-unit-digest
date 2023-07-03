@@ -16,7 +16,7 @@
   - ER Small Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7654) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7654) 
 - **Battle Value:** Unknown 
 
 ## Availability 

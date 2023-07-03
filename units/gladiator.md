@@ -18,7 +18,7 @@
   - Poor Sealing 
   - Unbalanced 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1198) 
+- **Sources:** XTR: Primitives II , [Master Unit List](http://masterunitlist.info/Unit/Details/1198) 
 - **Battle Value:** 1027 
 - [*More Info*](gladiator/gladiator_gld-1r.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1199) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1199) 
 - **Battle Value:** 1184 
 - [*More Info*](gladiator/gladiator_gld-2r.md) 
 
@@ -55,7 +55,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1200) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1200) 
 - **Battle Value:** 1282 
 - [*More Info*](gladiator/gladiator_gld-3r.md) 
 
@@ -75,7 +75,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1201) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1201) 
 - **Battle Value:** 1291 
 - [*More Info*](gladiator/gladiator_gld-4r.md) 
 
@@ -100,7 +100,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1197) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1197) 
 - **Battle Value:** 1553 
 - [*More Info*](gladiator/gladiator_gld-1r_keller.md) 
 
@@ -124,7 +124,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1202) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1202) 
 - **Battle Value:** 1412 
 - [*More Info*](gladiator/gladiator_gld-5r.md) 
 

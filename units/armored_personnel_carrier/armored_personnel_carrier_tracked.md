@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/120) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/120) 
 - **Battle Value:** 142 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3556) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3556) 
 - **Battle Value:** 1212 
 
 ## Availability 

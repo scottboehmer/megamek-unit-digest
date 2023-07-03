@@ -24,7 +24,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1929) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1929) 
 - **Battle Value:** 2654 
 
 ## Availability 

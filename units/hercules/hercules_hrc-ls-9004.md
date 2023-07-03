@@ -20,7 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7991) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7991) 
 - **Battle Value:** 1825 
 
 ## Availability 

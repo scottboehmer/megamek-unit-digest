@@ -15,7 +15,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2524) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2524) 
 - **Battle Value:** 1812 
 - [*More Info*](pillager/pillager_plg-1n.md) 
 
@@ -34,7 +34,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2525) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2525) 
 - **Battle Value:** 2697 
 - [*More Info*](pillager/pillager_plg-3z.md) 
 
@@ -55,7 +55,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2527) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2527) 
 - **Battle Value:** 2868 
 - [*More Info*](pillager/pillager_plg-4z.md) 
 
@@ -78,7 +78,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2528) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2528) 
 - **Battle Value:** 2656 
 - [*More Info*](pillager/pillager_plg-5l.md) 
 
@@ -100,7 +100,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2529) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2529) 
 - **Battle Value:** 2939 
 - [*More Info*](pillager/pillager_plg-5z.md) 
 
@@ -120,7 +120,7 @@
   - Coolant Pod × 2 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2526) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/2526) 
 - **Battle Value:** 1927 
 - [*More Info*](pillager/pillager_plg-4x_anvil.md) 
 
@@ -143,7 +143,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9464) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9464) 
 - **Battle Value:** 2714 
 - [*More Info*](pillager/pillager_plg-6z.md) 
 

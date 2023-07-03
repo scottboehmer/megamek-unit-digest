@@ -17,7 +17,7 @@
   - ECM Suite 
   - Active Probe 
   - Infantry (5.0 tons) 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5726) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5726) 
 - **Battle Value:** 850 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/293) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/293) 
 - **Battle Value:** 1890 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - AES × 2 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6466) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6466) 
 - **Battle Value:** 1834 
 
 ## Availability 

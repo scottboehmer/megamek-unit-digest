@@ -16,7 +16,7 @@
   - Active Probe 
   - Infantry (4.0 tons) 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4315) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4315) 
 - **Battle Value:** 577 
 
 ## Availability 

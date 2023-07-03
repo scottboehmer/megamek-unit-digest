@@ -13,7 +13,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/996) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/996) 
 - **Battle Value:** 1477 
 - [*More Info*](epona_pursuit_tank/epona_pursuit_tank_prime.md) 
 
@@ -31,7 +31,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/991) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/991) 
 - **Battle Value:** 1976 
 - [*More Info*](epona_pursuit_tank/epona_pursuit_tank_a.md) 
 
@@ -48,7 +48,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/992) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/992) 
 - **Battle Value:** 1255 
 - [*More Info*](epona_pursuit_tank/epona_pursuit_tank_b.md) 
 
@@ -67,7 +67,7 @@
   - ECM Suite 
   - CASE 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/993) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/993) 
 - **Battle Value:** 1563 
 - [*More Info*](epona_pursuit_tank/epona_pursuit_tank_c.md) 
 
@@ -85,7 +85,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/994) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/994) 
 - **Battle Value:** 1512 
 - [*More Info*](epona_pursuit_tank/epona_pursuit_tank_d.md) 
 
@@ -102,7 +102,7 @@
   - AP Gauss Rifle × 6 (ammo: 80) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/995) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/995) 
 - **Battle Value:** 1436 
 - [*More Info*](epona_pursuit_tank/epona_pursuit_tank_e.md) 
 

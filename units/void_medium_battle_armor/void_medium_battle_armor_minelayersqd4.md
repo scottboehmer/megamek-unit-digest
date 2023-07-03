@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Mine Dispenser × 2 
   - Anti-Personnel Mount 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5356) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5356) 
 - **Battle Value:** 60 (314 for 4 suits) 
 
 ## Availability 

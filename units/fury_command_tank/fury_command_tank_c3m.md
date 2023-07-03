@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Main 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1158) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1158) 
 - **Battle Value:** 1336 
 
 ## Availability 

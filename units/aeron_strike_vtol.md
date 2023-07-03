@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/14) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/14) 
 - **Battle Value:** 764 
 - [*More Info*](aeron_strike_vtol/aeron_strike_vtol.md) 
 
@@ -31,7 +31,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/13) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/13) 
 - **Battle Value:** 775 
 - [*More Info*](aeron_strike_vtol/aeron_strike_vtol_bap.md) 
 

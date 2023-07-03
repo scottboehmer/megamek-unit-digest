@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1985) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1985) 
 - **Battle Value:** 2737 
 - [*More Info*](timber_wolf/timber_wolf_prime.md) 
 
@@ -41,7 +41,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1978) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1978) 
 - **Battle Value:** 2854 
 - [*More Info*](timber_wolf/timber_wolf_a.md) 
 
@@ -64,7 +64,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1979) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1979) 
 - **Battle Value:** 2224 
 - [*More Info*](timber_wolf/timber_wolf_b.md) 
 
@@ -87,7 +87,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1980) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1980) 
 - **Battle Value:** 2500 
 - [*More Info*](timber_wolf/timber_wolf_c.md) 
 
@@ -108,7 +108,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1981) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1981) 
 - **Battle Value:** 2682 
 - [*More Info*](timber_wolf/timber_wolf_d.md) 
 
@@ -130,7 +130,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7516) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7516) 
 - **Battle Value:** 2862 
 - [*More Info*](timber_wolf/timber_wolf_n.md) 
 
@@ -154,7 +154,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1986) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1986) 
 - **Battle Value:** 2462 
 - [*More Info*](timber_wolf/timber_wolf_s.md) 
 
@@ -177,7 +177,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1977) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1977) 
 - **Battle Value:** 2900 
 - [*More Info*](timber_wolf/timber_wolf_pryde.md) 
 
@@ -200,7 +200,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7595) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7595) 
 - **Battle Value:** 2903 
 - [*More Info*](timber_wolf/timber_wolf_tc.md) 
 
@@ -221,7 +221,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1982) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1982) 
 - **Battle Value:** 2444 
 - [*More Info*](timber_wolf/timber_wolf_e.md) 
 
@@ -242,7 +242,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1984) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1984) 
 - **Battle Value:** 2627 
 - [*More Info*](timber_wolf/timber_wolf_h.md) 
 
@@ -265,7 +265,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1976) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter , [Master Unit List](http://masterunitlist.info/Unit/Details/1976) 
 - **Battle Value:** 2829 
 - [*More Info*](timber_wolf/timber_wolf_bounty_hunter.md) 
 
@@ -292,7 +292,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5803) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter , [Master Unit List](http://masterunitlist.info/Unit/Details/5803) 
 - **Battle Value:** 2799 
 - [*More Info*](timber_wolf/timber_wolf_bounty_hunter_2.md) 
 
@@ -314,7 +314,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #5 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7515) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7515) 
 - **Battle Value:** 2741 
 - [*More Info*](timber_wolf/timber_wolf_m.md) 
 
@@ -336,7 +336,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1983) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1983) 
 - **Battle Value:** 2764 
 - [*More Info*](timber_wolf/timber_wolf_f.md) 
 
@@ -358,7 +358,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5822) 
+- **Sources:** Wars of Reaving , [Master Unit List](http://masterunitlist.info/Unit/Details/5822) 
 - **Battle Value:** 2923 
 - [*More Info*](timber_wolf/timber_wolf_z.md) 
 
@@ -381,7 +381,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1987) 
+- **Sources:** Record Sheets: 3085 Unabridged - Old is the New New , [Master Unit List](http://masterunitlist.info/Unit/Details/1987) 
 - **Battle Value:** 2627 
 - [*More Info*](timber_wolf/timber_wolf_u.md) 
 
@@ -404,7 +404,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7518) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7518) 
 - **Battle Value:** 2791 
 - [*More Info*](timber_wolf/timber_wolf_w.md) 
 
@@ -428,7 +428,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** SO: Unending Faith - Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7635) 
+- **Sources:** Spotlight On: Unending Faith , [Master Unit List](http://masterunitlist.info/Unit/Details/7635) 
 - **Battle Value:** 2611 
 - [*More Info*](timber_wolf/timber_wolf_blo.md) 
 
@@ -451,7 +451,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7517) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7517) 
 - **Battle Value:** 2714 
 - [*More Info*](timber_wolf/timber_wolf_t.md) 
 

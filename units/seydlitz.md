@@ -11,7 +11,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Large Laser 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2878) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2878) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-21.md) 
 
@@ -26,7 +26,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 5 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2881) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2881) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-z2.md) 
 
@@ -41,7 +41,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2884) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2884) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-z3.md) 
 
@@ -56,7 +56,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 5 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2882) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2882) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-z2a.md) 
 
@@ -71,7 +71,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Large Laser 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2880) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2880) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-z1.md) 
 
@@ -86,7 +86,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2883) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2883) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-z2b.md) 
 
@@ -101,7 +101,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2885) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2885) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-z3a.md) 
 
@@ -116,7 +116,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Large Laser 
-- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2886) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2886) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-z4.md) 
 
@@ -131,7 +131,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Snub-Nose PPC 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2877) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/2877) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_mary_yari.md) 
 
@@ -149,7 +149,7 @@
   - Bombast Laser 
 - **Equipment:** 
   - Chaff Pod 
-- **Sources:** XTRO Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2879) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/2879) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_syd-45x_starling.md) 
 
@@ -164,7 +164,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Clan ER PPC 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8014) 
+- **Sources:** TRO: 3145 , [Master Unit List](http://masterunitlist.info/Unit/Details/8014) 
 - **Battle Value:** Unknown 
 - [*More Info*](seydlitz/seydlitz_c.md) 
 

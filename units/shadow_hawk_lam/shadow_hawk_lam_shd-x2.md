@@ -18,7 +18,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - Bomb Bay × 4 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5040) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5040) 
 - **Battle Value:** 994 
 
 ## Availability 

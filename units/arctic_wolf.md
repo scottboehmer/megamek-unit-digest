@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/99) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/99) 
 - **Battle Value:** 1330 
 - [*More Info*](arctic_wolf/arctic_wolf.md) 
 
@@ -36,7 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/100) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/100) 
 - **Battle Value:** 1511 
 - [*More Info*](arctic_wolf/arctic_wolf_2.md) 
 
@@ -55,7 +55,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/103) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/103) 
 - **Battle Value:** 1641 
 - [*More Info*](arctic_wolf/arctic_wolf_prime.md) 
 
@@ -76,7 +76,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/101) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/101) 
 - **Battle Value:** 1587 
 - [*More Info*](arctic_wolf/arctic_wolf_a.md) 
 
@@ -99,7 +99,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/102) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/102) 
 - **Battle Value:** 1786 
 - [*More Info*](arctic_wolf/arctic_wolf_j.md) 
 

@@ -16,7 +16,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Machine Gun Array × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2638) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2638) 
 - **Battle Value:** 604 
 
 ## Availability 

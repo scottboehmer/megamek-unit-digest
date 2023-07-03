@@ -15,7 +15,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5727) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5727) 
 - **Battle Value:** 725 
 
 ## Availability 

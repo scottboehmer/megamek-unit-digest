@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Streak SRM 2 × 2 (ammo: 50) 
   - Small Laser 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/577) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/577) 
 - **Battle Value:** Unknown 
 
 ## Availability 

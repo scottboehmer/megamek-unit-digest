@@ -10,7 +10,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - NLRM 15 × 4 (ammo: 32) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4276) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4276) 
 - **Battle Value:** 1029 
 - [*More Info*](heavy_nlrm_carrier/heavy_nlrm_carrier.md) 
 

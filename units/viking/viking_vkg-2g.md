@@ -22,7 +22,7 @@
   - Easy to Maintain 
   - Multi-Trac 
   - No/Minimal Arms 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3418) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3418) 
 - **Battle Value:** 2152 
 
 ## Availability 

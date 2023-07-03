@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Advanced SRM 2 (ammo: 2) 
   - Micro Pulse Laser × 2 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8521) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8521) 
 - **Battle Value:** 78 (549 for 5 suits) 
 
 ## Availability 

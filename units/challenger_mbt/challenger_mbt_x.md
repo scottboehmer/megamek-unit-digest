@@ -19,7 +19,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/538) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/538) 
 - **Battle Value:** 1710 
 
 ## Availability 

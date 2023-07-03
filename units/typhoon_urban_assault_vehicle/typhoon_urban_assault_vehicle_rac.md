@@ -16,7 +16,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3336) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3336) 
 - **Battle Value:** 1434 
 
 ## Availability 

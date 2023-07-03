@@ -21,7 +21,7 @@
   - ECM Suite 
   - CASE 
   - TAG 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2765) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2765) 
 - **Battle Value:** Unknown 
 
 ## Availability 

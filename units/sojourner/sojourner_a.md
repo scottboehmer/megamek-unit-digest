@@ -23,7 +23,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7444) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7444) 
 - **Battle Value:** 1911 
 
 ## Availability 

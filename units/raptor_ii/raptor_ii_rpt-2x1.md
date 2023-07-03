@@ -25,7 +25,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - No Ejection System 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2658) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2658) 
 - **Battle Value:** 1274 
 
 ## Availability 

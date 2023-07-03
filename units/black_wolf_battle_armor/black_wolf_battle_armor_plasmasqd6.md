@@ -14,7 +14,7 @@
   - Heavy Battle Claw (right) 
 - **Weapons:** 
   - Inner Sphere Man-Portable Plasma Rifle 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9093) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/9093) 
 - **Battle Value:** 54 (485 for 6 suits) 
 
 ## Availability 

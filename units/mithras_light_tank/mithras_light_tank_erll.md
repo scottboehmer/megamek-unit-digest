@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2192) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2192) 
 - **Battle Value:** 649 
 
 ## Availability 

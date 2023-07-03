@@ -15,7 +15,7 @@
   - Blazer Cannon 
   - ER Medium Laser 
   - MML 5 × 2 (ammo: 20 SRM, 24 LRM) 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5410) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5410) 
 - **Battle Value:** Unknown 
 
 ## Availability 

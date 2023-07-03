@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5162) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/5162) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -25,7 +25,7 @@
   - Exposed Weapon Linkage (SRM 6) 
   - Improved Cooling Jacket (Blazer Cannon) 
   - Improved Cooling Jacket (Blazer Cannon) 
-- **Sources:** XTRO Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5768) 
 - **Battle Value:** 1453 
 
 ## Availability 

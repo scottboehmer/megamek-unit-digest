@@ -21,7 +21,7 @@
   - No/Minimal Arms 
   - Difficult to Maintain 
   - Improved Targeting (Long) 
-- **Sources:** TRO:Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4799) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4799) 
 - **Battle Value:** 2151 
 
 ## Availability 

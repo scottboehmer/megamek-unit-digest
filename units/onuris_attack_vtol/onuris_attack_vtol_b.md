@@ -14,7 +14,7 @@
   - LRM 20 × 2 (ammo: 24) 
 - **Equipment:** 
   - Inner Sphere Jet Booster 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9419) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9419) 
 - **Battle Value:** 1628 
 
 ## Availability 

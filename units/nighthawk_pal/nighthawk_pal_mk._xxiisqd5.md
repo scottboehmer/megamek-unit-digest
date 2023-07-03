@@ -17,7 +17,7 @@
   - Micro Grenade Launcher 
 - **Equipment:** 
   - Extended Life Support 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/8652) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8652) 
 - **Battle Value:** 11 (74 for 5 suits) 
 
 ## Availability 

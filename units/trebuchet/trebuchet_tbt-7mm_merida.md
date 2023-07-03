@@ -16,7 +16,7 @@
   - Small Vibroblade 
 - **Equipment:** 
   - CASE II 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8378) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8378) 
 - **Battle Value:** 2024 
 
 ## Availability 

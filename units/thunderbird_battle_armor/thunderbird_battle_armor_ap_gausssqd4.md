@@ -17,7 +17,7 @@
   - AP Gauss Rifle 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3228) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3228) 
 - **Battle Value:** 50 (260 for 4 suits) 
 
 ## Availability 

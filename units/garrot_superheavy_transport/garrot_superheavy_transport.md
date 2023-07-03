@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Lift Hoist × 4 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6539) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6539) 
 - **Battle Value:** 316 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Cutting Torch 
   - Extended Life Support 
   - Mechanical Jump Booster 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9096) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/9096) 
 - **Battle Value:** 25 (226 for 6 suits) 
 
 ## Availability 

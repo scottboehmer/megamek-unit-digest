@@ -19,7 +19,7 @@
   - Active Probe 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1380) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1380) 
 - **Battle Value:** 1840 
 
 ## Availability 

@@ -12,7 +12,7 @@
   - Vehicle Flamer × 2 (ammo: 40) 
 - **Equipment:** 
   - Insulated Cargo 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/689) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/689) 
 - **Battle Value:** 321 
 - [*More Info*](coolant_truck/coolant_truck_135-k.md) 
 
@@ -28,7 +28,7 @@
   - Vehicle Flamer × 2 (ammo: 40) 
 - **Equipment:** 
   - Insulated Cargo 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/688) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/688) 
 - **Battle Value:** 357 
 - [*More Info*](coolant_truck/coolant_truck_tracked.md) 
 
@@ -44,7 +44,7 @@
   - Vehicle Flamer × 2 (ammo: 40) 
 - **Equipment:** 
   - Insulated Cargo 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/687) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/687) 
 - **Battle Value:** 347 
 - [*More Info*](coolant_truck/coolant_truck_hover.md) 
 

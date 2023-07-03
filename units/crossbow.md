@@ -17,7 +17,7 @@
   - Poor Targeting (Long) 
   - Prototype 
   - Poor Cooling Jacket (Large Laser) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5583) 
+- **Sources:** XTR: Primitives II , [Master Unit List](http://masterunitlist.info/Unit/Details/5583) 
 - **Battle Value:** 969 
 - [*More Info*](crossbow/crossbow_crs-x.md) 
 
@@ -37,7 +37,7 @@
   - Poor Targeting (Long) 
   - Modular Weapon (LRM 10) 
   - Modular Weapon (LRM 10) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/733) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/733) 
 - **Battle Value:** 1210 
 - [*More Info*](crossbow/crossbow_crs-6b.md) 
 
@@ -55,7 +55,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Poor Targeting (Long) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/734) 
 - **Battle Value:** 1204 
 - [*More Info*](crossbow/crossbow_crs-6c.md) 
 
@@ -75,7 +75,7 @@
   - Poor Targeting (Long) 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 6) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/735) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/735) 
 - **Battle Value:** 1583 
 - [*More Info*](crossbow/crossbow_crs-9a.md) 
 

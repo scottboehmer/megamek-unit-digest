@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1772) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1772) 
 - **Battle Value:** 2039 
 
 ## Availability 

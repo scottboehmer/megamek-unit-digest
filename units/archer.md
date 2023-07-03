@@ -20,7 +20,7 @@
   - Difficult Ejection 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3721) 
+- **Sources:** XTR: Primitives V , [Master Unit List](http://masterunitlist.info/Unit/Details/3721) 
 - **Battle Value:** 1269 
 - [*More Info*](archer/archer_arc-1a.md) 
 
@@ -40,7 +40,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/74) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/74) 
 - **Battle Value:** 1477 
 - [*More Info*](archer/archer_arc-2r.md) 
 
@@ -62,7 +62,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/75) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/75) 
 - **Battle Value:** 1705 
 - [*More Info*](archer/archer_arc-2rb.md) 
 
@@ -82,7 +82,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/90) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/90) 
 - **Battle Value:** 1811 
 - [*More Info*](archer/archer_c.md) 
 
@@ -102,7 +102,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/73) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/73) 
 - **Battle Value:** 1356 
 - [*More Info*](archer/archer_arc-2k.md) 
 
@@ -123,7 +123,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/76) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/76) 
 - **Battle Value:** 1393 
 - [*More Info*](archer/archer_arc-2s.md) 
 
@@ -144,7 +144,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/77) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/77) 
 - **Battle Value:** 1338 
 - [*More Info*](archer/archer_arc-2w.md) 
 
@@ -166,7 +166,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/78) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/78) 
 - **Battle Value:** 1705 
 - [*More Info*](archer/archer_arc-4m.md) 
 
@@ -188,7 +188,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/79) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/79) 
 - **Battle Value:** 1672 
 - [*More Info*](archer/archer_arc-5r.md) 
 
@@ -212,7 +212,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/80) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/80) 
 - **Battle Value:** 1353 
 - [*More Info*](archer/archer_arc-5s.md) 
 
@@ -235,7 +235,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/81) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/81) 
 - **Battle Value:** 1337 
 - [*More Info*](archer/archer_arc-5w.md) 
 
@@ -255,7 +255,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7598) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7598) 
 - **Battle Value:** 1609 
 - [*More Info*](archer/archer_arc-5cs.md) 
 
@@ -280,7 +280,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/72) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/72) 
 - **Battle Value:** 2365 
 - [*More Info*](archer/archer_wolf.md) 
 
@@ -303,7 +303,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** ForcePack Wolfs Dragoons - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8387) 
+- **Sources:** ForcePack Wolfs Dragoons , [Master Unit List](http://masterunitlist.info/Unit/Details/8387) 
 - **Battle Value:** 2167 
 - [*More Info*](archer/archer_c_2.md) 
 
@@ -327,7 +327,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/82) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/82) 
 - **Battle Value:** 1694 
 - [*More Info*](archer/archer_arc-6s.md) 
 
@@ -348,7 +348,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/83) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/83) 
 - **Battle Value:** 1405 
 - [*More Info*](archer/archer_arc-6w.md) 
 
@@ -372,7 +372,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** TRO CI - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/84) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/84) 
 - **Battle Value:** 1881 
 - [*More Info*](archer/archer_arc-7l.md) 
 
@@ -395,7 +395,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/86) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/86) 
 - **Battle Value:** 1759 
 - [*More Info*](archer/archer_arc-8m.md) 
 
@@ -419,7 +419,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/85) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/85) 
 - **Battle Value:** 1658 
 - [*More Info*](archer/archer_arc-7s.md) 
 
@@ -441,7 +441,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/87) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/87) 
 - **Battle Value:** 1391 
 - [*More Info*](archer/archer_arc-9k.md) 
 
@@ -465,7 +465,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/88) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/88) 
 - **Battle Value:** 1811 
 - [*More Info*](archer/archer_arc-9m.md) 
 
@@ -489,7 +489,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/89) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/89) 
 - **Battle Value:** 1774 
 - [*More Info*](archer/archer_arc-9w.md) 
 
@@ -511,7 +511,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7730) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7730) 
 - **Battle Value:** 1742 
 - [*More Info*](archer/archer_arc-4m2.md) 
 
@@ -534,7 +534,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6875) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6875) 
 - **Battle Value:** 1361 
 - [*More Info*](archer/archer_arc-9kc.md) 
 
@@ -557,7 +557,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7731) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7731) 
 - **Battle Value:** 2408 
 - [*More Info*](archer/archer_arc-7c.md) 
 
@@ -580,7 +580,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7732) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7732) 
 - **Battle Value:** 1668 
 - [*More Info*](archer/archer_arc-9r.md) 
 

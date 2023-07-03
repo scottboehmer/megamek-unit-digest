@@ -12,7 +12,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 20) 
-- **Sources:** Rec Guide:ilClan #29 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9387) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9387) 
 - **Battle Value:** 900 
 
 ## Availability 

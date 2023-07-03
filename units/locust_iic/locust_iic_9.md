@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1922) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1922) 
 - **Battle Value:** 1133 
 
 ## Availability 

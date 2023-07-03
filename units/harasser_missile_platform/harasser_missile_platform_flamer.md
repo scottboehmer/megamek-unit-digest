@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 4 × 2 (ammo: 50) 
   - Vehicle Flamer (ammo: 20) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1388) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1388) 
 - **Battle Value:** 365 
 
 ## Availability 

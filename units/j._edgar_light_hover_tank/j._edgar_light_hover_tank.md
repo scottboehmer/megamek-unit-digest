@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1641) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1641) 
 - **Battle Value:** 544 
 
 ## Availability 

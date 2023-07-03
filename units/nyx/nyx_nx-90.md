@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2309) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2309) 
 - **Battle Value:** 613 
 
 ## Availability 

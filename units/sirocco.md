@@ -23,7 +23,7 @@
   - Directional Torso Mount (Ultra AC/10) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2951) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2951) 
 - **Battle Value:** 2154 
 - [*More Info*](sirocco/sirocco_src-3c.md) 
 
@@ -54,7 +54,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (SRM 4) 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2952) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2952) 
 - **Battle Value:** 2107 
 - [*More Info*](sirocco/sirocco_src-5c.md) 
 
@@ -83,7 +83,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2953) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2953) 
 - **Battle Value:** 2202 
 - [*More Info*](sirocco/sirocco_src-6c.md) 
 

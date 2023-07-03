@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 25) 
   - Machine Gun × 3 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5009) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/5009) 
 - **Battle Value:** 281 
 
 ## Availability 

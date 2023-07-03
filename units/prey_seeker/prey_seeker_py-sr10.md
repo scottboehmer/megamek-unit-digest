@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Overhead Arms 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6331) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6331) 
 - **Battle Value:** 595 
 
 ## Availability 

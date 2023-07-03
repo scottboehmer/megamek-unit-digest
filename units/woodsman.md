@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3587) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/3587) 
 - **Battle Value:** 2623 
 - [*More Info*](woodsman/woodsman_prime.md) 
 
@@ -40,7 +40,7 @@
   - MASC 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3586) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/3586) 
 - **Battle Value:** 2741 
 - [*More Info*](woodsman/woodsman_a.md) 
 
@@ -64,7 +64,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7643) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7643) 
 - **Battle Value:** 2414 
 - [*More Info*](woodsman/woodsman_b.md) 
 
@@ -85,7 +85,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7644) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7644) 
 - **Battle Value:** 2230 
 - [*More Info*](woodsman/woodsman_c.md) 
 
@@ -106,7 +106,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7645) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7645) 
 - **Battle Value:** 1902 
 - [*More Info*](woodsman/woodsman_d.md) 
 

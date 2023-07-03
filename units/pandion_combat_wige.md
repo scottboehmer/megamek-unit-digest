@@ -13,7 +13,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2415) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2415) 
 - **Battle Value:** 673 
 - [*More Info*](pandion_combat_wige/pandion_combat_wige.md) 
 
@@ -31,7 +31,7 @@
   - Beagle Active Probe 
   - TAG 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2413) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2413) 
 - **Battle Value:** 387 
 - [*More Info*](pandion_combat_wige/pandion_combat_wige_c3.md) 
 
@@ -48,7 +48,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2414) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2414) 
 - **Battle Value:** 521 
 - [*More Info*](pandion_combat_wige/pandion_combat_wige_infantry.md) 
 
@@ -64,7 +64,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8046) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8046) 
 - **Battle Value:** 686 
 - [*More Info*](pandion_combat_wige/pandion_combat_wige_3135_upgrade.md) 
 
@@ -79,7 +79,7 @@
 - **Weapons:** 
   - Medium Re-Engineered Laser × 2 
   - Rocket 15 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8047) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8047) 
 - **Battle Value:** 577 
 - [*More Info*](pandion_combat_wige/pandion_combat_wige_3140_upgrade.md) 
 

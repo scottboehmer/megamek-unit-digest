@@ -23,7 +23,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** TP Irian - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7331) 
+- **Sources:** Turning Points: Irian , [Master Unit List](http://masterunitlist.info/Unit/Details/7331) 
 - **Battle Value:** 2546 
 
 ## Availability 

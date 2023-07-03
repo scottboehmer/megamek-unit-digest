@@ -16,7 +16,7 @@
   - Lift Hoist × 2 
   - Cargo × 2 
   - Extended Fuel Tank 
-- **Sources:** TRO VA - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7162) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/7162) 
 - **Battle Value:** 190 
 
 ## Availability 

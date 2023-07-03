@@ -19,7 +19,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1897) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1897) 
 - **Battle Value:** 553 
 
 ## Availability 

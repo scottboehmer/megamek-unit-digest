@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4264) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4264) 
 - **Battle Value:** 339 
 - [*More Info*](harvester/harvester_hvr-99_agromech.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7860) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7860) 
 - **Battle Value:** 490 
 - [*More Info*](harvester/harvester_hvr-199_agromech.md) 
 
@@ -49,7 +49,7 @@
   - Combine 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7861) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7861) 
 - **Battle Value:** 406 
 - [*More Info*](harvester/harvester_hvr-199m_agromech_mod.md) 
 
@@ -64,7 +64,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 20) 
   - Combine 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7862) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7862) 
 - **Battle Value:** 605 
 - [*More Info*](harvester/harvester_hvr-199m-a_agromech_mod.md) 
 
@@ -79,7 +79,7 @@
 - **Weapons:** 
   - RAC/2 (ammo: 45) 
   - Combine 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7863) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7863) 
 - **Battle Value:** 460 
 - [*More Info*](harvester/harvester_hvr-199m-b_agromech_mod.md) 
 
@@ -96,7 +96,7 @@
   - Combine 
 - **Equipment:** 
   - Mine Dispenser × 4 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7864) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7864) 
 - **Battle Value:** 438 
 - [*More Info*](harvester/harvester_hvr-199m-m_agromech_mod.md) 
 

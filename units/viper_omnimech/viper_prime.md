@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/926) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/926) 
 - **Battle Value:** 1450 
 
 ## Availability 

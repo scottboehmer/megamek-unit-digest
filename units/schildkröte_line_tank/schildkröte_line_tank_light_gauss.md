@@ -17,7 +17,7 @@
   - Armored Motive System 
   - CASE 
   - Targeting Computer 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8054) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8054) 
 - **Battle Value:** 846 
 
 ## Availability 

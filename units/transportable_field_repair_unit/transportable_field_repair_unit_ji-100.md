@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Lift Hoist × 3 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1706) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1706) 
 - **Battle Value:** 199 
 
 ## Availability 

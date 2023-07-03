@@ -18,7 +18,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1256) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1256) 
 - **Battle Value:** 1300 
 
 ## Availability 

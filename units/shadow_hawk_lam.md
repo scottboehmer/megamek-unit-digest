@@ -14,7 +14,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - AC/2 (ammo: 45) 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5039) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5039) 
 - **Battle Value:** 828 
 - [*More Info*](shadow_hawk_lam/shadow_hawk_lam_shd-x1.md) 
 
@@ -34,7 +34,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - Bomb Bay × 4 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5040) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5040) 
 - **Battle Value:** 994 
 - [*More Info*](shadow_hawk_lam/shadow_hawk_lam_shd-x2.md) 
 

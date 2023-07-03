@@ -21,7 +21,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2901) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2901) 
 - **Battle Value:** 1064 
 
 ## Availability 

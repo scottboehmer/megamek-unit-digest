@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Clan Plasma Cannon (ammo: 20) 
-- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9335) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9335) 
 - **Battle Value:** 669 
 
 ## Availability 

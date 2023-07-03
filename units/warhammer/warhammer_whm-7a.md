@@ -22,7 +22,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3490) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3490) 
 - **Battle Value:** 1679 
 
 ## Availability 

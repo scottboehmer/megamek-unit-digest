@@ -20,7 +20,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1933) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1933) 
 - **Battle Value:** 1307 
 
 ## Availability 

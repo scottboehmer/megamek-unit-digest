@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE II 
   - C3i 
-- **Sources:** JHR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4746) 
+- **Sources:** Jihad: Final Reckoning , [Master Unit List](http://masterunitlist.info/Unit/Details/4746) 
 - **Battle Value:** 3001 
 
 ## Availability 

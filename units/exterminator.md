@@ -19,7 +19,7 @@
   - Null-Signature System 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4148) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4148) 
 - **Battle Value:** 1420 
 - [*More Info*](exterminator/exterminator_ext-4c.md) 
 
@@ -40,7 +40,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1004) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1004) 
 - **Battle Value:** 1385 
 - [*More Info*](exterminator/exterminator_ext-4d.md) 
 
@@ -59,7 +59,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1005) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1005) 
 - **Battle Value:** 1694 
 - [*More Info*](exterminator/exterminator_ext-4db.md) 
 
@@ -80,7 +80,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7321) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7321) 
 - **Battle Value:** 1794 
 - [*More Info*](exterminator/exterminator_ext-4dx.md) 
 
@@ -99,7 +99,7 @@
   - Inner Sphere Small Laser 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7682) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7682) 
 - **Battle Value:** 1611 
 - [*More Info*](exterminator/exterminator_ext-4db-ec.md) 
 
@@ -119,7 +119,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4147) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4147) 
 - **Battle Value:** 1372 
 - [*More Info*](exterminator/exterminator_ext-4a.md) 
 
@@ -139,7 +139,7 @@
   - C3i 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1006) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1006) 
 - **Battle Value:** 1532 
 - [*More Info*](exterminator/exterminator_ext-5e.md) 
 
@@ -160,7 +160,7 @@
   - C3i 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1007) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1007) 
 - **Battle Value:** 1485 
 - [*More Info*](exterminator/exterminator_ext-5f.md) 
 
@@ -184,7 +184,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Sensor Ghosts 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5551) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5551) 
 - **Battle Value:** 1592 
 - [*More Info*](exterminator/exterminator_ext-6cs.md) 
 
@@ -208,7 +208,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8161) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8161) 
 - **Battle Value:** 1674 
 - [*More Info*](exterminator/exterminator_ext-7x.md) 
 

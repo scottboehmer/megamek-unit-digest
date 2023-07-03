@@ -17,7 +17,7 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Extended Fuel Tank 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/5542) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/5542) 
 - **Battle Value:** 724 
 
 ## Availability 

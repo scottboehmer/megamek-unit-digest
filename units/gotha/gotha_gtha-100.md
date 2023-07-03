@@ -17,7 +17,7 @@
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
   - Small Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4226) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4226) 
 - **Battle Value:** Unknown 
 
 ## Availability 

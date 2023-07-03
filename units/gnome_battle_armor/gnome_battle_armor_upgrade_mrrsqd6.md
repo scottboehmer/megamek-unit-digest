@@ -16,7 +16,7 @@
   - Advanced SRM 2 (ammo: 2) 
   - Medium Recoilless Rifle 
   - LRM 2 (OS) 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8884) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8884) 
 - **Battle Value:** 78 (706 for 6 suits) 
 
 ## Availability 

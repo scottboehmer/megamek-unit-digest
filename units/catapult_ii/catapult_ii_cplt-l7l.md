@@ -16,7 +16,7 @@
   - MML 9 × 2 (ammo: 26 LRM, 22 SRM) 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6465) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6465) 
 - **Battle Value:** 1656 
 
 ## Availability 

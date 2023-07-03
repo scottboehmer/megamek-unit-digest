@@ -14,7 +14,7 @@
   - AC/10 (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3265) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3265) 
 - **Battle Value:** 731 
 
 ## Availability 

@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4569) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4569) 
 - **Battle Value:** 464 
 - [*More Info*](main_gauche_light_support_tank/main_gauche_light_support_tank.md) 
 
@@ -28,7 +28,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4568) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4568) 
 - **Battle Value:** 472 
 - [*More Info*](main_gauche_light_support_tank/main_gauche_light_support_tank_c3.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4570) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4570) 
 - **Battle Value:** 585 
 - [*More Info*](main_gauche_light_support_tank/main_gauche_light_support_tank_xl.md) 
 
@@ -60,7 +60,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5727) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5727) 
 - **Battle Value:** 725 
 - [*More Info*](main_gauche_light_support_tank/main_gauche_light_support_tank_ifv.md) 
 

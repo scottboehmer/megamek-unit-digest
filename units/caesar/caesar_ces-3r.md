@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/455) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/455) 
 - **Battle Value:** 1578 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** RS3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/302) 
+- **Sources:** Record Sheets: 3085 Unabridged — Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/302) 
 - **Battle Value:** 1674 
 
 ## Availability 

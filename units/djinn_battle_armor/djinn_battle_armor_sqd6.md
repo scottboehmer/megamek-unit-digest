@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Light TAG 
   - Partial Wing 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8978) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8978) 
 - **Battle Value:** 26 (237 for 6 suits) 
 
 ## Availability 

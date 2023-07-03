@@ -20,7 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9354) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9354) 
 - **Battle Value:** 2844 
 
 ## Availability 

@@ -22,7 +22,7 @@
   - Improved Targeting (Long) 
   - No/Minimal Arms 
   - Poor Targeting (Short) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6634) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6634) 
 - **Battle Value:** 2780 
 
 ## Availability 

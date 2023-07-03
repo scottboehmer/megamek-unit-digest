@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Difficult Ejection 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/59) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/59) 
 - **Battle Value:** 1486 
 
 ## Availability 

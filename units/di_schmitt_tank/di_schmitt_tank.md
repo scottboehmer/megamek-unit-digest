@@ -16,7 +16,7 @@
   - Medium Laser × 4 
   - Flamer × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6602) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6602) 
 - **Battle Value:** 1457 
 
 ## Availability 

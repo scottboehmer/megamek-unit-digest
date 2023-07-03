@@ -17,7 +17,7 @@
   - Bloodhound Active Probe 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6657) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6657) 
 - **Battle Value:** 1123 
 
 ## Availability 

@@ -13,7 +13,7 @@
   - Bombast Laser 
   - ELRM 10 × 2 (ammo: 36) 
   - Medium X-Pulse Laser 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4541) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4541) 
 - **Battle Value:** Unknown 
 - [*More Info*](lucifer_iii/lucifer_iii_lcr-3.md) 
 
@@ -30,7 +30,7 @@
   - Clan ER PPC 
   - Clan ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE) 
   - Clan Medium Pulse Laser 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8012) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8012) 
 - **Battle Value:** Unknown 
 - [*More Info*](lucifer_iii/lucifer_iii_c.md) 
 

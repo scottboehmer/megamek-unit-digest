@@ -14,7 +14,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Clan AP Gauss Rifle 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5617) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5617) 
 - **Battle Value:** 66 (344 for 4 suits) 
 
 ## Availability 

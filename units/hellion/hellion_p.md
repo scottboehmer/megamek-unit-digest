@@ -21,7 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8327) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8327) 
 - **Battle Value:** 1685 
 
 ## Availability 

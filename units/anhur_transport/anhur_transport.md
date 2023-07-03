@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Infantry (7 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/35) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/35) 
 - **Battle Value:** 720 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - CASE 
   - C3i 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/872) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/872) 
 - **Battle Value:** 1182 
 
 ## Availability 

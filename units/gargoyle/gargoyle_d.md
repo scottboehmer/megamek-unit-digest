@@ -21,7 +21,7 @@
   - Stabilized Weapon (Medium Pulse Laser) 
   - Stabilized Weapon (ER Large Laser) 
   - Stabilized Weapon (Medium Pulse Laser) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2005) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2005) 
 - **Battle Value:** 2499 
 
 ## Availability 

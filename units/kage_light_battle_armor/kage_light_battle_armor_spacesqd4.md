@@ -17,7 +17,7 @@
   - Jump Booster 
   - Cutting Torch 
   - Space Operations Adaptation 
-- **Sources:** TRO 3085 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1731) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1731) 
 - **Battle Value:** 20 (105 for 4 suits) 
 
 ## Availability 

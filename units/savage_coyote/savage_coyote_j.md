@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5705) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5705) 
 - **Battle Value:** 2554 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Medium Laser × 4 
   - Flamer × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6602) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6602) 
 - **Battle Value:** 1457 
 - [*More Info*](di_schmitt_tank/di_schmitt_tank.md) 
 
@@ -34,7 +34,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6603) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6603) 
 - **Battle Value:** 1456 
 - [*More Info*](di_schmitt_tank/di_schmitt_tank_targeting_computer.md) 
 

@@ -16,7 +16,7 @@
   - SRM 3 (ammo: 2) 
 - **Equipment:** 
   - Light TAG 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4237) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4237) 
 - **Battle Value:** 51 (268 for 4 suits) 
 
 ## Availability 

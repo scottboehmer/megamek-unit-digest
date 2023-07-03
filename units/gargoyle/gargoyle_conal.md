@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** OTP: Red Corsair - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2001) 
+- **Sources:** Operational Turning Points: Red Corsair , [Master Unit List](http://masterunitlist.info/Unit/Details/2001) 
 - **Battle Value:** 2580 
 
 ## Availability 

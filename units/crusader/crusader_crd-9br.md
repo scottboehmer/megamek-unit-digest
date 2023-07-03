@@ -24,7 +24,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8232) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8232) 
 - **Battle Value:** 1653 
 
 ## Availability 

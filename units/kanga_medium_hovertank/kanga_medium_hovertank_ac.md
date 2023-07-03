@@ -14,7 +14,7 @@
   - AC/10 (ammo: 20) 
   - LRM 10 (ammo: 12) 
   - Machine Gun (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1744) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1744) 
 - **Battle Value:** 744 
 
 ## Availability 

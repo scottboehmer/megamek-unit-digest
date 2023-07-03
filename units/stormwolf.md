@@ -18,7 +18,7 @@
   - Supercharger 
   - Light TAG 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8204) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8204) 
 - **Battle Value:** 2788 
 - [*More Info*](stormwolf/stormwolf_prime.md) 
 
@@ -39,7 +39,7 @@
   - Active Probe 
   - MASC 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8205) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8205) 
 - **Battle Value:** 2655 
 - [*More Info*](stormwolf/stormwolf_a.md) 
 
@@ -60,7 +60,7 @@
   - Laser Anti-Missile System 
   - MASC 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8206) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8206) 
 - **Battle Value:** 3286 
 - [*More Info*](stormwolf/stormwolf_b.md) 
 
@@ -83,7 +83,7 @@
   - MASC 
   - Supercharger 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8207) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8207) 
 - **Battle Value:** 3261 
 - [*More Info*](stormwolf/stormwolf_c.md) 
 
@@ -105,7 +105,7 @@
   - Supercharger 
   - Light TAG 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8208) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8208) 
 - **Battle Value:** 3122 
 - [*More Info*](stormwolf/stormwolf_d.md) 
 

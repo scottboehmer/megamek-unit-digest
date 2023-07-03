@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6883) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6883) 
 - **Battle Value:** 2158 
 
 ## Availability 

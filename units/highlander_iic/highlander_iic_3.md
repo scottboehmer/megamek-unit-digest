@@ -24,7 +24,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** RS 3085U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1523) 
+- **Sources:** Record Sheets: 3085 Unabridged - Old is the New New , [Master Unit List](http://masterunitlist.info/Unit/Details/1523) 
 - **Battle Value:** 3001 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7441) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7441) 
 - **Battle Value:** 2444 
 
 ## Availability 

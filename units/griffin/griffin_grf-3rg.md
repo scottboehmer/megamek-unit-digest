@@ -23,7 +23,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #1 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9401) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/9401) 
 - **Battle Value:** 1213 
 
 ## Availability 

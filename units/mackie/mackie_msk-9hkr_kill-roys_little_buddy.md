@@ -21,7 +21,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5876) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5876) 
 - **Battle Value:** 2162 
 
 ## Availability 

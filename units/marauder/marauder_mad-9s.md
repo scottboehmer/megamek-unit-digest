@@ -25,7 +25,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (LB 10-X AC) 
   - Exposed Weapon Linkage (LB 10-X AC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2049) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2049) 
 - **Battle Value:** 1786 
 
 ## Availability 

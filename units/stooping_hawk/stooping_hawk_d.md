@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3079) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3079) 
 - **Battle Value:** 1838 
 
 ## Availability 

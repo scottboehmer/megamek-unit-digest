@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3312) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3312) 
 - **Battle Value:** 1298 
 
 ## Availability 

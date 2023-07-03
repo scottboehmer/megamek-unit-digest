@@ -14,7 +14,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8690) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8690) 
 - **Battle Value:** 18 (123 for 5 suits) 
 
 ## Availability 

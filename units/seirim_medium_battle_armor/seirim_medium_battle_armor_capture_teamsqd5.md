@@ -17,7 +17,7 @@
   - Light Machine Gun × 2 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8668) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8668) 
 - **Battle Value:** 61 (426 for 5 suits) 
 
 ## Availability 

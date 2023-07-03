@@ -22,7 +22,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2506) 
+- **Sources:** TRO: Project Pheonix , [Master Unit List](http://masterunitlist.info/Unit/Details/2506) 
 - **Battle Value:** 1665 
 
 ## Availability 

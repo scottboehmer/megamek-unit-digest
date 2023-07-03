@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3413) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3413) 
 - **Battle Value:** 1594 
 
 ## Availability 

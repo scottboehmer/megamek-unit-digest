@@ -25,7 +25,7 @@
   - Directional Torso Mount (Medium Pulse Laser) 
   - Directional Torso Mount (Medium Pulse Laser) 
   - Directional Torso Mount (Medium Pulse Laser) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2626) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2626) 
 - **Battle Value:** 1350 
 
 ## Availability 

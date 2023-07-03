@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (AC/10) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1410) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1410) 
 - **Battle Value:** 854 
 - [*More Info*](hatchetman/hatchetman_hct-3f.md) 
 
@@ -40,7 +40,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (Prototype LB 10-X AC) 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1411) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1411) 
 - **Battle Value:** 910 
 - [*More Info*](hatchetman/hatchetman_hct-3f_austin.md) 
 
@@ -62,7 +62,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (LB 10-X AC) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1413) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1413) 
 - **Battle Value:** 1039 
 - [*More Info*](hatchetman/hatchetman_hct-5s.md) 
 
@@ -85,7 +85,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (LB 10-X AC) 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1414) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1414) 
 - **Battle Value:** 1174 
 - [*More Info*](hatchetman/hatchetman_hct-5s_austin.md) 
 
@@ -108,7 +108,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (Ultra AC/10) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5445) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5445) 
 - **Battle Value:** 1012 
 - [*More Info*](hatchetman/hatchetman_hct-5d.md) 
 
@@ -131,7 +131,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (RAC/5) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1415) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1415) 
 - **Battle Value:** 1611 
 - [*More Info*](hatchetman/hatchetman_hct-6d.md) 
 
@@ -154,7 +154,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (LB 10-X AC) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1417) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1417) 
 - **Battle Value:** 1174 
 - [*More Info*](hatchetman/hatchetman_hct-6s.md) 
 
@@ -177,7 +177,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (RAC/2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5446) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5446) 
 - **Battle Value:** 1112 
 - [*More Info*](hatchetman/hatchetman_hct-5dd.md) 
 
@@ -201,7 +201,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1412) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1412) 
 - **Battle Value:** 1070 
 - [*More Info*](hatchetman/hatchetman_hct-5k.md) 
 
@@ -223,7 +223,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1416) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1416) 
 - **Battle Value:** 1274 
 - [*More Info*](hatchetman/hatchetman_hct-6m.md) 
 
@@ -246,7 +246,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1418) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1418) 
 - **Battle Value:** 1243 
 - [*More Info*](hatchetman/hatchetman_hct-7s.md) 
 
@@ -266,7 +266,7 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - Targeting Computer 
-- **Sources:** RS3150 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7988) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7988) 
 - **Battle Value:** 1296 
 - [*More Info*](hatchetman/hatchetman_hct-7d.md) 
 
@@ -288,7 +288,7 @@
   - AES × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7295) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7295) 
 - **Battle Value:** 1521 
 - [*More Info*](hatchetman/hatchetman_hct-7r.md) 
 
@@ -309,7 +309,7 @@
   - Full Head Ejection System 
   - AES 
   - CASE 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7780) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7780) 
 - **Battle Value:** 1479 
 - [*More Info*](hatchetman/hatchetman_hct-8s.md) 
 
@@ -332,7 +332,7 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - Targeting Computer 
-- **Sources:** Shrapnel 7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8438) 
+- **Sources:** Shrapnel #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/8438) 
 - **Battle Value:** 1788 
 - [*More Info*](hatchetman/hatchetman_hct-5dt.md) 
 

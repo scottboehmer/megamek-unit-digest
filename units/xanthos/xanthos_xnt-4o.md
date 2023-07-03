@@ -21,7 +21,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3605) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3605) 
 - **Battle Value:** 2548 
 
 ## Availability 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - No Ejection System 
   - Multi-Trac 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5106) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5106) 
 - **Battle Value:** 450 
 
 ## Availability 

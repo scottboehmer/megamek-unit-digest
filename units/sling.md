@@ -15,7 +15,7 @@
   - TAG 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2967) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2967) 
 - **Battle Value:** 578 
 - [*More Info*](sling/sling_sl-1g.md) 
 
@@ -35,7 +35,7 @@
   - TAG 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2968) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2968) 
 - **Battle Value:** 731 
 - [*More Info*](sling/sling_sl-1h.md) 
 

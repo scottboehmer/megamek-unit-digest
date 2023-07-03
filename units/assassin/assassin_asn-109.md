@@ -24,7 +24,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9395) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9395) 
 - **Battle Value:** 1158 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/99) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/99) 
 - **Battle Value:** 1330 
 
 ## Availability 

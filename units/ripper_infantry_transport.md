@@ -12,7 +12,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2725) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2725) 
 - **Battle Value:** 345 
 - [*More Info*](ripper_infantry_transport/ripper_infantry_transport.md) 
 
@@ -44,7 +44,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2722) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2722) 
 - **Battle Value:** 125 
 - [*More Info*](ripper_infantry_transport/ripper_infantry_transport_mg.md) 
 
@@ -60,7 +60,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2719) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2719) 
 - **Battle Value:** 432 
 - [*More Info*](ripper_infantry_transport/ripper_infantry_transport_erml.md) 
 
@@ -76,7 +76,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2724) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2724) 
 - **Battle Value:** 160 
 - [*More Info*](ripper_infantry_transport/ripper_infantry_transport_spl.md) 
 
@@ -92,7 +92,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2720) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2720) 
 - **Battle Value:** 108 
 - [*More Info*](ripper_infantry_transport/ripper_infantry_transport_infantry.md) 
 
@@ -108,7 +108,7 @@
   - Light PPC 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2721) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2721) 
 - **Battle Value:** 371 
 - [*More Info*](ripper_infantry_transport/ripper_infantry_transport_light_ppc.md) 
 

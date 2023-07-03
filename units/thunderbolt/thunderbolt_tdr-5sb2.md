@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6766) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/6766) 
 - **Battle Value:** 1561 
 
 ## Availability 

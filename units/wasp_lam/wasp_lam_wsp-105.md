@@ -16,7 +16,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 2 (ammo: 50) 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5389) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5389) 
 - **Battle Value:** 814 
 
 ## Availability 

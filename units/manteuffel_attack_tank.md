@@ -15,7 +15,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4586) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4586) 
 - **Battle Value:** 1504 
 - [*More Info*](manteuffel_attack_tank/manteuffel_attack_tank_prime.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4584) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4584) 
 - **Battle Value:** 1486 
 - [*More Info*](manteuffel_attack_tank/manteuffel_attack_tank_a.md) 
 
@@ -51,7 +51,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4585) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4585) 
 - **Battle Value:** 1491 
 - [*More Info*](manteuffel_attack_tank/manteuffel_attack_tank_b.md) 
 
@@ -69,7 +69,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5734) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5734) 
 - **Battle Value:** 1274 
 - [*More Info*](manteuffel_attack_tank/manteuffel_attack_tank_c.md) 
 
@@ -88,7 +88,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - Infantry (8.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5735) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5735) 
 - **Battle Value:** 1172 
 - [*More Info*](manteuffel_attack_tank/manteuffel_attack_tank_d.md) 
 
@@ -108,7 +108,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6797) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6797) 
 - **Battle Value:** 1256 
 - [*More Info*](manteuffel_attack_tank/manteuffel_attack_tank_e.md) 
 

@@ -23,7 +23,7 @@
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/748) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/748) 
 - **Battle Value:** 1533 
 - [*More Info*](crusader/crusader_crd-2r.md) 
 
@@ -46,7 +46,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/752) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/752) 
 - **Battle Value:** 1317 
 - [*More Info*](crusader/crusader_crd-3r.md) 
 
@@ -70,7 +70,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 4) 
   - Stabilized Weapon (SRM 4) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/751) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/751) 
 - **Battle Value:** 1297 
 - [*More Info*](crusader/crusader_crd-3l.md) 
 
@@ -92,7 +92,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 4) 
   - Stabilized Weapon (SRM 4) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/749) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/749) 
 - **Battle Value:** 1338 
 - [*More Info*](crusader/crusader_crd-3d.md) 
 
@@ -114,7 +114,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/750) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/750) 
 - **Battle Value:** 1290 
 - [*More Info*](crusader/crusader_crd-3k.md) 
 
@@ -137,7 +137,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
-- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/753) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/753) 
 - **Battle Value:** 1204 
 - [*More Info*](crusader/crusader_crd-3r_crael.md) 
 
@@ -159,7 +159,7 @@
   - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
-- **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/755) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/755) 
 - **Battle Value:** 1309 
 - [*More Info*](crusader/crusader_crd-4d.md) 
 
@@ -181,7 +181,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
-- **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/756) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/756) 
 - **Battle Value:** 1268 
 - [*More Info*](crusader/crusader_crd-4k.md) 
 
@@ -203,7 +203,7 @@
   - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/757) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/757) 
 - **Battle Value:** 1309 
 - [*More Info*](crusader/crusader_crd-4l.md) 
 
@@ -231,7 +231,7 @@
   - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
-- **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/759) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/759) 
 - **Battle Value:** 1408 
 - [*More Info*](crusader/crusader_crd-5m.md) 
 
@@ -256,7 +256,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
-- **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/760) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/760) 
 - **Battle Value:** 1446 
 - [*More Info*](crusader/crusader_crd-5s.md) 
 
@@ -278,7 +278,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8225) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8225) 
 - **Battle Value:** 1890 
 - [*More Info*](crusader/crusader_crd-6t.md) 
 
@@ -303,7 +303,7 @@
   - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
-- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/754) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/754) 
 - **Battle Value:** 1407 
 - [*More Info*](crusader/crusader_crd-4br.md) 
 
@@ -326,7 +326,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8224) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8224) 
 - **Battle Value:** 1498 
 - [*More Info*](crusader/crusader_crd-6d.md) 
 
@@ -350,7 +350,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/758) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/758) 
 - **Battle Value:** 1463 
 - [*More Info*](crusader/crusader_crd-5k.md) 
 
@@ -373,7 +373,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/765) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/765) 
 - **Battle Value:** 1698 
 - [*More Info*](crusader/crusader_crd-8s.md) 
 
@@ -397,7 +397,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/762) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/762) 
 - **Battle Value:** 1749 
 - [*More Info*](crusader/crusader_crd-7l.md) 
 
@@ -420,7 +420,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/763) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/763) 
 - **Battle Value:** 1162 
 - [*More Info*](crusader/crusader_crd-7w.md) 
 
@@ -446,7 +446,7 @@
   - Ubiquitous 
   - Stabilized Weapon (Streak SRM 4) 
   - Stabilized Weapon (Streak SRM 4) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/761) 
 - **Battle Value:** 1373 
 - [*More Info*](crusader/crusader_crd-6m.md) 
 
@@ -468,7 +468,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/764) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/764) 
 - **Battle Value:** 1701 
 - [*More Info*](crusader/crusader_crd-8l.md) 
 
@@ -490,7 +490,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8263) 
+- **Sources:** Shrapnel #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/8263) 
 - **Battle Value:** 1642 
 - [*More Info*](crusader/crusader_crd-9s.md) 
 
@@ -515,7 +515,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8227) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8227) 
 - **Battle Value:** 1465 
 - [*More Info*](crusader/crusader_crd-7m.md) 
 
@@ -540,7 +540,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8228) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8228) 
 - **Battle Value:** 1397 
 - [*More Info*](crusader/crusader_crd-7m2.md) 
 
@@ -566,7 +566,7 @@
   - Ubiquitous 
   - Stabilized Weapon (Streak SRM 6) 
   - Stabilized Weapon (Streak SRM 6) 
-- **Sources:** Rec Guide:ilClan #17 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8231) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8231) 
 - **Battle Value:** 1600 
 - [*More Info*](crusader/crusader_crd-8r.md) 
 
@@ -592,7 +592,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8232) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8232) 
 - **Battle Value:** 1653 
 - [*More Info*](crusader/crusader_crd-9br.md) 
 
@@ -618,7 +618,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8233) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8233) 
 - **Battle Value:** 1612 
 - [*More Info*](crusader/crusader_crd-9r.md) 
 
@@ -643,7 +643,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8226) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8226) 
 - **Battle Value:** 1681 
 - [*More Info*](crusader/crusader_crd-7d.md) 
 
@@ -666,7 +666,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8234) 
+- **Sources:** Shrapnel #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/8234) 
 - **Battle Value:** 2264 
 - [*More Info*](crusader/crusader_crd-10s.md) 
 

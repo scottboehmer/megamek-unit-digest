@@ -18,7 +18,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Ejection Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4974) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4974) 
 - **Battle Value:** 734 
 
 ## Availability 

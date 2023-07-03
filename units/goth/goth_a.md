@@ -15,7 +15,7 @@
   - Large Pulse Laser × 2 
   - ER Medium Laser × 2 
   - SRM 6 × 4 (ammo: 15) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7659) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7659) 
 - **Battle Value:** Unknown 
 
 ## Availability 

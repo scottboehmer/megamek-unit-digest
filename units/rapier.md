@@ -13,7 +13,7 @@
   - AC/20 (ammo: 10) 
   - PPC × 2 
   - LRM 10 (ammo: 12) 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2642) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2642) 
 - **Battle Value:** Unknown 
 - [*More Info*](rapier/rapier_rpr-100.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - PPC × 3 
   - Medium Laser × 4 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2643) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2643) 
 - **Battle Value:** Unknown 
 - [*More Info*](rapier/rapier_rpr-101.md) 
 
@@ -49,7 +49,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4894) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4894) 
 - **Battle Value:** Unknown 
 - [*More Info*](rapier/rapier_rpr-100b.md) 
 
@@ -66,7 +66,7 @@
   - ER PPC × 2 
   - LB 10-X AC (ammo: 20 Cluster) 
   - LRM 10 (ammo: 12) 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2645) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2645) 
 - **Battle Value:** Unknown 
 - [*More Info*](rapier/rapier_rpr-200.md) 
 
@@ -86,7 +86,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Clan CASE 
-- **Sources:** Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7690) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7690) 
 - **Battle Value:** Unknown 
 - [*More Info*](rapier/rapier_rpr-100b-ec.md) 
 
@@ -103,7 +103,7 @@
   - AC/20 (ammo: 10) 
   - Large Laser × 2 
   - LRM 10 (ammo: 12) 
-- **Sources:** TRO 3050u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2644) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2644) 
 - **Battle Value:** Unknown 
 - [*More Info*](rapier/rapier_rpr-102.md) 
 
@@ -120,7 +120,7 @@
   - HVAC/10 × 2 (ammo: 24) 
   - ELRM 10 (ammo: 18) 
   - ER Medium Laser × 4 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4896) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/4896) 
 - **Battle Value:** Unknown 
 - [*More Info*](rapier/rapier_rpr-300x.md) 
 
@@ -136,7 +136,7 @@
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 16) 
   - PPC × 2 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2646) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2646) 
 - **Battle Value:** Unknown 
 - [*More Info*](rapier/rapier_rpr-300.md) 
 
@@ -153,7 +153,7 @@
   - HVAC/10 × 2 (ammo: 24) 
   - ELRM 10 (ammo: 18) 
   - ER Medium Laser × 4 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4895) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4895) 
 - **Battle Value:** Unknown 
 - [*More Info*](rapier/rapier_rpr-300s.md) 
 

@@ -14,7 +14,7 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6544) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6544) 
 - **Battle Value:** 1336 
 - [*More Info*](testudo_siege_tank/testudo_siege_tank.md) 
 

@@ -16,7 +16,7 @@
   - Fluid Gun × 2 (ammo: 120) 
 - **Equipment:** 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7874) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7874) 
 - **Battle Value:** 492 
 
 ## Availability 

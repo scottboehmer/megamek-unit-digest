@@ -17,7 +17,7 @@
   - Light Recoilless Rifle 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8778) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/8778) 
 - **Battle Value:** 45 (314 for 5 suits) 
 
 ## Availability 

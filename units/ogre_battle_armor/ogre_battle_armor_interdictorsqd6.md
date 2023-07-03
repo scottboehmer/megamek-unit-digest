@@ -16,7 +16,7 @@
   - SRM 2 (ammo: 8) 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9120) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/9120) 
 - **Battle Value:** 66 (592 for 6 suits) 
 
 ## Availability 

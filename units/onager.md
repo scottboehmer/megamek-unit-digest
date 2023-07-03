@@ -22,7 +22,7 @@
   - Battlefist (Right Arm) 
   - Exposed Weapon Linkage (HAG 30) 
   - Exposed Weapon Linkage (HAG 30) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2319) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2319) 
 - **Battle Value:** 2732 
 - [*More Info*](onager/onager.md) 
 
@@ -51,7 +51,7 @@
   - Exposed Weapon Linkage (HAG 30) 
   - Exposed Weapon Linkage (HAG 30) 
   - Exposed Weapon Linkage (HAG 30) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6847) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6847) 
 - **Battle Value:** 2847 
 - [*More Info*](onager/onager_2.md) 
 

@@ -16,7 +16,7 @@
 - **Weapons:** 
   - Small Laser 
   - Squad Support Flamer 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4457) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4457) 
 - **Battle Value:** 42 (187 for 4 suits) 
 
 ## Availability 

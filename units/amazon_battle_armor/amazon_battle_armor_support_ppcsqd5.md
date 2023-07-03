@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Support PPC 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8744) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/8744) 
 - **Battle Value:** 55 (388 for 5 suits) 
 
 ## Availability 

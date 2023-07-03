@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Streak LRM 20 × 2 (ammo: 24) 
   - AP Gauss Rifle × 2 (ammo: 40) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8056) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8056) 
 - **Battle Value:** 1822 
 
 ## Availability 

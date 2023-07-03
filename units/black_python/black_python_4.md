@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3435) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3435) 
 - **Battle Value:** 2594 
 
 ## Availability 

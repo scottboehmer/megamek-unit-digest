@@ -17,7 +17,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1969) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1969) 
 - **Battle Value:** 1755 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2706) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2706) 
 - **Battle Value:** 1798 
 
 ## Availability 

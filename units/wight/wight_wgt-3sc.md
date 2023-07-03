@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3551) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3551) 
 - **Battle Value:** 1125 
 
 ## Availability 

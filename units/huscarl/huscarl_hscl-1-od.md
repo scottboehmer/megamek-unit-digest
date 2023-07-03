@@ -18,7 +18,7 @@
   - Small Pulse Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5757) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5757) 
 - **Battle Value:** Unknown 
 
 ## Availability 

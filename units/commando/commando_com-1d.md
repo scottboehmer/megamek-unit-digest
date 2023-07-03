@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/669) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/669) 
 - **Battle Value:** 558 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - Camo System 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8979) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8979) 
 - **Battle Value:** 35 (313 for 6 suits) 
 
 ## Availability 

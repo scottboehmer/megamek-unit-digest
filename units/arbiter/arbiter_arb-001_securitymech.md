@@ -15,7 +15,7 @@
   - Heavy Rifle (ammo: 6) 
 - **Equipment:** 
   - Ejection Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5798) 
+- **Sources:** XTR: Corporations , [Master Unit List](http://masterunitlist.info/Unit/Details/5798) 
 - **Battle Value:** 507 
 
 ## Availability 

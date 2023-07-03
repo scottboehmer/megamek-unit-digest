@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Barrel Fists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1373) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1373) 
 - **Battle Value:** 2204 
 
 ## Availability 

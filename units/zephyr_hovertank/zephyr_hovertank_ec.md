@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7674) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7674) 
 - **Battle Value:** 993 
 
 ## Availability 

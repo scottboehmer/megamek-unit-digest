@@ -24,7 +24,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2580) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2580) 
 - **Battle Value:** 1052 
 
 ## Availability 

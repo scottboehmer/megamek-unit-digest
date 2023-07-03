@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Ultra AC/20 × 2 (ammo: 40) 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4349) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4349) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3004) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3004) 
 - **Battle Value:** 1155 
 
 ## Availability 

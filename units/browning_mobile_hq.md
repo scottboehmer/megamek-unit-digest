@@ -13,7 +13,7 @@
   - Anti-Missile System (ammo: 12) 
   - Communications Equipment 
   - CASE 
-- **Sources:** Rec Guide:ilClan #29 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9399) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9399) 
 - **Battle Value:** 365 
 - [*More Info*](browning_mobile_hq/browning_mobile_hq.md) 
 
@@ -30,7 +30,7 @@
   - Anti-Missile System (ammo: 12) 
   - Communications Equipment 
   - CASE 
-- **Sources:** Rec Guide:ilClan #29 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9386) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9386) 
 - **Battle Value:** 377 
 - [*More Info*](browning_mobile_hq/browning_mobile_hq_half_track.md) 
 

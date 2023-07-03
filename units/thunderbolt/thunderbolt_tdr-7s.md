@@ -23,7 +23,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8190) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8190) 
 - **Battle Value:** 1582 
 
 ## Availability 

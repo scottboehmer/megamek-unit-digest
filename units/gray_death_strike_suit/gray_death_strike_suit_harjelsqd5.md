@@ -17,7 +17,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Light TAG 
-- **Sources:** RS3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8784) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8784) 
 - **Battle Value:** 55 (383 for 5 suits) 
 
 ## Availability 

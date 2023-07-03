@@ -12,7 +12,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** TRO 3075/RS 3085 Unabridged ONN - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4721) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4721) 
 - **Battle Value:** 7 (7 for 1 suits) 
 
 ## Availability 

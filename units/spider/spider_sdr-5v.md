@@ -17,7 +17,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3010) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3010) 
 - **Battle Value:** 622 
 
 ## Availability 

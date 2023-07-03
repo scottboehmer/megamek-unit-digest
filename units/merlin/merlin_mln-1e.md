@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #26 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9316) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9316) 
 - **Battle Value:** 1369 
 
 ## Availability 

@@ -24,7 +24,7 @@
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER Medium Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2470) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2470) 
 - **Battle Value:** 1899 
 
 ## Availability 

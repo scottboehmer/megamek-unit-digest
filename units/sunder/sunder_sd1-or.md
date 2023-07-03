@@ -17,7 +17,7 @@
   - Clan ER Medium Laser × 4 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3130) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3130) 
 - **Battle Value:** 2462 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** Rec Guide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9264) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9264) 
 - **Battle Value:** 1751 
 
 ## Availability 

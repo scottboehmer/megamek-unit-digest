@@ -20,7 +20,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2365) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2365) 
 - **Battle Value:** 908 
 
 ## Availability 

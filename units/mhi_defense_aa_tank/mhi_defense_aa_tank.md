@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Limited Amphibious Chassis 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6670) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6670) 
 - **Battle Value:** 970 
 
 ## Availability 

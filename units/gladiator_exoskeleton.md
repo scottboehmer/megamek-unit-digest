@@ -10,7 +10,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4216) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/4216) 
 - **Battle Value:** 7 (34 for 4 suits) 
 - [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_agsqd4.md) 
 
@@ -24,7 +24,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8620) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8620) 
 - **Battle Value:** 7 (46 for 5 suits) 
 - [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_agsqd5.md) 
 
@@ -38,7 +38,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8984) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8984) 
 - **Battle Value:** 7 (59 for 6 suits) 
 - [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_agsqd6.md) 
 
@@ -52,7 +52,7 @@
 - **Manipulators:** 
   - Industrial Drill (right) 
   - Battle Claw (left) 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7206) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7206) 
 - **Battle Value:** 7 (34 for 4 suits) 
 - [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_bc_idsqd4.md) 
 
@@ -66,7 +66,7 @@
 - **Manipulators:** 
   - Industrial Drill (right) 
   - Battle Claw (left) 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8808) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8808) 
 - **Battle Value:** 7 (46 for 5 suits) 
 - [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_bc_idsqd5.md) 
 
@@ -80,7 +80,7 @@
 - **Manipulators:** 
   - Industrial Drill (right) 
   - Battle Claw (left) 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9171) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9171) 
 - **Battle Value:** 7 (59 for 6 suits) 
 - [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_bc_idsqd6.md) 
 
@@ -98,7 +98,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Mechanical Jump Booster 
-- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/1212) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/1212) 
 - **Battle Value:** 8 (44 for 4 suits) 
 - [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_the_spidersqd4.md) 
 
@@ -116,7 +116,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Mechanical Jump Booster 
-- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8516) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8516) 
 - **Battle Value:** 8 (60 for 5 suits) 
 - [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_the_spidersqd5.md) 
 
@@ -134,7 +134,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Mechanical Jump Booster 
-- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8880) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8880) 
 - **Battle Value:** 8 (76 for 6 suits) 
 - [*More Info*](gladiator_exoskeleton/gladiator_exoskeleton_the_spidersqd6.md) 
 

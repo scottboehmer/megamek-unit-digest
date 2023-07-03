@@ -15,7 +15,7 @@
   - Improved Sensors 
   - ECM Suite 
   - Camo System 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8672) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8672) 
 - **Battle Value:** 64 (445 for 5 suits) 
 
 ## Availability 

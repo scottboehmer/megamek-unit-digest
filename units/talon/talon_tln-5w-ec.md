@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7677) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7677) 
 - **Battle Value:** 1364 
 
 ## Availability 

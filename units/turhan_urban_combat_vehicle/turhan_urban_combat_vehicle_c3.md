@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - C3 Main 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3319) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3319) 
 - **Battle Value:** 709 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3379) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3379) 
 - **Battle Value:** 745 
 
 ## Availability 

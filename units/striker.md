@@ -15,7 +15,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3094) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3094) 
 - **Battle Value:** 1488 
 - [*More Info*](striker/striker_stc-2c.md) 
 
@@ -33,7 +33,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3096) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3096) 
 - **Battle Value:** 1466 
 - [*More Info*](striker/striker_stc-2s.md) 
 
@@ -52,7 +52,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3095) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3095) 
 - **Battle Value:** 1644 
 - [*More Info*](striker/striker_stc-2d.md) 
 
@@ -69,7 +69,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8004) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8004) 
 - **Battle Value:** 1779 
 - [*More Info*](striker/striker_stc-2l.md) 
 

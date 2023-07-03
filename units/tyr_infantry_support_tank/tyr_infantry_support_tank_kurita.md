@@ -15,7 +15,7 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5730) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5730) 
 - **Battle Value:** 687 
 
 ## Availability 

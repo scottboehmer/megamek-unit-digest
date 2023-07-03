@@ -15,7 +15,7 @@
   - SRM 2 (iOS) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
 - **Battle Value:** 294 
 
 ## Availability 

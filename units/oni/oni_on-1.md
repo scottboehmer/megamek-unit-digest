@@ -15,7 +15,7 @@
   - MRM 30 (ammo: 16) 
   - ER Large Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4747) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4747) 
 - **Battle Value:** Unknown 
 
 ## Availability 

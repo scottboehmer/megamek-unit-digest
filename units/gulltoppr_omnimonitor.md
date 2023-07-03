@@ -15,7 +15,7 @@
   - Clan ECM Suite 
   - CASE 
   - Clan Targeting Computer 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6607) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6607) 
 - **Battle Value:** 3545 
 - [*More Info*](gulltoppr_omnimonitor/gulltoppr_omnimonitor_a.md) 
 
@@ -33,7 +33,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Boosted Main × 2 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6608) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6608) 
 - **Battle Value:** 2861 
 - [*More Info*](gulltoppr_omnimonitor/gulltoppr_omnimonitor_b.md) 
 
@@ -52,7 +52,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System × 2 (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6606) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6606) 
 - **Battle Value:** 3151 
 - [*More Info*](gulltoppr_omnimonitor/gulltoppr_omnimonitor_prime.md) 
 

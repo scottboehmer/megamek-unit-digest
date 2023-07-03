@@ -20,7 +20,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/645) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/645) 
 - **Battle Value:** 873 
 
 ## Availability 

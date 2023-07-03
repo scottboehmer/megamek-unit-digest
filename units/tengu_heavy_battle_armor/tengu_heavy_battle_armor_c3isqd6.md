@@ -16,7 +16,7 @@
   - C3i 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9043) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9043) 
 - **Battle Value:** 34 (307 for 6 suits) 
 
 ## Availability 

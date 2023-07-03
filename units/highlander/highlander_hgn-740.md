@@ -24,7 +24,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7733) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7733) 
 - **Battle Value:** 2232 
 
 ## Availability 

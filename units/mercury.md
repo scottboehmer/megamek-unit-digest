@@ -19,7 +19,7 @@
   - Modular Weapon (Small Laser) 
   - Modular Weapon (Medium Laser) 
   - Modular Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2172) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2172) 
 - **Battle Value:** 586 
 - [*More Info*](mercury/mercury_mcy-99.md) 
 
@@ -40,7 +40,7 @@
   - Modular Weapon (Small Laser) 
   - Modular Weapon (Medium Laser) 
   - Modular Weapon (Medium Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4624) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/4624) 
 - **Battle Value:** 553 
 - [*More Info*](mercury/mercury_mcy-98.md) 
 
@@ -62,7 +62,7 @@
   - Easy to Maintain 
   - Modular Weapon (Small Laser) 
   - Modular Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2171) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2171) 
 - **Battle Value:** 466 
 - [*More Info*](mercury/mercury_mcy-97.md) 
 
@@ -84,7 +84,7 @@
   - Easy to Maintain 
   - Modular Weapon (ER Small Laser) 
   - Modular Weapon (ER Medium Laser) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2169) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2169) 
 - **Battle Value:** 510 
 - [*More Info*](mercury/mercury_mcy-102.md) 
 
@@ -109,7 +109,7 @@
   - Modular Weapon (TAG) 
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (ER Medium Laser) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2170) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2170) 
 - **Battle Value:** 683 
 - [*More Info*](mercury/mercury_mcy-104.md) 
 
@@ -130,7 +130,7 @@
   - Modular Weapon (ER Small Laser) 
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (ER Medium Laser) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8305) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8305) 
 - **Battle Value:** 795 
 - [*More Info*](mercury/mercury_mcy-105.md) 
 

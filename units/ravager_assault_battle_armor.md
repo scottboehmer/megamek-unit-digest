@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Heavy Recoilless Rifle 
   - Rocket Launcher 1 × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2661) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2661) 
 - **Battle Value:** 68 (351 for 4 suits) 
 - [*More Info*](ravager_assault_battle_armor/ravager_assault_battle_armor_sqd4.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - Heavy Recoilless Rifle 
   - Rocket Launcher 1 × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8580) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8580) 
 - **Battle Value:** 68 (472 for 5 suits) 
 - [*More Info*](ravager_assault_battle_armor/ravager_assault_battle_armor_sqd5.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - Heavy Recoilless Rifle 
   - Rocket Launcher 1 × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8944) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8944) 
 - **Battle Value:** 68 (608 for 6 suits) 
 - [*More Info*](ravager_assault_battle_armor/ravager_assault_battle_armor_sqd6.md) 
 
@@ -60,7 +60,7 @@
 - **Weapons:** 
   - LRM 3 (ammo: 8) 
   - Light Recoilless Rifle 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6746) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6746) 
 - **Battle Value:** 78 (404 for 4 suits) 
 - [*More Info*](ravager_assault_battle_armor/ravager_assault_battle_armor_lrmsqd4.md) 
 
@@ -76,7 +76,7 @@
 - **Weapons:** 
   - LRM 3 (ammo: 8) 
   - Light Recoilless Rifle 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8801) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8801) 
 - **Battle Value:** 78 (544 for 5 suits) 
 - [*More Info*](ravager_assault_battle_armor/ravager_assault_battle_armor_lrmsqd5.md) 
 
@@ -92,7 +92,7 @@
 - **Weapons:** 
   - LRM 3 (ammo: 8) 
   - Light Recoilless Rifle 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9164) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9164) 
 - **Battle Value:** 78 (700 for 6 suits) 
 - [*More Info*](ravager_assault_battle_armor/ravager_assault_battle_armor_lrmsqd6.md) 
 

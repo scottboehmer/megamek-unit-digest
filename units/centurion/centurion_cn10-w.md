@@ -16,7 +16,7 @@
   - LRM 10 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7695) 
+- **Sources:** Shrapnel #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7695) 
 - **Battle Value:** 1112 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Targeting Computer 
   - C3 Main 
   - Infantry (4 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4671) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4671) 
 - **Battle Value:** 694 
 
 ## Availability 

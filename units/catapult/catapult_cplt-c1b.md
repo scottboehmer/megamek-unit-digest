@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/480) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/480) 
 - **Battle Value:** 1570 
 
 ## Availability 

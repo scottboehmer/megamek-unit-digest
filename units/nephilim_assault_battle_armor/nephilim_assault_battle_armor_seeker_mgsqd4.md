@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4704) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4704) 
 - **Battle Value:** 82 (425 for 4 suits) 
 
 ## Availability 

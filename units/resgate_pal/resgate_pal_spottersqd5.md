@@ -15,7 +15,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Light TAG 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8806) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8806) 
 - **Battle Value:** 10 (73 for 5 suits) 
 
 ## Availability 

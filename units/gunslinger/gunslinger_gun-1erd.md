@@ -21,7 +21,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1347) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1347) 
 - **Battle Value:** 2286 
 
 ## Availability 

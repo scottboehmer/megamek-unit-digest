@@ -14,7 +14,7 @@
   - PPC 
 - **Equipment:** 
   - Cargo 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/454) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/454) 
 - **Battle Value:** 475 
 
 ## Availability 

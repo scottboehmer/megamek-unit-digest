@@ -16,6 +16,7 @@
   - Streak SRM 6 × 4 (ammo: 45) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2257 
 
 ## Availability 

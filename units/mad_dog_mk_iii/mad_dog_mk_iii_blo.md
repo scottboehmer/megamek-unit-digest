@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Stable 
   - Variable Range Targeting 
-- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7633) 
+- **Sources:** Spotlight On: Unending Faith , [Master Unit List](http://masterunitlist.info/Unit/Details/7633) 
 - **Battle Value:** 2397 
 
 ## Availability 

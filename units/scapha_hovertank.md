@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
-- **Sources:** TRO 3145 Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6659) 
+- **Sources:** TRO: 3145 Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6659) 
 - **Battle Value:** 1252 
 - [*More Info*](scapha_hovertank/scapha_hovertank_a.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6660) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6660) 
 - **Battle Value:** 837 
 - [*More Info*](scapha_hovertank/scapha_hovertank_b.md) 
 
@@ -38,7 +38,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6661) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6661) 
 - **Battle Value:** 855 
 - [*More Info*](scapha_hovertank/scapha_hovertank_c.md) 
 
@@ -53,7 +53,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - iNarc (ammo: 8) 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6662) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6662) 
 - **Battle Value:** 994 
 - [*More Info*](scapha_hovertank/scapha_hovertank_d.md) 
 
@@ -67,7 +67,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Thumper Cannon (ammo: 0) 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6663) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6663) 
 - **Battle Value:** 519 
 - [*More Info*](scapha_hovertank/scapha_hovertank_e.md) 
 
@@ -84,7 +84,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6664) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6664) 
 - **Battle Value:** 602 
 - [*More Info*](scapha_hovertank/scapha_hovertank_f.md) 
 
@@ -101,7 +101,7 @@
 - **Equipment:** 
   - C3 Support 
   - Targeting Computer 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6665) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6665) 
 - **Battle Value:** 550 
 - [*More Info*](scapha_hovertank/scapha_hovertank_g.md) 
 
@@ -117,7 +117,7 @@
   - Medium VSP Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6666) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6666) 
 - **Battle Value:** 664 
 - [*More Info*](scapha_hovertank/scapha_hovertank_h.md) 
 
@@ -134,7 +134,7 @@
 - **Equipment:** 
   - C3 Main 
   - Targeting Computer 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6667) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6667) 
 - **Battle Value:** 1634 
 - [*More Info*](scapha_hovertank/scapha_hovertank_i.md) 
 
@@ -151,7 +151,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6668) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6668) 
 - **Battle Value:** 900 
 - [*More Info*](scapha_hovertank/scapha_hovertank_j.md) 
 
@@ -170,7 +170,7 @@
   - Bloodhound Active Probe 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6657) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6657) 
 - **Battle Value:** 1123 
 - [*More Info*](scapha_hovertank/scapha_hovertank_primary.md) 
 

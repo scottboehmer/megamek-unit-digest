@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Weak Legs 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3519) 
+- **Sources:** XTR: Primitives II , [Master Unit List](http://masterunitlist.info/Unit/Details/3519) 
 - **Battle Value:** 322 
 - [*More Info*](wasp/wasp_wsp-1.md) 
 
@@ -35,7 +35,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3520) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3520) 
 - **Battle Value:** 384 
 - [*More Info*](wasp/wasp_wsp-1a.md) 
 
@@ -54,7 +54,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3523) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3523) 
 - **Battle Value:** 335 
 - [*More Info*](wasp/wasp_wsp-1l.md) 
 
@@ -74,7 +74,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3522) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3522) 
 - **Battle Value:** 376 
 - [*More Info*](wasp/wasp_wsp-1k.md) 
 
@@ -95,7 +95,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3521) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3521) 
 - **Battle Value:** 403 
 - [*More Info*](wasp/wasp_wsp-1d.md) 
 
@@ -114,7 +114,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3525) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3525) 
 - **Battle Value:** 373 
 - [*More Info*](wasp/wasp_wsp-1w.md) 
 
@@ -135,7 +135,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3524) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/3524) 
 - **Battle Value:** 423 
 - [*More Info*](wasp/wasp_wsp-1s.md) 
 
@@ -155,7 +155,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3530) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/3530) 
 - **Battle Value:** 342 
 - [*More Info*](wasp/wasp_wsp-3w.md) 
 
@@ -177,7 +177,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3528) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/3528) 
 - **Battle Value:** 394 
 - [*More Info*](wasp/wasp_wsp-3m.md) 
 
@@ -197,7 +197,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #4 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7497) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7497) 
 - **Battle Value:** 551 
 - [*More Info*](wasp/wasp_wsp-4w.md) 
 
@@ -220,7 +220,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3527) 
+- **Sources:** TRO: Project Pheonix , [Master Unit List](http://masterunitlist.info/Unit/Details/3527) 
 - **Battle Value:** 534 
 - [*More Info*](wasp/wasp_wsp-3l.md) 
 
@@ -243,7 +243,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3529) 
+- **Sources:** TRO: Project Pheonix , [Master Unit List](http://masterunitlist.info/Unit/Details/3529) 
 - **Battle Value:** 595 
 - [*More Info*](wasp/wasp_wsp-3s.md) 
 
@@ -261,7 +261,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3531) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3531) 
 - **Battle Value:** 488 
 - [*More Info*](wasp/wasp_wsp-7maf.md) 
 
@@ -282,7 +282,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3532) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3532) 
 - **Battle Value:** 439 
 - [*More Info*](wasp/wasp_wsp-8t.md) 
 
@@ -304,7 +304,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3526) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3526) 
 - **Battle Value:** 401 
 - [*More Info*](wasp/wasp_wsp-3a.md) 
 
@@ -326,7 +326,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6950) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6950) 
 - **Battle Value:** 537 
 - [*More Info*](wasp/wasp_wsp-3p.md) 
 
@@ -349,7 +349,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8103) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8103) 
 - **Battle Value:** 521 
 - [*More Info*](wasp/wasp_wsp-3x.md) 
 
@@ -371,7 +371,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6949) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6949) 
 - **Battle Value:** 477 
 - [*More Info*](wasp/wasp_wsp-3k.md) 
 
@@ -394,7 +394,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7495) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7495) 
 - **Battle Value:** 517 
 - [*More Info*](wasp/wasp_wsp-5a.md) 
 
@@ -410,7 +410,7 @@
 - **Weapons:** 
   - Clan ER Large Laser 
   - Clan Streak SRM 2 (iOS) 
-- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7496) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7496) 
 - **Battle Value:** 755 
 - [*More Info*](wasp/wasp_c.md) 
 

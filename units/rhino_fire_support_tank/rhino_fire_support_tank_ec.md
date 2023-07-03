@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Bulldozer 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7691) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7691) 
 - **Battle Value:** 1685 
 
 ## Availability 

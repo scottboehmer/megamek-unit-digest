@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3152) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3152) 
 - **Battle Value:** 1075 
 - [*More Info*](talon/talon_tln-5v.md) 
 
@@ -32,7 +32,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3153) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3153) 
 - **Battle Value:** 1175 
 - [*More Info*](talon/talon_tln-5w.md) 
 
@@ -50,7 +50,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7677) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7677) 
 - **Battle Value:** 1364 
 - [*More Info*](talon/talon_tln-5w-ec.md) 
 
@@ -68,7 +68,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Source:** WWE Scorched Earth - Clan Invasion 
+- **Source:** WWE Scorched Earth 
 - **Battle Value:** 977 
 - [*More Info*](talon/talon_tln-5vno.md) 
 
@@ -87,7 +87,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3154) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3154) 
 - **Battle Value:** 1168 
 - [*More Info*](talon/talon_tln-5z.md) 
 
@@ -105,7 +105,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3155) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3155) 
 - **Battle Value:** 1341 
 - [*More Info*](talon/talon_tln-6w.md) 
 

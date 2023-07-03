@@ -19,7 +19,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/77) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/77) 
 - **Battle Value:** 1338 
 
 ## Availability 

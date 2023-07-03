@@ -17,7 +17,7 @@
   - Thunderbolt 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8160) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8160) 
 - **Battle Value:** 1089 
 
 ## Availability 

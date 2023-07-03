@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2022) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2022) 
 - **Battle Value:** 1194 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1822) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1822) 
 - **Battle Value:** 1516 
 
 ## Availability 

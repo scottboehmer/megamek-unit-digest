@@ -17,6 +17,7 @@
   - Machine Gun × 3 (ammo: 300) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1154 
 
 ## Availability 

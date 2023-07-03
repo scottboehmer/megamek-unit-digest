@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Large Laser 
   - Sniper (ammo: 20) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2077) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2077) 
 - **Battle Value:** 688 
 - [*More Info*](marksman_artillery_vehicle/marksman_artillery_vehicle.md) 
 
@@ -28,7 +28,7 @@
   - Large Laser 
   - Clan Prototype Rocket 15 × 2 
   - Clan Prototype Rocket 10 × 3 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2075) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2075) 
 - **Battle Value:** 976 
 - [*More Info*](marksman_artillery_vehicle/marksman_artillery_vehicle_ac.md) 
 
@@ -44,7 +44,7 @@
   - Light PPC 
   - Sniper (ammo: 20) 
   - Heavy Machine Gun × 4 (ammo: 200) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2076) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2076) 
 - **Battle Value:** 684 
 - [*More Info*](marksman_artillery_vehicle/marksman_artillery_vehicle_light_ppc.md) 
 

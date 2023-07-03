@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Small Laser 
   - SRM 2 (OS) × 2 
-- **Source:** TRO Dark Age - Dark Age 
+- **Source:** TRO: Dark Age 
 - **Battle Value:** 40 (359 for 6 suits) 
 
 ## Availability 

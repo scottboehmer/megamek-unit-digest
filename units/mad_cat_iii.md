@@ -20,7 +20,7 @@
   - Improved Communications 
   - Prototype 
   - Bad Reputation (Clan) 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4563) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/4563) 
 - **Battle Value:** 2232 
 - [*More Info*](mad_cat_iii/mad_cat_iii_x.md) 
 
@@ -42,7 +42,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4561) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4561) 
 - **Battle Value:** 2400 
 - [*More Info*](mad_cat_iii/mad_cat_iii.md) 
 
@@ -66,7 +66,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5543) 
+- **Sources:** Dark Age Turning Points: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5543) 
 - **Battle Value:** 2393 
 - [*More Info*](mad_cat_iii/mad_cat_iii_eve.md) 
 
@@ -88,7 +88,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4562) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4562) 
 - **Battle Value:** 1697 
 - [*More Info*](mad_cat_iii/mad_cat_iii_2.md) 
 
@@ -110,7 +110,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6896) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6896) 
 - **Battle Value:** 2095 
 - [*More Info*](mad_cat_iii/mad_cat_iii_2_mwda.md) 
 
@@ -132,7 +132,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6896) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6896) 
 - **Battle Value:** 2515 
 - [*More Info*](mad_cat_iii/mad_cat_iii_3.md) 
 
@@ -156,7 +156,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6897) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6897) 
 - **Battle Value:** 2061 
 - [*More Info*](mad_cat_iii/mad_cat_iii_4.md) 
 
@@ -178,7 +178,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6898) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6898) 
 - **Battle Value:** 2095 
 - [*More Info*](mad_cat_iii/mad_cat_iii_5.md) 
 
@@ -202,7 +202,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6896) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6896) 
 - **Battle Value:** 2061 
 - [*More Info*](mad_cat_iii/mad_cat_iii_dark_age_rs.md) 
 

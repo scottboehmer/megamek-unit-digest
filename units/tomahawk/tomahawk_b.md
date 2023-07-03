@@ -18,7 +18,7 @@
   - ER Medium Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6300) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6300) 
 - **Battle Value:** 3323 
 
 ## Availability 

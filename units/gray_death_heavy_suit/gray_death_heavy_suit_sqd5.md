@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8523) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8523) 
 - **Battle Value:** 49 (344 for 5 suits) 
 
 ## Availability 

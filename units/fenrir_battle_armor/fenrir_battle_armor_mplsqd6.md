@@ -11,7 +11,7 @@
 - **Armor:** 5 (Standard) 
 - **Weapons:** 
   - Medium Pulse Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8875) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8875) 
 - **Battle Value:** 58 (526 for 6 suits) 
 
 ## Availability 

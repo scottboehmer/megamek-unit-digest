@@ -19,7 +19,7 @@
 - **Equipment:** 
   - AES × 2 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9396) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9396) 
 - **Battle Value:** 1919 
 
 ## Availability 

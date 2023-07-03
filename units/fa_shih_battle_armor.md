@@ -17,7 +17,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1014) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1014) 
 - **Battle Value:** 39 (201 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_flamersqd4.md) 
 
@@ -38,7 +38,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8502) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8502) 
 - **Battle Value:** 39 (271 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_flamersqd5.md) 
 
@@ -59,7 +59,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8866) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8866) 
 - **Battle Value:** 39 (348 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_flamersqd6.md) 
 
@@ -80,7 +80,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1015) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1015) 
 - **Battle Value:** 45 (233 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lasersqd4.md) 
 
@@ -101,7 +101,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8503) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8503) 
 - **Battle Value:** 45 (314 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lasersqd5.md) 
 
@@ -122,7 +122,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8867) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8867) 
 - **Battle Value:** 45 (404 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lasersqd6.md) 
 
@@ -143,7 +143,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1016) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1016) 
 - **Battle Value:** 49 (257 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lrrsqd4.md) 
 
@@ -164,7 +164,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8504) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8504) 
 - **Battle Value:** 49 (346 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lrrsqd5.md) 
 
@@ -185,7 +185,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8868) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8868) 
 - **Battle Value:** 49 (445 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_lrrsqd6.md) 
 
@@ -206,7 +206,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1017) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1017) 
 - **Battle Value:** 39 (201 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_mgsqd4.md) 
 
@@ -227,7 +227,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8505) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8505) 
 - **Battle Value:** 39 (271 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_mgsqd5.md) 
 
@@ -248,7 +248,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8869) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8869) 
 - **Battle Value:** 39 (348 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_mgsqd6.md) 
 
@@ -268,7 +268,7 @@
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1018) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1018) 
 - **Battle Value:** 31 (161 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_tagsqd4.md) 
 
@@ -288,7 +288,7 @@
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8506) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8506) 
 - **Battle Value:** 31 (217 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_tagsqd5.md) 
 
@@ -308,7 +308,7 @@
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8870) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8870) 
 - **Battle Value:** 31 (279 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_tagsqd6.md) 
 
@@ -324,7 +324,7 @@
   - King David Light Gauss Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1012) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1012) 
 - **Battle Value:** 30 (157 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_king_davidsqd4.md) 
 
@@ -343,7 +343,7 @@
   - King David Light Gauss Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8500) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8500) 
 - **Battle Value:** 36 (249 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_king_davidsqd5.md) 
 
@@ -362,7 +362,7 @@
   - King David Light Gauss Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8864) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8864) 
 - **Battle Value:** 36 (320 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_king_davidsqd6.md) 
 
@@ -381,7 +381,7 @@
   - Man-Portable Plasma Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1013) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1013) 
 - **Battle Value:** 43 (225 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_plasmasqd4.md) 
 
@@ -400,7 +400,7 @@
   - Man-Portable Plasma Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8501) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8501) 
 - **Battle Value:** 43 (303 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_plasmasqd5.md) 
 
@@ -419,7 +419,7 @@
   - Man-Portable Plasma Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8865) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8865) 
 - **Battle Value:** 43 (390 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_support_plasmasqd6.md) 
 
@@ -440,7 +440,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Clan Myomer Booster 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1019) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/1019) 
 - **Battle Value:** 29 (150 for 4 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_2_mgsqd4.md) 
 
@@ -461,7 +461,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Clan Myomer Booster 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8507) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/8507) 
 - **Battle Value:** 29 (203 for 5 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_2_mgsqd5.md) 
 
@@ -482,7 +482,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Clan Myomer Booster 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8871) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/8871) 
 - **Battle Value:** 29 (260 for 6 suits) 
 - [*More Info*](fa_shih_battle_armor/fa_shih_battle_armor_2_mgsqd6.md) 
 

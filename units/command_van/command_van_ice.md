@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** Rec Guide:ilClan #29 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3977) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/3977) 
 - **Battle Value:** 178 
 
 ## Availability 

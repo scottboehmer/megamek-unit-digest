@@ -18,7 +18,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5026) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5026) 
 - **Battle Value:** 1379 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 24) 
   - Medium Laser × 2 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4823) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4823) 
 - **Battle Value:** 1465 
 
 ## Availability 

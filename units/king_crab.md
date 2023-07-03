@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1770) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1770) 
 - **Battle Value:** 1906 
 - [*More Info*](king_crab/king_crab_kgc-000.md) 
 
@@ -36,7 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1772) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1772) 
 - **Battle Value:** 2039 
 - [*More Info*](king_crab/king_crab_kgc-000b.md) 
 
@@ -56,7 +56,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1778) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1778) 
 - **Battle Value:** 2181 
 - [*More Info*](king_crab/king_crab_kgc-010.md) 
 
@@ -74,7 +74,7 @@
   - Large Laser 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1771) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1771) 
 - **Battle Value:** 1810 
 - [*More Info*](king_crab/king_crab_kgc-0000.md) 
 
@@ -95,7 +95,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1773) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1773) 
 - **Battle Value:** 2221 
 - [*More Info*](king_crab/king_crab_kgc-001.md) 
 
@@ -116,7 +116,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1774) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1774) 
 - **Battle Value:** 2264 
 - [*More Info*](king_crab/king_crab_kgc-005.md) 
 
@@ -141,7 +141,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1777) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1777) 
 - **Battle Value:** 2369 
 - [*More Info*](king_crab/king_crab_kgc-008.md) 
 
@@ -162,7 +162,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1775) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1775) 
 - **Battle Value:** 2335 
 - [*More Info*](king_crab/king_crab_kgc-005r.md) 
 
@@ -183,7 +183,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1776) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1776) 
 - **Battle Value:** 2523 
 - [*More Info*](king_crab/king_crab_kgc-007.md) 
 
@@ -208,7 +208,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5494) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5494) 
 - **Battle Value:** 2374 
 - [*More Info*](king_crab/king_crab_kgc-008b.md) 
 
@@ -233,7 +233,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Command ’Mech 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6635) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6635) 
 - **Battle Value:** 2260 
 - [*More Info*](king_crab/king_crab_kgc-009.md) 
 
@@ -255,7 +255,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8066) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8066) 
 - **Battle Value:** 2652 
 - [*More Info*](king_crab/king_crab_kgc-009c.md) 
 
@@ -275,7 +275,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7514) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7514) 
 - **Battle Value:** 2406 
 - [*More Info*](king_crab/king_crab_kgc-011.md) 
 

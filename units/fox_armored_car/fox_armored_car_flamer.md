@@ -14,7 +14,7 @@
   - ER Medium Laser 
   - Small Pulse Laser 
   - Flamer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1150) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1150) 
 - **Battle Value:** 530 
 
 ## Availability 

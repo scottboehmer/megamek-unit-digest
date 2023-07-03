@@ -20,7 +20,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #10 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/75) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/75) 
 - **Battle Value:** 1705 
 
 ## Availability 

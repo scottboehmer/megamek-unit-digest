@@ -23,7 +23,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** Rec Guide:ilClan #29 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9397) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9397) 
 - **Battle Value:** 2762 
 
 ## Availability 

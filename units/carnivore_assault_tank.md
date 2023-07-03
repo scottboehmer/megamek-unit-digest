@@ -15,7 +15,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/465) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/465) 
 - **Battle Value:** 1997 
 - [*More Info*](carnivore_assault_tank/carnivore_assault_tank.md) 
 
@@ -35,7 +35,7 @@
   - ECM Suite 
   - Anti-Missile System × 2 (ammo: 48) 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/463) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/463) 
 - **Battle Value:** 2286 
 - [*More Info*](carnivore_assault_tank/carnivore_assault_tank_hag.md) 
 
@@ -53,7 +53,7 @@
   - Light Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/464) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/464) 
 - **Battle Value:** 1248 
 - [*More Info*](carnivore_assault_tank/carnivore_assault_tank_second_line.md) 
 

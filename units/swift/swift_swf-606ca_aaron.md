@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Pulse Laser × 3 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7326) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7326) 
 - **Battle Value:** Unknown 
 
 ## Availability 

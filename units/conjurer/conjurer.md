@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/1473) 
 - **Battle Value:** 1813 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - SRM 2 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1944) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1944) 
 - **Battle Value:** 47 (247 for 4 suits) 
 
 ## Availability 

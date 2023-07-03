@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7535) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7535) 
 - **Battle Value:** 2708 
 
 ## Availability 

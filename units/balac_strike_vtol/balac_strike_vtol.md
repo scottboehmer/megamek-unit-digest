@@ -15,7 +15,7 @@
   - ATM 6 × 2 (ammo: 20 Standard, 10 ER, 10 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/210) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/210) 
 - **Battle Value:** 1271 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1489) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1489) 
 - **Battle Value:** 649 
 
 ## Availability 

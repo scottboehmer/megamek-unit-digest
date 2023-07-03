@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Minesweeper 
-- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4996) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4996) 
 - **Battle Value:** 323 
 
 ## Availability 

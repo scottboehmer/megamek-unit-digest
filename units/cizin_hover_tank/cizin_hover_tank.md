@@ -15,7 +15,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6380) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6380) 
 - **Battle Value:** 1514 
 
 ## Availability 

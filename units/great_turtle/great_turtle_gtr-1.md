@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Poor Performance 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1281) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1281) 
 - **Battle Value:** 3152 
 
 ## Availability 

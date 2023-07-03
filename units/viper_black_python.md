@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3432) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/3432) 
 - **Battle Value:** 2813 
 - [*More Info*](black_python/black_python.md) 
 
@@ -43,7 +43,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3433) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/3433) 
 - **Battle Value:** 2520 
 - [*More Info*](black_python/black_python_2.md) 
 
@@ -64,7 +64,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7792) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7792) 
 - **Battle Value:** 2925 
 - [*More Info*](black_python/black_python_5.md) 
 
@@ -87,7 +87,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3434) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3434) 
 - **Battle Value:** 2421 
 - [*More Info*](black_python/black_python_3.md) 
 
@@ -109,7 +109,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3435) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3435) 
 - **Battle Value:** 2594 
 - [*More Info*](black_python/black_python_4.md) 
 

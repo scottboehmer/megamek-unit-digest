@@ -20,7 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/371) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/371) 
 - **Battle Value:** 1998 
 
 ## Availability 

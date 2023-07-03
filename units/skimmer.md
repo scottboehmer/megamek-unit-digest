@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Small Laser 
   - Flamer 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5065) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/5065) 
 - **Battle Value:** 85 
 - [*More Info*](skimmer/skimmer.md) 
 

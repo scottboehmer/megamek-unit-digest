@@ -18,7 +18,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2695) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2695) 
 - **Battle Value:** 1066 
 
 ## Availability 

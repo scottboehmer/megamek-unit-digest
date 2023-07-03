@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1540) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1540) 
 - **Battle Value:** 1736 
 
 ## Availability 

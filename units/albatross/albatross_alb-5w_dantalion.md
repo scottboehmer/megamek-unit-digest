@@ -25,7 +25,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Long) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/30) 
+- **Sources:** Jihad Turning Points: Atreus , [Master Unit List](http://masterunitlist.info/Unit/Details/30) 
 - **Battle Value:** 2296 
 
 ## Availability 

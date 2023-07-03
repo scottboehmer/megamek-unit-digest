@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1766) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1766) 
 - **Battle Value:** 252 
 
 ## Availability 

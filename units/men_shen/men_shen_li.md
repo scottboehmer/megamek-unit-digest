@@ -20,7 +20,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6981) 
+- **Sources:** BattleTech Dossiers: Youling Zhanshi , [Master Unit List](http://masterunitlist.info/Unit/Details/6981) 
 - **Battle Value:** 1550 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3534) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3534) 
 - **Battle Value:** 1067 
 - [*More Info*](watchman/watchman_wtc-4m.md) 
 
@@ -39,7 +39,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3533) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3533) 
 - **Battle Value:** 1225 
 - [*More Info*](watchman/watchman_wtc-4dm.md) 
 
@@ -61,7 +61,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** XTRO Royal Fantasy - Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8371) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8371) 
 - **Battle Value:** 1234 
 - [*More Info*](watchman/watchman_wtc-4mb_belle.md) 
 
@@ -82,7 +82,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8009) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8009) 
 - **Battle Value:** 1063 
 - [*More Info*](watchman/watchman_wtc-4dm2.md) 
 

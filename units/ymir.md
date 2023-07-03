@@ -17,7 +17,7 @@
   - Vehicle Flamer × 2 (ammo: 20) 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3623) 
+- **Sources:** XTR: Primitives V , [Master Unit List](http://masterunitlist.info/Unit/Details/3623) 
 - **Battle Value:** 1194 
 - [*More Info*](ymir/ymir_bwp-x1_bipedal_weapons_platform.md) 
 
@@ -37,7 +37,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3620) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3620) 
 - **Battle Value:** 1289 
 - [*More Info*](ymir/ymir_bwp-2b.md) 
 
@@ -55,7 +55,7 @@
   - SRM 6 (ammo: 15) 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5429) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5429) 
 - **Battle Value:** 1393 
 - [*More Info*](ymir/ymir_bwp-2e.md) 
 
@@ -74,7 +74,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3622) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3622) 
 - **Battle Value:** 1491 
 - [*More Info*](ymir/ymir_bwp-3a.md) 
 

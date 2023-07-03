@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Directional Torso Mount (Heavy PPC) 
-- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2347) 
+- **Sources:** BattleTech Dossiers: Lamenkov's Liability , [Master Unit List](http://masterunitlist.info/Unit/Details/2347) 
 - **Battle Value:** 1461 
 
 ## Availability 

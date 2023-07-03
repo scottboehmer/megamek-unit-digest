@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Extended Fuel Tank 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7855) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7855) 
 - **Battle Value:** 339 
 
 ## Availability 

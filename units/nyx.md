@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2307) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2307) 
 - **Battle Value:** 924 
 - [*More Info*](nyx/nyx_nx-80.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2308) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2308) 
 - **Battle Value:** 874 
 - [*More Info*](nyx/nyx_nx-80c.md) 
 
@@ -57,7 +57,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2309) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2309) 
 - **Battle Value:** 613 
 - [*More Info*](nyx/nyx_nx-90.md) 
 
@@ -75,7 +75,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6937) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6937) 
 - **Battle Value:** 917 
 - [*More Info*](nyx/nyx_nx-100.md) 
 
@@ -96,7 +96,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6936) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6936) 
 - **Battle Value:** 805 
 - [*More Info*](nyx/nyx_nx-110.md) 
 

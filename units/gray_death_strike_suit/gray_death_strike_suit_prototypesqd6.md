@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8989) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/8989) 
 - **Battle Value:** 63 (569 for 6 suits) 
 
 ## Availability 

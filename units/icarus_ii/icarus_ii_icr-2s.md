@@ -17,7 +17,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1601) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1601) 
 - **Battle Value:** 986 
 
 ## Availability 

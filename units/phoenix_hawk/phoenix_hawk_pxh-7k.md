@@ -22,7 +22,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (Snub-Nose PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2508) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2508) 
 - **Battle Value:** 1241 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Jet Booster 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/508) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/508) 
 - **Battle Value:** 451 
 
 ## Availability 

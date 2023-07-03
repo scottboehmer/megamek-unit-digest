@@ -20,7 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2453) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2453) 
 - **Battle Value:** 2981 
 
 ## Availability 

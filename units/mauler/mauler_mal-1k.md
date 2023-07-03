@@ -19,7 +19,7 @@
   - Stabilized Weapon (Light AC/5) 
   - Stabilized Weapon (Light AC/5) 
   - Stabilized Weapon (Light AC/5) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2100) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2100) 
 - **Battle Value:** 1622 
 
 ## Availability 

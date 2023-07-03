@@ -21,7 +21,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/885) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/885) 
 - **Battle Value:** 1584 
 - [*More Info*](deva/deva_c-dva-o_invictus.md) 
 
@@ -49,7 +49,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/886) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/886) 
 - **Battle Value:** 1727 
 - [*More Info*](deva/deva_c-dva-oa_dominus.md) 
 
@@ -74,7 +74,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/887) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/887) 
 - **Battle Value:** 1713 
 - [*More Info*](deva/deva_c-dva-ob_infernus.md) 
 
@@ -101,7 +101,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/888) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/888) 
 - **Battle Value:** 1749 
 - [*More Info*](deva/deva_c-dva-oc_comminus.md) 
 
@@ -127,7 +127,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/889) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/889) 
 - **Battle Value:** 1711 
 - [*More Info*](deva/deva_c-dva-od_luminos.md) 
 
@@ -152,7 +152,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/884) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/884) 
 - **Battle Value:** 1595 
 - [*More Info*](deva/deva_c-dva-o_achilleus.md) 
 
@@ -177,7 +177,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/890) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/890) 
 - **Battle Value:** 1686 
 - [*More Info*](deva/deva_c-dva-oe_eminus.md) 
 
@@ -203,7 +203,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/891) 
+- **Sources:** Jihad Secrets: The Blake Documents , [Master Unit List](http://masterunitlist.info/Unit/Details/891) 
 - **Battle Value:** 1785 
 - [*More Info*](deva/deva_c-dva-os_caelestis.md) 
 
@@ -230,7 +230,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/892) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/892) 
 - **Battle Value:** 1685 
 - [*More Info*](deva/deva_c-dva-ou_exanimus.md) 
 

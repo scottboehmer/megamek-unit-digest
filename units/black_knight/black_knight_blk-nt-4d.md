@@ -21,7 +21,7 @@
   - Clan Angel ECM Suite 
 - **Design Quirks:** 
   - Accurate Weapon (ER PPC) 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6350) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6350) 
 - **Battle Value:** 2280 
 
 ## Availability 

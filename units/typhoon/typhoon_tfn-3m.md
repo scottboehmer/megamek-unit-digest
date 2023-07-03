@@ -15,7 +15,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - PPC × 2 
   - LRM 15 (ammo: 16) 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5312) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5312) 
 - **Battle Value:** Unknown 
 
 ## Availability 

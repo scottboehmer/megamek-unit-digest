@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1700) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/1700) 
 - **Battle Value:** 788 
 
 ## Availability 

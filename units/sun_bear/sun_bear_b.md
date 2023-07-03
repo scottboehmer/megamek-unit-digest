@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7625) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7625) 
 - **Battle Value:** 2144 
 
 ## Availability 

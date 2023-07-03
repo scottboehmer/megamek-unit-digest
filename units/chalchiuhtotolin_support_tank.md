@@ -16,7 +16,7 @@
   - Vehicle Flamer (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/537) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/537) 
 - **Battle Value:** 1056 
 - [*More Info*](chalchiuhtotolin_support_tank/chalchiuhtotolin_support_tank.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/536) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/536) 
 - **Battle Value:** 864 
 - [*More Info*](chalchiuhtotolin_support_tank/chalchiuhtotolin_support_tank_bombast_laser.md) 
 
@@ -54,7 +54,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Inner Sphere Chaff Pod × 2 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3938) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3938) 
 - **Battle Value:** 1180 
 - [*More Info*](chalchiuhtotolin_support_tank/chalchiuhtotolin_support_tank_chemical_laser.md) 
 
@@ -70,7 +70,7 @@
   - Streak LRM 15 (ammo: 8) 
   - Medium Pulse Laser × 4 
   - Light Machine Gun × 4 (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6756) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6756) 
 - **Battle Value:** 1432 
 - [*More Info*](chalchiuhtotolin_support_tank/chalchiuhtotolin_support_tank_xl.md) 
 

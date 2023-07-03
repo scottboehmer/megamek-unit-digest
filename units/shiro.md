@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6416) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6416) 
 - **Battle Value:** 2016 
 - [*More Info*](shiro/shiro_sh-1v.md) 
 
@@ -38,7 +38,7 @@
   - Coolant Pod 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6417) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6417) 
 - **Battle Value:** 2570 
 - [*More Info*](shiro/shiro_sh-2p.md) 
 

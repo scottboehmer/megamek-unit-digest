@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC 
   - SRM 4 w/ Artemis IV × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2772) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2772) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/739) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/739) 
 - **Battle Value:** 1829 
 - [*More Info*](crossbow_omnimech/crossbow_prime.md) 
 
@@ -34,7 +34,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/730) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/730) 
 - **Battle Value:** 1797 
 - [*More Info*](crossbow_omnimech/crossbow_a.md) 
 
@@ -52,7 +52,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/731) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/731) 
 - **Battle Value:** 1687 
 - [*More Info*](crossbow_omnimech/crossbow_b.md) 
 
@@ -73,7 +73,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/738) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/738) 
 - **Battle Value:** 1707 
 - [*More Info*](crossbow_omnimech/crossbow_h.md) 
 
@@ -93,7 +93,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/732) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/732) 
 - **Battle Value:** 1557 
 - [*More Info*](crossbow_omnimech/crossbow_c.md) 
 
@@ -111,7 +111,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/736) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/736) 
 - **Battle Value:** 1154 
 - [*More Info*](crossbow_omnimech/crossbow_d.md) 
 
@@ -130,7 +130,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #17 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/737) 
 - **Battle Value:** 1558 
 - [*More Info*](crossbow_omnimech/crossbow_e.md) 
 
@@ -151,7 +151,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/740) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/740) 
 - **Battle Value:** 1856 
 - [*More Info*](crossbow_omnimech/crossbow_u.md) 
 
@@ -168,7 +168,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8236) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8236) 
 - **Battle Value:** 1854 
 - [*More Info*](crossbow_omnimech/crossbow_f.md) 
 
@@ -186,7 +186,7 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8238) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8238) 
 - **Battle Value:** 2051 
 - [*More Info*](crossbow_omnimech/crossbow_w.md) 
 
@@ -202,7 +202,7 @@
   - Streak LRM 5 × 6 (ammo: 96) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8237) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8237) 
 - **Battle Value:** 1725 
 - [*More Info*](crossbow_omnimech/crossbow_g.md) 
 
@@ -220,7 +220,7 @@
 - **Equipment:** 
   - Talons 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8245) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8245) 
 - **Battle Value:** 1839 
 - [*More Info*](crossbow_omnimech/crossbow_j.md) 
 
@@ -238,7 +238,7 @@
   - SRM 2 (iOS) × 14 
 - **Equipment:** 
   - Light Active Probe 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8235) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8235) 
 - **Battle Value:** 1729 
 - [*More Info*](crossbow_omnimech/crossbow_t.md) 
 

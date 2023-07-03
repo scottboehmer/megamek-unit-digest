@@ -23,7 +23,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2297) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2297) 
 - **Battle Value:** 1705 
 
 ## Availability 

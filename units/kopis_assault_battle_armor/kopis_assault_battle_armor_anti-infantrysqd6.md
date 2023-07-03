@@ -17,7 +17,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8925) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8925) 
 - **Battle Value:** 57 (515 for 6 suits) 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3503) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3503) 
 - **Battle Value:** 2386 
 
 ## Availability 

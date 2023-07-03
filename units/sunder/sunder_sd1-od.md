@@ -16,7 +16,7 @@
   - PPC × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3128) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3128) 
 - **Battle Value:** 1947 
 
 ## Availability 

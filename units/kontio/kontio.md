@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8352) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/8352) 
 - **Battle Value:** 1912 
 
 ## Availability 

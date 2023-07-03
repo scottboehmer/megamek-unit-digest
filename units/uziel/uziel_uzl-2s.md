@@ -21,7 +21,7 @@
   - Cowl 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5331) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5331) 
 - **Battle Value:** 1352 
 
 ## Availability 

@@ -22,7 +22,7 @@
   - Command ’Mech 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/327) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/327) 
 - **Battle Value:** 1319 
 
 ## Availability 

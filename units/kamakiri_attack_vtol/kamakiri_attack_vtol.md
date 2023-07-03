@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - Thunderbolt 10 × 2 (ammo: 18) 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6382) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6382) 
 - **Battle Value:** 1231 
 
 ## Availability 

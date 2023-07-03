@@ -19,7 +19,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3163) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3163) 
 - **Battle Value:** 967 
 
 ## Availability 

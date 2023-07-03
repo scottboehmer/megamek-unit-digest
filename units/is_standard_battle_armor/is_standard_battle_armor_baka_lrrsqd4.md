@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Light Recoilless Rifle 
   - SRM 2 (OS) × 2 
-- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8022) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8022) 
 - **Battle Value:** 43 (224 for 4 suits) 
 
 ## Availability 

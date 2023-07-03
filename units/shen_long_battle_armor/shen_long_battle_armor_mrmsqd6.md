@@ -11,7 +11,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - MRM 5 (ammo: 4) 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9110) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/9110) 
 - **Battle Value:** 68 (610 for 6 suits) 
 
 ## Availability 

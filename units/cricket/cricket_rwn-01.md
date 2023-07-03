@@ -22,7 +22,7 @@
   - Narrow/Low Profile 
   - Difficult to Maintain 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7523) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7523) 
 - **Battle Value:** 1169 
 
 ## Availability 

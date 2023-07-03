@@ -15,7 +15,7 @@
   - Salvage Arm (left) 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8659) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8659) 
 - **Battle Value:** 12 (82 for 5 suits) 
 
 ## Availability 

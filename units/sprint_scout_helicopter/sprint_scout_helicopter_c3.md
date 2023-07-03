@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3022) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3022) 
 - **Battle Value:** 82 
 
 ## Availability 

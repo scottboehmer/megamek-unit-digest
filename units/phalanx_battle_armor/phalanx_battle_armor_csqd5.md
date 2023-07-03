@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Heavy Mortar 
   - Magshot Gauss Rifle 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8657) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8657) 
 - **Battle Value:** 47 (327 for 5 suits) 
 
 ## Availability 

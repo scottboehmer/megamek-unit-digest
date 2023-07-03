@@ -11,7 +11,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 18) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Rec Guide:ilClan #28 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3115) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/3115) 
 - **Battle Value:** 1400 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank.md) 
 
@@ -27,7 +27,7 @@
   - LRM 20 (ammo: 18) 
   - SRM 4 × 4 (ammo: 50) 
   - Machine Gun × 3 (ammo: 200) 
-- **Sources:** Rec Guide:ilClan #28 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3114) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/3114) 
 - **Battle Value:** 1390 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_srm.md) 
 
@@ -43,7 +43,7 @@
   - Heavy Gauss Rifle (ammo: 20) 
   - LRM 10 w/ Artemis IV (ammo: 24) 
   - ER Medium Laser 
-- **Sources:** Rec Guide:ilClan #28 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3113) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/3113) 
 - **Battle Value:** 1711 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_heavy_gauss.md) 
 
@@ -64,7 +64,7 @@
   - C3i 
   - CASE 
   - TAG 
-- **Sources:** Rec Guide:ilClan #28 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/6967) 
 - **Battle Value:** 1561 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_wob.md) 
 
@@ -85,7 +85,7 @@
   - M-Pod × 4 
   - CASE 
   - TAG 
-- **Sources:** Rec Guide:ilClan #28 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/6967) 
 - **Battle Value:** 1651 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_steiner.md) 
 
@@ -104,7 +104,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** Rec Guide:ilClan #28 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9373) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9373) 
 - **Battle Value:** 1670 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_support_gilmore.md) 
 
@@ -121,7 +121,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3115) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/3115) 
 - **Battle Value:** 1822 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_cell.md) 
 
@@ -141,7 +141,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9372) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9372) 
 - **Battle Value:** 2199 
 - [*More Info*](sturmfeur_heavy_tank/sturmfeur_heavy_tank_assault.md) 
 

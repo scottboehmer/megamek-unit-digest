@@ -24,7 +24,7 @@
   - Stable 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TP:Arcturus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7342) 
+- **Sources:** Turning Points: Arcturus , [Master Unit List](http://masterunitlist.info/Unit/Details/7342) 
 - **Battle Value:** 2073 
 
 ## Availability 

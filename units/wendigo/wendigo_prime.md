@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6402) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6402) 
 - **Battle Value:** 2122 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - Targeting Computer 
-- **Sources:** RS3150 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7988) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7988) 
 - **Battle Value:** 1296 
 
 ## Availability 

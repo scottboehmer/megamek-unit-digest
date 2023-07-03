@@ -21,7 +21,7 @@
   - Guardian ECM Suite 
   - Full Head Ejection System 
   - Targeting Computer 
-- **Sources:** Shrapnel 7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8438) 
+- **Sources:** Shrapnel #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/8438) 
 - **Battle Value:** 1788 
 
 ## Availability 

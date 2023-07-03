@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (Heavy Medium Laser) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2476) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2476) 
 - **Battle Value:** 1523 
 
 ## Availability 

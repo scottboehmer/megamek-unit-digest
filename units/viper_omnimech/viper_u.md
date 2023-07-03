@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/927) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/927) 
 - **Battle Value:** 1417 
 
 ## Availability 

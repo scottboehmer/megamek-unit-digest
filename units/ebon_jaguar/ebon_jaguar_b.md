@@ -19,7 +19,7 @@
   - TAG 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/491) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/491) 
 - **Battle Value:** 2535 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3i 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3651) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3651) 
 - **Battle Value:** 983 
 
 ## Availability 

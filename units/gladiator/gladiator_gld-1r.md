@@ -20,7 +20,7 @@
   - Poor Sealing 
   - Unbalanced 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1198) 
+- **Sources:** XTR: Primitives II , [Master Unit List](http://masterunitlist.info/Unit/Details/1198) 
 - **Battle Value:** 1027 
 
 ## Availability 

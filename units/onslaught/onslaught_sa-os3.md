@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2323) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2323) 
 - **Battle Value:** 1659 
 
 ## Availability 

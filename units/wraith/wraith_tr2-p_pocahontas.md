@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8381) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8381) 
 - **Battle Value:** 2051 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2208) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2208) 
 - **Battle Value:** 758 
 - [*More Info*](mongoose/mongoose_mon-66.md) 
 
@@ -40,7 +40,7 @@
   - Command ’Mech 
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2209) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2209) 
 - **Battle Value:** 934 
 - [*More Info*](mongoose/mongoose_mon-66b.md) 
 
@@ -58,7 +58,7 @@
 - **Equipment:** 
   - Null-Signature System 
   - Chameleon LPS 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7318) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7318) 
 - **Battle Value:** 887 
 - [*More Info*](mongoose/mongoose_mon-66gx.md) 
 
@@ -79,7 +79,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4656) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4656) 
 - **Battle Value:** 737 
 - [*More Info*](mongoose/mongoose_mon-69.md) 
 
@@ -98,7 +98,7 @@
   - Command ’Mech 
   - Easy to Pilot 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2213) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2213) 
 - **Battle Value:** 750 
 - [*More Info*](mongoose/mongoose_mon-70.md) 
 
@@ -118,7 +118,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2210) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2210) 
 - **Battle Value:** 741 
 - [*More Info*](mongoose/mongoose_mon-67.md) 
 
@@ -138,7 +138,7 @@
   - Active Probe 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7603) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7603) 
 - **Battle Value:** 1386 
 - [*More Info*](mongoose/mongoose_c.md) 
 
@@ -159,7 +159,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7604) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7604) 
 - **Battle Value:** 1620 
 - [*More Info*](mongoose/mongoose_c_2.md) 
 
@@ -176,7 +176,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Easy to Pilot 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4655) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/4655) 
 - **Battle Value:** 676 
 - [*More Info*](mongoose/mongoose_mon-68.md) 
 
@@ -199,7 +199,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Pulse Laser) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2214) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2214) 
 - **Battle Value:** 894 
 - [*More Info*](mongoose/mongoose_mon-76.md) 
 
@@ -222,7 +222,7 @@
   - Command ’Mech 
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2215) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2215) 
 - **Battle Value:** 887 
 - [*More Info*](mongoose/mongoose_mon-86.md) 
 
@@ -240,7 +240,7 @@
 - **Equipment:** 
   - Bloodhound Active Probe 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7724) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7724) 
 - **Battle Value:** 1011 
 - [*More Info*](mongoose/mongoose_mon-96.md) 
 

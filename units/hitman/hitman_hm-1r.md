@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Accurate Weapon (TAG) 
   - Stabilized Weapon (TAG) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1534) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1534) 
 - **Battle Value:** 938 
 
 ## Availability 

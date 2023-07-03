@@ -25,7 +25,7 @@
   - Stabilized Weapon (ER Large Laser) 
   - Stabilized Weapon (ER Large Laser) 
   - Stabilized Weapon (LB 20-X AC) 
-- **Sources:** Rec Guide:ilClan #26 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9323) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9323) 
 - **Battle Value:** 2160 
 
 ## Availability 

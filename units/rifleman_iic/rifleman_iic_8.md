@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2717) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2717) 
 - **Battle Value:** 2541 
 
 ## Availability 

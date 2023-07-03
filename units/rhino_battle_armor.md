@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Small Pulse Laser 
   - SRM 2 (ammo: 6) 
-- **Sources:** TRO Golden Century - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9200) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/9200) 
 - **Battle Value:** 68 (352 for 4 suits) 
 - [*More Info*](rhino_battle_armor/rhino_battle_armor_sqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Weapons:** 
   - Small Pulse Laser 
   - SRM 2 (ammo: 6) 
-- **Sources:** TRO Golden Century - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4912) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/4912) 
 - **Battle Value:** 68 (474 for 5 suits) 
 - [*More Info*](rhino_battle_armor/rhino_battle_armor_sqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Weapons:** 
   - Small Pulse Laser 
   - SRM 2 (ammo: 6) 
-- **Sources:** TRO Golden Century - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9201) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/9201) 
 - **Battle Value:** 68 (609 for 6 suits) 
 - [*More Info*](rhino_battle_armor/rhino_battle_armor_sqd6.md) 
 

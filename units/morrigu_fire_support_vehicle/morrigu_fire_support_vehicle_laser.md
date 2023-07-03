@@ -12,7 +12,7 @@
 - **Heat Sinks:** 36 (36) 
 - **Weapons:** 
   - ER Large Laser × 3 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4673) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4673) 
 - **Battle Value:** 1324 
 
 ## Availability 

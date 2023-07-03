@@ -16,7 +16,7 @@
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
   - AC/2 × 2 (ammo: 45) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2924) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2924) 
 - **Battle Value:** Unknown 
 
 ## Availability 

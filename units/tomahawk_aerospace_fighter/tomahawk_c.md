@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3050u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3268) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3268) 
 - **Battle Value:** Unknown 
 
 ## Availability 

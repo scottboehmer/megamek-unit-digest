@@ -19,7 +19,7 @@
   - Small Pulse Laser × 4 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** BD: Jason Zaklan - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7395) 
+- **Sources:** BattleTech Dossiers: Jason Zaklan , [Master Unit List](http://masterunitlist.info/Unit/Details/7395) 
 - **Battle Value:** 1641 
 
 ## Availability 

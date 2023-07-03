@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - Machine Gun Array 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9389) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9389) 
 - **Battle Value:** 1560 
 
 ## Availability 

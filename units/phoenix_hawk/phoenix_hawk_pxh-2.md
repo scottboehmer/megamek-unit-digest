@@ -21,7 +21,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (Large Laser) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2496) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2496) 
 - **Battle Value:** 1145 
 
 ## Availability 

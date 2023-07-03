@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult Ejection 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5131) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5131) 
 - **Battle Value:** 859 
 - [*More Info*](stiletto/stiletto_sto-4a.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult Ejection 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5132) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5132) 
 - **Battle Value:** 1164 
 - [*More Info*](stiletto/stiletto_sto-4b.md) 
 
@@ -58,7 +58,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult Ejection 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5666) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5666) 
 - **Battle Value:** 941 
 - [*More Info*](stiletto/stiletto_sto-4c.md) 
 
@@ -79,7 +79,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult Ejection 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5134) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/5134) 
 - **Battle Value:** 1192 
 - [*More Info*](stiletto/stiletto_sto-6x.md) 
 
@@ -101,7 +101,7 @@
   - Multi-Trac 
   - Difficult Ejection 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5133) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5133) 
 - **Battle Value:** 1171 
 - [*More Info*](stiletto/stiletto_sto-6s.md) 
 

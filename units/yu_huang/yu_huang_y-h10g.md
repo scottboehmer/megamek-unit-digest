@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Good Reputation 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3624) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3624) 
 - **Battle Value:** 2433 
 
 ## Availability 

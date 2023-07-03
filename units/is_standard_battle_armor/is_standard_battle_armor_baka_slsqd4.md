@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Small Laser 
   - SRM 2 (OS) × 2 
-- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8023) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8023) 
 - **Battle Value:** 40 (207 for 4 suits) 
 
 ## Availability 

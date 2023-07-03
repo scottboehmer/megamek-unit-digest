@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2808) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2808) 
 - **Battle Value:** 708 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/800) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/800) 
 - **Battle Value:** 1831 
 
 ## Availability 

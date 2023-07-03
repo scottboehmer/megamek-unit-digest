@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1316) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1316) 
 - **Battle Value:** 1952 
 
 ## Availability 

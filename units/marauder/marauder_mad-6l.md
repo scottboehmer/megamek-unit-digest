@@ -20,7 +20,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2045) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2045) 
 - **Battle Value:** 2322 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Flamer 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4939) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4939) 
 - **Battle Value:** 39 (204 for 4 suits) 
 
 ## Availability 

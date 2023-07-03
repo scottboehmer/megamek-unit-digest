@@ -19,7 +19,7 @@
   - Laser Anti-Missile System 
   - MASC 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8206) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8206) 
 - **Battle Value:** 3286 
 
 ## Availability 

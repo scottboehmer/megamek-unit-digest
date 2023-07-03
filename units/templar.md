@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5191) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5191) 
 - **Battle Value:** 2045 
 - [*More Info*](templar/templar_tlr1-o.md) 
 
@@ -42,7 +42,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5195) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5195) 
 - **Battle Value:** 2070 
 - [*More Info*](templar/templar_tlr1-oa.md) 
 
@@ -62,7 +62,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5196) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5196) 
 - **Battle Value:** 1806 
 - [*More Info*](templar/templar_tlr1-ob.md) 
 
@@ -84,7 +84,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5197) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5197) 
 - **Battle Value:** 2063 
 - [*More Info*](templar/templar_tlr1-oc.md) 
 
@@ -103,7 +103,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5707) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5707) 
 - **Battle Value:** 1840 
 - [*More Info*](templar/templar_tlr1-od.md) 
 
@@ -126,7 +126,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5708) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5708) 
 - **Battle Value:** 1865 
 - [*More Info*](templar/templar_tlr1-oe.md) 
 
@@ -148,7 +148,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5192) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5192) 
 - **Battle Value:** 1868 
 - [*More Info*](templar/templar_tlr1-o_grayson.md) 
 
@@ -169,7 +169,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5193) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5193) 
 - **Battle Value:** 2273 
 - [*More Info*](templar/templar_tlr1-o_tancred.md) 
 
@@ -192,7 +192,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5709) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5709) 
 - **Battle Value:** 2029 
 - [*More Info*](templar/templar_tlr1-of.md) 
 
@@ -213,7 +213,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5710) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5710) 
 - **Battle Value:** 1632 
 - [*More Info*](templar/templar_tlr1-og.md) 
 
@@ -237,7 +237,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3171) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3171) 
 - **Battle Value:** 1747 
 - [*More Info*](templar/templar_tlr1-ou.md) 
 
@@ -260,7 +260,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5711) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5711) 
 - **Battle Value:** 1958 
 - [*More Info*](templar/templar_tlr1-oh.md) 
 
@@ -280,7 +280,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5712) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5712) 
 - **Battle Value:** 2202 
 - [*More Info*](templar/templar_tlr1-oi.md) 
 
@@ -304,7 +304,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** SO:Unending Faith: Late Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/7637) 
+- **Sources:** Spotlight On: Unending Faith , [Master Unit List](http://masterunitlist.info/Unit/Details/7637) 
 - **Battle Value:** 2062 
 - [*More Info*](templar/templar_tlr1-oblo.md) 
 
@@ -325,7 +325,7 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6852) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6852) 
 - **Battle Value:** 2423 
 - [*More Info*](templar/templar_tlr1-or.md) 
 

@@ -17,7 +17,7 @@
   - Medium Re-Engineered Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6357) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6357) 
 - **Battle Value:** 2108 
 
 ## Availability 

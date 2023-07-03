@@ -23,7 +23,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2707) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2707) 
 - **Battle Value:** 1503 
 
 ## Availability 

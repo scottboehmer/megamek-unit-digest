@@ -14,7 +14,7 @@
   - Snub-Nose PPC 
   - MML 5 w/ Artemis IV × 2 (ammo: 24 LRM, 20 SRM) 
   - Machine Gun (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6792) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6792) 
 - **Battle Value:** 841 
 
 ## Availability 

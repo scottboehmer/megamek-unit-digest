@@ -22,7 +22,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7697) 
+- **Sources:** Operational Turning Points: Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7697) 
 - **Battle Value:** 2150 
 
 ## Availability 

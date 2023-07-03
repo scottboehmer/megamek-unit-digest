@@ -14,7 +14,7 @@
   - Medium Laser 
   - MagShot Gauss Rifle × 2 (ammo: 50) 
   - Wrecking Ball 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7839) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7839) 
 - **Battle Value:** 444 
 
 ## Availability 

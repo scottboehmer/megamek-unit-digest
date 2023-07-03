@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Inner Sphere Angel ECM Suite 
   - Armored Motive System 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8052) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8052) 
 - **Battle Value:** 889 
 
 ## Availability 

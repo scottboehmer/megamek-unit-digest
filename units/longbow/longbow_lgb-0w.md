@@ -19,7 +19,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1930) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1930) 
 - **Battle Value:** 1337 
 
 ## Availability 

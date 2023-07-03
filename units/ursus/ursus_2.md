@@ -22,7 +22,7 @@
   - Distracting 
   - Protected Actuators 
   - Cramped Cockpit 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3364) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3364) 
 - **Battle Value:** 2054 
 
 ## Availability 

@@ -24,7 +24,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Directional Torso Mount (Anti-Missile System) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2273) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2273) 
 - **Battle Value:** 2878 
 
 ## Availability 

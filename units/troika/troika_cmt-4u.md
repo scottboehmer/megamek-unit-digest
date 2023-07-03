@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
   - Rocket 20 × 5 
   - Rocket 15 × 4 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5299) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5299) 
 - **Battle Value:** Unknown 
 
 ## Availability 

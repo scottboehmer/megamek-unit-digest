@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1205) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1205) 
 - **Battle Value:** 2740 
 
 ## Availability 

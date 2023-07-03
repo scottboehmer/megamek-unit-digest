@@ -18,7 +18,7 @@
   - Hitch × 2 
   - Infantry (4.0 tons) 
   - Cargo 
-- **Sources:** TRO3086S - Early Repubic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/3844) 
+- **Sources:** TRO: 3085 Supplemental , [Master Unit List](http://masterunitlist.info/Unit/Details/3844) 
 - **Battle Value:** 660 
 
 ## Availability 

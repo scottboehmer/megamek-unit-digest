@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7526) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7526) 
 - **Battle Value:** 1851 
 
 ## Availability 

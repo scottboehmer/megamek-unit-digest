@@ -26,7 +26,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Light PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3583) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3583) 
 - **Battle Value:** 1387 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Medium Laser × 12 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3511) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3511) 
 - **Battle Value:** 2033 
 
 ## Availability 

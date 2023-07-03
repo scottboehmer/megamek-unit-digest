@@ -15,7 +15,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3386) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3386) 
 - **Battle Value:** Unknown 
 
 ## Availability 

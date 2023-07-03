@@ -18,7 +18,7 @@
   - Bloodhound Active Probe 
   - Communications Equipment 
   - Remote Sensor Dispenser 
-- **Sources:** ED Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6958) 
+- **Sources:** Era Digest: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6958) 
 - **Battle Value:** 424 
 
 ## Availability 

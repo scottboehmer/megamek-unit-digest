@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/283) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/283) 
 - **Battle Value:** 1519 
 - [*More Info*](battlemaster/battlemaster_blr-1g.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/288) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/288) 
 - **Battle Value:** 1494 
 - [*More Info*](battlemaster/battlemaster_blr-1g-dc.md) 
 
@@ -57,7 +57,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5877) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5877) 
 - **Battle Value:** 1712 
 - [*More Info*](battlemaster/battlemaster_blr-1ghe_hellslinger.md) 
 
@@ -76,7 +76,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/285) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/285) 
 - **Battle Value:** 1825 
 - [*More Info*](battlemaster/battlemaster_blr-1gb.md) 
 
@@ -96,7 +96,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5867) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5867) 
 - **Battle Value:** 1586 
 - [*More Info*](battlemaster/battlemaster_blr-1gd.md) 
 
@@ -117,7 +117,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/286) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/286) 
 - **Battle Value:** 1825 
 - [*More Info*](battlemaster/battlemaster_blr-1gbc.md) 
 
@@ -138,7 +138,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/287) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/287) 
 - **Battle Value:** 1577 
 - [*More Info*](battlemaster/battlemaster_blr-1gc.md) 
 
@@ -157,7 +157,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/282) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/282) 
 - **Battle Value:** 1522 
 - [*More Info*](battlemaster/battlemaster_blr-1d.md) 
 
@@ -180,7 +180,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/290) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/290) 
 - **Battle Value:** 1563 
 - [*More Info*](battlemaster/battlemaster_blr-2c.md) 
 
@@ -200,7 +200,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/289) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/289) 
 - **Battle Value:** 1507 
 - [*More Info*](battlemaster/battlemaster_blr-1s.md) 
 
@@ -222,7 +222,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/291) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/291) 
 - **Battle Value:** 1679 
 - [*More Info*](battlemaster/battlemaster_blr-3m.md) 
 
@@ -243,7 +243,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/292) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/292) 
 - **Battle Value:** 1441 
 - [*More Info*](battlemaster/battlemaster_blr-3s.md) 
 
@@ -266,7 +266,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3806) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/3806) 
 - **Battle Value:** 1627 
 - [*More Info*](battlemaster/battlemaster_blr-3m-dc.md) 
 
@@ -287,7 +287,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO:Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/284) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/284) 
 - **Battle Value:** 2745 
 - [*More Info*](battlemaster/battlemaster_blr-1g_red_corsair.md) 
 
@@ -308,7 +308,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** OTP:Falcon Incursion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3805) 
+- **Sources:** Operational Turning Points: Falcon Incursion , [Master Unit List](http://masterunitlist.info/Unit/Details/3805) 
 - **Battle Value:** 1819 
 - [*More Info*](battlemaster/battlemaster_blr-3m_rogers.md) 
 
@@ -331,7 +331,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/294) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/294) 
 - **Battle Value:** 2018 
 - [*More Info*](battlemaster/battlemaster_blr-4s.md) 
 
@@ -354,7 +354,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/299) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/299) 
 - **Battle Value:** 1883 
 - [*More Info*](battlemaster/battlemaster_blr-cm.md) 
 
@@ -377,7 +377,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Source:TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/300) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/300) 
 - **Battle Value:** 1851 
 - [*More Info*](battlemaster/battlemaster_blr-k3.md) 
 
@@ -396,7 +396,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/297) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/297) 
 - **Battle Value:** 1766 
 - [*More Info*](battlemaster/battlemaster_blr-5m.md) 
 
@@ -421,7 +421,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/280) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/280) 
 - **Battle Value:** 1927 
 - [*More Info*](battlemaster/battlemaster_blr-10s.md) 
 
@@ -444,7 +444,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/296) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/296) 
 - **Battle Value:** 2029 
 - [*More Info*](battlemaster/battlemaster_blr-4s_calvin.md) 
 
@@ -467,7 +467,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** RS3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/302) 
+- **Sources:** Record Sheets: 3085 Unabridged — Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/302) 
 - **Battle Value:** 1674 
 - [*More Info*](battlemaster/battlemaster_blr-m3.md) 
 
@@ -490,7 +490,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/303) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/303) 
 - **Battle Value:** 3025 
 - [*More Info*](battlemaster/battlemaster_c.md) 
 
@@ -513,7 +513,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/295) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/295) 
 - **Battle Value:** 2274 
 - [*More Info*](battlemaster/battlemaster_blr-4s_calvin_ii.md) 
 
@@ -539,7 +539,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/281) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/281) 
 - **Battle Value:** 1927 
 - [*More Info*](battlemaster/battlemaster_blr-10s2.md) 
 
@@ -561,7 +561,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/301) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/301) 
 - **Battle Value:** 2232 
 - [*More Info*](battlemaster/battlemaster_blr-k4.md) 
 
@@ -584,7 +584,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/293) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/293) 
 - **Battle Value:** 1890 
 - [*More Info*](battlemaster/battlemaster_blr-4l.md) 
 
@@ -607,7 +607,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7476) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7476) 
 - **Battle Value:** 1557 
 - [*More Info*](battlemaster/battlemaster_blr-6c.md) 
 
@@ -629,7 +629,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/298) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/298) 
 - **Battle Value:** 1966 
 - [*More Info*](battlemaster/battlemaster_blr-6x.md) 
 
@@ -652,7 +652,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7475) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7475) 
 - **Battle Value:** 1960 
 - [*More Info*](battlemaster/battlemaster_blr-6g.md) 
 
@@ -675,7 +675,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3- Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9404) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/9404) 
 - **Battle Value:** 1960 
 - [*More Info*](battlemaster/battlemaster_blr-6r.md) 
 
@@ -699,7 +699,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7978) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7978) 
 - **Battle Value:** 1958 
 - [*More Info*](battlemaster/battlemaster_blr-6m.md) 
 
@@ -720,7 +720,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7979) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7979) 
 - **Battle Value:** 2538 
 - [*More Info*](battlemaster/battlemaster_c_2.md) 
 
@@ -743,7 +743,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7477) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7477) 
 - **Battle Value:** 2532 
 - [*More Info*](battlemaster/battlemaster_c_3.md) 
 

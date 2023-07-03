@@ -14,7 +14,7 @@
   - Medium VSP Laser 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9333) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9333) 
 - **Battle Value:** 487 
 
 ## Availability 

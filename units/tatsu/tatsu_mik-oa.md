@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - Medium Pulse Laser × 8 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5181) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5181) 
 - **Battle Value:** Unknown 
 
 ## Availability 

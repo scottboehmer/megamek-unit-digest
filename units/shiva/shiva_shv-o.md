@@ -16,7 +16,7 @@
   - Large Pulse Laser × 4 
   - SRM 6 (ammo: 30) 
   - ER Small Laser 
-- **Sources:** TRO 3067 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5051) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5051) 
 - **Battle Value:** Unknown 
 
 ## Availability 

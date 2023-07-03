@@ -17,7 +17,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/703) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/703) 
 - **Battle Value:** 465 
 
 ## Availability 

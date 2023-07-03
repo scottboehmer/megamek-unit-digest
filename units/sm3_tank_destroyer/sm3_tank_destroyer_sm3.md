@@ -16,7 +16,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2973) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2973) 
 - **Battle Value:** 1593 
 
 ## Availability 

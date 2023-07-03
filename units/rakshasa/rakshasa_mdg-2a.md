@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2634) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2634) 
 - **Battle Value:** 1766 
 
 ## Availability 

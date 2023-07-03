@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2252) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2252) 
 - **Battle Value:** 1954 
 - [*More Info*](naginata/naginata_ng-c3a.md) 
 
@@ -41,7 +41,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Stable 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2254) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2254) 
 - **Battle Value:** 1943 
 - [*More Info*](naginata/naginata_ng-c3b.md) 
 
@@ -63,7 +63,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Stable 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2255) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2255) 
 - **Battle Value:** 2131 
 - [*More Info*](naginata/naginata_ng-c3c.md) 
 
@@ -85,7 +85,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2253) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2253) 
 - **Battle Value:** 1879 
 - [*More Info*](naginata/naginata_ng-c3ar.md) 
 

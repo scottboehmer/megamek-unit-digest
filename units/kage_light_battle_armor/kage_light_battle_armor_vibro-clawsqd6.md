@@ -15,7 +15,7 @@
   - Battle Claw w/ Vibro-Claw (left) 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8912) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8912) 
 - **Battle Value:** 22 (198 for 6 suits) 
 
 ## Availability 

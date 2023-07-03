@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3019) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3019) 
 - **Battle Value:** 765 
 
 ## Availability 

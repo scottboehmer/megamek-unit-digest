@@ -14,7 +14,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4038) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4038) 
 - **Battle Value:** Unknown 
 
 ## Availability 

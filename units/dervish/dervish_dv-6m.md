@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/878) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/878) 
 - **Battle Value:** 1146 
 
 ## Availability 

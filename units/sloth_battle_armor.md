@@ -10,7 +10,7 @@
 - **Weapons:** 
   - Small Laser × 2 
   - Pop-Up Mine (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2970) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2970) 
 - **Battle Value:** 35 (180 for 4 suits) 
 - [*More Info*](sloth_battle_armor/sloth_battle_armor_sqd4.md) 
 
@@ -24,7 +24,7 @@
 - **Weapons:** 
   - Small Laser × 2 
   - Pop-Up Mine (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8586) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8586) 
 - **Battle Value:** 35 (243 for 5 suits) 
 - [*More Info*](sloth_battle_armor/sloth_battle_armor_sqd5.md) 
 
@@ -38,7 +38,7 @@
 - **Weapons:** 
   - Small Laser × 2 
   - Pop-Up Mine (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8950) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8950) 
 - **Battle Value:** 35 (312 for 6 suits) 
 - [*More Info*](sloth_battle_armor/sloth_battle_armor_sqd6.md) 
 
@@ -53,7 +53,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2969) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2969) 
 - **Battle Value:** 44 (227 for 4 suits) 
 - [*More Info*](sloth_battle_armor/sloth_battle_armor_interdictorsqd4.md) 
 
@@ -68,7 +68,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8585) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8585) 
 - **Battle Value:** 44 (305 for 5 suits) 
 - [*More Info*](sloth_battle_armor/sloth_battle_armor_interdictorsqd5.md) 
 
@@ -83,7 +83,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8949) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8949) 
 - **Battle Value:** 44 (392 for 6 suits) 
 - [*More Info*](sloth_battle_armor/sloth_battle_armor_interdictorsqd6.md) 
 
@@ -99,7 +99,7 @@
   - King David Light Gauss Rifle × 2 
 - **Equipment:** 
   - Mechanical Jump Booster 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6735) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6735) 
 - **Battle Value:** 33 (169 for 4 suits) 
 - [*More Info*](sloth_battle_armor/sloth_battle_armor_huntsmansqd4.md) 
 
@@ -115,7 +115,7 @@
   - King David Light Gauss Rifle × 2 
 - **Equipment:** 
   - Mechanical Jump Booster 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8790) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8790) 
 - **Battle Value:** 33 (228 for 5 suits) 
 - [*More Info*](sloth_battle_armor/sloth_battle_armor_huntsmansqd5.md) 
 
@@ -131,7 +131,7 @@
   - King David Light Gauss Rifle × 2 
 - **Equipment:** 
   - Mechanical Jump Booster 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9153) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9153) 
 - **Battle Value:** 33 (293 for 6 suits) 
 - [*More Info*](sloth_battle_armor/sloth_battle_armor_huntsmansqd6.md) 
 

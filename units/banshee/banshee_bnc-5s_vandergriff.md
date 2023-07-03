@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3787) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3787) 
 - **Battle Value:** 1853 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4245) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4245) 
 - **Battle Value:** 57 (295 for 4 suits) 
 
 ## Availability 

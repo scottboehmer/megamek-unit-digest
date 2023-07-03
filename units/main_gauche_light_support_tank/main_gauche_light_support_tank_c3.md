@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4568) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4568) 
 - **Battle Value:** 472 
 
 ## Availability 

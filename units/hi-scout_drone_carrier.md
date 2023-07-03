@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Drone Control System 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1532) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1532) 
 - **Battle Value:** 347 
 - [*More Info*](hi-scout_drone_carrier/hi-scout_drone_carrier.md) 
 
@@ -34,7 +34,7 @@
   - Limited Amphibious Chassis 
   - Remote Sensor Dispenser 
   - Cargo 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5608) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5608) 
 - **Battle Value:** 455 
 - [*More Info*](hi-scout_drone_carrier/hi-scout_drone_carrier_cunnington.md) 
 

@@ -15,7 +15,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/703) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/703) 
 - **Battle Value:** 465 
 - [*More Info*](cossack/cossack_c-sk1.md) 
 
@@ -33,7 +33,7 @@
   - Rocket 10 × 3 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/702) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/702) 
 - **Battle Value:** 483 
 - [*More Info*](cossack/cossack_c-1fc.md) 
 

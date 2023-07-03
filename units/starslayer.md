@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3048) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3048) 
 - **Battle Value:** 1365 
 - [*More Info*](starslayer/starslayer_sty-2c.md) 
 
@@ -40,7 +40,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7680) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7680) 
 - **Battle Value:** 1404 
 - [*More Info*](starslayer/starslayer_sty-2c-ec.md) 
 
@@ -62,7 +62,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3049) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3049) 
 - **Battle Value:** 1508 
 - [*More Info*](starslayer/starslayer_sty-3c.md) 
 
@@ -81,7 +81,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3050) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3050) 
 - **Battle Value:** 1593 
 - [*More Info*](starslayer/starslayer_sty-3d.md) 
 
@@ -102,7 +102,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3051) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3051) 
 - **Battle Value:** 1781 
 - [*More Info*](starslayer/starslayer_sty-3dr.md) 
 
@@ -125,7 +125,7 @@
   - Coolant Pod 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #26 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9315) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9315) 
 - **Battle Value:** 2226 
 - [*More Info*](starslayer/starslayer_sty-4c.md) 
 

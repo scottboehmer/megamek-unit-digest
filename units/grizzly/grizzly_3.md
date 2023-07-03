@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9432) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9432) 
 - **Battle Value:** 2331 
 
 ## Availability 

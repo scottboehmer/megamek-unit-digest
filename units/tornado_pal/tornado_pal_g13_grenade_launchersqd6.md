@@ -14,7 +14,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Heavy Grenade Launcher 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9052) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9052) 
 - **Battle Value:** 10 (90 for 6 suits) 
 
 ## Availability 

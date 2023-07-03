@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1469) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1469) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_ii_aerospace_fighter/hellcat_ii_hct-213b.md) 
 
@@ -32,7 +32,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1471) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1471) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_ii_aerospace_fighter/hellcat_ii_hct-214.md) 
 
@@ -51,7 +51,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1470) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1470) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_ii_aerospace_fighter/hellcat_ii_hct-213c.md) 
 
@@ -69,7 +69,7 @@
 - **Equipment:** 
   - Space Mine Dispenser × 2 
   - Command Console 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7325) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7325) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_ii_aerospace_fighter/hellcat_ii_hct-213bc_herman.md) 
 
@@ -85,7 +85,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1468) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1468) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_ii_aerospace_fighter/hellcat_ii_hct-212.md) 
 
@@ -103,7 +103,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1472) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1472) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_ii_aerospace_fighter/hellcat_ii_hct-215.md) 
 

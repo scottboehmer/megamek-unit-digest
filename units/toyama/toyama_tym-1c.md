@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3280) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3280) 
 - **Battle Value:** 1727 
 
 ## Availability 

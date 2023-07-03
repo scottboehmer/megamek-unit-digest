@@ -12,7 +12,7 @@
 - **Heat Sinks:** 3 (3) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
 - **Battle Value:** 314 
 
 ## Availability 

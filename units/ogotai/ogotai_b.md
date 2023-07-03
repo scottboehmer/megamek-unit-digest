@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - ER Small Laser × 5 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7657) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7657) 
 - **Battle Value:** Unknown 
 
 ## Availability 

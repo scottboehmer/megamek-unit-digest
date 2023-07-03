@@ -15,7 +15,7 @@
   - Chainsaw 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7466) 
+- **Sources:** Touring the Stars: Kaumberg , [Master Unit List](http://masterunitlist.info/Unit/Details/7466) 
 - **Battle Value:** 367 
 
 ## Availability 

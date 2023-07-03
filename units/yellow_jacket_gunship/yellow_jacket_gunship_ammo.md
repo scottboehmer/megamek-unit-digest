@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3613) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3613) 
 - **Battle Value:** 803 
 
 ## Availability 

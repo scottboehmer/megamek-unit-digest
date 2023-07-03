@@ -12,7 +12,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Large Laser × 2 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3325) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3325) 
 - **Battle Value:** Unknown 
 - [*More Info*](turk/turk_prime.md) 
 
@@ -32,7 +32,7 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3321) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3321) 
 - **Battle Value:** Unknown 
 - [*More Info*](turk/turk_a.md) 
 
@@ -50,7 +50,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3322) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3322) 
 - **Battle Value:** Unknown 
 - [*More Info*](turk/turk_b.md) 
 
@@ -70,7 +70,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3323) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3323) 
 - **Battle Value:** Unknown 
 - [*More Info*](turk/turk_c.md) 
 
@@ -88,7 +88,7 @@
   - ATM 12 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3324) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3324) 
 - **Battle Value:** Unknown 
 - [*More Info*](turk/turk_d.md) 
 
@@ -110,7 +110,7 @@
   - ECM Suite 
   - CASE 
   - Machine Gun Array × 2 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5308) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/5308) 
 - **Battle Value:** Unknown 
 - [*More Info*](turk/turk_e.md) 
 

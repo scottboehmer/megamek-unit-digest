@@ -13,7 +13,7 @@
   - Narc (ammo: 12) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3314) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3314) 
 - **Battle Value:** 583 
 - [*More Info*](tufana_hovercraft/tufana_hovercraft.md) 
 
@@ -31,7 +31,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3313) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3313) 
 - **Battle Value:** 756 
 - [*More Info*](tufana_hovercraft/tufana_hovercraft_inarc.md) 
 

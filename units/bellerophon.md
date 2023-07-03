@@ -18,7 +18,7 @@
   - Unbalanced 
   - EM Interference (Large Laser) 
   - EM Interference (Large Laser) 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3817) 
+- **Sources:** XTR: Primitives III , [Master Unit List](http://masterunitlist.info/Unit/Details/3817) 
 - **Battle Value:** 957 
 - [*More Info*](bellerophon/bellerophon_bel-1x.md) 
 

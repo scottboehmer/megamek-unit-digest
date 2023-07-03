@@ -16,7 +16,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2768) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2768) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabutai/sabutai_prime.md) 
 
@@ -36,7 +36,7 @@
   - ER Small Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2764) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2764) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabutai/sabutai_a.md) 
 
@@ -59,7 +59,7 @@
   - ECM Suite 
   - CASE 
   - TAG 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2765) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2765) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabutai/sabutai_b.md) 
 
@@ -76,7 +76,7 @@
   - ER Large Laser × 4 
   - ER Medium Laser × 6 
   - ER Small Laser 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2766) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2766) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabutai/sabutai_c.md) 
 
@@ -95,7 +95,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4966) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/4966) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabutai/sabutai_x.md) 
 
@@ -112,7 +112,7 @@
   - Heavy Large Laser × 4 
   - ER Medium Laser × 4 
   - ER Small Laser 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2767) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2767) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabutai/sabutai_d.md) 
 
@@ -132,7 +132,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4965) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/4965) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabutai/sabutai_e.md) 
 
@@ -151,7 +151,7 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
-- **Sources:** The Wars of Reaving (s) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5834) 
+- **Sources:** The Wars of Reaving (s) , [Master Unit List](http://masterunitlist.info/Unit/Details/5834) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabutai/sabutai_z.md) 
 

@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/420) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/420) 
 - **Battle Value:** 1648 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 9) 
   - SRM 3 (OS) × 2 
-- **Source:** Dark Age 
+- **Source:** TRO: 3150 
 - **Battle Value:** 71 (638 for 6 suits) 
 
 ## Availability 

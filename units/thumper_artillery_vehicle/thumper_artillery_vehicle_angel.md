@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/5229) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5229) 
 - **Battle Value:** 758 
 
 ## Availability 

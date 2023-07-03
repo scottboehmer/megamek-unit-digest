@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/846) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/846) 
 - **Battle Value:** 1251 
 - [*More Info*](fire_moth/fire_moth_prime.md) 
 
@@ -41,7 +41,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/838) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/838) 
 - **Battle Value:** 639 
 - [*More Info*](fire_moth/fire_moth_a.md) 
 
@@ -64,7 +64,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/839) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/839) 
 - **Battle Value:** 1064 
 - [*More Info*](fire_moth/fire_moth_b.md) 
 
@@ -85,7 +85,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/840) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/840) 
 - **Battle Value:** 741 
 - [*More Info*](fire_moth/fire_moth_c.md) 
 
@@ -106,7 +106,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/841) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/841) 
 - **Battle Value:** 2307 
 - [*More Info*](fire_moth/fire_moth_d.md) 
 
@@ -126,7 +126,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/842) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/842) 
 - **Battle Value:** 822 
 - [*More Info*](fire_moth/fire_moth_e.md) 
 
@@ -146,7 +146,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/844) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/844) 
 - **Battle Value:** 779 
 - [*More Info*](fire_moth/fire_moth_h.md) 
 
@@ -167,7 +167,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/837) 
+- **Sources:** Jihad Turning Points: Dieron , [Master Unit List](http://masterunitlist.info/Unit/Details/837) 
 - **Battle Value:** 1388 
 - [*More Info*](fire_moth/fire_moth_aletha.md) 
 
@@ -189,7 +189,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/843) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/843) 
 - **Battle Value:** 1461 
 - [*More Info*](fire_moth/fire_moth_f.md) 
 
@@ -212,7 +212,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/845) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/845) 
 - **Battle Value:** 884 
 - [*More Info*](fire_moth/fire_moth_k.md) 
 
@@ -234,7 +234,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6946) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/6946) 
 - **Battle Value:** 2040 
 - [*More Info*](fire_moth/fire_moth_g.md) 
 
@@ -255,7 +255,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7580) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7580) 
 - **Battle Value:** 1200 
 - [*More Info*](fire_moth/fire_moth_m.md) 
 
@@ -279,7 +279,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7582) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7582) 
 - **Battle Value:** 1160 
 - [*More Info*](fire_moth/fire_moth_r.md) 
 
@@ -299,7 +299,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7581) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7581) 
 - **Battle Value:** 841 
 - [*More Info*](fire_moth/fire_moth_p.md) 
 
@@ -321,7 +321,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7578) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7578) 
 - **Battle Value:** 1260 
 - [*More Info*](fire_moth/fire_moth_i.md) 
 
@@ -344,7 +344,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7577) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7577) 
 - **Battle Value:** 1305 
 - [*More Info*](fire_moth/fire_moth_t.md) 
 
@@ -365,7 +365,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7579) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7579) 
 - **Battle Value:** 1140 
 - [*More Info*](fire_moth/fire_moth_j.md) 
 

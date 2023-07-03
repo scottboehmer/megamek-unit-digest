@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Small Laser × 2 
-- **Sources:** TRO3058U - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1175) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1175) 
 - **Battle Value:** 309 
 
 ## Availability 

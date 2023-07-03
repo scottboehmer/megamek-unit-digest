@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8166) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8166) 
 - **Battle Value:** 2052 
 
 ## Availability 

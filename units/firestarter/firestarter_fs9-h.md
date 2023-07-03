@@ -19,7 +19,7 @@
   - Ubiquitous 
   - Exposed Weapon Linkage (Flamer) 
   - Exposed Weapon Linkage (Flamer) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1096) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1096) 
 - **Battle Value:** 694 
 
 ## Availability 

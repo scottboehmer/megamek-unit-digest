@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2892) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2892) 
 - **Battle Value:** 2156 
 - [*More Info*](shadow_cat/shadow_cat_prime.md) 
 
@@ -40,7 +40,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2887) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2887) 
 - **Battle Value:** 2220 
 - [*More Info*](shadow_cat/shadow_cat_a.md) 
 
@@ -63,7 +63,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2888) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2888) 
 - **Battle Value:** 2420 
 - [*More Info*](shadow_cat/shadow_cat_b.md) 
 
@@ -86,7 +86,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7590) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7590) 
 - **Battle Value:** 1378 
 - [*More Info*](shadow_cat/shadow_cat_tc.md) 
 
@@ -106,7 +106,7 @@
   - MASC 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #9 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7707) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7707) 
 - **Battle Value:** 2438 
 - [*More Info*](shadow_cat/shadow_cat_m.md) 
 
@@ -128,7 +128,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2889) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2889) 
 - **Battle Value:** 2199 
 - [*More Info*](shadow_cat/shadow_cat_c.md) 
 
@@ -152,7 +152,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #9 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7704) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7704) 
 - **Battle Value:** 2298 
 - [*More Info*](shadow_cat/shadow_cat_d.md) 
 
@@ -174,7 +174,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2890) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2890) 
 - **Battle Value:** 2155 
 - [*More Info*](shadow_cat/shadow_cat_h.md) 
 
@@ -196,7 +196,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #9 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2891) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/2891) 
 - **Battle Value:** 1802 
 - [*More Info*](shadow_cat/shadow_cat_j.md) 
 
@@ -216,7 +216,7 @@
   - Inner Sphere Coolant Pod × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6913) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/6913) 
 - **Battle Value:** 2081 
 - [*More Info*](shadow_cat/shadow_cat_e.md) 
 
@@ -238,7 +238,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6912) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6912) 
 - **Battle Value:** 2997 
 - [*More Info*](shadow_cat/shadow_cat_f.md) 
 
@@ -261,7 +261,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7706) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7706) 
 - **Battle Value:** 2408 
 - [*More Info*](shadow_cat/shadow_cat_i.md) 
 
@@ -283,7 +283,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7708) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7708) 
 - **Battle Value:** 1852 
 - [*More Info*](shadow_cat/shadow_cat_t.md) 
 

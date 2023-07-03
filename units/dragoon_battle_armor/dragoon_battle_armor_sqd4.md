@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Light Mortar 
   - Clan Flamer 
-- **Sources:** Rec Guide:ilClan #29 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9379) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9379) 
 - **Battle Value:** 39 (203 for 4 suits) 
 
 ## Availability 

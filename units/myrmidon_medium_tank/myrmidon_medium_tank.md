@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 6 (ammo: 15) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2245) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2245) 
 - **Battle Value:** 815 
 
 ## Availability 

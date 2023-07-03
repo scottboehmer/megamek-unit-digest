@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7701) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7701) 
 - **Battle Value:** 936 
 
 ## Availability 

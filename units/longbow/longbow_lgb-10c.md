@@ -16,7 +16,7 @@
   - LRM 5 w/ Artemis IV × 2 (ammo: 48) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #20 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8333) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8333) 
 - **Battle Value:** 1898 
 
 ## Availability 

@@ -22,7 +22,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9398) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9398) 
 - **Battle Value:** 2626 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - Infantry (8.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5735) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5735) 
 - **Battle Value:** 1172 
 
 ## Availability 

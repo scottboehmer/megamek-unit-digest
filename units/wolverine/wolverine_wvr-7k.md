@@ -24,7 +24,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #18 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3575) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/3575) 
 - **Battle Value:** 1331 
 
 ## Availability 

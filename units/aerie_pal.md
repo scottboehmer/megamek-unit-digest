@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Space Operations Adaptation 
   - Extended Life Support 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3674) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3674) 
 - **Battle Value:** 5 (27 for 4 suits) 
 - [*More Info*](aerie_pal/aerie_pal_sqd4.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Space Operations Adaptation 
   - Extended Life Support 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8601) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8601) 
 - **Battle Value:** 5 (37 for 5 suits) 
 - [*More Info*](aerie_pal/aerie_pal_sqd5.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Space Operations Adaptation 
   - Extended Life Support 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8965) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8965) 
 - **Battle Value:** 5 (47 for 6 suits) 
 - [*More Info*](aerie_pal/aerie_pal_sqd6.md) 
 
@@ -67,7 +67,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Space Operations Adaptation 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3673) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3673) 
 - **Battle Value:** 5 (27 for 4 suits) 
 - [*More Info*](aerie_pal/aerie_pal_salvagesqd4.md) 
 
@@ -84,7 +84,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Space Operations Adaptation 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8600) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8600) 
 - **Battle Value:** 5 (37 for 5 suits) 
 - [*More Info*](aerie_pal/aerie_pal_salvagesqd5.md) 
 
@@ -101,7 +101,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Space Operations Adaptation 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8964) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8964) 
 - **Battle Value:** 5 (47 for 6 suits) 
 - [*More Info*](aerie_pal/aerie_pal_salvagesqd6.md) 
 

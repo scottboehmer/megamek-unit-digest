@@ -25,7 +25,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/71) 
+- **Sources:** Jihad Secrets: The Blake Documents , [Master Unit List](http://masterunitlist.info/Unit/Details/71) 
 - **Battle Value:** 2026 
 
 ## Availability 

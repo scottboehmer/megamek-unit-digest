@@ -23,7 +23,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3235) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/3235) 
 - **Battle Value:** 2008 
 
 ## Availability 

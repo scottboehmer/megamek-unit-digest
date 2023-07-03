@@ -14,7 +14,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan Flamer 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5258) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5258) 
 - **Battle Value:** 13 (69 for 4 suits) 
 
 ## Availability 

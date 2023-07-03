@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7709) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7709) 
 - **Battle Value:** 1959 
 - [*More Info*](vapor_eagle/vapor_eagle_6.md) 
 
@@ -41,7 +41,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1243) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/1243) 
 - **Battle Value:** 2368 
 - [*More Info*](vapor_eagle/vapor_eagle.md) 
 
@@ -63,7 +63,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1244) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/1244) 
 - **Battle Value:** 1989 
 - [*More Info*](vapor_eagle/vapor_eagle_2.md) 
 
@@ -85,7 +85,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7710) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7710) 
 - **Battle Value:** 2572 
 - [*More Info*](vapor_eagle/vapor_eagle_5.md) 
 
@@ -108,7 +108,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1245) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1245) 
 - **Battle Value:** 2466 
 - [*More Info*](vapor_eagle/vapor_eagle_3.md) 
 
@@ -128,7 +128,7 @@
   - CASE 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1246) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1246) 
 - **Battle Value:** 2069 
 - [*More Info*](vapor_eagle/vapor_eagle_4.md) 
 
@@ -151,7 +151,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7711) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7711) 
 - **Battle Value:** 2876 
 - [*More Info*](vapor_eagle/vapor_eagle_7.md) 
 

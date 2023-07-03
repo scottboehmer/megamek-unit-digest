@@ -17,7 +17,7 @@
   - Watchdog CEWS 
   - CASE 
   - Inner Sphere Coolant Pod × 11 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5003) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/5003) 
 - **Battle Value:** Unknown 
 
 ## Availability 

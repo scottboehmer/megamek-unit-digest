@@ -13,7 +13,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2971) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2971) 
 - **Battle Value:** 1585 
 - [*More Info*](sm1_tank_destroyer/sm1_tank_destroyer_sm1.md) 
 
@@ -31,7 +31,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5607) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5607) 
 - **Battle Value:** 1055 
 - [*More Info*](sm1_tank_destroyer/sm1_tank_destroyer_telos.md) 
 

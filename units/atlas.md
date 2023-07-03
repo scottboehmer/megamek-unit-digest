@@ -18,7 +18,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/140) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/140) 
 - **Battle Value:** 1897 
 - [*More Info*](atlas/atlas_as7-d.md) 
 
@@ -42,7 +42,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/142) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/142) 
 - **Battle Value:** 1858 
 - [*More Info*](atlas/atlas_as7-d-dc.md) 
 
@@ -66,7 +66,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3750) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/3750) 
 - **Battle Value:** 2340 
 - [*More Info*](atlas/atlas_c.md) 
 
@@ -91,7 +91,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/8431) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8431) 
 - **Battle Value:** 2736 
 - [*More Info*](atlas/atlas_c_2.md) 
 
@@ -114,7 +114,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/8432) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8432) 
 - **Battle Value:** 2534 
 - [*More Info*](atlas/atlas_c_3.md) 
 
@@ -136,7 +136,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/147) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/147) 
 - **Battle Value:** 1849 
 - [*More Info*](atlas/atlas_as7-rs.md) 
 
@@ -158,7 +158,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7433) 
+- **Sources:** Record Sheets: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7433) 
 - **Battle Value:** 1787 
 - [*More Info*](atlas/atlas_as7-a.md) 
 
@@ -178,7 +178,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/150) 
+- **Sources:** Historical Turning Points: Galtor , [Master Unit List](http://masterunitlist.info/Unit/Details/150) 
 - **Battle Value:** 1884 
 - [*More Info*](atlas/atlas_as7-wgs_samsonov.md) 
 
@@ -199,7 +199,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/141) 
+- **Sources:** Historical Turning Points: Misery , [Master Unit List](http://masterunitlist.info/Unit/Details/141) 
 - **Battle Value:** 1976 
 - [*More Info*](atlas/atlas_as7-d_danielle.md) 
 
@@ -224,7 +224,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/144) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/144) 
 - **Battle Value:** 2175 
 - [*More Info*](atlas/atlas_as7-k.md) 
 
@@ -250,7 +250,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/138) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/138) 
 - **Battle Value:** 2163 
 - [*More Info*](atlas/atlas_as7-c.md) 
 
@@ -276,7 +276,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/139) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/139) 
 - **Battle Value:** 2036 
 - [*More Info*](atlas/atlas_as7-cm.md) 
 
@@ -302,7 +302,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3749) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/3749) 
 - **Battle Value:** 2158 
 - [*More Info*](atlas/atlas_as7-k-dc.md) 
 
@@ -325,7 +325,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/148) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/148) 
 - **Battle Value:** 1929 
 - [*More Info*](atlas/atlas_as7-s.md) 
 
@@ -349,7 +349,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/149) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/149) 
 - **Battle Value:** 2389 
 - [*More Info*](atlas/atlas_as7-s2.md) 
 
@@ -375,7 +375,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5461) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/5461) 
 - **Battle Value:** 2378 
 - [*More Info*](atlas/atlas_as7-s3.md) 
 
@@ -400,7 +400,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8437) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8437) 
 - **Battle Value:** 2278 
 - [*More Info*](atlas/atlas_as7-s3-dc.md) 
 
@@ -425,7 +425,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/143) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/143) 
 - **Battle Value:** 2101 
 - [*More Info*](atlas/atlas_as7-dr.md) 
 
@@ -452,7 +452,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/151) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/151) 
 - **Battle Value:** 2432 
 - [*More Info*](atlas/atlas_as8-d.md) 
 
@@ -482,7 +482,7 @@
   - Prototype 
   - Non-Standard Parts 
   - Battlefists 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5564) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5564) 
 - **Battle Value:** 2053 
 - [*More Info*](atlas/atlas_as7-00_jurn.md) 
 
@@ -506,7 +506,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/145) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/145) 
 - **Battle Value:** 2160 
 - [*More Info*](atlas/atlas_as7-k2.md) 
 
@@ -529,7 +529,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** DTP Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/5541) 
+- **Sources:** Dark Age Turning Points: Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/5541) 
 - **Battle Value:** 1971 
 - [*More Info*](atlas/atlas_as7-k2_jedra.md) 
 
@@ -554,7 +554,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/146) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/146) 
 - **Battle Value:** 2346 
 - [*More Info*](atlas/atlas_as7-k3.md) 
 
@@ -578,7 +578,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6832) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6832) 
 - **Battle Value:** 2153 
 - [*More Info*](atlas/atlas_as7-k4.md) 
 
@@ -603,7 +603,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8436) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8436) 
 - **Battle Value:** 2568 
 - [*More Info*](atlas/atlas_as7-s4.md) 
 
@@ -630,7 +630,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8433) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8433) 
 - **Battle Value:** 2789 
 - [*More Info*](atlas/atlas_as8-s.md) 
 
@@ -656,7 +656,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8435) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8435) 
 - **Battle Value:** 2668 
 - [*More Info*](atlas/atlas_as8-k.md) 
 
@@ -680,7 +680,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8434) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8434) 
 - **Battle Value:** 2658 
 - [*More Info*](atlas/atlas_as8-ke.md) 
 

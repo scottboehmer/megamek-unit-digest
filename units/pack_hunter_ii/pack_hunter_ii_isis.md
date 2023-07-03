@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stabilized Weapon (Unknown Component) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5540) 
+- **Sources:** Dark Age Turning Points: Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/5540) 
 - **Battle Value:** 1276 
 
 ## Availability 

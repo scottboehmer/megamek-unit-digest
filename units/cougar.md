@@ -15,7 +15,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/712) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/712) 
 - **Battle Value:** 1485 
 - [*More Info*](cougar/cougar_prime.md) 
 
@@ -35,7 +35,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/704) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/704) 
 - **Battle Value:** 1697 
 - [*More Info*](cougar/cougar_a.md) 
 
@@ -52,7 +52,7 @@
   - ER Medium Laser 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/705) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/705) 
 - **Battle Value:** 1774 
 - [*More Info*](cougar/cougar_b.md) 
 
@@ -71,7 +71,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/706) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/706) 
 - **Battle Value:** 1785 
 - [*More Info*](cougar/cougar_c.md) 
 
@@ -91,7 +91,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/707) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/707) 
 - **Battle Value:** 1309 
 - [*More Info*](cougar/cougar_d.md) 
 
@@ -113,7 +113,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/711) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/711) 
 - **Battle Value:** 1323 
 - [*More Info*](cougar/cougar_h.md) 
 
@@ -132,7 +132,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/708) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/708) 
 - **Battle Value:** 1442 
 - [*More Info*](cougar/cougar_e.md) 
 
@@ -155,7 +155,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/709) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/709) 
 - **Battle Value:** 1401 
 - [*More Info*](cougar/cougar_f.md) 
 
@@ -175,7 +175,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/710) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/710) 
 - **Battle Value:** 1453 
 - [*More Info*](cougar/cougar_g.md) 
 
@@ -196,7 +196,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/6928) 
 - **Battle Value:** 1738 
 - [*More Info*](cougar/cougar_i.md) 
 
@@ -218,7 +218,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8325) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8325) 
 - **Battle Value:** 1748 
 - [*More Info*](cougar/cougar_t.md) 
 

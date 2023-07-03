@@ -21,7 +21,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2932) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2932) 
 - **Battle Value:** 1823 
 
 ## Availability 

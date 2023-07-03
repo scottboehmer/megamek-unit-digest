@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Light Recoilless Rifle 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8543) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8543) 
 - **Battle Value:** 49 (343 for 5 suits) 
 
 ## Availability 

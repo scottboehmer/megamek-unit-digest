@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3020) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3020) 
 - **Battle Value:** 616 
 
 ## Availability 

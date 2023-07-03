@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8320) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8320) 
 - **Battle Value:** 2708 
 
 ## Availability 

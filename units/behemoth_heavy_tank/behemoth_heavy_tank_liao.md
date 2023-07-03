@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9459) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9459) 
 - **Battle Value:** 1324 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #20 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2912) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/2912) 
 - **Battle Value:** 1763 
 
 ## Availability 

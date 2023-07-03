@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8392) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8392) 
 - **Battle Value:** 1272 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3050 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1338) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1338) 
 - **Battle Value:** 1418 
 
 ## Availability 

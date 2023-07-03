@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4514) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4514) 
 - **Battle Value:** Unknown 
 
 ## Availability 

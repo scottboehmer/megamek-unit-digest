@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/711) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/711) 
 - **Battle Value:** 1323 
 
 ## Availability 

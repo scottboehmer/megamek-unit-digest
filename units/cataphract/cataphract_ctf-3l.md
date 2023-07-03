@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/470) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/470) 
 - **Battle Value:** 1545 
 
 ## Availability 

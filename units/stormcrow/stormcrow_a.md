@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2749) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2749) 
 - **Battle Value:** 2319 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/705) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/705) 
 - **Battle Value:** 1774 
 
 ## Availability 

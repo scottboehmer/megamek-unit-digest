@@ -14,7 +14,7 @@
   - MRM 30 × 3 (ammo: 48) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/862) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/862) 
 - **Battle Value:** 1242 
 
 ## Availability 

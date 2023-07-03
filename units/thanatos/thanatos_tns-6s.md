@@ -21,7 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5701) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5701) 
 - **Battle Value:** 1936 
 
 ## Availability 

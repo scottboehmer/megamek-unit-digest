@@ -16,7 +16,7 @@
   - Large Laser × 3 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5233) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5233) 
 - **Battle Value:** Unknown 
 
 ## Availability 

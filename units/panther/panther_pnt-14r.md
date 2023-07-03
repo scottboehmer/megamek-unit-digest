@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8222) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8222) 
 - **Battle Value:** 1291 
 
 ## Availability 

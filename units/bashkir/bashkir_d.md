@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Heavy Large Laser 
   - Heavy Small Laser 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/259) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/259) 
 - **Battle Value:** Unknown 
 
 ## Availability 

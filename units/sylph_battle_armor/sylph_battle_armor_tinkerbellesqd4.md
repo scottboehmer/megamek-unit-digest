@@ -16,7 +16,7 @@
 - **Weapons:** 
   - SRM 5 (OS) 
   - ER Micro Laser 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8384) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8384) 
 - **Battle Value:** 52 (272 for 4 suits) 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2535) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2535) 
 - **Battle Value:** 998 
 - [*More Info*](piranha/piranha.md) 
 
@@ -34,7 +34,7 @@
   - ER Micro Laser × 12 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2536) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2536) 
 - **Battle Value:** 853 
 - [*More Info*](piranha/piranha_2.md) 
 
@@ -55,7 +55,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2537) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2537) 
 - **Battle Value:** 1142 
 - [*More Info*](piranha/piranha_3.md) 
 
@@ -77,7 +77,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2534) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2534) 
 - **Battle Value:** 1005 
 - [*More Info*](piranha/piranha_4.md) 
 
@@ -98,7 +98,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8122) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/8122) 
 - **Battle Value:** 1132 
 - [*More Info*](piranha/piranha_5.md) 
 

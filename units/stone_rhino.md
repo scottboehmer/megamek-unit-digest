@@ -22,7 +22,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3814) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3814) 
 - **Battle Value:** 2601 
 - [*More Info*](stone_rhino/stone_rhino_4.md) 
 
@@ -45,7 +45,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3815) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3815) 
 - **Battle Value:** 2157 
 - [*More Info*](stone_rhino/stone_rhino_5.md) 
 
@@ -70,7 +70,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/318) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/318) 
 - **Battle Value:** 3001 
 - [*More Info*](stone_rhino/stone_rhino.md) 
 
@@ -92,7 +92,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3816) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3816) 
 - **Battle Value:** 2981 
 - [*More Info*](stone_rhino/stone_rhino_6.md) 
 
@@ -115,7 +115,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7448) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7448) 
 - **Battle Value:** 2916 
 - [*More Info*](stone_rhino/stone_rhino_7.md) 
 
@@ -143,7 +143,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/319) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/319) 
 - **Battle Value:** 3107 
 - [*More Info*](stone_rhino/stone_rhino_2.md) 
 
@@ -168,7 +168,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/320) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/320) 
 - **Battle Value:** 3072 
 - [*More Info*](stone_rhino/stone_rhino_3.md) 
 
@@ -193,7 +193,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7449) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7449) 
 - **Battle Value:** 2804 
 - [*More Info*](stone_rhino/stone_rhino_8.md) 
 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - Clan Medium Chemical Laser × 6 (ammo: 90) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6488) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6488) 
 - **Battle Value:** 835 
 
 ## Availability 

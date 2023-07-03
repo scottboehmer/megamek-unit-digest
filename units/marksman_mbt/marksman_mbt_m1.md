@@ -16,7 +16,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
   - MRM 10 × 2 (ammo: 24) 
   - Machine Gun × 4 (ammo: 100) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2078) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2078) 
 - **Battle Value:** 1474 
 
 ## Availability 

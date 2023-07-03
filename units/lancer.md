@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - LRM 10 w/ Artemis IV (ammo: 12) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4471) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4471) 
 - **Battle Value:** Unknown 
 - [*More Info*](lancer/lancer_lx-2.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Large Pulse Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4472) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4472) 
 - **Battle Value:** Unknown 
 - [*More Info*](lancer/lancer_lx-2a.md) 
 
@@ -45,7 +45,7 @@
   - Large VSP Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5750) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5750) 
 - **Battle Value:** Unknown 
 - [*More Info*](lancer/lancer_lx-3.md) 
 

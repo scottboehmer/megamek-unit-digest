@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/295) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/295) 
 - **Battle Value:** 2274 
 
 ## Availability 

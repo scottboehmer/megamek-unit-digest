@@ -20,7 +20,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Cramped Cockpit 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/316) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/316) 
 - **Battle Value:** 1086 
 
 ## Availability 

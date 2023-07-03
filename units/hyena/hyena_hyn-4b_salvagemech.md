@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Salvage Arm 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4354) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4354) 
 - **Battle Value:** 405 
 
 ## Availability 

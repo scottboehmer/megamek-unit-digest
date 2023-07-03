@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1707) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1707) 
 - **Battle Value:** 2137 
 
 ## Availability 

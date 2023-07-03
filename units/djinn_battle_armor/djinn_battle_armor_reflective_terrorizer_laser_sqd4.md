@@ -15,7 +15,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5794) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5794) 
 - **Battle Value:** 42 (221 for 4 suits) 
 
 ## Availability 

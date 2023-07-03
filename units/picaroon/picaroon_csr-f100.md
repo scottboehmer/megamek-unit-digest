@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Heavy PPC 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6517) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6517) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Shielded Aerospace Smart Robotic Control System (Improved) 
-- **Sources:** Hist: LofT Vol 1 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7144) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/7144) 
 - **Battle Value:** Unknown 
 
 ## Availability 

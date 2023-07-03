@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Improved Targeting (Medium) 
   - Exposed Weapon Linkage (RAC/5) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1864) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/1864) 
 - **Battle Value:** 2032 
 
 ## Availability 

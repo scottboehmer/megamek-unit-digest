@@ -17,7 +17,7 @@
   - Lift Hoist 
   - Enviro-Sealing 
   - Searchlight 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4927) 
+- **Sources:** Handbook: Major Periphery States , [Master Unit List](http://masterunitlist.info/Unit/Details/4927) 
 - **Battle Value:** 455 
 
 ## Availability 

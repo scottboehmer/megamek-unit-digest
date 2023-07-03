@@ -18,7 +18,7 @@
   - ECM Suite 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6258) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6258) 
 - **Battle Value:** 1806 
 
 ## Availability 

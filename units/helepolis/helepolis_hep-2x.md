@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8471) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8471) 
 - **Battle Value:** 1340 
 
 ## Availability 

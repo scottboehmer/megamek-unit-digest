@@ -16,7 +16,7 @@
   - Improved Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8238) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8238) 
 - **Battle Value:** 2051 
 
 ## Availability 

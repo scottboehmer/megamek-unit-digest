@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Clan Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8842) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8842) 
 - **Battle Value:** 26 (230 for 6 suits) 
 
 ## Availability 

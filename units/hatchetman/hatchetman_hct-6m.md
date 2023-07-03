@@ -20,7 +20,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1416) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1416) 
 - **Battle Value:** 1274 
 
 ## Availability 

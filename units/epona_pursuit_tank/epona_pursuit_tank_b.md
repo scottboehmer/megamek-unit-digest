@@ -15,7 +15,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/992) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/992) 
 - **Battle Value:** 1255 
 
 ## Availability 

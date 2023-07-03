@@ -21,7 +21,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7448) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7448) 
 - **Battle Value:** 2916 
 
 ## Availability 

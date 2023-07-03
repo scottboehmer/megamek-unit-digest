@@ -17,7 +17,7 @@
   - AP Gauss Rifle × 10 (ammo: 80) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5736) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5736) 
 - **Battle Value:** 1314 
 
 ## Availability 

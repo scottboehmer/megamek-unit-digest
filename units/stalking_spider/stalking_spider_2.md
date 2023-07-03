@@ -21,7 +21,7 @@
   - MASC 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3046) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3046) 
 - **Battle Value:** 2056 
 
 ## Availability 

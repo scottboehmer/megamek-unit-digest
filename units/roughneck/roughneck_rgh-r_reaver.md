@@ -15,6 +15,7 @@
   - Ultra AC/5 × 2 (ammo: 40) 
   - Medium Laser × 2 
   - Streak SRM 2 (ammo: 50) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1426 
 
 ## Availability 

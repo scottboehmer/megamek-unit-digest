@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 2 
   - Small Pulse Laser 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/572) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/572) 
 - **Battle Value:** Unknown 
 
 ## Availability 

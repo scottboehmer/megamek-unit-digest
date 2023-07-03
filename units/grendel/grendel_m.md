@@ -18,7 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7457) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7457) 
 - **Battle Value:** 1744 
 
 ## Availability 

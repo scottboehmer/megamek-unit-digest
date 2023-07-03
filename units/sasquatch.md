@@ -19,7 +19,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2798) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2798) 
 - **Battle Value:** 1940 
 - [*More Info*](sasquatch/sasquatch_sqs-th-001.md) 
 
@@ -39,7 +39,7 @@
   - Large Shield 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2799) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2799) 
 - **Battle Value:** 1993 
 - [*More Info*](sasquatch/sasquatch_sqs-th-002.md) 
 
@@ -58,7 +58,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2800) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2800) 
 - **Battle Value:** 1667 
 - [*More Info*](sasquatch/sasquatch_sqs-th-003.md) 
 

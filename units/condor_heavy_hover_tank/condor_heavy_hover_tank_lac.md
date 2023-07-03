@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #26 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9310) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9310) 
 - **Battle Value:** 870 
 
 ## Availability 

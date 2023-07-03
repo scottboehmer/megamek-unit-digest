@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/175) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/175) 
 - **Battle Value:** 1470 
 
 ## Availability 

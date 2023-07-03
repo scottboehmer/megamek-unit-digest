@@ -13,7 +13,7 @@
 - **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - ER Large Laser 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2552) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2552) 
 - **Battle Value:** Unknown 
 
 ## Availability 

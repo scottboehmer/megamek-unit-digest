@@ -22,7 +22,7 @@
   - Command ’Mech 
   - Improved Cooling Jacket (Large Laser) 
   - Improved Cooling Jacket (Large Laser) 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/964) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/964) 
 - **Battle Value:** 1969 
 
 ## Availability 

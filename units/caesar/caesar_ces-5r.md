@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** Rec Guide:ilClan #26 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9321) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9321) 
 - **Battle Value:** 2192 
 
 ## Availability 

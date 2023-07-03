@@ -16,7 +16,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8334) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8334) 
 - **Battle Value:** 1791 
 
 ## Availability 

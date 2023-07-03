@@ -22,7 +22,7 @@
   - Stabilized Weapon (AC/2) 
   - Stabilized Weapon (AC/2) 
   - Stabilized Weapon (AC/2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2103) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2103) 
 - **Battle Value:** 1473 
 
 ## Availability 

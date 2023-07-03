@@ -23,7 +23,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8459) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8459) 
 - **Battle Value:** 2599 
 
 ## Availability 

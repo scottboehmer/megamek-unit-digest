@@ -20,7 +20,7 @@
   - Supercharger 
   - Targeting Computer 
   - CASE II 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6261) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6261) 
 - **Battle Value:** 1839 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (LB 10-X AC) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1417) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1417) 
 - **Battle Value:** 1174 
 
 ## Availability 

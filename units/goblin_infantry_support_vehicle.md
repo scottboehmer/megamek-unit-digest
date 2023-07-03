@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Infantry (3 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1222) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1222) 
 - **Battle Value:** 790 
 - [*More Info*](goblin_infantry_support_vehicle/goblin_infantry_support_vehicle.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1221) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1221) 
 - **Battle Value:** 836 
 - [*More Info*](goblin_infantry_support_vehicle/goblin_infantry_support_vehicle_sealed.md) 
 

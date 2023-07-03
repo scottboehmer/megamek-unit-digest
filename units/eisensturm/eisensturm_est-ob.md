@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 4 (ammo: 32) 
   - ER Large Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4117) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4117) 
 - **Battle Value:** Unknown 
 
 ## Availability 

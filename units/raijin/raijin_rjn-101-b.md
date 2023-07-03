@@ -27,7 +27,7 @@
   - Directional Torso Mount (Medium Laser) 
   - Directional Torso Mount (Flamer) 
   - Directional Torso Mount (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8429) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8429) 
 - **Battle Value:** 1383 
 
 ## Availability 

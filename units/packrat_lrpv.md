@@ -13,7 +13,7 @@
   - Flamer 
 - **Equipment:** 
   - Infantry (1 tons) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2399) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2399) 
 - **Battle Value:** 344 
 - [*More Info*](packrat_lrpv/packrat_lrpv_pkr-t5.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2401) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2401) 
 - **Battle Value:** 501 
 - [*More Info*](packrat_lrpv/packrat_lrpv_pkr-t5_ml.md) 
 
@@ -45,7 +45,7 @@
   - Flamer 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2402) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2402) 
 - **Battle Value:** 263 
 - [*More Info*](packrat_lrpv/packrat_lrpv_pkr-t5_srm2.md) 
 
@@ -61,7 +61,7 @@
   - SRM 6 (ammo: 30) 
 - **Equipment:** 
   - Infantry (1 tons) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2400) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2400) 
 - **Battle Value:** 294 
 - [*More Info*](packrat_lrpv/packrat_lrpv_pkr-t5_ice.md) 
 
@@ -96,7 +96,7 @@
   - Environmentally Sealed Chassis 
   - Limited Amphibious Chassis 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5606) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5606) 
 - **Battle Value:** 309 
 - [*More Info*](packrat_lrpv/packrat_lrpv_gespenst.md) 
 

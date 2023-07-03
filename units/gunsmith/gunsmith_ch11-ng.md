@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - MASC 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6332) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6332) 
 - **Battle Value:** 1465 
 
 ## Availability 

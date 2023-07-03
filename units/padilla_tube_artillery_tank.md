@@ -12,7 +12,7 @@
   - Sniper (ammo: 20) 
   - LRM 5 × 2 (ammo: 48) 
   - Small Pulse Laser × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2406) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2406) 
 - **Battle Value:** 592 
 - [*More Info*](padilla_tube_artillery_tank/padilla_tube_artillery_tank.md) 
 
@@ -30,7 +30,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2405) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2405) 
 - **Battle Value:** 985 
 - [*More Info*](padilla_tube_artillery_tank/padilla_tube_artillery_tank_ltc.md) 
 
@@ -48,7 +48,7 @@
   - MML 3 × 4 (ammo: 40 LRM, 33 SRM) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2407) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2407) 
 - **Battle Value:** 690 
 - [*More Info*](padilla_tube_artillery_tank/padilla_tube_artillery_tank_thumper.md) 
 
@@ -66,7 +66,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System × 2 (ammo: 24) 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8045) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8045) 
 - **Battle Value:** 692 
 - [*More Info*](padilla_tube_artillery_tank/padilla_tube_artillery_tank_ams.md) 
 

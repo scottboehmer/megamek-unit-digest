@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3259) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3259) 
 - **Battle Value:** 2434 
 
 ## Availability 

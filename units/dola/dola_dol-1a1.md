@@ -18,7 +18,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Sword) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4086) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4086) 
 - **Battle Value:** 950 
 
 ## Availability 

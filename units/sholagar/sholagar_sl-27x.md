@@ -16,7 +16,7 @@
   - SRM 4 (iOS) 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** XTRO Corporation - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2938) 
+- **Sources:** XTR: Corporation , [Master Unit List](http://masterunitlist.info/Unit/Details/2938) 
 - **Battle Value:** Unknown 
 
 ## Availability 

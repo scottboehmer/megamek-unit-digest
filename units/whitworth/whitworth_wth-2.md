@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3541) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3541) 
 - **Battle Value:** 936 
 
 ## Availability 

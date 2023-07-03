@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Vestigial Hands 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/999) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/999) 
 - **Battle Value:** 1715 
 
 ## Availability 

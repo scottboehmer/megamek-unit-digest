@@ -15,7 +15,7 @@
   - SRM 4 × 4 (ammo: 50) 
   - ER Small Laser 
   - Machine Gun (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1703) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1703) 
 - **Battle Value:** 752 
 
 ## Availability 

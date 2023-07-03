@@ -12,7 +12,7 @@
   - Streak SRM 6 (ammo: 15) 
   - ER Medium Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** RS 3060U , [Master Unit List](http://masterunitlist.info/Unit/Details/135) 
+- **Sources:** Record Sheets: 3060 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/135) 
 - **Battle Value:** 952 
 - [*More Info*](asshur_fast_reconnaissance_vehicle/asshur_fast_reconnaissance_vehicle.md) 
 
@@ -28,7 +28,7 @@
   - ProtoMech AC/8 (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/134) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/134) 
 - **Battle Value:** 333 
 - [*More Info*](asshur_fast_reconnaissance_vehicle/asshur_fast_reconnaissance_vehicle_proto_ac.md) 
 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/110) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/110) 
 - **Battle Value:** 1598 
 
 ## Availability 

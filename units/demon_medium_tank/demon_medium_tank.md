@@ -14,7 +14,7 @@
   - Medium Pulse Laser × 2 
   - Vehicle Flamer × 2 (ammo: 20) 
   - Light Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/871) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/871) 
 - **Battle Value:** 454 
 
 ## Availability 

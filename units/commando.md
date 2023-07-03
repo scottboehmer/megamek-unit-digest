@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/666) 
+- **Sources:** XTR: Primitives I , [Master Unit List](http://masterunitlist.info/Unit/Details/666) 
 - **Battle Value:** 475 
 - [*More Info*](commando/commando_com-1a.md) 
 
@@ -32,7 +32,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/669) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/669) 
 - **Battle Value:** 558 
 - [*More Info*](commando/commando_com-1d.md) 
 
@@ -51,7 +51,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/670) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/670) 
 - **Battle Value:** 541 
 - [*More Info*](commando/commando_com-2d.md) 
 
@@ -70,7 +70,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/667) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/667) 
 - **Battle Value:** 616 
 - [*More Info*](commando/commando_com-1b.md) 
 
@@ -88,7 +88,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/668) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/668) 
 - **Battle Value:** 458 
 - [*More Info*](commando/commando_com-1c.md) 
 
@@ -107,7 +107,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/672) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/672) 
 - **Battle Value:** 540 
 - [*More Info*](commando/commando_com-3a.md) 
 
@@ -128,7 +128,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/674) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/674) 
 - **Battle Value:** 557 
 - [*More Info*](commando/commando_com-5s.md) 
 
@@ -149,7 +149,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/676) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/676) 
 - **Battle Value:** 658 
 - [*More Info*](commando/commando_com-7s.md) 
 
@@ -167,7 +167,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/673) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/673) 
 - **Battle Value:** 691 
 - [*More Info*](commando/commando_com-4h.md) 
 
@@ -190,7 +190,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/675) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/675) 
 - **Battle Value:** 602 
 - [*More Info*](commando/commando_com-7b.md) 
 
@@ -213,7 +213,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/677) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/677) 
 - **Battle Value:** 1105 
 - [*More Info*](commando/commando_com-7s2_freyr.md) 
 
@@ -232,7 +232,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7461) 
+- **Sources:** Touring the Stars: Kaumberg , [Master Unit List](http://masterunitlist.info/Unit/Details/7461) 
 - **Battle Value:** 549 
 - [*More Info*](commando/commando_com-1ak.md) 
 
@@ -252,7 +252,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/671) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/671) 
 - **Battle Value:** 563 
 - [*More Info*](commando/commando_com-2dr.md) 
 
@@ -274,7 +274,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6945) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6945) 
 - **Battle Value:** 775 
 - [*More Info*](commando/commando_com-8s.md) 
 
@@ -296,7 +296,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7439) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7439) 
 - **Battle Value:** 719 
 - [*More Info*](commando/commando_com-9s.md) 
 

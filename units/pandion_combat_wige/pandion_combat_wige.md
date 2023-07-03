@@ -15,7 +15,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2415) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2415) 
 - **Battle Value:** 673 
 
 ## Availability 

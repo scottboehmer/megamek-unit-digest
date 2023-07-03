@@ -22,7 +22,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6831) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6831) 
 - **Battle Value:** 2659 
 
 ## Availability 

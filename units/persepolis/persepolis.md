@@ -18,7 +18,7 @@
   - Improved Heavy Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4806) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4806) 
 - **Battle Value:** Unknown 
 
 ## Availability 

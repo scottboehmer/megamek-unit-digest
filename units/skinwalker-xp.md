@@ -17,7 +17,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7378) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7378) 
 - **Battle Value:** 3063 
 - [*More Info*](skinwalker-xp/skinwalker-xp_prime.md) 
 
@@ -39,7 +39,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Inner Sphere Radical Heat Sink System 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7379) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7379) 
 - **Battle Value:** 3915 
 - [*More Info*](skinwalker-xp/skinwalker-xp_a.md) 
 
@@ -61,7 +61,7 @@
   - ECM Suite 
   - Supercharger 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7380) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7380) 
 - **Battle Value:** 3667 
 - [*More Info*](skinwalker-xp/skinwalker-xp_b.md) 
 
@@ -83,7 +83,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7381) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7381) 
 - **Battle Value:** 4519 
 - [*More Info*](skinwalker-xp/skinwalker-xp_c.md) 
 
@@ -107,7 +107,7 @@
   - ER Micro Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7382) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7382) 
 - **Battle Value:** 2533 
 - [*More Info*](skinwalker-xp/skinwalker-xp_d.md) 
 

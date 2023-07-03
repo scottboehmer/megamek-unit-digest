@@ -18,7 +18,7 @@
   - Clan Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8317) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8317) 
 - **Battle Value:** 2026 
 
 ## Availability 

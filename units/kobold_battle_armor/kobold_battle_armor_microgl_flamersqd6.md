@@ -16,7 +16,7 @@
 - **Weapons:** 
   - Squad Support Flamer 
   - Micro Grenade Launcher 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9003) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9003) 
 - **Battle Value:** 29 (208 for 6 suits) 
 
 ## Availability 

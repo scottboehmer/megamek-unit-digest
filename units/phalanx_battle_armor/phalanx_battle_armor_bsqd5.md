@@ -15,7 +15,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 2) 
   - Taser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8656) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8656) 
 - **Battle Value:** 61 (429 for 5 suits) 
 
 ## Availability 

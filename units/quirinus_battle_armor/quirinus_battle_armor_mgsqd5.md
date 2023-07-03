@@ -17,7 +17,7 @@
   - Machine Gun 
 - **Equipment:** 
   - Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8776) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/8776) 
 - **Battle Value:** 46 (323 for 5 suits) 
 
 ## Availability 

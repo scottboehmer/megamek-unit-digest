@@ -20,7 +20,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/2069) 
 - **Battle Value:** 2386 
 
 ## Availability 

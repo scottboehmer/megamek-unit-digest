@@ -17,7 +17,7 @@
   - Partial Wing 
   - Anti-Personnel Mount 
   - Squad Support Clan Light TAG 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1737) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1737) 
 - **Battle Value:** 20 (105 for 4 suits) 
 
 ## Availability 

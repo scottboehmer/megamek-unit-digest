@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Squad Support ER Medium Laser 
   - ER Micro Laser 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9440) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9440) 
 - **Battle Value:** 199 (388 for 4 suits) 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Rocket 10 × 8 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7169) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7169) 
 - **Battle Value:** 430 
 
 ## Availability 

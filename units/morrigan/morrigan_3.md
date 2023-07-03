@@ -21,7 +21,7 @@
   - Weak Legs 
   - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (BattleMech Taser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2230) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2230) 
 - **Battle Value:** 1390 
 
 ## Availability 

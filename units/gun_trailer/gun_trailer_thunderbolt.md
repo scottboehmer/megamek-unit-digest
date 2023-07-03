@@ -14,7 +14,7 @@
   - Thunderbolt 20 (ammo: 18) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6531) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6531) 
 - **Battle Value:** 362 
 
 ## Availability 

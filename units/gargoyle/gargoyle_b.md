@@ -20,7 +20,7 @@
   - Stabilized Weapon (Gauss Rifle) 
   - Stabilized Weapon (LRM 10) 
   - Stabilized Weapon (SRM 4) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2003) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2003) 
 - **Battle Value:** 1843 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5743) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5743) 
 - **Battle Value:** 2131 
 
 ## Availability 

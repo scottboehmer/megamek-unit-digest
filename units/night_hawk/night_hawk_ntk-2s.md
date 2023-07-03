@@ -18,7 +18,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2272) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2272) 
 - **Battle Value:** 1017 
 
 ## Availability 

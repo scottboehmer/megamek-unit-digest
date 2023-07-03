@@ -22,7 +22,7 @@
   - Searchlight 
   - Stable 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/849) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/849) 
 - **Battle Value:** 1817 
 - [*More Info*](defiance/defiance_dfn-3c.md) 
 
@@ -47,7 +47,7 @@
   - Searchlight 
   - Stable 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/850) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/850) 
 - **Battle Value:** 1940 
 - [*More Info*](defiance/defiance_dfn-3s.md) 
 
@@ -72,7 +72,7 @@
   - Searchlight 
   - Stable 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/851) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/851) 
 - **Battle Value:** 1981 
 - [*More Info*](defiance/defiance_dfn-3t.md) 
 

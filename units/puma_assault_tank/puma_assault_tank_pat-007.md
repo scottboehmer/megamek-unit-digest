@@ -21,7 +21,7 @@
   - B-Pod 
   - C3i 
   - Machine Gun Array × 2 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2601) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2601) 
 - **Battle Value:** 1309 
 
 ## Availability 

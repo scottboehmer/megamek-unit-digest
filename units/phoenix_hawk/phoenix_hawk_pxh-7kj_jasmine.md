@@ -19,7 +19,7 @@
   - Angel ECM Suite 
   - Full Head Ejection System 
   - Remote Drone Command Console 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8372) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8372) 
 - **Battle Value:** 1513 
 
 ## Availability 

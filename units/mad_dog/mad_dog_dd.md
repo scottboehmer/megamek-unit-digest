@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Rec Guide:ilClan #10 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7727) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7727) 
 - **Battle Value:** 1970 
 
 ## Availability 

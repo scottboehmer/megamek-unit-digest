@@ -14,7 +14,7 @@
   - Flamer × 7 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7884) 
+- **Sources:** Operational Turning Points: Hanseatic Crusade , [Master Unit List](http://masterunitlist.info/Unit/Details/7884) 
 - **Battle Value:** 1203 
 - [*More Info*](surtur/surtur_sur-t1.md) 
 

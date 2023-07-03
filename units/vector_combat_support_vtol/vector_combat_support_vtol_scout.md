@@ -17,7 +17,7 @@
   - Beagle Active Probe 
   - TAG 
   - Mast Mount 
-- **Sources:** HIST LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6769) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6769) 
 - **Battle Value:** 523 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6852) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6852) 
 - **Battle Value:** 2423 
 
 ## Availability 

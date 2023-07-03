@@ -14,7 +14,7 @@
   - LRM 15 (ammo: 16) 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4478) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4478) 
 - **Battle Value:** 1771 
 - [*More Info*](lao_hu/lao_hu_lhu-2b.md) 
 
@@ -34,7 +34,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4479) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4479) 
 - **Battle Value:** 1497 
 - [*More Info*](lao_hu/lao_hu_lhu-3b.md) 
 
@@ -52,7 +52,7 @@
   - LRM 5 × 3 (ammo: 72) 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4480) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4480) 
 - **Battle Value:** 1878 
 - [*More Info*](lao_hu/lao_hu_lhu-3c.md) 
 
@@ -72,7 +72,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5695) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5695) 
 - **Battle Value:** 1995 
 - [*More Info*](lao_hu/lao_hu_lhu-3l.md) 
 
@@ -94,7 +94,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Good Reputation 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5696) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5696) 
 - **Battle Value:** 2123 
 - [*More Info*](lao_hu/lao_hu_lhu-4e.md) 
 

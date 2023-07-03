@@ -18,7 +18,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6880) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/6880) 
 - **Battle Value:** 2433 
 
 ## Availability 

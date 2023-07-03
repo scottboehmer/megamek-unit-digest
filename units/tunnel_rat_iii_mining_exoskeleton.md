@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5305) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/5305) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_armored_glovesqd4.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8700) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8700) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_armored_glovesqd5.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9064) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9064) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_armored_glovesqd6.md) 
 
@@ -68,7 +68,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7213) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7213) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_industrial_drillsqd4.md) 
 
@@ -86,7 +86,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8815) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8815) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_industrial_drillsqd5.md) 
 
@@ -104,7 +104,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9178) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9178) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](tunnel_rat_iii_mining_exoskeleton/tunnel_rat_iii_mining_exoskeleton_industrial_drillsqd6.md) 
 

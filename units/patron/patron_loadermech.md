@@ -16,7 +16,7 @@
   - Lift Hoist 
   - Mech Sprayer 
   - Cargo 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4792) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4792) 
 - **Battle Value:** 106 
 
 ## Availability 

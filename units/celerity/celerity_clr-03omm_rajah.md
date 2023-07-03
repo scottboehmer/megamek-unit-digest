@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Spikes × 2 
   - Drone Operating System 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8366) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8366) 
 - **Battle Value:** 272 
 
 ## Availability 

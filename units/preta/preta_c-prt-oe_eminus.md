@@ -23,7 +23,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2578) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2578) 
 - **Battle Value:** 1211 
 
 ## Availability 

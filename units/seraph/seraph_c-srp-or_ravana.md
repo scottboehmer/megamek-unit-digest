@@ -26,7 +26,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2875) 
+- **Sources:** Jihad Turning Points: Sian , [Master Unit List](http://masterunitlist.info/Unit/Details/2875) 
 - **Battle Value:** 1954 
 
 ## Availability 

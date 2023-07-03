@@ -12,7 +12,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8620) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8620) 
 - **Battle Value:** 7 (46 for 5 suits) 
 
 ## Availability 

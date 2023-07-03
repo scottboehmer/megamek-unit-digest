@@ -19,7 +19,7 @@
   - C3 Boosted Main 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6900) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6900) 
 - **Battle Value:** 1498 
 
 ## Availability 

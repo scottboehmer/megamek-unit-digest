@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1345) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1345) 
 - **Battle Value:** 2377 
 
 ## Availability 

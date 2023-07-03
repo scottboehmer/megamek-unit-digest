@@ -13,7 +13,7 @@
   - ER Large Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/721) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/721) 
 - **Battle Value:** 1285 
 - [*More Info*](crimson_hawk/crimson_hawk.md) 
 
@@ -30,7 +30,7 @@
   - Heavy Large Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/722) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/722) 
 - **Battle Value:** 1271 
 - [*More Info*](crimson_hawk/crimson_hawk_2.md) 
 
@@ -48,7 +48,7 @@
   - ER Medium Laser 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/723) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/723) 
 - **Battle Value:** 1029 
 - [*More Info*](crimson_hawk/crimson_hawk_3.md) 
 
@@ -70,7 +70,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6944) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6944) 
 - **Battle Value:** 1372 
 - [*More Info*](crimson_hawk/crimson_hawk_4.md) 
 

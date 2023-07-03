@@ -19,7 +19,7 @@
   - Angel ECM Suite 
   - CASE II 
   - Targeting Computer 
-- **Sources:** Shrapnel 10 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9250) 
+- **Sources:** Shrapnel #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/9250) 
 - **Battle Value:** 1029 
 
 ## Availability 

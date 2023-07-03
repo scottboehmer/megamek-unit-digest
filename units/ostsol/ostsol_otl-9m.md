@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2379) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2379) 
 - **Battle Value:** 1871 
 
 ## Availability 

@@ -22,7 +22,7 @@
   - Prototype 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4463) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/4463) 
 - **Battle Value:** 3055 
 
 ## Availability 

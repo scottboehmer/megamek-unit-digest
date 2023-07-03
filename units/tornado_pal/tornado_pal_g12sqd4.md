@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5256) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5256) 
 - **Battle Value:** 9 (47 for 4 suits) 
 
 ## Availability 

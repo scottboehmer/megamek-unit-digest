@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6536) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6536) 
 - **Battle Value:** 320 
 
 ## Availability 

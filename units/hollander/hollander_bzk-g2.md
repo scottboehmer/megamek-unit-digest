@@ -14,7 +14,7 @@
   - Light Gauss Rifle (ammo: 32) 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7992) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7992) 
 - **Battle Value:** 895 
 
 ## Availability 

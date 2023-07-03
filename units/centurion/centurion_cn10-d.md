@@ -18,7 +18,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7725) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7725) 
 - **Battle Value:** 1260 
 
 ## Availability 

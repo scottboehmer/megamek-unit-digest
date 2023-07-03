@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult Ejection 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5131) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5131) 
 - **Battle Value:** 859 
 
 ## Availability 

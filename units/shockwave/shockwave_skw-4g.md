@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Battlefists 
   - Exposed Weapon Linkage (RAC/5) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2930) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2930) 
 - **Battle Value:** 1449 
 
 ## Availability 

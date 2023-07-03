@@ -12,7 +12,7 @@
 - **Weapons:** 
   - ER Medium Laser × 3 
   - Streak SRM 4 × 2 (ammo: 25) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6637) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6637) 
 - **Battle Value:** Unknown 
 - [*More Info*](sternensturm/sternensturm_stm-o.md) 
 
@@ -29,7 +29,7 @@
   - ER PPC 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6638) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6638) 
 - **Battle Value:** Unknown 
 - [*More Info*](sternensturm/sternensturm_stm-oa.md) 
 
@@ -48,7 +48,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System × 4 (ammo: 12) 
   - Beagle Active Probe 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6639) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6639) 
 - **Battle Value:** Unknown 
 - [*More Info*](sternensturm/sternensturm_stm-ob.md) 
 

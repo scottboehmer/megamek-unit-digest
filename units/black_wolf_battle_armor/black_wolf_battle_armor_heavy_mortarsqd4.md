@@ -14,7 +14,7 @@
   - Heavy Battle Claw (right) 
 - **Weapons:** 
   - Inner Sphere Heavy Mortar 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6241) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6241) 
 - **Battle Value:** 57 (294 for 4 suits) 
 
 ## Availability 

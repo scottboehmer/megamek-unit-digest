@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2847) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2847) 
 - **Battle Value:** 306 
 - [*More Info*](scorpion_light_tank/scorpion_light_tank.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2842) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2842) 
 - **Battle Value:** 425 
 - [*More Info*](scorpion_light_tank/scorpion_light_tank_lrm.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 45) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2846) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2846) 
 - **Battle Value:** 373 
 - [*More Info*](scorpion_light_tank/scorpion_light_tank_srm.md) 
 
@@ -58,7 +58,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2844) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2844) 
 - **Battle Value:** 320 
 - [*More Info*](scorpion_light_tank/scorpion_light_tank_ml.md) 
 
@@ -73,7 +73,7 @@
 - **Weapons:** 
   - MRM 20 (ammo: 24) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2845) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2845) 
 - **Battle Value:** 393 
 - [*More Info*](scorpion_light_tank/scorpion_light_tank_mrm.md) 
 
@@ -88,7 +88,7 @@
 - **Weapons:** 
   - Light AC/2 × 2 (ammo: 45) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2841) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2841) 
 - **Battle Value:** 289 
 - [*More Info*](scorpion_light_tank/scorpion_light_tank_lac.md) 
 
@@ -106,7 +106,7 @@
 - **Equipment:** 
   - Minesweeper 
   - Modular Armor 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2843) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/2843) 
 - **Battle Value:** 323 
 - [*More Info*](scorpion_light_tank/scorpion_light_tank_minesweeper_prototype.md) 
 
@@ -123,7 +123,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Minesweeper 
-- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4996) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4996) 
 - **Battle Value:** 323 
 - [*More Info*](scorpion_light_tank/scorpion_light_tank_minesweeper.md) 
 

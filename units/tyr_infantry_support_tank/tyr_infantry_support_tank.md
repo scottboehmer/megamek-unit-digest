@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5314) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5314) 
 - **Battle Value:** 1260 
 
 ## Availability 

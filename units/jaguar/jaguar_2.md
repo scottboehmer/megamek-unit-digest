@@ -22,7 +22,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6613) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6613) 
 - **Battle Value:** 1742 
 
 ## Availability 

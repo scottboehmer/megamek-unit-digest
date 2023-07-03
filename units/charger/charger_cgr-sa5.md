@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Bad Reputation (Inner Sphere) 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/569) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/569) 
 - **Battle Value:** 2105 
 
 ## Availability 

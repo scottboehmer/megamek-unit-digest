@@ -21,7 +21,7 @@
   - Protected Actuators 
   - Improved Life Support 
   - Jettison-Capable Weapon (Mace) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4057) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4057) 
 - **Battle Value:** 686 
 
 ## Availability 

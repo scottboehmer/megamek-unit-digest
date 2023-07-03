@@ -22,7 +22,7 @@
   - C3 Boosted Main 
 - **Design Quirks:** 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6462) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6462) 
 - **Battle Value:** 1865 
 
 ## Availability 

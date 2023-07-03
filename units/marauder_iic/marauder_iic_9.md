@@ -19,7 +19,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7537) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7537) 
 - **Battle Value:** 2595 
 
 ## Availability 

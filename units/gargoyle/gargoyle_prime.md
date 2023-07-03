@@ -21,7 +21,7 @@
   - Stabilized Weapon (LB 5-X AC) 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (LB 5-X AC) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2010) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2010) 
 - **Battle Value:** 1537 
 
 ## Availability 

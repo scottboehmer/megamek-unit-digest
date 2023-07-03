@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 2 
-- **Sources:** TRO 3145 Federated Suns - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/6312) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6312) 
 - **Battle Value:** 336 
 
 ## Availability 

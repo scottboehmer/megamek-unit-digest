@@ -16,7 +16,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1894) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1894) 
 - **Battle Value:** 1214 
 
 ## Availability 

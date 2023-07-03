@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Flamer 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8939) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8939) 
 - **Battle Value:** 38 (344 for 6 suits) 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Lift Hoist × 2 
   - Cargo × 2 
   - Searchlight 
-- **Sources:** RS:VA IM Exo - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7157) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7157) 
 - **Battle Value:** 100 
 
 ## Availability 

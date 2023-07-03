@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 10 × 2 (ammo: 24) 
   - AC/2 (ammo: 45) 
-- **Sources:** ED: Age of War - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4170) 
+- **Sources:** Era Digest: Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4170) 
 - **Battle Value:** Unknown 
 - [*More Info*](firebird/firebird_fr-1.md) 
 

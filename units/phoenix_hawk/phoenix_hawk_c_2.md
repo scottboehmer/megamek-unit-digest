@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Clan Targeting Computer 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7753) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7753) 
 - **Battle Value:** 2187 
 
 ## Availability 

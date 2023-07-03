@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - ECM Suite 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8898) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8898) 
 - **Battle Value:** 49 (444 for 6 suits) 
 
 ## Availability 

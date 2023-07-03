@@ -13,7 +13,7 @@
 - **Weapons:** 
   - MRM 20 (ammo: 24) 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2795) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2795) 
 - **Battle Value:** 676 
 
 ## Availability 

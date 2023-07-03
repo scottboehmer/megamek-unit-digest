@@ -21,7 +21,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/541) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/541) 
 - **Battle Value:** 1424 
 
 ## Availability 

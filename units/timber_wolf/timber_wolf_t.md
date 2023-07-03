@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7517) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7517) 
 - **Battle Value:** 2714 
 
 ## Availability 

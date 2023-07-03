@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7604) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7604) 
 - **Battle Value:** 1620 
 
 ## Availability 

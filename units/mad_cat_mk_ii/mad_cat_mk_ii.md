@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4565) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4565) 
 - **Battle Value:** 3135 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6869) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6869) 
 - **Battle Value:** 2452 
 
 ## Availability 

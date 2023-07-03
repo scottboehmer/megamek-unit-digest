@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6263) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6263) 
 - **Battle Value:** 1401 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3050u - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2733) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2733) 
 - **Battle Value:** Unknown 
 
 ## Availability 

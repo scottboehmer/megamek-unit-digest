@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1463) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1463) 
 - **Battle Value:** 1366 
 
 ## Availability 

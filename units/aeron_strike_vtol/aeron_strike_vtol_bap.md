@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/13) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/13) 
 - **Battle Value:** 775 
 
 ## Availability 

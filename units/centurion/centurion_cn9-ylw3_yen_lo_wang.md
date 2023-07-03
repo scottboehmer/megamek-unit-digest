@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** OTP Capellan Crusades - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7404) 
+- **Sources:** Operational Turning Points: Capellan Crusades , [Master Unit List](http://masterunitlist.info/Unit/Details/7404) 
 - **Battle Value:** 1815 
 
 ## Availability 

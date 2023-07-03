@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1404) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1404) 
 - **Battle Value:** 1627 
 
 ## Availability 

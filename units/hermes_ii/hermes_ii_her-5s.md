@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1501) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1501) 
 - **Battle Value:** 857 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/590) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/590) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa_iic/chippewa_iic.md) 
 
@@ -36,7 +36,7 @@
   - Medium Pulse Laser × 2 
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - ER Small Laser × 2 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7670) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7670) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa_iic/chippewa_iic_2.md) 
 

@@ -15,7 +15,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2412) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/2412) 
 - **Battle Value:** 1486 
 
 ## Availability 

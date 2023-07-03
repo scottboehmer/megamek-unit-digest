@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/308) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/308) 
 - **Battle Value:** Unknown 
 
 ## Availability 

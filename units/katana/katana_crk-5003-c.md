@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1761) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1761) 
 - **Battle Value:** 1618 
 
 ## Availability 

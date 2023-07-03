@@ -21,7 +21,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/752) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/752) 
 - **Battle Value:** 1317 
 
 ## Availability 

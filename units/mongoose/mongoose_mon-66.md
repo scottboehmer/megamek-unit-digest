@@ -20,7 +20,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2208) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2208) 
 - **Battle Value:** 758 
 
 ## Availability 

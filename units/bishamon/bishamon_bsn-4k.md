@@ -18,7 +18,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/333) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/333) 
 - **Battle Value:** 1105 
 
 ## Availability 

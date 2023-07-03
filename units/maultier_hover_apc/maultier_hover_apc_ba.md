@@ -14,7 +14,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2104) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2104) 
 - **Battle Value:** 165 
 
 ## Availability 

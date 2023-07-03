@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stabilized Weapon (Light AC/5) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/426) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/426) 
 - **Battle Value:** 1572 
 - [*More Info*](brahma/brahma_brm-5a.md) 
 
@@ -41,7 +41,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** RS3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/427) 
+- **Sources:** Record Sheets: 3085 Unabridged - Cutting Edge , [Master Unit List](http://masterunitlist.info/Unit/Details/427) 
 - **Battle Value:** 1730 
 - [*More Info*](brahma/brahma_brm-5b.md) 
 
@@ -61,7 +61,7 @@
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
   - Tracks 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7981) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7981) 
 - **Battle Value:** 1642 
 - [*More Info*](brahma/brahma_brm-6t.md) 
 

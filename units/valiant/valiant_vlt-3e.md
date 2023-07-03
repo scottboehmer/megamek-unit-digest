@@ -21,7 +21,7 @@
   - Improved Targeting (Short) 
   - Protected Actuators 
   - Weak Head Armor (1) 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7293) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7293) 
 - **Battle Value:** 1019 
 
 ## Availability 

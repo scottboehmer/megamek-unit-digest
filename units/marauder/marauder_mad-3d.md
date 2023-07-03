@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (Large Laser) 
   - Exposed Weapon Linkage (Large Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2035) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2035) 
 - **Battle Value:** 1470 
 
 ## Availability 

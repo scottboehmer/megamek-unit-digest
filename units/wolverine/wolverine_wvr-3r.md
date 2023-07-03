@@ -24,7 +24,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (AC/5) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7408) 
+- **Sources:** XTR: Primitives V , [Master Unit List](http://masterunitlist.info/Unit/Details/7408) 
 - **Battle Value:** 867 
 
 ## Availability 

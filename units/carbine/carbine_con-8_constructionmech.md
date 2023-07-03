@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Extended Fuel Tank 
-- **Sources:** RS VA - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3895) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/3895) 
 - **Battle Value:** 198 
 
 ## Availability 

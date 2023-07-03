@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - 'Mech Mortar/1 × 2 (ammo: 48) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1131) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1131) 
 - **Battle Value:** 51 
 
 ## Availability 

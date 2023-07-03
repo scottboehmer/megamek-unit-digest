@@ -17,7 +17,7 @@
   - Machine Gun 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8588) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8588) 
 - **Battle Value:** 41 (286 for 5 suits) 
 
 ## Availability 

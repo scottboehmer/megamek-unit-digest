@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Protected Actuators 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/944) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/944) 
 - **Battle Value:** 977 
 
 ## Availability 

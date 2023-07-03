@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Mech Sprayer × 2 
   - Liquid Cargo × 2 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4780) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/4780) 
 - **Battle Value:** 299 
 - [*More Info*](pacifier/pacifier_ccu-36_securitymech.md) 
 
@@ -34,7 +34,7 @@
   - Mech Sprayer × 2 
   - Liquid Cargo × 2 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7824) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7824) 
 - **Battle Value:** 356 
 - [*More Info*](pacifier/pacifier_ccu-40_securitymech.md) 
 

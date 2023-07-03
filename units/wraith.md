@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3588) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3588) 
 - **Battle Value:** 1287 
 - [*More Info*](wraith/wraith_tr1.md) 
 
@@ -34,7 +34,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3589) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3589) 
 - **Battle Value:** 1485 
 - [*More Info*](wraith/wraith_tr2.md) 
 
@@ -55,7 +55,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3591) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3591) 
 - **Battle Value:** 1310 
 - [*More Info*](wraith/wraith_tr3.md) 
 
@@ -76,7 +76,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3590) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/3590) 
 - **Battle Value:** 1816 
 - [*More Info*](wraith/wraith_tr2-x_alexander.md) 
 
@@ -97,7 +97,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8381) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8381) 
 - **Battle Value:** 2051 
 - [*More Info*](wraith/wraith_tr2-p_pocahontas.md) 
 
@@ -118,7 +118,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide 25 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9269) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9269) 
 - **Battle Value:** 1581 
 - [*More Info*](wraith/wraith_tr5.md) 
 

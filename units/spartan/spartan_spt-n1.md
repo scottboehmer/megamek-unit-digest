@@ -19,7 +19,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rhonda's Irregulars - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2994) 
+- **Sources:** Rhonda's Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/2994) 
 - **Battle Value:** 1498 
 
 ## Availability 

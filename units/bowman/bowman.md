@@ -22,7 +22,7 @@
   - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
-- **Sources:** RS 3068 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/3857) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/3857) 
 - **Battle Value:** 2209 
 
 ## Availability 

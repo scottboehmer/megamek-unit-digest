@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
   - MRM 10 (ammo: 24) 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5179) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5179) 
 - **Battle Value:** Unknown 
 
 ## Availability 

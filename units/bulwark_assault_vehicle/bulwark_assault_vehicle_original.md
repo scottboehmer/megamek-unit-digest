@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 16) 
   - Gauss Rifle (ammo: 16) 
-- **Sources:** TRO 3145 Free Worlds League - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6499) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6499) 
 - **Battle Value:** 1681 
 
 ## Availability 

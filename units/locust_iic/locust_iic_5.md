@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1918) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1918) 
 - **Battle Value:** 878 
 
 ## Availability 

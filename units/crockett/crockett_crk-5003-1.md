@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/725) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/725) 
 - **Battle Value:** 1923 
 
 ## Availability 

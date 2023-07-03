@@ -15,7 +15,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4020) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4020) 
 - **Battle Value:** 1339 
 - [*More Info*](cronus/cronus_cns-3m.md) 
 
@@ -38,7 +38,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4021) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4021) 
 - **Battle Value:** 1579 
 - [*More Info*](cronus/cronus_cns-5m.md) 
 
@@ -62,7 +62,7 @@
   - C3i 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5680) 
+- **Sources:** TRO: 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5680) 
 - **Battle Value:** 978 
 - [*More Info*](cronus/cronus_cns-td9.md) 
 

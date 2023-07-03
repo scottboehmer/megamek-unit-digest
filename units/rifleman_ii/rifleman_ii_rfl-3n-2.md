@@ -20,7 +20,7 @@
   - Anti-Aircraft Targeting 
   - Improved Communications 
   - Searchlight 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2709) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2709) 
 - **Battle Value:** 1543 
 
 ## Availability 

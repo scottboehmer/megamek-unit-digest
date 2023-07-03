@@ -19,7 +19,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1936) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1936) 
 - **Battle Value:** 1618 
 
 ## Availability 

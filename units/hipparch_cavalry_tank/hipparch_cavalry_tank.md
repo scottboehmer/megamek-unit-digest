@@ -14,7 +14,7 @@
   - Medium Laser 
   - SRM 2 (ammo: 50) 
   - Small Laser 
-- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/4324) 
+- **Sources:** Historical: Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/4324) 
 - **Battle Value:** 382 
 
 ## Availability 

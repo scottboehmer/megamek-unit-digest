@@ -19,7 +19,7 @@
   - Anti-Personnel Mount 
   - Cutting Torch 
   - Space Operations Adaptation 
-- **Sources:** TRO 3085 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8491) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8491) 
 - **Battle Value:** 42 (290 for 5 suits) 
 
 ## Availability 

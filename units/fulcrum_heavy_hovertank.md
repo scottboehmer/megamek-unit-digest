@@ -15,7 +15,7 @@
   - Angel ECM Suite 
   - Armored Motive System 
   - Supercharger 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1157) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/1157) 
 - **Battle Value:** 1380 
 - [*More Info*](fulcrum_heavy_hovertank/fulcrum_heavy_hovertank_x.md) 
 
@@ -34,7 +34,7 @@
   - Angel ECM Suite 
   - Armored Motive System 
   - Supercharger 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4188) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4188) 
 - **Battle Value:** 1244 
 - [*More Info*](fulcrum_heavy_hovertank/fulcrum_heavy_hovertank_hybrid.md) 
 

@@ -16,7 +16,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/377) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/377) 
 - **Battle Value:** 1148 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/727) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/727) 
 - **Battle Value:** 1989 
 
 ## Availability 

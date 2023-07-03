@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6452) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6452) 
 - **Battle Value:** 639 
 
 ## Availability 

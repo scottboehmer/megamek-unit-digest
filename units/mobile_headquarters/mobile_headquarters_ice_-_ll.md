@@ -14,7 +14,7 @@
   - Large Laser 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2196) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2196) 
 - **Battle Value:** 249 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1184) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1184) 
 - **Battle Value:** 1771 
 
 ## Availability 

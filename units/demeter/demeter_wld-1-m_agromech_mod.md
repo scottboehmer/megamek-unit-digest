@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Combine 
   - Vehicle Flamer (ammo: 20) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7856) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7856) 
 - **Battle Value:** 332 
 
 ## Availability 

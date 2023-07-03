@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2424) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2424) 
 - **Battle Value:** 741 
 - [*More Info*](panther/panther_pnt-8z.md) 
 
@@ -34,7 +34,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2425) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2425) 
 - **Battle Value:** 769 
 - [*More Info*](panther/panther_pnt-9r.md) 
 
@@ -52,7 +52,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7417) 
+- **Sources:** Turning Points: War of 3039 - Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/7417) 
 - **Battle Value:** 804 
 - [*More Info*](panther/panther_pnt-9alag.md) 
 
@@ -73,7 +73,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2416) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2416) 
 - **Battle Value:** 838 
 - [*More Info*](panther/panther_pnt-10k.md) 
 
@@ -95,7 +95,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2426) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2426) 
 - **Battle Value:** 833 
 - [*More Info*](panther/panther_pnt-c.md) 
 
@@ -116,7 +116,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4785) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4785) 
 - **Battle Value:** 797 
 - [*More Info*](panther/panther_pnt-10ka.md) 
 
@@ -138,7 +138,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5443) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5443) 
 - **Battle Value:** 787 
 - [*More Info*](panther/panther_pnt-ca.md) 
 
@@ -161,7 +161,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2418) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2418) 
 - **Battle Value:** 982 
 - [*More Info*](panther/panther_pnt-12a.md) 
 
@@ -181,7 +181,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2422) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2422) 
 - **Battle Value:** 825 
 - [*More Info*](panther/panther_pnt-14s.md) 
 
@@ -202,7 +202,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2423) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2423) 
 - **Battle Value:** 988 
 - [*More Info*](panther/panther_pnt-16k.md) 
 
@@ -223,7 +223,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2417) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2417) 
 - **Battle Value:** 913 
 - [*More Info*](panther/panther_pnt-10k2.md) 
 
@@ -244,7 +244,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2420) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2420) 
 - **Battle Value:** 930 
 - [*More Info*](panther/panther_pnt-12k2.md) 
 
@@ -264,7 +264,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2421) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2421) 
 - **Battle Value:** 996 
 - [*More Info*](panther/panther_pnt-13k.md) 
 
@@ -285,7 +285,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2419) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2419) 
 - **Battle Value:** 930 
 - [*More Info*](panther/panther_pnt-12k.md) 
 
@@ -306,7 +306,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6923) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6923) 
 - **Battle Value:** 1036 
 - [*More Info*](panther/panther_pnt-12kc.md) 
 
@@ -328,7 +328,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8222) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8222) 
 - **Battle Value:** 1291 
 - [*More Info*](panther/panther_pnt-14r.md) 
 

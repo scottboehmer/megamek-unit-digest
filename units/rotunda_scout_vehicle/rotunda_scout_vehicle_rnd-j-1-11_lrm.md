@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2746) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2746) 
 - **Battle Value:** 303 
 
 ## Availability 

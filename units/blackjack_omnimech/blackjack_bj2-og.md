@@ -16,7 +16,7 @@
   - Small Re-Engineered Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6908) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6908) 
 - **Battle Value:** 1448 
 
 ## Availability 

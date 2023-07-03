@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3458) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3458) 
 - **Battle Value:** 642 
 - [*More Info*](vulcan/vulcan_vl-2t.md) 
 
@@ -35,7 +35,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3459) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3459) 
 - **Battle Value:** 942 
 - [*More Info*](vulcan/vulcan_vl-5t.md) 
 
@@ -54,7 +54,7 @@
   - Flamer × 3 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7797) 
+- **Sources:** Turning Points: War of 3039 - Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/7797) 
 - **Battle Value:** 603 
 - [*More Info*](vulcan/vulcan_vl-2t_timms.md) 
 
@@ -74,7 +74,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3461) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3461) 
 - **Battle Value:** 811 
 - [*More Info*](vulcan/vulcan_vt-5m.md) 
 
@@ -97,7 +97,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3462) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3462) 
 - **Battle Value:** 883 
 - [*More Info*](vulcan/vulcan_vt-5s.md) 
 
@@ -117,7 +117,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3465) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3465) 
 - **Battle Value:** 959 
 - [*More Info*](vulcan/vulcan_vt-6m.md) 
 
@@ -140,7 +140,7 @@
   - C3i 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3464) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3464) 
 - **Battle Value:** 940 
 - [*More Info*](vulcan/vulcan_vt-6c.md) 
 
@@ -163,7 +163,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3463) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3463) 
 - **Battle Value:** 1210 
 - [*More Info*](vulcan/vulcan_vt-5sr.md) 
 
@@ -187,7 +187,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #30 - Rec Guide:ilClan #30 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9427) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9427) 
 - **Battle Value:** 1500 
 - [*More Info*](vulcan/vulcan_vt-7t.md) 
 
@@ -207,7 +207,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8370) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8370) 
 - **Battle Value:** 947 
 - [*More Info*](vulcan/vulcan_vt-5ml_aladdin.md) 
 

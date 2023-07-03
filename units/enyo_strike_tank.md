@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4127) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4127) 
 - **Battle Value:** 1504 
 - [*More Info*](enyo_strike_tank/enyo_strike_tank.md) 
 
@@ -33,7 +33,7 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5732) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5732) 
 - **Battle Value:** 1423 
 - [*More Info*](enyo_strike_tank/enyo_strike_tank_lb-x_sholef.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Armored Motive System 
   - Supercharger 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4128) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/4128) 
 - **Battle Value:** 1094 
 - [*More Info*](enyo_strike_tank/enyo_strike_tank_xr.md) 
 
@@ -65,7 +65,7 @@
 - **Weapons:** 
   - ER Medium Pulse Laser × 2 
   - SRM 6 × 2 (ammo: 30) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4126) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4126) 
 - **Battle Value:** 861 
 - [*More Info*](enyo_strike_tank/enyo_strike_tank_er_pulse.md) 
 

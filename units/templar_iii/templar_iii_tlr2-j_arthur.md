@@ -20,7 +20,7 @@
   - Command Console 
   - CASE II 
   - Clan Targeting Computer 
-- **Sources:** Shattered Fortress - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7955) 
+- **Sources:** Shattered Fortresss , [Master Unit List](http://masterunitlist.info/Unit/Details/7955) 
 - **Battle Value:** 2722 
 
 ## Availability 

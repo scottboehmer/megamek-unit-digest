@@ -11,7 +11,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - Clan Machine Gun × 4 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8746) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/8746) 
 - **Battle Value:** 60 (422 for 5 suits) 
 
 ## Availability 

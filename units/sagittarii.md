@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - MML 7 × 2 (ammo: 28 SRM, 34 LRM) 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2769) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2769) 
 - **Battle Value:** Unknown 
 - [*More Info*](sagittarii/sagittarii_sgt-2r.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - MML 5 × 2 (ammo: 48 LRM, 20 SRM) 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2770) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2770) 
 - **Battle Value:** Unknown 
 - [*More Info*](sagittarii/sagittarii_sgt-3r.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - Large Re-Engineered Laser 
   - MML 5 w/ Artemis IV × 2 (ammo: 48 LRM, 20 SRM) 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6817) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6817) 
 - **Battle Value:** Unknown 
 - [*More Info*](sagittarii/sagittarii_sgt-4r.md) 
 

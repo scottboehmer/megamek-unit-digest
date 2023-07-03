@@ -18,7 +18,7 @@
   - Improved Sensors 
   - Camo System 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8844) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8844) 
 - **Battle Value:** 33 (295 for 6 suits) 
 
 ## Availability 

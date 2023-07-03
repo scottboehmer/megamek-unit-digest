@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3137) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3137) 
 - **Battle Value:** 988 
 
 ## Availability 

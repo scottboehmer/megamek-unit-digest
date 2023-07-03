@@ -20,7 +20,7 @@
   - AES × 2 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7295) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7295) 
 - **Battle Value:** 1521 
 
 ## Availability 

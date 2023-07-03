@@ -15,7 +15,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - Armored Motive System 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6599) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6599) 
 - **Battle Value:** 940 
 - [*More Info*](schildkröte_line_tank/schildkröte_line_tank.md) 
 
@@ -34,7 +34,7 @@
   - Anti-Missile System (ammo: 12) 
   - Armored Motive System 
   - CASE 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6600) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/6600) 
 - **Battle Value:** 988 
 - [*More Info*](schildkröte_line_tank/schildkröte_line_tank_hppc.md) 
 
@@ -53,7 +53,7 @@
   - Armored Motive System 
   - CASE 
   - Targeting Computer 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8054) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8054) 
 - **Battle Value:** 846 
 - [*More Info*](schildkröte_line_tank/schildkröte_line_tank_light_gauss.md) 
 
@@ -73,7 +73,7 @@
   - Armored Motive System 
   - CASE 
   - TAG 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8055) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8055) 
 - **Battle Value:** 1019 
 - [*More Info*](schildkröte_line_tank/schildkröte_line_tank_plasma.md) 
 

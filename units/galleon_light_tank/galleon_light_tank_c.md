@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Chemical Laser (ammo: 20) 
   - Medium Chemical Laser × 2 (ammo: 30) 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9341) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9341) 
 - **Battle Value:** 633 
 
 ## Availability 

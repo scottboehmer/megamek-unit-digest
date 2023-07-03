@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5306) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5306) 
 - **Battle Value:** 640 
 - [*More Info*](turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_original.md) 
 
@@ -30,7 +30,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (5.0 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3320) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3320) 
 - **Battle Value:** 673 
 - [*More Info*](turhan_urban_combat_vehicle/turhan_urban_combat_vehicle.md) 
 
@@ -49,7 +49,7 @@
   - Anti-Missile System (ammo: 12) 
   - C3 Main 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3319) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3319) 
 - **Battle Value:** 709 
 - [*More Info*](turhan_urban_combat_vehicle/turhan_urban_combat_vehicle_c3.md) 
 

@@ -15,7 +15,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8918) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/8918) 
 - **Battle Value:** 26 (230 for 6 suits) 
 
 ## Availability 

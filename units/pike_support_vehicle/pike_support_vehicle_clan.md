@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #30 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2520) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/2520) 
 - **Battle Value:** 892 
 
 ## Availability 

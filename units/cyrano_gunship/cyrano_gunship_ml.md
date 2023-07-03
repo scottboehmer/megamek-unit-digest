@@ -15,7 +15,7 @@
   - Rocket 10 × 5 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/784) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/784) 
 - **Battle Value:** 645 
 
 ## Availability 

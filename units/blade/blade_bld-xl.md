@@ -21,7 +21,7 @@
   - Exposed Weapon Linkage (RAC/5) 
   - Modular Weapon (RAC/5) 
   - Static Ammo Feed (RAC/5) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/391) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/391) 
 - **Battle Value:** 1314 
 
 ## Availability 

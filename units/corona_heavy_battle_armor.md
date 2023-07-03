@@ -14,7 +14,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4006) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4006) 
 - **Battle Value:** 95 (495 for 4 suits) 
 - [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_sqd4.md) 
 
@@ -32,7 +32,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8613) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8613) 
 - **Battle Value:** 95 (667 for 5 suits) 
 - [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_sqd5.md) 
 
@@ -50,7 +50,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8977) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8977) 
 - **Battle Value:** 95 (857 for 6 suits) 
 - [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_sqd6.md) 
 
@@ -70,7 +70,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4005) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4005) 
 - **Battle Value:** 72 (373 for 4 suits) 
 - [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_srm_sqd4.md) 
 
@@ -90,7 +90,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8612) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8612) 
 - **Battle Value:** 72 (502 for 5 suits) 
 - [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_srm_sqd5.md) 
 
@@ -110,7 +110,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8976) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8976) 
 - **Battle Value:** 72 (646 for 6 suits) 
 - [*More Info*](corona_heavy_battle_armor/corona_heavy_battle_armor_srm_sqd6.md) 
 

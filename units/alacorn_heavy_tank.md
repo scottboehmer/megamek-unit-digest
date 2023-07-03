@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - AC/10 × 3 (ammo: 50) 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5622) 
+- **Sources:** XTR: Primitives III , [Master Unit List](http://masterunitlist.info/Unit/Details/5622) 
 - **Battle Value:** 1080 
 - [*More Info*](alacorn_heavy_tank/alacorn_heavy_tank_mk_i.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - AC/20 × 3 (ammo: 15) 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5623) 
+- **Sources:** XTR: Primitives III , [Master Unit List](http://masterunitlist.info/Unit/Details/5623) 
 - **Battle Value:** 1017 
 - [*More Info*](alacorn_heavy_tank/alacorn_heavy_tank_mk_ii.md) 
 
@@ -38,7 +38,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - AC/10 × 3 (ammo: 90) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/23) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/23) 
 - **Battle Value:** 1432 
 - [*More Info*](alacorn_heavy_tank/alacorn_heavy_tank_mk_iii.md) 
 
@@ -52,7 +52,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - AC/20 × 3 (ammo: 40) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/24) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/24) 
 - **Battle Value:** 1400 
 - [*More Info*](alacorn_heavy_tank/alacorn_heavy_tank_mk_iv.md) 
 
@@ -66,7 +66,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Gauss Rifle × 3 (ammo: 40) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/25) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/25) 
 - **Battle Value:** 1850 
 - [*More Info*](alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) 
 
@@ -80,7 +80,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Heavy Gauss Rifle × 2 (ammo: 48) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/26) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/26) 
 - **Battle Value:** 2163 
 - [*More Info*](alacorn_heavy_tank/alacorn_heavy_tank_mk_vii.md) 
 

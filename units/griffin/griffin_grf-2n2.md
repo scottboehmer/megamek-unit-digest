@@ -22,7 +22,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (PPC) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6767) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/6767) 
 - **Battle Value:** 1513 
 
 ## Availability 

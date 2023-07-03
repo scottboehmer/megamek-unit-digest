@@ -10,7 +10,7 @@
 - **Movement:** 16 / 24, Fuel Cell 
 - **Armor:** 0 
 - **Heat Sinks:** 1 (1) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1530) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1530) 
 - **Battle Value:** 12 
 
 ## Availability 

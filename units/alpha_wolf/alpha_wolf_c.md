@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8443) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8443) 
 - **Battle Value:** 2535 
 
 ## Availability 

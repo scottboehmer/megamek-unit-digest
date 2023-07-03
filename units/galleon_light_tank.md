@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Small Laser × 2 
-- **Sources:** TRO3058U - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1175) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1175) 
 - **Battle Value:** 309 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-100.md) 
 
@@ -27,7 +27,7 @@
   - Clan Prototype Rocket 20 × 2 
   - Clan Prototype Rocket 10 × 4 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** OP Klondyke - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1180) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1180) 
 - **Battle Value:** 443 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-200_rl.md) 
 
@@ -42,7 +42,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** OP Klondyke - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1179) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1179) 
 - **Battle Value:** 345 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-200.md) 
 
@@ -59,7 +59,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO3058U - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1176) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1176) 
 - **Battle Value:** 651 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-102.md) 
 
@@ -78,7 +78,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - C3i 
-- **Sources:** TRO3058U - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1177) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1177) 
 - **Battle Value:** 872 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-103.md) 
 
@@ -95,7 +95,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3i 
-- **Sources:** TRO3058U - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1178) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1178) 
 - **Battle Value:** 707 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-104.md) 
 
@@ -115,7 +115,7 @@
   - Armored Motive System 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1181) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/1181) 
 - **Battle Value:** 451 
 - [*More Info*](galleon_light_tank/galleon_light_tank_maxwell.md) 
 
@@ -131,7 +131,7 @@
   - Rocket 20 × 2 
   - Rocket 10 × 4 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #27 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9338) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9338) 
 - **Battle Value:** 455 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-200r.md) 
 
@@ -149,7 +149,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - M-Pod × 2 
-- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9338) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9338) 
 - **Battle Value:** 648 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-300.md) 
 
@@ -167,7 +167,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9336) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9336) 
 - **Battle Value:** 586 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-106.md) 
 
@@ -184,7 +184,7 @@
   - Thumper Cannon (ammo: 0) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8041) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8041) 
 - **Battle Value:** 564 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-105.md) 
 
@@ -202,7 +202,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9338) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9338) 
 - **Battle Value:** 460 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-201.md) 
 
@@ -221,7 +221,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9337) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9337) 
 - **Battle Value:** 424 
 - [*More Info*](galleon_light_tank/galleon_light_tank_gal-106m.md) 
 
@@ -236,7 +236,7 @@
 - **Weapons:** 
   - Large Chemical Laser (ammo: 20) 
   - Medium Chemical Laser × 2 (ammo: 30) 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9341) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9341) 
 - **Battle Value:** 633 
 - [*More Info*](galleon_light_tank/galleon_light_tank_c.md) 
 

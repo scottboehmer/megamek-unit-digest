@@ -17,7 +17,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1026) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1026) 
 - **Battle Value:** 947 
 
 ## Availability 

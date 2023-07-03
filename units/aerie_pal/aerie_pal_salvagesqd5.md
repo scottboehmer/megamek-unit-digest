@@ -15,7 +15,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Space Operations Adaptation 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8600) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8600) 
 - **Battle Value:** 5 (37 for 5 suits) 
 
 ## Availability 

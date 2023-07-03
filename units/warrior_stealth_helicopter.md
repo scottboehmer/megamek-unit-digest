@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Jet Booster 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5387) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5387) 
 - **Battle Value:** 665 
 - [*More Info*](warrior_stealth_helicopter/warrior_stealth_helicopter_s-9.md) 
 

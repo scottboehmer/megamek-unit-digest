@@ -18,7 +18,7 @@
   - Machine Gun (ammo: 100) 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3950) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3950) 
 - **Battle Value:** 1173 
 
 ## Availability 

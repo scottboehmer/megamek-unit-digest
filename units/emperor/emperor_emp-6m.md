@@ -23,7 +23,7 @@
   - Command ’Mech 
   - Improved Cooling Jacket (ER Large Laser) 
   - Improved Cooling Jacket (ER Large Laser) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/968) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/968) 
 - **Battle Value:** 2090 
 
 ## Availability 

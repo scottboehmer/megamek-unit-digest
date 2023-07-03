@@ -26,7 +26,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/69) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/69) 
 - **Battle Value:** 2105 
 
 ## Availability 

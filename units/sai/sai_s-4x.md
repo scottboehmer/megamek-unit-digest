@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2774) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2774) 
 - **Battle Value:** Unknown 
 
 ## Availability 

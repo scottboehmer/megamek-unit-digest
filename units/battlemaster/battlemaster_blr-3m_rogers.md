@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** OTP:Falcon Incursion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3805) 
+- **Sources:** Operational Turning Points: Falcon Incursion , [Master Unit List](http://masterunitlist.info/Unit/Details/3805) 
 - **Battle Value:** 1819 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Magnetic Clamps 
   - Anti-Personnel Mount × 2 
   - Mechanical Jump Booster 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4215) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4215) 
 - **Battle Value:** 9 (47 for 4 suits) 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/676) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/676) 
 - **Battle Value:** 658 
 
 ## Availability 

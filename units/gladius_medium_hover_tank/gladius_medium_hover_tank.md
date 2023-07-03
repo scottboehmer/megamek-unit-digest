@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/10 (ammo: 20) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1214) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1214) 
 - **Battle Value:** 586 
 
 ## Availability 

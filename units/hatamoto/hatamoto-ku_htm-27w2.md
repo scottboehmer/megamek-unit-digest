@@ -18,7 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7350) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7350) 
 - **Battle Value:** 1699 
 
 ## Availability 

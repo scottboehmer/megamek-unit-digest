@@ -16,7 +16,7 @@
   - Light PPC × 4 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/173) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/173) 
 - **Battle Value:** 1801 
 
 ## Availability 

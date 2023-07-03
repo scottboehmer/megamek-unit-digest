@@ -28,7 +28,7 @@
   - Fast Reload (Streak SRM 6) 
   - Jettison-Capable Weapon (Chain Whip) 
   - Exposed Weapon Linkage (BattleMech Taser) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5275) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5275) 
 - **Battle Value:** 1415 
 
 ## Availability 

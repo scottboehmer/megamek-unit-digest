@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Armored Motive System 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6249) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6249) 
 - **Battle Value:** 708 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2029) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2029) 
 - **Battle Value:** 434 
 - [*More Info*](mantis_light_attack_vtol/mantis_light_attack_vtol.md) 
 
@@ -29,7 +29,7 @@
   - Guardian ECM Suite × 2 
   - C3 Support 
   - Mast Mount 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2028) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2028) 
 - **Battle Value:** 304 
 - [*More Info*](mantis_light_attack_vtol/mantis_light_attack_vtol_eccm.md) 
 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/948) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/948) 
 - **Battle Value:** 1843 
 
 ## Availability 

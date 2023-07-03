@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1545) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1545) 
 - **Battle Value:** 488 
 
 ## Availability 

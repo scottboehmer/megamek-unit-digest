@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6401) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6401) 
 - **Battle Value:** 2043 
 
 ## Availability 

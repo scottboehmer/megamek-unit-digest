@@ -130,14 +130,17 @@
 - [**Battle Cobra H**](../../../units/battle_cobra/battle_cobra_h.md) *Striker (3061)* 
 - [**Battle Cobra C**](../../../units/battle_cobra/battle_cobra_c.md) *Striker (3062)* 
 - [**Battle Cobra X**](../../../units/battle_cobra/battle_cobra_x.md) *Striker (3073)* 
-- [**Battle Cobra BTL-C-2OG**](../../../units/battle_cobra/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
-- [**Battle Cobra BTL-C-2OH**](../../../units/battle_cobra/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
-- [**Battle Cobra BTL-C-2OI**](../../../units/battle_cobra/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
 - [**Battle Cobra G**](../../../units/battle_cobra/battle_cobra_g.md) *Striker (3140)* 
 - [**Battle Cobra T**](../../../units/battle_cobra/battle_cobra_t.md) *Sniper (3142)* 
-- [**Battle Cobra BTL-C-2OJ**](../../../units/battle_cobra/battle_cobra_btl-c-2oj.md) *Skirmisher (3144)* 
 - [**Battle Cobra I**](../../../units/battle_cobra/battle_cobra_i.md) *Missile Boat (3147)* 
 - [**Battle Cobra J**](../../../units/battle_cobra/battle_cobra_j.md) *Striker (3147)* 
+
+#### [Battle Cobra (ComStar)](../../../units/battle_cobra_comstar.md) 
+
+- [**Battle Cobra BTL-C-2OG**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
+- [**Battle Cobra BTL-C-2OH**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
+- [**Battle Cobra BTL-C-2OI**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
+- [**Battle Cobra BTL-C-2OJ**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2oj.md) *Skirmisher (3144)* 
 
 #### [Mongoose II](../../../units/mongoose_ii.md) 
 

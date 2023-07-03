@@ -15,7 +15,7 @@
   - Light Machine Gun 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6309) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6309) 
 - **Battle Value:** 67 (348 for 4 suits) 
 - [*More Info*](fusilier_battle_armor/fusilier_battle_armor_sqd4.md) 
 
@@ -34,7 +34,7 @@
   - Light Machine Gun 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8734) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/8734) 
 - **Battle Value:** 67 (468 for 5 suits) 
 - [*More Info*](fusilier_battle_armor/fusilier_battle_armor_sqd5.md) 
 
@@ -53,7 +53,7 @@
   - Light Machine Gun 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9097) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/9097) 
 - **Battle Value:** 67 (602 for 6 suits) 
 - [*More Info*](fusilier_battle_armor/fusilier_battle_armor_sqd6.md) 
 
@@ -70,7 +70,7 @@
 - **Weapons:** 
   - Man-Portable Plasma Rifle 
   - Light Machine Gun 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6310) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6310) 
 - **Battle Value:** 73 (382 for 4 suits) 
 - [*More Info*](fusilier_battle_armor/fusilier_battle_armor_upgradesqd4.md) 
 
@@ -87,7 +87,7 @@
 - **Weapons:** 
   - Man-Portable Plasma Rifle 
   - Light Machine Gun 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8735) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/8735) 
 - **Battle Value:** 73 (514 for 5 suits) 
 - [*More Info*](fusilier_battle_armor/fusilier_battle_armor_upgradesqd5.md) 
 
@@ -104,7 +104,7 @@
 - **Weapons:** 
   - Man-Portable Plasma Rifle 
   - Light Machine Gun 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9098) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/9098) 
 - **Battle Value:** 73 (660 for 6 suits) 
 - [*More Info*](fusilier_battle_armor/fusilier_battle_armor_upgradesqd6.md) 
 

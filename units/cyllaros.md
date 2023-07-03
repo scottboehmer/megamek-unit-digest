@@ -18,7 +18,7 @@
   - ECM Suite 
   - Tracks 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6253) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6253) 
 - **Battle Value:** 1450 
 - [*More Info*](cyllaros/cyllaros.md) 
 

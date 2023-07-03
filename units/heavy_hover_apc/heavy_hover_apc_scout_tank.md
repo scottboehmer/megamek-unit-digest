@@ -14,7 +14,7 @@
   - Light AC/5 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1433) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1433) 
 - **Battle Value:** 330 
 
 ## Availability 

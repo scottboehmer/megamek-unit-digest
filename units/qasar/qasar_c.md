@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - RAC/5 (ammo: 40) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7665) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7665) 
 - **Battle Value:** Unknown 
 
 ## Availability 

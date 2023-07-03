@@ -11,7 +11,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER PPC 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3935) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3935) 
 - **Battle Value:** Unknown 
 - [*More Info*](chaeronea/chaeronea.md) 
 
@@ -26,7 +26,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3936) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3936) 
 - **Battle Value:** Unknown 
 - [*More Info*](chaeronea/chaeronea_2.md) 
 
@@ -41,7 +41,7 @@
 - **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - ER Large Laser × 2 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3937) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3937) 
 - **Battle Value:** Unknown 
 - [*More Info*](chaeronea/chaeronea_3.md) 
 
@@ -60,7 +60,7 @@
   - Light Active Probe 
   - Light TAG 
   - Targeting Computer 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5744) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5744) 
 - **Battle Value:** Unknown 
 - [*More Info*](chaeronea/chaeronea_4.md) 
 

@@ -17,7 +17,7 @@
   - Support PPC 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8704) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8704) 
 - **Battle Value:** 46 (324 for 5 suits) 
 
 ## Availability 

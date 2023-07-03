@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7591) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7591) 
 - **Battle Value:** 1482 
 
 ## Availability 

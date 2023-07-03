@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1257) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/1257) 
 - **Battle Value:** 1076 
 
 ## Availability 

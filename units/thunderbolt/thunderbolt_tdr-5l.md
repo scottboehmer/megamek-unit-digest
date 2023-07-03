@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Hist - 2nd SW , [Master Unit List](http://masterunitlist.info/Unit/Details/7762) 
+- **Sources:** Historical: Second Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7762) 
 - **Battle Value:** 1515 
 
 ## Availability 

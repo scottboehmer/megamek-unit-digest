@@ -14,7 +14,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - MASH (1 theaters) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1971) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1971) 
 - **Battle Value:** 220 
 
 ## Availability 

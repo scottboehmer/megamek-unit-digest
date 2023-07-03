@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Difficult Ejection 
   - Difficult to Maintain 
-- **Sources:** XTRO Ray , [Master Unit List](http://masterunitlist.info/Unit/Details/8108) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8108) 
 - **Battle Value:** 1946 
 
 ## Availability 

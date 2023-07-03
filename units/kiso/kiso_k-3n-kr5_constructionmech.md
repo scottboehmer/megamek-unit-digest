@@ -19,7 +19,7 @@
   - Communications Equipment 
   - Lift Hoist × 2 
   - Cargo Container × 2 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1803) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1803) 
 - **Battle Value:** 959 
 
 ## Availability 

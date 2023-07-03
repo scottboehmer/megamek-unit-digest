@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1354) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1354) 
 - **Battle Value:** 2206 
 
 ## Availability 

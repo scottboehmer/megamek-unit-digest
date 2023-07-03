@@ -21,7 +21,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7982) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7982) 
 - **Battle Value:** 3123 
 
 ## Availability 

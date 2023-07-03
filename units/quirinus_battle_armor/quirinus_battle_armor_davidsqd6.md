@@ -17,7 +17,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9137) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/9137) 
 - **Battle Value:** 49 (443 for 6 suits) 
 
 ## Availability 

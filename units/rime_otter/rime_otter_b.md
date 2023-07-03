@@ -24,7 +24,7 @@
   - Improved Sensors 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8311) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8311) 
 - **Battle Value:** 1961 
 
 ## Availability 

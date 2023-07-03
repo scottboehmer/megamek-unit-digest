@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Minesweeper 
   - Mine Dispenser × 4 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6497) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6497) 
 - **Battle Value:** 988 
 
 ## Availability 

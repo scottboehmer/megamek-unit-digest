@@ -19,7 +19,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (ER Large Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1586) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1586) 
 - **Battle Value:** 934 
 
 ## Availability 

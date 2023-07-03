@@ -19,7 +19,7 @@
   - Machine Gun (ammo: 100) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3407) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3407) 
 - **Battle Value:** 1236 
 
 ## Availability 

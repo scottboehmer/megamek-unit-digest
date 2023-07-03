@@ -24,7 +24,7 @@
   - Battle Computer 
   - Improved Communications 
   - Easy to Maintain 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5602) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5602) 
 - **Battle Value:** 1844 
 
 ## Availability 

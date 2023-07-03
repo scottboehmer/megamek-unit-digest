@@ -16,7 +16,7 @@
   - Barrel Fist (Left Arm) 
   - Modular Weapon (SRM 6) 
   - Modular Weapon (SRM 6) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1397) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1397) 
 - **Battle Value:** 1536 
 - [*More Info*](hatamoto/hatamoto-chi_htm-26t.md) 
 
@@ -38,7 +38,7 @@
   - Barrel Fist (Left Arm) 
   - Modular Weapon (SRM 4) 
   - Modular Weapon (SRM 4) 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1400) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1400) 
 - **Battle Value:** 1435 
 - [*More Info*](hatamoto/hatamoto-chi_htm-27t_daniel.md) 
 
@@ -60,7 +60,7 @@
   - Barrel Fist (Left Arm) 
   - Modular Weapon (SRM 6) 
   - Modular Weapon (SRM 6) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1398) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1398) 
 - **Battle Value:** 1607 
 - [*More Info*](hatamoto/hatamoto-chi_htm-27t.md) 
 
@@ -77,7 +77,7 @@
   - Medium Pulse Laser × 4 
 - **Design Quirks:** 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1403) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1403) 
 - **Battle Value:** 1627 
 - [*More Info*](hatamoto/hatamoto-hi_htm-27u.md) 
 
@@ -97,7 +97,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1407) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1407) 
 - **Battle Value:** 1595 
 - [*More Info*](hatamoto/hatamoto-kaze_htm-27v.md) 
 
@@ -115,7 +115,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1408) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1408) 
 - **Battle Value:** 1563 
 - [*More Info*](hatamoto/hatamoto-ku_htm-27w.md) 
 
@@ -133,7 +133,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1409) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1409) 
 - **Battle Value:** 1675 
 - [*More Info*](hatamoto/hatamoto-mizo_htm-27y.md) 
 
@@ -153,7 +153,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1404) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1404) 
 - **Battle Value:** 1627 
 - [*More Info*](hatamoto/hatamoto-hi_htm-c.md) 
 
@@ -173,7 +173,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1405) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1405) 
 - **Battle Value:** 1573 
 - [*More Info*](hatamoto/hatamoto-hi_htm-cm.md) 
 
@@ -196,7 +196,7 @@
   - Barrel Fist (Left Arm) 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 6) 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1399) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1399) 
 - **Battle Value:** 1661 
 - [*More Info*](hatamoto/hatamoto-chi_htm-27t_daniel_ii.md) 
 
@@ -220,7 +220,7 @@
   - Easy to Maintain 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 6) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1401) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1401) 
 - **Battle Value:** 2039 
 - [*More Info*](hatamoto/hatamoto-chi_htm-28t.md) 
 
@@ -244,7 +244,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5457) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5457) 
 - **Battle Value:** 2213 
 - [*More Info*](hatamoto/hatamoto-chi_htm-28t_shin.md) 
 
@@ -270,7 +270,7 @@
   - Easy to Maintain 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 4) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1402) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1402) 
 - **Battle Value:** 2034 
 - [*More Info*](hatamoto/hatamoto-chi_htm-28tr.md) 
 
@@ -294,7 +294,7 @@
   - Multi-Trac 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1406) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/1406) 
 - **Battle Value:** 1906 
 - [*More Info*](hatamoto/hatamoto-kaeru_htm-35x.md) 
 
@@ -318,7 +318,7 @@
   - Multi-Trac 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4266) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4266) 
 - **Battle Value:** 1906 
 - [*More Info*](hatamoto/hatamoto-kaeru_htm-35k.md) 
 
@@ -338,7 +338,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7350) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7350) 
 - **Battle Value:** 1699 
 - [*More Info*](hatamoto/hatamoto-ku_htm-27w2.md) 
 
@@ -360,7 +360,7 @@
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
   - Poor Workmanship 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6418) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6418) 
 - **Battle Value:** 2086 
 - [*More Info*](hatamoto/hatamoto-suna_htm-30s.md) 
 
@@ -386,7 +386,7 @@
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
   - Poor Workmanship 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6419) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6419) 
 - **Battle Value:** 1893 
 - [*More Info*](hatamoto/hatamoto-godai_htm-30z.md) 
 

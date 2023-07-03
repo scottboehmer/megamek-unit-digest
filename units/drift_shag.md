@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Bad Reputation (Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7605) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7605) 
 - **Battle Value:** 1512 
 - [*More Info*](drift_shag/drift_shag.md) 
 

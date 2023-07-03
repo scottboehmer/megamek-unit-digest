@@ -11,7 +11,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Ultra AC/2 × 2 (ammo: 90) 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6247) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6247) 
 - **Battle Value:** 1078 
 - [*More Info*](skanda_light_tank/skanda_light_tank.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - Inner Sphere TSEMP 
   - ProtoMech AC/2 × 2 (ammo: 40) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8058) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8058) 
 - **Battle Value:** 1437 
 - [*More Info*](skanda_light_tank/skanda_light_tank_tsemp.md) 
 

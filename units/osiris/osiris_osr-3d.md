@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4763) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4763) 
 - **Battle Value:** 1138 
 
 ## Availability 

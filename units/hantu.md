@@ -10,7 +10,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** ToS Kandersteg - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9244) 
+- **Sources:** Touring the Stars: Kandersteg , [Master Unit List](http://masterunitlist.info/Unit/Details/9244) 
 - **Battle Value:** 8 (44 for 4 suits) 
 - [*More Info*](hantu/hantu_aix-210sqd4.md) 
 
@@ -24,7 +24,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** ToS Kandersteg - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9245) 
+- **Sources:** Touring the Stars: Kandersteg , [Master Unit List](http://masterunitlist.info/Unit/Details/9245) 
 - **Battle Value:** 8 (59 for 5 suits) 
 - [*More Info*](hantu/hantu_aix-210sqd5.md) 
 
@@ -38,7 +38,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** ToS Kandersteg - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9246) 
+- **Sources:** Touring the Stars: Kandersteg , [Master Unit List](http://masterunitlist.info/Unit/Details/9246) 
 - **Battle Value:** 8 (76 for 6 suits) 
 - [*More Info*](hantu/hantu_aix-210sqd6.md) 
 

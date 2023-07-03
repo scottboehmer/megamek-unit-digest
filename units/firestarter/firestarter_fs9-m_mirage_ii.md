@@ -20,7 +20,7 @@
   - Ubiquitous 
   - Exposed Weapon Linkage (Flamer) 
   - Exposed Weapon Linkage (Flamer) 
-- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9374) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9374) 
 - **Battle Value:** 1660 
 
 ## Availability 

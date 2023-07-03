@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6910) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6910) 
 - **Battle Value:** 2761 
 
 ## Availability 

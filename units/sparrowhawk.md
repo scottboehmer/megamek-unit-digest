@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2992) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2992) 
 - **Battle Value:** Unknown 
 - [*More Info*](sparrowhawk/sparrowhawk_spr-h5.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 50) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2991) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2991) 
 - **Battle Value:** Unknown 
 - [*More Info*](sparrowhawk/sparrowhawk_spr-8h.md) 
 
@@ -43,7 +43,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Laser × 6 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2993) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2993) 
 - **Battle Value:** Unknown 
 - [*More Info*](sparrowhawk/sparrowhawk_spr-h5k.md) 
 
@@ -59,7 +59,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 2 
   - Small Pulse Laser × 2 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2989) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2989) 
 - **Battle Value:** Unknown 
 - [*More Info*](sparrowhawk/sparrowhawk_spr-6d.md) 
 
@@ -75,7 +75,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2990) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2990) 
 - **Battle Value:** Unknown 
 - [*More Info*](sparrowhawk/sparrowhawk_spr-7d.md) 
 
@@ -92,7 +92,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5103) 
+- **Sources:** XTR: RetroTech , [Master Unit List](http://masterunitlist.info/Unit/Details/5103) 
 - **Battle Value:** Unknown 
 - [*More Info*](sparrowhawk/sparrowhawk_spr-dh.md) 
 
@@ -108,7 +108,7 @@
 - **Weapons:** 
   - Medium Re-Engineered Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6818) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6818) 
 - **Battle Value:** Unknown 
 - [*More Info*](sparrowhawk/sparrowhawk_spr-7dr.md) 
 

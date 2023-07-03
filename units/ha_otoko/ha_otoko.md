@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1355) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1355) 
 - **Battle Value:** 1873 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Jump Booster 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3956) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3956) 
 - **Battle Value:** 53 (273 for 4 suits) 
 
 ## Availability 

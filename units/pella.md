@@ -14,7 +14,7 @@
   - LB 5-X AC (ammo: 20 Cluster) 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7655) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7655) 
 - **Battle Value:** Unknown 
 - [*More Info*](pella/pella.md) 
 

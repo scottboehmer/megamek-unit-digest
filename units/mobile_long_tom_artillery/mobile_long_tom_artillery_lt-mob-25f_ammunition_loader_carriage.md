@@ -14,7 +14,7 @@
   - CASE 
   - Hitch × 2 
   - Lift Hoist 
-- **Sources:** Rec Guide:ilClan #28 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9366) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9366) 
 - **Battle Value:** 188 
 
 ## Availability 

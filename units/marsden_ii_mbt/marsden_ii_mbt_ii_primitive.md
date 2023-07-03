@@ -14,7 +14,7 @@
   - AC/5 (ammo: 20) 
   - SRM 6 × 2 (ammo: 60) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2085) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2085) 
 - **Battle Value:** 762 
 
 ## Availability 

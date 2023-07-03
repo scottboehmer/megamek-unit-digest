@@ -14,7 +14,7 @@
   - LB 2-X AC × 5 (ammo: 90 Standard, 90 Cluster) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/4) 
 - **Battle Value:** 536 
 
 ## Availability 

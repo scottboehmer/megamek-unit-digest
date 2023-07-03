@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1185) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1185) 
 - **Battle Value:** 2291 
 
 ## Availability 

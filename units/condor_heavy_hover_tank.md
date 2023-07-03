@@ -12,7 +12,7 @@
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/683) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/683) 
 - **Battle Value:** 653 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank.md) 
 
@@ -26,7 +26,7 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/682) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/682) 
 - **Battle Value:** 765 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_liao.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - AC/2 × 2 (ammo: 90) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/679) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/679) 
 - **Battle Value:** 577 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_davion.md) 
 
@@ -57,7 +57,7 @@
   - Medium Laser × 3 
   - Machine Gun × 2 (ammo: 100) 
   - Vehicle Flamer × 2 (ammo: 40) 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5776) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5776) 
 - **Battle Value:** 721 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_fission.md) 
 
@@ -73,7 +73,7 @@
   - Medium Laser × 3 
   - Vehicle Flamer × 2 (ammo: 20) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/680) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/680) 
 - **Battle Value:** 715 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_flamer.md) 
 
@@ -89,7 +89,7 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 3 
   - Machine Gun (ammo: 200) 
-- **Sources:** Rec Guide:ilClan #26 - Late Succession War - Renaissance , [Master Unit List](http://masterunitlist.info/Unit/Details/9309) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9309) 
 - **Battle Value:** 939 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_fusion.md) 
 
@@ -104,7 +104,7 @@
 - **Weapons:** 
   - ER Medium Laser × 4 
   - SRM 2 × 3 (ammo: 100) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/681) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/681) 
 - **Battle Value:** 977 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_laser.md) 
 
@@ -120,7 +120,7 @@
   - LRM 15 (ammo: 16) 
   - LB 5-X AC (ammo: 40) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/685) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/685) 
 - **Battle Value:** 965 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade.md) 
 
@@ -139,7 +139,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/684) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/684) 
 - **Battle Value:** 1197 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) 
 
@@ -155,7 +155,7 @@
   - ProtoMech AC/8 (ammo: 20) 
   - Medium Chemical Laser × 3 (ammo: 90) 
   - ProtoMech AC/2 (ammo: 40) 
-- **Sources:** Rec Guide:ilClan #26 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9311) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9311) 
 - **Battle Value:** 804 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_c.md) 
 
@@ -174,7 +174,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - TAG 
-- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9308) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9308) 
 - **Battle Value:** 1124 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_ultra.md) 
 
@@ -188,7 +188,7 @@
 - **Heat Sinks:** 18 (18) 
 - **Weapons:** 
   - Medium Re-Engineered Laser × 3 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6757) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6757) 
 - **Battle Value:** 803 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_laser_upgrade.md) 
 
@@ -206,7 +206,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #26 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9310) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9310) 
 - **Battle Value:** 870 
 - [*More Info*](condor_heavy_hover_tank/condor_heavy_hover_tank_lac.md) 
 

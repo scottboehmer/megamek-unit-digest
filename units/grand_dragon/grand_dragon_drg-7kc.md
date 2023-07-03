@@ -22,7 +22,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1262) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1262) 
 - **Battle Value:** 1673 
 
 ## Availability 

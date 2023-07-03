@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5486) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/5486) 
 - **Battle Value:** 1368 
 
 ## Availability 

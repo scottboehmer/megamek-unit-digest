@@ -15,7 +15,7 @@
 - **Weapons:** 
   - LRM 4 (ammo: 4) 
   - AP Gauss Rifle 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8881) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8881) 
 - **Battle Value:** 87 (785 for 6 suits) 
 
 ## Availability 

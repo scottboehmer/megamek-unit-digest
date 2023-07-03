@@ -17,7 +17,7 @@
   - Squad Support Flamer 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8914) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8914) 
 - **Battle Value:** 29 (195 for 6 suits) 
 
 ## Availability 

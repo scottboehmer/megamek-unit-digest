@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/479) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/479) 
 - **Battle Value:** 1242 
 
 ## Availability 

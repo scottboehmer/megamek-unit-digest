@@ -23,7 +23,7 @@
   - Cargo 
   - Lift Hoist 
   - Tracks 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1652) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1652) 
 - **Battle Value:** 343 
 
 ## Availability 

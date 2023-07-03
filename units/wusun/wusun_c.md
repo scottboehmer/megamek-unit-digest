@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Active Probe 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3594) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3594) 
 - **Battle Value:** Unknown 
 
 ## Availability 

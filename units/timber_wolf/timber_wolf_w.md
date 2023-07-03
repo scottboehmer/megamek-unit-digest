@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7518) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7518) 
 - **Battle Value:** 2791 
 
 ## Availability 

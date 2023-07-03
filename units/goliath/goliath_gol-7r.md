@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8408) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8408) 
 - **Battle Value:** 1888 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Snub-Nose PPC 
 - **Equipment:** 
   - Infantry (8 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1528) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1528) 
 - **Battle Value:** 687 
 
 ## Availability 

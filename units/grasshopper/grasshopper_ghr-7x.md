@@ -19,7 +19,7 @@
   - Bloodhound Active Probe 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1271) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/1271) 
 - **Battle Value:** 1587 
 
 ## Availability 

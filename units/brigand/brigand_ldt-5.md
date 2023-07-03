@@ -16,7 +16,7 @@
   - Mace 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7312) 
+- **Sources:** Historical Turning Points: Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7312) 
 - **Battle Value:** 762 
 
 ## Availability 

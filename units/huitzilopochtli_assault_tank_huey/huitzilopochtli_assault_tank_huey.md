@@ -19,7 +19,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1551) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/1551) 
 - **Battle Value:** 1049 
 
 ## Availability 

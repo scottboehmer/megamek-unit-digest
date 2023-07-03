@@ -16,7 +16,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8347) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8347) 
 - **Battle Value:** 1828 
 
 ## Availability 

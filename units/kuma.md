@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Accurate Weapon (Heavy Large Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1849) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1849) 
 - **Battle Value:** 1952 
 - [*More Info*](kuma/kuma.md) 
 
@@ -38,7 +38,7 @@
   - Hard to Pilot 
   - Accurate Weapon (Plasma Cannon) 
   - Accurate Weapon (Unknown Component) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1847) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1847) 
 - **Battle Value:** 2309 
 - [*More Info*](kuma/kuma_2.md) 
 
@@ -54,7 +54,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Accurate Weapon (Unknown Component) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1848) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1848) 
 - **Battle Value:** 625 
 - [*More Info*](kuma/kuma_3.md) 
 
@@ -75,7 +75,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Accurate Weapon (Unknown Component) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6888) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6888) 
 - **Battle Value:** 1865 
 - [*More Info*](kuma/kuma_4.md) 
 

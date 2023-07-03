@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Communications Equipment 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7297) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7297) 
 - **Battle Value:** 437 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5103) 
+- **Sources:** XTR: RetroTech , [Master Unit List](http://masterunitlist.info/Unit/Details/5103) 
 - **Battle Value:** Unknown 
 
 ## Availability 

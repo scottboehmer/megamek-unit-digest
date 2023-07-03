@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2894) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2894) 
 - **Battle Value:** 2064 
 - [*More Info*](shadow_cat_ii/shadow_cat_ii.md) 
 
@@ -41,7 +41,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2893) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2893) 
 - **Battle Value:** 2106 
 - [*More Info*](shadow_cat_ii/shadow_cat_ii_2.md) 
 
@@ -63,7 +63,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6886) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6886) 
 - **Battle Value:** 2387 
 - [*More Info*](shadow_cat_ii/shadow_cat_ii_3.md) 
 
@@ -84,7 +84,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Narrow/Low Profile 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6885) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6885) 
 - **Battle Value:** 1986 
 - [*More Info*](shadow_cat_ii/shadow_cat_ii_4.md) 
 

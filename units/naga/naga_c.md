@@ -20,7 +20,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2249) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2249) 
 - **Battle Value:** 1608 
 
 ## Availability 

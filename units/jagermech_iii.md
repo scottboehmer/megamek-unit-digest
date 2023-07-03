@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Overhead Arms 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1672) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1672) 
 - **Battle Value:** 1537 
 - [*More Info*](jagermech_iii/jagermech_iii_jm6-d3.md) 
 
@@ -34,7 +34,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Overhead Arms 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1673) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1673) 
 - **Battle Value:** 1831 
 - [*More Info*](jagermech_iii/jagermech_iii_jm6-d4.md) 
 

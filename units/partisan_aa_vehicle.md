@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LB 5-X AC × 2 (ammo: 60 Cluster) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6494) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6494) 
 - **Battle Value:** 597 
 - [*More Info*](partisan_aa_vehicle/partisan_aa_vehicle.md) 
 
@@ -28,7 +28,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6495) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6495) 
 - **Battle Value:** 517 
 - [*More Info*](partisan_aa_vehicle/partisan_aa_vehicle_3134_upgrade.md) 
 

@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Magshot Gauss Rifle 
   - Detachable Taser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5041) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5041) 
 - **Battle Value:** 81 (420 for 4 suits) 
 
 ## Availability 

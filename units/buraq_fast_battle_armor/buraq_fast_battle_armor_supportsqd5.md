@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Myomer Booster 
   - Light TAG 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8724) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/8724) 
 - **Battle Value:** 63 (444 for 5 suits) 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Advanced SRM 3 (ammo: 5) 
   - Heavy Flamer 
-- **Sources:** Rec Guide:ilClan #30 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9411) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9411) 
 - **Battle Value:** 91 (635 for 5 suits) 
 
 ## Availability 

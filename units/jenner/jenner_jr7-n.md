@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8247) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/8247) 
 - **Battle Value:** 1233 
 
 ## Availability 

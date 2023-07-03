@@ -11,7 +11,7 @@
 - **Weapons:** 
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6373) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6373) 
 - **Battle Value:** 837 
 - [*More Info*](saracen_mk_ii_hcv/saracen_mk_ii_hcv.md) 
 
@@ -28,7 +28,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - C3 Boosted Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6374) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6374) 
 - **Battle Value:** 635 
 - [*More Info*](saracen_mk_ii_hcv/saracen_mk_ii_hcv_bc3.md) 
 

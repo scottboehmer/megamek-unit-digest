@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2616) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2616) 
 - **Battle Value:** 1583 
 
 ## Availability 

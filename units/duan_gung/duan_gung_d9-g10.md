@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/934) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/934) 
 - **Battle Value:** 886 
 
 ## Availability 

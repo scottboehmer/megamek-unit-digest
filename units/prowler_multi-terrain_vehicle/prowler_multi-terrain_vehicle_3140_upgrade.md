@@ -17,7 +17,7 @@
   - Beagle Active Probe 
   - Fully Amphibious Chassis 
   - Infantry (4.0 tons) 
-- **Sources:** RS 3145 NY NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6789) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6789) 
 - **Battle Value:** 1140 
 
 ## Availability 

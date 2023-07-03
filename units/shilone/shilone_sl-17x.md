@@ -17,7 +17,7 @@
   - Clan Medium Pulse Laser × 2 
 - **Equipment:** 
   - Chaff Pod × 2 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2927) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/2927) 
 - **Battle Value:** Unknown 
 
 ## Availability 

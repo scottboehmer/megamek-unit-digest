@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Accurate Weapon (Mace) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2195) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2195) 
 - **Battle Value:** 612 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7343) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7343) 
 - **Battle Value:** 505 
 
 ## Availability 

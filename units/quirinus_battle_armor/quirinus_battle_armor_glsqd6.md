@@ -17,7 +17,7 @@
   - Clan Heavy Grenade Launcher 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9138) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/9138) 
 - **Battle Value:** 42 (374 for 6 suits) 
 
 ## Availability 

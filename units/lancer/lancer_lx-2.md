@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - LRM 10 w/ Artemis IV (ammo: 12) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4471) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4471) 
 - **Battle Value:** Unknown 
 
 ## Availability 

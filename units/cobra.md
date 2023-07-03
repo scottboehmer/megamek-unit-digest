@@ -13,7 +13,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/655) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/655) 
 - **Battle Value:** 1128 
 - [*More Info*](cobra/cobra_cbr-02.md) 
 
@@ -33,7 +33,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/656) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/656) 
 - **Battle Value:** 1324 
 - [*More Info*](cobra/cobra_cbr-03.md) 
 

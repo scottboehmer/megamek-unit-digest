@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Accurate Weapon (Unknown Component) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6888) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6888) 
 - **Battle Value:** 1865 
 
 ## Availability 

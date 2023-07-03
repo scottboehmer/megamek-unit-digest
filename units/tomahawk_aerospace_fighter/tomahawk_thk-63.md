@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3273) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3273) 
 - **Battle Value:** Unknown 
 
 ## Availability 

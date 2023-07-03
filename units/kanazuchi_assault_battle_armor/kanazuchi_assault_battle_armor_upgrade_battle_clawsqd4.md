@@ -16,7 +16,7 @@
   - MRM 1 × 2 (ammo: 8) 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1740) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1740) 
 - **Battle Value:** 67 (350 for 4 suits) 
 
 ## Availability 

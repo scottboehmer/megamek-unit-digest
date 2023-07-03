@@ -23,7 +23,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/650) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/650) 
 - **Battle Value:** 1275 
 
 ## Availability 

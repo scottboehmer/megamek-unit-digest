@@ -21,7 +21,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** Hist:Op. Klondike - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2934) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2934) 
 - **Battle Value:** 2087 
 - [*More Info*](shogun/shogun_shg-2h.md) 
 
@@ -44,7 +44,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2931) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2931) 
 - **Battle Value:** 3032 
 - [*More Info*](shogun/shogun_c.md) 
 
@@ -67,7 +67,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2932) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2932) 
 - **Battle Value:** 1823 
 - [*More Info*](shogun/shogun_shg-2e.md) 
 
@@ -90,7 +90,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2933) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2933) 
 - **Battle Value:** 1804 
 - [*More Info*](shogun/shogun_shg-2f.md) 
 
@@ -113,7 +113,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5058) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5058) 
 - **Battle Value:** 1733 
 - [*More Info*](shogun/shogun_shg-2f_trisha.md) 
 
@@ -136,7 +136,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** RS3150 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8003) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8003) 
 - **Battle Value:** 1988 
 - [*More Info*](shogun/shogun_shg-3e.md) 
 
@@ -159,7 +159,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8002) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8002) 
 - **Battle Value:** 2767 
 - [*More Info*](shogun/shogun_c_2.md) 
 
@@ -182,7 +182,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9463) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9463) 
 - **Battle Value:** 2748 
 - [*More Info*](shogun/shogun_c_3.md) 
 

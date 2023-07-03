@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/495) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/495) 
 - **Battle Value:** 2359 
 
 ## Availability 

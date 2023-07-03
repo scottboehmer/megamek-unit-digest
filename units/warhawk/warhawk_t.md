@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #20 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8337) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8337) 
 - **Battle Value:** 2938 
 
 ## Availability 

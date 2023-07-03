@@ -19,7 +19,7 @@
   - Fast Reload (Machine Gun) 
   - Fast Reload (Ultra AC/10) 
   - Fast Reload (Ultra AC/10) 
-- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2511) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/2511) 
 - **Battle Value:** 2057 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic.md) 
 
@@ -45,7 +45,7 @@
   - Fast Reload (LRM 20) 
   - Fast Reload (LRM 20) 
   - Fast Reload (LRM 20) 
-- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2512) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/2512) 
 - **Battle Value:** 2892 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_2.md) 
 
@@ -69,7 +69,7 @@
   - Fast Reload (Machine Gun) 
   - Fast Reload (Ultra AC/10) 
   - Fast Reload (All Weapons) 
-- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8196) 
 - **Battle Value:** 2469 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_9.md) 
 
@@ -93,7 +93,7 @@
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2513) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2513) 
 - **Battle Value:** 2448 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_3.md) 
 
@@ -119,7 +119,7 @@
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2514) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2514) 
 - **Battle Value:** 2483 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_4.md) 
 
@@ -144,7 +144,7 @@
   - Fast Reload (All Weapons) 
   - Fast Reload (HAG 20) 
   - Fast Reload (HAG 20) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2515) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2515) 
 - **Battle Value:** 2350 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_5.md) 
 
@@ -167,7 +167,7 @@
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2516) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2516) 
 - **Battle Value:** 2490 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_6.md) 
 
@@ -195,7 +195,7 @@
   - Fast Reload (Streak SRM 4) 
   - Fast Reload (LB 10-X AC) 
   - Fast Reload (LB 10-X AC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2517) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2517) 
 - **Battle Value:** 2219 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_7.md) 
 
@@ -218,7 +218,7 @@
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2518) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2518) 
 - **Battle Value:** 2903 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_8.md) 
 
@@ -240,7 +240,7 @@
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8197) 
 - **Battle Value:** 2762 
 - [*More Info*](phoenix_hawk_iic/phoenix_hawk_iic_10.md) 
 

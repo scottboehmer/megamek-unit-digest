@@ -21,7 +21,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2298) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/2298) 
 - **Battle Value:** 2609 
 
 ## Availability 

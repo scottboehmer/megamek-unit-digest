@@ -14,7 +14,7 @@
   - Light PPC × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1729) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1729) 
 - **Battle Value:** 635 
 
 ## Availability 

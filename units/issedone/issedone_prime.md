@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - ER Medium Laser 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7650) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7650) 
 - **Battle Value:** Unknown 
 
 ## Availability 

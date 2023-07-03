@@ -14,7 +14,7 @@
   - Silver Bullet (ammo: 16) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2674) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/2674) 
 - **Battle Value:** 857 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Weapons:** 
   - AP Gauss Rifle 
   - SRM 2 (OS) 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8486) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8486) 
 - **Battle Value:** 82 (576 for 5 suits) 
 
 ## Availability 

@@ -11,7 +11,7 @@
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 15) 
   - Medium Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2461) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2461) 
 - **Battle Value:** 640 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank.md) 
 
@@ -28,7 +28,7 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2460) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2460) 
 - **Battle Value:** 571 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_sensors.md) 
 
@@ -42,7 +42,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 6 × 3 (ammo: 30) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2457) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2457) 
 - **Battle Value:** 678 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_missile.md) 
 
@@ -56,7 +56,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2462) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2462) 
 - **Battle Value:** 260 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_unarmed.md) 
 
@@ -75,7 +75,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2455) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2455) 
 - **Battle Value:** 706 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_3058_upgrade.md) 
 
@@ -93,7 +93,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2458) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2458) 
 - **Battle Value:** 781 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_mrm.md) 
 
@@ -110,7 +110,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2456) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2456) 
 - **Battle Value:** 785 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_c3.md) 
 
@@ -128,7 +128,7 @@
 - **Equipment:** 
   - Supercharger 
   - C3 Support 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2463) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/2463) 
 - **Battle Value:** 1119 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_x.md) 
 
@@ -148,7 +148,7 @@
   - Beagle Active Probe 
   - Environmentally Sealed Chassis 
   - TAG 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2459) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2459) 
 - **Battle Value:** 577 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_sealed.md) 
 
@@ -166,7 +166,7 @@
 - **Equipment:** 
   - Supercharger 
   - C3 Support 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4798) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4798) 
 - **Battle Value:** 1119 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_x-pulse.md) 
 
@@ -184,7 +184,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Supercharger 
-- **Sources:** Rec Guide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9254) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9254) 
 - **Battle Value:** 906 
 - [*More Info*](pegasus_scout_hover_tank/pegasus_scout_hover_tank_upgrade.md) 
 

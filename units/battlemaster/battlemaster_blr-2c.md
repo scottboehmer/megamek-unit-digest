@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/290) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/290) 
 - **Battle Value:** 1563 
 
 ## Availability 

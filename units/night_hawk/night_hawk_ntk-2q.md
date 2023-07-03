@@ -16,7 +16,7 @@
   - Medium Pulse Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2271) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2271) 
 - **Battle Value:** 997 
 
 ## Availability 

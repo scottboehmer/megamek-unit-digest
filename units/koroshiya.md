@@ -14,7 +14,7 @@
   - MRM 40 w/ Apollo FCS (ammo: 12) 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6425) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6425) 
 - **Battle Value:** Unknown 
 - [*More Info*](koroshiya/koroshiya_kos-1a.md) 
 

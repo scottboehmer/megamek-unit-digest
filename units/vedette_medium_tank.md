@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - Machine Gun (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3395) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3395) 
 - **Battle Value:** 475 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank.md) 
 
@@ -27,7 +27,7 @@
   - AC/2 (ammo: 45) 
   - SRM 2 (ammo: 50) 
   - Machine Gun (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3388) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3388) 
 - **Battle Value:** 458 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_ac2.md) 
 
@@ -42,7 +42,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Machine Gun (ammo: 400) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3391) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3391) 
 - **Battle Value:** 495 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_liao.md) 
 
@@ -57,7 +57,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 10) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TP: Helm - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8299) 
+- **Sources:** Turning Points: Helm , [Master Unit List](http://masterunitlist.info/Unit/Details/8299) 
 - **Battle Value:** 649 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_ac_10.md) 
 
@@ -71,7 +71,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Ultra AC/5 (ammo: 20) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3396) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3396) 
 - **Battle Value:** 590 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_ultra.md) 
 
@@ -86,7 +86,7 @@
 - **Weapons:** 
   - Ultra AC/5 (ammo: 20) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3393) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3393) 
 - **Battle Value:** 545 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_netc.md) 
 
@@ -101,7 +101,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
   - ER Medium Laser 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3387) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3387) 
 - **Battle Value:** 1219 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_doris_delight.md) 
 
@@ -115,7 +115,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - RAC/5 (ammo: 40) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3394) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3394) 
 - **Battle Value:** 712 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_rac.md) 
 
@@ -129,7 +129,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3392) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3392) 
 - **Battle Value:** 478 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_light_gauss.md) 
 
@@ -144,7 +144,7 @@
 - **Weapons:** 
   - LB 5-X AC (ammo: 20) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3390) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3390) 
 - **Battle Value:** 552 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_lb-x.md) 
 
@@ -164,7 +164,7 @@
   - CASE 
   - Supercharger 
   - Targeting Computer 
-- **Sources:** XTRO Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3397) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/3397) 
 - **Battle Value:** 915 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_v-g7x.md) 
 
@@ -184,7 +184,7 @@
   - Anti-Missile System (ammo: 12) 
   - C3 Support 
   - CASE 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3389) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3389) 
 - **Battle Value:** 719 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_cell.md) 
 
@@ -201,7 +201,7 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5341) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5341) 
 - **Battle Value:** 599 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_v7.md) 
 
@@ -216,7 +216,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 24) 
   - MagShot Gauss Rifle × 2 (ammo: 50) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6788) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6788) 
 - **Battle Value:** 1006 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_v9.md) 
 
@@ -233,7 +233,7 @@
   - Heavy Machine Gun (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9481) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9481) 
 - **Battle Value:** 944 
 - [*More Info*](vedette_medium_tank/vedette_medium_tank_armor.md) 
 

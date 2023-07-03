@@ -15,7 +15,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4050) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4050) 
 - **Battle Value:** 167 
 
 ## Availability 

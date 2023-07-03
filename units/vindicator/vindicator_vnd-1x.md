@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3425) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3425) 
 - **Battle Value:** 1008 
 
 ## Availability 

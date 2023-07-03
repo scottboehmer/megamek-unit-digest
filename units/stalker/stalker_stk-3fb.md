@@ -21,7 +21,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3037) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3037) 
 - **Battle Value:** 2029 
 
 ## Availability 

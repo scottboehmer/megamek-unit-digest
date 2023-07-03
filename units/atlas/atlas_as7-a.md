@@ -20,7 +20,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7433) 
+- **Sources:** Record Sheets: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7433) 
 - **Battle Value:** 1787 
 
 ## Availability 

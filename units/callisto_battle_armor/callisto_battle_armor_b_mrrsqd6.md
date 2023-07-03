@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Small Laser 
   - Squad Support Medium Recoilless Rifle 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9448) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9448) 
 - **Battle Value:** 99 (673 for 6 suits) 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Retractable Blade 
   - ER Small Laser 
   - Small Laser 
-- **Sources:** TRO Dark - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8071) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8071) 
 - **Battle Value:** 1126 
 
 ## Availability 

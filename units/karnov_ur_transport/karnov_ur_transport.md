@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Infantry (6.0 tons) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1759) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1759) 
 - **Battle Value:** 125 
 
 ## Availability 

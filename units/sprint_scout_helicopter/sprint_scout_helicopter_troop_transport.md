@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Infantry (2.5 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3027) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3027) 
 - **Battle Value:** 71 
 
 ## Availability 

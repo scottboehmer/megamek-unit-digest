@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5357) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5357) 
 - **Battle Value:** 37 (195 for 4 suits) 
 
 ## Availability 

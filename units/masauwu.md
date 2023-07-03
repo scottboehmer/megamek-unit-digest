@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7642) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7642) 
 - **Battle Value:** 2299 
 - [*More Info*](masauwu/masauwu.md) 
 

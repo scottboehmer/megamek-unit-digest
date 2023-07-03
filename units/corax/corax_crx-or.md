@@ -16,7 +16,7 @@
   - Clan Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Clan Targeting Computer 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5746) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5746) 
 - **Battle Value:** Unknown 
 
 ## Availability 

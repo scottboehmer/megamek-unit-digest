@@ -21,7 +21,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/152) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/152) 
 - **Battle Value:** 2169 
 - [*More Info*](atlas_ii/atlas_ii_as7-d-h.md) 
 
@@ -46,7 +46,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/153) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/153) 
 - **Battle Value:** 2340 
 - [*More Info*](atlas_ii/atlas_ii_as7-d-h2.md) 
 
@@ -98,7 +98,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** OTP Widowmaker - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7310) 
+- **Sources:** Operational Turning Points: Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7310) 
 - **Battle Value:** 2777 
 - [*More Info*](atlas_ii/atlas_ii_as7-d-h_kerensky.md) 
 
@@ -151,7 +151,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8459) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8459) 
 - **Battle Value:** 2599 
 - [*More Info*](atlas_ii/atlas_ii_as7-dk-h.md) 
 

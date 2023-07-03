@@ -18,7 +18,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3606) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3606) 
 - **Battle Value:** 2146 
 
 ## Availability 

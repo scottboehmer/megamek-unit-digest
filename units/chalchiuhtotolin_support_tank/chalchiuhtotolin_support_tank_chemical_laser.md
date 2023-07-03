@@ -17,7 +17,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Inner Sphere Chaff Pod × 2 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3938) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3938) 
 - **Battle Value:** 1180 
 
 ## Availability 

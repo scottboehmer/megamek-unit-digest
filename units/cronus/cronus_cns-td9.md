@@ -22,7 +22,7 @@
   - C3i 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5680) 
+- **Sources:** TRO: 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5680) 
 - **Battle Value:** 978 
 
 ## Availability 

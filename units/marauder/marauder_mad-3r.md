@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (AC/5) 
   - Exposed Weapon Linkage (AC/5) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2038) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2038) 
 - **Battle Value:** 1363 
 
 ## Availability 

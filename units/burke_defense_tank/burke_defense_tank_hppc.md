@@ -15,7 +15,7 @@
   - Streak SRM 4 (ammo: 50) 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/443) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/443) 
 - **Battle Value:** 875 
 
 ## Availability 

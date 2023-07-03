@@ -25,7 +25,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - EM Interference (Bombast Laser) 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7347) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7347) 
 - **Battle Value:** 1654 
 
 ## Availability 

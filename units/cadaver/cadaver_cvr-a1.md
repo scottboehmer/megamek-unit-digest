@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Unbalanced 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6550) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6550) 
 - **Battle Value:** 962 
 
 ## Availability 

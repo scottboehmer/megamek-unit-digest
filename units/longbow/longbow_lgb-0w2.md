@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** Rec Guide:ilClan #20 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8331) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8331) 
 - **Battle Value:** 1410 
 
 ## Availability 

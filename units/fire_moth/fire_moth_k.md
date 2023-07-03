@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/845) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/845) 
 - **Battle Value:** 884 
 
 ## Availability 

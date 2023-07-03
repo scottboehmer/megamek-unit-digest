@@ -14,7 +14,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Machine Gun Array × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2638) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2638) 
 - **Battle Value:** 604 
 - [*More Info*](ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv1.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - Small Laser × 4 
   - Machine Gun × 8 (ammo: 500) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2639) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2639) 
 - **Battle Value:** 607 
 - [*More Info*](ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv1_mg.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - ER Small Laser × 2 
   - MagShot Gauss Rifle × 8 (ammo: 200) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2640) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2640) 
 - **Battle Value:** 711 
 - [*More Info*](ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv2.md) 
 
@@ -59,7 +59,7 @@
 - **Weapons:** 
   - ER Small Laser × 2 
   - MagShot Gauss Rifle × 8 (ammo: 150) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2641) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2641) 
 - **Battle Value:** 786 
 - [*More Info*](ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv22.md) 
 
@@ -76,7 +76,7 @@
   - Machine Gun × 8 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6755) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6755) 
 - **Battle Value:** 688 
 - [*More Info*](ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv1_interdictor.md) 
 

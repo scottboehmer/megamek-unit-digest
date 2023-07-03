@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1836) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1836) 
 - **Battle Value:** 871 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Small Laser 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1639) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/1639) 
 - **Battle Value:** 696 
 
 ## Availability 

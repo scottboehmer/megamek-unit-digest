@@ -15,7 +15,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2207) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2207) 
 - **Battle Value:** 1438 
 
 ## Availability 

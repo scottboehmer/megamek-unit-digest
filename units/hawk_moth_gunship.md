@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 32) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1427) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1427) 
 - **Battle Value:** 492 
 - [*More Info*](hawk_moth_gunship/hawk_moth_gunship.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1426) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1426) 
 - **Battle Value:** 501 
 - [*More Info*](hawk_moth_gunship/hawk_moth_gunship_armor.md) 
 
@@ -40,7 +40,7 @@
   - Thunderbolt 15 (ammo: 8) 
 - **Equipment:** 
   - Mast Mount 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1428) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1428) 
 - **Battle Value:** 745 
 - [*More Info*](hawk_moth_gunship/hawk_moth_gunship_thunderbolt.md) 
 
@@ -55,7 +55,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 40) 
   - Machine Gun (ammo: 100) 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5786) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5786) 
 - **Battle Value:** 749 
 - [*More Info*](hawk_moth_gunship/hawk_moth_gunship_vedwandlung.md) 
 

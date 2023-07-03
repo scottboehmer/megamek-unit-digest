@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Improved Life Support 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1136) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1136) 
 - **Battle Value:** 430 
 
 ## Availability 

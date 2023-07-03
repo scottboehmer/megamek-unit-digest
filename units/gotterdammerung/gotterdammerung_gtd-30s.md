@@ -17,7 +17,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 3 
   - ER Flamer 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8062) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8062) 
 - **Battle Value:** 1574 
 
 ## Availability 

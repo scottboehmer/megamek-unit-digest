@@ -17,7 +17,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/431) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/431) 
 - **Battle Value:** 1186 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7651) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7651) 
 - **Battle Value:** Unknown 
 
 ## Availability 

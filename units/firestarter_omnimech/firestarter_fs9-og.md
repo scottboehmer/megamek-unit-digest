@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1106) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1106) 
 - **Battle Value:** 1063 
 
 ## Availability 

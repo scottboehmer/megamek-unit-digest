@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/936) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/936) 
 - **Battle Value:** 757 
 
 ## Availability 

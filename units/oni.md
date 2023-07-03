@@ -13,7 +13,7 @@
   - MRM 30 (ammo: 16) 
   - ER Large Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4747) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4747) 
 - **Battle Value:** Unknown 
 - [*More Info*](oni/oni_on-1.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Laser Anti-Missile System 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2320) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/2320) 
 - **Battle Value:** Unknown 
 - [*More Info*](oni/oni_on-2x.md) 
 
@@ -52,7 +52,7 @@
   - ER Medium Laser × 6 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5752) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5752) 
 - **Battle Value:** Unknown 
 - [*More Info*](oni/oni_on-2.md) 
 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #28 - Rec Guide:ilClan #28 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9375) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9375) 
 - **Battle Value:** 1482 
 
 ## Availability 

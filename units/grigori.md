@@ -23,7 +23,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1320) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1320) 
 - **Battle Value:** 1245 
 - [*More Info*](grigori/grigori_c-grg-o_invictus.md) 
 
@@ -50,7 +50,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1321) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1321) 
 - **Battle Value:** 1536 
 - [*More Info*](grigori/grigori_c-grg-oa_dominus.md) 
 
@@ -77,7 +77,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1322) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1322) 
 - **Battle Value:** 1374 
 - [*More Info*](grigori/grigori_c-grg-ob_infernus.md) 
 
@@ -104,7 +104,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1323) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1323) 
 - **Battle Value:** 1438 
 - [*More Info*](grigori/grigori_c-grg-oc_comminus.md) 
 
@@ -130,7 +130,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1324) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1324) 
 - **Battle Value:** 1568 
 - [*More Info*](grigori/grigori_c-grg-od_luminos.md) 
 
@@ -158,7 +158,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1318) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/1318) 
 - **Battle Value:** 1380 
 - [*More Info*](grigori/grigori_c-grg-o_rufus.md) 
 
@@ -184,7 +184,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1319) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1319) 
 - **Battle Value:** 1426 
 - [*More Info*](grigori/grigori_c-grg-o_tamiel.md) 
 
@@ -210,7 +210,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1325) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1325) 
 - **Battle Value:** 1544 
 - [*More Info*](grigori/grigori_c-grg-oe_eminus.md) 
 
@@ -235,7 +235,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1326) 
+- **Sources:** Jihad Secrets: The Blake Documents , [Master Unit List](http://masterunitlist.info/Unit/Details/1326) 
 - **Battle Value:** 1378 
 - [*More Info*](grigori/grigori_c-grg-os_caelestis.md) 
 
@@ -263,7 +263,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1327) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1327) 
 - **Battle Value:** 1604 
 - [*More Info*](grigori/grigori_c-grg-ou_exanimus.md) 
 

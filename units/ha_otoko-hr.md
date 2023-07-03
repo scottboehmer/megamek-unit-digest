@@ -19,7 +19,7 @@
   - Non-Standard Parts 
   - Prototype 
   - Bad Reputation (Clan) 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4258) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/4258) 
 - **Battle Value:** 1553 
 - [*More Info*](ha_otoko-hr/ha_otoko-hr.md) 
 

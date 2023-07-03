@@ -13,7 +13,7 @@
   - Small Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/312) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/312) 
 - **Battle Value:** 335 
 - [*More Info*](beagle_hover_scout/beagle_hover_scout.md) 
 
@@ -32,7 +32,7 @@
   - Mine Dispenser × 2 
   - Flotation Hull 
   - Supercharger 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7330) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7330) 
 - **Battle Value:** 197 
 - [*More Info*](beagle_hover_scout/beagle_hover_scout_lrrp.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - C3i 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/310) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/310) 
 - **Battle Value:** 266 
 - [*More Info*](beagle_hover_scout/beagle_hover_scout_c3i.md) 
 
@@ -63,7 +63,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/313) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/313) 
 - **Battle Value:** 295 
 - [*More Info*](beagle_hover_scout/beagle_hover_scout_tag.md) 
 
@@ -78,7 +78,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/311) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/311) 
 - **Battle Value:** 221 
 - [*More Info*](beagle_hover_scout/beagle_hover_scout_sealed.md) 
 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Active Probe 
   - Remote Sensor Dispenser × 2 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5336) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/5336) 
 - **Battle Value:** Unknown 
 
 ## Availability 

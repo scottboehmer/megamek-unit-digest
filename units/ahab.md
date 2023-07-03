@@ -14,7 +14,7 @@
   - Large Laser 
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 3 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/20) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/20) 
 - **Battle Value:** Unknown 
 - [*More Info*](ahab/ahab_ahb-x.md) 
 
@@ -33,7 +33,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 2 
   - Narc (ammo: 24) 
-- **Sources:** TRO 3050u - Star league , [Master Unit List](http://masterunitlist.info/Unit/Details/17) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/17) 
 - **Battle Value:** Unknown 
 - [*More Info*](ahab/ahab_ahb-443.md) 
 
@@ -52,7 +52,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 2 
   - Narc (ammo: 24) 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3681) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3681) 
 - **Battle Value:** Unknown 
 - [*More Info*](ahab/ahab_ahb-443b.md) 
 
@@ -71,7 +71,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3050u - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/19) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/19) 
 - **Battle Value:** Unknown 
 - [*More Info*](ahab/ahab_ahb-md.md) 
 
@@ -89,7 +89,7 @@
   - MRM 40 × 2 (ammo: 12) 
   - Medium Laser × 2 
   - Rocket 10 × 4 
-- **Sources:** TRO 3050u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/18) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/18) 
 - **Battle Value:** Unknown 
 - [*More Info*](ahab/ahab_ahb-643.md) 
 

@@ -13,6 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 4 
   - AC/2 × 6 (ammo: 270) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1454 
 
 ## Availability 

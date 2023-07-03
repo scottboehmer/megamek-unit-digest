@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Inner Sphere Beagle Active Probe 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4645) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/4645) 
 - **Battle Value:** 2024 
 
 ## Availability 

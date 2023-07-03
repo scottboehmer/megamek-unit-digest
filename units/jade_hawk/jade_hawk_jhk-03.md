@@ -24,7 +24,7 @@
   - Distracting 
   - Reinforced Legs 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6564) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6564) 
 - **Battle Value:** 2160 
 
 ## Availability 

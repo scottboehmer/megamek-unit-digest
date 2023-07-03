@@ -17,7 +17,7 @@
   - SRM 2 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8929) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8929) 
 - **Battle Value:** 44 (400 for 6 suits) 
 
 ## Availability 

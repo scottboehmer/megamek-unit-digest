@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #28 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7700) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/7700) 
 - **Battle Value:** 77 (398 for 4 suits) 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4358) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4358) 
 - **Battle Value:** 1969 
 
 ## Availability 

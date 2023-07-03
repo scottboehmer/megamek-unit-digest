@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Squad Support ECM Suite 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1733) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1733) 
 - **Battle Value:** 22 (113 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_ecmsqd4.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Squad Support ECM Suite 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8549) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8549) 
 - **Battle Value:** 22 (152 for 5 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_ecmsqd5.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Squad Support ECM Suite 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8913) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8913) 
 - **Battle Value:** 22 (196 for 6 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_ecmsqd6.md) 
 
@@ -69,7 +69,7 @@
   - Squad Support Flamer 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1734) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1734) 
 - **Battle Value:** 29 (117 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_flamersqd4.md) 
 
@@ -88,7 +88,7 @@
   - Squad Support Flamer 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8550) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8550) 
 - **Battle Value:** 29 (154 for 5 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_flamersqd5.md) 
 
@@ -107,7 +107,7 @@
   - Squad Support Flamer 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8914) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8914) 
 - **Battle Value:** 29 (195 for 6 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_flamersqd6.md) 
 
@@ -126,7 +126,7 @@
   - Squad Support Small Laser 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1735) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1735) 
 - **Battle Value:** 36 (126 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_lasersqd4.md) 
 
@@ -145,7 +145,7 @@
   - Squad Support Small Laser 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8551) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8551) 
 - **Battle Value:** 36 (164 for 5 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_lasersqd5.md) 
 
@@ -164,7 +164,7 @@
   - Squad Support Small Laser 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8915) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8915) 
 - **Battle Value:** 36 (206 for 6 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_lasersqd6.md) 
 
@@ -183,7 +183,7 @@
   - Squad Support Clan Machine Gun 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1736) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1736) 
 - **Battle Value:** 29 (117 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_mgsqd4.md) 
 
@@ -202,7 +202,7 @@
   - Squad Support Clan Machine Gun 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8552) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8552) 
 - **Battle Value:** 29 (154 for 5 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_mgsqd5.md) 
 
@@ -221,7 +221,7 @@
   - Squad Support Clan Machine Gun 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8916) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8916) 
 - **Battle Value:** 29 (195 for 6 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_mgsqd6.md) 
 
@@ -240,7 +240,7 @@
   - Partial Wing 
   - Anti-Personnel Mount 
   - Squad Support Clan Light TAG 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1737) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1737) 
 - **Battle Value:** 20 (105 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_tagsqd4.md) 
 
@@ -259,7 +259,7 @@
   - Partial Wing 
   - Anti-Personnel Mount 
   - Squad Support Clan Light TAG 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8553) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8553) 
 - **Battle Value:** 20 (142 for 5 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_tagsqd5.md) 
 
@@ -278,7 +278,7 @@
   - Partial Wing 
   - Anti-Personnel Mount 
   - Squad Support Clan Light TAG 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8917) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8917) 
 - **Battle Value:** 20 (182 for 6 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_tagsqd6.md) 
 
@@ -295,7 +295,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1730) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1730) 
 - **Battle Value:** 34 (177 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_destsqd4.md) 
 
@@ -312,7 +312,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/8546) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8546) 
 - **Battle Value:** 34 (239 for 5 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_destsqd5.md) 
 
@@ -329,7 +329,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8910) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8910) 
 - **Battle Value:** 34 (307 for 6 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_destsqd6.md) 
 
@@ -348,7 +348,7 @@
   - Jump Booster 
   - Cutting Torch 
   - Space Operations Adaptation 
-- **Sources:** TRO 3085 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1731) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1731) 
 - **Battle Value:** 20 (105 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_spacesqd4.md) 
 
@@ -367,7 +367,7 @@
   - Jump Booster 
   - Cutting Torch 
   - Space Operations Adaptation 
-- **Sources:** TRO 3085 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8547) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8547) 
 - **Battle Value:** 20 (142 for 5 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_spacesqd5.md) 
 
@@ -386,7 +386,7 @@
   - Jump Booster 
   - Cutting Torch 
   - Space Operations Adaptation 
-- **Sources:** TRO 3085 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8911) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8911) 
 - **Battle Value:** 20 (182 for 6 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_spacesqd6.md) 
 
@@ -403,7 +403,7 @@
   - Battle Claw w/ Vibro-Claw (left) 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1732) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1732) 
 - **Battle Value:** 22 (114 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_vibro-clawsqd4.md) 
 
@@ -420,7 +420,7 @@
   - Battle Claw w/ Vibro-Claw (left) 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8548) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8548) 
 - **Battle Value:** 22 (154 for 5 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_vibro-clawsqd5.md) 
 
@@ -437,7 +437,7 @@
   - Battle Claw w/ Vibro-Claw (left) 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8912) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8912) 
 - **Battle Value:** 22 (198 for 6 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_vibro-clawsqd6.md) 
 
@@ -454,7 +454,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1738) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/1738) 
 - **Battle Value:** 26 (133 for 4 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_csqd4.md) 
 
@@ -471,7 +471,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8554) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/8554) 
 - **Battle Value:** 26 (179 for 5 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_csqd5.md) 
 
@@ -488,7 +488,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8918) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/8918) 
 - **Battle Value:** 26 (230 for 6 suits) 
 - [*More Info*](kage_light_battle_armor/kage_light_battle_armor_csqd6.md) 
 

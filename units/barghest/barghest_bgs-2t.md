@@ -15,7 +15,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/253) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/253) 
 - **Battle Value:** 1794 
 
 ## Availability 

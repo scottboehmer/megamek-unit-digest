@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Stabilized Weapon (Heavy Gauss Rifle) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1020) 
+- **Sources:** Jihad Turning Points: Tharkad , [Master Unit List](http://masterunitlist.info/Unit/Details/1020) 
 - **Battle Value:** 2458 
 
 ## Availability 

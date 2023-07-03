@@ -17,7 +17,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1690) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1690) 
 - **Battle Value:** 1069 
 
 ## Availability 

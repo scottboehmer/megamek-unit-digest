@@ -10,7 +10,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - 'Mech Mortar/8 × 3 (ammo: 32) 
-- **Sources:** RS 3145 NTNU - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6793) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6793) 
 - **Battle Value:** 517 
 - [*More Info*](mortar_carrier/mortar_carrier.md) 
 

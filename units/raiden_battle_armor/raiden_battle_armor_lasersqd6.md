@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8940) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8940) 
 - **Battle Value:** 44 (400 for 6 suits) 
 
 ## Availability 

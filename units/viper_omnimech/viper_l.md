@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7586) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7586) 
 - **Battle Value:** 1417 
 
 ## Availability 

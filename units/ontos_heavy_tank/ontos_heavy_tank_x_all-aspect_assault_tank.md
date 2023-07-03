@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - Combat Vehicle Escape Pod 
-- **Sources:** XTR Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4749) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/4749) 
 - **Battle Value:** 1031 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Barrel Fists 
-- **Sources:** RS3150 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8003) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8003) 
 - **Battle Value:** 1988 
 
 ## Availability 

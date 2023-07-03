@@ -15,7 +15,7 @@
   - Heavy PPC 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** Rec Guide:ilClan #14 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8170) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8170) 
 - **Battle Value:** 2024 
 
 ## Availability 

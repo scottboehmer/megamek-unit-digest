@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3270) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3270) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-33.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3271) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3271) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-43.md) 
 
@@ -43,7 +43,7 @@
 - **Heat Sinks:** 16 (32) 
 - **Weapons:** 
   - Medium Laser × 6 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3272) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3272) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-53.md) 
 
@@ -59,7 +59,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3273) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3273) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-63.md) 
 
@@ -75,7 +75,7 @@
 - **Weapons:** 
   - ER PPC 
   - Large Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5255) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5255) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-63b.md) 
 
@@ -91,7 +91,7 @@
 - **Weapons:** 
   - Improved Large Laser × 2 
   - Inner Sphere Small Laser 
-- **Sources:** Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7688) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7688) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-63-ec.md) 
 
@@ -107,7 +107,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3050u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3268) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3268) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_c.md) 
 
@@ -123,7 +123,7 @@
 - **Weapons:** 
   - Heavy Large Laser × 2 
   - Heavy Small Laser 
-- **Sources:** TRO 3050u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3269) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3269) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_ch.md) 
 
@@ -139,7 +139,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3274) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3274) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_thk-63cs.md) 
 
@@ -155,7 +155,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Small Laser 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5558) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5558) 
 - **Battle Value:** Unknown 
 - [*More Info*](tomahawk_aerospace_fighter/tomahawk_cx-11.md) 
 

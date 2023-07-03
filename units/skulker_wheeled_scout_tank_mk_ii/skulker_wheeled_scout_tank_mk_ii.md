@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/5071) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5071) 
 - **Battle Value:** 454 
 
 ## Availability 

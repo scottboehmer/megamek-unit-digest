@@ -15,7 +15,7 @@
   - Light Gauss Rifle (ammo: 32) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4218) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4218) 
 - **Battle Value:** 1450 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** ForcePack Wolfs Dragoons - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8388) 
+- **Sources:** ForcePack Wolfs Dragoons , [Master Unit List](http://masterunitlist.info/Unit/Details/8388) 
 - **Battle Value:** 1639 
 
 ## Availability 

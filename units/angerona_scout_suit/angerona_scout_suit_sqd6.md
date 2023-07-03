@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8845) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8845) 
 - **Battle Value:** 46 (411 for 6 suits) 
 
 ## Availability 

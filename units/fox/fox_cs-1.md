@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Variable Range Targeting 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4182) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/4182) 
 - **Battle Value:** 1574 
 
 ## Availability 

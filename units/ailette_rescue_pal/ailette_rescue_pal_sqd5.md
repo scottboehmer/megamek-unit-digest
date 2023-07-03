@@ -18,7 +18,7 @@
   - Space Operations Adaptation 
   - Extended Life Support 
   - Mechanical Jump Booster 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8708) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/8708) 
 - **Battle Value:** 5 (38 for 5 suits) 
 
 ## Availability 

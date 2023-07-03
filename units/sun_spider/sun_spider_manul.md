@@ -17,6 +17,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2789 
 
 ## Availability 

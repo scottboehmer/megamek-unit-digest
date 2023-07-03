@@ -14,7 +14,7 @@
   - LRM 15 (ammo: 16) 
   - LB 5-X AC (ammo: 40) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/685) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/685) 
 - **Battle Value:** 965 
 
 ## Availability 

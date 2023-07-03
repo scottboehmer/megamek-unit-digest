@@ -14,7 +14,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7926) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7926) 
 - **Battle Value:** 1725 
 - [*More Info*](hatamoto-kaze/hatamoto-kaze_htm-27v2.md) 
 

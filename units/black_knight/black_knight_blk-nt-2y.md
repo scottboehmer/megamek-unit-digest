@@ -20,7 +20,7 @@
   - Beagle Active Probe 
   - Targeting Computer 
   - C3 Support 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6347) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6347) 
 - **Battle Value:** 1847 
 
 ## Availability 

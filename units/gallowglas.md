@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1182) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1182) 
 - **Battle Value:** 1695 
 - [*More Info*](gallowglas/gallowglas_gal-1gls.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1183) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1183) 
 - **Battle Value:** 1857 
 - [*More Info*](gallowglas/gallowglas_gal-2gls.md) 
 
@@ -56,7 +56,7 @@
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1188) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1188) 
 - **Battle Value:** 2094 
 - [*More Info*](gallowglas/gallowglas_wd.md) 
 
@@ -78,7 +78,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1185) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1185) 
 - **Battle Value:** 2291 
 - [*More Info*](gallowglas/gallowglas_gal-3gls.md) 
 
@@ -99,7 +99,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1186) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1186) 
 - **Battle Value:** 1944 
 - [*More Info*](gallowglas/gallowglas_gal-4gls.md) 
 
@@ -122,7 +122,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1187) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/1187) 
 - **Battle Value:** 2017 
 - [*More Info*](gallowglas/gallowglas_gal-4glsa.md) 
 
@@ -144,7 +144,7 @@
   - CASE 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1184) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1184) 
 - **Battle Value:** 1771 
 - [*More Info*](gallowglas/gallowglas_gal-2glsa.md) 
 

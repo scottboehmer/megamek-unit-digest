@@ -16,7 +16,7 @@
   - Light PPC × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2571) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2571) 
 - **Battle Value:** 1710 
 
 ## Availability 

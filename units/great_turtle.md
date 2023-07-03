@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Poor Performance 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1281) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1281) 
 - **Battle Value:** 3152 
 - [*More Info*](great_turtle/great_turtle_gtr-1.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Poor Performance 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1282) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1282) 
 - **Battle Value:** 2355 
 - [*More Info*](great_turtle/great_turtle_gtr-2.md) 
 

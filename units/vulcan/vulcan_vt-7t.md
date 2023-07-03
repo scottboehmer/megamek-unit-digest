@@ -22,7 +22,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #30 - Rec Guide:ilClan #30 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9427) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9427) 
 - **Battle Value:** 1500 
 
 ## Availability 

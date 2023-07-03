@@ -19,7 +19,7 @@
   - No/Minimal Arms 
   - Stabilized Weapon (Heavy Gauss Rifle) 
   - Stabilized Weapon (Heavy Gauss Rifle) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4152) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4152) 
 - **Battle Value:** 2636 
 - [*More Info*](fafnir/fafnir_fnr-5.md) 
 
@@ -43,7 +43,7 @@
   - No/Minimal Arms 
   - Stabilized Weapon (Gauss Rifle) 
   - Stabilized Weapon (Gauss Rifle) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4153) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4153) 
 - **Battle Value:** 2625 
 - [*More Info*](fafnir/fafnir_fnr-5b.md) 
 
@@ -68,7 +68,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Stabilized Weapon (Heavy Gauss Rifle) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1020) 
+- **Sources:** Jihad Turning Points: Tharkad , [Master Unit List](http://masterunitlist.info/Unit/Details/1020) 
 - **Battle Value:** 2458 
 - [*More Info*](fafnir/fafnir_fnr-4a_peter.md) 
 
@@ -87,7 +87,7 @@
   - C3i 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5719) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5719) 
 - **Battle Value:** 2449 
 - [*More Info*](fafnir/fafnir_fnr-5wb.md) 
 
@@ -109,7 +109,7 @@
   - No/Minimal Arms 
   - Stabilized Weapon (Improved Heavy Gauss Rifle) 
   - Stabilized Weapon (Improved Heavy Gauss Rifle) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1021) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1021) 
 - **Battle Value:** 2610 
 - [*More Info*](fafnir/fafnir_fnr-5x.md) 
 
@@ -128,7 +128,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5720) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5720) 
 - **Battle Value:** 2234 
 - [*More Info*](fafnir/fafnir_fnr-6u.md) 
 

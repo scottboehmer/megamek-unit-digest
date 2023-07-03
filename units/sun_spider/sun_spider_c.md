@@ -15,6 +15,7 @@
   - LRM 15 × 4 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2541 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Environmentally Sealed Chassis 
   - Limited Amphibious Chassis 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5606) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5606) 
 - **Battle Value:** 309 
 
 ## Availability 

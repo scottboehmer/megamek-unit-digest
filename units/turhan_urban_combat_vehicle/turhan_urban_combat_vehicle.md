@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (5.0 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3320) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3320) 
 - **Battle Value:** 673 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8444) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8444) 
 - **Battle Value:** 2469 
 
 ## Availability 

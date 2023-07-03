@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #4 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3500) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/3500) 
 - **Battle Value:** 2570 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Fine Manipulators 
   - Improved Sensors 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1725) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1725) 
 - **Battle Value:** 2784 
 - [*More Info*](jupiter/jupiter.md) 
 
@@ -41,7 +41,7 @@
   - Fine Manipulators 
   - Improved Sensors 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1726) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1726) 
 - **Battle Value:** 3278 
 - [*More Info*](jupiter/jupiter_2.md) 
 
@@ -63,7 +63,7 @@
   - Fine Manipulators 
   - Improved Sensors 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1727) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1727) 
 - **Battle Value:** 3074 
 - [*More Info*](jupiter/jupiter_3.md) 
 
@@ -85,7 +85,7 @@
   - Fine Manipulators 
   - Improved Sensors 
   - Improved Targeting (Long) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6829) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6829) 
 - **Battle Value:** 2955 
 - [*More Info*](jupiter/jupiter_4.md) 
 

@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2939) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2939) 
 - **Battle Value:** 1507 
 - [*More Info*](shootist/shootist_st-8a.md) 
 
@@ -38,7 +38,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2940) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2940) 
 - **Battle Value:** 1528 
 - [*More Info*](shootist/shootist_st-8c.md) 
 
@@ -59,7 +59,7 @@
   - C3i 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2941) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2941) 
 - **Battle Value:** 1727 
 - [*More Info*](shootist/shootist_st-9c.md) 
 

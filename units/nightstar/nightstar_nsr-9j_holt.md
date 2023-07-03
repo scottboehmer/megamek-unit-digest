@@ -24,7 +24,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** SO:Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619) 
+- **Sources:** Spotlight On: Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619) 
 - **Battle Value:** 3433 
 
 ## Availability 

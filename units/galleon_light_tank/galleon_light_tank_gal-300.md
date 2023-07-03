@@ -16,7 +16,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - M-Pod × 2 
-- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9338) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9338) 
 - **Battle Value:** 648 
 
 ## Availability 

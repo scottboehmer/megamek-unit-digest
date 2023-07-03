@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - C3i 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/310) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/310) 
 - **Battle Value:** 266 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Detachable Clan ER Medium Pulse Laser 
   - Clan LRM 4 (ammo: 7) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7360) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7360) 
 - **Battle Value:** 143 (745 for 4 suits) 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ER Medium Laser × 6 
   - SRM 6 × 3 (ammo: 30) 
   - Small Pulse Laser 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4620) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4620) 
 - **Battle Value:** Unknown 
 - [*More Info*](mengqin/mengqin_mng-8l.md) 
 

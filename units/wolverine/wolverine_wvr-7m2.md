@@ -25,7 +25,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Heavy PPC) 
-- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8253) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/8253) 
 - **Battle Value:** 1752 
 
 ## Availability 

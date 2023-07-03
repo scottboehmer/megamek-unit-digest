@@ -21,7 +21,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3232) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3232) 
 - **Battle Value:** 1727 
 
 ## Availability 

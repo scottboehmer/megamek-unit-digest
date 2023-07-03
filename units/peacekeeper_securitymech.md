@@ -17,7 +17,7 @@
   - Searchlight 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7159) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7159) 
 - **Battle Value:** 422 
 - [*More Info*](peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) 
 

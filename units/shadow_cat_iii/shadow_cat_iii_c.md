@@ -19,7 +19,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7494) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7494) 
 - **Battle Value:** 2153 
 
 ## Availability 

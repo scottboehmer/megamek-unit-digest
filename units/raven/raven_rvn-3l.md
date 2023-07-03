@@ -21,7 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2664) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2664) 
 - **Battle Value:** 708 
 
 ## Availability 

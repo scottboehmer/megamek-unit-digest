@@ -17,7 +17,7 @@
   - Enviro-Sealing 
   - Lift Hoist × 2 
   - Cargo × 2 
-- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/4274) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4274) 
 - **Battle Value:** 658 
 
 ## Availability 

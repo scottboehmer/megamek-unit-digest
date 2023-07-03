@@ -14,7 +14,7 @@
   - Flamer 
 - **Equipment:** 
   - MASH (1 theaters) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6753) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6753) 
 - **Battle Value:** 206 
 
 ## Availability 

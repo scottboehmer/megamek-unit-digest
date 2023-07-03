@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - Dual Saw 
-- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7171) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7171) 
 - **Battle Value:** 460 
 
 ## Availability 

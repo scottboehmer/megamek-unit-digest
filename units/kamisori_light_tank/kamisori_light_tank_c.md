@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - C3 Support 
-- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9334) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9334) 
 - **Battle Value:** 527 
 
 ## Availability 

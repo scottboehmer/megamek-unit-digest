@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/2 (ammo: 45) 
   - Chainsaw 
-- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7170) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7170) 
 - **Battle Value:** 317 
 
 ## Availability 

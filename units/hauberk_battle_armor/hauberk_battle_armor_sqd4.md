@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LRM 5 (ammo: 6) 
   - Small Laser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4269) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4269) 
 - **Battle Value:** 70 (363 for 4 suits) 
 
 ## Availability 

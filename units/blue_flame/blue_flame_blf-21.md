@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3840) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3840) 
 - **Battle Value:** 1256 
 
 ## Availability 

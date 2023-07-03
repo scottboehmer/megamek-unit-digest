@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Re-Engineered Laser × 2 
   - Rocket 15 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8047) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8047) 
 - **Battle Value:** 577 
 
 ## Availability 

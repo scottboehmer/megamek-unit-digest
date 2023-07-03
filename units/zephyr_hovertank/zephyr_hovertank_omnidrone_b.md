@@ -18,7 +18,7 @@
   - Bloodhound Active Probe 
   - Drone Operating System 
   - C3 Support 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7302) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7302) 
 - **Battle Value:** 540 
 
 ## Availability 

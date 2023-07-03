@@ -13,7 +13,7 @@
   - King David Light Gauss Rifle 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9029) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9029) 
 - **Battle Value:** 35 (313 for 6 suits) 
 
 ## Availability 

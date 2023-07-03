@@ -14,7 +14,7 @@
   - Drone Control System 
   - Cargo 
   - Hitch × 2 
-- **Sources:** Rec Guide:ilClan #28 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9368) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9368) 
 - **Battle Value:** 147 
 
 ## Availability 

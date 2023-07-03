@@ -14,7 +14,7 @@
 - **Weapons:** 
   - AC/20 (ammo: 10) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3288) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3288) 
 - **Battle Value:** Unknown 
 
 ## Availability 

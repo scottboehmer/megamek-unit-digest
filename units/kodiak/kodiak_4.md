@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1808) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1808) 
 - **Battle Value:** 2728 
 
 ## Availability 

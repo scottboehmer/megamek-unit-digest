@@ -13,7 +13,7 @@
   - Improved Sensors 
   - ECM Suite 
   - Camo System 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5043) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5043) 
 - **Battle Value:** 64 (331 for 4 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_reconsqd4.md) 
 
@@ -30,7 +30,7 @@
   - Improved Sensors 
   - ECM Suite 
   - Camo System 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8672) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8672) 
 - **Battle Value:** 64 (445 for 5 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_reconsqd5.md) 
 
@@ -47,7 +47,7 @@
   - Improved Sensors 
   - ECM Suite 
   - Camo System 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9036) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9036) 
 - **Battle Value:** 64 (573 for 6 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_reconsqd6.md) 
 
@@ -61,7 +61,7 @@
 - **Weapons:** 
   - Heavy Recoilless Rifle 
   - Heavy Machine Gun × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5044) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5044) 
 - **Battle Value:** 72 (376 for 4 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_sqd4.md) 
 
@@ -75,7 +75,7 @@
 - **Weapons:** 
   - Heavy Recoilless Rifle 
   - Heavy Machine Gun × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8673) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8673) 
 - **Battle Value:** 72 (507 for 5 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_sqd5.md) 
 
@@ -89,7 +89,7 @@
 - **Weapons:** 
   - Heavy Recoilless Rifle 
   - Heavy Machine Gun × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9037) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9037) 
 - **Battle Value:** 72 (651 for 6 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_sqd6.md) 
 
@@ -103,7 +103,7 @@
 - **Weapons:** 
   - Small Laser × 2 
   - SRM 3 (OS) × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5045) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5045) 
 - **Battle Value:** 69 (360 for 4 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_supportsqd4.md) 
 
@@ -117,7 +117,7 @@
 - **Weapons:** 
   - Small Laser × 2 
   - SRM 3 (OS) × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8674) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8674) 
 - **Battle Value:** 69 (485 for 5 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_supportsqd5.md) 
 
@@ -131,7 +131,7 @@
 - **Weapons:** 
   - Small Laser × 2 
   - SRM 3 (OS) × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9038) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9038) 
 - **Battle Value:** 69 (624 for 6 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_supportsqd6.md) 
 
@@ -145,7 +145,7 @@
 - **Weapons:** 
   - Magshot Gauss Rifle 
   - Detachable Taser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5041) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5041) 
 - **Battle Value:** 81 (420 for 4 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_capture_teamsqd4.md) 
 
@@ -159,7 +159,7 @@
 - **Weapons:** 
   - Magshot Gauss Rifle 
   - Detachable Taser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8670) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8670) 
 - **Battle Value:** 81 (566 for 5 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_capture_teamsqd5.md) 
 
@@ -173,7 +173,7 @@
 - **Weapons:** 
   - Magshot Gauss Rifle 
   - Detachable Taser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9034) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9034) 
 - **Battle Value:** 81 (728 for 6 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_capture_teamsqd6.md) 
 
@@ -187,7 +187,7 @@
 - **Weapons:** 
   - Support PPC × 2 
   - Detachable Heavy Machine Gun 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5042) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5042) 
 - **Battle Value:** 72 (376 for 4 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_ppcsqd4.md) 
 
@@ -201,7 +201,7 @@
 - **Weapons:** 
   - Support PPC × 2 
   - Detachable Heavy Machine Gun 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8671) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8671) 
 - **Battle Value:** 72 (507 for 5 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_ppcsqd5.md) 
 
@@ -215,7 +215,7 @@
 - **Weapons:** 
   - Support PPC × 2 
   - Detachable Heavy Machine Gun 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9035) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9035) 
 - **Battle Value:** 72 (651 for 6 suits) 
 - [*More Info*](shedu_assault_battle_armor/shedu_assault_battle_armor_ppcsqd6.md) 
 

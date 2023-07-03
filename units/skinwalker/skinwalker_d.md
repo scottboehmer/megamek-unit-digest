@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8452) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8452) 
 - **Battle Value:** 2545 
 
 ## Availability 

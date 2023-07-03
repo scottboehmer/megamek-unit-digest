@@ -13,7 +13,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (16 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2129) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2129) 
 - **Battle Value:** 476 
 - [*More Info*](maxim_mk_ii_transport/maxim_mk_ii_transport.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (8 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2128) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2128) 
 - **Battle Value:** 828 
 - [*More Info*](maxim_mk_ii_transport/maxim_mk_ii_transport_infantry_support_shiloh.md) 
 
@@ -49,7 +49,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Infantry (16.0 tons) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6787) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6787) 
 - **Battle Value:** 483 
 - [*More Info*](maxim_mk_ii_transport/maxim_mk_ii_transport_ecm.md) 
 

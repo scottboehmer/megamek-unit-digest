@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 10 
-- **Sources:** TRO 3075 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4107) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4107) 
 - **Battle Value:** Unknown 
 
 ## Availability 

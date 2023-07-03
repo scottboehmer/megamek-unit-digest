@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Supercharger 
   - CASE II 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6333) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6333) 
 - **Battle Value:** 1116 
 - [*More Info*](hollander_iii/hollander_iii_bzk-d1.md) 
 
@@ -31,7 +31,7 @@
   - Gauss Rifle (ammo: 24) 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6334) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6334) 
 - **Battle Value:** 1270 
 - [*More Info*](hollander_iii/hollander_iii_bzk-d2.md) 
 
@@ -52,7 +52,7 @@
   - Angel ECM Suite 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6335) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6335) 
 - **Battle Value:** 1575 
 - [*More Info*](hollander_iii/hollander_iii_bzk-d3.md) 
 

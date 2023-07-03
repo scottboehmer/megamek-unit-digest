@@ -15,7 +15,7 @@
   - Ultra AC/20 (ammo: 20) 
   - LRM 10 (ammo: 24) 
   - Streak SRM 6 × 6 (ammo: 60) 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2692) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2692) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Minesweeper 
   - Mine Dispenser × 2 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8049) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8049) 
 - **Battle Value:** 1072 
 
 ## Availability 

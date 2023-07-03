@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/252) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/252) 
 - **Battle Value:** 1787 
 
 ## Availability 

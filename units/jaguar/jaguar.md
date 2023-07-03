@@ -19,7 +19,7 @@
   - Quad Turret 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6612) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6612) 
 - **Battle Value:** 1791 
 
 ## Availability 

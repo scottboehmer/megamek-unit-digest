@@ -17,7 +17,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8356) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/8356) 
 - **Battle Value:** 1230 
 
 ## Availability 

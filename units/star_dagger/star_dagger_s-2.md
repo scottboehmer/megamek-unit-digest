@@ -16,7 +16,7 @@
   - Medium Laser 
   - Small Laser 
   - Machine Gun × 3 (ammo: 200) 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5123) 
+- **Sources:** XTR: RetroTech , [Master Unit List](http://masterunitlist.info/Unit/Details/5123) 
 - **Battle Value:** Unknown 
 
 ## Availability 

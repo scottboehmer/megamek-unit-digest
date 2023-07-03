@@ -20,7 +20,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1904) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/1904) 
 - **Battle Value:** 436 
 
 ## Availability 

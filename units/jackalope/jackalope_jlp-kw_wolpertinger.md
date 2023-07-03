@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Compact ’Mech 
   - Narrow/Low Profile 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6713) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6713) 
 - **Battle Value:** 1334 
 
 ## Availability 

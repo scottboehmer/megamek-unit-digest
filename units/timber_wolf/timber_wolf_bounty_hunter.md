@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1976) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter , [Master Unit List](http://masterunitlist.info/Unit/Details/1976) 
 - **Battle Value:** 2829 
 
 ## Availability 

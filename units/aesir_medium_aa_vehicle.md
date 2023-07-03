@@ -13,7 +13,7 @@
 - **Equipment:** 
   - CASE 
   - Armored Motive System 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6249) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6249) 
 - **Battle Value:** 708 
 - [*More Info*](aesir_medium_aa_vehicle/aesir_medium_aa_vehicle.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - Armored Motive System 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6250) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6250) 
 - **Battle Value:** 1445 
 - [*More Info*](aesir_medium_aa_vehicle/aesir_medium_aa_vehicle_hag.md) 
 

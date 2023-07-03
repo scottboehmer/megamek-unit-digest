@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #3- Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9404) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/9404) 
 - **Battle Value:** 1960 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Hatchet 
 - **Equipment:** 
   - AES 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9352) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9352) 
 - **Battle Value:** 1591 
 
 ## Availability 

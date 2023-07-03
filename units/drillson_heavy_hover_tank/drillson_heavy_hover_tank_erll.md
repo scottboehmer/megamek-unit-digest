@@ -15,7 +15,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #32 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/929) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/929) 
 - **Battle Value:** 960 
 
 ## Availability 

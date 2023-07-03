@@ -23,7 +23,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/130) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/130) 
 - **Battle Value:** 1116 
 
 ## Availability 

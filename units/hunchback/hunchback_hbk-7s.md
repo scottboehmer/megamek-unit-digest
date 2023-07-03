@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7346) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7346) 
 - **Battle Value:** 1628 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - C3i 
   - CASE 
   - Environmentally Sealed Chassis 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1511) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1511) 
 - **Battle Value:** 733 
 
 ## Availability 

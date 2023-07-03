@@ -22,7 +22,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
 - **Battle Value:** 2013 
 
 ## Availability 

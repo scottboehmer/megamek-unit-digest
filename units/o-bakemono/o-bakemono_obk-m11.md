@@ -24,7 +24,7 @@
   - Modular Weapon (Medium Laser) 
   - Modular Weapon (MRM 40) 
   - Modular Weapon (MRM 40) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2311) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2311) 
 - **Battle Value:** 1793 
 
 ## Availability 

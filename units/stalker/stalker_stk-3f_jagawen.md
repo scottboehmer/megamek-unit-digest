@@ -18,7 +18,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3036) 
+- **Sources:** Historical Turning Points: Misery , [Master Unit List](http://masterunitlist.info/Unit/Details/3036) 
 - **Battle Value:** 1570 
 
 ## Availability 

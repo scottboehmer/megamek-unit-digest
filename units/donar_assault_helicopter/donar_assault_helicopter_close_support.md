@@ -17,7 +17,7 @@
   - Active Probe 
   - Light TAG 
   - Mast Mount 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/904) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/904) 
 - **Battle Value:** 571 
 
 ## Availability 

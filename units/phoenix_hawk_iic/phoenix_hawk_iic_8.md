@@ -21,7 +21,7 @@
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2518) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2518) 
 - **Battle Value:** 2903 
 
 ## Availability 

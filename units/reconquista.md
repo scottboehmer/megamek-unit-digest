@@ -13,7 +13,7 @@
   - AC/10 (ammo: 20) 
   - LRM 10 (ammo: 24) 
   - Machine Gun (ammo: 100) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7472) 
+- **Sources:** Touring the Stars: Valencia , [Master Unit List](http://masterunitlist.info/Unit/Details/7472) 
 - **Battle Value:** 927 
 - [*More Info*](reconquista/reconquista.md) 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Streak SRM 2 × 4 (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #32 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/933) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/933) 
 - **Battle Value:** 899 
 
 ## Availability 

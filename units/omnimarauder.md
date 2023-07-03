@@ -20,7 +20,7 @@
   - Directional Torso Mount (All Weapons) 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8110) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8110) 
 - **Battle Value:** 2836 
 - [*More Info*](omnimarauder/omnimarauder_mad-br-o.md) 
 
@@ -44,7 +44,7 @@
   - Directional Torso Mount (All Weapons) 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8111) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8111) 
 - **Battle Value:** 2127 
 - [*More Info*](omnimarauder/omnimarauder_mad-br-oa.md) 
 

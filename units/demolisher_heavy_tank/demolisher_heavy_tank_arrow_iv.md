@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Arrow IV × 2 (ammo: 35) 
   - Medium Laser × 2 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/858) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/858) 
 - **Battle Value:** 1297 
 
 ## Availability 

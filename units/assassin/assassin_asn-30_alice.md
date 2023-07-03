@@ -23,7 +23,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3738) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/3738) 
 - **Battle Value:** 1507 
 
 ## Availability 

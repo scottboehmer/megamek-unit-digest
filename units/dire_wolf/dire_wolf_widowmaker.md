@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Difficult Ejection 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/811) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/811) 
 - **Battle Value:** 3041 
 
 ## Availability 

@@ -13,7 +13,7 @@
   - Detachable ER Small Laser × 2 
   - Detachable Magshot Gauss Rifle 
   - SRM 2 (OS) 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8636) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/8636) 
 - **Battle Value:** 74 (520 for 5 suits) 
 
 ## Availability 

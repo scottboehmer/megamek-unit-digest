@@ -17,7 +17,7 @@
   - Improved Targeting (Short) 
   - Protected Actuators 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3369) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3369) 
 - **Battle Value:** 894 
 - [*More Info*](valiant/valiant_v4-lnt-k7.md) 
 
@@ -40,7 +40,7 @@
   - Improved Targeting (Short) 
   - Protected Actuators 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3368) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3368) 
 - **Battle Value:** 926 
 - [*More Info*](valiant/valiant_v4-lnt-j3.md) 
 
@@ -62,7 +62,7 @@
   - Improved Targeting (Short) 
   - Protected Actuators 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371) 
 - **Battle Value:** 852 
 - [*More Info*](valiant/valiant_vln-3t.md) 
 
@@ -86,7 +86,7 @@
   - Improved Targeting (Short) 
   - Protected Actuators 
   - Weak Head Armor (1) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3370) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/3370) 
 - **Battle Value:** 989 
 - [*More Info*](valiant/valiant_val-nt-jx_hot_knife.md) 
 
@@ -109,7 +109,7 @@
   - Improved Targeting (Short) 
   - Protected Actuators 
   - Weak Head Armor (1) 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7293) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7293) 
 - **Battle Value:** 1019 
 - [*More Info*](valiant/valiant_vlt-3e.md) 
 

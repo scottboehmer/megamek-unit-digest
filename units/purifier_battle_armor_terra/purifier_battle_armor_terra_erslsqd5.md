@@ -14,7 +14,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Clan ER Small Laser 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8710) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/8710) 
 - **Battle Value:** 82 (571 for 5 suits) 
 
 ## Availability 

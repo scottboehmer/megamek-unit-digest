@@ -17,7 +17,7 @@
   - Machine Gun 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/10) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/10) 
 - **Battle Value:** 33 (173 for 4 suits) 
 
 ## Availability 

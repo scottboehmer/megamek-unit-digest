@@ -22,7 +22,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1998) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1998) 
 - **Battle Value:** 1055 
 
 ## Availability 

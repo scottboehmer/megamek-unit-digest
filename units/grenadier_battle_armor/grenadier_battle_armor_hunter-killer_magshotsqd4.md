@@ -15,7 +15,7 @@
   - SRM 5 (ammo: 4) 
   - Magshot Gauss Rifle 
   - Firedrake Support Needler 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4238) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4238) 
 - **Battle Value:** 73 (379 for 4 suits) 
 
 ## Availability 

@@ -13,7 +13,7 @@
   - Ultra AC/2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2193) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2193) 
 - **Battle Value:** 670 
 - [*More Info*](mithras_light_tank/mithras_light_tank.md) 
 
@@ -31,7 +31,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2192) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2192) 
 - **Battle Value:** 649 
 - [*More Info*](mithras_light_tank/mithras_light_tank_erll.md) 
 

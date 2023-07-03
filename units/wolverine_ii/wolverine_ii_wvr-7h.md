@@ -21,7 +21,7 @@
   - Command ’Mech 
   - Improved Communications 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3585) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3585) 
 - **Battle Value:** 1301 
 
 ## Availability 

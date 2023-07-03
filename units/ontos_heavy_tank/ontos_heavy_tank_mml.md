@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO - 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2329) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2329) 
 - **Battle Value:** 1268 
 
 ## Availability 

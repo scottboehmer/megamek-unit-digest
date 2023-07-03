@@ -18,7 +18,7 @@
   - Narrow/Low Profile 
   - Cramped Cockpit 
   - Poor Cooling Jacket (Large Laser) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3276) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/3276) 
 - **Battle Value:** 671 
 
 ## Availability 

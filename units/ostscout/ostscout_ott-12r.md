@@ -20,7 +20,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7452) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7452) 
 - **Battle Value:** 1209 
 
 ## Availability 

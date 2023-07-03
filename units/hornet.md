@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1545) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1545) 
 - **Battle Value:** 488 
 - [*More Info*](hornet/hornet_hnt-151.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1546) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1546) 
 - **Battle Value:** 475 
 - [*More Info*](hornet/hornet_hnt-152.md) 
 
@@ -58,7 +58,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1548) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1548) 
 - **Battle Value:** 535 
 - [*More Info*](hornet/hornet_hnt-171.md) 
 
@@ -80,7 +80,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1547) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1547) 
 - **Battle Value:** 511 
 - [*More Info*](hornet/hornet_hnt-161.md) 
 
@@ -102,7 +102,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7396) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7396) 
 - **Battle Value:** 398 
 - [*More Info*](hornet/hornet_hnt-181.md) 
 
@@ -123,7 +123,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7343) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7343) 
 - **Battle Value:** 505 
 - [*More Info*](hornet/hornet_hnt-182.md) 
 

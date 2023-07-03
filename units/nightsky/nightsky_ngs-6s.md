@@ -16,7 +16,7 @@
   - Hatchet 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2283) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2283) 
 - **Battle Value:** 1474 
 
 ## Availability 

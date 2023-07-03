@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Laser Anti-Missile System 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2320) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/2320) 
 - **Battle Value:** Unknown 
 
 ## Availability 

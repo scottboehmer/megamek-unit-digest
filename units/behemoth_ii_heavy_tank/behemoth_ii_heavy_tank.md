@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 16) 
   - Thunderbolt 5 × 8 (ammo: 96) 
   - Rocket 10 × 4 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6447) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6447) 
 - **Battle Value:** 1903 
 
 ## Availability 

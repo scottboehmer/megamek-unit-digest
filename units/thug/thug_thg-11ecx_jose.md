@@ -21,7 +21,7 @@
   - Rugged (×2) 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7322) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7322) 
 - **Battle Value:** 1720 
 
 ## Availability 

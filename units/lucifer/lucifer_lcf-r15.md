@@ -16,7 +16,7 @@
   - Large Laser × 2 
   - Medium Laser 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1954) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1954) 
 - **Battle Value:** Unknown 
 
 ## Availability 

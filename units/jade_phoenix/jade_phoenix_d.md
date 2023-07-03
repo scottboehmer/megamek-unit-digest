@@ -18,7 +18,7 @@
   - Partial Wing 
   - CASE 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8402) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8402) 
 - **Battle Value:** 2986 
 
 ## Availability 

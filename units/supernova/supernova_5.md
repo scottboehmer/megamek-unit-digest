@@ -17,7 +17,7 @@
   - Inner Sphere Coolant Pod × 4 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8132) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/8132) 
 - **Battle Value:** 3070 
 
 ## Availability 

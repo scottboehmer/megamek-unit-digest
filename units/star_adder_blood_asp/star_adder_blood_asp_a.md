@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/399) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/399) 
 - **Battle Value:** 3452 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3634) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3634) 
 - **Battle Value:** 840 
 - [*More Info*](zephyros_infantry_support_vehicle/zephyros_infantry_support_vehicle.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3633) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3633) 
 - **Battle Value:** 844 
 - [*More Info*](zephyros_infantry_support_vehicle/zephyros_infantry_support_vehicle_dual_turret.md) 
 

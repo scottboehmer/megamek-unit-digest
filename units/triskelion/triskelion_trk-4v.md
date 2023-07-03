@@ -22,7 +22,7 @@
   - Distracting 
   - Difficult Ejection 
   - Prototype 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7384) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7384) 
 - **Battle Value:** 2702 
 
 ## Availability 

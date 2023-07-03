@@ -16,7 +16,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2348) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2348) 
 - **Battle Value:** 1228 
 
 ## Availability 

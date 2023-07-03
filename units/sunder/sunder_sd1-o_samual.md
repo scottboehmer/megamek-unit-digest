@@ -19,7 +19,7 @@
   - A-Pod × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3124) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3124) 
 - **Battle Value:** 1593 
 
 ## Availability 

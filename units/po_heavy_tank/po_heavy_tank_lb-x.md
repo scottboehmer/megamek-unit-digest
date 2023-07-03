@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 10 Cluster, 20 Standard) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2547) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2547) 
 - **Battle Value:** 778 
 
 ## Availability 

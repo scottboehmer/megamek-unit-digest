@@ -15,7 +15,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1730) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1730) 
 - **Battle Value:** 34 (177 for 4 suits) 
 
 ## Availability 

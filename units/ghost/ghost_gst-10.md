@@ -21,7 +21,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1193) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1193) 
 - **Battle Value:** 1353 
 
 ## Availability 

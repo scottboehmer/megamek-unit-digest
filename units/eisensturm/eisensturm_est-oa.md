@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 12) 
   - ER Large Laser × 4 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4116) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4116) 
 - **Battle Value:** Unknown 
 
 ## Availability 

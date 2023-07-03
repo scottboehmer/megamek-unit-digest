@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Ammunition Feed Problem (AC/5) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4755) 
+- **Sources:** XTR: Primitives V , [Master Unit List](http://masterunitlist.info/Unit/Details/4755) 
 - **Battle Value:** 973 
 - [*More Info*](orion/orion_on1-c.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Ammunition Feed Problem (Primitive AC/10) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7405) 
+- **Sources:** XTR: Primitives V , [Master Unit List](http://masterunitlist.info/Unit/Details/7405) 
 - **Battle Value:** 1307 
 - [*More Info*](orion/orion_on1-h.md) 
 
@@ -57,7 +57,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2332) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2332) 
 - **Battle Value:** 1429 
 - [*More Info*](orion/orion_on1-k.md) 
 
@@ -80,7 +80,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050U - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2333) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2333) 
 - **Battle Value:** 1821 
 - [*More Info*](orion/orion_on1-k_kerensky.md) 
 
@@ -101,7 +101,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2335) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2335) 
 - **Battle Value:** 1298 
 - [*More Info*](orion/orion_on1-v.md) 
 
@@ -121,7 +121,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2336) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2336) 
 - **Battle Value:** 1328 
 - [*More Info*](orion/orion_on1-va.md) 
 
@@ -144,7 +144,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2337) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2337) 
 - **Battle Value:** 1310 
 - [*More Info*](orion/orion_on1-v-dc.md) 
 
@@ -168,7 +168,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2334) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2334) 
 - **Battle Value:** 1414 
 - [*More Info*](orion/orion_on1-m.md) 
 
@@ -191,7 +191,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4756) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4756) 
 - **Battle Value:** 1501 
 - [*More Info*](orion/orion_on1-ma.md) 
 
@@ -216,7 +216,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4760) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4760) 
 - **Battle Value:** 1444 
 - [*More Info*](orion/orion_on1-m-dc.md) 
 
@@ -240,7 +240,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4757) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4757) 
 - **Battle Value:** 1472 
 - [*More Info*](orion/orion_on1-mb.md) 
 
@@ -264,7 +264,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4758) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4758) 
 - **Battle Value:** 1501 
 - [*More Info*](orion/orion_on1-mc.md) 
 
@@ -288,7 +288,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4759) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4759) 
 - **Battle Value:** 1597 
 - [*More Info*](orion/orion_on1-md.md) 
 
@@ -310,7 +310,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2338) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2338) 
 - **Battle Value:** 1828 
 - [*More Info*](orion/orion_on2-m.md) 
 
@@ -332,7 +332,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2339) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/2339) 
 - **Battle Value:** 1849 
 - [*More Info*](orion/orion_on3-mx.md) 
 
@@ -354,7 +354,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Difficult Ejection 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4761) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4761) 
 - **Battle Value:** 1826 
 - [*More Info*](orion/orion_on3-m.md) 
 
@@ -372,7 +372,7 @@
   - Clan ER Medium Pulse Laser × 3 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7998) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7998) 
 - **Battle Value:** 2343 
 - [*More Info*](orion/orion_c.md) 
 
@@ -392,7 +392,7 @@
   - Clan Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8317) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8317) 
 - **Battle Value:** 2026 
 - [*More Info*](orion/orion_c_2.md) 
 

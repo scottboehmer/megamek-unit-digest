@@ -18,7 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6502) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6502) 
 - **Battle Value:** 1255 
 
 ## Availability 

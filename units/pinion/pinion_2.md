@@ -17,7 +17,7 @@
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4830) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4830) 
 - **Battle Value:** 1657 
 
 ## Availability 

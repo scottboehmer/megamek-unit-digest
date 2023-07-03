@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/243) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/243) 
 - **Battle Value:** 1801 
 
 ## Availability 

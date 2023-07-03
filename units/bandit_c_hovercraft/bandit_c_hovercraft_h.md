@@ -18,7 +18,7 @@
   - Infantry (5.0 tons) 
   - Targeting Computer 
   - CASE 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/227) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/227) 
 - **Battle Value:** 1108 
 
 ## Availability 

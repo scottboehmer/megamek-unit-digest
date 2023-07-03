@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/909) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/909) 
 - **Battle Value:** 1125 
 
 ## Availability 

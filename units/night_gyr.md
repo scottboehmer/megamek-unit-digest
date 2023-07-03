@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2270) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2270) 
 - **Battle Value:** 2830 
 - [*More Info*](night_gyr/night_gyr_prime.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2263) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2263) 
 - **Battle Value:** 2680 
 - [*More Info*](night_gyr/night_gyr_a.md) 
 
@@ -59,7 +59,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2264) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2264) 
 - **Battle Value:** 2140 
 - [*More Info*](night_gyr/night_gyr_b.md) 
 
@@ -81,7 +81,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2265) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2265) 
 - **Battle Value:** 2468 
 - [*More Info*](night_gyr/night_gyr_c.md) 
 
@@ -102,7 +102,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2266) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2266) 
 - **Battle Value:** 2889 
 - [*More Info*](night_gyr/night_gyr_d.md) 
 
@@ -124,7 +124,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2267) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2267) 
 - **Battle Value:** 2717 
 - [*More Info*](night_gyr/night_gyr_e.md) 
 
@@ -147,7 +147,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2269) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2269) 
 - **Battle Value:** 2428 
 - [*More Info*](night_gyr/night_gyr_h.md) 
 
@@ -170,7 +170,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2268) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/2268) 
 - **Battle Value:** 2958 
 - [*More Info*](night_gyr/night_gyr_f.md) 
 
@@ -192,7 +192,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8400) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8400) 
 - **Battle Value:** 2781 
 - [*More Info*](night_gyr/night_gyr_x.md) 
 
@@ -213,7 +213,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8398) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8398) 
 - **Battle Value:** 2767 
 - [*More Info*](night_gyr/night_gyr_t.md) 
 
@@ -235,7 +235,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8399) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8399) 
 - **Battle Value:** 2626 
 - [*More Info*](night_gyr/night_gyr_g.md) 
 

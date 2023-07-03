@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8223) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8223) 
 - **Battle Value:** 1266 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Poor Targeting (Long) 
   - Prototype 
   - Poor Cooling Jacket (Large Laser) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5583) 
+- **Sources:** XTR: Primitives II , [Master Unit List](http://masterunitlist.info/Unit/Details/5583) 
 - **Battle Value:** 969 
 
 ## Availability 

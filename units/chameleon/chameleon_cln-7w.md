@@ -17,7 +17,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/544) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/544) 
 - **Battle Value:** 1243 
 
 ## Availability 

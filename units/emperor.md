@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7186) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/7186) 
 - **Battle Value:** 1453 
 - [*More Info*](emperor/emperor_emp-1a.md) 
 
@@ -36,7 +36,7 @@
   - Command ’Mech 
   - Improved Cooling Jacket (Large Laser) 
   - Improved Cooling Jacket (Large Laser) 
-- **Sources:** TRO 3058 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/963) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/963) 
 - **Battle Value:** 1830 
 - [*More Info*](emperor/emperor_emp-5a.md) 
 
@@ -60,7 +60,7 @@
   - Command ’Mech 
   - Improved Cooling Jacket (Large Laser) 
   - Improved Cooling Jacket (Large Laser) 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/964) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/964) 
 - **Battle Value:** 1969 
 - [*More Info*](emperor/emperor_emp-6a.md) 
 
@@ -81,7 +81,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7685) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7685) 
 - **Battle Value:** 2197 
 - [*More Info*](emperor/emperor_emp-6a-ec.md) 
 
@@ -104,7 +104,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Cooling Jacket (Large Laser) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/965) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/965) 
 - **Battle Value:** 2247 
 - [*More Info*](emperor/emperor_emp-6a_nerran.md) 
 
@@ -125,7 +125,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/966) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/966) 
 - **Battle Value:** 2382 
 - [*More Info*](emperor/emperor_emp-6d.md) 
 
@@ -149,7 +149,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Cooling Jacket (ER PPC) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/967) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/967) 
 - **Battle Value:** 2681 
 - [*More Info*](emperor/emperor_emp-6l.md) 
 
@@ -174,7 +174,7 @@
   - Command ’Mech 
   - Improved Cooling Jacket (ER Large Laser) 
   - Improved Cooling Jacket (ER Large Laser) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/968) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/968) 
 - **Battle Value:** 2090 
 - [*More Info*](emperor/emperor_emp-6m.md) 
 
@@ -195,7 +195,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/970) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/970) 
 - **Battle Value:** 2065 
 - [*More Info*](emperor/emperor_emp-6s.md) 
 
@@ -217,7 +217,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/971) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/971) 
 - **Battle Value:** 2179 
 - [*More Info*](emperor/emperor_emp-7l.md) 
 
@@ -239,7 +239,7 @@
   - Command ’Mech 
   - Improved Cooling Jacket (Snub-Nose PPC) 
   - Improved Cooling Jacket (Snub-Nose PPC) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/969) 
+- **Sources:** Jihad Turning Points: Atreus , [Master Unit List](http://masterunitlist.info/Unit/Details/969) 
 - **Battle Value:** 2004 
 - [*More Info*](emperor/emperor_emp-6me_mercury_elite.md) 
 
@@ -261,7 +261,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6851) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6851) 
 - **Battle Value:** 2385 
 - [*More Info*](emperor/emperor_emp-8l.md) 
 

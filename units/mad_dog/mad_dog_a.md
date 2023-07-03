@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3466) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3466) 
 - **Battle Value:** 1923 
 
 ## Availability 

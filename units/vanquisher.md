@@ -19,7 +19,7 @@
   - Stable 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5338) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5338) 
 - **Battle Value:** 2234 
 - [*More Info*](vanquisher/vanquisher_vqr-2a.md) 
 
@@ -41,7 +41,7 @@
   - Stable 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5339) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5339) 
 - **Battle Value:** 2073 
 - [*More Info*](vanquisher/vanquisher_vqr-2b.md) 
 
@@ -65,7 +65,7 @@
   - Stable 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5340) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5340) 
 - **Battle Value:** 2332 
 - [*More Info*](vanquisher/vanquisher_vqr-5v.md) 
 
@@ -94,7 +94,7 @@
   - Stable 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5721) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5721) 
 - **Battle Value:** 2144 
 - [*More Info*](vanquisher/vanquisher_vqr-7u.md) 
 
@@ -119,7 +119,7 @@
   - Stable 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5722) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5722) 
 - **Battle Value:** 2420 
 - [*More Info*](vanquisher/vanquisher_vqr-7v.md) 
 
@@ -145,7 +145,7 @@
   - Stable 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TP:Arcturus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7342) 
+- **Sources:** Turning Points: Arcturus , [Master Unit List](http://masterunitlist.info/Unit/Details/7342) 
 - **Battle Value:** 2073 
 - [*More Info*](vanquisher/vanquisher_vqr-7v_pravuil.md) 
 

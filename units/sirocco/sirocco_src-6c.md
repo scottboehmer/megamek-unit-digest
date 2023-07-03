@@ -27,7 +27,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2953) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2953) 
 - **Battle Value:** 2202 
 
 ## Availability 

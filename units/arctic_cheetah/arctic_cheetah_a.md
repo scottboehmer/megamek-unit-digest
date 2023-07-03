@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1378) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1378) 
 - **Battle Value:** 1117 
 
 ## Availability 

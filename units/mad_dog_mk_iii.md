@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Stable 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6271) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6271) 
 - **Battle Value:** 2729 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_prime.md) 
 
@@ -37,7 +37,7 @@
 - **Design Quirks:** 
   - Stable 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6272) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6272) 
 - **Battle Value:** 1880 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_a.md) 
 
@@ -59,7 +59,7 @@
 - **Design Quirks:** 
   - Stable 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6273) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6273) 
 - **Battle Value:** 2572 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_b.md) 
 
@@ -82,7 +82,7 @@
 - **Design Quirks:** 
   - Stable 
   - Variable Range Targeting 
-- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7633) 
+- **Sources:** Spotlight On: Unending Faith , [Master Unit List](http://masterunitlist.info/Unit/Details/7633) 
 - **Battle Value:** 2397 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_blo.md) 
 
@@ -102,7 +102,7 @@
 - **Design Quirks:** 
   - Stable 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6274) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6274) 
 - **Battle Value:** 2299 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_c.md) 
 
@@ -122,7 +122,7 @@
 - **Design Quirks:** 
   - Stable 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6275) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6275) 
 - **Battle Value:** 2421 
 - [*More Info*](mad_dog_mk_iii/mad_dog_mk_iii_d.md) 
 

@@ -22,7 +22,7 @@
   - Narrow/Low Profile 
   - Protected Actuators 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1813) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1813) 
 - **Battle Value:** 1371 
 
 ## Availability 

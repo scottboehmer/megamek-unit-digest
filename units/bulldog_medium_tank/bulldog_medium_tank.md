@@ -14,7 +14,7 @@
   - Large Laser 
   - SRM 4 × 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/441) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/441) 
 - **Battle Value:** 605 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan Machine Gun 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5260) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5260) 
 - **Battle Value:** 13 (69 for 4 suits) 
 
 ## Availability 

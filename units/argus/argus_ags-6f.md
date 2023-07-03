@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - No/Minimal Arms 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5684) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5684) 
 - **Battle Value:** 1524 
 
 ## Availability 

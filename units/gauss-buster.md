@@ -14,7 +14,7 @@
   - Easy to Maintain 
   - Stable 
   - Illegal Design 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8100) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8100) 
 - **Battle Value:** 675 
 - [*More Info*](gauss-buster/gauss-buster_militiamech.md) 
 

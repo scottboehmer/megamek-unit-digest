@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Light PPC × 2 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2776) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2776) 
 - **Battle Value:** Unknown 
 
 ## Availability 

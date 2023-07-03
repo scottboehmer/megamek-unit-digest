@@ -20,7 +20,7 @@
   - C3 Support 
   - CASE 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/21) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/21) 
 - **Battle Value:** 1445 
 
 ## Availability 

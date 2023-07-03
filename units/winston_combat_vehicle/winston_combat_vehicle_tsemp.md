@@ -17,7 +17,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
   - Targeting Computer 
   - CASE 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6799) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6799) 
 - **Battle Value:** 2321 
 
 ## Availability 

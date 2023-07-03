@@ -16,7 +16,7 @@
   - Inner Sphere Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2032) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/2032) 
 - **Battle Value:** 1711 
 
 ## Availability 

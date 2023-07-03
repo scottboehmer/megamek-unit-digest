@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Ultra AC/5 (ammo: 20) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3393) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3393) 
 - **Battle Value:** 545 
 
 ## Availability 

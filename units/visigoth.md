@@ -16,7 +16,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3440) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3440) 
 - **Battle Value:** Unknown 
 - [*More Info*](visigoth/visigoth_prime.md) 
 
@@ -35,7 +35,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3436) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3436) 
 - **Battle Value:** Unknown 
 - [*More Info*](visigoth/visigoth_a.md) 
 
@@ -51,7 +51,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 4 
   - Medium Pulse Laser 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3437) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3437) 
 - **Battle Value:** Unknown 
 - [*More Info*](visigoth/visigoth_b.md) 
 
@@ -70,7 +70,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3438) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3438) 
 - **Battle Value:** Unknown 
 - [*More Info*](visigoth/visigoth_c.md) 
 
@@ -88,7 +88,7 @@
   - Heavy Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3439) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3439) 
 - **Battle Value:** Unknown 
 - [*More Info*](visigoth/visigoth_d.md) 
 
@@ -107,7 +107,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5354) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/5354) 
 - **Battle Value:** Unknown 
 - [*More Info*](visigoth/visigoth_e.md) 
 

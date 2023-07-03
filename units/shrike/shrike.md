@@ -25,7 +25,7 @@
   - Reinforced Legs 
   - Exposed Weapon Linkage (Ultra AC/5) 
   - Exposed Weapon Linkage (Ultra AC/5) 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6292) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6292) 
 - **Battle Value:** 2969 
 
 ## Availability 

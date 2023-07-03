@@ -16,7 +16,7 @@
   - AC/10 × 2 (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3460) 
+- **Sources:** XTR: Primitives I , [Master Unit List](http://masterunitlist.info/Unit/Details/3460) 
 - **Battle Value:** Unknown 
 
 ## Availability 

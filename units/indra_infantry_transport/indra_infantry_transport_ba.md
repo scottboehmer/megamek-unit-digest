@@ -18,7 +18,7 @@
   - B-Pod 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1612) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1612) 
 - **Battle Value:** 728 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3085/Lamenkov's Liability - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2570) 
+- **Sources:** BattleTech Dossiers: Lamenkov's Liability , [Master Unit List](http://masterunitlist.info/Unit/Details/2570) 
 - **Battle Value:** 1835 
 
 ## Availability 

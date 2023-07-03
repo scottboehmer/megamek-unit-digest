@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3447) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3447) 
 - **Battle Value:** 1635 
 
 ## Availability 

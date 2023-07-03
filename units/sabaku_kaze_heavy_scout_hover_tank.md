@@ -12,7 +12,7 @@
   - Medium Laser × 4 
   - SRM 4 × 2 (ammo: 25) 
   - Small Laser × 2 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2761) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2761) 
 - **Battle Value:** 997 
 - [*More Info*](sabaku_kaze_heavy_scout_hover_tank/sabaku_kaze_heavy_scout_hover_tank.md) 
 

@@ -19,7 +19,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/590) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/590) 
 - **Battle Value:** Unknown 
 
 ## Availability 

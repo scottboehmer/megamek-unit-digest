@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #21 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8353) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/8353) 
 - **Battle Value:** 1893 
 
 ## Availability 

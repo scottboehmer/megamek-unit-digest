@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3229) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3229) 
 - **Battle Value:** 58 (300 for 4 suits) 
 
 ## Availability 

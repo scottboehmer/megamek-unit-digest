@@ -19,7 +19,7 @@
   - Inner Sphere Coolant Pod 
   - CASE 
   - Inner Sphere Supercharger 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8441) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8441) 
 - **Battle Value:** 3435 
 
 ## Availability 

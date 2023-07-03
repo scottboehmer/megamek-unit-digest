@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3278) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3278) 
 - **Battle Value:** 1714 
 
 ## Availability 

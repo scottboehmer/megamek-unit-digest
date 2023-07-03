@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Light Gauss Rifle × 2 (ammo: 48) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2205) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2205) 
 - **Battle Value:** 1355 
 
 ## Availability 

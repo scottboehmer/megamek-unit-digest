@@ -18,7 +18,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5712) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5712) 
 - **Battle Value:** 2202 
 
 ## Availability 

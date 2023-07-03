@@ -17,7 +17,7 @@
   - Active Probe 
   - MASC 
   - Targeting Computer 
-- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7878) 
+- **Sources:** Operational Turning Points: Hanseatic Crusade , [Master Unit List](http://masterunitlist.info/Unit/Details/7878) 
 - **Battle Value:** 1464 
 
 ## Availability 

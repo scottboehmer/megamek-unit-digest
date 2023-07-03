@@ -16,7 +16,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8068) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8068) 
 - **Battle Value:** 1060 
 
 ## Availability 

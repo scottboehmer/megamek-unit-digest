@@ -14,7 +14,7 @@
   - ER PPC 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3615) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3615) 
 - **Battle Value:** 758 
 
 ## Availability 

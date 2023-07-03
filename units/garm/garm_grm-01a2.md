@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1190) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1190) 
 - **Battle Value:** 1078 
 
 ## Availability 

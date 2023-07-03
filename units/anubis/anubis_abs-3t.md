@@ -20,7 +20,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3704) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3704) 
 - **Battle Value:** 1150 
 
 ## Availability 

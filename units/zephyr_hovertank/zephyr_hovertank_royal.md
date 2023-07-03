@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3631) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3631) 
 - **Battle Value:** 811 
 
 ## Availability 

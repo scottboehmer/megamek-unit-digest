@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/1915) 
 - **Battle Value:** 937 
 
 ## Availability 

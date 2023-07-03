@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Vestigial Hands 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/998) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/998) 
 - **Battle Value:** 1533 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - AC/5 (ammo: 20) 
   - SRM 4 (ammo: 25) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1745) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1745) 
 - **Battle Value:** 752 
 - [*More Info*](kanga_medium_hovertank/kanga_medium_hovertank.md) 
 
@@ -30,7 +30,7 @@
   - AC/10 (ammo: 20) 
   - LRM 10 (ammo: 12) 
   - Machine Gun (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1744) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1744) 
 - **Battle Value:** 744 
 - [*More Info*](kanga_medium_hovertank/kanga_medium_hovertank_ac.md) 
 

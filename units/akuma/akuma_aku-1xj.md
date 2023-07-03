@@ -19,7 +19,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3692) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3692) 
 - **Battle Value:** 2203 
 
 ## Availability 

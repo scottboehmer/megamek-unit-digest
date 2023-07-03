@@ -18,7 +18,7 @@
   - Inner Sphere B-Pod × 4 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1926) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1926) 
 - **Battle Value:** 2140 
 
 ## Availability 

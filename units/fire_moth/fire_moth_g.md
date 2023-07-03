@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6946) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/6946) 
 - **Battle Value:** 2040 
 
 ## Availability 

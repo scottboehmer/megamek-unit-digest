@@ -22,7 +22,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Sources:** DTP Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5543) 
+- **Sources:** Dark Age Turning Points: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/5543) 
 - **Battle Value:** 2393 
 
 ## Availability 

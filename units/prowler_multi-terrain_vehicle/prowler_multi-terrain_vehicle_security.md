@@ -19,7 +19,7 @@
   - CASE 
   - Fully Amphibious Chassis 
   - Infantry (5.0 tons) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6790) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6790) 
 - **Battle Value:** 1079 
 
 ## Availability 

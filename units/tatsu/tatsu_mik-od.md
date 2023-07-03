@@ -15,7 +15,7 @@
   - ER Large Laser 
   - MML 9 × 4 (ammo: 52 LRM, 44 SRM) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5755) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5755) 
 - **Battle Value:** Unknown 
 
 ## Availability 

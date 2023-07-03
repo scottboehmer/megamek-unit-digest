@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 15) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1572) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1572) 
 - **Battle Value:** 670 
 
 ## Availability 

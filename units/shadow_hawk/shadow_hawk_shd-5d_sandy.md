@@ -21,7 +21,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5806) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter , [Master Unit List](http://masterunitlist.info/Unit/Details/5806) 
 - **Battle Value:** 1517 
 
 ## Availability 

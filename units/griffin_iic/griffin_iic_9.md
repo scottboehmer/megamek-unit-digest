@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8159) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8159) 
 - **Battle Value:** 1106 
 
 ## Availability 

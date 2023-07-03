@@ -15,7 +15,7 @@
   - Flamer × 4 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/376) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/376) 
 - **Battle Value:** 964 
 
 ## Availability 

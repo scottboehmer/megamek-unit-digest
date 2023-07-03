@@ -15,7 +15,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - AP Gauss Rifle × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8539) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8539) 
 - **Battle Value:** 76 (536 for 5 suits) 
 
 ## Availability 

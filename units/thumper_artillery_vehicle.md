@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Thumper (ammo: 40) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3210) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3210) 
 - **Battle Value:** 568 
 - [*More Info*](thumper_artillery_vehicle/thumper_artillery_vehicle.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3212) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3212) 
 - **Battle Value:** 731 
 - [*More Info*](thumper_artillery_vehicle/thumper_artillery_vehicle_tav-1.md) 
 
@@ -49,7 +49,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3213) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3213) 
 - **Battle Value:** 682 
 - [*More Info*](thumper_artillery_vehicle/thumper_artillery_vehicle_tav-2.md) 
 
@@ -68,7 +68,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3211) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/3211) 
 - **Battle Value:** 758 
 - [*More Info*](thumper_artillery_vehicle/thumper_artillery_vehicle_maxwell.md) 
 
@@ -87,7 +87,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - CASE 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/5229) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5229) 
 - **Battle Value:** 758 
 - [*More Info*](thumper_artillery_vehicle/thumper_artillery_vehicle_angel.md) 
 

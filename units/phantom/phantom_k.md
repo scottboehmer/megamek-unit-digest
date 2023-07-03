@@ -17,7 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9349) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9349) 
 - **Battle Value:** 1387 
 
 ## Availability 

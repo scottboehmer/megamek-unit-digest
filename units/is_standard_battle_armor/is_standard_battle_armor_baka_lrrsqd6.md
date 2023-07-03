@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Light Recoilless Rifle 
   - SRM 2 (OS) × 2 
-- **Source:** TRO Dark Age - Dark Age 
+- **Source:** TRO: Dark Age 
 - **Battle Value:** 43 (388 for 6 suits) 
 
 ## Availability 

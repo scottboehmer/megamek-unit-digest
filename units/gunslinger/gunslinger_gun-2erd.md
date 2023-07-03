@@ -19,7 +19,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1349) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1349) 
 - **Battle Value:** 2423 
 
 ## Availability 

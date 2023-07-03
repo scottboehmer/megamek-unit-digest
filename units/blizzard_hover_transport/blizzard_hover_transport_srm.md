@@ -14,7 +14,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/397) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/397) 
 - **Battle Value:** 264 
 
 ## Availability 

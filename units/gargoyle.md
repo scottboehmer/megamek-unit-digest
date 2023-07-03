@@ -19,7 +19,7 @@
   - Stabilized Weapon (LB 5-X AC) 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (LB 5-X AC) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2010) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2010) 
 - **Battle Value:** 1537 
 - [*More Info*](gargoyle/gargoyle_prime.md) 
 
@@ -44,7 +44,7 @@
   - Stabilized Weapon (Medium Pulse Laser) 
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER Small Laser) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2002) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2002) 
 - **Battle Value:** 2689 
 - [*More Info*](gargoyle/gargoyle_a.md) 
 
@@ -66,7 +66,7 @@
   - Stabilized Weapon (Gauss Rifle) 
   - Stabilized Weapon (LRM 10) 
   - Stabilized Weapon (SRM 4) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2003) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2003) 
 - **Battle Value:** 1843 
 - [*More Info*](gargoyle/gargoyle_b.md) 
 
@@ -93,7 +93,7 @@
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (Ultra AC/20) 
   - Stabilized Weapon (Ultra AC/20) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2004) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2004) 
 - **Battle Value:** 2417 
 - [*More Info*](gargoyle/gargoyle_c.md) 
 
@@ -116,7 +116,7 @@
   - Stabilized Weapon (Medium Pulse Laser) 
   - Stabilized Weapon (ER Large Laser) 
   - Stabilized Weapon (Medium Pulse Laser) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2005) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2005) 
 - **Battle Value:** 2499 
 - [*More Info*](gargoyle/gargoyle_d.md) 
 
@@ -139,7 +139,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** OTP: Red Corsair - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2001) 
+- **Sources:** Operational Turning Points: Red Corsair , [Master Unit List](http://masterunitlist.info/Unit/Details/2001) 
 - **Battle Value:** 2580 
 - [*More Info*](gargoyle/gargoyle_conal.md) 
 
@@ -163,7 +163,7 @@
   - Stabilized Weapon (Heavy Large Laser) 
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER Medium Laser) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2008) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2008) 
 - **Battle Value:** 2183 
 - [*More Info*](gargoyle/gargoyle_h.md) 
 
@@ -187,7 +187,7 @@
   - Stabilized Weapon (ATM 12) 
   - Stabilized Weapon (Heavy Medium Laser) 
   - Stabilized Weapon (Heavy Medium Laser) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2006) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2006) 
 - **Battle Value:** 2257 
 - [*More Info*](gargoyle/gargoyle_e.md) 
 
@@ -208,7 +208,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (HAG 20) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2009) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2009) 
 - **Battle Value:** 2182 
 - [*More Info*](gargoyle/gargoyle_m.md) 
 
@@ -232,7 +232,7 @@
   - Stabilized Weapon (AP Gauss Rifle) 
   - Stabilized Weapon (AP Gauss Rifle) 
   - Stabilized Weapon (AP Gauss Rifle) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2007) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2007) 
 - **Battle Value:** 2156 
 - [*More Info*](gargoyle/gargoyle_g.md) 
 
@@ -248,7 +248,7 @@
   - Large Pulse Laser × 2 
   - Plasma Cannon × 2 (ammo: 30) 
   - Micro Pulse Laser 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7758) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7758) 
 - **Battle Value:** 2320 
 - [*More Info*](gargoyle/gargoyle_p.md) 
 
@@ -265,7 +265,7 @@
   - ER Large Laser × 3 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #11 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7756) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7756) 
 - **Battle Value:** 2516 
 - [*More Info*](gargoyle/gargoyle_i.md) 
 
@@ -284,7 +284,7 @@
   - Heavy Flamer (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #11 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7755) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7755) 
 - **Battle Value:** 1894 
 - [*More Info*](gargoyle/gargoyle_f.md) 
 
@@ -304,7 +304,7 @@
 - **Equipment:** 
   - CASE 
   - CASE II 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6861) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6861) 
 - **Battle Value:** 2800 
 - [*More Info*](gargoyle/gargoyle_x.md) 
 
@@ -320,7 +320,7 @@
 - **Weapons:** 
   - Improved Heavy Medium Laser × 4 
   - ER Small Laser × 7 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7757) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7757) 
 - **Battle Value:** 2134 
 - [*More Info*](gargoyle/gargoyle_j.md) 
 
@@ -340,7 +340,7 @@
   - Active Probe 
   - CASE II 
   - Inner Sphere Supercharger 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7759) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7759) 
 - **Battle Value:** 2182 
 - [*More Info*](gargoyle/gargoyle_k.md) 
 
@@ -363,7 +363,7 @@
   - Stabilized Weapon (ProtoMech AC/8) 
   - Stabilized Weapon (Streak SRM 6) 
   - Stabilized Weapon (ProtoMech AC/8) 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7754) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7754) 
 - **Battle Value:** 1635 
 - [*More Info*](gargoyle/gargoyle_t.md) 
 

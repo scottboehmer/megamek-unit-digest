@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Limited Amphibious Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4816) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4816) 
 - **Battle Value:** 494 
 
 ## Availability 

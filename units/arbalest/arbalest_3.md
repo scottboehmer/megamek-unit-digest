@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/61) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/61) 
 - **Battle Value:** 921 
 
 ## Availability 

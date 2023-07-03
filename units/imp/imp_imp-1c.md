@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1609) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1609) 
 - **Battle Value:** 2480 
 
 ## Availability 

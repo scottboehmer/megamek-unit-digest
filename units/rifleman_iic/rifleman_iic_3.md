@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Improved Communications 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2712) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2712) 
 - **Battle Value:** 1733 
 
 ## Availability 

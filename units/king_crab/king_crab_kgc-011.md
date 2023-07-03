@@ -18,7 +18,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7514) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7514) 
 - **Battle Value:** 2406 
 
 ## Availability 

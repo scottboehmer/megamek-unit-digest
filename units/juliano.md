@@ -17,7 +17,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Combat Computer 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6516) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6516) 
 - **Battle Value:** 2105 
 - [*More Info*](juliano/juliano_jln-5a.md) 
 
@@ -38,7 +38,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Combat Computer 
-- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8064) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8064) 
 - **Battle Value:** 1937 
 - [*More Info*](juliano/juliano_jln-5b.md) 
 
@@ -59,7 +59,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Combat Computer 
-- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8065) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8065) 
 - **Battle Value:** 2473 
 - [*More Info*](juliano/juliano_jln-5c.md) 
 

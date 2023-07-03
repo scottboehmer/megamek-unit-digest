@@ -16,7 +16,7 @@
   - Claw 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7830) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7830) 
 - **Battle Value:** 773 
 
 ## Availability 

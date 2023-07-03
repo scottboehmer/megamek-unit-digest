@@ -15,7 +15,7 @@
   - Light Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5056) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5056) 
 - **Battle Value:** 1412 
 
 ## Availability 

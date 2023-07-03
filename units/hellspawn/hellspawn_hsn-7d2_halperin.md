@@ -21,7 +21,7 @@
   - Coolant Pod × 3 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1478) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/1478) 
 - **Battle Value:** 1431 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 4 × 2 (ammo: 25) 
-- **Sources:** HIST LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6771) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6771) 
 - **Battle Value:** 580 
 
 ## Availability 

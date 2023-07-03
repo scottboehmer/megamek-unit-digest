@@ -17,7 +17,7 @@
   - Rugged (×2) 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #32 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9466) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9466) 
 - **Battle Value:** 1609 
 - [*More Info*](viper/viper_vp-1.md) 
 
@@ -38,7 +38,7 @@
   - Rugged (×2) 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #32 - Late Succession War - LosTech , [Master Unit List](http://masterunitlist.info/Unit/Details/9488) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9488) 
 - **Battle Value:** 1539 
 - [*More Info*](viper/viper_vp-5.md) 
 
@@ -62,7 +62,7 @@
   - Rugged (×2) 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #32 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9489) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9489) 
 - **Battle Value:** 1864 
 - [*More Info*](viper/viper_vp-7.md) 
 
@@ -86,7 +86,7 @@
   - Rugged (×2) 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9490) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9490) 
 - **Battle Value:** 2679 
 - [*More Info*](viper/viper_vp-8.md) 
 
@@ -110,7 +110,7 @@
   - Rugged (×2) 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9491) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9491) 
 - **Battle Value:** 2244 
 - [*More Info*](viper/viper_vp-9.md) 
 

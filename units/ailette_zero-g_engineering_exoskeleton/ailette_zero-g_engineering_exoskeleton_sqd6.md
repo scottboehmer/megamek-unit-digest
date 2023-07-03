@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Space Operations Adaptation 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8969) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8969) 
 - **Battle Value:** 1 (10 for 6 suits) 
 
 ## Availability 

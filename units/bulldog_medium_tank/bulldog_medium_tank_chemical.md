@@ -14,7 +14,7 @@
   - Clan Large Chemical Laser (ammo: 20) 
   - SRM 4 × 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Rec Guide 25  - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9256) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9256) 
 - **Battle Value:** 695 
 
 ## Availability 

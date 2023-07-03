@@ -15,7 +15,7 @@
   - Backhoe 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS Operation Klondike - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/461) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/461) 
 - **Battle Value:** 198 
 
 ## Availability 

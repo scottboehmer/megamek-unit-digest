@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5671) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5671) 
 - **Battle Value:** 1005 
 
 ## Availability 

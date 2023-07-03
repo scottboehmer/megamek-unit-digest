@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
   - Small Laser 
   - Vehicle Flamer (ammo: 20) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4879) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4879) 
 - **Battle Value:** 1353 
 
 ## Availability 

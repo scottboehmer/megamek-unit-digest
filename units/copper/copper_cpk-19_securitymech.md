@@ -14,7 +14,7 @@
   - Machine Gun × 4 (ammo: 400) 
 - **Equipment:** 
   - Searchlight × 2 
-- **Sources:** RS:VA IM Exo - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3993) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/3993) 
 - **Battle Value:** 310 
 
 ## Availability 

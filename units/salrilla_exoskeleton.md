@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7212) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7212) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](salrilla_exoskeleton/salrilla_exoskeleton_mine_clearancesqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8814) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8814) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](salrilla_exoskeleton/salrilla_exoskeleton_mine_clearancesqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9177) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9177) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](salrilla_exoskeleton/salrilla_exoskeleton_mine_clearancesqd6.md) 
 
@@ -64,7 +64,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4969) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/4969) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](salrilla_exoskeleton/salrilla_exoskeleton_salvage_armsqd4.md) 
 
@@ -81,7 +81,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8666) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8666) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](salrilla_exoskeleton/salrilla_exoskeleton_salvage_armsqd5.md) 
 
@@ -98,7 +98,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9030) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9030) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](salrilla_exoskeleton/salrilla_exoskeleton_salvage_armsqd6.md) 
 

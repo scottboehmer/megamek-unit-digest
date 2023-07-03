@@ -25,7 +25,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS 3085 CE - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3480) 
+- **Sources:** Record Sheets: 3085 Unabridged - Cutting Edge , [Master Unit List](http://masterunitlist.info/Unit/Details/3480) 
 - **Battle Value:** 1758 
 
 ## Availability 

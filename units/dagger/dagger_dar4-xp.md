@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Blazer Cannon 
   - Medium VSP Laser × 2 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/796) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/796) 
 - **Battle Value:** Unknown 
 
 ## Availability 

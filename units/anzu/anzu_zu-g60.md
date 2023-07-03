@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Improved Life Support 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6510) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6510) 
 - **Battle Value:** 1503 
 
 ## Availability 

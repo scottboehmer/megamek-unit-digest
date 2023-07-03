@@ -24,7 +24,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6835) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6835) 
 - **Battle Value:** 1960 
 
 ## Availability 

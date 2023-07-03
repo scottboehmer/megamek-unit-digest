@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3597) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3597) 
 - **Battle Value:** 1089 
 - [*More Info*](wyvern/wyvern_wve-5n.md) 
 
@@ -41,7 +41,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3598) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3598) 
 - **Battle Value:** 1006 
 - [*More Info*](wyvern/wyvern_wve-5nb.md) 
 
@@ -64,7 +64,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7319) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7319) 
 - **Battle Value:** 1273 
 - [*More Info*](wyvern/wyvern_wve-5ux.md) 
 
@@ -86,7 +86,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5875) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5875) 
 - **Battle Value:** 1207 
 - [*More Info*](wyvern/wyvern_wve-5nsl.md) 
 
@@ -106,7 +106,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3599) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3599) 
 - **Battle Value:** 1005 
 - [*More Info*](wyvern/wyvern_wve-6n.md) 
 
@@ -128,7 +128,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3600) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3600) 
 - **Battle Value:** 1067 
 - [*More Info*](wyvern/wyvern_wve-9n.md) 
 
@@ -151,7 +151,7 @@
   - C3i 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3596) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3596) 
 - **Battle Value:** 1199 
 - [*More Info*](wyvern/wyvern_wve-10n.md) 
 

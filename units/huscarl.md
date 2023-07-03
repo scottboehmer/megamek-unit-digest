@@ -13,7 +13,7 @@
   - ER Large Laser × 2 
   - LB 10-X AC × 2 (ammo: 40 Cluster) 
   - LRM 10 (ammo: 24) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4345) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4345) 
 - **Battle Value:** Unknown 
 - [*More Info*](huscarl/huscarl_hscl-1-o.md) 
 
@@ -31,7 +31,7 @@
   - ER PPC × 2 
   - Medium Pulse Laser × 4 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4347) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4347) 
 - **Battle Value:** Unknown 
 - [*More Info*](huscarl/huscarl_hscl-1-oa.md) 
 
@@ -48,7 +48,7 @@
   - LRM 20 w/ Artemis IV × 2 (ammo: 24) 
   - AC/5 (ammo: 20) 
   - SRM 4 w/ Artemis IV × 2 (ammo: 50) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4348) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4348) 
 - **Battle Value:** Unknown 
 - [*More Info*](huscarl/huscarl_hscl-1-ob.md) 
 
@@ -64,7 +64,7 @@
 - **Weapons:** 
   - Ultra AC/20 × 2 (ammo: 40) 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4349) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4349) 
 - **Battle Value:** Unknown 
 - [*More Info*](huscarl/huscarl_hscl-1-oc.md) 
 
@@ -84,7 +84,7 @@
   - Small Pulse Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5757) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5757) 
 - **Battle Value:** Unknown 
 - [*More Info*](huscarl/huscarl_hscl-1-od.md) 
 
@@ -101,7 +101,7 @@
   - Clan Ultra AC/20 (ammo: 20) 
   - Clan LRM 20 w/ Artemis IV × 2 (ammo: 24) 
   - Clan Plasma Cannon × 3 (ammo: 20) 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5758) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5758) 
 - **Battle Value:** Unknown 
 - [*More Info*](huscarl/huscarl_hscl-1-or.md) 
 

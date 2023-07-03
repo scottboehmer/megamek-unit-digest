@@ -12,7 +12,7 @@
 - **Weapons:** 
   - MRM 10 × 2 (ammo: 24) 
   - Dual Saw 
-- **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6955) 
+- **Sources:** Era Digest: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6955) 
 - **Battle Value:** 817 
 - [*More Info*](raider/raider_jl-1.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - MRM 10 × 2 (ammo: 24) 
   - Retractable Blade 
-- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8070) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8070) 
 - **Battle Value:** 988 
 - [*More Info*](raider/raider_jl-3a.md) 
 
@@ -47,7 +47,7 @@
   - Retractable Blade 
   - ER Small Laser 
   - Small Laser 
-- **Sources:** TRO Dark - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8071) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8071) 
 - **Battle Value:** 1126 
 - [*More Info*](raider/raider_jl-3b.md) 
 

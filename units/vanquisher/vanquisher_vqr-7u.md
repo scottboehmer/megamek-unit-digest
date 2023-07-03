@@ -27,7 +27,7 @@
   - Stable 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5721) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5721) 
 - **Battle Value:** 2144 
 
 ## Availability 

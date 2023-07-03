@@ -17,7 +17,7 @@
   - CASE 
   - Limited Amphibious Chassis 
   - Infantry (8.0 tons) 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6385) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6385) 
 - **Battle Value:** 1122 
 - [*More Info*](mamono_ifv/mamono_ifv.md) 
 

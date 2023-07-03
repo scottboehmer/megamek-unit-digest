@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2861) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2861) 
 - **Battle Value:** 1260 
 
 ## Availability 

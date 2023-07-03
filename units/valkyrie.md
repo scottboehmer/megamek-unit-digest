@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3372) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3372) 
 - **Battle Value:** 723 
 - [*More Info*](valkyrie/valkyrie_vlk-qa.md) 
 
@@ -34,7 +34,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3378) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3378) 
 - **Battle Value:** 653 
 - [*More Info*](valkyrie/valkyrie_vlk-qf.md) 
 
@@ -55,7 +55,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #9 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3373) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/3373) 
 - **Battle Value:** 807 
 - [*More Info*](valkyrie/valkyrie_vlk-qd.md) 
 
@@ -77,7 +77,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3374) 
+- **Sources:** TRO: Project Pheonix , [Master Unit List](http://masterunitlist.info/Unit/Details/3374) 
 - **Battle Value:** 878 
 - [*More Info*](valkyrie/valkyrie_vlk-qd1.md) 
 
@@ -99,7 +99,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3376) 
+- **Sources:** TRO: Project Pheonix , [Master Unit List](http://masterunitlist.info/Unit/Details/3376) 
 - **Battle Value:** 882 
 - [*More Info*](valkyrie/valkyrie_vlk-qd3.md) 
 
@@ -122,7 +122,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3379) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3379) 
 - **Battle Value:** 745 
 - [*More Info*](valkyrie/valkyrie_vlk-qs5.md) 
 
@@ -144,7 +144,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3375) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3375) 
 - **Battle Value:** 638 
 - [*More Info*](valkyrie/valkyrie_vlk-qd2.md) 
 
@@ -168,7 +168,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3381) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3381) 
 - **Battle Value:** 667 
 - [*More Info*](valkyrie/valkyrie_vlk-qw5.md) 
 
@@ -189,7 +189,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3380) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3380) 
 - **Battle Value:** 863 
 - [*More Info*](valkyrie/valkyrie_vlk-qt2.md) 
 
@@ -212,7 +212,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3377) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3377) 
 - **Battle Value:** 657 
 - [*More Info*](valkyrie/valkyrie_vlk-qd4.md) 
 
@@ -236,7 +236,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8104) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8104) 
 - **Battle Value:** 690 
 - [*More Info*](valkyrie/valkyrie_vlk-qd5.md) 
 
@@ -258,7 +258,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7703) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7703) 
 - **Battle Value:** 827 
 - [*More Info*](valkyrie/valkyrie_vlk-qd6.md) 
 
@@ -280,7 +280,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6930) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6930) 
 - **Battle Value:** 787 
 - [*More Info*](valkyrie/valkyrie_vlk-qd8.md) 
 
@@ -302,7 +302,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7702) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7702) 
 - **Battle Value:** 834 
 - [*More Info*](valkyrie/valkyrie_vlk-qdd.md) 
 
@@ -324,7 +324,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7701) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7701) 
 - **Battle Value:** 936 
 - [*More Info*](valkyrie/valkyrie_c.md) 
 

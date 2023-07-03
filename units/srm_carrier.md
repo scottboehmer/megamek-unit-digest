@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 6 × 10 (ammo: 60) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3030) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3030) 
 - **Battle Value:** 816 
 - [*More Info*](srm_carrier/srm_carrier.md) 
 
@@ -25,7 +25,7 @@
 - **Weapons:** 
   - SRM 6 × 9 (ammo: 45) 
   - Narc (ammo: 6) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3028) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3028) 
 - **Battle Value:** 794 
 - [*More Info*](srm_carrier/srm_carrier_3054_upgrade.md) 
 
@@ -42,7 +42,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3029) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3029) 
 - **Battle Value:** 903 
 - [*More Info*](srm_carrier/srm_carrier_c3.md) 
 
@@ -60,7 +60,7 @@
   - Guardian ECM Suite 
   - C3i 
   - TAG 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3031) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3031) 
 - **Battle Value:** 958 
 - [*More Info*](srm_carrier/srm_carrier_wob.md) 
 
@@ -74,7 +74,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 6 × 10 (ammo: 60) 
-- **Sources:** Rec Guide:ilClan #30 - Late Republc , [Master Unit List](http://masterunitlist.info/Unit/Details/9425) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9425) 
 - **Battle Value:** 936 
 - [*More Info*](srm_carrier/srm_carrier_c.md) 
 

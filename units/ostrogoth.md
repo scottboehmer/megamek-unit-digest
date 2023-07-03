@@ -17,7 +17,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2363) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2363) 
 - **Battle Value:** Unknown 
 - [*More Info*](ostrogoth/ostrogoth_prime.md) 
 
@@ -39,7 +39,7 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2360) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2360) 
 - **Battle Value:** Unknown 
 - [*More Info*](ostrogoth/ostrogoth_a.md) 
 
@@ -60,7 +60,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2361) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2361) 
 - **Battle Value:** Unknown 
 - [*More Info*](ostrogoth/ostrogoth_b.md) 
 
@@ -79,7 +79,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2362) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2362) 
 - **Battle Value:** Unknown 
 - [*More Info*](ostrogoth/ostrogoth_c.md) 
 
@@ -100,7 +100,7 @@
   - Watchdog CEWS 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6810) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6810) 
 - **Battle Value:** Unknown 
 - [*More Info*](ostrogoth/ostrogoth_d.md) 
 

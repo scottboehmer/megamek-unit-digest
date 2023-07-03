@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7623) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7623) 
 - **Battle Value:** 2022 
 - [*More Info*](sun_bear/sun_bear_prime.md) 
 
@@ -36,7 +36,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7624) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7624) 
 - **Battle Value:** 2418 
 - [*More Info*](sun_bear/sun_bear_a.md) 
 
@@ -58,7 +58,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7625) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7625) 
 - **Battle Value:** 2144 
 - [*More Info*](sun_bear/sun_bear_b.md) 
 

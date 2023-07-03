@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9409) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9409) 
 - **Battle Value:** 1782 
 - [*More Info*](hellcat/hellcat.md) 
 

@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1073) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1073) 
 - **Battle Value:** 1904 
 
 ## Availability 

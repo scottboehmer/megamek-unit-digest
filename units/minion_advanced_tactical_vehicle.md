@@ -12,7 +12,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4640) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4640) 
 - **Battle Value:** 456 
 - [*More Info*](minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle.md) 
 
@@ -28,7 +28,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4642) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4642) 
 - **Battle Value:** 456 
 - [*More Info*](minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle_targeting_computer.md) 
 
@@ -44,7 +44,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - TAG 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4641) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4641) 
 - **Battle Value:** 456 
 - [*More Info*](minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle_tag.md) 
 
@@ -61,7 +61,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - Clan Targeting Computer 
-- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/2185) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/2185) 
 - **Battle Value:** 421 
 - [*More Info*](minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle_silver_bullet.md) 
 
@@ -75,7 +75,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - MagShot Gauss Rifle × 8 (ammo: 50) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5725) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5725) 
 - **Battle Value:** 512 
 - [*More Info*](minion_advanced_tactical_vehicle/minion_advanced_tactical_vehicle_gauss_sandblaster.md) 
 

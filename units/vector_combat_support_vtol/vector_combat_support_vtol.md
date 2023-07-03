@@ -15,7 +15,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** HIST LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6768) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6768) 
 - **Battle Value:** 512 
 
 ## Availability 

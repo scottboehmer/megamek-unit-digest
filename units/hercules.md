@@ -18,7 +18,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1482) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1482) 
 - **Battle Value:** 1561 
 - [*More Info*](hercules/hercules_hrc-ls-9000.md) 
 
@@ -38,7 +38,7 @@
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1484) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1484) 
 - **Battle Value:** 1566 
 - [*More Info*](hercules/hercules_hrc-ls-9001.md) 
 
@@ -60,7 +60,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1483) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/1483) 
 - **Battle Value:** 1661 
 - [*More Info*](hercules/hercules_hrc-ls-9000_julius.md) 
 
@@ -82,7 +82,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** RS3150 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7990) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7990) 
 - **Battle Value:** 1794 
 - [*More Info*](hercules/hercules_hrc-ls-9003.md) 
 
@@ -104,7 +104,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7991) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7991) 
 - **Battle Value:** 1825 
 - [*More Info*](hercules/hercules_hrc-ls-9004.md) 
 

@@ -17,7 +17,7 @@
   - Active Probe 
   - Infantry (4.0 tons) 
   - TAG 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4316) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4316) 
 - **Battle Value:** 777 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9433) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9433) 
 - **Battle Value:** 2958 
 
 ## Availability 

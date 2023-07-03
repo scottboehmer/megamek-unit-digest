@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/975) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/975) 
 - **Battle Value:** 1361 
 
 ## Availability 

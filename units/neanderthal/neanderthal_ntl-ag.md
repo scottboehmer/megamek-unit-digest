@@ -21,7 +21,7 @@
   - Stable 
   - Distracting 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6513) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6513) 
 - **Battle Value:** 2020 
 
 ## Availability 

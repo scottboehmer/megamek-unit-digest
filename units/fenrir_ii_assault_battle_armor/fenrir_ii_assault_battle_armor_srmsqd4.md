@@ -11,7 +11,7 @@
 - **Armor:** 17 (Advanced) 
 - **Weapons:** 
   - Clan SRM 5 (ammo: 0) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6592) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6592) 
 - **Battle Value:** 90 (467 for 4 suits) 
 
 ## Availability 

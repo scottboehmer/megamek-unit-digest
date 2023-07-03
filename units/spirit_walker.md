@@ -14,7 +14,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** TP:Foster - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/9237) 
+- **Sources:** Turning Points: Foster , [Master Unit List](http://masterunitlist.info/Unit/Details/9237) 
 - **Battle Value:** 2115 
 - [*More Info*](spirit_walker/spirit_walker_prime.md) 
 
@@ -36,7 +36,7 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** TP:Foster - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/9236) 
+- **Sources:** Turning Points: Foster , [Master Unit List](http://masterunitlist.info/Unit/Details/9236) 
 - **Battle Value:** 1990 
 - [*More Info*](spirit_walker/spirit_walker_a.md) 
 

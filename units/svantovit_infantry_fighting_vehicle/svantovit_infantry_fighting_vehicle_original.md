@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (3.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3138) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3138) 
 - **Battle Value:** 889 
 
 ## Availability 

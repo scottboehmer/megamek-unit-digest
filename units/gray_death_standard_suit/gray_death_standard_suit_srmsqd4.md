@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1280) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1280) 
 - **Battle Value:** 41 (213 for 4 suits) 
 
 ## Availability 

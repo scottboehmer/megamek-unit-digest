@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/504) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/504) 
 - **Battle Value:** 487 
 
 ## Availability 

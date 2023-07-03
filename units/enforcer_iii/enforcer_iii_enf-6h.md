@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
   - Fast Reload (Ultra AC/20) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/981) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/981) 
 - **Battle Value:** 1603 
 
 ## Availability 

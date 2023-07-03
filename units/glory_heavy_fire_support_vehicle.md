@@ -14,7 +14,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4219) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4219) 
 - **Battle Value:** 1684 
 - [*More Info*](glory_heavy_fire_support_vehicle/glory_heavy_fire_support_vehicle.md) 
 
@@ -31,7 +31,7 @@
   - Light Gauss Rifle (ammo: 32) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4218) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4218) 
 - **Battle Value:** 1450 
 - [*More Info*](glory_heavy_fire_support_vehicle/glory_heavy_fire_support_vehicle_light_gauss.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5739) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5739) 
 - **Battle Value:** 1704 
 - [*More Info*](glory_heavy_fire_support_vehicle/glory_heavy_fire_support_vehicle_arrow_iv.md) 
 
@@ -72,7 +72,7 @@
   - C3 Support 
   - Targeting Computer 
   - CASE 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6803) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6803) 
 - **Battle Value:** 1887 
 - [*More Info*](glory_heavy_fire_support_vehicle/glory_heavy_fire_support_vehicle_3090_upgrade.md) 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (HAG 20) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2009) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2009) 
 - **Battle Value:** 2182 
 
 ## Availability 

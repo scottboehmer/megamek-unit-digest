@@ -14,7 +14,7 @@
   - PPC 
   - Large Laser × 2 
   - SRM 2 × 4 (ammo: 50) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/433) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/433) 
 - **Battle Value:** 979 
 
 ## Availability 

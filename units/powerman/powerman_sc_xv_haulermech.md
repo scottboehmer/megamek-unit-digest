@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 3 
-- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4852) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4852) 
 - **Battle Value:** 198 
 
 ## Availability 

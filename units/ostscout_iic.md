@@ -21,7 +21,7 @@
   - Prototype 
   - Unbalanced 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** XTRO Boondoggles - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5844) 
+- **Sources:** XTR: Boondoggles , [Master Unit List](http://masterunitlist.info/Unit/Details/5844) 
 - **Battle Value:** 520 
 - [*More Info*](ostscout_iic/ostscout_iic.md) 
 

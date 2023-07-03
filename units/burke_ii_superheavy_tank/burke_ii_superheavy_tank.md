@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/20 × 4 (ammo: 40) 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7328) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7328) 
 - **Battle Value:** 1222 
 
 ## Availability 

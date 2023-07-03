@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3085S - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4662) 
+- **Sources:** TRO: 3085 Supplemental , [Master Unit List](http://masterunitlist.info/Unit/Details/4662) 
 - **Battle Value:** 1592 
 
 ## Availability 

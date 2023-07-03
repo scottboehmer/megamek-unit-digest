@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5091) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/5091) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](smoothgoliath_pal/smoothgoliath_pal_iisqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8676) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8676) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](smoothgoliath_pal/smoothgoliath_pal_iisqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9040) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9040) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](smoothgoliath_pal/smoothgoliath_pal_iisqd6.md) 
 

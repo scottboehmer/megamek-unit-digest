@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4281) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/4281) 
 - **Battle Value:** 1 (6 for 4 suits) 
 
 ## Availability 

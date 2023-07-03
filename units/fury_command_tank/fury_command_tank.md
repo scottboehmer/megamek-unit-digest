@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1161) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1161) 
 - **Battle Value:** 1184 
 
 ## Availability 

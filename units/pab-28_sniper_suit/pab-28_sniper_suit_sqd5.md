@@ -14,7 +14,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - David Light Gauss Rifle × 2 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8732) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/8732) 
 - **Battle Value:** 23 (160 for 5 suits) 
 
 ## Availability 

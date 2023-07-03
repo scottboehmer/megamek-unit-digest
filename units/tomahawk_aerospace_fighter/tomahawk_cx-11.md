@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Small Laser 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5558) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5558) 
 - **Battle Value:** Unknown 
 
 ## Availability 

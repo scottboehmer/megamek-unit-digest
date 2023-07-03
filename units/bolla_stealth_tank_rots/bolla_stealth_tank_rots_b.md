@@ -19,7 +19,7 @@
   - C3 Support 
   - Infantry (4.0 tons) 
   - C3 Main 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/411) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/411) 
 - **Battle Value:** 877 
 
 ## Availability 

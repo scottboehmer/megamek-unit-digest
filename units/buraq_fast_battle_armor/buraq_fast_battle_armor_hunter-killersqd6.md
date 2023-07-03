@@ -15,7 +15,7 @@
   - Improved Sensors 
   - Myomer Booster 
   - Searchlight 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9086) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/9086) 
 - **Battle Value:** 32 (290 for 6 suits) 
 
 ## Availability 

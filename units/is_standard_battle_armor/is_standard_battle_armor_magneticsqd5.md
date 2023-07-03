@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Clan Jump Booster 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9468) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9468) 
 - **Battle Value:** 40 (282 for 5 suits) 
 
 ## Availability 

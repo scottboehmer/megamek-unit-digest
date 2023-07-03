@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2916) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2916) 
 - **Battle Value:** 1907 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3538) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3538) 
 - **Battle Value:** 982 
 
 ## Availability 

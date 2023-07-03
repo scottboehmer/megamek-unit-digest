@@ -13,7 +13,7 @@
   - Large Laser 
   - LRM 10 (ammo: 12) 
   - Medium Laser 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3635) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3635) 
 - **Battle Value:** Unknown 
 - [*More Info*](zero/zero_zro-114.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 3 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3637) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3637) 
 - **Battle Value:** Unknown 
 - [*More Info*](zero/zero_zro-116b.md) 
 
@@ -46,7 +46,7 @@
   - ER PPC 
   - Medium Laser 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3050u - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3636) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3636) 
 - **Battle Value:** Unknown 
 - [*More Info*](zero/zero_zro-115.md) 
 
@@ -62,7 +62,7 @@
 - **Weapons:** 
   - ER PPC 
   - NLRM 5 (ammo: 24) 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5557) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5557) 
 - **Battle Value:** Unknown 
 - [*More Info*](zero/zero_zro-cx-3.md) 
 

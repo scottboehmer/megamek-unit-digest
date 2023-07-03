@@ -13,7 +13,7 @@
   - Improved Sensors 
   - Myomer Booster 
   - Searchlight 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6234) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6234) 
 - **Battle Value:** 32 (168 for 4 suits) 
 - [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_hunter-killersqd4.md) 
 
@@ -30,7 +30,7 @@
   - Improved Sensors 
   - Myomer Booster 
   - Searchlight 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8723) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/8723) 
 - **Battle Value:** 32 (226 for 5 suits) 
 - [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_hunter-killersqd5.md) 
 
@@ -47,7 +47,7 @@
   - Improved Sensors 
   - Myomer Booster 
   - Searchlight 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9086) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/9086) 
 - **Battle Value:** 32 (290 for 6 suits) 
 - [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_hunter-killersqd6.md) 
 
@@ -63,7 +63,7 @@
 - **Equipment:** 
   - Searchlight 
   - Myomer Booster 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6233) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6233) 
 - **Battle Value:** 38 (199 for 4 suits) 
 - [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_sqd4.md) 
 
@@ -79,7 +79,7 @@
 - **Equipment:** 
   - Searchlight 
   - Myomer Booster 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8722) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/8722) 
 - **Battle Value:** 38 (268 for 5 suits) 
 - [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_sqd5.md) 
 
@@ -95,7 +95,7 @@
 - **Equipment:** 
   - Searchlight 
   - Myomer Booster 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9085) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/9085) 
 - **Battle Value:** 38 (345 for 6 suits) 
 - [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_sqd6.md) 
 
@@ -111,7 +111,7 @@
 - **Equipment:** 
   - Myomer Booster 
   - Light TAG 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6235) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6235) 
 - **Battle Value:** 63 (330 for 4 suits) 
 - [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_supportsqd4.md) 
 
@@ -127,7 +127,7 @@
 - **Equipment:** 
   - Myomer Booster 
   - Light TAG 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8724) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/8724) 
 - **Battle Value:** 63 (444 for 5 suits) 
 - [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_supportsqd5.md) 
 
@@ -143,7 +143,7 @@
 - **Equipment:** 
   - Myomer Booster 
   - Light TAG 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9087) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/9087) 
 - **Battle Value:** 63 (571 for 6 suits) 
 - [*More Info*](buraq_fast_battle_armor/buraq_fast_battle_armor_supportsqd6.md) 
 

@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER PPC 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3935) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3935) 
 - **Battle Value:** Unknown 
 
 ## Availability 

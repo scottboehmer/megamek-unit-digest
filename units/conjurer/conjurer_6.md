@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #30 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9429) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9429) 
 - **Battle Value:** 2223 
 
 ## Availability 

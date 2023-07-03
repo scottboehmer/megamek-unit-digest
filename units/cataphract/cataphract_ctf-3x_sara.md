@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/472) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/472) 
 - **Battle Value:** 1734 
 
 ## Availability 

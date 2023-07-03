@@ -18,7 +18,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2556) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2556) 
 - **Battle Value:** 901 
 
 ## Availability 

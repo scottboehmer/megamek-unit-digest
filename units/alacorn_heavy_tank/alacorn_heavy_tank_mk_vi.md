@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Gauss Rifle × 3 (ammo: 40) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/25) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/25) 
 - **Battle Value:** 1850 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/516) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/516) 
 - **Battle Value:** 945 
 - [*More Info*](centurion/centurion_cn9-a.md) 
 
@@ -33,7 +33,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/517) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/517) 
 - **Battle Value:** 945 
 - [*More Info*](centurion/centurion_cn9-ah.md) 
 
@@ -53,7 +53,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/518) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/518) 
 - **Battle Value:** 1057 
 - [*More Info*](centurion/centurion_cn9-al.md) 
 
@@ -72,7 +72,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/525) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/525) 
 - **Battle Value:** 957 
 - [*More Info*](centurion/centurion_cn9-ylw_yen_lo_wang.md) 
 
@@ -93,7 +93,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/520) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/520) 
 - **Battle Value:** 1130 
 - [*More Info*](centurion/centurion_cn9-d.md) 
 
@@ -113,7 +113,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3923) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3923) 
 - **Battle Value:** 1435 
 - [*More Info*](centurion/centurion_cn9-ylw2_yen_lo_wang.md) 
 
@@ -135,7 +135,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/521) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/521) 
 - **Battle Value:** 1324 
 - [*More Info*](centurion/centurion_cn9-d3.md) 
 
@@ -157,7 +157,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3921) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3921) 
 - **Battle Value:** 1243 
 - [*More Info*](centurion/centurion_cn10-b.md) 
 
@@ -177,7 +177,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7696) 
+- **Sources:** Shrapnel #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7696) 
 - **Battle Value:** 1257 
 - [*More Info*](centurion/centurion_cn10-j.md) 
 
@@ -195,7 +195,7 @@
   - LRM 10 w/ Artemis IV (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7695) 
+- **Sources:** Shrapnel #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7695) 
 - **Battle Value:** 1112 
 - [*More Info*](centurion/centurion_cn10-w.md) 
 
@@ -216,7 +216,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5448) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5448) 
 - **Battle Value:** 1373 
 - [*More Info*](centurion/centurion_cn9-d3d.md) 
 
@@ -239,7 +239,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/522) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/522) 
 - **Battle Value:** 1738 
 - [*More Info*](centurion/centurion_cn9-d5.md) 
 
@@ -261,7 +261,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/524) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/524) 
 - **Battle Value:** 1035 
 - [*More Info*](centurion/centurion_cn9-da.md) 
 
@@ -282,7 +282,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5449) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5449) 
 - **Battle Value:** 1369 
 - [*More Info*](centurion/centurion_cn9-d4d.md) 
 
@@ -305,7 +305,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/523) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/523) 
 - **Battle Value:** 1638 
 - [*More Info*](centurion/centurion_cn9-d9.md) 
 
@@ -326,7 +326,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/519) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/519) 
 - **Battle Value:** 1226 
 - [*More Info*](centurion/centurion_cn9-ar.md) 
 
@@ -346,61 +346,9 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3922) 
+- **Sources:** XTR: RetroTech , [Master Unit List](http://masterunitlist.info/Unit/Details/3922) 
 - **Battle Value:** 848 
 - [*More Info*](centurion/centurion_cn9-h.md) 
-
-## Centurion CN9-H2 MilitiaMech 
-
-- **Role:** Brawler 
-- **Tech Base:** Inner Sphere (3100) 
-- **Chassis:** 50 tons (Industrial) 
-- **Movement:** 4 / 6 
-- **Armor:** 96 (Industrial) 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
-  - Medium Laser × 2 
-  - Rocket 10 × 5 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7866) 
-- **Battle Value:** 799 
-- [*More Info*](centurion/centurion_cn9-h2_militiamech.md) 
-
-## Centurion CN9-H2H MilitiaMech 
-
-- **Role:** Brawler 
-- **Tech Base:** Inner Sphere (3100) 
-- **Chassis:** 50 tons (Industrial) 
-- **Movement:** 4 / 6 
-- **Armor:** 136 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
-  - Medium Laser × 2 
-  - Rocket 10 × 5 
-- **Equipment:** 
-  - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7867) 
-- **Battle Value:** 919 
-- [*More Info*](centurion/centurion_cn9-h2h_militiamech.md) 
-
-## Centurion CN9-H3 MilitiaMech 
-
-- **Role:** Brawler 
-- **Tech Base:** Inner Sphere (3100) 
-- **Chassis:** 50 tons (Industrial) 
-- **Movement:** 4 / 6 
-- **Armor:** 134 (Ferro Fibrous) 
-- **Heat Sinks:** 10 (10) 
-- **Weapons:** 
-  - Ultra AC/10 (ammo: 20) 
-  - Medium Laser 
-  - Rocket 10 × 5 
-- **Equipment:** 
-  - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7868) 
-- **Battle Value:** 962 
-- [*More Info*](centurion/centurion_cn9-h3_militiamech.md) 
 
 ## Centurion CN9-YLW3 'Yen Lo Wang' 
 
@@ -421,7 +369,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** OTP Capellan Crusades - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7404) 
+- **Sources:** Operational Turning Points: Capellan Crusades , [Master Unit List](http://masterunitlist.info/Unit/Details/7404) 
 - **Battle Value:** 1815 
 - [*More Info*](centurion/centurion_cn9-ylw3_yen_lo_wang.md) 
 
@@ -441,7 +389,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7725) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7725) 
 - **Battle Value:** 1260 
 - [*More Info*](centurion/centurion_cn10-d.md) 
 

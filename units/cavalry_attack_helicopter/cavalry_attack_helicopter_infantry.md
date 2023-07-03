@@ -15,7 +15,7 @@
   - Machine Gun × 3 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3.5 tons) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/503) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/503) 
 - **Battle Value:** 615 
 
 ## Availability 

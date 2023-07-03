@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - Armored Motive System 
   - CASE 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8039) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8039) 
 - **Battle Value:** 1373 
 
 ## Availability 

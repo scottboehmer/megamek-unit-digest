@@ -17,7 +17,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6469) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6469) 
 - **Battle Value:** 2167 
 
 ## Availability 

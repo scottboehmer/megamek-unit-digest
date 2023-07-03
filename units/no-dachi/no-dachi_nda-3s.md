@@ -22,7 +22,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5692) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5692) 
 - **Battle Value:** 1706 
 
 ## Availability 

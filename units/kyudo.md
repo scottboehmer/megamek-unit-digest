@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Exposed Actuators 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1850) 
+- **Sources:** XTR: Primitives I , [Master Unit List](http://masterunitlist.info/Unit/Details/1850) 
 - **Battle Value:** 748 
 - [*More Info*](kyudo/kyudo_ky2-d-01.md) 
 
@@ -35,7 +35,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1851) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1851) 
 - **Battle Value:** 1286 
 - [*More Info*](kyudo/kyudo_ky2-d-02.md) 
 
@@ -55,7 +55,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1852) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1852) 
 - **Battle Value:** 1131 
 - [*More Info*](kyudo/kyudo_ky2-d-03.md) 
 

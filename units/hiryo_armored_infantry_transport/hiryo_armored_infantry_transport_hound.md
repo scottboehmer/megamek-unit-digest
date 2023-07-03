@@ -17,7 +17,7 @@
   - Remote Sensor Dispenser 
   - Environmentally Sealed Chassis 
   - Infantry (4 tons) 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1529) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/1529) 
 - **Battle Value:** 536 
 
 ## Availability 

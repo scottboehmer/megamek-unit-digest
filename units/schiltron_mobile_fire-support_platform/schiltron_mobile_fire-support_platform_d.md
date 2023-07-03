@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - C3 Main 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2818) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2818) 
 - **Battle Value:** 1480 
 
 ## Availability 

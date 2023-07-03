@@ -19,7 +19,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1347) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1347) 
 - **Battle Value:** 2286 
 - [*More Info*](gunslinger/gunslinger_gun-1erd.md) 
 
@@ -40,7 +40,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1349) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1349) 
 - **Battle Value:** 2423 
 - [*More Info*](gunslinger/gunslinger_gun-2erd.md) 
 
@@ -63,7 +63,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** RS:Unique Mechs - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1348) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/1348) 
 - **Battle Value:** 1813 
 - [*More Info*](gunslinger/gunslinger_gun-1erd_jared.md) 
 
@@ -84,7 +84,7 @@
   - C3 Boosted Main 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO:CI - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1350) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1350) 
 - **Battle Value:** 2371 
 - [*More Info*](gunslinger/gunslinger_gun-2erdr.md) 
 
@@ -106,7 +106,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9354) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9354) 
 - **Battle Value:** 2844 
 - [*More Info*](gunslinger/gunslinger_gun-3erd.md) 
 

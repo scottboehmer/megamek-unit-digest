@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9181) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9181) 
 - **Battle Value:** 10 (88 for 6 suits) 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ER PPC × 2 
   - LB 10-X AC (ammo: 20 Cluster) 
   - LRM 10 (ammo: 12) 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2645) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2645) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -22,7 +22,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** OTP Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7309) 
+- **Sources:** Operational Turning Points: Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7309) 
 - **Battle Value:** 2481 
 
 ## Availability 

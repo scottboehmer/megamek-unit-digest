@@ -14,7 +14,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Compact Narc (ammo: 2) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2604) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2604) 
 - **Battle Value:** 38 (197 for 4 suits) 
 
 ## Availability 

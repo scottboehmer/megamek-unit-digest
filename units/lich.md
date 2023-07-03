@@ -23,7 +23,7 @@
   - Modular Weapon (Light Gauss Rifle) 
   - Modular Weapon (ER Large Laser) 
   - Modular Weapon (Light Gauss Rifle) 
-- **Sources:** XTRO Republic III - Dark Ag , [Master Unit List](http://masterunitlist.info/Unit/Details/7385) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7385) 
 - **Battle Value:** 1719 
 - [*More Info*](lich/lich_uabm-2r.md) 
 

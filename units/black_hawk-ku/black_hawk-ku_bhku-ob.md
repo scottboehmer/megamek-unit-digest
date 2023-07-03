@@ -16,7 +16,7 @@
   - Ultra AC/5 (ammo: 20) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/348) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/348) 
 - **Battle Value:** 1303 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC × 2 
   - Rocket 10 × 26 
-- **Sources:** Rec Guide:ilClan #20 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8330) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8330) 
 - **Battle Value:** 1813 
 
 ## Availability 

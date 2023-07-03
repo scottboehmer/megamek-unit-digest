@@ -24,7 +24,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3749) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/3749) 
 - **Battle Value:** 2158 
 
 ## Availability 

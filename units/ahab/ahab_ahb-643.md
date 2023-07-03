@@ -16,7 +16,7 @@
   - MRM 40 × 2 (ammo: 12) 
   - Medium Laser × 2 
   - Rocket 10 × 4 
-- **Sources:** TRO 3050u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/18) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/18) 
 - **Battle Value:** Unknown 
 
 ## Availability 

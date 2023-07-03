@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - C3 Boosted Support 
   - CASE 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6801) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6801) 
 - **Battle Value:** 1827 
 
 ## Availability 

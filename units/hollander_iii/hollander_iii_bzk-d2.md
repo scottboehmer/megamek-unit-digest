@@ -15,7 +15,7 @@
   - Gauss Rifle (ammo: 24) 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6334) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6334) 
 - **Battle Value:** 1270 
 
 ## Availability 

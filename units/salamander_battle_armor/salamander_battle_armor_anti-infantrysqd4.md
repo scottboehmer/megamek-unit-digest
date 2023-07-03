@@ -16,7 +16,7 @@
 - **Weapons:** 
   - Heavy Machine Gun × 2 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2787) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2787) 
 - **Battle Value:** 56 (292 for 4 suits) 
 
 ## Availability 

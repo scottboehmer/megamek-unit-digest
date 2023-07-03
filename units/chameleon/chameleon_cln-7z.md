@@ -16,7 +16,7 @@
   - Large Laser × 2 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/545) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/545) 
 - **Battle Value:** 1527 
 
 ## Availability 

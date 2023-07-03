@@ -19,7 +19,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (ER Large Laser) 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5872) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5872) 
 - **Battle Value:** 1139 
 
 ## Availability 

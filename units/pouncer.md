@@ -16,7 +16,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2563) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2563) 
 - **Battle Value:** 2557 
 - [*More Info*](pouncer/pouncer_prime.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2557) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2557) 
 - **Battle Value:** 2081 
 - [*More Info*](pouncer/pouncer_a.md) 
 
@@ -58,7 +58,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2558) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2558) 
 - **Battle Value:** 1836 
 - [*More Info*](pouncer/pouncer_b.md) 
 
@@ -79,7 +79,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2559) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2559) 
 - **Battle Value:** 1653 
 - [*More Info*](pouncer/pouncer_c.md) 
 
@@ -101,7 +101,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2560) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2560) 
 - **Battle Value:** 2246 
 - [*More Info*](pouncer/pouncer_d.md) 
 
@@ -122,7 +122,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2561) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2561) 
 - **Battle Value:** 1632 
 - [*More Info*](pouncer/pouncer_e.md) 
 
@@ -144,7 +144,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2562) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2562) 
 - **Battle Value:** 1784 
 - [*More Info*](pouncer/pouncer_h.md) 
 
@@ -168,7 +168,7 @@
   - Remote Sensor Dispenser 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** Rec Guide 25 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4850) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/4850) 
 - **Battle Value:** 1308 
 - [*More Info*](pouncer/pouncer_f.md) 
 
@@ -188,7 +188,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** Rec Guide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9264) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9264) 
 - **Battle Value:** 1751 
 - [*More Info*](pouncer/pouncer_w.md) 
 
@@ -209,7 +209,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** Rec Guide 25 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9261) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9261) 
 - **Battle Value:** 1808 
 - [*More Info*](pouncer/pouncer_g.md) 
 
@@ -229,7 +229,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** Rec Guide 25 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9263) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9263) 
 - **Battle Value:** 1781 
 - [*More Info*](pouncer/pouncer_i.md) 
 
@@ -247,7 +247,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9262) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/9262) 
 - **Battle Value:** 1573 
 - [*More Info*](pouncer/pouncer_t.md) 
 
@@ -269,7 +269,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** Rec Guide 25 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9265) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9265) 
 - **Battle Value:** 1455 
 - [*More Info*](pouncer/pouncer_x.md) 
 

@@ -15,7 +15,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - Large Laser × 3 
   - Medium Laser × 5 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5231) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5231) 
 - **Battle Value:** Unknown 
 
 ## Availability 

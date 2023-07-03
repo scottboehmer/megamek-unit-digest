@@ -15,7 +15,7 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5341) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5341) 
 - **Battle Value:** 599 
 
 ## Availability 

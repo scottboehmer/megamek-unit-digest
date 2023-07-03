@@ -14,7 +14,7 @@
 - **Weapons:** 
   - AC/20 (ammo: 15) 
   - Medium Laser × 4 
-- **Sources:** Field Report 2765 Liao - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8119) 
+- **Sources:** Field Report 2765 CCAF , [Master Unit List](http://masterunitlist.info/Unit/Details/8119) 
 - **Battle Value:** Unknown 
 
 ## Availability 

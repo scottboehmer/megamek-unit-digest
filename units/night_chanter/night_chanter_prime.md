@@ -15,7 +15,7 @@
   - ER Large Laser 
   - Medium Pulse Laser 
   - ER Small Laser × 2 
-- **Sources:** TP:Foster - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/9232) 
+- **Sources:** Turning Points: Foster , [Master Unit List](http://masterunitlist.info/Unit/Details/9232) 
 - **Battle Value:** 1645 
 
 ## Availability 

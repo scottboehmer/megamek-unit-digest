@@ -14,7 +14,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9028) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9028) 
 - **Battle Value:** 40 (362 for 6 suits) 
 
 ## Availability 

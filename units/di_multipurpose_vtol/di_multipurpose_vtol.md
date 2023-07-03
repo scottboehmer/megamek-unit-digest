@@ -16,7 +16,7 @@
   - Beagle Active Probe 
   - TAG 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6595) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6595) 
 - **Battle Value:** 542 
 
 ## Availability 

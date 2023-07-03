@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Nimble Jumper 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1249) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1249) 
 - **Battle Value:** 1849 
 - [*More Info*](goshawk_ii/goshawk_ii.md) 
 
@@ -44,7 +44,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Nimble Jumper 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1247) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1247) 
 - **Battle Value:** 1767 
 - [*More Info*](goshawk_ii/goshawk_ii_2.md) 
 
@@ -67,7 +67,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Nimble Jumper 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1248) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1248) 
 - **Battle Value:** 2115 
 - [*More Info*](goshawk_ii/goshawk_ii_3.md) 
 
@@ -89,7 +89,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Nimble Jumper 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7986) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7986) 
 - **Battle Value:** 1919 
 - [*More Info*](goshawk_ii/goshawk_ii_4.md) 
 
@@ -115,7 +115,7 @@
   - Combat Computer 
   - Cooling System Flaws 
   - Prototype 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7376) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7376) 
 - **Battle Value:** 1871 
 - [*More Info*](goshawk_ii/goshawk_ii_risc.md) 
 

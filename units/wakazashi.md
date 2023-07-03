@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3475) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/3475) 
 - **Battle Value:** 2909 
 - [*More Info*](wakazashi/wakazashi.md) 
 

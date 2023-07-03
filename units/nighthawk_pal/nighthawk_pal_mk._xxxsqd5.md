@@ -13,7 +13,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** TRO 3075/RS 3085 Unabridged ONN - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/8653) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8653) 
 - **Battle Value:** 9 (63 for 5 suits) 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Ultra AC/20 (ammo: 10) 
   - ER Medium Laser × 3 
   - Medium Laser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4515) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4515) 
 - **Battle Value:** Unknown 
 
 ## Availability 

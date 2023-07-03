@@ -14,7 +14,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Infantry (5 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2809) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2809) 
 - **Battle Value:** 565 
 
 ## Availability 

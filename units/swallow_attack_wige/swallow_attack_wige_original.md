@@ -13,7 +13,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
   - Snub-Nose PPC 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6598) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6598) 
 - **Battle Value:** 1348 
 
 ## Availability 

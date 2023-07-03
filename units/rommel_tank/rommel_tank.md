@@ -14,7 +14,7 @@
   - AC/20 (ammo: 20) 
   - LRM 5 (ammo: 24) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2737) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2737) 
 - **Battle Value:** 933 
 
 ## Availability 

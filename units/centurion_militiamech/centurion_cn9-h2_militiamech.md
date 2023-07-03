@@ -1,6 +1,6 @@
-# Centurion CN9-H2 MilitiaMech 
+# Centurion MilitiaMech CN9-H2 MilitiaMech 
 
-[Other Centurion variants](../centurion.md) 
+[Other Centurion MilitiaMech variants](../centurion_militiamech.md) 
 
 ## Centurion CN9-H2 MilitiaMech 
 
@@ -14,7 +14,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
   - Medium Laser × 2 
   - Rocket 10 × 5 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7866) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7866) 
 - **Battle Value:** 799 
 
 ## Availability 

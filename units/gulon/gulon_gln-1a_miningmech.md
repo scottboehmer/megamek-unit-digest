@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Mech Sprayer 
   - Liquid Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7844) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7844) 
 - **Battle Value:** 352 
 
 ## Availability 

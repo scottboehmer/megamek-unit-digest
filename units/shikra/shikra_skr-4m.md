@@ -17,7 +17,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Chaff Pod × 2 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6519) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6519) 
 - **Battle Value:** Unknown 
 
 ## Availability 

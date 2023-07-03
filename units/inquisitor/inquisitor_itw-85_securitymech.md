@@ -19,7 +19,7 @@
   - CASE II 
   - Searchlight 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7825) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7825) 
 - **Battle Value:** 664 
 
 ## Availability 

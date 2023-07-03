@@ -16,7 +16,7 @@
   - Small Pulse Laser × 3 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/92) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/92) 
 - **Battle Value:** 858 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Anti-Aircraft Targeting 
   - Improved Communications 
   - Searchlight 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2709) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2709) 
 - **Battle Value:** 1543 
 - [*More Info*](rifleman_ii/rifleman_ii_rfl-3n-2.md) 
 

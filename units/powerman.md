@@ -12,7 +12,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 5 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2564) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2564) 
 - **Battle Value:** 198 
 - [*More Info*](powerman/powerman_sc_xi_loadermech.md) 
 
@@ -29,7 +29,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Cargo × 2 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2565) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/2565) 
 - **Battle Value:** 294 
 - [*More Info*](powerman/powerman_sc_xi-m_loadermech_mod.md) 
 
@@ -45,7 +45,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Cargo × 3 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2566) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/2566) 
 - **Battle Value:** 277 
 - [*More Info*](powerman/powerman_sc_xi-m-b_loadermech_mod.md) 
 
@@ -61,7 +61,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 3 
-- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4852) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4852) 
 - **Battle Value:** 198 
 - [*More Info*](powerman/powerman_sc_xv_haulermech.md) 
 
@@ -78,7 +78,7 @@
   - Salvage Arm 
   - Lift Hoist 
   - Cargo × 3 
-- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4853) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4853) 
 - **Battle Value:** 198 
 - [*More Info*](powerman/powerman_sc_xvi_haulermech.md) 
 

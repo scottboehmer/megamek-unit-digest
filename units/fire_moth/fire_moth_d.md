@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/841) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/841) 
 - **Battle Value:** 2307 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Cargo × 4 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1129) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1129) 
 - **Battle Value:** 117 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Heavy Flamer (ammo: 10) 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7858) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7858) 
 - **Battle Value:** 315 
 
 ## Availability 

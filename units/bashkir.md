@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/260) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/260) 
 - **Battle Value:** Unknown 
 - [*More Info*](bashkir/bashkir_prime.md) 
 
@@ -33,7 +33,7 @@
   - SRM 6 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/256) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/256) 
 - **Battle Value:** Unknown 
 - [*More Info*](bashkir/bashkir_a.md) 
 
@@ -51,7 +51,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/257) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/257) 
 - **Battle Value:** Unknown 
 - [*More Info*](bashkir/bashkir_b.md) 
 
@@ -67,7 +67,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - ER Small Laser 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/258) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/258) 
 - **Battle Value:** Unknown 
 - [*More Info*](bashkir/bashkir_c.md) 
 
@@ -83,7 +83,7 @@
 - **Weapons:** 
   - Heavy Large Laser 
   - Heavy Small Laser 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/259) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/259) 
 - **Battle Value:** Unknown 
 - [*More Info*](bashkir/bashkir_d.md) 
 
@@ -102,7 +102,7 @@
 - **Equipment:** 
   - CASE 
   - Machine Gun Array 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3795) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3795) 
 - **Battle Value:** Unknown 
 - [*More Info*](bashkir/bashkir_e.md) 
 
@@ -120,7 +120,7 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
-- **Sources:** The Wars of Reaving (s) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5833) 
+- **Sources:** The Wars of Reaving (s) , [Master Unit List](http://masterunitlist.info/Unit/Details/5833) 
 - **Battle Value:** Unknown 
 - [*More Info*](bashkir/bashkir_z.md) 
 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Active Probe 
   - Jump Booster 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1275) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1275) 
 - **Battle Value:** 16 (81 for 4 suits) 
 
 ## Availability 

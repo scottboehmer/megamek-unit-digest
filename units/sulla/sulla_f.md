@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - CASE 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6816) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6816) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8959) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/8959) 
 - **Battle Value:** 39 (347 for 6 suits) 
 
 ## Availability 

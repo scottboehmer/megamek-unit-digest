@@ -15,7 +15,7 @@
   - HVAC/10 (ammo: 16) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Kurita - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3267) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/3267) 
 - **Battle Value:** 1125 
 
 ## Availability 

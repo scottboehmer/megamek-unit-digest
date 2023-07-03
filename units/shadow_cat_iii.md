@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7491) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7491) 
 - **Battle Value:** 2021 
 - [*More Info*](shadow_cat_iii/shadow_cat_iii_prime.md) 
 
@@ -35,7 +35,7 @@
   - MASC 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7492) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7492) 
 - **Battle Value:** 2005 
 - [*More Info*](shadow_cat_iii/shadow_cat_iii_a.md) 
 
@@ -59,7 +59,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7493) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7493) 
 - **Battle Value:** 2183 
 - [*More Info*](shadow_cat_iii/shadow_cat_iii_b.md) 
 
@@ -80,7 +80,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7494) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7494) 
 - **Battle Value:** 2153 
 - [*More Info*](shadow_cat_iii/shadow_cat_iii_c.md) 
 

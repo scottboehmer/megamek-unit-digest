@@ -21,7 +21,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2899) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2899) 
 - **Battle Value:** 899 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6471) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6471) 
 - **Battle Value:** 2045 
 - [*More Info*](lu_wei_bing/lu_wei_bing_ln-4b.md) 
 

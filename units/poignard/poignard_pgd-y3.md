@@ -15,7 +15,7 @@
   - Light AC/5 (ammo: 20) 
   - ER Medium Laser × 4 
   - Small Pulse Laser 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2554) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2554) 
 - **Battle Value:** Unknown 
 
 ## Availability 

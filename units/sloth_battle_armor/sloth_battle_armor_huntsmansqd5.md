@@ -14,7 +14,7 @@
   - King David Light Gauss Rifle × 2 
 - **Equipment:** 
   - Mechanical Jump Booster 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8790) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8790) 
 - **Battle Value:** 33 (228 for 5 suits) 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1285) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1285) 
 - **Battle Value:** 1667 
 
 ## Availability 

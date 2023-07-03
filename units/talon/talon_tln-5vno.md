@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Source:** WWE Scorched Earth - Clan Invasion 
+- **Source:** WWE Scorched Earth 
 - **Battle Value:** 977 
 
 ## Availability 

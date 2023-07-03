@@ -14,7 +14,7 @@
   - ATM 12 × 2 (ammo: 10 ER, 10 HE, 10 Standard) 
   - Improved Heavy Medium Laser 
   - AP Gauss Rifle × 2 (ammo: 40) 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9392) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9392) 
 - **Battle Value:** 1762 
 
 ## Availability 

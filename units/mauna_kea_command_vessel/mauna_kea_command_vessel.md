@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2113) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2113) 
 - **Battle Value:** 869 
 
 ## Availability 

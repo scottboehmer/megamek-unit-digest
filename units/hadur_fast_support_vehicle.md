@@ -12,7 +12,7 @@
   - Arrow IV (ammo: 20) 
   - ER Medium Laser × 2 
   - AP Gauss Rifle × 2 (ammo: 40) 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6248) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6248) 
 - **Battle Value:** 1512 
 - [*More Info*](hadur_fast_support_vehicle/hadur_fast_support_vehicle.md) 
 
@@ -28,7 +28,7 @@
   - Arrow IV (ammo: 20) 
   - ER Medium Laser × 2 
   - AP Gauss Rifle × 2 (ammo: 40) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8051) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8051) 
 - **Battle Value:** 1512 
 - [*More Info*](hadur_fast_support_vehicle/hadur_fast_support_vehicle_reactive.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Light TAG 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8050) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8050) 
 - **Battle Value:** 2038 
 - [*More Info*](hadur_fast_support_vehicle/hadur_fast_support_vehicle_lrm.md) 
 

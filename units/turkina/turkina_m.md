@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8213) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8213) 
 - **Battle Value:** 2495 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6895) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6895) 
 - **Battle Value:** 1714 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7538) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7538) 
 - **Battle Value:** 2877 
 
 ## Availability 

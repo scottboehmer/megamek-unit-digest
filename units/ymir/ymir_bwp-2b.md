@@ -18,7 +18,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3620) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3620) 
 - **Battle Value:** 1289 
 
 ## Availability 

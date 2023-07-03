@@ -13,7 +13,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/591) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/591) 
 - **Battle Value:** 659 
 - [*More Info*](cicada/cicada_cda-2a.md) 
 
@@ -30,7 +30,7 @@
   - Flamer 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/592) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/592) 
 - **Battle Value:** 626 
 - [*More Info*](cicada/cicada_cda-2b.md) 
 
@@ -47,7 +47,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/593) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/593) 
 - **Battle Value:** 771 
 - [*More Info*](cicada/cicada_cda-3c.md) 
 
@@ -67,7 +67,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/596) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/596) 
 - **Battle Value:** 812 
 - [*More Info*](cicada/cicada_cda-3m.md) 
 
@@ -85,7 +85,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/594) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/594) 
 - **Battle Value:** 1329 
 - [*More Info*](cicada/cicada_cda-3f.md) 
 
@@ -105,7 +105,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/595) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/595) 
 - **Battle Value:** 1270 
 - [*More Info*](cicada/cicada_cda-3g.md) 
 
@@ -123,7 +123,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/597) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/597) 
 - **Battle Value:** 1158 
 - [*More Info*](cicada/cicada_cda-3ma.md) 
 
@@ -140,7 +140,7 @@
   - ER Medium Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/598) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/598) 
 - **Battle Value:** 1502 
 - [*More Info*](cicada/cicada_cda-3p.md) 
 
@@ -159,7 +159,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9376) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9376) 
 - **Battle Value:** 1097 
 - [*More Info*](cicada/cicada_cda-4a.md) 
 

@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8611) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8611) 
 - **Battle Value:** 46 (325 for 5 suits) 
 
 ## Availability 

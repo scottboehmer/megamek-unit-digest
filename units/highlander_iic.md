@@ -21,7 +21,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3060 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1524) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1524) 
 - **Battle Value:** 2979 
 - [*More Info*](highlander_iic/highlander_iic.md) 
 
@@ -48,7 +48,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1525) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1525) 
 - **Battle Value:** 2928 
 - [*More Info*](highlander_iic/highlander_iic_2.md) 
 
@@ -74,7 +74,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** RS 3085U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1523) 
+- **Sources:** Record Sheets: 3085 Unabridged - Old is the New New , [Master Unit List](http://masterunitlist.info/Unit/Details/1523) 
 - **Battle Value:** 3001 
 - [*More Info*](highlander_iic/highlander_iic_3.md) 
 
@@ -99,7 +99,7 @@
   - Cowl 
   - Reinforced Legs 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9433) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9433) 
 - **Battle Value:** 2958 
 - [*More Info*](highlander_iic/highlander_iic_4.md) 
 

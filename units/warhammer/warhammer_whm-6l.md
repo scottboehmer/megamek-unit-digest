@@ -21,7 +21,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3487) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3487) 
 - **Battle Value:** 1311 
 
 ## Availability 

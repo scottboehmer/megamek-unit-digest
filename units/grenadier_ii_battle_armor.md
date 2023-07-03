@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Clan SRM 4 (ammo: 0) 
   - Small Laser 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7389) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7389) 
 - **Battle Value:** 73 (377 for 4 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_asqd4.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - Clan SRM 4 (ammo: 0) 
   - Small Laser 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8830) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/8830) 
 - **Battle Value:** 73 (508 for 5 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_asqd5.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - Clan SRM 4 (ammo: 0) 
   - Small Laser 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9193) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/9193) 
 - **Battle Value:** 73 (653 for 6 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_asqd6.md) 
 
@@ -59,7 +59,7 @@
   - Clan LRM 4 (ammo: 8) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7391) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7391) 
 - **Battle Value:** 71 (370 for 4 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_bsqd4.md) 
 
@@ -74,7 +74,7 @@
   - Clan LRM 4 (ammo: 8) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8831) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/8831) 
 - **Battle Value:** 71 (499 for 5 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_bsqd5.md) 
 
@@ -89,7 +89,7 @@
   - Clan LRM 4 (ammo: 8) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9194) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/9194) 
 - **Battle Value:** 71 (641 for 6 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_bsqd6.md) 
 
@@ -103,7 +103,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Flamer 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7392) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7392) 
 - **Battle Value:** 73 (382 for 4 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_csqd4.md) 
 
@@ -117,7 +117,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Flamer 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8832) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/8832) 
 - **Battle Value:** 73 (514 for 5 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_csqd5.md) 
 
@@ -131,7 +131,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Flamer 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9195) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/9195) 
 - **Battle Value:** 73 (661 for 6 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_csqd6.md) 
 
@@ -147,7 +147,7 @@
 - **Weapons:** 
   - Tube Artillery (ammo: 8) 
   - Firedrake Support Needler 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7393) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7393) 
 - **Battle Value:** 59 (308 for 4 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_dsqd4.md) 
 
@@ -163,7 +163,7 @@
 - **Weapons:** 
   - Tube Artillery (ammo: 8) 
   - Firedrake Support Needler 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8833) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/8833) 
 - **Battle Value:** 59 (415 for 5 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_dsqd5.md) 
 
@@ -179,7 +179,7 @@
 - **Weapons:** 
   - Tube Artillery (ammo: 8) 
   - Firedrake Support Needler 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9196) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/9196) 
 - **Battle Value:** 59 (534 for 6 suits) 
 - [*More Info*](grenadier_ii_battle_armor/grenadier_ii_battle_armor_dsqd6.md) 
 

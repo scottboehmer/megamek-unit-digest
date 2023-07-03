@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3077) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3077) 
 - **Battle Value:** 2111 
 
 ## Availability 

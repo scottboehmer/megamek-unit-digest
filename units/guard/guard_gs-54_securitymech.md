@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** TRO IrTech-Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4253) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/4253) 
 - **Battle Value:** 156 
 
 ## Availability 

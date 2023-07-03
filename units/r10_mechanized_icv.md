@@ -14,7 +14,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6491) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6491) 
 - **Battle Value:** 839 
 - [*More Info*](r10_mechanized_icv/r10_mechanized_icv_a.md) 
 
@@ -34,7 +34,7 @@
   - Beagle Active Probe 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6492) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6492) 
 - **Battle Value:** 756 
 - [*More Info*](r10_mechanized_icv/r10_mechanized_icv_b.md) 
 
@@ -50,7 +50,7 @@
   - Vehicle Flamer × 2 (ammo: 40) 
 - **Equipment:** 
   - Liquid Cargo 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6493) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6493) 
 - **Battle Value:** 351 
 - [*More Info*](r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) 
 
@@ -68,7 +68,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (12.0 tons) 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6490) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6490) 
 - **Battle Value:** 746 
 - [*More Info*](r10_mechanized_icv/r10_mechanized_icv_prime.md) 
 

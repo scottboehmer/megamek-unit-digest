@@ -12,7 +12,7 @@
   - PPC 
   - LRM 10 (ammo: 12) 
   - Flamer 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3455) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3455) 
 - **Battle Value:** 1170 
 - [*More Info*](von_rohrs/von_rohrs_von_4rh-5.md) 
 
@@ -28,7 +28,7 @@
   - PPC 
   - SRM 4 × 2 (ammo: 25) 
   - Flamer 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3456) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3456) 
 - **Battle Value:** 1146 
 - [*More Info*](von_rohrs/von_rohrs_von_4rh-6.md) 
 

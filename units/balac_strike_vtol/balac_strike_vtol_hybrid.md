@@ -15,7 +15,7 @@
   - Heavy Machine Gun (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6750) 
+- **Sources:** TRO: 3145 , [Master Unit List](http://masterunitlist.info/Unit/Details/6750) 
 - **Battle Value:** 796 
 
 ## Availability 

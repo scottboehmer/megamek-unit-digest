@@ -13,7 +13,7 @@
   - Clan LRM 5 × 2 (ammo: 2) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8982) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/8982) 
 - **Battle Value:** 120 (1076 for 6 suits) 
 
 ## Availability 

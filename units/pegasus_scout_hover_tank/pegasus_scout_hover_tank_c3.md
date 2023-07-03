@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2456) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2456) 
 - **Battle Value:** 785 
 
 ## Availability 

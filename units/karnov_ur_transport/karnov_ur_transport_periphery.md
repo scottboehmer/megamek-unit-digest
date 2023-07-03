@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Rocket 20 × 4 
   - Rocket 10 × 6 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1758) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1758) 
 - **Battle Value:** 590 
 
 ## Availability 

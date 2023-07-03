@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7703) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7703) 
 - **Battle Value:** 827 
 
 ## Availability 

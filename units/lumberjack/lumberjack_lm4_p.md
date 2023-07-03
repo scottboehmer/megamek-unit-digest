@@ -17,7 +17,7 @@
   - Lift Hoist 
   - Dumper 
   - Cargo × 5 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1961) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1961) 
 - **Battle Value:** 651 
 
 ## Availability 

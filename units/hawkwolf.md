@@ -14,7 +14,7 @@
   - MML 5 × 2 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4273) 
+- **Sources:** XTR: RetroTech , [Master Unit List](http://masterunitlist.info/Unit/Details/4273) 
 - **Battle Value:** 1349 
 - [*More Info*](hawkwolf/hawkwolf_hwk-3f.md) 
 
@@ -36,7 +36,7 @@
   - Fast Reload (All Weapons) 
   - No/Minimal Arms 
   - Protected Actuators 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6576) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6576) 
 - **Battle Value:** 1428 
 - [*More Info*](hawkwolf/hawkwolf_hwk-4f.md) 
 

@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5029) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5029) 
 - **Battle Value:** Unknown 
 - [*More Info*](shade/shade_s-ha-o_invictus.md) 
 
@@ -34,7 +34,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5030) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5030) 
 - **Battle Value:** Unknown 
 - [*More Info*](shade/shade_s-ha-oa_dominus.md) 
 
@@ -53,7 +53,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5031) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5031) 
 - **Battle Value:** Unknown 
 - [*More Info*](shade/shade_s-ha-ob_infernus.md) 
 
@@ -72,7 +72,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5032) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5032) 
 - **Battle Value:** Unknown 
 - [*More Info*](shade/shade_s-ha-oc_comminus.md) 
 
@@ -89,7 +89,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - ER Small Laser × 3 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5033) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5033) 
 - **Battle Value:** Unknown 
 - [*More Info*](shade/shade_s-ha-od_luminos.md) 
 
@@ -108,7 +108,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5034) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5034) 
 - **Battle Value:** Unknown 
 - [*More Info*](shade/shade_s-ha-oe_eminus.md) 
 

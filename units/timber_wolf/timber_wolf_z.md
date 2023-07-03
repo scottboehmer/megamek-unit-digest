@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5822) 
+- **Sources:** Wars of Reaving , [Master Unit List](http://masterunitlist.info/Unit/Details/5822) 
 - **Battle Value:** 2923 
 
 ## Availability 

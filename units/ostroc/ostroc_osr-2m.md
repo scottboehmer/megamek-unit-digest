@@ -15,7 +15,7 @@
   - Large Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2353) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2353) 
 - **Battle Value:** 1239 
 
 ## Availability 

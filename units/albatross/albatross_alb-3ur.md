@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Targeting (Long) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/28) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/28) 
 - **Battle Value:** 1902 
 
 ## Availability 

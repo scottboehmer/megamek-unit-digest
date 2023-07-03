@@ -16,7 +16,7 @@
   - Improved Heavy Small Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4806) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4806) 
 - **Battle Value:** Unknown 
 - [*More Info*](persepolis/persepolis.md) 
 
@@ -37,7 +37,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7358) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7358) 
 - **Battle Value:** Unknown 
 - [*More Info*](persepolis/persepolis_2.md) 
 

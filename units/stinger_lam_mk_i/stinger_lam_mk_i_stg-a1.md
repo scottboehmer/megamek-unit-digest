@@ -16,7 +16,7 @@
 - **Weapons:** 
   - Medium Pulse Laser 
   - Small Pulse Laser × 2 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5140) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5140) 
 - **Battle Value:** 846 
 
 ## Availability 

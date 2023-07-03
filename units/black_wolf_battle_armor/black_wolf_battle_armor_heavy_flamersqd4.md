@@ -14,7 +14,7 @@
   - Heavy Battle Claw (right) 
 - **Weapons:** 
   - Heavy Flamer 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6240) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6240) 
 - **Battle Value:** 56 (289 for 4 suits) 
 
 ## Availability 

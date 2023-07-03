@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Cramped Cockpit 
   - Reinforced Legs 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4363) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4363) 
 - **Battle Value:** 1261 
 
 ## Availability 

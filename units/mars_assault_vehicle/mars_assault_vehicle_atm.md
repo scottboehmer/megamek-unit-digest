@@ -19,7 +19,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2080) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2080) 
 - **Battle Value:** 1948 
 
 ## Availability 

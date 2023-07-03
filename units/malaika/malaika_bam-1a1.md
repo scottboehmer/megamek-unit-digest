@@ -15,7 +15,7 @@
 - **Weapons:** 
   - MML 5 w/ Artemis IV × 2 (ammo: 48 LRM, 20 SRM) 
   - ER Small Laser 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4573) 
+- **Sources:** XTR: RetroTech , [Master Unit List](http://masterunitlist.info/Unit/Details/4573) 
 - **Battle Value:** Unknown 
 
 ## Availability 

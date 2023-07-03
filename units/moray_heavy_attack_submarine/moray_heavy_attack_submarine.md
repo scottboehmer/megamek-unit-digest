@@ -17,7 +17,7 @@
   - SRT 6 × 3 (ammo: 60) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3085S - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4663) 
+- **Sources:** TRO: 3085 Supplemental , [Master Unit List](http://masterunitlist.info/Unit/Details/4663) 
 - **Battle Value:** 1624 
 
 ## Availability 

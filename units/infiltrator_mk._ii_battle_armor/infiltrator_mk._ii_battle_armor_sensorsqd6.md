@@ -20,7 +20,7 @@
   - Improved Sensors 
   - Parafoil 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8901) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8901) 
 - **Battle Value:** 35 (312 for 6 suits) 
 
 ## Availability 

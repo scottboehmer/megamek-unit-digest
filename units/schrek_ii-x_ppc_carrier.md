@@ -12,7 +12,7 @@
   - Light PPC × 6 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** XTR Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2823) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/2823) 
 - **Battle Value:** 1110 
 - [*More Info*](schrek_ii-x_ppc_carrier/schrek_ii-x_ppc_carrier.md) 
 

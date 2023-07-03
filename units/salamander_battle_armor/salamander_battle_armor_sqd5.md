@@ -16,7 +16,7 @@
 - **Weapons:** 
   - Flamer × 2 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8584) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8584) 
 - **Battle Value:** 53 (372 for 5 suits) 
 
 ## Availability 

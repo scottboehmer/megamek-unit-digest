@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7820) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7820) 
 - **Battle Value:** 291 
 
 ## Availability 

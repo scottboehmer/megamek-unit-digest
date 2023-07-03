@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2467) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2467) 
 - **Battle Value:** 1639 
 
 ## Availability 

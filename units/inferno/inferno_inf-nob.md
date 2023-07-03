@@ -21,7 +21,7 @@
   - Easy to Pilot 
   - Battlefists 
   - EM Interference (ER PPC) 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7717) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7717) 
 - **Battle Value:** 1658 
 
 ## Availability 

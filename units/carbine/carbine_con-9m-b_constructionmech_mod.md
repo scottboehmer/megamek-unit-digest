@@ -12,7 +12,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - Light AC/5 (ammo: 40) 
-- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7165) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7165) 
 - **Battle Value:** 293 
 
 ## Availability 

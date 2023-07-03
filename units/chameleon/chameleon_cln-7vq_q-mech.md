@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Non-Standard Parts 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5601) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5601) 
 - **Battle Value:** 2113 
 
 ## Availability 

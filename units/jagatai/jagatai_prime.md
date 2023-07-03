@@ -17,7 +17,7 @@
   - LRM 20 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1663) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1663) 
 - **Battle Value:** Unknown 
 
 ## Availability 

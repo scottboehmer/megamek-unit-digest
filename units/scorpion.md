@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2837) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2837) 
 - **Battle Value:** 1019 
 - [*More Info*](scorpion/scorpion_scp-1n.md) 
 
@@ -32,7 +32,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2838) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2838) 
 - **Battle Value:** 1043 
 - [*More Info*](scorpion/scorpion_scp-1n_wendall.md) 
 
@@ -50,7 +50,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2839) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/2839) 
 - **Battle Value:** 1098 
 - [*More Info*](scorpion/scorpion_scp-1o.md) 
 
@@ -70,7 +70,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2836) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2836) 
 - **Battle Value:** 1109 
 - [*More Info*](scorpion/scorpion_scp-12s.md) 
 
@@ -91,7 +91,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2834) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2834) 
 - **Battle Value:** 1259 
 - [*More Info*](scorpion/scorpion_scp-12c.md) 
 
@@ -112,7 +112,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2835) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2835) 
 - **Battle Value:** 1260 
 - [*More Info*](scorpion/scorpion_scp-12k.md) 
 
@@ -132,7 +132,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2840) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/2840) 
 - **Battle Value:** 1185 
 - [*More Info*](scorpion/scorpion_scp-1tb.md) 
 
@@ -151,7 +151,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2833) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2833) 
 - **Battle Value:** 1458 
 - [*More Info*](scorpion/scorpion_scp-10m.md) 
 
@@ -172,7 +172,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8314) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8314) 
 - **Battle Value:** 1473 
 - [*More Info*](scorpion/scorpion_scp-1br.md) 
 
@@ -195,7 +195,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8315) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8315) 
 - **Battle Value:** 1562 
 - [*More Info*](scorpion/scorpion_scp-2n.md) 
 
@@ -218,7 +218,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8316) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8316) 
 - **Battle Value:** 2074 
 - [*More Info*](scorpion/scorpion_c.md) 
 

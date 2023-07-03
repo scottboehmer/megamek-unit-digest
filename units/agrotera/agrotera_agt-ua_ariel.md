@@ -16,7 +16,7 @@
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
   - Clan HarJel III × 3 
-- **Sources:** XTRO: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8365) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8365) 
 - **Battle Value:** 1917 
 
 ## Availability 

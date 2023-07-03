@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/708) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/708) 
 - **Battle Value:** 1442 
 
 ## Availability 

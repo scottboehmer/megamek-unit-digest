@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Man-Portable Plasma Rifle 
   - Light Machine Gun 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9098) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/9098) 
 - **Battle Value:** 73 (660 for 6 suits) 
 
 ## Availability 

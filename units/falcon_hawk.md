@@ -15,7 +15,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1030) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1030) 
 - **Battle Value:** 1030 
 - [*More Info*](falcon_hawk/falcon_hawk_fnhk-9k.md) 
 
@@ -34,7 +34,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1031) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1031) 
 - **Battle Value:** 1040 
 - [*More Info*](falcon_hawk/falcon_hawk_fnhk-9k1a.md) 
 
@@ -56,7 +56,7 @@
   - TAG 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1032) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1032) 
 - **Battle Value:** 1116 
 - [*More Info*](falcon_hawk/falcon_hawk_fnhk-9k1b.md) 
 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/494) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/494) 
 - **Battle Value:** 2391 
 
 ## Availability 

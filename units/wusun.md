@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3595) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3595) 
 - **Battle Value:** Unknown 
 - [*More Info*](wusun/wusun_prime.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3592) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3592) 
 - **Battle Value:** Unknown 
 - [*More Info*](wusun/wusun_a.md) 
 
@@ -52,7 +52,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3593) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3593) 
 - **Battle Value:** Unknown 
 - [*More Info*](wusun/wusun_b.md) 
 
@@ -71,7 +71,7 @@
 - **Equipment:** 
   - Active Probe 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3594) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3594) 
 - **Battle Value:** Unknown 
 - [*More Info*](wusun/wusun_c.md) 
 
@@ -91,7 +91,7 @@
   - ECM Suite 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6815) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6815) 
 - **Battle Value:** Unknown 
 - [*More Info*](wusun/wusun_d.md) 
 

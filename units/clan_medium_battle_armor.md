@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3957) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3957) 
 - **Battle Value:** 46 (241 for 4 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_rabidsqd4.md) 
 
@@ -38,7 +38,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8611) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8611) 
 - **Battle Value:** 46 (325 for 5 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_rabidsqd5.md) 
 
@@ -59,7 +59,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8975) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8975) 
 - **Battle Value:** 46 (418 for 6 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_rabidsqd6.md) 
 
@@ -80,7 +80,7 @@
   - Jump Booster 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3956) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3956) 
 - **Battle Value:** 53 (273 for 4 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_naval_bar_sqd4.md) 
 
@@ -101,7 +101,7 @@
   - Jump Booster 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8610) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8610) 
 - **Battle Value:** 53 (368 for 5 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_naval_bar_sqd5.md) 
 
@@ -122,7 +122,7 @@
   - Jump Booster 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8974) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8974) 
 - **Battle Value:** 53 (473 for 6 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_naval_bar_sqd6.md) 
 
@@ -143,7 +143,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3955) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3955) 
 - **Battle Value:** 48 (250 for 4 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_laser_volk_sqd4.md) 
 
@@ -164,7 +164,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8609) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8609) 
 - **Battle Value:** 48 (337 for 5 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_laser_volk_sqd5.md) 
 
@@ -185,7 +185,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8974) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8974) 
 - **Battle Value:** 48 (433 for 6 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_laser_volk_sqd6.md) 
 
@@ -206,7 +206,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/635) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/635) 
 - **Battle Value:** 53 (276 for 4 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_rachesqd4.md) 
 
@@ -227,7 +227,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8485) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8485) 
 - **Battle Value:** 53 (372 for 5 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_rachesqd5.md) 
 
@@ -248,7 +248,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8849) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8849) 
 - **Battle Value:** 53 (478 for 6 suits) 
 - [*More Info*](clan_medium_battle_armor/clan_medium_battle_armor_rachesqd6.md) 
 

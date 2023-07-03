@@ -13,7 +13,7 @@
   - LRM 5 (ammo: 24) 
   - Small Laser 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2450) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2450) 
 - **Battle Value:** 961 
 - [*More Info*](patton_tank/patton_tank.md) 
 
@@ -29,7 +29,7 @@
   - Ultra AC/10 (ammo: 30) 
   - Medium Laser × 2 
   - Machine Gun × 3 (ammo: 100) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2451) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2451) 
 - **Battle Value:** 1160 
 - [*More Info*](patton_tank/patton_tank_ultra.md) 
 
@@ -48,7 +48,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - Supercharger 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5569) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5569) 
 - **Battle Value:** 1387 
 - [*More Info*](patton_tank/patton_tank_-sb.md) 
 
@@ -67,7 +67,7 @@
   - Flamer 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9343) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9343) 
 - **Battle Value:** 1213 
 - [*More Info*](patton_tank/patton_tank_taurian.md) 
 
@@ -87,7 +87,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9344) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9344) 
 - **Battle Value:** 1189 
 - [*More Info*](patton_tank/patton_tank_xl.md) 
 

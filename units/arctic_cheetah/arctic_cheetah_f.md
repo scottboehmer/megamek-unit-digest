@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #21 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6940) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/6940) 
 - **Battle Value:** 1394 
 
 ## Availability 

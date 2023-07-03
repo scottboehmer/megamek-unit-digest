@@ -18,7 +18,7 @@
   - Coolant Pod × 2 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2526) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/2526) 
 - **Battle Value:** 1927 
 
 ## Availability 

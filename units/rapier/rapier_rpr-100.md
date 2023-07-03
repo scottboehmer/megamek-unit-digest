@@ -15,7 +15,7 @@
   - AC/20 (ammo: 10) 
   - PPC × 2 
   - LRM 10 (ammo: 12) 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2642) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2642) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2356) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2356) 
 - **Battle Value:** 1490 
 
 ## Availability 

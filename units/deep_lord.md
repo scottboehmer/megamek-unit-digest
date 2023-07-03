@@ -19,7 +19,7 @@
   - Protected Actuators 
   - Improved Life Support 
   - Jettison-Capable Weapon (Mace) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4057) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4057) 
 - **Battle Value:** 686 
 - [*More Info*](deep_lord/deep_lord_rcl-z1m_militiamech.md) 
 
@@ -37,7 +37,7 @@
   - Claw 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7830) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7830) 
 - **Battle Value:** 773 
 - [*More Info*](deep_lord/deep_lord_rcl-z1m-b_militiamech.md) 
 

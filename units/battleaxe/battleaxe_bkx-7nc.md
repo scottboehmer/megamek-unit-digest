@@ -16,7 +16,7 @@
   - LRM 5 × 4 (ammo: 24) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/278) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/278) 
 - **Battle Value:** 1252 
 
 ## Availability 

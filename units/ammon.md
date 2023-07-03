@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3696) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3696) 
 - **Battle Value:** Unknown 
 - [*More Info*](ammon/ammon.md) 
 
@@ -34,7 +34,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5753) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5753) 
 - **Battle Value:** Unknown 
 - [*More Info*](ammon/ammon_2.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - CASE 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3697) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/3697) 
 - **Battle Value:** Unknown 
 - [*More Info*](ammon/ammon_xr.md) 
 

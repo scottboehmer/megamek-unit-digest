@@ -17,7 +17,7 @@
   - AP Gauss Rifle 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8603) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8603) 
 - **Battle Value:** 63 (439 for 5 suits) 
 
 ## Availability 

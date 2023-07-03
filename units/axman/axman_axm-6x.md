@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3772) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/3772) 
 - **Battle Value:** 2132 
 
 ## Availability 

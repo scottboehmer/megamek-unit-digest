@@ -16,7 +16,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
   - Small Pulse Laser 
   - Small Laser 
-- **Sources:** Hist: Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3450) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3450) 
 - **Battle Value:** 1216 
 
 ## Availability 

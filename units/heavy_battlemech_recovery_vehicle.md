@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1429) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1429) 
 - **Battle Value:** 176 
 - [*More Info*](heavy_battlemech_recovery_vehicle/heavy_battlemech_recovery_vehicle.md) 
 

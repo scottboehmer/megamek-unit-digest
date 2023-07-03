@@ -15,7 +15,7 @@
   - HVAC/10 × 2 (ammo: 24) 
   - ELRM 10 (ammo: 18) 
   - ER Medium Laser × 4 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4895) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4895) 
 - **Battle Value:** Unknown 
 
 ## Availability 

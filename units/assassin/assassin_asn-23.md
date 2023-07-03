@@ -19,7 +19,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/128) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/128) 
 - **Battle Value:** 740 
 
 ## Availability 

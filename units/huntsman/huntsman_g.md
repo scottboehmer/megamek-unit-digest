@@ -23,7 +23,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7783) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7783) 
 - **Battle Value:** 2377 
 
 ## Availability 

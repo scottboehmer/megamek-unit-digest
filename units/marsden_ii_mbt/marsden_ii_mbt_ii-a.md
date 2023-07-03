@@ -14,7 +14,7 @@
   - AC/10 (ammo: 20) 
   - SRM 6 (ammo: 30) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2086) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2086) 
 - **Battle Value:** 980 
 
 ## Availability 

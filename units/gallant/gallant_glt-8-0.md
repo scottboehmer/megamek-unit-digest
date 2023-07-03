@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Medium X-Pulse Laser) 
   - Stabilized Weapon (Medium X-Pulse Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1174) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1174) 
 - **Battle Value:** 1666 
 
 ## Availability 

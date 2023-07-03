@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Space Operations Adaptation 
   - Extended Life Support 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3674) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3674) 
 - **Battle Value:** 5 (27 for 4 suits) 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8171) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8171) 
 - **Battle Value:** 2545 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Arrow IV (ammo: 20) 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/557) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/557) 
 - **Battle Value:** 832 
 
 ## Availability 

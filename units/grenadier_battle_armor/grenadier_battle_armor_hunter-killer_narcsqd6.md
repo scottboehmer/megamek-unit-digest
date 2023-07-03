@@ -15,7 +15,7 @@
   - SRM 5 (ammo: 4) 
   - Compact Narc (ammo: 3) 
   - Firedrake Support Needler 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8992) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8992) 
 - **Battle Value:** 74 (662 for 6 suits) 
 
 ## Availability 

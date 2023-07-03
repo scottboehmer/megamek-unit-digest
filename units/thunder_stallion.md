@@ -15,7 +15,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3224) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3224) 
 - **Battle Value:** 2306 
 - [*More Info*](thunder_stallion/thunder_stallion.md) 
 
@@ -34,7 +34,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3225) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3225) 
 - **Battle Value:** 2575 
 - [*More Info*](thunder_stallion/thunder_stallion_2_fire_stallion.md) 
 
@@ -55,7 +55,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3226) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3226) 
 - **Battle Value:** 2631 
 - [*More Info*](thunder_stallion/thunder_stallion_3.md) 
 
@@ -78,7 +78,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Sources:** Shrapnel 3:Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7720) 
+- **Sources:** Shrapnel #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7720) 
 - **Battle Value:** 2607 
 - [*More Info*](thunder_stallion/thunder_stallion_4.md) 
 

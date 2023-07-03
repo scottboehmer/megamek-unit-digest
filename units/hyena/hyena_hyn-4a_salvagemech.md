@@ -17,7 +17,7 @@
   - Enviro-Sealing 
   - Salvage Arm 
   - Lift Hoist × 2 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1598) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1598) 
 - **Battle Value:** 472 
 
 ## Availability 

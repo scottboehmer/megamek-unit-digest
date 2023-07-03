@@ -18,7 +18,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1972) 
+- **Sources:** XTR: Primitives I , [Master Unit List](http://masterunitlist.info/Unit/Details/1972) 
 - **Battle Value:** 1401 
 - [*More Info*](mackie/mackie_msk-5s.md) 
 
@@ -40,7 +40,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1973) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1973) 
 - **Battle Value:** 1438 
 - [*More Info*](mackie/mackie_msk-6s.md) 
 
@@ -61,7 +61,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** RS 3075U , [Master Unit List](http://masterunitlist.info/Unit/Details/4556) 
+- **Sources:** Record Sheets: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4556) 
 - **Battle Value:** 1900 
 - [*More Info*](mackie/mackie_msk-7a.md) 
 
@@ -84,7 +84,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1974) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1974) 
 - **Battle Value:** 2019 
 - [*More Info*](mackie/mackie_msk-8b.md) 
 
@@ -108,7 +108,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975) 
 - **Battle Value:** 2022 
 - [*More Info*](mackie/mackie_msk-9h.md) 
 
@@ -131,7 +131,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5876) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5876) 
 - **Battle Value:** 2162 
 - [*More Info*](mackie/mackie_msk-9hkr_kill-roys_little_buddy.md) 
 

@@ -23,7 +23,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Snub-Nose PPC) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1309) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/1309) 
 - **Battle Value:** 1778 
 
 ## Availability 

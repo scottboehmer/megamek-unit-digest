@@ -17,7 +17,7 @@
   - Heavy Flamer (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #11 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7755) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7755) 
 - **Battle Value:** 1894 
 
 ## Availability 

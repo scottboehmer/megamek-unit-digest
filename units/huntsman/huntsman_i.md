@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7784) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7784) 
 - **Battle Value:** 2277 
 
 ## Availability 

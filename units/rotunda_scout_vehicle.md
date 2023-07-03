@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 2 (ammo: 50) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2745) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2745) 
 - **Battle Value:** 400 
 - [*More Info*](rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11.md) 
 
@@ -25,7 +25,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2746) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2746) 
 - **Battle Value:** 303 
 - [*More Info*](rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11_lrm.md) 
 
@@ -39,7 +39,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Clan Prototype Rocket 15 × 5 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2747) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2747) 
 - **Battle Value:** 320 
 - [*More Info*](rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11_rl.md) 
 
@@ -53,7 +53,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 2 × 4 (ammo: 50) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2748) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2748) 
 - **Battle Value:** 286 
 - [*More Info*](rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11_srm.md) 
 

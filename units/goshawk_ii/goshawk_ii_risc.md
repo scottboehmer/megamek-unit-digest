@@ -24,7 +24,7 @@
   - Combat Computer 
   - Cooling System Flaws 
   - Prototype 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7376) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7376) 
 - **Battle Value:** 1871 
 
 ## Availability 

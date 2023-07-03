@@ -12,7 +12,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - MASH (1 theaters) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1971) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1971) 
 - **Battle Value:** 220 
 - [*More Info*](mash_truck/mash_truck.md) 
 
@@ -29,6 +29,7 @@
 - **Equipment:** 
   - MASH (1 theaters) 
   - Infantry (1.0 tons) 
+- **Source:** TRO: 3025 
 - **Battle Value:** 196 
 - [*More Info*](mash_truck/mash_truck_small.md) 
 
@@ -42,7 +43,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - MASH (1 theaters) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1970) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1970) 
 - **Battle Value:** 213 
 - [*More Info*](mash_truck/mash_truck_ice.md) 
 
@@ -58,7 +59,7 @@
   - Anti-Missile System × 2 (ammo: 12) 
   - MASH (1 theaters) 
   - CASE 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9453) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9453) 
 - **Battle Value:** 269 
 - [*More Info*](mash_truck/mash_truck_ams.md) 
 

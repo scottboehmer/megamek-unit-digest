@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - iNarc (ammo: 8) 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6662) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6662) 
 - **Battle Value:** 994 
 
 ## Availability 

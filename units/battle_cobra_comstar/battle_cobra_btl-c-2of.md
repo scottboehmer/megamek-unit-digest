@@ -16,7 +16,7 @@
   - C3i 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/269) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/269) 
 - **Battle Value:** 1300 
 
 ## Availability 

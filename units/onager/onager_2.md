@@ -27,7 +27,7 @@
   - Exposed Weapon Linkage (HAG 30) 
   - Exposed Weapon Linkage (HAG 30) 
   - Exposed Weapon Linkage (HAG 30) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6847) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6847) 
 - **Battle Value:** 2847 
 
 ## Availability 

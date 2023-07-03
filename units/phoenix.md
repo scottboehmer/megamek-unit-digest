@@ -20,7 +20,7 @@
   - Directional Torso Mount (SRM 2) 
   - Directional Torso Mount (SRM 2) 
   - EM Interference (PPC) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2488) 
+- **Sources:** XTR: Primitives V , [Master Unit List](http://masterunitlist.info/Unit/Details/2488) 
 - **Battle Value:** 917 
 - [*More Info*](phoenix/phoenix_px-1r.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Directional Torso Mount (SRM 2) 
   - Directional Torso Mount (SRM 2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2489) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2489) 
 - **Battle Value:** 1106 
 - [*More Info*](phoenix/phoenix_px-3r.md) 
 
@@ -57,7 +57,7 @@
   - SRM 2 (ammo: 50) 
 - **Design Quirks:** 
   - Directional Torso Mount (SRM 2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2490) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2490) 
 - **Battle Value:** 996 
 - [*More Info*](phoenix/phoenix_px-4r.md) 
 
@@ -74,7 +74,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7467) 
+- **Sources:** Touring the Stars: Kaumberg , [Master Unit List](http://masterunitlist.info/Unit/Details/7467) 
 - **Battle Value:** 766 
 - [*More Info*](phoenix/phoenix_px-1kc.md) 
 
@@ -91,7 +91,7 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 6 (ammo: 30) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7468) 
+- **Sources:** Touring the Stars: Kaumberg , [Master Unit List](http://masterunitlist.info/Unit/Details/7468) 
 - **Battle Value:** 930 
 - [*More Info*](phoenix/phoenix_px-1kl.md) 
 
@@ -108,7 +108,7 @@
 - **Weapons:** 
   - Thunderbolt 10 (ammo: 12) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7470) 
+- **Sources:** Touring the Stars: Kaumberg , [Master Unit List](http://masterunitlist.info/Unit/Details/7470) 
 - **Battle Value:** 857 
 - [*More Info*](phoenix/phoenix_px-1kt.md) 
 
@@ -124,7 +124,7 @@
 - **Weapons:** 
   - Heavy Rifle (ammo: 12) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7469) 
+- **Sources:** Touring the Stars: Kaumberg , [Master Unit List](http://masterunitlist.info/Unit/Details/7469) 
 - **Battle Value:** 760 
 - [*More Info*](phoenix/phoenix_px-1kr.md) 
 

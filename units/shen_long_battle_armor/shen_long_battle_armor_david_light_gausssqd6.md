@@ -11,7 +11,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - David Light Gauss Rifle × 4 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9108) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/9108) 
 - **Battle Value:** 67 (607 for 6 suits) 
 
 ## Availability 

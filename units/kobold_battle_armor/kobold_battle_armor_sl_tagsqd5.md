@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - Squad Support Light TAG 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8643) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8643) 
 - **Battle Value:** 34 (239 for 5 suits) 
 
 ## Availability 

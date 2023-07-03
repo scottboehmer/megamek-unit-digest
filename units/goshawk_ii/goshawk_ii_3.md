@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Nimble Jumper 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1248) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1248) 
 - **Battle Value:** 2115 
 
 ## Availability 

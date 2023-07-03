@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Tube Artillery (ammo: 8) 
   - Firedrake Support Needler 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8833) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/8833) 
 - **Battle Value:** 59 (415 for 5 suits) 
 
 ## Availability 

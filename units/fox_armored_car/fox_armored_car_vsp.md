@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Small VSP Laser 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1152) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1152) 
 - **Battle Value:** 543 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 16) 
   - Medium Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2730) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2730) 
 - **Battle Value:** Unknown 
 - [*More Info*](rogue/rogue_rgu-133e.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - SRM 6 × 4 (ammo: 60) 
   - Medium Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2731) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2731) 
 - **Battle Value:** Unknown 
 - [*More Info*](rogue/rogue_rgu-133f.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2732) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2732) 
 - **Battle Value:** Unknown 
 - [*More Info*](rogue/rogue_rgu-133l.md) 
 
@@ -60,7 +60,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 2 (ammo: 16) 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4929) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4929) 
 - **Battle Value:** Unknown 
 - [*More Info*](rogue/rogue_rgu-133eb.md) 
 
@@ -76,7 +76,7 @@
 - **Weapons:** 
   - PPC × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3050u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2734) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2734) 
 - **Battle Value:** Unknown 
 - [*More Info*](rogue/rogue_rgu-133p.md) 
 
@@ -92,7 +92,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3050u - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2733) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2733) 
 - **Battle Value:** Unknown 
 - [*More Info*](rogue/rogue_rgu-133lp.md) 
 

@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3214) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3214) 
 - **Battle Value:** 1471 
 
 ## Availability 

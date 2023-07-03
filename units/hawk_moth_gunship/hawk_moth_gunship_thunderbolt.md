@@ -14,7 +14,7 @@
   - Thunderbolt 15 (ammo: 8) 
 - **Equipment:** 
   - Mast Mount 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1428) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1428) 
 - **Battle Value:** 745 
 
 ## Availability 

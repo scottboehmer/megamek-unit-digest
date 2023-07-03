@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2755) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2755) 
 - **Battle Value:** 2152 
 
 ## Availability 

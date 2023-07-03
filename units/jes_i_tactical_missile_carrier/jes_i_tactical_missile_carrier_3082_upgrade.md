@@ -15,7 +15,7 @@
   - SRM 4 × 4 (ammo: 50) 
   - ER Small Laser 
   - Machine Gun (ammo: 100) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1702) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1702) 
 - **Battle Value:** 978 
 
 ## Availability 

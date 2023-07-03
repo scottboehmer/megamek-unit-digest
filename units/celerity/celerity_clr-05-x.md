@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6710) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6710) 
 - **Battle Value:** 225 
 
 ## Availability 

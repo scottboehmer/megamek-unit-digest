@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Medium Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/168) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/168) 
 - **Battle Value:** 1598 
 
 ## Availability 

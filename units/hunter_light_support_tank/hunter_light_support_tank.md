@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 20 (ammo: 12) 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1579) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1579) 
 - **Battle Value:** 648 
 
 ## Availability 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #5 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7516) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7516) 
 - **Battle Value:** 2862 
 
 ## Availability 

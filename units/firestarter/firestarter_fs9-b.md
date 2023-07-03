@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Ubiquitous 
   - Exposed Weapon Linkage (Flamer) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1094) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1094) 
 - **Battle Value:** 668 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Quad Turret 
   - Ejection Seat 
-- **Sources:** ISP3 , [Master Unit List](http://masterunitlist.info/Unit/Details/3707) 
+- **Sources:** Intersteller Players 3 , [Master Unit List](http://masterunitlist.info/Unit/Details/3707) 
 - **Battle Value:** 1092 
 
 ## Availability 

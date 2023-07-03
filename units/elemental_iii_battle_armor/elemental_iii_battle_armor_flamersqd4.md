@@ -17,7 +17,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8457) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8457) 
 - **Battle Value:** 51 (267 for 4 suits) 
 
 ## Availability 

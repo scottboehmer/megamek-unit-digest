@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1929) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1929) 
 - **Battle Value:** 2654 
 - [*More Info*](hellbringer/hellbringer_prime.md) 
 
@@ -46,7 +46,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1923) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1923) 
 - **Battle Value:** 1948 
 - [*More Info*](hellbringer/hellbringer_a.md) 
 
@@ -67,7 +67,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1924) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1924) 
 - **Battle Value:** 1592 
 - [*More Info*](hellbringer/hellbringer_b.md) 
 
@@ -88,7 +88,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7594) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7594) 
 - **Battle Value:** 2200 
 - [*More Info*](hellbringer/hellbringer_m.md) 
 
@@ -110,7 +110,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1925) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1925) 
 - **Battle Value:** 2076 
 - [*More Info*](hellbringer/hellbringer_c.md) 
 
@@ -130,7 +130,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5489) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5489) 
 - **Battle Value:** 1839 
 - [*More Info*](hellbringer/hellbringer_f.md) 
 
@@ -154,7 +154,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7442) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7442) 
 - **Battle Value:** 2415 
 - [*More Info*](hellbringer/hellbringer_j.md) 
 
@@ -178,7 +178,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1928) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1928) 
 - **Battle Value:** 1952 
 - [*More Info*](hellbringer/hellbringer_h.md) 
 
@@ -198,7 +198,7 @@
   - Inner Sphere B-Pod × 4 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1926) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1926) 
 - **Battle Value:** 2140 
 - [*More Info*](hellbringer/hellbringer_d.md) 
 
@@ -219,7 +219,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1927) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1927) 
 - **Battle Value:** 2304 
 - [*More Info*](hellbringer/hellbringer_e.md) 
 
@@ -239,7 +239,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6879) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6879) 
 - **Battle Value:** 1956 
 - [*More Info*](hellbringer/hellbringer_g.md) 
 
@@ -261,7 +261,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7441) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7441) 
 - **Battle Value:** 2444 
 - [*More Info*](hellbringer/hellbringer_t.md) 
 

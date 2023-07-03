@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7321) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7321) 
 - **Battle Value:** 1794 
 
 ## Availability 

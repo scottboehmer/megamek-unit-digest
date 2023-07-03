@@ -13,7 +13,7 @@
   - Combine × 2 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO VA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4265) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4265) 
 - **Battle Value:** 161 
 - [*More Info*](harvester_ant/harvester_ant_kic-3_agromech.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 50) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7152) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/7152) 
 - **Battle Value:** 127 
 - [*More Info*](harvester_ant/harvester_ant_kic-3m_agromech_mg.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 50) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** RS VA IM Exo - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7152) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7152) 
 - **Battle Value:** 127 
 - [*More Info*](harvester_ant/harvester_ant_kic-3m_agromech_mod.md) 
 
@@ -57,7 +57,7 @@
 - **Heat Sinks:** 2 (2) 
 - **Weapons:** 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7153) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/7153) 
 - **Battle Value:** 214 
 - [*More Info*](harvester_ant/harvester_ant_kic-3m-b_agromech_lrm.md) 
 
@@ -71,7 +71,7 @@
 - **Heat Sinks:** 2 (2) 
 - **Weapons:** 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** RS:VA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7153) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7153) 
 - **Battle Value:** 214 
 - [*More Info*](harvester_ant/harvester_ant_kic-3m-b_agromech_mod.md) 
 

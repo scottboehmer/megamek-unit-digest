@@ -16,7 +16,7 @@
   - Detachable Clan Micro Pulse Laser 
 - **Equipment:** 
   - Clan ECM Suite 
-- **Sources:** XTRO Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/8895) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/8895) 
 - **Battle Value:** 93 (835 for 6 suits) 
 
 ## Availability 

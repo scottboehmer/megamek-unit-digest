@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5697) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5697) 
 - **Battle Value:** 1641 
 
 ## Availability 

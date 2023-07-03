@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2294) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2294) 
 - **Battle Value:** 2495 
 
 ## Availability 

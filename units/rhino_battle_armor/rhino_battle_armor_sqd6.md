@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Small Pulse Laser 
   - SRM 2 (ammo: 6) 
-- **Sources:** TRO Golden Century - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9201) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/9201) 
 - **Battle Value:** 68 (609 for 6 suits) 
 
 ## Availability 

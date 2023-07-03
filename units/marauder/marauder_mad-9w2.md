@@ -25,7 +25,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (Snub-Nose PPC) 
   - Exposed Weapon Linkage (Snub-Nose PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2051) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2051) 
 - **Battle Value:** 1868 
 
 ## Availability 

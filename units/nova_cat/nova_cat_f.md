@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2304) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2304) 
 - **Battle Value:** 2706 
 
 ## Availability 

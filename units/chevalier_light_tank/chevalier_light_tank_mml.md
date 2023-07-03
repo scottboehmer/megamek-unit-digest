@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - MML 5 (ammo: 24 LRM, 20 SRM) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/580) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/580) 
 - **Battle Value:** 671 
 
 ## Availability 

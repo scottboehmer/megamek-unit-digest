@@ -14,7 +14,7 @@
   - Medium Laser × 6 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7796) 
+- **Sources:** Turing Points: War of 3039 - Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/7796) 
 - **Battle Value:** 1070 
 
 ## Availability 

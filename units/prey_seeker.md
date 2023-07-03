@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Overhead Arms 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6331) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6331) 
 - **Battle Value:** 595 
 - [*More Info*](prey_seeker/prey_seeker_py-sr10.md) 
 
@@ -33,7 +33,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8068) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8068) 
 - **Battle Value:** 1060 
 - [*More Info*](prey_seeker/prey_seeker_py-sr20.md) 
 
@@ -52,7 +52,7 @@
   - Light Machine Gun × 3 (ammo: 100) 
 - **Equipment:** 
   - Machine Gun Array × 2 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8068) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8068) 
 - **Battle Value:** 297 
 - [*More Info*](prey_seeker/prey_seeker_py-sr30.md) 
 

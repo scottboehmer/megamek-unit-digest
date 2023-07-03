@@ -26,7 +26,7 @@
   - Distracting 
   - Protected Actuators 
   - Jettison-Capable Weapon (RAC/2) 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6358) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6358) 
 - **Battle Value:** 2564 
 
 ## Availability 

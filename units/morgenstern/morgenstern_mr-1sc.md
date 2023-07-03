@@ -16,7 +16,7 @@
   - Large Pulse Laser 
   - ER Medium Laser × 5 
   - Medium Pulse Laser 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2223) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2223) 
 - **Battle Value:** Unknown 
 
 ## Availability 

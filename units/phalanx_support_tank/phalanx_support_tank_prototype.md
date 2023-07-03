@@ -17,7 +17,7 @@
   - CASE 
   - Limited Amphibious Chassis 
   - Infantry (1.0 tons) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2480) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/2480) 
 - **Battle Value:** 429 
 
 ## Availability 

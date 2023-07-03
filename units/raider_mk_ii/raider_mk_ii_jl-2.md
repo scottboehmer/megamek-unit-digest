@@ -14,7 +14,7 @@
 - **Weapons:** 
   - RAC/2 (ammo: 90) 
   - Dual Saw 
-- **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6956) 
+- **Sources:** Era Digest: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6956) 
 - **Battle Value:** 883 
 
 ## Availability 

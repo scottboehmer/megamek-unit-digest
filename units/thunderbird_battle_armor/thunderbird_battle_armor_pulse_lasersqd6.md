@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8955) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8955) 
 - **Battle Value:** 52 (471 for 6 suits) 
 
 ## Availability 

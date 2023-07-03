@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ammunition Feed Problem (SRM 2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2858) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2858) 
 - **Battle Value:** 847 
 
 ## Availability 

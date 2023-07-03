@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LRM 3 (ammo: 8) 
   - Light Recoilless Rifle 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9164) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9164) 
 - **Battle Value:** 78 (700 for 6 suits) 
 
 ## Availability 

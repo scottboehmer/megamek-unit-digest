@@ -16,7 +16,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/474) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/474) 
 - **Battle Value:** 1216 
 
 ## Availability 

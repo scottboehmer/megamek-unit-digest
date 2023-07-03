@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3955) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3955) 
 - **Battle Value:** 48 (250 for 4 suits) 
 
 ## Availability 

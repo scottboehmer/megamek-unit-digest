@@ -19,7 +19,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3198) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3198) 
 - **Battle Value:** 2314 
 - [*More Info*](thresher/thresher.md) 
 
@@ -42,7 +42,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3199) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3199) 
 - **Battle Value:** 2337 
 - [*More Info*](thresher/thresher_2.md) 
 
@@ -65,7 +65,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Jihad Turning Points: Luthien - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3197) 
+- **Sources:** Jihad Turning Points: Luthien , [Master Unit List](http://masterunitlist.info/Unit/Details/3197) 
 - **Battle Value:** 2104 
 - [*More Info*](thresher/thresher_edward.md) 
 

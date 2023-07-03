@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** Shrapnel 4 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7928) 
+- **Sources:** Shrapnel #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7928) 
 - **Battle Value:** 773 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4769) 
+- **Sources:** XTR: Primitives I , [Master Unit List](http://masterunitlist.info/Unit/Details/4769) 
 - **Battle Value:** 1205 
 - [*More Info*](ostwar/ostwar_owr-2m.md) 
 
@@ -34,7 +34,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2382) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2382) 
 - **Battle Value:** 1638 
 - [*More Info*](ostwar/ostwar_owr-2mb.md) 
 
@@ -55,7 +55,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2383) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2383) 
 - **Battle Value:** 1557 
 - [*More Info*](ostwar/ostwar_owr-3m.md) 
 

@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 2 
-- **Sources:** Somerset Stikers , [Master Unit List](http://masterunitlist.info/Unit/Details/5855) 
+- **Sources:** Somerset Strikers , [Master Unit List](http://masterunitlist.info/Unit/Details/5855) 
 - **Battle Value:** Unknown 
 
 ## Availability 

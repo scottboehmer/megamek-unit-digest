@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 6 (ammo: 15) 
   - SRM 2 × 3 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/506) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/506) 
 - **Battle Value:** 503 
 
 ## Availability 

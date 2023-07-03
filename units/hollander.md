@@ -14,7 +14,7 @@
   - Reinforced Legs 
   - Unbalanced 
   - Stabilized Weapon (Gauss Rifle) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1536) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1536) 
 - **Battle Value:** 953 
 - [*More Info*](hollander/hollander_bzk-f3.md) 
 
@@ -33,7 +33,7 @@
   - Reinforced Legs 
   - Unbalanced 
   - Stabilized Weapon (LB 10-X AC) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1537) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1537) 
 - **Battle Value:** 873 
 - [*More Info*](hollander/hollander_bzk-g1.md) 
 
@@ -49,7 +49,7 @@
   - Light Gauss Rifle (ammo: 32) 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7992) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7992) 
 - **Battle Value:** 895 
 - [*More Info*](hollander/hollander_bzk-g2.md) 
 

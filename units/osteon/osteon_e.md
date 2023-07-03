@@ -24,7 +24,7 @@
   - Multi-Trac 
   - Protected Actuators 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5826) 
+- **Sources:** Wars of Reaving , [Master Unit List](http://masterunitlist.info/Unit/Details/5826) 
 - **Battle Value:** 2762 
 
 ## Availability 

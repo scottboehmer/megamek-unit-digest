@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Searchlight × 4 
   - Enviro-Sealing 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7869) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7869) 
 - **Battle Value:** 905 
 
 ## Availability 

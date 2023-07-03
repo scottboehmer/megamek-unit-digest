@@ -15,7 +15,7 @@
   - Medium Recoilless Rifle 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9105) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/9105) 
 - **Battle Value:** 56 (502 for 6 suits) 
 
 ## Availability 

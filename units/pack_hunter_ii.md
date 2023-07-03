@@ -17,7 +17,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2396) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2396) 
 - **Battle Value:** 1794 
 - [*More Info*](pack_hunter_ii/pack_hunter_ii.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stabilized Weapon (Unknown Component) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5540) 
+- **Sources:** Dark Age Turning Points: Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/5540) 
 - **Battle Value:** 1276 
 - [*More Info*](pack_hunter_ii/pack_hunter_ii_isis.md) 
 
@@ -60,7 +60,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2397) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2397) 
 - **Battle Value:** 1457 
 - [*More Info*](pack_hunter_ii/pack_hunter_ii_2.md) 
 
@@ -81,7 +81,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2398) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2398) 
 - **Battle Value:** 1438 
 - [*More Info*](pack_hunter_ii/pack_hunter_ii_3.md) 
 
@@ -102,7 +102,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6935) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6935) 
 - **Battle Value:** 1447 
 - [*More Info*](pack_hunter_ii/pack_hunter_ii_4.md) 
 

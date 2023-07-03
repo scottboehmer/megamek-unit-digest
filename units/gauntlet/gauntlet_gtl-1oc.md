@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Poor Life Support 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6624) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6624) 
 - **Battle Value:** 2048 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Battle Claw w/ Vibro-Claw (left) 
 - **Weapons:** 
   - Machine Gun × 2 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8725) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/8725) 
 - **Battle Value:** 56 (392 for 5 suits) 
 
 ## Availability 

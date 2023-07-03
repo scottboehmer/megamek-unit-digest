@@ -13,7 +13,7 @@
 - **Heat Sinks:** 11 (22) 
 - **Weapons:** 
   - PPC × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1375) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1375) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/940) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/940) 
 - **Battle Value:** 1020 
 - [*More Info*](ebony/ebony_meb-10.md) 
 
@@ -39,7 +39,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/941) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/941) 
 - **Battle Value:** 1135 
 - [*More Info*](ebony/ebony_meb-11.md) 
 
@@ -59,7 +59,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/942) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/942) 
 - **Battle Value:** 1012 
 - [*More Info*](ebony/ebony_meb-9.md) 
 
@@ -79,7 +79,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6942) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6942) 
 - **Battle Value:** 1837 
 - [*More Info*](ebony/ebony_meb-12.md) 
 
@@ -97,7 +97,7 @@
   - Large Re-Engineered Laser 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6943) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6943) 
 - **Battle Value:** 750 
 - [*More Info*](ebony/ebony_meb-13.md) 
 

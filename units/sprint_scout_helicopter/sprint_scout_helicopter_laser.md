@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3025) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3025) 
 - **Battle Value:** 220 
 
 ## Availability 

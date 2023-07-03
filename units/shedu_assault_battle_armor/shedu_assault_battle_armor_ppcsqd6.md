@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Support PPC × 2 
   - Detachable Heavy Machine Gun 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9035) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9035) 
 - **Battle Value:** 72 (651 for 6 suits) 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - LRM 15 (ammo: 16) 
   - LB 5-X AC (ammo: 20 Cluster, 20 Standard) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** XTRO Republic I - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7304) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7304) 
 - **Battle Value:** 811 
 
 ## Availability 

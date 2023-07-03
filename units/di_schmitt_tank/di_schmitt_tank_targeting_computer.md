@@ -18,7 +18,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6603) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6603) 
 - **Battle Value:** 1456 
 
 ## Availability 

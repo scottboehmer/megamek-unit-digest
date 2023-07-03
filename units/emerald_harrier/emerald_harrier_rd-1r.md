@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - No/Minimal Arms 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7292) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7292) 
 - **Battle Value:** 888 
 
 ## Availability 

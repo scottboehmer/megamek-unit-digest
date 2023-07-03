@@ -14,7 +14,7 @@
   - PPC 
   - LRM 10 (ammo: 12) 
   - Flamer 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3455) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3455) 
 - **Battle Value:** 1170 
 
 ## Availability 

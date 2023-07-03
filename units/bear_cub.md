@@ -19,7 +19,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Cramped Cockpit 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/314) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/314) 
 - **Battle Value:** 1052 
 - [*More Info*](bear_cub/bear_cub.md) 
 
@@ -41,7 +41,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Cramped Cockpit 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/315) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/315) 
 - **Battle Value:** 988 
 - [*More Info*](bear_cub/bear_cub_2.md) 
 
@@ -63,7 +63,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Cramped Cockpit 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/316) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/316) 
 - **Battle Value:** 1086 
 - [*More Info*](bear_cub/bear_cub_3.md) 
 

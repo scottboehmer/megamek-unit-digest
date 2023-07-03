@@ -17,7 +17,7 @@
   - Clan Micro Pulse Laser × 4 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8375) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8375) 
 - **Battle Value:** 1492 
 
 ## Availability 

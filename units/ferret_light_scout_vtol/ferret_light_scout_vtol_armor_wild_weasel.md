@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1058) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1058) 
 - **Battle Value:** 103 
 
 ## Availability 

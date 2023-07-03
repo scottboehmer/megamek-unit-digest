@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2376) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2376) 
 - **Battle Value:** 1581 
 
 ## Availability 

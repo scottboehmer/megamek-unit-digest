@@ -13,7 +13,7 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/693) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/693) 
 - **Battle Value:** Unknown 
 - [*More Info*](corsair/corsair_csr-v12.md) 
 
@@ -31,7 +31,7 @@
   - Medium Pulse Laser × 2 
   - Medium Laser 
   - Small Laser × 2 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/694) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/694) 
 - **Battle Value:** Unknown 
 - [*More Info*](corsair/corsair_csr-v12b.md) 
 
@@ -48,7 +48,7 @@
   - Large Laser 
   - Medium Laser × 2 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/695) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/695) 
 - **Battle Value:** Unknown 
 - [*More Info*](corsair/corsair_csr-v12m_regulus.md) 
 
@@ -64,7 +64,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - SRM 6 (ammo: 15) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/698) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/698) 
 - **Battle Value:** Unknown 
 - [*More Info*](corsair/corsair_csr-v20.md) 
 
@@ -81,7 +81,7 @@
   - ER Large Laser × 2 
   - Medium Laser × 2 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/696) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/696) 
 - **Battle Value:** Unknown 
 - [*More Info*](corsair/corsair_csr-v14.md) 
 
@@ -99,7 +99,7 @@
   - Light PPC × 2 
   - Medium Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/697) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/697) 
 - **Battle Value:** Unknown 
 - [*More Info*](corsair/corsair_csr-v18.md) 
 
@@ -115,7 +115,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 80) 
   - Streak SRM 6 (ammo: 15) 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4008) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/4008) 
 - **Battle Value:** Unknown 
 - [*More Info*](corsair/corsair_bob_roswell.md) 
 
@@ -131,7 +131,7 @@
 - **Weapons:** 
   - Clan Medium Pulse Laser × 4 
   - Clan Small Pulse Laser × 4 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/699) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/699) 
 - **Battle Value:** Unknown 
 - [*More Info*](corsair/corsair_csr-x12_rigid_night.md) 
 
@@ -148,7 +148,7 @@
   - Large X-Pulse Laser 
   - Medium X-Pulse Laser × 2 
   - ER Medium Laser × 2 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4009) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4009) 
 - **Battle Value:** Unknown 
 - [*More Info*](corsair/corsair_csr-12d.md) 
 

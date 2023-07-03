@@ -19,7 +19,7 @@
   - Protected Actuators 
   - Stable 
   - Jettison-Capable Weapon (AC/5) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7406) 
+- **Sources:** XTR: Primitives V , [Master Unit List](http://masterunitlist.info/Unit/Details/7406) 
 - **Battle Value:** 885 
 
 ## Availability 

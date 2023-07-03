@@ -18,7 +18,7 @@
   - Coolant Pod × 2 
   - CASE II 
   - Supercharger 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6291) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6291) 
 - **Battle Value:** 3184 
 
 ## Availability 

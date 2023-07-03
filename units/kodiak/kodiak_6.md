@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #21 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8364) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/8364) 
 - **Battle Value:** 2922 
 
 ## Availability 

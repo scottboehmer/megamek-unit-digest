@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 6 × 10 (ammo: 60) 
-- **Sources:** Rec Guide:ilClan #30 - Late Republc , [Master Unit List](http://masterunitlist.info/Unit/Details/9425) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9425) 
 - **Battle Value:** 936 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/458) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/458) 
 - **Battle Value:** 1750 
 
 ## Availability 

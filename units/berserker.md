@@ -19,7 +19,7 @@
   - MASC 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/329) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/329) 
 - **Battle Value:** 2117 
 - [*More Info*](berserker/berserker_brz-a3.md) 
 
@@ -42,7 +42,7 @@
   - MASC 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/330) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/330) 
 - **Battle Value:** 2020 
 - [*More Info*](berserker/berserker_brz-b3.md) 
 
@@ -66,7 +66,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/331) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/331) 
 - **Battle Value:** 2395 
 - [*More Info*](berserker/berserker_brz-c3.md) 
 
@@ -90,7 +90,7 @@
   - Angel ECM Suite 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6831) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6831) 
 - **Battle Value:** 2659 
 - [*More Info*](berserker/berserker_brz-d4.md) 
 

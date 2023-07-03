@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/53) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/53) 
 - **Battle Value:** 1690 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - ER PPC × 4 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** Spotlight On: Hellion Keshik - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8470) 
+- **Sources:** Spotlight On: Hellion Keshik , [Master Unit List](http://masterunitlist.info/Unit/Details/8470) 
 - **Battle Value:** 2737 
 
 ## Availability 

@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8133) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/8133) 
 - **Battle Value:** 3317 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Machine Gun × 8 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6755) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6755) 
 - **Battle Value:** 688 
 
 ## Availability 

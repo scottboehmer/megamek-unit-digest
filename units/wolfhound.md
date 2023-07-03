@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3560) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3560) 
 - **Battle Value:** 949 
 - [*More Info*](wolfhound/wolfhound_wlf-1.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3561) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3561) 
 - **Battle Value:** 967 
 - [*More Info*](wolfhound/wolfhound_wlf-1a.md) 
 
@@ -56,7 +56,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3562) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3562) 
 - **Battle Value:** 967 
 - [*More Info*](wolfhound/wolfhound_wlf-1b.md) 
 
@@ -76,7 +76,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3563) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3563) 
 - **Battle Value:** 1061 
 - [*More Info*](wolfhound/wolfhound_wlf-2.md) 
 
@@ -98,7 +98,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5416) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5416) 
 - **Battle Value:** 1941 
 - [*More Info*](wolfhound/wolfhound_wlf-1_allard.md) 
 
@@ -119,7 +119,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3566) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3566) 
 - **Battle Value:** 1176 
 - [*More Info*](wolfhound/wolfhound_wlf-3s.md) 
 
@@ -140,7 +140,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3567) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3567) 
 - **Battle Value:** 1090 
 - [*More Info*](wolfhound/wolfhound_wlf-4w.md) 
 
@@ -160,7 +160,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3568) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/3568) 
 - **Battle Value:** 1050 
 - [*More Info*](wolfhound/wolfhound_wlf-4wa.md) 
 
@@ -183,7 +183,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** XTR Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3564) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/3564) 
 - **Battle Value:** 1842 
 - [*More Info*](wolfhound/wolfhound_wlf-2x.md) 
 
@@ -202,7 +202,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3565) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3565) 
 - **Battle Value:** 786 
 - [*More Info*](wolfhound/wolfhound_wlf-3m.md) 
 
@@ -223,7 +223,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO:3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3569) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3569) 
 - **Battle Value:** 1290 
 - [*More Info*](wolfhound/wolfhound_wlf-5.md) 
 
@@ -245,7 +245,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5417) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5417) 
 - **Battle Value:** 1511 
 - [*More Info*](wolfhound/wolfhound_wlf-2h.md) 
 
@@ -267,7 +267,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8223) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8223) 
 - **Battle Value:** 1266 
 - [*More Info*](wolfhound/wolfhound_wlf-6s.md) 
 

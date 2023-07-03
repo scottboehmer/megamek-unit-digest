@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3447) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3447) 
 - **Battle Value:** 1635 
 - [*More Info*](volkh/volkh_vkh-1.md) 
 
@@ -40,7 +40,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3448) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3448) 
 - **Battle Value:** 1578 
 - [*More Info*](volkh/volkh_vkh-7.md) 
 
@@ -65,7 +65,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Protected Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8107) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8107) 
 - **Battle Value:** 1679 
 - [*More Info*](volkh/volkh_vkh-68.md) 
 

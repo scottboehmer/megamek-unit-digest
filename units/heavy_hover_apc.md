@@ -12,7 +12,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (6.0 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1435) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1435) 
 - **Battle Value:** 188 
 - [*More Info*](heavy_hover_apc/heavy_hover_apc.md) 
 
@@ -29,7 +29,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1431) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1431) 
 - **Battle Value:** 284 
 - [*More Info*](heavy_hover_apc/heavy_hover_apc_lrm.md) 
 
@@ -45,7 +45,7 @@
   - Machine Gun × 6 (ammo: 300) 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1432) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1432) 
 - **Battle Value:** 218 
 - [*More Info*](heavy_hover_apc/heavy_hover_apc_mg.md) 
 
@@ -62,7 +62,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1434) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1434) 
 - **Battle Value:** 271 
 - [*More Info*](heavy_hover_apc/heavy_hover_apc_srm.md) 
 
@@ -78,7 +78,7 @@
   - Light AC/5 (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1433) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1433) 
 - **Battle Value:** 330 
 - [*More Info*](heavy_hover_apc/heavy_hover_apc_scout_tank.md) 
 

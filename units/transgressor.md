@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Large Laser × 3 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3283) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3283) 
 - **Battle Value:** Unknown 
 - [*More Info*](transgressor/transgressor_tr-13.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - AC/20 (ammo: 10) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3285) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3285) 
 - **Battle Value:** Unknown 
 - [*More Info*](transgressor/transgressor_tr-14_ac.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - ER Large Laser × 3 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3284) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3284) 
 - **Battle Value:** Unknown 
 - [*More Info*](transgressor/transgressor_tr-13a.md) 
 
@@ -60,7 +60,7 @@
 - **Weapons:** 
   - Gauss Rifle × 2 (ammo: 24) 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3287) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3287) 
 - **Battle Value:** Unknown 
 - [*More Info*](transgressor/transgressor_tr-16.md) 
 
@@ -77,7 +77,7 @@
   - Heavy PPC × 2 
   - ER Large Laser 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3286) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3286) 
 - **Battle Value:** Unknown 
 - [*More Info*](transgressor/transgressor_tr-15.md) 
 

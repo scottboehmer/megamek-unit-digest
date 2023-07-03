@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3474) 
+- **Sources:** Record Sheets: 3085 Unabridged - Old is the New New , [Master Unit List](http://masterunitlist.info/Unit/Details/3474) 
 - **Battle Value:** 2488 
 
 ## Availability 

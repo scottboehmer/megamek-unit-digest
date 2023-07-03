@@ -16,7 +16,7 @@
   - Large Laser 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1771) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1771) 
 - **Battle Value:** 1810 
 
 ## Availability 

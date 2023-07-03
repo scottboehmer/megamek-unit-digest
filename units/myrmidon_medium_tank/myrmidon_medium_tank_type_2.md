@@ -14,7 +14,7 @@
   - Plasma Rifle (ammo: 30) 
 - **Equipment:** 
   - Mine Dispenser × 6 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2246) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2246) 
 - **Battle Value:** 1002 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Infantry (2.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4395) 
+- **Sources:** TRO: 3025 , [Master Unit List](http://masterunitlist.info/Unit/Details/4395) 
 - **Battle Value:** 56 
 
 ## Availability 

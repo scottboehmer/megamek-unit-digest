@@ -16,7 +16,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1124) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1124) 
 - **Battle Value:** 1779 
 - [*More Info*](flashman/flashman_fls-8k.md) 
 
@@ -34,7 +34,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1123) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1123) 
 - **Battle Value:** 1480 
 - [*More Info*](flashman/flashman_fls-7k.md) 
 
@@ -54,7 +54,7 @@
   - C3i 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1126) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1126) 
 - **Battle Value:** 1779 
 - [*More Info*](flashman/flashman_fls-9c.md) 
 
@@ -74,7 +74,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1128) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1128) 
 - **Battle Value:** 1774 
 - [*More Info*](flashman/flashman_fls-c.md) 
 
@@ -97,7 +97,7 @@
   - C3i 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1125) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1125) 
 - **Battle Value:** 1600 
 - [*More Info*](flashman/flashman_fls-9b.md) 
 
@@ -116,7 +116,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1127) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1127) 
 - **Battle Value:** 1895 
 - [*More Info*](flashman/flashman_fls-9m.md) 
 
@@ -138,7 +138,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8445) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8445) 
 - **Battle Value:** 3349 
 - [*More Info*](flashman/flashman_fls-10e.md) 
 

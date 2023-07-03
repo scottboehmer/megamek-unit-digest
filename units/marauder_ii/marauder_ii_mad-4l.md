@@ -20,7 +20,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** RS 3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6828) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6828) 
 - **Battle Value:** 2839 
 
 ## Availability 

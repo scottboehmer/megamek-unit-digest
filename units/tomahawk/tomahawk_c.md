@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6301) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6301) 
 - **Battle Value:** 2985 
 
 ## Availability 

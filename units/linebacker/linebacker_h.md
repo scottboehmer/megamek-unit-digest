@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1891) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1891) 
 - **Battle Value:** 2097 
 
 ## Availability 

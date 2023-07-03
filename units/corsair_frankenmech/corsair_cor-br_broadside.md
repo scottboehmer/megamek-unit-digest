@@ -15,6 +15,7 @@
   - Large Laser × 2 
   - Medium Laser 
   - SRM 4 × 3 (ammo: 75) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2124 
 
 ## Availability 

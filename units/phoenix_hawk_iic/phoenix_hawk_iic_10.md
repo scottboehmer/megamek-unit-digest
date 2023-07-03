@@ -20,7 +20,7 @@
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8197) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8197) 
 - **Battle Value:** 2762 
 
 ## Availability 

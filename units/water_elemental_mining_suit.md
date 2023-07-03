@@ -15,7 +15,7 @@
   - Cutting Torch × 2 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Golden Century - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7671) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7671) 
 - **Battle Value:** 20 (106 for 4 suits) 
 - [*More Info*](water_elemental_mining_suit/water_elemental_mining_suit_sqd4.md) 
 
@@ -34,7 +34,7 @@
   - Cutting Torch × 2 
   - Extended Life Support 
   - Searchlight 
-- **Source:** TRO Golden Century - Early Succession War 
+- **Source:** TRO: Golden Century 
 - **Battle Value:** 20 (142 for 5 suits) 
 - [*More Info*](water_elemental_mining_suit/water_elemental_mining_suit_sqd5.md) 
 
@@ -53,7 +53,7 @@
   - Cutting Torch × 2 
   - Extended Life Support 
   - Searchlight 
-- **Source:** TRO Golden Century - Early Succession War 
+- **Source:** TRO: Golden Century 
 - **Battle Value:** 20 (183 for 6 suits) 
 - [*More Info*](water_elemental_mining_suit/water_elemental_mining_suit_sqd6.md) 
 

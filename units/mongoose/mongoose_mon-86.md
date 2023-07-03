@@ -21,7 +21,7 @@
   - Command ’Mech 
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2215) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2215) 
 - **Battle Value:** 887 
 
 ## Availability 

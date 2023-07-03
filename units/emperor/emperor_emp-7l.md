@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/971) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/971) 
 - **Battle Value:** 2179 
 
 ## Availability 

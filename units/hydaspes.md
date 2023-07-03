@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4352) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4352) 
 - **Battle Value:** Unknown 
 - [*More Info*](hydaspes/hydaspes.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4353) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4353) 
 - **Battle Value:** Unknown 
 - [*More Info*](hydaspes/hydaspes_2.md) 
 
@@ -54,7 +54,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1593) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/1593) 
 - **Battle Value:** Unknown 
 - [*More Info*](hydaspes/hydaspes_algar.md) 
 
@@ -76,7 +76,7 @@
   - Laser Anti-Missile System 
   - Inner Sphere Coolant Pod × 2 
   - CASE 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4351) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4351) 
 - **Battle Value:** Unknown 
 - [*More Info*](hydaspes/hydaspes_3.md) 
 

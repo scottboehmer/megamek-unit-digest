@@ -22,7 +22,7 @@
   - ER Micro Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7382) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7382) 
 - **Battle Value:** 2533 
 
 ## Availability 

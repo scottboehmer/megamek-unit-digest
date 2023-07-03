@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - No/Minimal Arms 
-- **Sources:** JTP Tharkad , [Master Unit List](http://masterunitlist.info/Unit/Details/916) 
+- **Sources:** Jihad Turning Points: Tharkad , [Master Unit List](http://masterunitlist.info/Unit/Details/916) 
 - **Battle Value:** 2230 
 
 ## Availability 

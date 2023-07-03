@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - TAG 
-- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9308) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9308) 
 - **Battle Value:** 1124 
 
 ## Availability 

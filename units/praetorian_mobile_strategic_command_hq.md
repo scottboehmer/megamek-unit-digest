@@ -15,7 +15,7 @@
   - Communications Equipment 
   - Cargo 
   - Armored Motive System 
-- **Sources:** ED Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6957) 
+- **Sources:** Era Digest: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6957) 
 - **Battle Value:** 716 
 - [*More Info*](praetorian_mobile_strategic_command_hq/praetorian_mobile_strategic_command_hq.md) 
 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Minesweeper 
   - Modular Armor 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2843) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/2843) 
 - **Battle Value:** 323 
 
 ## Availability 

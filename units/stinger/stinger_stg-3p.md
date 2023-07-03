@@ -17,7 +17,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3060) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3060) 
 - **Battle Value:** 489 
 
 ## Availability 

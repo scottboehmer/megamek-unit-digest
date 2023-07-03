@@ -9,7 +9,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - David Light Gauss Rifle × 4 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6431) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6431) 
 - **Battle Value:** 67 (350 for 4 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_david_light_gausssqd4.md) 
 
@@ -22,7 +22,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - David Light Gauss Rifle × 4 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8745) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/8745) 
 - **Battle Value:** 67 (472 for 5 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_david_light_gausssqd5.md) 
 
@@ -35,7 +35,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - David Light Gauss Rifle × 4 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9108) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/9108) 
 - **Battle Value:** 67 (607 for 6 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_david_light_gausssqd6.md) 
 
@@ -50,7 +50,7 @@
   - Clan Flamer × 2 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6435) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6435) 
 - **Battle Value:** 53 (276 for 4 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_interdictorsqd4.md) 
 
@@ -65,7 +65,7 @@
   - Clan Flamer × 2 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8749) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/8749) 
 - **Battle Value:** 53 (371 for 5 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_interdictorsqd5.md) 
 
@@ -80,7 +80,7 @@
   - Clan Flamer × 2 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9112) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/9112) 
 - **Battle Value:** 53 (477 for 6 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_interdictorsqd6.md) 
 
@@ -93,7 +93,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - Clan Machine Gun × 4 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6432) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6432) 
 - **Battle Value:** 60 (314 for 4 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_mgsqd4.md) 
 
@@ -106,7 +106,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - Clan Machine Gun × 4 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8746) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/8746) 
 - **Battle Value:** 60 (422 for 5 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_mgsqd5.md) 
 
@@ -119,7 +119,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - Clan Machine Gun × 4 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9109) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/9109) 
 - **Battle Value:** 60 (543 for 6 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_mgsqd6.md) 
 
@@ -132,7 +132,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - MRM 5 (ammo: 4) 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6433) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6433) 
 - **Battle Value:** 68 (352 for 4 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_mrmsqd4.md) 
 
@@ -145,7 +145,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - MRM 5 (ammo: 4) 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8747) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/8747) 
 - **Battle Value:** 68 (474 for 5 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_mrmsqd5.md) 
 
@@ -158,7 +158,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - MRM 5 (ammo: 4) 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9110) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/9110) 
 - **Battle Value:** 68 (610 for 6 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_mrmsqd6.md) 
 
@@ -172,7 +172,7 @@
 - **Weapons:** 
   - Pop-Up Mine (OS) 
   - Clan Heavy Grenade Launcher × 2 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6436) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6436) 
 - **Battle Value:** 52 (268 for 4 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_pop-up_minesqd4.md) 
 
@@ -186,7 +186,7 @@
 - **Weapons:** 
   - Pop-Up Mine (OS) 
   - Clan Heavy Grenade Launcher × 2 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8750) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/8750) 
 - **Battle Value:** 52 (361 for 5 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_pop-up_minesqd5.md) 
 
@@ -200,7 +200,7 @@
 - **Weapons:** 
   - Pop-Up Mine (OS) 
   - Clan Heavy Grenade Launcher × 2 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9113) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/9113) 
 - **Battle Value:** 52 (464 for 6 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_pop-up_minesqd6.md) 
 
@@ -213,7 +213,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - SRM 4 (ammo: 4) 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6434) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6434) 
 - **Battle Value:** 78 (404 for 4 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_srmsqd4.md) 
 
@@ -226,7 +226,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - SRM 4 (ammo: 4) 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8748) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/8748) 
 - **Battle Value:** 78 (544 for 5 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_srmsqd5.md) 
 
@@ -239,7 +239,7 @@
 - **Armor:** 11 (Mimetic) 
 - **Weapons:** 
   - SRM 4 (ammo: 4) 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9111) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/9111) 
 - **Battle Value:** 78 (700 for 6 suits) 
 - [*More Info*](shen_long_battle_armor/shen_long_battle_armor_srmsqd6.md) 
 

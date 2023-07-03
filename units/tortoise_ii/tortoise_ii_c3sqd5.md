@@ -14,7 +14,7 @@
   - Clan Light Machine Gun × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8824) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/8824) 
 - **Battle Value:** 119 (833 for 5 suits) 
 
 ## Availability 

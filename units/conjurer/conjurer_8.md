@@ -20,7 +20,7 @@
   - MASC 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7513) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7513) 
 - **Battle Value:** 2155 
 
 ## Availability 

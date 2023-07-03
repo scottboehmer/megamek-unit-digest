@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1497) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1497) 
 - **Battle Value:** 784 
 - [*More Info*](hermes_ii/hermes_ii_her-2s.md) 
 
@@ -34,7 +34,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1496) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1496) 
 - **Battle Value:** 910 
 - [*More Info*](hermes_ii/hermes_ii_her-2m_mercury.md) 
 
@@ -51,7 +51,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1498) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1498) 
 - **Battle Value:** 976 
 - [*More Info*](hermes_ii/hermes_ii_her-4k_hermes_iii.md) 
 
@@ -70,7 +70,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1501) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1501) 
 - **Battle Value:** 857 
 - [*More Info*](hermes_ii/hermes_ii_her-5s.md) 
 
@@ -87,7 +87,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1500) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1500) 
 - **Battle Value:** 847 
 - [*More Info*](hermes_ii/hermes_ii_her-5me_mercury_elite.md) 
 
@@ -108,7 +108,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1499) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1499) 
 - **Battle Value:** 1119 
 - [*More Info*](hermes_ii/hermes_ii_her-5c.md) 
 
@@ -127,7 +127,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1504) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1504) 
 - **Battle Value:** 1106 
 - [*More Info*](hermes_ii/hermes_ii_her-6d.md) 
 
@@ -146,7 +146,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1502) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1502) 
 - **Battle Value:** 924 
 - [*More Info*](hermes_ii/hermes_ii_her-5sa.md) 
 
@@ -168,7 +168,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1503) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1503) 
 - **Battle Value:** 1242 
 - [*More Info*](hermes_ii/hermes_ii_her-5sr.md) 
 
@@ -190,7 +190,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1505) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/1505) 
 - **Battle Value:** 1525 
 - [*More Info*](hermes_ii/hermes_ii_her-7s.md) 
 
@@ -212,7 +212,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9314) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9314) 
 - **Battle Value:** 1121 
 - [*More Info*](hermes_ii/hermes_ii_her-7a.md) 
 

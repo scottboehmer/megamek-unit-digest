@@ -14,7 +14,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/1057) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1057) 
 - **Battle Value:** 1687 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige.md) 
 
@@ -32,7 +32,7 @@
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
   - Infantry (5 tons) 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/1055) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1055) 
 - **Battle Value:** 2399 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_hag.md) 
 
@@ -51,7 +51,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (16 tons) 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/1056) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1056) 
 - **Battle Value:** 1424 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_infantry.md) 
 
@@ -70,7 +70,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5789) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5789) 
 - **Battle Value:** 1513 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_xxl.md) 
 
@@ -89,7 +89,7 @@
   - Guardian ECM Suite 
   - Armored Motive System 
   - CASE 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8038) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8038) 
 - **Battle Value:** 1600 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_3132_upgrade.md) 
 
@@ -109,7 +109,7 @@
   - Guardian ECM Suite 
   - Armored Motive System 
   - CASE 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8039) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8039) 
 - **Battle Value:** 1373 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_3137_upgrade.md) 
 
@@ -129,7 +129,7 @@
   - Anti-Missile System × 2 (ammo: 12) 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8040) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8040) 
 - **Battle Value:** 1534 
 - [*More Info*](fensalir_combat_wige/fensalir_combat_wige_stealth.md) 
 

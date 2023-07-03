@@ -20,7 +20,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2338) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2338) 
 - **Battle Value:** 1828 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4794) 
+- **Sources:** XTR: RetroTech , [Master Unit List](http://masterunitlist.info/Unit/Details/4794) 
 - **Battle Value:** 143 
 
 ## Availability 

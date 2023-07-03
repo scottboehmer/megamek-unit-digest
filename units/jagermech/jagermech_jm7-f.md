@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4391) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4391) 
 - **Battle Value:** 1774 
 
 ## Availability 

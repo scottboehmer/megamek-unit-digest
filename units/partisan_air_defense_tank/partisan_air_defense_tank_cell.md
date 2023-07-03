@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2434) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2434) 
 - **Battle Value:** 980 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7721) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7721) 
 - **Battle Value:** 731 
 
 ## Availability 

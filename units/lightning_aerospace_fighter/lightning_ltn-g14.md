@@ -15,7 +15,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 20) 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4512) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4512) 
 - **Battle Value:** Unknown 
 
 ## Availability 

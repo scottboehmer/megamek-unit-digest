@@ -19,7 +19,7 @@
   - CASE 
   - Infantry (4.0 tons) 
   - Drone Control System 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5741) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5741) 
 - **Battle Value:** 1502 
 
 ## Availability 

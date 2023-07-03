@@ -21,7 +21,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7565) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7565) 
 - **Battle Value:** 2157 
 
 ## Availability 

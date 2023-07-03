@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/342) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/342) 
 - **Battle Value:** 2663 
 - [*More Info*](nova/nova_prime.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/335) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/335) 
 - **Battle Value:** 2422 
 - [*More Info*](nova/nova_a.md) 
 
@@ -59,7 +59,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/336) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/336) 
 - **Battle Value:** 1543 
 - [*More Info*](nova/nova_b.md) 
 
@@ -81,7 +81,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/337) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/337) 
 - **Battle Value:** 1515 
 - [*More Info*](nova/nova_c.md) 
 
@@ -102,7 +102,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/338) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/338) 
 - **Battle Value:** 1450 
 - [*More Info*](nova/nova_d.md) 
 
@@ -125,7 +125,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/343) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/343) 
 - **Battle Value:** 2056 
 - [*More Info*](nova/nova_s.md) 
 
@@ -146,7 +146,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/339) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/339) 
 - **Battle Value:** 2078 
 - [*More Info*](nova/nova_e.md) 
 
@@ -164,7 +164,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/341) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/341) 
 - **Battle Value:** 1832 
 - [*More Info*](nova/nova_h.md) 
 
@@ -185,7 +185,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/340) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/340) 
 - **Battle Value:** 1976 
 - [*More Info*](nova/nova_f.md) 
 
@@ -213,7 +213,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/344) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/344) 
 - **Battle Value:** 1413 
 - [*More Info*](nova/nova_u.md) 
 
@@ -236,7 +236,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8165) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8165) 
 - **Battle Value:** 1822 
 - [*More Info*](nova/nova_g.md) 
 
@@ -255,7 +255,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6909) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/6909) 
 - **Battle Value:** 2224 
 - [*More Info*](nova/nova_i.md) 
 
@@ -276,7 +276,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8166) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8166) 
 - **Battle Value:** 2052 
 - [*More Info*](nova/nova_j.md) 
 
@@ -298,7 +298,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8167) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8167) 
 - **Battle Value:** 1932 
 - [*More Info*](nova/nova_k.md) 
 
@@ -317,7 +317,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8168) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8168) 
 - **Battle Value:** 2177 
 - [*More Info*](nova/nova_l.md) 
 
@@ -338,7 +338,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6910) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6910) 
 - **Battle Value:** 2761 
 - [*More Info*](nova/nova_x.md) 
 
@@ -360,7 +360,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8169) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8169) 
 - **Battle Value:** 1597 
 - [*More Info*](nova/nova_r.md) 
 
@@ -380,7 +380,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8164) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8164) 
 - **Battle Value:** 1579 
 - [*More Info*](nova/nova_t.md) 
 

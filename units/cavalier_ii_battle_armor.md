@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Clan Jump Booster 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8017) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8017) 
 - **Battle Value:** 44 (229 for 4 suits) 
 - [*More Info*](cavalier_ii_battle_armor/cavalier_ii_battle_armor_flamersqd4.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Clan Jump Booster 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8018) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8018) 
 - **Battle Value:** 69 (357 for 4 suits) 
 - [*More Info*](cavalier_ii_battle_armor/cavalier_ii_battle_armor_mrrsqd4.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - Clan Jump Booster 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8019) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8019) 
 - **Battle Value:** 60 (311 for 4 suits) 
 - [*More Info*](cavalier_ii_battle_armor/cavalier_ii_battle_armor_ppcsqd4.md) 
 
@@ -72,7 +72,7 @@
 - **Equipment:** 
   - Clan Jump Booster 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8020) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8020) 
 - **Battle Value:** 49 (252 for 4 suits) 
 - [*More Info*](cavalier_ii_battle_armor/cavalier_ii_battle_armor_srmsqd4.md) 
 

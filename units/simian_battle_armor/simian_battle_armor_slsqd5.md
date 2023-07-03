@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8777) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/8777) 
 - **Battle Value:** 40 (282 for 5 suits) 
 
 ## Availability 

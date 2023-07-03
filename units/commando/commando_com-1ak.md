@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7461) 
+- **Sources:** Touring the Stars: Kaumberg , [Master Unit List](http://masterunitlist.info/Unit/Details/7461) 
 - **Battle Value:** 549 
 
 ## Availability 

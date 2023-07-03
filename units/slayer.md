@@ -12,7 +12,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 20) 
   - Medium Laser × 6 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2959) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2959) 
 - **Battle Value:** Unknown 
 - [*More Info*](slayer/slayer_sl-15.md) 
 
@@ -29,7 +29,7 @@
   - LRM 15 (ammo: 16) 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 6 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2961) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2961) 
 - **Battle Value:** Unknown 
 - [*More Info*](slayer/slayer_sl-15a.md) 
 
@@ -46,7 +46,7 @@
   - LRM 15 (ammo: 16) 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 6 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2962) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2962) 
 - **Battle Value:** Unknown 
 - [*More Info*](slayer/slayer_sl-15b.md) 
 
@@ -63,7 +63,7 @@
   - LRM 15 (ammo: 16) 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 6 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2963) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2963) 
 - **Battle Value:** Unknown 
 - [*More Info*](slayer/slayer_sl-15c.md) 
 
@@ -79,7 +79,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 30 Cluster) 
   - Medium Laser × 6 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2965) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2965) 
 - **Battle Value:** Unknown 
 - [*More Info*](slayer/slayer_sl-15r.md) 
 
@@ -95,7 +95,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 30 Cluster) 
   - ER Medium Laser × 6 
-- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2964) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2964) 
 - **Battle Value:** Unknown 
 - [*More Info*](slayer/slayer_sl-15k.md) 
 
@@ -111,7 +111,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - Medium Laser × 5 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2960) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/2960) 
 - **Battle Value:** Unknown 
 - [*More Info*](slayer/slayer_sl-15_eric.md) 
 
@@ -129,7 +129,7 @@
   - Clan Improved Heavy Medium Laser × 4 
 - **Equipment:** 
   - Clan Laser Anti-Missile System 
-- **Sources:** XTRO Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2966) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/2966) 
 - **Battle Value:** Unknown 
 - [*More Info*](slayer/slayer_sl-cx1.md) 
 

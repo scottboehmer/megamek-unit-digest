@@ -26,7 +26,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #13 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4046) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/4046) 
 - **Battle Value:** 2645 
 
 ## Availability 

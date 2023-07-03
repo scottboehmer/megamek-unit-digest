@@ -19,7 +19,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3066) 
+- **Sources:** TRO: Project Pheonix , [Master Unit List](http://masterunitlist.info/Unit/Details/3066) 
 - **Battle Value:** 680 
 
 ## Availability 

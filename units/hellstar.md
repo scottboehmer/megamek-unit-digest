@@ -13,7 +13,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Barrel Fists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1481) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1481) 
 - **Battle Value:** 3084 
 - [*More Info*](hellstar/hellstar.md) 
 
@@ -32,7 +32,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Barrel Fists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1479) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1479) 
 - **Battle Value:** 3545 
 - [*More Info*](hellstar/hellstar_2.md) 
 
@@ -54,7 +54,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Barrel Fists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1480) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1480) 
 - **Battle Value:** 3025 
 - [*More Info*](hellstar/hellstar_3.md) 
 

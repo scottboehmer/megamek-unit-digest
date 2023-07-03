@@ -21,7 +21,7 @@
   - Improved Communications 
   - Ubiquitous (Clans) 
   - Jettison-Capable Weapon (Improved Large Laser) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7678) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7678) 
 - **Battle Value:** 1206 
 
 ## Availability 

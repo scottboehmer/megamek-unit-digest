@@ -14,7 +14,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2724) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2724) 
 - **Battle Value:** 160 
 
 ## Availability 

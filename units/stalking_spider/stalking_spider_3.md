@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3047) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3047) 
 - **Battle Value:** 1643 
 
 ## Availability 

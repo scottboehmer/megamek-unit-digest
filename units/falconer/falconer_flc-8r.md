@@ -17,7 +17,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1033) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1033) 
 - **Battle Value:** 2231 
 
 ## Availability 

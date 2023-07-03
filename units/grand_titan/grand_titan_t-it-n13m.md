@@ -26,7 +26,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6830) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6830) 
 - **Battle Value:** 2533 
 
 ## Availability 

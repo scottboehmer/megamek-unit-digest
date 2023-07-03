@@ -13,7 +13,7 @@
   - Light AC/5 (ammo: 20) 
   - ER Medium Laser × 4 
   - Small Pulse Laser 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2554) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2554) 
 - **Battle Value:** Unknown 
 - [*More Info*](poignard/poignard_pgd-y3.md) 
 
@@ -28,7 +28,7 @@
 - **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - ER Large Laser 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2552) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2552) 
 - **Battle Value:** Unknown 
 - [*More Info*](poignard/poignard_pgd-l3.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - ER Medium Laser × 3 
   - Small Pulse Laser × 6 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2553) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2553) 
 - **Battle Value:** Unknown 
 - [*More Info*](poignard/poignard_pgd-r3.md) 
 

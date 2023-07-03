@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRT 20 × 2 (ammo: 24) 
   - SRT 6 × 2 (ammo: 15) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4709) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/4709) 
 - **Battle Value:** 1104 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Cargo × 7 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2477) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2477) 
 - **Battle Value:** 88 
 
 ## Availability 

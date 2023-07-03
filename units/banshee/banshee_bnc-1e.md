@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3785) 
+- **Sources:** XTR: Primitives II , [Master Unit List](http://masterunitlist.info/Unit/Details/3785) 
 - **Battle Value:** 1461 
 
 ## Availability 

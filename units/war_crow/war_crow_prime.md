@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7545) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7545) 
 - **Battle Value:** 2649 
 
 ## Availability 

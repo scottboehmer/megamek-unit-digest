@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9319) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9319) 
 - **Battle Value:** 1870 
 
 ## Availability 

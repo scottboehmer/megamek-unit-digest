@@ -21,7 +21,7 @@
   - Coolant Pod 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #26 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9315) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9315) 
 - **Battle Value:** 2226 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/507) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/507) 
 - **Battle Value:** 495 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4733) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4733) 
 - **Battle Value:** 1728 
 
 ## Availability 

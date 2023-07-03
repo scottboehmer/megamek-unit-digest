@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Battlefists 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1805) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1805) 
 - **Battle Value:** 2927 
 
 ## Availability 

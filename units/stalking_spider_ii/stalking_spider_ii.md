@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Ammunition Feed Problem (SRM 4) 
   - Ammunition Feed Problem (SRM 4) 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6553) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6553) 
 - **Battle Value:** 1362 
 
 ## Availability 

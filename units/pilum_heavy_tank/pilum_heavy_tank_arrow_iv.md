@@ -14,7 +14,7 @@
   - Arrow IV (ammo: 20) 
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2530) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2530) 
 - **Battle Value:** 1102 
 
 ## Availability 

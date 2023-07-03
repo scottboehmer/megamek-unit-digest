@@ -18,7 +18,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3059) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/3059) 
 - **Battle Value:** 674 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1914) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/1914) 
 - **Battle Value:** 1100 
 - [*More Info*](locust_iic/locust_iic.md) 
 
@@ -38,7 +38,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1915) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/1915) 
 - **Battle Value:** 937 
 - [*More Info*](locust_iic/locust_iic_2.md) 
 
@@ -58,7 +58,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1916) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/1916) 
 - **Battle Value:** 980 
 - [*More Info*](locust_iic/locust_iic_3.md) 
 
@@ -80,7 +80,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1918) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1918) 
 - **Battle Value:** 878 
 - [*More Info*](locust_iic/locust_iic_5.md) 
 
@@ -100,7 +100,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1917) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1917) 
 - **Battle Value:** 795 
 - [*More Info*](locust_iic/locust_iic_4.md) 
 
@@ -123,7 +123,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1919) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1919) 
 - **Battle Value:** 730 
 - [*More Info*](locust_iic/locust_iic_6.md) 
 
@@ -146,7 +146,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1920) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1920) 
 - **Battle Value:** 980 
 - [*More Info*](locust_iic/locust_iic_7.md) 
 
@@ -165,7 +165,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1921) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1921) 
 - **Battle Value:** 1119 
 - [*More Info*](locust_iic/locust_iic_8.md) 
 
@@ -187,7 +187,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1922) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1922) 
 - **Battle Value:** 1133 
 - [*More Info*](locust_iic/locust_iic_9.md) 
 
@@ -207,7 +207,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8203) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8203) 
 - **Battle Value:** 1248 
 - [*More Info*](locust_iic/locust_iic_10.md) 
 

@@ -2,7 +2,7 @@
 
 ## Tarantula ZPH-1 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3054) 
 - **Chassis:** 25 tons Quad 
 - **Movement:** 8 / 12, XL 
@@ -16,7 +16,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3160) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3160) 
 - **Battle Value:** 666 
 - [*More Info*](tarantula/tarantula_zph-1.md) 
 
@@ -36,7 +36,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3161) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3161) 
 - **Battle Value:** 744 
 - [*More Info*](tarantula/tarantula_zph-2a.md) 
 
@@ -55,7 +55,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3162) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3162) 
 - **Battle Value:** 702 
 - [*More Info*](tarantula/tarantula_zph-3a.md) 
 
@@ -76,7 +76,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3163) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3163) 
 - **Battle Value:** 967 
 - [*More Info*](tarantula/tarantula_zph-4a.md) 
 
@@ -97,7 +97,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6941) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6941) 
 - **Battle Value:** 806 
 - [*More Info*](tarantula/tarantula_zph-5a.md) 
 

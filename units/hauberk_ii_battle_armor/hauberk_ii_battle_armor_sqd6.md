@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Magshot Gauss Rifle × 2 
   - Small Pulse Laser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9001) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9001) 
 - **Battle Value:** 63 (563 for 6 suits) 
 
 ## Availability 

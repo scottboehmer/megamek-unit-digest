@@ -14,7 +14,7 @@
   - LRM 20 × 2 (ammo: 18) 
   - LRM 10 (ammo: 12) 
   - Medium Laser × 2 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4913) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4913) 
 - **Battle Value:** 1463 
 
 ## Availability 

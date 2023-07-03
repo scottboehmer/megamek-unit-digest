@@ -14,7 +14,7 @@
   - Rocket 20 × 2 
   - Rocket 10 × 4 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #27 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9338) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9338) 
 - **Battle Value:** 455 
 
 ## Availability 

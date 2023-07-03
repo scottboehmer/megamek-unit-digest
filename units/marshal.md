@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2090) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2090) 
 - **Battle Value:** 1163 
 - [*More Info*](marshal/marshal_mhl-x1.md) 
 
@@ -42,7 +42,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2088) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2088) 
 - **Battle Value:** 1313 
 - [*More Info*](marshal/marshal_mhl-2l.md) 
 
@@ -58,7 +58,7 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 30) 
   - Light PPC 
-  - MML 9 (ammo: 13 LRM, 11 SRM) 
+  - MML 9 (ammo: 11 SRM, 13 LRM) 
   - Medium Pulse Laser 
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
@@ -86,7 +86,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** Fronc Reachs , [Master Unit List](http://masterunitlist.info/Unit/Details/7698) 
+- **Sources:** Operational Turning Points: Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7698) 
 - **Battle Value:** 1429 
 - [*More Info*](marshal/marshal_mhl-6fr.md) 
 
@@ -109,7 +109,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6895) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6895) 
 - **Battle Value:** 1714 
 - [*More Info*](marshal/marshal_mhl-3mc.md) 
 

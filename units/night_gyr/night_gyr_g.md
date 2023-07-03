@@ -20,7 +20,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8399) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8399) 
 - **Battle Value:** 2626 
 
 ## Availability 

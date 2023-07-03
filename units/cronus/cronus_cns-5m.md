@@ -21,7 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4021) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4021) 
 - **Battle Value:** 1579 
 
 ## Availability 

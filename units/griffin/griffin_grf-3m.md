@@ -22,7 +22,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1300) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1300) 
 - **Battle Value:** 1521 
 
 ## Availability 

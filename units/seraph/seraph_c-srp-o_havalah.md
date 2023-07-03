@@ -26,7 +26,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2868) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/2868) 
 - **Battle Value:** 1927 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2368) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2368) 
 - **Battle Value:** 484 
 
 ## Availability 

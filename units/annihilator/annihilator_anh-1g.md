@@ -15,7 +15,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/37) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/37) 
 - **Battle Value:** 2274 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1568) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1568) 
 - **Battle Value:** 1679 
 - [*More Info*](hunchback_iic/hunchback_iic.md) 
 
@@ -34,7 +34,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1569) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1569) 
 - **Battle Value:** 1869 
 - [*More Info*](hunchback_iic/hunchback_iic_2.md) 
 
@@ -54,7 +54,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1570) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1570) 
 - **Battle Value:** 1951 
 - [*More Info*](hunchback_iic/hunchback_iic_3.md) 
 
@@ -75,7 +75,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1571) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1571) 
 - **Battle Value:** 2097 
 - [*More Info*](hunchback_iic/hunchback_iic_4.md) 
 
@@ -95,7 +95,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8130) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/8130) 
 - **Battle Value:** 1534 
 - [*More Info*](hunchback_iic/hunchback_iic_5.md) 
 

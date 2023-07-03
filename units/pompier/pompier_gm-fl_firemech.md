@@ -20,7 +20,7 @@
   - Non-Standard Parts 
   - Jettison-Capable Weapon (Machine Gun) 
   - Jettison-Capable Weapon (Machine Gun) 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5780) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5780) 
 - **Battle Value:** 88 
 
 ## Availability 

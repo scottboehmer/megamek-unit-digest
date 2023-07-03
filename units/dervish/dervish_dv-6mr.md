@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/879) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/879) 
 - **Battle Value:** 1347 
 
 ## Availability 

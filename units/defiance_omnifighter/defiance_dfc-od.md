@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Thunderbolt 10 (ammo: 6) 
   - Large VSP Laser × 2 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5751) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5751) 
 - **Battle Value:** Unknown 
 
 ## Availability 

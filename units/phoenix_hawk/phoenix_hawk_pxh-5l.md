@@ -22,7 +22,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (Plasma Rifle) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2505) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2505) 
 - **Battle Value:** 1530 
 
 ## Availability 

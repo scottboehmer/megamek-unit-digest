@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #16 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8211) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8211) 
 - **Battle Value:** 2849 
 
 ## Availability 

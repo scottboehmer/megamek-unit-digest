@@ -17,7 +17,7 @@
   - SRM 2 (iOS) × 2 
 - **Equipment:** 
   - Machine Gun Array 
-- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9312) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9312) 
 - **Battle Value:** 816 
 
 ## Availability 

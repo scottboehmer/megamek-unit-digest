@@ -18,7 +18,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Directional Torso Mount (Medium Laser) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5189) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/5189) 
 - **Battle Value:** 1425 
 
 ## Availability 

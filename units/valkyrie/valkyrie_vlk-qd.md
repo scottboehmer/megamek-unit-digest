@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Rec Guide:ilClan #9 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3373) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/3373) 
 - **Battle Value:** 807 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Op. Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4172) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/4172) 
 - **Battle Value:** 797 
 
 ## Availability 

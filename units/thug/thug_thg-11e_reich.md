@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** FM:Mercenaries SII - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5228) 
+- **Sources:** Mercenaries Supplemental II , [Master Unit List](http://masterunitlist.info/Unit/Details/5228) 
 - **Battle Value:** 2612 
 
 ## Availability 

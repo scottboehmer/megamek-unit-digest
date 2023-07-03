@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2834) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2834) 
 - **Battle Value:** 1259 
 
 ## Availability 

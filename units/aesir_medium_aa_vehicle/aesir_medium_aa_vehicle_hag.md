@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Armored Motive System 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6250) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6250) 
 - **Battle Value:** 1445 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/803) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/803) 
 - **Battle Value:** 1332 
 
 ## Availability 

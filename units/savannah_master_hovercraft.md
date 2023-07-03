@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2807) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2807) 
 - **Battle Value:** 215 
 - [*More Info*](savannah_master_hovercraft/savannah_master_hovercraft.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2806) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2806) 
 - **Battle Value:** 131 
 - [*More Info*](savannah_master_hovercraft/savannah_master_hovercraft_sl.md) 
 
@@ -38,7 +38,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2805) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2805) 
 - **Battle Value:** 128 
 - [*More Info*](savannah_master_hovercraft/savannah_master_hovercraft_interdictor.md) 
 
@@ -52,7 +52,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Medium Laser 
-- **Sources:** Rec Guide:ilClan #31 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9452) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9452) 
 - **Battle Value:** 263 
 - [*More Info*](savannah_master_hovercraft/savannah_master_hovercraft_reflective.md) 
 

@@ -18,7 +18,7 @@
   - Anti-Aircraft Targeting 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1855) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1855) 
 - **Battle Value:** 1236 
 
 ## Availability 

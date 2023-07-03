@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Shrapnel 10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9251) 
+- **Sources:** Shrapnel #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/9251) 
 - **Battle Value:** 1549 
 
 ## Availability 

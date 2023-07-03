@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 2) 
   - King David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4813) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4813) 
 - **Battle Value:** 56 (292 for 4 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_asqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 2) 
   - King David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8655) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8655) 
 - **Battle Value:** 56 (392 for 5 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_asqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 2) 
   - King David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9019) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9019) 
 - **Battle Value:** 56 (505 for 6 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_asqd6.md) 
 
@@ -64,7 +64,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 2) 
   - Taser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4814) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4814) 
 - **Battle Value:** 61 (319 for 4 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_bsqd4.md) 
 
@@ -81,7 +81,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 2) 
   - Taser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8656) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8656) 
 - **Battle Value:** 61 (429 for 5 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_bsqd5.md) 
 
@@ -98,7 +98,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 2) 
   - Taser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9020) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9020) 
 - **Battle Value:** 61 (551 for 6 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_bsqd6.md) 
 
@@ -115,7 +115,7 @@
 - **Weapons:** 
   - Heavy Mortar 
   - Magshot Gauss Rifle 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4815) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4815) 
 - **Battle Value:** 47 (243 for 4 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_csqd4.md) 
 
@@ -132,7 +132,7 @@
 - **Weapons:** 
   - Heavy Mortar 
   - Magshot Gauss Rifle 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8657) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8657) 
 - **Battle Value:** 47 (327 for 5 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_csqd5.md) 
 
@@ -149,7 +149,7 @@
 - **Weapons:** 
   - Heavy Mortar 
   - Magshot Gauss Rifle 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9021) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9021) 
 - **Battle Value:** 47 (420 for 6 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_csqd6.md) 
 
@@ -165,7 +165,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Detachable Medium VSP Laser 
-- **Sources:** RS3145 NT NU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6733) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6733) 
 - **Battle Value:** 62 (324 for 4 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_dsqd4.md) 
 
@@ -181,7 +181,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Detachable Medium VSP Laser 
-- **Sources:** RS3145 NT NU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8788) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8788) 
 - **Battle Value:** 62 (436 for 5 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_dsqd5.md) 
 
@@ -197,7 +197,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Detachable Medium VSP Laser 
-- **Sources:** RS3145 NT NU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9151) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9151) 
 - **Battle Value:** 62 (561 for 6 suits) 
 - [*More Info*](phalanx_battle_armor/phalanx_battle_armor_dsqd6.md) 
 

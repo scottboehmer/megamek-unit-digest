@@ -16,7 +16,7 @@
   - 'Mech Mortar/8 × 2 (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6251) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6251) 
 - **Battle Value:** 1671 
 
 ## Availability 

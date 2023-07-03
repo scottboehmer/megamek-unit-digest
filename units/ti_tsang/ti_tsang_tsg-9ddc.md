@@ -27,7 +27,7 @@
   - Improved Life Support 
   - Protected Actuators 
   - Jettison-Capable Weapon (Lance) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5242) 
 - **Battle Value:** 2013 
 
 ## Availability 

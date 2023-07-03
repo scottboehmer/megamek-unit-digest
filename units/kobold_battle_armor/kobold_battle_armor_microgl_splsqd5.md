@@ -16,7 +16,7 @@
 - **Weapons:** 
   - Squad Support Small Pulse Laser 
   - Micro Grenade Launcher 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8640) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8640) 
 - **Battle Value:** 40 (178 for 5 suits) 
 
 ## Availability 

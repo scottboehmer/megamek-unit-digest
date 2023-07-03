@@ -17,7 +17,7 @@
   - Machine Gun (ammo: 100) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3407) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3407) 
 - **Battle Value:** 1236 
 - [*More Info*](victor/victor_vtr-9a.md) 
 
@@ -37,7 +37,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3408) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3408) 
 - **Battle Value:** 1302 
 - [*More Info*](victor/victor_vtr-9a1.md) 
 
@@ -56,7 +56,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3409) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3409) 
 - **Battle Value:** 1378 
 - [*More Info*](victor/victor_vtr-9b.md) 
 
@@ -75,7 +75,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5864) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5864) 
 - **Battle Value:** 1531 
 - [*More Info*](victor/victor_vtr-9b_shoji.md) 
 
@@ -96,7 +96,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** HTP New Dallas - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/6969) 
+- **Sources:** Historical Turning Points: New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6969) 
 - **Battle Value:** 1991 
 - [*More Info*](victor/victor_vtr-9b_kataga.md) 
 
@@ -115,7 +115,7 @@
   - Clan Streak SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Shrapnel 6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3403) 
+- **Sources:** Shrapnel #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/3403) 
 - **Battle Value:** 1925 
 - [*More Info*](victor/victor_c.md) 
 
@@ -134,7 +134,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3414) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3414) 
 - **Battle Value:** 1360 
 - [*More Info*](victor/victor_vtr-9s.md) 
 
@@ -152,7 +152,7 @@
   - Medium Laser × 10 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3402) 
+- **Sources:** Historical Turning Points: Death to Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/3402) 
 - **Battle Value:** 1625 
 - [*More Info*](victor/victor_vtr-9b_li.md) 
 
@@ -173,7 +173,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3410) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3410) 
 - **Battle Value:** 1717 
 - [*More Info*](victor/victor_vtr-9d.md) 
 
@@ -194,7 +194,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3411) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3411) 
 - **Battle Value:** 1717 
 - [*More Info*](victor/victor_vtr-9k.md) 
 
@@ -216,7 +216,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3415) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3415) 
 - **Battle Value:** 1717 
 - [*More Info*](victor/victor_vtr-c.md) 
 
@@ -237,7 +237,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5458) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5458) 
 - **Battle Value:** 2034 
 - [*More Info*](victor/victor_vtr-10s.md) 
 
@@ -258,7 +258,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3404) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3404) 
 - **Battle Value:** 1894 
 - [*More Info*](victor/victor_vtr-10d.md) 
 
@@ -280,7 +280,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3406) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3406) 
 - **Battle Value:** 2021 
 - [*More Info*](victor/victor_vtr-11d.md) 
 
@@ -302,7 +302,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3405) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3405) 
 - **Battle Value:** 2279 
 - [*More Info*](victor/victor_vtr-10l.md) 
 
@@ -322,7 +322,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3412) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/3412) 
 - **Battle Value:** 2006 
 - [*More Info*](victor/victor_vtr-9k2_st._james.md) 
 
@@ -344,7 +344,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3416) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3416) 
 - **Battle Value:** 1465 
 - [*More Info*](victor/victor_vtr-cr.md) 
 
@@ -364,7 +364,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3413) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3413) 
 - **Battle Value:** 1594 
 - [*More Info*](victor/victor_vtr-9ka.md) 
 
@@ -387,7 +387,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8259) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/8259) 
 - **Battle Value:** 1935 
 - [*More Info*](victor/victor_vtr-12d.md) 
 

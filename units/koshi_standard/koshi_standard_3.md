@@ -19,7 +19,7 @@
   - Light TAG 
   - Targeting Computer 
   - MASC 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6549) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6549) 
 - **Battle Value:** 777 
 
 ## Availability 

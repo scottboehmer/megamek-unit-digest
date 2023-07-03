@@ -17,7 +17,7 @@
   - Ultra AC/10 (ammo: 20) 
   - Medium Pulse Laser × 2 
   - Hatchet 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6413) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6413) 
 - **Battle Value:** 1611 
 
 ## Availability 

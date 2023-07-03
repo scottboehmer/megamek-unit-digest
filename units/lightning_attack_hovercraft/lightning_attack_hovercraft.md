@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 2 
   - SRM 4 (OS) × 2 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1884) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1884) 
 - **Battle Value:** 510 
 
 ## Availability 

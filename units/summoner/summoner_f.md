@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5490) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5490) 
 - **Battle Value:** 2186 
 
 ## Availability 

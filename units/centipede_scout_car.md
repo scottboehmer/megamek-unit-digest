@@ -13,7 +13,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/514) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/514) 
 - **Battle Value:** 271 
 - [*More Info*](centipede_scout_car/centipede_scout_car.md) 
 
@@ -27,7 +27,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 2 × 6 (ammo: 50) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/513) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/513) 
 - **Battle Value:** 431 
 - [*More Info*](centipede_scout_car/centipede_scout_car_srm.md) 
 
@@ -45,7 +45,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/515) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/515) 
 - **Battle Value:** 322 
 - [*More Info*](centipede_scout_car/centipede_scout_car_tag.md) 
 
@@ -62,7 +62,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Armored Motive System 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3920) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/3920) 
 - **Battle Value:** 322 
 - [*More Info*](centipede_scout_car/centipede_scout_car_commando.md) 
 

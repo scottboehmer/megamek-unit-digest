@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3155) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3155) 
 - **Battle Value:** 1341 
 
 ## Availability 

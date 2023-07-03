@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - ER Large Laser × 2 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3074) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3074) 
 - **Battle Value:** Unknown 
 
 ## Availability 

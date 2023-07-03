@@ -17,7 +17,7 @@
   - Streak SRM 2 (iOS) × 4 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4397) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/4397) 
 - **Battle Value:** Unknown 
 
 ## Availability 

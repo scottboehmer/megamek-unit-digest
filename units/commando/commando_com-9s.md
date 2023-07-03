@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7439) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7439) 
 - **Battle Value:** 719 
 
 ## Availability 

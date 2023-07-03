@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 3 
   - SRM 6 w/ Artemis IV × 3 (ammo: 45) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4742) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/4742) 
 - **Battle Value:** Unknown 
 
 ## Availability 

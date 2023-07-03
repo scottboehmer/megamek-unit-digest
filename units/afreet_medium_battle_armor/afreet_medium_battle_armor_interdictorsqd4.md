@@ -18,7 +18,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Jump Booster 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/16) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/16) 
 - **Battle Value:** 38 (196 for 4 suits) 
 
 ## Availability 

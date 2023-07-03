@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7857) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7857) 
 - **Battle Value:** 315 
 
 ## Availability 

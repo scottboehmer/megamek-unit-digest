@@ -18,7 +18,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3337) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3337) 
 - **Battle Value:** 1104 
 
 ## Availability 

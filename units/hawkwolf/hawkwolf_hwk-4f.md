@@ -20,7 +20,7 @@
   - Fast Reload (All Weapons) 
   - No/Minimal Arms 
   - Protected Actuators 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6576) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6576) 
 - **Battle Value:** 1428 
 
 ## Availability 

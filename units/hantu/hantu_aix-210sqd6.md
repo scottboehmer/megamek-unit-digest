@@ -12,7 +12,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** ToS Kandersteg - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9246) 
+- **Sources:** Touring the Stars: Kandersteg , [Master Unit List](http://masterunitlist.info/Unit/Details/9246) 
 - **Battle Value:** 8 (76 for 6 suits) 
 
 ## Availability 

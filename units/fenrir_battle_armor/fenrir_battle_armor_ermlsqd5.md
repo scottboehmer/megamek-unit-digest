@@ -11,7 +11,7 @@
 - **Armor:** 5 (Standard) 
 - **Weapons:** 
   - ER Medium Laser 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8508) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8508) 
 - **Battle Value:** 71 (495 for 5 suits) 
 
 ## Availability 

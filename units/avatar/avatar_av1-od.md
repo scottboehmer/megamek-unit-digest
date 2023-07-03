@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Medium Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/164) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/164) 
 - **Battle Value:** 1475 
 
 ## Availability 

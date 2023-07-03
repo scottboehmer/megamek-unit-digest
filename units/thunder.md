@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3214) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3214) 
 - **Battle Value:** 1471 
 - [*More Info*](thunder/thunder_thr-1l.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3215) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3215) 
 - **Battle Value:** 1951 
 - [*More Info*](thunder/thunder_thr-2l.md) 
 
@@ -61,7 +61,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3216) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3216) 
 - **Battle Value:** 1904 
 - [*More Info*](thunder/thunder_thr-3l.md) 
 
@@ -85,7 +85,7 @@
   - Hard to Pilot 
   - Easy to Maintain 
   - Reinforced Legs 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5230) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5230) 
 - **Battle Value:** 2028 
 - [*More Info*](thunder/thunder_thr-c4.md) 
 

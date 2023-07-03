@@ -12,7 +12,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - ER Small Laser 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2603) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2603) 
 - **Battle Value:** 52 (269 for 4 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_lasersqd4.md) 
 
@@ -28,7 +28,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - ER Small Laser 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8569) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8569) 
 - **Battle Value:** 52 (362 for 5 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_lasersqd5.md) 
 
@@ -44,7 +44,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - ER Small Laser 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8933) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8933) 
 - **Battle Value:** 52 (466 for 6 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_lasersqd6.md) 
 
@@ -60,7 +60,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Compact Narc (ammo: 2) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2604) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2604) 
 - **Battle Value:** 38 (197 for 4 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_narcsqd4.md) 
 
@@ -76,7 +76,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Compact Narc (ammo: 2) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8570) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8570) 
 - **Battle Value:** 38 (265 for 5 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_narcsqd5.md) 
 
@@ -92,7 +92,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Compact Narc (ammo: 2) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8934) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8934) 
 - **Battle Value:** 38 (341 for 6 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_narcsqd6.md) 
 
@@ -108,7 +108,7 @@
   - Battle Claw (right) 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2606) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2606) 
 - **Battle Value:** 26 (133 for 4 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_tagsqd4.md) 
 
@@ -124,7 +124,7 @@
   - Battle Claw (right) 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8572) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8572) 
 - **Battle Value:** 26 (179 for 5 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_tagsqd5.md) 
 
@@ -140,7 +140,7 @@
   - Battle Claw (right) 
 - **Equipment:** 
   - Light TAG 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8936) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8936) 
 - **Battle Value:** 26 (230 for 6 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_tagsqd6.md) 
 
@@ -156,7 +156,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Support PPC 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2605) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2605) 
 - **Battle Value:** 47 (245 for 4 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_ppcsqd4.md) 
 
@@ -172,7 +172,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Support PPC 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8571) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8571) 
 - **Battle Value:** 47 (330 for 5 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_ppcsqd5.md) 
 
@@ -188,7 +188,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Support PPC 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8935) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8935) 
 - **Battle Value:** 47 (424 for 6 suits) 
 - [*More Info*](purifier_adaptive_battle_armor/purifier_adaptive_battle_armor_ppcsqd6.md) 
 

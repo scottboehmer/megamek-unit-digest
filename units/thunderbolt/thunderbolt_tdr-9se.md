@@ -21,7 +21,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3250) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/3250) 
 - **Battle Value:** 1439 
 
 ## Availability 

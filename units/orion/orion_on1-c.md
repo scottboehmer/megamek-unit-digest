@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Ammunition Feed Problem (AC/5) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4755) 
+- **Sources:** XTR: Primitives V , [Master Unit List](http://masterunitlist.info/Unit/Details/4755) 
 - **Battle Value:** 973 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2065) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/2065) 
 - **Battle Value:** 2680 
 - [*More Info*](marauder_iic/marauder_iic.md) 
 
@@ -37,7 +37,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7537) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7537) 
 - **Battle Value:** 2595 
 - [*More Info*](marauder_iic/marauder_iic_9.md) 
 
@@ -60,7 +60,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2072) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/2072) 
 - **Battle Value:** 2554 
 - [*More Info*](marauder_iic/marauder_iic_8.md) 
 
@@ -81,7 +81,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO:CI - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2066) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2066) 
 - **Battle Value:** 2358 
 - [*More Info*](marauder_iic/marauder_iic_2.md) 
 
@@ -103,7 +103,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO:CI - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2067) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2067) 
 - **Battle Value:** 2445 
 - [*More Info*](marauder_iic/marauder_iic_3.md) 
 
@@ -124,7 +124,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2068) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/2068) 
 - **Battle Value:** 3447 
 - [*More Info*](marauder_iic/marauder_iic_4.md) 
 
@@ -146,7 +146,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2069) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/2069) 
 - **Battle Value:** 2386 
 - [*More Info*](marauder_iic/marauder_iic_5.md) 
 
@@ -170,7 +170,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2070) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2070) 
 - **Battle Value:** 2646 
 - [*More Info*](marauder_iic/marauder_iic_6.md) 
 
@@ -196,7 +196,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3085 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2071) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2071) 
 - **Battle Value:** 2843 
 - [*More Info*](marauder_iic/marauder_iic_7.md) 
 
@@ -219,7 +219,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7538) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7538) 
 - **Battle Value:** 2877 
 - [*More Info*](marauder_iic/marauder_iic_10.md) 
 

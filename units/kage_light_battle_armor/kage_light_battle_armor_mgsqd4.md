@@ -17,7 +17,7 @@
   - Squad Support Clan Machine Gun 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1736) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1736) 
 - **Battle Value:** 29 (117 for 4 suits) 
 
 ## Availability 

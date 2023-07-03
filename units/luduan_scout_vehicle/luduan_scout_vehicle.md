@@ -16,7 +16,7 @@
   - Angel ECM Suite 
   - Bloodhound Active Probe 
   - TAG 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6437) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6437) 
 - **Battle Value:** 416 
 
 ## Availability 

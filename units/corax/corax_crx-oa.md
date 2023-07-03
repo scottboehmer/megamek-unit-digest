@@ -14,7 +14,7 @@
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 30) 
   - Small Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3997) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3997) 
 - **Battle Value:** Unknown 
 
 ## Availability 

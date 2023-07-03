@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Fully Amphibious Chassis 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6601) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6601) 
 - **Battle Value:** 1221 
 
 ## Availability 

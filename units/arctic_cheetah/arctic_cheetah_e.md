@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #21 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1382) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/1382) 
 - **Battle Value:** 1081 
 
 ## Availability 

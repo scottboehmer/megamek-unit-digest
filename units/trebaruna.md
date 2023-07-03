@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3292) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3292) 
 - **Battle Value:** 2223 
 - [*More Info*](trebaruna/trebaruna_tr-xb.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3293) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3293) 
 - **Battle Value:** 2270 
 - [*More Info*](trebaruna/trebaruna_tr-xj.md) 
 
@@ -59,7 +59,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3294) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3294) 
 - **Battle Value:** 2244 
 - [*More Info*](trebaruna/trebaruna_tr-xl.md) 
 
@@ -79,7 +79,7 @@
   - Quad Turret 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6834) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6834) 
 - **Battle Value:** 2453 
 - [*More Info*](trebaruna/trebaruna_tr-xh.md) 
 

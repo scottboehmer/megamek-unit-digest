@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3838) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3838) 
 - **Battle Value:** 1248 
 - [*More Info*](bloodhound/bloodhound_b1-hnd.md) 
 
@@ -41,7 +41,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3839) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3839) 
 - **Battle Value:** 1363 
 - [*More Info*](bloodhound/bloodhound_b2-hnd.md) 
 
@@ -63,7 +63,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5671) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5671) 
 - **Battle Value:** 1005 
 - [*More Info*](bloodhound/bloodhound_b3-hnd.md) 
 

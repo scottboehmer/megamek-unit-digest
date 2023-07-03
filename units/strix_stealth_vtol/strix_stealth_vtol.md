@@ -17,7 +17,7 @@
   - Watchdog CEWS 
   - Targeting Computer 
   - Jet Booster 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7298) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7298) 
 - **Battle Value:** 585 
 
 ## Availability 

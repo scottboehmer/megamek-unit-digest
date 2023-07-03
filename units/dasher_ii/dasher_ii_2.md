@@ -16,7 +16,7 @@
   - MASC 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/847) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/847) 
 - **Battle Value:** 2239 
 
 ## Availability 

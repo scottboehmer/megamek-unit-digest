@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1564) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1564) 
 - **Battle Value:** 1350 
 
 ## Availability 

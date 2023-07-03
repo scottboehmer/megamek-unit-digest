@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - ER Large Laser × 2 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3325) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3325) 
 - **Battle Value:** Unknown 
 
 ## Availability 

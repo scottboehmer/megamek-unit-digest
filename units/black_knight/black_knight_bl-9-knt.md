@@ -18,7 +18,7 @@
   - Hatchet 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/362) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/362) 
 - **Battle Value:** 1678 
 
 ## Availability 

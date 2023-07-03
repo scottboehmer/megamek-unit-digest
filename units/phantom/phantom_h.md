@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2486) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2486) 
 - **Battle Value:** 1178 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - LRM 15 (ammo: 16) 
   - Flamer 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1578) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1578) 
 - **Battle Value:** 599 
 
 ## Availability 

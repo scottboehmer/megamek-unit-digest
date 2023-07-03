@@ -18,7 +18,7 @@
   - Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2224) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2224) 
 - **Battle Value:** Unknown 
 
 ## Availability 

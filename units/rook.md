@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2740) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2740) 
 - **Battle Value:** 1197 
 - [*More Info*](rook/rook_nh-1a.md) 
 
@@ -35,7 +35,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2741) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2741) 
 - **Battle Value:** 1227 
 - [*More Info*](rook/rook_nh-1b.md) 
 
@@ -55,7 +55,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2742) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2742) 
 - **Battle Value:** 1525 
 - [*More Info*](rook/rook_nh-2.md) 
 
@@ -76,7 +76,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2743) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2743) 
 - **Battle Value:** 1746 
 - [*More Info*](rook/rook_nh-3x.md) 
 
@@ -96,7 +96,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4935) 
+- **Sources:** XTR: RetroTech , [Master Unit List](http://masterunitlist.info/Unit/Details/4935) 
 - **Battle Value:** 1187 
 - [*More Info*](rook/rook_nh-1x_rook-x.md) 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 20-X AC (ammo: 5 Cluster, 10 Standard) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6597) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6597) 
 - **Battle Value:** 1253 
 
 ## Availability 

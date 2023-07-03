@@ -16,7 +16,7 @@
   - Detachable Clan ER Medium Pulse Laser 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** XTR Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8919) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8919) 
 - **Battle Value:** 107 (967 for 6 suits) 
 
 ## Availability 

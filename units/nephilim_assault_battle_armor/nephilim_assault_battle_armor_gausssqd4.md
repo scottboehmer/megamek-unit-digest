@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Magshot Gauss Rifle × 2 
   - David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4702) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4702) 
 - **Battle Value:** 81 (424 for 4 suits) 
 
 ## Availability 

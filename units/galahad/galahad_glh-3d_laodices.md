@@ -21,7 +21,7 @@
   - C3i 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6978) 
+- **Sources:** Jihad Turning Points: Hespersus , [Master Unit List](http://masterunitlist.info/Unit/Details/6978) 
 - **Battle Value:** 1549 
 
 ## Availability 

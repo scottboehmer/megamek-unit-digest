@@ -26,7 +26,7 @@
   - Static Ammo Feed (LB 20-X AC) 
   - Exposed Weapon Linkage (LB 20-X AC) 
   - Static Ammo Feed (LB 20-X AC) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6843) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6843) 
 - **Battle Value:** 2570 
 
 ## Availability 

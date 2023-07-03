@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - AC/5 (ammo: 20) 
-- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/453) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/453) 
 - **Battle Value:** 443 
 
 ## Availability 

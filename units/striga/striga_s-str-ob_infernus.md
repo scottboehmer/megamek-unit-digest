@@ -18,7 +18,7 @@
   - Medium VSP Laser 
   - Medium Pulse Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5150) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5150) 
 - **Battle Value:** Unknown 
 
 ## Availability 

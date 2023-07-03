@@ -12,7 +12,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Flamer 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/499) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/499) 
 - **Battle Value:** 38 (199 for 4 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_flamersqd4.md) 
 
@@ -28,7 +28,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Flamer 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8481) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8481) 
 - **Battle Value:** 38 (268 for 5 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_flamersqd5.md) 
 
@@ -44,7 +44,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Flamer 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8846) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8846) 
 - **Battle Value:** 38 (344 for 6 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_flamersqd6.md) 
 
@@ -60,7 +60,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/500) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/500) 
 - **Battle Value:** 44 (231 for 4 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_lasersqd4.md) 
 
@@ -76,7 +76,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8482) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8482) 
 - **Battle Value:** 44 (311 for 5 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_lasersqd5.md) 
 
@@ -92,7 +92,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8847) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8847) 
 - **Battle Value:** 44 (400 for 6 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_lasersqd6.md) 
 
@@ -108,7 +108,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Machine Gun 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/501) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/501) 
 - **Battle Value:** 38 (199 for 4 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_mgsqd4.md) 
 
@@ -124,7 +124,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Machine Gun 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8483) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8483) 
 - **Battle Value:** 38 (268 for 5 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_mgsqd5.md) 
 
@@ -140,7 +140,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Machine Gun 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8483) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8483) 
 - **Battle Value:** 38 (344 for 6 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_mgsqd6.md) 
 
@@ -156,7 +156,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - SRM 1 (ammo: 4) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/502) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/502) 
 - **Battle Value:** 42 (219 for 4 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_srmsqd4.md) 
 
@@ -172,7 +172,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - SRM 1 (ammo: 4) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8484) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8484) 
 - **Battle Value:** 42 (295 for 5 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_srmsqd5.md) 
 
@@ -188,7 +188,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - SRM 1 (ammo: 4) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8848) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8848) 
 - **Battle Value:** 42 (379 for 6 suits) 
 - [*More Info*](cavalier_battle_armor/cavalier_battle_armor_srmsqd6.md) 
 

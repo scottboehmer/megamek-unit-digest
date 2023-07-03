@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/107) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/107) 
 - **Battle Value:** 2111 
 
 ## Availability 

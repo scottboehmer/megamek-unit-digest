@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 (ammo: 16) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3145 Draconis Combine - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/6379) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6379) 
 - **Battle Value:** 584 
 
 ## Availability 

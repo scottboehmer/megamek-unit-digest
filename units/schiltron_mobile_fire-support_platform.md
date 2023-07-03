@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Main 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2821) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2821) 
 - **Battle Value:** 1434 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_prime.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Main 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2815) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2815) 
 - **Battle Value:** 1456 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_a.md) 
 
@@ -54,7 +54,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Main 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2816) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2816) 
 - **Battle Value:** 1439 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_b.md) 
 
@@ -71,7 +71,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Main 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2817) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2817) 
 - **Battle Value:** 1078 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_c.md) 
 
@@ -90,7 +90,7 @@
   - Guardian ECM Suite 
   - C3 Main 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2818) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2818) 
 - **Battle Value:** 1480 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_d.md) 
 
@@ -108,7 +108,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2819) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2819) 
 - **Battle Value:** 1120 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_e.md) 
 
@@ -127,7 +127,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Main 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2820) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2820) 
 - **Battle Value:** 1470 
 - [*More Info*](schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_f.md) 
 

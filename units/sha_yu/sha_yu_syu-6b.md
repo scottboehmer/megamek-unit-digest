@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5670) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5670) 
 - **Battle Value:** 1422 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Anti-Aircraft Targeting 
   - Extended Torso Twist 
   - Multi-Trac 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8131) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/8131) 
 - **Battle Value:** 2309 
 
 ## Availability 

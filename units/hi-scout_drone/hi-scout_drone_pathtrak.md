@@ -10,7 +10,7 @@
 - **Movement:** 8 / 12, ICE 
 - **Armor:** 8 
 - **Heat Sinks:** 0 (0) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1531) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1531) 
 - **Battle Value:** 36 
 
 ## Availability 

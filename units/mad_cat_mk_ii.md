@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4565) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4565) 
 - **Battle Value:** 3135 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5715) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5715) 
 - **Battle Value:** 2822 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_2.md) 
 
@@ -60,7 +60,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5716) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5716) 
 - **Battle Value:** 3168 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_3.md) 
 
@@ -82,7 +82,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Protected Actuators 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4564) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4564) 
 - **Battle Value:** 2732 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_enhanced.md) 
 
@@ -103,7 +103,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6850) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6850) 
 - **Battle Value:** 2962 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_4.md) 
 
@@ -125,7 +125,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6849) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6849) 
 - **Battle Value:** 2491 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_5.md) 
 
@@ -145,7 +145,7 @@
   - HarJel III × 7 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6848) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6848) 
 - **Battle Value:** 2671 
 - [*More Info*](mad_cat_mk_ii/mad_cat_mk_ii_6.md) 
 

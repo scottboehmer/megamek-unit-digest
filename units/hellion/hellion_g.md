@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6939) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6939) 
 - **Battle Value:** 1513 
 
 ## Availability 

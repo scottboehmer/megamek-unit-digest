@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7740) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7740) 
 - **Battle Value:** 626 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4967) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4967) 
 - **Battle Value:** 2088 
 - [*More Info*](sagittaire/sagittaire_sgt-8r.md) 
 
@@ -44,7 +44,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5717) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5717) 
 - **Battle Value:** 2064 
 - [*More Info*](sagittaire/sagittaire_sgt-9d.md) 
 
@@ -65,7 +65,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** 3067 Unabridged - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5718) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5718) 
 - **Battle Value:** 1794 
 - [*More Info*](sagittaire/sagittaire_sgt-10x.md) 
 
@@ -91,7 +91,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6835) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6835) 
 - **Battle Value:** 1960 
 - [*More Info*](sagittaire/sagittaire_sgt-14d.md) 
 
@@ -115,7 +115,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9398) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9398) 
 - **Battle Value:** 2626 
 - [*More Info*](sagittaire/sagittaire_sgt-14r.md) 
 

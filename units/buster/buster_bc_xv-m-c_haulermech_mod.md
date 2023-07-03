@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
   - Rocket 10 × 2 
-- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/7178) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7178) 
 - **Battle Value:** 726 
 
 ## Availability 

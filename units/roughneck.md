@@ -15,6 +15,7 @@
   - Machine Gun × 3 (ammo: 300) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1154 
 - [*More Info*](roughneck/roughneck_rgh-1a.md) 
 
@@ -33,6 +34,7 @@
   - Machine Gun × 2 (ammo: 400) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1179 
 - [*More Info*](roughneck/roughneck_rgh-1b.md) 
 
@@ -51,6 +53,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1285 
 - [*More Info*](roughneck/roughneck_rgh-1c.md) 
 
@@ -66,6 +69,7 @@
   - Medium Laser × 3 
   - SRM 4 (ammo: 75) 
   - AC/2 × 3 (ammo: 135) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1054 
 - [*More Info*](roughneck/roughneck_rgh-2a.md) 
 
@@ -81,6 +85,7 @@
   - PPC × 2 
   - Medium Laser × 4 
   - Small Laser 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1509 
 - [*More Info*](roughneck/roughneck_rgh-3a.md) 
 
@@ -97,6 +102,7 @@
   - Ultra AC/5 × 2 (ammo: 40) 
   - Medium Laser × 2 
   - Streak SRM 2 (ammo: 50) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1426 
 - [*More Info*](roughneck/roughneck_rgh-r_reaver.md) 
 
@@ -113,6 +119,7 @@
   - ER Medium Laser × 2 
   - MRM 10 × 2 (ammo: 48) 
   - Small Laser 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1377 
 - [*More Info*](roughneck/roughneck_rgh-blt_bolt.md) 
 
@@ -129,6 +136,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - MRM 10 (ammo: 24) 
   - Medium Pulse Laser × 2 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1250 
 - [*More Info*](roughneck/roughneck_rgh-ph_powerhouse.md) 
 

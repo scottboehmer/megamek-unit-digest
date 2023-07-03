@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1048) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1048) 
 - **Battle Value:** 1211 
 
 ## Availability 

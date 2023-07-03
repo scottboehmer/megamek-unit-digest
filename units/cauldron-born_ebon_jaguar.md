@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/496) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/496) 
 - **Battle Value:** 1952 
 - [*More Info*](ebon_jaguar/ebon_jaguar_prime.md) 
 
@@ -41,7 +41,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/490) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/490) 
 - **Battle Value:** 2429 
 - [*More Info*](ebon_jaguar/ebon_jaguar_a.md) 
 
@@ -62,7 +62,7 @@
   - TAG 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/491) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/491) 
 - **Battle Value:** 2535 
 - [*More Info*](ebon_jaguar/ebon_jaguar_b.md) 
 
@@ -82,7 +82,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/492) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/492) 
 - **Battle Value:** 1831 
 - [*More Info*](ebon_jaguar/ebon_jaguar_c.md) 
 
@@ -103,7 +103,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** HTP Luzerne - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5862) 
+- **Sources:** Historical Turning Points: Luzerne , [Master Unit List](http://masterunitlist.info/Unit/Details/5862) 
 - **Battle Value:** 2372 
 - [*More Info*](ebon_jaguar/ebon_jaguar_samantha.md) 
 
@@ -123,7 +123,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/493) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/493) 
 - **Battle Value:** 2228 
 - [*More Info*](ebon_jaguar/ebon_jaguar_d.md) 
 
@@ -145,7 +145,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/495) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/495) 
 - **Battle Value:** 2359 
 - [*More Info*](ebon_jaguar/ebon_jaguar_h.md) 
 
@@ -166,7 +166,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/494) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/494) 
 - **Battle Value:** 2391 
 - [*More Info*](ebon_jaguar/ebon_jaguar_e.md) 
 
@@ -188,7 +188,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/498) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/498) 
 - **Battle Value:** 2435 
 - [*More Info*](ebon_jaguar/ebon_jaguar_x.md) 
 
@@ -209,7 +209,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/497) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/497) 
 - **Battle Value:** 2593 
 - [*More Info*](ebon_jaguar/ebon_jaguar_u.md) 
 
@@ -229,7 +229,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #16 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8210) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8210) 
 - **Battle Value:** 2681 
 - [*More Info*](ebon_jaguar/ebon_jaguar_f.md) 
 
@@ -249,7 +249,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #16 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8211) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8211) 
 - **Battle Value:** 2849 
 - [*More Info*](ebon_jaguar/ebon_jaguar_g.md) 
 
@@ -271,7 +271,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8209) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8209) 
 - **Battle Value:** 2219 
 - [*More Info*](ebon_jaguar/ebon_jaguar_t.md) 
 

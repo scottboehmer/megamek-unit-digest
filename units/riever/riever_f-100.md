@@ -15,7 +15,7 @@
   - AC/20 (ammo: 10) 
   - LRM 10 (ammo: 24) 
   - SRM 6 × 4 (ammo: 60) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2687) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2687) 
 - **Battle Value:** Unknown 
 
 ## Availability 

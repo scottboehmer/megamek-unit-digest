@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Jump Booster 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3679) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3679) 
 - **Battle Value:** 42 (217 for 4 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_sqd4.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Jump Booster 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8604) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8604) 
 - **Battle Value:** 42 (292 for 5 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_sqd5.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Jump Booster 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8968) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8968) 
 - **Battle Value:** 42 (376 for 6 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_sqd6.md) 
 
@@ -76,7 +76,7 @@
   - Bearhunter Superheavy AC 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3677) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3677) 
 - **Battle Value:** 32 (164 for 4 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_hells_horsessqd4.md) 
 
@@ -96,7 +96,7 @@
   - Bearhunter Superheavy AC 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8602) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8602) 
 - **Battle Value:** 32 (221 for 5 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_hells_horsessqd5.md) 
 
@@ -116,7 +116,7 @@
   - Bearhunter Superheavy AC 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8966) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8966) 
 - **Battle Value:** 32 (285 for 6 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_hells_horsessqd6.md) 
 
@@ -135,7 +135,7 @@
   - AP Gauss Rifle 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3678) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3678) 
 - **Battle Value:** 63 (326 for 4 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_jade_falconsqd4.md) 
 
@@ -154,7 +154,7 @@
   - AP Gauss Rifle 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8603) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8603) 
 - **Battle Value:** 63 (439 for 5 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_jade_falconsqd5.md) 
 
@@ -173,7 +173,7 @@
   - AP Gauss Rifle 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8967) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8967) 
 - **Battle Value:** 63 (565 for 6 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_jade_falconsqd6.md) 
 
@@ -193,7 +193,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Jump Booster 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/16) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/16) 
 - **Battle Value:** 38 (196 for 4 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_interdictorsqd4.md) 
 
@@ -213,7 +213,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Jump Booster 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8478) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8478) 
 - **Battle Value:** 38 (264 for 5 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_interdictorsqd5.md) 
 
@@ -233,7 +233,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Jump Booster 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8843) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8843) 
 - **Battle Value:** 38 (339 for 6 suits) 
 - [*More Info*](afreet_medium_battle_armor/afreet_medium_battle_armor_interdictorsqd6.md) 
 

@@ -18,7 +18,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1553) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1553) 
 - **Battle Value:** 1126 
 
 ## Availability 

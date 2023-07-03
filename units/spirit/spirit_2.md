@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5665) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5665) 
 - **Battle Value:** 1773 
 
 ## Availability 

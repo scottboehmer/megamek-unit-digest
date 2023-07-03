@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Inner Sphere Ultra AC/10 (ammo: 20) 
   - Inner Sphere ER Medium Laser × 8 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7667) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7667) 
 - **Battle Value:** Unknown 
 - [*More Info*](kublai/kublai_e.md) 
 
@@ -29,7 +29,7 @@
   - Inner Sphere Heavy PPC × 2 
 - **Equipment:** 
   - Inner Sphere Angel ECM Suite 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7668) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7668) 
 - **Battle Value:** Unknown 
 - [*More Info*](kublai/kublai_f.md) 
 
@@ -47,7 +47,7 @@
   - Inner Sphere MRM 30 w/ Apollo FCS (ammo: 16) 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7669) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7669) 
 - **Battle Value:** Unknown 
 - [*More Info*](kublai/kublai_g.md) 
 

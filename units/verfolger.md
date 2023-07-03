@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Difficult to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5346) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5346) 
 - **Battle Value:** 1639 
 - [*More Info*](verfolger/verfolger_vr5-r.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Difficult to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5688) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5688) 
 - **Battle Value:** 1584 
 - [*More Info*](verfolger/verfolger_vr6-c.md) 
 
@@ -62,7 +62,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Difficult to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5689) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5689) 
 - **Battle Value:** 1811 
 - [*More Info*](verfolger/verfolger_vr6-t.md) 
 

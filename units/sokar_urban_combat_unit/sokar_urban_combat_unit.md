@@ -14,7 +14,7 @@
   - ProtoMech AC/8 × 2 (ammo: 20) 
   - AP Gauss Rifle × 4 (ammo: 80) 
   - Heavy Flamer × 2 (ammo: 20) 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/5096) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5096) 
 - **Battle Value:** 599 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/275) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/275) 
 - **Battle Value:** 771 
 - [*More Info*](battle_hawk/battle_hawk_bh-k305.md) 
 
@@ -36,7 +36,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/276) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/276) 
 - **Battle Value:** 926 
 - [*More Info*](battle_hawk/battle_hawk_bh-k306.md) 
 

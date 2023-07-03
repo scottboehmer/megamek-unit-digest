@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5761) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5761) 
 - **Battle Value:** Unknown 
 
 ## Availability 

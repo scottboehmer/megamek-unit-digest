@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3377) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3377) 
 - **Battle Value:** 657 
 
 ## Availability 

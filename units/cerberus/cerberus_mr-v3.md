@@ -19,7 +19,7 @@
   - Improved Targeting (Long) 
   - Barrel Fists 
   - Vestigial Hands 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/529) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/529) 
 - **Battle Value:** 2094 
 
 ## Availability 

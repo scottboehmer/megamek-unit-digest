@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4127) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4127) 
 - **Battle Value:** 1504 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3145 Free Worlds League - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6500) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6500) 
 - **Battle Value:** 777 
 
 ## Availability 

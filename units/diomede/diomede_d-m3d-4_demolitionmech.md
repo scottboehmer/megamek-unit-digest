@@ -23,7 +23,7 @@
   - CASE 
   - Ejection Seat 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/902) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/902) 
 - **Battle Value:** 1234 
 
 ## Availability 

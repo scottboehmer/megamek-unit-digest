@@ -16,7 +16,7 @@
   - Light Machine Gun × 8 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1712) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1712) 
 - **Battle Value:** 1074 
 
 ## Availability 

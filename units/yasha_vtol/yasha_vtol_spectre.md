@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3610) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3610) 
 - **Battle Value:** 576 
 
 ## Availability 

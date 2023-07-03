@@ -20,7 +20,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Prototype 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5562) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5562) 
 - **Battle Value:** 1074 
 
 ## Availability 

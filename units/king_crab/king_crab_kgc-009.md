@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Command ’Mech 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6635) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6635) 
 - **Battle Value:** 2260 
 
 ## Availability 

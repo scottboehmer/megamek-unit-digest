@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6548) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6548) 
 - **Battle Value:** 948 
 
 ## Availability 

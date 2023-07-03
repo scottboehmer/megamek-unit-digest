@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/671) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/671) 
 - **Battle Value:** 563 
 
 ## Availability 

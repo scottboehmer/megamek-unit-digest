@@ -14,7 +14,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Flamer 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6731) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6731) 
 - **Battle Value:** 50 (260 for 4 suits) 
 
 ## Availability 

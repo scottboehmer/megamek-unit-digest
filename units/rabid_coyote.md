@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4891) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4891) 
 - **Battle Value:** 2081 
 - [*More Info*](rabid_coyote/rabid_coyote.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Bad Reputation (Clan) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5682) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5682) 
 - **Battle Value:** 2083 
 - [*More Info*](rabid_coyote/rabid_coyote_2.md) 
 

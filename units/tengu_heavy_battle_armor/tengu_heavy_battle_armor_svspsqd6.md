@@ -16,7 +16,7 @@
   - Detachable Small VSP Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9047) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9047) 
 - **Battle Value:** 48 (436 for 6 suits) 
 
 ## Availability 

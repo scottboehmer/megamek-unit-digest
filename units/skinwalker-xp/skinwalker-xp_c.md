@@ -20,7 +20,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7381) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7381) 
 - **Battle Value:** 4519 
 
 ## Availability 

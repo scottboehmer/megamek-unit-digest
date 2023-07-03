@@ -14,7 +14,7 @@
   - Guardian ECM Suite × 2 
   - C3 Support 
   - Mast Mount 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2028) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2028) 
 - **Battle Value:** 304 
 
 ## Availability 

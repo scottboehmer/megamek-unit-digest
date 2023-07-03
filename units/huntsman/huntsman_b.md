@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2290) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2290) 
 - **Battle Value:** 2156 
 
 ## Availability 

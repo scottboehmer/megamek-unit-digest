@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Arrow IV (ammo: 15) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2675) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2675) 
 - **Battle Value:** 1016 
 
 ## Availability 

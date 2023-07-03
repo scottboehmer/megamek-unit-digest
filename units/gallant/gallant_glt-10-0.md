@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Large Re-Engineered Laser) 
   - Stabilized Weapon (Large Re-Engineered Laser) 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6872) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6872) 
 - **Battle Value:** 1537 
 
 ## Availability 

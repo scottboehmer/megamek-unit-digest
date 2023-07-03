@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - ER Medium Laser 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7650) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7650) 
 - **Battle Value:** Unknown 
 - [*More Info*](issedone/issedone_prime.md) 
 
@@ -31,7 +31,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7651) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7651) 
 - **Battle Value:** Unknown 
 - [*More Info*](issedone/issedone_a.md) 
 
@@ -49,7 +49,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7652) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7652) 
 - **Battle Value:** Unknown 
 - [*More Info*](issedone/issedone_b.md) 
 
@@ -70,7 +70,7 @@
   - Inner Sphere Chaff Pod × 2 
   - Light TAG 
   - Inner Sphere Modular Armor × 3 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7653) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7653) 
 - **Battle Value:** Unknown 
 - [*More Info*](issedone/issedone_c.md) 
 
@@ -88,7 +88,7 @@
   - ER Small Laser × 5 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7654) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7654) 
 - **Battle Value:** Unknown 
 - [*More Info*](issedone/issedone_d.md) 
 

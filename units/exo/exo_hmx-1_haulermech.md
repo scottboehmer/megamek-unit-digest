@@ -11,7 +11,7 @@
 - **Armor:** 21 (Industrial) 
 - **Cockpit:** Industrial 
 - **Heat Sinks:** 0 (0) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7840) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7840) 
 - **Battle Value:** 96 
 
 ## Availability 

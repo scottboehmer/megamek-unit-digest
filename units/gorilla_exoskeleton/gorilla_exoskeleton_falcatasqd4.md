@@ -14,7 +14,7 @@
   - Heavy Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5440) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/5440) 
 - **Battle Value:** 16 (85 for 4 suits) 
 
 ## Availability 

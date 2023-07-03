@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC 
   - Streak SRM 6 × 3 (ammo: 45) 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9393) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9393) 
 - **Battle Value:** 1676 
 
 ## Availability 

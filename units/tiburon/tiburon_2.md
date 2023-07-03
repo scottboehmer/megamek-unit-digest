@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** Shrapnel 10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9252) 
+- **Sources:** Shrapnel #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/9252) 
 - **Battle Value:** 1691 
 
 ## Availability 

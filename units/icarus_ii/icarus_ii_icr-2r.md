@@ -19,7 +19,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7995) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7995) 
 - **Battle Value:** 2775 
 
 ## Availability 

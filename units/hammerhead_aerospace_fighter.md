@@ -12,7 +12,7 @@
 - **Heat Sinks:** 16 (16) 
 - **Weapons:** 
   - Large Laser × 2 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7193) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/7193) 
 - **Battle Value:** Unknown 
 - [*More Info*](hammerhead_aerospace_fighter/hammerhead_hmr-ha.md) 
 
@@ -27,7 +27,7 @@
 - **Heat Sinks:** 16 (16) 
 - **Weapons:** 
   - Large Laser × 2 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7194) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/7194) 
 - **Battle Value:** Unknown 
 - [*More Info*](hammerhead_aerospace_fighter/hammerhead_hmr-hc.md) 
 
@@ -42,7 +42,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - AC/20 (ammo: 15) 
-- **Sources:** TRO 3050u - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1374) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1374) 
 - **Battle Value:** Unknown 
 - [*More Info*](hammerhead_aerospace_fighter/hammerhead_hmr-hd.md) 
 
@@ -57,7 +57,7 @@
 - **Heat Sinks:** 11 (22) 
 - **Weapons:** 
   - PPC × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1375) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1375) 
 - **Battle Value:** Unknown 
 - [*More Info*](hammerhead_aerospace_fighter/hammerhead_hmr-he.md) 
 
@@ -72,7 +72,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4261) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4261) 
 - **Battle Value:** Unknown 
 - [*More Info*](hammerhead_aerospace_fighter/hammerhead_hmr-hdb.md) 
 
@@ -88,7 +88,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 20 Cluster) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1376) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1376) 
 - **Battle Value:** Unknown 
 - [*More Info*](hammerhead_aerospace_fighter/hammerhead_hmr-hf.md) 
 
@@ -103,7 +103,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 10) 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1377) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1377) 
 - **Battle Value:** Unknown 
 - [*More Info*](hammerhead_aerospace_fighter/hammerhead_hmr-hg.md) 
 

@@ -21,7 +21,7 @@
   - C3 Emergency Main 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS3150 - 3131 , [Master Unit List](http://masterunitlist.info/Unit/Details/7996) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7996) 
 - **Battle Value:** 1606 
 
 ## Availability 

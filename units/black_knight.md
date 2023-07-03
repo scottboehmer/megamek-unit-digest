@@ -17,7 +17,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/358) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/358) 
 - **Battle Value:** 1551 
 - [*More Info*](black_knight/black_knight_bl-6-knt.md) 
 
@@ -38,7 +38,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/357) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/357) 
 - **Battle Value:** 1627 
 - [*More Info*](black_knight/black_knight_bl-6b-knt.md) 
 
@@ -57,7 +57,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/360) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/360) 
 - **Battle Value:** 1443 
 - [*More Info*](black_knight/black_knight_bl-7-knt.md) 
 
@@ -75,7 +75,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/361) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/361) 
 - **Battle Value:** 1409 
 - [*More Info*](black_knight/black_knight_bl-7-knt-l.md) 
 
@@ -95,7 +95,7 @@
   - Hatchet 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/359) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/359) 
 - **Battle Value:** 1861 
 - [*More Info*](black_knight/black_knight_bl-6-knt_ian.md) 
 
@@ -115,7 +115,7 @@
   - Hatchet 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/362) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/362) 
 - **Battle Value:** 1678 
 - [*More Info*](black_knight/black_knight_bl-9-knt.md) 
 
@@ -138,7 +138,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/355) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/355) 
 - **Battle Value:** 2103 
 - [*More Info*](black_knight/black_knight_bl-10-knt_ross.md) 
 
@@ -159,7 +159,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3826) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3826) 
 - **Battle Value:** 1954 
 - [*More Info*](black_knight/black_knight_bl-6-rr.md) 
 
@@ -179,7 +179,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/356) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/356) 
 - **Battle Value:** 1840 
 - [*More Info*](black_knight/black_knight_bl-12-knt.md) 
 
@@ -200,7 +200,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Unbalanced 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5783) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5783) 
 - **Battle Value:** 1858 
 - [*More Info*](black_knight/black_knight_bl-x-knt_red_reaper.md) 
 
@@ -222,7 +222,7 @@
   - Beagle Active Probe 
   - Targeting Computer 
   - C3 Support 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6347) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6347) 
 - **Battle Value:** 1847 
 - [*More Info*](black_knight/black_knight_blk-nt-2y.md) 
 
@@ -241,7 +241,7 @@
   - Flamer 
 - **Equipment:** 
   - Medium Shield 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6348) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6348) 
 - **Battle Value:** 1707 
 - [*More Info*](black_knight/black_knight_blk-nt-3a.md) 
 
@@ -263,7 +263,7 @@
   - Medium Shield 
 - **Design Quirks:** 
   - Accurate Weapon (ER PPC) 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6349) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6349) 
 - **Battle Value:** 1911 
 - [*More Info*](black_knight/black_knight_blk-nt-3b.md) 
 
@@ -286,7 +286,7 @@
   - Clan Angel ECM Suite 
 - **Design Quirks:** 
   - Accurate Weapon (ER PPC) 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6350) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6350) 
 - **Battle Value:** 2280 
 - [*More Info*](black_knight/black_knight_blk-nt-4d.md) 
 
@@ -306,7 +306,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7791) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7791) 
 - **Battle Value:** 2585 
 - [*More Info*](black_knight/black_knight_bl-18-knt.md) 
 
@@ -329,7 +329,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Accurate Weapon (ER PPC) 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6351) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6351) 
 - **Battle Value:** 2423 
 - [*More Info*](black_knight/black_knight_blk-nt-5h.md) 
 

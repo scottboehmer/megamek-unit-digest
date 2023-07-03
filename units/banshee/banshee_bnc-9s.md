@@ -24,7 +24,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3788) 
+- **Sources:** BattleCorps , [Master Unit List](http://masterunitlist.info/Unit/Details/3788) 
 - **Battle Value:** 2496 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - HarJel × 5 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/386) 
 - **Battle Value:** 1223 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/525) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/525) 
 - **Battle Value:** 957 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Pulse Laser × 2 
   - SRM 6 × 2 (ammo: 30) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4126) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4126) 
 - **Battle Value:** 861 
 
 ## Availability 

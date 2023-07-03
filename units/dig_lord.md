@@ -15,7 +15,7 @@
   - Fluid Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Extended Fuel Tank 
-- **Sources:** TRO VA - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4079) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4079) 
 - **Battle Value:** 617 
 - [*More Info*](dig_lord/dig_lord_rcl-4_miningmech.md) 
 
@@ -39,7 +39,7 @@
   - Protected Actuators 
   - Prototype 
   - Jettison-Capable Weapon (Medium Vibroblade) 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5565) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5565) 
 - **Battle Value:** 681 
 - [*More Info*](dig_lord/dig_lord_rcl-z1_armed_miningmech.md) 
 
@@ -58,7 +58,7 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Extended Fuel Tank 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/5542) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/5542) 
 - **Battle Value:** 724 
 - [*More Info*](dig_lord/dig_lord_rcl-4m_miningmech_mod.md) 
 
@@ -75,7 +75,7 @@
   - SRM 4 × 2 (ammo: 50) 
   - Mining Drill 
   - Heavy Machine Gun × 4 (ammo: 100) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7829) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7829) 
 - **Battle Value:** 699 
 - [*More Info*](dig_lord/dig_lord_rcl-4m-b_miningmech_mod.md) 
 

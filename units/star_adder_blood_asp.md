@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/406) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/406) 
 - **Battle Value:** 2654 
 - [*More Info*](star_adder_blood_asp/star_adder_blood_asp_prime.md) 
 
@@ -38,7 +38,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/399) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/399) 
 - **Battle Value:** 3452 
 - [*More Info*](star_adder_blood_asp/star_adder_blood_asp_a.md) 
 
@@ -59,7 +59,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/400) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/400) 
 - **Battle Value:** 2885 
 - [*More Info*](star_adder_blood_asp/star_adder_blood_asp_b.md) 
 
@@ -79,7 +79,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/401) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/401) 
 - **Battle Value:** 2270 
 - [*More Info*](star_adder_blood_asp/star_adder_blood_asp_c.md) 
 
@@ -100,7 +100,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/402) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/402) 
 - **Battle Value:** 2396 
 - [*More Info*](star_adder_blood_asp/star_adder_blood_asp_d.md) 
 
@@ -122,7 +122,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/403) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/403) 
 - **Battle Value:** 3179 
 - [*More Info*](star_adder_blood_asp/star_adder_blood_asp_e.md) 
 
@@ -144,7 +144,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/404) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/404) 
 - **Battle Value:** 2908 
 - [*More Info*](star_adder_blood_asp/star_adder_blood_asp_f.md) 
 
@@ -166,7 +166,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/405) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/405) 
 - **Battle Value:** 3270 
 - [*More Info*](star_adder_blood_asp/star_adder_blood_asp_g.md) 
 
@@ -188,7 +188,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9486) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9486) 
 - **Battle Value:** 3069 
 - [*More Info*](star_adder_blood_asp/star_adder_blood_asp_t.md) 
 
@@ -208,7 +208,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9485) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9485) 
 - **Battle Value:** 2252 
 - [*More Info*](star_adder_blood_asp/star_adder_blood_asp_i.md) 
 

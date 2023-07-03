@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Infantry (3 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1222) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1222) 
 - **Battle Value:** 790 
 
 ## Availability 

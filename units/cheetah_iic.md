@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Light Active Probe 
   - CASE 
-- **Sources:** RS 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8011) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8011) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah_iic/cheetah_iic.md) 
 

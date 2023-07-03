@@ -13,7 +13,7 @@
 - **Heat Sinks:** 11 (22) 
 - **Weapons:** 
   - LB 10-X AC × 2 (ammo: 40 Cluster) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4062) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4062) 
 - **Battle Value:** Unknown 
 
 ## Availability 

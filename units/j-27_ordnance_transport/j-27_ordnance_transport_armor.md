@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Hitch 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1643) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1643) 
 - **Battle Value:** 70 
 
 ## Availability 

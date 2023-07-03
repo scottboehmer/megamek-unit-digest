@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight × 2 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5118) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/5118) 
 - **Battle Value:** 833 
 - [*More Info*](st._florian/st._florian_fln-366_firemech.md) 
 
@@ -32,7 +32,7 @@
   - Enviro-Sealing 
   - Coolant Pod × 3 
   - Searchlight × 2 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7826) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7826) 
 - **Battle Value:** 1266 
 - [*More Info*](st._florian/st._florian_fln-366-m_firemech_mod.md) 
 

@@ -15,7 +15,7 @@
   - Large X-Pulse Laser 
   - Medium X-Pulse Laser × 2 
   - ER Medium Laser × 2 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4009) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4009) 
 - **Battle Value:** Unknown 
 
 ## Availability 

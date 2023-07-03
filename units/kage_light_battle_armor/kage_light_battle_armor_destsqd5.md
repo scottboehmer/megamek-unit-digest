@@ -15,7 +15,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/8546) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8546) 
 - **Battle Value:** 34 (239 for 5 suits) 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - MASC 
-- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7880) 
+- **Sources:** Operational Turning Points: Hanseatic Crusade , [Master Unit List](http://masterunitlist.info/Unit/Details/7880) 
 - **Battle Value:** 1249 
 
 ## Availability 

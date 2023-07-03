@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (LB 10-X AC) 
   - Stabilized Weapon (LB 10-X AC) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2102) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2102) 
 - **Battle Value:** 1877 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2607) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2607) 
 - **Battle Value:** 707 
 
 ## Availability 

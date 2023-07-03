@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Fully Amphibious Chassis 
   - Infantry (4 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2588) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2588) 
 - **Battle Value:** 721 
 
 ## Availability 

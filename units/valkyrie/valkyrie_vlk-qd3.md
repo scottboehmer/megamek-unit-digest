@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3376) 
+- **Sources:** TRO: Project Pheonix , [Master Unit List](http://masterunitlist.info/Unit/Details/3376) 
 - **Battle Value:** 882 
 
 ## Availability 

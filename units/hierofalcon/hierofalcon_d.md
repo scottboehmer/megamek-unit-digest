@@ -18,7 +18,7 @@
   - Partial Wing 
   - CASE II 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7488) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7488) 
 - **Battle Value:** 2183 
 
 ## Availability 

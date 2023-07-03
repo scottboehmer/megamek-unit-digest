@@ -18,7 +18,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3458) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3458) 
 - **Battle Value:** 642 
 
 ## Availability 

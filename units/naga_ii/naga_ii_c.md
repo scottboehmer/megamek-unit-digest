@@ -32,7 +32,7 @@
   - Stabilized Weapon (Streak SRM 6) 
   - Stabilized Weapon (Large Pulse Laser) 
   - Stabilized Weapon (Medium Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #26 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9325) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9325) 
 - **Battle Value:** 2177 
 
 ## Availability 

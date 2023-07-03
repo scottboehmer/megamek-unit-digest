@@ -16,7 +16,7 @@
   - Heavy Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4292) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4292) 
 - **Battle Value:** 2244 
 
 ## Availability 

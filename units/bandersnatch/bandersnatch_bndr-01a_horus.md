@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stable 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3780) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/3780) 
 - **Battle Value:** 1584 
 
 ## Availability 

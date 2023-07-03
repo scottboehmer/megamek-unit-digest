@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Searchlight 
   - Cargo 
-- **Sources:** RS:VA IM Exo - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3905) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/3905) 
 - **Battle Value:** 226 
 
 ## Availability 

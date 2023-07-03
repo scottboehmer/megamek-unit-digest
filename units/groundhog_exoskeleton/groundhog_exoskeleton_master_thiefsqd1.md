@@ -14,7 +14,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Clan Myomer Booster × 3 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5791) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5791) 
 - **Battle Value:** 5 (5 for 1 suits) 
 
 ## Availability 

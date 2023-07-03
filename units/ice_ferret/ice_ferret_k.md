@@ -18,7 +18,7 @@
   - Laser Anti-Missile System 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #4- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7504) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7504) 
 - **Battle Value:** 1769 
 
 ## Availability 

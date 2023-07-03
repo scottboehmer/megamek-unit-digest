@@ -16,7 +16,7 @@
   - Salvage Arm 
   - Communications Equipment 
   - Searchlight 
-- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4594) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4594) 
 - **Battle Value:** 295 
 - [*More Info*](marco/marco_mr-6_explorermech.md) 
 
@@ -38,7 +38,7 @@
   - Communications Equipment 
   - Cargo 
   - Searchlight 
-- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4595) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4595) 
 - **Battle Value:** 295 
 - [*More Info*](marco/marco_mr-7_explorermech.md) 
 
@@ -59,7 +59,7 @@
   - Salvage Arm 
   - Cargo 
   - Searchlight 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4596) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/4596) 
 - **Battle Value:** 304 
 - [*More Info*](marco/marco_mr-8c_explorermech.md) 
 
@@ -77,7 +77,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2073) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2073) 
 - **Battle Value:** 436 
 - [*More Info*](marco/marco_mr-8d.md) 
 
@@ -95,7 +95,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2074) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2074) 
 - **Battle Value:** 476 
 - [*More Info*](marco/marco_mr-8e.md) 
 

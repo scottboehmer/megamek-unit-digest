@@ -12,7 +12,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** Rec Guide:ilClan #29 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9385) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9385) 
 - **Battle Value:** 193 
 - [*More Info*](command_van/command_van.md) 
 
@@ -28,7 +28,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** Rec Guide:ilClan #29 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3977) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/3977) 
 - **Battle Value:** 178 
 - [*More Info*](command_van/command_van_ice.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - LRM 5 (ammo: 24) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #29 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3978) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/3978) 
 - **Battle Value:** 278 
 - [*More Info*](command_van/command_van_q-vehicle.md) 
 

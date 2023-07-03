@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/429) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/429) 
 - **Battle Value:** 2200 
 
 ## Availability 

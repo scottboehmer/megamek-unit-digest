@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1801) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1801) 
 - **Battle Value:** Unknown 
 - [*More Info*](kirghiz/kirghiz_prime.md) 
 
@@ -38,7 +38,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1797) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1797) 
 - **Battle Value:** Unknown 
 - [*More Info*](kirghiz/kirghiz_a.md) 
 
@@ -58,7 +58,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1798) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1798) 
 - **Battle Value:** Unknown 
 - [*More Info*](kirghiz/kirghiz_b.md) 
 
@@ -80,7 +80,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (10.0 tons) 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1799) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1799) 
 - **Battle Value:** Unknown 
 - [*More Info*](kirghiz/kirghiz_c.md) 
 
@@ -101,7 +101,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1800) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1800) 
 - **Battle Value:** Unknown 
 - [*More Info*](kirghiz/kirghiz_d.md) 
 
@@ -122,7 +122,7 @@
   - ECM Suite 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4450) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/4450) 
 - **Battle Value:** Unknown 
 - [*More Info*](kirghiz/kirghiz_e.md) 
 

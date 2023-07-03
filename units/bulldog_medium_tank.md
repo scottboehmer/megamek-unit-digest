@@ -12,7 +12,7 @@
   - Large Laser 
   - SRM 4 × 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/441) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/441) 
 - **Battle Value:** 605 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank.md) 
 
@@ -28,7 +28,7 @@
   - LRM 20 (ammo: 18) 
   - SRM 4 × 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/440) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/440) 
 - **Battle Value:** 748 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_lrm.md) 
 
@@ -44,7 +44,7 @@
   - SRM 4 × 2 (ammo: 25) 
   - AC/2 × 2 (ammo: 45) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/439) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/439) 
 - **Battle Value:** 556 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_ac2.md) 
 
@@ -60,7 +60,7 @@
   - Snub-Nose PPC 
   - MML 5 w/ Artemis IV × 2 (ammo: 24 LRM, 20 SRM) 
   - Machine Gun (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6792) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6792) 
 - **Battle Value:** 841 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_cell.md) 
 
@@ -78,7 +78,7 @@
   - Heavy Machine Gun (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9255) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9255) 
 - **Battle Value:** 842 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_erll.md) 
 
@@ -96,7 +96,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6792) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/6792) 
 - **Battle Value:** 855 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_lb-x.md) 
 
@@ -114,7 +114,7 @@
   - Heavy Machine Gun (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9258) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9258) 
 - **Battle Value:** 977 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_plasma.md) 
 
@@ -130,7 +130,7 @@
   - Clan Large Chemical Laser (ammo: 20) 
   - SRM 4 × 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Rec Guide 25  - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9256) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9256) 
 - **Battle Value:** 695 
 - [*More Info*](bulldog_medium_tank/bulldog_medium_tank_chemical.md) 
 

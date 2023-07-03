@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Tracks 
   - CASE 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7351) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7351) 
 - **Battle Value:** 1583 
 
 ## Availability 

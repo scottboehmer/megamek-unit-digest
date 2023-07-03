@@ -14,7 +14,7 @@
   - Anti-Missile System × 2 (ammo: 12) 
   - MASH (1 theaters) 
   - CASE 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9453) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9453) 
 - **Battle Value:** 269 
 
 ## Availability 

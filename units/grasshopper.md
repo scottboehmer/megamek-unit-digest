@@ -15,7 +15,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1267) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1267) 
 - **Battle Value:** 1427 
 - [*More Info*](grasshopper/grasshopper_ghr-5h.md) 
 
@@ -33,7 +33,7 @@
   - Medium Laser × 5 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4232) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4232) 
 - **Battle Value:** 1511 
 - [*More Info*](grasshopper/grasshopper_ghr-5n.md) 
 
@@ -54,7 +54,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1268) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1268) 
 - **Battle Value:** 1354 
 - [*More Info*](grasshopper/grasshopper_ghr-5j.md) 
 
@@ -76,7 +76,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1272) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1272) 
 - **Battle Value:** 1366 
 - [*More Info*](grasshopper/grasshopper_ghr-c.md) 
 
@@ -94,7 +94,7 @@
   - Clan ER Medium Laser × 4 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5861) 
+- **Sources:** Historical Turning Points: Luzerne , [Master Unit List](http://masterunitlist.info/Unit/Details/5861) 
 - **Battle Value:** 2344 
 - [*More Info*](grasshopper/grasshopper_reynolds.md) 
 
@@ -116,7 +116,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1269) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1269) 
 - **Battle Value:** 1597 
 - [*More Info*](grasshopper/grasshopper_ghr-6k.md) 
 
@@ -138,7 +138,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1270) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1270) 
 - **Battle Value:** 1806 
 - [*More Info*](grasshopper/grasshopper_ghr-7k.md) 
 
@@ -160,7 +160,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4233) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4233) 
 - **Battle Value:** 2084 
 - [*More Info*](grasshopper/grasshopper_ghr-7k_gravedigger.md) 
 
@@ -181,7 +181,7 @@
   - Bloodhound Active Probe 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1271) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/1271) 
 - **Battle Value:** 1587 
 - [*More Info*](grasshopper/grasshopper_ghr-7x.md) 
 
@@ -203,7 +203,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4234) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4234) 
 - **Battle Value:** 1806 
 - [*More Info*](grasshopper/grasshopper_ghr-7p.md) 
 
@@ -224,7 +224,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7450) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7450) 
 - **Battle Value:** 1754 
 - [*More Info*](grasshopper/grasshopper_ghr-8k.md) 
 

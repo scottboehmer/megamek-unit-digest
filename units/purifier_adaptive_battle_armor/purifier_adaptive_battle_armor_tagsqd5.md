@@ -14,7 +14,7 @@
   - Battle Claw (right) 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8572) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8572) 
 - **Battle Value:** 26 (179 for 5 suits) 
 
 ## Availability 

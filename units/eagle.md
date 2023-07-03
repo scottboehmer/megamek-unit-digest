@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/936) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/936) 
 - **Battle Value:** 757 
 - [*More Info*](eagle/eagle_egl-1m.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/937) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/937) 
 - **Battle Value:** 800 
 - [*More Info*](eagle/eagle_egl-2m.md) 
 
@@ -57,7 +57,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/938) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/938) 
 - **Battle Value:** 645 
 - [*More Info*](eagle/eagle_egl-3m.md) 
 

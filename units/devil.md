@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #8 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7571) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7571) 
 - **Battle Value:** 1691 
 - [*More Info*](devil/devil.md) 
 

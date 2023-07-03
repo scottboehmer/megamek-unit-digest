@@ -20,7 +20,7 @@
   - CASE II 
   - CASE 
   - Inner Sphere Supercharger 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8324) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8324) 
 - **Battle Value:** 3480 
 
 ## Availability 

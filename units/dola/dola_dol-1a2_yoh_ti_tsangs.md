@@ -18,7 +18,7 @@
   - TAG 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Small Vibroblade) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4087) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4087) 
 - **Battle Value:** 791 
 
 ## Availability 

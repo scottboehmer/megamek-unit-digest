@@ -15,7 +15,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1958) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1958) 
 - **Battle Value:** Unknown 
 - [*More Info*](lucifer_ii/lucifer_ii_lcf-r16k.md) 
 
@@ -34,7 +34,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Pulse Laser 
   - Small Pulse Laser × 2 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1959) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1959) 
 - **Battle Value:** Unknown 
 - [*More Info*](lucifer_ii/lucifer_ii_lcf-r16kr.md) 
 

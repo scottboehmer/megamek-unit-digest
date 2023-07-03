@@ -15,7 +15,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 4 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2685) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2685) 
 - **Battle Value:** 1464 
 
 ## Availability 

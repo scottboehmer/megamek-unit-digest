@@ -13,7 +13,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/418) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/418) 
 - **Battle Value:** 850 
 - [*More Info*](bombard/bombard_bmb-010.md) 
 
@@ -34,7 +34,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/419) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/419) 
 - **Battle Value:** 1019 
 - [*More Info*](bombard/bombard_bmb-013.md) 
 
@@ -54,7 +54,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/420) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/420) 
 - **Battle Value:** 1648 
 - [*More Info*](bombard/bombard_bmb-1x.md) 
 
@@ -76,7 +76,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7980) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7980) 
 - **Battle Value:** 1247 
 - [*More Info*](bombard/bombard_bmb-016.md) 
 

@@ -16,7 +16,7 @@
   - MML 5 × 2 (ammo: 48 LRM, 20 SRM) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1789) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1789) 
 - **Battle Value:** 1226 
 
 ## Availability 

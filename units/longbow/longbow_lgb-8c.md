@@ -14,7 +14,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - Medium Laser × 4 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** Rec Guide:ilClan #20 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/8332) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8332) 
 - **Battle Value:** 1653 
 
 ## Availability 

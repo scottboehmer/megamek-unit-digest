@@ -14,7 +14,7 @@
   - Medium Laser 
   - LRM 5 (ammo: 24) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** RS:VA IM Exo - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7158) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7158) 
 - **Battle Value:** 358 
 
 ## Availability 

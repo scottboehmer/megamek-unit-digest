@@ -14,6 +14,7 @@
   - AC/10 (ammo: 30) 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 3 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1704 
 - [*More Info*](corsair_frankenmech/corsair_cor-5r.md) 
 
@@ -28,6 +29,7 @@
 - **Weapons:** 
   - Medium Laser × 4 
   - AC/2 × 6 (ammo: 270) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1454 
 - [*More Info*](corsair_frankenmech/corsair_cor-5t.md) 
 
@@ -48,6 +50,7 @@
   - SRM 2 (ammo: 50) 
   - Small Laser 
   - Machine Gun (ammo: 200) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1636 
 - [*More Info*](corsair_frankenmech/corsair_cor-6r.md) 
 
@@ -65,6 +68,7 @@
   - Large Pulse Laser 
   - Ultra AC/5 (ammo: 40) 
   - Medium Laser × 3 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2122 
 - [*More Info*](corsair_frankenmech/corsair_cor-ra_ravager.md) 
 
@@ -83,6 +87,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Anti-Missile System × 4 (ammo: 48) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1805 
 - [*More Info*](corsair_frankenmech/corsair_cor-7a.md) 
 
@@ -99,6 +104,7 @@
   - Large Laser × 2 
   - Rocket 20 × 2 
   - Rocket 10 × 3 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1781 
 - [*More Info*](corsair_frankenmech/corsair_cor-7r.md) 
 
@@ -115,6 +121,7 @@
   - Large Laser × 2 
   - Medium Laser 
   - SRM 4 × 3 (ammo: 75) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2124 
 - [*More Info*](corsair_frankenmech/corsair_cor-br_broadside.md) 
 

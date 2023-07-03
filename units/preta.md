@@ -22,7 +22,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2573) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2573) 
 - **Battle Value:** 1064 
 - [*More Info*](preta/preta_c-prt-o_invictus.md) 
 
@@ -46,7 +46,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2574) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2574) 
 - **Battle Value:** 1302 
 - [*More Info*](preta/preta_c-prt-oa_dominus.md) 
 
@@ -70,7 +70,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2575) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2575) 
 - **Battle Value:** 1338 
 - [*More Info*](preta/preta_c-prt-ob_infernus.md) 
 
@@ -96,7 +96,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2576) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2576) 
 - **Battle Value:** 1187 
 - [*More Info*](preta/preta_c-prt-oc_comminus.md) 
 
@@ -121,7 +121,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2577) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2577) 
 - **Battle Value:** 1158 
 - [*More Info*](preta/preta_c-prt-od_luminos.md) 
 
@@ -146,7 +146,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2572) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/2572) 
 - **Battle Value:** 999 
 - [*More Info*](preta/preta_c-prt-o_kendali.md) 
 
@@ -171,7 +171,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2578) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2578) 
 - **Battle Value:** 1211 
 - [*More Info*](preta/preta_c-prt-oe_eminus.md) 
 
@@ -195,7 +195,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2579) 
+- **Sources:** Jihad Secrets: The Blake Documents , [Master Unit List](http://masterunitlist.info/Unit/Details/2579) 
 - **Battle Value:** 1566 
 - [*More Info*](preta/preta_c-prt-os_caelestis.md) 
 
@@ -221,7 +221,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2580) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2580) 
 - **Battle Value:** 1052 
 - [*More Info*](preta/preta_c-prt-ou_exanimus.md) 
 

@@ -21,7 +21,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2000) 
+- **Sources:** Jihad Secrets: The Blake Documents , [Master Unit List](http://masterunitlist.info/Unit/Details/2000) 
 - **Battle Value:** 1121 
 
 ## Availability 

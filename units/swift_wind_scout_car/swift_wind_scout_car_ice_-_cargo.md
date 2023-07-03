@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3142) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3142) 
 - **Battle Value:** 81 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** RS 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8037) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8037) 
 - **Battle Value:** 1697 
 
 ## Availability 

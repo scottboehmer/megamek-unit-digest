@@ -25,7 +25,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** OTP Widowmaker - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7310) 
+- **Sources:** Operational Turning Points: Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7310) 
 - **Battle Value:** 2777 
 
 ## Availability 

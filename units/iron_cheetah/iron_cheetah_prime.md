@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 48) 
   - CASE 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8319) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8319) 
 - **Battle Value:** 3155 
 
 ## Availability 

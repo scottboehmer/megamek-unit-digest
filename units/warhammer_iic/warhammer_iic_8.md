@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** RS 3085pp - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3507) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/3507) 
 - **Battle Value:** 2380 
 
 ## Availability 

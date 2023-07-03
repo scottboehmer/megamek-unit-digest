@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Supercharger 
   - C3 Support 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4798) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4798) 
 - **Battle Value:** 1119 
 
 ## Availability 

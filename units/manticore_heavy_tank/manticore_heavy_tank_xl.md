@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Rec Guide:ilClan #31 -  Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9456) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9456) 
 - **Battle Value:** 1114 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Weak Head Armor (1) 
-- **Sources:** Source:TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/300) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/300) 
 - **Battle Value:** 1851 
 
 ## Availability 

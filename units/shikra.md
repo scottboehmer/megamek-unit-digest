@@ -15,7 +15,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Chaff Pod × 2 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6519) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6519) 
 - **Battle Value:** Unknown 
 - [*More Info*](shikra/shikra_skr-4m.md) 
 
@@ -34,7 +34,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Chaff Pod × 2 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8060) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8060) 
 - **Battle Value:** Unknown 
 - [*More Info*](shikra/shikra_skr-4n.md) 
 

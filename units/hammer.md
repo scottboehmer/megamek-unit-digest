@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1366) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1366) 
 - **Battle Value:** 787 
 - [*More Info*](hammer/hammer_hmr-3m.md) 
 
@@ -32,7 +32,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1368) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1368) 
 - **Battle Value:** 638 
 - [*More Info*](hammer/hammer_hmr-3s_slammer.md) 
 
@@ -50,7 +50,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1365) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1365) 
 - **Battle Value:** 976 
 - [*More Info*](hammer/hammer_hmr-3c_claw-hammer.md) 
 
@@ -71,7 +71,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1367) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1367) 
 - **Battle Value:** 827 
 - [*More Info*](hammer/hammer_hmr-3p_pein-hammer.md) 
 

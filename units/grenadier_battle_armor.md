@@ -14,7 +14,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4241) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4241) 
 - **Battle Value:** 60 (312 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_flamersqd4.md) 
 
@@ -32,7 +32,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8629) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8629) 
 - **Battle Value:** 60 (420 for 5 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_flamersqd5.md) 
 
@@ -50,7 +50,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8993) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8993) 
 - **Battle Value:** 60 (541 for 6 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_flamersqd6.md) 
 
@@ -68,7 +68,7 @@
   - Light Recoilless Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4242) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4242) 
 - **Battle Value:** 65 (336 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_lrrsqd4.md) 
 
@@ -86,7 +86,7 @@
   - Light Recoilless Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8630) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8630) 
 - **Battle Value:** 65 (452 for 5 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_lrrsqd5.md) 
 
@@ -104,7 +104,7 @@
   - Light Recoilless Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8994) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8994) 
 - **Battle Value:** 65 (581 for 6 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_lrrsqd6.md) 
 
@@ -122,7 +122,7 @@
   - Magshot Gauss Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4243) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4243) 
 - **Battle Value:** 67 (346 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_magshotsqd4.md) 
 
@@ -140,7 +140,7 @@
   - Magshot Gauss Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8631) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8631) 
 - **Battle Value:** 67 (466 for 5 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_magshotsqd5.md) 
 
@@ -158,7 +158,7 @@
   - Magshot Gauss Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8995) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8995) 
 - **Battle Value:** 67 (599 for 6 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_magshotsqd6.md) 
 
@@ -176,7 +176,7 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4244) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4244) 
 - **Battle Value:** 63 (326 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_srm_slsqd4.md) 
 
@@ -194,7 +194,7 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8632) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8632) 
 - **Battle Value:** 63 (439 for 5 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_srm_slsqd5.md) 
 
@@ -212,7 +212,7 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8996) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8996) 
 - **Battle Value:** 63 (564 for 6 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_srm_slsqd6.md) 
 
@@ -230,7 +230,7 @@
 - **Equipment:** 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4245) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4245) 
 - **Battle Value:** 57 (295 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_tagsqd4.md) 
 
@@ -248,7 +248,7 @@
 - **Equipment:** 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8633) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8633) 
 - **Battle Value:** 57 (398 for 5 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_tagsqd5.md) 
 
@@ -266,7 +266,7 @@
 - **Equipment:** 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8997) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8997) 
 - **Battle Value:** 57 (511 for 6 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_tagsqd6.md) 
 
@@ -283,7 +283,7 @@
   - SRM 5 (ammo: 4) 
   - Magshot Gauss Rifle 
   - Firedrake Support Needler 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4238) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4238) 
 - **Battle Value:** 73 (379 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_magshotsqd4.md) 
 
@@ -300,7 +300,7 @@
   - SRM 5 (ammo: 4) 
   - Magshot Gauss Rifle 
   - Firedrake Support Needler 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8627) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8627) 
 - **Battle Value:** 73 (511 for 5 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_magshotsqd5.md) 
 
@@ -317,7 +317,7 @@
   - SRM 5 (ammo: 4) 
   - Magshot Gauss Rifle 
   - Firedrake Support Needler 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8991) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8991) 
 - **Battle Value:** 73 (656 for 6 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_magshotsqd6.md) 
 
@@ -334,7 +334,7 @@
   - SRM 5 (ammo: 4) 
   - Compact Narc (ammo: 3) 
   - Firedrake Support Needler 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4239) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4239) 
 - **Battle Value:** 74 (383 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_narcsqd4.md) 
 
@@ -351,7 +351,7 @@
   - SRM 5 (ammo: 4) 
   - Compact Narc (ammo: 3) 
   - Firedrake Support Needler 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8628) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8628) 
 - **Battle Value:** 74 (515 for 5 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_narcsqd5.md) 
 
@@ -368,7 +368,7 @@
   - SRM 5 (ammo: 4) 
   - Compact Narc (ammo: 3) 
   - Firedrake Support Needler 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8992) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8992) 
 - **Battle Value:** 74 (662 for 6 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_narcsqd6.md) 
 
@@ -383,7 +383,7 @@
   - Basic Manipulator (right) 
 - **Weapons:** 
   - Heavy Flamer × 2 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6739) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6739) 
 - **Battle Value:** 50 (260 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_heavy_flamersqd4.md) 
 
@@ -398,7 +398,7 @@
   - Basic Manipulator (right) 
 - **Weapons:** 
   - Heavy Flamer × 2 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8794) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8794) 
 - **Battle Value:** 50 (350 for 5 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_heavy_flamersqd5.md) 
 
@@ -413,7 +413,7 @@
   - Basic Manipulator (right) 
 - **Weapons:** 
   - Heavy Flamer × 2 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9157) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9157) 
 - **Battle Value:** 50 (450 for 6 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_heavy_flamersqd6.md) 
 
@@ -431,7 +431,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6740) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6740) 
 - **Battle Value:** 46 (240 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_c3_hrrsqd4.md) 
 
@@ -449,7 +449,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8795) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8795) 
 - **Battle Value:** 46 (323 for 5 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_c3_hrrsqd5.md) 
 
@@ -467,7 +467,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9158) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9158) 
 - **Battle Value:** 46 (415 for 6 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_c3_hrrsqd6.md) 
 
@@ -484,7 +484,7 @@
   - Small VSP Laser 
   - Magshot Gauss Rifle 
   - Firedrake Support Needler 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6741) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6741) 
 - **Battle Value:** 56 (291 for 4 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_svsp_magshotsqd4.md) 
 
@@ -501,7 +501,7 @@
   - Small VSP Laser 
   - Magshot Gauss Rifle 
   - Firedrake Support Needler 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8796) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8796) 
 - **Battle Value:** 56 (391 for 5 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_svsp_magshotsqd5.md) 
 
@@ -518,7 +518,7 @@
   - Small VSP Laser 
   - Magshot Gauss Rifle 
   - Firedrake Support Needler 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9159) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9159) 
 - **Battle Value:** 56 (503 for 6 suits) 
 - [*More Info*](grenadier_battle_armor/grenadier_battle_armor_hunter-killer_svsp_magshotsqd6.md) 
 

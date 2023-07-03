@@ -17,7 +17,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3058) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3058) 
 - **Battle Value:** 497 
 
 ## Availability 

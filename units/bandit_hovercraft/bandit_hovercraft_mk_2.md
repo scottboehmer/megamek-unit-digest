@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Armored Motive System 
   - CASE 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/3783) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3783) 
 - **Battle Value:** 670 
 
 ## Availability 

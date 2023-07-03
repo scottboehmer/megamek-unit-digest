@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** RS 3085pp - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3508) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/3508) 
 - **Battle Value:** 2819 
 
 ## Availability 

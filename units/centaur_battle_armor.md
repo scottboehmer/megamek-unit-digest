@@ -15,7 +15,7 @@
   - Small Laser 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6651) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6651) 
 - **Battle Value:** 52 (272 for 4 suits) 
 - [*More Info*](centaur_battle_armor/centaur_battle_armor_sqd4.md) 
 
@@ -34,7 +34,7 @@
   - Small Laser 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8781) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/8781) 
 - **Battle Value:** 52 (366 for 5 suits) 
 - [*More Info*](centaur_battle_armor/centaur_battle_armor_sqd5.md) 
 
@@ -53,7 +53,7 @@
   - Small Laser 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9144) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/9144) 
 - **Battle Value:** 52 (470 for 6 suits) 
 - [*More Info*](centaur_battle_armor/centaur_battle_armor_sqd6.md) 
 

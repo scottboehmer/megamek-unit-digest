@@ -14,7 +14,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Cargo × 3 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2566) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/2566) 
 - **Battle Value:** 277 
 
 ## Availability 

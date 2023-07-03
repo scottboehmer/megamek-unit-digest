@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8315) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8315) 
 - **Battle Value:** 1562 
 
 ## Availability 

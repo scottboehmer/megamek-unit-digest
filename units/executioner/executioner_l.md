@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** Rec Guide:ilClan #9 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7713) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7713) 
 - **Battle Value:** 3132 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Micro Pulse Laser 
   - SRM 2 (OS) 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8852) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8852) 
 - **Battle Value:** 68 (615 for 6 suits) 
 
 ## Availability 

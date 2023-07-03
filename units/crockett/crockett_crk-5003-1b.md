@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Poor Life Support 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/726) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/726) 
 - **Battle Value:** 2307 
 
 ## Availability 

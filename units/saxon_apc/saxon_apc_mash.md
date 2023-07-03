@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - MASH (1 theaters) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2810) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2810) 
 - **Battle Value:** 436 
 
 ## Availability 

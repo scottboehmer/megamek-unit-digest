@@ -27,7 +27,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (RAC/2) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3578) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/3578) 
 - **Battle Value:** 1547 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Supercharger 
-- **Sources:** Rec Guide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9254) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9254) 
 - **Battle Value:** 906 
 
 ## Availability 

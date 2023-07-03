@@ -22,7 +22,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (Gauss Rifle) 
   - Exposed Weapon Linkage (Gauss Rifle) 
-- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2043) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/2043) 
 - **Battle Value:** 1799 
 
 ## Availability 

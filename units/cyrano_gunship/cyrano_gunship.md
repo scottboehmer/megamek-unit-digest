@@ -14,7 +14,7 @@
   - Large Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/787) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/787) 
 - **Battle Value:** 459 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Light TAG 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9071) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9071) 
 - **Battle Value:** 36 (323 for 6 suits) 
 
 ## Availability 

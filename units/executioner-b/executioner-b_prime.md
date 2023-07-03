@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Poor Performance 
-- **Sources:** Shrapnel #8 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8463) 
+- **Sources:** Shrapnel #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/8463) 
 - **Battle Value:** 2721 
 
 ## Availability 

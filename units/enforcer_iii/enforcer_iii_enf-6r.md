@@ -15,7 +15,7 @@
   - RAC/5 (ammo: 60) 
   - ER PPC 
   - ER Small Laser 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7985) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7985) 
 - **Battle Value:** 1694 
 
 ## Availability 

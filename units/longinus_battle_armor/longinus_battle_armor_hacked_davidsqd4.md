@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - C3i 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1939) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/1939) 
 - **Battle Value:** 28 (147 for 4 suits) 
 
 ## Availability 

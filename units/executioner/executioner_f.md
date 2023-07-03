@@ -20,7 +20,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** Rec Guide:ilClan #9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6842) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/6842) 
 - **Battle Value:** 3606 
 
 ## Availability 

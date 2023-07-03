@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC 
   - NLRM 5 (ammo: 24) 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5557) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5557) 
 - **Battle Value:** Unknown 
 
 ## Availability 

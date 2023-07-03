@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Stabilized Weapon (ER Large Laser) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7454) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7454) 
 - **Battle Value:** 1751 
 
 ## Availability 

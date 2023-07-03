@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #32 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9472) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9472) 
 - **Battle Value:** 910 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #17 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1841) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/1841) 
 - **Battle Value:** 1950 
 
 ## Availability 

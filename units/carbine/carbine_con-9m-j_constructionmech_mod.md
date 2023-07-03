@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7849) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7849) 
 - **Battle Value:** 271 
 
 ## Availability 

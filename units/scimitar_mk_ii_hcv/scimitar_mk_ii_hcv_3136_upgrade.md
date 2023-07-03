@@ -16,7 +16,7 @@
   - Small Laser × 4 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6376) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6376) 
 - **Battle Value:** 783 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1593) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/1593) 
 - **Battle Value:** Unknown 
 
 ## Availability 

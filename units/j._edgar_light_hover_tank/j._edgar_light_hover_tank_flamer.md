@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Vehicle Flamer × 2 (ammo: 40) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1637) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1637) 
 - **Battle Value:** 459 
 
 ## Availability 

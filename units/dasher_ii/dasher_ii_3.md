@@ -15,7 +15,7 @@
   - Inner Sphere Claw × 2 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6920) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6920) 
 - **Battle Value:** 1496 
 
 ## Availability 

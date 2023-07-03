@@ -13,7 +13,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Chainsaw × 2 
-- **Sources:** RS IA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4026) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4026) 
 - **Battle Value:** 230 
 
 ## Availability 

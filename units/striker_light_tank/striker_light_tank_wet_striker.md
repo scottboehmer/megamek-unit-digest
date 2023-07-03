@@ -15,7 +15,7 @@
   - Rocket 10 × 4 
 - **Equipment:** 
   - Limited Amphibious Chassis 
-- **Sources:** XTRO Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/3097) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/3097) 
 - **Battle Value:** 541 
 
 ## Availability 

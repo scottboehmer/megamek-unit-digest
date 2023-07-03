@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Smart Robotic Control System (Improved) 
-- **Sources:** JHS Terra - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3148) 
+- **Sources:** Jihad Hot Spots: Terra , [Master Unit List](http://masterunitlist.info/Unit/Details/3148) 
 - **Battle Value:** Unknown 
 
 ## Availability 

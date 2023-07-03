@@ -16,7 +16,7 @@
   - Flamer × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8390) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8390) 
 - **Battle Value:** 1593 
 
 ## Availability 

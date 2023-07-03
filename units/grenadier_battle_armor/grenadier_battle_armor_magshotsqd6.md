@@ -16,7 +16,7 @@
   - Magshot Gauss Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8995) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8995) 
 - **Battle Value:** 67 (599 for 6 suits) 
 
 ## Availability 

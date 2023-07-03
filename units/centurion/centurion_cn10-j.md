@@ -18,7 +18,7 @@
   - Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7696) 
+- **Sources:** Shrapnel #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7696) 
 - **Battle Value:** 1257 
 
 ## Availability 

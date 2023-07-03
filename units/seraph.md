@@ -24,7 +24,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2869) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2869) 
 - **Battle Value:** 1807 
 - [*More Info*](seraph/seraph_c-srp-o_invictus.md) 
 
@@ -54,7 +54,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2870) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2870) 
 - **Battle Value:** 2355 
 - [*More Info*](seraph/seraph_c-srp-oa_dominus.md) 
 
@@ -82,7 +82,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2871) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2871) 
 - **Battle Value:** 2181 
 - [*More Info*](seraph/seraph_c-srp-ob_infernus.md) 
 
@@ -111,7 +111,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2872) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2872) 
 - **Battle Value:** 2136 
 - [*More Info*](seraph/seraph_c-srp-oc_comminus.md) 
 
@@ -139,7 +139,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2873) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2873) 
 - **Battle Value:** 2291 
 - [*More Info*](seraph/seraph_c-srp-od_luminos.md) 
 
@@ -167,7 +167,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2868) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/2868) 
 - **Battle Value:** 1927 
 - [*More Info*](seraph/seraph_c-srp-o_havalah.md) 
 
@@ -192,7 +192,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2874) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2874) 
 - **Battle Value:** 2148 
 - [*More Info*](seraph/seraph_c-srp-oe_eminus.md) 
 
@@ -220,7 +220,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2875) 
+- **Sources:** Jihad Turning Points: Sian , [Master Unit List](http://masterunitlist.info/Unit/Details/2875) 
 - **Battle Value:** 1954 
 - [*More Info*](seraph/seraph_c-srp-or_ravana.md) 
 
@@ -246,7 +246,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2876) 
+- **Sources:** Jihad Secrets: The Blake Documents , [Master Unit List](http://masterunitlist.info/Unit/Details/2876) 
 - **Battle Value:** 2788 
 - [*More Info*](seraph/seraph_c-srp-os_caelestis.md) 
 

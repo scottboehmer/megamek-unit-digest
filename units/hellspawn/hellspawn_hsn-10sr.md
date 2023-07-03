@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5674) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5674) 
 - **Battle Value:** 1411 
 
 ## Availability 

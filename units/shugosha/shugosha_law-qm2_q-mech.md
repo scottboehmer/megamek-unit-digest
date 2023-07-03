@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Booby Trap 
   - Drone Operating System 
-- **Sources:** RS:VA IM Exo - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7155) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7155) 
 - **Battle Value:** 164 
 
 ## Availability 

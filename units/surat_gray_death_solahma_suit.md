@@ -13,7 +13,7 @@
   - Clan Heavy Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7307) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7307) 
 - **Battle Value:** 51 (267 for 4 suits) 
 - [*More Info*](surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_sqd4.md) 
 
@@ -30,7 +30,7 @@
   - Clan Heavy Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8822) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/8822) 
 - **Battle Value:** 51 (359 for 5 suits) 
 - [*More Info*](surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_sqd5.md) 
 
@@ -47,7 +47,7 @@
   - Clan Heavy Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9185) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/9185) 
 - **Battle Value:** 51 (462 for 6 suits) 
 - [*More Info*](surat_gray_death_solahma_suit/surat_gray_death_solahma_suit_sqd6.md) 
 

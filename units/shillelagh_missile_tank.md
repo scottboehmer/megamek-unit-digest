@@ -11,7 +11,7 @@
 - **Weapons:** 
   - LRM 15 (ammo: 16) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3145 Draconis Combine - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/6379) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6379) 
 - **Battle Value:** 584 
 - [*More Info*](shillelagh_missile_tank/shillelagh_missile_tank_original.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - MML 5 × 3 (ammo: 48 LRM, 40 SRM) 
   - Light Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6378) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6378) 
 - **Battle Value:** 669 
 - [*More Info*](shillelagh_missile_tank/shillelagh_missile_tank.md) 
 

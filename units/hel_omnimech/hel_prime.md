@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6277) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6277) 
 - **Battle Value:** 2189 
 
 ## Availability 

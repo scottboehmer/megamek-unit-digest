@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Bloodhound Active Probe 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #10 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7724) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7724) 
 - **Battle Value:** 1011 
 
 ## Availability 

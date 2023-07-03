@@ -22,7 +22,7 @@
   - Stable 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5340) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5340) 
 - **Battle Value:** 2332 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7176) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7176) 
 - **Battle Value:** 897 
 
 ## Availability 

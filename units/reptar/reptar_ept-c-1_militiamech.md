@@ -15,7 +15,7 @@
   - Light Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** ISP 3 , [Master Unit List](http://masterunitlist.info/Unit/Details/5797) 
+- **Sources:** Intersteller Players 3 , [Master Unit List](http://masterunitlist.info/Unit/Details/5797) 
 - **Battle Value:** 514 
 
 ## Availability 

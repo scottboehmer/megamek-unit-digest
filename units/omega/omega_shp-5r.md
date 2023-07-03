@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
   - CASE II 
   - C3 Support 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7997) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7997) 
 - **Battle Value:** 2753 
 
 ## Availability 

@@ -11,7 +11,7 @@
 - **Weapons:** 
   - ATM 6 (ammo: 20) 
   - Light Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6244) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6244) 
 - **Battle Value:** 690 
 - [*More Info*](nacon_armored_scout/nacon_armored_scout.md) 
 

@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2201) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2201) 
 - **Battle Value:** 319 
 - [*More Info*](mobile_headquarters/mobile_headquarters.md) 
 
@@ -29,7 +29,7 @@
   - Large Laser 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2199) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2199) 
 - **Battle Value:** 435 
 - [*More Info*](mobile_headquarters/mobile_headquarters_ll.md) 
 
@@ -45,7 +45,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2200) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2200) 
 - **Battle Value:** 402 
 - [*More Info*](mobile_headquarters/mobile_headquarters_lrm.md) 
 
@@ -61,7 +61,7 @@
   - Large Laser 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2196) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2196) 
 - **Battle Value:** 249 
 - [*More Info*](mobile_headquarters/mobile_headquarters_ice_-_ll.md) 
 
@@ -78,7 +78,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2197) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2197) 
 - **Battle Value:** 387 
 - [*More Info*](mobile_headquarters/mobile_headquarters_ice_-_lrm.md) 
 
@@ -94,7 +94,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2198) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2198) 
 - **Battle Value:** 319 
 - [*More Info*](mobile_headquarters/mobile_headquarters_ice.md) 
 

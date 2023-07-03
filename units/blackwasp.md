@@ -12,7 +12,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - Medium Laser 
-- **Sources:** Interstellar Players 2 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/390) 
+- **Sources:** Interstellar Players 2 , [Master Unit List](http://masterunitlist.info/Unit/Details/390) 
 - **Battle Value:** Unknown 
 - [*More Info*](blackwasp/blackwasp_mk._30.md) 
 

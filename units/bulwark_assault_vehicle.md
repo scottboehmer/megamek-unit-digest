@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 16) 
   - Gauss Rifle (ammo: 16) 
-- **Sources:** TRO 3145 Free Worlds League - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6499) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6499) 
 - **Battle Value:** 1681 
 - [*More Info*](bulwark_assault_vehicle/bulwark_assault_vehicle_original.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - Improved Heavy Gauss Rifle (ammo: 16) 
   - Heavy PPC 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6498) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6498) 
 - **Battle Value:** 1737 
 - [*More Info*](bulwark_assault_vehicle/bulwark_assault_vehicle.md) 
 

@@ -15,7 +15,7 @@
   - Large Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2341) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2341) 
 - **Battle Value:** 1492 
 
 ## Availability 

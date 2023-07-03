@@ -16,7 +16,7 @@
   - Small Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2405) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2405) 
 - **Battle Value:** 985 
 
 ## Availability 

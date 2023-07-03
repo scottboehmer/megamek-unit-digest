@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7791) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7791) 
 - **Battle Value:** 2585 
 
 ## Availability 

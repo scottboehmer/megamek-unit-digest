@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2259) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2259) 
 - **Battle Value:** 643 
 - [*More Info*](nexus/nexus_nxs1-a.md) 
 
@@ -37,7 +37,7 @@
   - C3i 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2260) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2260) 
 - **Battle Value:** 715 
 - [*More Info*](nexus/nexus_nxs1-b.md) 
 
@@ -60,7 +60,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8412) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8412) 
 - **Battle Value:** 804 
 - [*More Info*](nexus/nexus_nxs1-c.md) 
 

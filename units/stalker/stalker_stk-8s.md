@@ -19,7 +19,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3044) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3044) 
 - **Battle Value:** 2020 
 
 ## Availability 

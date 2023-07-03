@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Small Laser 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2620) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2620) 
 - **Battle Value:** 40 (209 for 4 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_originalsqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Weapons:** 
   - Small Laser 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8574) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8574) 
 - **Battle Value:** 40 (282 for 5 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_originalsqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Weapons:** 
   - Small Laser 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8938) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8938) 
 - **Battle Value:** 40 (362 for 6 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_originalsqd6.md) 
 
@@ -63,7 +63,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Flamer 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2621) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2621) 
 - **Battle Value:** 38 (199 for 4 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_flamersqd4.md) 
 
@@ -79,7 +79,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Flamer 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8575) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8575) 
 - **Battle Value:** 38 (268 for 5 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_flamersqd5.md) 
 
@@ -95,7 +95,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Flamer 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8939) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8939) 
 - **Battle Value:** 38 (344 for 6 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_flamersqd6.md) 
 
@@ -111,7 +111,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2622) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2622) 
 - **Battle Value:** 44 (231 for 4 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_lasersqd4.md) 
 
@@ -127,7 +127,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8576) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8576) 
 - **Battle Value:** 44 (311 for 5 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_lasersqd5.md) 
 
@@ -143,7 +143,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8940) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8940) 
 - **Battle Value:** 44 (400 for 6 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_lasersqd6.md) 
 
@@ -159,7 +159,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Machine Gun 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2623) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2623) 
 - **Battle Value:** 38 (199 for 4 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_mgsqd4.md) 
 
@@ -175,7 +175,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Machine Gun 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8577) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8577) 
 - **Battle Value:** 38 (268 for 5 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_mgsqd5.md) 
 
@@ -191,7 +191,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Machine Gun 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8941) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8941) 
 - **Battle Value:** 38 (344 for 6 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_mgsqd6.md) 
 
@@ -207,7 +207,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Tsunami Gauss Rifle 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2625) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2625) 
 - **Battle Value:** 40 (207 for 4 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_tsunamisqd4.md) 
 
@@ -223,7 +223,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Tsunami Gauss Rifle 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8579) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8579) 
 - **Battle Value:** 40 (279 for 5 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_tsunamisqd5.md) 
 
@@ -239,7 +239,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Tsunami Gauss Rifle 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8943) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8943) 
 - **Battle Value:** 40 (358 for 6 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_tsunamisqd6.md) 
 
@@ -256,7 +256,7 @@
 - **Weapons:** 
   - Machine Gun 
   - Flamer 
-- **Sources:** TRO 3085 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2619) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2619) 
 - **Battle Value:** 47 (243 for 4 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_anti-infantrysqd4.md) 
 
@@ -273,7 +273,7 @@
 - **Weapons:** 
   - Machine Gun 
   - Flamer 
-- **Sources:** TRO 3085 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8573) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8573) 
 - **Battle Value:** 47 (327 for 5 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_anti-infantrysqd5.md) 
 
@@ -290,7 +290,7 @@
 - **Weapons:** 
   - Machine Gun 
   - Flamer 
-- **Sources:** TRO 3085 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8937) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8937) 
 - **Battle Value:** 47 (420 for 6 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_anti-infantrysqd6.md) 
 
@@ -306,7 +306,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - MRM 1 (ammo: 4) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2624) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2624) 
 - **Battle Value:** 37 (195 for 4 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_mrmsqd4.md) 
 
@@ -322,7 +322,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - MRM 1 (ammo: 4) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8578) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8578) 
 - **Battle Value:** 37 (262 for 5 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_mrmsqd5.md) 
 
@@ -338,7 +338,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - MRM 1 (ammo: 4) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8942) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8942) 
 - **Battle Value:** 37 (337 for 6 suits) 
 - [*More Info*](raiden_battle_armor/raiden_battle_armor_mrmsqd6.md) 
 

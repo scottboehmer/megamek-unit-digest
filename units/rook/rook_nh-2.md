@@ -18,7 +18,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2742) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2742) 
 - **Battle Value:** 1525 
 
 ## Availability 

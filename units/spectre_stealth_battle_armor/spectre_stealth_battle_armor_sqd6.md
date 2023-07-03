@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Mechanical Jump Booster 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9124) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/9124) 
 - **Battle Value:** 38 (343 for 6 suits) 
 
 ## Availability 

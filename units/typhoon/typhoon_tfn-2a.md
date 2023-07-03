@@ -15,7 +15,7 @@
   - PPC × 2 
   - LRM 15 (ammo: 16) 
   - Large Laser × 4 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5310) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5310) 
 - **Battle Value:** Unknown 
 
 ## Availability 

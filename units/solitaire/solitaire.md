@@ -18,7 +18,7 @@
   - Exposed Actuators 
   - Improved Cooling Jacket (Heavy Large Laser) 
   - Stabilized Weapon (Heavy Large Laser) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5097) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5097) 
 - **Battle Value:** 1284 
 
 ## Availability 

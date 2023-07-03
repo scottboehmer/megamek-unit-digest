@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 16) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1160) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1160) 
 - **Battle Value:** 1255 
 
 ## Availability 

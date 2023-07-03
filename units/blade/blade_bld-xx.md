@@ -23,7 +23,7 @@
   - Static Ammo Feed (LB 10-X AC) 
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (ER Medium Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/393) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/393) 
 - **Battle Value:** 1064 
 
 ## Availability 

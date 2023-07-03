@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/133) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/133) 
 - **Battle Value:** 930 
 
 ## Availability 

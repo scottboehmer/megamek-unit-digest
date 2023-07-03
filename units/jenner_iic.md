@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1698) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/1698) 
 - **Battle Value:** 1047 
 - [*More Info*](jenner_iic/jenner_iic.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1699) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/1699) 
 - **Battle Value:** 1406 
 - [*More Info*](jenner_iic/jenner_iic_2.md) 
 
@@ -57,7 +57,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #18 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1700) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/1700) 
 - **Battle Value:** 788 
 - [*More Info*](jenner_iic/jenner_iic_3.md) 
 
@@ -77,7 +77,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1701) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1701) 
 - **Battle Value:** 1052 
 - [*More Info*](jenner_iic/jenner_iic_4.md) 
 
@@ -98,7 +98,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8248) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/8248) 
 - **Battle Value:** 1440 
 - [*More Info*](jenner_iic/jenner_iic_5.md) 
 

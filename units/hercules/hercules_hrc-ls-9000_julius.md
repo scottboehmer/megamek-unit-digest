@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1483) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/1483) 
 - **Battle Value:** 1661 
 
 ## Availability 

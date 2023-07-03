@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3023) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3023) 
 - **Battle Value:** 71 
 
 ## Availability 

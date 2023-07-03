@@ -20,7 +20,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Snub-Nose PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1302) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1302) 
 - **Battle Value:** 1412 
 
 ## Availability 

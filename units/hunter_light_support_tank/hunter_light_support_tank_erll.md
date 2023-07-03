@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV (ammo: 24) 
   - ER Large Laser 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1575) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1575) 
 - **Battle Value:** 660 
 
 ## Availability 

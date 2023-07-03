@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
   - Vestigial Hand (Right Arm) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2635) 
+- **Sources:** Jihad Conspiracies: Interstellar Players 2 , [Master Unit List](http://masterunitlist.info/Unit/Details/2635) 
 - **Battle Value:** 1444 
 - [*More Info*](rampage/rampage_rmp-2g.md) 
 
@@ -42,7 +42,7 @@
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
   - Vestigial Hand (Right Arm) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2636) 
+- **Sources:** Jihad Conspiracies: Interstellar Players 2 , [Master Unit List](http://masterunitlist.info/Unit/Details/2636) 
 - **Battle Value:** 2130 
 - [*More Info*](rampage/rampage_rmp-4g.md) 
 
@@ -67,7 +67,7 @@
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
   - Vestigial Hand (Right Arm) 
-- **Sources:** HTP New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6974) 
+- **Sources:** Historical Turning Points: New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6974) 
 - **Battle Value:** 1751 
 - [*More Info*](rampage/rampage_rmp-4g_benboudaoud.md) 
 
@@ -92,7 +92,7 @@
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
   - Vestigial Hand (Right Arm) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2637) 
+- **Sources:** Jihad Conspiracies: Interstellar Players 2 , [Master Unit List](http://masterunitlist.info/Unit/Details/2637) 
 - **Battle Value:** 1933 
 - [*More Info*](rampage/rampage_rmp-5g.md) 
 

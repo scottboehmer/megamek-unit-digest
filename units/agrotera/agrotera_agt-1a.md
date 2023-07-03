@@ -21,7 +21,7 @@
   - AES 
   - Partial Wing 
   - TAG 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6459) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6459) 
 - **Battle Value:** 1578 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - LRM 20 w/ Artemis IV × 3 (ammo: 36) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1951) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1951) 
 - **Battle Value:** 798 
 
 ## Availability 

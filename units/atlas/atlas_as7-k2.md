@@ -22,7 +22,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/145) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/145) 
 - **Battle Value:** 2160 
 
 ## Availability 

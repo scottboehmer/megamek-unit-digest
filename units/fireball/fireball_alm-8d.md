@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Narrow/Low Profile 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1076) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1076) 
 - **Battle Value:** 574 
 
 ## Availability 

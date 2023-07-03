@@ -21,7 +21,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6882) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6882) 
 - **Battle Value:** 2895 
 
 ## Availability 

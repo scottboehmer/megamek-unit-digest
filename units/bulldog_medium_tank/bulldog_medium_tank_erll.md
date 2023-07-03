@@ -16,7 +16,7 @@
   - Heavy Machine Gun (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9255) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9255) 
 - **Battle Value:** 842 
 
 ## Availability 

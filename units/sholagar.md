@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2935) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2935) 
 - **Battle Value:** Unknown 
 - [*More Info*](sholagar/sholagar_sl-21.md) 
 
@@ -27,7 +27,7 @@
 - **Heat Sinks:** 11 (11) 
 - **Weapons:** 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2936) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2936) 
 - **Battle Value:** Unknown 
 - [*More Info*](sholagar/sholagar_sl-21l.md) 
 
@@ -45,7 +45,7 @@
   - SRM 4 (iOS) 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** XTRO Corporation - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2938) 
+- **Sources:** XTR: Corporation , [Master Unit List](http://masterunitlist.info/Unit/Details/2938) 
 - **Battle Value:** Unknown 
 - [*More Info*](sholagar/sholagar_sl-27x.md) 
 
@@ -61,7 +61,7 @@
 - **Weapons:** 
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2937) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2937) 
 - **Battle Value:** Unknown 
 - [*More Info*](sholagar/sholagar_sl-22.md) 
 

@@ -22,7 +22,7 @@
   - Rugged (×2) 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9491) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9491) 
 - **Battle Value:** 2244 
 
 ## Availability 

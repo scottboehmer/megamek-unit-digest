@@ -20,7 +20,7 @@
   - Poor Workmanship 
   - Bad Reputation (Inner Sphere) 
   - Accurate Weapon (AC/5) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7181) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/7181) 
 - **Battle Value:** 692 
 
 ## Availability 

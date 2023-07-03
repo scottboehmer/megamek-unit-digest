@@ -19,7 +19,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5120) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/5120) 
 - **Battle Value:** 1461 
 
 ## Availability 

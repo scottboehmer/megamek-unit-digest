@@ -17,7 +17,7 @@
   - Heavy Grenade Launcher × 2 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** RS3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9161) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9161) 
 - **Battle Value:** 56 (501 for 6 suits) 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 48) 
   - LB 10-X AC (ammo: 20 Cluster) 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5182) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5182) 
 - **Battle Value:** Unknown 
 
 ## Availability 

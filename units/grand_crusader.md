@@ -18,7 +18,7 @@
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (LRM 20) 
   - Directional Torso Mount (LRM 20) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1252) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1252) 
 - **Battle Value:** 1758 
 - [*More Info*](grand_crusader/grand_crusader_grn-d-01.md) 
 
@@ -40,7 +40,7 @@
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (LRM 20) 
   - Directional Torso Mount (LRM 20) 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8430) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8430) 
 - **Battle Value:** 1869 
 - [*More Info*](grand_crusader/grand_crusader_grn-d-01-x.md) 
 
@@ -60,7 +60,7 @@
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (LRM 20) 
   - Directional Torso Mount (LRM 20) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1253) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1253) 
 - **Battle Value:** 1702 
 - [*More Info*](grand_crusader/grand_crusader_grn-d-02.md) 
 
@@ -82,7 +82,7 @@
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (LRM 20) 
   - Directional Torso Mount (LRM 20) 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8423) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8423) 
 - **Battle Value:** 1937 
 - [*More Info*](grand_crusader/grand_crusader_grn-d-02-b.md) 
 

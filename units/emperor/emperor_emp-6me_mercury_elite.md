@@ -20,7 +20,7 @@
   - Command ’Mech 
   - Improved Cooling Jacket (Snub-Nose PPC) 
   - Improved Cooling Jacket (Snub-Nose PPC) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/969) 
+- **Sources:** Jihad Turning Points: Atreus , [Master Unit List](http://masterunitlist.info/Unit/Details/969) 
 - **Battle Value:** 2004 
 
 ## Availability 

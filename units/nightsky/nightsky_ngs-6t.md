@@ -23,7 +23,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2284) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2284) 
 - **Battle Value:** 1462 
 
 ## Availability 

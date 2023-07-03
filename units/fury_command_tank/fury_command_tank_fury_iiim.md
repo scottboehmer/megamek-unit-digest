@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Boosted Main 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6802) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6802) 
 - **Battle Value:** 1720 
 
 ## Availability 

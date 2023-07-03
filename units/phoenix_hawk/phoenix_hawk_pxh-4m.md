@@ -19,7 +19,7 @@
   - Command ’Mech 
   - Improved Communications 
   - Jettison-Capable Weapon (Light PPC) 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7750) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7750) 
 - **Battle Value:** 1327 
 
 ## Availability 

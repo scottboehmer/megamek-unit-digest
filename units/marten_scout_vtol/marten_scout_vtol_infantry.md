@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Remote Sensor Dispenser 
   - Infantry (3.0 tons) 
-- **Sources:** TRO 3145 Federated Suns - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/6314) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6314) 
 - **Battle Value:** 107 
 
 ## Availability 

@@ -13,7 +13,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3386) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3386) 
 - **Battle Value:** Unknown 
 - [*More Info*](vandal_omnifighter/vandal_prime.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - Medium Pulse Laser 
   - ER Small Laser × 2 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3382) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3382) 
 - **Battle Value:** Unknown 
 - [*More Info*](vandal_omnifighter/vandal_a.md) 
 
@@ -44,7 +44,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Small Laser × 6 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3383) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3383) 
 - **Battle Value:** Unknown 
 - [*More Info*](vandal_omnifighter/vandal_b.md) 
 
@@ -59,7 +59,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 3 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3384) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3384) 
 - **Battle Value:** Unknown 
 - [*More Info*](vandal_omnifighter/vandal_c.md) 
 
@@ -74,7 +74,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Heavy Medium Laser × 3 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3385) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3385) 
 - **Battle Value:** Unknown 
 - [*More Info*](vandal_omnifighter/vandal_d.md) 
 
@@ -92,7 +92,7 @@
 - **Equipment:** 
   - Active Probe 
   - Remote Sensor Dispenser × 2 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5336) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/5336) 
 - **Battle Value:** Unknown 
 - [*More Info*](vandal_omnifighter/vandal_e.md) 
 

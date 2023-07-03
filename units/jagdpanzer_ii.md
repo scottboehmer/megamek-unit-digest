@@ -13,7 +13,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** XTRO Boondocks - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1664) 
+- **Sources:** XTR: Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/1664) 
 - **Battle Value:** 957 
 - [*More Info*](jagdpanzer_ii/jagdpanzer_ii.md) 
 

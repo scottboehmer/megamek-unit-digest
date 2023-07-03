@@ -15,7 +15,7 @@
   - Ultra AC/2 (ammo: 45) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2193) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2193) 
 - **Battle Value:** 670 
 
 ## Availability 

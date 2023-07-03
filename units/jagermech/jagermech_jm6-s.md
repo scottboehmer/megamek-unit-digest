@@ -16,7 +16,7 @@
   - AC/2 × 2 (ammo: 45) 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1670) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1670) 
 - **Battle Value:** 901 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3553) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3553) 
 - **Battle Value:** 1507 
 
 ## Availability 

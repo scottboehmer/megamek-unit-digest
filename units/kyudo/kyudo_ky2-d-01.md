@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Exposed Actuators 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1850) 
+- **Sources:** XTR: Primitives I , [Master Unit List](http://masterunitlist.info/Unit/Details/1850) 
 - **Battle Value:** 748 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3091) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3091) 
 - **Battle Value:** 883 
 
 ## Availability 

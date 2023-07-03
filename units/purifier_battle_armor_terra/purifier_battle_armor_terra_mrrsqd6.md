@@ -14,7 +14,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Medium Recoilless Rifle 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9075) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/9075) 
 - **Battle Value:** 63 (568 for 6 suits) 
 
 ## Availability 

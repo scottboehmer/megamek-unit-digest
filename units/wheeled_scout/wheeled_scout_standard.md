@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5401) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/5401) 
 - **Battle Value:** 291 
 
 ## Availability 

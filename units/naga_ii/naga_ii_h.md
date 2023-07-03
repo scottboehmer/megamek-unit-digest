@@ -27,7 +27,7 @@
   - Stabilized Weapon (Heavy Medium Laser) 
   - Stabilized Weapon (Heavy Medium Laser) 
   - Stabilized Weapon (Gauss Rifle) 
-- **Sources:** Rec Guide:ilClan #26 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9326) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9326) 
 - **Battle Value:** 2284 
 
 ## Availability 

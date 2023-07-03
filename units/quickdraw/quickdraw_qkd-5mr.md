@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2615) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2615) 
 - **Battle Value:** 1465 
 
 ## Availability 

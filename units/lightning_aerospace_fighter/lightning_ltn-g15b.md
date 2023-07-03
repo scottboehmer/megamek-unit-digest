@@ -15,7 +15,7 @@
   - Gauss Rifle (ammo: 16) 
   - Medium Pulse Laser × 2 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1878) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1878) 
 - **Battle Value:** Unknown 
 
 ## Availability 

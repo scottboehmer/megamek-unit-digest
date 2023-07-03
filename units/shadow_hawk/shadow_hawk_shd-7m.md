@@ -24,7 +24,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2908) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2908) 
 - **Battle Value:** 1447 
 
 ## Availability 

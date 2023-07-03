@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/338) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/338) 
 - **Battle Value:** 1450 
 
 ## Availability 

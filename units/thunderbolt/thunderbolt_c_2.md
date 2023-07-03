@@ -23,7 +23,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8195) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8195) 
 - **Battle Value:** 2170 
 
 ## Availability 

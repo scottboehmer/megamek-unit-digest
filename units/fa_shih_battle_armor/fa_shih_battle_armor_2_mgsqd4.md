@@ -19,7 +19,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Clan Myomer Booster 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1019) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/1019) 
 - **Battle Value:** 29 (150 for 4 suits) 
 
 ## Availability 

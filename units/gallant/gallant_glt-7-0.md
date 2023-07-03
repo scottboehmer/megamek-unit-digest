@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Large Pulse Laser) 
   - Stabilized Weapon (Large Pulse Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1173) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1173) 
 - **Battle Value:** 1436 
 
 ## Availability 

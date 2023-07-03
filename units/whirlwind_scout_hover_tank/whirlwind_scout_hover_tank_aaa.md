@@ -15,7 +15,7 @@
   - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #28 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9364) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9364) 
 - **Battle Value:** 811 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ER PPC × 2 
   - Large Pulse Laser × 4 
   - ER Small Laser 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1681) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1681) 
 - **Battle Value:** Unknown 
 
 ## Availability 

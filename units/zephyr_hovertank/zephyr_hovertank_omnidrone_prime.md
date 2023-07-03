@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Drone Operating System 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7300) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7300) 
 - **Battle Value:** 671 
 
 ## Availability 

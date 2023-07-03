@@ -14,7 +14,7 @@
   - PPC × 2 
   - Large Laser × 2 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/532) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/532) 
 - **Battle Value:** 1424 
 
 ## Availability 

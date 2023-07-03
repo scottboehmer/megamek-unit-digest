@@ -20,7 +20,7 @@
   - MASC 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/852) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/852) 
 - **Battle Value:** 2394 
 
 ## Availability 

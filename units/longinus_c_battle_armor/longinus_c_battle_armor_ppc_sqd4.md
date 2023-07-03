@@ -17,7 +17,7 @@
   - Clan Advanced SRM 4 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO: 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8030) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8030) 
 - **Battle Value:** 65 (452 for 5 suits) 
 
 ## Availability 

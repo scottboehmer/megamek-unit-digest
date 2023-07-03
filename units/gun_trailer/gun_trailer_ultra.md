@@ -14,7 +14,7 @@
   - Ultra AC/20 (ammo: 30) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6535) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6535) 
 - **Battle Value:** 344 
 
 ## Availability 

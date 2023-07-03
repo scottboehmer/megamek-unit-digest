@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3995) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3995) 
 - **Battle Value:** Unknown 
 - [*More Info*](corax/corax_crx-o.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - SRM 6 × 2 (ammo: 30) 
   - Small Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3997) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3997) 
 - **Battle Value:** Unknown 
 - [*More Info*](corax/corax_crx-oa.md) 
 
@@ -45,7 +45,7 @@
   - Medium Pulse Laser × 2 
   - Medium Laser × 4 
   - Small Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3998) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3998) 
 - **Battle Value:** Unknown 
 - [*More Info*](corax/corax_crx-ob.md) 
 
@@ -60,7 +60,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - MRM 20 (ammo: 24) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3999) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3999) 
 - **Battle Value:** Unknown 
 - [*More Info*](corax/corax_crx-oc.md) 
 
@@ -76,7 +76,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 24) 
   - Medium Laser × 2 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5745) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5745) 
 - **Battle Value:** Unknown 
 - [*More Info*](corax/corax_crx-od.md) 
 
@@ -94,7 +94,7 @@
   - Clan Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Clan Targeting Computer 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5746) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5746) 
 - **Battle Value:** Unknown 
 - [*More Info*](corax/corax_crx-or.md) 
 
@@ -113,7 +113,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4000) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4000) 
 - **Battle Value:** Unknown 
 - [*More Info*](corax/corax_c.md) 
 

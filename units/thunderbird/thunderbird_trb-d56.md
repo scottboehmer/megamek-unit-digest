@@ -17,7 +17,7 @@
   - Ultra AC/10 (ammo: 20) 
   - ER Medium Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5234) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5234) 
 - **Battle Value:** Unknown 
 
 ## Availability 

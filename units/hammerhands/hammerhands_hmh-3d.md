@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1369) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1369) 
 - **Battle Value:** 1381 
 
 ## Availability 

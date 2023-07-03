@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3335) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3335) 
 - **Battle Value:** 1064 
 
 ## Availability 

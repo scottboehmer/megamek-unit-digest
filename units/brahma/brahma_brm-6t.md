@@ -18,7 +18,7 @@
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
   - Tracks 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7981) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7981) 
 - **Battle Value:** 1642 
 
 ## Availability 

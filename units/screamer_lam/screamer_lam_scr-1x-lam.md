@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Prototype 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7320) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7320) 
 - **Battle Value:** 1475 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8412) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8412) 
 - **Battle Value:** 804 
 
 ## Availability 

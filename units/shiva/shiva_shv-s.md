@@ -15,7 +15,7 @@
   - Improved Heavy Gauss Rifle × 2 (ammo: 16) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2928) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/2928) 
 - **Battle Value:** Unknown 
 
 ## Availability 

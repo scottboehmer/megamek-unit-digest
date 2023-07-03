@@ -15,7 +15,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Machine Gun × 3 (ammo: 100) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2682) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2682) 
 - **Battle Value:** 1444 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5316) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5316) 
 - **Battle Value:** Unknown 
 - [*More Info*](tyre/tyre.md) 
 
@@ -35,7 +35,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5317) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5317) 
 - **Battle Value:** Unknown 
 - [*More Info*](tyre/tyre_2.md) 
 
@@ -55,7 +55,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS Unique Fighters - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3339) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/3339) 
 - **Battle Value:** Unknown 
 - [*More Info*](tyre/tyre_michiko.md) 
 
@@ -75,7 +75,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - CASE 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5315) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5315) 
 - **Battle Value:** Unknown 
 - [*More Info*](tyre/tyre_3.md) 
 

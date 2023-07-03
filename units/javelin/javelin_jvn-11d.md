@@ -19,7 +19,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1679) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1679) 
 - **Battle Value:** 1104 
 
 ## Availability 

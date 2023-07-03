@@ -20,7 +20,7 @@
   - Active Probe 
   - Inner Sphere A-Pod × 2 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7640) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7640) 
 - **Battle Value:** 2028 
 
 ## Availability 

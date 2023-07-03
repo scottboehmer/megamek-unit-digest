@@ -13,7 +13,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - AP Gauss Rifle × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1623) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1623) 
 - **Battle Value:** 76 (398 for 4 suits) 
 - [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_sqd4.md) 
 
@@ -30,7 +30,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - AP Gauss Rifle × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8539) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8539) 
 - **Battle Value:** 76 (536 for 5 suits) 
 - [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_sqd5.md) 
 
@@ -47,7 +47,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - AP Gauss Rifle × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8903) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8903) 
 - **Battle Value:** 76 (688 for 6 suits) 
 - [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_sqd6.md) 
 
@@ -63,7 +63,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - AP Gauss Rifle × 4 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1622) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1622) 
 - **Battle Value:** 108 (562 for 4 suits) 
 - [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_firesqd4.md) 
 
@@ -79,7 +79,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - AP Gauss Rifle × 4 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8538) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8538) 
 - **Battle Value:** 108 (756 for 5 suits) 
 - [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_firesqd5.md) 
 
@@ -95,7 +95,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - AP Gauss Rifle × 4 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8902) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8902) 
 - **Battle Value:** 108 (973 for 6 suits) 
 - [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_firesqd6.md) 
 
@@ -112,7 +112,7 @@
 - **Weapons:** 
   - Battle Armor LB-X AC × 2 
   - SRM 1 (OS) 
-- **Sources:** RS 3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6742) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6742) 
 - **Battle Value:** 86 (447 for 4 suits) 
 - [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_anti-tanksqd4.md) 
 
@@ -129,7 +129,7 @@
 - **Weapons:** 
   - Battle Armor LB-X AC × 2 
   - SRM 1 (OS) 
-- **Sources:** RS 3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8797) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8797) 
 - **Battle Value:** 86 (601 for 5 suits) 
 - [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_anti-tanksqd5.md) 
 
@@ -146,7 +146,7 @@
 - **Weapons:** 
   - Battle Armor LB-X AC × 2 
   - SRM 1 (OS) 
-- **Sources:** RS 3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9160) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9160) 
 - **Battle Value:** 86 (773 for 6 suits) 
 - [*More Info*](ironhold_assault_battle_armor/ironhold_assault_battle_armor_anti-tanksqd6.md) 
 

@@ -21,7 +21,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3198) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3198) 
 - **Battle Value:** 2314 
 
 ## Availability 

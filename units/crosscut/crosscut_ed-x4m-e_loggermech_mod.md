@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Chainsaw 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7853) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7853) 
 - **Battle Value:** 480 
 
 ## Availability 

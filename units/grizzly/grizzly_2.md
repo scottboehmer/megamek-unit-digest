@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1333) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1333) 
 - **Battle Value:** 2195 
 
 ## Availability 

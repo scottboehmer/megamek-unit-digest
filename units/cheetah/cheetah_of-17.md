@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Hyperspectral Imager 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/578) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/578) 
 - **Battle Value:** Unknown 
 
 ## Availability 

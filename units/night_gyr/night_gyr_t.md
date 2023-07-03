@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8398) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8398) 
 - **Battle Value:** 2767 
 
 ## Availability 

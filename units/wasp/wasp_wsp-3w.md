@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #4 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3530) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/3530) 
 - **Battle Value:** 342 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - AP Gauss Rifle × 2 (ammo: 40) 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5732) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5732) 
 - **Battle Value:** 1423 
 
 ## Availability 

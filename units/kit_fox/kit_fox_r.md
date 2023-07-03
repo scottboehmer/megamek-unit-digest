@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6931) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/6931) 
 - **Battle Value:** 1232 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Camo System 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3743) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3743) 
 - **Battle Value:** 39 (200 for 4 suits) 
 - [*More Info*](asura_medium_battle_armor/asura_medium_battle_armor_anti-infantrysqd4.md) 
 
@@ -36,7 +36,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Camo System 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8606) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8606) 
 - **Battle Value:** 39 (270 for 5 suits) 
 - [*More Info*](asura_medium_battle_armor/asura_medium_battle_armor_anti-infantrysqd5.md) 
 
@@ -56,7 +56,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Camo System 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8970) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8970) 
 - **Battle Value:** 39 (347 for 6 suits) 
 - [*More Info*](asura_medium_battle_armor/asura_medium_battle_armor_anti-infantrysqd6.md) 
 
@@ -73,7 +73,7 @@
 - **Weapons:** 
   - Medium Recoilless Rifle 
   - Rocket Launcher 4 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3745) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3745) 
 - **Battle Value:** 57 (297 for 4 suits) 
 - [*More Info*](asura_medium_battle_armor/asura_medium_battle_armor_sqd4.md) 
 
@@ -90,7 +90,7 @@
 - **Weapons:** 
   - Medium Recoilless Rifle 
   - Rocket Launcher 4 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8608) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8608) 
 - **Battle Value:** 57 (400 for 5 suits) 
 - [*More Info*](asura_medium_battle_armor/asura_medium_battle_armor_sqd5.md) 
 
@@ -107,7 +107,7 @@
 - **Weapons:** 
   - Medium Recoilless Rifle 
   - Rocket Launcher 4 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8972) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8972) 
 - **Battle Value:** 57 (514 for 6 suits) 
 - [*More Info*](asura_medium_battle_armor/asura_medium_battle_armor_sqd6.md) 
 
@@ -124,7 +124,7 @@
 - **Weapons:** 
   - SRM 6 (OS) 
   - Heavy Machine Gun 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3744) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3744) 
 - **Battle Value:** 43 (221 for 4 suits) 
 - [*More Info*](asura_medium_battle_armor/asura_medium_battle_armor_srmsqd4.md) 
 
@@ -141,7 +141,7 @@
 - **Weapons:** 
   - SRM 6 (OS) 
   - Heavy Machine Gun 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8607) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8607) 
 - **Battle Value:** 43 (298 for 5 suits) 
 - [*More Info*](asura_medium_battle_armor/asura_medium_battle_armor_srmsqd5.md) 
 
@@ -158,7 +158,7 @@
 - **Weapons:** 
   - SRM 6 (OS) 
   - Heavy Machine Gun 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8971) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8971) 
 - **Battle Value:** 43 (383 for 6 suits) 
 - [*More Info*](asura_medium_battle_armor/asura_medium_battle_armor_srmsqd6.md) 
 

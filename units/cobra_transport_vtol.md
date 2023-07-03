@@ -12,7 +12,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Cargo 
-- **Sources:** RS 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3971) 
+- **Sources:** Record Sheets: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3971) 
 - **Battle Value:** 265 
 - [*More Info*](cobra_transport_vtol/cobra_transport_vtol_original.md) 
 
@@ -29,7 +29,7 @@
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 36) 
   - Cargo 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/659) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/659) 
 - **Battle Value:** 367 
 - [*More Info*](cobra_transport_vtol/cobra_transport_vtol.md) 
 
@@ -47,7 +47,7 @@
   - Anti-Missile System × 2 (ammo: 36) 
   - Communications Equipment 
   - Infantry (3 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/657) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/657) 
 - **Battle Value:** 367 
 - [*More Info*](cobra_transport_vtol/cobra_transport_vtol_command.md) 
 
@@ -65,7 +65,7 @@
   - Anti-Missile System × 2 (ammo: 36) 
   - Paramedic Equipment × 4 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/658) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/658) 
 - **Battle Value:** 367 
 - [*More Info*](cobra_transport_vtol/cobra_transport_vtol_mash.md) 
 

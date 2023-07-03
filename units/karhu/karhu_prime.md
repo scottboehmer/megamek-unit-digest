@@ -20,7 +20,7 @@
   - ECM Suite 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1752) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1752) 
 - **Battle Value:** 2484 
 
 ## Availability 

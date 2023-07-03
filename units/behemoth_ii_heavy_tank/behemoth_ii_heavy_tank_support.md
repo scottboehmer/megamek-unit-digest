@@ -15,7 +15,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - ER Large Laser 
   - Streak SRM 4 × 2 (ammo: 25) 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6448) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6448) 
 - **Battle Value:** 1781 
 
 ## Availability 

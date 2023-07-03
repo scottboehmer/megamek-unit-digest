@@ -12,7 +12,7 @@
 - **Myomer:** Industrial Triple-Strength 
 - **Cockpit:** Industrial 
 - **Heat Sinks:** 0 (0) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7841) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7841) 
 - **Battle Value:** 96 
 
 ## Availability 

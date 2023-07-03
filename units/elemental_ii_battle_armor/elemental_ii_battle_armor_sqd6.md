@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Myomer Booster 
   - Anti-Personnel Mount 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8980) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/8980) 
 - **Battle Value:** 68 (613 for 6 suits) 
 
 ## Availability 

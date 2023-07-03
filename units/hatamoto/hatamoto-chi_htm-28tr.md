@@ -24,7 +24,7 @@
   - Easy to Maintain 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 4) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1402) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1402) 
 - **Battle Value:** 2034 
 
 ## Availability 

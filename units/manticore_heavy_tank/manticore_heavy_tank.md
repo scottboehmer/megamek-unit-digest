@@ -15,7 +15,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 6 (ammo: 15) 
   - Medium Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2021) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2021) 
 - **Battle Value:** 993 
 
 ## Availability 

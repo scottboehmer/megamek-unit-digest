@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2029) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2029) 
 - **Battle Value:** 434 
 
 ## Availability 

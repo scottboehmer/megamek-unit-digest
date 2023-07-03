@@ -21,7 +21,7 @@
   - C3i 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1343) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1343) 
 - **Battle Value:** 1635 
 
 ## Availability 

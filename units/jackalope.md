@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Compact ’Mech 
   - Narrow/Low Profile 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6672) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6672) 
 - **Battle Value:** 1395 
 - [*More Info*](jackalope/jackalope_jlp-bd.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Compact ’Mech 
   - Narrow/Low Profile 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6711) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6711) 
 - **Battle Value:** 1253 
 - [*More Info*](jackalope/jackalope_jlp-c.md) 
 
@@ -66,7 +66,7 @@
 - **Design Quirks:** 
   - Compact ’Mech 
   - Narrow/Low Profile 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6712) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6712) 
 - **Battle Value:** 1488 
 - [*More Info*](jackalope/jackalope_jlp-ka.md) 
 
@@ -90,7 +90,7 @@
 - **Design Quirks:** 
   - Compact ’Mech 
   - Narrow/Low Profile 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6713) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6713) 
 - **Battle Value:** 1334 
 - [*More Info*](jackalope/jackalope_jlp-kw_wolpertinger.md) 
 

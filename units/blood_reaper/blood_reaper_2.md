@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Rugged (×2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/407) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/407) 
 - **Battle Value:** 2521 
 
 ## Availability 

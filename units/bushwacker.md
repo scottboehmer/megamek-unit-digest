@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Stabilized Weapon (ER Large Laser) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/450) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/450) 
 - **Battle Value:** 1223 
 - [*More Info*](bushwacker/bushwacker_bsw-x1.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/451) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/451) 
 - **Battle Value:** 1193 
 - [*More Info*](bushwacker/bushwacker_bsw-x2.md) 
 
@@ -61,7 +61,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Stabilized Weapon (ER Large Laser) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/448) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/448) 
 - **Battle Value:** 1293 
 - [*More Info*](bushwacker/bushwacker_bsw-s2.md) 
 
@@ -81,7 +81,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Stabilized Weapon (ER Large Laser) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/447) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/447) 
 - **Battle Value:** 1513 
 - [*More Info*](bushwacker/bushwacker_bsw-l1.md) 
 
@@ -102,7 +102,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/449) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/449) 
 - **Battle Value:** 1339 
 - [*More Info*](bushwacker/bushwacker_bsw-s2r.md) 
 
@@ -125,7 +125,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Stabilized Weapon (ER Large Laser) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7454) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7454) 
 - **Battle Value:** 1751 
 - [*More Info*](bushwacker/bushwacker_bsw-x4.md) 
 

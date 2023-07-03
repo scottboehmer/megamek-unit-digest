@@ -17,7 +17,7 @@
   - Clan Streak SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Shrapnel 6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3403) 
+- **Sources:** Shrapnel #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/3403) 
 - **Battle Value:** 1925 
 
 ## Availability 

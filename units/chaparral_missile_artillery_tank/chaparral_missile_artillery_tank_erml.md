@@ -14,7 +14,7 @@
   - Arrow IV (ammo: 15) 
   - ER Medium Laser × 2 
   - SRM 6 (ammo: 15) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/555) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/555) 
 - **Battle Value:** 847 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Hist:Reunification , [Master Unit List](http://masterunitlist.info/Unit/Details/5175) 
+- **Sources:** Historical: Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/5175) 
 - **Battle Value:** 924 
 - [*More Info*](talos/talos_tls-1b.md) 
 

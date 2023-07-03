@@ -17,7 +17,7 @@
   - Streak SRM 2 (OS) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/690) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/690) 
 - **Battle Value:** 763 
 - [*More Info*](copperhead/copperhead_cpr-hd-002.md) 
 
@@ -40,7 +40,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/691) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/691) 
 - **Battle Value:** 1117 
 - [*More Info*](copperhead/copperhead_cpr-hd-003.md) 
 
@@ -62,7 +62,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/692) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/692) 
 - **Battle Value:** 1151 
 - [*More Info*](copperhead/copperhead_cpr-hd-004.md) 
 

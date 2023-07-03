@@ -19,7 +19,7 @@
   - Magnetic Clamps 
   - Cutting Torch 
   - Space Operations Adaptation 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6730) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6730) 
 - **Battle Value:** 43 (225 for 4 suits) 
 
 ## Availability 

@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1206) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1206) 
 - **Battle Value:** 2698 
 
 ## Availability 

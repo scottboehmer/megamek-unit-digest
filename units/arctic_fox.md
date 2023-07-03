@@ -14,7 +14,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/91) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/91) 
 - **Battle Value:** 983 
 - [*More Info*](arctic_fox/arctic_fox_af1.md) 
 
@@ -32,7 +32,7 @@
   - Small Pulse Laser × 3 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/92) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/92) 
 - **Battle Value:** 858 
 - [*More Info*](arctic_fox/arctic_fox_af1a.md) 
 
@@ -49,7 +49,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/93) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/93) 
 - **Battle Value:** 735 
 - [*More Info*](arctic_fox/arctic_fox_af1b.md) 
 
@@ -66,7 +66,7 @@
   - Large Pulse Laser 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/94) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/94) 
 - **Battle Value:** 948 
 - [*More Info*](arctic_fox/arctic_fox_af1c.md) 
 
@@ -82,7 +82,7 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/95) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/95) 
 - **Battle Value:** 744 
 - [*More Info*](arctic_fox/arctic_fox_af1d.md) 
 
@@ -99,7 +99,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/96) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/96) 
 - **Battle Value:** 1094 
 - [*More Info*](arctic_fox/arctic_fox_af1e.md) 
 
@@ -116,7 +116,7 @@
   - ER Medium Laser × 3 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/97) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/97) 
 - **Battle Value:** 891 
 - [*More Info*](arctic_fox/arctic_fox_af1f.md) 
 
@@ -136,7 +136,7 @@
   - MASS 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/98) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/98) 
 - **Battle Value:** 821 
 - [*More Info*](arctic_fox/arctic_fox_af1u.md) 
 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - MRM 10 × 2 (ammo: 48) 
-- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2775) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2775) 
 - **Battle Value:** Unknown 
 
 ## Availability 

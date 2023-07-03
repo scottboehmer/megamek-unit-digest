@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4304) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4304) 
 - **Battle Value:** 1569 
 
 ## Availability 

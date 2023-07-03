@@ -16,7 +16,7 @@
   - Medium Recoilless Rifle 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7201) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7201) 
 - **Battle Value:** 24 (127 for 4 suits) 
 
 ## Availability 

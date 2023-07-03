@@ -12,7 +12,7 @@
 - **Heat Sinks:** 2 (2) 
 - **Weapons:** 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** RS:VA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7153) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7153) 
 - **Battle Value:** 214 
 
 ## Availability 

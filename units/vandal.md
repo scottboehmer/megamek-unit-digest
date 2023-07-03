@@ -20,7 +20,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6461) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6461) 
 - **Battle Value:** 1881 
 - [*More Info*](vandal/vandal_li-o.md) 
 
@@ -44,7 +44,7 @@
   - C3 Boosted Main 
 - **Design Quirks:** 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6462) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6462) 
 - **Battle Value:** 1865 
 - [*More Info*](vandal/vandal_li-oa.md) 
 
@@ -72,7 +72,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6463) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6463) 
 - **Battle Value:** 1666 
 - [*More Info*](vandal/vandal_li-ob.md) 
 

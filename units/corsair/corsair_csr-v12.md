@@ -15,7 +15,7 @@
   - Large Laser × 2 
   - Medium Laser × 2 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/693) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/693) 
 - **Battle Value:** Unknown 
 
 ## Availability 

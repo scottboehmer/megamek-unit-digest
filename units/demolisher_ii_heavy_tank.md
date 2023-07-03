@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/866) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/866) 
 - **Battle Value:** 1619 
 - [*More Info*](demolisher_ii_heavy_tank/demolisher_ii_heavy_tank.md) 
 
@@ -32,7 +32,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/867) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/867) 
 - **Battle Value:** 2336 
 - [*More Info*](demolisher_ii_heavy_tank/demolisher_ii_heavy_tank_thunderbolt.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/865) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/865) 
 - **Battle Value:** 1328 
 - [*More Info*](demolisher_ii_heavy_tank/demolisher_ii_heavy_tank_mml.md) 
 
@@ -67,7 +67,7 @@
   - Clan Ultra AC/10 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4069) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/4069) 
 - **Battle Value:** 1927 
 - [*More Info*](demolisher_ii_heavy_tank/demolisher_ii_heavy_tank_ii-x.md) 
 

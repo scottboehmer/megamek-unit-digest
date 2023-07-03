@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Mine Dispenser 
   - Magnetic Clamps 
-- **Source:** Dark Age 
+- **Source:** TRO: 3150 
 - **Battle Value:** 48 (434 for 6 suits) 
 
 ## Availability 

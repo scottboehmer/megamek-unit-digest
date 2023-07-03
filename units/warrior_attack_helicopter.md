@@ -11,7 +11,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 25) 
   - AC/2 (ammo: 45) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
 - **Battle Value:** 295 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-7.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - AC/5 (ammo: 20) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3514) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3514) 
 - **Battle Value:** 292 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-7a.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 24) 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3515) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3515) 
 - **Battle Value:** 446 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-7c.md) 
 
@@ -56,7 +56,7 @@
 - **Weapons:** 
   - LRM 5 (ammo: 24) 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3516) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3516) 
 - **Battle Value:** 419 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) 
 
@@ -70,7 +70,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - RAC/2 (ammo: 45) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3517) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3517) 
 - **Battle Value:** 484 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-9.md) 
 
@@ -86,7 +86,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (5.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3512) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3512) 
 - **Battle Value:** 180 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-10.md) 
 
@@ -103,7 +103,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Jet Booster 
-- **Sources:** XTRO Mercs - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3518) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/3518) 
 - **Battle Value:** 372 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_hx-9.md) 
 
@@ -120,7 +120,7 @@
   - SRM 2 (iOS) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/3513) 
 - **Battle Value:** 294 
 - [*More Info*](warrior_attack_helicopter/warrior_attack_helicopter_h-7f.md) 
 

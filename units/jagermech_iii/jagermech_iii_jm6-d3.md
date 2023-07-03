@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Overhead Arms 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1672) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1672) 
 - **Battle Value:** 1537 
 
 ## Availability 

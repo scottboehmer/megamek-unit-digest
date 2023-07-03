@@ -20,7 +20,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Good Reputation 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5696) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5696) 
 - **Battle Value:** 2123 
 
 ## Availability 

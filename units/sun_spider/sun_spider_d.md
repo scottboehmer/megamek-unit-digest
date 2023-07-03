@@ -16,6 +16,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2096 
 
 ## Availability 

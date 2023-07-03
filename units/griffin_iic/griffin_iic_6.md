@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1315) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1315) 
 - **Battle Value:** 1468 
 
 ## Availability 

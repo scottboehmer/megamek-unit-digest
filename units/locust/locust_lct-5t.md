@@ -22,7 +22,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1909) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1909) 
 - **Battle Value:** 482 
 
 ## Availability 

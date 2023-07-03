@@ -11,7 +11,7 @@
 - **Armor:** 17 (Advanced) 
 - **Weapons:** 
   - Clan Medium Recoilless Rifle × 2 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8770) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8770) 
 - **Battle Value:** 81 (570 for 5 suits) 
 
 ## Availability 

@@ -22,7 +22,7 @@
   - Modular Weapon (ER PPC) 
   - Modular Weapon (LB 10-X AC) 
   - Modular Weapon (LB 10-X AC) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6780) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6780) 
 - **Battle Value:** 1669 
 
 ## Availability 

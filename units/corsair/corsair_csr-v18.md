@@ -16,7 +16,7 @@
   - Light PPC × 2 
   - Medium Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/697) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/697) 
 - **Battle Value:** Unknown 
 
 ## Availability 

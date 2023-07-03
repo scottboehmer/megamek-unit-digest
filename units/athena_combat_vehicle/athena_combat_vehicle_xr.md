@@ -16,7 +16,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3747) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/3747) 
 - **Battle Value:** 1309 
 
 ## Availability 

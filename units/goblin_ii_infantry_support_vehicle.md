@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Infantry (3 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1220) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1220) 
 - **Battle Value:** 839 
 - [*More Info*](goblin_ii_infantry_support_vehicle/goblin_ii_infantry_support_vehicle.md) 
 

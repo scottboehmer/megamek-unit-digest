@@ -19,7 +19,7 @@
   - C3i 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2996) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2996) 
 - **Battle Value:** 1631 
 
 ## Availability 

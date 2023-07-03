@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3039 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1060) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1060) 
 - **Battle Value:** 58 
 
 ## Availability 

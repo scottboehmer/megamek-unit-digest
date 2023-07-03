@@ -15,7 +15,7 @@
   - Improved Sensors 
   - Remote Sensor Dispenser 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8897) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8897) 
 - **Battle Value:** 19 (170 for 6 suits) 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/2 × 5 (ammo: 180) 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2442) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2442) 
 - **Battle Value:** 580 
 
 ## Availability 

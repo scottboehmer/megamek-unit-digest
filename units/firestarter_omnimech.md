@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1099) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1099) 
 - **Battle Value:** 1144 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-o.md) 
 
@@ -37,7 +37,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1100) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1100) 
 - **Battle Value:** 976 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-oa.md) 
 
@@ -61,7 +61,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1101) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1101) 
 - **Battle Value:** 1070 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-ob.md) 
 
@@ -83,7 +83,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1102) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1102) 
 - **Battle Value:** 1006 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-oc.md) 
 
@@ -107,7 +107,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1103) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1103) 
 - **Battle Value:** 1322 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-od.md) 
 
@@ -129,7 +129,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1104) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1104) 
 - **Battle Value:** 998 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-oe.md) 
 
@@ -149,7 +149,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1108) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1108) 
 - **Battle Value:** 1713 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-or.md) 
 
@@ -172,7 +172,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1110) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1110) 
 - **Battle Value:** 1190 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-ox.md) 
 
@@ -193,7 +193,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1105) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1105) 
 - **Battle Value:** 1446 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-of.md) 
 
@@ -215,7 +215,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1106) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1106) 
 - **Battle Value:** 1063 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-og.md) 
 
@@ -242,7 +242,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1107) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1107) 
 - **Battle Value:** 1119 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-oh.md) 
 
@@ -264,7 +264,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1109) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1109) 
 - **Battle Value:** 1120 
 - [*More Info*](firestarter_omnimech/firestarter_fs9-ou.md) 
 

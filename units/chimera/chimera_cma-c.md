@@ -19,7 +19,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3951) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3951) 
 - **Battle Value:** 1182 
 
 ## Availability 

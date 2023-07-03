@@ -15,7 +15,7 @@
   - Micro Pulse Laser × 4 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4829) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4829) 
 - **Battle Value:** 1646 
 - [*More Info*](pinion/pinion.md) 
 
@@ -34,7 +34,7 @@
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4830) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4830) 
 - **Battle Value:** 1657 
 - [*More Info*](pinion/pinion_2.md) 
 
@@ -51,7 +51,7 @@
   - Heavy Large Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5675) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5675) 
 - **Battle Value:** 1611 
 - [*More Info*](pinion/pinion_3.md) 
 

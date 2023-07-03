@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Inner Sphere TSEMP 
   - ProtoMech AC/2 × 2 (ammo: 40) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8058) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8058) 
 - **Battle Value:** 1437 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1788) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1788) 
 - **Battle Value:** 1212 
 
 ## Availability 

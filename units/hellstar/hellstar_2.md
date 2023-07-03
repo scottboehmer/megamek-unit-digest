@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Barrel Fists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1479) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1479) 
 - **Battle Value:** 3545 
 
 ## Availability 

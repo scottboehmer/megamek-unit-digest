@@ -15,7 +15,7 @@
 - **Weapons:** 
   - LRM 3 (ammo: 4) 
   - ER Micro Laser 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8961) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8961) 
 - **Battle Value:** 65 (581 for 6 suits) 
 
 ## Availability 

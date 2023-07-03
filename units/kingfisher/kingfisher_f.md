@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #18 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1784) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/1784) 
 - **Battle Value:** 2568 
 
 ## Availability 

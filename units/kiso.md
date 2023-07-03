@@ -17,7 +17,7 @@
   - Communications Equipment 
   - Lift Hoist × 2 
   - Cargo Container × 2 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1802) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1802) 
 - **Battle Value:** 954 
 - [*More Info*](kiso/kiso_k-3n-kr4_constructionmech.md) 
 
@@ -38,7 +38,7 @@
   - Communications Equipment 
   - Lift Hoist × 2 
   - Cargo Container × 2 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1803) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1803) 
 - **Battle Value:** 959 
 - [*More Info*](kiso/kiso_k-3n-kr5_constructionmech.md) 
 
@@ -63,7 +63,7 @@
   - Improved Communications 
   - Non-Standard Parts 
   - Stable 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5773) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5773) 
 - **Battle Value:** 940 
 - [*More Info*](kiso/kiso_k-3n-krhq_commandmech.md) 
 

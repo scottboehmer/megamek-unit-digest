@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Fully Amphibious Chassis 
   - Infantry (8.0 tons) 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6656) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6656) 
 - **Battle Value:** 473 
 
 ## Availability 

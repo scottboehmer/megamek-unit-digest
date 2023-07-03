@@ -14,7 +14,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/747) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/747) 
 - **Battle Value:** 288 
 - [*More Info*](crow_scout_helicopter/crow_scout_helicopter.md) 
 
@@ -30,7 +30,7 @@
   - Rocket 10 × 2 
   - ER Small Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/746) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/746) 
 - **Battle Value:** 415 
 - [*More Info*](crow_scout_helicopter/crow_scout_helicopter_export.md) 
 
@@ -47,7 +47,7 @@
   - Beagle Active Probe 
   - C3 Support 
   - TAG 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8411) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8411) 
 - **Battle Value:** 186 
 - [*More Info*](crow_scout_helicopter/crow_scout_helicopter_dragonfly.md) 
 
@@ -65,7 +65,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - C3 Support 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/745) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/745) 
 - **Battle Value:** 288 
 - [*More Info*](crow_scout_helicopter/crow_scout_helicopter_c3.md) 
 

@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7329) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7329) 
 - **Battle Value:** 586 
 
 ## Availability 

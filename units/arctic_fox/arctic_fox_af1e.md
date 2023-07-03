@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/96) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/96) 
 - **Battle Value:** 1094 
 
 ## Availability 

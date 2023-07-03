@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1425) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1425) 
 - **Battle Value:** 2298 
 
 ## Availability 

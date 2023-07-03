@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Small VSP Laser 
   - Clan Heavy Grenade Launcher 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8515) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8515) 
 - **Battle Value:** 37 (261 for 5 suits) 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stabilized Weapon (Unknown Component) 
-- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2473) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/2473) 
 - **Battle Value:** 1191 
 
 ## Availability 

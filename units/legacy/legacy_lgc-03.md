@@ -28,7 +28,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Small Laser) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/4490) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4490) 
 - **Battle Value:** 2121 
 
 ## Availability 

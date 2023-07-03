@@ -15,7 +15,7 @@
   - SRM 4 × 2 (ammo: 50) 
   - Mining Drill 
   - Heavy Machine Gun × 4 (ammo: 100) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7829) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7829) 
 - **Battle Value:** 699 
 
 ## Availability 

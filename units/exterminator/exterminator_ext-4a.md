@@ -18,7 +18,7 @@
   - Machine Gun (ammo: 200) 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4147) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4147) 
 - **Battle Value:** 1372 
 
 ## Availability 

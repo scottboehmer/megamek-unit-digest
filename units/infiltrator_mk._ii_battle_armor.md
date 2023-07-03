@@ -17,7 +17,7 @@
   - ECM Suite 
   - Parafoil 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1618) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1618) 
 - **Battle Value:** 49 (253 for 4 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_pumasqd4.md) 
 
@@ -38,7 +38,7 @@
   - ECM Suite 
   - Parafoil 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8536) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8536) 
 - **Battle Value:** 49 (340 for 5 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_pumasqd5.md) 
 
@@ -59,7 +59,7 @@
   - ECM Suite 
   - Parafoil 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8900) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8900) 
 - **Battle Value:** 49 (437 for 6 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_pumasqd6.md) 
 
@@ -81,7 +81,7 @@
   - Improved Sensors 
   - Parafoil 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1619) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1619) 
 - **Battle Value:** 35 (180 for 4 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_sensorsqd4.md) 
 
@@ -103,7 +103,7 @@
   - Improved Sensors 
   - Parafoil 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8537) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8537) 
 - **Battle Value:** 35 (243 for 5 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_sensorsqd5.md) 
 
@@ -125,7 +125,7 @@
   - Improved Sensors 
   - Parafoil 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8901) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8901) 
 - **Battle Value:** 35 (312 for 6 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_sensorsqd6.md) 
 
@@ -145,7 +145,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - ECM Suite 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1616) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1616) 
 - **Battle Value:** 49 (257 for 4 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_magneticsqd4.md) 
 
@@ -165,7 +165,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - ECM Suite 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8534) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8534) 
 - **Battle Value:** 49 (346 for 5 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_magneticsqd5.md) 
 
@@ -185,7 +185,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - ECM Suite 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8898) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8898) 
 - **Battle Value:** 49 (444 for 6 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_magneticsqd6.md) 
 
@@ -205,7 +205,7 @@
 - **Equipment:** 
   - C3 Support 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1617) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/1617) 
 - **Battle Value:** 36 (189 for 4 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_coral_intentsqd4.md) 
 
@@ -225,7 +225,7 @@
 - **Equipment:** 
   - C3 Support 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8535) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/8535) 
 - **Battle Value:** 36 (255 for 5 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_coral_intentsqd5.md) 
 
@@ -245,7 +245,7 @@
 - **Equipment:** 
   - C3 Support 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8899) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/8899) 
 - **Battle Value:** 36 (327 for 6 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_coral_intentsqd6.md) 
 
@@ -266,7 +266,7 @@
   - Magnetic Clamps 
   - Cutting Torch 
   - Space Operations Adaptation 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6730) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6730) 
 - **Battle Value:** 43 (225 for 4 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_marinesqd4.md) 
 
@@ -287,7 +287,7 @@
   - Magnetic Clamps 
   - Cutting Torch 
   - Space Operations Adaptation 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8785) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8785) 
 - **Battle Value:** 43 (303 for 5 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_marinesqd5.md) 
 
@@ -308,7 +308,7 @@
   - Magnetic Clamps 
   - Cutting Torch 
   - Space Operations Adaptation 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9148) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9148) 
 - **Battle Value:** 43 (389 for 6 suits) 
 - [*More Info*](infiltrator_mk._ii_battle_armor/infiltrator_mk._ii_battle_armor_marinesqd6.md) 
 

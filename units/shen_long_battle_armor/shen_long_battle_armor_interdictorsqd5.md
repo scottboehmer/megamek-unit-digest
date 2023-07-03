@@ -13,7 +13,7 @@
   - Clan Flamer × 2 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8749) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/8749) 
 - **Battle Value:** 53 (371 for 5 suits) 
 
 ## Availability 

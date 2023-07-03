@@ -15,7 +15,7 @@
   - Inner Sphere Heavy PPC × 2 
 - **Equipment:** 
   - Inner Sphere Angel ECM Suite 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7668) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7668) 
 - **Battle Value:** Unknown 
 
 ## Availability 

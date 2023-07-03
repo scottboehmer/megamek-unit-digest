@@ -18,7 +18,7 @@
   - Angel ECM Suite 
   - Partial Wing 
   - TAG 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8252) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/8252) 
 - **Battle Value:** 1868 
 
 ## Availability 

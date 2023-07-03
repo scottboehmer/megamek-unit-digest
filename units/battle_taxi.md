@@ -15,7 +15,7 @@
   - Guardian ECM Suite 
   - Infantry (16 tons) 
   - Cargo 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5610) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5610) 
 - **Battle Value:** Unknown 
 - [*More Info*](battle_taxi/battle_taxi_nl-43.md) 
 

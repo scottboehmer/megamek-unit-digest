@@ -23,7 +23,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (ER Large Laser) 
-- **Sources:** Rec Guide:ilClan #11 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2499) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/2499) 
 - **Battle Value:** 1307 
 
 ## Availability 

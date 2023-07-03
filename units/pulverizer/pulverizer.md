@@ -22,7 +22,7 @@
   - Protected Actuators 
   - Bad Reputation (Clan) 
   - Accurate Weapon (ER PPC) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7648) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7648) 
 - **Battle Value:** 2506 
 
 ## Availability 

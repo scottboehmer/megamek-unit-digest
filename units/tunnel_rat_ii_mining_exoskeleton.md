@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5304) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/5304) 
 - **Battle Value:** 4 (20 for 4 suits) 
 - [*More Info*](tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_armored_glovesqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8699) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8699) 
 - **Battle Value:** 4 (27 for 5 suits) 
 - [*More Info*](tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_armored_glovesqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9063) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9063) 
 - **Battle Value:** 4 (35 for 6 suits) 
 - [*More Info*](tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_armored_glovesqd6.md) 
 
@@ -64,7 +64,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7219) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7219) 
 - **Battle Value:** 4 (20 for 4 suits) 
 - [*More Info*](tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_industrial_drillsqd4.md) 
 
@@ -81,7 +81,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8821) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8821) 
 - **Battle Value:** 4 (27 for 5 suits) 
 - [*More Info*](tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_industrial_drillsqd5.md) 
 
@@ -98,7 +98,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9184) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9184) 
 - **Battle Value:** 4 (35 for 6 suits) 
 - [*More Info*](tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_industrial_drillsqd6.md) 
 

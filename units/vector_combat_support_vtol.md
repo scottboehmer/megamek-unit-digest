@@ -13,7 +13,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Infantry (3.0 tons) 
-- **Sources:** HIST LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6768) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6768) 
 - **Battle Value:** 512 
 - [*More Info*](vector_combat_support_vtol/vector_combat_support_vtol.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 4 × 2 (ammo: 25) 
-- **Sources:** HIST LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6771) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6771) 
 - **Battle Value:** 580 
 - [*More Info*](vector_combat_support_vtol/vector_combat_support_vtol_attack.md) 
 
@@ -47,7 +47,7 @@
   - Guardian ECM Suite 
   - TAG 
   - Mast Mount 
-- **Sources:** HIST LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6770) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6770) 
 - **Battle Value:** 580 
 - [*More Info*](vector_combat_support_vtol/vector_combat_support_vtol_ew.md) 
 
@@ -66,7 +66,7 @@
   - Beagle Active Probe 
   - TAG 
   - Mast Mount 
-- **Sources:** HIST LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6769) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6769) 
 - **Battle Value:** 523 
 - [*More Info*](vector_combat_support_vtol/vector_combat_support_vtol_scout.md) 
 

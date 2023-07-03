@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 5 (ammo: 24) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #29 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3978) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/3978) 
 - **Battle Value:** 278 
 
 ## Availability 

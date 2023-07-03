@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Parafoil 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6585) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6585) 
 - **Battle Value:** 39 (200 for 4 suits) 
 
 ## Availability 

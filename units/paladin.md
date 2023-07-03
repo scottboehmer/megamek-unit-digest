@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2408) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2408) 
 - **Battle Value:** 1361 
 - [*More Info*](paladin/paladin_pal-1.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2409) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2409) 
 - **Battle Value:** 1617 
 - [*More Info*](paladin/paladin_pal-2.md) 
 
@@ -66,7 +66,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2410) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2410) 
 - **Battle Value:** 1370 
 - [*More Info*](paladin/paladin_pal-3.md) 
 

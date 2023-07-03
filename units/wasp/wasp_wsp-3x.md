@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8103) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8103) 
 - **Battle Value:** 521 
 
 ## Availability 

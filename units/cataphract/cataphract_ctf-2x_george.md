@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/468) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/468) 
 - **Battle Value:** 1337 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Beagle Active Probe 
   - C3 Support 
   - TAG 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8411) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8411) 
 - **Battle Value:** 186 
 
 ## Availability 

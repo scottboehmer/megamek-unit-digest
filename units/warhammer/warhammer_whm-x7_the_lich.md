@@ -22,7 +22,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** XTRO:Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3499) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/3499) 
 - **Battle Value:** 1785 
 
 ## Availability 

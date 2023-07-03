@@ -18,7 +18,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7572) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7572) 
 - **Battle Value:** 1302 
 
 ## Availability 

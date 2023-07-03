@@ -20,7 +20,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1903) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/1903) 
 - **Battle Value:** 642 
 
 ## Availability 

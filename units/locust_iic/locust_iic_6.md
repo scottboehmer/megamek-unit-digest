@@ -21,7 +21,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1919) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1919) 
 - **Battle Value:** 730 
 
 ## Availability 

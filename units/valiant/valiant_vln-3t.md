@@ -20,7 +20,7 @@
   - Improved Targeting (Short) 
   - Protected Actuators 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3371) 
 - **Battle Value:** 852 
 
 ## Availability 

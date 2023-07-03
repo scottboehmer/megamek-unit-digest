@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8046) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8046) 
 - **Battle Value:** 686 
 
 ## Availability 

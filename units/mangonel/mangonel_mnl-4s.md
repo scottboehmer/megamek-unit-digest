@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - No/Minimal Arms 
-- **Sources:** RS 3145  NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6871) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6871) 
 - **Battle Value:** 2659 
 
 ## Availability 

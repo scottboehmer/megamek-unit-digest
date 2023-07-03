@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2984) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2984) 
 - **Battle Value:** 581 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2318) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2318) 
 - **Battle Value:** 2750 
 - [*More Info*](omen/omen.md) 
 
@@ -47,7 +47,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Rugged (×2) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6853) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6853) 
 - **Battle Value:** 2384 
 - [*More Info*](omen/omen_2.md) 
 

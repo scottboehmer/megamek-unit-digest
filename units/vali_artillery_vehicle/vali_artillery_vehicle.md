@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Arrow IV (ammo: 25) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6773) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6773) 
 - **Battle Value:** 653 
 
 ## Availability 

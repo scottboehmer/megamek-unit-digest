@@ -10,7 +10,7 @@
 - **Weapons:** 
   - Detachable Clan ER Medium Pulse Laser 
   - Clan Advanced SRM 3 (ammo: 8) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7362) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7362) 
 - **Battle Value:** 143 (742 for 4 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_asrmsqd4.md) 
 
@@ -24,7 +24,7 @@
 - **Weapons:** 
   - Detachable Clan ER Medium Pulse Laser 
   - Clan Advanced SRM 3 (ammo: 8) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8827) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/8827) 
 - **Battle Value:** 143 (998 for 5 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_asrmsqd5.md) 
 
@@ -38,7 +38,7 @@
 - **Weapons:** 
   - Detachable Clan ER Medium Pulse Laser 
   - Clan Advanced SRM 3 (ammo: 8) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9190) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/9190) 
 - **Battle Value:** 143 (1284 for 6 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_asrmsqd6.md) 
 
@@ -54,7 +54,7 @@
   - Clan Light Machine Gun × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7359) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7359) 
 - **Battle Value:** 119 (619 for 4 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_c3sqd4.md) 
 
@@ -70,7 +70,7 @@
   - Clan Light Machine Gun × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8824) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/8824) 
 - **Battle Value:** 119 (833 for 5 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_c3sqd5.md) 
 
@@ -86,7 +86,7 @@
   - Clan Light Machine Gun × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9187) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/9187) 
 - **Battle Value:** 119 (1071 for 6 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_c3sqd6.md) 
 
@@ -100,7 +100,7 @@
 - **Weapons:** 
   - Detachable Clan ER Medium Pulse Laser 
   - Clan LRM 4 (ammo: 7) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7360) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7360) 
 - **Battle Value:** 143 (745 for 4 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_lrmsqd4.md) 
 
@@ -114,7 +114,7 @@
 - **Weapons:** 
   - Detachable Clan ER Medium Pulse Laser 
   - Clan LRM 4 (ammo: 7) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8825) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/8825) 
 - **Battle Value:** 143 (1003 for 5 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_lrmsqd5.md) 
 
@@ -128,7 +128,7 @@
 - **Weapons:** 
   - Detachable Clan ER Medium Pulse Laser 
   - Clan LRM 4 (ammo: 7) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9188) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/9188) 
 - **Battle Value:** 143 (1289 for 6 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_lrmsqd6.md) 
 
@@ -142,7 +142,7 @@
 - **Weapons:** 
   - Detachable Clan ER Medium Pulse Laser 
   - Clan SRM 6 (ammo: 3) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/7361) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7361) 
 - **Battle Value:** 152 (788 for 4 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_srmsqd4.md) 
 
@@ -156,7 +156,7 @@
 - **Weapons:** 
   - Detachable Clan ER Medium Pulse Laser 
   - Clan SRM 6 (ammo: 3) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8826) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/8826) 
 - **Battle Value:** 152 (1061 for 5 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_srmsqd5.md) 
 
@@ -170,7 +170,7 @@
 - **Weapons:** 
   - Detachable Clan ER Medium Pulse Laser 
   - Clan SRM 6 (ammo: 3) 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9189) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/9189) 
 - **Battle Value:** 152 (1365 for 6 suits) 
 - [*More Info*](tortoise_ii/tortoise_ii_srmsqd6.md) 
 

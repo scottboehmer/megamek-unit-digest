@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2779) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2779) 
 - **Battle Value:** 760 
 
 ## Availability 

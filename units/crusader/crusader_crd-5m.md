@@ -26,7 +26,7 @@
   - Ubiquitous 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
-- **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/759) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/759) 
 - **Battle Value:** 1408 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Barrel Fists 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/984) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/984) 
 - **Battle Value:** 1475 
 
 ## Availability 

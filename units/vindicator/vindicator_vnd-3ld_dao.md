@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3427) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/3427) 
 - **Battle Value:** 1583 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Lift Hoist 
   - Cargo × 8 
   - Dumper 
-- **Sources:** RS 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4545) 
+- **Sources:** Record Sheets: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4545) 
 - **Battle Value:** 311 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9423) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9423) 
 - **Battle Value:** 862 
 
 ## Availability 

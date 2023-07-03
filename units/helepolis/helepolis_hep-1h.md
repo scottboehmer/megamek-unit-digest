@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1460) 
+- **Sources:** XTR: Primitives I , [Master Unit List](http://masterunitlist.info/Unit/Details/1460) 
 - **Battle Value:** 1063 
 
 ## Availability 

@@ -13,7 +13,7 @@
   - LRM 5 × 2 (ammo: 24) 
   - Streak SRM 2 × 2 (ammo: 50) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2551) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2551) 
 - **Battle Value:** 1181 
 - [*More Info*](po_ii_heavy_tank/po_ii_heavy_tank.md) 
 
@@ -30,7 +30,7 @@
   - LRM 5 × 2 (ammo: 24) 
   - Streak SRM 2 × 2 (ammo: 50) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2550) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2550) 
 - **Battle Value:** 1118 
 - [*More Info*](po_ii_heavy_tank/po_ii_heavy_tank_arrow_iv.md) 
 
@@ -47,7 +47,7 @@
   - SRM 6 × 2 (ammo: 15) 
   - Machine Gun × 2 (ammo: 100) 
   - SRM 2 (iOS) × 2 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6794) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6794) 
 - **Battle Value:** 1211 
 - [*More Info*](po_ii_heavy_tank/po_ii_heavy_tank_gauss.md) 
 
@@ -65,7 +65,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Angel ECM Suite 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6795) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6795) 
 - **Battle Value:** 1310 
 - [*More Info*](po_ii_heavy_tank/po_ii_heavy_tank_stealth.md) 
 

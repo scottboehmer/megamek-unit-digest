@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Cargo 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/832) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/832) 
 - **Battle Value:** 136 
 
 ## Availability 

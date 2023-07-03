@@ -25,7 +25,7 @@
   - Directional Torso Mount (Medium Pulse Laser) 
   - Directional Torso Mount (Medium Pulse Laser) 
   - Directional Torso Mount (Medium Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8415) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8415) 
 - **Battle Value:** 1302 
 - [*More Info*](raijin/raijin_rjn-101-x.md) 
 
@@ -52,7 +52,7 @@
   - Directional Torso Mount (Medium Pulse Laser) 
   - Directional Torso Mount (Medium Pulse Laser) 
   - Directional Torso Mount (Medium Pulse Laser) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2626) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2626) 
 - **Battle Value:** 1350 
 - [*More Info*](raijin/raijin_rjn-101-a.md) 
 
@@ -81,7 +81,7 @@
   - Directional Torso Mount (Medium Laser) 
   - Directional Torso Mount (Flamer) 
   - Directional Torso Mount (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8429) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8429) 
 - **Battle Value:** 1383 
 - [*More Info*](raijin/raijin_rjn-101-b.md) 
 
@@ -108,7 +108,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** Rec Guide:ilClan #23 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2627) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/2627) 
 - **Battle Value:** 1389 
 - [*More Info*](raijin/raijin_rjn-101-c.md) 
 
@@ -137,7 +137,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** Rec Guide:ilClan #23 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8416) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8416) 
 - **Battle Value:** 1365 
 - [*More Info*](raijin/raijin_rjn-301-b.md) 
 

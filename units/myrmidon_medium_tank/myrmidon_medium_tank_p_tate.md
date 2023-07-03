@@ -15,7 +15,7 @@
   - Light Machine Gun × 6 (ammo: 200) 
 - **Equipment:** 
   - Machine Gun Array × 2 
-- **Sources:** XTR Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4690) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/4690) 
 - **Battle Value:** 752 
 
 ## Availability 

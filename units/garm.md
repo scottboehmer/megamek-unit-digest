@@ -14,7 +14,7 @@
   - LB 5-X AC (ammo: 20) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1189) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1189) 
 - **Battle Value:** 701 
 - [*More Info*](garm/garm_grm-01a.md) 
 
@@ -32,7 +32,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1191) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1191) 
 - **Battle Value:** 934 
 - [*More Info*](garm/garm_grm-01b.md) 
 
@@ -52,7 +52,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1192) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1192) 
 - **Battle Value:** 1140 
 - [*More Info*](garm/garm_grm-01c.md) 
 
@@ -73,7 +73,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1190) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1190) 
 - **Battle Value:** 1078 
 - [*More Info*](garm/garm_grm-01a2.md) 
 

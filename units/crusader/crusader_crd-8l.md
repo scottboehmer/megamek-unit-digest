@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/764) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/764) 
 - **Battle Value:** 1701 
 
 ## Availability 

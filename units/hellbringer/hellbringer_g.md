@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6879) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6879) 
 - **Battle Value:** 1956 
 
 ## Availability 

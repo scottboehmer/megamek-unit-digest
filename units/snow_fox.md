@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Hard to Pilot 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2979) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2979) 
 - **Battle Value:** 807 
 - [*More Info*](snow_fox/snow_fox.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Hard to Pilot 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2980) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2980) 
 - **Battle Value:** 604 
 - [*More Info*](snow_fox/snow_fox_2.md) 
 
@@ -58,7 +58,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Hard to Pilot 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2981) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2981) 
 - **Battle Value:** 903 
 - [*More Info*](snow_fox/snow_fox_3.md) 
 

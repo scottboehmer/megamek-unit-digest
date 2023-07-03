@@ -15,7 +15,7 @@
   - Clan Ultra AC/10 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4069) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/4069) 
 - **Battle Value:** 1927 
 
 ## Availability 

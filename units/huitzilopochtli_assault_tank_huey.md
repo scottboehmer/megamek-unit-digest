@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1551) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/1551) 
 - **Battle Value:** 1049 
 - [*More Info*](huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1550) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1550) 
 - **Battle Value:** 1385 
 - [*More Info*](huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_aaa.md) 
 
@@ -57,7 +57,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8042) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8042) 
 - **Battle Value:** 1269 
 - [*More Info*](huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_lrm.md) 
 
@@ -78,7 +78,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8043) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8043) 
 - **Battle Value:** 1222 
 - [*More Info*](huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey_streak.md) 
 

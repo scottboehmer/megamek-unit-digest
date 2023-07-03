@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
   - ER Medium Laser × 7 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6691) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6691) 
 - **Battle Value:** Unknown 
 
 ## Availability 

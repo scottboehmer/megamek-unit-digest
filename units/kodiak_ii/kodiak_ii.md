@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Distracting 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6295) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6295) 
 - **Battle Value:** 3066 
 
 ## Availability 

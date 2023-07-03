@@ -22,7 +22,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1751) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1751) 
 - **Battle Value:** 3118 
 
 ## Availability 

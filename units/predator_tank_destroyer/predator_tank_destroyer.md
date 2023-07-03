@@ -12,7 +12,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster) 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6441) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6441) 
 - **Battle Value:** 775 
 
 ## Availability 

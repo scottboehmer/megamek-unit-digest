@@ -16,7 +16,7 @@
 - **Weapons:** 
   - Medium Laser 
   - LRM 5 (ammo: 24) 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5390) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5390) 
 - **Battle Value:** 907 
 
 ## Availability 

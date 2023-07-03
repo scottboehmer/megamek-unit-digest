@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3075 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5264) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5264) 
 - **Battle Value:** 9 (47 for 4 suits) 
 - [*More Info*](tornado_pal/tornado_pal_p12_hurricanesqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3075 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8692) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8692) 
 - **Battle Value:** 9 (63 for 5 suits) 
 - [*More Info*](tornado_pal/tornado_pal_p12_hurricanesqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3075 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/9056) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9056) 
 - **Battle Value:** 9 (81 for 6 suits) 
 - [*More Info*](tornado_pal/tornado_pal_p12_hurricanesqd6.md) 
 
@@ -64,7 +64,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5256) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5256) 
 - **Battle Value:** 9 (47 for 4 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g12sqd4.md) 
 
@@ -81,7 +81,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8685) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8685) 
 - **Battle Value:** 9 (63 for 5 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g12sqd5.md) 
 
@@ -98,7 +98,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9049) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9049) 
 - **Battle Value:** 9 (81 for 6 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g12sqd6.md) 
 
@@ -114,7 +114,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5257) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5257) 
 - **Battle Value:** 15 (80 for 4 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_david_light_gausssqd4.md) 
 
@@ -130,7 +130,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8686) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8686) 
 - **Battle Value:** 15 (108 for 5 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_david_light_gausssqd5.md) 
 
@@ -146,7 +146,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9050) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9050) 
 - **Battle Value:** 15 (138 for 6 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_david_light_gausssqd6.md) 
 
@@ -162,7 +162,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan Flamer 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5258) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5258) 
 - **Battle Value:** 13 (69 for 4 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_flamersqd4.md) 
 
@@ -178,7 +178,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan Flamer 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8687) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8687) 
 - **Battle Value:** 13 (92 for 5 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_flamersqd5.md) 
 
@@ -194,7 +194,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Flamer 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9051) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9051) 
 - **Battle Value:** 13 (119 for 6 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_flamersqd6.md) 
 
@@ -210,7 +210,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan Heavy Grenade Launcher 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5259) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5259) 
 - **Battle Value:** 10 (52 for 4 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_grenade_launchersqd4.md) 
 
@@ -226,7 +226,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan Heavy Grenade Launcher 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8688) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8688) 
 - **Battle Value:** 10 (70 for 5 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_grenade_launchersqd5.md) 
 
@@ -242,7 +242,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Heavy Grenade Launcher 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9052) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9052) 
 - **Battle Value:** 10 (90 for 6 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_grenade_launchersqd6.md) 
 
@@ -258,7 +258,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan Machine Gun 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5260) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5260) 
 - **Battle Value:** 13 (69 for 4 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_machine_gunsqd4.md) 
 
@@ -274,7 +274,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan Machine Gun 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8689) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8689) 
 - **Battle Value:** 13 (92 for 5 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_machine_gunsqd5.md) 
 
@@ -290,7 +290,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Machine Gun 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9053) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9053) 
 - **Battle Value:** 13 (119 for 6 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_machine_gunsqd6.md) 
 
@@ -306,7 +306,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5261) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5261) 
 - **Battle Value:** 18 (91 for 4 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_small_lasersqd4.md) 
 
@@ -322,7 +322,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8690) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8690) 
 - **Battle Value:** 18 (123 for 5 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_small_lasersqd5.md) 
 
@@ -338,7 +338,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9054) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9054) 
 - **Battle Value:** 18 (158 for 6 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g13_small_lasersqd6.md) 
 
@@ -354,7 +354,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan AP Gauss Rifle 
-- **Sources:** XTRO ComStar - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5560) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5560) 
 - **Battle Value:** 41 (212 for 4 suits) 
 - [*More Info*](tornado_pal/tornado_pal_p17_hurricanesqd4.md) 
 
@@ -370,7 +370,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan AP Gauss Rifle 
-- **Sources:** XTRO ComStar - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8706) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/8706) 
 - **Battle Value:** 41 (285 for 5 suits) 
 - [*More Info*](tornado_pal/tornado_pal_p17_hurricanesqd5.md) 
 
@@ -386,7 +386,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan AP Gauss Rifle 
-- **Sources:** XTRO ComStar - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9070) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/9070) 
 - **Battle Value:** 41 (367 for 6 suits) 
 - [*More Info*](tornado_pal/tornado_pal_p17_hurricanesqd6.md) 
 
@@ -400,7 +400,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5263) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5263) 
 - **Battle Value:** 8 (41 for 4 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g14sqd4.md) 
 
@@ -414,7 +414,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8691) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8691) 
 - **Battle Value:** 8 (55 for 5 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g14sqd5.md) 
 
@@ -428,7 +428,7 @@
 - **Manipulators:** 
   - Armored Glove (right) 
   - Armored Glove (left) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9055) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9055) 
 - **Battle Value:** 8 (70 for 6 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g14sqd6.md) 
 
@@ -445,7 +445,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Extended Life Support 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5612) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5612) 
 - **Battle Value:** 11 (56 for 4 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g17sqd4.md) 
 
@@ -462,7 +462,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Extended Life Support 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8709) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/8709) 
 - **Battle Value:** 11 (76 for 5 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g17sqd5.md) 
 
@@ -479,7 +479,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Extended Life Support 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9073) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/9073) 
 - **Battle Value:** 11 (97 for 6 suits) 
 - [*More Info*](tornado_pal/tornado_pal_g17sqd6.md) 
 

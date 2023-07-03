@@ -13,7 +13,7 @@
   - Large Laser 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1687) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1687) 
 - **Battle Value:** 712 
 - [*More Info*](jenner/jenner_jr7-a.md) 
 
@@ -30,7 +30,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1693) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1693) 
 - **Battle Value:** 1011 
 - [*More Info*](jenner/jenner_jr7-f.md) 
 
@@ -48,7 +48,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1692) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1692) 
 - **Battle Value:** 875 
 - [*More Info*](jenner/jenner_jr7-d.md) 
 
@@ -64,7 +64,7 @@
   - Medium Laser × 6 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/7796) 
+- **Sources:** Turing Points: War of 3039 - Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/7796) 
 - **Battle Value:** 1070 
 - [*More Info*](jenner/jenner_jr7-f_smith.md) 
 
@@ -82,7 +82,7 @@
   - Narc (ammo: 18) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1696) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1696) 
 - **Battle Value:** 702 
 - [*More Info*](jenner/jenner_jr7-k_grace.md) 
 
@@ -102,7 +102,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1694) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1694) 
 - **Battle Value:** 889 
 - [*More Info*](jenner/jenner_jr7-k.md) 
 
@@ -123,7 +123,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1688) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1688) 
 - **Battle Value:** 832 
 - [*More Info*](jenner/jenner_jr7-c.md) 
 
@@ -143,7 +143,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1697) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/1697) 
 - **Battle Value:** 1001 
 - [*More Info*](jenner/jenner_jr7-k_samuli.md) 
 
@@ -163,7 +163,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1695) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1695) 
 - **Battle Value:** 787 
 - [*More Info*](jenner/jenner_jr7-k_grace_ii.md) 
 
@@ -182,7 +182,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1690) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1690) 
 - **Battle Value:** 1069 
 - [*More Info*](jenner/jenner_jr7-c3.md) 
 
@@ -204,7 +204,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1689) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1689) 
 - **Battle Value:** 769 
 - [*More Info*](jenner/jenner_jr7-c2.md) 
 
@@ -226,7 +226,7 @@
   - Null-Signature System 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1686) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/1686) 
 - **Battle Value:** 1269 
 - [*More Info*](jenner/jenner_jr10-x.md) 
 
@@ -247,7 +247,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1691) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1691) 
 - **Battle Value:** 703 
 - [*More Info*](jenner/jenner_jr7-c4.md) 
 
@@ -268,7 +268,7 @@
   - CASE II 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #18 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8247) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/8247) 
 - **Battle Value:** 1233 
 - [*More Info*](jenner/jenner_jr7-n.md) 
 

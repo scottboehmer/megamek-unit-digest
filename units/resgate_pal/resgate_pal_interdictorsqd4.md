@@ -15,7 +15,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7202) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7202) 
 - **Battle Value:** 12 (61 for 4 suits) 
 
 ## Availability 

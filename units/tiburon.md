@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6552) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6552) 
 - **Battle Value:** 1841 
 - [*More Info*](tiburon/tiburon.md) 
 
@@ -40,7 +40,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** Shrapnel 10 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9252) 
+- **Sources:** Shrapnel #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/9252) 
 - **Battle Value:** 1691 
 - [*More Info*](tiburon/tiburon_2.md) 
 

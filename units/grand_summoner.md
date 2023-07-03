@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6281) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6281) 
 - **Battle Value:** 2554 
 - [*More Info*](grand_summoner/grand_summoner_prime.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6282) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6282) 
 - **Battle Value:** 2473 
 - [*More Info*](grand_summoner/grand_summoner_a.md) 
 
@@ -61,7 +61,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6283) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6283) 
 - **Battle Value:** 2354 
 - [*More Info*](grand_summoner/grand_summoner_b.md) 
 
@@ -82,7 +82,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6284) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6284) 
 - **Battle Value:** 2351 
 - [*More Info*](grand_summoner/grand_summoner_c.md) 
 
@@ -104,7 +104,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6285) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6285) 
 - **Battle Value:** 2878 
 - [*More Info*](grand_summoner/grand_summoner_d.md) 
 
@@ -122,7 +122,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** Iron Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7426) 
+- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/7426) 
 - **Battle Value:** 2638 
 - [*More Info*](grand_summoner/grand_summoner_e.md) 
 

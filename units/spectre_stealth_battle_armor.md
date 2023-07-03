@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Mechanical Jump Booster 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6523) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6523) 
 - **Battle Value:** 38 (198 for 4 suits) 
 - [*More Info*](spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd4.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Mechanical Jump Booster 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8761) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/8761) 
 - **Battle Value:** 38 (267 for 5 suits) 
 - [*More Info*](spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd5.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Mechanical Jump Booster 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9124) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/9124) 
 - **Battle Value:** 38 (343 for 6 suits) 
 - [*More Info*](spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd6.md) 
 

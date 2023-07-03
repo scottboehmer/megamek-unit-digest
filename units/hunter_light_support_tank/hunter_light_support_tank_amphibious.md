@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Mine Dispenser × 2 
   - Fully Amphibious Chassis 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4341) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4341) 
 - **Battle Value:** 572 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - Bad Reputation (Clan) 
   - Accurate Weapon (Enhanced PPC) 
   - Accurate Weapon (Unknown Component) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2590) 
+- **Sources:** Jihad Secrets: The Blake Documents , [Master Unit List](http://masterunitlist.info/Unit/Details/2590) 
 - **Battle Value:** 2065 
 
 ## Availability 

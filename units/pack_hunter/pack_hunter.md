@@ -15,7 +15,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2392) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2392) 
 - **Battle Value:** 1369 
 
 ## Availability 

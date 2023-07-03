@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Light Gauss Rifle × 2 (ammo: 48) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6518) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6518) 
 - **Battle Value:** Unknown 
 - [*More Info*](aquila/aquila_aqa-1m.md) 
 

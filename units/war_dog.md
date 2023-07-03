@@ -22,7 +22,7 @@
   - Fast Reload (Streak SRM 2 (OS)) 
   - Accurate Weapon (Streak SRM 2 (OS)) 
   - Fast Reload (Streak SRM 2 (OS)) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3476) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3476) 
 - **Battle Value:** 1814 
 - [*More Info*](war_dog/war_dog_wr-dg-02fc.md) 
 
@@ -41,7 +41,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3477) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3477) 
 - **Battle Value:** 1962 
 - [*More Info*](war_dog/war_dog_wr-dg-03fc.md) 
 

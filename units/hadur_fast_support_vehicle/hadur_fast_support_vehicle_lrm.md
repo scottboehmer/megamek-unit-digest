@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Light TAG 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8050) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8050) 
 - **Battle Value:** 2038 
 
 ## Availability 

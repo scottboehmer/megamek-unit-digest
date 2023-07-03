@@ -18,7 +18,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide 25 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9405) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9405) 
 - **Battle Value:** 999 
 
 ## Availability 

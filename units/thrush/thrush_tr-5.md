@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 3 
-- **Sources:** Field Report 2765 Liao - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5227) 
+- **Sources:** Field Report 2765 CCAF , [Master Unit List](http://masterunitlist.info/Unit/Details/5227) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2629) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2629) 
 - **Battle Value:** 1439 
 
 ## Availability 

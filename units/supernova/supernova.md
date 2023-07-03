@@ -15,7 +15,7 @@
   - ER Large Laser × 6 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3132) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3132) 
 - **Battle Value:** 2801 
 
 ## Availability 

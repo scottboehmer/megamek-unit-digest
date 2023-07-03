@@ -17,7 +17,7 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/877) 
+- **Sources:** XTR: Primitives III , [Master Unit List](http://masterunitlist.info/Unit/Details/877) 
 - **Battle Value:** 864 
 
 ## Availability 

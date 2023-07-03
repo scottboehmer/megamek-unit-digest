@@ -17,7 +17,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8) 
 - **Battle Value:** 33 (173 for 4 suits) 
 
 ## Availability 

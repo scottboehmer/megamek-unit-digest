@@ -13,7 +13,7 @@
   - ER PPC 
   - ER Large Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3121) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3121) 
 - **Battle Value:** Unknown 
 - [*More Info*](sulla/sulla_prime.md) 
 
@@ -33,7 +33,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3117) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3117) 
 - **Battle Value:** Unknown 
 - [*More Info*](sulla/sulla_a.md) 
 
@@ -51,7 +51,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3118) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3118) 
 - **Battle Value:** Unknown 
 - [*More Info*](sulla/sulla_b.md) 
 
@@ -68,7 +68,7 @@
   - ER PPC × 2 
   - Medium Pulse Laser 
   - ER Small Laser 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3119) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3119) 
 - **Battle Value:** Unknown 
 - [*More Info*](sulla/sulla_c.md) 
 
@@ -87,7 +87,7 @@
   - Heavy Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3120) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3120) 
 - **Battle Value:** Unknown 
 - [*More Info*](sulla/sulla_d.md) 
 
@@ -105,7 +105,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5162) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/5162) 
 - **Battle Value:** Unknown 
 - [*More Info*](sulla/sulla_e.md) 
 
@@ -123,7 +123,7 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - CASE 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6816) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6816) 
 - **Battle Value:** Unknown 
 - [*More Info*](sulla/sulla_f.md) 
 

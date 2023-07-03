@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - Medium Laser × 5 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2960) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/2960) 
 - **Battle Value:** Unknown 
 
 ## Availability 

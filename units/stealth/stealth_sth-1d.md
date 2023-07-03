@@ -20,7 +20,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3052) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3052) 
 - **Battle Value:** 1231 
 
 ## Availability 

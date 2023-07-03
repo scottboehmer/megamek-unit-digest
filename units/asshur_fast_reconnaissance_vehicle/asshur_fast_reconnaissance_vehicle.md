@@ -14,7 +14,7 @@
   - Streak SRM 6 (ammo: 15) 
   - ER Medium Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** RS 3060U , [Master Unit List](http://masterunitlist.info/Unit/Details/135) 
+- **Sources:** Record Sheets: 3060 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/135) 
 - **Battle Value:** 952 
 
 ## Availability 

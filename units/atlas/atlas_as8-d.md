@@ -25,7 +25,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/151) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/151) 
 - **Battle Value:** 2432 
 
 ## Availability 

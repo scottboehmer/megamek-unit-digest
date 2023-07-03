@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Clan ECM Suite 
   - Infantry (1.0 tons) 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5605) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5605) 
 - **Battle Value:** 108 
 
 ## Availability 

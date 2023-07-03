@@ -19,7 +19,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6941) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6941) 
 - **Battle Value:** 806 
 
 ## Availability 

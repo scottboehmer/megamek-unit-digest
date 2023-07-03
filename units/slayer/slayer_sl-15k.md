@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 30 Cluster) 
   - ER Medium Laser × 6 
-- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2964) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2964) 
 - **Battle Value:** Unknown 
 
 ## Availability 

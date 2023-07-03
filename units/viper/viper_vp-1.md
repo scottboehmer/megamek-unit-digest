@@ -19,7 +19,7 @@
   - Rugged (×2) 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #32 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9466) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9466) 
 - **Battle Value:** 1609 
 
 ## Availability 

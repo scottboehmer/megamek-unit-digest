@@ -16,7 +16,7 @@
   - LRM 20 w/ Artemis IV (ammo: 18) 
   - SRM 6 w/ Artemis IV × 2 (ammo: 45) 
   - ER Medium Laser × 9 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3107) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3107) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stable 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8239) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8239) 
 - **Battle Value:** 3016 
 - [*More Info*](amarok/amarok.md) 
 
@@ -44,7 +44,7 @@
 - **Design Quirks:** 
   - Stable 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8240) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8240) 
 - **Battle Value:** 3351 
 - [*More Info*](amarok/amarok_2.md) 
 
@@ -66,7 +66,7 @@
 - **Design Quirks:** 
   - Stable 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8241) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8241) 
 - **Battle Value:** 2675 
 - [*More Info*](amarok/amarok_3.md) 
 

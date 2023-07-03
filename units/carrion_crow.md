@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7775) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7775) 
 - **Battle Value:** 2099 
 - [*More Info*](carrion_crow/carrion_crow_prime.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7776) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7776) 
 - **Battle Value:** 1625 
 - [*More Info*](carrion_crow/carrion_crow_a.md) 
 
@@ -61,7 +61,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7777) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7777) 
 - **Battle Value:** 2083 
 - [*More Info*](carrion_crow/carrion_crow_b.md) 
 
@@ -82,7 +82,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7778) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7778) 
 - **Battle Value:** 1826 
 - [*More Info*](carrion_crow/carrion_crow_c.md) 
 
@@ -105,7 +105,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7779) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7779) 
 - **Battle Value:** 1930 
 - [*More Info*](carrion_crow/carrion_crow_d.md) 
 

@@ -15,7 +15,7 @@
   - LRM 5 (ammo: 24) 
   - Small Laser 
   - Flamer 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2450) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2450) 
 - **Battle Value:** 961 
 
 ## Availability 

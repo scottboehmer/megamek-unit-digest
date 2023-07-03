@@ -21,7 +21,7 @@
   - Extended Torso Twist 
   - Multi-Trac 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5023) 
+- **Sources:** Wars of Reaving , [Master Unit List](http://masterunitlist.info/Unit/Details/5023) 
 - **Battle Value:** 2950 
 
 ## Availability 

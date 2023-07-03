@@ -16,7 +16,7 @@
   - ER Large Laser × 4 
   - Medium Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4056) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4056) 
 - **Battle Value:** Unknown 
 
 ## Availability 

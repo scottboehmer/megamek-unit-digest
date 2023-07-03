@@ -19,7 +19,7 @@
   - Full Head Ejection System 
   - AES 
   - CASE 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7780) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7780) 
 - **Battle Value:** 1479 
 
 ## Availability 

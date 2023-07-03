@@ -18,7 +18,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4479) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4479) 
 - **Battle Value:** 1497 
 
 ## Availability 

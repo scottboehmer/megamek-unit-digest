@@ -15,7 +15,7 @@
   - PPC × 2 
   - AC/10 × 2 (ammo: 40) 
   - Small Laser 
-- **Sources:** Rec Guide:ilClan #2 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/8301) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/8301) 
 - **Battle Value:** 1703 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/208) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/208) 
 - **Battle Value:** 1278 
 
 ## Availability 

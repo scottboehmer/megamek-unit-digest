@@ -14,7 +14,7 @@
   - Medium Laser 
   - Small Laser × 3 
   - Mining Drill 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7845) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7845) 
 - **Battle Value:** 410 
 
 ## Availability 

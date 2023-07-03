@@ -13,7 +13,7 @@
 - **Weapons:** 
   - MML 5 × 3 (ammo: 48 LRM, 40 SRM) 
   - Light Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6378) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6378) 
 - **Battle Value:** 669 
 
 ## Availability 

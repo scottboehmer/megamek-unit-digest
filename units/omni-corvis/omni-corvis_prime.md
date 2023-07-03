@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Prototype 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7610) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7610) 
 - **Battle Value:** 1678 
 
 ## Availability 

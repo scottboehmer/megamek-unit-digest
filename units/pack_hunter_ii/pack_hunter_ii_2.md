@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2397) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2397) 
 - **Battle Value:** 1457 
 
 ## Availability 

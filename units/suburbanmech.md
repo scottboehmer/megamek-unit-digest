@@ -17,7 +17,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** Shrapnel 4 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7928) 
+- **Sources:** Shrapnel #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7928) 
 - **Battle Value:** 773 
 - [*More Info*](suburbanmech/suburbanmech_um-r90.md) 
 
@@ -38,7 +38,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** Shrapnel 4 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7929) 
+- **Sources:** Shrapnel #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7929) 
 - **Battle Value:** 915 
 - [*More Info*](suburbanmech/suburbanmech_um-r100.md) 
 

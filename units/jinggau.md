@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1708) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1708) 
 - **Battle Value:** 2072 
 - [*More Info*](jinggau/jinggau_jn-g8a.md) 
 
@@ -35,7 +35,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1707) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1707) 
 - **Battle Value:** 2137 
 - [*More Info*](jinggau/jinggau_jn-g7l.md) 
 
@@ -59,7 +59,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** JTP:Sian - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1709) 
+- **Sources:** Jihad Turning Points: Sian , [Master Unit List](http://masterunitlist.info/Unit/Details/1709) 
 - **Battle Value:** 1337 
 - [*More Info*](jinggau/jinggau_jn-g8bx_rush.md) 
 
@@ -84,7 +84,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1710) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1710) 
 - **Battle Value:** 1656 
 - [*More Info*](jinggau/jinggau_jn-g9cc.md) 
 
@@ -104,7 +104,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** Shrapnel #12 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9503) 
+- **Sources:** Shrapnel #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/9503) 
 - **Battle Value:** 2703 
 - [*More Info*](jinggau/jinggau_jn-g7lr.md) 
 
@@ -127,7 +127,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** Shrapnel #12 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9502) 
+- **Sources:** Shrapnel #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/9502) 
 - **Battle Value:** 2730 
 - [*More Info*](jinggau/jinggau_jn-g8ar.md) 
 
@@ -152,7 +152,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** Shrapnel #12  - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9504) 
+- **Sources:** Shrapnel #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/9504) 
 - **Battle Value:** 2058 
 - [*More Info*](jinggau/jinggau_jn-g9ccr.md) 
 
@@ -177,7 +177,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** Shrapnel #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9501) 
+- **Sources:** Shrapnel #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/9501) 
 - **Battle Value:** 2733 
 - [*More Info*](jinggau/jinggau_jn-g9b.md) 
 

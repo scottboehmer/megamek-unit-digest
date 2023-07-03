@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8172) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/8172) 
 - **Battle Value:** 1552 
 
 ## Availability 

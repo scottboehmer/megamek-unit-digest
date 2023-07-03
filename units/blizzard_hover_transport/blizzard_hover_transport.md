@@ -14,7 +14,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/398) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/398) 
 - **Battle Value:** 277 
 
 ## Availability 

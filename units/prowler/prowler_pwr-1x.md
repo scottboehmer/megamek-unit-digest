@@ -21,7 +21,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Poor Life Support 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2581) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2581) 
 - **Battle Value:** 2019 
 
 ## Availability 

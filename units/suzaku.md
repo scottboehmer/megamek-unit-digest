@@ -14,7 +14,7 @@
   - MRM 20 (ammo: 24) 
 - **Equipment:** 
   - Laser Anti-Missile System 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5167) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5167) 
 - **Battle Value:** Unknown 
 - [*More Info*](suzaku/suzaku_su-14.md) 
 

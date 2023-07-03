@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6476) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6476) 
 - **Battle Value:** 36 (187 for 4 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_davidsqd4.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8751) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/8751) 
 - **Battle Value:** 36 (252 for 5 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_davidsqd5.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9114) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/9114) 
 - **Battle Value:** 36 (324 for 6 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_davidsqd6.md) 
 
@@ -68,7 +68,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6478) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6478) 
 - **Battle Value:** 28 (147 for 4 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_firedrakesqd4.md) 
 
@@ -86,7 +86,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8753) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/8753) 
 - **Battle Value:** 28 (198 for 5 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_firedrakesqd5.md) 
 
@@ -104,7 +104,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9116) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/9116) 
 - **Battle Value:** 28 (255 for 6 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_firedrakesqd6.md) 
 
@@ -122,7 +122,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6477) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6477) 
 - **Battle Value:** 33 (171 for 4 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_mgsqd4.md) 
 
@@ -140,7 +140,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8752) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/8752) 
 - **Battle Value:** 33 (230 for 5 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_mgsqd5.md) 
 
@@ -158,7 +158,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9115) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/9115) 
 - **Battle Value:** 33 (296 for 6 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_mgsqd6.md) 
 
@@ -175,7 +175,7 @@
   - Angel ECM Suite 
   - Improved Sensors 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6480) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6480) 
 - **Battle Value:** 27 (138 for 4 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_sensorsqd4.md) 
 
@@ -192,7 +192,7 @@
   - Angel ECM Suite 
   - Improved Sensors 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8755) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/8755) 
 - **Battle Value:** 27 (186 for 5 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_sensorsqd5.md) 
 
@@ -209,7 +209,7 @@
   - Angel ECM Suite 
   - Improved Sensors 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9118) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/9118) 
 - **Battle Value:** 27 (239 for 6 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_sensorsqd6.md) 
 
@@ -226,7 +226,7 @@
   - Angel ECM Suite 
   - Anti-Personnel Mount 
   - Light TAG 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6479) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6479) 
 - **Battle Value:** 25 (131 for 4 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_tagsqd4.md) 
 
@@ -243,7 +243,7 @@
   - Angel ECM Suite 
   - Anti-Personnel Mount 
   - Clan Light TAG 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8754) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/8754) 
 - **Battle Value:** 25 (176 for 5 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_tagsqd5.md) 
 
@@ -260,7 +260,7 @@
   - Angel ECM Suite 
   - Anti-Personnel Mount 
   - Light TAG 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9117) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/9117) 
 - **Battle Value:** 25 (227 for 6 suits) 
 - [*More Info*](leonidas_battle_armor/leonidas_battle_armor_tagsqd6.md) 
 

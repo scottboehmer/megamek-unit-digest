@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1229) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1229) 
 - **Battle Value:** 1449 
 - [*More Info*](goliath/goliath_gol-1h.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1232) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/1232) 
 - **Battle Value:** 1537 
 - [*More Info*](goliath/goliath_gol-3m.md) 
 
@@ -57,7 +57,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8405) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8405) 
 - **Battle Value:** 1631 
 - [*More Info*](goliath/goliath_gol-3m2.md) 
 
@@ -79,7 +79,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1233) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1233) 
 - **Battle Value:** 1792 
 - [*More Info*](goliath/goliath_gol-3s.md) 
 
@@ -98,7 +98,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1230) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1230) 
 - **Battle Value:** 1583 
 - [*More Info*](goliath/goliath_gol-2h.md) 
 
@@ -119,7 +119,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1234) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1234) 
 - **Battle Value:** 1923 
 - [*More Info*](goliath/goliath_gol-4s.md) 
 
@@ -141,7 +141,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1235) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1235) 
 - **Battle Value:** 1975 
 - [*More Info*](goliath/goliath_gol-5d.md) 
 
@@ -163,7 +163,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1236) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1236) 
 - **Battle Value:** 2006 
 - [*More Info*](goliath/goliath_gol-5w.md) 
 
@@ -186,7 +186,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1237) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1237) 
 - **Battle Value:** 1653 
 - [*More Info*](goliath/goliath_gol-6h.md) 
 
@@ -209,7 +209,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1231) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1231) 
 - **Battle Value:** 1708 
 - [*More Info*](goliath/goliath_gol-3l.md) 
 
@@ -233,7 +233,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1238) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1238) 
 - **Battle Value:** 1742 
 - [*More Info*](goliath/goliath_gol-6m.md) 
 
@@ -254,7 +254,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8406) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8406) 
 - **Battle Value:** 1790 
 - [*More Info*](goliath/goliath_gol-7c.md) 
 
@@ -275,7 +275,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8408) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8408) 
 - **Battle Value:** 1888 
 - [*More Info*](goliath/goliath_gol-7r.md) 
 
@@ -302,7 +302,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7438) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7438) 
 - **Battle Value:** 2222 
 - [*More Info*](goliath/goliath_c.md) 
 
@@ -325,7 +325,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8407) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8407) 
 - **Battle Value:** 1894 
 - [*More Info*](goliath/goliath_gol-7k.md) 
 

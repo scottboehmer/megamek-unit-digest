@@ -14,7 +14,7 @@
   - Ultra AC/10 (ammo: 30) 
   - Medium Laser × 2 
   - Machine Gun × 3 (ammo: 100) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2451) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2451) 
 - **Battle Value:** 1160 
 
 ## Availability 

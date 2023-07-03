@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Quad Turret 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7882) 
+- **Sources:** Operational Turning Points: Hanseatic CrusaDe , [Master Unit List](http://masterunitlist.info/Unit/Details/7882) 
 - **Battle Value:** 1449 
 
 ## Availability 

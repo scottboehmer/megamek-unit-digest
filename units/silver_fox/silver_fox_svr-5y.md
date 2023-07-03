@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2945) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2945) 
 - **Battle Value:** 1316 
 
 ## Availability 

@@ -22,7 +22,7 @@
   - Easy to Pilot 
   - Battlefists 
   - EM Interference (ER Large Laser) 
-- **Sources:** Rec Guide:ilClan #9 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7719) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7719) 
 - **Battle Value:** 2360 
 
 ## Availability 

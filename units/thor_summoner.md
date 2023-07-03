@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3183) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3183) 
 - **Battle Value:** 2298 
 - [*More Info*](summoner/summoner_prime.md) 
 
@@ -40,7 +40,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3174) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3174) 
 - **Battle Value:** 2145 
 - [*More Info*](summoner/summoner_a.md) 
 
@@ -63,7 +63,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3175) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3175) 
 - **Battle Value:** 2159 
 - [*More Info*](summoner/summoner_b.md) 
 
@@ -86,7 +86,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3176) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3176) 
 - **Battle Value:** 2379 
 - [*More Info*](summoner/summoner_c.md) 
 
@@ -110,7 +110,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3177) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3177) 
 - **Battle Value:** 2643 
 - [*More Info*](summoner/summoner_d.md) 
 
@@ -133,7 +133,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3182) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3182) 
 - **Battle Value:** 2251 
 - [*More Info*](summoner/summoner_m.md) 
 
@@ -155,7 +155,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3178) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3178) 
 - **Battle Value:** 2612 
 - [*More Info*](summoner/summoner_e.md) 
 
@@ -177,7 +177,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5490) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5490) 
 - **Battle Value:** 2186 
 - [*More Info*](summoner/summoner_f.md) 
 
@@ -200,7 +200,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3180) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3180) 
 - **Battle Value:** 2536 
 - [*More Info*](summoner/summoner_h.md) 
 
@@ -223,7 +223,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3179) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3179) 
 - **Battle Value:** 2452 
 - [*More Info*](summoner/summoner_g.md) 
 
@@ -247,7 +247,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3184) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/3184) 
 - **Battle Value:** 2479 
 - [*More Info*](summoner/summoner_q.md) 
 
@@ -271,7 +271,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3181) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3181) 
 - **Battle Value:** 2490 
 - [*More Info*](summoner/summoner_hh.md) 
 
@@ -294,7 +294,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5821) 
+- **Sources:** Wars of Reaving , [Master Unit List](http://masterunitlist.info/Unit/Details/5821) 
 - **Battle Value:** 2783 
 - [*More Info*](summoner/summoner_z.md) 
 
@@ -316,7 +316,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3185) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3185) 
 - **Battle Value:** 3092 
 - [*More Info*](summoner/summoner_u.md) 
 
@@ -338,7 +338,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #3- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6876) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/6876) 
 - **Battle Value:** 2216 
 - [*More Info*](summoner/summoner_aa.md) 
 
@@ -360,7 +360,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7490) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7490) 
 - **Battle Value:** 2355 
 - [*More Info*](summoner/summoner_t.md) 
 
@@ -382,7 +382,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7489) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7489) 
 - **Battle Value:** 2666 
 - [*More Info*](summoner/summoner_j.md) 
 

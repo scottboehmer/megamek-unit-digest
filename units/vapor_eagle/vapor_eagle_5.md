@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7710) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7710) 
 - **Battle Value:** 2572 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3164) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3164) 
 - **Battle Value:** 813 
 
 ## Availability 

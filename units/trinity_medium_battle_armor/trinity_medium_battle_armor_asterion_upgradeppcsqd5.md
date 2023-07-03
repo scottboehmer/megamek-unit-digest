@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Support PPC 
   - Clan Machine Gun 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8593) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8593) 
 - **Battle Value:** 55 (387 for 5 suits) 
 
 ## Availability 

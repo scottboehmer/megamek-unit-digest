@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Clan Medium Recoilless Rifle 
   - Clan Machine Gun 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8592) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8592) 
 - **Battle Value:** 63 (441 for 5 suits) 
 
 ## Availability 

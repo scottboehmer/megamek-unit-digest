@@ -12,7 +12,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (5 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2811) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2811) 
 - **Battle Value:** 435 
 - [*More Info*](saxon_apc/saxon_apc.md) 
 
@@ -28,7 +28,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Infantry (5 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2809) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2809) 
 - **Battle Value:** 565 
 - [*More Info*](saxon_apc/saxon_apc_laser.md) 
 
@@ -44,7 +44,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - MASH (1 theaters) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2810) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2810) 
 - **Battle Value:** 436 
 - [*More Info*](saxon_apc/saxon_apc_mash.md) 
 
@@ -61,7 +61,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2808) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2808) 
 - **Battle Value:** 708 
 - [*More Info*](saxon_apc/saxon_apc_hq.md) 
 

@@ -15,7 +15,7 @@
   - ER PPC 
   - Large Pulse Laser × 2 
   - Medium Laser × 3 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4108) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4108) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/808) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/808) 
 - **Battle Value:** 620 
 
 ## Availability 

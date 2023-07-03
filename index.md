@@ -189,6 +189,7 @@
 - [Centipede Scout Car](units/centipede_scout_car.md) 
 - [Centurion](units/centurion.md) 
 - [Centurion Aerospace Fighter](units/centurion_aerospace_fighter.md) 
+- [Centurion MilitiaMech](units/centurion_militiamech.md) 
 - [Centurion OmniMech](units/centurion_omnimech.md) 
 - [Cephalus](units/cephalus.md) 
 - [Cerberus](units/cerberus.md) 

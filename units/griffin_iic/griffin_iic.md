@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #14 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1310) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/1310) 
 - **Battle Value:** 1608 
 
 ## Availability 

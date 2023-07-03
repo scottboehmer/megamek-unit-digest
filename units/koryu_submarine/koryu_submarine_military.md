@@ -14,7 +14,7 @@
   - SRT 2 (OS) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1819) 
+- **Sources:** Historical Turning Points: Glengarry , [Master Unit List](http://masterunitlist.info/Unit/Details/1819) 
 - **Battle Value:** 107 
 
 ## Availability 

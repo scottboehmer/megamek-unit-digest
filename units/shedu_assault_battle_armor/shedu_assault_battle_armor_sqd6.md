@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Heavy Recoilless Rifle 
   - Heavy Machine Gun × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9037) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9037) 
 - **Battle Value:** 72 (651 for 6 suits) 
 
 ## Availability 

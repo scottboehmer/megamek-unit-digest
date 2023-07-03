@@ -19,7 +19,7 @@
   - Bloodhound Active Probe 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6458) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6458) 
 - **Battle Value:** 1858 
 
 ## Availability 

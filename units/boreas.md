@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Tracks 
   - CASE 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7351) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7351) 
 - **Battle Value:** 1583 
 - [*More Info*](boreas/boreas_prime.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - Tracks 
   - CASE 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7352) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7352) 
 - **Battle Value:** 1221 
 - [*More Info*](boreas/boreas_a.md) 
 
@@ -55,7 +55,7 @@
 - **Equipment:** 
   - Tracks 
   - CASE 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7353) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7353) 
 - **Battle Value:** 1331 
 - [*More Info*](boreas/boreas_b.md) 
 
@@ -75,7 +75,7 @@
 - **Equipment:** 
   - Tracks 
   - CASE 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7354) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7354) 
 - **Battle Value:** 1502 
 - [*More Info*](boreas/boreas_c.md) 
 
@@ -93,7 +93,7 @@
   - Heavy Large Laser × 2 
 - **Equipment:** 
   - Tracks 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7355) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7355) 
 - **Battle Value:** 1394 
 - [*More Info*](boreas/boreas_d.md) 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Gauss Rifle × 2 (ammo: 32) 
   - Medium Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/861) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/861) 
 - **Battle Value:** 1529 
 
 ## Availability 

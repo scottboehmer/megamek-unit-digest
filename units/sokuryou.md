@@ -13,7 +13,7 @@
   - Extended Fuel Tank 
   - Communications Equipment 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2982) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2982) 
 - **Battle Value:** 346 
 - [*More Info*](sokuryou/sokuryou_sku-181_surveymech.md) 
 
@@ -30,7 +30,7 @@
   - TAG 
   - Communications Equipment 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2983) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2983) 
 - **Battle Value:** 395 
 - [*More Info*](sokuryou/sokuryou_sku-197_surveymech.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2984) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2984) 
 - **Battle Value:** 581 
 - [*More Info*](sokuryou/sokuryou_sku-198_surveymech.md) 
 

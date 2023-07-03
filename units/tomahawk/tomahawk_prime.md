@@ -19,7 +19,7 @@
   - ECM Suite 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6298) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6298) 
 - **Battle Value:** 3101 
 
 ## Availability 

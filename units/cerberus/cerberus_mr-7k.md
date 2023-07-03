@@ -19,7 +19,7 @@
   - Improved Targeting (Long) 
   - Barrel Fists 
   - Vestigial Hands 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7983) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7983) 
 - **Battle Value:** 2182 
 
 ## Availability 

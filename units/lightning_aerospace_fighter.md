@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 20) 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4512) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4512) 
 - **Battle Value:** Unknown 
 - [*More Info*](lightning_aerospace_fighter/lightning_ltn-g14.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - AC/20 (ammo: 10) 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4513) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4513) 
 - **Battle Value:** Unknown 
 - [*More Info*](lightning_aerospace_fighter/lightning_ltn-g15.md) 
 
@@ -46,7 +46,7 @@
   - Gauss Rifle (ammo: 16) 
   - Medium Pulse Laser × 2 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1878) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1878) 
 - **Battle Value:** Unknown 
 - [*More Info*](lightning_aerospace_fighter/lightning_ltn-g15b.md) 
 
@@ -63,7 +63,7 @@
   - Ultra AC/20 (ammo: 10) 
   - ER Medium Laser × 3 
   - Medium Laser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4515) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4515) 
 - **Battle Value:** Unknown 
 - [*More Info*](lightning_aerospace_fighter/lightning_ltn-g16l.md) 
 
@@ -81,7 +81,7 @@
   - ER Medium Laser × 2 
   - Medium Pulse Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4514) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4514) 
 - **Battle Value:** Unknown 
 - [*More Info*](lightning_aerospace_fighter/lightning_ltn-g16d.md) 
 
@@ -98,7 +98,7 @@
   - LB 20-X AC (ammo: 10 Cluster) 
   - Medium Laser × 2 
   - ER Small Laser × 6 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4516) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4516) 
 - **Battle Value:** Unknown 
 - [*More Info*](lightning_aerospace_fighter/lightning_ltn-g16o.md) 
 
@@ -115,7 +115,7 @@
   - Heavy Gauss Rifle (ammo: 12) 
   - ER Medium Laser × 4 
   - ER Small Laser × 4 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4517) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4517) 
 - **Battle Value:** Unknown 
 - [*More Info*](lightning_aerospace_fighter/lightning_ltn-g16s.md) 
 
@@ -134,7 +134,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4518) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4518) 
 - **Battle Value:** Unknown 
 - [*More Info*](lightning_aerospace_fighter/lightning_ltn-g16t.md) 
 
@@ -151,7 +151,7 @@
   - HVAC/10 (ammo: 16) 
   - ER Medium Laser × 3 
   - ER Small Laser × 2 
-- **Sources:** XTRO Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1879) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/1879) 
 - **Battle Value:** Unknown 
 - [*More Info*](lightning_aerospace_fighter/lightning_ltn-g16-p_branson.md) 
 

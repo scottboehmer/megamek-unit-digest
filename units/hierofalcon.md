@@ -17,7 +17,7 @@
   - Partial Wing 
   - CASE 
   - TAG 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7484) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7484) 
 - **Battle Value:** 1878 
 - [*More Info*](hierofalcon/hierofalcon_prime.md) 
 
@@ -38,7 +38,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7485) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7485) 
 - **Battle Value:** 1953 
 - [*More Info*](hierofalcon/hierofalcon_a.md) 
 
@@ -58,7 +58,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7486) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7486) 
 - **Battle Value:** 1737 
 - [*More Info*](hierofalcon/hierofalcon_b.md) 
 
@@ -77,7 +77,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7487) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7487) 
 - **Battle Value:** 1983 
 - [*More Info*](hierofalcon/hierofalcon_c.md) 
 
@@ -97,7 +97,7 @@
   - Partial Wing 
   - CASE II 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7488) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7488) 
 - **Battle Value:** 2183 
 - [*More Info*](hierofalcon/hierofalcon_d.md) 
 

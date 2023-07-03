@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Poor Life Support 
   - Weak Legs 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7838) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7838) 
 - **Battle Value:** 456 
 
 ## Availability 

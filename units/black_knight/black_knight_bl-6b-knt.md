@@ -19,7 +19,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/357) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/357) 
 - **Battle Value:** 1627 
 
 ## Availability 

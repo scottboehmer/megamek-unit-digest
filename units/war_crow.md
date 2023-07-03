@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7545) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7545) 
 - **Battle Value:** 2649 
 - [*More Info*](war_crow/war_crow_prime.md) 
 
@@ -41,7 +41,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7546) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7546) 
 - **Battle Value:** 3030 
 - [*More Info*](war_crow/war_crow_a.md) 
 
@@ -64,7 +64,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7547) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7547) 
 - **Battle Value:** 2787 
 - [*More Info*](war_crow/war_crow_b.md) 
 
@@ -86,7 +86,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Unbalanced 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7548) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7548) 
 - **Battle Value:** 2572 
 - [*More Info*](war_crow/war_crow_c.md) 
 

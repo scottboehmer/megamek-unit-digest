@@ -23,7 +23,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
-- **Sources:** Rec Guide:ilClan #17 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/760) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/760) 
 - **Battle Value:** 1446 
 
 ## Availability 

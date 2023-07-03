@@ -20,7 +20,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2082) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2082) 
 - **Battle Value:** 2076 
 
 ## Availability 

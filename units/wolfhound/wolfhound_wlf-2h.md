@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5417) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5417) 
 - **Battle Value:** 1511 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Stable 
   - Variable Range Targeting 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6271) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6271) 
 - **Battle Value:** 2729 
 
 ## Availability 

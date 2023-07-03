@@ -17,7 +17,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7431) 
+- **Sources:** Record Sheets: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7431) 
 - **Battle Value:** 1231 
 
 ## Availability 

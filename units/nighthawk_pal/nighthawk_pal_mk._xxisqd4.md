@@ -16,7 +16,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4718) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4718) 
 - **Battle Value:** 10 (55 for 4 suits) 
 
 ## Availability 

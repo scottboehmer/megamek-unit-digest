@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4674) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4674) 
 - **Battle Value:** 1685 
 
 ## Availability 

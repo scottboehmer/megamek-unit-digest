@@ -19,7 +19,7 @@
   - MASC 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1028) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1028) 
 - **Battle Value:** 945 
 
 ## Availability 

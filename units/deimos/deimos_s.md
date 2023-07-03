@@ -23,7 +23,7 @@
   - Liquid Cargo 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/857) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/857) 
 - **Battle Value:** 2664 
 
 ## Availability 

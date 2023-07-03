@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6402) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6402) 
 - **Battle Value:** 2122 
 - [*More Info*](wendigo/wendigo_prime.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6404) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6404) 
 - **Battle Value:** 2072 
 - [*More Info*](wendigo/wendigo_a.md) 
 
@@ -59,7 +59,7 @@
   - ECM Suite 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6405) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6405) 
 - **Battle Value:** 2369 
 - [*More Info*](wendigo/wendigo_b.md) 
 
@@ -82,7 +82,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6406) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6406) 
 - **Battle Value:** 2628 
 - [*More Info*](wendigo/wendigo_c.md) 
 

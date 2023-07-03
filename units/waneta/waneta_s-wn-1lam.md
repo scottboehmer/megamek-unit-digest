@@ -22,7 +22,7 @@
   - Bomb Bay × 4 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** J:FR , [Master Unit List](http://masterunitlist.info/Unit/Details/5380) 
+- **Sources:** Jihad: Final Reckoning , [Master Unit List](http://masterunitlist.info/Unit/Details/5380) 
 - **Battle Value:** 2198 
 
 ## Availability 

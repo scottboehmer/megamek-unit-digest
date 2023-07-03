@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/137) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/137) 
 - **Battle Value:** 1641 
 
 ## Availability 

@@ -74,7 +74,7 @@
 
 #### [Tarantula](../../../units/tarantula.md) 
 
-- [**Tarantula ZPH-1**](../../../units/tarantula/tarantula_zph-1.md) *Undefined (3054)* 
+- [**Tarantula ZPH-1**](../../../units/tarantula/tarantula_zph-1.md) *Scout (3054)* 
 - [**Tarantula ZPH-2A**](../../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 - [**Tarantula ZPH-3A**](../../../units/tarantula/tarantula_zph-3a.md) *Striker (3063)* 
 

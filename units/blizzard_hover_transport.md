@@ -12,7 +12,7 @@
   - LRM 5 (ammo: 24) 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/398) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/398) 
 - **Battle Value:** 277 
 - [*More Info*](blizzard_hover_transport/blizzard_hover_transport.md) 
 
@@ -28,7 +28,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/397) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/397) 
 - **Battle Value:** 264 
 - [*More Info*](blizzard_hover_transport/blizzard_hover_transport_srm.md) 
 
@@ -45,7 +45,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/396) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/396) 
 - **Battle Value:** 464 
 - [*More Info*](blizzard_hover_transport/blizzard_hover_transport_black_blizzard.md) 
 

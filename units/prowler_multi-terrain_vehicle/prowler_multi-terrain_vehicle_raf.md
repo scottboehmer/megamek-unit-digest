@@ -19,7 +19,7 @@
   - C3 Support 
   - Fully Amphibious Chassis 
   - Infantry (4 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2584) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2584) 
 - **Battle Value:** 598 
 
 ## Availability 

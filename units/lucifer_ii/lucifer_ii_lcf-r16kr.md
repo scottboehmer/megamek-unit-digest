@@ -17,7 +17,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Pulse Laser 
   - Small Pulse Laser × 2 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1959) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1959) 
 - **Battle Value:** Unknown 
 
 ## Availability 

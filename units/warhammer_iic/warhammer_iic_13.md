@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Searchlight 
   - Stable 
-- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7498) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7498) 
 - **Battle Value:** 2715 
 
 ## Availability 

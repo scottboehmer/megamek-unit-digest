@@ -13,7 +13,7 @@
 - **Weapons:** 
   - RAC/2 (ammo: 45) 
   - Combine 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7863) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7863) 
 - **Battle Value:** 460 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
   - LRM 10 (ammo: 12) 
   - ER Medium Laser 
-- **Sources:** TRO Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7656) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7656) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 30 (30) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** Rec Guide:ilClan #32 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9480) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9480) 
 - **Battle Value:** 1074 
 
 ## Availability 

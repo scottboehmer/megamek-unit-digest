@@ -12,7 +12,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4252) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/4252) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_armored_glovesqd4.md) 
 
@@ -28,7 +28,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8634) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8634) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_armored_glovesqd5.md) 
 
@@ -44,7 +44,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8998) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8998) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_armored_glovesqd6.md) 
 
@@ -60,7 +60,7 @@
   - Basic Manipulator (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7207) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7207) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_basic_manipulatorsqd4.md) 
 
@@ -76,7 +76,7 @@
   - Basic Manipulator (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8809) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8809) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_basic_manipulatorsqd5.md) 
 
@@ -92,7 +92,7 @@
   - Basic Manipulator (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9172) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9172) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_basic_manipulatorsqd6.md) 
 
@@ -108,7 +108,7 @@
   - Cargo Lifter (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7208) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7208) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_cargo_liftersqd4.md) 
 
@@ -124,7 +124,7 @@
   - Cargo Lifter (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8810) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8810) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_cargo_liftersqd5.md) 
 
@@ -140,7 +140,7 @@
   - Cargo Lifter (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9173) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9173) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_cargo_liftersqd6.md) 
 
@@ -156,7 +156,7 @@
   - Industrial Drill (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7209) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7209) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_industrial_drillsqd4.md) 
 
@@ -172,7 +172,7 @@
   - Industrial Drill (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8811) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8811) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_industrial_drillsqd5.md) 
 
@@ -188,7 +188,7 @@
   - Industrial Drill (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9174) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9174) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_industrial_drillsqd6.md) 
 
@@ -204,7 +204,7 @@
   - Basic Manipulator w/ Mine Clearance (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7210) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7210) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_mine_clearancesqd4.md) 
 
@@ -220,7 +220,7 @@
   - Basic Manipulator w/ Mine Clearance (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8812) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8812) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_mine_clearancesqd5.md) 
 
@@ -236,7 +236,7 @@
   - Basic Manipulator w/ Mine Clearance (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9175) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9175) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_mine_clearancesqd6.md) 
 
@@ -252,7 +252,7 @@
   - Salvage Arm (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7211) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7211) 
 - **Battle Value:** 7 (37 for 4 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_salvage_armsqd4.md) 
 
@@ -268,7 +268,7 @@
   - Salvage Arm (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8813) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8813) 
 - **Battle Value:** 7 (50 for 5 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_salvage_armsqd5.md) 
 
@@ -284,7 +284,7 @@
   - Salvage Arm (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9176) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9176) 
 - **Battle Value:** 7 (65 for 6 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_cex-205_salvage_armsqd6.md) 
 
@@ -300,7 +300,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Clan Myomer Booster × 3 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5791) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5791) 
 - **Battle Value:** 5 (5 for 1 suits) 
 - [*More Info*](groundhog_exoskeleton/groundhog_exoskeleton_master_thiefsqd1.md) 
 

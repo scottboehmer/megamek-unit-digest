@@ -14,7 +14,7 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2539) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2539) 
 - **Battle Value:** 578 
 
 ## Availability 

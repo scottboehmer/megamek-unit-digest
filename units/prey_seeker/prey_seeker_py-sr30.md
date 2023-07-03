@@ -17,7 +17,7 @@
   - Light Machine Gun × 3 (ammo: 100) 
 - **Equipment:** 
   - Machine Gun Array × 2 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8068) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8068) 
 - **Battle Value:** 297 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - AES 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6625) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6625) 
 - **Battle Value:** 2172 
 
 ## Availability 

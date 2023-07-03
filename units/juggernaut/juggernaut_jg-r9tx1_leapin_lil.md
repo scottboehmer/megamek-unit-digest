@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1716) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/1716) 
 - **Battle Value:** 1946 
 
 ## Availability 

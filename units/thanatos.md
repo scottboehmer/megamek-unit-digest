@@ -19,7 +19,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5218) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5218) 
 - **Battle Value:** 1844 
 - [*More Info*](thanatos/thanatos_tns-4s.md) 
 
@@ -41,7 +41,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5700) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5700) 
 - **Battle Value:** 1760 
 - [*More Info*](thanatos/thanatos_tns-4t.md) 
 
@@ -64,7 +64,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3173) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/3173) 
 - **Battle Value:** 2122 
 - [*More Info*](thanatos/thanatos_tns-4s_felix.md) 
 
@@ -87,7 +87,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5701) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5701) 
 - **Battle Value:** 1936 
 - [*More Info*](thanatos/thanatos_tns-6s.md) 
 

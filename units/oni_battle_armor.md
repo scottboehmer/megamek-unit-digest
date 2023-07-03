@@ -15,7 +15,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6368) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6368) 
 - **Battle Value:** 51 (267 for 4 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_bearhuntersqd4.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8740) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/8740) 
 - **Battle Value:** 51 (359 for 5 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_bearhuntersqd5.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9103) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/9103) 
 - **Battle Value:** 51 (462 for 6 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_bearhuntersqd6.md) 
 
@@ -72,7 +72,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6365) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6365) 
 - **Battle Value:** 74 (387 for 4 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_mrrsqd4.md) 
 
@@ -91,7 +91,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8737) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/8737) 
 - **Battle Value:** 74 (521 for 5 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_mrrsqd5.md) 
 
@@ -110,7 +110,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9100) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/9100) 
 - **Battle Value:** 74 (670 for 6 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_mrrsqd6.md) 
 
@@ -129,7 +129,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6367) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6367) 
 - **Battle Value:** 57 (299 for 4 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_narcsqd4.md) 
 
@@ -148,7 +148,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8739) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/8739) 
 - **Battle Value:** 57 (402 for 5 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_narcsqd5.md) 
 
@@ -167,7 +167,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9102) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/9102) 
 - **Battle Value:** 57 (517 for 6 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_narcsqd6.md) 
 
@@ -186,7 +186,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6366) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6366) 
 - **Battle Value:** 67 (347 for 4 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_ppcsqd4.md) 
 
@@ -205,7 +205,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8738) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/8738) 
 - **Battle Value:** 67 (467 for 5 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_ppcsqd5.md) 
 
@@ -224,7 +224,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9101) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/9101) 
 - **Battle Value:** 67 (601 for 6 suits) 
 - [*More Info*](oni_battle_armor/oni_battle_armor_ppcsqd6.md) 
 

@@ -17,7 +17,7 @@
   - Nimble Jumper 
   - Easy to Pilot 
   - Easy to Maintain 
-- **Sources:** HTP Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7316) 
+- **Sources:** Historical Turning Points: Tortuga , [Master Unit List](http://masterunitlist.info/Unit/Details/7316) 
 - **Battle Value:** 739 
 
 ## Availability 

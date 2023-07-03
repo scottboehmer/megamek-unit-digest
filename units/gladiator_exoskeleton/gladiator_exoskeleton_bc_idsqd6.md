@@ -12,7 +12,7 @@
 - **Manipulators:** 
   - Industrial Drill (right) 
   - Battle Claw (left) 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9171) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9171) 
 - **Battle Value:** 7 (59 for 6 suits) 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - EW Equipment 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2662) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2662) 
 - **Battle Value:** 639 
 
 ## Availability 

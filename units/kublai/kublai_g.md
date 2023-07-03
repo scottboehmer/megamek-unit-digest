@@ -16,7 +16,7 @@
   - Inner Sphere MRM 30 w/ Apollo FCS (ammo: 16) 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7669) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7669) 
 - **Battle Value:** Unknown 
 
 ## Availability 

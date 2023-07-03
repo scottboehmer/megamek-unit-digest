@@ -15,6 +15,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - MRM 10 (ammo: 24) 
   - Medium Pulse Laser × 2 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1250 
 
 ## Availability 

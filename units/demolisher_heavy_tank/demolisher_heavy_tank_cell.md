@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9259) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9259) 
 - **Battle Value:** 1585 
 
 ## Availability 

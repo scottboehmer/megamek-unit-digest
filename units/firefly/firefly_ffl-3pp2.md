@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Op. Klondyke - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1084) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1084) 
 - **Battle Value:** 873 
 
 ## Availability 

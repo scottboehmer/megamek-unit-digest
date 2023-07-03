@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Searchlight × 2 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5118) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/5118) 
 - **Battle Value:** 833 
 
 ## Availability 

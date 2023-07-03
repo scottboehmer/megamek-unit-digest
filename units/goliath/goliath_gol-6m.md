@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1238) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1238) 
 - **Battle Value:** 1742 
 
 ## Availability 

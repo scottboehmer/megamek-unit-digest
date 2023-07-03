@@ -12,7 +12,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4940) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4940) 
 - **Battle Value:** 40 (209 for 4 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_sqd4.md) 
 
@@ -28,7 +28,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8664) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8664) 
 - **Battle Value:** 40 (282 for 5 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_sqd5.md) 
 
@@ -44,7 +44,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9028) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9028) 
 - **Battle Value:** 40 (362 for 6 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_sqd6.md) 
 
@@ -60,7 +60,7 @@
   - Flamer 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4939) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4939) 
 - **Battle Value:** 39 (204 for 4 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_close_combatsqd4.md) 
 
@@ -76,7 +76,7 @@
   - Flamer 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8663) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8663) 
 - **Battle Value:** 39 (275 for 5 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_close_combatsqd5.md) 
 
@@ -92,7 +92,7 @@
   - Flamer 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9027) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9027) 
 - **Battle Value:** 39 (353 for 6 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_close_combatsqd6.md) 
 
@@ -107,7 +107,7 @@
   - King David Light Gauss Rifle 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4941) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4941) 
 - **Battle Value:** 35 (181 for 4 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_upgradesqd4.md) 
 
@@ -122,7 +122,7 @@
   - King David Light Gauss Rifle 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8665) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8665) 
 - **Battle Value:** 35 (243 for 5 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_upgradesqd5.md) 
 
@@ -137,7 +137,7 @@
   - King David Light Gauss Rifle 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9029) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9029) 
 - **Battle Value:** 35 (313 for 6 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_upgradesqd6.md) 
 
@@ -150,7 +150,7 @@
 - **Armor:** 9 (Basic Stealth) 
 - **Weapons:** 
   - Firedrake Support Needler × 4 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2744) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2744) 
 - **Battle Value:** 43 (225 for 4 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_firedrakesqd4.md) 
 
@@ -163,7 +163,7 @@
 - **Armor:** 9 (Basic Stealth) 
 - **Weapons:** 
   - Firedrake Support Needler × 4 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8581) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8581) 
 - **Battle Value:** 43 (303 for 5 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_firedrakesqd5.md) 
 
@@ -176,7 +176,7 @@
 - **Armor:** 9 (Basic Stealth) 
 - **Weapons:** 
   - Firedrake Support Needler × 4 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8945) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8945) 
 - **Battle Value:** 43 (389 for 6 suits) 
 - [*More Info*](rottweiler_battle_armor/rottweiler_battle_armor_firedrakesqd6.md) 
 

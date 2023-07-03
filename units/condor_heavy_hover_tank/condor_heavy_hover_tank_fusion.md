@@ -14,7 +14,7 @@
   - AC/10 (ammo: 20) 
   - Medium Laser × 3 
   - Machine Gun (ammo: 200) 
-- **Sources:** Rec Guide:ilClan #26 - Late Succession War - Renaissance , [Master Unit List](http://masterunitlist.info/Unit/Details/9309) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9309) 
 - **Battle Value:** 939 
 
 ## Availability 

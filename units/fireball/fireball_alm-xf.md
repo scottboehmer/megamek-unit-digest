@@ -21,7 +21,7 @@
   - Narrow/Low Profile 
   - Hard to Pilot 
   - Non-Standard Parts 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5781) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5781) 
 - **Battle Value:** 612 
 
 ## Availability 

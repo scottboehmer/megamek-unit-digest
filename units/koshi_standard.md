@@ -15,7 +15,7 @@
   - Active Probe 
   - CASE 
   - Light TAG 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6547) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6547) 
 - **Battle Value:** 760 
 - [*More Info*](koshi_standard/koshi_standard.md) 
 
@@ -33,7 +33,7 @@
 - **Equipment:** 
   - CASE 
   - Light TAG 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6548) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6548) 
 - **Battle Value:** 948 
 - [*More Info*](koshi_standard/koshi_standard_2.md) 
 
@@ -54,7 +54,7 @@
   - Light TAG 
   - Targeting Computer 
   - MASC 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6549) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6549) 
 - **Battle Value:** 777 
 - [*More Info*](koshi_standard/koshi_standard_3.md) 
 

@@ -17,7 +17,7 @@
   - AP Gauss Rifle 
 - **Equipment:** 
   - Inner Sphere Magnetic Clamps 
-- **Sources:** Rec Guide:ilClan #30 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9416) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9416) 
 - **Battle Value:** 90 (809 for 6 suits) 
 
 ## Availability 

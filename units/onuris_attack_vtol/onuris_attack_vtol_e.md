@@ -15,7 +15,7 @@
   - ATM 9 (ammo: 7 ER, 7 HE, 7 Standard) 
 - **Equipment:** 
   - Inner Sphere Jet Booster 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9422) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9422) 
 - **Battle Value:** 1560 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Flamer 
   - Machine Gun × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9031) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9031) 
 - **Battle Value:** 46 (416 for 6 suits) 
 
 ## Availability 

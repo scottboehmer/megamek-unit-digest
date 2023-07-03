@@ -20,7 +20,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #20 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8338) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8338) 
 - **Battle Value:** 2909 
 
 ## Availability 

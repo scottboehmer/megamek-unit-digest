@@ -14,7 +14,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** TRO:IrTech , [Master Unit List](http://masterunitlist.info/Unit/Details/7823) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7823) 
 - **Battle Value:** 367 
 
 ## Availability 

@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #28 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9377) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9377) 
 - **Battle Value:** 3170 
 
 ## Availability 

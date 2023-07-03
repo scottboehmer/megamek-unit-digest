@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 4 (ammo: 25) 
-- **Sources:** Rec Guide:ilClan #27 -  Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5587) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/5587) 
 - **Battle Value:** 684 
 
 ## Availability 

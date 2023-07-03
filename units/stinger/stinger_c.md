@@ -21,7 +21,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8127) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/8127) 
 - **Battle Value:** 592 
 
 ## Availability 

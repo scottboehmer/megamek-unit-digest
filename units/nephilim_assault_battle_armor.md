@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Magshot Gauss Rifle × 2 
   - David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4702) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4702) 
 - **Battle Value:** 81 (424 for 4 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_gausssqd4.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - Magshot Gauss Rifle × 2 
   - David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8646) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8646) 
 - **Battle Value:** 81 (570 for 5 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_gausssqd5.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - Magshot Gauss Rifle × 2 
   - David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9010) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9010) 
 - **Battle Value:** 81 (733 for 6 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_gausssqd6.md) 
 
@@ -60,7 +60,7 @@
 - **Weapons:** 
   - Man-Portable Plasma Rifle 
   - SRM 2 (OS) × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4707) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4707) 
 - **Battle Value:** 70 (366 for 4 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_plasmasqd4.md) 
 
@@ -76,7 +76,7 @@
 - **Weapons:** 
   - Man-Portable Plasma Rifle 
   - SRM 2 (OS) × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8650) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8650) 
 - **Battle Value:** 70 (493 for 5 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_plasmasqd5.md) 
 
@@ -92,7 +92,7 @@
 - **Weapons:** 
   - Man-Portable Plasma Rifle 
   - SRM 2 (OS) × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9014) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9014) 
 - **Battle Value:** 70 (634 for 6 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_plasmasqd6.md) 
 
@@ -111,7 +111,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4704) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4704) 
 - **Battle Value:** 82 (425 for 4 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_seeker_mgsqd4.md) 
 
@@ -130,7 +130,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8648) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8648) 
 - **Battle Value:** 82 (572 for 5 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_seeker_mgsqd5.md) 
 
@@ -149,7 +149,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9012) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9012) 
 - **Battle Value:** 82 (736 for 6 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_seeker_mgsqd6.md) 
 
@@ -166,7 +166,7 @@
   - Detachable Taser 
   - Heavy Machine Gun 
   - LRM 2 (OS) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4700) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4700) 
 - **Battle Value:** 74 (383 for 4 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_capture_teamhmgsqd4.md) 
 
@@ -183,7 +183,7 @@
   - Detachable Taser 
   - Heavy Machine Gun 
   - LRM 2 (OS) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8645) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8645) 
 - **Battle Value:** 74 (516 for 5 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_capture_teamhmgsqd5.md) 
 
@@ -200,7 +200,7 @@
   - Detachable Taser 
   - Heavy Machine Gun 
   - LRM 2 (OS) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9009) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9009) 
 - **Battle Value:** 74 (663 for 6 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_capture_teamhmgsqd6.md) 
 
@@ -217,7 +217,7 @@
   - Compact Narc (ammo: 2) 
   - Detachable Support PPC 
   - Rocket Launcher 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4703) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4703) 
 - **Battle Value:** 79 (410 for 4 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_narcsqd4.md) 
 
@@ -234,7 +234,7 @@
   - Compact Narc (ammo: 2) 
   - Detachable Support PPC 
   - Rocket Launcher 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8647) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8647) 
 - **Battle Value:** 79 (552 for 5 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_narcsqd5.md) 
 
@@ -251,7 +251,7 @@
   - Compact Narc (ammo: 2) 
   - Detachable Support PPC 
   - Rocket Launcher 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9011) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9011) 
 - **Battle Value:** 79 (710 for 6 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_narcsqd6.md) 
 
@@ -267,7 +267,7 @@
 - **Weapons:** 
   - Small Laser 
   - Rocket Launcher 4 × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4706) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4706) 
 - **Battle Value:** 70 (363 for 4 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_supportsqd4.md) 
 
@@ -283,7 +283,7 @@
 - **Weapons:** 
   - Small Laser 
   - Rocket Launcher 4 × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8649) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8649) 
 - **Battle Value:** 70 (488 for 5 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_supportsqd5.md) 
 
@@ -299,7 +299,7 @@
 - **Weapons:** 
   - Small Laser 
   - Rocket Launcher 4 × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9013) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9013) 
 - **Battle Value:** 70 (628 for 6 suits) 
 - [*More Info*](nephilim_assault_battle_armor/nephilim_assault_battle_armor_supportsqd6.md) 
 

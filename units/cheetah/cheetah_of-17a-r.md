@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Hyperspectral Imager 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3946) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3946) 
 - **Battle Value:** Unknown 
 
 ## Availability 

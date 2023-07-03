@@ -17,7 +17,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1005) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1005) 
 - **Battle Value:** 1694 
 
 ## Availability 

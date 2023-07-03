@@ -14,7 +14,7 @@
 - **Weapons:** 
   - RAC/5 × 2 (ammo: 120) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6692) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6692) 
 - **Battle Value:** Unknown 
 
 ## Availability 

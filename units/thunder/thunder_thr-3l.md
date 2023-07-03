@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3216) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3216) 
 - **Battle Value:** 1904 
 
 ## Availability 

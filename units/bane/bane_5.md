@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8242) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8242) 
 - **Battle Value:** 2554 
 
 ## Availability 

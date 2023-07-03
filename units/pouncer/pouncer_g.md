@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** Rec Guide 25 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9261) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9261) 
 - **Battle Value:** 1808 
 
 ## Availability 

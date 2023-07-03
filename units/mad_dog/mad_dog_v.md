@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Rec Guide:ilClan #10 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7729) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7729) 
 - **Battle Value:** 2084 
 
 ## Availability 

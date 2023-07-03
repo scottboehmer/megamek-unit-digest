@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Mech Sprayer 
   - Liquid Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7844) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7844) 
 - **Battle Value:** 352 
 - [*More Info*](gulon/gulon_gln-1a_miningmech.md) 
 
@@ -31,7 +31,7 @@
   - Medium Laser 
   - Small Laser × 3 
   - Mining Drill 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7845) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7845) 
 - **Battle Value:** 410 
 - [*More Info*](gulon/gulon_gln-1b_securitymech.md) 
 
@@ -47,7 +47,7 @@
   - Medium Pulse Laser 
   - Small Pulse Laser × 3 
   - Mining Drill 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7846) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7846) 
 - **Battle Value:** 533 
 - [*More Info*](gulon/gulon_c_solahmamech.md) 
 

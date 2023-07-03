@@ -14,7 +14,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/332) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/332) 
 - **Battle Value:** 1374 
 - [*More Info*](bishamon/bishamon_bsn-3k.md) 
 
@@ -34,7 +34,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/333) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/333) 
 - **Battle Value:** 1105 
 - [*More Info*](bishamon/bishamon_bsn-4k.md) 
 
@@ -55,7 +55,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/334) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/334) 
 - **Battle Value:** 1443 
 - [*More Info*](bishamon/bishamon_bsn-5kc.md) 
 

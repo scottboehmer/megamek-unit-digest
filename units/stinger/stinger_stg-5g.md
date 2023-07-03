@@ -19,7 +19,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3062) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/3062) 
 - **Battle Value:** 614 
 
 ## Availability 

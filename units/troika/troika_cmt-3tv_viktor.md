@@ -15,7 +15,7 @@
   - Clan ER PPC × 2 
   - Clan Streak LRM 20 (ammo: 18) 
   - Clan Medium Pulse Laser × 2 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3310) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/3310) 
 - **Battle Value:** Unknown 
 
 ## Availability 

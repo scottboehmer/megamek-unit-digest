@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #30 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9430) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9430) 
 - **Battle Value:** 1777 
 
 ## Availability 

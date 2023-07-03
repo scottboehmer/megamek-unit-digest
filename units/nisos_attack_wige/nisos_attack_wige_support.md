@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ELRM 10 (ammo: 18) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6439) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6439) 
 - **Battle Value:** 1010 
 
 ## Availability 

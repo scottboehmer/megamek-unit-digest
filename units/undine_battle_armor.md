@@ -15,7 +15,7 @@
   - ER Micro Laser 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3351) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/3351) 
 - **Battle Value:** 39 (203 for 4 suits) 
 - [*More Info*](undine_battle_armor/undine_battle_armor_sqd4.md) 
 
@@ -34,7 +34,7 @@
   - ER Micro Laser 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8596) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8596) 
 - **Battle Value:** 39 (273 for 5 suits) 
 - [*More Info*](undine_battle_armor/undine_battle_armor_sqd5.md) 
 
@@ -53,7 +53,7 @@
   - ER Micro Laser 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8960) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8960) 
 - **Battle Value:** 39 (352 for 6 suits) 
 - [*More Info*](undine_battle_armor/undine_battle_armor_sqd6.md) 
 
@@ -70,7 +70,7 @@
 - **Weapons:** 
   - LRM 3 (ammo: 4) 
   - ER Micro Laser 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3352) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/3352) 
 - **Battle Value:** 65 (336 for 4 suits) 
 - [*More Info*](undine_battle_armor/undine_battle_armor_upgradesqd4.md) 
 
@@ -87,7 +87,7 @@
 - **Weapons:** 
   - LRM 3 (ammo: 4) 
   - ER Micro Laser 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8597) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8597) 
 - **Battle Value:** 65 (452 for 5 suits) 
 - [*More Info*](undine_battle_armor/undine_battle_armor_upgradesqd5.md) 
 
@@ -104,7 +104,7 @@
 - **Weapons:** 
   - LRM 3 (ammo: 4) 
   - ER Micro Laser 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8961) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8961) 
 - **Battle Value:** 65 (581 for 6 suits) 
 - [*More Info*](undine_battle_armor/undine_battle_armor_upgradesqd6.md) 
 
@@ -122,7 +122,7 @@
 - **Weapons:** 
   - ER Micro Laser × 2 
   - SRM 1 (OS) × 2 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8383) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8383) 
 - **Battle Value:** 44 (227 for 4 suits) 
 - [*More Info*](undine_battle_armor/undine_battle_armor_sebastiansqd4.md) 
 

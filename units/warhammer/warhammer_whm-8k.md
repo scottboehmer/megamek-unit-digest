@@ -21,7 +21,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS 3085 PP - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3495) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/3495) 
 - **Battle Value:** 1748 
 
 ## Availability 

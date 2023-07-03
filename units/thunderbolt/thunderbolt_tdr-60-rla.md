@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3243) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3243) 
 - **Battle Value:** 1975 
 
 ## Availability 

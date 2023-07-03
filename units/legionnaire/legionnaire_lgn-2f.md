@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Improved Targeting (Medium) 
   - Exposed Weapon Linkage (RAC/5) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4491) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4491) 
 - **Battle Value:** 1808 
 
 ## Availability 

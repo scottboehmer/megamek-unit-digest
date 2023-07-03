@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7644) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7644) 
 - **Battle Value:** 2230 
 
 ## Availability 

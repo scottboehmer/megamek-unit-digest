@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC × 3 
   - LRM 10 (ammo: 12) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/445) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/445) 
 - **Battle Value:** 815 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1155) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1155) 
 - **Battle Value:** 1248 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Clan Medium Pulse Laser × 4 
   - Clan Small Pulse Laser × 4 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/699) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/699) 
 - **Battle Value:** Unknown 
 
 ## Availability 

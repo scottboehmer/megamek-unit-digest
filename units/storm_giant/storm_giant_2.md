@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5145) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/5145) 
 - **Battle Value:** 2891 
 
 ## Availability 

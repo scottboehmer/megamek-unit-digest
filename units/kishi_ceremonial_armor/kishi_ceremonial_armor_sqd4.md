@@ -16,7 +16,7 @@
   - Heavy Machine Gun 
 - **Equipment:** 
   - Mechanical Jump Booster 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6363) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6363) 
 - **Battle Value:** 38 (197 for 4 suits) 
 
 ## Availability 

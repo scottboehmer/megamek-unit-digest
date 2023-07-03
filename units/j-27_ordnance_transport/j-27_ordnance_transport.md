@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Hitch 
   - Cargo 
-- **Sources:** RS 3039 Unabriged , [Master Unit List](http://masterunitlist.info/Unit/Details/1645) 
+- **Sources:** Record Sheets: 3039 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/1645) 
 - **Battle Value:** 47 
 
 ## Availability 

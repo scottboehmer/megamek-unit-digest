@@ -17,7 +17,7 @@
   - Medium VSP Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5759) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5759) 
 - **Battle Value:** Unknown 
 
 ## Availability 

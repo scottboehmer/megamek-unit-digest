@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1657) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1657) 
 - **Battle Value:** 614 
 
 ## Availability 

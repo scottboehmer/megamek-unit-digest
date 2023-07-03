@@ -14,7 +14,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - Clan AP Gauss Rifle 
-- **Sources:** XTRO ComStar - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8706) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/8706) 
 - **Battle Value:** 41 (285 for 5 suits) 
 
 ## Availability 

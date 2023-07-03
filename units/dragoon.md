@@ -20,7 +20,7 @@
   - Modular Weapon (ER PPC) 
   - Modular Weapon (LB 10-X AC) 
   - Modular Weapon (LB 10-X AC) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6780) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6780) 
 - **Battle Value:** 1669 
 - [*More Info*](dragoon/dragoon_aem-01.md) 
 
@@ -51,7 +51,7 @@
   - Modular Weapon (AC/20) 
   - Modular Weapon (ER PPC) 
   - Modular Weapon (Medium Laser) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6781) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6781) 
 - **Battle Value:** 1691 
 - [*More Info*](dragoon/dragoon_aem-02.md) 
 
@@ -81,7 +81,7 @@
   - Modular Weapon (LRM 15) 
   - Modular Weapon (Medium Pulse Laser) 
   - Modular Weapon (LRM 15) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6782) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6782) 
 - **Battle Value:** 1562 
 - [*More Info*](dragoon/dragoon_aem-03.md) 
 
@@ -111,7 +111,7 @@
   - Modular Weapon (SRM 4) 
   - Modular Weapon (ER PPC) 
   - Modular Weapon (SRM 4) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6783) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6783) 
 - **Battle Value:** 1710 
 - [*More Info*](dragoon/dragoon_aem-04.md) 
 
@@ -139,7 +139,7 @@
   - Modular Weapon (Plasma Rifle) 
   - Modular Weapon (Medium X-Pulse Laser) 
   - Modular Weapon (Medium X-Pulse Laser) 
-- **Sources:** TP Epsilon Eridani - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7399) 
+- **Sources:** Turning Points: Epsilon Eridani , [Master Unit List](http://masterunitlist.info/Unit/Details/7399) 
 - **Battle Value:** 1893 
 - [*More Info*](dragoon/dragoon_aem-05c.md) 
 

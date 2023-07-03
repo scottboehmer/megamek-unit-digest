@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** Shrapnel #12 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9502) 
+- **Sources:** Shrapnel #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/9502) 
 - **Battle Value:** 2730 
 
 ## Availability 

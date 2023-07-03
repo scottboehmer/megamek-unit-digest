@@ -19,7 +19,7 @@
   - Vehicle Flamer × 2 (ammo: 20) 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3623) 
+- **Sources:** XTR: Primitives V , [Master Unit List](http://masterunitlist.info/Unit/Details/3623) 
 - **Battle Value:** 1194 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Cutting Torch × 2 
   - Extended Life Support 
   - Searchlight 
-- **Source:** TRO Golden Century - Early Succession War 
+- **Source:** TRO: Golden Century 
 - **Battle Value:** 20 (142 for 5 suits) 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Small Pulse Laser × 2 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/273) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/273) 
 - **Battle Value:** 1487 
 
 ## Availability 

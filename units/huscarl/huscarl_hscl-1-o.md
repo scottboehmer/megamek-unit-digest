@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
   - LB 10-X AC × 2 (ammo: 40 Cluster) 
   - LRM 10 (ammo: 24) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4345) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4345) 
 - **Battle Value:** Unknown 
 
 ## Availability 

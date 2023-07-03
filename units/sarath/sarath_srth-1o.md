@@ -25,7 +25,7 @@
   - Compact ’Mech 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6506) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6506) 
 - **Battle Value:** 1630 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Large Pulse Laser × 2 
   - Plasma Cannon × 2 (ammo: 30) 
   - Micro Pulse Laser 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7758) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7758) 
 - **Battle Value:** 2320 
 
 ## Availability 

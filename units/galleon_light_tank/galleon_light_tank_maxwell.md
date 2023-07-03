@@ -18,7 +18,7 @@
   - Armored Motive System 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1181) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/1181) 
 - **Battle Value:** 451 
 
 ## Availability 

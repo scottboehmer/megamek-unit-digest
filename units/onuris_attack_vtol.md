@@ -13,7 +13,7 @@
   - SRM 6 × 4 (ammo: 45) 
 - **Equipment:** 
   - Inner Sphere Jet Booster 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9417) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9417) 
 - **Battle Value:** 1436 
 - [*More Info*](onuris_attack_vtol/onuris_attack_vtol_prime.md) 
 
@@ -30,7 +30,7 @@
   - AP Gauss Rifle × 4 (ammo: 40) 
 - **Equipment:** 
   - Inner Sphere Jet Booster 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9418) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9418) 
 - **Battle Value:** 1509 
 - [*More Info*](onuris_attack_vtol/onuris_attack_vtol_a.md) 
 
@@ -46,7 +46,7 @@
   - LRM 20 × 2 (ammo: 24) 
 - **Equipment:** 
   - Inner Sphere Jet Booster 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9419) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9419) 
 - **Battle Value:** 1628 
 - [*More Info*](onuris_attack_vtol/onuris_attack_vtol_b.md) 
 
@@ -62,7 +62,7 @@
   - LB 20-X AC (ammo: 5 Standard, 5 Cluster) 
 - **Equipment:** 
   - Inner Sphere Jet Booster 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9420) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9420) 
 - **Battle Value:** 1016 
 - [*More Info*](onuris_attack_vtol/onuris_attack_vtol_c.md) 
 
@@ -79,7 +79,7 @@
   - Medium Chemical Laser × 5 (ammo: 90) 
 - **Equipment:** 
   - Inner Sphere Jet Booster 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9421) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9421) 
 - **Battle Value:** 1233 
 - [*More Info*](onuris_attack_vtol/onuris_attack_vtol_d.md) 
 
@@ -96,7 +96,7 @@
   - ATM 9 (ammo: 7 ER, 7 HE, 7 Standard) 
 - **Equipment:** 
   - Inner Sphere Jet Booster 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9422) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9422) 
 - **Battle Value:** 1560 
 - [*More Info*](onuris_attack_vtol/onuris_attack_vtol_e.md) 
 

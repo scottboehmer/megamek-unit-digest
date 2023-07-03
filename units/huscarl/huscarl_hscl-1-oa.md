@@ -16,7 +16,7 @@
   - ER PPC × 2 
   - Medium Pulse Laser × 4 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4347) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4347) 
 - **Battle Value:** Unknown 
 
 ## Availability 

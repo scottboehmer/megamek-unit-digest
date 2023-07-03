@@ -14,6 +14,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Infantry (7 tons) 
+- **Source:** Era Digest: Dark Age 
 - **Battle Value:** 431 
 - [*More Info*](mobile_tactical_command_hq/mobile_tactical_command_hq.md) 
 

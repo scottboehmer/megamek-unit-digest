@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
   - Vestigial Hand (Right Arm) 
-- **Sources:** HTP New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6974) 
+- **Sources:** Historical Turning Points: New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6974) 
 - **Battle Value:** 1751 
 
 ## Availability 

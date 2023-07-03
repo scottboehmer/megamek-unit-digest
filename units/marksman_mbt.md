@@ -14,7 +14,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
   - MRM 10 × 2 (ammo: 24) 
   - Machine Gun × 4 (ammo: 100) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2078) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2078) 
 - **Battle Value:** 1474 
 - [*More Info*](marksman_mbt/marksman_mbt_m1.md) 
 
@@ -33,7 +33,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2079) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2079) 
 - **Battle Value:** 1778 
 - [*More Info*](marksman_mbt/marksman_mbt_m1a.md) 
 
@@ -51,7 +51,7 @@
   - SRM 6 × 2 (ammo: 15) 
   - Streak SRM 4 × 2 (ammo: 25) 
   - Machine Gun × 4 (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6806) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6806) 
 - **Battle Value:** 1702 
 - [*More Info*](marksman_mbt/marksman_mbt_m1j.md) 
 

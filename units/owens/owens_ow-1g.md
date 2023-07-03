@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6924) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6924) 
 - **Battle Value:** 1761 
 
 ## Availability 

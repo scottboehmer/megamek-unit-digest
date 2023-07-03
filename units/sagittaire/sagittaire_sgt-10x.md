@@ -19,7 +19,7 @@
   - Improved Targeting (Short) 
   - Difficult to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** 3067 Unabridged - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5718) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5718) 
 - **Battle Value:** 1794 
 
 ## Availability 

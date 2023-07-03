@@ -21,7 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1990) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1990) 
 - **Battle Value:** 1678 
 
 ## Availability 

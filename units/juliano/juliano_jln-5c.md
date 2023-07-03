@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Combat Computer 
-- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8065) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8065) 
 - **Battle Value:** 2473 
 
 ## Availability 

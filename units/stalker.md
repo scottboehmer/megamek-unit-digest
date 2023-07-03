@@ -17,7 +17,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3035) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3035) 
 - **Battle Value:** 1559 
 - [*More Info*](stalker/stalker_stk-3f.md) 
 
@@ -37,7 +37,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3038) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3038) 
 - **Battle Value:** 1624 
 - [*More Info*](stalker/stalker_stk-3h.md) 
 
@@ -60,7 +60,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3037) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3037) 
 - **Battle Value:** 2029 
 - [*More Info*](stalker/stalker_stk-3fb.md) 
 
@@ -81,7 +81,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5870) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5870) 
 - **Battle Value:** 1742 
 - [*More Info*](stalker/stalker_stk-3fk.md) 
 
@@ -102,7 +102,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3039) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3039) 
 - **Battle Value:** 1558 
 - [*More Info*](stalker/stalker_stk-4n.md) 
 
@@ -123,7 +123,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5120) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/5120) 
 - **Battle Value:** 1461 
 - [*More Info*](stalker/stalker_stk-4p.md) 
 
@@ -143,7 +143,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3036) 
+- **Sources:** Historical Turning Points: Misery , [Master Unit List](http://masterunitlist.info/Unit/Details/3036) 
 - **Battle Value:** 1570 
 - [*More Info*](stalker/stalker_stk-3f_jagawen.md) 
 
@@ -165,7 +165,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3040) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3040) 
 - **Battle Value:** 1655 
 - [*More Info*](stalker/stalker_stk-5m.md) 
 
@@ -189,7 +189,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3041) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3041) 
 - **Battle Value:** 1423 
 - [*More Info*](stalker/stalker_stk-5s.md) 
 
@@ -210,7 +210,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5119) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5119) 
 - **Battle Value:** 2635 
 - [*More Info*](stalker/stalker_stk-3f_jamison.md) 
 
@@ -232,7 +232,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5121) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5121) 
 - **Battle Value:** 2029 
 - [*More Info*](stalker/stalker_stk-6m.md) 
 
@@ -256,7 +256,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3043) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3043) 
 - **Battle Value:** 1872 
 - [*More Info*](stalker/stalker_stk-7d.md) 
 
@@ -277,7 +277,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3044) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3044) 
 - **Battle Value:** 2020 
 - [*More Info*](stalker/stalker_stk-8s.md) 
 
@@ -301,7 +301,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3042) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3042) 
 - **Battle Value:** 1712 
 - [*More Info*](stalker/stalker_stk-7c3bs.md) 
 
@@ -326,7 +326,7 @@
   - Combat Computer 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8444) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8444) 
 - **Battle Value:** 2469 
 - [*More Info*](stalker/stalker_stk-9f.md) 
 

@@ -13,7 +13,7 @@
 - **Heat Sinks:** 11 (11) 
 - **Weapons:** 
   - Medium Laser × 3 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5139) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5139) 
 - **Battle Value:** 1073 
 - [*More Info*](stinger_lam/stinger_lam_stg-a5.md) 
 
@@ -31,7 +31,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Small Laser × 4 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5138) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5138) 
 - **Battle Value:** 881 
 - [*More Info*](stinger_lam/stinger_lam_stg-a10.md) 
 

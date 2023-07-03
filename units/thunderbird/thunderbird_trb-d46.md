@@ -15,7 +15,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - ER Large Laser × 3 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5232) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5232) 
 - **Battle Value:** Unknown 
 
 ## Availability 

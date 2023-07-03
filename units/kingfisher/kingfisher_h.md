@@ -17,7 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1785) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1785) 
 - **Battle Value:** 2525 
 
 ## Availability 

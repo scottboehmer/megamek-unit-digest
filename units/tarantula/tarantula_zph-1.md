@@ -4,7 +4,7 @@
 
 ## Tarantula ZPH-1 
 
-- **Role:** Undefined 
+- **Role:** Scout 
 - **Tech Base:** Inner Sphere (3054) 
 - **Chassis:** 25 tons Quad 
 - **Movement:** 8 / 12, XL 
@@ -18,7 +18,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3160) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3160) 
 - **Battle Value:** 666 
 
 ## Availability 

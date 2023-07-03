@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/455) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/455) 
 - **Battle Value:** 1578 
 - [*More Info*](caesar/caesar_ces-3r.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3883) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3883) 
 - **Battle Value:** 2098 
 - [*More Info*](caesar/caesar_ces-3r_archangel.md) 
 
@@ -57,7 +57,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3884) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3884) 
 - **Battle Value:** 1833 
 - [*More Info*](caesar/caesar_ces-3r_gertrude.md) 
 
@@ -78,7 +78,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/458) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/458) 
 - **Battle Value:** 1750 
 - [*More Info*](caesar/caesar_ces-4s.md) 
 
@@ -100,7 +100,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/456) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/456) 
 - **Battle Value:** 1909 
 - [*More Info*](caesar/caesar_ces-3s.md) 
 
@@ -122,7 +122,7 @@
   - CASE 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/457) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/457) 
 - **Battle Value:** 2024 
 - [*More Info*](caesar/caesar_ces-4r.md) 
 
@@ -145,7 +145,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7982) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7982) 
 - **Battle Value:** 3123 
 - [*More Info*](caesar/caesar_ces-5d.md) 
 
@@ -166,7 +166,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** Rec Guide:ilClan #26 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9321) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9321) 
 - **Battle Value:** 2192 
 - [*More Info*](caesar/caesar_ces-5r.md) 
 

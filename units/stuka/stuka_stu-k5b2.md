@@ -15,7 +15,7 @@
   - AC/20 (ammo: 15) 
   - PPC × 4 
   - Medium Laser × 3 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3111) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3111) 
 - **Battle Value:** Unknown 
 
 ## Availability 

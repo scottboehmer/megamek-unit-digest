@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Machine Gun × 2 (ammo: 200) 
-- **Sources:** OP Klondyke - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1179) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1179) 
 - **Battle Value:** 345 
 
 ## Availability 

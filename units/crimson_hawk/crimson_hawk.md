@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/721) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/721) 
 - **Battle Value:** 1285 
 
 ## Availability 

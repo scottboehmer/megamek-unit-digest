@@ -15,7 +15,7 @@
   - Targeting Computer 
   - TAG 
   - Infantry (12.0 tons) 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6440) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6440) 
 - **Battle Value:** 439 
 - [*More Info*](shun_transport_vtol/shun_transport_vtol.md) 
 
@@ -33,7 +33,7 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - Infantry (8.0 tons) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8057) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8057) 
 - **Battle Value:** 693 
 - [*More Info*](shun_transport_vtol/shun_transport_vtol_support.md) 
 

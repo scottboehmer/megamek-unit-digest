@@ -16,7 +16,7 @@
   - SRM 6 (ammo: 15) 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5429) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5429) 
 - **Battle Value:** 1393 
 
 ## Availability 

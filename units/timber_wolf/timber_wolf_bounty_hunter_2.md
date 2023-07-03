@@ -25,7 +25,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5803) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter , [Master Unit List](http://masterunitlist.info/Unit/Details/5803) 
 - **Battle Value:** 2799 
 
 ## Availability 

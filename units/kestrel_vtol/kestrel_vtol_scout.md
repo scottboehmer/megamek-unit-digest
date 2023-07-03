@@ -17,7 +17,7 @@
   - Jet Booster 
   - Remote Sensor Dispenser 
   - Mast Mount 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5775) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5775) 
 - **Battle Value:** 175 
 
 ## Availability 

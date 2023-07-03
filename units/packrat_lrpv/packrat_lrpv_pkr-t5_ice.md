@@ -14,7 +14,7 @@
   - SRM 6 (ammo: 30) 
 - **Equipment:** 
   - Infantry (1 tons) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2400) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2400) 
 - **Battle Value:** 294 
 
 ## Availability 

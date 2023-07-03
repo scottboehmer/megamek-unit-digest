@@ -14,7 +14,7 @@
   - Arrow IV (ammo: 15) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/558) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/558) 
 - **Battle Value:** 812 
 
 ## Availability 

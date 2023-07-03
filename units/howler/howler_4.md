@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #8 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7568) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7568) 
 - **Battle Value:** 506 
 
 ## Availability 

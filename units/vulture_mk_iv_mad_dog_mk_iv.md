@@ -19,7 +19,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6558) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6558) 
 - **Battle Value:** 2110 
 - [*More Info*](mad_dog_mk_iv/mad_dog_mk_iv_prime.md) 
 
@@ -42,7 +42,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6559) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6559) 
 - **Battle Value:** 2177 
 - [*More Info*](mad_dog_mk_iv/mad_dog_mk_iv_a.md) 
 
@@ -65,7 +65,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6560) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6560) 
 - **Battle Value:** 2649 
 - [*More Info*](mad_dog_mk_iv/mad_dog_mk_iv_b.md) 
 
@@ -88,7 +88,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6561) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6561) 
 - **Battle Value:** 2584 
 - [*More Info*](mad_dog_mk_iv/mad_dog_mk_iv_c.md) 
 
@@ -110,7 +110,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6562) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6562) 
 - **Battle Value:** 2346 
 - [*More Info*](mad_dog_mk_iv/mad_dog_mk_iv_d.md) 
 

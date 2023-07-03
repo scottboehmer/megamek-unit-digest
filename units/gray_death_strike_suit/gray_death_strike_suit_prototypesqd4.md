@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Clan Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4236) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/4236) 
 - **Battle Value:** 63 (329 for 4 suits) 
 
 ## Availability 

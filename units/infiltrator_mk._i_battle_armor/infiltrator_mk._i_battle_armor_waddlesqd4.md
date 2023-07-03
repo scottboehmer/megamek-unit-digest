@@ -13,7 +13,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - Heavy Grenade Launcher 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1614) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1614) 
 - **Battle Value:** 19 (98 for 4 suits) 
 
 ## Availability 

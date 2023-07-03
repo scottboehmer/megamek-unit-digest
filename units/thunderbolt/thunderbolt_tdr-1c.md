@@ -21,7 +21,7 @@
   - Multi-Trac 
   - Difficult to Maintain 
   - Poor Workmanship 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5237) 
+- **Sources:** XTR: Primitives III , [Master Unit List](http://masterunitlist.info/Unit/Details/5237) 
 - **Battle Value:** 1237 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2161) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2161) 
 - **Battle Value:** 1529 
 
 ## Availability 

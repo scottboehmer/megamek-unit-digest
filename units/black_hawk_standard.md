@@ -14,7 +14,7 @@
   - Streak SRM 4 × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6554) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6554) 
 - **Battle Value:** 2183 
 - [*More Info*](black_hawk_standard/black_hawk_standard.md) 
 
@@ -32,7 +32,7 @@
   - ATM 6 × 2 (ammo: 10 ER, 20 Standard, 10 HE) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6555) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6555) 
 - **Battle Value:** 2161 
 - [*More Info*](black_hawk_standard/black_hawk_standard_2.md) 
 
@@ -48,7 +48,7 @@
 - **Weapons:** 
   - ER Large Laser × 2 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6556) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6556) 
 - **Battle Value:** 2317 
 - [*More Info*](black_hawk_standard/black_hawk_standard_3.md) 
 

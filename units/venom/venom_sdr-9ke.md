@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Nimble Jumper 
   - Difficult Ejection 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8007) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8007) 
 - **Battle Value:** 803 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/32) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/32) 
 - **Battle Value:** 46 (238 for 4 suits) 
 - [*More Info*](angerona_scout_suit/angerona_scout_suit_sqd4.md) 
 
@@ -34,7 +34,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8480) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8480) 
 - **Battle Value:** 46 (320 for 5 suits) 
 - [*More Info*](angerona_scout_suit/angerona_scout_suit_sqd5.md) 
 
@@ -53,7 +53,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8845) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8845) 
 - **Battle Value:** 46 (411 for 6 suits) 
 - [*More Info*](angerona_scout_suit/angerona_scout_suit_sqd6.md) 
 
@@ -73,7 +73,7 @@
   - Improved Sensors 
   - Camo System 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/31) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/31) 
 - **Battle Value:** 33 (170 for 4 suits) 
 - [*More Info*](angerona_scout_suit/angerona_scout_suit_reconsqd4.md) 
 
@@ -93,7 +93,7 @@
   - Improved Sensors 
   - Camo System 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8479) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8479) 
 - **Battle Value:** 33 (229 for 5 suits) 
 - [*More Info*](angerona_scout_suit/angerona_scout_suit_reconsqd5.md) 
 
@@ -113,7 +113,7 @@
   - Improved Sensors 
   - Camo System 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8844) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8844) 
 - **Battle Value:** 33 (295 for 6 suits) 
 - [*More Info*](angerona_scout_suit/angerona_scout_suit_reconsqd6.md) 
 

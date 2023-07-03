@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Laser × 3 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4110) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4110) 
 - **Battle Value:** Unknown 
 
 ## Availability 

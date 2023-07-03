@@ -19,7 +19,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3252) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3252) 
 - **Battle Value:** 1989 
 
 ## Availability 

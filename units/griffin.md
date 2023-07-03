@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Poor Sealing 
   - Improved Cooling Jacket (Primitive PPC) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7185) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/7185) 
 - **Battle Value:** 1024 
 - [*More Info*](griffin/griffin_grf-1a.md) 
 
@@ -37,7 +37,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (PPC) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1297) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1297) 
 - **Battle Value:** 1272 
 - [*More Info*](griffin/griffin_grf-1n.md) 
 
@@ -59,7 +59,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Large Laser) 
-- **Sources:** Rec Guide:ilClan #1 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9402) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/9402) 
 - **Battle Value:** 1141 
 - [*More Info*](griffin/griffin_grf-1rg.md) 
 
@@ -83,7 +83,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (PPC) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6767) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/6767) 
 - **Battle Value:** 1513 
 - [*More Info*](griffin/griffin_grf-2n2.md) 
 
@@ -107,7 +107,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1299) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1299) 
 - **Battle Value:** 1606 
 - [*More Info*](griffin/griffin_grf-2n.md) 
 
@@ -129,7 +129,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Large Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1298) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1298) 
 - **Battle Value:** 1253 
 - [*More Info*](griffin/griffin_grf-1s.md) 
 
@@ -150,7 +150,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (PPC) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1295) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1295) 
 - **Battle Value:** 1449 
 - [*More Info*](griffin/griffin_grf-1e_sparky.md) 
 
@@ -175,7 +175,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #1 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9401) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/9401) 
 - **Battle Value:** 1213 
 - [*More Info*](griffin/griffin_grf-3rg.md) 
 
@@ -198,7 +198,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1294) 
 - **Battle Value:** 1285 
 - [*More Info*](griffin/griffin_grf-1ds.md) 
 
@@ -222,7 +222,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1300) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1300) 
 - **Battle Value:** 1521 
 - [*More Info*](griffin/griffin_grf-3m.md) 
 
@@ -247,7 +247,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Light Gauss Rifle) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1305) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1305) 
 - **Battle Value:** 1224 
 - [*More Info*](griffin/griffin_grf-5m.md) 
 
@@ -272,7 +272,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1307) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1307) 
 - **Battle Value:** 1781 
 - [*More Info*](griffin/griffin_grf-6s.md) 
 
@@ -299,7 +299,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1306) 
 - **Battle Value:** 1695 
 - [*More Info*](griffin/griffin_grf-6cs.md) 
 
@@ -323,7 +323,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Plasma Rifle) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1304) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1304) 
 - **Battle Value:** 1742 
 - [*More Info*](griffin/griffin_grf-5l.md) 
 
@@ -348,7 +348,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Snub-Nose PPC) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1309) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/1309) 
 - **Battle Value:** 1778 
 - [*More Info*](griffin/griffin_grf-6s_francine.md) 
 
@@ -374,7 +374,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (LRM 10) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1303) 
 - **Battle Value:** 1390 
 - [*More Info*](griffin/griffin_grf-5k.md) 
 
@@ -399,7 +399,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Snub-Nose PPC) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1308) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/1308) 
 - **Battle Value:** 2249 
 - [*More Info*](griffin/griffin_grf-6s_francine_ii.md) 
 
@@ -423,7 +423,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296) 
+- **Sources:** Jihad Turning Points: New Avalon , [Master Unit List](http://masterunitlist.info/Unit/Details/1296) 
 - **Battle Value:** 1862 
 - [*More Info*](griffin/griffin_grf-1e2_sparky_2.0.md) 
 
@@ -445,7 +445,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Snub-Nose PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1302) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1302) 
 - **Battle Value:** 1412 
 - [*More Info*](griffin/griffin_grf-4r.md) 
 
@@ -467,7 +467,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Plasma Rifle) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1301) 
 - **Battle Value:** 1591 
 - [*More Info*](griffin/griffin_grf-4n.md) 
 
@@ -492,7 +492,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (RAC/2) 
-- **Sources:** Rec Guide:ilClan #1 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9403) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/9403) 
 - **Battle Value:** 1515 
 - [*More Info*](griffin/griffin_grf-6r.md) 
 
@@ -515,7 +515,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7436) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7436) 
 - **Battle Value:** 1560 
 - [*More Info*](griffin/griffin_grf-3n.md) 
 
@@ -542,7 +542,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6899) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6899) 
 - **Battle Value:** 1870 
 - [*More Info*](griffin/griffin_grf-6s2.md) 
 
@@ -560,7 +560,7 @@
   - Streak LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7437) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7437) 
 - **Battle Value:** 2131 
 - [*More Info*](griffin/griffin_c.md) 
 

@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Support 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3688) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3688) 
 - **Battle Value:** 2042 
 
 ## Availability 

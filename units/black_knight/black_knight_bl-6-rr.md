@@ -19,7 +19,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3826) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3826) 
 - **Battle Value:** 1954 
 
 ## Availability 

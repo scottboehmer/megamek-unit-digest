@@ -19,6 +19,7 @@
   - SRM 2 (ammo: 50) 
   - Small Laser 
   - Machine Gun (ammo: 200) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1636 
 
 ## Availability 

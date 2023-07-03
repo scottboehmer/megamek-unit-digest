@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - C3i 
-- **Sources:** TRO3058U - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1178) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1178) 
 - **Battle Value:** 707 
 
 ## Availability 

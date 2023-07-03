@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2177) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2177) 
 - **Battle Value:** 1217 
 - [*More Info*](merlin/merlin_mln-1a.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2178) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2178) 
 - **Battle Value:** 1228 
 - [*More Info*](merlin/merlin_mln-1b.md) 
 
@@ -59,7 +59,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** RS:Unique Mechs-Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2179) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/2179) 
 - **Battle Value:** 1233 
 - [*More Info*](merlin/merlin_mln-1b_porter.md) 
 
@@ -80,7 +80,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2180) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2180) 
 - **Battle Value:** 1267 
 - [*More Info*](merlin/merlin_mln-1c.md) 
 
@@ -99,7 +99,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** XTRO Boondocks - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2181) 
+- **Sources:** XTR: Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/2181) 
 - **Battle Value:** 1121 
 - [*More Info*](merlin/merlin_mln-sx.md) 
 
@@ -123,7 +123,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #26 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9316) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9316) 
 - **Battle Value:** 1370 
 - [*More Info*](merlin/merlin_mln-1d.md) 
 
@@ -147,7 +147,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9319) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9319) 
 - **Battle Value:** 1870 
 - [*More Info*](merlin/merlin_c.md) 
 
@@ -170,7 +170,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #26 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9316) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9316) 
 - **Battle Value:** 1369 
 - [*More Info*](merlin/merlin_mln-1e.md) 
 
@@ -191,7 +191,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #26 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9318) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9318) 
 - **Battle Value:** 1182 
 - [*More Info*](merlin/merlin_mln-1p.md) 
 

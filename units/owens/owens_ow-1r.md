@@ -19,7 +19,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2391) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2391) 
 - **Battle Value:** 1215 
 
 ## Availability 

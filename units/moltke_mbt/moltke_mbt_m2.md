@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - MML 7 × 5 (ammo: 51 LRM, 42 SRM) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2206) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2206) 
 - **Battle Value:** 1363 
 
 ## Availability 

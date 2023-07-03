@@ -17,7 +17,7 @@
   - Armored Motive System 
   - CASE 
   - Infantry (10.0 tons) 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/3685) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3685) 
 - **Battle Value:** 1500 
 
 ## Availability 

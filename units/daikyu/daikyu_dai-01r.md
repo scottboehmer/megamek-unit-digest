@@ -20,7 +20,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/799) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/799) 
 - **Battle Value:** 1513 
 
 ## Availability 

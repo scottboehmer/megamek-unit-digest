@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Laser × 3 
   - Small Laser 
-- **Sources:** TRO 3050u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5277) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5277) 
 - **Battle Value:** Unknown 
 
 ## Availability 

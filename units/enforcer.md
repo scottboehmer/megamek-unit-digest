@@ -18,7 +18,7 @@
   - Ammunition Feed Problem (AC/10) 
   - Fast Reload (AC/10) 
   - Improved Cooling Jacket (AC/10) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/976) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/976) 
 - **Battle Value:** 1032 
 - [*More Info*](enforcer/enforcer_enf-4r.md) 
 
@@ -39,7 +39,7 @@
   - Barrel Fists 
   - Ammunition Feed Problem (Prototype Gauss Rifle) 
   - Fast Reload (Prototype Gauss Rifle) 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/977) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/977) 
 - **Battle Value:** 1247 
 - [*More Info*](enforcer/enforcer_enf-4r_daniel.md) 
 
@@ -63,7 +63,7 @@
   - Ammunition Feed Problem (LB 10-X AC) 
   - Fast Reload (LB 10-X AC) 
   - Improved Cooling Jacket (LB 10-X AC) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/978) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/978) 
 - **Battle Value:** 1308 
 - [*More Info*](enforcer/enforcer_enf-5d.md) 
 
@@ -86,7 +86,7 @@
   - Barrel Fists 
   - Ammunition Feed Problem (Gauss Rifle) 
   - Fast Reload (Gauss Rifle) 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/979) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/979) 
 - **Battle Value:** 1738 
 - [*More Info*](enforcer/enforcer_enf-5d_daniel.md) 
 
@@ -105,7 +105,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #18 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8249) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/8249) 
 - **Battle Value:** 1192 
 - [*More Info*](enforcer/enforcer_enf-5r.md) 
 

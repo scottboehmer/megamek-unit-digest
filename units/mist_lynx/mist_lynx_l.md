@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #7 - , [Master Unit List](http://masterunitlist.info/Unit/Details/7560) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7560) 
 - **Battle Value:** 901 
 
 ## Availability 

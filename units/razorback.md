@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4904) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4904) 
 - **Battle Value:** 855 
 - [*More Info*](razorback/razorback_rzk-9s.md) 
 
@@ -35,7 +35,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4905) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4905) 
 - **Battle Value:** 1149 
 - [*More Info*](razorback/razorback_rzk-9t.md) 
 
@@ -53,7 +53,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5662) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5662) 
 - **Battle Value:** 1172 
 - [*More Info*](razorback/razorback_rzk-10t.md) 
 
@@ -77,7 +77,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5661) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5661) 
 - **Battle Value:** 821 
 - [*More Info*](razorback/razorback_rzk-10s.md) 
 

@@ -28,7 +28,7 @@
   - Cramped Cockpit 
   - Ubiquitous 
   - Jettison-Capable Weapon (Light PPC) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3584) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3584) 
 - **Battle Value:** 1463 
 
 ## Availability 

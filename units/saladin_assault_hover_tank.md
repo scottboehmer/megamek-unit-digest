@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/20 (ammo: 15) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2780) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2780) 
 - **Battle Value:** 596 
 - [*More Info*](saladin_assault_hover_tank/saladin_assault_hover_tank.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/20 (ammo: 10) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2777) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2777) 
 - **Battle Value:** 594 
 - [*More Info*](saladin_assault_hover_tank/saladin_assault_hover_tank_armor.md) 
 
@@ -38,7 +38,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Cargo × 17 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2778) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2778) 
 - **Battle Value:** 150 
 - [*More Info*](saladin_assault_hover_tank/saladin_assault_hover_tank_clan_cargo.md) 
 
@@ -52,7 +52,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - LB 20-X AC (ammo: 10 Standard, 5 Cluster) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2779) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2779) 
 - **Battle Value:** 760 
 - [*More Info*](saladin_assault_hover_tank/saladin_assault_hover_tank_lb-x.md) 
 
@@ -66,7 +66,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 10) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2781) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2781) 
 - **Battle Value:** 806 
 - [*More Info*](saladin_assault_hover_tank/saladin_assault_hover_tank_ultra.md) 
 
@@ -83,7 +83,7 @@
   - Snub-Nose PPC 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5567) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5567) 
 - **Battle Value:** 837 
 - [*More Info*](saladin_assault_hover_tank/saladin_assault_hover_tank_ifrit.md) 
 

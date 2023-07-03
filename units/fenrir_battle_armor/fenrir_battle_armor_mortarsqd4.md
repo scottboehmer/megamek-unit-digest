@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Heavy Mortar 
   - Machine Gun 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1040) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1040) 
 - **Battle Value:** 36 (185 for 4 suits) 
 
 ## Availability 

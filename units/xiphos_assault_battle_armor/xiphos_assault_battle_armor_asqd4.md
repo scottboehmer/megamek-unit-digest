@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Magshot Gauss Rifle 
   - Light Recoilless Rifle 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6484) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6484) 
 - **Battle Value:** 76 (397 for 4 suits) 
 
 ## Availability 

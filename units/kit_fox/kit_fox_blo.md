@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** SO: Unending Faith - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7632) 
+- **Sources:** Spotlight On: Unending Faith , [Master Unit List](http://masterunitlist.info/Unit/Details/7632) 
 - **Battle Value:** 988 
 
 ## Availability 

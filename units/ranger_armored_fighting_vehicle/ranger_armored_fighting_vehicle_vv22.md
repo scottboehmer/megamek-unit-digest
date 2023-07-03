@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Small Laser × 2 
   - MagShot Gauss Rifle × 8 (ammo: 150) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2641) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2641) 
 - **Battle Value:** 786 
 
 ## Availability 

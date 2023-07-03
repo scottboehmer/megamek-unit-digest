@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1460) 
+- **Sources:** XTR: Primitives I , [Master Unit List](http://masterunitlist.info/Unit/Details/1460) 
 - **Battle Value:** 1063 
 - [*More Info*](helepolis/helepolis_hep-1h.md) 
 
@@ -40,7 +40,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8471) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8471) 
 - **Battle Value:** 1340 
 - [*More Info*](helepolis/helepolis_hep-2x.md) 
 
@@ -63,7 +63,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1461) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1461) 
 - **Battle Value:** 1369 
 - [*More Info*](helepolis/helepolis_hep-2h.md) 
 
@@ -86,7 +86,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1462) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1462) 
 - **Battle Value:** 1380 
 - [*More Info*](helepolis/helepolis_hep-3h.md) 
 
@@ -109,7 +109,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1463) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1463) 
 - **Battle Value:** 1366 
 - [*More Info*](helepolis/helepolis_hep-4h.md) 
 

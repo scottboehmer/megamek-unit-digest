@@ -16,7 +16,7 @@
   - Communications Equipment 
   - Searchlight 
   - Ejection Seat 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4364) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/4364) 
 - **Battle Value:** 613 
 - [*More Info*](inquisitor/inquisitor_itw-80_securitymech.md) 
 
@@ -37,7 +37,7 @@
   - CASE II 
   - Searchlight 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7825) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7825) 
 - **Battle Value:** 664 
 - [*More Info*](inquisitor/inquisitor_itw-85_securitymech.md) 
 

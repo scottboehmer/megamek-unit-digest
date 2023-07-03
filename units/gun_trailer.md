@@ -12,7 +12,7 @@
   - Rocket 15 × 6 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6528) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6528) 
 - **Battle Value:** 108 
 - [*More Info*](gun_trailer/gun_trailer_ambush.md) 
 
@@ -31,7 +31,7 @@
 - **Equipment:** 
   - Hitch 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6527) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6527) 
 - **Battle Value:** 221 
 - [*More Info*](gun_trailer/gun_trailer_stronghold.md) 
 
@@ -45,7 +45,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - 'Mech Mortar/2 × 3 (ammo: 0) 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6530) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6530) 
 - **Battle Value:** 146 
 - [*More Info*](gun_trailer/gun_trailer_siege.md) 
 
@@ -61,7 +61,7 @@
   - LRM 10 × 3 (ammo: 72) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6532) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6532) 
 - **Battle Value:** 276 
 - [*More Info*](gun_trailer/gun_trailer_lrm.md) 
 
@@ -77,7 +77,7 @@
   - Arrow IV (ammo: 30) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6529) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6529) 
 - **Battle Value:** 313 
 - [*More Info*](gun_trailer/gun_trailer_artillery_aa.md) 
 
@@ -93,7 +93,7 @@
   - Thumper (ammo: 120) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6533) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6533) 
 - **Battle Value:** 160 
 - [*More Info*](gun_trailer/gun_trailer_thumper.md) 
 
@@ -109,7 +109,7 @@
   - Ultra AC/20 (ammo: 30) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6535) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6535) 
 - **Battle Value:** 344 
 - [*More Info*](gun_trailer/gun_trailer_ultra.md) 
 
@@ -125,7 +125,7 @@
   - Thunderbolt 20 (ammo: 18) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6531) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6531) 
 - **Battle Value:** 362 
 - [*More Info*](gun_trailer/gun_trailer_thunderbolt.md) 
 
@@ -141,7 +141,7 @@
   - Sniper Cannon (ammo: 60) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6534) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6534) 
 - **Battle Value:** 188 
 - [*More Info*](gun_trailer/gun_trailer_sniper_cannon.md) 
 
@@ -159,7 +159,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6536) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6536) 
 - **Battle Value:** 320 
 - [*More Info*](gun_trailer/gun_trailer_mjolnir.md) 
 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Support 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/899) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/899) 
 - **Battle Value:** 1869 
 
 ## Availability 

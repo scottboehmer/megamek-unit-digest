@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3554) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3554) 
 - **Battle Value:** 1070 
 - [*More Info*](wolf_trap/wolf_trap_wft-1.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3555) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/3555) 
 - **Battle Value:** 1290 
 - [*More Info*](wolf_trap/wolf_trap_wft-1_daitama.md) 
 
@@ -59,7 +59,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3559) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3559) 
 - **Battle Value:** 1001 
 - [*More Info*](wolf_trap/wolf_trap_wft-c.md) 
 
@@ -80,7 +80,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3558) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3558) 
 - **Battle Value:** 1021 
 - [*More Info*](wolf_trap/wolf_trap_wft-b.md) 
 
@@ -102,7 +102,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3556) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3556) 
 - **Battle Value:** 1212 
 - [*More Info*](wolf_trap/wolf_trap_wft-2.md) 
 
@@ -119,7 +119,7 @@
   - Medium X-Pulse Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3557) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/3557) 
 - **Battle Value:** 1211 
 - [*More Info*](wolf_trap/wolf_trap_wft-2x.md) 
 

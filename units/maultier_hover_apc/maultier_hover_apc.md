@@ -14,7 +14,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2109) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2109) 
 - **Battle Value:** 209 
 
 ## Availability 

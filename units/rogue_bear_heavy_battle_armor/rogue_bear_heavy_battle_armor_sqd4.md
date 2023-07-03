@@ -16,7 +16,7 @@
 - **Weapons:** 
   - SRM 3 (ammo: 4) 
   - Machine Gun × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4931) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4931) 
 - **Battle Value:** 67 (346 for 4 suits) 
 
 ## Availability 

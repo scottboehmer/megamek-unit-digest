@@ -19,7 +19,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6416) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6416) 
 - **Battle Value:** 2016 
 
 ## Availability 

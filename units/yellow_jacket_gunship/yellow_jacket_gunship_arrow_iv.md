@@ -14,7 +14,7 @@
   - Arrow IV (ammo: 10) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3614) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3614) 
 - **Battle Value:** 612 
 
 ## Availability 

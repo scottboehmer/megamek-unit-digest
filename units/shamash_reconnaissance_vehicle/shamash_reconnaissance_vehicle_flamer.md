@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Flamer × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2919) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2919) 
 - **Battle Value:** 228 
 
 ## Availability 

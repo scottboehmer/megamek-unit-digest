@@ -21,7 +21,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2703) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2703) 
 - **Battle Value:** 1521 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - Protected Actuators 
   - Cramped Cockpit 
   - Prototype 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5330) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/5330) 
 - **Battle Value:** 1194 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Mine Dispenser 
   - Magnetic Clamps 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8026) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8026) 
 - **Battle Value:** 45 (235 for 4 suits) 
 
 ## Availability 

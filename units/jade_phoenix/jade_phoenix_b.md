@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE 
-- **Sources:** Rec Guide:ilClan #22 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8295) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8295) 
 - **Battle Value:** 2998 
 
 ## Availability 

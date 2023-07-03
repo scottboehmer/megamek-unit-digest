@@ -17,7 +17,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1901) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1901) 
 - **Battle Value:** 432 
 - [*More Info*](locust/locust_lct-1v.md) 
 
@@ -38,7 +38,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1900) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1900) 
 - **Battle Value:** 440 
 - [*More Info*](locust/locust_lct-1s.md) 
 
@@ -59,7 +59,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1899) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1899) 
 - **Battle Value:** 424 
 - [*More Info*](locust/locust_lct-1m.md) 
 
@@ -81,7 +81,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1903) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/1903) 
 - **Battle Value:** 642 
 - [*More Info*](locust/locust_lct-1vb.md) 
 
@@ -102,7 +102,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1897) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1897) 
 - **Battle Value:** 553 
 - [*More Info*](locust/locust_lct-1e.md) 
 
@@ -123,7 +123,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7601) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/7601) 
 - **Battle Value:** 672 
 - [*More Info*](locust/locust_c.md) 
 
@@ -144,7 +144,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1907) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1907) 
 - **Battle Value:** 490 
 - [*More Info*](locust/locust_lct-3v.md) 
 
@@ -166,7 +166,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1898) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1898) 
 - **Battle Value:** 474 
 - [*More Info*](locust/locust_lct-1l.md) 
 
@@ -188,7 +188,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1904) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/1904) 
 - **Battle Value:** 436 
 - [*More Info*](locust/locust_lct-3d.md) 
 
@@ -211,7 +211,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1906) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/1906) 
 - **Battle Value:** 483 
 - [*More Info*](locust/locust_lct-3s.md) 
 
@@ -235,7 +235,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1905) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/1905) 
 - **Battle Value:** 522 
 - [*More Info*](locust/locust_lct-3m.md) 
 
@@ -256,7 +256,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1902) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1902) 
 - **Battle Value:** 568 
 - [*More Info*](locust/locust_lct-1v2.md) 
 
@@ -277,7 +277,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1908) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1908) 
 - **Battle Value:** 719 
 - [*More Info*](locust/locust_lct-5m.md) 
 
@@ -298,7 +298,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1910) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1910) 
 - **Battle Value:** 665 
 - [*More Info*](locust/locust_lct-5v.md) 
 
@@ -322,7 +322,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1909) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1909) 
 - **Battle Value:** 482 
 - [*More Info*](locust/locust_lct-5t.md) 
 
@@ -347,7 +347,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1913) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1913) 
 - **Battle Value:** 956 
 - [*More Info*](locust/locust_lct-6m.md) 
 
@@ -370,7 +370,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8199) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8199) 
 - **Battle Value:** 509 
 - [*More Info*](locust/locust_lct-5s.md) 
 
@@ -394,7 +394,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1911) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1911) 
 - **Battle Value:** 695 
 - [*More Info*](locust/locust_lct-5w.md) 
 
@@ -419,7 +419,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1912) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1912) 
 - **Battle Value:** 787 
 - [*More Info*](locust/locust_lct-5w2.md) 
 
@@ -440,7 +440,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6947) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6947) 
 - **Battle Value:** 693 
 - [*More Info*](locust/locust_lct-5m2.md) 
 
@@ -461,7 +461,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6948) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6948) 
 - **Battle Value:** 929 
 - [*More Info*](locust/locust_lct-5m3.md) 
 
@@ -482,7 +482,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8201) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8201) 
 - **Battle Value:** 585 
 - [*More Info*](locust/locust_lct-7v.md) 
 
@@ -503,7 +503,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8202) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8202) 
 - **Battle Value:** 634 
 - [*More Info*](locust/locust_lct-7v2.md) 
 
@@ -526,7 +526,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8200) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8200) 
 - **Battle Value:** 706 
 - [*More Info*](locust/locust_lct-7s.md) 
 

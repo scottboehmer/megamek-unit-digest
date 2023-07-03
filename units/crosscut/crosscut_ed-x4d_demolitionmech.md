@@ -15,7 +15,7 @@
   - Dual Saw 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS IA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4025) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4025) 
 - **Battle Value:** 225 
 
 ## Availability 

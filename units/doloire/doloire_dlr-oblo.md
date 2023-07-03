@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Command ’Mech 
-- **Sources:** SO: Unending Faith - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7636) 
+- **Sources:** Spotlight On: Unending Faith , [Master Unit List](http://masterunitlist.info/Unit/Details/7636) 
 - **Battle Value:** 2441 
 
 ## Availability 

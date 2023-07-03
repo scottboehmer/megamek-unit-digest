@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Barrel Fists 
   - Fast Reload (AC/10) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/983) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/983) 
 - **Battle Value:** 1275 
 
 ## Availability 

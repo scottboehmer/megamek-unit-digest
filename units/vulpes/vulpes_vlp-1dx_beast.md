@@ -19,7 +19,7 @@
   - Advanced Point Defense System (ammo: 12) 
   - Clan Talons 
   - Drone Operating System 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8382) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/8382) 
 - **Battle Value:** 1288 
 
 ## Availability 

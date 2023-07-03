@@ -19,7 +19,7 @@
   - Remote Sensor Dispenser 
 - **Design Quirks:** 
   - Improved Cooling Jacket (ER PPC) 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6455) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6455) 
 - **Battle Value:** 1401 
 
 ## Availability 

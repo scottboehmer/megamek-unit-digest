@@ -14,7 +14,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Heavy Machine Gun 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9150) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9150) 
 - **Battle Value:** 51 (463 for 6 suits) 
 
 ## Availability 

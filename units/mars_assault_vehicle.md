@@ -18,7 +18,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2082) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2082) 
 - **Battle Value:** 2076 
 - [*More Info*](mars_assault_vehicle/mars_assault_vehicle.md) 
 
@@ -39,7 +39,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2083) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2083) 
 - **Battle Value:** 2520 
 - [*More Info*](mars_assault_vehicle/mars_assault_vehicle_xl.md) 
 
@@ -60,7 +60,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2080) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2080) 
 - **Battle Value:** 1948 
 - [*More Info*](mars_assault_vehicle/mars_assault_vehicle_atm.md) 
 
@@ -81,7 +81,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2081) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2081) 
 - **Battle Value:** 2545 
 - [*More Info*](mars_assault_vehicle/mars_assault_vehicle_hag.md) 
 

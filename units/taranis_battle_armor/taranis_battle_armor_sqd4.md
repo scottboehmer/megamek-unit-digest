@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Detachable Medium Laser 
   - Detachable Heavy Recoilless Rifle 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6652) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6652) 
 - **Battle Value:** 81 (419 for 4 suits) 
 
 ## Availability 

@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Poor Sealing 
   - Accurate Weapon (Snub-Nose PPC) 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6391) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6391) 
 - **Battle Value:** 1233 
 
 ## Availability 

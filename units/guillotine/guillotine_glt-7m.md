@@ -20,7 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #23 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8420) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8420) 
 - **Battle Value:** 1877 
 
 ## Availability 

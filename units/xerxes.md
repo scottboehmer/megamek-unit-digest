@@ -14,7 +14,7 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5425) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5425) 
 - **Battle Value:** Unknown 
 - [*More Info*](xerxes/xerxes.md) 
 
@@ -32,7 +32,7 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5426) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5426) 
 - **Battle Value:** Unknown 
 - [*More Info*](xerxes/xerxes_2.md) 
 
@@ -49,7 +49,7 @@
   - HAG 40 × 2 (ammo: 18) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5760) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5760) 
 - **Battle Value:** Unknown 
 - [*More Info*](xerxes/xerxes_3.md) 
 

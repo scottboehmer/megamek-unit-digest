@@ -21,7 +21,7 @@
   - Improved Targeting (Long) 
   - Barrel Fists 
   - Vestigial Hands 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/526) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/526) 
 - **Battle Value:** 2057 
 
 ## Availability 

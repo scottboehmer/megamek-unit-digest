@@ -22,7 +22,7 @@
   - Easy to Maintain 
   - Modular Weapon (Streak SRM 6) 
   - Modular Weapon (Streak SRM 6) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1401) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1401) 
 - **Battle Value:** 2039 
 
 ## Availability 

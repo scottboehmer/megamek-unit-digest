@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Re-Engineered Laser 
   - MML 5 w/ Artemis IV × 2 (ammo: 48 LRM, 20 SRM) 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6817) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6817) 
 - **Battle Value:** Unknown 
 
 ## Availability 

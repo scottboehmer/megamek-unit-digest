@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Cargo 
-- **Sources:** RS 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3971) 
+- **Sources:** Record Sheets: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3971) 
 - **Battle Value:** 265 
 
 ## Availability 

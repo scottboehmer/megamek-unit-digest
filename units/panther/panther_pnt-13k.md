@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2421) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2421) 
 - **Battle Value:** 996 
 
 ## Availability 

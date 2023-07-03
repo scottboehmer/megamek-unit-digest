@@ -11,7 +11,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3026) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3026) 
 - **Battle Value:** 82 
 - [*More Info*](sprint_scout_helicopter/sprint_scout_helicopter.md) 
 
@@ -27,7 +27,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3025) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3025) 
 - **Battle Value:** 220 
 - [*More Info*](sprint_scout_helicopter/sprint_scout_helicopter_laser.md) 
 
@@ -41,7 +41,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Infantry (2.5 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3027) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3027) 
 - **Battle Value:** 71 
 - [*More Info*](sprint_scout_helicopter/sprint_scout_helicopter_troop_transport.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3022) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3022) 
 - **Battle Value:** 82 
 - [*More Info*](sprint_scout_helicopter/sprint_scout_helicopter_c3.md) 
 
@@ -70,7 +70,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - C3i 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3023) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3023) 
 - **Battle Value:** 71 
 - [*More Info*](sprint_scout_helicopter/sprint_scout_helicopter_c3i.md) 
 
@@ -85,7 +85,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3024) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3024) 
 - **Battle Value:** 139 
 - [*More Info*](sprint_scout_helicopter/sprint_scout_helicopter_interdictor.md) 
 

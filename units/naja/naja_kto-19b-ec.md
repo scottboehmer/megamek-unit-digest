@@ -18,7 +18,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7622) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7622) 
 - **Battle Value:** 1588 
 
 ## Availability 

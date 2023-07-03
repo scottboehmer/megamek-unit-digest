@@ -15,7 +15,7 @@
 - **Equipment:** 
   - C3 Main 
   - Targeting Computer 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6667) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6667) 
 - **Battle Value:** 1634 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Beagle Active Probe 
   - Salvage Arm 
   - Remote Sensor Dispenser 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7847) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7847) 
 - **Battle Value:** 240 
 
 ## Availability 

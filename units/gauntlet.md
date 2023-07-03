@@ -17,7 +17,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Poor Life Support 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6621) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6621) 
 - **Battle Value:** 1846 
 - [*More Info*](gauntlet/gauntlet_gtl-1o.md) 
 
@@ -37,7 +37,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Poor Life Support 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6622) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6622) 
 - **Battle Value:** 1420 
 - [*More Info*](gauntlet/gauntlet_gtl-1oa.md) 
 
@@ -60,7 +60,7 @@
   - Coolant Pod × 2 
 - **Design Quirks:** 
   - Poor Life Support 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6623) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6623) 
 - **Battle Value:** 2076 
 - [*More Info*](gauntlet/gauntlet_gtl-1ob.md) 
 
@@ -81,7 +81,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Poor Life Support 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6624) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6624) 
 - **Battle Value:** 2048 
 - [*More Info*](gauntlet/gauntlet_gtl-1oc.md) 
 

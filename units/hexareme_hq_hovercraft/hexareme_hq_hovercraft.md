@@ -18,7 +18,7 @@
   - Communications Equipment 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** XTRO Republic I - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7306) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7306) 
 - **Battle Value:** 1210 
 
 ## Availability 

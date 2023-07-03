@@ -15,7 +15,7 @@
   - Rocket Launcher 5 
   - Rocket Launcher 4 
   - Micro Grenade Launcher 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8594) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8594) 
 - **Battle Value:** 35 (246 for 5 suits) 
 
 ## Availability 

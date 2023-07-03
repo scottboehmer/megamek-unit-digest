@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Accurate Weapon (ER PPC) 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6351) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6351) 
 - **Battle Value:** 2423 
 
 ## Availability 

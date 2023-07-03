@@ -16,7 +16,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/375) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/375) 
 - **Battle Value:** 917 
 
 ## Availability 

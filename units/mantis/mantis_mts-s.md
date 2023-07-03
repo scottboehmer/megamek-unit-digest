@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2023) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2023) 
 - **Battle Value:** 1128 
 
 ## Availability 

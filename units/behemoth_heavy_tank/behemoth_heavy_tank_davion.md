@@ -19,7 +19,7 @@
   - MagShot Gauss Rifle × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #31 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9457) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9457) 
 - **Battle Value:** 1662 
 
 ## Availability 

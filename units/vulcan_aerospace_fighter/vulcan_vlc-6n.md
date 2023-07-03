@@ -16,7 +16,7 @@
   - Large Laser 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5366) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5366) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Nimble Jumper 
   - Difficult Ejection 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3399) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3399) 
 - **Battle Value:** 865 
 
 ## Availability 

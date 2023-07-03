@@ -13,7 +13,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6317) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6317) 
 - **Battle Value:** 841 
 - [*More Info*](hasek_mechanized_combat_vehicle/hasek_mechanized_combat_vehicle.md) 
 

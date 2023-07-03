@@ -22,7 +22,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/142) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/142) 
 - **Battle Value:** 1858 
 
 ## Availability 

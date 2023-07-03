@@ -15,7 +15,7 @@
   - PPC 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6765) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/6765) 
 - **Battle Value:** 1559 
 
 ## Availability 

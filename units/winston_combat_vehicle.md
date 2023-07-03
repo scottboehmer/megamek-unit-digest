@@ -16,7 +16,7 @@
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3553) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3553) 
 - **Battle Value:** 1507 
 - [*More Info*](winston_combat_vehicle/winston_combat_vehicle.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3552) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3552) 
 - **Battle Value:** 1314 
 - [*More Info*](winston_combat_vehicle/winston_combat_vehicle_lac.md) 
 
@@ -56,7 +56,7 @@
   - Targeting Computer 
   - CASE 
   - TAG 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6798) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6798) 
 - **Battle Value:** 1786 
 - [*More Info*](winston_combat_vehicle/winston_combat_vehicle_support.md) 
 
@@ -75,7 +75,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
   - Targeting Computer 
   - CASE 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6799) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6799) 
 - **Battle Value:** 2321 
 - [*More Info*](winston_combat_vehicle/winston_combat_vehicle_tsemp.md) 
 
@@ -93,7 +93,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - CASE 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6800) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6800) 
 - **Battle Value:** 1621 
 - [*More Info*](winston_combat_vehicle/winston_combat_vehicle_xxl.md) 
 

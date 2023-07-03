@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Prototype 
   - Exposed Actuators 
-- **Sources:** XTRO ComStar - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5553) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5553) 
 - **Battle Value:** 157 
 - [*More Info*](celerity/celerity_clr-02-x-d.md) 
 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6671) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6671) 
 - **Battle Value:** 187 
 - [*More Info*](celerity/celerity_clr-03-o.md) 
 
@@ -61,7 +61,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6704) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6704) 
 - **Battle Value:** 275 
 - [*More Info*](celerity/celerity_clr-03-oa.md) 
 
@@ -82,7 +82,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6705) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6705) 
 - **Battle Value:** 339 
 - [*More Info*](celerity/celerity_clr-03-ob.md) 
 
@@ -104,7 +104,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6706) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6706) 
 - **Battle Value:** 202 
 - [*More Info*](celerity/celerity_clr-03-oc.md) 
 
@@ -126,7 +126,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6707) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6707) 
 - **Battle Value:** 304 
 - [*More Info*](celerity/celerity_clr-03-od.md) 
 
@@ -149,7 +149,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6708) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6708) 
 - **Battle Value:** 921 
 - [*More Info*](celerity/celerity_clr-03-oe.md) 
 
@@ -168,7 +168,7 @@
 - **Equipment:** 
   - Spikes × 2 
   - Drone Operating System 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8366) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8366) 
 - **Battle Value:** 272 
 - [*More Info*](celerity/celerity_clr-03omm_rajah.md) 
 
@@ -188,7 +188,7 @@
   - Drone Operating System 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6709) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6709) 
 - **Battle Value:** 384 
 - [*More Info*](celerity/celerity_clr-04-r.md) 
 
@@ -209,7 +209,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6710) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6710) 
 - **Battle Value:** 225 
 - [*More Info*](celerity/celerity_clr-05-x.md) 
 

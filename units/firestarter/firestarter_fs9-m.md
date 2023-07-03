@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1098) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1098) 
 - **Battle Value:** 798 
 
 ## Availability 

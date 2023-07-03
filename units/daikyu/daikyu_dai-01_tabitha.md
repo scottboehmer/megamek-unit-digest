@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/798) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/798) 
 - **Battle Value:** 1804 
 
 ## Availability 

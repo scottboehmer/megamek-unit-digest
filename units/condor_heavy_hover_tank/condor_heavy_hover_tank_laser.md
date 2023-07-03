@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser × 4 
   - SRM 2 × 3 (ammo: 100) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/681) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/681) 
 - **Battle Value:** 977 
 
 ## Availability 

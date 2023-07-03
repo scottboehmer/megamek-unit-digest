@@ -18,7 +18,7 @@
   - C3i 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1896) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1896) 
 - **Battle Value:** 1484 
 
 ## Availability 

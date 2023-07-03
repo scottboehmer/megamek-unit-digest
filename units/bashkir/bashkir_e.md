@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Machine Gun Array 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3795) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3795) 
 - **Battle Value:** Unknown 
 
 ## Availability 

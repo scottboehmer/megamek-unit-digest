@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - Armored Motive System 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6599) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6599) 
 - **Battle Value:** 940 
 
 ## Availability 

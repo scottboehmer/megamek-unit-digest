@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Advanced SRM 5 (ammo: 2) 
   - Bearhunter Superheavy AC × 2 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4224) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4224) 
 - **Battle Value:** 125 (650 for 4 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_sqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Weapons:** 
   - Advanced SRM 5 (ammo: 2) 
   - Bearhunter Superheavy AC × 2 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8623) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8623) 
 - **Battle Value:** 125 (875 for 5 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_sqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Weapons:** 
   - Advanced SRM 5 (ammo: 2) 
   - Bearhunter Superheavy AC × 2 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8987) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8987) 
 - **Battle Value:** 125 (1125 for 6 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_sqd6.md) 
 
@@ -68,7 +68,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4222) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4222) 
 - **Battle Value:** 71 (367 for 4 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_fast_assaultsqd4.md) 
 
@@ -89,7 +89,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8621) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8621) 
 - **Battle Value:** 71 (494 for 5 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_fast_assaultsqd5.md) 
 
@@ -110,7 +110,7 @@
 - **Equipment:** 
   - Jump Booster 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8985) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8985) 
 - **Battle Value:** 71 (635 for 6 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_fast_assaultsqd6.md) 
 
@@ -127,7 +127,7 @@
 - **Weapons:** 
   - Detachable Heavy Recoilless Rifle × 2 
   - SRM 5 (OS) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4223) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4223) 
 - **Battle Value:** 105 (545 for 4 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_rock_golemsqd4.md) 
 
@@ -144,7 +144,7 @@
 - **Weapons:** 
   - Detachable Heavy Recoilless Rifle × 2 
   - SRM 5 (OS) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8622) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8622) 
 - **Battle Value:** 105 (734 for 5 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_rock_golemsqd5.md) 
 
@@ -161,7 +161,7 @@
 - **Weapons:** 
   - Detachable Heavy Recoilless Rifle × 2 
   - SRM 5 (OS) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8986) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8986) 
 - **Battle Value:** 105 (944 for 6 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_rock_golemsqd6.md) 
 
@@ -179,7 +179,7 @@
   - Advanced SRM 6 (ammo: 6) 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1228) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1228) 
 - **Battle Value:** 132 (685 for 4 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_supportsqd4.md) 
 
@@ -197,7 +197,7 @@
   - Advanced SRM 6 (ammo: 6) 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8522) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8522) 
 - **Battle Value:** 132 (922 for 5 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_supportsqd5.md) 
 
@@ -215,7 +215,7 @@
   - Advanced SRM 6 (ammo: 6) 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8886) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8886) 
 - **Battle Value:** 132 (1185 for 6 suits) 
 - [*More Info*](golem_assault_armor/golem_assault_armor_supportsqd6.md) 
 

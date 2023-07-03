@@ -17,7 +17,7 @@
   - ATM 12 × 2 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1662) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1662) 
 - **Battle Value:** Unknown 
 
 ## Availability 

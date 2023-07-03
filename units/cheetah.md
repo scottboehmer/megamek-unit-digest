@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/571) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/571) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_f-10.md) 
 
@@ -27,7 +27,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/573) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/573) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_f-11-r.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 25) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/575) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/575) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_f-12-s.md) 
 
@@ -59,7 +59,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 2 
   - Small Pulse Laser 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/572) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/572) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_f-11.md) 
 
@@ -75,7 +75,7 @@
 - **Weapons:** 
   - Streak SRM 2 × 2 (ammo: 50) 
   - Small Laser 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/577) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/577) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_f-14-s.md) 
 
@@ -91,7 +91,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Small Laser 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/574) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/574) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_f-11-rr.md) 
 
@@ -107,7 +107,7 @@
 - **Weapons:** 
   - ER Medium Laser × 4 
   - ER Small Laser 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/576) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/576) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_f-13.md) 
 
@@ -123,7 +123,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Hyperspectral Imager 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/578) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/578) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_of-17.md) 
 
@@ -142,7 +142,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Hyperspectral Imager 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3946) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3946) 
 - **Battle Value:** Unknown 
 - [*More Info*](cheetah/cheetah_of-17a-r.md) 
 

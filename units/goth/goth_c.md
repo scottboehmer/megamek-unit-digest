@@ -13,7 +13,7 @@
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
   - RAC/5 × 2 (ammo: 140) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7661) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7661) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1620) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1620) 
 - **Battle Value:** 1036 
 - [*More Info*](initiate/initiate_ini-02.md) 
 
@@ -42,7 +42,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1621) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1621) 
 - **Battle Value:** 901 
 - [*More Info*](initiate/initiate_ini-04.md) 
 

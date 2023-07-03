@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Support 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6324) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6324) 
 - **Battle Value:** 1017 
 
 ## Availability 

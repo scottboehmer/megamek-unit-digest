@@ -27,7 +27,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
-- **Sources:** Rec Guide:ilClan #23 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8416) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8416) 
 - **Battle Value:** 1365 
 
 ## Availability 

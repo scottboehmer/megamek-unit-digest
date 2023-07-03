@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LB 10-X AC × 2 (ammo: 40 Cluster) 
   - SRM 6 × 8 (ammo: 90) 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2691) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2691) 
 - **Battle Value:** Unknown 
 
 ## Availability 

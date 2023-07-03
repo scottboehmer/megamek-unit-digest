@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** Rec Guide:ilClan #20 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5491) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/5491) 
 - **Battle Value:** 2775 
 
 ## Availability 

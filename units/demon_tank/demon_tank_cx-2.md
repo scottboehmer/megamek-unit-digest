@@ -15,7 +15,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Mine Dispenser × 4 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5555) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5555) 
 - **Battle Value:** 1219 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - LB 5-X AC (ammo: 20) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1189) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1189) 
 - **Battle Value:** 701 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3555) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/3555) 
 - **Battle Value:** 1290 
 
 ## Availability 

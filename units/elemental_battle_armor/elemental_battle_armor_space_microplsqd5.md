@@ -19,7 +19,7 @@
   - Anti-Personnel Mount 
   - Cutting Torch 
   - Space Operations Adaptation 
-- **Sources:** TRO 3085 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8492) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8492) 
 - **Battle Value:** 52 (366 for 5 suits) 
 
 ## Availability 

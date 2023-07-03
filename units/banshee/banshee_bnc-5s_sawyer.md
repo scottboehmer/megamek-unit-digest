@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3786) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3786) 
 - **Battle Value:** 2094 
 
 ## Availability 

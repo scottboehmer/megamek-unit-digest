@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1818) 
+- **Sources:** Historical Turning Points: Glengarry , [Master Unit List](http://masterunitlist.info/Unit/Details/1818) 
 - **Battle Value:** 87 
 - [*More Info*](koryu_submarine/koryu_submarine_civilian.md) 
 
@@ -26,7 +26,7 @@
   - SRT 2 (OS) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1819) 
+- **Sources:** Historical Turning Points: Glengarry , [Master Unit List](http://masterunitlist.info/Unit/Details/1819) 
 - **Battle Value:** 107 
 - [*More Info*](koryu_submarine/koryu_submarine_military.md) 
 

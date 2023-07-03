@@ -513,7 +513,6 @@ Starfire SF-1X (Prototype) - The method or operation is not implemented.
 --------------------------------------------------
 Units without Roles:
 Hoplite HOP-4A
-Tarantula ZPH-1
 Gladiator GLD-1R (Keller)
 Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
@@ -574,6 +573,15 @@ Space Hound ProspectorMech AM-PRM-SH1
 Dragoon AEM-02
 Dragoon AEM-03
 Dragoon AEM-04
+Arana MilitiaMech ARA-S-1
+Reptar MilitiaMech EPT-C-1
+Waneta S-WN-1LAM
+Champion CHP-1Nb2
+Mad Cat III 2
+Chameleon TRC-4C
+Marauder Red Hunter
+Shadow Hawk SHD-11CS2
+Grand Dragon DRG-1G (Emory)
 Burrower DTM-1 MiningMech
 Demeter WLD-1 AgroMech
 Exo HaulerMech HMX-1
@@ -588,15 +596,6 @@ St. Florian FLN-366 FireMech
 St. Florian FLN-366-M FireMech MOD
 StrongArm SC CV ConstructionMech
 StrongArm SC CVI ConstructionMech
-Arana MilitiaMech ARA-S-1
-Reptar MilitiaMech EPT-C-1
-Waneta S-WN-1LAM
-Champion CHP-1Nb2
-Mad Cat III 2
-Chameleon TRC-4C
-Marauder Red Hunter
-Shadow Hawk SHD-11CS2
-Grand Dragon DRG-1G (Emory)
 Carbine CON-7 ConstructionMech
 CattleMaster CTL-3R 'Herder' IndustrialMech
 Copper SecurityMech CPK-19
@@ -709,9 +708,6 @@ Skanda Light Tank (TSEMP)
 Swallow Attack WiGE (Spotter)
 Mobile Tactical Command HQ
 Kokou Defense Tank (Standard)
-Wheeled Scout (Camera)
-Wheeled Scout (Sensors)
-Wheeled Scout (Standard)
 Hephaestus Jump Tank (AP)
 Nuberu Anti Aircraft Tank 2 'Numantia'
 Bulldog Medium Tank (LB-X)
@@ -743,6 +739,9 @@ MASH Truck (AMS)
 Savannah Master Hovercraft (Reflective)
 Packrat LRPV PKR-T5 (TOC)
 Desert Scorpion Light Tank
+Wheeled Scout (Camera)
+Wheeled Scout (Sensors)
+Wheeled Scout (Standard)
 Koryu Submarine (Civilian)
 Koryu Submarine (Military)
 Weapons/Troop Carrier (LRM)

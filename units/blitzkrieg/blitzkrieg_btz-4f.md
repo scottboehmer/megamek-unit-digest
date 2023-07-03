@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
   - No/Minimal Arms 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/395) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/395) 
 - **Battle Value:** 1740 
 
 ## Availability 

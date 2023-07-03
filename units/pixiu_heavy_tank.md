@@ -14,7 +14,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6445) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6445) 
 - **Battle Value:** 1350 
 - [*More Info*](pixiu_heavy_tank/pixiu_heavy_tank.md) 
 

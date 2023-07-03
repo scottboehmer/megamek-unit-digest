@@ -21,7 +21,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5709) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5709) 
 - **Battle Value:** 2029 
 
 ## Availability 

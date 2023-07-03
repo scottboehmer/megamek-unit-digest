@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2669) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2669) 
 - **Battle Value:** 820 
 
 ## Availability 

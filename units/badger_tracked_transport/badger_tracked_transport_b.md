@@ -14,7 +14,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/201) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/201) 
 - **Battle Value:** 431 
 
 ## Availability 

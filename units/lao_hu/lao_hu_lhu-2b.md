@@ -16,7 +16,7 @@
   - LRM 15 (ammo: 16) 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4478) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4478) 
 - **Battle Value:** 1771 
 
 ## Availability 

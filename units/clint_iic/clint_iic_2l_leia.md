@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Improved Targeting (Medium) 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8369) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8369) 
 - **Battle Value:** 1497 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/522) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/522) 
 - **Battle Value:** 1738 
 
 ## Availability 

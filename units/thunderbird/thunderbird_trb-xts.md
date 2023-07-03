@@ -15,7 +15,7 @@
   - RAC/5 × 2 (ammo: 80) 
   - Centurion Weapon System × 2 
   - Large Pulse Laser × 2 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5577) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5577) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -24,7 +24,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (ER Large Laser) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2500) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2500) 
 - **Battle Value:** 1154 
 
 ## Availability 

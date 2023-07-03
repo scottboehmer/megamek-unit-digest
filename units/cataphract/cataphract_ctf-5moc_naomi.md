@@ -23,7 +23,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/476) 
+- **Sources:** Jihad Turning Points: Sian , [Master Unit List](http://masterunitlist.info/Unit/Details/476) 
 - **Battle Value:** 2028 
 
 ## Availability 

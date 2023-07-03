@@ -26,7 +26,7 @@
 - **Design Quirks:** 
   - Combat Computer 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/344) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/344) 
 - **Battle Value:** 1413 
 
 ## Availability 

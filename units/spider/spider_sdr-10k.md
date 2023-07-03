@@ -17,7 +17,7 @@
   - Easy to Maintain 
   - Nimble Jumper 
   - No Ejection System 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6934) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6934) 
 - **Battle Value:** 824 
 
 ## Availability 

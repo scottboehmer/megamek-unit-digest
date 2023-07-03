@@ -17,7 +17,7 @@
   - Mech Sprayer × 2 
   - Liquid Cargo × 2 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7824) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7824) 
 - **Battle Value:** 356 
 
 ## Availability 

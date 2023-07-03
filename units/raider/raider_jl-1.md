@@ -14,7 +14,7 @@
 - **Weapons:** 
   - MRM 10 × 2 (ammo: 24) 
   - Dual Saw 
-- **Sources:** ED: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6955) 
+- **Sources:** Era Digest: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6955) 
 - **Battle Value:** 817 
 
 ## Availability 

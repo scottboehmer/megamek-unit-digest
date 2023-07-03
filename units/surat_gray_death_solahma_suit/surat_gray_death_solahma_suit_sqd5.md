@@ -15,7 +15,7 @@
   - Clan Heavy Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8822) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/8822) 
 - **Battle Value:** 51 (359 for 5 suits) 
 
 ## Availability 

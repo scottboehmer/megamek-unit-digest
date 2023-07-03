@@ -18,7 +18,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1695) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1695) 
 - **Battle Value:** 787 
 
 ## Availability 

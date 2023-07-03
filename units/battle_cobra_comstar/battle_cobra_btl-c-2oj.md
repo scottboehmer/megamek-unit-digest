@@ -1,6 +1,6 @@
-# Battle Cobra BTL-C-2OJ 
+# Battle Cobra (ComStar) BTL-C-2OJ 
 
-[Other Battle Cobra variants](../battle_cobra.md) 
+[Other Battle Cobra (ComStar) variants](../battle_cobra_comstar.md) 
 
 ## Battle Cobra BTL-C-2OJ 
 
@@ -20,7 +20,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Shrapnel 11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9495) 
+- **Sources:** Shrapnel #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/9495) 
 - **Battle Value:** 1269 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - LRM 20 w/ Artemis IV (ammo: 24) 
   - Ultra AC/5 (ammo: 40) 
   - SRM 6 w/ Artemis IV × 4 (ammo: 60) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4118) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4118) 
 - **Battle Value:** Unknown 
 
 ## Availability 

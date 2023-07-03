@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Long Tom Cannon (ammo: 15) 
   - ER Medium Laser × 4 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5274) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5274) 
 - **Battle Value:** Unknown 
 
 ## Availability 

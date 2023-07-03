@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6944) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6944) 
 - **Battle Value:** 1372 
 
 ## Availability 

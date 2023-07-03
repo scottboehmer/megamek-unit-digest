@@ -16,7 +16,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Small Laser × 4 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5138) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/5138) 
 - **Battle Value:** 881 
 
 ## Availability 

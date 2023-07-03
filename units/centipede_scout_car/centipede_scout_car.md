@@ -15,7 +15,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/514) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/514) 
 - **Battle Value:** 271 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8193) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8193) 
 - **Battle Value:** 1570 
 
 ## Availability 

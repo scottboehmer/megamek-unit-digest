@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6450) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6450) 
 - **Battle Value:** 775 
 
 ## Availability 

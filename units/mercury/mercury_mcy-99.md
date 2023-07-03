@@ -21,7 +21,7 @@
   - Modular Weapon (Small Laser) 
   - Modular Weapon (Medium Laser) 
   - Modular Weapon (Medium Laser) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2172) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2172) 
 - **Battle Value:** 586 
 
 ## Availability 

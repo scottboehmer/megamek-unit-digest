@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2401) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2401) 
 - **Battle Value:** 501 
 
 ## Availability 

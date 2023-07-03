@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Nimble Jumper 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7417) 
+- **Sources:** Turning Points: War of 3039 - Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/7417) 
 - **Battle Value:** 804 
 
 ## Availability 

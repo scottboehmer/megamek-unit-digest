@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/556) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/556) 
 - **Battle Value:** 801 
 
 ## Availability 

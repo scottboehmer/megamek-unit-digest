@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Hitch 
   - Cargo 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1646) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1646) 
 - **Battle Value:** 44 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Clan Jump Booster 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8020) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8020) 
 - **Battle Value:** 49 (252 for 4 suits) 
 
 ## Availability 

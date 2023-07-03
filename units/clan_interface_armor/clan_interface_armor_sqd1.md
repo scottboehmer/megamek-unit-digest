@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
   - BattleMech Neural Interface Unit 
-- **Sources:** XTRO Republic III - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7387) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7387) 
 - **Battle Value:** 7 (7 for 1 suits) 
 
 ## Availability 

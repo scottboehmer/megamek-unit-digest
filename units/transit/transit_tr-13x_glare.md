@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Improved Heavy Gauss Rifle (ammo: 12) 
   - ER Medium Laser × 4 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3291) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/3291) 
 - **Battle Value:** Unknown 
 
 ## Availability 

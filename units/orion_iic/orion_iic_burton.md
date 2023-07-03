@@ -24,7 +24,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** OTP Capellan - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7403) 
+- **Sources:** Operational Turning Points: Capellan Crusades , [Master Unit List](http://masterunitlist.info/Unit/Details/7403) 
 - **Battle Value:** 2746 
 
 ## Availability 

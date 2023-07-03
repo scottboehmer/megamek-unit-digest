@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7164) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7164) 
 - **Battle Value:** 289 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/245) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/245) 
 - **Battle Value:** 1751 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Distracting 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8067) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8067) 
 - **Battle Value:** 2238 
 
 ## Availability 

@@ -25,7 +25,7 @@
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
   - Stabilized Weapon (Streak SRM 2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/748) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/748) 
 - **Battle Value:** 1533 
 
 ## Availability 

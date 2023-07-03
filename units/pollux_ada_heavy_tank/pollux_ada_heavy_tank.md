@@ -15,7 +15,7 @@
   - Sniper (ammo: 30) 
   - Medium Laser 
   - Small Pulse Laser 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6779) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6779) 
 - **Battle Value:** 772 
 
 ## Availability 

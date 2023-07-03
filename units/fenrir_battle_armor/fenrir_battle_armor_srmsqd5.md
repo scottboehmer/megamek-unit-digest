@@ -11,7 +11,7 @@
 - **Armor:** 5 (Standard) 
 - **Weapons:** 
   - SRM 4 (ammo: 4) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8514) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8514) 
 - **Battle Value:** 51 (359 for 5 suits) 
 
 ## Availability 

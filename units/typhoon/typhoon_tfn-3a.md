@@ -15,7 +15,7 @@
   - PPC × 2 
   - LRM 15 (ammo: 16) 
   - AC/10 × 2 (ammo: 20) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5311) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5311) 
 - **Battle Value:** Unknown 
 
 ## Availability 

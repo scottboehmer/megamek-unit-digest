@@ -18,7 +18,7 @@
   - Poor Workmanship 
   - Prototype 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** XTR Boondoggles - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5845) 
+- **Sources:** XTR: Boondoggles , [Master Unit List](http://masterunitlist.info/Unit/Details/5845) 
 - **Battle Value:** 880 
 
 ## Availability 

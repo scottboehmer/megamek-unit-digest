@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Clan Streak SRM 6 × 7 (ammo: 30) 
   - Clan ER Medium Laser × 5 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5559) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5559) 
 - **Battle Value:** Unknown 
 
 ## Availability 

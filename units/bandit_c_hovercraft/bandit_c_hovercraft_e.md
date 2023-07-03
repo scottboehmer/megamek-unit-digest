@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/224) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/224) 
 - **Battle Value:** 1063 
 
 ## Availability 

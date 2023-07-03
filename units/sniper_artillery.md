@@ -17,7 +17,7 @@
   - CASE 
   - Limited Amphibious Chassis 
   - Hitch 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6327) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6327) 
 - **Battle Value:** 830 
 - [*More Info*](sniper_artillery/sniper_artillery.md) 
 

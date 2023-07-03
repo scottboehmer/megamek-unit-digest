@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6911) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6911) 
 - **Battle Value:** 1803 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Improved Large Laser × 2 
   - Inner Sphere Small Laser 
-- **Sources:** Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7688) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7688) 
 - **Battle Value:** Unknown 
 
 ## Availability 

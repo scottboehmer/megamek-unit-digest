@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Jettison-Capable Weapon (ER Medium Laser) 
   - Jettison-Capable Weapon (ER Medium Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2313) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2313) 
 - **Battle Value:** 1439 
 
 ## Availability 

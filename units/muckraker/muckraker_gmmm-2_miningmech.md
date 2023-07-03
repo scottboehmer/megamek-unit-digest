@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Cargo × 2 
   - Dumper × 2 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4220) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/4220) 
 - **Battle Value:** 709 
 
 ## Availability 

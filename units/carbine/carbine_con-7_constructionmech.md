@@ -15,7 +15,7 @@
   - Backhoe 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS VA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3894) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/3894) 
 - **Battle Value:** 198 
 
 ## Availability 

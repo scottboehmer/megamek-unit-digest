@@ -15,7 +15,7 @@
   - AP Gauss Rifle × 6 (ammo: 80) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/995) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/995) 
 - **Battle Value:** 1436 
 
 ## Availability 

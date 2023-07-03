@@ -22,7 +22,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5492) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5492) 
 - **Battle Value:** 1741 
 
 ## Availability 

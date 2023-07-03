@@ -21,7 +21,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Exposed Actuators 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6894) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6894) 
 - **Battle Value:** 2267 
 
 ## Availability 

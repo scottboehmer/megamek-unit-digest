@@ -11,7 +11,7 @@
 - **Armor:** 17 (Advanced) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8769) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8769) 
 - **Battle Value:** 88 (613 for 5 suits) 
 
 ## Availability 

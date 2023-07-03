@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Medium Laser × 8 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2331) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2331) 
 - **Battle Value:** 938 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - LRM 10 × 2 (ammo: 24) 
   - Medium Laser × 10 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2326) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2326) 
 - **Battle Value:** 1287 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_fusion.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 30) 
   - LRM 10 × 2 (ammo: 12) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2328) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2328) 
 - **Battle Value:** 1164 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_lrm.md) 
 
@@ -61,7 +61,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2325) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2325) 
 - **Battle Value:** 1242 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_3053_upgrade.md) 
 
@@ -76,7 +76,7 @@
 - **Weapons:** 
   - Light Gauss Rifle × 3 (ammo: 64) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2327) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2327) 
 - **Battle Value:** 1269 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_light_gauss.md) 
 
@@ -94,7 +94,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - Combat Vehicle Escape Pod 
-- **Sources:** XTR Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4749) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/4749) 
 - **Battle Value:** 1031 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_x_all-aspect_assault_tank.md) 
 
@@ -112,7 +112,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO - 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2329) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2329) 
 - **Battle Value:** 1268 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_mml.md) 
 
@@ -131,7 +131,7 @@
 - **Equipment:** 
   - CASE 
   - Environmentally Sealed Chassis 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2330) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2330) 
 - **Battle Value:** 1070 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_sealed.md) 
 
@@ -150,7 +150,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - Combat Vehicle Escape Pod 
-- **Sources:** TRO:Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4748) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4748) 
 - **Battle Value:** 1110 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_heat.md) 
 
@@ -167,7 +167,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9400) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9400) 
 - **Battle Value:** 1572 
 - [*More Info*](ontos_heavy_tank/ontos_heavy_tank_chemical_laser.md) 
 

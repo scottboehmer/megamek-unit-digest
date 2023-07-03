@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1602) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1602) 
 - **Battle Value:** 728 
 - [*More Info*](icestorm/icestorm.md) 
 
@@ -37,7 +37,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Rugged (×2) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1603) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1603) 
 - **Battle Value:** 868 
 - [*More Info*](icestorm/icestorm_2.md) 
 

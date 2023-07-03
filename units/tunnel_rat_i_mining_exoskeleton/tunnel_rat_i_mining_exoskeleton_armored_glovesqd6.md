@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Extended Life Support 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9062) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9062) 
 - **Battle Value:** 4 (35 for 6 suits) 
 
 ## Availability 

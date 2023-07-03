@@ -20,7 +20,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1259) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1259) 
 - **Battle Value:** 1394 
 
 ## Availability 

@@ -13,7 +13,7 @@
   - ER Large Laser × 2 
   - MML 7 w/ Artemis IV × 2 (ammo: 14 SRM, 17 LRM) 
   - ER Medium Laser 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2220) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2220) 
 - **Battle Value:** Unknown 
 - [*More Info*](morgenstern/morgenstern_mr-1s.md) 
 
@@ -30,7 +30,7 @@
   - ER PPC 
   - Plasma Rifle × 2 (ammo: 30) 
   - ER Medium Laser 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2221) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2221) 
 - **Battle Value:** Unknown 
 - [*More Info*](morgenstern/morgenstern_mr-1sa.md) 
 
@@ -47,7 +47,7 @@
   - Improved Heavy Gauss Rifle (ammo: 12) 
   - ER Medium Laser × 3 
   - MML 5 (ammo: 20 SRM, 24 LRM) 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2222) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2222) 
 - **Battle Value:** Unknown 
 - [*More Info*](morgenstern/morgenstern_mr-1sb.md) 
 
@@ -65,7 +65,7 @@
   - Large Pulse Laser 
   - ER Medium Laser × 5 
   - Medium Pulse Laser 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2223) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2223) 
 - **Battle Value:** Unknown 
 - [*More Info*](morgenstern/morgenstern_mr-1sc.md) 
 
@@ -85,7 +85,7 @@
   - Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2224) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2224) 
 - **Battle Value:** Unknown 
 - [*More Info*](morgenstern/morgenstern_mr-1sd.md) 
 
@@ -104,7 +104,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6812) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6812) 
 - **Battle Value:** Unknown 
 - [*More Info*](morgenstern/morgenstern_mr-1se.md) 
 

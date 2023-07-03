@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Camo System 
-- **Sources:** TRO 3075 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/9056) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9056) 
 - **Battle Value:** 9 (81 for 6 suits) 
 
 ## Availability 

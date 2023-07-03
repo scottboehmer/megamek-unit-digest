@@ -17,7 +17,7 @@
   - Remote Sensor Dispenser 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5795) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5795) 
 - **Battle Value:** 1258 
 - [*More Info*](cataphract/cataphract_ctf-0x.md) 
 
@@ -35,7 +35,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/466) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/466) 
 - **Battle Value:** 1316 
 - [*More Info*](cataphract/cataphract_ctf-1x.md) 
 
@@ -54,7 +54,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/467) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/467) 
 - **Battle Value:** 1344 
 - [*More Info*](cataphract/cataphract_ctf-2x.md) 
 
@@ -72,7 +72,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/474) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/474) 
 - **Battle Value:** 1216 
 - [*More Info*](cataphract/cataphract_ctf-4x.md) 
 
@@ -91,7 +91,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/468) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/468) 
 - **Battle Value:** 1337 
 - [*More Info*](cataphract/cataphract_ctf-2x_george.md) 
 
@@ -112,7 +112,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/469) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/469) 
 - **Battle Value:** 1325 
 - [*More Info*](cataphract/cataphract_ctf-3d.md) 
 
@@ -132,7 +132,7 @@
   - MASC 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/470) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/470) 
 - **Battle Value:** 1545 
 - [*More Info*](cataphract/cataphract_ctf-3l.md) 
 
@@ -153,7 +153,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/472) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/472) 
 - **Battle Value:** 1734 
 - [*More Info*](cataphract/cataphract_ctf-3x_sara.md) 
 
@@ -174,7 +174,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/473) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/473) 
 - **Battle Value:** 2002 
 - [*More Info*](cataphract/cataphract_ctf-4l.md) 
 
@@ -199,7 +199,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/476) 
+- **Sources:** Jihad Turning Points: Sian , [Master Unit List](http://masterunitlist.info/Unit/Details/476) 
 - **Battle Value:** 2028 
 - [*More Info*](cataphract/cataphract_ctf-5moc_naomi.md) 
 
@@ -220,7 +220,7 @@
   - MASC 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/471) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/471) 
 - **Battle Value:** 1664 
 - [*More Info*](cataphract/cataphract_ctf-3ll.md) 
 
@@ -243,7 +243,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/475) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/475) 
 - **Battle Value:** 1742 
 - [*More Info*](cataphract/cataphract_ctf-5d.md) 
 
@@ -263,7 +263,7 @@
   - Small VSP Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7527) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7527) 
 - **Battle Value:** 2090 
 - [*More Info*](cataphract/cataphract_ctf-5l.md) 
 
@@ -283,7 +283,7 @@
   - Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9407) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/9407) 
 - **Battle Value:** 2322 
 - [*More Info*](cataphract/cataphract_ctf-5ll.md) 
 

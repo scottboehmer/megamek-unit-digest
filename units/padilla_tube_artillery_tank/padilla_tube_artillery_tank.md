@@ -14,7 +14,7 @@
   - Sniper (ammo: 20) 
   - LRM 5 × 2 (ammo: 48) 
   - Small Pulse Laser × 2 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2406) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2406) 
 - **Battle Value:** 592 
 
 ## Availability 

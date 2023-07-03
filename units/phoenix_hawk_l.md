@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Poor Sealing 
   - Accurate Weapon (TSEMP) 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6390) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6390) 
 - **Battle Value:** 1563 
 - [*More Info*](phoenix_hawk_l/phoenix_hawk_l_fenikkusu_taka_pxh-11k.md) 
 
@@ -46,7 +46,7 @@
 - **Design Quirks:** 
   - Poor Sealing 
   - Accurate Weapon (Snub-Nose PPC) 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6391) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6391) 
 - **Battle Value:** 1233 
 - [*More Info*](phoenix_hawk_l/phoenix_hawk_l_fenikkusu_taka_pxh-11k2.md) 
 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Ground-Mobile HPG 
   - Infantry (6.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5733) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5733) 
 - **Battle Value:** 458 
 
 ## Availability 

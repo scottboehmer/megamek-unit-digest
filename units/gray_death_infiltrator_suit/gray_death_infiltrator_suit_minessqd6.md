@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Mine Dispenser × 2 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9130) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/9130) 
 - **Battle Value:** 51 (458 for 6 suits) 
 
 ## Availability 

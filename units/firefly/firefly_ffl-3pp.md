@@ -17,7 +17,7 @@
   - Small Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Op. Klondyke - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1083) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1083) 
 - **Battle Value:** 888 
 
 ## Availability 

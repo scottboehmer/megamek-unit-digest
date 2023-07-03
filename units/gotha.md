@@ -15,7 +15,7 @@
   - Medium Laser × 2 
   - SRM 4 × 2 (ammo: 25) 
   - Small Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4226) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4226) 
 - **Battle Value:** Unknown 
 - [*More Info*](gotha/gotha_gtha-100.md) 
 
@@ -33,7 +33,7 @@
   - LRM 15 × 2 (ammo: 8) 
   - Medium Laser × 4 
   - Small Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4227) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4227) 
 - **Battle Value:** Unknown 
 - [*More Info*](gotha/gotha_gtha-300.md) 
 
@@ -51,7 +51,7 @@
   - LRM 15 × 2 (ammo: 8) 
   - Medium Laser × 4 
   - Small Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1250) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1250) 
 - **Battle Value:** Unknown 
 - [*More Info*](gotha/gotha_gtha-500.md) 
 
@@ -69,7 +69,7 @@
   - Large Pulse Laser 
   - Medium Laser × 4 
   - Small Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4229) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4229) 
 - **Battle Value:** Unknown 
 - [*More Info*](gotha/gotha_gtha-500b.md) 
 
@@ -87,7 +87,7 @@
   - LRM 15 × 2 (ammo: 8) 
   - Medium Laser × 4 
   - Small Laser × 2 
-- **Sources:** TRO 3050u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4228) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4228) 
 - **Battle Value:** Unknown 
 - [*More Info*](gotha/gotha_gtha-400.md) 
 
@@ -106,7 +106,7 @@
   - SRM 6 × 4 (ammo: 30) 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1251) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1251) 
 - **Battle Value:** Unknown 
 - [*More Info*](gotha/gotha_gtha-600.md) 
 

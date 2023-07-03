@@ -17,7 +17,7 @@
   - ECM Suite 
   - Active Probe 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2316) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2316) 
 - **Battle Value:** 338 
 
 ## Availability 

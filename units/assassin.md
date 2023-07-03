@@ -18,7 +18,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/127) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/127) 
 - **Battle Value:** 749 
 - [*More Info*](assassin/assassin_asn-21.md) 
 
@@ -41,7 +41,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/126) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/126) 
 - **Battle Value:** 757 
 - [*More Info*](assassin/assassin_asn-101.md) 
 
@@ -62,7 +62,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/128) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/128) 
 - **Battle Value:** 740 
 - [*More Info*](assassin/assassin_asn-23.md) 
 
@@ -83,7 +83,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/129) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/129) 
 - **Battle Value:** 925 
 - [*More Info*](assassin/assassin_asn-30.md) 
 
@@ -107,7 +107,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3737) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3737) 
 - **Battle Value:** 1019 
 - [*More Info*](assassin/assassin_servitor.md) 
 
@@ -132,7 +132,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3738) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/3738) 
 - **Battle Value:** 1507 
 - [*More Info*](assassin/assassin_asn-30_alice.md) 
 
@@ -157,7 +157,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/130) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/130) 
 - **Battle Value:** 1116 
 - [*More Info*](assassin/assassin_asn-99.md) 
 
@@ -183,7 +183,7 @@
   - Cramped Cockpit 
   - Non-Standard Parts 
   - Poor Life Support 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9395) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9395) 
 - **Battle Value:** 1158 
 - [*More Info*](assassin/assassin_asn-109.md) 
 

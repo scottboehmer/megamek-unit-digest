@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Sources:** Rec Guide:ilClan #8 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7582) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7582) 
 - **Battle Value:** 1160 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/355) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/355) 
 - **Battle Value:** 2103 
 
 ## Availability 

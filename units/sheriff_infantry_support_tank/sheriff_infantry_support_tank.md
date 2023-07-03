@@ -15,7 +15,7 @@
 - **Equipment:** 
   - B-Pod × 4 
   - CASE 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6443) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6443) 
 - **Battle Value:** 810 
 
 ## Availability 

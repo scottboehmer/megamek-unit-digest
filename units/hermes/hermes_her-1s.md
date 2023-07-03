@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1487) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1487) 
 - **Battle Value:** 716 
 
 ## Availability 

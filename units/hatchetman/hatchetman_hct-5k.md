@@ -22,7 +22,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1412) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1412) 
 - **Battle Value:** 1070 
 
 ## Availability 

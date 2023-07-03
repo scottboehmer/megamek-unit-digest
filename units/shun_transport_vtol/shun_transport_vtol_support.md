@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Targeting Computer 
   - Infantry (8.0 tons) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8057) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8057) 
 - **Battle Value:** 693 
 
 ## Availability 

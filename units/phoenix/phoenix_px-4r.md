@@ -16,7 +16,7 @@
   - SRM 2 (ammo: 50) 
 - **Design Quirks:** 
   - Directional Torso Mount (SRM 2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2490) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2490) 
 - **Battle Value:** 996 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5739) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5739) 
 - **Battle Value:** 1704 
 
 ## Availability 

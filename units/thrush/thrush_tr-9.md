@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Re-Engineered Laser × 2 
   - ER Medium Laser × 3 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8015) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8015) 
 - **Battle Value:** Unknown 
 
 ## Availability 

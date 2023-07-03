@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Accurate Weapon (Unknown Component) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1848) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1848) 
 - **Battle Value:** 625 
 
 ## Availability 

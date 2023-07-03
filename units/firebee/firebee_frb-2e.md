@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Poor Life Support 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1079) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1079) 
 - **Battle Value:** 808 
 
 ## Availability 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2976) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2976) 
 - **Battle Value:** 1081 
 
 ## Availability 

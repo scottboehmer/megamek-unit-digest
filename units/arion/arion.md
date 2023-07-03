@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Tracks 
   - CASE 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6252) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6252) 
 - **Battle Value:** 849 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Squad Support SRM 4 (ammo: 1) 
   - ER Small Laser 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9451) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9451) 
 - **Battle Value:** 100 (675 for 6 suits) 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
   - Rugged (×2) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2336) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2336) 
 - **Battle Value:** 1328 
 
 ## Availability 

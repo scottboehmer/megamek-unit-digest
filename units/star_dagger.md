@@ -14,7 +14,7 @@
   - Medium Laser 
   - Small Laser 
   - Machine Gun × 3 (ammo: 200) 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5123) 
+- **Sources:** XTR: RetroTech , [Master Unit List](http://masterunitlist.info/Unit/Details/5123) 
 - **Battle Value:** Unknown 
 - [*More Info*](star_dagger/star_dagger_s-2.md) 
 
@@ -30,7 +30,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Machine Gun × 3 (ammo: 200) 
-- **Sources:** Field Report 2765 DCMS - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8117) 
+- **Sources:** Field Report 2765 DCMS , [Master Unit List](http://masterunitlist.info/Unit/Details/8117) 
 - **Battle Value:** Unknown 
 - [*More Info*](star_dagger/star_dagger_s-2b.md) 
 

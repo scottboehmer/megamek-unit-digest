@@ -15,7 +15,7 @@
   - HVAC/10 × 2 (ammo: 24) 
   - ELRM 10 (ammo: 18) 
   - ER Medium Laser × 4 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4896) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/4896) 
 - **Battle Value:** Unknown 
 
 ## Availability 

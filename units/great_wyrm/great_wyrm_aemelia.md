@@ -17,7 +17,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1283) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/1283) 
 - **Battle Value:** 1772 
 
 ## Availability 

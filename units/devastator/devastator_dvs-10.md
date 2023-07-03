@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7984) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7984) 
 - **Battle Value:** 2176 
 
 ## Availability 

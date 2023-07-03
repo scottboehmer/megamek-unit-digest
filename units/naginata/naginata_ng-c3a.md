@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2252) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2252) 
 - **Battle Value:** 1954 
 
 ## Availability 

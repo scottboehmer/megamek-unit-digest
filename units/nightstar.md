@@ -18,7 +18,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2286) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2286) 
 - **Battle Value:** 2399 
 - [*More Info*](nightstar/nightstar_nsr-9j.md) 
 
@@ -41,7 +41,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2285) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2285) 
 - **Battle Value:** 1929 
 - [*More Info*](nightstar/nightstar_nsr-9fc.md) 
 
@@ -62,7 +62,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4723) 
+- **Sources:** Operational Turning Points: Falcon Incursion , [Master Unit List](http://masterunitlist.info/Unit/Details/4723) 
 - **Battle Value:** 2838 
 - [*More Info*](nightstar/nightstar_nsr-9j_brubaker.md) 
 
@@ -88,7 +88,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** SO:Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619) 
+- **Sources:** Spotlight On: Holt's Hilltoppers , [Master Unit List](http://masterunitlist.info/Unit/Details/7619) 
 - **Battle Value:** 3433 
 - [*More Info*](nightstar/nightstar_nsr-9j_holt.md) 
 
@@ -113,7 +113,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2287) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2287) 
 - **Battle Value:** 2145 
 - [*More Info*](nightstar/nightstar_nsr-9ss.md) 
 
@@ -139,7 +139,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7539) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7539) 
 - **Battle Value:** 2539 
 - [*More Info*](nightstar/nightstar_nsr-10d.md) 
 

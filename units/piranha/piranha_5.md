@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #13 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8122) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/8122) 
 - **Battle Value:** 1132 
 
 ## Availability 

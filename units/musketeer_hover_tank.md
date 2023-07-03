@@ -14,7 +14,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4688) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4688) 
 - **Battle Value:** 1120 
 - [*More Info*](musketeer_hover_tank/musketeer_hover_tank.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4687) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4687) 
 - **Battle Value:** 897 
 - [*More Info*](musketeer_hover_tank/musketeer_hover_tank_armor.md) 
 
@@ -50,7 +50,7 @@
   - CASE 
   - TAG 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3067 U , [Master Unit List](http://masterunitlist.info/Unit/Details/5731) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5731) 
 - **Battle Value:** 1114 
 - [*More Info*](musketeer_hover_tank/musketeer_hover_tank_3080_upgrade.md) 
 

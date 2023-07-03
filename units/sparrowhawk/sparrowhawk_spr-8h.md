@@ -14,7 +14,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 50) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2991) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2991) 
 - **Battle Value:** Unknown 
 
 ## Availability 

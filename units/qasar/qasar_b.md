@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - Streak SRM 6 × 4 (ammo: 30) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7664) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7664) 
 - **Battle Value:** Unknown 
 
 ## Availability 

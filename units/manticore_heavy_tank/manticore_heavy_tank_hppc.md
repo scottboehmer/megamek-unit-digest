@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Targeting Computer 
-- **Sources:** TRO:3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2018) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2018) 
 - **Battle Value:** 1060 
 
 ## Availability 

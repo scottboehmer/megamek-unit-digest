@@ -21,7 +21,7 @@
   - MASC 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/329) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/329) 
 - **Battle Value:** 2117 
 
 ## Availability 

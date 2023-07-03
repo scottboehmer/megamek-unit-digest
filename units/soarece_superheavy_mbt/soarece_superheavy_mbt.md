@@ -17,7 +17,7 @@
   - Machine Gun (ammo: 200) 
 - **Equipment:** 
   - Limited Amphibious Chassis 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5778) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5778) 
 - **Battle Value:** 2267 
 
 ## Availability 

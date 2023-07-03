@@ -17,7 +17,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Extended Life Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6368) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6368) 
 - **Battle Value:** 51 (267 for 4 suits) 
 
 ## Availability 

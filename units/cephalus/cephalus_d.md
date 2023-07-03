@@ -22,7 +22,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** WoR - Jihad Supplement , [Master Unit List](http://masterunitlist.info/Unit/Details/5640) 
+- **Sources:** Wars of Reaving , [Master Unit List](http://masterunitlist.info/Unit/Details/5640) 
 - **Battle Value:** 1460 
 
 ## Availability 

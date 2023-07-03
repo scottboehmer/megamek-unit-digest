@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Mobile Field Base 
   - Limited Amphibious Chassis 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5729) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5729) 
 - **Battle Value:** 249 
 
 ## Availability 

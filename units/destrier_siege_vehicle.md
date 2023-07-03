@@ -20,7 +20,7 @@
   - C3 Support 
   - Hitch 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6329) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6329) 
 - **Battle Value:** 2123 
 - [*More Info*](destrier_siege_vehicle/destrier_siege_vehicle.md) 
 

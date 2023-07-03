@@ -16,7 +16,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6410) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6410) 
 - **Battle Value:** 1468 
 - [*More Info*](exhumer/exhumer_exr-2x.md) 
 
@@ -37,7 +37,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6411) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6411) 
 - **Battle Value:** 1469 
 - [*More Info*](exhumer/exhumer_exr-3p.md) 
 

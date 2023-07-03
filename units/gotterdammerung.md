@@ -14,7 +14,7 @@
   - Clan ER PPC 
   - Clan LRM 15 (ammo: 8) 
   - Clan ER Medium Laser × 5 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8061) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8061) 
 - **Battle Value:** 2285 
 - [*More Info*](gotterdammerung/gotterdammerung_gtd-20c.md) 
 
@@ -33,7 +33,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 3 
   - ER Flamer 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8062) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8062) 
 - **Battle Value:** 1574 
 - [*More Info*](gotterdammerung/gotterdammerung_gtd-30s.md) 
 

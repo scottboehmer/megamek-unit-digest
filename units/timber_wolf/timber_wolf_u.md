@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Weak Head Armor (1) 
-- **Sources:** RS 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1987) 
+- **Sources:** Record Sheets: 3085 Unabridged - Old is the New New , [Master Unit List](http://masterunitlist.info/Unit/Details/1987) 
 - **Battle Value:** 2627 
 
 ## Availability 

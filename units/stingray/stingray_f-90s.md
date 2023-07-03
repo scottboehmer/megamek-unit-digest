@@ -15,7 +15,7 @@
   - Large Laser × 2 
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3070) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3070) 
 - **Battle Value:** Unknown 
 
 ## Availability 

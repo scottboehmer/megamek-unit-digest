@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Medium Recoilless Rifle 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6428) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6428) 
 - **Battle Value:** 63 (328 for 4 suits) 
 
 ## Availability 

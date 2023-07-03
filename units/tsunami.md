@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3311) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3311) 
 - **Battle Value:** 933 
 - [*More Info*](tsunami/tsunami_ts-p1.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3312) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3312) 
 - **Battle Value:** 1298 
 - [*More Info*](tsunami/tsunami_ts-p1d.md) 
 

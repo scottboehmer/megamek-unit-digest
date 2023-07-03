@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Plasma Rifle (ammo: 20) 
   - SRM 6 (ammo: 15) 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6438) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6438) 
 - **Battle Value:** 1090 
 
 ## Availability 

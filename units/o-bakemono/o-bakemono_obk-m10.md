@@ -25,7 +25,7 @@
   - Modular Weapon (Arrow IV) 
   - Modular Weapon (Arrow IV) 
   - Modular Weapon (Arrow IV) 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2310) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2310) 
 - **Battle Value:** 1659 
 
 ## Availability 

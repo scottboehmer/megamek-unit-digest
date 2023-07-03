@@ -15,7 +15,7 @@
   - ER Large Laser 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** TRO 3060 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/254) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/254) 
 - **Battle Value:** 1900 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - PPC 
   - SRM 4 × 2 (ammo: 25) 
   - Flamer 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3456) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3456) 
 - **Battle Value:** 1146 
 
 ## Availability 

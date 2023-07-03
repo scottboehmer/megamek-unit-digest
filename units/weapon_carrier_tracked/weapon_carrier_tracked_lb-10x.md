@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
   - LRM 5 × 3 (ammo: 48) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6776) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6776) 
 - **Battle Value:** 901 
 
 ## Availability 

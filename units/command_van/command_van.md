@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** Rec Guide:ilClan #29 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9385) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9385) 
 - **Battle Value:** 193 
 
 ## Availability 

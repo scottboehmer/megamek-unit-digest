@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #17 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8224) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8224) 
 - **Battle Value:** 1498 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Active Probe 
   - Armored Motive System 
   - Light TAG 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6541) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6541) 
 - **Battle Value:** 616 
 - [*More Info*](kite_reconnaissance_vehicle/kite_reconnaissance_vehicle.md) 
 
@@ -33,7 +33,7 @@
 - **Equipment:** 
   - Inner Sphere Angel ECM Suite 
   - Armored Motive System 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8052) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8052) 
 - **Battle Value:** 889 
 - [*More Info*](kite_reconnaissance_vehicle/kite_reconnaissance_vehicle_fusion.md) 
 

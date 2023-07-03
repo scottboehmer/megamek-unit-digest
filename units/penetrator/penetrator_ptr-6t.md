@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - Stable 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2469) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2469) 
 - **Battle Value:** 1994 
 
 ## Availability 

@@ -22,7 +22,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (AC/5) 
   - Exposed Weapon Linkage (AC/5) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2034) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2034) 
 - **Battle Value:** 1630 
 
 ## Availability 

@@ -13,7 +13,7 @@
   - Light Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5056) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5056) 
 - **Battle Value:** 1412 
 - [*More Info*](shoden_assault_vehicle/shoden_assault_vehicle.md) 
 
@@ -31,7 +31,7 @@
   - Light Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5057) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5057) 
 - **Battle Value:** 1425 
 - [*More Info*](shoden_assault_vehicle/shoden_assault_vehicle_streak.md) 
 
@@ -50,7 +50,7 @@
   - AP Gauss Rifle × 10 (ammo: 80) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5736) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5736) 
 - **Battle Value:** 1314 
 - [*More Info*](shoden_assault_vehicle/shoden_assault_vehicle_lb-x.md) 
 

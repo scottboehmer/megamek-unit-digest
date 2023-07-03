@@ -15,7 +15,7 @@
   - Combine 
 - **Equipment:** 
   - Mine Dispenser × 4 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7864) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7864) 
 - **Battle Value:** 438 
 
 ## Availability 

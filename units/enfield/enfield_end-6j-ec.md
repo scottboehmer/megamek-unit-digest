@@ -19,7 +19,7 @@
   - Inner Sphere CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7679) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7679) 
 - **Battle Value:** 1379 
 
 ## Availability 

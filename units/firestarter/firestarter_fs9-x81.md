@@ -15,7 +15,7 @@
   - Plasma Rifle (ammo: 10) 
   - Medium X-Pulse Laser × 2 
   - Flamer × 3 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1092) 
+- **Sources:** XTR: Corporations , [Master Unit List](http://masterunitlist.info/Unit/Details/1092) 
 - **Battle Value:** 1065 
 
 ## Availability 

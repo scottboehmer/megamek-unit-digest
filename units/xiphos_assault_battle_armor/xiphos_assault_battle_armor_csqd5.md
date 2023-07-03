@@ -15,7 +15,7 @@
   - Heavy Flamer 
 - **Equipment:** 
   - Clan Heat Sensor 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8760) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/8760) 
 - **Battle Value:** 69 (480 for 5 suits) 
 
 ## Availability 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2914) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2914) 
 - **Battle Value:** 1698 
 
 ## Availability 

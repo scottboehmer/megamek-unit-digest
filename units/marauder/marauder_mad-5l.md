@@ -23,7 +23,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (ER PPC) 
   - Exposed Weapon Linkage (ER PPC) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2040) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2040) 
 - **Battle Value:** 2244 
 
 ## Availability 

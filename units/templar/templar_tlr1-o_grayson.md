@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5192) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5192) 
 - **Battle Value:** 1868 
 
 ## Availability 

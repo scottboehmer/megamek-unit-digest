@@ -17,7 +17,7 @@
   - Remote Sensor Dispenser 
 - **Design Quirks:** 
   - Improved Cooling Jacket (ER PPC) 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6455) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6455) 
 - **Battle Value:** 1401 
 - [*More Info*](yinghuochong/yinghuochong_yhc-3e.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - TAG 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6456) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6456) 
 - **Battle Value:** 1548 
 - [*More Info*](yinghuochong/yinghuochong_yhc-3y.md) 
 

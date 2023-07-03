@@ -16,7 +16,7 @@
   - Prototype ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7681) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7681) 
 - **Battle Value:** 1783 
 
 ## Availability 

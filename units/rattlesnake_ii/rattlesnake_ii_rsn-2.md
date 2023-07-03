@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Shrapnel 9 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9242) 
+- **Sources:** Shrapnel #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/9242) 
 - **Battle Value:** 1480 
 
 ## Availability 

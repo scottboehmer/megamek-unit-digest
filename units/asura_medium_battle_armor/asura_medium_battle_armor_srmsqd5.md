@@ -15,7 +15,7 @@
 - **Weapons:** 
   - SRM 6 (OS) 
   - Heavy Machine Gun 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8607) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8607) 
 - **Battle Value:** 43 (298 for 5 suits) 
 
 ## Availability 

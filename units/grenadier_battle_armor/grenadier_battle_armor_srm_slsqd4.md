@@ -16,7 +16,7 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4244) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4244) 
 - **Battle Value:** 63 (326 for 4 suits) 
 
 ## Availability 

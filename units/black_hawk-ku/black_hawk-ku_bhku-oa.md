@@ -17,7 +17,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/347) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/347) 
 - **Battle Value:** 1770 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Heavy PPC 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** TRO 3145 Capellan Confederation - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6451) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6451) 
 - **Battle Value:** 685 
 
 ## Availability 

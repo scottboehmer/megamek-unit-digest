@@ -15,7 +15,7 @@
   - Extended Fuel Tank 
   - Communications Equipment 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2982) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2982) 
 - **Battle Value:** 346 
 
 ## Availability 

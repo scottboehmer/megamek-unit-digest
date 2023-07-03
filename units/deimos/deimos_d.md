@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6856) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6856) 
 - **Battle Value:** 2682 
 
 ## Availability 

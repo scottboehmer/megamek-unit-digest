@@ -14,7 +14,7 @@
   - Light PPC × 2 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Rec Guide:ilClan #10 - Late Repubic , [Master Unit List](http://masterunitlist.info/Unit/Details/7723) 
+- **Sources:** Rec Guide:ilClan #10 , [Master Unit List](http://masterunitlist.info/Unit/Details/7723) 
 - **Battle Value:** 742 
 
 ## Availability 

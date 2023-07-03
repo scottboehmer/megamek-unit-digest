@@ -14,7 +14,7 @@
   - SRM 3 × 2 (ammo: 6) 
   - Small Pulse Laser 
   - Light Machine Gun 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3478) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3478) 
 - **Battle Value:** 94 (486 for 4 suits) 
 - [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_sqd4.md) 
 
@@ -32,7 +32,7 @@
   - SRM 3 × 2 (ammo: 6) 
   - Small Pulse Laser 
   - Light Machine Gun 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8599) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8599) 
 - **Battle Value:** 94 (655 for 5 suits) 
 - [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_sqd5.md) 
 
@@ -50,7 +50,7 @@
   - SRM 3 × 2 (ammo: 6) 
   - Small Pulse Laser 
   - Light Machine Gun 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8963) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8963) 
 - **Battle Value:** 94 (842 for 6 suits) 
 - [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_sqd6.md) 
 
@@ -67,7 +67,7 @@
 - **Weapons:** 
   - Advanced SRM 2 × 2 (ammo: 6) 
   - Small Pulse Laser 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6748) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6748) 
 - **Battle Value:** 108 (563 for 4 suits) 
 - [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_reactivesqd4.md) 
 
@@ -84,7 +84,7 @@
 - **Weapons:** 
   - Advanced SRM 2 × 2 (ammo: 6) 
   - Small Pulse Laser 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8802) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8802) 
 - **Battle Value:** 108 (758 for 5 suits) 
 - [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_reactivesqd5.md) 
 
@@ -101,7 +101,7 @@
 - **Weapons:** 
   - Advanced SRM 2 × 2 (ammo: 6) 
   - Small Pulse Laser 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9165) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9165) 
 - **Battle Value:** 108 (975 for 6 suits) 
 - [*More Info*](warg_assault_battle_armor/warg_assault_battle_armor_reactivesqd6.md) 
 

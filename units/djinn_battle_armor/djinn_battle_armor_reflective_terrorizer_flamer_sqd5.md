@@ -15,7 +15,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Flamer 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8715) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/8715) 
 - **Battle Value:** 36 (254 for 5 suits) 
 
 ## Availability 

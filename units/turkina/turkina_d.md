@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3329) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3329) 
 - **Battle Value:** 3132 
 
 ## Availability 

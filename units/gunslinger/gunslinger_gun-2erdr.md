@@ -19,7 +19,7 @@
   - C3 Boosted Main 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO:CI - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1350) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1350) 
 - **Battle Value:** 2371 
 
 ## Availability 

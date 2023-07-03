@@ -14,7 +14,7 @@
   - Small Laser × 10 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/204) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/204) 
 - **Battle Value:** 434 
 
 ## Availability 

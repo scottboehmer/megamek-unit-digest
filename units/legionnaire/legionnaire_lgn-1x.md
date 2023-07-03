@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Improved Targeting (Medium) 
   - Exposed Weapon Linkage (RAC/2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1862) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1862) 
 - **Battle Value:** 1322 
 
 ## Availability 

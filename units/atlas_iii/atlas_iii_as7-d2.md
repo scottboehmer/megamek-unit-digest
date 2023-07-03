@@ -25,7 +25,7 @@
   - Distracting 
   - Protected Actuators 
   - Jettison-Capable Weapon (HAG 30) 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6359) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6359) 
 - **Battle Value:** 2890 
 
 ## Availability 

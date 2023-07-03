@@ -21,7 +21,7 @@
   - TAG 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3172) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3172) 
 - **Battle Value:** 1241 
 
 ## Availability 

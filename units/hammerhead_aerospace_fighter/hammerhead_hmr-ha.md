@@ -14,7 +14,7 @@
 - **Heat Sinks:** 16 (16) 
 - **Weapons:** 
   - Large Laser × 2 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7193) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/7193) 
 - **Battle Value:** Unknown 
 
 ## Availability 

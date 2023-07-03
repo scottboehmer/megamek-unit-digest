@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Infantry (5.0 tons) 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/199) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/199) 
 - **Battle Value:** 602 
 - [*More Info*](badger_c_tracked_transport/badger_c_tracked_transport_prime.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Infantry (5.0 tons) 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/192) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/192) 
 - **Battle Value:** 492 
 - [*More Info*](badger_c_tracked_transport/badger_c_tracked_transport_a.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Infantry (5.0 tons) 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/193) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/193) 
 - **Battle Value:** 540 
 - [*More Info*](badger_c_tracked_transport/badger_c_tracked_transport_b.md) 
 
@@ -68,7 +68,7 @@
 - **Equipment:** 
   - Infantry (5.0 tons) 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/194) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/194) 
 - **Battle Value:** 537 
 - [*More Info*](badger_c_tracked_transport/badger_c_tracked_transport_c.md) 
 
@@ -85,7 +85,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/195) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/195) 
 - **Battle Value:** 506 
 - [*More Info*](badger_c_tracked_transport/badger_c_tracked_transport_d.md) 
 
@@ -103,7 +103,7 @@
 - **Equipment:** 
   - Infantry (5.0 tons) 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/196) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/196) 
 - **Battle Value:** 474 
 - [*More Info*](badger_c_tracked_transport/badger_c_tracked_transport_e.md) 
 
@@ -122,7 +122,7 @@
   - Infantry (5.0 tons) 
   - Targeting Computer 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/198) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/198) 
 - **Battle Value:** 488 
 - [*More Info*](badger_c_tracked_transport/badger_c_tracked_transport_h.md) 
 
@@ -139,7 +139,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/197) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/197) 
 - **Battle Value:** 441 
 - [*More Info*](badger_c_tracked_transport/badger_c_tracked_transport_f.md) 
 

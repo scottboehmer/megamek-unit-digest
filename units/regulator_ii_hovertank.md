@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2679) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2679) 
 - **Battle Value:** 1426 
 - [*More Info*](regulator_ii_hovertank/regulator_ii_hovertank.md) 
 
@@ -27,7 +27,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2680) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2680) 
 - **Battle Value:** 879 
 - [*More Info*](regulator_ii_hovertank/regulator_ii_hovertank_stealth.md) 
 
@@ -44,7 +44,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2678) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2678) 
 - **Battle Value:** 1348 
 - [*More Info*](regulator_ii_hovertank/regulator_ii_hovertank_rac.md) 
 

@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6738) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6738) 
 - **Battle Value:** 65 (339 for 4 suits) 
 
 ## Availability 

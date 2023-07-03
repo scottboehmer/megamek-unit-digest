@@ -26,7 +26,7 @@
   - Command ’Mech 
   - Distracting 
   - Searchlight 
-- **Sources:** Dominions Divided - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9500) 
+- **Sources:** Dominions Divided , [Master Unit List](http://masterunitlist.info/Unit/Details/9500) 
 - **Battle Value:** 2986 
 
 ## Availability 

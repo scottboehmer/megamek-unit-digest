@@ -22,7 +22,7 @@
   - Distracting 
   - Protected Actuators 
   - Cramped Cockpit 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5329) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5329) 
 - **Battle Value:** 1284 
 
 ## Availability 

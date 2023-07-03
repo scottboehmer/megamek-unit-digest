@@ -16,7 +16,7 @@
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8762) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/8762) 
 - **Battle Value:** 48 (336 for 5 suits) 
 
 ## Availability 

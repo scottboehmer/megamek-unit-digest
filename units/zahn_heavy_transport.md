@@ -14,7 +14,7 @@
 - **Equipment:** 
   - TAG 
   - Infantry (8.0 tons) 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6444) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6444) 
 - **Battle Value:** 792 
 - [*More Info*](zahn_heavy_transport/zahn_heavy_transport.md) 
 

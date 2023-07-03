@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - ER Medium Laser × 2 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5320) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5320) 
 - **Battle Value:** Unknown 
 
 ## Availability 

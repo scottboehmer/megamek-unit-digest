@@ -19,7 +19,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3053) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/3053) 
 - **Battle Value:** 1540 
 
 ## Availability 

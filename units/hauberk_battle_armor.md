@@ -12,7 +12,7 @@
 - **Weapons:** 
   - LRM 5 (ammo: 6) 
   - Small Laser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4269) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4269) 
 - **Battle Value:** 70 (363 for 4 suits) 
 - [*More Info*](hauberk_battle_armor/hauberk_battle_armor_sqd4.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - LRM 5 (ammo: 6) 
   - Small Laser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8635) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8635) 
 - **Battle Value:** 70 (489 for 5 suits) 
 - [*More Info*](hauberk_battle_armor/hauberk_battle_armor_sqd5.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - LRM 5 (ammo: 6) 
   - Small Laser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8999) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8999) 
 - **Battle Value:** 70 (629 for 6 suits) 
 - [*More Info*](hauberk_battle_armor/hauberk_battle_armor_sqd6.md) 
 
@@ -62,7 +62,7 @@
   - Detachable Clan Micro Pulse Laser 
 - **Equipment:** 
   - Clan ECM Suite 
-- **Sources:** XTRO Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/1419) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/1419) 
 - **Battle Value:** 93 (483 for 4 suits) 
 - [*More Info*](hauberk_battle_armor/hauberk_battle_armor_u15sqd4.md) 
 
@@ -80,7 +80,7 @@
   - Detachable Clan Micro Pulse Laser 
 - **Equipment:** 
   - Clan ECM Suite 
-- **Sources:** XTRO Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/8531) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/8531) 
 - **Battle Value:** 93 (650 for 5 suits) 
 - [*More Info*](hauberk_battle_armor/hauberk_battle_armor_u15sqd5.md) 
 
@@ -98,7 +98,7 @@
   - Detachable Clan Micro Pulse Laser 
 - **Equipment:** 
   - Clan ECM Suite 
-- **Sources:** XTRO Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/8895) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/8895) 
 - **Battle Value:** 93 (835 for 6 suits) 
 - [*More Info*](hauberk_battle_armor/hauberk_battle_armor_u15sqd6.md) 
 
@@ -113,7 +113,7 @@
   - Detachable ER Small Laser × 2 
   - Detachable Magshot Gauss Rifle 
   - SRM 2 (OS) 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4270) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4270) 
 - **Battle Value:** 74 (387 for 4 suits) 
 - [*More Info*](hauberk_battle_armor/hauberk_battle_armor_commandosqd4.md) 
 
@@ -128,7 +128,7 @@
   - Detachable ER Small Laser × 2 
   - Detachable Magshot Gauss Rifle 
   - SRM 2 (OS) 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8636) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/8636) 
 - **Battle Value:** 74 (520 for 5 suits) 
 - [*More Info*](hauberk_battle_armor/hauberk_battle_armor_commandosqd5.md) 
 
@@ -143,7 +143,7 @@
   - Detachable ER Small Laser × 2 
   - Detachable Magshot Gauss Rifle 
   - SRM 2 (OS) 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9000) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/9000) 
 - **Battle Value:** 74 (669 for 6 suits) 
 - [*More Info*](hauberk_battle_armor/hauberk_battle_armor_commandosqd6.md) 
 

@@ -16,7 +16,7 @@
   - Clan ER Medium Pulse Laser 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6952) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6952) 
 - **Battle Value:** 1293 
 
 ## Availability 

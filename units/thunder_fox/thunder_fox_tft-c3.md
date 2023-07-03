@@ -20,7 +20,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3218) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3218) 
 - **Battle Value:** 1104 
 
 ## Availability 

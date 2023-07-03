@@ -15,7 +15,7 @@
   - Plasma Cannon (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/108) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/108) 
 - **Battle Value:** 1201 
 
 ## Availability 

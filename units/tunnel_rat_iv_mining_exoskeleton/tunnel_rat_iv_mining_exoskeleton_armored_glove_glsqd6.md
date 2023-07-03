@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9179) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9179) 
 - **Battle Value:** 10 (88 for 6 suits) 
 
 ## Availability 

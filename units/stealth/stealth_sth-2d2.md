@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3056) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3056) 
 - **Battle Value:** 1339 
 
 ## Availability 

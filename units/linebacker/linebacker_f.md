@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4523) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/4523) 
 - **Battle Value:** 1928 
 
 ## Availability 

@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Stable 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2254) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2254) 
 - **Battle Value:** 1943 
 
 ## Availability 

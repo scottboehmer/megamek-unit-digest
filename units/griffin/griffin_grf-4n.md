@@ -20,7 +20,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Plasma Rifle) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1301) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1301) 
 - **Battle Value:** 1591 
 
 ## Availability 

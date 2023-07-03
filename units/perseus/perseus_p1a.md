@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4809) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4809) 
 - **Battle Value:** 1661 
 
 ## Availability 

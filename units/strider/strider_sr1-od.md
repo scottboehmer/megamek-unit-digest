@@ -21,7 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3088) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3088) 
 - **Battle Value:** 873 
 
 ## Availability 

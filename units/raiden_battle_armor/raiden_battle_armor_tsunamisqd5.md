@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Tsunami Gauss Rifle 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8579) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8579) 
 - **Battle Value:** 40 (279 for 5 suits) 
 
 ## Availability 

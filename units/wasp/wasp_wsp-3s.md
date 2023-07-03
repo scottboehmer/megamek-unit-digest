@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3529) 
+- **Sources:** TRO: Project Pheonix , [Master Unit List](http://masterunitlist.info/Unit/Details/3529) 
 - **Battle Value:** 595 
 
 ## Availability 

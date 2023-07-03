@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Small Laser 
   - Advanced SRM 2 (ammo: 2) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9212) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/9212) 
 - **Battle Value:** 83 (299 for 3 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_sqd3.md) 
 
@@ -30,7 +30,7 @@
 - **Weapons:** 
   - ER Small Laser 
   - Advanced SRM 2 (ammo: 2) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1216) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1216) 
 - **Battle Value:** 83 (431 for 4 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_sqd4.md) 
 
@@ -47,7 +47,7 @@
 - **Weapons:** 
   - ER Small Laser 
   - Advanced SRM 2 (ammo: 2) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8518) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8518) 
 - **Battle Value:** 83 (581 for 5 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_sqd5.md) 
 
@@ -64,7 +64,7 @@
 - **Weapons:** 
   - ER Small Laser 
   - Advanced SRM 2 (ammo: 2) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8882) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8882) 
 - **Battle Value:** 83 (747 for 6 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_sqd6.md) 
 
@@ -81,7 +81,7 @@
 - **Weapons:** 
   - Advanced SRM 2 (ammo: 2) 
   - Bearhunter Superheavy AC × 2 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1217) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1217) 
 - **Battle Value:** 68 (354 for 4 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_upgrade_bearhuntersqd4.md) 
 
@@ -98,7 +98,7 @@
 - **Weapons:** 
   - Advanced SRM 2 (ammo: 2) 
   - Bearhunter Superheavy AC × 2 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8519) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8519) 
 - **Battle Value:** 68 (476 for 5 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_upgrade_bearhuntersqd5.md) 
 
@@ -115,7 +115,7 @@
 - **Weapons:** 
   - Advanced SRM 2 (ammo: 2) 
   - Bearhunter Superheavy AC × 2 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8883) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8883) 
 - **Battle Value:** 68 (612 for 6 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_upgrade_bearhuntersqd6.md) 
 
@@ -133,7 +133,7 @@
   - Advanced SRM 2 (ammo: 2) 
   - Medium Recoilless Rifle 
   - LRM 2 (OS) 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1218) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1218) 
 - **Battle Value:** 78 (408 for 4 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_upgrade_mrrsqd4.md) 
 
@@ -151,7 +151,7 @@
   - Advanced SRM 2 (ammo: 2) 
   - Medium Recoilless Rifle 
   - LRM 2 (OS) 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8520) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8520) 
 - **Battle Value:** 78 (549 for 5 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_upgrade_mrrsqd5.md) 
 
@@ -169,7 +169,7 @@
   - Advanced SRM 2 (ammo: 2) 
   - Medium Recoilless Rifle 
   - LRM 2 (OS) 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8884) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8884) 
 - **Battle Value:** 78 (706 for 6 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_upgrade_mrrsqd6.md) 
 
@@ -186,7 +186,7 @@
 - **Weapons:** 
   - Advanced SRM 2 (ammo: 2) 
   - Micro Pulse Laser × 2 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1219) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1219) 
 - **Battle Value:** 78 (408 for 4 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_upgrade_pulse_lasersqd4.md) 
 
@@ -203,7 +203,7 @@
 - **Weapons:** 
   - Advanced SRM 2 (ammo: 2) 
   - Micro Pulse Laser × 2 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8521) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8521) 
 - **Battle Value:** 78 (549 for 5 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_upgrade_pulse_lasersqd5.md) 
 
@@ -220,7 +220,7 @@
 - **Weapons:** 
   - Advanced SRM 2 (ammo: 2) 
   - Micro Pulse Laser × 2 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8885) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8885) 
 - **Battle Value:** 78 (706 for 6 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_upgrade_pulse_lasersqd6.md) 
 
@@ -237,7 +237,7 @@
 - **Weapons:** 
   - LRM 4 (ammo: 4) 
   - AP Gauss Rifle 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1215) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1215) 
 - **Battle Value:** 87 (454 for 4 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_lrmsqd4.md) 
 
@@ -254,7 +254,7 @@
 - **Weapons:** 
   - LRM 4 (ammo: 4) 
   - AP Gauss Rifle 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8517) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8517) 
 - **Battle Value:** 87 (611 for 5 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_lrmsqd5.md) 
 
@@ -271,7 +271,7 @@
 - **Weapons:** 
   - LRM 4 (ammo: 4) 
   - AP Gauss Rifle 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8881) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8881) 
 - **Battle Value:** 87 (785 for 6 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_lrmsqd6.md) 
 
@@ -291,7 +291,7 @@
   - SRM 6 (OS) 
 - **Equipment:** 
   - Inner Sphere Magnetic Clamps 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8385) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8385) 
 - **Battle Value:** 54 (281 for 4 suits) 
 - [*More Info*](gnome_battle_armor/gnome_battle_armor_dwarfsqd4.md) 
 

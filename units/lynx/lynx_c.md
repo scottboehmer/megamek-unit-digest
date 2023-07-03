@@ -19,7 +19,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** Succesion Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7620) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7620) 
 - **Battle Value:** 2712 
 
 ## Availability 

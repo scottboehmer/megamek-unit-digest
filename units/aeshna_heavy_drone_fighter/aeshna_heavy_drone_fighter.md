@@ -17,7 +17,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Smart Robotic Control System (Improved) 
-- **Sources:** JHS:Terra - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/15) 
+- **Sources:** Jihad Hot Spots: Terra , [Master Unit List](http://masterunitlist.info/Unit/Details/15) 
 - **Battle Value:** Unknown 
 
 ## Availability 

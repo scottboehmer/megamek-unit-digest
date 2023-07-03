@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Man-Portable Plasma Rifle 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5288) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5288) 
 - **Battle Value:** 50 (260 for 4 suits) 
 
 ## Availability 

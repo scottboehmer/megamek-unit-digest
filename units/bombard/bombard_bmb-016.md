@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7980) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7980) 
 - **Battle Value:** 1247 
 
 ## Availability 

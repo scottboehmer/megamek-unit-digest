@@ -26,7 +26,7 @@
   - Fast Reload (Streak SRM 4) 
   - Fast Reload (LB 10-X AC) 
   - Fast Reload (LB 10-X AC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2517) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2517) 
 - **Battle Value:** 2219 
 
 ## Availability 

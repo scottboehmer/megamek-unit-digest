@@ -16,7 +16,7 @@
   - Heavy Large Laser × 2 
 - **Equipment:** 
   - Tracks 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7355) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7355) 
 - **Battle Value:** 1394 
 
 ## Availability 

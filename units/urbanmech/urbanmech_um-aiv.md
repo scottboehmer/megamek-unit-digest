@@ -20,7 +20,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3353) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3353) 
 - **Battle Value:** 603 
 
 ## Availability 

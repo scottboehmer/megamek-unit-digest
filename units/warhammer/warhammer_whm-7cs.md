@@ -22,7 +22,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Battle of Tukayyid - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7599) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7599) 
 - **Battle Value:** 1751 
 
 ## Availability 

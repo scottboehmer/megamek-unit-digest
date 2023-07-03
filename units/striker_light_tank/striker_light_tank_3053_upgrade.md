@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV (ammo: 8) 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3098) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3098) 
 - **Battle Value:** 691 
 
 ## Availability 

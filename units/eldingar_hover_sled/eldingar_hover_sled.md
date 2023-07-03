@@ -17,7 +17,7 @@
   - ECM Suite 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/947) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/947) 
 - **Battle Value:** 1402 
 
 ## Availability 

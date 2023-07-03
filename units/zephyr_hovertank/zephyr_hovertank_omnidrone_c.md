@@ -16,7 +16,7 @@
   - Angel ECM Suite 
   - M-Pod × 4 
   - Drone Operating System 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7303) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7303) 
 - **Battle Value:** 501 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4984) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4984) 
 - **Battle Value:** 3189 
 
 ## Availability 

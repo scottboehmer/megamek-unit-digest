@@ -24,7 +24,7 @@
   - Ubiquitous 
   - Stabilized Weapon (Streak SRM 4) 
   - Stabilized Weapon (Streak SRM 4) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/761) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/761) 
 - **Battle Value:** 1373 
 
 ## Availability 

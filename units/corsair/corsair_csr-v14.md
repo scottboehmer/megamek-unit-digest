@@ -15,7 +15,7 @@
   - ER Large Laser × 2 
   - Medium Laser × 2 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/696) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/696) 
 - **Battle Value:** Unknown 
 
 ## Availability 

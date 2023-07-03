@@ -22,7 +22,7 @@
   - Directional Torso Mount (SRM 2) 
   - Directional Torso Mount (SRM 2) 
   - EM Interference (PPC) 
-- **Sources:** XTRO Primitives V - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2488) 
+- **Sources:** XTR: Primitives V , [Master Unit List](http://masterunitlist.info/Unit/Details/2488) 
 - **Battle Value:** 917 
 
 ## Availability 

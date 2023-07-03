@@ -16,7 +16,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5148) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5148) 
 - **Battle Value:** Unknown 
 - [*More Info*](striga/striga_s-str-o_invictus.md) 
 
@@ -36,7 +36,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5149) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5149) 
 - **Battle Value:** Unknown 
 - [*More Info*](striga/striga_s-str-oa_dominus.md) 
 
@@ -56,7 +56,7 @@
   - Medium VSP Laser 
   - Medium Pulse Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5150) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5150) 
 - **Battle Value:** Unknown 
 - [*More Info*](striga/striga_s-str-ob_infernus.md) 
 
@@ -75,7 +75,7 @@
   - ER Medium Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5151) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5151) 
 - **Battle Value:** Unknown 
 - [*More Info*](striga/striga_s-str-oc_comminus.md) 
 
@@ -95,7 +95,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5152) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5152) 
 - **Battle Value:** Unknown 
 - [*More Info*](striga/striga_s-str-od_luminos.md) 
 
@@ -114,7 +114,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5153) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5153) 
 - **Battle Value:** Unknown 
 - [*More Info*](striga/striga_s-str-oe_eminus.md) 
 

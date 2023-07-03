@@ -18,7 +18,7 @@
 - **Equipment:** 
   - C3 Support 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8535) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/8535) 
 - **Battle Value:** 36 (255 for 5 suits) 
 
 ## Availability 

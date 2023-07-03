@@ -14,7 +14,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Stabilized Weapon (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2472) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/2472) 
 - **Battle Value:** 1434 
 - [*More Info*](horned_owl/horned_owl.md) 
 
@@ -33,7 +33,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stabilized Weapon (Unknown Component) 
-- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2473) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/2473) 
 - **Battle Value:** 1191 
 - [*More Info*](horned_owl/horned_owl_2.md) 
 
@@ -55,7 +55,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2474) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/2474) 
 - **Battle Value:** 1545 
 - [*More Info*](horned_owl/horned_owl_3.md) 
 
@@ -76,7 +76,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (ER Medium Laser) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2475) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2475) 
 - **Battle Value:** 1198 
 - [*More Info*](horned_owl/horned_owl_4.md) 
 
@@ -95,7 +95,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (Heavy Medium Laser) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2476) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2476) 
 - **Battle Value:** 1523 
 - [*More Info*](horned_owl/horned_owl_5.md) 
 
@@ -117,7 +117,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Stabilized Weapon (Unknown Component) 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7749) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7749) 
 - **Battle Value:** 1725 
 - [*More Info*](horned_owl/horned_owl_7.md) 
 
@@ -136,7 +136,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stabilized Weapon (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7748) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7748) 
 - **Battle Value:** 1475 
 - [*More Info*](horned_owl/horned_owl_6.md) 
 

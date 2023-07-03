@@ -17,7 +17,7 @@
   - Mine Dispenser × 2 
   - Flotation Hull 
   - Supercharger 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7330) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7330) 
 - **Battle Value:** 197 
 
 ## Availability 

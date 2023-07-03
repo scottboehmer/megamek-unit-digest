@@ -17,7 +17,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1470) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1470) 
 - **Battle Value:** Unknown 
 
 ## Availability 

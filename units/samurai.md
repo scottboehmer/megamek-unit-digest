@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Medium Laser × 6 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2790) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2790) 
 - **Battle Value:** Unknown 
 - [*More Info*](samurai/samurai_sl-25.md) 
 
@@ -29,7 +29,7 @@
   - ER Large Laser × 2 
   - Medium Laser × 4 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2791) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2791) 
 - **Battle Value:** Unknown 
 - [*More Info*](samurai/samurai_sl-26.md) 
 
@@ -47,7 +47,7 @@
   - ER Medium Laser × 5 
   - Medium Pulse Laser × 2 
   - ER Small Laser × 3 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2792) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2792) 
 - **Battle Value:** Unknown 
 - [*More Info*](samurai/samurai_sl-27.md) 
 

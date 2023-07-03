@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1202) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1202) 
 - **Battle Value:** 1412 
 
 ## Availability 

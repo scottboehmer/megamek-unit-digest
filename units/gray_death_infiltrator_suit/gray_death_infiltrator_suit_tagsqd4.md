@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Parafoil 
   - Light TAG 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6583) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6583) 
 - **Battle Value:** 39 (200 for 4 suits) 
 
 ## Availability 

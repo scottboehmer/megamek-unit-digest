@@ -21,7 +21,7 @@
   - MASC 
   - Supercharger 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8207) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8207) 
 - **Battle Value:** 3261 
 
 ## Availability 

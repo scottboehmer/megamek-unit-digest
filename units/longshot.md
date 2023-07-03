@@ -15,7 +15,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1946) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1946) 
 - **Battle Value:** 899 
 - [*More Info*](longshot/longshot_lng-1b.md) 
 
@@ -33,7 +33,7 @@
   - Small X-Pulse Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1947) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1947) 
 - **Battle Value:** 1215 
 - [*More Info*](longshot/longshot_lng-2.md) 
 
@@ -52,7 +52,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1948) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1948) 
 - **Battle Value:** 955 
 - [*More Info*](longshot/longshot_lng-3.md) 
 
@@ -71,7 +71,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1949) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1949) 
 - **Battle Value:** 971 
 - [*More Info*](longshot/longshot_lng-3c.md) 
 
@@ -89,7 +89,7 @@
   - Small X-Pulse Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1950) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1950) 
 - **Battle Value:** 1086 
 - [*More Info*](longshot/longshot_lng-4.md) 
 
@@ -111,7 +111,7 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9243) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/9243) 
 - **Battle Value:** 1787 
 - [*More Info*](longshot/longshot_lng-2_reskov.md) 
 

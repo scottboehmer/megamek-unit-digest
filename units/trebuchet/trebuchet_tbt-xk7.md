@@ -28,7 +28,7 @@
   - Prototype 
   - Fast Reload (Streak SRM 6) 
   - Jettison-Capable Weapon (Chain Whip) 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5563) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5563) 
 - **Battle Value:** 1549 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC 
   - SRM 6 (ammo: 15) 
-- **Sources:** Rec Guide:ilClan #31 - Late Succession War - Renaissance , [Master Unit List](http://masterunitlist.info/Unit/Details/9454) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9454) 
 - **Battle Value:** 859 
 
 ## Availability 

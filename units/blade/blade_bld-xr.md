@@ -26,7 +26,7 @@
   - Exposed Weapon Linkage (Light AC/2) 
   - Modular Weapon (Light AC/2) 
   - Static Ammo Feed (Light AC/2) 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7345) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7345) 
 - **Battle Value:** 1101 
 
 ## Availability 

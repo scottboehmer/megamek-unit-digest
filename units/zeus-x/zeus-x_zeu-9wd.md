@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Difficult to Maintain 
-- **Sources:** TRO 3050U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3646) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3646) 
 - **Battle Value:** 1716 
 
 ## Availability 

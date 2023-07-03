@@ -19,7 +19,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** TRO 3055u - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1685) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1685) 
 - **Battle Value:** Unknown 
 - [*More Info*](jengiz/jengiz_prime.md) 
 
@@ -36,7 +36,7 @@
   - ER PPC × 2 
   - Large Pulse Laser × 4 
   - ER Small Laser 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1681) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1681) 
 - **Battle Value:** Unknown 
 - [*More Info*](jengiz/jengiz_a.md) 
 
@@ -57,7 +57,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1682) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1682) 
 - **Battle Value:** Unknown 
 - [*More Info*](jengiz/jengiz_b.md) 
 
@@ -77,7 +77,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1683) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1683) 
 - **Battle Value:** Unknown 
 - [*More Info*](jengiz/jengiz_c.md) 
 
@@ -99,7 +99,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1684) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1684) 
 - **Battle Value:** Unknown 
 - [*More Info*](jengiz/jengiz_d.md) 
 
@@ -118,7 +118,7 @@
   - Streak SRM 2 (iOS) × 4 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4397) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/4397) 
 - **Battle Value:** Unknown 
 - [*More Info*](jengiz/jengiz_e.md) 
 
@@ -138,7 +138,7 @@
 - **Equipment:** 
   - Watchdog CEWS 
   - CASE 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4398) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/4398) 
 - **Battle Value:** Unknown 
 - [*More Info*](jengiz/jengiz_x.md) 
 
@@ -159,7 +159,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6809) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6809) 
 - **Battle Value:** Unknown 
 - [*More Info*](jengiz/jengiz_f.md) 
 

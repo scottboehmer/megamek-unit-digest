@@ -16,7 +16,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Searchlight 
-- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7569) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7569) 
 - **Battle Value:** 1363 
 
 ## Availability 

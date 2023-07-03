@@ -22,7 +22,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2390) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2390) 
 - **Battle Value:** 933 
 
 ## Availability 

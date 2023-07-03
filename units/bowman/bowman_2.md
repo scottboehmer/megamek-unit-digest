@@ -22,7 +22,7 @@
   - Fast Reload (All Weapons) 
   - Stable 
   - Bad Reputation (Clan) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/3858) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/3858) 
 - **Battle Value:** 2567 
 
 ## Availability 

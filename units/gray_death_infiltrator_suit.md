@@ -16,7 +16,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6582) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6582) 
 - **Battle Value:** 42 (216 for 4 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_firedrakesqd4.md) 
 
@@ -36,7 +36,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8763) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8763) 
 - **Battle Value:** 42 (291 for 5 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_firedrakesqd5.md) 
 
@@ -56,7 +56,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9126) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/9126) 
 - **Battle Value:** 42 (374 for 6 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_firedrakesqd6.md) 
 
@@ -76,7 +76,7 @@
 - **Equipment:** 
   - Mine Dispenser × 2 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6586) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6586) 
 - **Battle Value:** 51 (264 for 4 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_minessqd4.md) 
 
@@ -96,7 +96,7 @@
 - **Equipment:** 
   - Mine Dispenser × 2 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8767) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8767) 
 - **Battle Value:** 51 (356 for 5 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_minessqd5.md) 
 
@@ -116,7 +116,7 @@
 - **Equipment:** 
   - Mine Dispenser × 2 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9130) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/9130) 
 - **Battle Value:** 51 (458 for 6 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_minessqd6.md) 
 
@@ -136,7 +136,7 @@
 - **Equipment:** 
   - Parafoil 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6585) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6585) 
 - **Battle Value:** 39 (200 for 4 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_remote_sensorssqd4.md) 
 
@@ -156,7 +156,7 @@
 - **Equipment:** 
   - Parafoil 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8766) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8766) 
 - **Battle Value:** 39 (270 for 5 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_remote_sensorssqd5.md) 
 
@@ -176,7 +176,7 @@
 - **Equipment:** 
   - Parafoil 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9129) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/9129) 
 - **Battle Value:** 39 (347 for 6 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_remote_sensorssqd6.md) 
 
@@ -196,7 +196,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6584) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6584) 
 - **Battle Value:** 40 (208 for 4 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_sensorssqd4.md) 
 
@@ -216,7 +216,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8765) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8765) 
 - **Battle Value:** 40 (280 for 5 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_sensorssqd5.md) 
 
@@ -236,7 +236,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9128) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/9128) 
 - **Battle Value:** 40 (360 for 6 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_sensorssqd6.md) 
 
@@ -256,7 +256,7 @@
 - **Equipment:** 
   - Parafoil 
   - Light TAG 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6583) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6583) 
 - **Battle Value:** 39 (200 for 4 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_tagsqd4.md) 
 
@@ -276,7 +276,7 @@
 - **Equipment:** 
   - Parafoil 
   - Light TAG 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8764) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8764) 
 - **Battle Value:** 39 (270 for 5 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_tagsqd5.md) 
 
@@ -296,7 +296,7 @@
 - **Equipment:** 
   - Parafoil 
   - Light TAG 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9127) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/9127) 
 - **Battle Value:** 39 (347 for 6 suits) 
 - [*More Info*](gray_death_infiltrator_suit/gray_death_infiltrator_suit_tagsqd6.md) 
 

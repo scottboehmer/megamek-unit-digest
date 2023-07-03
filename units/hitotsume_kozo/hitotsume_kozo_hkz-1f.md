@@ -17,7 +17,7 @@
   - Heavy PPC 
   - ER Medium Laser × 2 
   - Hatchet 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6412) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6412) 
 - **Battle Value:** 1998 
 
 ## Availability 

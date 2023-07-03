@@ -16,7 +16,7 @@
   - AC/10 × 2 (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5365) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5365) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Cargo 
   - Dumper 
   - Lift Hoist 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7180) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7180) 
 - **Battle Value:** 836 
 - [*More Info*](grommet/grommet_d90_militiamech.md) 
 

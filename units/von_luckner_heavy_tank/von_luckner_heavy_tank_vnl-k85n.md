@@ -17,7 +17,7 @@
   - SRM 4 (iOS) 
   - Flamer 
   - Machine Gun (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9483) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9483) 
 - **Battle Value:** 1084 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (RAC/5) 
   - Exposed Weapon Linkage (RAC/5) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2044) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2044) 
 - **Battle Value:** 1750 
 
 ## Availability 

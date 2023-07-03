@@ -15,7 +15,7 @@
   - Gauss Rifle (ammo: 16) 
   - ER PPC × 2 
   - Medium Laser × 3 
-- **Sources:** Rec Guide:ilClan #6 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2031) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/2031) 
 - **Battle Value:** 2103 
 
 ## Availability 

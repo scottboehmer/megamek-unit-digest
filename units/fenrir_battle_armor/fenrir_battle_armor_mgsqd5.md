@@ -11,7 +11,7 @@
 - **Armor:** 5 (Standard) 
 - **Weapons:** 
   - Machine Gun × 3 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8509) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8509) 
 - **Battle Value:** 29 (206 for 5 suits) 
 
 ## Availability 

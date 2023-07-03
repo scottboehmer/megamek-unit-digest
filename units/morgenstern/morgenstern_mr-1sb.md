@@ -15,7 +15,7 @@
   - Improved Heavy Gauss Rifle (ammo: 12) 
   - ER Medium Laser × 3 
   - MML 5 (ammo: 20 SRM, 24 LRM) 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2222) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2222) 
 - **Battle Value:** Unknown 
 
 ## Availability 

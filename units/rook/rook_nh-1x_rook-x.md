@@ -18,7 +18,7 @@
   - ER Small Laser × 2 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** XTRO RetroTech - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4935) 
+- **Sources:** XTR: RetroTech , [Master Unit List](http://masterunitlist.info/Unit/Details/4935) 
 - **Battle Value:** 1187 
 
 ## Availability 

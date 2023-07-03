@@ -17,7 +17,7 @@
   - ER Micro Laser 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3351) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/3351) 
 - **Battle Value:** 39 (203 for 4 suits) 
 
 ## Availability 

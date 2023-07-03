@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Squad Support ECM Suite 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8913) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8913) 
 - **Battle Value:** 22 (196 for 6 suits) 
 
 ## Availability 

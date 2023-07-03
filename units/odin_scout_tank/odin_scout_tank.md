@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2317) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2317) 
 - **Battle Value:** 691 
 
 ## Availability 

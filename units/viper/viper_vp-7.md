@@ -22,7 +22,7 @@
   - Rugged (×2) 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** Rec Guide:ilClan #32 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9489) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9489) 
 - **Battle Value:** 1864 
 
 ## Availability 

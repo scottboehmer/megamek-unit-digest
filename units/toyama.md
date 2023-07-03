@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3278) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3278) 
 - **Battle Value:** 1714 
 - [*More Info*](toyama/toyama_tym-1a.md) 
 
@@ -40,7 +40,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3279) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3279) 
 - **Battle Value:** 1788 
 - [*More Info*](toyama/toyama_tym-1b.md) 
 
@@ -62,7 +62,7 @@
   - CASE 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3280) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3280) 
 - **Battle Value:** 1727 
 - [*More Info*](toyama/toyama_tym-1c.md) 
 

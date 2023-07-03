@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2471) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2471) 
 - **Battle Value:** 1834 
 
 ## Availability 

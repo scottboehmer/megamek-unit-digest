@@ -15,7 +15,7 @@
   - Large Laser 
   - Clan Prototype Rocket 15 × 2 
   - Clan Prototype Rocket 10 × 3 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2075) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2075) 
 - **Battle Value:** 976 
 
 ## Availability 

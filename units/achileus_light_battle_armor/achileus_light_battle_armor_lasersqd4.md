@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/9) 
 - **Battle Value:** 39 (205 for 4 suits) 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - ER Medium Laser × 5 
 - **Design Quirks:** 
   - Difficult Ejection 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6629) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6629) 
 - **Battle Value:** 1727 
 
 ## Availability 

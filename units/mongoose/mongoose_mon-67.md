@@ -18,7 +18,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2210) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2210) 
 - **Battle Value:** 741 
 
 ## Availability 

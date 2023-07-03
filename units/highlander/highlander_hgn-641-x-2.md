@@ -26,7 +26,7 @@
   - Reinforced Legs 
   - Difficult Ejection 
   - Prototype 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5552) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5552) 
 - **Battle Value:** 2152 
 
 ## Availability 

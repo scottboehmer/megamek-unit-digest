@@ -18,7 +18,7 @@
   - Wheels 
   - Targeting Computer 
   - Supercharger 
-- **Sources:** XTRO Republic III - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7370) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7370) 
 - **Battle Value:** 2335 
 
 ## Availability 

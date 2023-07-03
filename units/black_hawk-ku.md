@@ -15,7 +15,7 @@
   - Small Laser × 2 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/345) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/345) 
 - **Battle Value:** 1731 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-o.md) 
 
@@ -34,7 +34,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/347) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/347) 
 - **Battle Value:** 1770 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-oa.md) 
 
@@ -52,7 +52,7 @@
   - Ultra AC/5 (ammo: 20) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/348) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/348) 
 - **Battle Value:** 1303 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-ob.md) 
 
@@ -70,7 +70,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/349) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/349) 
 - **Battle Value:** 1597 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-oc.md) 
 
@@ -88,7 +88,7 @@
   - ER Large Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/350) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/350) 
 - **Battle Value:** 1539 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-od.md) 
 
@@ -108,7 +108,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/354) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/354) 
 - **Battle Value:** 1941 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-ox.md) 
 
@@ -128,7 +128,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3825) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3825) 
 - **Battle Value:** 2193 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-or.md) 
 
@@ -145,7 +145,7 @@
   - ER Medium Laser × 12 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/351) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/351) 
 - **Battle Value:** 1982 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-oe.md) 
 
@@ -165,7 +165,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/352) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/352) 
 - **Battle Value:** 1759 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-of.md) 
 
@@ -185,7 +185,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/346) 
+- **Sources:** Jihad Turning Points: Luthien , [Master Unit List](http://masterunitlist.info/Unit/Details/346) 
 - **Battle Value:** 2377 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-o_albert.md) 
 
@@ -205,7 +205,7 @@
   - Liquid Cargo 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/353) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/353) 
 - **Battle Value:** 1687 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-ou.md) 
 
@@ -227,7 +227,7 @@
   - TAG 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6890) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6890) 
 - **Battle Value:** 1719 
 - [*More Info*](black_hawk-ku/black_hawk-ku_bhku-og.md) 
 

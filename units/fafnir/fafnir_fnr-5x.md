@@ -20,7 +20,7 @@
   - No/Minimal Arms 
   - Stabilized Weapon (Improved Heavy Gauss Rifle) 
   - Stabilized Weapon (Improved Heavy Gauss Rifle) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1021) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1021) 
 - **Battle Value:** 2610 
 
 ## Availability 

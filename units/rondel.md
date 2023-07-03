@@ -12,7 +12,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
   - ER Medium Laser × 6 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6360) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6360) 
 - **Battle Value:** Unknown 
 - [*More Info*](rondel/rondel_rdl-01c.md) 
 

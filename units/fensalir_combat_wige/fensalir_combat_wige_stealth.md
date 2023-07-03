@@ -18,7 +18,7 @@
   - Anti-Missile System × 2 (ammo: 12) 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8040) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8040) 
 - **Battle Value:** 1534 
 
 ## Availability 

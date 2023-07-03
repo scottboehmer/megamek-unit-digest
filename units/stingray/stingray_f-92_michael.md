@@ -17,7 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3072) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/3072) 
 - **Battle Value:** Unknown 
 
 ## Availability 

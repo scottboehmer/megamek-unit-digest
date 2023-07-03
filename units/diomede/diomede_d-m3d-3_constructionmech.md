@@ -22,7 +22,7 @@
   - Liquid Cargo × 2 
   - Ejection Seat 
   - Tracks 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/901) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/901) 
 - **Battle Value:** 1227 
 
 ## Availability 

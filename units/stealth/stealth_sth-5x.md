@@ -22,7 +22,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5130) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/5130) 
 - **Battle Value:** 2155 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7525) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7525) 
 - **Battle Value:** 1853 
 
 ## Availability 

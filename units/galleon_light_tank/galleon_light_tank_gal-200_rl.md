@@ -14,7 +14,7 @@
   - Clan Prototype Rocket 20 × 2 
   - Clan Prototype Rocket 10 × 4 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** OP Klondyke - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1180) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1180) 
 - **Battle Value:** 443 
 
 ## Availability 

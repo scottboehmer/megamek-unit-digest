@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1487) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1487) 
 - **Battle Value:** 716 
 - [*More Info*](hermes/hermes_her-1s.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** Hist:Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1488) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1488) 
 - **Battle Value:** 1112 
 - [*More Info*](hermes/hermes_her-1sb.md) 
 
@@ -54,7 +54,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1485) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1485) 
 - **Battle Value:** 601 
 - [*More Info*](hermes/hermes_her-1a.md) 
 
@@ -71,7 +71,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1486) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1486) 
 - **Battle Value:** 687 
 - [*More Info*](hermes/hermes_her-1b.md) 
 
@@ -91,7 +91,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1489) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1489) 
 - **Battle Value:** 649 
 - [*More Info*](hermes/hermes_her-3s.md) 
 
@@ -111,7 +111,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1490) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1490) 
 - **Battle Value:** 726 
 - [*More Info*](hermes/hermes_her-3s1.md) 
 
@@ -132,7 +132,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1491) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1491) 
 - **Battle Value:** 600 
 - [*More Info*](hermes/hermes_her-3s2.md) 
 
@@ -152,7 +152,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1494) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1494) 
 - **Battle Value:** 1012 
 - [*More Info*](hermes/hermes_her-4s.md) 
 
@@ -174,7 +174,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1492) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1492) 
 - **Battle Value:** 1470 
 - [*More Info*](hermes/hermes_her-4k.md) 
 
@@ -195,7 +195,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1493) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1493) 
 - **Battle Value:** 1362 
 - [*More Info*](hermes/hermes_her-4m.md) 
 
@@ -215,7 +215,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1495) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1495) 
 - **Battle Value:** 1042 
 - [*More Info*](hermes/hermes_her-4wb.md) 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Thumper (ammo: 20) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/822) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/822) 
 - **Battle Value:** 576 
 
 ## Availability 

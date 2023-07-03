@@ -17,7 +17,7 @@
   - Machine Gun 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8498) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8498) 
 - **Battle Value:** 58 (404 for 5 suits) 
 
 ## Availability 

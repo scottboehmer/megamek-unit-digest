@@ -15,7 +15,7 @@
   - Combine × 2 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO VA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4265) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4265) 
 - **Battle Value:** 161 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Illegal Design 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8099) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8099) 
 - **Battle Value:** 571 
 - [*More Info*](crosscut_iic/crosscut_iic_solahmamech.md) 
 

@@ -15,7 +15,7 @@
   - Flamer 
 - **Equipment:** 
   - Infantry (1 tons) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2399) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2399) 
 - **Battle Value:** 344 
 
 ## Availability 

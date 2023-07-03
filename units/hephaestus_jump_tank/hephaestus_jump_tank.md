@@ -18,7 +18,7 @@
   - Active Probe 
   - Armored Motive System 
   - TAG 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4311) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4311) 
 - **Battle Value:** 993 
 
 ## Availability 

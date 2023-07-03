@@ -19,7 +19,7 @@
   - Cowl 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3367) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/3367) 
 - **Battle Value:** 1513 
 
 ## Availability 

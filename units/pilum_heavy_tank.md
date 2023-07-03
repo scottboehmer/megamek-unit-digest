@@ -12,7 +12,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 24) 
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2531) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2531) 
 - **Battle Value:** 1121 
 - [*More Info*](pilum_heavy_tank/pilum_heavy_tank.md) 
 
@@ -28,7 +28,7 @@
   - Arrow IV (ammo: 20) 
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2530) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2530) 
 - **Battle Value:** 1102 
 - [*More Info*](pilum_heavy_tank/pilum_heavy_tank_arrow_iv.md) 
 
@@ -46,7 +46,7 @@
 - **Equipment:** 
   - C3 Boosted Support 
   - CASE 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8048) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8048) 
 - **Battle Value:** 1302 
 - [*More Info*](pilum_heavy_tank/pilum_heavy_tank_elrm.md) 
 

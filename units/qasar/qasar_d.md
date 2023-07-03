@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ATM 9 × 2 (ammo: 21) 
   - Improved Heavy Medium Laser × 6 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7666) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7666) 
 - **Battle Value:** Unknown 
 
 ## Availability 

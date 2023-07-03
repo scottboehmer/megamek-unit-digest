@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Space Mine Dispenser × 2 
   - Command Console 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7325) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7325) 
 - **Battle Value:** Unknown 
 
 ## Availability 

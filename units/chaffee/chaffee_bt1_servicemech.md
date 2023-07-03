@@ -16,7 +16,7 @@
   - Paramedic Equipment × 2 
   - Enviro-Sealing 
   - Searchlight 
-- **Sources:** TRO VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7151) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/7151) 
 - **Battle Value:** 210 
 
 ## Availability 

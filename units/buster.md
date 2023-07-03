@@ -13,7 +13,7 @@
   - Lift Hoist × 2 
   - Cargo × 3 
   - Tracks 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/452) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/452) 
 - **Battle Value:** 222 
 - [*More Info*](buster/buster_bc_xv_haulermech.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - LRM 10 (ammo: 12) 
   - AC/5 (ammo: 20) 
-- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/453) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/453) 
 - **Battle Value:** 443 
 - [*More Info*](buster/buster_bc_xv-m_haulermech_mod.md) 
 
@@ -44,7 +44,7 @@
   - PPC 
 - **Equipment:** 
   - Cargo 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/454) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/454) 
 - **Battle Value:** 475 
 - [*More Info*](buster/buster_bc_xv-m-b_haulermech_mod.md) 
 
@@ -62,7 +62,7 @@
   - Lift Hoist × 2 
   - Cargo × 3 
   - Tracks 
-- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7220) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/7220) 
 - **Battle Value:** 222 
 - [*More Info*](buster/buster_bc_xxi_haulermech.md) 
 
@@ -80,7 +80,7 @@
   - SRM 2 × 4 (ammo: 100) 
 - **Equipment:** 
   - Tracks 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7865) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7865) 
 - **Battle Value:** 483 
 - [*More Info*](buster/buster_bc_xxi-m_haulermech_mod.md) 
 
@@ -95,7 +95,7 @@
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
   - Rocket 10 × 2 
-- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/7178) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7178) 
 - **Battle Value:** 726 
 - [*More Info*](buster/buster_bc_xv-m-c_haulermech_mod.md) 
 
@@ -111,7 +111,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/7179) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7179) 
 - **Battle Value:** 713 
 - [*More Info*](buster/buster_bc_xv-m-w_haulermech_mod.md) 
 

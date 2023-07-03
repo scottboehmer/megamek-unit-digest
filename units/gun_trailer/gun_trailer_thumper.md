@@ -14,7 +14,7 @@
   - Thumper (ammo: 120) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6533) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6533) 
 - **Battle Value:** 160 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - RAC/2 × 3 (ammo: 180) 
   - Small Laser 
-- **Sources:** Rec Guide:ilClan #30 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2522) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/2522) 
 - **Battle Value:** 961 
 
 ## Availability 

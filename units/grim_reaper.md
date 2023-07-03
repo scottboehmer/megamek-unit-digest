@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Protected Actuators 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1328) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1328) 
 - **Battle Value:** 1469 
 - [*More Info*](grim_reaper/grim_reaper_grm-r-pr29.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Protected Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1329) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1329) 
 - **Battle Value:** 1673 
 - [*More Info*](grim_reaper/grim_reaper_grm-r-pr30.md) 
 
@@ -67,7 +67,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Protected Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1330) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1330) 
 - **Battle Value:** 1655 
 - [*More Info*](grim_reaper/grim_reaper_grm-r-pr31.md) 
 
@@ -92,7 +92,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1331) 
+- **Sources:** Jihad Turning Points: New Avalon , [Master Unit List](http://masterunitlist.info/Unit/Details/1331) 
 - **Battle Value:** 1542 
 - [*More Info*](grim_reaper/grim_reaper_grm-r-pr62a.md) 
 
@@ -119,7 +119,7 @@
   - Difficult to Maintain 
   - Non-Standard Parts 
   - Poor Sealing 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5550) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5550) 
 - **Battle Value:** 2121 
 - [*More Info*](grim_reaper/grim_reaper_grm-r_einar.md) 
 

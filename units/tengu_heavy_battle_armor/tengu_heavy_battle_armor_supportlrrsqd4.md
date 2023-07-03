@@ -17,7 +17,7 @@
   - SRM 3 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5201) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5201) 
 - **Battle Value:** 49 (252 for 4 suits) 
 
 ## Availability 

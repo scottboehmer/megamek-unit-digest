@@ -17,7 +17,7 @@
   - Easy to Maintain 
   - Improved Targeting (Medium) 
   - Exposed Weapon Linkage (RAC/5) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/8296) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8296) 
 - **Battle Value:** 1520 
 
 ## Availability 

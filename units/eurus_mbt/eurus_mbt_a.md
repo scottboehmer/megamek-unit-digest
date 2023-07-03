@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Inner Sphere Supercharger 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9390) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9390) 
 - **Battle Value:** 1685 
 
 ## Availability 

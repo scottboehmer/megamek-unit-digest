@@ -18,7 +18,7 @@
   - Narrow/Low Profile 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1917) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1917) 
 - **Battle Value:** 795 
 
 ## Availability 

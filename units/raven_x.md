@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2672) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/2672) 
 - **Battle Value:** 1021 
 - [*More Info*](raven_x/raven_x_rvn-3x.md) 
 

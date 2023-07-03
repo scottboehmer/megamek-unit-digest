@@ -17,7 +17,7 @@
   - TAG 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2967) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2967) 
 - **Battle Value:** 578 
 
 ## Availability 

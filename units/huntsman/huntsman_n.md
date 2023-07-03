@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2295) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2295) 
 - **Battle Value:** 2556 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - MML 9 × 4 (ammo: 52 LRM, 44 SRM) 
   - ER Medium Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6701) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6701) 
 - **Battle Value:** 947 
 
 ## Availability 

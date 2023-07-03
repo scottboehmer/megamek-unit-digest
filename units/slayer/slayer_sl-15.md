@@ -14,7 +14,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 20) 
   - Medium Laser × 6 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2959) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2959) 
 - **Battle Value:** Unknown 
 
 ## Availability 

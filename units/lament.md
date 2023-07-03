@@ -19,7 +19,7 @@
   - Protected Actuators 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6676) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6676) 
 - **Battle Value:** 1999 
 - [*More Info*](lament/lament_lmt-2r.md) 
 
@@ -43,7 +43,7 @@
   - Protected Actuators 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7400) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/7400) 
 - **Battle Value:** 2302 
 - [*More Info*](lament/lament_lmt-2r_manes.md) 
 
@@ -67,7 +67,7 @@
   - Protected Actuators 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6722) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6722) 
 - **Battle Value:** 1874 
 - [*More Info*](lament/lament_lmt-3c.md) 
 
@@ -90,7 +90,7 @@
   - Protected Actuators 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6723) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6723) 
 - **Battle Value:** 1888 
 - [*More Info*](lament/lament_lmt-3r.md) 
 
@@ -113,7 +113,7 @@
   - Protected Actuators 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6724) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6724) 
 - **Battle Value:** 2490 
 - [*More Info*](lament/lament_lmt-4rc.md) 
 
@@ -138,7 +138,7 @@
   - Protected Actuators 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7383) 
 - **Battle Value:** 2044 
 - [*More Info*](lament/lament_lmt-2d.md) 
 

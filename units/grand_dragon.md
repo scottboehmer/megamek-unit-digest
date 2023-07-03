@@ -16,7 +16,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1256) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1256) 
 - **Battle Value:** 1300 
 - [*More Info*](grand_dragon/grand_dragon_drg-1g.md) 
 
@@ -37,7 +37,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1257) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/1257) 
 - **Battle Value:** 1076 
 - [*More Info*](grand_dragon/grand_dragon_drg-1g_douglas.md) 
 
@@ -59,7 +59,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1257) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1257) 
 - **Battle Value:** 1394 
 - [*More Info*](grand_dragon/grand_dragon_drg-1g_emory.md) 
 
@@ -81,7 +81,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1259) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1259) 
 - **Battle Value:** 1394 
 - [*More Info*](grand_dragon/grand_dragon_drg-5k_emory.md) 
 
@@ -103,7 +103,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1258) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1258) 
 - **Battle Value:** 1358 
 - [*More Info*](grand_dragon/grand_dragon_drg-5k.md) 
 
@@ -126,7 +126,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4230) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4230) 
 - **Battle Value:** 1322 
 - [*More Info*](grand_dragon/grand_dragon_drg-5k-dc.md) 
 
@@ -149,7 +149,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1264) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1264) 
 - **Battle Value:** 1322 
 - [*More Info*](grand_dragon/grand_dragon_drg-c.md) 
 
@@ -173,7 +173,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1260) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1260) 
 - **Battle Value:** 1702 
 - [*More Info*](grand_dragon/grand_dragon_drg-7k.md) 
 
@@ -197,7 +197,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** Starterbook: Sword and Dragon - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1261) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1261) 
 - **Battle Value:** 1817 
 - [*More Info*](grand_dragon/grand_dragon_drg-7k_mark.md) 
 
@@ -219,7 +219,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1263) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1263) 
 - **Battle Value:** 1147 
 - [*More Info*](grand_dragon/grand_dragon_drg-9kc.md) 
 
@@ -243,7 +243,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1262) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1262) 
 - **Battle Value:** 1673 
 - [*More Info*](grand_dragon/grand_dragon_drg-7kc.md) 
 
@@ -265,7 +265,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6889) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6889) 
 - **Battle Value:** 1603 
 - [*More Info*](grand_dragon/grand_dragon_drg-10k.md) 
 
@@ -288,7 +288,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8446) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8446) 
 - **Battle Value:** 2265 
 - [*More Info*](grand_dragon/grand_dragon_drg-12k.md) 
 

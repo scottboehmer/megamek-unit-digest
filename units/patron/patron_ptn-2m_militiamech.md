@@ -20,7 +20,7 @@
   - Ammunition Feed Problem (Light Machine Gun) 
   - Ammunition Feed Problem (Light Machine Gun) 
   - Ammunition Feed Problem (Light Machine Gun) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4795) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4795) 
 - **Battle Value:** 147 
 
 ## Availability 

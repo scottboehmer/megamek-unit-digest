@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1840) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1840) 
 - **Battle Value:** 631 
 - [*More Info*](koto/koto_kt-p2.md) 
 
@@ -34,7 +34,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1837) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1837) 
 - **Battle Value:** 977 
 - [*More Info*](koto/koto_kto-2a.md) 
 
@@ -52,7 +52,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1838) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1838) 
 - **Battle Value:** 806 
 - [*More Info*](koto/koto_kto-3a.md) 
 
@@ -70,7 +70,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1839) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1839) 
 - **Battle Value:** 1073 
 - [*More Info*](koto/koto_kto-4a.md) 
 

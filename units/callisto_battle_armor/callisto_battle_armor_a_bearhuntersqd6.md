@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Squad Support ER Medium Laser 
   - Bearhunter Superheavy AC 
-- **Sources:** Rec Guide:ilClan #31 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9439) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9439) 
 - **Battle Value:** 195 (505 for 6 suits) 
 
 ## Availability 

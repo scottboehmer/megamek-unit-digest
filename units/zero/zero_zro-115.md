@@ -15,7 +15,7 @@
   - ER PPC 
   - Medium Laser 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3050u - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3636) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3636) 
 - **Battle Value:** Unknown 
 
 ## Availability 

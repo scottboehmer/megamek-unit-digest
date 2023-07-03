@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 2 
   - SRM 4 (OS) × 2 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1884) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1884) 
 - **Battle Value:** 510 
 - [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft.md) 
 
@@ -28,7 +28,7 @@
   - Streak SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1883) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1883) 
 - **Battle Value:** 633 
 - [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft_royal.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Rocket 15 × 7 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1880) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1880) 
 - **Battle Value:** 956 
 - [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft_erml.md) 
 
@@ -59,7 +59,7 @@
   - ER Medium Laser 
   - Rocket 15 × 7 
   - ER Small Laser × 2 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1881) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1881) 
 - **Battle Value:** 884 
 - [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft_ersl.md) 
 
@@ -75,7 +75,7 @@
   - Rocket 15 × 7 
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 12) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1882) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1882) 
 - **Battle Value:** 709 
 - [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft_rl.md) 
 
@@ -92,7 +92,7 @@
   - Rocket 15 × 6 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5554) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5554) 
 - **Battle Value:** 687 
 - [*More Info*](lightning_attack_hovercraft/lightning_attack_hovercraft_cx-3.md) 
 

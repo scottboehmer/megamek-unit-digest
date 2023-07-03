@@ -20,7 +20,7 @@
   - TAG 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3254) 
 - **Battle Value:** 1880 
 
 ## Availability 

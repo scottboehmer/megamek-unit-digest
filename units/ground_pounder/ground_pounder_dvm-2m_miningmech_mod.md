@@ -16,7 +16,7 @@
   - Heavy-Duty Pile Driver 
 - **Equipment:** 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7873) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7873) 
 - **Battle Value:** 548 
 
 ## Availability 

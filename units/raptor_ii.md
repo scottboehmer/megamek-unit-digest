@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - No Ejection System 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2657) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2657) 
 - **Battle Value:** 896 
 - [*More Info*](raptor_ii/raptor_ii_rpt-2x.md) 
 
@@ -47,7 +47,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - No Ejection System 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2658) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2658) 
 - **Battle Value:** 1274 
 - [*More Info*](raptor_ii/raptor_ii_rpt-2x1.md) 
 
@@ -70,7 +70,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - No Ejection System 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2659) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2659) 
 - **Battle Value:** 1304 
 - [*More Info*](raptor_ii/raptor_ii_rpt-3x.md) 
 
@@ -94,7 +94,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - No Ejection System 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2660) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2660) 
 - **Battle Value:** 1124 
 - [*More Info*](raptor_ii/raptor_ii_rpt-5x.md) 
 
@@ -117,7 +117,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - No Ejection System 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6918) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6918) 
 - **Battle Value:** 1868 
 - [*More Info*](raptor_ii/raptor_ii_rpt-2x2.md) 
 

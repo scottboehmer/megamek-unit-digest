@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Inner Sphere A-Pod × 2 
   - CASE 
-- **Sources:** TP:Foster - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/9233) 
+- **Sources:** Turning Points: Foster , [Master Unit List](http://masterunitlist.info/Unit/Details/9233) 
 - **Battle Value:** 1604 
 
 ## Availability 

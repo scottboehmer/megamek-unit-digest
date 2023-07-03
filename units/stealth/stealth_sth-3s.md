@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3057) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3057) 
 - **Battle Value:** 1577 
 
 ## Availability 

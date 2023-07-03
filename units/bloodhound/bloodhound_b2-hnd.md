@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3839) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3839) 
 - **Battle Value:** 1363 
 
 ## Availability 

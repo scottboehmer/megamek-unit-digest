@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5657) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/5657) 
 - **Battle Value:** 1761 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/150) 
+- **Sources:** Historical Turning Points: Galtor , [Master Unit List](http://masterunitlist.info/Unit/Details/150) 
 - **Battle Value:** 1884 
 
 ## Availability 

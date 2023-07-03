@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Heavy Rifle (ammo: 12) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7469) 
+- **Sources:** Touring the Stars: Kaumberg , [Master Unit List](http://masterunitlist.info/Unit/Details/7469) 
 - **Battle Value:** 760 
 
 ## Availability 

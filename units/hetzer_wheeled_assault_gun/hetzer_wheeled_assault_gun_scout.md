@@ -14,7 +14,7 @@
   - AC/20 (ammo: 10) 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1510) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1510) 
 - **Battle Value:** 544 
 
 ## Availability 

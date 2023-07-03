@@ -16,7 +16,7 @@
   - ER Micro Laser × 8 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2393) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2393) 
 - **Battle Value:** 1598 
 
 ## Availability 

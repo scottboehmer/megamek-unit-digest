@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 8 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2331) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2331) 
 - **Battle Value:** 938 
 
 ## Availability 

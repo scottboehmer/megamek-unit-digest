@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1814) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1814) 
 - **Battle Value:** 78 (407 for 4 suits) 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/378) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/378) 
 - **Battle Value:** 1201 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-o.md) 
 
@@ -34,7 +34,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/379) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/379) 
 - **Battle Value:** 1318 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-oa.md) 
 
@@ -55,7 +55,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/380) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/380) 
 - **Battle Value:** 1323 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-ob.md) 
 
@@ -74,7 +74,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/381) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/381) 
 - **Battle Value:** 1189 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-oc.md) 
 
@@ -95,7 +95,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/382) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/382) 
 - **Battle Value:** 1375 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-od.md) 
 
@@ -115,7 +115,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/383) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/383) 
 - **Battle Value:** 1260 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-oe.md) 
 
@@ -135,7 +135,7 @@
   - Clan ER Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/385) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/385) 
 - **Battle Value:** 2010 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-or.md) 
 
@@ -155,7 +155,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/384) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/384) 
 - **Battle Value:** 1405 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-of.md) 
 
@@ -173,7 +173,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/387) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/387) 
 - **Battle Value:** 1320 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-ox.md) 
 
@@ -194,7 +194,7 @@
   - HarJel × 5 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/386) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/386) 
 - **Battle Value:** 1223 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-ou.md) 
 
@@ -212,7 +212,7 @@
   - Small Re-Engineered Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6908) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6908) 
 - **Battle Value:** 1448 
 - [*More Info*](blackjack_omnimech/blackjack_bj2-og.md) 
 

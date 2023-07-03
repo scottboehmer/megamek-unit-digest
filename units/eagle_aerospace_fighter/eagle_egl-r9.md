@@ -14,7 +14,7 @@
 - **Weapons:** 
   - PPC × 2 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4111) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4111) 
 - **Battle Value:** Unknown 
 
 ## Availability 

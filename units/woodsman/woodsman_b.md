@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7643) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7643) 
 - **Battle Value:** 2414 
 
 ## Availability 

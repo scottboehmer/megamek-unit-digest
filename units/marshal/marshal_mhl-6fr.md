@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Rugged (×3) 
-- **Sources:** Fronc Reachs , [Master Unit List](http://masterunitlist.info/Unit/Details/7698) 
+- **Sources:** Operational Turning Points: Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7698) 
 - **Battle Value:** 1429 
 
 ## Availability 

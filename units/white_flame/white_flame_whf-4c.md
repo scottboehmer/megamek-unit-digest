@@ -26,7 +26,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (Medium Pulse Laser) 
   - Directional Torso Mount (Medium Pulse Laser) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5693) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5693) 
 - **Battle Value:** 1680 
 
 ## Availability 

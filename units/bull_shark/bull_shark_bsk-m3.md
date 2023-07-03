@@ -19,6 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1779 
 
 ## Availability 

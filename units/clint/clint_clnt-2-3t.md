@@ -20,7 +20,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/644) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/644) 
 - **Battle Value:** 770 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - ECM Suite 
   - CASE 
   - AES 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6619) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6619) 
 - **Battle Value:** 1949 
 
 ## Availability 

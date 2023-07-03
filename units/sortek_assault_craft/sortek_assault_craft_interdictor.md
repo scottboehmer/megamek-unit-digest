@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - Armored Motive System 
   - C3 Support 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6319) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6319) 
 - **Battle Value:** 830 
 
 ## Availability 

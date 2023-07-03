@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1070) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1070) 
 - **Battle Value:** 1451 
 - [*More Info*](fire_falcon/fire_falcon_prime.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1063) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1063) 
 - **Battle Value:** 822 
 - [*More Info*](fire_falcon/fire_falcon_a.md) 
 
@@ -55,7 +55,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1064) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1064) 
 - **Battle Value:** 1570 
 - [*More Info*](fire_falcon/fire_falcon_b.md) 
 
@@ -78,7 +78,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1065) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1065) 
 - **Battle Value:** 1004 
 - [*More Info*](fire_falcon/fire_falcon_c.md) 
 
@@ -99,7 +99,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1066) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1066) 
 - **Battle Value:** 826 
 - [*More Info*](fire_falcon/fire_falcon_d.md) 
 
@@ -117,7 +117,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1067) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1067) 
 - **Battle Value:** 1094 
 - [*More Info*](fire_falcon/fire_falcon_e.md) 
 
@@ -135,7 +135,7 @@
   - Heavy Small Laser × 2 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1069) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1069) 
 - **Battle Value:** 1162 
 - [*More Info*](fire_falcon/fire_falcon_h.md) 
 
@@ -158,7 +158,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1068) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/1068) 
 - **Battle Value:** 1135 
 - [*More Info*](fire_falcon/fire_falcon_f.md) 
 
@@ -178,7 +178,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8180) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8180) 
 - **Battle Value:** 1269 
 - [*More Info*](fire_falcon/fire_falcon_g.md) 
 
@@ -195,7 +195,7 @@
   - ER Medium Laser × 5 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8181) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8181) 
 - **Battle Value:** 1678 
 - [*More Info*](fire_falcon/fire_falcon_i.md) 
 
@@ -214,7 +214,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8182) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8182) 
 - **Battle Value:** 1665 
 - [*More Info*](fire_falcon/fire_falcon_l.md) 
 
@@ -235,7 +235,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8183) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8183) 
 - **Battle Value:** 846 
 - [*More Info*](fire_falcon/fire_falcon_r.md) 
 
@@ -259,7 +259,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8179) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8179) 
 - **Battle Value:** 1661 
 - [*More Info*](fire_falcon/fire_falcon_t.md) 
 

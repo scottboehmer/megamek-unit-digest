@@ -16,7 +16,7 @@
   - Bombast Laser 
 - **Equipment:** 
   - Chaff Pod 
-- **Sources:** XTRO Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2879) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/2879) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Boosted Support 
   - CASE 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8048) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8048) 
 - **Battle Value:** 1302 
 
 ## Availability 

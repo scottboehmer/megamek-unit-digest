@@ -24,7 +24,7 @@
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
   - Fast Reload (ATM 9) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2514) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2514) 
 - **Battle Value:** 2483 
 
 ## Availability 

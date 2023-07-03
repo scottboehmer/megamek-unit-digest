@@ -15,7 +15,7 @@
   - LRM 5 × 2 (ammo: 24) 
   - Streak SRM 2 × 2 (ammo: 50) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2551) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2551) 
 - **Battle Value:** 1181 
 
 ## Availability 

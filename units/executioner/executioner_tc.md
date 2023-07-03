@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7596) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7596) 
 - **Battle Value:** 3363 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1705) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1705) 
 - **Battle Value:** 1349 
 - [*More Info*](jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier.md) 
 
@@ -33,7 +33,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1704) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1704) 
 - **Battle Value:** 1362 
 - [*More Info*](jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_ammo.md) 
 
@@ -48,7 +48,7 @@
 - **Weapons:** 
   - LRM 20 w/ Artemis IV × 4 (ammo: 48) 
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6805) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6805) 
 - **Battle Value:** 1209 
 - [*More Info*](jes_ii_strategic_missile_carrier/jes_ii_strategic_missile_carrier_support.md) 
 

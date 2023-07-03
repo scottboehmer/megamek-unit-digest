@@ -15,7 +15,7 @@
   - Lift Hoist 
   - Salvage Arm 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7859) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7859) 
 - **Battle Value:** 315 
 
 ## Availability 

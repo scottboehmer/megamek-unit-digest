@@ -15,7 +15,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/36) 
+- **Sources:** Historical Turning Points: Death to Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/36) 
 - **Battle Value:** 1625 
 
 ## Availability 

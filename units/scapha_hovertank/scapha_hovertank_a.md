@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
-- **Sources:** TRO 3145 Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6659) 
+- **Sources:** TRO: 3145 Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6659) 
 - **Battle Value:** 1252 
 
 ## Availability 

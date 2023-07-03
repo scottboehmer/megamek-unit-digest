@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/581) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/581) 
 - **Battle Value:** 613 
 
 ## Availability 

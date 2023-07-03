@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2274) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2274) 
 - **Battle Value:** 344 
 
 ## Availability 

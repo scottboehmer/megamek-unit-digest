@@ -14,7 +14,7 @@
 - **Equipment:** 
   - C3 Support 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3612) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3612) 
 - **Battle Value:** 799 
 - [*More Info*](yasha_vtol/yasha_vtol.md) 
 
@@ -31,7 +31,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3610) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3610) 
 - **Battle Value:** 576 
 - [*More Info*](yasha_vtol/yasha_vtol_spectre.md) 
 
@@ -49,7 +49,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3611) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3611) 
 - **Battle Value:** 584 
 - [*More Info*](yasha_vtol/yasha_vtol_interdictor.md) 
 

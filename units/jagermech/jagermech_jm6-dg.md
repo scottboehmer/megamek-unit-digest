@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1668) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1668) 
 - **Battle Value:** 1625 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/2 (ammo: 45) 
   - Chainsaw 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7852) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7852) 
 - **Battle Value:** 279 
 
 ## Availability 

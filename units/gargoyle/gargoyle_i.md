@@ -15,7 +15,7 @@
   - ER Large Laser × 3 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #11 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7756) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7756) 
 - **Battle Value:** 2516 
 
 ## Availability 

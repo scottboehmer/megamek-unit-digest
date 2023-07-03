@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
   - Medium Pulse Laser 
   - ER Small Laser 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5278) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5278) 
 - **Battle Value:** Unknown 
 
 ## Availability 

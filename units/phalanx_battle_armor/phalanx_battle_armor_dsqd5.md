@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Detachable Medium VSP Laser 
-- **Sources:** RS3145 NT NU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8788) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8788) 
 - **Battle Value:** 62 (436 for 5 suits) 
 
 ## Availability 

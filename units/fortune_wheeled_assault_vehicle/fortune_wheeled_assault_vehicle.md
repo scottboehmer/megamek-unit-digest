@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LB 20-X AC × 2 (ammo: 20 Cluster, 20 Standard) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4181) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4181) 
 - **Battle Value:** 1349 
 
 ## Availability 

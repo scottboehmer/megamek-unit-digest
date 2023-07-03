@@ -15,7 +15,7 @@
   - Magnetic Clamps 
   - Anti-Personnel Mount × 2 
   - Mechanical Jump Booster 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4215) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4215) 
 - **Battle Value:** 9 (47 for 4 suits) 
 - [*More Info*](gladiator_battle_armor/gladiator_battle_armor_s_sqd4.md) 
 
@@ -34,7 +34,7 @@
   - Magnetic Clamps 
   - Anti-Personnel Mount × 2 
   - Mechanical Jump Booster 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8619) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/8619) 
 - **Battle Value:** 9 (63 for 5 suits) 
 - [*More Info*](gladiator_battle_armor/gladiator_battle_armor_s_sqd5.md) 
 
@@ -53,7 +53,7 @@
   - Magnetic Clamps 
   - Anti-Personnel Mount × 2 
   - Mechanical Jump Booster 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8983) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/8983) 
 - **Battle Value:** 9 (81 for 6 suits) 
 - [*More Info*](gladiator_battle_armor/gladiator_battle_armor_s_sqd6.md) 
 

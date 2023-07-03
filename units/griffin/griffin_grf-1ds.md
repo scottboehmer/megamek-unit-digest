@@ -21,7 +21,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1294) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1294) 
 - **Battle Value:** 1285 
 
 ## Availability 

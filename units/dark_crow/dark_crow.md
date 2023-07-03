@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Low-Mounted Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/827) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/827) 
 - **Battle Value:** 1594 
 
 ## Availability 

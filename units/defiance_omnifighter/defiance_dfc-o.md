@@ -16,7 +16,7 @@
   - ER Medium Laser × 4 
   - Medium Pulse Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4059) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4059) 
 - **Battle Value:** Unknown 
 
 ## Availability 

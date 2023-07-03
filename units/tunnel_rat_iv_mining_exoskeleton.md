@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7214) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7214) 
 - **Battle Value:** 10 (51 for 4 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_armored_glove_glsqd4.md) 
 
@@ -36,7 +36,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8816) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8816) 
 - **Battle Value:** 10 (69 for 5 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_armored_glove_glsqd5.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9179) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9179) 
 - **Battle Value:** 10 (88 for 6 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_armored_glove_glsqd6.md) 
 
@@ -76,7 +76,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7215) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7215) 
 - **Battle Value:** 14 (71 for 4 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_armored_glove_lmgsqd4.md) 
 
@@ -96,7 +96,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8817) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8817) 
 - **Battle Value:** 14 (96 for 5 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_armored_glove_lmgsqd5.md) 
 
@@ -116,7 +116,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9180) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9180) 
 - **Battle Value:** 14 (123 for 6 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_armored_glove_lmgsqd6.md) 
 
@@ -136,7 +136,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7216) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7216) 
 - **Battle Value:** 10 (51 for 4 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_battle_claw_glsqd4.md) 
 
@@ -156,7 +156,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8818) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8818) 
 - **Battle Value:** 10 (69 for 5 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_battle_claw_glsqd5.md) 
 
@@ -176,7 +176,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9181) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9181) 
 - **Battle Value:** 10 (88 for 6 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_battle_claw_glsqd6.md) 
 
@@ -196,7 +196,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7217) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7217) 
 - **Battle Value:** 14 (71 for 4 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_battle_claw_lmgsqd4.md) 
 
@@ -216,7 +216,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8819) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8819) 
 - **Battle Value:** 14 (96 for 5 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_battle_claw_lmgsqd5.md) 
 
@@ -236,7 +236,7 @@
 - **Equipment:** 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9182) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9182) 
 - **Battle Value:** 14 (123 for 6 suits) 
 - [*More Info*](tunnel_rat_iv_mining_exoskeleton/tunnel_rat_iv_mining_exoskeleton_battle_claw_lmgsqd6.md) 
 

@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1554) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1554) 
 - **Battle Value:** 952 
 
 ## Availability 

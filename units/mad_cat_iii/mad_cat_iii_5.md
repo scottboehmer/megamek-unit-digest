@@ -20,7 +20,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6898) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6898) 
 - **Battle Value:** 2095 
 
 ## Availability 

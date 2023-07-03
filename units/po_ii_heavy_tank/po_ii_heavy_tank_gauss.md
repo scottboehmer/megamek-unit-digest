@@ -15,7 +15,7 @@
   - SRM 6 × 2 (ammo: 15) 
   - Machine Gun × 2 (ammo: 100) 
   - SRM 2 (iOS) × 2 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6794) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6794) 
 - **Battle Value:** 1211 
 
 ## Availability 

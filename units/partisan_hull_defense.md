@@ -14,7 +14,7 @@
   - Blue Shield PFD 
   - Environmentally Sealed Chassis 
   - C3 Boosted Support 
-- **Sources:** XTRO Corporations - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2446) 
+- **Sources:** XTR: Corporations , [Master Unit List](http://masterunitlist.info/Unit/Details/2446) 
 - **Battle Value:** 800 
 - [*More Info*](partisan_hull_defense/partisan_hull_defense.md) 
 

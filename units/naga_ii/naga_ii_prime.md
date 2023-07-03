@@ -24,7 +24,7 @@
   - Stabilized Weapon (LRM 20) 
   - Stabilized Weapon (Ultra AC/10) 
   - Stabilized Weapon (LB 10-X AC) 
-- **Sources:** Rec Guide:ilClan #26 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9322) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9322) 
 - **Battle Value:** 1840 
 
 ## Availability 

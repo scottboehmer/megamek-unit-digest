@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1559) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1559) 
 - **Battle Value:** 1043 
 
 ## Availability 

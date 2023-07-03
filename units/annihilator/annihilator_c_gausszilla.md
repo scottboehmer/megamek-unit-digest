@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/44) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/44) 
 - **Battle Value:** 2455 
 
 ## Availability 

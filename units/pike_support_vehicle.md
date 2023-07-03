@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/2 × 3 (ammo: 225) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2523) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2523) 
 - **Battle Value:** 648 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle.md) 
 
@@ -26,7 +26,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 18) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2521) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2521) 
 - **Battle Value:** 943 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_missile.md) 
 
@@ -41,7 +41,7 @@
 - **Weapons:** 
   - AC/5 × 2 (ammo: 140) 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2519) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2519) 
 - **Battle Value:** 715 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_ac5.md) 
 
@@ -58,7 +58,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #30 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2520) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/2520) 
 - **Battle Value:** 892 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_clan.md) 
 
@@ -73,7 +73,7 @@
 - **Weapons:** 
   - RAC/2 × 3 (ammo: 180) 
   - Small Laser 
-- **Sources:** Rec Guide:ilClan #30 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2522) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/2522) 
 - **Battle Value:** 961 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_rac_assault_pike.md) 
 
@@ -90,7 +90,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9423) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9423) 
 - **Battle Value:** 862 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_lb-x.md) 
 
@@ -108,7 +108,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - CASE 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9424) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9424) 
 - **Battle Value:** 1240 
 - [*More Info*](pike_support_vehicle/pike_support_vehicle_plasma.md) 
 

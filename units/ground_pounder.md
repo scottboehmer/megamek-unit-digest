@@ -16,7 +16,7 @@
   - Mech Sprayer × 4 
   - Liquid Cargo × 2 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7872) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7872) 
 - **Battle Value:** 465 
 - [*More Info*](ground_pounder/ground_pounder_dvm-2_miningmech.md) 
 
@@ -34,7 +34,7 @@
   - Heavy-Duty Pile Driver 
 - **Equipment:** 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7873) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7873) 
 - **Battle Value:** 548 
 - [*More Info*](ground_pounder/ground_pounder_dvm-2m_miningmech_mod.md) 
 

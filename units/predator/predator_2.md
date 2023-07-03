@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Cramped Cockpit 
   - Difficult Ejection 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2568) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2568) 
 - **Battle Value:** 2159 
 
 ## Availability 

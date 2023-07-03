@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Jump Booster 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3679) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3679) 
 - **Battle Value:** 42 (217 for 4 suits) 
 
 ## Availability 

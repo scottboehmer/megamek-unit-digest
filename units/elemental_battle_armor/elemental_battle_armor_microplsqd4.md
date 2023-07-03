@@ -17,7 +17,7 @@
   - Micro Pulse Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/962) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/962) 
 - **Battle Value:** 69 (356 for 4 suits) 
 
 ## Availability 

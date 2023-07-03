@@ -18,7 +18,7 @@
   - CASE II 
   - C3 Main 
   - Coolant Pod 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8000) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8000) 
 - **Battle Value:** 1991 
 
 ## Availability 

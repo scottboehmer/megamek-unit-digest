@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Cargo × 8 
   - Fully Amphibious Chassis 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2587) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2587) 
 - **Battle Value:** 625 
 
 ## Availability 

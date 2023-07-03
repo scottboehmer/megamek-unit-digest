@@ -23,7 +23,7 @@
   - Non-Standard Parts 
   - Prototype 
   - Stabilized Weapon (Large Pulse Laser) 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/251) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/251) 
 - **Battle Value:** 2647 
 - [*More Info*](banzai/banzai_bnz-x.md) 
 

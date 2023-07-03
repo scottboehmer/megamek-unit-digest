@@ -18,7 +18,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1563) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1563) 
 - **Battle Value:** 1340 
 
 ## Availability 

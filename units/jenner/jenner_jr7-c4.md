@@ -19,7 +19,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1691) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1691) 
 - **Battle Value:** 703 
 
 ## Availability 

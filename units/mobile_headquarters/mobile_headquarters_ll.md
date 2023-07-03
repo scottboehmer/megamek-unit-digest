@@ -14,7 +14,7 @@
   - Large Laser 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2199) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2199) 
 - **Battle Value:** 435 
 
 ## Availability 

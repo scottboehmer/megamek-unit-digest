@@ -14,7 +14,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Recon Camera 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7819) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7819) 
 - **Battle Value:** 291 
 
 ## Availability 

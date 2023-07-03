@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Rocket 10 × 4 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3157) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3157) 
 - **Battle Value:** 484 
 
 ## Availability 

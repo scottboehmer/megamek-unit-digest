@@ -17,7 +17,7 @@
   - Small Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1087) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1087) 
 - **Battle Value:** 831 
 
 ## Availability 

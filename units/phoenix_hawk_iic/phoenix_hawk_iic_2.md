@@ -24,7 +24,7 @@
   - Fast Reload (LRM 20) 
   - Fast Reload (LRM 20) 
   - Fast Reload (LRM 20) 
-- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2512) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/2512) 
 - **Battle Value:** 2892 
 
 ## Availability 

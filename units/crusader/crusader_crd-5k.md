@@ -22,7 +22,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/758) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/758) 
 - **Battle Value:** 1463 
 
 ## Availability 

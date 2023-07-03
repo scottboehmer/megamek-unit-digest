@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1245) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1245) 
 - **Battle Value:** 2466 
 
 ## Availability 

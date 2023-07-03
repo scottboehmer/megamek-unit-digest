@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Accurate Weapon (TAG) 
   - Stabilized Weapon (TAG) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1533) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1533) 
 - **Battle Value:** 925 
 - [*More Info*](hitman/hitman_hm-1.md) 
 
@@ -39,7 +39,7 @@
   - Beagle Active Probe 
   - C3 Support 
   - MASC 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1535) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1535) 
 - **Battle Value:** 861 
 - [*More Info*](hitman/hitman_hm-2.md) 
 
@@ -63,7 +63,7 @@
 - **Design Quirks:** 
   - Accurate Weapon (TAG) 
   - Stabilized Weapon (TAG) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1534) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1534) 
 - **Battle Value:** 938 
 - [*More Info*](hitman/hitman_hm-1r.md) 
 

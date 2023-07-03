@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7738) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7738) 
 - **Battle Value:** 885 
 - [*More Info*](ion_sparrow/ion_sparrow_prime.md) 
 
@@ -41,7 +41,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7739) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7739) 
 - **Battle Value:** 501 
 - [*More Info*](ion_sparrow/ion_sparrow_a.md) 
 
@@ -62,7 +62,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7740) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7740) 
 - **Battle Value:** 626 
 - [*More Info*](ion_sparrow/ion_sparrow_b.md) 
 
@@ -83,7 +83,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7741) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7741) 
 - **Battle Value:** 889 
 - [*More Info*](ion_sparrow/ion_sparrow_c.md) 
 
@@ -104,7 +104,7 @@
   - Partial Wing 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7742) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7742) 
 - **Battle Value:** 1121 
 - [*More Info*](ion_sparrow/ion_sparrow_d.md) 
 

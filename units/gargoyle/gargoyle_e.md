@@ -22,7 +22,7 @@
   - Stabilized Weapon (ATM 12) 
   - Stabilized Weapon (Heavy Medium Laser) 
   - Stabilized Weapon (Heavy Medium Laser) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2006) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2006) 
 - **Battle Value:** 2257 
 
 ## Availability 

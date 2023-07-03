@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/368) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/368) 
 - **Battle Value:** 1928 
 
 ## Availability 

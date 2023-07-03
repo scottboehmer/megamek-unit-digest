@@ -11,7 +11,7 @@
 - **Weapons:** 
   - AC/5 × 3 (ammo: 60) 
   - Machine Gun × 8 (ammo: 400) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2822) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2822) 
 - **Battle Value:** 773 
 - [*More Info*](schrek_ac_carrier/schrek_ac_carrier.md) 
 
@@ -25,7 +25,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Ultra AC/10 × 3 (ammo: 60) 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9477) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9477) 
 - **Battle Value:** 1005 
 - [*More Info*](schrek_ac_carrier/schrek_ac_carrier_lothian.md) 
 

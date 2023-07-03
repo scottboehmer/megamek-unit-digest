@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Improved Communications 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2710) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2710) 
 - **Battle Value:** 2307 
 
 ## Availability 

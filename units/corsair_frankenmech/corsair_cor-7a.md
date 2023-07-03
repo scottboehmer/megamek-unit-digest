@@ -17,6 +17,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Anti-Missile System × 4 (ammo: 48) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1805 
 
 ## Availability 

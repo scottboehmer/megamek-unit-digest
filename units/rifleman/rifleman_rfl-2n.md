@@ -18,7 +18,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7184) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/7184) 
 - **Battle Value:** 1093 
 
 ## Availability 

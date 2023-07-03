@@ -19,7 +19,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO:CI - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2066) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2066) 
 - **Battle Value:** 2358 
 
 ## Availability 

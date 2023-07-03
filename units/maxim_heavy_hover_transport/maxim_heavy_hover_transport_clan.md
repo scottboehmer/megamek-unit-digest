@@ -19,7 +19,7 @@
   - ECM Suite 
   - CASE 
   - Infantry (6.0 tons) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2123) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2123) 
 - **Battle Value:** 1147 
 
 ## Availability 

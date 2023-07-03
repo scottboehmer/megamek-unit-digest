@@ -16,7 +16,7 @@
   - Heavy PPC 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5660) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5660) 
 - **Battle Value:** 1226 
 
 ## Availability 

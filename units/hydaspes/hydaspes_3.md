@@ -20,7 +20,7 @@
   - Laser Anti-Missile System 
   - Inner Sphere Coolant Pod × 2 
   - CASE 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4351) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4351) 
 - **Battle Value:** Unknown 
 
 ## Availability 

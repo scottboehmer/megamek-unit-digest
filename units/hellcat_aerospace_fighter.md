@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Large Laser × 3 
   - Medium Laser × 5 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4295) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4295) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_aerospace_fighter/hellcat_hct-213.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 5 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4297) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4297) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_aerospace_fighter/hellcat_hct-213r.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - PPC × 2 
   - Medium Laser × 5 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5539) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5539) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_aerospace_fighter/hellcat_hct-213s.md) 
 
@@ -60,7 +60,7 @@
 - **Weapons:** 
   - SRM 6 × 4 (ammo: 60) 
   - Medium Laser × 3 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4296) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4296) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_aerospace_fighter/hellcat_hct-213d.md) 
 
@@ -76,7 +76,7 @@
 - **Weapons:** 
   - ER Large Laser × 3 
   - ER Medium Laser × 5 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4299) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4299) 
 - **Battle Value:** Unknown 
 - [*More Info*](hellcat_aerospace_fighter/hellcat_hct-313.md) 
 

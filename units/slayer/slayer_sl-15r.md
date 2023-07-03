@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 30 Cluster) 
   - Medium Laser × 6 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2965) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2965) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - HAG 30 (ammo: 20) 
-- **Sources:** Rec Guide:ilClan #29 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9388) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9388) 
 - **Battle Value:** 1051 
 
 ## Availability 

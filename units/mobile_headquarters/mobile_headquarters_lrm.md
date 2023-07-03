@@ -14,7 +14,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2200) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2200) 
 - **Battle Value:** 402 
 
 ## Availability 

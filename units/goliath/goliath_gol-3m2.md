@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8405) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/8405) 
 - **Battle Value:** 1631 
 
 ## Availability 

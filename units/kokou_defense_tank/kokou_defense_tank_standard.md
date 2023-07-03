@@ -15,7 +15,7 @@
   - LRM 10 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7672) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7672) 
 - **Battle Value:** 1189 
 
 ## Availability 

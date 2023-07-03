@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Left Arm) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1408) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1408) 
 - **Battle Value:** 1563 
 
 ## Availability 

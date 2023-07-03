@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - SRT 6 (ammo: 15) 
-- **Sources:** TRO3085S - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4581) 
+- **Sources:** TRO: 3085 Supplemental , [Master Unit List](http://masterunitlist.info/Unit/Details/4581) 
 - **Battle Value:** 810 
 
 ## Availability 

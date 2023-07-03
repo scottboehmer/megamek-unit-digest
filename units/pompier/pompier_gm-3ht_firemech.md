@@ -15,7 +15,7 @@
   - Liquid Cargo × 4 
   - Searchlight 
   - Mech Sprayer 
-- **Sources:** TRO VA - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4844) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4844) 
 - **Battle Value:** 106 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Ultra AC/20 (ammo: 20) 
   - ER Medium Laser × 8 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4883) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/4883) 
 - **Battle Value:** Unknown 
 
 ## Availability 

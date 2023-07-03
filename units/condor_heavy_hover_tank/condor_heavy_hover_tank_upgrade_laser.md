@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/684) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/684) 
 - **Battle Value:** 1197 
 
 ## Availability 

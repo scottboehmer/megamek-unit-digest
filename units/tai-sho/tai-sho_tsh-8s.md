@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stabilized Weapon (Ultra AC/10) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3151) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3151) 
 - **Battle Value:** 2001 
 
 ## Availability 

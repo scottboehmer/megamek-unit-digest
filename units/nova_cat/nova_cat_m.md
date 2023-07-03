@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #23 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8422) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8422) 
 - **Battle Value:** 2024 
 
 ## Availability 

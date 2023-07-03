@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Improved Life Support 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #26 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9313) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9313) 
 - **Battle Value:** 823 
 
 ## Availability 

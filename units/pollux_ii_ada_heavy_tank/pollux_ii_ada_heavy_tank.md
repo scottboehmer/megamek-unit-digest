@@ -16,7 +16,7 @@
   - Small X-Pulse Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** TP: Epsilon Eridani - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7401) 
+- **Sources:** Turning Points: Epsilon Eridani , [Master Unit List](http://masterunitlist.info/Unit/Details/7401) 
 - **Battle Value:** 1192 
 
 ## Availability 

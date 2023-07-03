@@ -14,7 +14,7 @@
   - Small VSP Laser × 2 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1459) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1459) 
 - **Battle Value:** 330 
 
 ## Availability 

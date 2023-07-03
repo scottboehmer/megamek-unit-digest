@@ -13,7 +13,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7843) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7843) 
 - **Battle Value:** 106 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - SRM 6 (OS) 
 - **Equipment:** 
   - Inner Sphere Magnetic Clamps 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8385) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8385) 
 - **Battle Value:** 54 (281 for 4 suits) 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - Bad Reputation (Clan) 
   - Accurate Weapon (Enhanced PPC) 
   - Accurate Weapon (Unknown Component) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7647) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7647) 
 - **Battle Value:** 2068 
 
 ## Availability 

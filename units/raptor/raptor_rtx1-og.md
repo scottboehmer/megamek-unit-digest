@@ -16,7 +16,7 @@
   - Small Pulse Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2654) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2654) 
 - **Battle Value:** 857 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1117) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1117) 
 - **Battle Value:** 2750 
 
 ## Availability 

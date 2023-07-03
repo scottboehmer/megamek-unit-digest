@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/459) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/459) 
 - **Battle Value:** 2498 
 - [*More Info*](canis/canis.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/460) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/460) 
 - **Battle Value:** 2822 
 - [*More Info*](canis/canis_2.md) 
 

@@ -14,6 +14,7 @@
   - Medium Laser × 3 
   - SRM 4 (ammo: 75) 
   - AC/2 × 3 (ammo: 135) 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1054 
 
 ## Availability 

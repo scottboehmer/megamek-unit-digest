@@ -22,7 +22,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1296) 
+- **Sources:** Jihad Turning Points: New Avalon , [Master Unit List](http://masterunitlist.info/Unit/Details/1296) 
 - **Battle Value:** 1862 
 
 ## Availability 

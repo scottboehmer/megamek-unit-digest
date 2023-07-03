@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 5 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4297) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4297) 
 - **Battle Value:** Unknown 
 
 ## Availability 

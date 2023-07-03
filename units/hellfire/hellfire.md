@@ -21,7 +21,7 @@
   - MASC 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4300) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4300) 
 - **Battle Value:** 2114 
 
 ## Availability 

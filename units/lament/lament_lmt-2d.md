@@ -23,7 +23,7 @@
   - Protected Actuators 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7383) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7383) 
 - **Battle Value:** 2044 
 
 ## Availability 

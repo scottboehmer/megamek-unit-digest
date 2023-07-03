@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Improved Life Support 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1137) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1137) 
 - **Battle Value:** 510 
 
 ## Availability 

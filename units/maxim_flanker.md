@@ -15,7 +15,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** XTRO Corporations - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2116) 
+- **Sources:** XTR: Corporations , [Master Unit List](http://masterunitlist.info/Unit/Details/2116) 
 - **Battle Value:** 776 
 - [*More Info*](maxim_flanker/maxim_flanker.md) 
 

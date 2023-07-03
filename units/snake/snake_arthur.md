@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6982) 
+- **Sources:** BattleTech Dossiers: Youling Zhanshi , [Master Unit List](http://masterunitlist.info/Unit/Details/6982) 
 - **Battle Value:** 1477 
 
 ## Availability 

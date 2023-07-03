@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1345) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1345) 
 - **Battle Value:** 2377 
 - [*More Info*](guillotine_iic/guillotine_iic.md) 
 
@@ -40,7 +40,7 @@
   - CASE 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1346) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1346) 
 - **Battle Value:** 2721 
 - [*More Info*](guillotine_iic/guillotine_iic_2.md) 
 

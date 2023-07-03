@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Improved Cooling Jacket (ER PPC) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1653) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1653) 
 - **Battle Value:** 918 
 - [*More Info*](jackal/jackal_ja-kl-1532.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Improved Cooling Jacket (ER PPC) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1655) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1655) 
 - **Battle Value:** 1034 
 - [*More Info*](jackal/jackal_ja-kl-55.md) 
 
@@ -56,7 +56,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Improved Cooling Jacket (ER PPC) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1654) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/1654) 
 - **Battle Value:** 1269 
 - [*More Info*](jackal/jackal_ja-kl-1579.md) 
 

@@ -17,7 +17,7 @@
   - Light Machine Gun 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9097) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/9097) 
 - **Battle Value:** 67 (602 for 6 suits) 
 
 ## Availability 

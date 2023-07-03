@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Lift Hoist × 2 
   - Cargo × 5 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2564) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2564) 
 - **Battle Value:** 198 
 
 ## Availability 

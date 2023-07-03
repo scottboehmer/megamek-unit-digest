@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - EM Interference (All Weapons) 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1839) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1839) 
 - **Battle Value:** 1073 
 
 ## Availability 

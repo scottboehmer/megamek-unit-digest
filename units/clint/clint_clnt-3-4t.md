@@ -22,7 +22,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/9462) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9462) 
 - **Battle Value:** 1157 
 
 ## Availability 

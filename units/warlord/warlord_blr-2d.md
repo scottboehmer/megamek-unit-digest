@@ -15,7 +15,7 @@
   - ER Medium Laser × 6 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3509) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3509) 
 - **Battle Value:** 2041 
 
 ## Availability 

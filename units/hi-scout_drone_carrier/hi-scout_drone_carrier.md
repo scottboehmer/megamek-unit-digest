@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Drone Control System 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1532) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1532) 
 - **Battle Value:** 347 
 
 ## Availability 

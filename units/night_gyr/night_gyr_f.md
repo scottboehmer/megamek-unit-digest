@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2268) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/2268) 
 - **Battle Value:** 2958 
 
 ## Availability 

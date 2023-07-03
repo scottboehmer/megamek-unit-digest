@@ -21,7 +21,7 @@
   - Distracting 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6421) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6421) 
 - **Battle Value:** 2542 
 - [*More Info*](tenshi/tenshi_tn-10-o.md) 
 
@@ -44,7 +44,7 @@
   - Distracting 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6422) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6422) 
 - **Battle Value:** 1829 
 - [*More Info*](tenshi/tenshi_tn-10-oa.md) 
 
@@ -67,7 +67,7 @@
   - Distracting 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6423) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6423) 
 - **Battle Value:** 3002 
 - [*More Info*](tenshi/tenshi_tn-10-ob.md) 
 
@@ -87,7 +87,7 @@
   - Distracting 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6424) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6424) 
 - **Battle Value:** 2183 
 - [*More Info*](tenshi/tenshi_tn-10-or.md) 
 

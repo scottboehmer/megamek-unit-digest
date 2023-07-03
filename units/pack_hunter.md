@@ -13,7 +13,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2392) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2392) 
 - **Battle Value:** 1369 
 - [*More Info*](pack_hunter/pack_hunter.md) 
 
@@ -31,7 +31,7 @@
   - ER Micro Laser × 8 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2393) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2393) 
 - **Battle Value:** 1598 
 - [*More Info*](pack_hunter/pack_hunter_2.md) 
 
@@ -51,7 +51,7 @@
   - MASC 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2394) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2394) 
 - **Battle Value:** 1747 
 - [*More Info*](pack_hunter/pack_hunter_3.md) 
 
@@ -71,7 +71,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2395) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2395) 
 - **Battle Value:** 1257 
 - [*More Info*](pack_hunter/pack_hunter_4.md) 
 
@@ -88,7 +88,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7440) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7440) 
 - **Battle Value:** 1644 
 - [*More Info*](pack_hunter/pack_hunter_5.md) 
 

@@ -11,7 +11,7 @@
 - **Armor:** 9 (Basic Stealth) 
 - **Weapons:** 
   - Firedrake Support Needler × 4 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8945) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8945) 
 - **Battle Value:** 43 (389 for 6 suits) 
 
 ## Availability 

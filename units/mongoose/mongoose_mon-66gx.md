@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Null-Signature System 
   - Chameleon LPS 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7318) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7318) 
 - **Battle Value:** 887 
 
 ## Availability 

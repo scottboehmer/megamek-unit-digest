@@ -18,7 +18,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4948) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4948) 
 - **Battle Value:** Unknown 
 - [*More Info*](rusalka/rusalka_s-rsl-o_invictus.md) 
 
@@ -40,7 +40,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4949) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4949) 
 - **Battle Value:** Unknown 
 - [*More Info*](rusalka/rusalka_s-rsl-oa_dominus.md) 
 
@@ -60,7 +60,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4951) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4951) 
 - **Battle Value:** Unknown 
 - [*More Info*](rusalka/rusalka_s-rsl-oc_comminus.md) 
 
@@ -78,7 +78,7 @@
   - Heavy PPC 
   - Large Pulse Laser × 2 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4952) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4952) 
 - **Battle Value:** Unknown 
 - [*More Info*](rusalka/rusalka_s-rsl-od_luminos.md) 
 
@@ -99,7 +99,7 @@
   - Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4953) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4953) 
 - **Battle Value:** Unknown 
 - [*More Info*](rusalka/rusalka_s-rsl-oe_eminus.md) 
 
@@ -117,7 +117,7 @@
   - Large VSP Laser 
   - ER Medium Laser × 2 
   - Medium VSP Laser × 4 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4950) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4950) 
 - **Battle Value:** Unknown 
 - [*More Info*](rusalka/rusalka_s-rsl-ob_infernus.md) 
 

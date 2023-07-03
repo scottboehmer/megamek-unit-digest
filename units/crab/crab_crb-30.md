@@ -19,7 +19,7 @@
   - C3i 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/718) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/718) 
 - **Battle Value:** 1509 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Heavy Machine Gun (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9481) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9481) 
 - **Battle Value:** 944 
 
 ## Availability 

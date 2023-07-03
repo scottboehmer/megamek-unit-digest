@@ -14,7 +14,7 @@
   - AC/10 × 2 (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3460) 
+- **Sources:** XTR: Primitives I , [Master Unit List](http://masterunitlist.info/Unit/Details/3460) 
 - **Battle Value:** Unknown 
 - [*More Info*](vulcan_aerospace_fighter/vulcan_vlc-3n.md) 
 
@@ -32,7 +32,7 @@
   - AC/10 × 2 (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5365) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5365) 
 - **Battle Value:** Unknown 
 - [*More Info*](vulcan_aerospace_fighter/vulcan_vlc-5n.md) 
 
@@ -50,7 +50,7 @@
   - Large Laser 
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5366) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5366) 
 - **Battle Value:** Unknown 
 - [*More Info*](vulcan_aerospace_fighter/vulcan_vlc-6n.md) 
 
@@ -68,7 +68,7 @@
   - Large Pulse Laser × 2 
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5367) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5367) 
 - **Battle Value:** Unknown 
 - [*More Info*](vulcan_aerospace_fighter/vulcan_vlc-8n.md) 
 

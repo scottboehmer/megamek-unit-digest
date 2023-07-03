@@ -17,7 +17,7 @@
   - Man-Portable Plasma Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8865) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8865) 
 - **Battle Value:** 43 (390 for 6 suits) 
 
 ## Availability 

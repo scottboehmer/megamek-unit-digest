@@ -14,7 +14,7 @@
   - Armored Glove (left) 
 - **Weapons:** 
   - David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5257) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5257) 
 - **Battle Value:** 15 (80 for 4 suits) 
 
 ## Availability 

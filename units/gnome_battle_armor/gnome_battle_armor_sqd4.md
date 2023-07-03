@@ -15,7 +15,7 @@
 - **Weapons:** 
   - ER Small Laser 
   - Advanced SRM 2 (ammo: 2) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1216) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1216) 
 - **Battle Value:** 83 (431 for 4 suits) 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - HarJel 
-- **Sources:** XTRO Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/3021) 
+- **Sources:** XTR: Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/3021) 
 - **Battle Value:** 441 
 
 ## Availability 

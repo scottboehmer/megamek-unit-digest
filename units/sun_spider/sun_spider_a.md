@@ -15,6 +15,7 @@
   - Ultra AC/2 × 4 (ammo: 90) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1931 
 
 ## Availability 

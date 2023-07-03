@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7592) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7592) 
 - **Battle Value:** 2373 
 
 ## Availability 

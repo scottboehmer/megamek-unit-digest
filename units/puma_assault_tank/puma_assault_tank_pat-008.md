@@ -18,7 +18,7 @@
   - Anti-Missile System × 6 (ammo: 60) 
   - B-Pod × 3 
   - Targeting Computer 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2602) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2602) 
 - **Battle Value:** 1522 
 
 ## Availability 

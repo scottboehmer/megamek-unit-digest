@@ -23,7 +23,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2287) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2287) 
 - **Battle Value:** 2145 
 
 ## Availability 

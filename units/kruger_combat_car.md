@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 2 
-- **Sources:** TRO 3145 Federated Suns - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/6312) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6312) 
 - **Battle Value:** 336 
 - [*More Info*](kruger_combat_car/kruger_combat_car_original.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6311) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6311) 
 - **Battle Value:** 429 
 - [*More Info*](kruger_combat_car/kruger_combat_car.md) 
 

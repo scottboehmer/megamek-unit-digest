@@ -17,7 +17,7 @@
   - Small VSP Laser 
 - **Equipment:** 
   - CASE II 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6675) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6675) 
 - **Battle Value:** 1568 
 - [*More Info*](kheper/kheper_khp-7r.md) 
 

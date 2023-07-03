@@ -14,7 +14,7 @@
   - Heavy Machine Gun × 4 (ammo: 50) 
 - **Equipment:** 
   - Machine Gun Array 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7850) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7850) 
 - **Battle Value:** 280 
 
 ## Availability 

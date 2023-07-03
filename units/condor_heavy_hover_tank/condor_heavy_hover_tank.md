@@ -14,7 +14,7 @@
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/683) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/683) 
 - **Battle Value:** 653 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Machine Gun × 3 (ammo: 200) 
-- **Sources:** Field Report 2765 DCMS - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/8117) 
+- **Sources:** Field Report 2765 DCMS , [Master Unit List](http://masterunitlist.info/Unit/Details/8117) 
 - **Battle Value:** Unknown 
 
 ## Availability 

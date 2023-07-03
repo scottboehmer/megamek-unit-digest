@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Clan Prototype Rocket 15 × 5 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2747) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2747) 
 - **Battle Value:** 320 
 
 ## Availability 

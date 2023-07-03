@@ -15,7 +15,7 @@
   - TAG 
   - Communications Equipment 
   - Ejection Seat 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2983) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2983) 
 - **Battle Value:** 395 
 
 ## Availability 

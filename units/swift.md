@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Small Laser 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3141) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3141) 
 - **Battle Value:** Unknown 
 - [*More Info*](swift/swift_swf-606.md) 
 
@@ -27,7 +27,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Pulse Laser × 3 
-- **Sources:** XTRO Gunslingers - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7326) 
+- **Sources:** XTR: Gunslingers , [Master Unit List](http://masterunitlist.info/Unit/Details/7326) 
 - **Battle Value:** Unknown 
 - [*More Info*](swift/swift_swf-606ca_aaron.md) 
 
@@ -43,7 +43,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - ER Small Laser 
-- **Sources:** TRO 3050u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3140) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3140) 
 - **Battle Value:** Unknown 
 - [*More Info*](swift/swift_c.md) 
 
@@ -58,7 +58,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5169) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5169) 
 - **Battle Value:** Unknown 
 - [*More Info*](swift/swift_swf-606r.md) 
 

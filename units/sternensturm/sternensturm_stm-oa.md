@@ -15,7 +15,7 @@
   - ER PPC 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6638) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6638) 
 - **Battle Value:** Unknown 
 
 ## Availability 

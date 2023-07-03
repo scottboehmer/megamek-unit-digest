@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1193) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1193) 
 - **Battle Value:** 1353 
 - [*More Info*](ghost/ghost_gst-10.md) 
 
@@ -42,7 +42,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1194) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1194) 
 - **Battle Value:** 1244 
 - [*More Info*](ghost/ghost_gst-11.md) 
 
@@ -64,7 +64,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6907) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6907) 
 - **Battle Value:** 1114 
 - [*More Info*](ghost/ghost_gst-50.md) 
 
@@ -88,7 +88,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8373) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8373) 
 - **Battle Value:** 1371 
 - [*More Info*](ghost/ghost_gst-10a_aurora.md) 
 
@@ -107,7 +107,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6906) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6906) 
 - **Battle Value:** 1012 
 - [*More Info*](ghost/ghost_gst-90.md) 
 

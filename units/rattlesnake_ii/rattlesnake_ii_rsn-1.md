@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - MASC 
-- **Sources:** Shrapnel 9 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9241) 
+- **Sources:** Shrapnel #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/9241) 
 - **Battle Value:** 1962 
 
 ## Availability 

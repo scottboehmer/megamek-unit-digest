@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Improved Targeting (Medium) 
   - Exposed Weapon Linkage (Ultra AC/10) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1866) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1866) 
 - **Battle Value:** 1128 
 
 ## Availability 

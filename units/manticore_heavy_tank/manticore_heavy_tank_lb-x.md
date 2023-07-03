@@ -14,7 +14,7 @@
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster) 
   - Streak SRM 6 (ammo: 15) 
   - Medium Pulse Laser 
-- **Sources:** TRO:3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2019) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2019) 
 - **Battle Value:** 961 
 
 ## Availability 

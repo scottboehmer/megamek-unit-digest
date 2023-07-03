@@ -13,7 +13,7 @@
   - AC/2 × 2 (ammo: 90) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Rec Guide:ilClan #28 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9362) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9362) 
 - **Battle Value:** 667 
 - [*More Info*](whirlwind_scout_hover_tank/whirlwind_scout_hover_tank.md) 
 
@@ -30,7 +30,7 @@
   - LB 2-X AC × 2 (ammo: 45 Standard, 45 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #28 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9364) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9364) 
 - **Battle Value:** 811 
 - [*More Info*](whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_aaa.md) 
 
@@ -49,7 +49,7 @@
   - Beagle Active Probe 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** Rec Guide:ilClan #28 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9363) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9363) 
 - **Battle Value:** 756 
 - [*More Info*](whirlwind_scout_hover_tank/whirlwind_scout_hover_tank_ifv.md) 
 

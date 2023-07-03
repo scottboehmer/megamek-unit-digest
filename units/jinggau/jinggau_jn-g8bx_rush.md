@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** JTP:Sian - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1709) 
+- **Sources:** Jihad Turning Points: Sian , [Master Unit List](http://masterunitlist.info/Unit/Details/1709) 
 - **Battle Value:** 1337 
 
 ## Availability 

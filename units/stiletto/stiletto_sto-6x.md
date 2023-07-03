@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult Ejection 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5134) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/5134) 
 - **Battle Value:** 1192 
 
 ## Availability 

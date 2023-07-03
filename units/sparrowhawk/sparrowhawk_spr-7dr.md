@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Medium Re-Engineered Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6818) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6818) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Light AC/2 × 4 (ammo: 90) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6322) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6322) 
 - **Battle Value:** 664 
 
 ## Availability 

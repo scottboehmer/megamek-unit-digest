@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - Streak SRM 4 (ammo: 25) 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6371) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6371) 
 - **Battle Value:** 862 
 - [*More Info*](saladin_mk_ii_hcv/saladin_mk_ii_hcv.md) 
 
@@ -28,7 +28,7 @@
   - Rocket 10 × 2 
 - **Equipment:** 
   - C3 Boosted Support 
-- **Sources:** TRO 3145 Draconis Combine - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6372) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6372) 
 - **Battle Value:** 793 
 - [*More Info*](saladin_mk_ii_hcv/saladin_mk_ii_hcv_bc3.md) 
 

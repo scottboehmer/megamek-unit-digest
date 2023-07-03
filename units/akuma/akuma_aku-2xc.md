@@ -23,7 +23,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/22) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/22) 
 - **Battle Value:** 2134 
 
 ## Availability 

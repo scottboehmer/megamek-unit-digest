@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #20 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8328) 
+- **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8328) 
 - **Battle Value:** 1760 
 
 ## Availability 

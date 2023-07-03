@@ -21,7 +21,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2452) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2452) 
 - **Battle Value:** 2824 
 - [*More Info*](peacekeeper/peacekeeper_pkp-1a.md) 
 
@@ -43,7 +43,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2453) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2453) 
 - **Battle Value:** 2981 
 - [*More Info*](peacekeeper/peacekeeper_pkp-1b.md) 
 
@@ -66,7 +66,7 @@
   - C3 Emergency Main 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6836) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6836) 
 - **Battle Value:** 2863 
 - [*More Info*](peacekeeper/peacekeeper_pkp-2k.md) 
 

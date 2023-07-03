@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER PPC 
   - Large Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5255) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5255) 
 - **Battle Value:** Unknown 
 
 ## Availability 

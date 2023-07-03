@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - SRM 6 × 2 (ammo: 15) 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6653) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6653) 
 - **Battle Value:** 910 
 
 ## Availability 

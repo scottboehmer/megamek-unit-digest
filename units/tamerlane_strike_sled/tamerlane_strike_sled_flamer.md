@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser × 2 
   - Flamer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3156) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3156) 
 - **Battle Value:** 436 
 
 ## Availability 

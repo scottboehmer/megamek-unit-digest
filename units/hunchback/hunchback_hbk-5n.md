@@ -16,7 +16,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1562) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1562) 
 - **Battle Value:** 1041 
 
 ## Availability 

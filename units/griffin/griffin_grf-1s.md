@@ -20,7 +20,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Large Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1298) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1298) 
 - **Battle Value:** 1253 
 
 ## Availability 

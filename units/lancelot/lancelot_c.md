@@ -16,7 +16,7 @@
   - Anti-Aircraft Targeting 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7626) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7626) 
 - **Battle Value:** 1960 
 
 ## Availability 

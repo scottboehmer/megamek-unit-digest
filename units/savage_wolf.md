@@ -18,7 +18,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6574) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6574) 
 - **Battle Value:** 2702 
 - [*More Info*](savage_wolf/savage_wolf_pr.md) 
 
@@ -41,7 +41,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6575) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6575) 
 - **Battle Value:** 2666 
 - [*More Info*](savage_wolf/savage_wolf_pr_2.md) 
 
@@ -63,7 +63,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6570) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6570) 
 - **Battle Value:** 2681 
 - [*More Info*](savage_wolf/savage_wolf_prime.md) 
 
@@ -86,7 +86,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6571) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6571) 
 - **Battle Value:** 2413 
 - [*More Info*](savage_wolf/savage_wolf_a.md) 
 
@@ -110,7 +110,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6572) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6572) 
 - **Battle Value:** 2606 
 - [*More Info*](savage_wolf/savage_wolf_b.md) 
 
@@ -134,7 +134,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6573) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6573) 
 - **Battle Value:** 2796 
 - [*More Info*](savage_wolf/savage_wolf_c.md) 
 

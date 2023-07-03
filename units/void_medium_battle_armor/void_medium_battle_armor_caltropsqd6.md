@@ -17,7 +17,7 @@
   - Clan ER Small Laser 
 - **Equipment:** 
   - Mine Dispenser 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8962) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/8962) 
 - **Battle Value:** 73 (659 for 6 suits) 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Mechanical Jump Booster 
-- **Sources:** XTR Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8516) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8516) 
 - **Battle Value:** 8 (60 for 5 suits) 
 
 ## Availability 

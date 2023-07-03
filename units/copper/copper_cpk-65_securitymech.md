@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Searchlight × 2 
-- **Sources:** RS:VA IM Exo - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3994) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/3994) 
 - **Battle Value:** 325 
 
 ## Availability 

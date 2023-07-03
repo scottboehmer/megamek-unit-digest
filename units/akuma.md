@@ -18,7 +18,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3691) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3691) 
 - **Battle Value:** 1959 
 - [*More Info*](akuma/akuma_aku-1x.md) 
 
@@ -39,7 +39,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3692) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3692) 
 - **Battle Value:** 2203 
 - [*More Info*](akuma/akuma_aku-1xj.md) 
 
@@ -62,7 +62,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5713) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5713) 
 - **Battle Value:** 2122 
 - [*More Info*](akuma/akuma_aku-2x.md) 
 
@@ -87,7 +87,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/22) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/22) 
 - **Battle Value:** 2134 
 - [*More Info*](akuma/akuma_aku-2xc.md) 
 
@@ -112,7 +112,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5714) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5714) 
 - **Battle Value:** 2170 
 - [*More Info*](akuma/akuma_aku-2xk.md) 
 

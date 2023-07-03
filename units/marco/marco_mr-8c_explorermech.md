@@ -19,7 +19,7 @@
   - Salvage Arm 
   - Cargo 
   - Searchlight 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4596) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/4596) 
 - **Battle Value:** 304 
 
 ## Availability 

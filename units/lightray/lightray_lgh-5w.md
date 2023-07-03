@@ -20,7 +20,7 @@
   - Hyper-Extending Actuators 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4521) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4521) 
 - **Battle Value:** 1674 
 
 ## Availability 

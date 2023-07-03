@@ -21,7 +21,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4230) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4230) 
 - **Battle Value:** 1322 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8977) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8977) 
 - **Battle Value:** 95 (857 for 6 suits) 
 
 ## Availability 

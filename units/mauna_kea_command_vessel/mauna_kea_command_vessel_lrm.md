@@ -16,7 +16,7 @@
   - Machine Gun × 5 (ammo: 100) 
 - **Equipment:** 
   - Communications Equipment 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2111) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2111) 
 - **Battle Value:** 1022 
 
 ## Availability 

@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5663) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5663) 
 - **Battle Value:** 1134 
 
 ## Availability 

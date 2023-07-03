@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
   - Cargo × 5 
   - Fully Amphibious Chassis 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2583) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2583) 
 - **Battle Value:** 695 
 
 ## Availability 

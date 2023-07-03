@@ -25,7 +25,7 @@
   - Stabilized Weapon (LRM 20) 
   - Stabilized Weapon (LRM 20) 
   - Stabilized Weapon (LRM 20) 
-- **Sources:** Rec Guide:ilClan #26 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9324) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9324) 
 - **Battle Value:** 2347 
 
 ## Availability 

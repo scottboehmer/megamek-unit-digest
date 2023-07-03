@@ -16,7 +16,7 @@
   - Large Pulse Laser 
   - Medium Laser × 4 
   - Small Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4229) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4229) 
 - **Battle Value:** Unknown 
 
 ## Availability 

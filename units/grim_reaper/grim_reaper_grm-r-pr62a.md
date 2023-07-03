@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1331) 
+- **Sources:** Jihad Turning Points: New Avalon , [Master Unit List](http://masterunitlist.info/Unit/Details/1331) 
 - **Battle Value:** 1542 
 
 ## Availability 

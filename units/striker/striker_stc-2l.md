@@ -15,7 +15,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8004) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8004) 
 - **Battle Value:** 1779 
 
 ## Availability 

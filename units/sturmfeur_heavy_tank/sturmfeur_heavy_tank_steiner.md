@@ -19,7 +19,7 @@
   - M-Pod × 4 
   - CASE 
   - TAG 
-- **Sources:** Rec Guide:ilClan #28 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6967) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/6967) 
 - **Battle Value:** 1651 
 
 ## Availability 

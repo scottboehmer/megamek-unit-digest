@@ -24,7 +24,7 @@
   - Non-Standard Parts 
   - Jettison-Capable Weapon (Large Pulse Laser) 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** XTR Republic III - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7375) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7375) 
 - **Battle Value:** 1785 
 
 ## Availability 

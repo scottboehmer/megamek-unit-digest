@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Battle Armor LB-X AC × 2 
   - SRM 1 (OS) 
-- **Sources:** RS 3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8797) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8797) 
 - **Battle Value:** 86 (601 for 5 suits) 
 
 ## Availability 

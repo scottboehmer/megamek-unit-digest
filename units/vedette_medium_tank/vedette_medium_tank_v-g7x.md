@@ -18,7 +18,7 @@
   - CASE 
   - Supercharger 
   - Targeting Computer 
-- **Sources:** XTRO Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3397) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/3397) 
 - **Battle Value:** 915 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ER Large Laser × 4 
   - ER Medium Laser × 6 
   - ER Small Laser 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2766) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2766) 
 - **Battle Value:** Unknown 
 
 ## Availability 

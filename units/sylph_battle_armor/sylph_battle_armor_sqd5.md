@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Micro Pulse Laser 
   - Bomb Rack (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8587) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8587) 
 - **Battle Value:** 54 (377 for 5 suits) 
 
 ## Availability 

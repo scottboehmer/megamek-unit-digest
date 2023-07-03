@@ -17,6 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1779 
 - [*More Info*](bull_shark/bull_shark_bsk-m3.md) 
 
@@ -37,6 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Distracting 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2179 
 - [*More Info*](bull_shark/bull_shark_bsk-maz.md) 
 

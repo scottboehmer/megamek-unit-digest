@@ -14,7 +14,7 @@
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster) 
   - SRM 6 w/ Artemis IV (ammo: 30) 
   - Medium Pulse Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3263) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3263) 
 - **Battle Value:** 912 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2920) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2920) 
 - **Battle Value:** 520 
 
 ## Availability 

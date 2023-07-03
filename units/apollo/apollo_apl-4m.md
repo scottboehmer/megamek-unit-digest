@@ -19,7 +19,7 @@
   - Fast Reload (All Weapons) 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3706) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3706) 
 - **Battle Value:** 1302 
 
 ## Availability 

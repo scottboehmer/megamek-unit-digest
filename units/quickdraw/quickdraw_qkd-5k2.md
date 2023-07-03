@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4886) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/4886) 
 - **Battle Value:** 1312 
 
 ## Availability 

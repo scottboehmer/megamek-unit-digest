@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Overhead Arms 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/837) 
+- **Sources:** Jihad Turning Points: Dieron , [Master Unit List](http://masterunitlist.info/Unit/Details/837) 
 - **Battle Value:** 1388 
 
 ## Availability 

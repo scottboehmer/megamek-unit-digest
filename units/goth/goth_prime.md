@@ -16,7 +16,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 16) 
   - ER Medium Laser × 4 
   - Small Pulse Laser × 2 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7658) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7658) 
 - **Battle Value:** Unknown 
 
 ## Availability 

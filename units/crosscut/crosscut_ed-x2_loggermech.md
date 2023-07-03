@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo × 2 
-- **Sources:** RS OK - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/741) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/741) 
 - **Battle Value:** 223 
 
 ## Availability 

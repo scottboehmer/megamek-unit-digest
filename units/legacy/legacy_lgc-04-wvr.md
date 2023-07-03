@@ -23,7 +23,7 @@
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (Snub-Nose PPC) 
   - Directional Torso Mount (Snub-Nose PPC) 
-- **Sources:** RS 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5702) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5702) 
 - **Battle Value:** 1745 
 
 ## Availability 

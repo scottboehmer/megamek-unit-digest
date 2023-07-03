@@ -17,7 +17,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Searchlight 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1339) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1339) 
 - **Battle Value:** 1400 
 
 ## Availability 

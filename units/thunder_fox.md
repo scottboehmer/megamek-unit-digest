@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3217) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3217) 
 - **Battle Value:** 1325 
 - [*More Info*](thunder_fox/thunder_fox_tft-a9.md) 
 
@@ -37,7 +37,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3219) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3219) 
 - **Battle Value:** 1513 
 - [*More Info*](thunder_fox/thunder_fox_tft-l8.md) 
 
@@ -59,7 +59,7 @@
   - C3 Main 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3218) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3218) 
 - **Battle Value:** 1104 
 - [*More Info*](thunder_fox/thunder_fox_tft-c3.md) 
 
@@ -81,7 +81,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6892) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6892) 
 - **Battle Value:** 2426 
 - [*More Info*](thunder_fox/thunder_fox_tft-f11.md) 
 

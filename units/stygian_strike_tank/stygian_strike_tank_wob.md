@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** RS:3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5728) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5728) 
 - **Battle Value:** 714 
 
 ## Availability 

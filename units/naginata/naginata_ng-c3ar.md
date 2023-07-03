@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2253) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2253) 
 - **Battle Value:** 1879 
 
 ## Availability 

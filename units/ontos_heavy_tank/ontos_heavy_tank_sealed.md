@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - Environmentally Sealed Chassis 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2330) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2330) 
 - **Battle Value:** 1070 
 
 ## Availability 

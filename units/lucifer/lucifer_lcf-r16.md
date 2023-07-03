@@ -16,7 +16,7 @@
   - ER Large Laser × 2 
   - Medium Pulse Laser 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1955) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1955) 
 - **Battle Value:** Unknown 
 
 ## Availability 

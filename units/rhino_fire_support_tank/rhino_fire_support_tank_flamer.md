@@ -15,7 +15,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Vehicle Flamer × 2 (ammo: 20) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2681) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2681) 
 - **Battle Value:** 1439 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Cramped Cockpit 
   - No/Minimal Arms 
   - Weak Legs 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1908) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1908) 
 - **Battle Value:** 719 
 
 ## Availability 

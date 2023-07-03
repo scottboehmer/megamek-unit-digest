@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
   - Medium Laser × 4 
   - Small Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3998) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3998) 
 - **Battle Value:** Unknown 
 
 ## Availability 

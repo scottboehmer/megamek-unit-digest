@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/271) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/271) 
 - **Battle Value:** 1507 
 
 ## Availability 

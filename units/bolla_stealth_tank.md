@@ -16,7 +16,7 @@
   - Anti-Missile System (ammo: 12) 
   - C3i 
   - Infantry (6.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/414) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/414) 
 - **Battle Value:** 914 
 - [*More Info*](bolla_stealth_tank/bolla_stealth_tank_comminus.md) 
 
@@ -36,7 +36,7 @@
   - Guardian ECM Suite 
   - C3i 
   - Infantry (6.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/415) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/415) 
 - **Battle Value:** 814 
 - [*More Info*](bolla_stealth_tank/bolla_stealth_tank_dominus.md) 
 
@@ -55,7 +55,7 @@
   - Guardian ECM Suite 
   - C3i 
   - Infantry (6.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/416) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/416) 
 - **Battle Value:** 992 
 - [*More Info*](bolla_stealth_tank/bolla_stealth_tank_infernus.md) 
 
@@ -74,7 +74,7 @@
   - Guardian ECM Suite 
   - C3i 
   - Infantry (6.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/417) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/417) 
 - **Battle Value:** 884 
 - [*More Info*](bolla_stealth_tank/bolla_stealth_tank_invictus.md) 
 

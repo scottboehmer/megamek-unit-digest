@@ -19,7 +19,7 @@
   - Active Probe 
   - MASC 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8205) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8205) 
 - **Battle Value:** 2655 
 
 ## Availability 

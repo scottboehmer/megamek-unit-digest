@@ -15,7 +15,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/137) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/137) 
 - **Battle Value:** 1641 
 - [*More Info*](athena_combat_vehicle/athena_combat_vehicle.md) 
 
@@ -33,7 +33,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3747) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/3747) 
 - **Battle Value:** 1309 
 - [*More Info*](athena_combat_vehicle/athena_combat_vehicle_xr.md) 
 
@@ -52,7 +52,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/136) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/136) 
 - **Battle Value:** 2132 
 - [*More Info*](athena_combat_vehicle/athena_combat_vehicle_hag.md) 
 

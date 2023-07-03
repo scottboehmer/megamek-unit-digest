@@ -17,7 +17,7 @@
   - ER Flamer 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7994) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7994) 
 - **Battle Value:** 1780 
 
 ## Availability 

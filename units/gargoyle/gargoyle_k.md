@@ -18,7 +18,7 @@
   - Active Probe 
   - CASE II 
   - Inner Sphere Supercharger 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7759) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7759) 
 - **Battle Value:** 2182 
 
 ## Availability 

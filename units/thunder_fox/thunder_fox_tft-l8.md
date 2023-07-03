@@ -17,7 +17,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3219) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3219) 
 - **Battle Value:** 1513 
 
 ## Availability 

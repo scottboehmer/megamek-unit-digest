@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Command ’Mech 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6678) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6678) 
 - **Battle Value:** 2561 
 
 ## Availability 

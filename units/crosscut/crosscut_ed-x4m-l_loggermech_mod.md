@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LB 5-X AC (ammo: 20) 
   - Chainsaw 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7854) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7854) 
 - **Battle Value:** 230 
 
 ## Availability 

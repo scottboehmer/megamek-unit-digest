@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2833) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2833) 
 - **Battle Value:** 1458 
 
 ## Availability 

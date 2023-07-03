@@ -19,7 +19,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3488) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3488) 
 - **Battle Value:** 1299 
 - [*More Info*](warhammer/warhammer_whm-6r.md) 
 
@@ -42,7 +42,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3489) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3489) 
 - **Battle Value:** 1431 
 - [*More Info*](warhammer/warhammer_whm-6rb.md) 
 
@@ -65,7 +65,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5871) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5871) 
 - **Battle Value:** 1621 
 - [*More Info*](warhammer/warhammer_whm-6rk.md) 
 
@@ -89,7 +89,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3490) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3490) 
 - **Battle Value:** 1679 
 - [*More Info*](warhammer/warhammer_whm-7a.md) 
 
@@ -112,7 +112,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3479) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3479) 
 - **Battle Value:** 1728 
 - [*More Info*](warhammer/warhammer_c.md) 
 
@@ -135,7 +135,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3487) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3487) 
 - **Battle Value:** 1311 
 - [*More Info*](warhammer/warhammer_whm-6l.md) 
 
@@ -157,7 +157,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3486) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3486) 
 - **Battle Value:** 1305 
 - [*More Info*](warhammer/warhammer_whm-6k.md) 
 
@@ -178,7 +178,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3485) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3485) 
 - **Battle Value:** 1471 
 - [*More Info*](warhammer/warhammer_whm-6d.md) 
 
@@ -205,7 +205,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7566) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7566) 
 - **Battle Value:** 2772 
 - [*More Info*](warhammer/warhammer_c_3.md) 
 
@@ -227,7 +227,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** TP Vega - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7798) 
+- **Sources:** Turning Points: War of 3039 - Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/7798) 
 - **Battle Value:** 1338 
 - [*More Info*](warhammer/warhammer_whm-6k_olesko.md) 
 
@@ -251,7 +251,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3492) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3492) 
 - **Battle Value:** 1487 
 - [*More Info*](warhammer/warhammer_whm-7m.md) 
 
@@ -273,7 +273,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3493) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3493) 
 - **Battle Value:** 1477 
 - [*More Info*](warhammer/warhammer_whm-7s.md) 
 
@@ -296,7 +296,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7565) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7565) 
 - **Battle Value:** 2157 
 - [*More Info*](warhammer/warhammer_c_2.md) 
 
@@ -320,7 +320,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Battle of Tukayyid - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7599) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7599) 
 - **Battle Value:** 1751 
 - [*More Info*](warhammer/warhammer_whm-7cs.md) 
 
@@ -344,7 +344,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5386) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/5386) 
 - **Battle Value:** 1402 
 - [*More Info*](warhammer/warhammer_whm-7m-dc.md) 
 
@@ -368,7 +368,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3491) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3491) 
 - **Battle Value:** 1651 
 - [*More Info*](warhammer/warhammer_whm-7k.md) 
 
@@ -393,7 +393,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS: Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3494) 
+- **Sources:** Record Sheets: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3494) 
 - **Battle Value:** 1744 
 - [*More Info*](warhammer/warhammer_whm-8d.md) 
 
@@ -417,7 +417,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS: Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3483) 
+- **Sources:** Record Sheets: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3483) 
 - **Battle Value:** 1743 
 - [*More Info*](warhammer/warhammer_whm-4l.md) 
 
@@ -440,7 +440,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3497) 
+- **Sources:** Record Sheets: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3497) 
 - **Battle Value:** 2152 
 - [*More Info*](warhammer/warhammer_whm-9d.md) 
 
@@ -463,7 +463,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3498) 
+- **Sources:** Record Sheets: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3498) 
 - **Battle Value:** 1653 
 - [*More Info*](warhammer/warhammer_whm-9s.md) 
 
@@ -486,7 +486,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS 3085 PP - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3496) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/3496) 
 - **Battle Value:** 1631 
 - [*More Info*](warhammer/warhammer_whm-8m.md) 
 
@@ -507,7 +507,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS 3085 PP - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3481) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/3481) 
 - **Battle Value:** 1891 
 - [*More Info*](warhammer/warhammer_whm-10t.md) 
 
@@ -530,7 +530,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS 3085 PP - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3495) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/3495) 
 - **Battle Value:** 1748 
 - [*More Info*](warhammer/warhammer_whm-8k.md) 
 
@@ -554,7 +554,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** XTRO:Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3499) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/3499) 
 - **Battle Value:** 1785 
 - [*More Info*](warhammer/warhammer_whm-x7_the_lich.md) 
 
@@ -578,7 +578,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS 3085 PP - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3484) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/3484) 
 - **Battle Value:** 1896 
 - [*More Info*](warhammer/warhammer_whm-5l.md) 
 
@@ -603,7 +603,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS 3085 PP - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3482) 
+- **Sources:** Record Sheets: 3085 Unabridged - Project Phoenix , [Master Unit List](http://masterunitlist.info/Unit/Details/3482) 
 - **Battle Value:** 1698 
 - [*More Info*](warhammer/warhammer_whm-11t.md) 
 
@@ -630,7 +630,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS 3085 CE - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3480) 
+- **Sources:** Record Sheets: 3085 Unabridged - Cutting Edge , [Master Unit List](http://masterunitlist.info/Unit/Details/3480) 
 - **Battle Value:** 1758 
 - [*More Info*](warhammer/warhammer_whd-10ct.md) 
 
@@ -655,7 +655,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6868) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6868) 
 - **Battle Value:** 1654 
 - [*More Info*](warhammer/warhammer_whm-8d2.md) 
 
@@ -680,7 +680,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7563) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7563) 
 - **Battle Value:** 1697 
 - [*More Info*](warhammer/warhammer_whm-8r.md) 
 
@@ -702,7 +702,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7567) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7567) 
 - **Battle Value:** 1744 
 - [*More Info*](warhammer/warhammer_whm-9k.md) 
 
@@ -727,7 +727,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7564) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7564) 
 - **Battle Value:** 2033 
 - [*More Info*](warhammer/warhammer_whm-10k.md) 
 

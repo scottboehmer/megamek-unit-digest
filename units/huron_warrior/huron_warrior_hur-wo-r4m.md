@@ -16,7 +16,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1581) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1581) 
 - **Battle Value:** 1556 
 
 ## Availability 

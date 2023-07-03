@@ -16,7 +16,7 @@
   - Heavy Mortar × 2 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** RS3145 NTNU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6745) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6745) 
 - **Battle Value:** 58 (301 for 4 suits) 
 
 ## Availability 

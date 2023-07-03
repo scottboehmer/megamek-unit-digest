@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Distracting 
   - Difficult to Maintain 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6346) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6346) 
 - **Battle Value:** 2225 
 
 ## Availability 

@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1332) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1332) 
 - **Battle Value:** 2219 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Clan Micro Pulse Laser 
   - Light Mortar 
-- **Sources:** Rec Guide:ilClan #29 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9384) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9384) 
 - **Battle Value:** 56 (508 for 6 suits) 
 
 ## Availability 

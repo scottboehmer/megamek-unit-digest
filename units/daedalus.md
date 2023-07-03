@@ -79,7 +79,7 @@
   - CASE 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/789) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/789) 
 - **Battle Value:** 1070 
 - [*More Info*](daedalus/daedalus_dad-3c.md) 
 
@@ -102,7 +102,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/790) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/790) 
 - **Battle Value:** 1729 
 - [*More Info*](daedalus/daedalus_dad-3d.md) 
 
@@ -126,7 +126,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/791) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/791) 
 - **Battle Value:** 1466 
 - [*More Info*](daedalus/daedalus_dad-4a.md) 
 
@@ -150,7 +150,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/792) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/792) 
 - **Battle Value:** 1431 
 - [*More Info*](daedalus/daedalus_dad-4b.md) 
 
@@ -173,7 +173,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8105) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8105) 
 - **Battle Value:** 1606 
 - [*More Info*](daedalus/daedalus_dad-dx.md) 
 

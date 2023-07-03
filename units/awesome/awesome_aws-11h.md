@@ -15,7 +15,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
-- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7501) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7501) 
 - **Battle Value:** 2036 
 
 ## Availability 

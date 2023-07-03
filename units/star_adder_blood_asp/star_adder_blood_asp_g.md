@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/405) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/405) 
 - **Battle Value:** 3270 
 
 ## Availability 

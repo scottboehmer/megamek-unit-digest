@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - Cargo × 5 
   - Fully Amphibious Chassis 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2586) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2586) 
 - **Battle Value:** 640 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Flamer 
 - **Equipment:** 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9343) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9343) 
 - **Battle Value:** 1213 
 
 ## Availability 

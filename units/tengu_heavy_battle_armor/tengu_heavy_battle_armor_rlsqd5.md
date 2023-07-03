@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Machine Gun 
   - Rocket Launcher 4 × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8681) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8681) 
 - **Battle Value:** 47 (326 for 5 suits) 
 
 ## Availability 

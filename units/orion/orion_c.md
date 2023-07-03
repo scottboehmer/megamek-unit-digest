@@ -16,7 +16,7 @@
   - Clan ER Medium Pulse Laser × 3 
 - **Equipment:** 
   - Clan CASE II 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7998) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7998) 
 - **Battle Value:** 2343 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - C3 Main 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5734) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5734) 
 - **Battle Value:** 1274 
 
 ## Availability 

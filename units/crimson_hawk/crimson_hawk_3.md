@@ -16,7 +16,7 @@
   - ER Medium Laser 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/723) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/723) 
 - **Battle Value:** 1029 
 
 ## Availability 

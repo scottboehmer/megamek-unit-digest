@@ -15,7 +15,7 @@
   - CASE 
   - Inner Sphere Supercharger 
   - Inner Sphere TAG 
-- **Sources:** Shrapnel 6 - ilClan , [Master Unit List](http://masterunitlist.info/Unit/Details/8265) 
+- **Sources:** Shrapnel #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/8265) 
 - **Battle Value:** 2021 
 - [*More Info*](sm5_field_commander/sm5_field_commander_prime.md) 
 

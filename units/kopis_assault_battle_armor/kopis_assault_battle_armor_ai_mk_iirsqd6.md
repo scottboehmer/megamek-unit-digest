@@ -17,7 +17,7 @@
   - Clan Heavy Grenade Launcher × 2 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** RS3145 NTNU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9162) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9162) 
 - **Battle Value:** 63 (570 for 6 suits) 
 
 ## Availability 

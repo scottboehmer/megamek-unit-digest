@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Stabilized Weapon (Large Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #11 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2472) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/2472) 
 - **Battle Value:** 1434 
 
 ## Availability 

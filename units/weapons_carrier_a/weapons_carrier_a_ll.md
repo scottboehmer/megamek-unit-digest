@@ -14,7 +14,7 @@
   - Large Laser 
 - **Equipment:** 
   - Infantry (6 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5397) 
+- **Sources:** TRO: 3025 , [Master Unit List](http://masterunitlist.info/Unit/Details/5397) 
 - **Battle Value:** 297 
 
 ## Availability 

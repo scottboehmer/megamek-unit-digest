@@ -20,7 +20,7 @@
   - Angel ECM Suite 
   - Clan Targeting Computer 
   - Clan MASC 
-- **Sources:** Shrapnel 9 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9240) 
+- **Sources:** Shrapnel #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/9240) 
 - **Battle Value:** 1959 
 
 ## Availability 

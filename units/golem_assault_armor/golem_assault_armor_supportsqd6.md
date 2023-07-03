@@ -16,7 +16,7 @@
   - Advanced SRM 6 (ammo: 6) 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8886) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8886) 
 - **Battle Value:** 132 (1185 for 6 suits) 
 
 ## Availability 

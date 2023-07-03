@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2974) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2974) 
 - **Battle Value:** 980 
 - [*More Info*](snake/snake_snk-1v.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2975) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/2975) 
 - **Battle Value:** 1316 
 - [*More Info*](snake/snake_snk-1v_alexi.md) 
 
@@ -60,7 +60,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2976) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2976) 
 - **Battle Value:** 1081 
 - [*More Info*](snake/snake_snk-2b.md) 
 
@@ -83,7 +83,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6982) 
+- **Sources:** BattleTech Dossiers: Youling Zhanshi , [Master Unit List](http://masterunitlist.info/Unit/Details/6982) 
 - **Battle Value:** 1477 
 - [*More Info*](snake/snake_arthur.md) 
 
@@ -105,7 +105,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Protected Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2977) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2977) 
 - **Battle Value:** 1577 
 - [*More Info*](snake/snake_snk-2br.md) 
 

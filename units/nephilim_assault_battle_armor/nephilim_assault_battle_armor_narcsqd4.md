@@ -15,7 +15,7 @@
   - Compact Narc (ammo: 2) 
   - Detachable Support PPC 
   - Rocket Launcher 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4703) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4703) 
 - **Battle Value:** 79 (410 for 4 suits) 
 
 ## Availability 

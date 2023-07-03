@@ -21,7 +21,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5706) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5706) 
 - **Battle Value:** 2792 
 
 ## Availability 

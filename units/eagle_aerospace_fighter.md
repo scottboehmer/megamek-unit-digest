@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Large Laser × 3 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4106) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4106) 
 - **Battle Value:** Unknown 
 - [*More Info*](eagle_aerospace_fighter/eagle_egl-r1.md) 
 
@@ -30,7 +30,7 @@
 - **Weapons:** 
   - Large Laser × 2 
   - Medium Laser × 5 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4109) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4109) 
 - **Battle Value:** Unknown 
 - [*More Info*](eagle_aerospace_fighter/eagle_egl-r4.md) 
 
@@ -46,7 +46,7 @@
 - **Weapons:** 
   - Large Laser × 3 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4110) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4110) 
 - **Battle Value:** Unknown 
 - [*More Info*](eagle_aerospace_fighter/eagle_egl-r6.md) 
 
@@ -62,7 +62,7 @@
 - **Weapons:** 
   - PPC × 2 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4111) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4111) 
 - **Battle Value:** Unknown 
 - [*More Info*](eagle_aerospace_fighter/eagle_egl-r9.md) 
 
@@ -78,7 +78,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 10 
-- **Sources:** TRO 3075 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4107) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4107) 
 - **Battle Value:** Unknown 
 - [*More Info*](eagle_aerospace_fighter/eagle_egl-r10.md) 
 
@@ -95,7 +95,7 @@
   - Large Pulse Laser × 3 
   - Medium Pulse Laser × 4 
   - Medium Laser × 2 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/939) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/939) 
 - **Battle Value:** Unknown 
 - [*More Info*](eagle_aerospace_fighter/eagle_egl-r6b.md) 
 
@@ -112,7 +112,7 @@
   - ER PPC 
   - Large Pulse Laser × 2 
   - Medium Laser × 3 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4108) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4108) 
 - **Battle Value:** Unknown 
 - [*More Info*](eagle_aerospace_fighter/eagle_egl-r11.md) 
 

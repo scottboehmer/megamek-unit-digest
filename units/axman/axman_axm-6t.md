@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3771) 
 - **Battle Value:** 1830 
 
 ## Availability 

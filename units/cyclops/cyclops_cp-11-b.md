@@ -22,7 +22,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/774) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/774) 
 - **Battle Value:** 2145 
 
 ## Availability 

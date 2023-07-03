@@ -18,7 +18,7 @@
   - Mech Sprayer × 4 
   - Liquid Cargo × 2 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7872) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7872) 
 - **Battle Value:** 465 
 
 ## Availability 

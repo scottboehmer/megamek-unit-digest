@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Infantry (8 tons) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1757) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1757) 
 - **Battle Value:** 499 
 
 ## Availability 

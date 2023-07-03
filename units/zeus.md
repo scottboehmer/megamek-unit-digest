@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3641) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3641) 
 - **Battle Value:** 1729 
 - [*More Info*](zeus/zeus_zeu-5t.md) 
 
@@ -36,7 +36,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3640) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3640) 
 - **Battle Value:** 1474 
 - [*More Info*](zeus/zeus_zeu-5s.md) 
 
@@ -56,7 +56,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3642) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3642) 
 - **Battle Value:** 1348 
 - [*More Info*](zeus/zeus_zeu-6s.md) 
 
@@ -76,7 +76,7 @@
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
   - Improved Cooling Jacket (Blazer Cannon) 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5772) 
 - **Battle Value:** 1323 
 - [*More Info*](zeus/zeus_zeu-6y.md) 
 
@@ -96,7 +96,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7432) 
+- **Sources:** Record Sheets: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7432) 
 - **Battle Value:** 1405 
 - [*More Info*](zeus/zeus_zeu-6a.md) 
 
@@ -116,7 +116,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3643) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3643) 
 - **Battle Value:** 1436 
 - [*More Info*](zeus/zeus_zeu-6t.md) 
 
@@ -138,7 +138,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3644) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3644) 
 - **Battle Value:** 1639 
 - [*More Info*](zeus/zeus_zeu-9s.md) 
 
@@ -161,7 +161,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5438) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5438) 
 - **Battle Value:** 1612 
 - [*More Info*](zeus/zeus_zeu-9s-dc.md) 
 
@@ -182,7 +182,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5459) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5459) 
 - **Battle Value:** 1769 
 - [*More Info*](zeus/zeus_zeu-9s2.md) 
 
@@ -202,7 +202,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3638) 
+- **Sources:** Historical Turning Points: Glengary , [Master Unit List](http://masterunitlist.info/Unit/Details/3638) 
 - **Battle Value:** 1878 
 - [*More Info*](zeus/zeus_leonidas.md) 
 
@@ -225,7 +225,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3645) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3645) 
 - **Battle Value:** 1832 
 - [*More Info*](zeus/zeus_zeu-9t.md) 
 
@@ -245,7 +245,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3639) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3639) 
 - **Battle Value:** 2075 
 - [*More Info*](zeus/zeus_zeu-10wb.md) 
 
@@ -269,7 +269,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Sources:** Rec Guide:ilClan #2- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7455) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7455) 
 - **Battle Value:** 2280 
 - [*More Info*](zeus/zeus_zeu-11s.md) 
 

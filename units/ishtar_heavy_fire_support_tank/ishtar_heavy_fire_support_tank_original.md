@@ -16,7 +16,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1634) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1634) 
 - **Battle Value:** 1072 
 
 ## Availability 

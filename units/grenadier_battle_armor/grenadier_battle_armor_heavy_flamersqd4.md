@@ -13,7 +13,7 @@
   - Basic Manipulator (right) 
 - **Weapons:** 
   - Heavy Flamer × 2 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6739) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6739) 
 - **Battle Value:** 50 (260 for 4 suits) 
 
 ## Availability 

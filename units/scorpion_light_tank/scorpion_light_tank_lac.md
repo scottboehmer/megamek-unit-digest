@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light AC/2 × 2 (ammo: 45) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2841) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2841) 
 - **Battle Value:** 289 
 
 ## Availability 

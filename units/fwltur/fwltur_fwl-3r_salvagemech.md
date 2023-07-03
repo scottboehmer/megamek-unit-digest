@@ -17,7 +17,7 @@
   - Enviro-Sealing 
   - Lift Hoist 
   - Searchlight 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1162) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1162) 
 - **Battle Value:** 255 
 
 ## Availability 

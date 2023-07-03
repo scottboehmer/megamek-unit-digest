@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3995) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3995) 
 - **Battle Value:** Unknown 
 
 ## Availability 

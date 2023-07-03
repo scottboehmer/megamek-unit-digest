@@ -20,7 +20,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3063) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/3063) 
 - **Battle Value:** 432 
 
 ## Availability 

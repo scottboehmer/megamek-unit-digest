@@ -21,7 +21,7 @@
   - Combat Computer 
   - Improved Communications 
   - Jettison-Capable Weapon (Large X-Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7751) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7751) 
 - **Battle Value:** 1244 
 
 ## Availability 

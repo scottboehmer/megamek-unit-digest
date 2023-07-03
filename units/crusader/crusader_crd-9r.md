@@ -24,7 +24,7 @@
   - Ubiquitous 
   - Stabilized Weapon (SRM 6) 
   - Stabilized Weapon (SRM 6) 
-- **Sources:** Rec Guide:ilClan #17 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8233) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8233) 
 - **Battle Value:** 1612 
 
 ## Availability 

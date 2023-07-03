@@ -17,7 +17,7 @@
   - Micro Grenade Launcher 
 - **Equipment:** 
   - Squad Support Light TAG 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9005) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9005) 
 - **Battle Value:** 22 (196 for 6 suits) 
 
 ## Availability 

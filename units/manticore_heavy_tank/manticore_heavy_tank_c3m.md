@@ -16,7 +16,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - C3 Main 
-- **Sources:** TRO:3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2016) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2016) 
 - **Battle Value:** 958 
 
 ## Availability 

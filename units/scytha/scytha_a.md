@@ -19,7 +19,7 @@
   - Narc (ammo: 6) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2849) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2849) 
 - **Battle Value:** Unknown 
 
 ## Availability 

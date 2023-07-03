@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Cargo 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/834) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/834) 
 - **Battle Value:** 193 
 
 ## Availability 

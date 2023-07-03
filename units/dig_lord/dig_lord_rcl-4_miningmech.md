@@ -17,7 +17,7 @@
   - Fluid Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Extended Fuel Tank 
-- **Sources:** TRO VA - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4079) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4079) 
 - **Battle Value:** 617 
 
 ## Availability 

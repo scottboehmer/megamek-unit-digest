@@ -18,7 +18,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8124) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/8124) 
 - **Battle Value:** 454 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Camo System 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8606) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8606) 
 - **Battle Value:** 39 (270 for 5 suits) 
 
 ## Availability 

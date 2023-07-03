@@ -13,7 +13,7 @@
   - ER Medium Laser × 3 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2757) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2757) 
 - **Battle Value:** 2073 
 - [*More Info*](stormcrow/stormcrow_prime.md) 
 
@@ -33,7 +33,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2749) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2749) 
 - **Battle Value:** 2319 
 - [*More Info*](stormcrow/stormcrow_a.md) 
 
@@ -52,7 +52,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2750) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2750) 
 - **Battle Value:** 2281 
 - [*More Info*](stormcrow/stormcrow_b.md) 
 
@@ -72,7 +72,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2751) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2751) 
 - **Battle Value:** 1881 
 - [*More Info*](stormcrow/stormcrow_c.md) 
 
@@ -92,7 +92,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2752) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2752) 
 - **Battle Value:** 1863 
 - [*More Info*](stormcrow/stormcrow_d.md) 
 
@@ -112,7 +112,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7555) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7555) 
 - **Battle Value:** 2213 
 - [*More Info*](stormcrow/stormcrow_p.md) 
 
@@ -132,7 +132,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7591) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7591) 
 - **Battle Value:** 1482 
 - [*More Info*](stormcrow/stormcrow_attwater.md) 
 
@@ -152,7 +152,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7592) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7592) 
 - **Battle Value:** 2373 
 - [*More Info*](stormcrow/stormcrow_tc.md) 
 
@@ -173,7 +173,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2753) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2753) 
 - **Battle Value:** 2110 
 - [*More Info*](stormcrow/stormcrow_e.md) 
 
@@ -193,7 +193,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5488) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5488) 
 - **Battle Value:** 2382 
 - [*More Info*](stormcrow/stormcrow_kotare.md) 
 
@@ -210,7 +210,7 @@
   - ER Medium Laser × 3 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2756) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2756) 
 - **Battle Value:** 2061 
 - [*More Info*](stormcrow/stormcrow_h.md) 
 
@@ -231,7 +231,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5487) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/5487) 
 - **Battle Value:** 2319 
 - [*More Info*](stormcrow/stormcrow_i.md) 
 
@@ -250,7 +250,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2755) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2755) 
 - **Battle Value:** 2152 
 - [*More Info*](stormcrow/stormcrow_g.md) 
 
@@ -271,7 +271,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2754) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2754) 
 - **Battle Value:** 2227 
 - [*More Info*](stormcrow/stormcrow_f.md) 
 
@@ -292,7 +292,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5820) 
+- **Sources:** Wars of Reaving , [Master Unit List](http://masterunitlist.info/Unit/Details/5820) 
 - **Battle Value:** 2855 
 - [*More Info*](stormcrow/stormcrow_z.md) 
 
@@ -311,7 +311,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7554) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7554) 
 - **Battle Value:** 2001 
 - [*More Info*](stormcrow/stormcrow_k.md) 
 
@@ -331,7 +331,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7553) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7553) 
 - **Battle Value:** 2300 
 - [*More Info*](stormcrow/stormcrow_j.md) 
 
@@ -352,7 +352,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7550) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7550) 
 - **Battle Value:** 2280 
 - [*More Info*](stormcrow/stormcrow_t.md) 
 

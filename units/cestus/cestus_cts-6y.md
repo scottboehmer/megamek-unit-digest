@@ -16,7 +16,7 @@
   - Medium Laser × 2 
 - **Design Quirks:** 
   - Stabilized Weapon (Gauss Rifle) 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/533) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/533) 
 - **Battle Value:** 1701 
 
 ## Availability 

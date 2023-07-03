@@ -11,7 +11,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - Heavy Grenade Launcher 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1614) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1614) 
 - **Battle Value:** 19 (98 for 4 suits) 
 - [*More Info*](infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_waddlesqd4.md) 
 
@@ -26,7 +26,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - Heavy Grenade Launcher 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8532) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8532) 
 - **Battle Value:** 19 (132 for 5 suits) 
 - [*More Info*](infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_waddlesqd5.md) 
 
@@ -41,7 +41,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - Heavy Grenade Launcher 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8896) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8896) 
 - **Battle Value:** 19 (170 for 6 suits) 
 - [*More Info*](infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_waddlesqd6.md) 
 
@@ -58,7 +58,7 @@
   - Improved Sensors 
   - Remote Sensor Dispenser 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1615) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1615) 
 - **Battle Value:** 19 (98 for 4 suits) 
 - [*More Info*](infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_special_opssqd4.md) 
 
@@ -75,7 +75,7 @@
   - Improved Sensors 
   - Remote Sensor Dispenser 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8533) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8533) 
 - **Battle Value:** 19 (132 for 5 suits) 
 - [*More Info*](infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_special_opssqd5.md) 
 
@@ -92,7 +92,7 @@
   - Improved Sensors 
   - Remote Sensor Dispenser 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8897) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8897) 
 - **Battle Value:** 19 (170 for 6 suits) 
 - [*More Info*](infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_special_opssqd6.md) 
 

@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** XTRO Mercs - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1544) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/1544) 
 - **Battle Value:** 1880 
 
 ## Availability 

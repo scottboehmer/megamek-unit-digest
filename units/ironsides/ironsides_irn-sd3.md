@@ -15,7 +15,7 @@
   - ER PPC 
   - ER Large Laser 
   - MRM 10 × 5 (ammo: 120) 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1626) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1626) 
 - **Battle Value:** Unknown 
 
 ## Availability 

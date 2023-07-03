@@ -22,7 +22,7 @@
   - Clan CASE II 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** J:FR , [Master Unit List](http://masterunitlist.info/Unit/Details/5431) 
+- **Sources:** Jihad: Final Reckoning , [Master Unit List](http://masterunitlist.info/Unit/Details/5431) 
 - **Battle Value:** 2106 
 
 ## Availability 

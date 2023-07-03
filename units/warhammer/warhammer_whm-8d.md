@@ -23,7 +23,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** RS: Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3494) 
+- **Sources:** Record Sheets: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3494) 
 - **Battle Value:** 1744 
 
 ## Availability 

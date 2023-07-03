@@ -18,7 +18,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2247) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2247) 
 - **Battle Value:** 1791 
 - [*More Info*](naga/naga_a.md) 
 
@@ -40,7 +40,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2248) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2248) 
 - **Battle Value:** 1824 
 - [*More Info*](naga/naga_b.md) 
 
@@ -62,7 +62,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2249) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2249) 
 - **Battle Value:** 1608 
 - [*More Info*](naga/naga_c.md) 
 
@@ -85,7 +85,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2250) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2250) 
 - **Battle Value:** 1662 
 - [*More Info*](naga/naga_d.md) 
 
@@ -106,7 +106,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2251) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2251) 
 - **Battle Value:** 1642 
 - [*More Info*](naga/naga_prime.md) 
 

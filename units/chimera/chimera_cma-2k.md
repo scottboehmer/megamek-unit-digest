@@ -23,7 +23,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5667) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5667) 
 - **Battle Value:** 1528 
 
 ## Availability 

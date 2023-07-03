@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Hi-Res Imager 
   - Infrared Imager 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5747) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5747) 
 - **Battle Value:** Unknown 
 
 ## Availability 

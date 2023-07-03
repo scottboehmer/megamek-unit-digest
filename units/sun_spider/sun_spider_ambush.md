@@ -15,6 +15,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2199 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - PPC × 2 
   - SRM 6 × 2 (ammo: 15) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/434) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/434) 
 - **Battle Value:** 1208 
 
 ## Availability 

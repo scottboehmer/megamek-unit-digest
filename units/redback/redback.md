@@ -17,7 +17,7 @@
   - Inner Sphere Medium Pulse Laser × 2 
 - **Equipment:** 
   - Inner Sphere TAG 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7684) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7684) 
 - **Battle Value:** 2076 
 
 ## Availability 

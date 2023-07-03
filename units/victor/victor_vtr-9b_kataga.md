@@ -19,7 +19,7 @@
   - Beagle Active Probe 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** HTP New Dallas - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/6969) 
+- **Sources:** Historical Turning Points: New Dallas , [Master Unit List](http://masterunitlist.info/Unit/Details/6969) 
 - **Battle Value:** 1991 
 
 ## Availability 

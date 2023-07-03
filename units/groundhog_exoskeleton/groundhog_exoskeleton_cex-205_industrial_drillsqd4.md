@@ -14,7 +14,7 @@
   - Industrial Drill (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7209) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/7209) 
 - **Battle Value:** 7 (37 for 4 suits) 
 
 ## Availability 

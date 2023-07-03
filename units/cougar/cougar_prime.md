@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/712) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/712) 
 - **Battle Value:** 1485 
 
 ## Availability 

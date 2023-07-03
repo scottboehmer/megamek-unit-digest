@@ -16,7 +16,7 @@
   - Inner Sphere Spikes × 3 
   - MASC 
   - Ram Plate 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7883) 
+- **Sources:** Operational Turning Points: Hanseatic Crusade , [Master Unit List](http://masterunitlist.info/Unit/Details/7883) 
 - **Battle Value:** unknown 
 
 ## Availability 

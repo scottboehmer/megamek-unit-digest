@@ -18,7 +18,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3355) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3355) 
 - **Battle Value:** 470 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Ubiquitous 
-- **Sources:** Shrapnel #5 - Republic Era , [Master Unit List](http://masterunitlist.info/Unit/Details/8234) 
+- **Sources:** Shrapnel #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/8234) 
 - **Battle Value:** 2264 
 
 ## Availability 

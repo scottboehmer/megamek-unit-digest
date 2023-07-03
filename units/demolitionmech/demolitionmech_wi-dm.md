@@ -17,7 +17,7 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Cargo 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/868) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/868) 
 - **Battle Value:** 380 
 
 ## Availability 

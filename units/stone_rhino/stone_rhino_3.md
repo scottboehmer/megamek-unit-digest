@@ -23,7 +23,7 @@
   - Poor Performance 
   - Weak Head Armor (1) 
   - Barrel Fists 
-- **Sources:** TRO 3055 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/320) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/320) 
 - **Battle Value:** 3072 
 
 ## Availability 

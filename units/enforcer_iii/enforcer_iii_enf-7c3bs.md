@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Battlefist (Left Arm) 
   - Barrel Fist (Right Arm) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/986) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/986) 
 - **Battle Value:** 1687 
 
 ## Availability 

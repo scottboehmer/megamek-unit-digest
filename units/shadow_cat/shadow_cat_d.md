@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #9 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7704) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/7704) 
 - **Battle Value:** 2298 
 
 ## Availability 

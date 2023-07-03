@@ -15,7 +15,7 @@
   - Streak SRM 4 (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1746) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/1746) 
 - **Battle Value:** 1363 
 - [*More Info*](kanga-x_jump_tank/kanga-x_jump_tank.md) 
 

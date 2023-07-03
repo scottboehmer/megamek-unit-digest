@@ -14,7 +14,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7842) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7842) 
 - **Battle Value:** 105 
 
 ## Availability 

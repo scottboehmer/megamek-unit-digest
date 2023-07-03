@@ -20,7 +20,7 @@
   - Medium Shield 
 - **Design Quirks:** 
   - Accurate Weapon (ER PPC) 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6349) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6349) 
 - **Battle Value:** 1911 
 
 ## Availability 

@@ -10,7 +10,7 @@
 - **Heat Sinks:** 3 (3) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
 - **Battle Value:** 314 
 - [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank.md) 
 
@@ -26,7 +26,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (2.0 tons) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2956) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2956) 
 - **Battle Value:** 252 
 - [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_mg.md) 
 
@@ -40,7 +40,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 4 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2957) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2957) 
 - **Battle Value:** 319 
 - [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_srm.md) 
 
@@ -57,7 +57,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Bloodhound Active Probe 
-- **Sources:** XTRO:Corporations - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5068) 
+- **Sources:** XTR: Corporations , [Master Unit List](http://masterunitlist.info/Unit/Details/5068) 
 - **Battle Value:** 491 
 - [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_x-5.md) 
 
@@ -71,7 +71,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - C3 Main 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2955) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2955) 
 - **Battle Value:** 230 
 - [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c3m.md) 
 
@@ -88,7 +88,7 @@
 - **Equipment:** 
   - Clan Watchdog CEWS 
   - Clan CASE 
-- **Sources:** Rec Guide:ilClan #28 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
 - **Battle Value:** 404 
 - [*More Info*](skulker_wheeled_scout_tank/skulker_wheeled_scout_tank_c.md) 
 

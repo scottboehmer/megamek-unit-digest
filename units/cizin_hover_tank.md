@@ -13,7 +13,7 @@
   - SRM 2 × 2 (ammo: 50) 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3145 Draconis Combine - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6380) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6380) 
 - **Battle Value:** 1514 
 - [*More Info*](cizin_hover_tank/cizin_hover_tank.md) 
 
@@ -31,7 +31,7 @@
 - **Equipment:** 
   - ECM Suite 
   - Targeting Computer 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6381) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6381) 
 - **Battle Value:** 1790 
 - [*More Info*](cizin_hover_tank/cizin_hover_tank_support.md) 
 

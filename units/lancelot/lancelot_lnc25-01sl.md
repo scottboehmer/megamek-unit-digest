@@ -17,7 +17,7 @@
   - Anti-Aircraft Targeting 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5874) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5874) 
 - **Battle Value:** 1546 
 
 ## Availability 

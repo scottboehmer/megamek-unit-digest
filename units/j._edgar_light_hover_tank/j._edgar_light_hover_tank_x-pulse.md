@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium X-Pulse Laser 
   - SRM 2 × 2 (ammo: 50) 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9476) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9476) 
 - **Battle Value:** 621 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - MML 3 × 4 (ammo: 40 LRM, 33 SRM) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2407) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2407) 
 - **Battle Value:** 690 
 
 ## Availability 

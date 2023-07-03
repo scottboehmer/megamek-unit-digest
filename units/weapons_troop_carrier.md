@@ -12,7 +12,7 @@
   - LRM 10 (ammo: 24) 
 - **Equipment:** 
   - Infantry (1.5 tons) 
-- **Sources:** TP: Helm - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8304) 
+- **Sources:** Turning Points: Helm , [Master Unit List](http://masterunitlist.info/Unit/Details/8304) 
 - **Battle Value:** 324 
 - [*More Info*](weapons_troop_carrier/weapons_troop_carrier_lrm.md) 
 

@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6341) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6341) 
 - **Battle Value:** 1375 
 
 ## Availability 

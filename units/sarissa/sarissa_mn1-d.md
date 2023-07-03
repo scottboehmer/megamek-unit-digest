@@ -16,7 +16,7 @@
   - Medium Laser 
   - Small Laser 
   - Machine Gun (ammo: 100) 
-- **Sources:** XTRO Marik - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2797) 
+- **Sources:** XTR: Marik , [Master Unit List](http://masterunitlist.info/Unit/Details/2797) 
 - **Battle Value:** 850 
 
 ## Availability 

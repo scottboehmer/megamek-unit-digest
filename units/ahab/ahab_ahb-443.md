@@ -17,7 +17,7 @@
   - SRM 6 × 2 (ammo: 30) 
   - Medium Laser × 2 
   - Narc (ammo: 24) 
-- **Sources:** TRO 3050u - Star league , [Master Unit List](http://masterunitlist.info/Unit/Details/17) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/17) 
 - **Battle Value:** Unknown 
 
 ## Availability 

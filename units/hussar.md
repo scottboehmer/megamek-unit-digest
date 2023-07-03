@@ -14,7 +14,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (ER Large Laser) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1585) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1585) 
 - **Battle Value:** 636 
 - [*More Info*](hussar/hussar_hsr-200-d.md) 
 
@@ -35,7 +35,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (ER Large Laser) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1586) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1586) 
 - **Battle Value:** 934 
 - [*More Info*](hussar/hussar_hsr-200-db.md) 
 
@@ -53,7 +53,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (Large Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1587) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1587) 
 - **Battle Value:** 543 
 - [*More Info*](hussar/hussar_hsr-300-d.md) 
 
@@ -72,7 +72,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (Large Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1588) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1588) 
 - **Battle Value:** 731 
 - [*More Info*](hussar/hussar_hsr-350-d.md) 
 
@@ -90,7 +90,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (LB 10-X AC) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1589) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1589) 
 - **Battle Value:** 611 
 - [*More Info*](hussar/hussar_hsr-400-d.md) 
 
@@ -110,7 +110,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (ER PPC) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1590) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1590) 
 - **Battle Value:** 977 
 - [*More Info*](hussar/hussar_hsr-500-d.md) 
 
@@ -130,7 +130,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (Light AC/2) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1591) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1591) 
 - **Battle Value:** 551 
 - [*More Info*](hussar/hussar_hsr-900-d.md) 
 
@@ -149,7 +149,7 @@
   - Improved Communications 
   - Rugged (×2) 
   - Directional Torso Mount (Snub-Nose PPC) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1592) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1592) 
 - **Battle Value:** 1131 
 - [*More Info*](hussar/hussar_hsr-950-d.md) 
 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
   - MRM 20 (ammo: 12) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7827) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7827) 
 - **Battle Value:** 1001 
 
 ## Availability 

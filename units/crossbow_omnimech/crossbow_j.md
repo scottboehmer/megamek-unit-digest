@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Talons 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8245) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8245) 
 - **Battle Value:** 1839 
 
 ## Availability 

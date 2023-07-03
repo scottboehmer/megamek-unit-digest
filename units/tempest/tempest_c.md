@@ -16,7 +16,7 @@
   - Clan Large Pulse Laser 
   - Clan ATM 9 (ammo: 14) 
   - Medium Laser × 3 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8005) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8005) 
 - **Battle Value:** 2179 
 
 ## Availability 

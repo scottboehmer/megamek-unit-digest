@@ -14,7 +14,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Support PPC 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2605) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2605) 
 - **Battle Value:** 47 (245 for 4 suits) 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1893) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1893) 
 - **Battle Value:** 1280 
 - [*More Info*](lineholder/lineholder_kw1-lh2.md) 
 
@@ -32,7 +32,7 @@
   - LRM 5 × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1894) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1894) 
 - **Battle Value:** 1214 
 - [*More Info*](lineholder/lineholder_kw1-lh3.md) 
 
@@ -49,7 +49,7 @@
   - RAC/2 × 2 (ammo: 45) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1895) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1895) 
 - **Battle Value:** 1330 
 - [*More Info*](lineholder/lineholder_kw1-lh8_linebreaker.md) 
 
@@ -69,7 +69,7 @@
   - C3i 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1896) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1896) 
 - **Battle Value:** 1484 
 - [*More Info*](lineholder/lineholder_kw2-lhw.md) 
 
@@ -92,7 +92,7 @@
   - C3 Emergency Main 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** RS3150 - 3131 , [Master Unit List](http://masterunitlist.info/Unit/Details/7996) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7996) 
 - **Battle Value:** 1606 
 - [*More Info*](lineholder/lineholder_kw2-lh10.md) 
 

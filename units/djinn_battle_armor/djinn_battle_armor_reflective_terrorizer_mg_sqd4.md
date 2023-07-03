@@ -15,7 +15,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Machine Gun 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5792) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5792) 
 - **Battle Value:** 36 (189 for 4 suits) 
 
 ## Availability 

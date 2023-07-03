@@ -15,7 +15,7 @@
   - Heavy PPC × 2 
   - Large Laser × 4 
   - LRM 10 w/ Artemis IV (ammo: 12) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5313) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5313) 
 - **Battle Value:** Unknown 
 
 ## Availability 

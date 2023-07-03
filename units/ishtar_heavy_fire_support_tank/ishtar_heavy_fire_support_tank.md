@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 48) 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1635) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/1635) 
 - **Battle Value:** 1404 
 
 ## Availability 

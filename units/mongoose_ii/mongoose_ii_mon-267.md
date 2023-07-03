@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Communications 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2217) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2217) 
 - **Battle Value:** 1237 
 
 ## Availability 

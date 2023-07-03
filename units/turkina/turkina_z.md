@@ -19,7 +19,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5832) 
+- **Sources:** Wars of Reaving , [Master Unit List](http://masterunitlist.info/Unit/Details/5832) 
 - **Battle Value:** 3935 
 
 ## Availability 

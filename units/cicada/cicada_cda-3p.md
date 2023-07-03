@@ -15,7 +15,7 @@
   - ER Medium Laser × 4 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/598) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/598) 
 - **Battle Value:** 1502 
 
 ## Availability 

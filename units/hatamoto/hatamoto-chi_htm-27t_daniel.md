@@ -20,7 +20,7 @@
   - Barrel Fist (Left Arm) 
   - Modular Weapon (SRM 4) 
   - Modular Weapon (SRM 4) 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1400) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1400) 
 - **Battle Value:** 1435 
 
 ## Availability 

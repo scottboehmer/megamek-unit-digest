@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2864) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2864) 
 - **Battle Value:** 999 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Inner Sphere Chaff Pod × 2 
   - Light TAG 
   - Inner Sphere Modular Armor × 3 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7653) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7653) 
 - **Battle Value:** Unknown 
 
 ## Availability 

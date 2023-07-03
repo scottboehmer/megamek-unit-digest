@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ELRM 15 × 2 (ammo: 36) 
   - ER Medium Laser × 10 
-- **Sources:** XTRO Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/589) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/589) 
 - **Battle Value:** Unknown 
 
 ## Availability 

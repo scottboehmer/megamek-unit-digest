@@ -15,7 +15,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #32 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9479) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9479) 
 - **Battle Value:** 955 
 
 ## Availability 

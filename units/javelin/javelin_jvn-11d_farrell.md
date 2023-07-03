@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5808) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter , [Master Unit List](http://masterunitlist.info/Unit/Details/5808) 
 - **Battle Value:** 1155 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Advanced SRM 2 (ammo: 2) 
   - Bearhunter Superheavy AC × 2 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1217) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1217) 
 - **Battle Value:** 68 (354 for 4 suits) 
 
 ## Availability 

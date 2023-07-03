@@ -25,7 +25,7 @@
   - Battlefist (Left Arm) 
   - Exposed Weapon Linkage (ER Large Laser) 
   - Exposed Weapon Linkage (ER Large Laser) 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7435) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7435) 
 - **Battle Value:** 2906 
 
 ## Availability 

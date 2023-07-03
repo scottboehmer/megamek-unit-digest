@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3145) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3145) 
 - **Battle Value:** 83 
 
 ## Availability 

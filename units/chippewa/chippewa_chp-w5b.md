@@ -16,7 +16,7 @@
   - ER Large Laser × 4 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/585) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/585) 
 - **Battle Value:** Unknown 
 
 ## Availability 

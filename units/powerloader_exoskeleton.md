@@ -12,7 +12,7 @@
   - Cargo Lifter (left) 
 - **Equipment:** 
   - Cutting Torch 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4851) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/4851) 
 - **Battle Value:** 4 (20 for 4 suits) 
 - [*More Info*](powerloader_exoskeleton/powerloader_exoskeleton_p-5000sqd4.md) 
 
@@ -28,7 +28,7 @@
   - Cargo Lifter (left) 
 - **Equipment:** 
   - Cutting Torch 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8658) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8658) 
 - **Battle Value:** 4 (27 for 5 suits) 
 - [*More Info*](powerloader_exoskeleton/powerloader_exoskeleton_p-5000sqd5.md) 
 
@@ -44,7 +44,7 @@
   - Cargo Lifter (left) 
 - **Equipment:** 
   - Cutting Torch 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9022) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9022) 
 - **Battle Value:** 4 (35 for 6 suits) 
 - [*More Info*](powerloader_exoskeleton/powerloader_exoskeleton_p-5000sqd6.md) 
 

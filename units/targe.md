@@ -19,7 +19,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3164) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3164) 
 - **Battle Value:** 813 
 - [*More Info*](targe/targe_trg-1n.md) 
 
@@ -42,7 +42,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3165) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3165) 
 - **Battle Value:** 1042 
 - [*More Info*](targe/targe_trg-2n.md) 
 
@@ -65,7 +65,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6915) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6915) 
 - **Battle Value:** 1233 
 - [*More Info*](targe/targe_trg-3m.md) 
 

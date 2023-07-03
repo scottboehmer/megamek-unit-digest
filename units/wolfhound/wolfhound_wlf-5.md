@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Good Reputation 
-- **Sources:** TRO:3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3569) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3569) 
 - **Battle Value:** 1290 
 
 ## Availability 

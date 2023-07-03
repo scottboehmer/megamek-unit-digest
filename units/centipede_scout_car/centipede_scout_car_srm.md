@@ -12,7 +12,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 2 × 6 (ammo: 50) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/513) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/513) 
 - **Battle Value:** 431 
 
 ## Availability 

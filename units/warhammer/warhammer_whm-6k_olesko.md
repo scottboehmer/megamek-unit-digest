@@ -20,7 +20,7 @@
   - Searchlight 
   - Stable 
   - Ubiquitous 
-- **Sources:** TP Vega - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7798) 
+- **Sources:** Turning Points: War of 3039 - Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/7798) 
 - **Battle Value:** 1338 
 
 ## Availability 

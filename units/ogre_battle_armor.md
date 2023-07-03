@@ -14,7 +14,7 @@
   - SRM 2 (ammo: 8) 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6482) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6482) 
 - **Battle Value:** 66 (342 for 4 suits) 
 - [*More Info*](ogre_battle_armor/ogre_battle_armor_interdictorsqd4.md) 
 
@@ -32,7 +32,7 @@
   - SRM 2 (ammo: 8) 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8757) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/8757) 
 - **Battle Value:** 66 (460 for 5 suits) 
 - [*More Info*](ogre_battle_armor/ogre_battle_armor_interdictorsqd5.md) 
 
@@ -50,7 +50,7 @@
   - SRM 2 (ammo: 8) 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9120) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/9120) 
 - **Battle Value:** 66 (592 for 6 suits) 
 - [*More Info*](ogre_battle_armor/ogre_battle_armor_interdictorsqd6.md) 
 
@@ -66,7 +66,7 @@
   - Heavy Battle Claw (left) 
 - **Weapons:** 
   - SRM 2 (ammo: 13) 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6481) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6481) 
 - **Battle Value:** 54 (280 for 4 suits) 
 - [*More Info*](ogre_battle_armor/ogre_battle_armor_sqd4.md) 
 
@@ -82,7 +82,7 @@
   - Heavy Battle Claw (left) 
 - **Weapons:** 
   - SRM 2 (ammo: 13) 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8756) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/8756) 
 - **Battle Value:** 54 (376 for 5 suits) 
 - [*More Info*](ogre_battle_armor/ogre_battle_armor_sqd5.md) 
 
@@ -98,7 +98,7 @@
   - Heavy Battle Claw (left) 
 - **Weapons:** 
   - SRM 2 (ammo: 13) 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9119) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/9119) 
 - **Battle Value:** 54 (484 for 6 suits) 
 - [*More Info*](ogre_battle_armor/ogre_battle_armor_sqd6.md) 
 

@@ -15,7 +15,7 @@
   - Medium Chemical Laser × 5 (ammo: 90) 
 - **Equipment:** 
   - Inner Sphere Jet Booster 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9421) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9421) 
 - **Battle Value:** 1233 
 
 ## Availability 

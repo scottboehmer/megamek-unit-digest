@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Protected Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8107) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8107) 
 - **Battle Value:** 1679 
 
 ## Availability 

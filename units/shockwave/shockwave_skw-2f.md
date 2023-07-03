@@ -18,7 +18,7 @@
   - Easy to Maintain 
   - Battlefists 
   - Exposed Weapon Linkage (RAC/5) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2929) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2929) 
 - **Battle Value:** 1453 
 
 ## Availability 

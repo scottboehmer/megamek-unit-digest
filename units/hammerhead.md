@@ -17,7 +17,7 @@
   - AES × 2 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7511) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7511) 
 - **Battle Value:** 1686 
 - [*More Info*](hammerhead/hammerhead.md) 
 

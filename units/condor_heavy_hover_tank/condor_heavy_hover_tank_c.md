@@ -14,7 +14,7 @@
   - ProtoMech AC/8 (ammo: 20) 
   - Medium Chemical Laser × 3 (ammo: 90) 
   - ProtoMech AC/2 (ammo: 40) 
-- **Sources:** Rec Guide:ilClan #26 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9311) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9311) 
 - **Battle Value:** 804 
 
 ## Availability 

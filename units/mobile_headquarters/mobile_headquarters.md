@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2201) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2201) 
 - **Battle Value:** 319 
 
 ## Availability 

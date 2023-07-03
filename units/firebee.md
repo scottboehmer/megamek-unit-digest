@@ -19,7 +19,7 @@
   - Poor Workmanship 
   - Poor Life Support 
   - Weak Legs 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1078) 
+- **Sources:** XTR: Primitives III , [Master Unit List](http://masterunitlist.info/Unit/Details/1078) 
 - **Battle Value:** 534 
 - [*More Info*](firebee/firebee_frb-1e_wam-b.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Poor Life Support 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1079) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1079) 
 - **Battle Value:** 808 
 - [*More Info*](firebee/firebee_frb-2e.md) 
 
@@ -61,7 +61,7 @@
 - **Design Quirks:** 
   - Poor Life Support 
   - Weak Legs 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1080) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1080) 
 - **Battle Value:** 1067 
 - [*More Info*](firebee/firebee_frb-3e.md) 
 
@@ -81,7 +81,7 @@
 - **Design Quirks:** 
   - Poor Life Support 
   - Weak Legs 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7838) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7838) 
 - **Battle Value:** 456 
 - [*More Info*](firebee/firebee_wi-wam_militiamech.md) 
 

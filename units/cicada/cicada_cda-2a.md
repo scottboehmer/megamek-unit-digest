@@ -15,7 +15,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Source:TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/591) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/591) 
 - **Battle Value:** 659 
 
 ## Availability 

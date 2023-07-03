@@ -16,7 +16,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2279) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2279) 
 - **Battle Value:** 1159 
 - [*More Info*](nightsky/nightsky_ngs-4s.md) 
 
@@ -39,7 +39,7 @@
   - Anti-Missile System (ammo: 12) 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2280) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2280) 
 - **Battle Value:** 1287 
 - [*More Info*](nightsky/nightsky_ngs-4t.md) 
 
@@ -58,7 +58,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2281) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2281) 
 - **Battle Value:** 1045 
 - [*More Info*](nightsky/nightsky_ngs-5s.md) 
 
@@ -78,7 +78,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2282) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2282) 
 - **Battle Value:** 1356 
 - [*More Info*](nightsky/nightsky_ngs-5t.md) 
 
@@ -96,7 +96,7 @@
   - Hatchet 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2283) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2283) 
 - **Battle Value:** 1474 
 - [*More Info*](nightsky/nightsky_ngs-6s.md) 
 
@@ -121,7 +121,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Modular Weapon (Hatchet) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2284) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2284) 
 - **Battle Value:** 1462 
 - [*More Info*](nightsky/nightsky_ngs-6t.md) 
 
@@ -141,7 +141,7 @@
   - Hatchet 
 - **Equipment:** 
   - AES 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9352) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9352) 
 - **Battle Value:** 1591 
 - [*More Info*](nightsky/nightsky_ngs-7s.md) 
 

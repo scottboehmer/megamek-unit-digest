@@ -21,7 +21,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #24 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/8432) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8432) 
 - **Battle Value:** 2534 
 
 ## Availability 

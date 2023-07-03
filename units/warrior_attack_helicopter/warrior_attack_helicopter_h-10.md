@@ -14,7 +14,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Infantry (5.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3512) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3512) 
 - **Battle Value:** 180 
 
 ## Availability 

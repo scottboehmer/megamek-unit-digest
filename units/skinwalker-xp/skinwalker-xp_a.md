@@ -20,7 +20,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Inner Sphere Radical Heat Sink System 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7379) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7379) 
 - **Battle Value:** 3915 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cramped Cockpit 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3225) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3225) 
 - **Battle Value:** 2575 
 
 ## Availability 

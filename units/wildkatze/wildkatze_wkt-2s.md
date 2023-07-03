@@ -17,7 +17,7 @@
   - MML 5 × 3 (ammo: 20 SRM, 48 LRM) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5411) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5411) 
 - **Battle Value:** Unknown 
 
 ## Availability 

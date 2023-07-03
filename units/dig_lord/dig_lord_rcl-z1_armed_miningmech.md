@@ -22,7 +22,7 @@
   - Protected Actuators 
   - Prototype 
   - Jettison-Capable Weapon (Medium Vibroblade) 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5565) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5565) 
 - **Battle Value:** 681 
 
 ## Availability 

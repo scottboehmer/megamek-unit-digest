@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Unbalanced 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1678) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1678) 
 - **Battle Value:** 678 
 
 ## Availability 

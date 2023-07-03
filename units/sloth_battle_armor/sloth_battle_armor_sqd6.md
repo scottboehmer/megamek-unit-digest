@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Small Laser × 2 
   - Pop-Up Mine (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8950) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8950) 
 - **Battle Value:** 35 (312 for 6 suits) 
 
 ## Availability 

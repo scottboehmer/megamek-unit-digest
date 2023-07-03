@@ -22,7 +22,7 @@
   - Narrow/Low Profile 
   - Bad Reputation (Clan) 
   - Stabilized Weapon (Medium Laser) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2173) 
+- **Sources:** Jihad Secrets: The Blake Documents , [Master Unit List](http://masterunitlist.info/Unit/Details/2173) 
 - **Battle Value:** 1376 
 
 ## Availability 

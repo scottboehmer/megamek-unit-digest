@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Extended Fuel Tank 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7855) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7855) 
 - **Battle Value:** 339 
 - [*More Info*](demeter/demeter_wld-1_agromech.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - Combine 
   - Vehicle Flamer (ammo: 20) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7856) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7856) 
 - **Battle Value:** 332 
 - [*More Info*](demeter/demeter_wld-1-m_agromech_mod.md) 
 

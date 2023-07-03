@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Anti-Missile System × 2 (ammo: 24) 
   - CASE 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6446) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6446) 
 - **Battle Value:** 1404 
 
 ## Availability 

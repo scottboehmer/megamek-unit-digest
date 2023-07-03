@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Support PPC 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5281) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5281) 
 - **Battle Value:** 47 (243 for 4 suits) 
 
 ## Availability 

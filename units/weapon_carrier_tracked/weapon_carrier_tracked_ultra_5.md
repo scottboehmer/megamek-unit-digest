@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Ultra AC/5 × 3 (ammo: 80) 
   - LRM 5 (ammo: 24) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6777) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6777) 
 - **Battle Value:** 825 
 
 ## Availability 

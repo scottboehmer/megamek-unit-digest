@@ -15,7 +15,7 @@
   - Gauss Rifle × 2 (ammo: 32) 
   - ER Large Laser × 3 
   - Medium Laser × 6 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3227) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3227) 
 - **Battle Value:** Unknown 
 
 ## Availability 

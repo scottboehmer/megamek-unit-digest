@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6928) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/6928) 
 - **Battle Value:** 1738 
 
 ## Availability 

@@ -25,7 +25,7 @@
   - Reinforced Legs 
   - Exposed Weapon Linkage (Unknown Component) 
   - Exposed Weapon Linkage (Unknown Component) 
-- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9215) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9215) 
 - **Battle Value:** 3487 
 
 ## Availability 

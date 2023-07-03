@@ -14,7 +14,7 @@
   - Cargo Lifter (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8810) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8810) 
 - **Battle Value:** 7 (50 for 5 suits) 
 
 ## Availability 

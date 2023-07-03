@@ -21,7 +21,7 @@
   - Barrel Fists 
   - Ammunition Feed Problem (Gauss Rifle) 
   - Fast Reload (Gauss Rifle) 
-- **Sources:** Starterbook: Sword and Dragon - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/979) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/979) 
 - **Battle Value:** 1738 
 
 ## Availability 

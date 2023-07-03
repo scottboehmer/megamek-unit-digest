@@ -20,7 +20,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2094) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2094) 
 - **Battle Value:** 2474 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Cutting Torch 
   - Searchlight 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8644) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8644) 
 - **Battle Value:** 6 (41 for 5 suits) 
 
 ## Availability 

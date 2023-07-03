@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3005) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3005) 
 - **Battle Value:** 1438 
 
 ## Availability 

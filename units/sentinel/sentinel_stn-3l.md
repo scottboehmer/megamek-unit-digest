@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ammunition Feed Problem (Streak SRM 2) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2860) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2860) 
 - **Battle Value:** 717 
 
 ## Availability 

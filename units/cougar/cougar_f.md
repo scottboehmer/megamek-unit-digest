@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #19 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/709) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/709) 
 - **Battle Value:** 1401 
 
 ## Availability 

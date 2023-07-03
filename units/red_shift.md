@@ -18,7 +18,7 @@
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
   - Accurate Weapon (TAG) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4906) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4906) 
 - **Battle Value:** 626 
 - [*More Info*](red_shift/red_shift_rds-2a.md) 
 
@@ -40,7 +40,7 @@
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
   - Accurate Weapon (TAG) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4907) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4907) 
 - **Battle Value:** 555 
 - [*More Info*](red_shift/red_shift_rds-2b.md) 
 
@@ -60,7 +60,7 @@
   - Improved Communications 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5652) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5652) 
 - **Battle Value:** 869 
 - [*More Info*](red_shift/red_shift_rds-3a.md) 
 

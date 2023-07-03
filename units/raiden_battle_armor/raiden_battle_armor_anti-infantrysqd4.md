@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Machine Gun 
   - Flamer 
-- **Sources:** TRO 3085 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2619) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2619) 
 - **Battle Value:** 47 (243 for 4 suits) 
 
 ## Availability 

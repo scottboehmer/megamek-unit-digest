@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 3 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3637) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3637) 
 - **Battle Value:** Unknown 
 
 ## Availability 

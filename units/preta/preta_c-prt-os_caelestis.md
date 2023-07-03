@@ -22,7 +22,7 @@
   - Improved Sensors 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2579) 
+- **Sources:** Jihad Secrets: The Blake Documents , [Master Unit List](http://masterunitlist.info/Unit/Details/2579) 
 - **Battle Value:** 1566 
 
 ## Availability 

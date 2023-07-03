@@ -25,7 +25,7 @@
   - Armored Liquid Cargo × 2 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3333) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3333) 
 - **Battle Value:** 2520 
 
 ## Availability 

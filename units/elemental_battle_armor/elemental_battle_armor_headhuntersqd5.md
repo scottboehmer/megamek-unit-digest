@@ -19,7 +19,7 @@
   - Heat Sensor 
   - Remote Sensor Dispenser 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8489) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8489) 
 - **Battle Value:** 43 (300 for 5 suits) 
 
 ## Availability 

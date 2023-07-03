@@ -17,7 +17,7 @@
   - C3i 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5719) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5719) 
 - **Battle Value:** 2449 
 
 ## Availability 

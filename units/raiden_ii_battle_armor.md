@@ -12,7 +12,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Flamer 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6731) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6731) 
 - **Battle Value:** 50 (260 for 4 suits) 
 - [*More Info*](raiden_ii_battle_armor/raiden_ii_battle_armor_flamersqd4.md) 
 
@@ -28,7 +28,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Flamer 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8786) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8786) 
 - **Battle Value:** 50 (350 for 5 suits) 
 - [*More Info*](raiden_ii_battle_armor/raiden_ii_battle_armor_flamersqd5.md) 
 
@@ -44,7 +44,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Flamer 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9149) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9149) 
 - **Battle Value:** 50 (450 for 6 suits) 
 - [*More Info*](raiden_ii_battle_armor/raiden_ii_battle_armor_flamersqd6.md) 
 
@@ -60,7 +60,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Heavy Machine Gun 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6732) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6732) 
 - **Battle Value:** 51 (268 for 4 suits) 
 - [*More Info*](raiden_ii_battle_armor/raiden_ii_battle_armor_hmgsqd4.md) 
 
@@ -76,7 +76,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Heavy Machine Gun 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8787) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8787) 
 - **Battle Value:** 51 (360 for 5 suits) 
 - [*More Info*](raiden_ii_battle_armor/raiden_ii_battle_armor_hmgsqd5.md) 
 
@@ -92,7 +92,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - Heavy Machine Gun 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9150) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9150) 
 - **Battle Value:** 51 (463 for 6 suits) 
 - [*More Info*](raiden_ii_battle_armor/raiden_ii_battle_armor_hmgsqd6.md) 
 

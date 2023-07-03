@@ -16,7 +16,7 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7660) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7660) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Hitch 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6527) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6527) 
 - **Battle Value:** 221 
 
 ## Availability 

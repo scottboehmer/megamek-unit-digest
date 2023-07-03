@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Combat Computer 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6516) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6516) 
 - **Battle Value:** 2105 
 
 ## Availability 

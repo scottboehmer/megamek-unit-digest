@@ -13,7 +13,7 @@
   - ER Large Laser 
   - Medium Pulse Laser 
   - ER Small Laser × 2 
-- **Sources:** TP:Foster - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/9232) 
+- **Sources:** Turning Points: Foster , [Master Unit List](http://masterunitlist.info/Unit/Details/9232) 
 - **Battle Value:** 1645 
 - [*More Info*](night_chanter/night_chanter_prime.md) 
 
@@ -33,7 +33,7 @@
 - **Equipment:** 
   - Inner Sphere A-Pod × 2 
   - CASE 
-- **Sources:** TP:Foster - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/9233) 
+- **Sources:** Turning Points: Foster , [Master Unit List](http://masterunitlist.info/Unit/Details/9233) 
 - **Battle Value:** 1604 
 - [*More Info*](night_chanter/night_chanter_a.md) 
 

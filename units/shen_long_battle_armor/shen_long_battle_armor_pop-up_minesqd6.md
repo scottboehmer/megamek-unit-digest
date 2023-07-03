@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Pop-Up Mine (OS) 
   - Clan Heavy Grenade Launcher × 2 
-- **Sources:** TRO 3145 Capellan Confederation - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9113) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/9113) 
 - **Battle Value:** 52 (464 for 6 suits) 
 
 ## Availability 

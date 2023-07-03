@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - CASE 
   - C3 Boosted Main × 2 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6608) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6608) 
 - **Battle Value:** 2861 
 
 ## Availability 

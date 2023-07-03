@@ -14,7 +14,7 @@
   - Fluid Gun × 2 (ammo: 120) 
 - **Equipment:** 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7874) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7874) 
 - **Battle Value:** 492 
 - [*More Info*](burrower/burrower_dtm-1_miningmech.md) 
 
@@ -32,7 +32,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Tracks 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7875) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7875) 
 - **Battle Value:** 556 
 - [*More Info*](burrower/burrower_dtm-1m_miningmech_mod.md) 
 

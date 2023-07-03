@@ -21,7 +21,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5668) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5668) 
 - **Battle Value:** 1869 
 
 ## Availability 

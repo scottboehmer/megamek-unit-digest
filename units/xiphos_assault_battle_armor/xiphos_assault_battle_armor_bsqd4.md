@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Man-Portable Plasma Rifle 
   - SRM 1 (OS) 
-- **Sources:** TRO 3145 Free Worlds League - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6485) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6485) 
 - **Battle Value:** 69 (357 for 4 suits) 
 
 ## Availability 

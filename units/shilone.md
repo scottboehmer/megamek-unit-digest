@@ -14,7 +14,7 @@
   - Large Laser 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2923) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2923) 
 - **Battle Value:** Unknown 
 - [*More Info*](shilone/shilone_sl-17.md) 
 
@@ -32,7 +32,7 @@
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
   - AC/2 × 2 (ammo: 45) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2924) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2924) 
 - **Battle Value:** Unknown 
 - [*More Info*](shilone/shilone_sl-17ac.md) 
 
@@ -50,7 +50,7 @@
   - Large Laser 
   - Medium Laser × 2 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2925) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2925) 
 - **Battle Value:** Unknown 
 - [*More Info*](shilone/shilone_sl-17r.md) 
 
@@ -67,7 +67,7 @@
   - ER Large Laser 
   - MML 7 × 4 (ammo: 34 LRM, 28 SRM) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2926) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2926) 
 - **Battle Value:** Unknown 
 - [*More Info*](shilone/shilone_sl-18.md) 
 
@@ -86,7 +86,7 @@
   - Clan Medium Pulse Laser × 2 
 - **Equipment:** 
   - Chaff Pod × 2 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2927) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/2927) 
 - **Battle Value:** Unknown 
 - [*More Info*](shilone/shilone_sl-17x.md) 
 

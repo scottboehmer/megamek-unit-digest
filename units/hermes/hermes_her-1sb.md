@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Stable 
-- **Sources:** Hist:Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1488) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/1488) 
 - **Battle Value:** 1112 
 
 ## Availability 

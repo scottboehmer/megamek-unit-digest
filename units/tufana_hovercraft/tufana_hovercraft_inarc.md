@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - TAG 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3313) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3313) 
 - **Battle Value:** 756 
 
 ## Availability 

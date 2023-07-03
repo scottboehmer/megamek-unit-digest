@@ -22,7 +22,7 @@
   - Improved Communications 
   - Improved Sensors 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Starterbook: Wolf & Blake - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1993) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/1993) 
 - **Battle Value:** 758 
 
 ## Availability 

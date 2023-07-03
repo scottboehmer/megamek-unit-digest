@@ -22,7 +22,7 @@
   - Protected Actuators 
   - Rugged (×2) 
   - Oversized 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1975) 
 - **Battle Value:** 2022 
 
 ## Availability 

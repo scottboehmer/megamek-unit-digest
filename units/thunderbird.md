@@ -13,7 +13,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - Large Laser × 3 
   - Medium Laser × 5 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5231) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5231) 
 - **Battle Value:** Unknown 
 - [*More Info*](thunderbird/thunderbird_trb-d36.md) 
 
@@ -30,7 +30,7 @@
   - Gauss Rifle × 2 (ammo: 32) 
   - ER Large Laser × 3 
   - Medium Laser × 6 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3227) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3227) 
 - **Battle Value:** Unknown 
 - [*More Info*](thunderbird/thunderbird_trb-d36b.md) 
 
@@ -47,7 +47,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 32) 
   - ER Large Laser × 3 
   - Medium Laser × 4 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5232) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5232) 
 - **Battle Value:** Unknown 
 - [*More Info*](thunderbird/thunderbird_trb-d46.md) 
 
@@ -65,7 +65,7 @@
   - Large Laser × 3 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5233) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5233) 
 - **Battle Value:** Unknown 
 - [*More Info*](thunderbird/thunderbird_trb-d50.md) 
 
@@ -82,7 +82,7 @@
   - RAC/5 × 2 (ammo: 80) 
   - Centurion Weapon System × 2 
   - Large Pulse Laser × 2 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5577) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5577) 
 - **Battle Value:** Unknown 
 - [*More Info*](thunderbird/thunderbird_trb-xts.md) 
 
@@ -101,7 +101,7 @@
   - Ultra AC/10 (ammo: 20) 
   - ER Medium Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5234) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5234) 
 - **Battle Value:** Unknown 
 - [*More Info*](thunderbird/thunderbird_trb-d56.md) 
 

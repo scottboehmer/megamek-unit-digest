@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Vestigial Hands 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1001) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/1001) 
 - **Battle Value:** 1778 
 
 ## Availability 

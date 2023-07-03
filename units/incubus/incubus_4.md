@@ -17,7 +17,7 @@
   - ER Micro Laser × 2 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3444) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3444) 
 - **Battle Value:** 1581 
 
 ## Availability 

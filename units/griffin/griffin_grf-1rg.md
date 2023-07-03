@@ -20,7 +20,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (Large Laser) 
-- **Sources:** Rec Guide:ilClan #1 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9402) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/9402) 
 - **Battle Value:** 1141 
 
 ## Availability 

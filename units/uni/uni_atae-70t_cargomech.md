@@ -16,7 +16,7 @@
   - Lift Hoist × 2 
   - Cargo × 2 
   - Cargo Container 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7175) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7175) 
 - **Battle Value:** 533 
 
 ## Availability 

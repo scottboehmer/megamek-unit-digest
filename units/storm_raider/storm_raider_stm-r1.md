@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Mace) 
   - Jettison-Capable Weapon (AC/10) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6615) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6615) 
 - **Battle Value:** 593 
 
 ## Availability 

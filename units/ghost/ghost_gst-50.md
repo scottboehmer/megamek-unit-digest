@@ -20,7 +20,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6907) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6907) 
 - **Battle Value:** 1114 
 
 ## Availability 

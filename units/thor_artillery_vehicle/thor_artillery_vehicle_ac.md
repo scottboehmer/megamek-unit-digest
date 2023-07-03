@@ -14,7 +14,7 @@
   - AC/10 (ammo: 20) 
   - Clan Prototype Rocket 20 × 2 
   - Machine Gun × 4 (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/3186) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3186) 
 - **Battle Value:** 663 
 
 ## Availability 

@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6887) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6887) 
 - **Battle Value:** 1690 
 
 ## Availability 

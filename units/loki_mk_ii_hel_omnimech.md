@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6277) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6277) 
 - **Battle Value:** 2189 
 - [*More Info*](hel_omnimech/hel_prime.md) 
 
@@ -41,7 +41,7 @@
   - CASE 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6278) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6278) 
 - **Battle Value:** 2249 
 - [*More Info*](hel_omnimech/hel_a.md) 
 
@@ -62,7 +62,7 @@
   - CASE 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6279) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6279) 
 - **Battle Value:** 1798 
 - [*More Info*](hel_omnimech/hel_b.md) 
 

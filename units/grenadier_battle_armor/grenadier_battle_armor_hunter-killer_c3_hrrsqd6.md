@@ -16,7 +16,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9158) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9158) 
 - **Battle Value:** 46 (415 for 6 suits) 
 
 ## Availability 

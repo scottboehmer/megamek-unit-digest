@@ -21,7 +21,7 @@
   - Stable 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Mercenaries - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6559) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6559) 
 - **Battle Value:** 2177 
 
 ## Availability 

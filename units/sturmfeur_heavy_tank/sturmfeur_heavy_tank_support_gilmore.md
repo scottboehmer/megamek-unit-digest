@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** Rec Guide:ilClan #28 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9373) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9373) 
 - **Battle Value:** 1670 
 
 ## Availability 

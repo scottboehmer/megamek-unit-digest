@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Weak Head Armor (2) 
-- **Sources:** Shrapnel #12  - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9504) 
+- **Sources:** Shrapnel #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/9504) 
 - **Battle Value:** 2058 
 
 ## Availability 

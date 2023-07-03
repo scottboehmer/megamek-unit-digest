@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Large Pulse Laser) 
   - Stabilized Weapon (Large Pulse Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1173) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1173) 
 - **Battle Value:** 1436 
 - [*More Info*](gallant/gallant_glt-7-0.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Medium X-Pulse Laser) 
   - Stabilized Weapon (Medium X-Pulse Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1174) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1174) 
 - **Battle Value:** 1666 
 - [*More Info*](gallant/gallant_glt-8-0.md) 
 
@@ -61,7 +61,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (Large Re-Engineered Laser) 
   - Stabilized Weapon (Large Re-Engineered Laser) 
-- **Sources:** RS 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6872) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6872) 
 - **Battle Value:** 1537 
 - [*More Info*](gallant/gallant_glt-10-0.md) 
 

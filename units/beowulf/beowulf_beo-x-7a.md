@@ -24,7 +24,7 @@
   - Extended Torso Twist 
   - Exposed Actuators 
   - Prototype 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5548) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5548) 
 - **Battle Value:** 1473 
 
 ## Availability 

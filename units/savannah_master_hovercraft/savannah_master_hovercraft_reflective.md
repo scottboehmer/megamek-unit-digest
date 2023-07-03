@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - ER Medium Laser 
-- **Sources:** Rec Guide:ilClan #31 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9452) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9452) 
 - **Battle Value:** 263 
 
 ## Availability 

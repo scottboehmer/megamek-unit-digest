@@ -16,7 +16,7 @@
   - Streak SRM 4 × 4 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2773) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2773) 
 - **Battle Value:** Unknown 
 
 ## Availability 

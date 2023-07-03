@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3428) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3428) 
 - **Battle Value:** 1045 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #27 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9346) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9346) 
 - **Battle Value:** 975 
 
 ## Availability 

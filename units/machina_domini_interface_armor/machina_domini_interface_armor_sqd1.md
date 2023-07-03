@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - BattleMech Neural Interface Unit 
-- **Sources:** J:Final Reckoning - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4555) 
+- **Sources:** Jihad: Final Reckoning , [Master Unit List](http://masterunitlist.info/Unit/Details/4555) 
 - **Battle Value:** 10 (10 for 1 suits) 
 
 ## Availability 

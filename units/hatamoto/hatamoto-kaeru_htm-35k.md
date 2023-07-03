@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4266) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4266) 
 - **Battle Value:** 1906 
 
 ## Availability 

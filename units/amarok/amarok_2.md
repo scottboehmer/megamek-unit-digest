@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Stable 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8240) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8240) 
 - **Battle Value:** 3351 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Light AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #4 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7499) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7499) 
 - **Battle Value:** 1165 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 2 (2) 
 - **Weapons:** 
   - LRM 5 × 2 (ammo: 24) 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7153) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/7153) 
 - **Battle Value:** 214 
 
 ## Availability 

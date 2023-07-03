@@ -16,7 +16,7 @@
   - Clan Improved Heavy Medium Laser × 4 
 - **Equipment:** 
   - Clan Laser Anti-Missile System 
-- **Sources:** XTRO Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2966) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/2966) 
 - **Battle Value:** Unknown 
 
 ## Availability 

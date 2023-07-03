@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3441) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3441) 
 - **Battle Value:** 1596 
 - [*More Info*](incubus/incubus.md) 
 
@@ -36,7 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3442) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3442) 
 - **Battle Value:** 1913 
 - [*More Info*](incubus/incubus_2.md) 
 
@@ -56,7 +56,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7541) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7541) 
 - **Battle Value:** 1175 
 - [*More Info*](incubus/incubus_7.md) 
 
@@ -76,7 +76,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7543) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7543) 
 - **Battle Value:** 1557 
 - [*More Info*](incubus/incubus_8.md) 
 
@@ -96,7 +96,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** Rec Guide:ilClan #7 - Late Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3443) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3443) 
 - **Battle Value:** 1324 
 - [*More Info*](incubus/incubus_3.md) 
 
@@ -115,7 +115,7 @@
   - ER Micro Laser × 2 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3444) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3444) 
 - **Battle Value:** 1581 
 - [*More Info*](incubus/incubus_4.md) 
 
@@ -135,7 +135,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3445) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3445) 
 - **Battle Value:** 1364 
 - [*More Info*](incubus/incubus_5.md) 
 
@@ -156,7 +156,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8008) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8008) 
 - **Battle Value:** 1578 
 - [*More Info*](incubus/incubus_6.md) 
 
@@ -177,7 +177,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7544) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7544) 
 - **Battle Value:** 1849 
 - [*More Info*](incubus/incubus_9.md) 
 

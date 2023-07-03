@@ -15,7 +15,7 @@
   - Backhoe 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7163) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7163) 
 - **Battle Value:** 246 
 
 ## Availability 

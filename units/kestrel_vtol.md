@@ -12,7 +12,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (4.0 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1764) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1764) 
 - **Battle Value:** 166 
 - [*More Info*](kestrel_vtol/kestrel_vtol_clan.md) 
 
@@ -28,7 +28,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Infantry (3.5 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1769) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1769) 
 - **Battle Value:** 155 
 - [*More Info*](kestrel_vtol/kestrel_vtol.md) 
 
@@ -44,7 +44,7 @@
   - Small Laser × 2 
 - **Equipment:** 
   - Infantry (1.5 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1767) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1767) 
 - **Battle Value:** 175 
 - [*More Info*](kestrel_vtol/kestrel_vtol_sl.md) 
 
@@ -59,7 +59,7 @@
 - **Equipment:** 
   - Paramedic Equipment × 6 
   - Infantry (3.5 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1765) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1765) 
 - **Battle Value:** 126 
 - [*More Info*](kestrel_vtol/kestrel_vtol_medevac.md) 
 
@@ -75,7 +75,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1766) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1766) 
 - **Battle Value:** 252 
 - [*More Info*](kestrel_vtol/kestrel_vtol_ml.md) 
 
@@ -94,7 +94,7 @@
   - Jet Booster 
   - Remote Sensor Dispenser 
   - Mast Mount 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5775) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5775) 
 - **Battle Value:** 175 
 - [*More Info*](kestrel_vtol/kestrel_vtol_scout.md) 
 
@@ -110,7 +110,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1768) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1768) 
 - **Battle Value:** 192 
 - [*More Info*](kestrel_vtol/kestrel_vtol_srm.md) 
 

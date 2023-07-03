@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2110) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2110) 
 - **Battle Value:** 929 
 
 ## Availability 

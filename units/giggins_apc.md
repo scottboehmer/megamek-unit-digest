@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Infantry (8 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1196) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1196) 
 - **Battle Value:** 476 
 - [*More Info*](giggins_apc/giggins_apc.md) 
 
@@ -30,7 +30,7 @@
   - MML 5 (ammo: 24 LRM, 20 SRM) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1195) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1195) 
 - **Battle Value:** 718 
 - [*More Info*](giggins_apc/giggins_apc_fire_support.md) 
 

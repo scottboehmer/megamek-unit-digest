@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Accurate Weapon (LB 10-X AC) 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6563) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6563) 
 - **Battle Value:** 1389 
 
 ## Availability 

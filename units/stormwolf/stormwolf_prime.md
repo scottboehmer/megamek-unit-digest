@@ -20,7 +20,7 @@
   - Supercharger 
   - Light TAG 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8204) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8204) 
 - **Battle Value:** 2788 
 
 ## Availability 

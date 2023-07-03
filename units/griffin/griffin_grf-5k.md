@@ -24,7 +24,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (LRM 10) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1303) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1303) 
 - **Battle Value:** 1390 
 
 ## Availability 

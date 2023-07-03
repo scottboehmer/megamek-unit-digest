@@ -13,7 +13,7 @@
   - PPC 
   - Medium Laser 
   - Small Laser 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2986) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2986) 
 - **Battle Value:** Unknown 
 - [*More Info*](spad/spad_spd-502.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2987) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2987) 
 - **Battle Value:** Unknown 
 - [*More Info*](spad/spad_spd-503.md) 
 
@@ -45,7 +45,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - ER Small Laser × 2 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2988) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2988) 
 - **Battle Value:** Unknown 
 - [*More Info*](spad/spad_spd-504.md) 
 

@@ -13,7 +13,7 @@
   - PPC × 2 
   - SRM 6 × 5 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1624) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1624) 
 - **Battle Value:** Unknown 
 - [*More Info*](ironsides/ironsides_irn-sd1.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - Large Laser × 3 
   - SRM 6 × 5 (ammo: 30) 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1625) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1625) 
 - **Battle Value:** Unknown 
 - [*More Info*](ironsides/ironsides_irn-sd2.md) 
 
@@ -48,7 +48,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4374) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4374) 
 - **Battle Value:** Unknown 
 - [*More Info*](ironsides/ironsides_irn-sd1b.md) 
 
@@ -65,7 +65,7 @@
   - ER PPC × 2 
   - Clan Streak SRM 4 × 5 (ammo: 50) 
   - Medium Laser × 2 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7689) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7689) 
 - **Battle Value:** Unknown 
 - [*More Info*](ironsides/ironsides_irn-sd1b-ec.md) 
 
@@ -82,7 +82,7 @@
   - ER PPC 
   - ER Large Laser 
   - MRM 10 × 5 (ammo: 120) 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1626) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1626) 
 - **Battle Value:** Unknown 
 - [*More Info*](ironsides/ironsides_irn-sd3.md) 
 
@@ -98,7 +98,7 @@
 - **Weapons:** 
   - Clan Streak SRM 6 × 7 (ammo: 30) 
   - Clan ER Medium Laser × 5 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5559) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5559) 
 - **Battle Value:** Unknown 
 - [*More Info*](ironsides/ironsides_cx-19.md) 
 

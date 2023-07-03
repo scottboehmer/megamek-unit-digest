@@ -17,7 +17,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTR Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8904) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8904) 
 - **Battle Value:** 35 (313 for 6 suits) 
 
 ## Availability 

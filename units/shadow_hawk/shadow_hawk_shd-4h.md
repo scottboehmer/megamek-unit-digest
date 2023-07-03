@@ -19,7 +19,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7785) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7785) 
 - **Battle Value:** 1569 
 
 ## Availability 

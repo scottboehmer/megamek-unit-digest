@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/8219) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8219) 
 - **Battle Value:** 3103 
 
 ## Availability 

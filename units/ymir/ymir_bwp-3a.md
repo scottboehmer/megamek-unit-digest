@@ -17,7 +17,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3622) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3622) 
 - **Battle Value:** 1491 
 
 ## Availability 

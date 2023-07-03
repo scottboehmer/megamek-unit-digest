@@ -18,7 +18,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/371) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/371) 
 - **Battle Value:** 1998 
 - [*More Info*](black_watch/black_watch_bkw-7r.md) 
 
@@ -39,7 +39,7 @@
   - TAG 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/372) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/372) 
 - **Battle Value:** 2144 
 - [*More Info*](black_watch/black_watch_bkw-9r.md) 
 

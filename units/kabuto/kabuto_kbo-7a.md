@@ -14,7 +14,7 @@
   - Streak SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1728) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1728) 
 - **Battle Value:** 524 
 
 ## Availability 

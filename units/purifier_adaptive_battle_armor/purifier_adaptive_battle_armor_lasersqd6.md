@@ -14,7 +14,7 @@
   - Battle Claw (right) 
 - **Weapons:** 
   - ER Small Laser 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8933) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8933) 
 - **Battle Value:** 52 (466 for 6 suits) 
 
 ## Availability 

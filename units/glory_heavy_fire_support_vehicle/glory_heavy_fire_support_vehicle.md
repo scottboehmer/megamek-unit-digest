@@ -16,7 +16,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4219) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4219) 
 - **Battle Value:** 1684 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Streak SRM 2 × 3 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/875) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/875) 
 - **Battle Value:** 1333 
 
 ## Availability 

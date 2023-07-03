@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - No Ejection System 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2659) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2659) 
 - **Battle Value:** 1304 
 
 ## Availability 

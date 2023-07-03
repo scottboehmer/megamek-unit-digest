@@ -17,7 +17,7 @@
   - Clan ECM Suite 
   - CASE 
   - Clan Targeting Computer 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6607) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6607) 
 - **Battle Value:** 3545 
 
 ## Availability 

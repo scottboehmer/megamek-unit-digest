@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Protected Actuators 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/945) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/945) 
 - **Battle Value:** 1203 
 
 ## Availability 

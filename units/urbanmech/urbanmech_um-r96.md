@@ -18,7 +18,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** Rec Guide:ilClan #2 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7453) 
+- **Sources:** Rec Guide:ilClan #2 , [Master Unit List](http://masterunitlist.info/Unit/Details/7453) 
 - **Battle Value:** 773 
 
 ## Availability 

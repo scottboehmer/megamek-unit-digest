@@ -14,6 +14,7 @@
   - Streak SRM 6 × 4 (ammo: 45) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2257 
 - [*More Info*](sun_spider/sun_spider_prime.md) 
 
@@ -30,6 +31,7 @@
   - Ultra AC/2 × 4 (ammo: 90) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1931 
 - [*More Info*](sun_spider/sun_spider_a.md) 
 
@@ -46,6 +48,7 @@
   - LRM 15 × 4 (ammo: 32) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2541 
 - [*More Info*](sun_spider/sun_spider_c.md) 
 
@@ -64,6 +67,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2789 
 - [*More Info*](sun_spider/sun_spider_manul.md) 
 
@@ -82,6 +86,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2044 
 - [*More Info*](sun_spider/sun_spider_vanguard.md) 
 
@@ -98,6 +103,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2199 
 - [*More Info*](sun_spider/sun_spider_ambush.md) 
 
@@ -118,6 +124,7 @@
   - Anti-Missile System (ammo: 24) 
   - Light Active Probe 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2497 
 - [*More Info*](sun_spider/sun_spider_b.md) 
 
@@ -135,6 +142,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2096 
 - [*More Info*](sun_spider/sun_spider_d.md) 
 

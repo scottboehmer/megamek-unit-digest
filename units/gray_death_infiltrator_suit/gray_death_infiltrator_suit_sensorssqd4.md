@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Improved Sensors 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6584) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6584) 
 - **Battle Value:** 40 (208 for 4 suits) 
 
 ## Availability 

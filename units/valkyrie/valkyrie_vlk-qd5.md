@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Improved Communications 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8104) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8104) 
 - **Battle Value:** 690 
 
 ## Availability 

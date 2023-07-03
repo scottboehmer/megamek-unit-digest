@@ -14,7 +14,7 @@
   - Searchlight 
   - Mech Sprayer 
   - Liquid Cargo 
-- **Sources:** TRO VA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4842) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4842) 
 - **Battle Value:** 106 
 - [*More Info*](pompier/pompier_gm-3a_firemech.md) 
 
@@ -31,7 +31,7 @@
   - Liquid Cargo × 4 
   - Searchlight 
   - Mech Sprayer 
-- **Sources:** TRO VA - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4844) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4844) 
 - **Battle Value:** 106 
 - [*More Info*](pompier/pompier_gm-3ht_firemech.md) 
 
@@ -49,7 +49,7 @@
   - Liquid Cargo 
   - Searchlight 
   - Mech Sprayer 
-- **Sources:** TRO VA - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4843) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4843) 
 - **Battle Value:** 118 
 - [*More Info*](pompier/pompier_gm-3cd_firemech.md) 
 
@@ -71,7 +71,7 @@
   - Non-Standard Parts 
   - Jettison-Capable Weapon (Machine Gun) 
   - Jettison-Capable Weapon (Machine Gun) 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5780) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5780) 
 - **Battle Value:** 88 
 - [*More Info*](pompier/pompier_gm-fl_firemech.md) 
 
@@ -89,7 +89,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7837) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7837) 
 - **Battle Value:** 148 
 - [*More Info*](pompier/pompier_gm-4p_policemech.md) 
 

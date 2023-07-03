@@ -15,7 +15,7 @@
   - Gauss Rifle × 2 (ammo: 32) 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4114) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4114) 
 - **Battle Value:** Unknown 
 
 ## Availability 

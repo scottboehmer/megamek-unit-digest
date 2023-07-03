@@ -16,7 +16,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1071) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1071) 
 - **Battle Value:** 1546 
 - [*More Info*](fire_scorpion/fire_scorpion.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1072) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1072) 
 - **Battle Value:** 1749 
 - [*More Info*](fire_scorpion/fire_scorpion_2.md) 
 
@@ -60,7 +60,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Cowl 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1073) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1073) 
 - **Battle Value:** 1904 
 - [*More Info*](fire_scorpion/fire_scorpion_3.md) 
 

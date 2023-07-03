@@ -15,7 +15,7 @@
   - Small Laser × 3 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2648) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2648) 
 - **Battle Value:** 783 
 
 ## Availability 

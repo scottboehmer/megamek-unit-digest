@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Long Tom (ammo: 50) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/2202) 
+- **Sources:** TRO: 3025 , [Master Unit List](http://masterunitlist.info/Unit/Details/2202) 
 - **Battle Value:** 1542 
 
 ## Availability 

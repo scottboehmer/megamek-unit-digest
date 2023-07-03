@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Difficult Ejection 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5666) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5666) 
 - **Battle Value:** 941 
 
 ## Availability 

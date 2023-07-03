@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3332) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3332) 
 - **Battle Value:** 2944 
 - [*More Info*](turkina/turkina_prime.md) 
 
@@ -37,7 +37,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3326) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3326) 
 - **Battle Value:** 2906 
 - [*More Info*](turkina/turkina_a.md) 
 
@@ -59,7 +59,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3327) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3327) 
 - **Battle Value:** 3420 
 - [*More Info*](turkina/turkina_b.md) 
 
@@ -85,7 +85,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3328) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3328) 
 - **Battle Value:** 2798 
 - [*More Info*](turkina/turkina_c.md) 
 
@@ -108,7 +108,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #16 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8213) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8213) 
 - **Battle Value:** 2495 
 - [*More Info*](turkina/turkina_m.md) 
 
@@ -128,7 +128,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3329) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3329) 
 - **Battle Value:** 3132 
 - [*More Info*](turkina/turkina_d.md) 
 
@@ -150,7 +150,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3331) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3331) 
 - **Battle Value:** 2712 
 - [*More Info*](turkina/turkina_h.md) 
 
@@ -170,7 +170,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3330) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/3330) 
 - **Battle Value:** 3147 
 - [*More Info*](turkina/turkina_e.md) 
 
@@ -191,7 +191,7 @@
   - Light TAG 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5832) 
+- **Sources:** Wars of Reaving , [Master Unit List](http://masterunitlist.info/Unit/Details/5832) 
 - **Battle Value:** 3935 
 - [*More Info*](turkina/turkina_z.md) 
 
@@ -218,7 +218,7 @@
   - Armored Liquid Cargo × 2 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3333) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3333) 
 - **Battle Value:** 2520 
 - [*More Info*](turkina/turkina_u.md) 
 
@@ -240,7 +240,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #16 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3334) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/3334) 
 - **Battle Value:** 3056 
 - [*More Info*](turkina/turkina_x.md) 
 
@@ -261,7 +261,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #16 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8212) 
+- **Sources:** Rec Guide:ilClan #16 , [Master Unit List](http://masterunitlist.info/Unit/Details/8212) 
 - **Battle Value:** 3080 
 - [*More Info*](turkina/turkina_t.md) 
 

@@ -19,7 +19,7 @@
   - Limited Amphibious Chassis 
   - Remote Sensor Dispenser 
   - Cargo 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5608) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5608) 
 - **Battle Value:** 455 
 
 ## Availability 

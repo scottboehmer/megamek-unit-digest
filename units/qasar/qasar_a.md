@@ -13,7 +13,7 @@
 - **Heat Sinks:** 26 (52) 
 - **Weapons:** 
   - ER Large Laser × 5 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7663) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7663) 
 - **Battle Value:** Unknown 
 
 ## Availability 

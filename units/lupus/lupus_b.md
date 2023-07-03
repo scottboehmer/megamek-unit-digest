@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1964) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/1964) 
 - **Battle Value:** 1985 
 
 ## Availability 

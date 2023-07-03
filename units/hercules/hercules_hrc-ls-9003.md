@@ -20,7 +20,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** RS3150 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7990) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7990) 
 - **Battle Value:** 1794 
 
 ## Availability 

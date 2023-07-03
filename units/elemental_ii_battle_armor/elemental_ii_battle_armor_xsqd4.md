@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
   - Myomer Booster 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4124) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/4124) 
 - **Battle Value:** 44 (230 for 4 suits) 
 
 ## Availability 

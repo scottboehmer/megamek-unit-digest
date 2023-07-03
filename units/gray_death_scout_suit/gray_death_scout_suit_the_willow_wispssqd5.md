@@ -17,7 +17,7 @@
   - Clan Micro Pulse Laser 
 - **Equipment:** 
   - Clan Jump Booster 
-- **Sources:** XTR Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8524) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8524) 
 - **Battle Value:** 39 (271 for 5 suits) 
 
 ## Availability 

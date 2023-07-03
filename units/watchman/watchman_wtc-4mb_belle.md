@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Easy to Pilot 
   - Rugged (×2) 
-- **Sources:** XTRO Royal Fantasy - Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8371) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8371) 
 - **Battle Value:** 1234 
 
 ## Availability 

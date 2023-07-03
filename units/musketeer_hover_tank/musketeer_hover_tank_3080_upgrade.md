@@ -16,7 +16,7 @@
   - CASE 
   - TAG 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3067 U , [Master Unit List](http://masterunitlist.info/Unit/Details/5731) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5731) 
 - **Battle Value:** 1114 
 
 ## Availability 

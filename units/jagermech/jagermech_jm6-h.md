@@ -16,7 +16,7 @@
   - Rocket 15 × 6 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1669) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1669) 
 - **Battle Value:** 1348 
 
 ## Availability 

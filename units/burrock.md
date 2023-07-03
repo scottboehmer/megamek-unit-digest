@@ -15,7 +15,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3878) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3878) 
 - **Battle Value:** 2230 
 - [*More Info*](burrock/burrock.md) 
 
@@ -35,7 +35,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5694) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5694) 
 - **Battle Value:** 2864 
 - [*More Info*](burrock/burrock_2.md) 
 

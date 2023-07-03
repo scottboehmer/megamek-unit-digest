@@ -21,7 +21,7 @@
   - CASE 
 - **Design Quirks:** 
   - Vestigial Hands 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1002) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1002) 
 - **Battle Value:** 2174 
 
 ## Availability 

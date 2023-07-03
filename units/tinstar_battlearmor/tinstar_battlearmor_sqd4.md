@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** OTP:Fronc Reaches - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7700) 
+- **Sources:** Operational Turning Points: Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7700) 
 - **Battle Value:** 55 (288 for 4 suits) 
 
 ## Availability 

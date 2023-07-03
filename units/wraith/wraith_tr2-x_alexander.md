@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3590) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/3590) 
 - **Battle Value:** 1816 
 
 ## Availability 

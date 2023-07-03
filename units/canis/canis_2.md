@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Fast Reload (All Weapons) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/460) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/460) 
 - **Battle Value:** 2822 
 
 ## Availability 

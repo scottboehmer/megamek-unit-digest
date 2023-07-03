@@ -22,7 +22,7 @@
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER Medium Laser) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2470) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2470) 
 - **Battle Value:** 1899 
 - [*More Info*](penthesilea/penthesilea_pen-2h.md) 
 
@@ -44,7 +44,7 @@
   - CASE 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2471) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2471) 
 - **Battle Value:** 1834 
 - [*More Info*](penthesilea/penthesilea_pen-2maf.md) 
 
@@ -71,7 +71,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - EM Interference (Bombast Laser) 
-- **Sources:** XTRO Republic II - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7347) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7347) 
 - **Battle Value:** 1654 
 - [*More Info*](penthesilea/penthesilea_pen-3h.md) 
 

@@ -19,7 +19,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2995) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2995) 
 - **Battle Value:** 1605 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - SRM 4 × 2 (ammo: 50) 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2460) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2460) 
 - **Battle Value:** 571 
 
 ## Availability 

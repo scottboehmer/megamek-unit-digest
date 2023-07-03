@@ -15,7 +15,7 @@
   - Thumper (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3189) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3189) 
 - **Battle Value:** 608 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - No/Minimal Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1037) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1037) 
 - **Battle Value:** 1551 
 
 ## Availability 

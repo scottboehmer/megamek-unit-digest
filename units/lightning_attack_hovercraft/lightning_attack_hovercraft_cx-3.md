@@ -15,7 +15,7 @@
   - Rocket 15 × 6 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5554) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5554) 
 - **Battle Value:** 687 
 
 ## Availability 

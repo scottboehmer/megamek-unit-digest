@@ -14,7 +14,7 @@
   - LRT 20 (ammo: 6) 
   - Large Laser 
   - SRT 6 × 2 (ammo: 15) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4711) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/4711) 
 - **Battle Value:** 963 
 
 ## Availability 

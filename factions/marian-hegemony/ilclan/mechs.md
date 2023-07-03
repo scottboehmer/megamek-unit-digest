@@ -369,9 +369,12 @@
 - [**Centurion CN9-D3D**](../../../units/centurion/centurion_cn9-d3d.md) *Skirmisher (3060)* 
 - [**Centurion CN9-Ar**](../../../units/centurion/centurion_cn9-ar.md) *Sniper (3072)* 
 - [**Centurion CN9-H**](../../../units/centurion/centurion_cn9-h.md) *Brawler (3077)* 
-- [**Centurion CN9-H2 MilitiaMech**](../../../units/centurion/centurion_cn9-h2_militiamech.md) *Brawler (3100)* `IndustrialMech` 
-- [**Centurion CN9-H2H MilitiaMech**](../../../units/centurion/centurion_cn9-h2h_militiamech.md) *Brawler (3100)* `IndustrialMech` 
-- [**Centurion CN9-H3 MilitiaMech**](../../../units/centurion/centurion_cn9-h3_militiamech.md) *Brawler (3100)* `IndustrialMech` 
+
+#### [Centurion MilitiaMech](../../../units/centurion_militiamech.md) 
+
+- [**Centurion CN9-H2 MilitiaMech**](../../../units/centurion_militiamech/centurion_cn9-h2_militiamech.md) *Brawler (3100)* `IndustrialMech` 
+- [**Centurion CN9-H2H MilitiaMech**](../../../units/centurion_militiamech/centurion_cn9-h2h_militiamech.md) *Brawler (3100)* `IndustrialMech` 
+- [**Centurion CN9-H3 MilitiaMech**](../../../units/centurion_militiamech/centurion_cn9-h3_militiamech.md) *Brawler (3100)* `IndustrialMech` 
 
 #### [Chameleon](../../../units/chameleon.md) 
 

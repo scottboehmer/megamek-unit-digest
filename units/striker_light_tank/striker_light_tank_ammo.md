@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 (ammo: 16) 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5154) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/5154) 
 - **Battle Value:** 701 
 
 ## Availability 

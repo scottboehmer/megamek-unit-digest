@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Wheels 
   - CASE 
-- **Sources:** XTRO Republic III - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7371) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7371) 
 - **Battle Value:** 1528 
 
 ## Availability 

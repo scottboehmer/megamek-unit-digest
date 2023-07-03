@@ -22,7 +22,7 @@
   - Stabilized Weapon (LRM 20) 
   - Stabilized Weapon (Ultra AC/10) 
   - Stabilized Weapon (LB 10-X AC) 
-- **Sources:** Rec Guide:ilClan #26 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9322) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9322) 
 - **Battle Value:** 1840 
 - [*More Info*](naga_ii/naga_ii_prime.md) 
 
@@ -49,7 +49,7 @@
   - Stabilized Weapon (ER Large Laser) 
   - Stabilized Weapon (ER Large Laser) 
   - Stabilized Weapon (LB 20-X AC) 
-- **Sources:** Rec Guide:ilClan #26 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9323) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9323) 
 - **Battle Value:** 2160 
 - [*More Info*](naga_ii/naga_ii_a.md) 
 
@@ -76,7 +76,7 @@
   - Stabilized Weapon (LRM 20) 
   - Stabilized Weapon (LRM 20) 
   - Stabilized Weapon (LRM 20) 
-- **Sources:** Rec Guide:ilClan #26 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9324) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9324) 
 - **Battle Value:** 2347 
 - [*More Info*](naga_ii/naga_ii_b.md) 
 
@@ -110,7 +110,7 @@
   - Stabilized Weapon (Streak SRM 6) 
   - Stabilized Weapon (Large Pulse Laser) 
   - Stabilized Weapon (Medium Pulse Laser) 
-- **Sources:** Rec Guide:ilClan #26 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9325) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9325) 
 - **Battle Value:** 2177 
 - [*More Info*](naga_ii/naga_ii_c.md) 
 
@@ -139,7 +139,7 @@
   - Stabilized Weapon (Heavy Medium Laser) 
   - Stabilized Weapon (Heavy Medium Laser) 
   - Stabilized Weapon (Gauss Rifle) 
-- **Sources:** Rec Guide:ilClan #26 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9326) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9326) 
 - **Battle Value:** 2284 
 - [*More Info*](naga_ii/naga_ii_h.md) 
 
@@ -167,7 +167,7 @@
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (RAC/5) 
-- **Sources:** Rec Guide:ilClan #26 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9327) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9327) 
 - **Battle Value:** 2655 
 - [*More Info*](naga_ii/naga_ii_w.md) 
 

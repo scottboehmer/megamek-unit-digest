@@ -17,7 +17,7 @@
   - ER Micro Laser 
   - Flamer 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2788) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2788) 
 - **Battle Value:** 56 (292 for 4 suits) 
 
 ## Availability 

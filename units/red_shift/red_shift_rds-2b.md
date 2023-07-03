@@ -20,7 +20,7 @@
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
   - Accurate Weapon (TAG) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4907) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4907) 
 - **Battle Value:** 555 
 
 ## Availability 

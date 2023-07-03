@@ -13,7 +13,7 @@
   - SRM 4 × 4 (ammo: 50) 
   - ER Small Laser 
   - Machine Gun (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1703) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1703) 
 - **Battle Value:** 752 
 - [*More Info*](jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier.md) 
 
@@ -30,7 +30,7 @@
   - SRM 4 × 4 (ammo: 50) 
   - ER Small Laser 
   - Machine Gun (ammo: 100) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1702) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1702) 
 - **Battle Value:** 978 
 - [*More Info*](jes_i_tactical_missile_carrier/jes_i_tactical_missile_carrier_3082_upgrade.md) 
 

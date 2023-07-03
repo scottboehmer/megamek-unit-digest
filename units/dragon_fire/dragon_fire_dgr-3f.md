@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Good Reputation 
   - No/Minimal Arms 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/913) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/913) 
 - **Battle Value:** 1855 
 
 ## Availability 

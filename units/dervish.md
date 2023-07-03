@@ -15,7 +15,7 @@
   - SRM 2 × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/877) 
+- **Sources:** XTR: Primitives III , [Master Unit List](http://masterunitlist.info/Unit/Details/877) 
 - **Battle Value:** 864 
 - [*More Info*](dervish/dervish_dv-1s.md) 
 
@@ -35,7 +35,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/878) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/878) 
 - **Battle Value:** 1146 
 - [*More Info*](dervish/dervish_dv-6m.md) 
 
@@ -57,7 +57,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** ER 2750 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5869) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5869) 
 - **Battle Value:** 1251 
 - [*More Info*](dervish/dervish_dv-6md.md) 
 
@@ -79,7 +79,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/880) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/880) 
 - **Battle Value:** 1412 
 - [*More Info*](dervish/dervish_dv-7d.md) 
 
@@ -100,7 +100,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/881) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/881) 
 - **Battle Value:** 1765 
 - [*More Info*](dervish/dervish_dv-8d.md) 
 
@@ -122,7 +122,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/883) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/883) 
 - **Battle Value:** 1518 
 - [*More Info*](dervish/dervish_dv-9d.md) 
 
@@ -144,7 +144,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** XTRO Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/882) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/882) 
 - **Battle Value:** 1717 
 - [*More Info*](dervish/dervish_dv-8d2_lightbringer.md) 
 
@@ -164,7 +164,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Hyper-Extending Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/879) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/879) 
 - **Battle Value:** 1347 
 - [*More Info*](dervish/dervish_dv-6mr.md) 
 
@@ -185,7 +185,7 @@
 - **Equipment:** 
   - AES × 2 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9396) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9396) 
 - **Battle Value:** 1919 
 - [*More Info*](dervish/dervish_dv-11dk.md) 
 

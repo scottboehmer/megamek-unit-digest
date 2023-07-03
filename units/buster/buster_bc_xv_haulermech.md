@@ -15,7 +15,7 @@
   - Lift Hoist × 2 
   - Cargo × 3 
   - Tracks 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/452) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/452) 
 - **Battle Value:** 222 
 
 ## Availability 

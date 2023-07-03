@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Advanced SRM 5 (ammo: 2) 
   - Bearhunter Superheavy AC × 2 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8623) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8623) 
 - **Battle Value:** 125 (875 for 5 suits) 
 
 ## Availability 

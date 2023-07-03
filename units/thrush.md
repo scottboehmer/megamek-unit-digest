@@ -11,7 +11,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 3 
-- **Sources:** Field Report 2765 Liao - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5227) 
+- **Sources:** Field Report 2765 CCAF , [Master Unit List](http://masterunitlist.info/Unit/Details/5227) 
 - **Battle Value:** Unknown 
 - [*More Info*](thrush/thrush_tr-5.md) 
 
@@ -26,7 +26,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3201) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3201) 
 - **Battle Value:** Unknown 
 - [*More Info*](thrush/thrush_tr-7.md) 
 
@@ -41,7 +41,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3202) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3202) 
 - **Battle Value:** Unknown 
 - [*More Info*](thrush/thrush_tr-7p.md) 
 
@@ -56,7 +56,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - ER Medium Laser × 3 
-- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3203) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3203) 
 - **Battle Value:** Unknown 
 - [*More Info*](thrush/thrush_tr-8.md) 
 
@@ -73,7 +73,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Cargo 
-- **Sources:** RS Unique Fighters - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3200) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/3200) 
 - **Battle Value:** Unknown 
 - [*More Info*](thrush/thrush_maximilianc-1247.md) 
 
@@ -90,7 +90,7 @@
   - Clan Medium Pulse Laser × 2 
   - Clan ER Medium Laser × 2 
   - Small Laser 
-- **Sources:** XTRO Boondocks - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2794) 
+- **Sources:** XTR: Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/2794) 
 - **Battle Value:** Unknown 
 - [*More Info*](thrush/sangihe_shrike-thrush_nanook.md) 
 
@@ -106,7 +106,7 @@
 - **Weapons:** 
   - Medium Re-Engineered Laser × 2 
   - ER Medium Laser × 3 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8015) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8015) 
 - **Battle Value:** Unknown 
 - [*More Info*](thrush/thrush_tr-9.md) 
 

@@ -14,7 +14,7 @@
   - Arrow IV (ammo: 20) 
   - ER Medium Laser × 2 
   - AP Gauss Rifle × 2 (ammo: 40) 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8051) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8051) 
 - **Battle Value:** 1512 
 
 ## Availability 

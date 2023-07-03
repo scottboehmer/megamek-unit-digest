@@ -10,7 +10,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/20 (ammo: 20) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1513) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1513) 
 - **Battle Value:** 574 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1507) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1507) 
 - **Battle Value:** 520 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_laser.md) 
 
@@ -38,7 +38,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - AC/10 (ammo: 50) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1506) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1506) 
 - **Battle Value:** 536 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_ac10.md) 
 
@@ -52,7 +52,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - SRM 6 × 5 (ammo: 45) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1512) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1512) 
 - **Battle Value:** 630 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_srm.md) 
 
@@ -66,7 +66,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - LRM 15 × 2 (ammo: 32) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1509) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1509) 
 - **Battle Value:** 657 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lrm.md) 
 
@@ -82,7 +82,7 @@
   - AC/20 (ammo: 10) 
 - **Equipment:** 
   - Remote Sensor Dispenser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1510) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1510) 
 - **Battle Value:** 544 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_scout.md) 
 
@@ -96,7 +96,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - LB 20-X AC (ammo: 15 Standard, 10 Cluster) 
-- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1508) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1508) 
 - **Battle Value:** 767 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lb-x.md) 
 
@@ -114,7 +114,7 @@
   - C3i 
   - CASE 
   - Environmentally Sealed Chassis 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1511) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1511) 
 - **Battle Value:** 733 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_sealed.md) 
 
@@ -128,7 +128,7 @@
 - **Heat Sinks:** 1 (1) 
 - **Weapons:** 
   - Ultra AC/20 (ammo: 20) 
-- **Sources:** Rec Guide:ilClan #29 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9387) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9387) 
 - **Battle Value:** 900 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_cell.md) 
 
@@ -142,7 +142,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - HAG 30 (ammo: 20) 
-- **Sources:** Rec Guide:ilClan #29 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9388) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9388) 
 - **Battle Value:** 1051 
 - [*More Info*](hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_c.md) 
 

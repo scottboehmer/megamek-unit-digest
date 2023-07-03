@@ -21,7 +21,7 @@
   - Bad Reputation (Clan) 
   - Accurate Weapon (Enhanced PPC) 
   - Accurate Weapon (Unknown Component) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2590) 
+- **Sources:** Jihad Secrets: The Blake Documents , [Master Unit List](http://masterunitlist.info/Unit/Details/2590) 
 - **Battle Value:** 2065 
 - [*More Info*](pulverizer/pulverizer_pul-2v.md) 
 
@@ -46,7 +46,7 @@
   - Bad Reputation (Clan) 
   - Accurate Weapon (Enhanced PPC) 
   - Accurate Weapon (Unknown Component) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7647) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7647) 
 - **Battle Value:** 2068 
 - [*More Info*](pulverizer/pulverizer_pul-3r.md) 
 
@@ -70,7 +70,7 @@
   - Protected Actuators 
   - Bad Reputation (Clan) 
   - Accurate Weapon (ER PPC) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7648) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7648) 
 - **Battle Value:** 2506 
 - [*More Info*](pulverizer/pulverizer.md) 
 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** RS 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1642) 
+- **Sources:** Record Sheets: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1642) 
 - **Battle Value:** 564 
 
 ## Availability 

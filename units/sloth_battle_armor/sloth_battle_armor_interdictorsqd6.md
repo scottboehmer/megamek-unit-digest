@@ -13,7 +13,7 @@
   - ER Small Laser × 2 
 - **Equipment:** 
   - ECM Suite 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8949) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8949) 
 - **Battle Value:** 44 (392 for 6 suits) 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - CASE 
   - C3 Support 
   - Targeting Computer 
-- **Sources:** TRO 3145 Federated Suns - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6321) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6321) 
 - **Battle Value:** 1118 
 
 ## Availability 

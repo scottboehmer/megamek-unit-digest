@@ -18,7 +18,7 @@
   - Active Probe 
   - Armored Motive System 
   - Light TAG 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6541) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6541) 
 - **Battle Value:** 616 
 
 ## Availability 

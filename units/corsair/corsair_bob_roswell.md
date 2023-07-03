@@ -14,7 +14,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 80) 
   - Streak SRM 6 (ammo: 15) 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4008) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/4008) 
 - **Battle Value:** Unknown 
 
 ## Availability 

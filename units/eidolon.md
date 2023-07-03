@@ -16,7 +16,7 @@
   - C3i 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/943) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/943) 
 - **Battle Value:** 1505 
 - [*More Info*](eidolon/eidolon_c-eid-001.md) 
 

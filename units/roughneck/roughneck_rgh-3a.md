@@ -14,6 +14,7 @@
   - PPC × 2 
   - Medium Laser × 4 
   - Small Laser 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1509 
 
 ## Availability 

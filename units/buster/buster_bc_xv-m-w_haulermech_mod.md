@@ -14,7 +14,7 @@
   - LB 10-X AC (ammo: 10 Standard, 10 Cluster) 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/7179) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7179) 
 - **Battle Value:** 713 
 
 ## Availability 

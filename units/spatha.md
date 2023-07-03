@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2998) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2998) 
 - **Battle Value:** 2222 
 - [*More Info*](spatha/spatha_sp1-x.md) 
 
@@ -44,7 +44,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2999) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/2999) 
 - **Battle Value:** 1973 
 - [*More Info*](spatha/spatha_sp2-x_warlord.md) 
 

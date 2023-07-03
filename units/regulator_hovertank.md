@@ -10,7 +10,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Gauss Rifle (ammo: 16) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2677) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2677) 
 - **Battle Value:** 1212 
 - [*More Info*](regulator_hovertank/regulator_hovertank.md) 
 
@@ -24,7 +24,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Arrow IV (ammo: 15) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2675) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2675) 
 - **Battle Value:** 1016 
 - [*More Info*](regulator_hovertank/regulator_hovertank_arrow_iv.md) 
 
@@ -41,7 +41,7 @@
 - **Equipment:** 
   - CASE 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2676) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2676) 
 - **Battle Value:** 1149 
 - [*More Info*](regulator_hovertank/regulator_hovertank_rac.md) 
 
@@ -57,7 +57,7 @@
   - Silver Bullet (ammo: 16) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2674) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/2674) 
 - **Battle Value:** 857 
 - [*More Info*](regulator_hovertank/regulator_hovertank_alan.md) 
 

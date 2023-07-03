@@ -16,7 +16,7 @@
   - Drone Operating System 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6673) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6673) 
 - **Battle Value:** 779 
 - [*More Info*](revenant/revenant_ubm-2r.md) 
 
@@ -36,7 +36,7 @@
   - Drone Operating System 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6714) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6714) 
 - **Battle Value:** 630 
 - [*More Info*](revenant/revenant_ubm-2r2.md) 
 
@@ -55,7 +55,7 @@
   - Drone Operating System 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6715) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6715) 
 - **Battle Value:** 770 
 - [*More Info*](revenant/revenant_ubm-2r3.md) 
 
@@ -79,7 +79,7 @@
   - Drone Operating System 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6716) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6716) 
 - **Battle Value:** 615 
 - [*More Info*](revenant/revenant_ubm-2r4.md) 
 
@@ -98,7 +98,7 @@
   - Drone Operating System 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6717) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6717) 
 - **Battle Value:** 460 
 - [*More Info*](revenant/revenant_ubm-2r7.md) 
 

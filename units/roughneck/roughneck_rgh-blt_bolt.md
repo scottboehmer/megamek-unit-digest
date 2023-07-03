@@ -15,6 +15,7 @@
   - ER Medium Laser × 2 
   - MRM 10 × 2 (ammo: 48) 
   - Small Laser 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1377 
 
 ## Availability 

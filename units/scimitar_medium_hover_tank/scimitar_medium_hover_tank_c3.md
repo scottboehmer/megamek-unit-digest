@@ -14,7 +14,7 @@
   - RAC/2 (ammo: 90) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2829) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2829) 
 - **Battle Value:** 680 
 
 ## Availability 

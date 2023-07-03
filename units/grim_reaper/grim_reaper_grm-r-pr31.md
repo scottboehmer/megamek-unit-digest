@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Protected Actuators 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1330) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1330) 
 - **Battle Value:** 1655 
 
 ## Availability 

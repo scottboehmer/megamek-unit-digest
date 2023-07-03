@@ -11,7 +11,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - Thumper (ammo: 20) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/822) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/822) 
 - **Battle Value:** 576 
 - [*More Info*](danai_support_vehicle/danai_support_vehicle.md) 
 
@@ -28,7 +28,7 @@
   - MagShot Gauss Rifle × 4 (ammo: 50) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5568) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5568) 
 - **Battle Value:** 794 
 - [*More Info*](danai_support_vehicle/danai_support_vehicle_arrow.md) 
 

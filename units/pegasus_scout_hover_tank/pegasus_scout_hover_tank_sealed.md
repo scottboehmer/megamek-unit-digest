@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - Environmentally Sealed Chassis 
   - TAG 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2459) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2459) 
 - **Battle Value:** 577 
 
 ## Availability 

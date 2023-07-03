@@ -17,7 +17,7 @@
   - Flamer 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6649) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6649) 
 - **Battle Value:** 34 (177 for 4 suits) 
 
 ## Availability 

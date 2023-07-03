@@ -22,7 +22,7 @@
   - Ubiquitous 
   - Exposed Weapon Linkage (Flamer) 
   - Exposed Weapon Linkage (Flamer) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5442) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5442) 
 - **Battle Value:** 908 
 
 ## Availability 

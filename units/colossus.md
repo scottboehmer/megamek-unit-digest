@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stable 
   - Low-Mounted Arms 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/661) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/661) 
 - **Battle Value:** 1986 
 - [*More Info*](colossus/colossus_cl-p3.md) 
 
@@ -42,7 +42,7 @@
 - **Design Quirks:** 
   - Stable 
   - Low-Mounted Arms 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/662) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/662) 
 - **Battle Value:** 2392 
 - [*More Info*](colossus/colossus_cls-4s.md) 
 
@@ -65,7 +65,7 @@
 - **Design Quirks:** 
   - Stable 
   - Low-Mounted Arms 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/663) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/663) 
 - **Battle Value:** 2647 
 - [*More Info*](colossus/colossus_cls-5s.md) 
 

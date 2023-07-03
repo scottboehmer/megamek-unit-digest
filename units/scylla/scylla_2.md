@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5723) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5723) 
 - **Battle Value:** 2839 
 
 ## Availability 

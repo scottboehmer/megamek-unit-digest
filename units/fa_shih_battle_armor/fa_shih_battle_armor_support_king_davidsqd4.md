@@ -14,7 +14,7 @@
   - King David Light Gauss Rifle 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1012) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1012) 
 - **Battle Value:** 30 (157 for 4 suits) 
 
 ## Availability 

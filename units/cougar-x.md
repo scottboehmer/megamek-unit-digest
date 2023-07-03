@@ -23,7 +23,7 @@
   - Modular Weapon (LRM 15) 
   - Modular Weapon (LRM 15) 
   - Modular Weapon (ER Medium Pulse Laser) 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4013) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/4013) 
 - **Battle Value:** 1783 
 - [*More Info*](cougar-x/cougar-xr.md) 
 
@@ -41,7 +41,7 @@
   - Clan ER Medium Laser × 2 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6951) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6951) 
 - **Battle Value:** 1474 
 - [*More Info*](cougar-x/cougar-x.md) 
 
@@ -59,7 +59,7 @@
   - Clan ER Medium Pulse Laser 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6952) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6952) 
 - **Battle Value:** 1293 
 - [*More Info*](cougar-x/cougar-x_2.md) 
 
@@ -80,7 +80,7 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Ubiquitous (Clans) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6953) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6953) 
 - **Battle Value:** 1391 
 - [*More Info*](cougar-x/cougar-x_3.md) 
 

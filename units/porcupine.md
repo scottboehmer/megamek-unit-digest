@@ -15,7 +15,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2555) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2555) 
 - **Battle Value:** 870 
 - [*More Info*](porcupine/porcupine_prc-1n.md) 
 
@@ -35,7 +35,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2556) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2556) 
 - **Battle Value:** 901 
 - [*More Info*](porcupine/porcupine_prc-2n.md) 
 
@@ -55,7 +55,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8102) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8102) 
 - **Battle Value:** 511 
 - [*More Info*](porcupine/porcupine_prc-3n.md) 
 

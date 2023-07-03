@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - Machine Gun Array 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9389) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9389) 
 - **Battle Value:** 1560 
 - [*More Info*](eurus_mbt/eurus_mbt_prime.md) 
 
@@ -33,7 +33,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Inner Sphere Supercharger 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9390) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9390) 
 - **Battle Value:** 1685 
 - [*More Info*](eurus_mbt/eurus_mbt_a.md) 
 
@@ -48,7 +48,7 @@
 - **Weapons:** 
   - HAG 40 (ammo: 15) 
   - ER Medium Laser × 2 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9391) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9391) 
 - **Battle Value:** 2052 
 - [*More Info*](eurus_mbt/eurus_mbt_b.md) 
 
@@ -64,7 +64,7 @@
   - ATM 12 × 2 (ammo: 10 ER, 10 HE, 10 Standard) 
   - Improved Heavy Medium Laser 
   - AP Gauss Rifle × 2 (ammo: 40) 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9392) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9392) 
 - **Battle Value:** 1762 
 - [*More Info*](eurus_mbt/eurus_mbt_c.md) 
 
@@ -79,7 +79,7 @@
 - **Weapons:** 
   - ER PPC 
   - Streak SRM 6 × 3 (ammo: 45) 
-- **Sources:** Rec Guide:ilClan #29 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9393) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9393) 
 - **Battle Value:** 1676 
 - [*More Info*](eurus_mbt/eurus_mbt_d.md) 
 

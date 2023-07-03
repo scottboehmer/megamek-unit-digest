@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Clan ER PPC 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8014) 
+- **Sources:** TRO: 3145 , [Master Unit List](http://masterunitlist.info/Unit/Details/8014) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - MASC 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4300) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4300) 
 - **Battle Value:** 2114 
 - [*More Info*](hellfire/hellfire.md) 
 
@@ -42,7 +42,7 @@
   - MASC 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4301) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4301) 
 - **Battle Value:** 2370 
 - [*More Info*](hellfire/hellfire_2.md) 
 
@@ -64,7 +64,7 @@
   - MASC 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5685) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5685) 
 - **Battle Value:** 2138 
 - [*More Info*](hellfire/hellfire_3.md) 
 

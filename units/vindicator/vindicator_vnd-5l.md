@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Difficult Ejection 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3430) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3430) 
 - **Battle Value:** 1484 
 
 ## Availability 

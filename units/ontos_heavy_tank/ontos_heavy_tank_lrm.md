@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 30) 
   - LRM 10 × 2 (ammo: 12) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2328) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2328) 
 - **Battle Value:** 1164 
 
 ## Availability 

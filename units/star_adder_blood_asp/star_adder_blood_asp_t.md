@@ -20,7 +20,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9486) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9486) 
 - **Battle Value:** 3069 
 
 ## Availability 

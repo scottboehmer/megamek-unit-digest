@@ -16,7 +16,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 4) 
   - Machine Gun × 2 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9152) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9152) 
 - **Battle Value:** 76 (685 for 6 suits) 
 
 ## Availability 

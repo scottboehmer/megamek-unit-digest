@@ -13,7 +13,7 @@
   - Clan LRM 4 (ammo: 8) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7391) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7391) 
 - **Battle Value:** 71 (370 for 4 suits) 
 
 ## Availability 

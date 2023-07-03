@@ -20,7 +20,7 @@
   - Anti-Aircraft Targeting 
   - Extended Torso Twist 
   - Multi-Trac 
-- **Sources:** Rec Guide:ilClan #13 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1171) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/1171) 
 - **Battle Value:** 2038 
 
 ## Availability 

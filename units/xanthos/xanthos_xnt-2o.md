@@ -23,7 +23,7 @@
   - Prototype 
   - Unbalanced 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3603) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/3603) 
 - **Battle Value:** 1300 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - ER Micro Laser × 6 
 - **Design Quirks:** 
   - Poor Performance 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/848) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/848) 
 - **Battle Value:** 522 
 
 ## Availability 

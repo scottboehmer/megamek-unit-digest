@@ -19,7 +19,7 @@
   - ECM Suite 
   - Parafoil 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8536) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8536) 
 - **Battle Value:** 49 (340 for 5 suits) 
 
 ## Availability 

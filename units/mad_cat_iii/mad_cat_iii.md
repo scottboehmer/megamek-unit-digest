@@ -20,7 +20,7 @@
   - Difficult to Maintain 
   - Improved Communications 
   - Bad Reputation (Clan) 
-- **Sources:** TRO Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4561) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4561) 
 - **Battle Value:** 2400 
 
 ## Availability 

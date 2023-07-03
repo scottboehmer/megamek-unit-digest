@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ubiquitous (Clans) 
-- **Sources:** Rec Guide:ilClan #3- Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6876) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/6876) 
 - **Battle Value:** 2216 
 
 ## Availability 

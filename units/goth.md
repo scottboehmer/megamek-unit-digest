@@ -14,7 +14,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 16) 
   - ER Medium Laser × 4 
   - Small Pulse Laser × 2 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7658) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7658) 
 - **Battle Value:** Unknown 
 - [*More Info*](goth/goth_prime.md) 
 
@@ -31,7 +31,7 @@
   - Large Pulse Laser × 2 
   - ER Medium Laser × 2 
   - SRM 6 × 4 (ammo: 15) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7659) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7659) 
 - **Battle Value:** Unknown 
 - [*More Info*](goth/goth_a.md) 
 
@@ -49,7 +49,7 @@
   - ER Large Laser × 2 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7660) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7660) 
 - **Battle Value:** Unknown 
 - [*More Info*](goth/goth_b.md) 
 
@@ -64,7 +64,7 @@
 - **Heat Sinks:** 15 (15) 
 - **Weapons:** 
   - RAC/5 × 2 (ammo: 140) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7661) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7661) 
 - **Battle Value:** Unknown 
 - [*More Info*](goth/goth_c.md) 
 
@@ -82,7 +82,7 @@
   - LRM 15 w/ Artemis V × 2 (ammo: 24) 
 - **Equipment:** 
   - Inner Sphere Coolant Pod × 2 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7662) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7662) 
 - **Battle Value:** Unknown 
 - [*More Info*](goth/goth_d.md) 
 

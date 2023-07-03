@@ -15,7 +15,7 @@
   - Clan Advanced SRM 4 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO: 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8029) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8029) 
 - **Battle Value:** 72 (376 for 4 suits) 
 - [*More Info*](longinus_c_battle_armor/longinus_c_battle_armor_mmr_sqd4.md) 
 
@@ -34,7 +34,7 @@
   - Clan Advanced SRM 4 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO: 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9213) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/9213) 
 - **Battle Value:** 72 (506 for 5 suits) 
 - [*More Info*](longinus_c_battle_armor/longinus_c_battle_armor_mmr_sqd5.md) 
 
@@ -53,7 +53,7 @@
   - Clan Advanced SRM 4 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO: 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8030) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8030) 
 - **Battle Value:** 65 (452 for 5 suits) 
 - [*More Info*](longinus_c_battle_armor/longinus_c_battle_armor_ppc_sqd4.md) 
 
@@ -72,7 +72,7 @@
   - Clan Advanced SRM 4 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO: 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8030) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8030) 
 - **Battle Value:** 65 (452 for 5 suits) 
 - [*More Info*](longinus_c_battle_armor/longinus_c_battle_armor_ppc_sqd5.md) 
 

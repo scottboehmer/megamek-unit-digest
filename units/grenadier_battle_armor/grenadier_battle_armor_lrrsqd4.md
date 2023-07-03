@@ -16,7 +16,7 @@
   - Light Recoilless Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4242) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4242) 
 - **Battle Value:** 65 (336 for 4 suits) 
 
 ## Availability 

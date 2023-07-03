@@ -14,7 +14,7 @@
 - **Weapons:** 
   - SRM 3 (ammo: 4) 
   - Machine Gun × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4931) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4931) 
 - **Battle Value:** 67 (346 for 4 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_sqd4.md) 
 
@@ -32,7 +32,7 @@
 - **Weapons:** 
   - SRM 3 (ammo: 4) 
   - Machine Gun × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8661) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8661) 
 - **Battle Value:** 67 (466 for 5 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_sqd5.md) 
 
@@ -50,7 +50,7 @@
 - **Weapons:** 
   - SRM 3 (ammo: 4) 
   - Machine Gun × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9025) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9025) 
 - **Battle Value:** 67 (599 for 6 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_sqd6.md) 
 
@@ -71,7 +71,7 @@
   - Inner Sphere Partial Wing 
   - Anti-Personnel Mount 
   - Inner Sphere Camo System 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4932) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/4932) 
 - **Battle Value:** 48 (250 for 4 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_hrsqd4.md) 
 
@@ -92,7 +92,7 @@
   - Inner Sphere Partial Wing 
   - Anti-Personnel Mount 
   - Inner Sphere Camo System 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8662) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/8662) 
 - **Battle Value:** 48 (336 for 5 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_hrsqd5.md) 
 
@@ -113,7 +113,7 @@
   - Inner Sphere Partial Wing 
   - Anti-Personnel Mount 
   - Inner Sphere Camo System 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9026) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/9026) 
 - **Battle Value:** 48 (432 for 6 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_hrsqd6.md) 
 
@@ -134,7 +134,7 @@
   - Jump Booster 
   - Anti-Personnel Mount × 2 
   - Inner Sphere Camo System 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4930) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4930) 
 - **Battle Value:** 52 (270 for 4 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_hybridsqd4.md) 
 
@@ -155,7 +155,7 @@
   - Jump Booster 
   - Anti-Personnel Mount × 2 
   - Inner Sphere Camo System 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8660) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/8660) 
 - **Battle Value:** 52 (363 for 5 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_hybridsqd5.md) 
 
@@ -176,7 +176,7 @@
   - Jump Booster 
   - Anti-Personnel Mount × 2 
   - Inner Sphere Camo System 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9024) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/9024) 
 - **Battle Value:** 52 (467 for 6 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_hybridsqd6.md) 
 
@@ -194,7 +194,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 4) 
   - Machine Gun × 2 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6734) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6734) 
 - **Battle Value:** 76 (396 for 4 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_upgradesqd4.md) 
 
@@ -212,7 +212,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 4) 
   - Machine Gun × 2 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8789) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8789) 
 - **Battle Value:** 76 (533 for 5 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_upgradesqd5.md) 
 
@@ -230,7 +230,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 4) 
   - Machine Gun × 2 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9152) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9152) 
 - **Battle Value:** 76 (685 for 6 suits) 
 - [*More Info*](rogue_bear_heavy_battle_armor/rogue_bear_heavy_battle_armor_upgradesqd6.md) 
 

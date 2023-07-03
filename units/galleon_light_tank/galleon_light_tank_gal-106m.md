@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9337) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9337) 
 - **Battle Value:** 424 
 
 ## Availability 

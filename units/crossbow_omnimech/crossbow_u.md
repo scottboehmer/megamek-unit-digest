@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/740) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/740) 
 - **Battle Value:** 1856 
 
 ## Availability 

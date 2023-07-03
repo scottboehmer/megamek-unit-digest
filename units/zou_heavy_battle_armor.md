@@ -13,7 +13,7 @@
   - Medium Recoilless Rifle 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6370) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6370) 
 - **Battle Value:** 56 (290 for 4 suits) 
 - [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_c3sqd4.md) 
 
@@ -30,7 +30,7 @@
   - Medium Recoilless Rifle 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8742) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/8742) 
 - **Battle Value:** 56 (391 for 5 suits) 
 - [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_c3sqd5.md) 
 
@@ -47,7 +47,7 @@
   - Medium Recoilless Rifle 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9105) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/9105) 
 - **Battle Value:** 56 (502 for 6 suits) 
 - [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_c3sqd6.md) 
 
@@ -62,7 +62,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6369) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6369) 
 - **Battle Value:** 73 (381 for 4 suits) 
 - [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_sqd4.md) 
 
@@ -77,7 +77,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8741) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/8741) 
 - **Battle Value:** 73 (513 for 5 suits) 
 - [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_sqd5.md) 
 
@@ -92,7 +92,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9104) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/9104) 
 - **Battle Value:** 73 (660 for 6 suits) 
 - [*More Info*](zou_heavy_battle_armor/zou_heavy_battle_armor_sqd6.md) 
 

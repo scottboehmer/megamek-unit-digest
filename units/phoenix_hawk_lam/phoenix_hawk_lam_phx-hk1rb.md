@@ -18,7 +18,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4821) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4821) 
 - **Battle Value:** 1800 
 
 ## Availability 

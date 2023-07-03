@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/159) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/159) 
 - **Battle Value:** Unknown 
 - [*More Info*](avar/avar_prime.md) 
 
@@ -34,7 +34,7 @@
   - ER Medium Laser × 4 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/155) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/155) 
 - **Battle Value:** Unknown 
 - [*More Info*](avar/avar_a.md) 
 
@@ -50,7 +50,7 @@
 - **Weapons:** 
   - Large Pulse Laser × 2 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/156) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/156) 
 - **Battle Value:** Unknown 
 - [*More Info*](avar/avar_b.md) 
 
@@ -69,7 +69,7 @@
   - Narc (ammo: 0) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/157) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/157) 
 - **Battle Value:** Unknown 
 - [*More Info*](avar/avar_c.md) 
 
@@ -87,7 +87,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/158) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/158) 
 - **Battle Value:** Unknown 
 - [*More Info*](avar/avar_d.md) 
 
@@ -107,7 +107,7 @@
 - **Equipment:** 
   - Active Probe 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3762) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/3762) 
 - **Battle Value:** Unknown 
 - [*More Info*](avar/avar_e.md) 
 

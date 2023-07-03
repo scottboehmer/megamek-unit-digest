@@ -14,7 +14,7 @@
   - Clan Prototype Rocket 10 × 8 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/6973) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/6973) 
 - **Battle Value:** 422 
 
 ## Availability 

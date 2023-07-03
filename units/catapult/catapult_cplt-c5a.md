@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/484) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/484) 
 - **Battle Value:** 1772 
 
 ## Availability 

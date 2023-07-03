@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7629) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7629) 
 - **Battle Value:** 2030 
 
 ## Availability 

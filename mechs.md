@@ -585,7 +585,7 @@
 
 #### [Tarantula](units/tarantula.md) 
 
-- [**Tarantula ZPH-1**](units/tarantula/tarantula_zph-1.md) *Undefined (3054)* 
+- [**Tarantula ZPH-1**](units/tarantula/tarantula_zph-1.md) *Scout (3054)* 
 - [**Tarantula ZPH-2A**](units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 - [**Tarantula ZPH-3A**](units/tarantula/tarantula_zph-3a.md) *Striker (3063)* 
 - [**Tarantula ZPH-4A**](units/tarantula/tarantula_zph-4a.md) *Striker (3066)* `C3 Support` 
@@ -1522,12 +1522,8 @@
 - [**Battle Cobra H**](units/battle_cobra/battle_cobra_h.md) *Striker (3061)* 
 - [**Battle Cobra C**](units/battle_cobra/battle_cobra_c.md) *Striker (3062)* 
 - [**Battle Cobra X**](units/battle_cobra/battle_cobra_x.md) *Striker (3073)* 
-- [**Battle Cobra BTL-C-2OG**](units/battle_cobra/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
-- [**Battle Cobra BTL-C-2OH**](units/battle_cobra/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
-- [**Battle Cobra BTL-C-2OI**](units/battle_cobra/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
 - [**Battle Cobra G**](units/battle_cobra/battle_cobra_g.md) *Striker (3140)* 
 - [**Battle Cobra T**](units/battle_cobra/battle_cobra_t.md) *Sniper (3142)* 
-- [**Battle Cobra BTL-C-2OJ**](units/battle_cobra/battle_cobra_btl-c-2oj.md) *Skirmisher (3144)* 
 - [**Battle Cobra I**](units/battle_cobra/battle_cobra_i.md) *Missile Boat (3147)* 
 - [**Battle Cobra J**](units/battle_cobra/battle_cobra_j.md) *Striker (3147)* 
 
@@ -1540,6 +1536,10 @@
 - [**Battle Cobra BTL-C-2OD**](units/battle_cobra_comstar/battle_cobra_btl-c-2od.md) *Sniper (3069)* `C3i` 
 - [**Battle Cobra BTL-C-2OE**](units/battle_cobra_comstar/battle_cobra_btl-c-2oe.md) *Missile Boat (3070)* `C3i` 
 - [**Battle Cobra BTL-C-2OF**](units/battle_cobra_comstar/battle_cobra_btl-c-2of.md) *Brawler (3070)* `C3i` 
+- [**Battle Cobra BTL-C-2OG**](units/battle_cobra_comstar/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
+- [**Battle Cobra BTL-C-2OH**](units/battle_cobra_comstar/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
+- [**Battle Cobra BTL-C-2OI**](units/battle_cobra_comstar/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
+- [**Battle Cobra BTL-C-2OJ**](units/battle_cobra_comstar/battle_cobra_btl-c-2oj.md) *Skirmisher (3144)* 
 
 #### [Calliope](units/calliope.md) 
 
@@ -2350,10 +2350,13 @@
 - [**Centurion CN9-D9**](units/centurion/centurion_cn9-d9.md) *Skirmisher (3071)* 
 - [**Centurion CN9-Ar**](units/centurion/centurion_cn9-ar.md) *Sniper (3072)* 
 - [**Centurion CN9-H**](units/centurion/centurion_cn9-h.md) *Brawler (3077)* 
-- [**Centurion CN9-H2 MilitiaMech**](units/centurion/centurion_cn9-h2_militiamech.md) *Brawler (3100)* `IndustrialMech` 
-- [**Centurion CN9-H2H MilitiaMech**](units/centurion/centurion_cn9-h2h_militiamech.md) *Brawler (3100)* `IndustrialMech` 
-- [**Centurion CN9-H3 MilitiaMech**](units/centurion/centurion_cn9-h3_militiamech.md) *Brawler (3100)* `IndustrialMech` 
 - [**Centurion CN9-YLW3 'Yen Lo Wang'**](units/centurion/centurion_cn9-ylw3_yen_lo_wang.md) *Brawler (3101)* `Unique` 
+
+#### [Centurion MilitiaMech](units/centurion_militiamech.md) 
+
+- [**Centurion CN9-H2 MilitiaMech**](units/centurion_militiamech/centurion_cn9-h2_militiamech.md) *Brawler (3100)* `IndustrialMech` 
+- [**Centurion CN9-H2H MilitiaMech**](units/centurion_militiamech/centurion_cn9-h2h_militiamech.md) *Brawler (3100)* `IndustrialMech` 
+- [**Centurion CN9-H3 MilitiaMech**](units/centurion_militiamech/centurion_cn9-h3_militiamech.md) *Brawler (3100)* `IndustrialMech` 
 
 #### [Centurion OmniMech](units/centurion_omnimech.md) 
 

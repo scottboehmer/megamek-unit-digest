@@ -21,7 +21,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** DTP Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/5541) 
+- **Sources:** Dark Age Turning Points: Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/5541) 
 - **Battle Value:** 1971 
 
 ## Availability 

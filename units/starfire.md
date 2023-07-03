@@ -13,7 +13,7 @@
   - Ultra AC/5 (ammo: 20) 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** XTRO Succession Wars I - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5129) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5129) 
 - **Battle Value:** Unknown 
 - [*More Info*](starfire/starfire_sf-1x.md) 
 
@@ -30,7 +30,7 @@
   - Ultra AC/5 Prototype (ammo: 20) 
   - Medium Laser × 4 
   - Small Laser 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5129) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5129) 
 - **Battle Value:** Unknown 
 - [*More Info*](starfire/starfire_sf-1x_prototype.md) 
 

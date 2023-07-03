@@ -19,7 +19,7 @@
   - Partial Wing 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7742) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7742) 
 - **Battle Value:** 1121 
 
 ## Availability 

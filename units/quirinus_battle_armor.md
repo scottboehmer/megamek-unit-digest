@@ -15,7 +15,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6644) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6644) 
 - **Battle Value:** 49 (256 for 4 suits) 
 - [*More Info*](quirinus_battle_armor/quirinus_battle_armor_davidsqd4.md) 
 
@@ -34,7 +34,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8774) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/8774) 
 - **Battle Value:** 49 (345 for 5 suits) 
 - [*More Info*](quirinus_battle_armor/quirinus_battle_armor_davidsqd5.md) 
 
@@ -53,7 +53,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9137) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/9137) 
 - **Battle Value:** 49 (443 for 6 suits) 
 - [*More Info*](quirinus_battle_armor/quirinus_battle_armor_davidsqd6.md) 
 
@@ -72,7 +72,7 @@
   - Clan Heavy Grenade Launcher 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6645) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6645) 
 - **Battle Value:** 42 (216 for 4 suits) 
 - [*More Info*](quirinus_battle_armor/quirinus_battle_armor_glsqd4.md) 
 
@@ -91,7 +91,7 @@
   - Clan Heavy Grenade Launcher 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8775) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/8775) 
 - **Battle Value:** 42 (291 for 5 suits) 
 - [*More Info*](quirinus_battle_armor/quirinus_battle_armor_glsqd5.md) 
 
@@ -110,7 +110,7 @@
   - Clan Heavy Grenade Launcher 
 - **Equipment:** 
   - Clan Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9138) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/9138) 
 - **Battle Value:** 42 (374 for 6 suits) 
 - [*More Info*](quirinus_battle_armor/quirinus_battle_armor_glsqd6.md) 
 
@@ -129,7 +129,7 @@
   - Machine Gun 
 - **Equipment:** 
   - Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6646) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6646) 
 - **Battle Value:** 46 (240 for 4 suits) 
 - [*More Info*](quirinus_battle_armor/quirinus_battle_armor_mgsqd4.md) 
 
@@ -148,7 +148,7 @@
   - Machine Gun 
 - **Equipment:** 
   - Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8776) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/8776) 
 - **Battle Value:** 46 (323 for 5 suits) 
 - [*More Info*](quirinus_battle_armor/quirinus_battle_armor_mgsqd5.md) 
 
@@ -167,7 +167,7 @@
   - Machine Gun 
 - **Equipment:** 
   - Light TAG 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9139) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/9139) 
 - **Battle Value:** 46 (416 for 6 suits) 
 - [*More Info*](quirinus_battle_armor/quirinus_battle_armor_mgsqd6.md) 
 

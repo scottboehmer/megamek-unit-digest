@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1332) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1332) 
 - **Battle Value:** 2219 
 - [*More Info*](grizzly/grizzly.md) 
 
@@ -43,7 +43,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1333) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1333) 
 - **Battle Value:** 2195 
 - [*More Info*](grizzly/grizzly_2.md) 
 
@@ -68,7 +68,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9432) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9432) 
 - **Battle Value:** 2331 
 - [*More Info*](grizzly/grizzly_3.md) 
 

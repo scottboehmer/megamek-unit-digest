@@ -21,7 +21,7 @@
   - Extended Torso Twist 
   - Improved Communications 
   - Improved Sensors 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1194) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1194) 
 - **Battle Value:** 1244 
 
 ## Availability 

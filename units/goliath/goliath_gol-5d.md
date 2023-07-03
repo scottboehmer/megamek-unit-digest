@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Multi-Trac 
   - Exposed Actuators 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1235) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1235) 
 - **Battle Value:** 1975 
 
 ## Availability 

@@ -23,7 +23,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7790) 
 - **Battle Value:** 2575 
 
 ## Availability 

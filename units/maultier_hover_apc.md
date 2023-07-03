@@ -12,7 +12,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2109) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2109) 
 - **Battle Value:** 209 
 - [*More Info*](maultier_hover_apc/maultier_hover_apc.md) 
 
@@ -28,7 +28,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2105) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2105) 
 - **Battle Value:** 197 
 - [*More Info*](maultier_hover_apc/maultier_hover_apc_basic.md) 
 
@@ -44,7 +44,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (3 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2107) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2107) 
 - **Battle Value:** 210 
 - [*More Info*](maultier_hover_apc/maultier_hover_apc_intermediate.md) 
 
@@ -60,7 +60,7 @@
   - Streak SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2104) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2104) 
 - **Battle Value:** 165 
 - [*More Info*](maultier_hover_apc/maultier_hover_apc_ba.md) 
 
@@ -76,7 +76,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2106) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2106) 
 - **Battle Value:** 301 
 - [*More Info*](maultier_hover_apc/maultier_hover_apc_fusion.md) 
 
@@ -92,7 +92,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2108) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2108) 
 - **Battle Value:** 170 
 - [*More Info*](maultier_hover_apc/maultier_hover_apc_mg.md) 
 

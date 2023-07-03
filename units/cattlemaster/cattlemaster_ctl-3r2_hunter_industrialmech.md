@@ -15,7 +15,7 @@
   - Machine Gun × 3 (ammo: 100) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** RS:VA IM Exo - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/3906) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/3906) 
 - **Battle Value:** 245 
 
 ## Availability 

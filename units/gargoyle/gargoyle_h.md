@@ -22,7 +22,7 @@
   - Stabilized Weapon (Heavy Large Laser) 
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER Medium Laser) 
-- **Sources:** TRO Clan Invasion - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2008) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2008) 
 - **Battle Value:** 2183 
 
 ## Availability 

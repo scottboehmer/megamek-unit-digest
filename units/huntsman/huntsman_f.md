@@ -21,7 +21,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6904) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6904) 
 - **Battle Value:** 2367 
 
 ## Availability 

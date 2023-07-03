@@ -21,7 +21,7 @@
   - Protected Actuators 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** RS:Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7430) 
+- **Sources:** Record Sheets: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7430) 
 - **Battle Value:** 1115 
 
 ## Availability 

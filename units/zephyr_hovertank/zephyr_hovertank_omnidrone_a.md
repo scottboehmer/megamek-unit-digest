@@ -17,7 +17,7 @@
   - Angel ECM Suite 
   - Drone Operating System 
   - TAG 
-- **Sources:** XTRO Republic I - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7301) 
+- **Sources:** XTR: Republic I , [Master Unit List](http://masterunitlist.info/Unit/Details/7301) 
 - **Battle Value:** 779 
 
 ## Availability 

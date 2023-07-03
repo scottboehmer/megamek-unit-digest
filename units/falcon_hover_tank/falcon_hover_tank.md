@@ -15,7 +15,7 @@
   - Medium Laser 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Rec Guide:ilClan #27 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4154) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/4154) 
 - **Battle Value:** 676 
 
 ## Availability 

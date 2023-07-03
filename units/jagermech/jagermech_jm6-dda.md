@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1667) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1667) 
 - **Battle Value:** 911 
 
 ## Availability 

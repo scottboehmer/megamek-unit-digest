@@ -24,7 +24,7 @@
   - Narrow/Low Profile 
   - Directional Torso Mount (Light Gauss Rifle) 
   - Exposed Weapon Linkage (Light Gauss Rifle) 
-- **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7530) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7530) 
 - **Battle Value:** 1810 
 
 ## Availability 

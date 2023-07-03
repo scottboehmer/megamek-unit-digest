@@ -22,7 +22,7 @@
   - Improved Communications 
   - Prototype 
   - Bad Reputation (Clan) 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4563) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/4563) 
 - **Battle Value:** 2232 
 
 ## Availability 

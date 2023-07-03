@@ -16,7 +16,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3222) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3222) 
 - **Battle Value:** 2577 
 - [*More Info*](thunder_hawk/thunder_hawk_tdk-7x.md) 
 
@@ -36,7 +36,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3223) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3223) 
 - **Battle Value:** 2489 
 - [*More Info*](thunder_hawk/thunder_hawk_tdk-7y.md) 
 
@@ -57,7 +57,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3220) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3220) 
 - **Battle Value:** 2449 
 - [*More Info*](thunder_hawk/thunder_hawk_tdk-7kma.md) 
 
@@ -77,7 +77,7 @@
   - Good Reputation 
   - Variable Range Targeting 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3221) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3221) 
 - **Battle Value:** 2440 
 - [*More Info*](thunder_hawk/thunder_hawk_tdk-7s.md) 
 

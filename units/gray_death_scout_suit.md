@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Active Probe 
   - Jump Booster 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1275) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1275) 
 - **Battle Value:** 16 (81 for 4 suits) 
 - [*More Info*](gray_death_scout_suit/gray_death_scout_suit_sqd4.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Active Probe 
   - Jump Booster 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8525) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8525) 
 - **Battle Value:** 16 (109 for 5 suits) 
 - [*More Info*](gray_death_scout_suit/gray_death_scout_suit_sqd5.md) 
 
@@ -50,7 +50,7 @@
 - **Equipment:** 
   - Active Probe 
   - Jump Booster 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8889) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8889) 
 - **Battle Value:** 16 (140 for 6 suits) 
 - [*More Info*](gray_death_scout_suit/gray_death_scout_suit_sqd6.md) 
 
@@ -70,7 +70,7 @@
   - Clan Flamer 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** Shrapnel #8 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8460) 
+- **Sources:** Shrapnel #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/8460) 
 - **Battle Value:** 35 (180 for 4 suits) 
 - [*More Info*](gray_death_scout_suit/gray_death_scout_suit_reapersqd4.md) 
 
@@ -89,7 +89,7 @@
   - Clan Micro Pulse Laser 
 - **Equipment:** 
   - Clan Jump Booster 
-- **Sources:** XTR Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1274) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/1274) 
 - **Battle Value:** 39 (201 for 4 suits) 
 - [*More Info*](gray_death_scout_suit/gray_death_scout_suit_the_willow_wispssqd4.md) 
 
@@ -108,7 +108,7 @@
   - Clan Micro Pulse Laser 
 - **Equipment:** 
   - Clan Jump Booster 
-- **Sources:** XTR Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8524) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8524) 
 - **Battle Value:** 39 (271 for 5 suits) 
 - [*More Info*](gray_death_scout_suit/gray_death_scout_suit_the_willow_wispssqd5.md) 
 
@@ -127,7 +127,7 @@
   - Clan Micro Pulse Laser 
 - **Equipment:** 
   - Clan Jump Booster 
-- **Sources:** XTR Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8888) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/8888) 
 - **Battle Value:** 39 (348 for 6 suits) 
 - [*More Info*](gray_death_scout_suit/gray_death_scout_suit_the_willow_wispssqd6.md) 
 

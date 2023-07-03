@@ -28,7 +28,7 @@
   - Prototype 
   - Non-Standard Parts 
   - Battlefists 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5564) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5564) 
 - **Battle Value:** 2053 
 
 ## Availability 

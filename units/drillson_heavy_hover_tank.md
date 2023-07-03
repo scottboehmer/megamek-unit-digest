@@ -13,7 +13,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 2 × 2 (ammo: 50) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/932) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/932) 
 - **Battle Value:** 949 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank.md) 
 
@@ -29,7 +29,7 @@
   - Large Laser 
   - SRM 2 × 6 (ammo: 150) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/931) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/931) 
 - **Battle Value:** 926 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) 
 
@@ -46,7 +46,7 @@
   - LRM 10 (ammo: 12) 
   - SRM 2 (ammo: 50) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #32 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/929) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/929) 
 - **Battle Value:** 960 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_erll.md) 
 
@@ -61,7 +61,7 @@
 - **Weapons:** 
   - Large Pulse Laser 
   - Streak SRM 2 × 4 (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #32 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/933) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/933) 
 - **Battle Value:** 899 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_streak.md) 
 
@@ -80,7 +80,7 @@
   - Cargo 
   - Flotation Hull 
   - Environmentally Sealed Chassis 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/930) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/930) 
 - **Battle Value:** 825 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_sealed.md) 
 
@@ -99,7 +99,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #32 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9472) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9472) 
 - **Battle Value:** 910 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_mml.md) 
 
@@ -118,7 +118,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9470) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9470) 
 - **Battle Value:** 1295 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_c.md) 
 
@@ -136,7 +136,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9471) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9471) 
 - **Battle Value:** 1516 
 - [*More Info*](drillson_heavy_hover_tank/drillson_heavy_hover_tank_c_2.md) 
 

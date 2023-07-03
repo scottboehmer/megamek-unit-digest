@@ -15,7 +15,7 @@
   - Heavy Gauss Rifle (ammo: 12) 
   - ER Medium Laser × 4 
   - ER Small Laser × 4 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4517) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4517) 
 - **Battle Value:** Unknown 
 
 ## Availability 

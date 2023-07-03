@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Difficult to Maintain 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide 25 - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9269) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9269) 
 - **Battle Value:** 1581 
 
 ## Availability 

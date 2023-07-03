@@ -22,7 +22,7 @@
   - Stabilized Weapon (AP Gauss Rifle) 
   - Stabilized Weapon (AP Gauss Rifle) 
   - Stabilized Weapon (AP Gauss Rifle) 
-- **Sources:** TRO Clan Invasion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2007) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2007) 
 - **Battle Value:** 2156 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - SRM 2 (ammo: 2) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8493) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8493) 
 - **Battle Value:** 82 (577 for 5 suits) 
 
 ## Availability 

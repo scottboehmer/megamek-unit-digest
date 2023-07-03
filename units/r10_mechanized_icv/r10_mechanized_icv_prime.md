@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (12.0 tons) 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6490) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6490) 
 - **Battle Value:** 746 
 
 ## Availability 

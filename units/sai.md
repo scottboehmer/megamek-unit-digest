@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Large Laser 
   - Medium Laser × 4 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2771) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2771) 
 - **Battle Value:** Unknown 
 - [*More Info*](sai/sai_s-3.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2774) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2774) 
 - **Battle Value:** Unknown 
 - [*More Info*](sai/sai_s-4x.md) 
 
@@ -46,7 +46,7 @@
   - Streak SRM 4 × 4 (ammo: 50) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2773) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2773) 
 - **Battle Value:** Unknown 
 - [*More Info*](sai/sai_s-4c.md) 
 
@@ -62,7 +62,7 @@
 - **Weapons:** 
   - ER PPC 
   - SRM 4 w/ Artemis IV × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2772) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2772) 
 - **Battle Value:** Unknown 
 - [*More Info*](sai/sai_s-4.md) 
 
@@ -78,7 +78,7 @@
 - **Weapons:** 
   - ER Medium Laser × 2 
   - MRM 10 × 2 (ammo: 48) 
-- **Sources:** TRO 3039 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2775) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2775) 
 - **Battle Value:** Unknown 
 - [*More Info*](sai/sai_s-7.md) 
 
@@ -94,7 +94,7 @@
 - **Weapons:** 
   - Light PPC × 2 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2776) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2776) 
 - **Battle Value:** Unknown 
 - [*More Info*](sai/sai_s-8.md) 
 

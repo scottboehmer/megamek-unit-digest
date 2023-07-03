@@ -22,7 +22,7 @@
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
   - Fast Reload (All Weapons) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2513) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2513) 
 - **Battle Value:** 2448 
 
 ## Availability 

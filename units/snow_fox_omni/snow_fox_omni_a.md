@@ -16,7 +16,7 @@
 - **Equipment:** 
   - MASC 
   - CASE 
-- **Sources:** OTP: Hanseatic Crusade - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7879) 
+- **Sources:** Operational Turning Points: Hanseatic Crusade , [Master Unit List](http://masterunitlist.info/Unit/Details/7879) 
 - **Battle Value:** 831 
 
 ## Availability 

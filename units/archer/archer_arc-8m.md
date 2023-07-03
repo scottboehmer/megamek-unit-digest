@@ -21,7 +21,7 @@
   - Stable 
   - Ubiquitous (Inner Sphere) 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/86) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/86) 
 - **Battle Value:** 1759 
 
 ## Availability 

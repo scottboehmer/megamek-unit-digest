@@ -23,7 +23,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** TRO Project Pheonix - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2501) 
+- **Sources:** TRO: Project Pheonix , [Master Unit List](http://masterunitlist.info/Unit/Details/2501) 
 - **Battle Value:** 1244 
 
 ## Availability 

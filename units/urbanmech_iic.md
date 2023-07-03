@@ -18,7 +18,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3361) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3361) 
 - **Battle Value:** 798 
 - [*More Info*](urbanmech_iic/urbanmech_iic.md) 
 
@@ -40,7 +40,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3362) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3362) 
 - **Battle Value:** 855 
 - [*More Info*](urbanmech_iic/urbanmech_iic_2.md) 
 

@@ -14,7 +14,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1814) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1814) 
 - **Battle Value:** 78 (407 for 4 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_the_dark_alleysqd4.md) 
 
@@ -32,7 +32,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8560) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8560) 
 - **Battle Value:** 78 (548 for 5 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_the_dark_alleysqd5.md) 
 
@@ -50,7 +50,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8924) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8924) 
 - **Battle Value:** 78 (705 for 6 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_the_dark_alleysqd6.md) 
 
@@ -69,7 +69,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1815) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1815) 
 - **Battle Value:** 57 (298 for 4 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_anti-infantrysqd4.md) 
 
@@ -88,7 +88,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8561) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8561) 
 - **Battle Value:** 57 (401 for 5 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_anti-infantrysqd5.md) 
 
@@ -107,7 +107,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8925) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8925) 
 - **Battle Value:** 57 (515 for 6 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_anti-infantrysqd6.md) 
 
@@ -126,7 +126,7 @@
   - Heavy Grenade Launcher × 2 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** RS3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6743) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6743) 
 - **Battle Value:** 56 (289 for 4 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_ai_mk_iisqd4.md) 
 
@@ -145,7 +145,7 @@
   - Heavy Grenade Launcher × 2 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** RS3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8798) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8798) 
 - **Battle Value:** 56 (389 for 5 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_ai_mk_iisqd5.md) 
 
@@ -164,7 +164,7 @@
   - Heavy Grenade Launcher × 2 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** RS3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9161) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9161) 
 - **Battle Value:** 56 (501 for 6 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_ai_mk_iisqd6.md) 
 
@@ -183,7 +183,7 @@
   - Clan Heavy Grenade Launcher × 2 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** RS3145 NTNU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6744) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6744) 
 - **Battle Value:** 63 (330 for 4 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_ai_mk_iirsqd4.md) 
 
@@ -202,7 +202,7 @@
   - Clan Heavy Grenade Launcher × 2 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** RS3145 NTNU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8799) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8799) 
 - **Battle Value:** 63 (444 for 5 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_ai_mk_iirsqd5.md) 
 
@@ -221,7 +221,7 @@
   - Clan Heavy Grenade Launcher × 2 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** RS3145 NTNU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9162) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9162) 
 - **Battle Value:** 63 (570 for 6 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_ai_mk_iirsqd6.md) 
 
@@ -239,7 +239,7 @@
   - Heavy Mortar × 2 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** RS3145 NTNU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6745) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6745) 
 - **Battle Value:** 58 (301 for 4 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_mortarsqd4.md) 
 
@@ -257,7 +257,7 @@
   - Heavy Mortar × 2 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** RS3145 NTNU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8800) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8800) 
 - **Battle Value:** 58 (406 for 5 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_mortarsqd5.md) 
 
@@ -275,7 +275,7 @@
   - Heavy Mortar × 2 
 - **Equipment:** 
   - Anti-Personnel Mount × 2 
-- **Sources:** RS3145 NTNU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9163) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9163) 
 - **Battle Value:** 58 (522 for 6 suits) 
 - [*More Info*](kopis_assault_battle_armor/kopis_assault_battle_armor_mortarsqd6.md) 
 

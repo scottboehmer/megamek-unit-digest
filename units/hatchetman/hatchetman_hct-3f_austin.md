@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Fast Reload (Prototype LB 10-X AC) 
-- **Sources:** Starterbook: Sword and Dragon - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1411) 
+- **Sources:** Starterbook: Sword and Dragon , [Master Unit List](http://masterunitlist.info/Unit/Details/1411) 
 - **Battle Value:** 910 
 
 ## Availability 

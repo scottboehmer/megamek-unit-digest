@@ -14,7 +14,7 @@
   - Light PPC 
 - **Equipment:** 
   - Infantry (1.0 tons) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2721) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2721) 
 - **Battle Value:** 371 
 
 ## Availability 

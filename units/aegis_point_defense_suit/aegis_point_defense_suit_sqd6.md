@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Advanced Point Defense System 
   - Anti-Personnel Mount 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9192) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/9192) 
 - **Battle Value:** 34 (310 for 6 suits) 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Inner Sphere Beagle Active Probe 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4645) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/4645) 
 - **Battle Value:** 2024 
 - [*More Info*](minsk/minsk_mnk-101.md) 
 
@@ -39,7 +39,7 @@
   - Active Probe 
   - Inner Sphere A-Pod × 2 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7640) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7640) 
 - **Battle Value:** 2028 
 - [*More Info*](minsk/minsk.md) 
 
@@ -62,7 +62,7 @@
   - Inner Sphere B-Pod × 2 
   - Inner Sphere Coolant Pod × 4 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7641) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7641) 
 - **Battle Value:** 2091 
 - [*More Info*](minsk/minsk_2.md) 
 

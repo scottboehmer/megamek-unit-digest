@@ -13,7 +13,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6369) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6369) 
 - **Battle Value:** 73 (381 for 4 suits) 
 
 ## Availability 

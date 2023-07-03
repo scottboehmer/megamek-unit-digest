@@ -18,7 +18,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Clan CASE 
-- **Sources:** Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7690) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7690) 
 - **Battle Value:** Unknown 
 
 ## Availability 

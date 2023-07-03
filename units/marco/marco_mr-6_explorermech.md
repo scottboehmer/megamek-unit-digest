@@ -18,7 +18,7 @@
   - Salvage Arm 
   - Communications Equipment 
   - Searchlight 
-- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4594) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4594) 
 - **Battle Value:** 295 
 
 ## Availability 

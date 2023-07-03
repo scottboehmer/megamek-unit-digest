@@ -21,7 +21,7 @@
   - Narrow/Low Profile 
   - Jettison-Capable Weapon (Unknown Component) 
   - Jettison-Capable Weapon (ER Large Pulse Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2427) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2427) 
 - **Battle Value:** 1523 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3923) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3923) 
 - **Battle Value:** 1435 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Advanced SRM 2 × 2 (ammo: 6) 
   - Small Pulse Laser 
-- **Sources:** RS3145 NT NU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9165) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9165) 
 - **Battle Value:** 108 (975 for 6 suits) 
 
 ## Availability 

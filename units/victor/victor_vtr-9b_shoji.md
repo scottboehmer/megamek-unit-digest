@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/5864) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5864) 
 - **Battle Value:** 1531 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Advanced SRM 2 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8456) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8456) 
 - **Battle Value:** 76 (395 for 4 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_ap_gausssqd4.md) 
 
@@ -34,7 +34,7 @@
   - Advanced SRM 2 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8834) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8834) 
 - **Battle Value:** 76 (532 for 5 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_ap_gausssqd5.md) 
 
@@ -53,7 +53,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8457) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8457) 
 - **Battle Value:** 51 (267 for 4 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_flamersqd4.md) 
 
@@ -72,7 +72,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9198) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/9198) 
 - **Battle Value:** 51 (462 for 6 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_flamersqd6.md) 
 
@@ -91,7 +91,7 @@
   - Advanced SRM 2 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8836) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8836) 
 - **Battle Value:** 62 (435 for 5 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_microplsqd5.md) 
 
@@ -110,7 +110,7 @@
   - Advanced SRM 2 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9199) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/9199) 
 - **Battle Value:** 62 (559 for 6 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_microplsqd6.md) 
 
@@ -129,7 +129,7 @@
   - Advanced SRM 2 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9197) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/9197) 
 - **Battle Value:** 76 (684 for 6 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_ap_gausssqd6.md) 
 
@@ -148,7 +148,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8835) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8835) 
 - **Battle Value:** 51 (359 for 5 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_flamersqd5.md) 
 
@@ -167,7 +167,7 @@
   - Advanced SRM 2 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8458) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8458) 
 - **Battle Value:** 62 (323 for 4 suits) 
 - [*More Info*](elemental_iii_battle_armor/elemental_iii_battle_armor_microplsqd4.md) 
 

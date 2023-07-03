@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #14 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2374) 
+- **Sources:** Rec Guide:ilClan #14 , [Master Unit List](http://masterunitlist.info/Unit/Details/2374) 
 - **Battle Value:** 1245 
 
 ## Availability 

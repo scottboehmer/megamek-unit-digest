@@ -21,7 +21,7 @@
   - Lift Hoist × 2 
   - Searchlight 
   - Tracks 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1650) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1650) 
 - **Battle Value:** 341 
 
 ## Availability 

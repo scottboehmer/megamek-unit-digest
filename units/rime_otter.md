@@ -18,7 +18,7 @@
   - Improved Sensors 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8309) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8309) 
 - **Battle Value:** 2169 
 - [*More Info*](rime_otter/rime_otter_prime.md) 
 
@@ -42,7 +42,7 @@
   - Improved Sensors 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8310) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8310) 
 - **Battle Value:** 2358 
 - [*More Info*](rime_otter/rime_otter_a.md) 
 
@@ -68,7 +68,7 @@
   - Improved Sensors 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8311) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8311) 
 - **Battle Value:** 1961 
 - [*More Info*](rime_otter/rime_otter_b.md) 
 
@@ -91,7 +91,7 @@
   - Improved Sensors 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8312) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8312) 
 - **Battle Value:** 2718 
 - [*More Info*](rime_otter/rime_otter_c.md) 
 
@@ -117,7 +117,7 @@
   - Improved Sensors 
   - Rugged (×2) 
   - Difficult to Maintain 
-- **Sources:** Rec Guide:ilClan #19 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8313) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8313) 
 - **Battle Value:** 1998 
 - [*More Info*](rime_otter/rime_otter_d.md) 
 

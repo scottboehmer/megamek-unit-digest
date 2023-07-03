@@ -19,7 +19,7 @@
   - Stabilized Weapon (AC/2) 
   - Stabilized Weapon (AC/2) 
   - Stabilized Weapon (AC/2) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2101) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2101) 
 - **Battle Value:** 1460 
 - [*More Info*](mauler/mauler_mal-1r.md) 
 
@@ -43,7 +43,7 @@
   - Stabilized Weapon (AC/2) 
   - Stabilized Weapon (AC/2) 
   - Stabilized Weapon (AC/2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2103) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2103) 
 - **Battle Value:** 1473 
 - [*More Info*](mauler/mauler_mal-c.md) 
 
@@ -66,7 +66,7 @@
   - Stabilized Weapon (Ultra AC/2) 
   - Stabilized Weapon (Ultra AC/2) 
   - Stabilized Weapon (Ultra AC/2) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5460) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5460) 
 - **Battle Value:** 1586 
 - [*More Info*](mauler/mauler_mal-2r.md) 
 
@@ -88,7 +88,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (LB 10-X AC) 
   - Stabilized Weapon (LB 10-X AC) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2102) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2102) 
 - **Battle Value:** 1877 
 - [*More Info*](mauler/mauler_mal-3r.md) 
 
@@ -109,7 +109,7 @@
   - Stabilized Weapon (Light AC/5) 
   - Stabilized Weapon (Light AC/5) 
   - Stabilized Weapon (Light AC/5) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2100) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2100) 
 - **Battle Value:** 1622 
 - [*More Info*](mauler/mauler_mal-1k.md) 
 
@@ -130,7 +130,7 @@
   - Hyper-Extending Actuators 
   - Stabilized Weapon (HVAC/10) 
   - Stabilized Weapon (HVAC/10) 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5784) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5784) 
 - **Battle Value:** 1904 
 - [*More Info*](mauler/mauler_mal-4x_todesbote.md) 
 

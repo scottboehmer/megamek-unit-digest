@@ -18,7 +18,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3052) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3052) 
 - **Battle Value:** 1231 
 - [*More Info*](stealth/stealth_sth-1d.md) 
 
@@ -39,7 +39,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3054) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3054) 
 - **Battle Value:** 1508 
 - [*More Info*](stealth/stealth_sth-2d.md) 
 
@@ -61,7 +61,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3055) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3055) 
 - **Battle Value:** 1339 
 - [*More Info*](stealth/stealth_sth-2d1.md) 
 
@@ -83,7 +83,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3056) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3056) 
 - **Battle Value:** 1339 
 - [*More Info*](stealth/stealth_sth-2d2.md) 
 
@@ -104,7 +104,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3053) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/3053) 
 - **Battle Value:** 1540 
 - [*More Info*](stealth/stealth_sth-1d_anna.md) 
 
@@ -124,7 +124,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3057) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3057) 
 - **Battle Value:** 1577 
 - [*More Info*](stealth/stealth_sth-3s.md) 
 
@@ -148,7 +148,7 @@
   - MASC 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5130) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/5130) 
 - **Battle Value:** 2155 
 - [*More Info*](stealth/stealth_sth-5x.md) 
 

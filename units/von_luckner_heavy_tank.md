@@ -15,7 +15,7 @@
   - SRM 4 (ammo: 25) 
   - Flamer 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3452) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3452) 
 - **Battle Value:** 1058 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) 
 
@@ -33,7 +33,7 @@
   - Streak SRM 2 × 4 (ammo: 50) 
   - Small Pulse Laser 
   - Small Laser 
-- **Sources:** Hist: Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3450) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3450) 
 - **Battle Value:** 1216 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_star_league.md) 
 
@@ -50,7 +50,7 @@
   - LRM 10 w/ Artemis IV (ammo: 12) 
   - Streak SRM 2 × 4 (ammo: 50) 
   - Small Pulse Laser 
-- **Sources:** Hist: Op Klondike - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3449) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3449) 
 - **Battle Value:** 1261 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_royal.md) 
 
@@ -65,7 +65,7 @@
 - **Weapons:** 
   - AC/20 × 2 (ammo: 20) 
   - SRM 6 (ammo: 15) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3451) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3451) 
 - **Battle Value:** 1001 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k100.md) 
 
@@ -84,7 +84,7 @@
   - SRM 4 (ammo: 25) 
   - Flamer 
   - Machine Gun (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3453) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3453) 
 - **Battle Value:** 1018 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k70.md) 
 
@@ -102,7 +102,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #32 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3454) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/3454) 
 - **Battle Value:** 1350 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k75n.md) 
 
@@ -122,7 +122,7 @@
   - Light Machine Gun (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #32 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9482) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9482) 
 - **Battle Value:** 1300 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65w.md) 
 
@@ -140,7 +140,7 @@
   - SRM 4 w/ Artemis IV (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5788) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5788) 
 - **Battle Value:** 1188 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-x71_yakuza.md) 
 
@@ -159,7 +159,7 @@
   - SRM 4 (iOS) 
   - Flamer 
   - Machine Gun (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9483) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9483) 
 - **Battle Value:** 1084 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k85n.md) 
 
@@ -178,7 +178,7 @@
   - Rocket 10 
   - Flamer 
   - Machine Gun (ammo: 100) 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9484) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9484) 
 - **Battle Value:** 1207 
 - [*More Info*](von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k90.md) 
 

@@ -20,7 +20,7 @@
   - Modular Weapon (Ultra AC/10) 
   - Modular Weapon (Medium Pulse Laser) 
   - Modular Weapon (Medium Pulse Laser) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/700) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/700) 
 - **Battle Value:** 1336 
 
 ## Availability 

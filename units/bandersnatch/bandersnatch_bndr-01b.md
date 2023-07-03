@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Stable 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/219) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/219) 
 - **Battle Value:** 1630 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - SRM 2 (iOS) × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #32 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9475) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9475) 
 - **Battle Value:** 569 
 
 ## Availability 

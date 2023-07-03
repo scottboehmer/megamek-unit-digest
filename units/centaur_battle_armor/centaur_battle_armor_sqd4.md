@@ -17,7 +17,7 @@
   - Small Laser 
 - **Equipment:** 
   - Magnetic Clamps 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6651) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6651) 
 - **Battle Value:** 52 (272 for 4 suits) 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/643) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/643) 
 - **Battle Value:** 707 
 - [*More Info*](clint/clint_clnt-1-2r.md) 
 
@@ -39,7 +39,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/644) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/644) 
 - **Battle Value:** 770 
 - [*More Info*](clint/clint_clnt-2-3t.md) 
 
@@ -60,7 +60,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/648) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/648) 
 - **Battle Value:** 619 
 - [*More Info*](clint/clint_clnt-2-4t.md) 
 
@@ -82,7 +82,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/645) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/645) 
 - **Battle Value:** 873 
 - [*More Info*](clint/clint_clnt-2-3t_denton.md) 
 
@@ -104,7 +104,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/646) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/646) 
 - **Battle Value:** 1081 
 - [*More Info*](clint/clint_clnt-2-3u.md) 
 
@@ -129,7 +129,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/650) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/650) 
 - **Battle Value:** 1275 
 - [*More Info*](clint/clint_clnt-5u.md) 
 
@@ -151,7 +151,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/647) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/647) 
 - **Battle Value:** 1245 
 - [*More Info*](clint/clint_clnt-2-3ul.md) 
 
@@ -175,7 +175,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/649) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/649) 
 - **Battle Value:** 901 
 - [*More Info*](clint/clint_clnt-3-3t.md) 
 
@@ -198,7 +198,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/651) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/651) 
 - **Battle Value:** 1334 
 - [*More Info*](clint/clint_clnt-6s.md) 
 
@@ -222,7 +222,7 @@
   - Difficult to Maintain 
   - Exposed Actuators 
   - Non-Standard Parts 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/9462) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9462) 
 - **Battle Value:** 1157 
 - [*More Info*](clint/clint_clnt-3-4t.md) 
 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - No Cooling Jacket (AC/5) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6618) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6618) 
 - **Battle Value:** 1860 
 
 ## Availability 

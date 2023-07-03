@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Cargo 
   - Lift Hoist 
-- **Sources:** RS IA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7168) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7168) 
 - **Battle Value:** 224 
 
 ## Availability 

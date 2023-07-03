@@ -15,7 +15,7 @@
   - ER PPC 
 - **Design Quirks:** 
   - Reinforced Legs 
-- **Sources:** Rec Guide:ilClan #1 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7440) 
+- **Sources:** Rec Guide:ilClan #1 , [Master Unit List](http://masterunitlist.info/Unit/Details/7440) 
 - **Battle Value:** 1644 
 
 ## Availability 

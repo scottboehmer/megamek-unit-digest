@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Streak SRM 4 × 2 (ammo: 50) 
   - SRM 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2542) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2542) 
 - **Battle Value:** 600 
 
 ## Availability 

@@ -11,7 +11,7 @@
 - **Weapons:** 
   - ER PPC × 3 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/900) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/900) 
 - **Battle Value:** 1390 
 - [*More Info*](di_morgan_assault_tank/di_morgan_assault_tank.md) 
 
@@ -29,7 +29,7 @@
 - **Equipment:** 
   - C3 Support 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/898) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/898) 
 - **Battle Value:** 1436 
 - [*More Info*](di_morgan_assault_tank/di_morgan_assault_tank_gauss.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - C3 Support 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/899) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/899) 
 - **Battle Value:** 1869 
 - [*More Info*](di_morgan_assault_tank/di_morgan_assault_tank_lrm.md) 
 

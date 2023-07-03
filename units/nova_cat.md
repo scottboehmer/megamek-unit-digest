@@ -14,7 +14,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2306) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2306) 
 - **Battle Value:** 2530 
 - [*More Info*](nova_cat/nova_cat_prime.md) 
 
@@ -34,7 +34,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2299) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2299) 
 - **Battle Value:** 2629 
 - [*More Info*](nova_cat/nova_cat_a.md) 
 
@@ -54,7 +54,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2300) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2300) 
 - **Battle Value:** 2492 
 - [*More Info*](nova_cat/nova_cat_b.md) 
 
@@ -75,7 +75,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2301) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2301) 
 - **Battle Value:** 1944 
 - [*More Info*](nova_cat/nova_cat_c.md) 
 
@@ -96,7 +96,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2302) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2302) 
 - **Battle Value:** 2084 
 - [*More Info*](nova_cat/nova_cat_d.md) 
 
@@ -117,7 +117,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #23 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8422) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8422) 
 - **Battle Value:** 2024 
 - [*More Info*](nova_cat/nova_cat_m.md) 
 
@@ -137,7 +137,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2303) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2303) 
 - **Battle Value:** 2191 
 - [*More Info*](nova_cat/nova_cat_e.md) 
 
@@ -159,7 +159,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2304) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2304) 
 - **Battle Value:** 2706 
 - [*More Info*](nova_cat/nova_cat_f.md) 
 
@@ -182,7 +182,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2305) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2305) 
 - **Battle Value:** 2522 
 - [*More Info*](nova_cat/nova_cat_g.md) 
 
@@ -205,7 +205,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6869) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6869) 
 - **Battle Value:** 2452 
 - [*More Info*](nova_cat/nova_cat_h.md) 
 
@@ -226,7 +226,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** RS 3145 NTNU - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6870) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6870) 
 - **Battle Value:** 2918 
 - [*More Info*](nova_cat/nova_cat_i.md) 
 
@@ -246,7 +246,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8421) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8421) 
 - **Battle Value:** 2855 
 - [*More Info*](nova_cat/nova_cat_t.md) 
 

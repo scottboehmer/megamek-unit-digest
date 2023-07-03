@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Large Laser 
   - SRM 6 (ammo: 30) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7468) 
+- **Sources:** Touring the Stars: Kaumberg , [Master Unit List](http://masterunitlist.info/Unit/Details/7468) 
 - **Battle Value:** 930 
 
 ## Availability 

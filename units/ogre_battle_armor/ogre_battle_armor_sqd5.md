@@ -14,7 +14,7 @@
   - Heavy Battle Claw (left) 
 - **Weapons:** 
   - SRM 2 (ammo: 13) 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8756) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/8756) 
 - **Battle Value:** 54 (376 for 5 suits) 
 
 ## Availability 

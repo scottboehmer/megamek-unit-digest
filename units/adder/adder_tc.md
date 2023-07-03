@@ -22,7 +22,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7589) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7589) 
 - **Battle Value:** 1247 
 
 ## Availability 

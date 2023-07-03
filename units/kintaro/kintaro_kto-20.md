@@ -17,7 +17,7 @@
   - LRM 5 (ammo: 24) 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Sources:** TRO 3050 - Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/1793) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1793) 
 - **Battle Value:** 1357 
 
 ## Availability 

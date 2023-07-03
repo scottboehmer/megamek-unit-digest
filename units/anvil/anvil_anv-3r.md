@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/49) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/49) 
 - **Battle Value:** 1496 
 
 ## Availability 

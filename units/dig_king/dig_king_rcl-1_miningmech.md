@@ -16,7 +16,7 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS VA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4078) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4078) 
 - **Battle Value:** 409 
 
 ## Availability 

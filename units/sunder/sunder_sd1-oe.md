@@ -17,7 +17,7 @@
   - ER Medium Laser 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3129) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3129) 
 - **Battle Value:** 1876 
 
 ## Availability 

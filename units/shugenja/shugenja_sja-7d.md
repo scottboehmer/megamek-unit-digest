@@ -20,7 +20,7 @@
   - Cowl 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2942) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2942) 
 - **Battle Value:** 1656 
 
 ## Availability 

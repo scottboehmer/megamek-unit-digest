@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC × 3 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/444) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/444) 
 - **Battle Value:** 1105 
 
 ## Availability 

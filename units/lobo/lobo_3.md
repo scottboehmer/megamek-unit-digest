@@ -23,7 +23,7 @@
   - Extended Torso Twist 
   - Difficult to Maintain 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5669) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5669) 
 - **Battle Value:** 1784 
 
 ## Availability 

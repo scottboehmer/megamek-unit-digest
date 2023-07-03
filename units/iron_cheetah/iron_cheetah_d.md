@@ -19,7 +19,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-- **Sources:** Rec Guide:ilClan #19 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8323) 
+- **Sources:** Rec Guide:ilClan #19 , [Master Unit List](http://masterunitlist.info/Unit/Details/8323) 
 - **Battle Value:** 2871 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Easy to Maintain 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3785) 
+- **Sources:** XTR: Primitives II , [Master Unit List](http://masterunitlist.info/Unit/Details/3785) 
 - **Battle Value:** 1461 
 - [*More Info*](banshee/banshee_bnc-1e.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/240) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/240) 
 - **Battle Value:** 1422 
 - [*More Info*](banshee/banshee_bnc-3e.md) 
 
@@ -57,7 +57,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/241) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/241) 
 - **Battle Value:** 1595 
 - [*More Info*](banshee/banshee_bnc-3m.md) 
 
@@ -75,7 +75,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/244) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/244) 
 - **Battle Value:** 1394 
 - [*More Info*](banshee/banshee_bnc-3q.md) 
 
@@ -96,7 +96,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/245) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/245) 
 - **Battle Value:** 1751 
 - [*More Info*](banshee/banshee_bnc-3s.md) 
 
@@ -118,7 +118,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/246) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/246) 
 - **Battle Value:** 1678 
 - [*More Info*](banshee/banshee_bnc-3s_reinesblatt.md) 
 
@@ -137,7 +137,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/242) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/242) 
 - **Battle Value:** 1487 
 - [*More Info*](banshee/banshee_bnc-3mc.md) 
 
@@ -158,7 +158,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/247) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/247) 
 - **Battle Value:** 2065 
 - [*More Info*](banshee/banshee_bnc-5s.md) 
 
@@ -180,7 +180,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3786) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3786) 
 - **Battle Value:** 2094 
 - [*More Info*](banshee/banshee_bnc-5s_sawyer.md) 
 
@@ -201,7 +201,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3787) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3787) 
 - **Battle Value:** 1853 
 - [*More Info*](banshee/banshee_bnc-5s_vandergriff.md) 
 
@@ -222,7 +222,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/248) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/248) 
 - **Battle Value:** 1899 
 - [*More Info*](banshee/banshee_bnc-6s.md) 
 
@@ -244,7 +244,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/249) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/249) 
 - **Battle Value:** 2126 
 - [*More Info*](banshee/banshee_bnc-7s.md) 
 
@@ -274,7 +274,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/250) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/250) 
 - **Battle Value:** 2408 
 - [*More Info*](banshee/banshee_bnc-8s.md) 
 
@@ -300,7 +300,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3788) 
+- **Sources:** BattleCorps , [Master Unit List](http://masterunitlist.info/Unit/Details/3788) 
 - **Battle Value:** 2496 
 - [*More Info*](banshee/banshee_bnc-9s.md) 
 
@@ -319,7 +319,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/243) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/243) 
 - **Battle Value:** 1801 
 - [*More Info*](banshee/banshee_bnc-3mr.md) 
 
@@ -342,7 +342,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3784) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/3784) 
 - **Battle Value:** 2030 
 - [*More Info*](banshee/banshee_bnc-11x.md) 
 
@@ -367,7 +367,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6844) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6844) 
 - **Battle Value:** 2426 
 - [*More Info*](banshee/banshee_bnc-9s2.md) 
 
@@ -390,7 +390,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #17 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8246) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/8246) 
 - **Battle Value:** 2562 
 - [*More Info*](banshee/banshee_bnc-12s.md) 
 

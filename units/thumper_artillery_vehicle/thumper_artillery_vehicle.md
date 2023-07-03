@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Thumper (ammo: 40) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3210) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3210) 
 - **Battle Value:** 568 
 
 ## Availability 

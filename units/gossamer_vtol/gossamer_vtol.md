@@ -12,7 +12,7 @@
 - **Heat Sinks:** 12 (12) 
 - **Weapons:** 
   - Medium Pulse Laser × 3 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6537) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6537) 
 - **Battle Value:** 1091 
 
 ## Availability 

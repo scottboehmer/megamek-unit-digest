@@ -15,7 +15,7 @@
   - Salvage Arm 
   - Lift Hoist 
   - Cargo × 3 
-- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/4853) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4853) 
 - **Battle Value:** 198 
 
 ## Availability 

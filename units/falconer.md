@@ -15,7 +15,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1033) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1033) 
 - **Battle Value:** 2231 
 - [*More Info*](falconer/falconer_flc-8r.md) 
 
@@ -34,7 +34,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1034) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1034) 
 - **Battle Value:** 1979 
 - [*More Info*](falconer/falconer_flc-9r.md) 
 

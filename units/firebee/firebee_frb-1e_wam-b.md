@@ -21,7 +21,7 @@
   - Poor Workmanship 
   - Poor Life Support 
   - Weak Legs 
-- **Sources:** XTRO Primitives III - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1078) 
+- **Sources:** XTR: Primitives III , [Master Unit List](http://masterunitlist.info/Unit/Details/1078) 
 - **Battle Value:** 534 
 
 ## Availability 

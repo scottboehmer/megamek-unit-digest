@@ -245,7 +245,7 @@
 
 #### [Tarantula](../../../units/tarantula.md) 
 
-- [**Tarantula ZPH-1**](../../../units/tarantula/tarantula_zph-1.md) *Undefined (3054)* 
+- [**Tarantula ZPH-1**](../../../units/tarantula/tarantula_zph-1.md) *Scout (3054)* 
 - [**Tarantula ZPH-2A**](../../../units/tarantula/tarantula_zph-2a.md) *Scout (3060)* 
 - [**Tarantula ZPH-3A**](../../../units/tarantula/tarantula_zph-3a.md) *Striker (3063)* 
 - [**Tarantula ZPH-4A**](../../../units/tarantula/tarantula_zph-4a.md) *Striker (3066)* `C3 Support` 
@@ -637,12 +637,12 @@
 
 - [**Assassin ASN-30**](../../../units/assassin/assassin_asn-30.md) *Scout (3062)* 
 
-#### [Battle Cobra](../../../units/battle_cobra.md) 
+#### [Battle Cobra (ComStar)](../../../units/battle_cobra_comstar.md) 
 
-- [**Battle Cobra BTL-C-2OG**](../../../units/battle_cobra/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
-- [**Battle Cobra BTL-C-2OH**](../../../units/battle_cobra/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
-- [**Battle Cobra BTL-C-2OI**](../../../units/battle_cobra/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
-- [**Battle Cobra BTL-C-2OJ**](../../../units/battle_cobra/battle_cobra_btl-c-2oj.md) *Skirmisher (3144)* 
+- [**Battle Cobra BTL-C-2OG**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
+- [**Battle Cobra BTL-C-2OH**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
+- [**Battle Cobra BTL-C-2OI**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
+- [**Battle Cobra BTL-C-2OJ**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2oj.md) *Skirmisher (3144)* 
 
 #### [Calliope](../../../units/calliope.md) 
 

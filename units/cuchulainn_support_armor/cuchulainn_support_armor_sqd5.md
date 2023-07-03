@@ -14,7 +14,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - Detachable ER Medium Pulse Laser 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8768) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8768) 
 - **Battle Value:** 119 (836 for 5 suits) 
 
 ## Availability 

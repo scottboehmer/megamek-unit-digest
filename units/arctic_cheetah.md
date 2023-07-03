@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1384) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1384) 
 - **Battle Value:** 1334 
 - [*More Info*](arctic_cheetah/arctic_cheetah_prime.md) 
 
@@ -41,7 +41,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1378) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1378) 
 - **Battle Value:** 1117 
 - [*More Info*](arctic_cheetah/arctic_cheetah_a.md) 
 
@@ -63,7 +63,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1379) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1379) 
 - **Battle Value:** 1076 
 - [*More Info*](arctic_cheetah/arctic_cheetah_b.md) 
 
@@ -84,7 +84,7 @@
   - Active Probe 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1380) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1380) 
 - **Battle Value:** 1840 
 - [*More Info*](arctic_cheetah/arctic_cheetah_c.md) 
 
@@ -104,7 +104,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1381) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1381) 
 - **Battle Value:** 1080 
 - [*More Info*](arctic_cheetah/arctic_cheetah_d.md) 
 
@@ -124,7 +124,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO Clan Invasion - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1383) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1383) 
 - **Battle Value:** 1264 
 - [*More Info*](arctic_cheetah/arctic_cheetah_h.md) 
 
@@ -147,7 +147,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #21 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1382) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/1382) 
 - **Battle Value:** 1081 
 - [*More Info*](arctic_cheetah/arctic_cheetah_e.md) 
 
@@ -170,7 +170,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #21 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6940) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/6940) 
 - **Battle Value:** 1394 
 - [*More Info*](arctic_cheetah/arctic_cheetah_f.md) 
 
@@ -192,7 +192,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8350) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/8350) 
 - **Battle Value:** 1299 
 - [*More Info*](arctic_cheetah/arctic_cheetah_i.md) 
 
@@ -214,7 +214,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8351) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/8351) 
 - **Battle Value:** 1179 
 - [*More Info*](arctic_cheetah/arctic_cheetah_j.md) 
 
@@ -236,7 +236,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8349) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/8349) 
 - **Battle Value:** 1429 
 - [*More Info*](arctic_cheetah/arctic_cheetah_t.md) 
 

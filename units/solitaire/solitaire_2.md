@@ -22,7 +22,7 @@
   - Stabilized Weapon (Heavy Large Laser) 
   - Improved Cooling Jacket (Heavy Large Laser) 
   - Stabilized Weapon (Heavy Large Laser) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5655) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5655) 
 - **Battle Value:** 1471 
 
 ## Availability 

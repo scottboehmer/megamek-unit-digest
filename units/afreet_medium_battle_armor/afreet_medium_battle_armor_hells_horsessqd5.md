@@ -18,7 +18,7 @@
   - Bearhunter Superheavy AC 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8602) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8602) 
 - **Battle Value:** 32 (221 for 5 suits) 
 
 ## Availability 

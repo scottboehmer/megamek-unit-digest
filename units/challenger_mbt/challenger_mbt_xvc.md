@@ -15,7 +15,7 @@
   - Thunderbolt 15 (ammo: 16) 
   - Silver Bullet (ammo: 16) 
   - MagShot Gauss Rifle × 4 (ammo: 50) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/542) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/542) 
 - **Battle Value:** 1894 
 
 ## Availability 

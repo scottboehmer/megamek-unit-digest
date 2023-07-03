@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7166) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7166) 
 - **Battle Value:** 251 
 - [*More Info*](crosscut/crosscut_ed-x1_loggermech.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo × 2 
-- **Sources:** RS OK - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/741) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/741) 
 - **Battle Value:** 223 
 - [*More Info*](crosscut/crosscut_ed-x2_loggermech.md) 
 
@@ -49,7 +49,7 @@
   - Chainsaw 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7466) 
+- **Sources:** Touring the Stars: Kaumberg , [Master Unit List](http://masterunitlist.info/Unit/Details/7466) 
 - **Battle Value:** 367 
 - [*More Info*](crosscut/crosscut_ed-x4k_loggermech.md) 
 
@@ -67,7 +67,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Cargo × 2 
-- **Sources:** RS IA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7167) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7167) 
 - **Battle Value:** 244 
 - [*More Info*](crosscut/crosscut_ed-x2m_loggermech_mod.md) 
 
@@ -84,7 +84,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Cargo × 2 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7167) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/7167) 
 - **Battle Value:** 168 
 - [*More Info*](crosscut/crosscut_ed-x2_flamer.md) 
 
@@ -100,7 +100,7 @@
   - Clan Prototype Rocket 10 × 8 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS OK - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/6973) 
+- **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/6973) 
 - **Battle Value:** 422 
 - [*More Info*](crosscut/crosscut_ed-x2_rl.md) 
 
@@ -118,7 +118,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** RS IA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4024) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4024) 
 - **Battle Value:** 223 
 - [*More Info*](crosscut/crosscut_ed-x4_loggermech.md) 
 
@@ -133,7 +133,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
   - Chainsaw × 2 
-- **Sources:** RS IA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4026) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4026) 
 - **Battle Value:** 230 
 - [*More Info*](crosscut/crosscut_ed-x4x_loggermech.md) 
 
@@ -150,7 +150,7 @@
   - Dual Saw 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS IA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4025) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4025) 
 - **Battle Value:** 225 
 - [*More Info*](crosscut/crosscut_ed-x4d_demolitionmech.md) 
 
@@ -168,7 +168,7 @@
 - **Equipment:** 
   - Cargo 
   - Lift Hoist 
-- **Sources:** RS IA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7168) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7168) 
 - **Battle Value:** 224 
 - [*More Info*](crosscut/crosscut_ed-x4b_demolitionmech.md) 
 
@@ -184,7 +184,7 @@
   - Rocket 10 × 8 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7169) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7169) 
 - **Battle Value:** 430 
 - [*More Info*](crosscut/crosscut_ed-x4m_loggermech_mod.md) 
 
@@ -199,7 +199,7 @@
 - **Weapons:** 
   - AC/2 (ammo: 45) 
   - Chainsaw 
-- **Sources:** RS IA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7170) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7170) 
 - **Battle Value:** 317 
 - [*More Info*](crosscut/crosscut_ed-x5m_loggermech_mod.md) 
 
@@ -219,7 +219,7 @@
   - Chainsaw 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTR Gladiators - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/744) 
+- **Sources:** XTR: Gladiators , [Master Unit List](http://masterunitlist.info/Unit/Details/744) 
 - **Battle Value:** 442 
 - [*More Info*](crosscut/crosscut_ed-xx_ichabod.md) 
 
@@ -234,7 +234,7 @@
 - **Weapons:** 
   - Snub-Nose PPC 
   - Dual Saw 
-- **Sources:** RS VA - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7171) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7171) 
 - **Battle Value:** 460 
 - [*More Info*](crosscut/crosscut_ed-x5m-b_demolitionmech_mod.md) 
 
@@ -249,7 +249,7 @@
 - **Weapons:** 
   - AC/2 (ammo: 45) 
   - Chainsaw 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7852) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7852) 
 - **Battle Value:** 279 
 - [*More Info*](crosscut/crosscut_ed-x4m-a_loggermech_mod.md) 
 
@@ -264,7 +264,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Chainsaw 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7853) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7853) 
 - **Battle Value:** 480 
 - [*More Info*](crosscut/crosscut_ed-x4m-e_loggermech_mod.md) 
 
@@ -279,7 +279,7 @@
 - **Weapons:** 
   - LB 5-X AC (ammo: 20) 
   - Chainsaw 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7854) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7854) 
 - **Battle Value:** 230 
 - [*More Info*](crosscut/crosscut_ed-x4m-l_loggermech_mod.md) 
 

@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** RS 3145 NYNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6877) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6877) 
 - **Battle Value:** 1766 
 
 ## Availability 

@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8425) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8425) 
 - **Battle Value:** 3325 
 - [*More Info*](star_crusader/star_crusader_prime.md) 
 
@@ -43,7 +43,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8426) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8426) 
 - **Battle Value:** 2904 
 - [*More Info*](star_crusader/star_crusader_a.md) 
 
@@ -63,7 +63,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #23 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8427) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8427) 
 - **Battle Value:** 2565 
 - [*More Info*](star_crusader/star_crusader_b.md) 
 

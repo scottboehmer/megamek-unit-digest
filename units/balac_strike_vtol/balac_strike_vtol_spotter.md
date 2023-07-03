@@ -17,7 +17,7 @@
   - Active Probe 
   - CASE 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/209) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/209) 
 - **Battle Value:** 934 
 
 ## Availability 

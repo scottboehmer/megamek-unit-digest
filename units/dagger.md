@@ -12,7 +12,7 @@
 - **Weapons:** 
   - RAC/5 (ammo: 60) 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4038) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4038) 
 - **Battle Value:** Unknown 
 - [*More Info*](dagger/dagger_daro-1.md) 
 
@@ -30,7 +30,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4040) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4040) 
 - **Battle Value:** Unknown 
 - [*More Info*](dagger/dagger_daro-1a.md) 
 
@@ -47,7 +47,7 @@
   - LB 10-X AC (ammo: 20 Cluster) 
   - ER Medium Laser × 4 
   - ER Small Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4041) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4041) 
 - **Battle Value:** Unknown 
 - [*More Info*](dagger/dagger_daro-1b.md) 
 
@@ -66,7 +66,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5748) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5748) 
 - **Battle Value:** Unknown 
 - [*More Info*](dagger/dagger_daro-1c.md) 
 
@@ -85,7 +85,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Beagle Active Probe 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5749) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5749) 
 - **Battle Value:** Unknown 
 - [*More Info*](dagger/dagger_daro-1d.md) 
 
@@ -101,7 +101,7 @@
 - **Weapons:** 
   - Blazer Cannon 
   - Medium VSP Laser × 2 
-- **Sources:** XTRO Davion - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/796) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/796) 
 - **Battle Value:** Unknown 
 - [*More Info*](dagger/dagger_dar4-xp.md) 
 

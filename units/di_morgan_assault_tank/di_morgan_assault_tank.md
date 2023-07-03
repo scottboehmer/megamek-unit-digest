@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER PPC × 3 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/900) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/900) 
 - **Battle Value:** 1390 
 
 ## Availability 

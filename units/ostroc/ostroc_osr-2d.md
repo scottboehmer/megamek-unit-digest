@@ -16,7 +16,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #21 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2351) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/2351) 
 - **Battle Value:** 1396 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - ER Medium Laser × 3 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2757) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2757) 
 - **Battle Value:** 2073 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1892) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1892) 
 - **Battle Value:** 2390 
 - [*More Info*](linebacker/linebacker_prime.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1886) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1886) 
 - **Battle Value:** 2264 
 - [*More Info*](linebacker/linebacker_a.md) 
 
@@ -58,7 +58,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1887) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1887) 
 - **Battle Value:** 2048 
 - [*More Info*](linebacker/linebacker_b.md) 
 
@@ -80,7 +80,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1888) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1888) 
 - **Battle Value:** 2075 
 - [*More Info*](linebacker/linebacker_c.md) 
 
@@ -100,7 +100,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1889) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1889) 
 - **Battle Value:** 2039 
 - [*More Info*](linebacker/linebacker_d.md) 
 
@@ -120,7 +120,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1890) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1890) 
 - **Battle Value:** 1846 
 - [*More Info*](linebacker/linebacker_e.md) 
 
@@ -139,7 +139,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1891) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1891) 
 - **Battle Value:** 2097 
 - [*More Info*](linebacker/linebacker_h.md) 
 
@@ -159,7 +159,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #6 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4523) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/4523) 
 - **Battle Value:** 1928 
 - [*More Info*](linebacker/linebacker_f.md) 
 
@@ -179,7 +179,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #6 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6880) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/6880) 
 - **Battle Value:** 2433 
 - [*More Info*](linebacker/linebacker_g.md) 
 
@@ -201,7 +201,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7525) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7525) 
 - **Battle Value:** 1853 
 - [*More Info*](linebacker/linebacker_i.md) 
 
@@ -223,7 +223,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7526) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7526) 
 - **Battle Value:** 1851 
 - [*More Info*](linebacker/linebacker_t.md) 
 

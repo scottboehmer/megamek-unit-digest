@@ -16,7 +16,7 @@
   - Large Chemical Laser × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3145 NTNU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6804) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6804) 
 - **Battle Value:** 1990 
 
 ## Availability 

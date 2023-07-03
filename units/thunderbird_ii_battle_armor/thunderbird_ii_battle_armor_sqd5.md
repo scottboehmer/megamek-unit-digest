@@ -17,7 +17,7 @@
   - Detachable Battle Armor LB-X AC 
 - **Equipment:** 
   - Inner Sphere C3 Support 
-- **Sources:** XTRO Republic II - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8823) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/8823) 
 - **Battle Value:** 66 (464 for 5 suits) 
 
 ## Availability 

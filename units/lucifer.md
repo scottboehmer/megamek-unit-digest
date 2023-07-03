@@ -14,7 +14,7 @@
   - Large Laser × 2 
   - Medium Laser 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1954) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1954) 
 - **Battle Value:** Unknown 
 - [*More Info*](lucifer/lucifer_lcf-r15.md) 
 
@@ -31,7 +31,7 @@
   - Large Laser × 2 
   - Medium Laser 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1956) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1956) 
 - **Battle Value:** Unknown 
 - [*More Info*](lucifer/lucifer_lcf-r20.md) 
 
@@ -49,7 +49,7 @@
   - ER Large Laser × 2 
   - Medium Pulse Laser 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1955) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1955) 
 - **Battle Value:** Unknown 
 - [*More Info*](lucifer/lucifer_lcf-r16.md) 
 
@@ -66,7 +66,7 @@
   - Blazer Cannon 
   - ELRM 10 × 2 (ammo: 18) 
   - Medium X-Pulse Laser 
-- **Sources:** XTRO Mercenaries - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1957) 
+- **Sources:** XTR: Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/1957) 
 - **Battle Value:** Unknown 
 - [*More Info*](lucifer/lucifer_lcf-x30.md) 
 

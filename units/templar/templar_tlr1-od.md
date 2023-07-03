@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5707) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5707) 
 - **Battle Value:** 1840 
 
 ## Availability 

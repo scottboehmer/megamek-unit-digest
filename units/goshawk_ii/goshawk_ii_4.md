@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Life Support 
   - Nimble Jumper 
-- **Sources:** RS3150 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7986) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7986) 
 - **Battle Value:** 1919 
 
 ## Availability 

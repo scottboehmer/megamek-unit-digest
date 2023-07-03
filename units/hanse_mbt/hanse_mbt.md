@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Supercharger 
   - CASE 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6326) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6326) 
 - **Battle Value:** 1537 
 
 ## Availability 

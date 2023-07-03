@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** Rec Guide:ilClan #7 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7544) 
+- **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7544) 
 - **Battle Value:** 1849 
 
 ## Availability 

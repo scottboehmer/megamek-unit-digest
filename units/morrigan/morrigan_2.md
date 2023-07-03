@@ -21,7 +21,7 @@
   - Weak Legs 
   - Stabilized Weapon (Heavy Large Laser) 
   - Stabilized Weapon (Heavy Large Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2229) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2229) 
 - **Battle Value:** 1874 
 
 ## Availability 

@@ -13,7 +13,7 @@
   - PPC 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3069) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3069) 
 - **Battle Value:** Unknown 
 - [*More Info*](stingray/stingray_f-90.md) 
 
@@ -30,7 +30,7 @@
   - Large Laser × 2 
   - AC/5 (ammo: 20) 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3070) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3070) 
 - **Battle Value:** Unknown 
 - [*More Info*](stingray/stingray_f-90s.md) 
 
@@ -47,7 +47,7 @@
   - ER PPC 
   - ER Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3071) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3071) 
 - **Battle Value:** Unknown 
 - [*More Info*](stingray/stingray_f-92.md) 
 
@@ -64,7 +64,7 @@
   - ER Large Laser 
   - LRM 10 × 2 (ammo: 12) 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3073) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3073) 
 - **Battle Value:** Unknown 
 - [*More Info*](stingray/stingray_f-94.md) 
 
@@ -83,7 +83,7 @@
   - Medium Laser × 2 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3072) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/3072) 
 - **Battle Value:** Unknown 
 - [*More Info*](stingray/stingray_f-92_michael.md) 
 
@@ -99,7 +99,7 @@
 - **Weapons:** 
   - Heavy PPC 
   - ER Large Laser × 2 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3074) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3074) 
 - **Battle Value:** Unknown 
 - [*More Info*](stingray/stingray_f-95.md) 
 
@@ -114,7 +114,7 @@
 - **Heat Sinks:** 15 (30) 
 - **Weapons:** 
   - Large Re-Engineered Laser × 3 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6814) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6814) 
 - **Battle Value:** Unknown 
 - [*More Info*](stingray/stingray_f-96r.md) 
 

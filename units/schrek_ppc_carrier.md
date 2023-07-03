@@ -10,7 +10,7 @@
 - **Heat Sinks:** 30 (30) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2827) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2827) 
 - **Battle Value:** 935 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier.md) 
 
@@ -25,7 +25,7 @@
 - **Weapons:** 
   - PPC × 3 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2824) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2824) 
 - **Battle Value:** 881 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_anti-infantry.md) 
 
@@ -39,7 +39,7 @@
 - **Heat Sinks:** 30 (30) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** Rec Guide:ilClan #32 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9480) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9480) 
 - **Battle Value:** 1074 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_xl.md) 
 
@@ -53,7 +53,7 @@
 - **Heat Sinks:** 30 (30) 
 - **Weapons:** 
   - PPC × 3 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2825) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2825) 
 - **Battle Value:** 1005 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_armor.md) 
 
@@ -72,7 +72,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 24) 
   - C3 Main 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2826) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2826) 
 - **Battle Value:** 993 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) 
 
@@ -89,7 +89,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 20 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #32 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9479) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9479) 
 - **Battle Value:** 955 
 - [*More Info*](schrek_ppc_carrier/schrek_ppc_carrier_lb-x.md) 
 

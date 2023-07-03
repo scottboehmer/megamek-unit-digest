@@ -14,7 +14,7 @@
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6525) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6525) 
 - **Battle Value:** 48 (250 for 4 suits) 
 - [*More Info*](marauder_battle_armor/marauder_battle_armor_sqd4.md) 
 
@@ -32,7 +32,7 @@
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8762) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/8762) 
 - **Battle Value:** 48 (336 for 5 suits) 
 - [*More Info*](marauder_battle_armor/marauder_battle_armor_sqd5.md) 
 
@@ -50,7 +50,7 @@
   - Magnetic Clamps 
   - Light TAG 
   - Anti-Personnel Mount × 2 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9125) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/9125) 
 - **Battle Value:** 48 (432 for 6 suits) 
 - [*More Info*](marauder_battle_armor/marauder_battle_armor_sqd6.md) 
 

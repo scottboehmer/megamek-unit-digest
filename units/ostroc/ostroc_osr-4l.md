@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2357) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2357) 
 - **Battle Value:** 1778 
 
 ## Availability 

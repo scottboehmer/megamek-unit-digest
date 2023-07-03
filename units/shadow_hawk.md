@@ -18,7 +18,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** XTRO Primitives I - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2898) 
+- **Sources:** XTR: Primitives I , [Master Unit List](http://masterunitlist.info/Unit/Details/2898) 
 - **Battle Value:** 851 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-1r.md) 
 
@@ -41,7 +41,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/2901) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2901) 
 - **Battle Value:** 1064 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2h.md) 
 
@@ -65,7 +65,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #12 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2902) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/2902) 
 - **Battle Value:** 1354 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2hb.md) 
 
@@ -88,7 +88,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2899) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2899) 
 - **Battle Value:** 899 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2d.md) 
 
@@ -109,7 +109,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2903) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2903) 
 - **Battle Value:** 1147 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2k.md) 
 
@@ -132,7 +132,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2895) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/2895) 
 - **Battle Value:** 1309 
 - [*More Info*](shadow_hawk/shadow_hawk_c.md) 
 
@@ -157,7 +157,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2906) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/2906) 
 - **Battle Value:** 1430 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5m.md) 
 
@@ -180,7 +180,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #12 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2900) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/2900) 
 - **Battle Value:** 1049 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2d2.md) 
 
@@ -204,7 +204,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7737) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7737) 
 - **Battle Value:** 1453 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-2ht.md) 
 
@@ -231,7 +231,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7786) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7786) 
 - **Battle Value:** 1590 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5s.md) 
 
@@ -256,7 +256,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2905) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2905) 
 - **Battle Value:** 1684 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5d.md) 
 
@@ -282,7 +282,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2907) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2907) 
 - **Battle Value:** 1496 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-7cs.md) 
 
@@ -308,7 +308,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2908) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2908) 
 - **Battle Value:** 1447 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-7m.md) 
 
@@ -334,7 +334,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2896) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2896) 
 - **Battle Value:** 1700 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-11cs.md) 
 
@@ -357,7 +357,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** BattleTech Dossiers: The Bounty Hunter - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5806) 
+- **Sources:** BattleTech Dossiers: The Bounty Hunter , [Master Unit List](http://masterunitlist.info/Unit/Details/5806) 
 - **Battle Value:** 1517 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5d_sandy.md) 
 
@@ -384,7 +384,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2910) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2910) 
 - **Battle Value:** 1313 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-9d.md) 
 
@@ -409,7 +409,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2904) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2904) 
 - **Battle Value:** 1591 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-3k.md) 
 
@@ -436,7 +436,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** TRO:Jihad - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5036) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5036) 
 - **Battle Value:** 1779 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-11cs2.md) 
 
@@ -461,7 +461,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2897) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2897) 
 - **Battle Value:** 1574 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-12c.md) 
 
@@ -488,7 +488,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2909) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2909) 
 - **Battle Value:** 1536 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-8l.md) 
 
@@ -513,7 +513,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7787) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7787) 
 - **Battle Value:** 1296 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-5r.md) 
 
@@ -538,7 +538,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7789) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7789) 
 - **Battle Value:** 1394 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-7h.md) 
 
@@ -559,7 +559,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #12 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7785) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7785) 
 - **Battle Value:** 1569 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-4h.md) 
 
@@ -584,7 +584,7 @@
   - Rugged (×2) 
   - Ubiquitous 
   - Battlefists 
-- **Sources:** Rec Guide:ilClan #12 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7788) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7788) 
 - **Battle Value:** 1371 
 - [*More Info*](shadow_hawk/shadow_hawk_shd-6d.md) 
 

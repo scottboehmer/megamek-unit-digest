@@ -17,7 +17,7 @@
   - Angel ECM Suite 
   - Armored Motive System 
   - Supercharger 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/1157) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/1157) 
 - **Battle Value:** 1380 
 
 ## Availability 

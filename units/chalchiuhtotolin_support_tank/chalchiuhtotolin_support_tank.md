@@ -18,7 +18,7 @@
   - Vehicle Flamer (ammo: 40) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/537) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/537) 
 - **Battle Value:** 1056 
 
 ## Availability 

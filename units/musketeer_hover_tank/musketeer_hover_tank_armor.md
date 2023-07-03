@@ -16,7 +16,7 @@
 - **Equipment:** 
   - CASE 
   - TAG 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4687) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4687) 
 - **Battle Value:** 897 
 
 ## Availability 

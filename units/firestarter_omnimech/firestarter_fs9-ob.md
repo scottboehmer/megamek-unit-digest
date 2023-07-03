@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1101) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1101) 
 - **Battle Value:** 1070 
 
 ## Availability 

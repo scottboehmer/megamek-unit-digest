@@ -17,7 +17,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Shielded Aerospace Smart Robotic Control System (Improved) 
-- **Sources:** Hist: LofT Vol 1 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7145) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/7145) 
 - **Battle Value:** Unknown 
 
 ## Availability 

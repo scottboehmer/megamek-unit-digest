@@ -19,7 +19,7 @@
   - ECM Suite 
   - Inner Sphere Supercharger 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8450) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8450) 
 - **Battle Value:** 2851 
 
 ## Availability 

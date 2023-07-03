@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Full Head Ejection System 
   - MASC 
-- **Sources:** TRO 3145 Federated Suns - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6332) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6332) 
 - **Battle Value:** 1465 
 - [*More Info*](gunsmith/gunsmith_ch11-ng.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - Full Head Ejection System 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8367) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8367) 
 - **Battle Value:** 1519 
 - [*More Info*](gunsmith/gunsmith_ch11-ngc_cinderella.md) 
 

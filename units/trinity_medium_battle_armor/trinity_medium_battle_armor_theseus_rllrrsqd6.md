@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Light Recoilless Rifle 
   - Rocket Launcher 1 × 3 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9059) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9059) 
 - **Battle Value:** 48 (435 for 6 suits) 
 
 ## Availability 

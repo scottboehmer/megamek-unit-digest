@@ -16,7 +16,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/332) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/332) 
 - **Battle Value:** 1374 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 18 (18) 
 - **Weapons:** 
   - Medium Re-Engineered Laser × 3 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6757) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6757) 
 - **Battle Value:** 803 
 
 ## Availability 

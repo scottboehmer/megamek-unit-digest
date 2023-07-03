@@ -19,7 +19,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2697) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2697) 
 - **Battle Value:** 1039 
 
 ## Availability 

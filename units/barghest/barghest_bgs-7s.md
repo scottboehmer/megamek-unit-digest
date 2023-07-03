@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Directional Torso Mount (All Weapons) 
-- **Sources:** TRO 3060 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/255) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/255) 
 - **Battle Value:** 1507 
 
 ## Availability 

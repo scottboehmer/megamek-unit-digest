@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Hitch × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2204) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2204) 
 - **Battle Value:** 153 
 
 ## Availability 

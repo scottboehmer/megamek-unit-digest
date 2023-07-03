@@ -16,7 +16,7 @@
   - Anti-Missile System × 2 (ammo: 36) 
   - Paramedic Equipment × 4 
   - Cargo 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/658) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/658) 
 - **Battle Value:** 367 
 
 ## Availability 

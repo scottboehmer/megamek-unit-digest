@@ -17,7 +17,7 @@
   - Active Probe 
   - CASE 
   - Light TAG 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6547) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6547) 
 - **Battle Value:** 760 
 
 ## Availability 

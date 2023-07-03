@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Weak Legs 
   - Stabilized Weapon (Heavy Large Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2231) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2231) 
 - **Battle Value:** 1523 
 - [*More Info*](morrigan/morrigan.md) 
 
@@ -41,7 +41,7 @@
   - Weak Legs 
   - Stabilized Weapon (Heavy Large Laser) 
   - Stabilized Weapon (Heavy Large Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2229) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2229) 
 - **Battle Value:** 1874 
 - [*More Info*](morrigan/morrigan_2.md) 
 
@@ -64,7 +64,7 @@
   - Weak Legs 
   - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (BattleMech Taser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2230) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2230) 
 - **Battle Value:** 1390 
 - [*More Info*](morrigan/morrigan_3.md) 
 
@@ -85,7 +85,7 @@
   - Weak Legs 
   - Stabilized Weapon (TSEMP) 
   - Stabilized Weapon (Unknown Component) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6927) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6927) 
 - **Battle Value:** 2063 
 - [*More Info*](morrigan/morrigan_4.md) 
 
@@ -107,7 +107,7 @@
   - Weak Legs 
   - Stabilized Weapon (Unknown Component) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6926) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6926) 
 - **Battle Value:** 1904 
 - [*More Info*](morrigan/morrigan_5.md) 
 

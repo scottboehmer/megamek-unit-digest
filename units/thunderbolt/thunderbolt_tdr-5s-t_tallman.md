@@ -17,7 +17,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3242) 
+- **Sources:** Historical Turning Points: Galtor , [Master Unit List](http://masterunitlist.info/Unit/Details/3242) 
 - **Battle Value:** 1447 
 
 ## Availability 

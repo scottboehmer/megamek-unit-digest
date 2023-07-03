@@ -19,7 +19,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Void-Signature System 
-- **Sources:** J:Final Reckoning - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4209) 
+- **Sources:** Jihad: Final Reckoning , [Master Unit List](http://masterunitlist.info/Unit/Details/4209) 
 - **Battle Value:** 2329 
 
 ## Availability 

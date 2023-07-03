@@ -19,7 +19,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3127) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3127) 
 - **Battle Value:** 1735 
 
 ## Availability 

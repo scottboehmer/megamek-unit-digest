@@ -15,7 +15,7 @@
   - Streak SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 2 
   - Small Pulse Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3264) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3264) 
 - **Battle Value:** 921 
 
 ## Availability 

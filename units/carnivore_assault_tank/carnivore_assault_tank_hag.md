@@ -18,7 +18,7 @@
   - ECM Suite 
   - Anti-Missile System × 2 (ammo: 48) 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/463) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/463) 
 - **Battle Value:** 2286 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Streak SRM 4) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5108) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5108) 
 - **Battle Value:** 1673 
 - [*More Info*](spirit/spirit.md) 
 
@@ -39,7 +39,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Unknown Component) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5665) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5665) 
 - **Battle Value:** 1773 
 - [*More Info*](spirit/spirit_2.md) 
 

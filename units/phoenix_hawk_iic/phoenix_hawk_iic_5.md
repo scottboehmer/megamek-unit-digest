@@ -23,7 +23,7 @@
   - Fast Reload (All Weapons) 
   - Fast Reload (HAG 20) 
   - Fast Reload (HAG 20) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2515) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2515) 
 - **Battle Value:** 2350 
 
 ## Availability 

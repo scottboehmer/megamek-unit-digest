@@ -17,7 +17,7 @@
 - **Equipment:** 
   - CASE II 
   - Supercharger 
-- **Sources:** Rec Guide:ilClan #6 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7536) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7536) 
 - **Battle Value:** 2509 
 
 ## Availability 

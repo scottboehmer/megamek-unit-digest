@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/895) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/895) 
 - **Battle Value:** 2452 
 
 ## Availability 

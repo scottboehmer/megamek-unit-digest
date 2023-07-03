@@ -17,7 +17,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6340) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6340) 
 - **Battle Value:** 1236 
 - [*More Info*](centurion_omnimech/centurion_cn11-o.md) 
 
@@ -38,7 +38,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6341) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6341) 
 - **Battle Value:** 1375 
 - [*More Info*](centurion_omnimech/centurion_cn11-oa.md) 
 
@@ -60,7 +60,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6342) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6342) 
 - **Battle Value:** 1412 
 - [*More Info*](centurion_omnimech/centurion_cn11-ob.md) 
 
@@ -84,7 +84,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6343) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6343) 
 - **Battle Value:** 1628 
 - [*More Info*](centurion_omnimech/centurion_cn11-oc.md) 
 
@@ -109,7 +109,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6344) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6344) 
 - **Battle Value:** 1153 
 - [*More Info*](centurion_omnimech/centurion_cn11-od.md) 
 
@@ -130,7 +130,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6345) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6345) 
 - **Battle Value:** 1515 
 - [*More Info*](centurion_omnimech/centurion_cn11-oe.md) 
 

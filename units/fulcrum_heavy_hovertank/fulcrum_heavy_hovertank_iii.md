@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - C3 Support 
   - TAG 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1156) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1156) 
 - **Battle Value:** 1185 
 
 ## Availability 

@@ -16,6 +16,7 @@
   - Large Pulse Laser 
   - Ultra AC/5 (ammo: 40) 
   - Medium Laser × 3 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2122 
 
 ## Availability 

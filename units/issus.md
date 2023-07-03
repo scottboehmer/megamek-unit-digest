@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4379) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4379) 
 - **Battle Value:** Unknown 
 - [*More Info*](issus/issus.md) 
 
@@ -35,7 +35,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS Unique Fighters - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1636) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/1636) 
 - **Battle Value:** Unknown 
 - [*More Info*](issus/issus_erika.md) 
 
@@ -55,7 +55,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4380) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4380) 
 - **Battle Value:** Unknown 
 - [*More Info*](issus/issus_2.md) 
 
@@ -74,7 +74,7 @@
 - **Equipment:** 
   - Hi-Res Imager 
   - Infrared Imager 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5747) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5747) 
 - **Battle Value:** Unknown 
 - [*More Info*](issus/issus_3.md) 
 

@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Active Probe 
-- **Sources:** TP:Foster - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/9237) 
+- **Sources:** Turning Points: Foster , [Master Unit List](http://masterunitlist.info/Unit/Details/9237) 
 - **Battle Value:** 2115 
 
 ## Availability 

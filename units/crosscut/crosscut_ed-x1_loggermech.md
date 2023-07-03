@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Cargo 
-- **Sources:** RS IA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7166) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7166) 
 - **Battle Value:** 251 
 
 ## Availability 

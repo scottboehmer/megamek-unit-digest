@@ -14,7 +14,7 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** RS VA - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4078) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4078) 
 - **Battle Value:** 409 
 - [*More Info*](dig_king/dig_king_rcl-1_miningmech.md) 
 
@@ -30,7 +30,7 @@
   - SRM 4 × 2 (ammo: 25) 
   - Rock-Cutter 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** RS VA - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7172) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7172) 
 - **Battle Value:** 460 
 - [*More Info*](dig_king/dig_king_rcl-1_miningmech_mod.md) 
 

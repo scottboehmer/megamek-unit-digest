@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Nova CEWS 
   - CASE 
-- **Sources:** The Wars of Reaving (s) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5833) 
+- **Sources:** The Wars of Reaving (s) , [Master Unit List](http://masterunitlist.info/Unit/Details/5833) 
 - **Battle Value:** Unknown 
 
 ## Availability 

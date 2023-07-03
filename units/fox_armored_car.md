@@ -11,7 +11,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Small Pulse Laser × 2 
-- **Sources:** TRO 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1151) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1151) 
 - **Battle Value:** 549 
 - [*More Info*](fox_armored_car/fox_armored_car.md) 
 
@@ -27,7 +27,7 @@
   - ER Medium Laser 
   - Small Pulse Laser 
   - Flamer 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1150) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1150) 
 - **Battle Value:** 530 
 - [*More Info*](fox_armored_car/fox_armored_car_flamer.md) 
 
@@ -42,7 +42,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Small VSP Laser 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1152) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1152) 
 - **Battle Value:** 543 
 - [*More Info*](fox_armored_car/fox_armored_car_vsp.md) 
 
@@ -59,7 +59,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/6749) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6749) 
 - **Battle Value:** 547 
 - [*More Info*](fox_armored_car/fox_armored_car_interdictor.md) 
 

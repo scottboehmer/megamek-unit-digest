@@ -15,7 +15,7 @@
   - Bombast Laser 
   - ELRM 10 × 2 (ammo: 36) 
   - Medium X-Pulse Laser 
-- **Sources:** TRO Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4541) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4541) 
 - **Battle Value:** Unknown 
 
 ## Availability 

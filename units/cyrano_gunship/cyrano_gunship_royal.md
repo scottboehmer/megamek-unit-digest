@@ -16,7 +16,7 @@
   - Anti-Missile System × 2 (ammo: 24) 
   - Beagle Active Probe 
   - TAG 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/786) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/786) 
 - **Battle Value:** 740 
 
 ## Availability 

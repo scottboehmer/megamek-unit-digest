@@ -15,7 +15,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8) 
 - **Battle Value:** 33 (173 for 4 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_flamersqd4.md) 
 
@@ -34,7 +34,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8474) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8474) 
 - **Battle Value:** 33 (233 for 5 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_flamersqd5.md) 
 
@@ -72,7 +72,7 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/9) 
 - **Battle Value:** 39 (205 for 4 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_lasersqd4.md) 
 
@@ -91,7 +91,7 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8475) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8475) 
 - **Battle Value:** 39 (276 for 5 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_lasersqd5.md) 
 
@@ -110,7 +110,7 @@
   - Machine Gun 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/10) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/10) 
 - **Battle Value:** 33 (173 for 4 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_mgsqd4.md) 
 
@@ -129,7 +129,7 @@
   - Machine Gun 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8476) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8476) 
 - **Battle Value:** 33 (233 for 5 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_mgsqd5.md) 
 
@@ -147,7 +147,7 @@
 - **Equipment:** 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/11) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/11) 
 - **Battle Value:** 26 (133 for 4 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_tagsqd4.md) 
 
@@ -165,7 +165,7 @@
 - **Equipment:** 
   - Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8477) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8477) 
 - **Battle Value:** 26 (179 for 5 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_tagsqd5.md) 
 
@@ -184,7 +184,7 @@
   - Improved Sensors 
   - ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/6) 
 - **Battle Value:** 29 (150 for 4 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_wobsqd4.md) 
 
@@ -203,7 +203,7 @@
   - Improved Sensors 
   - ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8472) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8472) 
 - **Battle Value:** 29 (202 for 5 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_wobsqd5.md) 
 
@@ -222,7 +222,7 @@
   - Improved Sensors 
   - ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8837) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8837) 
 - **Battle Value:** 29 (259 for 6 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_wobsqd6.md) 
 
@@ -241,7 +241,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/7) 
 - **Battle Value:** 36 (189 for 4 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_davidsqd4.md) 
 
@@ -260,7 +260,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8473) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8473) 
 - **Battle Value:** 36 (255 for 5 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_davidsqd5.md) 
 
@@ -279,7 +279,7 @@
   - David Light Gauss Rifle 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8838) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8838) 
 - **Battle Value:** 36 (327 for 6 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_davidsqd6.md) 
 
@@ -298,7 +298,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8839) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8839) 
 - **Battle Value:** 33 (300 for 6 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_flamersqd6.md) 
 
@@ -317,7 +317,7 @@
   - Small Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8840) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8840) 
 - **Battle Value:** 39 (355 for 6 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_lasersqd6.md) 
 
@@ -336,7 +336,7 @@
   - Machine Gun 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8841) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8841) 
 - **Battle Value:** 33 (300 for 6 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_mgsqd6.md) 
 
@@ -354,7 +354,7 @@
 - **Equipment:** 
   - Clan Light TAG 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8842) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8842) 
 - **Battle Value:** 26 (230 for 6 suits) 
 - [*More Info*](achileus_light_battle_armor/achileus_light_battle_armor_tagsqd6.md) 
 

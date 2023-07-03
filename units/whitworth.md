@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3540) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3540) 
 - **Battle Value:** 917 
 - [*More Info*](whitworth/whitworth_wth-1s.md) 
 
@@ -34,7 +34,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3538) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3538) 
 - **Battle Value:** 982 
 - [*More Info*](whitworth/whitworth_wth-1.md) 
 
@@ -54,7 +54,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3537) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3537) 
 - **Battle Value:** 863 
 - [*More Info*](whitworth/whitworth_wth-0.md) 
 
@@ -73,7 +73,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3541) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3541) 
 - **Battle Value:** 936 
 - [*More Info*](whitworth/whitworth_wth-2.md) 
 
@@ -93,7 +93,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3539) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3539) 
 - **Battle Value:** 993 
 - [*More Info*](whitworth/whitworth_wth-1h.md) 
 
@@ -116,7 +116,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3542) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3542) 
 - **Battle Value:** 1055 
 - [*More Info*](whitworth/whitworth_wth-2a.md) 
 
@@ -136,7 +136,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3543) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3543) 
 - **Battle Value:** 861 
 - [*More Info*](whitworth/whitworth_wth-3.md) 
 
@@ -157,7 +157,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3545) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3545) 
 - **Battle Value:** 958 
 - [*More Info*](whitworth/whitworth_wth-k.md) 
 
@@ -181,7 +181,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3544) 
+- **Sources:** XTR: Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/3544) 
 - **Battle Value:** 1230 
 - [*More Info*](whitworth/whitworth_wth-5s.md) 
 
@@ -203,7 +203,7 @@
 - **Design Quirks:** 
   - Rugged (×2) 
   - Weak Legs 
-- **Sources:** Rec Guide:ilClan #30 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9428) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9428) 
 - **Battle Value:** 1148 
 - [*More Info*](whitworth/whitworth_wth-2h.md) 
 

@@ -16,7 +16,7 @@
   - Anti-Missile System × 2 (ammo: 36) 
   - Communications Equipment 
   - Infantry (3 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/657) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/657) 
 - **Battle Value:** 367 
 
 ## Availability 

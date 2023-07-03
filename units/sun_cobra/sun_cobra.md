@@ -17,7 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3122) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3122) 
 - **Battle Value:** 1677 
 
 ## Availability 

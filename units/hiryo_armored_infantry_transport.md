@@ -12,7 +12,7 @@
   - Snub-Nose PPC 
 - **Equipment:** 
   - Infantry (8 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1528) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1528) 
 - **Battle Value:** 687 
 - [*More Info*](hiryo_armored_infantry_transport/hiryo_armored_infantry_transport.md) 
 
@@ -28,7 +28,7 @@
   - Light PPC × 2 
 - **Equipment:** 
   - Infantry (8 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1526) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1526) 
 - **Battle Value:** 708 
 - [*More Info*](hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_light_ppc.md) 
 
@@ -44,7 +44,7 @@
   - MRM 20 (ammo: 36) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1527) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1527) 
 - **Battle Value:** 666 
 - [*More Info*](hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_mrm.md) 
 
@@ -63,7 +63,7 @@
   - Remote Sensor Dispenser 
   - Environmentally Sealed Chassis 
   - Infantry (4 tons) 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1529) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/1529) 
 - **Battle Value:** 536 
 - [*More Info*](hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_hound.md) 
 
@@ -81,7 +81,7 @@
   - Bloodhound Active Probe 
   - Environmentally Sealed Chassis 
   - Infantry (4 tons) 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/4325) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4325) 
 - **Battle Value:** 483 
 - [*More Info*](hiryo_armored_infantry_transport/hiryo_armored_infantry_transport_bloodhound.md) 
 

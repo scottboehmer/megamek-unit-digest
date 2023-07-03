@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Non-Standard Parts 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4234) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4234) 
 - **Battle Value:** 1806 
 
 ## Availability 

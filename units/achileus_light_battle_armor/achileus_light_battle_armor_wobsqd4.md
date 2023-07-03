@@ -17,7 +17,7 @@
   - Improved Sensors 
   - ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/6) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/6) 
 - **Battle Value:** 29 (150 for 4 suits) 
 
 ## Availability 

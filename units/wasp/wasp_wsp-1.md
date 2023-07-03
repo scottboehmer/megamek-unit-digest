@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Weak Legs 
-- **Sources:** XTRO Primitives II - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/3519) 
+- **Sources:** XTR: Primitives II , [Master Unit List](http://masterunitlist.info/Unit/Details/3519) 
 - **Battle Value:** 322 
 
 ## Availability 

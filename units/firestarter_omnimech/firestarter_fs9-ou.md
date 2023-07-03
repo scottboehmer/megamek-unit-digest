@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Cowl 
   - Difficult to Maintain 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1109) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1109) 
 - **Battle Value:** 1120 
 
 ## Availability 

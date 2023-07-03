@@ -15,7 +15,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - C3i 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9071) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/9071) 
 - **Battle Value:** 16 (148 for 6 suits) 
 
 ## Availability 

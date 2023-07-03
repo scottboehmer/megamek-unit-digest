@@ -14,7 +14,7 @@
 - **Equipment:** 
   - Searchlight 
   - Myomer Booster 
-- **Sources:** TRO 3145 The Clans - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9085) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/9085) 
 - **Battle Value:** 38 (345 for 6 suits) 
 
 ## Availability 

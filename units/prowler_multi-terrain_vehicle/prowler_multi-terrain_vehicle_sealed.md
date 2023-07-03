@@ -18,7 +18,7 @@
   - Beagle Active Probe 
   - Cargo × 5 
   - Environmentally Sealed Chassis 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2585) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2585) 
 - **Battle Value:** 640 
 
 ## Availability 

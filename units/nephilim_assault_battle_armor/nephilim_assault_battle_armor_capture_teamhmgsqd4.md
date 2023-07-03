@@ -15,7 +15,7 @@
   - Detachable Taser 
   - Heavy Machine Gun 
   - LRM 2 (OS) 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4700) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4700) 
 - **Battle Value:** 74 (383 for 4 suits) 
 
 ## Availability 

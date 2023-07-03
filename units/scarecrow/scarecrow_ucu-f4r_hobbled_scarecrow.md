@@ -25,7 +25,7 @@
   - Difficult to Maintain 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3145 Federated Suns - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6337) 
+- **Sources:** TRO: 3145 Federated Suns , [Master Unit List](http://masterunitlist.info/Unit/Details/6337) 
 - **Battle Value:** 1431 
 
 ## Availability 

@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Partial Wing 
   - CASE II 
-- **Sources:** Rec Guide:ilClan #18 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8251) 
+- **Sources:** Rec Guide:ilClan #18 , [Master Unit List](http://masterunitlist.info/Unit/Details/8251) 
 - **Battle Value:** 1400 
 
 ## Availability 

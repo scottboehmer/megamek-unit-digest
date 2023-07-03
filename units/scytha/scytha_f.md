@@ -19,7 +19,7 @@
   - Watchdog CEWS 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6808) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6808) 
 - **Battle Value:** Unknown 
 
 ## Availability 

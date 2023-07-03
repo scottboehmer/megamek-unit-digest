@@ -14,7 +14,7 @@
   - Arrow IV (ammo: 30) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6529) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6529) 
 - **Battle Value:** 313 
 
 ## Availability 

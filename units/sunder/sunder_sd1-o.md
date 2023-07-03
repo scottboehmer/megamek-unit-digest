@@ -17,7 +17,7 @@
   - SRM 4 × 3 (ammo: 50) 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3123) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3123) 
 - **Battle Value:** 1747 
 
 ## Availability 

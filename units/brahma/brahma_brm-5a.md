@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stabilized Weapon (Light AC/5) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/426) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/426) 
 - **Battle Value:** 1572 
 
 ## Availability 

@@ -21,7 +21,7 @@
   - Coolant Pod 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6825) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6825) 
 - **Battle Value:** 2320 
 
 ## Availability 

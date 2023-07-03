@@ -14,7 +14,7 @@
   - Large Laser 
   - SRM 6 (ammo: 15) 
   - Medium Laser 
-- **Sources:** Rec Guide:ilClan #31 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9436) 
+- **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9436) 
 - **Battle Value:** 790 
 
 ## Availability 

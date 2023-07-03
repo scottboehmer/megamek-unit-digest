@@ -17,7 +17,7 @@
   - ECM Suite 
   - CASE 
   - Infantry (10.0 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/34) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/34) 
 - **Battle Value:** 637 
 
 ## Availability 

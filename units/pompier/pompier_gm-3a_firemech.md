@@ -16,7 +16,7 @@
   - Searchlight 
   - Mech Sprayer 
   - Liquid Cargo 
-- **Sources:** TRO VA - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/4842) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4842) 
 - **Battle Value:** 106 
 
 ## Availability 

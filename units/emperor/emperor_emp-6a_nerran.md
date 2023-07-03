@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Improved Cooling Jacket (Large Laser) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/965) 
+- **Sources:** Record Sheets: Unique Mechs , [Master Unit List](http://masterunitlist.info/Unit/Details/965) 
 - **Battle Value:** 2247 
 
 ## Availability 

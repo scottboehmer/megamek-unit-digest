@@ -20,7 +20,7 @@
   - Targeting Computer 
   - C3 Support 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/4256) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/4256) 
 - **Battle Value:** 1985 
 
 ## Availability 

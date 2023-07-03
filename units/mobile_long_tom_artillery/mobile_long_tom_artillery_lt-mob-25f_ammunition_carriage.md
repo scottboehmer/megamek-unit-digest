@@ -13,7 +13,7 @@
 - **Equipment:** 
   - CASE 
   - Hitch × 2 
-- **Sources:** Rec Guide:ilClan #28 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9367) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9367) 
 - **Battle Value:** 248 
 
 ## Availability 

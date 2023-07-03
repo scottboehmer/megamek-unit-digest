@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
   - MRM 10 (ammo: 24) 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5179) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5179) 
 - **Battle Value:** Unknown 
 - [*More Info*](tatsu/tatsu_mik-o.md) 
 
@@ -31,7 +31,7 @@
 - **Weapons:** 
   - ER PPC × 2 
   - Medium Pulse Laser × 8 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5181) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5181) 
 - **Battle Value:** Unknown 
 - [*More Info*](tatsu/tatsu_mik-oa.md) 
 
@@ -48,7 +48,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 48) 
   - LB 10-X AC (ammo: 20 Cluster) 
   - ER Medium Laser × 4 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5182) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5182) 
 - **Battle Value:** Unknown 
 - [*More Info*](tatsu/tatsu_mik-ob.md) 
 
@@ -64,7 +64,7 @@
 - **Weapons:** 
   - MRM 40 × 2 (ammo: 36) 
   - Streak SRM 6 × 2 (ammo: 30) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5183) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5183) 
 - **Battle Value:** Unknown 
 - [*More Info*](tatsu/tatsu_mik-oc.md) 
 
@@ -81,7 +81,7 @@
   - ER Large Laser 
   - MML 9 × 4 (ammo: 52 LRM, 44 SRM) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5755) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5755) 
 - **Battle Value:** Unknown 
 - [*More Info*](tatsu/tatsu_mik-od.md) 
 
@@ -101,7 +101,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5756) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5756) 
 - **Battle Value:** Unknown 
 - [*More Info*](tatsu/tatsu_mik-oe.md) 
 
@@ -117,7 +117,7 @@
 - **Weapons:** 
   - Large Re-Engineered Laser × 3 
   - MML 7 × 2 (ammo: 34 LRM, 14 SRM) 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6811) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6811) 
 - **Battle Value:** Unknown 
 - [*More Info*](tatsu/tatsu_mik-of.md) 
 

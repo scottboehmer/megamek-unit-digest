@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Command ’Mech 
   - Good Reputation 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8010) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8010) 
 - **Battle Value:** 2298 
 
 ## Availability 

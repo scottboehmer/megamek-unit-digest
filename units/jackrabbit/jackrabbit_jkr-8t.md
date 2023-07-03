@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/2 (ammo: 45) 
   - Streak SRM 2 (ammo: 50) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1656) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1656) 
 - **Battle Value:** 414 
 
 ## Availability 

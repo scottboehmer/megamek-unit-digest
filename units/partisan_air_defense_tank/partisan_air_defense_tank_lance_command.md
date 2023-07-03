@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Main 
   - CASE 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2436) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2436) 
 - **Battle Value:** 836 
 
 ## Availability 

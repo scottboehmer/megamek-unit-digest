@@ -19,7 +19,7 @@
   - Weak Legs 
   - Stabilized Weapon (TSEMP) 
   - Stabilized Weapon (Unknown Component) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6927) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6927) 
 - **Battle Value:** 2063 
 
 ## Availability 

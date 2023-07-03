@@ -17,7 +17,7 @@
   - Angel ECM Suite 
   - Armored Motive System 
   - Supercharger 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4188) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4188) 
 - **Battle Value:** 1244 
 
 ## Availability 

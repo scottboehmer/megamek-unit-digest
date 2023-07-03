@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - Anti-Missile System × 4 (ammo: 12) 
   - Beagle Active Probe 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6639) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6639) 
 - **Battle Value:** Unknown 
 
 ## Availability 

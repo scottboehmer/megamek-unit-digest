@@ -16,7 +16,7 @@
   - ER Large Laser × 2 
   - LRM 10 w/ Artemis IV (ammo: 24) 
   - ER Small Laser 
-- **Sources:** TRO 3067 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5053) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5053) 
 - **Battle Value:** Unknown 
 
 ## Availability 

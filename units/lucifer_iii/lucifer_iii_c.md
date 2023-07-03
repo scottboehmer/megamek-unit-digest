@@ -15,7 +15,7 @@
   - Clan ER PPC 
   - Clan ATM 9 × 2 (ammo: 14 Standard, 7 ER, 7 HE) 
   - Clan Medium Pulse Laser 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8012) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8012) 
 - **Battle Value:** Unknown 
 
 ## Availability 

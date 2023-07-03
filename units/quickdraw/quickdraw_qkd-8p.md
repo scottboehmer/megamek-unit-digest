@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Exposed Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4887) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4887) 
 - **Battle Value:** 1598 
 
 ## Availability 

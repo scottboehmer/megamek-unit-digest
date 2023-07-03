@@ -23,7 +23,7 @@
   - Distracting 
   - Searchlight 
   - Difficult Ejection 
-- **Sources:** TRO 3145 Draconis Combine - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6421) 
+- **Sources:** TRO: 3145 Draconis Combine , [Master Unit List](http://masterunitlist.info/Unit/Details/6421) 
 - **Battle Value:** 2542 
 
 ## Availability 

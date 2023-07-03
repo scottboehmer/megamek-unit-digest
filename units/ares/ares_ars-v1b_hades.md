@@ -27,7 +27,7 @@
   - Command ’Mech 
   - Distracting 
   - Searchlight 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6687) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6687) 
 - **Battle Value:** 2839 
 
 ## Availability 

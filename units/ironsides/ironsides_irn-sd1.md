@@ -15,7 +15,7 @@
   - PPC × 2 
   - SRM 6 × 5 (ammo: 15) 
   - Medium Laser × 2 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1624) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1624) 
 - **Battle Value:** Unknown 
 
 ## Availability 

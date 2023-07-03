@@ -18,7 +18,7 @@
   - Medium Pulse Laser × 6 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4352) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4352) 
 - **Battle Value:** Unknown 
 
 ## Availability 

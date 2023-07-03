@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Distracting 
-- **Sources:** RecGuide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9267) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9267) 
 - **Battle Value:** 1426 
 
 ## Availability 

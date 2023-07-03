@@ -17,7 +17,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7183) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/7183) 
 - **Battle Value:** 931 
 - [*More Info*](rifleman/rifleman_rfl-1n.md) 
 
@@ -37,7 +37,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** XTRO Primitives IV - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/7184) 
+- **Sources:** XTR: Primitives IV , [Master Unit List](http://masterunitlist.info/Unit/Details/7184) 
 - **Battle Value:** 1093 
 - [*More Info*](rifleman/rifleman_rfl-2n.md) 
 
@@ -58,7 +58,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2697) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2697) 
 - **Battle Value:** 1039 
 - [*More Info*](rifleman/rifleman_rfl-3n.md) 
 
@@ -78,7 +78,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2693) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/2693) 
 - **Battle Value:** 1335 
 - [*More Info*](rifleman/rifleman_c.md) 
 
@@ -98,7 +98,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2698) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2698) 
 - **Battle Value:** 1173 
 - [*More Info*](rifleman/rifleman_rfl-4d.md) 
 
@@ -118,7 +118,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2695) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2695) 
 - **Battle Value:** 1066 
 - [*More Info*](rifleman/rifleman_rfl-3c.md) 
 
@@ -141,7 +141,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2700) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/2700) 
 - **Battle Value:** 1227 
 - [*More Info*](rifleman/rifleman_rfl-5m.md) 
 
@@ -162,7 +162,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2699) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/2699) 
 - **Battle Value:** 1395 
 - [*More Info*](rifleman/rifleman_rfl-5d.md) 
 
@@ -182,7 +182,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7597) 
+- **Sources:** Battle of Tukayyid , [Master Unit List](http://masterunitlist.info/Unit/Details/7597) 
 - **Battle Value:** 1303 
 - [*More Info*](rifleman/rifleman_rfl-5cs.md) 
 
@@ -205,7 +205,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2702) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2702) 
 - **Battle Value:** 1464 
 - [*More Info*](rifleman/rifleman_rfl-6x.md) 
 
@@ -226,7 +226,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2705) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2705) 
 - **Battle Value:** 1777 
 - [*More Info*](rifleman/rifleman_rfl-8d.md) 
 
@@ -249,7 +249,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2703) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2703) 
 - **Battle Value:** 1521 
 - [*More Info*](rifleman/rifleman_rfl-7m.md) 
 
@@ -269,7 +269,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2706) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2706) 
 - **Battle Value:** 1798 
 - [*More Info*](rifleman/rifleman_rfl-8x.md) 
 
@@ -292,7 +292,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2701) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2701) 
 - **Battle Value:** 1274 
 - [*More Info*](rifleman/rifleman_rfl-6d.md) 
 
@@ -316,7 +316,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2696) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2696) 
 - **Battle Value:** 1129 
 - [*More Info*](rifleman/rifleman_rfl-3cr.md) 
 
@@ -341,7 +341,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2707) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2707) 
 - **Battle Value:** 1503 
 - [*More Info*](rifleman/rifleman_rfl-9t.md) 
 
@@ -365,7 +365,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2708) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/2708) 
 - **Battle Value:** 2012 
 - [*More Info*](rifleman/rifleman_rfl-x3_muse_wind.md) 
 
@@ -387,7 +387,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2704) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2704) 
 - **Battle Value:** 1645 
 - [*More Info*](rifleman/rifleman_rfl-7x.md) 
 
@@ -408,7 +408,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2694) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2694) 
 - **Battle Value:** 2150 
 - [*More Info*](rifleman/rifleman_c_2.md) 
 
@@ -428,7 +428,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7572) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7572) 
 - **Battle Value:** 1302 
 - [*More Info*](rifleman/rifleman_rfl-7g.md) 
 
@@ -451,7 +451,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7576) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7576) 
 - **Battle Value:** 1871 
 - [*More Info*](rifleman/rifleman_c_3.md) 
 
@@ -474,7 +474,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7574) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7574) 
 - **Battle Value:** 1398 
 - [*More Info*](rifleman/rifleman_rfl-7n.md) 
 
@@ -497,7 +497,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7575) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/7575) 
 - **Battle Value:** 1452 
 - [*More Info*](rifleman/rifleman_rfl-7n2.md) 
 

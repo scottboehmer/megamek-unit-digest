@@ -20,7 +20,7 @@
   - Easy to Maintain 
   - Improved Communications 
   - Protected Actuators 
-- **Sources:** 3067 Unabridged - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5677) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5677) 
 - **Battle Value:** 2051 
 
 ## Availability 

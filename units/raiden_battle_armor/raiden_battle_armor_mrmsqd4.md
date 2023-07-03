@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - MRM 1 (ammo: 4) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2624) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2624) 
 - **Battle Value:** 37 (195 for 4 suits) 
 
 ## Availability 

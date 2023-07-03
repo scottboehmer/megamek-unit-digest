@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Medium Laser × 3 
   - Streak SRM 4 × 2 (ammo: 25) 
-- **Sources:** TRO 3145 Lyran Commonwealth - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6637) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6637) 
 - **Battle Value:** Unknown 
 
 ## Availability 

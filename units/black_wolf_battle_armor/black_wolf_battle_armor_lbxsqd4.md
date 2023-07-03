@@ -14,7 +14,7 @@
   - Heavy Battle Claw (right) 
 - **Weapons:** 
   - Battle Armor LB-X AC 
-- **Sources:** TRO 3145 The Clans - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6243) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/6243) 
 - **Battle Value:** 58 (303 for 4 suits) 
 
 ## Availability 

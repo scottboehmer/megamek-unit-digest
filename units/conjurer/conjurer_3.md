@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1475) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1475) 
 - **Battle Value:** 1764 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/802) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/802) 
 - **Battle Value:** 1148 
 - [*More Info*](daimyo/daimyo_dmo-1k.md) 
 
@@ -36,7 +36,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/804) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/804) 
 - **Battle Value:** 1057 
 - [*More Info*](daimyo/daimyo_dmo-2k.md) 
 
@@ -55,7 +55,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/805) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/805) 
 - **Battle Value:** 1150 
 - [*More Info*](daimyo/daimyo_dmo-4k.md) 
 
@@ -76,7 +76,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/806) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/806) 
 - **Battle Value:** 1087 
 - [*More Info*](daimyo/daimyo_dmo-5k.md) 
 
@@ -97,7 +97,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - Difficult to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/803) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/803) 
 - **Battle Value:** 1332 
 - [*More Info*](daimyo/daimyo_dmo-1k2_al-shahab.md) 
 

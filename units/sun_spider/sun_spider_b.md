@@ -19,6 +19,7 @@
   - Anti-Missile System (ammo: 24) 
   - Light Active Probe 
   - CASE 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 2497 
 
 ## Availability 

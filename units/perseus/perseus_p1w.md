@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
   - Easy to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5699) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5699) 
 - **Battle Value:** 1864 
 
 ## Availability 

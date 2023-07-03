@@ -15,7 +15,7 @@
   - Improved Heavy Gauss Rifle (ammo: 12) 
   - ER Medium Laser × 3 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** TRO 3145 Republic of the Sphere - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6690) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6690) 
 - **Battle Value:** Unknown 
 
 ## Availability 

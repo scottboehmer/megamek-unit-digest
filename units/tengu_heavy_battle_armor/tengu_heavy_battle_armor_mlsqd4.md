@@ -16,7 +16,7 @@
   - Detachable Medium Laser 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5199) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5199) 
 - **Battle Value:** 64 (333 for 4 suits) 
 
 ## Availability 

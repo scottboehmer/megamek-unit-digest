@@ -17,7 +17,7 @@
   - Radical Heat Sink System 
 - **Design Quirks:** 
   - Battlefists 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7993) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/7993) 
 - **Battle Value:** 1374 
 
 ## Availability 

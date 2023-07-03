@@ -19,7 +19,7 @@
   - Full Head Ejection System 
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2396) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2396) 
 - **Battle Value:** 1794 
 
 ## Availability 

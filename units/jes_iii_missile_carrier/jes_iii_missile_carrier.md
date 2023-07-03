@@ -13,7 +13,7 @@
 - **Weapons:** 
   - LRM 15 × 4 (ammo: 48) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6669) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6669) 
 - **Battle Value:** 1037 
 
 ## Availability 

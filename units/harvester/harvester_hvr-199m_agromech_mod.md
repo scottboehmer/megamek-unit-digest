@@ -15,7 +15,7 @@
   - Combine 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7861) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7861) 
 - **Battle Value:** 406 
 
 ## Availability 

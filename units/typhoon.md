@@ -13,7 +13,7 @@
   - PPC × 2 
   - LRM 15 (ammo: 16) 
   - Large Laser × 4 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5310) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5310) 
 - **Battle Value:** Unknown 
 - [*More Info*](typhoon/typhoon_tfn-2a.md) 
 
@@ -30,7 +30,7 @@
   - PPC × 2 
   - LRM 15 (ammo: 16) 
   - AC/10 × 2 (ammo: 20) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5311) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5311) 
 - **Battle Value:** Unknown 
 - [*More Info*](typhoon/typhoon_tfn-3a.md) 
 
@@ -47,7 +47,7 @@
   - LRM 20 × 2 (ammo: 24) 
   - PPC × 2 
   - LRM 15 (ammo: 16) 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/5312) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5312) 
 - **Battle Value:** Unknown 
 - [*More Info*](typhoon/typhoon_tfn-3m.md) 
 
@@ -64,7 +64,7 @@
   - Heavy PPC × 2 
   - Large Laser × 4 
   - LRM 10 w/ Artemis IV (ammo: 12) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5313) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5313) 
 - **Battle Value:** Unknown 
 - [*More Info*](typhoon/typhoon_tfn-5h.md) 
 

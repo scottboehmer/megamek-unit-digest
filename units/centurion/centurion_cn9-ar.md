@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Short) 
   - Non-Standard Parts 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/519) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/519) 
 - **Battle Value:** 1226 
 
 ## Availability 

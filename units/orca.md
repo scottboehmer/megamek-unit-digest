@@ -26,7 +26,7 @@
   - Hard to Pilot 
   - Poor Performance 
   - Prototype 
-- **Sources:** XTRO Republic II - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7356) 
+- **Sources:** XTR: Republic II , [Master Unit List](http://masterunitlist.info/Unit/Details/7356) 
 - **Battle Value:** 3357 
 - [*More Info*](orca/orca_oc-1x.md) 
 

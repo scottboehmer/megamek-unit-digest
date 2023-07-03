@@ -14,7 +14,7 @@
   - Basic Manipulator w/ Mine Clearance (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9175) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9175) 
 - **Battle Value:** 7 (65 for 6 suits) 
 
 ## Availability 

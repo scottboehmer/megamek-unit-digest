@@ -15,7 +15,7 @@
   - Heavy Large Laser × 4 
   - ER Medium Laser × 4 
   - ER Small Laser 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2767) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/2767) 
 - **Battle Value:** Unknown 
 
 ## Availability 

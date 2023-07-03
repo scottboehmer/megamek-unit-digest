@@ -16,7 +16,7 @@
   - SRM 4 w/ Artemis IV (ammo: 25) 
 - **Equipment:** 
   - CASE 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5788) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5788) 
 - **Battle Value:** 1188 
 
 ## Availability 

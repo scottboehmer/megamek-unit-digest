@@ -22,7 +22,7 @@
   - Fast Reload (Machine Gun) 
   - Fast Reload (Ultra AC/10) 
   - Fast Reload (All Weapons) 
-- **Sources:** Rec Guide:ilClan #15 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8196) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8196) 
 - **Battle Value:** 2469 
 
 ## Availability 

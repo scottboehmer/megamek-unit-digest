@@ -15,7 +15,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3350) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3350) 
 - **Battle Value:** 1431 
 
 ## Availability 

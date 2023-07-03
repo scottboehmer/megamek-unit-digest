@@ -13,7 +13,7 @@
 - **Heat Sinks:** 15 (30) 
 - **Weapons:** 
   - Large Re-Engineered Laser × 3 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6814) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6814) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Jettison-Capable Weapon (Unknown Component) 
   - Modular Weapon (Medium Pulse Laser) 
   - Modular Weapon (Medium Pulse Laser) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6925) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6925) 
 - **Battle Value:** 1468 
 
 ## Availability 

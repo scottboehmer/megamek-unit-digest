@@ -1,6 +1,6 @@
-# Battle Cobra BTL-C-2OI 
+# Battle Cobra (ComStar) BTL-C-2OI 
 
-[Other Battle Cobra variants](../battle_cobra.md) 
+[Other Battle Cobra (ComStar) variants](../battle_cobra_comstar.md) 
 
 ## Battle Cobra BTL-C-2OI 
 
@@ -19,7 +19,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Shrapnel 11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9494) 
+- **Sources:** Shrapnel #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/9494) 
 - **Battle Value:** 1019 
 
 ## Availability 

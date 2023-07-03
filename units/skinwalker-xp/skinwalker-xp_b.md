@@ -20,7 +20,7 @@
   - ECM Suite 
   - Supercharger 
   - CASE II 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/7380) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7380) 
 - **Battle Value:** 3667 
 
 ## Availability 

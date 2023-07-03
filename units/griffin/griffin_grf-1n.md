@@ -19,7 +19,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (PPC) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/1297) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/1297) 
 - **Battle Value:** 1272 
 
 ## Availability 

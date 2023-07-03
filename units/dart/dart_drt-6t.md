@@ -17,7 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/831) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/831) 
 - **Battle Value:** 703 
 
 ## Availability 

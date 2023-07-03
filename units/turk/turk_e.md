@@ -20,7 +20,7 @@
   - ECM Suite 
   - CASE 
   - Machine Gun Array × 2 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5308) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/5308) 
 - **Battle Value:** Unknown 
 
 ## Availability 

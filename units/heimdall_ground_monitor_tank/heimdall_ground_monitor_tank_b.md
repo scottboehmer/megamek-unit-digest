@@ -15,7 +15,7 @@
   - LB 10-X AC × 2 (ammo: 20 Standard, 10 Cluster) 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS 3067U , [Master Unit List](http://masterunitlist.info/Unit/Details/5742) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5742) 
 - **Battle Value:** 2254 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Communications Equipment 
   - Infantry (4 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/807) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/807) 
 - **Battle Value:** 561 
 
 ## Availability 

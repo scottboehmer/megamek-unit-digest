@@ -104,11 +104,11 @@
 - [**Arctic Wolf II B**](../../../units/arctic_wolf_ii/arctic_wolf_ii_b.md) *Striker (3085)* 
 - [**Arctic Wolf II C**](../../../units/arctic_wolf_ii/arctic_wolf_ii_c.md) *Striker (3085)* 
 
-#### [Battle Cobra](../../../units/battle_cobra.md) 
+#### [Battle Cobra (ComStar)](../../../units/battle_cobra_comstar.md) 
 
-- [**Battle Cobra BTL-C-2OG**](../../../units/battle_cobra/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
-- [**Battle Cobra BTL-C-2OH**](../../../units/battle_cobra/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
-- [**Battle Cobra BTL-C-2OI**](../../../units/battle_cobra/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
+- [**Battle Cobra BTL-C-2OG**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2og.md) *Brawler (3083)* 
+- [**Battle Cobra BTL-C-2OH**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2oh.md) *Missile Boat (3083)* 
+- [**Battle Cobra BTL-C-2OI**](../../../units/battle_cobra_comstar/battle_cobra_btl-c-2oi.md) *Skirmisher (3083)* 
 
 #### [Mongoose II](../../../units/mongoose_ii.md) 
 

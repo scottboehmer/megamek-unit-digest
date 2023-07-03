@@ -21,7 +21,7 @@
   - Reinforced Legs 
   - Difficult to Maintain 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8109) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8109) 
 - **Battle Value:** 2484 
 
 ## Availability 

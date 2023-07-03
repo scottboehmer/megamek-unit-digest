@@ -18,7 +18,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Improved Life Support 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6824) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6824) 
 - **Battle Value:** 2620 
 
 ## Availability 

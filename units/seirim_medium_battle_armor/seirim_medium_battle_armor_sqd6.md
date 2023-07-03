@@ -16,7 +16,7 @@
   - SRM 5 (OS) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9033) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9033) 
 - **Battle Value:** 49 (437 for 6 suits) 
 
 ## Availability 

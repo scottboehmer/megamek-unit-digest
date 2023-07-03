@@ -15,7 +15,7 @@
   - AC/20 (ammo: 10) 
   - Large Laser × 2 
   - LRM 10 (ammo: 12) 
-- **Sources:** TRO 3050u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2644) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2644) 
 - **Battle Value:** Unknown 
 
 ## Availability 

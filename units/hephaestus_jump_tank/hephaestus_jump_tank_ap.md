@@ -16,7 +16,7 @@
   - AP Gauss Rifle × 4 (ammo: 40) 
 - **Equipment:** 
   - Armored Motive System 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4310) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4310) 
 - **Battle Value:** 1158 
 
 ## Availability 

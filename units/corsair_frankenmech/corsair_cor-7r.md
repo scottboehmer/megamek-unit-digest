@@ -15,6 +15,7 @@
   - Large Laser × 2 
   - Rocket 20 × 2 
   - Rocket 10 × 3 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1781 
 
 ## Availability 

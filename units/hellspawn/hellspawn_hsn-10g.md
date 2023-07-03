@@ -17,7 +17,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5673) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5673) 
 - **Battle Value:** 1188 
 
 ## Availability 

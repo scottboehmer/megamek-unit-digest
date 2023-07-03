@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Design Quirks:** 
   - Good Reputation 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1030) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1030) 
 - **Battle Value:** 1030 
 
 ## Availability 

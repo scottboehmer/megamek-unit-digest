@@ -16,7 +16,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3860) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3860) 
 - **Battle Value:** 937 
 
 ## Availability 

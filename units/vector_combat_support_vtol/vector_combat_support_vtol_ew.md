@@ -17,7 +17,7 @@
   - Guardian ECM Suite 
   - TAG 
   - Mast Mount 
-- **Sources:** HIST LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6770) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6770) 
 - **Battle Value:** 580 
 
 ## Availability 

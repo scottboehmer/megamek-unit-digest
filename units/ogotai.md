@@ -13,7 +13,7 @@
   - ER Large Laser × 2 
   - LRM 10 (ammo: 12) 
   - ER Medium Laser 
-- **Sources:** TRO Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7656) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7656) 
 - **Battle Value:** Unknown 
 - [*More Info*](ogotai/ogotai_prime.md) 
 
@@ -29,7 +29,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 3 
   - SRM 6 w/ Artemis IV × 3 (ammo: 45) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4742) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/4742) 
 - **Battle Value:** Unknown 
 - [*More Info*](ogotai/ogotai_a.md) 
 
@@ -45,7 +45,7 @@
 - **Weapons:** 
   - LRM 20 × 2 (ammo: 24) 
   - ER Small Laser × 5 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7657) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7657) 
 - **Battle Value:** Unknown 
 - [*More Info*](ogotai/ogotai_b.md) 
 

@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Environmentally Sealed Chassis 
   - Supercharger 
-- **Sources:** XTRO Periphery - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5569) 
+- **Sources:** XTR: Periphery , [Master Unit List](http://masterunitlist.info/Unit/Details/5569) 
 - **Battle Value:** 1387 
 
 ## Availability 

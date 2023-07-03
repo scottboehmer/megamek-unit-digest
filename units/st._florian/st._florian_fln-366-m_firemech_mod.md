@@ -17,7 +17,7 @@
   - Enviro-Sealing 
   - Coolant Pod × 3 
   - Searchlight × 2 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7826) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7826) 
 - **Battle Value:** 1266 
 
 ## Availability 

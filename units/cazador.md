@@ -14,7 +14,7 @@
 - **Equipment:** 
   - CASE 
   - Supercharger 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7881) 
+- **Sources:** Operational Turning Points: Hanseatic Crusade , [Master Unit List](http://masterunitlist.info/Unit/Details/7881) 
 - **Battle Value:** 921 
 - [*More Info*](cazador/cazador.md) 
 

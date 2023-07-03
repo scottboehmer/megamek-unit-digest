@@ -21,7 +21,7 @@
   - Stabilized Weapon (ProtoMech AC/8) 
   - Stabilized Weapon (Streak SRM 6) 
   - Stabilized Weapon (ProtoMech AC/8) 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7754) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7754) 
 - **Battle Value:** 1635 
 
 ## Availability 

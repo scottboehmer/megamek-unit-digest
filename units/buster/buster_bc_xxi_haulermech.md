@@ -16,7 +16,7 @@
   - Lift Hoist × 2 
   - Cargo × 3 
   - Tracks 
-- **Sources:** TRO VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7220) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/7220) 
 - **Battle Value:** 222 
 
 ## Availability 

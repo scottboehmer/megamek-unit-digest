@@ -16,7 +16,7 @@
   - Active Probe 
   - Armored Motive System 
   - TAG 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4311) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4311) 
 - **Battle Value:** 993 
 - [*More Info*](hephaestus_jump_tank/hephaestus_jump_tank.md) 
 
@@ -34,7 +34,7 @@
   - AP Gauss Rifle × 4 (ammo: 40) 
 - **Equipment:** 
   - Armored Motive System 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4310) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4310) 
 - **Battle Value:** 1158 
 - [*More Info*](hephaestus_jump_tank/hephaestus_jump_tank_ap.md) 
 

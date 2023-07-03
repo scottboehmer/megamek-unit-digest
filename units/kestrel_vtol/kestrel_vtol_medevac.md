@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Paramedic Equipment × 6 
   - Infantry (3.5 tons) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1765) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1765) 
 - **Battle Value:** 126 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
   - Beagle Active Probe 
   - CASE 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3611) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3611) 
 - **Battle Value:** 584 
 
 ## Availability 

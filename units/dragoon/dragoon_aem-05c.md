@@ -26,7 +26,7 @@
   - Modular Weapon (Plasma Rifle) 
   - Modular Weapon (Medium X-Pulse Laser) 
   - Modular Weapon (Medium X-Pulse Laser) 
-- **Sources:** TP Epsilon Eridani - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7399) 
+- **Sources:** Turning Points: Epsilon Eridani , [Master Unit List](http://masterunitlist.info/Unit/Details/7399) 
 - **Battle Value:** 1893 
 
 ## Availability 

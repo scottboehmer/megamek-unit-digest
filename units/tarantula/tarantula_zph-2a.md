@@ -18,7 +18,7 @@
   - Easy to Pilot 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3161) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3161) 
 - **Battle Value:** 744 
 
 ## Availability 

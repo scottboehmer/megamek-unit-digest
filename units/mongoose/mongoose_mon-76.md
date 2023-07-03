@@ -21,7 +21,7 @@
   - Easy to Pilot 
   - Stabilized Weapon (Small Laser) 
   - Stabilized Weapon (Medium Pulse Laser) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2214) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2214) 
 - **Battle Value:** 894 
 
 ## Availability 

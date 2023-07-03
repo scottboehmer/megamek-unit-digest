@@ -20,7 +20,7 @@
   - Cowl 
   - Difficult Ejection 
   - Weak Head Armor (2) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/772) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/772) 
 - **Battle Value:** 1317 
 
 ## Availability 

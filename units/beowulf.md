@@ -20,7 +20,7 @@
   - Command ’Mech 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/327) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/327) 
 - **Battle Value:** 1319 
 - [*More Info*](beowulf/beowulf_beo-12.md) 
 
@@ -46,7 +46,7 @@
   - Extended Torso Twist 
   - Exposed Actuators 
   - Prototype 
-- **Sources:** XTRO ComStar - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5548) 
+- **Sources:** XTR: ComStar , [Master Unit List](http://masterunitlist.info/Unit/Details/5548) 
 - **Battle Value:** 1473 
 - [*More Info*](beowulf/beowulf_beo-x-7a.md) 
 
@@ -71,7 +71,7 @@
   - Command ’Mech 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8073) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8073) 
 - **Battle Value:** 2078 
 - [*More Info*](beowulf/beowulf_c.md) 
 
@@ -98,7 +98,7 @@
   - Command ’Mech 
   - Extended Torso Twist 
   - Exposed Actuators 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/328) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/328) 
 - **Battle Value:** 1287 
 - [*More Info*](beowulf/beowulf_beo-14.md) 
 

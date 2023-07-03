@@ -13,7 +13,7 @@
 - **Weapons:** 
   - MRM 20 (ammo: 24) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2845) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2845) 
 - **Battle Value:** 393 
 
 ## Availability 

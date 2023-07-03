@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8791) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/8791) 
 - **Battle Value:** 71 (495 for 5 suits) 
 
 ## Availability 

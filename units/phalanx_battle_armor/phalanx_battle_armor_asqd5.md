@@ -15,7 +15,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 2) 
   - King David Light Gauss Rifle 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8655) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/8655) 
 - **Battle Value:** 56 (392 for 5 suits) 
 
 ## Availability 

@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1074) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1074) 
 - **Battle Value:** 957 
 
 ## Availability 

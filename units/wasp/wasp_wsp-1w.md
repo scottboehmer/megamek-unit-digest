@@ -17,7 +17,7 @@
   - Easy to Maintain 
   - Extended Torso Twist 
   - Ubiquitous 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3525) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3525) 
 - **Battle Value:** 373 
 
 ## Availability 

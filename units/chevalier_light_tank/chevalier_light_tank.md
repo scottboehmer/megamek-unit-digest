@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/582) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/582) 
 - **Battle Value:** 668 
 
 ## Availability 

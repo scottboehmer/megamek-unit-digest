@@ -17,7 +17,7 @@
   - SRM 4 (ammo: 25) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4020) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4020) 
 - **Battle Value:** 1339 
 
 ## Availability 

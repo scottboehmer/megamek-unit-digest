@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3294) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3294) 
 - **Battle Value:** 2244 
 
 ## Availability 

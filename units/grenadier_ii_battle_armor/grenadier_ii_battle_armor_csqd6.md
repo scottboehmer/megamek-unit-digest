@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Medium Laser 
   - Flamer 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9195) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/9195) 
 - **Battle Value:** 73 (661 for 6 suits) 
 
 ## Availability 

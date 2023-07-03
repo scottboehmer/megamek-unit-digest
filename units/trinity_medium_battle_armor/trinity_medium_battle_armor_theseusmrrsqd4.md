@@ -14,7 +14,7 @@
   - Battle Claw (left) 
 - **Weapons:** 
   - Clan Medium Recoilless Rifle 
-- **Sources:** TRO 3075 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5285) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/5285) 
 - **Battle Value:** 54 (283 for 4 suits) 
 
 ## Availability 

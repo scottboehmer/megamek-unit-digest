@@ -14,7 +14,7 @@
   - Light AC/5 (ammo: 40) 
 - **Equipment:** 
   - Lift Hoist 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7851) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7851) 
 - **Battle Value:** 280 
 
 ## Availability 

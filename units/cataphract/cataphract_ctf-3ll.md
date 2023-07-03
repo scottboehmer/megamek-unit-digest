@@ -19,7 +19,7 @@
   - MASC 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/471) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/471) 
 - **Battle Value:** 1664 
 
 ## Availability 

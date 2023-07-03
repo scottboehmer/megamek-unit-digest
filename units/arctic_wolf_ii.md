@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/107) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/107) 
 - **Battle Value:** 2111 
 - [*More Info*](arctic_wolf_ii/arctic_wolf_ii_prime.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/104) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/104) 
 - **Battle Value:** 1645 
 - [*More Info*](arctic_wolf_ii/arctic_wolf_ii_a.md) 
 
@@ -60,7 +60,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/105) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/105) 
 - **Battle Value:** 1678 
 - [*More Info*](arctic_wolf_ii/arctic_wolf_ii_b.md) 
 
@@ -80,7 +80,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/106) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/106) 
 - **Battle Value:** 1913 
 - [*More Info*](arctic_wolf_ii/arctic_wolf_ii_c.md) 
 

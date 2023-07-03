@@ -17,7 +17,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2684) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2684) 
 - **Battle Value:** 1670 
 
 ## Availability 

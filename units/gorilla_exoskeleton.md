@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/4225) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/4225) 
 - **Battle Value:** 4 (20 for 4 suits) 
 - [*More Info*](gorilla_exoskeleton/gorilla_exoskeleton_pex-2bsqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8624) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8624) 
 - **Battle Value:** 4 (27 for 5 suits) 
 - [*More Info*](gorilla_exoskeleton/gorilla_exoskeleton_pex-2bsqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Cutting Torch 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8988) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8988) 
 - **Battle Value:** 4 (35 for 6 suits) 
 - [*More Info*](gorilla_exoskeleton/gorilla_exoskeleton_pex-2bsqd6.md) 
 
@@ -63,7 +63,7 @@
   - Heavy Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5440) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/5440) 
 - **Battle Value:** 16 (85 for 4 suits) 
 - [*More Info*](gorilla_exoskeleton/gorilla_exoskeleton_falcatasqd4.md) 
 
@@ -79,7 +79,7 @@
   - Heavy Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8705) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8705) 
 - **Battle Value:** 16 (114 for 5 suits) 
 - [*More Info*](gorilla_exoskeleton/gorilla_exoskeleton_falcatasqd5.md) 
 
@@ -95,7 +95,7 @@
   - Heavy Battle Claw (left) 
 - **Weapons:** 
   - Small Laser 
-- **Sources:** TRO Vehicle Annex (r) - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9069) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9069) 
 - **Battle Value:** 16 (147 for 6 suits) 
 - [*More Info*](gorilla_exoskeleton/gorilla_exoskeleton_falcatasqd6.md) 
 

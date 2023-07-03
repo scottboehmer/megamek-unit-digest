@@ -20,7 +20,7 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2360) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2360) 
 - **Battle Value:** Unknown 
 
 ## Availability 

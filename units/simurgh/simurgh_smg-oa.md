@@ -14,7 +14,7 @@
 - **Weapons:** 
   - MRM 40 w/ Apollo FCS × 2 (ammo: 24) 
   - RAC/5 (ammo: 60) 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6694) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6694) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - HarJel 
-- **Sources:** XTRO Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/3021) 
+- **Sources:** XTR: Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/3021) 
 - **Battle Value:** 441 
 - [*More Info*](spindrift/spindrift_sdt-1_aquatic_securitymech.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - No Ejection System 
   - Multi-Trac 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5106) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5106) 
 - **Battle Value:** 450 
 - [*More Info*](spindrift/spindrift_sdt-1a_aquatic_securitymech.md) 
 

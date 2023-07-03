@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Laser Anti-Missile System 
   - Full Head Ejection System 
-- **Sources:** XTRO Royal Fantasy - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8367) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8367) 
 - **Battle Value:** 1519 
 
 ## Availability 

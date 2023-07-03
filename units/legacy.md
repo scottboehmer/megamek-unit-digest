@@ -26,7 +26,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Small Laser) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4488) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4488) 
 - **Battle Value:** 1967 
 - [*More Info*](legacy/legacy_lgc-01.md) 
 
@@ -59,7 +59,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Small Laser) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4489) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4489) 
 - **Battle Value:** 2033 
 - [*More Info*](legacy/legacy_lgc-02.md) 
 
@@ -89,7 +89,7 @@
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Medium Laser) 
   - Directional Torso Mount (ER Small Laser) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/4490) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4490) 
 - **Battle Value:** 2121 
 - [*More Info*](legacy/legacy_lgc-03.md) 
 
@@ -114,7 +114,7 @@
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (Snub-Nose PPC) 
   - Directional Torso Mount (Snub-Nose PPC) 
-- **Sources:** RS 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5702) 
+- **Sources:** Record Sheets: Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5702) 
 - **Battle Value:** 1745 
 - [*More Info*](legacy/legacy_lgc-04-wvr.md) 
 
@@ -146,7 +146,7 @@
   - Directional Torso Mount (Light PPC) 
   - Directional Torso Mount (Medium VSP Laser) 
   - Directional Torso Mount (Light PPC) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5703) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5703) 
 - **Battle Value:** 1598 
 - [*More Info*](legacy/legacy_lgc-05.md) 
 

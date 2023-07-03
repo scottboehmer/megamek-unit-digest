@@ -22,7 +22,7 @@
   - Directional Torso Mount (All Weapons) 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8111) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8111) 
 - **Battle Value:** 2127 
 
 ## Availability 

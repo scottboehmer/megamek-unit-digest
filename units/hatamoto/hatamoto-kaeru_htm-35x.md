@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1406) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/1406) 
 - **Battle Value:** 1906 
 
 ## Availability 

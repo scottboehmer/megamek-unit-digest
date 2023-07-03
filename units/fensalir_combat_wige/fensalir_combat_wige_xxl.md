@@ -17,7 +17,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** XTRO Most Wanted - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5789) 
+- **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5789) 
 - **Battle Value:** 1513 
 
 ## Availability 

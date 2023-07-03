@@ -22,7 +22,7 @@
   - TAG 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1009) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1009) 
 - **Battle Value:** 1387 
 
 ## Availability 

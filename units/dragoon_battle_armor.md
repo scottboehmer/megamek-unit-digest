@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Clan Micro Pulse Laser 
   - Light Mortar 
-- **Sources:** Rec Guide:ilClan #29 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9382) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9382) 
 - **Battle Value:** 56 (293 for 4 suits) 
 - [*More Info*](dragoon_battle_armor/dragoon_battle_armor_advancedsqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Weapons:** 
   - Clan Micro Pulse Laser 
   - Light Mortar 
-- **Sources:** Rec Guide:ilClan #29 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9383) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9383) 
 - **Battle Value:** 56 (395 for 5 suits) 
 - [*More Info*](dragoon_battle_armor/dragoon_battle_armor_advancedsqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Weapons:** 
   - Clan Micro Pulse Laser 
   - Light Mortar 
-- **Sources:** Rec Guide:ilClan #29 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9384) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9384) 
 - **Battle Value:** 56 (508 for 6 suits) 
 - [*More Info*](dragoon_battle_armor/dragoon_battle_armor_advancedsqd6.md) 
 
@@ -64,7 +64,7 @@
 - **Weapons:** 
   - Light Mortar 
   - Clan Flamer 
-- **Sources:** Rec Guide:ilClan #29 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9379) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9379) 
 - **Battle Value:** 39 (203 for 4 suits) 
 - [*More Info*](dragoon_battle_armor/dragoon_battle_armor_sqd4.md) 
 
@@ -81,7 +81,7 @@
 - **Weapons:** 
   - Light Mortar 
   - Clan Flamer 
-- **Sources:** Rec Guide:ilClan #29 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9380) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9380) 
 - **Battle Value:** 39 (274 for 5 suits) 
 - [*More Info*](dragoon_battle_armor/dragoon_battle_armor_sqd5.md) 
 
@@ -98,7 +98,7 @@
 - **Weapons:** 
   - Light Mortar 
   - Clan Flamer 
-- **Sources:** Rec Guide:ilClan #29 - , [Master Unit List](http://masterunitlist.info/Unit/Details/9381) 
+- **Sources:** Rec Guide:ilClan #29 , [Master Unit List](http://masterunitlist.info/Unit/Details/9381) 
 - **Battle Value:** 39 (352 for 6 suits) 
 - [*More Info*](dragoon_battle_armor/dragoon_battle_armor_sqd6.md) 
 

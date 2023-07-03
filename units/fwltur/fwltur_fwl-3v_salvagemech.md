@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Salvage Arm × 2 
   - Lift Hoist × 2 
-- **Sources:** TRO3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1163) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1163) 
 - **Battle Value:** 252 
 
 ## Availability 

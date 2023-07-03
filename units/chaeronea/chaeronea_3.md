@@ -13,7 +13,7 @@
 - **Heat Sinks:** 13 (26) 
 - **Weapons:** 
   - ER Large Laser × 2 
-- **Sources:** TRO 3067 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3937) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3937) 
 - **Battle Value:** Unknown 
 
 ## Availability 

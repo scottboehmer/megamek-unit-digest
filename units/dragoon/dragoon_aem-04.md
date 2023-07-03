@@ -28,7 +28,7 @@
   - Modular Weapon (SRM 4) 
   - Modular Weapon (ER PPC) 
   - Modular Weapon (SRM 4) 
-- **Sources:** Hist LOT II , [Master Unit List](http://masterunitlist.info/Unit/Details/6783) 
+- **Sources:** Historical: Liberation of Terra II , [Master Unit List](http://masterunitlist.info/Unit/Details/6783) 
 - **Battle Value:** 1710 
 
 ## Availability 

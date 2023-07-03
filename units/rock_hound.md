@@ -15,7 +15,7 @@
   - Lift Hoist 
   - Searchlight 
   - Ejection Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4926) 
+- **Sources:** Handbook: Major Periphery States , [Master Unit List](http://masterunitlist.info/Unit/Details/4926) 
 - **Battle Value:** 523 
 - [*More Info*](rock_hound/rock_hound_am-prm-rh7_prospectormech.md) 
 
@@ -34,7 +34,7 @@
   - Lift Hoist 
   - Enviro-Sealing 
   - Searchlight 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4927) 
+- **Sources:** Handbook: Major Periphery States , [Master Unit List](http://masterunitlist.info/Unit/Details/4927) 
 - **Battle Value:** 455 
 - [*More Info*](rock_hound/rock_hound_am-prm-rh7a_rock_otter_prospectormech.md) 
 
@@ -54,7 +54,7 @@
   - Cargo × 3 
   - Searchlight 
   - Ejection Seat 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/4928) 
+- **Sources:** Handbook: Major Periphery States , [Master Unit List](http://masterunitlist.info/Unit/Details/4928) 
 - **Battle Value:** 479 
 - [*More Info*](rock_hound/rock_hound_am-prm-rh7c_rock_possum_prospectormech.md) 
 

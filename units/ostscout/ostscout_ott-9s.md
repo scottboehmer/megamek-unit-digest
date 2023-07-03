@@ -23,7 +23,7 @@
   - Improved Sensors 
   - Narrow/Low Profile 
   - Rugged (×2) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2370) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2370) 
 - **Battle Value:** 855 
 
 ## Availability 

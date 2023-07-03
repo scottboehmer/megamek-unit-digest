@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Main 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2817) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2817) 
 - **Battle Value:** 1078 
 
 ## Availability 

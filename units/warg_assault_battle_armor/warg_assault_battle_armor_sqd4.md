@@ -16,7 +16,7 @@
   - SRM 3 × 2 (ammo: 6) 
   - Small Pulse Laser 
   - Light Machine Gun 
-- **Sources:** TRO 3085 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/3478) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3478) 
 - **Battle Value:** 94 (486 for 4 suits) 
 
 ## Availability 

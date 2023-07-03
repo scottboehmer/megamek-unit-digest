@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Beagle Active Probe 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2414) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2414) 
 - **Battle Value:** 521 
 
 ## Availability 

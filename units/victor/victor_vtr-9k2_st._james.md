@@ -18,7 +18,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Rugged (×2) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3412) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/3412) 
 - **Battle Value:** 2006 
 
 ## Availability 

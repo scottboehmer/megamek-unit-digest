@@ -25,7 +25,7 @@
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (Ultra AC/20) 
   - Stabilized Weapon (Ultra AC/20) 
-- **Sources:** TRO Clan Invasion - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2004) 
+- **Sources:** TRO: Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2004) 
 - **Battle Value:** 2417 
 
 ## Availability 

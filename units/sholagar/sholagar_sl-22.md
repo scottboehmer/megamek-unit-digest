@@ -14,7 +14,7 @@
 - **Weapons:** 
   - MML 7 (ammo: 17 LRM, 14 SRM) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2937) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2937) 
 - **Battle Value:** Unknown 
 
 ## Availability 

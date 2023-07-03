@@ -14,7 +14,7 @@
   - Light PPC 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #27 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9332) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9332) 
 - **Battle Value:** 483 
 
 ## Availability 

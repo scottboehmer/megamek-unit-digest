@@ -15,6 +15,7 @@
 - **Equipment:** 
   - MASH (1 theaters) 
   - Infantry (1.0 tons) 
+- **Source:** TRO: 3025 
 - **Battle Value:** 196 
 
 ## Availability 

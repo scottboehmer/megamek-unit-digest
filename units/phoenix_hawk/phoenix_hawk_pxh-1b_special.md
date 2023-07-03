@@ -24,7 +24,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2492) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2492) 
 - **Battle Value:** 1512 
 
 ## Availability 

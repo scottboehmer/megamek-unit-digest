@@ -17,7 +17,7 @@
   - Flamer × 3 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/7797) 
+- **Sources:** Turning Points: War of 3039 - Vega , [Master Unit List](http://masterunitlist.info/Unit/Details/7797) 
 - **Battle Value:** 603 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - LRM 20 (ammo: 12) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1663) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1663) 
 - **Battle Value:** Unknown 
 - [*More Info*](jagatai/jagatai_prime.md) 
 
@@ -35,7 +35,7 @@
   - Streak SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1659) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1659) 
 - **Battle Value:** Unknown 
 - [*More Info*](jagatai/jagatai_a.md) 
 
@@ -55,7 +55,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1660) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1660) 
 - **Battle Value:** Unknown 
 - [*More Info*](jagatai/jagatai_b.md) 
 
@@ -75,7 +75,7 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1661) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1661) 
 - **Battle Value:** Unknown 
 - [*More Info*](jagatai/jagatai_c.md) 
 
@@ -94,7 +94,7 @@
   - ATM 12 × 2 (ammo: 15) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1662) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/1662) 
 - **Battle Value:** Unknown 
 - [*More Info*](jagatai/jagatai_d.md) 
 
@@ -112,7 +112,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4386) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/4386) 
 - **Battle Value:** Unknown 
 - [*More Info*](jagatai/jagatai_e.md) 
 
@@ -133,7 +133,7 @@
   - Inner Sphere Angel ECM Suite 
   - Light Active Probe 
   - CASE 
-- **Sources:** TRO 3055u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4387) 
+- **Sources:** TRO: 3055 Update , [Master Unit List](http://masterunitlist.info/Unit/Details/4387) 
 - **Battle Value:** Unknown 
 - [*More Info*](jagatai/jagatai_x.md) 
 

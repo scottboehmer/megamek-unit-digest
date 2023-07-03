@@ -14,7 +14,7 @@
   - Long Tom Cannon (ammo: 20) 
   - Thunderbolt 5 (ammo: 12) 
   - ER Medium Laser × 2 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4933) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/4933) 
 - **Battle Value:** 1507 
 
 ## Availability 

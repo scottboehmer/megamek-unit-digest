@@ -13,7 +13,7 @@
   - Enviro-Sealing 
   - Lift Hoist × 2 
   - Cargo 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/5321) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/5321) 
 - **Battle Value:** 533 
 - [*More Info*](uni/uni_atae-70_cargomech.md) 
 
@@ -30,7 +30,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6977) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/6977) 
 - **Battle Value:** 736 
 - [*More Info*](uni/uni_atae-70m_militiamech.md) 
 
@@ -48,7 +48,7 @@
   - Lift Hoist × 2 
   - Cargo × 2 
   - Cargo Container 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7175) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7175) 
 - **Battle Value:** 533 
 - [*More Info*](uni/uni_atae-70t_cargomech.md) 
 

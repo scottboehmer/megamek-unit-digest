@@ -20,7 +20,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/147) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/147) 
 - **Battle Value:** 1849 
 
 ## Availability 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Inner Sphere Ultra AC/10 (ammo: 20) 
   - Inner Sphere ER Medium Laser × 8 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7667) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7667) 
 - **Battle Value:** Unknown 
 
 ## Availability 

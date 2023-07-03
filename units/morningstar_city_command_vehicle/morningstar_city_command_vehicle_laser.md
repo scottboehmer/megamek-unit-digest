@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Infantry (4 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4670) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4670) 
 - **Battle Value:** 856 
 
 ## Availability 

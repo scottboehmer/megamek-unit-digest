@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Medium Laser 
   - Small Pulse Laser × 2 
-- **Sources:** TRO 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1151) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1151) 
 - **Battle Value:** 549 
 
 ## Availability 

@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Extended Fuel Tank 
   - Searchlight 
-- **Sources:** RS VA , [Master Unit List](http://masterunitlist.info/Unit/Details/7174) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7174) 
 - **Battle Value:** 726 
 
 ## Availability 

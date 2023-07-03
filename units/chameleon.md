@@ -16,7 +16,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide 25 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/546) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/546) 
 - **Battle Value:** 999 
 - [*More Info*](chameleon/chameleon_trc-4b.md) 
 
@@ -36,7 +36,7 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** Rec Guide 25 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/9405) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9405) 
 - **Battle Value:** 999 
 - [*More Info*](chameleon/chameleon_trc-4c.md) 
 
@@ -56,7 +56,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/543) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/543) 
 - **Battle Value:** 1042 
 - [*More Info*](chameleon/chameleon_cln-7v.md) 
 
@@ -75,7 +75,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/544) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/544) 
 - **Battle Value:** 1243 
 - [*More Info*](chameleon/chameleon_cln-7w.md) 
 
@@ -93,7 +93,7 @@
   - Large Laser × 2 
 - **Design Quirks:** 
   - Easy to Pilot 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/545) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/545) 
 - **Battle Value:** 1527 
 - [*More Info*](chameleon/chameleon_cln-7z.md) 
 
@@ -115,7 +115,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Non-Standard Parts 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5601) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5601) 
 - **Battle Value:** 2113 
 - [*More Info*](chameleon/chameleon_cln-7vq_q-mech.md) 
 
@@ -138,7 +138,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Distracting 
-- **Sources:** RecGuide 25 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9267) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9267) 
 - **Battle Value:** 1426 
 - [*More Info*](chameleon/chameleon_cln-8v.md) 
 
@@ -161,7 +161,7 @@
 - **Design Quirks:** 
   - Easy to Pilot 
   - Distracting 
-- **Sources:** RecGuide 25 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9268) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9268) 
 - **Battle Value:** 1276 
 - [*More Info*](chameleon/chameleon_cln-9v.md) 
 

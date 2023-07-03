@@ -18,7 +18,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/384) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/384) 
 - **Battle Value:** 1405 
 
 ## Availability 

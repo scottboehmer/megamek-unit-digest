@@ -14,7 +14,7 @@
   - Large Laser × 4 
   - Medium Laser × 3 
   - SRM 4 (ammo: 25) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3110) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3110) 
 - **Battle Value:** Unknown 
 - [*More Info*](stuka/stuka_stu-k5.md) 
 
@@ -31,7 +31,7 @@
   - AC/20 (ammo: 15) 
   - PPC × 4 
   - Medium Laser × 3 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3111) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3111) 
 - **Battle Value:** Unknown 
 - [*More Info*](stuka/stuka_stu-k5b2.md) 
 
@@ -49,7 +49,7 @@
   - Large Laser × 4 
   - Medium Laser × 2 
   - Small Laser × 4 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3108) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3108) 
 - **Battle Value:** Unknown 
 - [*More Info*](stuka/stuka_stu-k10.md) 
 
@@ -66,7 +66,7 @@
   - ER PPC × 4 
   - AC/20 (ammo: 15) 
   - Medium Laser × 3 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3111) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/3111) 
 - **Battle Value:** Unknown 
 - [*More Info*](stuka/stuka_stu-k5b.md) 
 
@@ -85,7 +85,7 @@
   - Medium Laser × 3 
   - SRM 4 (ammo: 25) 
   - Small Laser × 6 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3109) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3109) 
 - **Battle Value:** Unknown 
 - [*More Info*](stuka/stuka_stu-k15.md) 
 
@@ -103,7 +103,7 @@
   - Large Laser × 4 
   - SRM 6 × 2 (ammo: 60) 
   - Medium Laser × 3 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3106) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3106) 
 - **Battle Value:** Unknown 
 - [*More Info*](stuka/stuka_stu-d6.md) 
 
@@ -121,7 +121,7 @@
   - LRM 20 w/ Artemis IV (ammo: 18) 
   - SRM 6 w/ Artemis IV × 2 (ammo: 45) 
   - ER Medium Laser × 9 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3107) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/3107) 
 - **Battle Value:** Unknown 
 - [*More Info*](stuka/stuka_stu-d7.md) 
 

@@ -20,7 +20,7 @@
   - Exposed Actuators 
   - Gas Hog 
   - Illegal Design 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8098) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8098) 
 - **Battle Value:** 257 
 
 ## Availability 

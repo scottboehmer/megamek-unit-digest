@@ -16,7 +16,7 @@
 - **Equipment:** 
   - C3 Main 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/539) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/539) 
 - **Battle Value:** 1655 
 
 ## Availability 

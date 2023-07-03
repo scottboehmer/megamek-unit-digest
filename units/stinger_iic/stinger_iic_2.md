@@ -18,7 +18,7 @@
   - Cramped Cockpit 
   - Difficult Ejection 
   - Combat Computer 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5136) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5136) 
 - **Battle Value:** 1097 
 
 ## Availability 

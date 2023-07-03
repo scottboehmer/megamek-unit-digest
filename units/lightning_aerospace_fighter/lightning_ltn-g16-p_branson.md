@@ -15,7 +15,7 @@
   - HVAC/10 (ammo: 16) 
   - ER Medium Laser × 3 
   - ER Small Laser × 2 
-- **Sources:** XTRO Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1879) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/1879) 
 - **Battle Value:** Unknown 
 
 ## Availability 

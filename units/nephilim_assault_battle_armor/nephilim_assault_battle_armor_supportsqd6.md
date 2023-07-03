@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Small Laser 
   - Rocket Launcher 4 × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9013) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9013) 
 - **Battle Value:** 70 (628 for 6 suits) 
 
 ## Availability 

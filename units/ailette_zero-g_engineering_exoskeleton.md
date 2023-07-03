@@ -13,7 +13,7 @@
 - **Equipment:** 
   - Space Operations Adaptation 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3683) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/3683) 
 - **Battle Value:** 1 (6 for 4 suits) 
 - [*More Info*](ailette_zero-g_engineering_exoskeleton/ailette_zero-g_engineering_exoskeleton_sqd4.md) 
 
@@ -30,7 +30,7 @@
 - **Equipment:** 
   - Space Operations Adaptation 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8605) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8605) 
 - **Battle Value:** 1 (8 for 5 suits) 
 - [*More Info*](ailette_zero-g_engineering_exoskeleton/ailette_zero-g_engineering_exoskeleton_sqd5.md) 
 
@@ -47,7 +47,7 @@
 - **Equipment:** 
   - Space Operations Adaptation 
   - Extended Life Support 
-- **Sources:** TRO Vehicle Annex (r) - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8969) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/8969) 
 - **Battle Value:** 1 (10 for 6 suits) 
 - [*More Info*](ailette_zero-g_engineering_exoskeleton/ailette_zero-g_engineering_exoskeleton_sqd6.md) 
 

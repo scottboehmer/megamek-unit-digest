@@ -14,7 +14,7 @@
   - Machine Gun (ammo: 100) 
 - **Equipment:** 
   - Infantry (4 tons) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2108) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2108) 
 - **Battle Value:** 170 
 
 ## Availability 

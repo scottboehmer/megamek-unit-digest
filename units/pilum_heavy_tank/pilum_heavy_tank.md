@@ -14,7 +14,7 @@
   - LRM 15 w/ Artemis IV × 2 (ammo: 24) 
   - Medium Pulse Laser × 2 
   - Streak SRM 2 × 2 (ammo: 50) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2531) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2531) 
 - **Battle Value:** 1121 
 
 ## Availability 

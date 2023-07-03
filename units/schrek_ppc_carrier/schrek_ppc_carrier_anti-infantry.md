@@ -13,7 +13,7 @@
 - **Weapons:** 
   - PPC × 3 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2824) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2824) 
 - **Battle Value:** 881 
 
 ## Availability 

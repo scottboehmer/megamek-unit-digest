@@ -19,7 +19,7 @@
   - C3 Boosted Support 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1671) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1671) 
 - **Battle Value:** 1354 
 
 ## Availability 

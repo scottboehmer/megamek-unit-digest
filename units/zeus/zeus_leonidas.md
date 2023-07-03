@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Barrel Fist (Right Arm) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3638) 
+- **Sources:** Historical Turning Points: Glengary , [Master Unit List](http://masterunitlist.info/Unit/Details/3638) 
 - **Battle Value:** 1878 
 
 ## Availability 

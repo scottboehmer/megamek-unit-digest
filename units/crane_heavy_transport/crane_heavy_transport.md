@@ -14,7 +14,7 @@
   - Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Infantry (8.0 tons) 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6655) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6655) 
 - **Battle Value:** 385 
 
 ## Availability 

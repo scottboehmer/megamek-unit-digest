@@ -19,7 +19,7 @@
   - Cutting Torch × 2 
   - Light TAG 
   - Searchlight 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9084) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/9084) 
 - **Battle Value:** 24 (213 for 6 suits) 
 
 ## Availability 

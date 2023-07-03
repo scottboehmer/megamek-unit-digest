@@ -15,7 +15,7 @@
   - Narc (ammo: 12) 
 - **Equipment:** 
   - TAG 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2832) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2832) 
 - **Battle Value:** 582 
 
 ## Availability 

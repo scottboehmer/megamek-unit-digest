@@ -21,7 +21,7 @@
   - Distracting 
   - Protected Actuators 
   - Cramped Cockpit 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3363) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3363) 
 - **Battle Value:** 1778 
 - [*More Info*](ursus/ursus.md) 
 
@@ -45,7 +45,7 @@
   - Distracting 
   - Protected Actuators 
   - Cramped Cockpit 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3364) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/3364) 
 - **Battle Value:** 2054 
 - [*More Info*](ursus/ursus_2.md) 
 
@@ -70,7 +70,7 @@
   - Protected Actuators 
   - Cramped Cockpit 
   - Prototype 
-- **Sources:** XTRO Clans - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5330) 
+- **Sources:** XTR: Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/5330) 
 - **Battle Value:** 1194 
 - [*More Info*](ursus/ursus_pr.md) 
 
@@ -94,7 +94,7 @@
   - Distracting 
   - Protected Actuators 
   - Cramped Cockpit 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5329) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5329) 
 - **Battle Value:** 1284 
 - [*More Info*](ursus/ursus_3.md) 
 

@@ -14,7 +14,7 @@
   - HVAC/2 (ammo: 30) 
 - **Equipment:** 
   - Jet Booster 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6698) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6698) 
 - **Battle Value:** 490 
 
 ## Availability 

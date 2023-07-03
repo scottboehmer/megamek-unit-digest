@@ -20,7 +20,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Weak Head Armor (2) 
-- **Sources:** Rec Guide 25 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9265) 
+- **Sources:** Rec Guide:ilClan #25 , [Master Unit List](http://masterunitlist.info/Unit/Details/9265) 
 - **Battle Value:** 1455 
 
 ## Availability 

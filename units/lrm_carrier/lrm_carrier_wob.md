@@ -14,7 +14,7 @@
   - LRM 20 w/ Artemis IV × 3 (ammo: 36) 
 - **Equipment:** 
   - C3i 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1953) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1953) 
 - **Battle Value:** 1050 
 
 ## Availability 

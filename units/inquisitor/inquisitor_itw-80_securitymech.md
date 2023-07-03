@@ -18,7 +18,7 @@
   - Communications Equipment 
   - Searchlight 
   - Ejection Seat 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4364) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/4364) 
 - **Battle Value:** 613 
 
 ## Availability 

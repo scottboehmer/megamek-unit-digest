@@ -19,7 +19,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Low-Mounted Arms 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/824) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/824) 
 - **Battle Value:** 1575 
 
 ## Availability 

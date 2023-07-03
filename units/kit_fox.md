@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3347) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3347) 
 - **Battle Value:** 1085 
 - [*More Info*](kit_fox/kit_fox_prime.md) 
 
@@ -36,7 +36,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3340) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3340) 
 - **Battle Value:** 1310 
 - [*More Info*](kit_fox/kit_fox_a.md) 
 
@@ -57,7 +57,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3341) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3341) 
 - **Battle Value:** 1087 
 - [*More Info*](kit_fox/kit_fox_b.md) 
 
@@ -77,7 +77,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3343) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3343) 
 - **Battle Value:** 1142 
 - [*More Info*](kit_fox/kit_fox_d.md) 
 
@@ -96,7 +96,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #11 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7746) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7746) 
 - **Battle Value:** 866 
 - [*More Info*](kit_fox/kit_fox_v.md) 
 
@@ -121,7 +121,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3342) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3342) 
 - **Battle Value:** 1147 
 - [*More Info*](kit_fox/kit_fox_c.md) 
 
@@ -144,7 +144,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3348) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3348) 
 - **Battle Value:** 1342 
 - [*More Info*](kit_fox/kit_fox_s.md) 
 
@@ -161,7 +161,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3350) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3350) 
 - **Battle Value:** 1431 
 - [*More Info*](kit_fox/kit_fox_w.md) 
 
@@ -182,7 +182,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3344) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3344) 
 - **Battle Value:** 1415 
 - [*More Info*](kit_fox/kit_fox_e.md) 
 
@@ -203,7 +203,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5486) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/5486) 
 - **Battle Value:** 1368 
 - [*More Info*](kit_fox/kit_fox_g.md) 
 
@@ -222,7 +222,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3346) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3346) 
 - **Battle Value:** 1214 
 - [*More Info*](kit_fox/kit_fox_h.md) 
 
@@ -243,7 +243,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7744) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7744) 
 - **Battle Value:** 1178 
 - [*More Info*](kit_fox/kit_fox_j.md) 
 
@@ -262,7 +262,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3345) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3345) 
 - **Battle Value:** 1219 
 - [*More Info*](kit_fox/kit_fox_f.md) 
 
@@ -282,7 +282,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3349) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3349) 
 - **Battle Value:** 1486 
 - [*More Info*](kit_fox/kit_fox_u.md) 
 
@@ -301,7 +301,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7745) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7745) 
 - **Battle Value:** 1109 
 - [*More Info*](kit_fox/kit_fox_k.md) 
 
@@ -323,7 +323,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6932) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6932) 
 - **Battle Value:** 1936 
 - [*More Info*](kit_fox/kit_fox_i.md) 
 
@@ -342,7 +342,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #11 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6931) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/6931) 
 - **Battle Value:** 1232 
 - [*More Info*](kit_fox/kit_fox_r.md) 
 
@@ -363,7 +363,7 @@
   - CASE 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** SO: Unending Faith - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7632) 
+- **Sources:** Spotlight On: Unending Faith , [Master Unit List](http://masterunitlist.info/Unit/Details/7632) 
 - **Battle Value:** 988 
 - [*More Info*](kit_fox/kit_fox_blo.md) 
 
@@ -386,7 +386,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #11 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7743) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/7743) 
 - **Battle Value:** 1397 
 - [*More Info*](kit_fox/kit_fox_t.md) 
 

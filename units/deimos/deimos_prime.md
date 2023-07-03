@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/856) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/856) 
 - **Battle Value:** 2188 
 
 ## Availability 

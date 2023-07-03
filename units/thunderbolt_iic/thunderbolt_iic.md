@@ -25,7 +25,7 @@
   - Modular Weapon (ER Medium Laser) 
   - Modular Weapon (Improved Heavy Large Laser) 
   - Modular Weapon (Improved Heavy Large Laser) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5239) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5239) 
 - **Battle Value:** 2475 
 
 ## Availability 

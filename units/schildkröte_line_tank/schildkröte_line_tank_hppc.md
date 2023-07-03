@@ -17,7 +17,7 @@
   - Anti-Missile System (ammo: 12) 
   - Armored Motive System 
   - CASE 
-- **Sources:** RS3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6600) 
+- **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/6600) 
 - **Battle Value:** 988 
 
 ## Availability 

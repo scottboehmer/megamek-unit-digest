@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/184) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/184) 
 - **Battle Value:** 1374 
 - [*More Info*](axman/axman_axm-1n.md) 
 
@@ -42,7 +42,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/185) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/185) 
 - **Battle Value:** 1458 
 - [*More Info*](axman/axman_axm-2n.md) 
 
@@ -65,7 +65,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/186) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/186) 
 - **Battle Value:** 1649 
 - [*More Info*](axman/axman_axm-3s.md) 
 
@@ -90,7 +90,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/187) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/187) 
 - **Battle Value:** 1734 
 - [*More Info*](axman/axman_axm-3sr.md) 
 
@@ -112,7 +112,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/188) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/188) 
 - **Battle Value:** 1222 
 - [*More Info*](axman/axman_axm-4d.md) 
 
@@ -133,7 +133,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3772) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/3772) 
 - **Battle Value:** 2132 
 - [*More Info*](axman/axman_axm-6x.md) 
 
@@ -153,7 +153,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/3771) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3771) 
 - **Battle Value:** 1830 
 - [*More Info*](axman/axman_axm-6t.md) 
 
@@ -178,7 +178,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #12 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7790) 
+- **Sources:** Rec Guide:ilClan #12 , [Master Unit List](http://masterunitlist.info/Unit/Details/7790) 
 - **Battle Value:** 2575 
 - [*More Info*](axman/axman_axm-5n.md) 
 

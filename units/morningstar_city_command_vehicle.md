@@ -15,7 +15,7 @@
   - Targeting Computer 
   - C3 Main 
   - Infantry (4 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4671) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4671) 
 - **Battle Value:** 694 
 - [*More Info*](morningstar_city_command_vehicle/morningstar_city_command_vehicle.md) 
 
@@ -33,7 +33,7 @@
 - **Equipment:** 
   - Targeting Computer 
   - Infantry (4 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4670) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4670) 
 - **Battle Value:** 856 
 - [*More Info*](morningstar_city_command_vehicle/morningstar_city_command_vehicle_laser.md) 
 
@@ -53,7 +53,7 @@
   - Targeting Computer 
   - C3 Main × 2 
   - Infantry (4 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4669) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4669) 
 - **Battle Value:** 656 
 - [*More Info*](morningstar_city_command_vehicle/morningstar_city_command_vehicle_company_command.md) 
 
@@ -70,7 +70,7 @@
 - **Equipment:** 
   - Ground-Mobile HPG 
   - Infantry (6.0 tons) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/5733) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5733) 
 - **Battle Value:** 458 
 - [*More Info*](morningstar_city_command_vehicle/morningstar_city_command_vehicle_hpg.md) 
 

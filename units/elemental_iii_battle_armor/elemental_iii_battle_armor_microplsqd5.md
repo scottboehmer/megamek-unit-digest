@@ -17,7 +17,7 @@
   - Advanced SRM 2 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8836) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8836) 
 - **Battle Value:** 62 (435 for 5 suits) 
 
 ## Availability 

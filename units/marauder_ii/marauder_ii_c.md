@@ -21,7 +21,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2054) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/2054) 
 - **Battle Value:** 2916 
 
 ## Availability 

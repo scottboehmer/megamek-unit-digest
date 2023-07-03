@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
   - Streak SRM 4 × 2 (ammo: 25) 
   - Medium Pulse Laser × 2 
-- **Sources:** TRO 3058 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/535) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/535) 
 - **Battle Value:** 1519 
 
 ## Availability 

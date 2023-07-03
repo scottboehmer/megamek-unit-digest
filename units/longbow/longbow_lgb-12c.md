@@ -21,7 +21,7 @@
   - Searchlight 
   - No/Minimal Arms 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1931) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1931) 
 - **Battle Value:** 1686 
 
 ## Availability 

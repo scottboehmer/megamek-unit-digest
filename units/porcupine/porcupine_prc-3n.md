@@ -18,7 +18,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Distracting 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8102) 
+- **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8102) 
 - **Battle Value:** 511 
 
 ## Availability 

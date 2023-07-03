@@ -15,7 +15,7 @@
   - ER Medium Laser × 2 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5298) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5298) 
 - **Battle Value:** Unknown 
 - [*More Info*](troika/troika_cmt-3t.md) 
 
@@ -33,7 +33,7 @@
   - ER Medium Laser × 2 
   - Rocket 20 × 5 
   - Rocket 15 × 4 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5299) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5299) 
 - **Battle Value:** Unknown 
 - [*More Info*](troika/troika_cmt-4u.md) 
 
@@ -50,7 +50,7 @@
   - Clan ER PPC × 2 
   - Clan Streak LRM 20 (ammo: 18) 
   - Clan Medium Pulse Laser × 2 
-- **Sources:** XTRO Liao - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3310) 
+- **Sources:** XTR: Liao , [Master Unit List](http://masterunitlist.info/Unit/Details/3310) 
 - **Battle Value:** Unknown 
 - [*More Info*](troika/troika_cmt-3tv_viktor.md) 
 
@@ -71,7 +71,7 @@
   - Anti-Missile System (ammo: 12) 
   - CASE 
   - Infantry (4.0 tons) 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5754) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5754) 
 - **Battle Value:** Unknown 
 - [*More Info*](troika/troika_cmt-6t.md) 
 
@@ -90,7 +90,7 @@
   - Medium Re-Engineered Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6813) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6813) 
 - **Battle Value:** Unknown 
 - [*More Info*](troika/troika_cmt-7t.md) 
 

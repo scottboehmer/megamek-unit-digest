@@ -19,7 +19,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2600) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2600) 
 - **Battle Value:** 1546 
 
 ## Availability 

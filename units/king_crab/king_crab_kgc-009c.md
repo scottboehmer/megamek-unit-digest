@@ -20,7 +20,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3150 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8066) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8066) 
 - **Battle Value:** 2652 
 
 ## Availability 

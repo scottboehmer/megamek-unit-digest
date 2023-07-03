@@ -21,7 +21,7 @@
   - Improved Communications 
   - Searchlight 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #8 - Late Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/2700) 
+- **Sources:** Rec Guide:ilClan #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/2700) 
 - **Battle Value:** 1227 
 
 ## Availability 

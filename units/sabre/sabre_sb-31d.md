@@ -15,7 +15,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - Laser Anti-Missile System × 3 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4963) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4963) 
 - **Battle Value:** Unknown 
 
 ## Availability 

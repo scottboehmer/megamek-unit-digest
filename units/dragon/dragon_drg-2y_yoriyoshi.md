@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Stable 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/910) 
+- **Sources:** Historical Turning Points: Galtor , [Master Unit List](http://masterunitlist.info/Unit/Details/910) 
 - **Battle Value:** 1257 
 
 ## Availability 

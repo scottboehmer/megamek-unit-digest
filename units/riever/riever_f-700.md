@@ -15,7 +15,7 @@
   - AC/20 (ammo: 15) 
   - LRM 10 (ammo: 24) 
   - SRM 6 × 4 (ammo: 60) 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2690) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2690) 
 - **Battle Value:** Unknown 
 
 ## Availability 

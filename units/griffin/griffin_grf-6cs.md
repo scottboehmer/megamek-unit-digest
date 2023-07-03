@@ -25,7 +25,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1306) 
+- **Sources:** TRO: 3085u , [Master Unit List](http://masterunitlist.info/Unit/Details/1306) 
 - **Battle Value:** 1695 
 
 ## Availability 

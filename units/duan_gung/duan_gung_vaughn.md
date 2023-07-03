@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Non-Standard Parts 
-- **Sources:** BattleTech Dossiers: Youling Zhanshi - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/6979) 
+- **Sources:** BattleTech Dossiers: Youling Zhanshi , [Master Unit List](http://masterunitlist.info/Unit/Details/6979) 
 - **Battle Value:** 851 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Improved Communications 
   - Ubiquitous 
   - Jettison-Capable Weapon (Medium Laser) 
-- **Sources:** Rec Guide:ilClan #11 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2497) 
+- **Sources:** Rec Guide:ilClan #11 , [Master Unit List](http://masterunitlist.info/Unit/Details/2497) 
 - **Battle Value:** 1271 
 
 ## Availability 

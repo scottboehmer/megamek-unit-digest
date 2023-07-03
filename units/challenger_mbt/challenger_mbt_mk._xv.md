@@ -14,7 +14,7 @@
   - Gauss Rifle (ammo: 24) 
   - Silver Bullet (ammo: 24) 
   - MagShot Gauss Rifle × 4 (ammo: 100) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3939) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3939) 
 - **Battle Value:** 1724 
 
 ## Availability 

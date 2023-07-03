@@ -14,7 +14,7 @@
 - **Weapons:** 
   - MRM 10 × 2 (ammo: 24) 
   - Retractable Blade 
-- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8070) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8070) 
 - **Battle Value:** 988 
 
 ## Availability 

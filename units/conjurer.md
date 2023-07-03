@@ -17,7 +17,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1473) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/1473) 
 - **Battle Value:** 1813 
 - [*More Info*](conjurer/conjurer.md) 
 
@@ -38,7 +38,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #5 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7512) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7512) 
 - **Battle Value:** 1845 
 - [*More Info*](conjurer/conjurer_7.md) 
 
@@ -59,7 +59,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1474) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1474) 
 - **Battle Value:** 2097 
 - [*More Info*](conjurer/conjurer_2.md) 
 
@@ -80,7 +80,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #30 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9429) 
+- **Sources:** Rec Guide:ilClan #30 , [Master Unit List](http://masterunitlist.info/Unit/Details/9429) 
 - **Battle Value:** 2223 
 - [*More Info*](conjurer/conjurer_6.md) 
 
@@ -100,7 +100,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1475) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1475) 
 - **Battle Value:** 1764 
 - [*More Info*](conjurer/conjurer_3.md) 
 
@@ -123,7 +123,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1476) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1476) 
 - **Battle Value:** 2164 
 - [*More Info*](conjurer/conjurer_4.md) 
 
@@ -143,7 +143,7 @@
   - CASE 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1477) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1477) 
 - **Battle Value:** 1722 
 - [*More Info*](conjurer/conjurer_5.md) 
 
@@ -165,7 +165,7 @@
   - MASC 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7513) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7513) 
 - **Battle Value:** 2155 
 - [*More Info*](conjurer/conjurer_8.md) 
 

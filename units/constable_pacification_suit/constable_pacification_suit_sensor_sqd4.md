@@ -19,7 +19,7 @@
   - Improved Sensors 
   - Cutting Torch × 2 
   - Searchlight 
-- **Sources:** TRO 3145 The Clans - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/5841) 
+- **Sources:** TRO: 3145 The Clans , [Master Unit List](http://masterunitlist.info/Unit/Details/5841) 
 - **Battle Value:** 25 (130 for 4 suits) 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Communications Equipment 
   - Cargo 
   - Hitch × 2 
-- **Sources:** Rec Guide:ilClan #28 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/9369) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/9369) 
 - **Battle Value:** 147 
 
 ## Availability 

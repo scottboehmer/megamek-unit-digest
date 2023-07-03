@@ -17,7 +17,7 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2647) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2647) 
 - **Battle Value:** 721 
 
 ## Availability 

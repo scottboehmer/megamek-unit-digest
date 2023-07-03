@@ -22,7 +22,7 @@
   - Hard to Pilot 
   - Easy to Maintain 
   - Reinforced Legs 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5230) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/5230) 
 - **Battle Value:** 2028 
 
 ## Availability 

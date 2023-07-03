@@ -17,7 +17,7 @@
   - Hyper-Extending Actuators 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4520) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4520) 
 - **Battle Value:** 1379 
 - [*More Info*](lightray/lightray_lgh-4y.md) 
 
@@ -39,7 +39,7 @@
   - Hyper-Extending Actuators 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4519) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4519) 
 - **Battle Value:** 1450 
 - [*More Info*](lightray/lightray_lgh-4w.md) 
 
@@ -61,7 +61,7 @@
   - Hyper-Extending Actuators 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4521) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4521) 
 - **Battle Value:** 1674 
 - [*More Info*](lightray/lightray_lgh-5w.md) 
 
@@ -82,7 +82,7 @@
   - Hyper-Extending Actuators 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Starterbook: Wolf & Blake - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1885) 
+- **Sources:** Starterbook: Wolf & Blake , [Master Unit List](http://masterunitlist.info/Unit/Details/1885) 
 - **Battle Value:** 1554 
 - [*More Info*](lightray/lightray_lgh-6w.md) 
 
@@ -105,7 +105,7 @@
   - Hyper-Extending Actuators 
   - Exposed Actuators 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5681) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5681) 
 - **Battle Value:** 1352 
 - [*More Info*](lightray/lightray_lgh-7w.md) 
 

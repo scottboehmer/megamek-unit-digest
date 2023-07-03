@@ -13,7 +13,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Clan Prototype ER Medium Laser × 4 
-- **Sources:** TRO Golden Century - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7687) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7687) 
 - **Battle Value:** Unknown 
 
 ## Availability 

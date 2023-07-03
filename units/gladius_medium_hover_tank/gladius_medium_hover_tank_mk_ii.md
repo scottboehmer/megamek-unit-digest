@@ -16,7 +16,7 @@
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Machine Gun Array 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1213) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1213) 
 - **Battle Value:** 613 
 
 ## Availability 

@@ -19,7 +19,7 @@
   - Modular Weapon (Small Laser) 
   - Modular Weapon (Medium Laser) 
   - Modular Weapon (Medium Laser) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/4624) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/4624) 
 - **Battle Value:** 553 
 
 ## Availability 

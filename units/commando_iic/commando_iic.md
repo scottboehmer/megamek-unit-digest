@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
   - Exposed Actuators 
-- **Sources:** TRO 3060 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/678) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/678) 
 - **Battle Value:** 978 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Searchlight 
-- **Sources:** TRO Vehicle Annex (r) - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/9039) 
+- **Sources:** TRO: Vehicle Annex Revised , [Master Unit List](http://masterunitlist.info/Unit/Details/9039) 
 - **Battle Value:** 4 (38 for 6 suits) 
 
 ## Availability 

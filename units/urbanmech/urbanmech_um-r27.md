@@ -20,7 +20,7 @@
   - Extended Torso Twist 
   - Narrow/Low Profile 
   - No/Minimal Arms 
-- **Sources:** Force Pack UrbanMech  - Late Republiic , [Master Unit List](http://masterunitlist.info/Unit/Details/9498) 
+- **Sources:** ForcePack UrbanMech , [Master Unit List](http://masterunitlist.info/Unit/Details/9498) 
 - **Battle Value:** 610 
 
 ## Availability 

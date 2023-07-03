@@ -13,7 +13,7 @@
 - **Weapons:** 
   - SRM 2 (ammo: 50) 
   - Machine Gun × 4 (ammo: 200) 
-- **Sources:** RS VA IM Exo - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/7152) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7152) 
 - **Battle Value:** 127 
 
 ## Availability 

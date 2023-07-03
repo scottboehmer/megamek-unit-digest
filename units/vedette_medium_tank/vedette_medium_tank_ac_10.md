@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/10 (ammo: 10) 
   - Machine Gun (ammo: 100) 
-- **Sources:** TP: Helm - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8299) 
+- **Sources:** Turning Points: Helm , [Master Unit List](http://masterunitlist.info/Unit/Details/8299) 
 - **Battle Value:** 649 
 
 ## Availability 

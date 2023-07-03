@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Improved Sensors 
   - Improved Targeting (Short) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7646) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7646) 
 - **Battle Value:** 2514 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Liquid Cargo 
   - Searchlight 
   - Mech Sprayer 
-- **Sources:** TRO VA - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4843) 
+- **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/4843) 
 - **Battle Value:** 118 
 
 ## Availability 

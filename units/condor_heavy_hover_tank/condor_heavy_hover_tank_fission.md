@@ -14,7 +14,7 @@
   - Medium Laser × 3 
   - Machine Gun × 2 (ammo: 100) 
   - Vehicle Flamer × 2 (ammo: 40) 
-- **Sources:** XTRO Succession Wars - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5776) 
+- **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5776) 
 - **Battle Value:** 721 
 
 ## Availability 

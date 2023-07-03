@@ -13,7 +13,7 @@
   - ER Large Laser × 4 
   - AC/10 (ammo: 10) 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4055) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4055) 
 - **Battle Value:** Unknown 
 - [*More Info*](deathstalker/deathstalker_f-77.md) 
 
@@ -32,7 +32,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE II 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5609) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5609) 
 - **Battle Value:** Unknown 
 - [*More Info*](deathstalker/deathstalker_xf-78.md) 
 
@@ -50,7 +50,7 @@
   - ER Large Laser × 4 
   - Medium Laser × 2 
   - ER Small Laser 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4056) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4056) 
 - **Battle Value:** Unknown 
 - [*More Info*](deathstalker/deathstalker_f-77a.md) 
 

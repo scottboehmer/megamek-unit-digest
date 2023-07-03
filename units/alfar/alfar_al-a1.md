@@ -17,7 +17,7 @@
   - Medium Laser × 3 
 - **Design Quirks:** 
   - Non-Standard Parts 
-- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3694) 
+- **Sources:** Historical: Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/3694) 
 - **Battle Value:** 1447 
 
 ## Availability 

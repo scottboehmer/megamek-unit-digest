@@ -20,7 +20,7 @@
   - CASE 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** Rec Guide:ilClan #21 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/8350) 
+- **Sources:** Rec Guide:ilClan #21 , [Master Unit List](http://masterunitlist.info/Unit/Details/8350) 
 - **Battle Value:** 1299 
 
 ## Availability 

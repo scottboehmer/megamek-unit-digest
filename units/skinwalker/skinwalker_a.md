@@ -18,7 +18,7 @@
   - ER Small Laser × 6 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** Rec Guide:ilClan #24 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8449) 
+- **Sources:** Rec Guide:ilClan #24 , [Master Unit List](http://masterunitlist.info/Unit/Details/8449) 
 - **Battle Value:** 3500 
 
 ## Availability 

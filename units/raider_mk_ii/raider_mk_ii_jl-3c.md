@@ -14,7 +14,7 @@
 - **Weapons:** 
   - RAC/2 (ammo: 45) 
   - Retractable Blade 
-- **Sources:** TRO Dark Age - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8072) 
+- **Sources:** TRO: Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8072) 
 - **Battle Value:** 1007 
 
 ## Availability 

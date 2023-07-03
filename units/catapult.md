@@ -15,7 +15,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/478) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/478) 
 - **Battle Value:** 1399 
 - [*More Info*](catapult/catapult_cplt-c1.md) 
 
@@ -33,7 +33,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/477) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/477) 
 - **Battle Value:** 1285 
 - [*More Info*](catapult/catapult_cplt-a1.md) 
 
@@ -52,7 +52,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/482) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/482) 
 - **Battle Value:** 1358 
 - [*More Info*](catapult/catapult_cplt-c4.md) 
 
@@ -71,7 +71,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/487) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/487) 
 - **Battle Value:** 1319 
 - [*More Info*](catapult/catapult_cplt-k2.md) 
 
@@ -92,7 +92,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/480) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/480) 
 - **Battle Value:** 1570 
 - [*More Info*](catapult/catapult_cplt-c1b.md) 
 
@@ -111,7 +111,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/479) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/479) 
 - **Battle Value:** 1242 
 - [*More Info*](catapult/catapult_cplt-c1_jenny_butterbee.md) 
 
@@ -130,7 +130,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3903) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3903) 
 - **Battle Value:** 1437 
 - [*More Info*](catapult/catapult_cplt-k3.md) 
 
@@ -149,7 +149,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/481) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/481) 
 - **Battle Value:** 1368 
 - [*More Info*](catapult/catapult_cplt-c3.md) 
 
@@ -171,7 +171,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5453) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5453) 
 - **Battle Value:** 1449 
 - [*More Info*](catapult/catapult_cplt-c4c.md) 
 
@@ -189,7 +189,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/5454) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5454) 
 - **Battle Value:** 1716 
 - [*More Info*](catapult/catapult_cplt-k2k.md) 
 
@@ -211,7 +211,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/489) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/489) 
 - **Battle Value:** 1457 
 - [*More Info*](catapult/catapult_cplt-k5.md) 
 
@@ -232,7 +232,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/483) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/483) 
 - **Battle Value:** 1748 
 - [*More Info*](catapult/catapult_cplt-c5.md) 
 
@@ -251,7 +251,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/5452) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5452) 
 - **Battle Value:** 1346 
 - [*More Info*](catapult/catapult_cplt-c2.md) 
 
@@ -271,7 +271,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/486) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/486) 
 - **Battle Value:** 1473 
 - [*More Info*](catapult/catapult_cplt-h2.md) 
 
@@ -292,7 +292,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/484) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/484) 
 - **Battle Value:** 1772 
 - [*More Info*](catapult/catapult_cplt-c5a.md) 
 
@@ -313,7 +313,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/488) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/488) 
 - **Battle Value:** 1880 
 - [*More Info*](catapult/catapult_cplt-k4.md) 
 
@@ -334,7 +334,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/485) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/485) 
 - **Battle Value:** 1874 
 - [*More Info*](catapult/catapult_cplt-c6.md) 
 
@@ -355,7 +355,7 @@
 - **Design Quirks:** 
   - No/Minimal Arms 
   - Weak Head Armor (1) 
-- **Sources:** Rec Guide:ilClan #5 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7509) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7509) 
 - **Battle Value:** 1619 
 - [*More Info*](catapult/catapult_cplt-k6.md) 
 

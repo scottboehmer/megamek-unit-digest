@@ -20,7 +20,7 @@
   - Rugged (×2) 
   - Cramped Cockpit 
   - Ubiquitous 
-- **Sources:** Rec Guide:ilClan #13 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8126) 
+- **Sources:** Rec Guide:ilClan #13 , [Master Unit List](http://masterunitlist.info/Unit/Details/8126) 
 - **Battle Value:** 503 
 
 ## Availability 

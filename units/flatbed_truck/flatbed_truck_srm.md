@@ -14,7 +14,7 @@
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
   - Cargo × 4 
-- **Sources:** Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1133) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1133) 
 - **Battle Value:** 67 
 
 ## Availability 

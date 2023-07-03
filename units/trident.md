@@ -12,7 +12,7 @@
 - **Weapons:** 
   - Medium Laser × 3 
   - Small Laser 
-- **Sources:** TRO 3050u - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/3303) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/3303) 
 - **Battle Value:** Unknown 
 - [*More Info*](trident/trident_trn-3t.md) 
 
@@ -28,7 +28,7 @@
 - **Weapons:** 
   - Medium Pulse Laser × 3 
   - Small Laser 
-- **Sources:** TRO 3050u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5276) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5276) 
 - **Battle Value:** Unknown 
 - [*More Info*](trident/trident_trn-3tb.md) 
 
@@ -44,7 +44,7 @@
 - **Weapons:** 
   - Medium Laser × 3 
   - Small Laser 
-- **Sources:** TRO 3050u - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5277) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5277) 
 - **Battle Value:** Unknown 
 - [*More Info*](trident/trident_trn-3u.md) 
 
@@ -62,7 +62,7 @@
   - ER Medium Laser × 2 
   - Medium Pulse Laser 
   - ER Small Laser 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5278) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/5278) 
 - **Battle Value:** Unknown 
 - [*More Info*](trident/trident_trn-3v.md) 
 

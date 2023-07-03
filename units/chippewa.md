@@ -15,7 +15,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/584) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/584) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-w5.md) 
 
@@ -33,7 +33,7 @@
   - ER Large Laser × 4 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** H:Operation Klondyke - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/585) 
+- **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/585) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-w5b.md) 
 
@@ -52,7 +52,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Small Pulse Laser × 2 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/586) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/586) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-w7.md) 
 
@@ -71,7 +71,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Small Laser × 2 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/583) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/583) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-w10.md) 
 
@@ -91,7 +91,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Small Pulse Laser × 2 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3952) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/3952) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-w7_manfred.md) 
 
@@ -109,7 +109,7 @@
   - MML 7 w/ Artemis IV × 3 (ammo: 34 LRM, 14 SRM) 
   - Medium Laser × 2 
   - ER Small Laser × 2 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/588) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/588) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-w8.md) 
 
@@ -129,7 +129,7 @@
   - SRM 6 w/ Artemis IV (ammo: 15) 
   - Medium Laser × 2 
   - Small Pulse Laser × 2 
-- **Sources:** TRO 3039 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/587) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/587) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-w7t.md) 
 
@@ -145,7 +145,7 @@
 - **Weapons:** 
   - ELRM 15 × 2 (ammo: 36) 
   - ER Medium Laser × 10 
-- **Sources:** XTRO Pirates - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/589) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/589) 
 - **Battle Value:** Unknown 
 - [*More Info*](chippewa/chippewa_chp-x-p_gladstone.md) 
 

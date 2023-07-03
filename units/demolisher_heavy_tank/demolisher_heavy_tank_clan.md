@@ -16,7 +16,7 @@
   - Machine Gun × 6 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/859) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/859) 
 - **Battle Value:** 1563 
 
 ## Availability 

@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2922) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2922) 
 - **Battle Value:** 1507 
 
 ## Availability 

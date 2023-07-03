@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3315) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3315) 
 - **Battle Value:** 3131 
 - [*More Info*](tundra_wolf/tundra_wolf.md) 
 
@@ -47,7 +47,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3316) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3316) 
 - **Battle Value:** 3626 
 - [*More Info*](tundra_wolf/tundra_wolf_2.md) 
 
@@ -72,7 +72,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3317) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3317) 
 - **Battle Value:** 3292 
 - [*More Info*](tundra_wolf/tundra_wolf_3.md) 
 
@@ -97,7 +97,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3318) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3318) 
 - **Battle Value:** 2873 
 - [*More Info*](tundra_wolf/tundra_wolf_4.md) 
 
@@ -121,7 +121,7 @@
 - **Design Quirks:** 
   - Easy to Maintain 
   - Weak Head Armor (1) 
-- **Sources:** RS 3145 NT NU , [Master Unit List](http://masterunitlist.info/Unit/Details/6862) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6862) 
 - **Battle Value:** 2645 
 - [*More Info*](tundra_wolf/tundra_wolf_5.md) 
 

@@ -15,7 +15,7 @@
   - Small VSP Laser 
   - Magshot Gauss Rifle 
   - Firedrake Support Needler 
-- **Sources:** RS 3145 NT NU - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/6741) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6741) 
 - **Battle Value:** 56 (291 for 4 suits) 
 
 ## Availability 

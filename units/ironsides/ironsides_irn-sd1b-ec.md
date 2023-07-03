@@ -15,7 +15,7 @@
   - ER PPC × 2 
   - Clan Streak SRM 4 × 5 (ammo: 50) 
   - Medium Laser × 2 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7689) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7689) 
 - **Battle Value:** Unknown 
 
 ## Availability 

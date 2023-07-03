@@ -14,7 +14,7 @@
   - Vehicle Flamer × 2 (ammo: 40) 
 - **Equipment:** 
   - Insulated Cargo 
-- **Sources:** TRO 3039 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/688) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/688) 
 - **Battle Value:** 357 
 
 ## Availability 

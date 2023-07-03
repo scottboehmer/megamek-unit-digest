@@ -18,7 +18,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/942) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/942) 
 - **Battle Value:** 1012 
 
 ## Availability 

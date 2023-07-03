@@ -13,7 +13,7 @@
   - Gauss Rifle × 2 (ammo: 32) 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4119) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4119) 
 - **Battle Value:** Unknown 
 - [*More Info*](eisensturm/eisensturm_est-r3.md) 
 
@@ -30,7 +30,7 @@
   - Gauss Rifle × 2 (ammo: 32) 
   - Large Laser × 2 
   - Medium Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4114) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4114) 
 - **Battle Value:** Unknown 
 - [*More Info*](eisensturm/eisensturm_est-o.md) 
 
@@ -46,7 +46,7 @@
 - **Weapons:** 
   - Heavy Gauss Rifle (ammo: 12) 
   - ER Large Laser × 4 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4116) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4116) 
 - **Battle Value:** Unknown 
 - [*More Info*](eisensturm/eisensturm_est-oa.md) 
 
@@ -62,7 +62,7 @@
 - **Weapons:** 
   - LRM 15 w/ Artemis IV × 4 (ammo: 32) 
   - ER Large Laser × 2 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4117) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4117) 
 - **Battle Value:** Unknown 
 - [*More Info*](eisensturm/eisensturm_est-ob.md) 
 
@@ -79,7 +79,7 @@
   - LRM 20 w/ Artemis IV (ammo: 24) 
   - Ultra AC/5 (ammo: 40) 
   - SRM 6 w/ Artemis IV × 4 (ammo: 60) 
-- **Sources:** TRO 3067 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/4118) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4118) 
 - **Battle Value:** Unknown 
 - [*More Info*](eisensturm/eisensturm_est-oc.md) 
 
@@ -98,7 +98,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5761) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5761) 
 - **Battle Value:** Unknown 
 - [*More Info*](eisensturm/eisensturm_est-od.md) 
 

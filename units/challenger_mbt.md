@@ -17,7 +17,7 @@
   - Small Pulse Laser 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/538) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/538) 
 - **Battle Value:** 1710 
 - [*More Info*](challenger_mbt/challenger_mbt_x.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - C3 Main 
   - Targeting Computer 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/539) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/539) 
 - **Battle Value:** 1655 
 - [*More Info*](challenger_mbt/challenger_mbt_xi.md) 
 
@@ -56,7 +56,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/540) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/540) 
 - **Battle Value:** 1851 
 - [*More Info*](challenger_mbt/challenger_mbt_xii.md) 
 
@@ -73,7 +73,7 @@
   - Thunderbolt 15 (ammo: 16) 
   - Silver Bullet (ammo: 16) 
   - MagShot Gauss Rifle × 4 (ammo: 50) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/542) 
+- **Sources:** XTR: Davion , [Master Unit List](http://masterunitlist.info/Unit/Details/542) 
 - **Battle Value:** 1894 
 - [*More Info*](challenger_mbt/challenger_mbt_xvc.md) 
 
@@ -96,7 +96,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
   - Environmentally Sealed Chassis 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/541) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/541) 
 - **Battle Value:** 1424 
 - [*More Info*](challenger_mbt/challenger_mbt_xivs.md) 
 
@@ -112,7 +112,7 @@
   - Gauss Rifle (ammo: 24) 
   - Silver Bullet (ammo: 24) 
   - MagShot Gauss Rifle × 4 (ammo: 100) 
-- **Sources:** TRO:Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3939) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/3939) 
 - **Battle Value:** 1724 
 - [*More Info*](challenger_mbt/challenger_mbt_mk._xv.md) 
 

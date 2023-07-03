@@ -19,7 +19,7 @@
   - TAG 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2487) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2487) 
 - **Battle Value:** 1159 
 - [*More Info*](phantom/phantom_prime.md) 
 
@@ -39,7 +39,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2481) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2481) 
 - **Battle Value:** 1410 
 - [*More Info*](phantom/phantom_a.md) 
 
@@ -60,7 +60,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2482) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2482) 
 - **Battle Value:** 1096 
 - [*More Info*](phantom/phantom_b.md) 
 
@@ -80,7 +80,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2483) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2483) 
 - **Battle Value:** 1590 
 - [*More Info*](phantom/phantom_c.md) 
 
@@ -100,7 +100,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2484) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2484) 
 - **Battle Value:** 1581 
 - [*More Info*](phantom/phantom_d.md) 
 
@@ -119,7 +119,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2485) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2485) 
 - **Battle Value:** 975 
 - [*More Info*](phantom/phantom_e.md) 
 
@@ -139,7 +139,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2486) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/2486) 
 - **Battle Value:** 1178 
 - [*More Info*](phantom/phantom_h.md) 
 
@@ -160,7 +160,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #27 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4818) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/4818) 
 - **Battle Value:** 1375 
 - [*More Info*](phantom/phantom_f.md) 
 
@@ -179,7 +179,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #27 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9346) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9346) 
 - **Battle Value:** 975 
 - [*More Info*](phantom/phantom_g.md) 
 
@@ -199,7 +199,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9347) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9347) 
 - **Battle Value:** 1713 
 - [*More Info*](phantom/phantom_i.md) 
 
@@ -219,7 +219,7 @@
   - Inner Sphere Supercharger 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9348) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9348) 
 - **Battle Value:** 1902 
 - [*More Info*](phantom/phantom_j.md) 
 
@@ -238,7 +238,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9349) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9349) 
 - **Battle Value:** 1387 
 - [*More Info*](phantom/phantom_k.md) 
 
@@ -257,7 +257,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9350) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9350) 
 - **Battle Value:** 1178 
 - [*More Info*](phantom/phantom_l.md) 
 
@@ -278,7 +278,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9345) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9345) 
 - **Battle Value:** 1138 
 - [*More Info*](phantom/phantom_t.md) 
 
@@ -298,7 +298,7 @@
   - CASE 
 - **Design Quirks:** 
   - Improved Sensors 
-- **Sources:** Rec Guide:ilClan #27 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9351) 
+- **Sources:** Rec Guide:ilClan #27 , [Master Unit List](http://masterunitlist.info/Unit/Details/9351) 
 - **Battle Value:** 1365 
 - [*More Info*](phantom/phantom_r.md) 
 

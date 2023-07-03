@@ -18,7 +18,7 @@
   - Anti-Aircraft Targeting 
   - Narrow/Low Profile 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1858) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1858) 
 - **Battle Value:** 1365 
 
 ## Availability 

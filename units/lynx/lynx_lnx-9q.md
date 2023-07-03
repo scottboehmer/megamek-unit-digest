@@ -17,7 +17,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Multi-Trac 
-- **Sources:** TRO 3058 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/1968) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/1968) 
 - **Battle Value:** 1725 
 
 ## Availability 

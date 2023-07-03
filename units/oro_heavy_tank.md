@@ -14,7 +14,7 @@
   - ER Medium Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2342) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2342) 
 - **Battle Value:** 1116 
 - [*More Info*](oro_heavy_tank/oro_heavy_tank.md) 
 
@@ -31,7 +31,7 @@
   - Large Pulse Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2341) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/2341) 
 - **Battle Value:** 1492 
 - [*More Info*](oro_heavy_tank/oro_heavy_tank_hag.md) 
 

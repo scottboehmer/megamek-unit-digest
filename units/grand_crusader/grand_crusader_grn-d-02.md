@@ -18,7 +18,7 @@
   - Bad Reputation (Inner Sphere) 
   - Directional Torso Mount (LRM 20) 
   - Directional Torso Mount (LRM 20) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1253) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1253) 
 - **Battle Value:** 1702 
 
 ## Availability 

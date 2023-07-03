@@ -17,7 +17,7 @@
   - Medium Pulse Laser 
 - **Equipment:** 
   - Targeting Computer 
-- **Sources:** TRO 3067 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5748) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5748) 
 - **Battle Value:** Unknown 
 
 ## Availability 

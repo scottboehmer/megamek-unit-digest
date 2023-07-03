@@ -16,7 +16,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4307) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4307) 
 - **Battle Value:** 1220 
 - [*More Info*](hellspawn/hellspawn_hsn-7d.md) 
 
@@ -37,7 +37,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4308) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4308) 
 - **Battle Value:** 1341 
 - [*More Info*](hellspawn/hellspawn_hsn-8e.md) 
 
@@ -55,7 +55,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4309) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4309) 
 - **Battle Value:** 1118 
 - [*More Info*](hellspawn/hellspawn_hsn-9f.md) 
 
@@ -78,7 +78,7 @@
   - Coolant Pod × 3 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/1478) 
+- **Sources:** XTR: Pirates , [Master Unit List](http://masterunitlist.info/Unit/Details/1478) 
 - **Battle Value:** 1431 
 - [*More Info*](hellspawn/hellspawn_hsn-7d2_halperin.md) 
 
@@ -97,7 +97,7 @@
   - Medium Pulse Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5673) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5673) 
 - **Battle Value:** 1188 
 - [*More Info*](hellspawn/hellspawn_hsn-10g.md) 
 
@@ -119,7 +119,7 @@
   - TAG 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5674) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5674) 
 - **Battle Value:** 1411 
 - [*More Info*](hellspawn/hellspawn_hsn-10sr.md) 
 

@@ -18,7 +18,7 @@
   - Clan Flamer 
 - **Equipment:** 
   - Improved Sensors 
-- **Sources:** Shrapnel #8 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8460) 
+- **Sources:** Shrapnel #8 , [Master Unit List](http://masterunitlist.info/Unit/Details/8460) 
 - **Battle Value:** 35 (180 for 4 suits) 
 
 ## Availability 

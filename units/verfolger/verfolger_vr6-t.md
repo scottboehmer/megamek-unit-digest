@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Difficult to Maintain 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5689) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5689) 
 - **Battle Value:** 1811 
 
 ## Availability 

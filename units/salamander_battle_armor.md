@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Flamer × 2 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9211) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/9211) 
 - **Battle Value:** 53 (191 for 3 suits) 
 - [*More Info*](salamander_battle_armor/salamander_battle_armor_sqd3.md) 
 
@@ -32,7 +32,7 @@
 - **Weapons:** 
   - Flamer × 2 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2789) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2789) 
 - **Battle Value:** 53 (276 for 4 suits) 
 - [*More Info*](salamander_battle_armor/salamander_battle_armor_sqd4.md) 
 
@@ -50,7 +50,7 @@
 - **Weapons:** 
   - Flamer × 2 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8584) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8584) 
 - **Battle Value:** 53 (372 for 5 suits) 
 - [*More Info*](salamander_battle_armor/salamander_battle_armor_sqd5.md) 
 
@@ -68,7 +68,7 @@
 - **Weapons:** 
   - Flamer × 2 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/8948) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8948) 
 - **Battle Value:** 53 (479 for 6 suits) 
 - [*More Info*](salamander_battle_armor/salamander_battle_armor_sqd6.md) 
 
@@ -87,7 +87,7 @@
   - ER Micro Laser 
   - Flamer 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2788) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2788) 
 - **Battle Value:** 56 (292 for 4 suits) 
 - [*More Info*](salamander_battle_armor/salamander_battle_armor_lasersqd4.md) 
 
@@ -106,7 +106,7 @@
   - ER Micro Laser 
   - Flamer 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8583) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8583) 
 - **Battle Value:** 56 (394 for 5 suits) 
 - [*More Info*](salamander_battle_armor/salamander_battle_armor_lasersqd5.md) 
 
@@ -125,7 +125,7 @@
   - ER Micro Laser 
   - Flamer 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8947) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8947) 
 - **Battle Value:** 56 (506 for 6 suits) 
 - [*More Info*](salamander_battle_armor/salamander_battle_armor_lasersqd6.md) 
 
@@ -143,7 +143,7 @@
 - **Weapons:** 
   - Heavy Machine Gun × 2 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2787) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/2787) 
 - **Battle Value:** 56 (292 for 4 suits) 
 - [*More Info*](salamander_battle_armor/salamander_battle_armor_anti-infantrysqd4.md) 
 
@@ -161,7 +161,7 @@
 - **Weapons:** 
   - Heavy Machine Gun × 2 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8582) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8582) 
 - **Battle Value:** 56 (394 for 5 suits) 
 - [*More Info*](salamander_battle_armor/salamander_battle_armor_anti-infantrysqd5.md) 
 
@@ -179,7 +179,7 @@
 - **Weapons:** 
   - Heavy Machine Gun × 2 
   - SRM 1 (OS) 
-- **Sources:** TRO 3058U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8946) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8946) 
 - **Battle Value:** 56 (506 for 6 suits) 
 - [*More Info*](salamander_battle_armor/salamander_battle_armor_anti-infantrysqd6.md) 
 

@@ -14,7 +14,7 @@
 - **Weapons:** 
   - LB 10-X AC (ammo: 20 Cluster) 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3050u - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/1376) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/1376) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Medium Re-Engineered Laser 
 - **Equipment:** 
   - Beagle Active Probe 
-- **Sources:** TRO 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6813) 
+- **Sources:** TRO: 3145 NTNU , [Master Unit List](http://masterunitlist.info/Unit/Details/6813) 
 - **Battle Value:** Unknown 
 
 ## Availability 

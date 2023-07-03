@@ -13,7 +13,7 @@
 - **Weapons:** 
   - AC/10 × 2 (ammo: 20) 
   - SRM 6 (ammo: 15) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3650) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3650) 
 - **Battle Value:** 920 
 
 ## Availability 

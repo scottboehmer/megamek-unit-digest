@@ -18,7 +18,7 @@
   - Light Machine Gun (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Rec Guide:ilClan #32 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9482) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9482) 
 - **Battle Value:** 1300 
 
 ## Availability 

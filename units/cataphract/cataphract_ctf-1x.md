@@ -16,7 +16,7 @@
   - Medium Laser × 4 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/466) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/466) 
 - **Battle Value:** 1316 
 
 ## Availability 

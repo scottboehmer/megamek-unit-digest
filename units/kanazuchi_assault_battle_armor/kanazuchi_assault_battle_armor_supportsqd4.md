@@ -12,7 +12,7 @@
 - **Weapons:** 
   - SRM 4 (ammo: 9) 
   - SRM 3 (OS) × 2 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8027) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8027) 
 - **Battle Value:** 71 (368 for 4 suits) 
 
 ## Availability 

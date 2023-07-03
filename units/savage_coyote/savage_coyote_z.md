@@ -21,7 +21,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Oversized 
-- **Sources:** WoR - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5831) 
+- **Sources:** Wars of Reaving , [Master Unit List](http://masterunitlist.info/Unit/Details/5831) 
 - **Battle Value:** 3026 
 
 ## Availability 

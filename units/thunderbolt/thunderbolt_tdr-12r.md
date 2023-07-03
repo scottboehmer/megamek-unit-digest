@@ -22,7 +22,7 @@
   - Multi-Trac 
   - Rugged (×3) 
   - Ubiquitous (Inner Sphere) 
-- **Sources:** Rec Guide:ilClan #15 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8194) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8194) 
 - **Battle Value:** 1975 
 
 ## Availability 

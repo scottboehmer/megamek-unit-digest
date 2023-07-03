@@ -18,7 +18,7 @@
   - SRM 2 (ammo: 50) 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4730) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4730) 
 - **Battle Value:** 1708 
 - [*More Info*](no-dachi/no-dachi_nda-1k.md) 
 
@@ -41,7 +41,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4732) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4732) 
 - **Battle Value:** 1739 
 - [*More Info*](no-dachi/no-dachi_nda-2k.md) 
 
@@ -64,7 +64,7 @@
   - Flamer 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4733) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4733) 
 - **Battle Value:** 1728 
 - [*More Info*](no-dachi/no-dachi_nda-2ko.md) 
 
@@ -89,7 +89,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2297) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2297) 
 - **Battle Value:** 1705 
 - [*More Info*](no-dachi/no-dachi_nda-2kc.md) 
 
@@ -112,7 +112,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2298) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/2298) 
 - **Battle Value:** 2609 
 - [*More Info*](no-dachi/no-dachi_nda-3x.md) 
 
@@ -136,7 +136,7 @@
   - Guardian ECM Suite 
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/5692) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5692) 
 - **Battle Value:** 1706 
 - [*More Info*](no-dachi/no-dachi_nda-3s.md) 
 

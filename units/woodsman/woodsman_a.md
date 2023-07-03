@@ -19,7 +19,7 @@
   - MASC 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3586) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/3586) 
 - **Battle Value:** 2741 
 
 ## Availability 

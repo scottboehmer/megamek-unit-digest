@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light AC/5 (ammo: 20) 
   - Rocket 10 × 4 
-- **Sources:** Rec Guide:ilClan #32 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9474) 
+- **Sources:** Rec Guide:ilClan #32 , [Master Unit List](http://masterunitlist.info/Unit/Details/9474) 
 - **Battle Value:** 532 
 
 ## Availability 

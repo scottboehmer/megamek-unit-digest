@@ -21,7 +21,7 @@
   - Static Ammo Feed (Ultra AC/10) 
   - Exposed Weapon Linkage (Ultra AC/10) 
   - Static Ammo Feed (Ultra AC/10) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/781) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/781) 
 - **Battle Value:** 2583 
 
 ## Availability 

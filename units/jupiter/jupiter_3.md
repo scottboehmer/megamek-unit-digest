@@ -20,7 +20,7 @@
   - Fine Manipulators 
   - Improved Sensors 
   - Improved Targeting (Long) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1727) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1727) 
 - **Battle Value:** 3074 
 
 ## Availability 

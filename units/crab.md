@@ -14,7 +14,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/716) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/716) 
 - **Battle Value:** 1198 
 - [*More Info*](crab/crab_crb-27.md) 
 
@@ -32,7 +32,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/717) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/717) 
 - **Battle Value:** 1308 
 - [*More Info*](crab/crab_crb-27b.md) 
 
@@ -51,7 +51,7 @@
   - Medium Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** ER 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5873) 
+- **Sources:** Era Report 2750 , [Master Unit List](http://masterunitlist.info/Unit/Details/5873) 
 - **Battle Value:** 1309 
 - [*More Info*](crab/crab_crb-27sl.md) 
 
@@ -69,7 +69,7 @@
   - Small Laser 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/715) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/715) 
 - **Battle Value:** 1143 
 - [*More Info*](crab/crab_crb-20.md) 
 
@@ -88,7 +88,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/720) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/720) 
 - **Battle Value:** 1135 
 - [*More Info*](crab/crab_crb-c.md) 
 
@@ -109,7 +109,7 @@
   - C3i 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/718) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/718) 
 - **Battle Value:** 1509 
 - [*More Info*](crab/crab_crb-30.md) 
 
@@ -128,7 +128,7 @@
   - C3i 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/719) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/719) 
 - **Battle Value:** 1342 
 - [*More Info*](crab/crab_crb-45.md) 
 
@@ -148,7 +148,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Easy to Maintain 
-- **Sources:** Rec Guide:ilClan #5 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7510) 
+- **Sources:** Rec Guide:ilClan #5 , [Master Unit List](http://masterunitlist.info/Unit/Details/7510) 
 - **Battle Value:** 1964 
 - [*More Info*](crab/crab_crb-54.md) 
 

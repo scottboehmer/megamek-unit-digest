@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Light Gauss Rifle (ammo: 16) 
   - Machine Gun × 2 (ammo: 100) 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4570) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4570) 
 - **Battle Value:** 585 
 
 ## Availability 

@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Angel ECM Suite 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3145 Free Worlds League - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8751) 
+- **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/8751) 
 - **Battle Value:** 36 (252 for 5 suits) 
 
 ## Availability 

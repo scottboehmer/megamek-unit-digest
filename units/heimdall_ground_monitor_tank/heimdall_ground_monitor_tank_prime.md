@@ -16,7 +16,7 @@
   - Streak SRM 4 × 3 (ammo: 75) 
 - **Equipment:** 
   - CASE 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4293) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/4293) 
 - **Battle Value:** 1943 
 
 ## Availability 

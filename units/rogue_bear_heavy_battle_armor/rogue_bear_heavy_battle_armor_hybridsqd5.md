@@ -19,7 +19,7 @@
   - Jump Booster 
   - Anti-Personnel Mount × 2 
   - Inner Sphere Camo System 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8660) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/8660) 
 - **Battle Value:** 52 (363 for 5 suits) 
 
 ## Availability 

@@ -13,7 +13,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Light Machine Gun × 6 (ammo: 200) 
-- **Sources:** TRO:Prototype , [Master Unit List](http://masterunitlist.info/Unit/Details/4689) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4689) 
 - **Battle Value:** 749 
 
 ## Availability 

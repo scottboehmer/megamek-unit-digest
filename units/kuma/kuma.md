@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Hard to Pilot 
   - Accurate Weapon (Heavy Large Laser) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/1849) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/1849) 
 - **Battle Value:** 1952 
 
 ## Availability 

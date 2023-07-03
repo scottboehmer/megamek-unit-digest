@@ -12,7 +12,7 @@
   - AC/20 (ammo: 20) 
   - LRM 5 (ammo: 24) 
   - Small Laser 
-- **Sources:** TRO 3039 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/2737) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2737) 
 - **Battle Value:** 933 
 - [*More Info*](rommel_tank/rommel_tank.md) 
 
@@ -28,7 +28,7 @@
   - Gauss Rifle (ammo: 16) 
   - Medium Laser × 2 
   - Machine Gun × 5 (ammo: 100) 
-- **Sources:** TRO 3039 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2735) 
+- **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/2735) 
 - **Battle Value:** 1178 
 - [*More Info*](rommel_tank/rommel_tank_gauss.md) 
 
@@ -48,7 +48,7 @@
 - **Equipment:** 
   - Guardian ECM Suite 
   - Environmentally Sealed Chassis 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2736) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2736) 
 - **Battle Value:** 1200 
 - [*More Info*](rommel_tank/rommel_tank_sealed.md) 
 
@@ -64,7 +64,7 @@
   - Long Tom Cannon (ammo: 20) 
   - Thunderbolt 5 (ammo: 12) 
   - ER Medium Laser × 2 
-- **Sources:** XTRO Steiner - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4933) 
+- **Sources:** XTR: Steiner , [Master Unit List](http://masterunitlist.info/Unit/Details/4933) 
 - **Battle Value:** 1507 
 - [*More Info*](rommel_tank/rommel_tank_howitzer_prototype.md) 
 
@@ -80,7 +80,7 @@
   - Long Tom Cannon (ammo: 15) 
   - Thunderbolt 5 (ammo: 12) 
   - ER Medium Laser × 2 
-- **Sources:** TRO:Prototypes - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/4934) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4934) 
 - **Battle Value:** 1353 
 - [*More Info*](rommel_tank/rommel_tank_howitzer_production.md) 
 

@@ -22,7 +22,7 @@
   - CASE 
 - **Design Quirks:** 
   - Anti-Aircraft Targeting 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9505) 
+- **Sources:** TRO: Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9505) 
 - **Battle Value:** 3344 
 
 ## Availability 

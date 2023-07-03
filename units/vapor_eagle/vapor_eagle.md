@@ -21,7 +21,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** Rec Guide:ilClan #9 - Early Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/1243) 
+- **Sources:** Rec Guide:ilClan #9 , [Master Unit List](http://masterunitlist.info/Unit/Details/1243) 
 - **Battle Value:** 2368 
 
 ## Availability 

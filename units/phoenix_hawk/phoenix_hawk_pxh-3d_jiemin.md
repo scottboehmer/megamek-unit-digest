@@ -20,7 +20,7 @@
   - Command ’Mech 
   - Improved Communications 
   - Jettison-Capable Weapon (Large X-Pulse Laser) 
-- **Sources:** Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7699) 
+- **Sources:** Operational Turning Points: Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/7699) 
 - **Battle Value:** 1322 
 
 ## Availability 

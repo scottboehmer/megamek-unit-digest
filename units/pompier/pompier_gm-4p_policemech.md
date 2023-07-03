@@ -16,7 +16,7 @@
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
   - Ejection Seat 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/7837) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7837) 
 - **Battle Value:** 148 
 
 ## Availability 

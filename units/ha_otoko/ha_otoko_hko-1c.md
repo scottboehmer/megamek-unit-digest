@@ -15,7 +15,7 @@
   - LRM 10 × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1357) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/1357) 
 - **Battle Value:** 1288 
 
 ## Availability 

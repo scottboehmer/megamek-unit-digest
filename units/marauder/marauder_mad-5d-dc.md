@@ -22,7 +22,7 @@
   - Command ’Mech 
   - Hyper-Extending Actuators 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #6 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/7529) 
+- **Sources:** Rec Guide:ilClan #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/7529) 
 - **Battle Value:** 1787 
 
 ## Availability 

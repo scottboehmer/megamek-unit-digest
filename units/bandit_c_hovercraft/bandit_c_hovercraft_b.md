@@ -15,7 +15,7 @@
 - **Equipment:** 
   - CASE 
   - Infantry (5.0 tons) 
-- **Sources:** TRO 3058 - Early Succession War , [Master Unit List](http://masterunitlist.info/Unit/Details/221) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/221) 
 - **Battle Value:** 1162 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Medium X-Pulse Laser × 2 
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3557) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/3557) 
 - **Battle Value:** 1211 
 
 ## Availability 

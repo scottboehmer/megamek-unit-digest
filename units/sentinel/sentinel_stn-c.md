@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Improved Communications 
   - Ammunition Feed Problem (SRM 2) 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/2865) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2865) 
 - **Battle Value:** 689 
 
 ## Availability 

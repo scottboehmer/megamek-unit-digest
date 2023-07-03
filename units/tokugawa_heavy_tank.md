@@ -12,7 +12,7 @@
   - AC/10 (ammo: 20) 
   - SRM 6 (ammo: 15) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3265) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3265) 
 - **Battle Value:** 731 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_tkg-150.md) 
 
@@ -28,7 +28,7 @@
   - SRM 6 (ammo: 15) 
   - AC/2 × 2 (ammo: 90) 
   - Machine Gun (ammo: 100) 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3266) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3266) 
 - **Battle Value:** 654 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_tkg-151.md) 
 
@@ -44,7 +44,7 @@
   - LB 10-X AC (ammo: 20 Standard, 10 Cluster) 
   - SRM 6 w/ Artemis IV (ammo: 30) 
   - Medium Pulse Laser × 2 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/3263) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3263) 
 - **Battle Value:** 912 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank.md) 
 
@@ -62,7 +62,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3260) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3260) 
 - **Battle Value:** 891 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_c3.md) 
 
@@ -80,7 +80,7 @@
   - Medium Pulse Laser × 2 
 - **Equipment:** 
   - TAG 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3261) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3261) 
 - **Battle Value:** 941 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_mrm.md) 
 
@@ -97,7 +97,7 @@
   - Streak SRM 6 (ammo: 15) 
   - Medium Pulse Laser × 2 
   - Small Pulse Laser 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3264) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/3264) 
 - **Battle Value:** 921 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_streak.md) 
 
@@ -114,7 +114,7 @@
   - HVAC/10 (ammo: 16) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** XTRO Kurita - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/3267) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/3267) 
 - **Battle Value:** 1125 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_yumi.md) 
 
@@ -132,7 +132,7 @@
   - Flamer 
 - **Equipment:** 
   - Anti-Missile System (ammo: 12) 
-- **Sources:** JTP:Atreus - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3262) 
+- **Sources:** Jihad Turning Points: Atreus , [Master Unit List](http://masterunitlist.info/Unit/Details/3262) 
 - **Battle Value:** 961 
 - [*More Info*](tokugawa_heavy_tank/tokugawa_heavy_tank_sd2.md) 
 

@@ -14,7 +14,7 @@
   - Sniper Cannon (ammo: 60) 
 - **Equipment:** 
   - Hitch 
-- **Sources:** TRO 3145 Mercenaries - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6534) 
+- **Sources:** TRO: 3145 Mercenaries , [Master Unit List](http://masterunitlist.info/Unit/Details/6534) 
 - **Battle Value:** 188 
 
 ## Availability 

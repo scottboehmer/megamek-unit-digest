@@ -19,7 +19,7 @@
   - Anti-Missile System (ammo: 24) 
   - Targeting Computer 
   - CASE 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/183) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/183) 
 - **Battle Value:** 1911 
 
 ## Availability 

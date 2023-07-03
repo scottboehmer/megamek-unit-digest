@@ -26,7 +26,7 @@
   - Stabilized Weapon (ER Medium Laser) 
   - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (RAC/5) 
-- **Sources:** Rec Guide:ilClan #26 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/9327) 
+- **Sources:** Rec Guide:ilClan #26 , [Master Unit List](http://masterunitlist.info/Unit/Details/9327) 
 - **Battle Value:** 2655 
 
 ## Availability 

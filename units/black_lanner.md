@@ -19,7 +19,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/369) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/369) 
 - **Battle Value:** 2268 
 - [*More Info*](black_lanner/black_lanner_prime.md) 
 
@@ -41,7 +41,7 @@
   - TAG 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/363) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/363) 
 - **Battle Value:** 2308 
 - [*More Info*](black_lanner/black_lanner_a.md) 
 
@@ -60,7 +60,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/364) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/364) 
 - **Battle Value:** 1961 
 - [*More Info*](black_lanner/black_lanner_b.md) 
 
@@ -80,7 +80,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/365) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/365) 
 - **Battle Value:** 2523 
 - [*More Info*](black_lanner/black_lanner_c.md) 
 
@@ -104,7 +104,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/366) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/366) 
 - **Battle Value:** 1809 
 - [*More Info*](black_lanner/black_lanner_d.md) 
 
@@ -124,7 +124,7 @@
   - MASC 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/368) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/368) 
 - **Battle Value:** 1928 
 - [*More Info*](black_lanner/black_lanner_h.md) 
 
@@ -144,7 +144,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** TRO 3058 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/367) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/367) 
 - **Battle Value:** 2331 
 - [*More Info*](black_lanner/black_lanner_e.md) 
 
@@ -164,7 +164,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #15 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/370) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/370) 
 - **Battle Value:** 1672 
 - [*More Info*](black_lanner/black_lanner_x.md) 
 
@@ -186,7 +186,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #15 - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/8185) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8185) 
 - **Battle Value:** 2154 
 - [*More Info*](black_lanner/black_lanner_f.md) 
 
@@ -206,7 +206,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8186) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8186) 
 - **Battle Value:** 1929 
 - [*More Info*](black_lanner/black_lanner_g.md) 
 
@@ -228,7 +228,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8184) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8184) 
 - **Battle Value:** 2040 
 - [*More Info*](black_lanner/black_lanner_t.md) 
 
@@ -251,7 +251,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8187) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8187) 
 - **Battle Value:** 1803 
 - [*More Info*](black_lanner/black_lanner_i.md) 
 
@@ -272,7 +272,7 @@
   - CASE 
 - **Design Quirks:** 
   - Stable 
-- **Sources:** Rec Guide:ilClan #15 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/8188) 
+- **Sources:** Rec Guide:ilClan #15 , [Master Unit List](http://masterunitlist.info/Unit/Details/8188) 
 - **Battle Value:** 2022 
 - [*More Info*](black_lanner/black_lanner_j.md) 
 

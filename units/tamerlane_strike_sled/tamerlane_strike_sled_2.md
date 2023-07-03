@@ -13,7 +13,7 @@
 - **Weapons:** 
   - Medium Laser 
   - SRM 2 (ammo: 50) 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3159) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/3159) 
 - **Battle Value:** 359 
 
 ## Availability 

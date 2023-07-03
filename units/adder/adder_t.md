@@ -17,7 +17,7 @@
   - Inner Sphere Coolant Pod 
 - **Design Quirks:** 
   - Narrow/Low Profile 
-- **Sources:** Rec Guide:ilClan #3- Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7478) 
+- **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7478) 
 - **Battle Value:** 1765 
 
 ## Availability 

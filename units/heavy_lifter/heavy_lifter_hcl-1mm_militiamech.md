@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Searchlight × 4 
   - Enviro-Sealing 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7870) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7870) 
 - **Battle Value:** 981 
 
 ## Availability 

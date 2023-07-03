@@ -23,7 +23,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Protected Actuators 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/187) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/187) 
 - **Battle Value:** 1734 
 
 ## Availability 

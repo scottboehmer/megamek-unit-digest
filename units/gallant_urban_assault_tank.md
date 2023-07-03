@@ -15,7 +15,7 @@
   - Machine Gun × 4 (ammo: 200) 
 - **Equipment:** 
   - CASE 
-- **Sources:** Hist:Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/4200) 
+- **Sources:** Historical: Reunification War , [Master Unit List](http://masterunitlist.info/Unit/Details/4200) 
 - **Battle Value:** 1056 
 - [*More Info*](gallant_urban_assault_tank/gallant_urban_assault_tank.md) 
 

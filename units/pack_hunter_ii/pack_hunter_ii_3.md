@@ -19,7 +19,7 @@
 - **Design Quirks:** 
   - Stabilized Weapon (ER PPC) 
   - Stabilized Weapon (ER PPC) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/2398) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/2398) 
 - **Battle Value:** 1438 
 
 ## Availability 

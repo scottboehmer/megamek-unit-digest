@@ -17,7 +17,7 @@
   - Squad Support Small Laser 
 - **Equipment:** 
   - Partial Wing 
-- **Sources:** TRO 3058U - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1735) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/1735) 
 - **Battle Value:** 36 (126 for 4 suits) 
 
 ## Availability 

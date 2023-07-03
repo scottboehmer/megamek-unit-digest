@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Reinforced Legs 
   - Stabilized Weapon (Gauss Rifle) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1538) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1538) 
 - **Battle Value:** 1214 
 
 ## Availability 

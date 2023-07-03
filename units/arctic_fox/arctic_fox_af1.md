@@ -16,7 +16,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/91) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/91) 
 - **Battle Value:** 983 
 
 ## Availability 

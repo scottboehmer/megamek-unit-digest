@@ -15,7 +15,7 @@
 - **Equipment:** 
   - C3 Support 
   - Targeting Computer 
-- **Sources:** Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2438) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2438) 
 - **Battle Value:** 1178 
 
 ## Availability 

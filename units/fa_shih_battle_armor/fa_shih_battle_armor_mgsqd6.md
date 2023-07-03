@@ -19,7 +19,7 @@
   - Mine Dispenser 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Sources:** TRO 3058U - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/8869) 
+- **Sources:** TRO: 3058 Upgrade , [Master Unit List](http://masterunitlist.info/Unit/Details/8869) 
 - **Battle Value:** 39 (348 for 6 suits) 
 
 ## Availability 

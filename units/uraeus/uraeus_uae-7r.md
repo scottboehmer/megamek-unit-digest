@@ -22,7 +22,7 @@
   - CASE II 
 - **Design Quirks:** 
   - Bad Reputation (Clan) 
-- **Sources:** TRO 3145 Republic of the Sphere - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6677) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/6677) 
 - **Battle Value:** 1843 
 
 ## Availability 

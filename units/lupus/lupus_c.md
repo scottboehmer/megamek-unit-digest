@@ -19,7 +19,7 @@
   - Supercharger 
 - **Design Quirks:** 
   - Exposed Actuators 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7628) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7628) 
 - **Battle Value:** 2533 
 
 ## Availability 

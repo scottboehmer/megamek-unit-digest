@@ -14,7 +14,7 @@
   - Advanced Point Defense System × 2 (ammo: 24) 
   - Guardian ECM Suite 
   - Targeting Computer 
-- **Sources:** XTRO Republic III - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7386) 
+- **Sources:** XTR: Republic III , [Master Unit List](http://masterunitlist.info/Unit/Details/7386) 
 - **Battle Value:** 982 
 - [*More Info*](padilla_anti-missile_tank/padilla_anti-missile_tank.md) 
 

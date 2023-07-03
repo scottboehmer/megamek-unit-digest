@@ -16,7 +16,7 @@
   - ER Small Laser 
 - **Design Quirks:** 
   - Improved Communications 
-- **Sources:** Iron Wind Metals - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7426) 
+- **Sources:** Iron Wind Metals , [Master Unit List](http://masterunitlist.info/Unit/Details/7426) 
 - **Battle Value:** 2638 
 
 ## Availability 

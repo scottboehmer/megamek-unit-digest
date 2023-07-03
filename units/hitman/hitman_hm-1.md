@@ -21,7 +21,7 @@
 - **Design Quirks:** 
   - Accurate Weapon (TAG) 
   - Stabilized Weapon (TAG) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/1533) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/1533) 
 - **Battle Value:** 925 
 
 ## Availability 

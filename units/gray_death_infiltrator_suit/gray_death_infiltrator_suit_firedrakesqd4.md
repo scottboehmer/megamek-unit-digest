@@ -18,7 +18,7 @@
   - Firedrake Support Needler 
 - **Equipment:** 
   - Parafoil 
-- **Sources:** TRO 3145 Lyran Commonwealth - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6582) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6582) 
 - **Battle Value:** 42 (216 for 4 suits) 
 
 ## Availability 

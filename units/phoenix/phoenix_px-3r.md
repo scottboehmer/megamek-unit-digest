@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Directional Torso Mount (SRM 2) 
   - Directional Torso Mount (SRM 2) 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2489) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2489) 
 - **Battle Value:** 1106 
 
 ## Availability 

@@ -15,7 +15,7 @@
   - Clan Medium Pulse Laser × 2 
   - Clan ER Medium Laser × 2 
   - Small Laser 
-- **Sources:** XTRO Boondocks - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2794) 
+- **Sources:** XTR: Boondocks , [Master Unit List](http://masterunitlist.info/Unit/Details/2794) 
 - **Battle Value:** Unknown 
 
 ## Availability 

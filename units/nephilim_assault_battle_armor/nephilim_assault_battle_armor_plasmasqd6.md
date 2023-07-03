@@ -14,7 +14,7 @@
 - **Weapons:** 
   - Man-Portable Plasma Rifle 
   - SRM 2 (OS) × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/9014) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/9014) 
 - **Battle Value:** 70 (634 for 6 suits) 
 
 ## Availability 

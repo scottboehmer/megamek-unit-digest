@@ -17,7 +17,7 @@
   - ER Small Laser 
 - **Equipment:** 
   - CASE 
-- **Sources:** RS Unique Fighters - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/1636) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/1636) 
 - **Battle Value:** Unknown 
 
 ## Availability 

@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Hyper-Extending Actuators 
   - Searchlight 
-- **Sources:** TRO 3058 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/894) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/894) 
 - **Battle Value:** 2481 
 
 ## Availability 

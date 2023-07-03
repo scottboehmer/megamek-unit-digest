@@ -20,7 +20,7 @@
   - Clan Targeting Computer 
 - **Design Quirks:** 
   - Difficult to Maintain 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/9243) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/9243) 
 - **Battle Value:** 1787 
 
 ## Availability 

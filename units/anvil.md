@@ -17,7 +17,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/48) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/48) 
 - **Battle Value:** 1441 
 - [*More Info*](anvil/anvil_anv-3m.md) 
 
@@ -38,7 +38,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/50) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/50) 
 - **Battle Value:** 1687 
 - [*More Info*](anvil/anvil_anv-5m.md) 
 
@@ -60,7 +60,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/52) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/52) 
 - **Battle Value:** 1366 
 - [*More Info*](anvil/anvil_anv-6m.md) 
 
@@ -83,7 +83,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3055 - Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/53) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/53) 
 - **Battle Value:** 1690 
 - [*More Info*](anvil/anvil_anv-8m.md) 
 
@@ -103,7 +103,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/49) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/49) 
 - **Battle Value:** 1496 
 - [*More Info*](anvil/anvil_anv-3r.md) 
 
@@ -122,7 +122,7 @@
 - **Design Quirks:** 
   - Extended Torso Twist 
   - Improved Targeting (Medium) 
-- **Sources:** TRO 3055 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/51) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/51) 
 - **Battle Value:** 1336 
 - [*More Info*](anvil/anvil_anv-5q.md) 
 

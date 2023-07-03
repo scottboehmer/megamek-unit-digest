@@ -15,7 +15,7 @@
   - AC/2 × 2 (ammo: 45) 
 - **Equipment:** 
   - C3 Support 
-- **Sources:** Clan Invasion , [Master Unit List](http://masterunitlist.info/Unit/Details/2440) 
+- **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/2440) 
 - **Battle Value:** 923 
 
 ## Availability 

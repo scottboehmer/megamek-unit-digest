@@ -22,7 +22,7 @@
 - **Design Quirks:** 
   - Protected Actuators 
   - Stable 
-- **Sources:** TRO 3075U - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2447) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2447) 
 - **Battle Value:** 1613 
 
 ## Availability 

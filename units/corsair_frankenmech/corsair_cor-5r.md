@@ -16,6 +16,7 @@
   - AC/10 (ammo: 30) 
   - SRM 6 (ammo: 30) 
   - Medium Laser × 3 
+- **Source:** Videogame (Apocryphal) 
 - **Battle Value:** 1704 
 
 ## Availability 

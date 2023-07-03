@@ -15,7 +15,7 @@
   - Armored Glove (left) 
 - **Equipment:** 
   - Extended Life Support 
-- **Sources:** XTRO Phantoms - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/5612) 
+- **Sources:** XTR: Phantoms , [Master Unit List](http://masterunitlist.info/Unit/Details/5612) 
 - **Battle Value:** 11 (56 for 4 suits) 
 
 ## Availability 

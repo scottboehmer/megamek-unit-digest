@@ -16,7 +16,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Extended Torso Twist 
-- **Sources:** Rec Guide:ilClan #22 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/274) 
+- **Sources:** Rec Guide:ilClan #22 , [Master Unit List](http://masterunitlist.info/Unit/Details/274) 
 - **Battle Value:** 1492 
 
 ## Availability 

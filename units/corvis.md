@@ -18,7 +18,7 @@
   - Modular Weapon (Ultra AC/10) 
   - Modular Weapon (Medium Pulse Laser) 
   - Modular Weapon (Medium Pulse Laser) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/700) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/700) 
 - **Battle Value:** 1336 
 - [*More Info*](corvis/corvis.md) 
 
@@ -44,7 +44,7 @@
   - Modular Weapon (HAG 20) 
   - Modular Weapon (Heavy Medium Laser) 
   - Modular Weapon (Heavy Medium Laser) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/701) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/701) 
 - **Battle Value:** 1455 
 - [*More Info*](corvis/corvis_2.md) 
 

@@ -23,7 +23,7 @@
 - **Design Quirks:** 
   - Bad Reputation (Inner Sphere & Clan) 
   - Vestigial Hand (Right Arm) 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/2637) 
+- **Sources:** Jihad Conspiracies: Interstellar Players 2 , [Master Unit List](http://masterunitlist.info/Unit/Details/2637) 
 - **Battle Value:** 1933 
 
 ## Availability 

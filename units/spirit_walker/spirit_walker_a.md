@@ -20,7 +20,7 @@
   - Active Probe 
   - CASE 
   - Targeting Computer 
-- **Sources:** TP:Foster - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/9236) 
+- **Sources:** Turning Points: Foster , [Master Unit List](http://masterunitlist.info/Unit/Details/9236) 
 - **Battle Value:** 1990 
 
 ## Availability 

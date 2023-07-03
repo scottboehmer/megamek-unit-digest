@@ -18,7 +18,7 @@
   - CASE 
 - **Design Quirks:** 
   - Jettison-Capable Weapon (Large Pulse Laser) 
-- **Sources:** TRO 3055 - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/3441) 
+- **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3441) 
 - **Battle Value:** 1596 
 
 ## Availability 

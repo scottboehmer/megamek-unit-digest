@@ -15,7 +15,7 @@
 - **Equipment:** 
   - Clan Watchdog CEWS 
   - Clan CASE 
-- **Sources:** Rec Guide:ilClan #28 - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
+- **Sources:** Rec Guide:ilClan #28 , [Master Unit List](http://masterunitlist.info/Unit/Details/2958) 
 - **Battle Value:** 404 
 
 ## Availability 

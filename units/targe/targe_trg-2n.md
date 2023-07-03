@@ -21,7 +21,7 @@
   - Extended Torso Twist 
   - No/Minimal Arms 
   - Bad Reputation (Inner Sphere) 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/3165) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/3165) 
 - **Battle Value:** 1042 
 
 ## Availability 

@@ -24,7 +24,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Medium) 
   - Ramshackle 
-- **Sources:** Rec Guide:ilClan #4 - Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7502) 
+- **Sources:** Rec Guide:ilClan #4 , [Master Unit List](http://masterunitlist.info/Unit/Details/7502) 
 - **Battle Value:** 3364 
 
 ## Availability 

@@ -16,7 +16,7 @@
   - Machine Gun (ammo: 100) 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3950) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3950) 
 - **Battle Value:** 1173 
 - [*More Info*](chimera/chimera_cma-1s.md) 
 
@@ -37,7 +37,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** TRO 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3951) 
+- **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/3951) 
 - **Battle Value:** 1182 
 - [*More Info*](chimera/chimera_cma-c.md) 
 
@@ -62,7 +62,7 @@
   - C3 Support 
 - **Design Quirks:** 
   - Nimble Jumper 
-- **Sources:** 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5667) 
+- **Sources:** Record Sheets: 3067 Unabridged , [Master Unit List](http://masterunitlist.info/Unit/Details/5667) 
 - **Battle Value:** 1528 
 - [*More Info*](chimera/chimera_cma-2k.md) 
 

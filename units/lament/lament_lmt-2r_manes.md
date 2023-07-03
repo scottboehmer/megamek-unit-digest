@@ -22,7 +22,7 @@
   - Protected Actuators 
   - Difficult to Maintain 
   - Non-Standard Parts 
-- **Sources:** TRO 3145 Republic of the Sphere - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/7400) 
+- **Sources:** TRO: 3145 Republic of the Sphere , [Master Unit List](http://masterunitlist.info/Unit/Details/7400) 
 - **Battle Value:** 2302 
 
 ## Availability 

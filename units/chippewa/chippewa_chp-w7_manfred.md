@@ -18,7 +18,7 @@
   - SRM 6 (ammo: 15) 
   - Medium Laser × 2 
   - Small Pulse Laser × 2 
-- **Sources:** RS Unique Fighters - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/3952) 
+- **Sources:** Record Sheets: Unique Fighters , [Master Unit List](http://masterunitlist.info/Unit/Details/3952) 
 - **Battle Value:** Unknown 
 
 ## Availability 

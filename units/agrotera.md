@@ -19,7 +19,7 @@
   - AES 
   - Partial Wing 
   - TAG 
-- **Sources:** TRO 3145 Capellan Confederation - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6459) 
+- **Sources:** TRO: 3145 Capellan Confederation , [Master Unit List](http://masterunitlist.info/Unit/Details/6459) 
 - **Battle Value:** 1578 
 - [*More Info*](agrotera/agrotera_agt-1a.md) 
 
@@ -37,7 +37,7 @@
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
   - Clan HarJel III × 3 
-- **Sources:** XTRO: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8365) 
+- **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8365) 
 - **Battle Value:** 1917 
 - [*More Info*](agrotera/agrotera_agt-ua_ariel.md) 
 

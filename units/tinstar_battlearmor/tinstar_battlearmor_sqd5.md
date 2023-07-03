@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Source:** OTP:Fronc Reaches - Early Republic 
+- **Source:** Operational Turning Points: Fronc Reaches 
 - **Battle Value:** 55 (387 for 5 suits) 
 
 ## Availability 

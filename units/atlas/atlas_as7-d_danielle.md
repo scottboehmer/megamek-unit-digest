@@ -19,7 +19,7 @@
   - Distracting 
   - Improved Communications 
   - Battlefists 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/141) 
+- **Sources:** Historical Turning Points: Misery , [Master Unit List](http://masterunitlist.info/Unit/Details/141) 
 - **Battle Value:** 1976 
 
 ## Availability 

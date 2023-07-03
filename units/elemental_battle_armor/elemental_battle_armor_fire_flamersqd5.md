@@ -15,7 +15,7 @@
 - **Weapons:** 
   - Flamer 
   - SRM 2 (OS) 
-- **Sources:** TRO 3085 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/8487) 
+- **Sources:** TRO: 3085 , [Master Unit List](http://masterunitlist.info/Unit/Details/8487) 
 - **Battle Value:** 58 (403 for 5 suits) 
 
 ## Availability 

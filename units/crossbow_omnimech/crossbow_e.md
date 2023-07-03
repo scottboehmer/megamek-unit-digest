@@ -17,7 +17,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Improved Targeting (Short) 
-- **Sources:** Rec Guide:ilClan #17 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/737) 
+- **Sources:** Rec Guide:ilClan #17 , [Master Unit List](http://masterunitlist.info/Unit/Details/737) 
 - **Battle Value:** 1558 
 
 ## Availability 

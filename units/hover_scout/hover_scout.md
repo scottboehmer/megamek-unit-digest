@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser 
-- **Sources:** [Master Unit List](http://masterunitlist.info/Unit/Details/4332) 
+- **Sources:** TRO: 3025 , [Master Unit List](http://masterunitlist.info/Unit/Details/4332) 
 - **Battle Value:** 189 
 
 ## Availability 

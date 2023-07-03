@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 
-- **Sources:** Rec Guide:ilClan #23 - , [Master Unit List](http://masterunitlist.info/Unit/Details/8413) 
+- **Sources:** Rec Guide:ilClan #23 , [Master Unit List](http://masterunitlist.info/Unit/Details/8413) 
 - **Battle Value:** 1234 
 
 ## Availability 

@@ -12,7 +12,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 3 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4958) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4958) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabre/sabre_sb-26.md) 
 
@@ -27,7 +27,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
   - Medium Laser × 3 
-- **Sources:** TRO 3075 - Age of War , [Master Unit List](http://masterunitlist.info/Unit/Details/4959) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4959) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabre/sabre_sb-27.md) 
 
@@ -42,7 +42,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Medium Laser × 6 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/2762) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2762) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabre/sabre_sb-27b.md) 
 
@@ -58,7 +58,7 @@
 - **Weapons:** 
   - ER Large Laser 
   - Medium Laser × 2 
-- **Sources:** TRO 3075 - Star League , [Master Unit List](http://masterunitlist.info/Unit/Details/4960) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4960) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabre/sabre_sb-28.md) 
 
@@ -73,7 +73,7 @@
 - **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Clan Prototype ER Medium Laser × 4 
-- **Sources:** TRO Golden Century - Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/7687) 
+- **Sources:** TRO: Golden Century , [Master Unit List](http://masterunitlist.info/Unit/Details/7687) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabre/sabre_sb-27b-ec.md) 
 
@@ -89,7 +89,7 @@
 - **Weapons:** 
   - Light PPC 
   - ER Medium Laser × 2 
-- **Sources:** TRO 3075 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4961) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4961) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabre/sabre_sb-29.md) 
 
@@ -106,7 +106,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - Laser Anti-Missile System × 3 
-- **Sources:** XTRO Corporation - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4962) 
+- **Sources:** XTR: Corporation , [Master Unit List](http://masterunitlist.info/Unit/Details/4962) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabre/sabre_sb-31_defense_special.md) 
 
@@ -123,7 +123,7 @@
   - ER Medium Laser × 3 
 - **Equipment:** 
   - Laser Anti-Missile System × 3 
-- **Sources:** TRO Prototypes - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/4963) 
+- **Sources:** TRO: Prototypes , [Master Unit List](http://masterunitlist.info/Unit/Details/4963) 
 - **Battle Value:** Unknown 
 - [*More Info*](sabre/sabre_sb-31d.md) 
 

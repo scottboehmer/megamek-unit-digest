@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Supercharger 
   - C3 Support 
-- **Sources:** XTRO Kurita - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2463) 
+- **Sources:** XTR: Kurita , [Master Unit List](http://masterunitlist.info/Unit/Details/2463) 
 - **Battle Value:** 1119 
 
 ## Availability 

@@ -17,7 +17,7 @@
   - Battle Armor LB-X AC 
 - **Equipment:** 
   - Jump Booster 
-- **Sources:** RS3145 NT NU - Early Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/9155) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/9155) 
 - **Battle Value:** 62 (560 for 6 suits) 
 
 ## Availability 

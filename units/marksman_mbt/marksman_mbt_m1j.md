@@ -16,7 +16,7 @@
   - SRM 6 × 2 (ammo: 15) 
   - Streak SRM 4 × 2 (ammo: 25) 
   - Machine Gun × 4 (ammo: 100) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6806) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6806) 
 - **Battle Value:** 1702 
 
 ## Availability 

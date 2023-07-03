@@ -25,7 +25,7 @@
   - Ubiquitous 
   - Battlefists 
   - Jettison-Capable Weapon (ER PPC) 
-- **Sources:** RS 3145 NTNU - Late Republic , [Master Unit List](http://masterunitlist.info/Unit/Details/6899) 
+- **Sources:** Record Sheets: 3145 New Tech New Upgrades , [Master Unit List](http://masterunitlist.info/Unit/Details/6899) 
 - **Battle Value:** 1870 
 
 ## Availability 

@@ -14,7 +14,7 @@
   - SRM 4 (ammo: 25) 
 - **Equipment:** 
   - Cargo 
-- **Sources:** Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/835) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/835) 
 - **Battle Value:** 192 
 
 ## Availability 

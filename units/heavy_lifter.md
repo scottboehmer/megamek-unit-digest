@@ -15,7 +15,7 @@
   - Enviro-Sealing 
   - Lift Hoist × 2 
   - Cargo × 2 
-- **Sources:** RS IA , [Master Unit List](http://masterunitlist.info/Unit/Details/4274) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4274) 
 - **Battle Value:** 658 
 - [*More Info*](heavy_lifter/heavy_lifter_hcl-1_cargomech.md) 
 
@@ -35,7 +35,7 @@
 - **Equipment:** 
   - Searchlight × 4 
   - Enviro-Sealing 
-- **Sources:** Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/7870) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7870) 
 - **Battle Value:** 981 
 - [*More Info*](heavy_lifter/heavy_lifter_hcl-1mm_militiamech.md) 
 
@@ -54,7 +54,7 @@
 - **Equipment:** 
   - Searchlight × 4 
   - Enviro-Sealing 
-- **Sources:** Dark Age , [Master Unit List](http://masterunitlist.info/Unit/Details/7869) 
+- **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/7869) 
 - **Battle Value:** 905 
 - [*More Info*](heavy_lifter/heavy_lifter_hcl-1m_cargomech_mod.md) 
 

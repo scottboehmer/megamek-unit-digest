@@ -15,7 +15,7 @@
   - SRM 4 × 2 (ammo: 25) 
 - **Equipment:** 
   - Enviro-Sealing 
-- **Source:** [Master Unit List](http://masterunitlist.info/Unit/Details/6977) 
+- **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/6977) 
 - **Battle Value:** 736 
 
 ## Availability 

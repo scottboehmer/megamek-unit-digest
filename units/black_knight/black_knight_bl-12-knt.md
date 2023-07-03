@@ -18,7 +18,7 @@
   - Targeting Computer 
 - **Design Quirks:** 
   - Command ’Mech 
-- **Sources:** TRO 3050 - Civil War , [Master Unit List](http://masterunitlist.info/Unit/Details/356) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/356) 
 - **Battle Value:** 1840 
 
 ## Availability 

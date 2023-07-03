@@ -23,7 +23,7 @@
   - Searchlight 
   - Stable 
   - Barrel Fists 
-- **Sources:** TRO 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/850) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/850) 
 - **Battle Value:** 1940 
 
 ## Availability 

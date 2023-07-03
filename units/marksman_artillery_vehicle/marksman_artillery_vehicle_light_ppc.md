@@ -14,7 +14,7 @@
   - Light PPC 
   - Sniper (ammo: 20) 
   - Heavy Machine Gun × 4 (ammo: 200) 
-- **Sources:** TRO 3050 - Jihad , [Master Unit List](http://masterunitlist.info/Unit/Details/2076) 
+- **Sources:** TRO: 3050 , [Master Unit List](http://masterunitlist.info/Unit/Details/2076) 
 - **Battle Value:** 684 
 
 ## Availability 

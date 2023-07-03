@@ -12,7 +12,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - Detachable ER Medium Pulse Laser 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/6587) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/6587) 
 - **Battle Value:** 119 (621 for 4 suits) 
 - [*More Info*](cuchulainn_support_armor/cuchulainn_support_armor_sqd4.md) 
 
@@ -28,7 +28,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - Detachable ER Medium Pulse Laser 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/8768) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/8768) 
 - **Battle Value:** 119 (836 for 5 suits) 
 - [*More Info*](cuchulainn_support_armor/cuchulainn_support_armor_sqd5.md) 
 
@@ -44,7 +44,7 @@
   - Basic Manipulator (left) 
 - **Weapons:** 
   - Detachable ER Medium Pulse Laser 
-- **Sources:** TRO 3145 Lyran Commonwealth - Dark Ages , [Master Unit List](http://masterunitlist.info/Unit/Details/9131) 
+- **Sources:** TRO: 3145 Lyran Commonwealth , [Master Unit List](http://masterunitlist.info/Unit/Details/9131) 
 - **Battle Value:** 119 (1075 for 6 suits) 
 - [*More Info*](cuchulainn_support_armor/cuchulainn_support_armor_sqd6.md) 
 

@@ -14,7 +14,7 @@
   - LRM 10 w/ Artemis IV × 2 (ammo: 24) 
 - **Design Quirks:** 
   - Weak Head Armor (1) 
-- **Sources:** TRO 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/95) 
+- **Sources:** TRO: 3060 , [Master Unit List](http://masterunitlist.info/Unit/Details/95) 
 - **Battle Value:** 744 
 
 ## Availability 
