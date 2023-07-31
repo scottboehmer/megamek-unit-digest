@@ -4,7 +4,7 @@
 
 ## Pompier GM-3A FireMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3044) 
 - **Chassis:** 15 tons (Industrial) 
 - **Movement:** 2 / 3, Fuel Cell 

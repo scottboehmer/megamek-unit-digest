@@ -714,17 +714,11 @@
 - [**Regulator II Hovertank**](../../../units/regulator_ii_hovertank/regulator_ii_hovertank.md) *Sniper (3076)* 
 - [**Regulator II Hovertank (RAC)**](../../../units/regulator_ii_hovertank/regulator_ii_hovertank_rac.md) *Skirmisher (3083)* `ECM` 
 
-#### [SM1 Tank Destroyer](../../../units/sm1_tank_destroyer.md) 
+#### [SM Tank Destroyer](../../../units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](../../../units/sm1_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-
-#### [SM1A Tank Destroyer](../../../units/sm1a_tank_destroyer.md) 
-
-- [**SM1A Tank Destroyer SM1A**](../../../units/sm1a_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-
-#### [SM3 Tank Destroyer](../../../units/sm3_tank_destroyer.md) 
-
-- [**SM3 Tank Destroyer SM3**](../../../units/sm3_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM1 Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
+- [**SM1A Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
+- [**SM3 Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
 
 #### [Turhan Urban Combat Vehicle](../../../units/turhan_urban_combat_vehicle.md) 
 
@@ -824,9 +818,9 @@
 - [**Manticore Heavy Tank (C3S)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_c3s.md) *Brawler (3063)* `C3 Support` 
 - [**Manticore Heavy Tank (HPPC)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_hppc.md) *Sniper (3074)* 
 
-#### [Marsden II MBT](../../../units/marsden_ii_mbt.md) 
+#### [Marsden MBT](../../../units/marsden_mbt.md) 
 
-- [**Marsden II MBT II-A (LB-X)**](../../../units/marsden_ii_mbt/marsden_ii_mbt_ii-a_lb-x.md) *Juggernaut (3068)* 
+- [**Marsden MBT II-A (LB-X)**](../../../units/marsden_mbt/marsden_mbt_ii-a_lb-x.md) *Undefined (3068)* 
 
 #### [Morningstar City Command Vehicle](../../../units/morningstar_city_command_vehicle.md) 
 

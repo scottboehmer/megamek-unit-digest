@@ -1441,7 +1441,7 @@
 
 #### [Lumberjack](../../../units/lumberjack.md) 
 
-- [**Lumberjack LM5/M**](../../../units/lumberjack/lumberjack_lm5_m.md) *Missile Boat (3070)* `IndustrialMech` 
+- [**Lumberjack LM5/M MilitiaMech**](../../../units/lumberjack/lumberjack_lm5_m_militiamech.md) *Undefined (3070)* `IndustrialMech` 
 
 #### [Mangonel](../../../units/mangonel.md) 
 

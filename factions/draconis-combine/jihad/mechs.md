@@ -223,6 +223,10 @@
 - [**Adder E**](../../../units/adder/adder_e.md) *Sniper (3060)* 
 - [**Adder J**](../../../units/adder/adder_j.md) *Sniper (3070)* 
 
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [Falcon Hawk](../../../units/falcon_hawk.md) 
 
 - [**Falcon Hawk FNHK-9K1A**](../../../units/falcon_hawk/falcon_hawk_fnhk-9k1a.md) *Brawler (3057)* 
@@ -1336,8 +1340,8 @@
 
 #### [Kiso](../../../units/kiso.md) 
 
-- [**Kiso K-3N-KR4 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr4_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
-- [**Kiso K-3N-KR5 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr5_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
+- [**Kiso K-3N-KR4 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr4_constructionmech.md) *Undefined (2703)* `Command Console` , `IndustrialMech` 
+- [**Kiso K-3N-KR5 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr5_constructionmech.md) *Undefined (2703)* `Command Console` , `IndustrialMech` 
 
 #### [Kodiak](../../../units/kodiak.md) 
 

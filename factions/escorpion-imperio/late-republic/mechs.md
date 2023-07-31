@@ -192,10 +192,6 @@
 - [**Adder J**](../../../units/adder/adder_j.md) *Sniper (3070)* 
 - [**Adder I**](../../../units/adder/adder_i.md) *Striker (3125)* 
 
-#### [Arbiter](../../../units/arbiter.md) 
-
-- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Sniper (3074)* `IndustrialMech` 
-
 #### [Cazador](../../../units/cazador.md) 
 
 - [**Cazador**](../../../units/cazador/cazador.md) *Striker (3145)* 
@@ -231,6 +227,10 @@
 - [**Reptar EPT-C-1 MilitiaMech**](../../../units/reptar/reptar_ept-c-1_militiamech.md) *Undefined (3086)* `IndustrialMech` 
 
 ### 40 Tons 
+
+#### [Araña](../../../units/araña.md) 
+
+- [**Araña ARA-S-1 MilitiaMech**](../../../units/araña/araña_ara-s-1_militiamech.md) *Undefined (3087)* `IndustrialMech` 
 
 #### [Battle Cobra](../../../units/battle_cobra.md) 
 
@@ -685,9 +685,9 @@
 
 - [**Phoenix Hawk IIC 3**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_3.md) *Skirmisher (3062)* 
 
-#### [ScavengerMech](../../../units/scavengermech.md) 
+#### [Scavenger](../../../units/scavenger.md) 
 
-- [**ScavengerMech SC-V SalvageMech**](../../../units/scavengermech/scavengermech_sc-v_salvagemech.md) *Ambusher (2613)* `IndustrialMech` 
+- [**Scavenger SC-V SalvageMech**](../../../units/scavenger/scavenger_sc-v_salvagemech.md) *Undefined (2613)* `IndustrialMech` 
 
 #### [Spartan](../../../units/spartan.md) 
 

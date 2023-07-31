@@ -4,7 +4,7 @@
 
 ## Pompier GM-4P PoliceMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3085) 
 - **Chassis:** 15 tons (Industrial) 
 - **Movement:** 3 / 5 

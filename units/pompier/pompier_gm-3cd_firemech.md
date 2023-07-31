@@ -4,7 +4,7 @@
 
 ## Pompier GM-3CD FireMech 
 
-- **Role:** Scout 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3062) 
 - **Chassis:** 15 tons (Industrial) 
 - **Movement:** 2 / 3, Fuel Cell 

@@ -1,21 +1,21 @@
-# Marsden II MBT 
+# Marsden MBT II-A 
 
-[Other Marsden II MBT variants](../marsden_ii_mbt.md) 
+[Other Marsden MBT variants](../marsden_mbt.md) 
 
-## Marsden II MBT 
+## Marsden MBT II-A 
 
-- **Role:** Juggernaut 
-- **Tech Base:** Inner Sphere (2473) 
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere (2482) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 3 / 5, ICE 
 - **Armor:** 248 
 - **Heat Sinks:** 0 (0) 
 - **Weapons:** 
-  - AC/5 (ammo: 20) 
-  - SRM 6 × 2 (ammo: 60) 
-  - Machine Gun × 2 (ammo: 100) 
-- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2084) 
-- **Battle Value:** 984 
+  - AC/10 (ammo: 20) 
+  - SRM 6 (ammo: 30) 
+  - Machine Gun (ammo: 100) 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2086) 
+- **Battle Value:** 980 
 
 ## Availability 
 

@@ -268,6 +268,10 @@
 - [**Adder E**](../../../units/adder/adder_e.md) *Sniper (3060)* 
 - [**Adder J**](../../../units/adder/adder_j.md) *Sniper (3070)* 
 
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [Dig King](../../../units/dig_king.md) 
 
 - [**Dig King RCL-1 MiningMech**](../../../units/dig_king/dig_king_rcl-1_miningmech.md) *Ambusher (2573)* `IndustrialMech` 
@@ -1338,6 +1342,7 @@
 
 - [**Albatross ALB-3U**](../../../units/albatross/albatross_alb-3u.md) *Brawler (3053)* 
 - [**Albatross ALB-4U**](../../../units/albatross/albatross_alb-4u.md) *Brawler (3063)* 
+- [**Albatross ALB-5W**](../../../units/albatross/albatross_alb-5w.md) *Undefined (3070)* `ECM` 
 - [**Albatross ALB-5W (Dantalion)**](../../../units/albatross/albatross_alb-5w_dantalion.md) *Brawler (3073)* `ECM` , `Unique` 
 - [**Albatross ALB-3Ur**](../../../units/albatross/albatross_alb-3ur.md) *Brawler (3076)* 
 

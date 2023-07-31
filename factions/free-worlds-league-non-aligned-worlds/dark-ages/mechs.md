@@ -165,6 +165,10 @@
 
 ### 35 Tons 
 
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [Cougar](../../../units/cougar.md) 
 
 - [**Cougar Prime**](../../../units/cougar/cougar_prime.md) *Sniper (3058)* 
@@ -557,7 +561,7 @@
 #### [Lumberjack](../../../units/lumberjack.md) 
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
-- [**Lumberjack LM5/M**](../../../units/lumberjack/lumberjack_lm5_m.md) *Missile Boat (3070)* `IndustrialMech` 
+- [**Lumberjack LM5/M MilitiaMech**](../../../units/lumberjack/lumberjack_lm5_m_militiamech.md) *Undefined (3070)* `IndustrialMech` 
 
 #### [MuckRaker](../../../units/muckraker.md) 
 
@@ -727,6 +731,10 @@
 - [**St. Florian FLN-366 FireMech**](../../../units/st._florian/st._florian_fln-366_firemech.md) *Undefined (3100)* `IndustrialMech` 
 
 ### 95 Tons 
+
+#### [Albatross](../../../units/albatross.md) 
+
+- [**Albatross ALB-5U**](../../../units/albatross/albatross_alb-5u.md) *Undefined (3091)* 
 
 #### [Cerberus](../../../units/cerberus.md) 
 

@@ -1,4 +1,6 @@
-# SM5 Field Commander 
+# SM Tank Destroyer Prime 
+
+[Other SM Tank Destroyer variants](../sm_tank_destroyer.md) 
 
 ## SM5 Field Commander Prime 
 
@@ -17,5 +19,10 @@
   - Inner Sphere TAG 
 - **Sources:** Shrapnel #6 , [Master Unit List](http://masterunitlist.info/Unit/Details/8265) 
 - **Battle Value:** 2021 
-- [*More Info*](sm5_field_commander/sm5_field_commander_prime.md) 
+
+## Availability 
+
+### ilClan (Unique) 
+
+- Kell Hounds 
 

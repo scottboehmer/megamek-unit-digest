@@ -1,10 +1,10 @@
-# Crosscut ED-X2 (RL) 
+# Crosscut ED-X2 LoggerMech (RL) 
 
 [Other Crosscut variants](../crosscut.md) 
 
-## Crosscut ED-X2 (RL) 
+## Crosscut ED-X2 LoggerMech (RL) 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (2810) 
 - **Chassis:** 30 tons (Industrial) 
 - **Movement:** 3 / 5, ICE 

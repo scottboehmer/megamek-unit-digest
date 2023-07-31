@@ -784,10 +784,10 @@
 
 #### [Longinus C Battle Armor](units/longinus_c_battle_armor.md) 
 
-- [**Longinus C Battle Armor (MMR) (Sqd4)**](units/longinus_c_battle_armor/longinus_c_battle_armor_mmr_sqd4.md) *Undefined (3144)* 
-- [**Longinus C Battle Armor (MMR) (Sqd5)**](units/longinus_c_battle_armor/longinus_c_battle_armor_mmr_sqd5.md) *Undefined (3144)* 
-- [**Longinus C Battle Armor (PPC) (Sqd4)**](units/longinus_c_battle_armor/longinus_c_battle_armor_ppc_sqd4.md) *Undefined (3144)* 
-- [**Longinus C Battle Armor (PPC) (Sqd5)**](units/longinus_c_battle_armor/longinus_c_battle_armor_ppc_sqd5.md) *Undefined (3144)* 
+- [**Longinus C Battle Armor (MMR)(Sqd4)**](units/longinus_c_battle_armor/longinus_c_battle_armor_mmrsqd4.md) *Undefined (3144)* 
+- [**Longinus C Battle Armor (MMR)(Sqd5)**](units/longinus_c_battle_armor/longinus_c_battle_armor_mmrsqd5.md) *Undefined (3144)* 
+- [**Longinus C Battle Armor (PPC)(Sqd4)**](units/longinus_c_battle_armor/longinus_c_battle_armor_ppcsqd4.md) *Undefined (3144)* 
+- [**Longinus C Battle Armor (PPC)(Sqd5)**](units/longinus_c_battle_armor/longinus_c_battle_armor_ppcsqd5.md) *Undefined (3144)* 
 
 #### [Oni Battle Armor](units/oni_battle_armor.md) 
 

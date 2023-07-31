@@ -1,8 +1,8 @@
-# Longinus C Battle Armor (MMR) (Sqd5) 
+# Longinus C Battle Armor (PPC)(Sqd4) 
 
 [Other Longinus C Battle Armor variants](../longinus_c_battle_armor.md) 
 
-## Longinus C Battle Armor (MMR) (Sqd5) 
+## Longinus C Battle Armor (PPC)(Sqd4) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3144) 
@@ -13,21 +13,14 @@
 - **Manipulators:** 
   - Battle Claw (left) 
 - **Weapons:** 
-  - Clan Medium Recoilless Rifle 
+  - Support PPC 
   - Clan Advanced SRM 4 (OS) 
 - **Equipment:** 
   - Anti-Personnel Mount 
-- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/9213) 
-- **Battle Value:** 72 (506 for 5 suits) 
+- **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8030) 
+- **Battle Value:** 65 (452 for 5 suits) 
 
 ## Availability 
 
-### Dark Ages 
-
-- Clan Wolf 
-
-### ilClan 
-
-- Star League (Wolf) 
-- Wolf Empire 
+Availability Unknown 
 

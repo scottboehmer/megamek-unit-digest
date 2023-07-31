@@ -1,10 +1,10 @@
-# ScavengerMech SC-V-M MilitiaMech 
+# Scavenger SC-V-M MilitiaMech 
 
-[Other ScavengerMech variants](../scavengermech.md) 
+[Other Scavenger variants](../scavenger.md) 
 
-## ScavengerMech SC-V-M MilitiaMech 
+## Scavenger SC-V-M MilitiaMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2990) 
 - **Chassis:** 80 tons Quad (Industrial) 
 - **Movement:** 4 / 6, Fuel Cell 

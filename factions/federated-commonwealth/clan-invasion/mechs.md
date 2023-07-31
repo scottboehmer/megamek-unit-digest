@@ -6,7 +6,7 @@
 
 #### [Pompier](../../../units/pompier.md) 
 
-- [**Pompier GM-3A FireMech**](../../../units/pompier/pompier_gm-3a_firemech.md) *Ambusher (3044)* `IndustrialMech` 
+- [**Pompier GM-3A FireMech**](../../../units/pompier/pompier_gm-3a_firemech.md) *Undefined (3044)* `IndustrialMech` 
 - [**Pompier GM-3HT FireMech**](../../../units/pompier/pompier_gm-3ht_firemech.md) *Undefined (3060)* `IndustrialMech` 
 
 ### 20 Tons 

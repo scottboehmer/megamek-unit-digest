@@ -146,10 +146,6 @@
 
 ### 40 Tons 
 
-#### [Araña](../../../units/araña.md) 
-
-- [**Araña ARA-S-1 MilitiaMech**](../../../units/araña/araña_ara-s-1_militiamech.md) *Undefined (3087)* `IndustrialMech` 
-
 #### [Cicada](../../../units/cicada.md) 
 
 - [**Cicada CDA-2A**](../../../units/cicada/cicada_cda-2a.md) *Scout (2740)* 

@@ -15,11 +15,6 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Lift Hoist 
-- **Design Quirks:** 
-  - Stable 
-  - Exposed Actuators 
-  - Gas Hog 
-  - Illegal Design 
 - **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8098) 
 - **Battle Value:** 257 
 

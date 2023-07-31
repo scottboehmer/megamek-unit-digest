@@ -672,9 +672,9 @@
 - [**Manticore Heavy Tank (RAC)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_rac.md) *Brawler (3069)* 
 - [**Manticore Heavy Tank (HPPC)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_hppc.md) *Sniper (3074)* 
 
-#### [Marsden II MBT](../../../units/marsden_ii_mbt.md) 
+#### [Marsden MBT](../../../units/marsden_mbt.md) 
 
-- [**Marsden II MBT II-A (LB-X)**](../../../units/marsden_ii_mbt/marsden_ii_mbt_ii-a_lb-x.md) *Juggernaut (3068)* 
+- [**Marsden MBT II-A (LB-X)**](../../../units/marsden_mbt/marsden_mbt_ii-a_lb-x.md) *Undefined (3068)* 
 
 #### [Morningstar City Command Vehicle](../../../units/morningstar_city_command_vehicle.md) 
 

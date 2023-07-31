@@ -564,18 +564,12 @@
 
 - [**Partisan AA Vehicle**](../../../units/partisan_aa_vehicle/partisan_aa_vehicle.md) *Sniper (3110)* 
 
-#### [SM1 Tank Destroyer](../../../units/sm1_tank_destroyer.md) 
+#### [SM Tank Destroyer](../../../units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](../../../units/sm1_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-- [**SM1 Tank Destroyer (Telos)**](../../../units/sm1_tank_destroyer/sm1_tank_destroyer_telos.md) *Missile Boat (3077)* `ECM` , `Stealth` 
-
-#### [SM1A Tank Destroyer](../../../units/sm1a_tank_destroyer.md) 
-
-- [**SM1A Tank Destroyer SM1A**](../../../units/sm1a_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-
-#### [SM3 Tank Destroyer](../../../units/sm3_tank_destroyer.md) 
-
-- [**SM3 Tank Destroyer SM3**](../../../units/sm3_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM1 Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
+- [**SM1A Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
+- [**SM3 Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM Tank Destroyer SM1 'Telos'**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1_telos.md) *Undefined (3077)* `ECM` , `Stealth` 
 
 #### [Turhan Urban Combat Vehicle](../../../units/turhan_urban_combat_vehicle.md) 
 

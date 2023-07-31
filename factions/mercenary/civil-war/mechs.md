@@ -1063,9 +1063,9 @@
 - [**Salamander PPR-6S**](../../../units/salamander/salamander_ppr-6s.md) *Missile Boat (3058)* 
 - [**Salamander PPR-6T**](../../../units/salamander/salamander_ppr-6t.md) *Missile Boat (3060)* 
 
-#### [ScavengerMech](../../../units/scavengermech.md) 
+#### [Scavenger](../../../units/scavenger.md) 
 
-- [**ScavengerMech SC-V SalvageMech**](../../../units/scavengermech/scavengermech_sc-v_salvagemech.md) *Ambusher (2613)* `IndustrialMech` 
+- [**Scavenger SC-V SalvageMech**](../../../units/scavenger/scavenger_sc-v_salvagemech.md) *Undefined (2613)* `IndustrialMech` 
 
 #### [Spartan](../../../units/spartan.md) 
 

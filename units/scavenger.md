@@ -1,8 +1,8 @@
-# ScavengerMech 
+# Scavenger 
 
-## ScavengerMech SC-V SalvageMech 
+## Scavenger SC-V SalvageMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2613) 
 - **Chassis:** 80 tons Quad (Industrial) 
 - **Movement:** 4 / 6, Fuel Cell 
@@ -17,11 +17,11 @@
   - Liquid Cargo × 2 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4987) 
 - **Battle Value:** 582 
-- [*More Info*](scavengermech/scavengermech_sc-v_salvagemech.md) 
+- [*More Info*](scavenger/scavenger_sc-v_salvagemech.md) 
 
-## ScavengerMech SC-V-M MilitiaMech 
+## Scavenger SC-V-M MilitiaMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2990) 
 - **Chassis:** 80 tons Quad (Industrial) 
 - **Movement:** 4 / 6, Fuel Cell 
@@ -34,5 +34,5 @@
   - Searchlight 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7174) 
 - **Battle Value:** 726 
-- [*More Info*](scavengermech/scavengermech_sc-v-m_militiamech.md) 
+- [*More Info*](scavenger/scavenger_sc-v-m_militiamech.md) 
 

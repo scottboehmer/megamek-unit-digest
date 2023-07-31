@@ -4,7 +4,7 @@
 
 ## Kiso K-3N-KR5 ConstructionMech 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2703) 
 - **Chassis:** 100 tons Quad (Industrial) 
 - **Movement:** 2 / 3 

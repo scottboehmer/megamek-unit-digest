@@ -404,9 +404,9 @@
 
 - [**Rifleman II RFL-3N-2**](../../../units/rifleman_ii/rifleman_ii_rfl-3n-2.md) *Brawler (2720)* `Active Probe` 
 
-#### [ScavengerMech](../../../units/scavengermech.md) 
+#### [Scavenger](../../../units/scavenger.md) 
 
-- [**ScavengerMech SC-V SalvageMech**](../../../units/scavengermech/scavengermech_sc-v_salvagemech.md) *Ambusher (2613)* `IndustrialMech` 
+- [**Scavenger SC-V SalvageMech**](../../../units/scavenger/scavenger_sc-v_salvagemech.md) *Undefined (2613)* `IndustrialMech` 
 
 #### [Spartan](../../../units/spartan.md) 
 

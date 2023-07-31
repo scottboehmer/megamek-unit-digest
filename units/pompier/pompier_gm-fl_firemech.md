@@ -4,7 +4,7 @@
 
 ## Pompier GM-FL FireMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3076) 
 - **Chassis:** 15 tons (Industrial) 
 - **Movement:** 4 / 6 (8) 
@@ -16,10 +16,6 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Supercharger 
-- **Design Quirks:** 
-  - Non-Standard Parts 
-  - Jettison-Capable Weapon (Machine Gun) 
-  - Jettison-Capable Weapon (Machine Gun) 
 - **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5780) 
 - **Battle Value:** 88 
 

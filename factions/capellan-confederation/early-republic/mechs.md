@@ -194,6 +194,10 @@
 
 ### 35 Tons 
 
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [DemolitionMech](../../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM**](../../../units/demolitionmech/demolitionmech_wi-dm.md) *Juggernaut (2513)* `IndustrialMech` 
@@ -246,10 +250,6 @@
 - [**Wight WGT-3SC**](../../../units/wight/wight_wgt-3sc.md) *Brawler (3076)* 
 
 ### 40 Tons 
-
-#### [Araña](../../../units/araña.md) 
-
-- [**Araña ARA-S-1 MilitiaMech**](../../../units/araña/araña_ara-s-1_militiamech.md) *Undefined (3087)* `IndustrialMech` 
 
 #### [Assassin](../../../units/assassin.md) 
 
@@ -711,7 +711,7 @@
 #### [Lumberjack](../../../units/lumberjack.md) 
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
-- [**Lumberjack LM5/M**](../../../units/lumberjack/lumberjack_lm5_m.md) *Missile Boat (3070)* `IndustrialMech` 
+- [**Lumberjack LM5/M MilitiaMech**](../../../units/lumberjack/lumberjack_lm5_m_militiamech.md) *Undefined (3070)* `IndustrialMech` 
 
 #### [MuckRaker](../../../units/muckraker.md) 
 

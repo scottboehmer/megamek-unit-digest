@@ -18,7 +18,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Source:** Operational Turning Points: Fronc Reaches 
+- **Sources:** Operational Turning Points: Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/9356) 
 - **Battle Value:** 55 (498 for 6 suits) 
 
 ## Availability 

@@ -54,7 +54,7 @@
 
 #### [Longinus C Battle Armor](../../../units/longinus_c_battle_armor.md) 
 
-- [**Longinus C Battle Armor (MMR) (Sqd5)**](../../../units/longinus_c_battle_armor/longinus_c_battle_armor_mmr_sqd5.md) *Undefined (3144)* 
+- [**Longinus C Battle Armor (MMR)(Sqd5)**](../../../units/longinus_c_battle_armor/longinus_c_battle_armor_mmrsqd5.md) *Undefined (3144)* 
 
 #### [Salamander Battle Armor](../../../units/salamander_battle_armor.md) 
 

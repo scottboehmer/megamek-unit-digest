@@ -158,10 +158,6 @@
 
 ### 40 Tons 
 
-#### [Araña](../../../units/araña.md) 
-
-- [**Araña ARA-S-1 MilitiaMech**](../../../units/araña/araña_ara-s-1_militiamech.md) *Undefined (3087)* `IndustrialMech` 
-
 #### [Assassin](../../../units/assassin.md) 
 
 - [**Assassin ASN-21**](../../../units/assassin/assassin_asn-21.md) *Scout (2676)* 

@@ -794,6 +794,10 @@
 
 ### 95 Tons 
 
+#### [Albatross](../../../units/albatross.md) 
+
+- [**Albatross C 'Sooty Albatross'**](../../../units/albatross/albatross_c_sooty_albatross.md) *Undefined (3148)* 
+
 #### [Executioner](../../../units/executioner.md) 
 
 - [**Executioner Prime**](../../../units/executioner/executioner_prime.md) *Sniper (3001)* 

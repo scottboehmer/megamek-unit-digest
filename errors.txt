@@ -514,6 +514,8 @@ Starfire SF-1X (Prototype) - The method or operation is not implemented.
 Units without Roles:
 Hoplite HOP-4A
 Gladiator GLD-1R (Keller)
+Kiso K-3N-KR4 ConstructionMech
+Kiso K-3N-KR5 ConstructionMech
 Fwltur FWL-3R SalvageMech
 Fwltur FWL-3V SalvageMech
 Beowulf C
@@ -573,16 +575,23 @@ Space Hound ProspectorMech AM-PRM-SH1
 Dragoon AEM-02
 Dragoon AEM-03
 Dragoon AEM-04
-Arana MilitiaMech ARA-S-1
-Reptar MilitiaMech EPT-C-1
+Arana ARA-S-1 MilitiaMech
+Reptar EPT-C-1 MilitiaMech
 Waneta S-WN-1LAM
 Champion CHP-1Nb2
+Crosscut ED-X2 LoggerMech (RL)
 Mad Cat III 2
 Chameleon TRC-4C
 Marauder Red Hunter
 Shadow Hawk SHD-11CS2
+Albatross ALB-4Ur
+Albatross ALB-5U
+Albatross ALB-5W
+Albatross ALB-6U
+Albatross C 'Sooty Albatross'
 Grand Dragon DRG-1G (Emory)
 Burrower DTM-1 MiningMech
+Carbine CON-9M (Karenna)
 Demeter WLD-1 AgroMech
 Exo HaulerMech HMX-1
 Exo HaulerMech HMX-2
@@ -592,6 +601,7 @@ Harvester HVR-199 AgroMech
 Heavy Forester HFL-1 LoggerMech
 MuckRaker GMMM-2 MiningMech
 Opossum SalvageMech OPO-2
+Pompier GM-4P PoliceMech
 St. Florian FLN-366 FireMech
 St. Florian FLN-366-M FireMech MOD
 StrongArm SC CV ConstructionMech
@@ -604,7 +614,12 @@ Crosscut ED-X4B DemolitionMech
 Crosscut ED-X4D DemolitionMech
 Harvester Ant KIC-3M AgroMech MOD
 Harvester Ant KIC-3M-B AgroMech MOD
-Pompier Firemech GM-3HT
+Lumberjack LM5/M MilitiaMech
+Pompier GM-3A Firemech
+Pompier GM-3CD Firemech
+Pompier GM-3HT Firemech
+Scavenger SC-V SalvageMech
+Scavenger SC-V-M MilitiaMech
 Shugosha PTN-LAW LoaderMech
 Vampyr SC-V-1 SalvageMech
 Bull Shark BSK-M3
@@ -635,8 +650,11 @@ Sun Spider Vanguard
 Talon TLN-5VNO
 Liberator LIB-4T
 Ostscout IIC
+Arbiter ARB-001 SecurityMech
 Ti Ts'ang TSG-9DDC 'Prototype'
+Pompier GM-FL FireMech
 Pathfinder PFF-2T
+Kiso K-3N-KRHQ CommandMech
 Awesome C
 Puma Assault Tank PAT-001
 Puma Assault Tank PAT-002
@@ -678,6 +696,10 @@ BattleMech Recovery Vehicle
 Flatbed Truck
 Heavy BattleMech Recovery Vehicle
 Morningstar City Command Vehicle (HPG)
+Marsden MBT II (Primitive)
+Marsden MBT II-A (LB-X)
+Marsden MBT II-A
+Marsden MBT II
 Aeron Strike VTOL
 Transportable Field Repair Unit JI-100
 Manta Fast Attack Submarine (Support)
@@ -748,6 +770,7 @@ Weapons/Troop Carrier (LRM)
 Jagdpanzer II
 Karnov UR Transport (Heavy Stealth)
 Danai Support Vehicle (Arrow)
+SM Tank Destroyer SM1 'Telos'
 LTV-4 Hover Tank
 Cavalier Battle Armor [MG](Sqd6)
 Clan Medium Battle Armor (Laser) 'Volk' (Sqd6)
@@ -762,10 +785,10 @@ IS Standard Battle Armor (Fa Sure) [MG](Sqd5)
 IS Standard Battle Armor (Fa Sure) [MG](Sqd6)
 Kanazuchi Assault Battle Armor (Support)(Sqd5)
 Kanazuchi Assault Battle Armor (Support)(Sqd6)
-Longinus C Battle Armor [MMR] (Sqd4)
-Longinus C Battle Armor [MMR] (Sqd5)
-Longinus C Battle Armor [PPC] (Sqd4)
-Longinus C Battle Armor [PPC] (Sqd5)
+Longinus C Battle Armor [MMR](Sqd4)
+Longinus C Battle Armor [MMR](Sqd5)
+Longinus C Battle Armor [PPC](Sqd4)
+Longinus C Battle Armor [PPC](Sqd5)
 Rhino Battle Armor (Sqd4)
 Rhino Battle Armor (Sqd5)
 Rhino Battle Armor (Sqd6)
@@ -989,4 +1012,4 @@ Hammerhead HMR-HA
 Starfire SF-1X (Prototype)
 
 --------------------------------------------------
-7181 files -> 7181 parsed files (0 skipped) -> 6959 converted files -> 6945 validated units
+7195 files -> 7195 parsed files (0 skipped) -> 6964 converted files -> 6950 validated units

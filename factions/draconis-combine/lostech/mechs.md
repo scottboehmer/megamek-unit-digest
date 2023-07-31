@@ -401,6 +401,6 @@
 
 #### [Kiso](../../../units/kiso.md) 
 
-- [**Kiso K-3N-KR4 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr4_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
-- [**Kiso K-3N-KR5 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr5_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
+- [**Kiso K-3N-KR4 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr4_constructionmech.md) *Undefined (2703)* `Command Console` , `IndustrialMech` 
+- [**Kiso K-3N-KR5 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr5_constructionmech.md) *Undefined (2703)* `Command Console` , `IndustrialMech` 
 

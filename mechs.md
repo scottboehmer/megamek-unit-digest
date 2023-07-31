@@ -52,11 +52,11 @@
 
 #### [Pompier](units/pompier.md) 
 
-- [**Pompier GM-3A FireMech**](units/pompier/pompier_gm-3a_firemech.md) *Ambusher (3044)* `IndustrialMech` 
+- [**Pompier GM-3A FireMech**](units/pompier/pompier_gm-3a_firemech.md) *Undefined (3044)* `IndustrialMech` 
 - [**Pompier GM-3HT FireMech**](units/pompier/pompier_gm-3ht_firemech.md) *Undefined (3060)* `IndustrialMech` 
-- [**Pompier GM-3CD FireMech**](units/pompier/pompier_gm-3cd_firemech.md) *Scout (3062)* `Active Probe` , `IndustrialMech` 
-- [**Pompier GM-FL FireMech**](units/pompier/pompier_gm-fl_firemech.md) *Ambusher (3076)* `IndustrialMech` , `Unique` 
-- [**Pompier GM-4P PoliceMech**](units/pompier/pompier_gm-4p_policemech.md) *Ambusher (3085)* `IndustrialMech` 
+- [**Pompier GM-3CD FireMech**](units/pompier/pompier_gm-3cd_firemech.md) *Undefined (3062)* `Active Probe` , `IndustrialMech` 
+- [**Pompier GM-FL FireMech**](units/pompier/pompier_gm-fl_firemech.md) *Undefined (3076)* `IndustrialMech` , `Unique` 
+- [**Pompier GM-4P PoliceMech**](units/pompier/pompier_gm-4p_policemech.md) *Undefined (3085)* `IndustrialMech` 
 
 #### [Prey Seeker](units/prey_seeker.md) 
 
@@ -649,7 +649,7 @@
 - [**Carbine CON-7M ConstructionMech MOD**](units/carbine/carbine_con-7m_constructionmech_mod.md) *Ambusher (3078)* `IndustrialMech` 
 - [**Carbine CON-9M ConstructionMech MOD**](units/carbine/carbine_con-9m_constructionmech_mod.md) *Missile Boat (3078)* `IndustrialMech` 
 - [**Carbine CON-9M-B ConstructionMech MOD**](units/carbine/carbine_con-9m-b_constructionmech_mod.md) *Ambusher (3078)* `IndustrialMech` 
-- [**Carbine CON-9M Karenna**](units/carbine/carbine_con-9m_karenna.md) *Sniper (3131)* `IndustrialMech` , `Unique` 
+- [**Carbine CON-9M (Karenna)**](units/carbine/carbine_con-9m_karenna.md) *Undefined (3131)* `IndustrialMech` , `Unique` 
 - [**Carbine CON-9M-D ConstructionMech MOD**](units/carbine/carbine_con-9m-d_constructionmech_mod.md) *Ambusher (3133)* `IndustrialMech` 
 - [**Carbine CON-9M-J ConstructionMech MOD**](units/carbine/carbine_con-9m-j_constructionmech_mod.md) *Ambusher (3145)* `IndustrialMech` 
 - [**Carbine CON-9M-JB ConstructionMech MOD**](units/carbine/carbine_con-9m-jb_constructionmech_mod.md) *Ambusher (3145)* `IndustrialMech` 
@@ -672,7 +672,7 @@
 - [**Crosscut ED-X4K LoggerMech**](units/crosscut/crosscut_ed-x4k_loggermech.md) *Ambusher (2786)* `IndustrialMech` 
 - [**Crosscut ED-X2M LoggerMech MOD**](units/crosscut/crosscut_ed-x2m_loggermech_mod.md) *Undefined (2801)* `IndustrialMech` 
 - [**Crosscut ED-X2 (Flamer)**](units/crosscut/crosscut_ed-x2_flamer.md) *Ambusher (2810)* `IndustrialMech` 
-- [**Crosscut ED-X2 (RL)**](units/crosscut/crosscut_ed-x2_rl.md) *Ambusher (2810)* `IndustrialMech` 
+- [**Crosscut ED-X2 LoggerMech (RL)**](units/crosscut/crosscut_ed-x2_loggermech_rl.md) *Undefined (2810)* `IndustrialMech` 
 - [**Crosscut ED-X4 LoggerMech**](units/crosscut/crosscut_ed-x4_loggermech.md) *Ambusher (2876)* `IndustrialMech` 
 - [**Crosscut ED-X4X LoggerMech**](units/crosscut/crosscut_ed-x4x_loggermech.md) *Ambusher (2901)* `IndustrialMech` 
 - [**Crosscut ED-X4D DemolitionMech**](units/crosscut/crosscut_ed-x4d_demolitionmech.md) *Undefined (2910)* `IndustrialMech` 
@@ -1077,7 +1077,7 @@
 
 #### [Arbiter](units/arbiter.md) 
 
-- [**Arbiter ARB-001 SecurityMech**](units/arbiter/arbiter_arb-001_securitymech.md) *Sniper (3074)* `IndustrialMech` 
+- [**Arbiter ARB-001 SecurityMech**](units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
 
 #### [Arion](units/arion.md) 
 
@@ -4376,7 +4376,7 @@
 
 - [**Lumberjack LM4/C**](units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
 - [**Lumberjack LM4/P**](units/lumberjack/lumberjack_lm4_p.md) *Missile Boat (2811)* `IndustrialMech` 
-- [**Lumberjack LM5/M**](units/lumberjack/lumberjack_lm5_m.md) *Missile Boat (3070)* `IndustrialMech` 
+- [**Lumberjack LM5/M MilitiaMech**](units/lumberjack/lumberjack_lm5_m_militiamech.md) *Undefined (3070)* `IndustrialMech` 
 
 #### [Mangonel](units/mangonel.md) 
 
@@ -5165,10 +5165,10 @@
 - [**Salamander PPR-7S**](units/salamander/salamander_ppr-7s.md) *Missile Boat (3064)* 
 - [**Salamander PPR-7T**](units/salamander/salamander_ppr-7t.md) *Missile Boat (3111)* `C3 Support` 
 
-#### [ScavengerMech](units/scavengermech.md) 
+#### [Scavenger](units/scavenger.md) 
 
-- [**ScavengerMech SC-V SalvageMech**](units/scavengermech/scavengermech_sc-v_salvagemech.md) *Ambusher (2613)* `IndustrialMech` 
-- [**ScavengerMech SC-V-M MilitiaMech**](units/scavengermech/scavengermech_sc-v-m_militiamech.md) *Ambusher (2990)* `IndustrialMech` 
+- [**Scavenger SC-V SalvageMech**](units/scavenger/scavenger_sc-v_salvagemech.md) *Undefined (2613)* `IndustrialMech` 
+- [**Scavenger SC-V-M MilitiaMech**](units/scavenger/scavenger_sc-v-m_militiamech.md) *Undefined (2990)* `IndustrialMech` 
 
 #### [Spartan](units/spartan.md) 
 
@@ -5788,8 +5788,13 @@
 
 - [**Albatross ALB-3U**](units/albatross/albatross_alb-3u.md) *Brawler (3053)* 
 - [**Albatross ALB-4U**](units/albatross/albatross_alb-4u.md) *Brawler (3063)* 
+- [**Albatross ALB-5W**](units/albatross/albatross_alb-5w.md) *Undefined (3070)* `ECM` 
 - [**Albatross ALB-5W (Dantalion)**](units/albatross/albatross_alb-5w_dantalion.md) *Brawler (3073)* `ECM` , `Unique` 
 - [**Albatross ALB-3Ur**](units/albatross/albatross_alb-3ur.md) *Brawler (3076)* 
+- [**Albatross ALB-5U**](units/albatross/albatross_alb-5u.md) *Undefined (3091)* 
+- [**Albatross ALB-4Ur**](units/albatross/albatross_alb-4ur.md) *Undefined (3103)* 
+- [**Albatross ALB-6U**](units/albatross/albatross_alb-6u.md) *Undefined (3118)* 
+- [**Albatross C 'Sooty Albatross'**](units/albatross/albatross_c_sooty_albatross.md) *Undefined (3148)* 
 
 #### [Banshee](units/banshee.md) 
 
@@ -6184,9 +6189,9 @@
 
 #### [Kiso](units/kiso.md) 
 
-- [**Kiso K-3N-KR4 ConstructionMech**](units/kiso/kiso_k-3n-kr4_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
-- [**Kiso K-3N-KR5 ConstructionMech**](units/kiso/kiso_k-3n-kr5_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
-- [**Kiso K-3N-KRHQ CommandMech**](units/kiso/kiso_k-3n-krhq_commandmech.md) *Juggernaut (2823)* `Collapsible Command Module` , `Command Console` , `IndustrialMech` 
+- [**Kiso K-3N-KR4 ConstructionMech**](units/kiso/kiso_k-3n-kr4_constructionmech.md) *Undefined (2703)* `Command Console` , `IndustrialMech` 
+- [**Kiso K-3N-KR5 ConstructionMech**](units/kiso/kiso_k-3n-kr5_constructionmech.md) *Undefined (2703)* `Command Console` , `IndustrialMech` 
+- [**Kiso K-3N-KRHQ CommandMech**](units/kiso/kiso_k-3n-krhq_commandmech.md) *Undefined (2823)* `Collapsible Command Module` , `Command Console` , `IndustrialMech` 
 
 #### [Kodiak](units/kodiak.md) 
 

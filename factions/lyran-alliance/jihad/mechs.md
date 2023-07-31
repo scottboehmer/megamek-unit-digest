@@ -232,6 +232,10 @@
 - [**Adder E**](../../../units/adder/adder_e.md) *Sniper (3060)* 
 - [**Adder J**](../../../units/adder/adder_j.md) *Sniper (3070)* 
 
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [Falcon Hawk](../../../units/falcon_hawk.md) 
 
 - [**Falcon Hawk FNHK-9K**](../../../units/falcon_hawk/falcon_hawk_fnhk-9k.md) *Brawler (3057)* 
@@ -905,7 +909,7 @@
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
 - [**Lumberjack LM4/P**](../../../units/lumberjack/lumberjack_lm4_p.md) *Missile Boat (2811)* `IndustrialMech` 
-- [**Lumberjack LM5/M**](../../../units/lumberjack/lumberjack_lm5_m.md) *Missile Boat (3070)* `IndustrialMech` 
+- [**Lumberjack LM5/M MilitiaMech**](../../../units/lumberjack/lumberjack_lm5_m_militiamech.md) *Undefined (3070)* `IndustrialMech` 
 
 #### [MuckRaker](../../../units/muckraker.md) 
 

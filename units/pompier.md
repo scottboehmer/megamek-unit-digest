@@ -2,7 +2,7 @@
 
 ## Pompier GM-3A FireMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3044) 
 - **Chassis:** 15 tons (Industrial) 
 - **Movement:** 2 / 3, Fuel Cell 
@@ -37,7 +37,7 @@
 
 ## Pompier GM-3CD FireMech 
 
-- **Role:** Scout 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3062) 
 - **Chassis:** 15 tons (Industrial) 
 - **Movement:** 2 / 3, Fuel Cell 
@@ -55,7 +55,7 @@
 
 ## Pompier GM-FL FireMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3076) 
 - **Chassis:** 15 tons (Industrial) 
 - **Movement:** 4 / 6 (8) 
@@ -67,17 +67,13 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Equipment:** 
   - Supercharger 
-- **Design Quirks:** 
-  - Non-Standard Parts 
-  - Jettison-Capable Weapon (Machine Gun) 
-  - Jettison-Capable Weapon (Machine Gun) 
 - **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5780) 
 - **Battle Value:** 88 
 - [*More Info*](pompier/pompier_gm-fl_firemech.md) 
 
 ## Pompier GM-4P PoliceMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3085) 
 - **Chassis:** 15 tons (Industrial) 
 - **Movement:** 3 / 5 

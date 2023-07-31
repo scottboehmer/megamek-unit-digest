@@ -352,9 +352,9 @@
 - [**LRM Carrier**](../../../units/lrm_carrier/lrm_carrier.md) *Missile Boat (2470)* 
 - [**LRM Carrier C**](../../../units/lrm_carrier/lrm_carrier_c.md) *Ambusher (3106)* 
 
-#### [Marsden II MBT](../../../units/marsden_ii_mbt.md) 
+#### [Marsden MBT](../../../units/marsden_mbt.md) 
 
-- [**Marsden II MBT II-A (LB-X)**](../../../units/marsden_ii_mbt/marsden_ii_mbt_ii-a_lb-x.md) *Juggernaut (3068)* 
+- [**Marsden MBT II-A (LB-X)**](../../../units/marsden_mbt/marsden_mbt_ii-a_lb-x.md) *Undefined (3068)* 
 
 #### [Mortar Carrier](../../../units/mortar_carrier.md) 
 

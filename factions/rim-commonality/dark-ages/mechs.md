@@ -186,6 +186,10 @@
 
 ### 35 Tons 
 
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [Cougar](../../../units/cougar.md) 
 
 - [**Cougar Prime**](../../../units/cougar/cougar_prime.md) *Sniper (3058)* 
@@ -693,7 +697,7 @@
 #### [Lumberjack](../../../units/lumberjack.md) 
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
-- [**Lumberjack LM5/M**](../../../units/lumberjack/lumberjack_lm5_m.md) *Missile Boat (3070)* `IndustrialMech` 
+- [**Lumberjack LM5/M MilitiaMech**](../../../units/lumberjack/lumberjack_lm5_m_militiamech.md) *Undefined (3070)* `IndustrialMech` 
 
 #### [MuckRaker](../../../units/muckraker.md) 
 
@@ -861,6 +865,7 @@
 
 - [**Albatross ALB-3U**](../../../units/albatross/albatross_alb-3u.md) *Brawler (3053)* 
 - [**Albatross ALB-3Ur**](../../../units/albatross/albatross_alb-3ur.md) *Brawler (3076)* 
+- [**Albatross ALB-5U**](../../../units/albatross/albatross_alb-5u.md) *Undefined (3091)* 
 
 #### [Banshee](../../../units/banshee.md) 
 

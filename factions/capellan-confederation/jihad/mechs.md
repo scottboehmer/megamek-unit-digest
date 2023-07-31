@@ -204,6 +204,10 @@
 - [**Adder E**](../../../units/adder/adder_e.md) *Sniper (3060)* 
 - [**Adder J**](../../../units/adder/adder_j.md) *Sniper (3070)* 
 
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [DemolitionMech](../../../units/demolitionmech.md) 
 
 - [**DemolitionMech WI-DM**](../../../units/demolitionmech/demolitionmech_wi-dm.md) *Juggernaut (2513)* `IndustrialMech` 
@@ -271,10 +275,6 @@
 - [**Wight WGT-3SC**](../../../units/wight/wight_wgt-3sc.md) *Brawler (3076)* 
 
 ### 40 Tons 
-
-#### [Araña](../../../units/araña.md) 
-
-- [**Araña ARA-S-1 MilitiaMech**](../../../units/araña/araña_ara-s-1_militiamech.md) *Undefined (3087)* `IndustrialMech` 
 
 #### [Assassin](../../../units/assassin.md) 
 

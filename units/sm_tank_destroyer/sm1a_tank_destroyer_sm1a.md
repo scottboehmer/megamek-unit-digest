@@ -1,6 +1,6 @@
-# SM1A Tank Destroyer SM1A 
+# SM Tank Destroyer SM1A 
 
-[Other SM1A Tank Destroyer variants](../sm1a_tank_destroyer.md) 
+[Other SM Tank Destroyer variants](../sm_tank_destroyer.md) 
 
 ## SM1A Tank Destroyer SM1A 
 

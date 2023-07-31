@@ -277,6 +277,10 @@
 
 ### 35 Tons 
 
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [Cougar](../../../units/cougar.md) 
 
 - [**Cougar Prime**](../../../units/cougar/cougar_prime.md) *Sniper (3058)* 
@@ -1017,7 +1021,7 @@
 #### [Lumberjack](../../../units/lumberjack.md) 
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
-- [**Lumberjack LM5/M**](../../../units/lumberjack/lumberjack_lm5_m.md) *Missile Boat (3070)* `IndustrialMech` 
+- [**Lumberjack LM5/M MilitiaMech**](../../../units/lumberjack/lumberjack_lm5_m_militiamech.md) *Undefined (3070)* `IndustrialMech` 
 
 #### [MuckRaker](../../../units/muckraker.md) 
 
@@ -1377,8 +1381,8 @@
 
 #### [Kiso](../../../units/kiso.md) 
 
-- [**Kiso K-3N-KR4 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr4_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
-- [**Kiso K-3N-KR5 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr5_constructionmech.md) *Juggernaut (2703)* `Command Console` , `IndustrialMech` 
+- [**Kiso K-3N-KR4 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr4_constructionmech.md) *Undefined (2703)* `Command Console` , `IndustrialMech` 
+- [**Kiso K-3N-KR5 ConstructionMech**](../../../units/kiso/kiso_k-3n-kr5_constructionmech.md) *Undefined (2703)* `Command Console` , `IndustrialMech` 
 
 #### [Marauder II](../../../units/marauder_ii.md) 
 

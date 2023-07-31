@@ -217,6 +217,10 @@
 - [**Adder E**](../../../units/adder/adder_e.md) *Sniper (3060)* 
 - [**Adder J**](../../../units/adder/adder_j.md) *Sniper (3070)* 
 
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [Falcon Hawk](../../../units/falcon_hawk.md) 
 
 - [**Falcon Hawk FNHK-9K1A**](../../../units/falcon_hawk/falcon_hawk_fnhk-9k1a.md) *Brawler (3057)* 

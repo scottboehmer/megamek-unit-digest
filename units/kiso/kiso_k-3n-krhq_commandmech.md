@@ -4,7 +4,7 @@
 
 ## Kiso K-3N-KRHQ CommandMech 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2823) 
 - **Chassis:** 100 tons Quad (Industrial) 
 - **Movement:** 2 / 3 
@@ -19,10 +19,6 @@
   - Lift Hoist 
   - Collapsible Command Module 
   - Cargo Container × 2 
-- **Design Quirks:** 
-  - Improved Communications 
-  - Non-Standard Parts 
-  - Stable 
 - **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5773) 
 - **Battle Value:** 940 
 

@@ -24,7 +24,7 @@
 
 #### [Pompier](../../../units/pompier.md) 
 
-- [**Pompier GM-4P PoliceMech**](../../../units/pompier/pompier_gm-4p_policemech.md) *Ambusher (3085)* `IndustrialMech` 
+- [**Pompier GM-4P PoliceMech**](../../../units/pompier/pompier_gm-4p_policemech.md) *Undefined (3085)* `IndustrialMech` 
 
 ### 20 Tons 
 
@@ -123,7 +123,7 @@
 - [**Carbine CON-7M ConstructionMech MOD**](../../../units/carbine/carbine_con-7m_constructionmech_mod.md) *Ambusher (3078)* `IndustrialMech` 
 - [**Carbine CON-9M ConstructionMech MOD**](../../../units/carbine/carbine_con-9m_constructionmech_mod.md) *Missile Boat (3078)* `IndustrialMech` 
 - [**Carbine CON-9M-B ConstructionMech MOD**](../../../units/carbine/carbine_con-9m-b_constructionmech_mod.md) *Ambusher (3078)* `IndustrialMech` 
-- [**Carbine CON-9M Karenna**](../../../units/carbine/carbine_con-9m_karenna.md) *Sniper (3131)* `IndustrialMech` , `Unique` 
+- [**Carbine CON-9M (Karenna)**](../../../units/carbine/carbine_con-9m_karenna.md) *Undefined (3131)* `IndustrialMech` , `Unique` 
 - [**Carbine CON-9M-D ConstructionMech MOD**](../../../units/carbine/carbine_con-9m-d_constructionmech_mod.md) *Ambusher (3133)* `IndustrialMech` 
 - [**Carbine CON-9M-J ConstructionMech MOD**](../../../units/carbine/carbine_con-9m-j_constructionmech_mod.md) *Ambusher (3145)* `IndustrialMech` 
 - [**Carbine CON-9M-JB ConstructionMech MOD**](../../../units/carbine/carbine_con-9m-jb_constructionmech_mod.md) *Ambusher (3145)* `IndustrialMech` 
@@ -525,7 +525,7 @@
 #### [Lumberjack](../../../units/lumberjack.md) 
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
-- [**Lumberjack LM5/M**](../../../units/lumberjack/lumberjack_lm5_m.md) *Missile Boat (3070)* `IndustrialMech` 
+- [**Lumberjack LM5/M MilitiaMech**](../../../units/lumberjack/lumberjack_lm5_m_militiamech.md) *Undefined (3070)* `IndustrialMech` 
 
 #### [MuckRaker](../../../units/muckraker.md) 
 

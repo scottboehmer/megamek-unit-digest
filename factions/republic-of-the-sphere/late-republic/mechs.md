@@ -31,7 +31,7 @@
 
 #### [Pompier](../../../units/pompier.md) 
 
-- [**Pompier GM-4P PoliceMech**](../../../units/pompier/pompier_gm-4p_policemech.md) *Ambusher (3085)* `IndustrialMech` 
+- [**Pompier GM-4P PoliceMech**](../../../units/pompier/pompier_gm-4p_policemech.md) *Undefined (3085)* `IndustrialMech` 
 
 ### 20 Tons 
 
@@ -325,6 +325,10 @@
 - [**Adder E**](../../../units/adder/adder_e.md) *Sniper (3060)* 
 - [**Adder J**](../../../units/adder/adder_j.md) *Sniper (3070)* 
 - [**Adder I**](../../../units/adder/adder_i.md) *Striker (3125)* 
+
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
 
 #### [Blade](../../../units/blade.md) 
 
@@ -1274,7 +1278,7 @@
 #### [Lumberjack](../../../units/lumberjack.md) 
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
-- [**Lumberjack LM5/M**](../../../units/lumberjack/lumberjack_lm5_m.md) *Missile Boat (3070)* `IndustrialMech` 
+- [**Lumberjack LM5/M MilitiaMech**](../../../units/lumberjack/lumberjack_lm5_m_militiamech.md) *Undefined (3070)* `IndustrialMech` 
 
 #### [Mangonel](../../../units/mangonel.md) 
 

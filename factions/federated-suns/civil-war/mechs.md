@@ -6,9 +6,9 @@
 
 #### [Pompier](../../../units/pompier.md) 
 
-- [**Pompier GM-3A FireMech**](../../../units/pompier/pompier_gm-3a_firemech.md) *Ambusher (3044)* `IndustrialMech` 
+- [**Pompier GM-3A FireMech**](../../../units/pompier/pompier_gm-3a_firemech.md) *Undefined (3044)* `IndustrialMech` 
 - [**Pompier GM-3HT FireMech**](../../../units/pompier/pompier_gm-3ht_firemech.md) *Undefined (3060)* `IndustrialMech` 
-- [**Pompier GM-3CD FireMech**](../../../units/pompier/pompier_gm-3cd_firemech.md) *Scout (3062)* `Active Probe` , `IndustrialMech` 
+- [**Pompier GM-3CD FireMech**](../../../units/pompier/pompier_gm-3cd_firemech.md) *Undefined (3062)* `Active Probe` , `IndustrialMech` 
 
 ### 20 Tons 
 

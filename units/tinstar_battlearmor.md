@@ -96,7 +96,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Source:** Operational Turning Points: Fronc Reaches 
+- **Sources:** Operational Turning Points: Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/9355) 
 - **Battle Value:** 55 (387 for 5 suits) 
 - [*More Info*](tinstar_battlearmor/tinstar_battlearmor_sqd5.md) 
 
@@ -116,7 +116,7 @@
 - **Equipment:** 
   - Magnetic Clamps 
   - Anti-Personnel Mount 
-- **Source:** Operational Turning Points: Fronc Reaches 
+- **Sources:** Operational Turning Points: Fronc Reaches , [Master Unit List](http://masterunitlist.info/Unit/Details/9356) 
 - **Battle Value:** 55 (498 for 6 suits) 
 - [*More Info*](tinstar_battlearmor/tinstar_battlearmor_sqd6.md) 
 

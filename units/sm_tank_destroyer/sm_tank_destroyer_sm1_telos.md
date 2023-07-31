@@ -1,10 +1,10 @@
-# SM1 Tank Destroyer (Telos) 
+# SM Tank Destroyer SM1 'Telos' 
 
-[Other SM1 Tank Destroyer variants](../sm1_tank_destroyer.md) 
+[Other SM Tank Destroyer variants](../sm_tank_destroyer.md) 
 
-## SM1 Tank Destroyer (Telos) 
+## SM Tank Destroyer SM1 'Telos' 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3077) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 8 / 12, Fusion 

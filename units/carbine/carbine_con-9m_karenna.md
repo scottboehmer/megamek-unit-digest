@@ -1,10 +1,10 @@
-# Carbine CON-9M Karenna 
+# Carbine CON-9M (Karenna) 
 
 [Other Carbine variants](../carbine.md) 
 
-## Carbine CON-9M Karenna 
+## Carbine CON-9M (Karenna) 
 
-- **Role:** Sniper 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3131) 
 - **Chassis:** 30 tons (Industrial) 
 - **Movement:** 3 / 5, ICE 

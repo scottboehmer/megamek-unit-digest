@@ -57,7 +57,7 @@
 - [**Crosscut ED-X2 LoggerMech**](../../../units/crosscut/crosscut_ed-x2_loggermech.md) *Ambusher (2715)* `IndustrialMech` 
 - [**Crosscut ED-X2M LoggerMech MOD**](../../../units/crosscut/crosscut_ed-x2m_loggermech_mod.md) *Undefined (2801)* `IndustrialMech` 
 - [**Crosscut ED-X2 (Flamer)**](../../../units/crosscut/crosscut_ed-x2_flamer.md) *Ambusher (2810)* `IndustrialMech` 
-- [**Crosscut ED-X2 (RL)**](../../../units/crosscut/crosscut_ed-x2_rl.md) *Ambusher (2810)* `IndustrialMech` 
+- [**Crosscut ED-X2 LoggerMech (RL)**](../../../units/crosscut/crosscut_ed-x2_loggermech_rl.md) *Undefined (2810)* `IndustrialMech` 
 
 ### 35 Tons 
 
@@ -216,9 +216,9 @@
 
 - [**Goliath GOL-1H**](../../../units/goliath/goliath_gol-1h.md) *Sniper (2652)* 
 
-#### [ScavengerMech](../../../units/scavengermech.md) 
+#### [Scavenger](../../../units/scavenger.md) 
 
-- [**ScavengerMech SC-V SalvageMech**](../../../units/scavengermech/scavengermech_sc-v_salvagemech.md) *Ambusher (2613)* `IndustrialMech` 
+- [**Scavenger SC-V SalvageMech**](../../../units/scavenger/scavenger_sc-v_salvagemech.md) *Undefined (2613)* `IndustrialMech` 
 
 #### [Striker](../../../units/striker.md) 
 

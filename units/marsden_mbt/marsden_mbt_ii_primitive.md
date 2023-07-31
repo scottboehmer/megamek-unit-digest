@@ -1,10 +1,10 @@
-# Marsden II MBT II (Primitive) 
+# Marsden MBT II (Primitive) 
 
-[Other Marsden II MBT variants](../marsden_ii_mbt.md) 
+[Other Marsden MBT variants](../marsden_mbt.md) 
 
-## Marsden II MBT II (Primitive) 
+## Marsden MBT II (Primitive) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2463) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 3 / 5, ICE 

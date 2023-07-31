@@ -2,7 +2,7 @@
 
 ## Kiso K-3N-KR4 ConstructionMech 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2703) 
 - **Chassis:** 100 tons Quad (Industrial) 
 - **Movement:** 2 / 3 
@@ -23,7 +23,7 @@
 
 ## Kiso K-3N-KR5 ConstructionMech 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2703) 
 - **Chassis:** 100 tons Quad (Industrial) 
 - **Movement:** 2 / 3 
@@ -44,7 +44,7 @@
 
 ## Kiso K-3N-KRHQ CommandMech 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2823) 
 - **Chassis:** 100 tons Quad (Industrial) 
 - **Movement:** 2 / 3 
@@ -59,10 +59,6 @@
   - Lift Hoist 
   - Collapsible Command Module 
   - Cargo Container × 2 
-- **Design Quirks:** 
-  - Improved Communications 
-  - Non-Standard Parts 
-  - Stable 
 - **Sources:** XTR: Succession Wars , [Master Unit List](http://masterunitlist.info/Unit/Details/5773) 
 - **Battle Value:** 940 
 - [*More Info*](kiso/kiso_k-3n-krhq_commandmech.md) 

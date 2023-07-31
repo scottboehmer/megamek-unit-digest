@@ -658,6 +658,12 @@
 - [**Star Adder (Blood Asp) T**](../../../units/star_adder_blood_asp/star_adder_blood_asp_t.md) *Brawler (3142)* 
 - [**Star Adder (Blood Asp) I**](../../../units/star_adder_blood_asp/star_adder_blood_asp_i.md) *Brawler (3148)* 
 
+### 95 Tons 
+
+#### [Albatross](../../../units/albatross.md) 
+
+- [**Albatross C 'Sooty Albatross'**](../../../units/albatross/albatross_c_sooty_albatross.md) *Undefined (3148)* 
+
 ### 100 Tons 
 
 #### [Amarok](../../../units/amarok.md) 

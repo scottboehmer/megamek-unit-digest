@@ -105,6 +105,10 @@
 
 ### 35 Tons 
 
+#### [Arbiter](../../../units/arbiter.md) 
+
+- [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
 #### [Firebee](../../../units/firebee.md) 
 
 - [**Firebee FRB-1E (WAM-B)**](../../../units/firebee/firebee_frb-1e_wam-b.md) *Brawler (2483)* 

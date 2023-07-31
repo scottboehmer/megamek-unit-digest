@@ -1,8 +1,8 @@
-# Marsden II MBT 
+# Marsden MBT 
 
-## Marsden II MBT II (Primitive) 
+## Marsden MBT II (Primitive) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2463) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -14,11 +14,11 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2085) 
 - **Battle Value:** 762 
-- [*More Info*](marsden_ii_mbt/marsden_ii_mbt_ii_primitive.md) 
+- [*More Info*](marsden_mbt/marsden_mbt_ii_primitive.md) 
 
-## Marsden II MBT 
+## Marsden MBT II 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2473) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -30,11 +30,11 @@
   - Machine Gun × 2 (ammo: 100) 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2084) 
 - **Battle Value:** 984 
-- [*More Info*](marsden_ii_mbt/marsden_ii_mbt.md) 
+- [*More Info*](marsden_mbt/marsden_mbt_ii.md) 
 
-## Marsden II MBT II-A 
+## Marsden MBT II-A 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2482) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -46,11 +46,11 @@
   - Machine Gun (ammo: 100) 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2086) 
 - **Battle Value:** 980 
-- [*More Info*](marsden_ii_mbt/marsden_ii_mbt_ii-a.md) 
+- [*More Info*](marsden_mbt/marsden_mbt_ii-a.md) 
 
-## Marsden II MBT II-A (LB-X) 
+## Marsden MBT II-A (LB-X) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3068) 
 - **Chassis:** 60 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -62,5 +62,5 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2087) 
 - **Battle Value:** 1013 
-- [*More Info*](marsden_ii_mbt/marsden_ii_mbt_ii-a_lb-x.md) 
+- [*More Info*](marsden_mbt/marsden_mbt_ii-a_lb-x.md) 
 

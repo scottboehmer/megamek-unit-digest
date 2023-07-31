@@ -293,10 +293,10 @@
 
 - [**Manticore Heavy Tank**](../../../units/manticore_heavy_tank/manticore_heavy_tank.md) *Brawler (2575)* 
 
-#### [Marsden II MBT](../../../units/marsden_ii_mbt.md) 
+#### [Marsden MBT](../../../units/marsden_mbt.md) 
 
-- [**Marsden II MBT**](../../../units/marsden_ii_mbt/marsden_ii_mbt.md) *Juggernaut (2473)* 
-- [**Marsden II MBT II-A**](../../../units/marsden_ii_mbt/marsden_ii_mbt_ii-a.md) *Juggernaut (2482)* 
+- [**Marsden MBT II**](../../../units/marsden_mbt/marsden_mbt_ii.md) *Undefined (2473)* 
+- [**Marsden MBT II-A**](../../../units/marsden_mbt/marsden_mbt_ii-a.md) *Undefined (2482)* 
 
 #### [SRM Carrier](../../../units/srm_carrier.md) 
 

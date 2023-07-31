@@ -714,9 +714,9 @@
 - [**Manticore Heavy Tank (HPPC)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_hppc.md) *Sniper (3074)* 
 - [**Manticore Heavy Tank (XL)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_xl.md) *Undefined (3117)* 
 
-#### [Marsden II MBT](../../../units/marsden_ii_mbt.md) 
+#### [Marsden MBT](../../../units/marsden_mbt.md) 
 
-- [**Marsden II MBT II-A (LB-X)**](../../../units/marsden_ii_mbt/marsden_ii_mbt_ii-a_lb-x.md) *Juggernaut (3068)* 
+- [**Marsden MBT II-A (LB-X)**](../../../units/marsden_mbt/marsden_mbt_ii-a_lb-x.md) *Undefined (3068)* 
 
 #### [MHI Defense AA Tank](../../../units/mhi_defense_aa_tank.md) 
 

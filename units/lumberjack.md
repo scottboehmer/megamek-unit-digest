@@ -57,9 +57,9 @@
 - **Battle Value:** 651 
 - [*More Info*](lumberjack/lumberjack_lm4_p.md) 
 
-## Lumberjack LM5/M 
+## Lumberjack LM5/M MilitiaMech 
 
-- **Role:** Missile Boat 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3070) 
 - **Chassis:** 70 tons (Industrial) 
 - **Movement:** 3 / 5 
@@ -72,5 +72,5 @@
   - Medium Laser × 2 
 - **Sources:** Record Sheets: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/7177) 
 - **Battle Value:** 1360 
-- [*More Info*](lumberjack/lumberjack_lm5_m.md) 
+- [*More Info*](lumberjack/lumberjack_lm5_m_militiamech.md) 
 

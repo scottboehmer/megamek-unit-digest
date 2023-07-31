@@ -204,21 +204,12 @@
 - [**Maxim Heavy Hover Transport (C3S)**](../../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_c3s.md) *Striker (3068)* `C3 Support` , `TAG` , `Transport:4.0` 
 - [**Maxim Heavy Hover Transport (Escort)**](../../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport_escort.md) *Striker (3101)* 
 
-#### [SM1 Tank Destroyer](../../../units/sm1_tank_destroyer.md) 
+#### [SM Tank Destroyer](../../../units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](../../../units/sm1_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-
-#### [SM1A Tank Destroyer](../../../units/sm1a_tank_destroyer.md) 
-
-- [**SM1A Tank Destroyer SM1A**](../../../units/sm1a_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-
-#### [SM3 Tank Destroyer](../../../units/sm3_tank_destroyer.md) 
-
-- [**SM3 Tank Destroyer SM3**](../../../units/sm3_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
-
-#### [SM5 Field Commander](../../../units/sm5_field_commander.md) 
-
-- [**SM5 Field Commander Prime**](../../../units/sm5_field_commander/sm5_field_commander_prime.md) *Striker (3151)* `Unique` 
+- [**SM1 Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
+- [**SM1A Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
+- [**SM3 Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM5 Field Commander Prime**](../../../units/sm_tank_destroyer/sm5_field_commander_prime.md) *Striker (3151)* `Unique` 
 
 ### 70 Tons 
 

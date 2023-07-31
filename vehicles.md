@@ -1399,22 +1399,13 @@
 - [**Sleipnir APC Tank**](units/sleipnir_apc_tank/sleipnir_apc_tank.md) *Brawler (3002)* `Transport:4.0` 
 - [**Sleipnir APC Tank (SRM)**](units/sleipnir_apc_tank/sleipnir_apc_tank_srm.md) *Brawler (3004)* `Transport:4.0` 
 
-#### [SM1 Tank Destroyer](units/sm1_tank_destroyer.md) 
+#### [SM Tank Destroyer](units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](units/sm1_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-- [**SM1 Tank Destroyer (Telos)**](units/sm1_tank_destroyer/sm1_tank_destroyer_telos.md) *Missile Boat (3077)* `ECM` , `Stealth` 
-
-#### [SM1A Tank Destroyer](units/sm1a_tank_destroyer.md) 
-
-- [**SM1A Tank Destroyer SM1A**](units/sm1a_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-
-#### [SM3 Tank Destroyer](units/sm3_tank_destroyer.md) 
-
-- [**SM3 Tank Destroyer SM3**](units/sm3_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
-
-#### [SM5 Field Commander](units/sm5_field_commander.md) 
-
-- [**SM5 Field Commander Prime**](units/sm5_field_commander/sm5_field_commander_prime.md) *Striker (3151)* `Unique` 
+- [**SM1 Tank Destroyer SM1**](units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
+- [**SM1A Tank Destroyer SM1A**](units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
+- [**SM3 Tank Destroyer SM3**](units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM Tank Destroyer SM1 'Telos'**](units/sm_tank_destroyer/sm_tank_destroyer_sm1_telos.md) *Undefined (3077)* `ECM` , `Stealth` 
+- [**SM5 Field Commander Prime**](units/sm_tank_destroyer/sm5_field_commander_prime.md) *Striker (3151)* `Unique` 
 
 #### [Sokar Urban Combat Unit](units/sokar_urban_combat_unit.md) 
 
@@ -1596,12 +1587,12 @@
 - [**Manticore Heavy Tank 'The Ballista'**](units/manticore_heavy_tank/manticore_heavy_tank_the_ballista.md) *Missile Boat (3076)* `C3 Support` , `Unique` 
 - [**Manticore Heavy Tank (XL)**](units/manticore_heavy_tank/manticore_heavy_tank_xl.md) *Undefined (3117)* 
 
-#### [Marsden II MBT](units/marsden_ii_mbt.md) 
+#### [Marsden MBT](units/marsden_mbt.md) 
 
-- [**Marsden II MBT II (Primitive)**](units/marsden_ii_mbt/marsden_ii_mbt_ii_primitive.md) *Juggernaut (2463)* 
-- [**Marsden II MBT**](units/marsden_ii_mbt/marsden_ii_mbt.md) *Juggernaut (2473)* 
-- [**Marsden II MBT II-A**](units/marsden_ii_mbt/marsden_ii_mbt_ii-a.md) *Juggernaut (2482)* 
-- [**Marsden II MBT II-A (LB-X)**](units/marsden_ii_mbt/marsden_ii_mbt_ii-a_lb-x.md) *Juggernaut (3068)* 
+- [**Marsden MBT II (Primitive)**](units/marsden_mbt/marsden_mbt_ii_primitive.md) *Undefined (2463)* 
+- [**Marsden MBT II**](units/marsden_mbt/marsden_mbt_ii.md) *Undefined (2473)* 
+- [**Marsden MBT II-A**](units/marsden_mbt/marsden_mbt_ii-a.md) *Undefined (2482)* 
+- [**Marsden MBT II-A (LB-X)**](units/marsden_mbt/marsden_mbt_ii-a_lb-x.md) *Undefined (3068)* 
 
 #### [MHI Defense AA Tank](units/mhi_defense_aa_tank.md) 
 

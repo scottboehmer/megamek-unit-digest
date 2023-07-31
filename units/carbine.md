@@ -149,9 +149,9 @@
 - **Battle Value:** 293 
 - [*More Info*](carbine/carbine_con-9m-b_constructionmech_mod.md) 
 
-## Carbine CON-9M Karenna 
+## Carbine CON-9M (Karenna) 
 
-- **Role:** Sniper 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3131) 
 - **Chassis:** 30 tons (Industrial) 
 - **Movement:** 3 / 5, ICE 
@@ -178,11 +178,6 @@
   - Machine Gun × 2 (ammo: 200) 
 - **Equipment:** 
   - Lift Hoist 
-- **Design Quirks:** 
-  - Stable 
-  - Exposed Actuators 
-  - Gas Hog 
-  - Illegal Design 
 - **Sources:** XTR: Caveat Emptor , [Master Unit List](http://masterunitlist.info/Unit/Details/8098) 
 - **Battle Value:** 257 
 - [*More Info*](carbine/carbine_con-9m-d_constructionmech_mod.md) 

@@ -88,9 +88,9 @@
 - **Battle Value:** 168 
 - [*More Info*](crosscut/crosscut_ed-x2_flamer.md) 
 
-## Crosscut ED-X2 (RL) 
+## Crosscut ED-X2 LoggerMech (RL) 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (2810) 
 - **Chassis:** 30 tons (Industrial) 
 - **Movement:** 3 / 5, ICE 
@@ -102,7 +102,7 @@
   - Lift Hoist 
 - **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/6973) 
 - **Battle Value:** 422 
-- [*More Info*](crosscut/crosscut_ed-x2_rl.md) 
+- [*More Info*](crosscut/crosscut_ed-x2_loggermech_rl.md) 
 
 ## Crosscut ED-X4 LoggerMech 
 

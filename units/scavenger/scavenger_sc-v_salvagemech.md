@@ -1,10 +1,10 @@
-# ScavengerMech SC-V SalvageMech 
+# Scavenger SC-V SalvageMech 
 
-[Other ScavengerMech variants](../scavengermech.md) 
+[Other Scavenger variants](../scavenger.md) 
 
-## ScavengerMech SC-V SalvageMech 
+## Scavenger SC-V SalvageMech 
 
-- **Role:** Ambusher 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2613) 
 - **Chassis:** 80 tons Quad (Industrial) 
 - **Movement:** 4 / 6, Fuel Cell 

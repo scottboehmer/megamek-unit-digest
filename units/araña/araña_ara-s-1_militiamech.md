@@ -15,41 +15,25 @@
 - **Equipment:** 
   - Quad Turret 
   - Ejection Seat 
-- **Sources:** Intersteller Players 3 , [Master Unit List](http://masterunitlist.info/Unit/Details/3707) 
+- **Sources:** Intersteller Players 3 , [Master Unit List](http://masterunitlist.info/Unit/Details/5798) 
 - **Battle Value:** 1092 
 
 ## Availability 
 
-### Late Succession Wars - Renaissance 
-
-- Capellan Confederation 
-
-### Clan Invasion 
-
-- Capellan Confederation 
-- St. Ives Compact 
-
-### Civil War 
-
-- Capellan Confederation 
-
-### Jihad 
-
-- Capellan Confederation 
-
 ### Early Republic 
 
-- Capellan Confederation 
+- Escorpión Imperio 
 
 ### Late Republic 
 
-- Capellan Confederation 
+- Escorpión Imperio 
 
 ### Dark Ages 
 
-- Capellan Confederation 
+- Escorpión Imperio 
+- Scorpion Empire 
 
 ### ilClan 
 
-- Capellan Confederation 
+- Scorpion Empire 
 
