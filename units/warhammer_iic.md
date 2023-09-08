@@ -143,7 +143,7 @@
 - **Equipment:** 
   - ECM Suite 
   - CASE 
-  - Cargo × 2 
+  - Cargo 
 - **Design Quirks:** 
   - Searchlight 
   - Stable 

@@ -13,8 +13,8 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Lift Hoist × 2 
-  - Cargo × 2 
   - Searchlight 
+  - Cargo × 2 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7157) 
 - **Battle Value:** 100 
 

@@ -46,8 +46,8 @@
 - **Heat Sinks:** 1 (1) 
 - **Equipment:** 
   - Lift Hoist × 2 
-  - Cargo × 2 
   - Cargo Container 
+  - Cargo × 2 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7175) 
 - **Battle Value:** 533 
 - [*More Info*](uni/uni_atae-70t_cargomech.md) 

@@ -1,36 +1,15 @@
 # Bull Shark 
 
-## Bull Shark BSK-M3 
-
-- **Role:** Undefined 
-- **Tech Base:** Clan Mixed (2825) 
-- **Chassis:** 95 tons (Endo Steel) 
-- **Movement:** 3 / 5, XL 
-- **Armor:** 264 
-- **Heat Sinks:** 16 (16) 
-- **Weapons:** 
-  - Improved AC/10 × 2 (ammo: 20) 
-  - Improved AC/5 × 2 (ammo: 20) 
-  - Inner Sphere Medium Laser × 4 
-  - Inner Sphere LRM 5 × 4 (ammo: 48) 
-- **Equipment:** 
-  - CASE 
-- **Design Quirks:** 
-  - Distracting 
-- **Source:** Videogame (Apocryphal) 
-- **Battle Value:** 1779 
-- [*More Info*](bull_shark/bull_shark_bsk-m3.md) 
-
 ## Bull Shark BSK-MAZ 
 
 - **Role:** Undefined 
-- **Tech Base:** Clan Mixed (3050) 
+- **Tech Base:** Clan Mixed (3012) 
 - **Chassis:** 95 tons (Endo Steel) 
 - **Movement:** 3 / 5, XL 
-- **Armor:** 264 
-- **Heat Sinks:** 14 (28) 
+- **Armor:** 248 
+- **Heat Sinks:** 13 (26) 
 - **Weapons:** 
-  - LB 10-X AC × 2 (ammo: 10 Standard, 10 Cluster) 
+  - Inner Sphere LB 10-X AC × 2 (ammo: 10 Standard, 10 Cluster) 
   - Ultra AC/5 × 2 (ammo: 80) 
   - ER Medium Laser × 4 
   - Inner Sphere Thumper Cannon (ammo: 0) 
@@ -39,6 +18,25 @@
 - **Design Quirks:** 
   - Distracting 
 - **Source:** Videogame (Apocryphal) 
-- **Battle Value:** 2179 
+- **Battle Value:** 2131 
 - [*More Info*](bull_shark/bull_shark_bsk-maz.md) 
+
+## Bull Shark BSK-M3 
+
+- **Role:** Undefined 
+- **Tech Base:** Inner Sphere Mixed (3035) 
+- **Chassis:** 95 tons (Endo Steel) 
+- **Movement:** 3 / 5, XL 
+- **Armor:** 293 
+- **Heat Sinks:** 10 (10) 
+- **Weapons:** 
+  - AC/10 × 2 (ammo: 20) 
+  - Clan Improved AC/5 × 2 (ammo: 20) 
+  - Medium Laser × 4 
+  - LRM 5 × 4 (ammo: 48) 
+- **Design Quirks:** 
+  - Distracting 
+- **Source:** Videogame (Apocryphal) 
+- **Battle Value:** 1737 
+- [*More Info*](bull_shark/bull_shark_bsk-m3.md) 
 

@@ -17,8 +17,8 @@
 - **Equipment:** 
   - Lift Hoist 
   - Enviro-Sealing 
-  - Cargo × 3 
   - Searchlight 
+  - Cargo × 2 
 - **Sources:** Handbook: Major Periphery States , [Master Unit List](http://masterunitlist.info/Unit/Details/5101) 
 - **Battle Value:** 465 
 

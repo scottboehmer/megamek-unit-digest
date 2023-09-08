@@ -1,6 +1,6 @@
 # Demolisher Heavy Tank 
 
-## Demolisher Heavy Tank (Standard Mk. I) 
+## Demolisher Heavy Tank (Mk. I) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2803) 
@@ -12,7 +12,7 @@
   - AC/20 × 2 (ammo: 20) 
 - **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/863) 
 - **Battle Value:** 981 
-- [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._i.md) 
+- [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_mk._i.md) 
 
 ## Demolisher Heavy Tank (Defensive) 
 
@@ -29,9 +29,9 @@
 - **Battle Value:** 891 
 - [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_defensive.md) 
 
-## Demolisher Heavy Tank (Standard Mk. II) 
+## Demolisher Heavy Tank (Mk. II) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2823) 
 - **Chassis:** 80 tons Tracked 
 - **Movement:** 3 / 5, ICE 
@@ -41,7 +41,7 @@
   - AC/20 × 2 (ammo: 20) 
 - **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/864) 
 - **Battle Value:** 981 
-- [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) 
+- [*More Info*](demolisher_heavy_tank/demolisher_heavy_tank_mk._ii.md) 
 
 ## Demolisher Heavy Tank (Gauss) 
 

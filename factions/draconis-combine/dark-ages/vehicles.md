@@ -791,7 +791,7 @@
 
 #### [Tenmaku Command Trailer](../../../units/tenmaku_command_trailer.md) 
 
-- [**Tenmaku Command Trailer (Standard**](../../../units/tenmaku_command_trailer/tenmaku_command_trailer_standard.md) *Juggernaut (3086)* `C3 Main` , `ECM` , `TAG` , `Transport:8.0` 
+- [**Tenmaku Command Trailer**](../../../units/tenmaku_command_trailer/tenmaku_command_trailer.md) *Undefined (3086)* `C3 Main` , `ECM` , `TAG` , `Transport:8.0` 
 
 #### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
 
@@ -812,7 +812,7 @@
 
 #### [Demolisher Heavy Tank](../../../units/demolisher_heavy_tank.md) 
 
-- [**Demolisher Heavy Tank (Standard Mk. II)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
+- [**Demolisher Heavy Tank (Mk. II)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_mk._ii.md) *Undefined (2823)* 
 - [**Demolisher Heavy Tank (Gauss)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_gauss.md) *Sniper (3053)* 
 - [**Demolisher Heavy Tank (Clan)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_clan.md) *Juggernaut (3058)* 
 - [**Demolisher Heavy Tank (MRM)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_mrm.md) *Juggernaut (3060)* `C3 Support` 

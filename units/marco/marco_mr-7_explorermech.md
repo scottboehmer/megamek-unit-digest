@@ -18,8 +18,8 @@
   - Salvage Arm 
   - Remote Sensor Dispenser 
   - Communications Equipment 
-  - Cargo 
   - Searchlight 
+  - Cargo 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4595) 
 - **Battle Value:** 295 
 

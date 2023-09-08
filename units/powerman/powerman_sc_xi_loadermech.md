@@ -13,7 +13,7 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Lift Hoist × 2 
-  - Cargo × 5 
+  - Cargo × 3 
 - **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/2564) 
 - **Battle Value:** 198 
 

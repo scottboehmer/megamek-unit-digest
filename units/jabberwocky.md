@@ -84,9 +84,9 @@
   - Enviro-Sealing 
   - Salvage Arm 
   - Searchlight 
-  - Cargo 
   - Lift Hoist 
   - Tracks 
+  - Cargo 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1652) 
 - **Battle Value:** 343 
 - [*More Info*](jabberwocky/jabberwocky_jaw-66d_constructionmech.md) 

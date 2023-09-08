@@ -11,8 +11,8 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Lift Hoist × 2 
-  - Cargo × 3 
   - Tracks 
+  - Cargo × 3 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/452) 
 - **Battle Value:** 222 
 - [*More Info*](buster/buster_bc_xv_haulermech.md) 
@@ -60,8 +60,8 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Lift Hoist × 2 
-  - Cargo × 3 
   - Tracks 
+  - Cargo × 3 
 - **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/7220) 
 - **Battle Value:** 222 
 - [*More Info*](buster/buster_bc_xxi_haulermech.md) 

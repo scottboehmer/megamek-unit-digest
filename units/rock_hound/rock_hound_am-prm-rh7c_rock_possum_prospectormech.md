@@ -15,9 +15,9 @@
   - Mining Drill 
 - **Equipment:** 
   - Lift Hoist 
-  - Cargo × 3 
   - Searchlight 
   - Ejection Seat 
+  - Cargo 
 - **Sources:** Handbook: Major Periphery States , [Master Unit List](http://masterunitlist.info/Unit/Details/4928) 
 - **Battle Value:** 479 
 

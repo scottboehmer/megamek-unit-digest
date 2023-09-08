@@ -5819,8 +5819,8 @@
 
 #### [Bull Shark](units/bull_shark.md) 
 
-- [**Bull Shark BSK-M3**](units/bull_shark/bull_shark_bsk-m3.md) *Undefined (2825)* 
-- [**Bull Shark BSK-MAZ**](units/bull_shark/bull_shark_bsk-maz.md) *Undefined (3050)* 
+- [**Bull Shark BSK-MAZ**](units/bull_shark/bull_shark_bsk-maz.md) *Undefined (3012)* 
+- [**Bull Shark BSK-M3**](units/bull_shark/bull_shark_bsk-m3.md) *Undefined (3035)* 
 
 #### [Cerberus](units/cerberus.md) 
 

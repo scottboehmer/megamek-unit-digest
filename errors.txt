@@ -668,7 +668,8 @@ Speeder
 Weapons Carrier A (LL)
 Coolant Truck (Hover)
 Coolant Truck (Tracked)
-Demolisher Heavy Tank (Standard Mk. I)
+Demolisher Heavy Tank (Mk. I)
+Demolisher Heavy Tank (Mk. II)
 Engineering Vehicle
 Ferret Light Scout VTOL (Cargo)
 Hi-Scout Drone Carrier
@@ -704,6 +705,7 @@ Aeron Strike VTOL
 Transportable Field Repair Unit JI-100
 Manta Fast Attack Submarine (Support)
 Moray Heavy Attack Submarine (Original)
+Tenmaku Command Trailer
 R10 Mechanized ICV (Coolant Truck)
 Garrot Superheavy Transport
 Huitzilopochtli Assault Tank 'Huey' (LRM)

@@ -36,8 +36,8 @@
   - Salvage Arm 
   - Remote Sensor Dispenser 
   - Communications Equipment 
-  - Cargo 
   - Searchlight 
+  - Cargo 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4595) 
 - **Battle Value:** 295 
 - [*More Info*](marco/marco_mr-7_explorermech.md) 
@@ -57,8 +57,8 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Salvage Arm 
-  - Cargo 
   - Searchlight 
+  - Cargo 
 - **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/4596) 
 - **Battle Value:** 304 
 - [*More Info*](marco/marco_mr-8c_explorermech.md) 

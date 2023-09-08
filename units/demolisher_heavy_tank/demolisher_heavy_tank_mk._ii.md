@@ -1,10 +1,10 @@
-# Demolisher Heavy Tank (Standard Mk. II) 
+# Demolisher Heavy Tank (Mk. II) 
 
 [Other Demolisher Heavy Tank variants](../demolisher_heavy_tank.md) 
 
-## Demolisher Heavy Tank (Standard Mk. II) 
+## Demolisher Heavy Tank (Mk. II) 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2823) 
 - **Chassis:** 80 tons Tracked 
 - **Movement:** 3 / 5, ICE 

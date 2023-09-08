@@ -31,7 +31,7 @@
   - Chainsaw 
 - **Equipment:** 
   - Lift Hoist 
-  - Cargo × 2 
+  - Cargo 
 - **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/741) 
 - **Battle Value:** 223 
 - [*More Info*](crosscut/crosscut_ed-x2_loggermech.md) 
@@ -66,7 +66,7 @@
   - Chainsaw 
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
-  - Cargo × 2 
+  - Cargo 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7167) 
 - **Battle Value:** 244 
 - [*More Info*](crosscut/crosscut_ed-x2m_loggermech_mod.md) 
@@ -83,7 +83,7 @@
   - Chainsaw 
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
-  - Cargo × 2 
+  - Cargo 
 - **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/7167) 
 - **Battle Value:** 168 
 - [*More Info*](crosscut/crosscut_ed-x2_flamer.md) 
@@ -166,8 +166,8 @@
 - **Weapons:** 
   - Wrecking Ball 
 - **Equipment:** 
-  - Cargo 
   - Lift Hoist 
+  - Cargo 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7168) 
 - **Battle Value:** 224 
 - [*More Info*](crosscut/crosscut_ed-x4b_demolitionmech.md) 

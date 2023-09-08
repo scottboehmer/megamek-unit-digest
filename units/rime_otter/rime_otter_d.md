@@ -5,7 +5,7 @@
 ## Rime Otter D 
 
 - **Role:** Scout 
-- **Tech Base:** Clan Mixed (3146) 
+- **Tech Base:** Clan (3146) 
 - **Chassis:** 55 tons (Reinforced) 
 - **Movement:** 5 / 8 (10), XL 
   - **Jumping:** 8 
@@ -14,7 +14,7 @@
 - **Weapons:** 
   - ER Medium Laser × 3 
   - SRM 6 (ammo: 15) 
-  - Narc (ammo: 0) 
+  - Narc (ammo: 12) 
 - **Equipment:** 
   - Light Active Probe 
   - MASC 

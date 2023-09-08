@@ -14,8 +14,8 @@
 - **Weapons:** 
   - Wrecking Ball 
 - **Equipment:** 
-  - Cargo 
   - Lift Hoist 
+  - Cargo 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7168) 
 - **Battle Value:** 224 
 

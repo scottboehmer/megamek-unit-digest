@@ -15,8 +15,8 @@
   - Chainsaw 
 - **Equipment:** 
   - Lift Hoist 
-  - Cargo × 8 
   - Dumper 
+  - Cargo 
 - **Sources:** Record Sheets: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4545) 
 - **Battle Value:** 311 
 

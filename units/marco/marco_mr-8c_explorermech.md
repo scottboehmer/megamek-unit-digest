@@ -17,8 +17,8 @@
 - **Equipment:** 
   - Enviro-Sealing 
   - Salvage Arm 
-  - Cargo 
   - Searchlight 
+  - Cargo 
 - **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/4596) 
 - **Battle Value:** 304 
 

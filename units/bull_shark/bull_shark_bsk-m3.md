@@ -5,22 +5,20 @@
 ## Bull Shark BSK-M3 
 
 - **Role:** Undefined 
-- **Tech Base:** Clan Mixed (2825) 
+- **Tech Base:** Inner Sphere Mixed (3035) 
 - **Chassis:** 95 tons (Endo Steel) 
 - **Movement:** 3 / 5, XL 
-- **Armor:** 264 
-- **Heat Sinks:** 16 (16) 
+- **Armor:** 293 
+- **Heat Sinks:** 10 (10) 
 - **Weapons:** 
-  - Improved AC/10 × 2 (ammo: 20) 
-  - Improved AC/5 × 2 (ammo: 20) 
-  - Inner Sphere Medium Laser × 4 
-  - Inner Sphere LRM 5 × 4 (ammo: 48) 
-- **Equipment:** 
-  - CASE 
+  - AC/10 × 2 (ammo: 20) 
+  - Clan Improved AC/5 × 2 (ammo: 20) 
+  - Medium Laser × 4 
+  - LRM 5 × 4 (ammo: 48) 
 - **Design Quirks:** 
   - Distracting 
 - **Source:** Videogame (Apocryphal) 
-- **Battle Value:** 1779 
+- **Battle Value:** 1737 
 
 ## Availability 
 

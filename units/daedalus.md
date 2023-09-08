@@ -11,7 +11,7 @@
 - **Heat Sinks:** 10 (10) 
 - **Equipment:** 
   - Lift Hoist × 2 
-  - Cargo × 15 
+  - Cargo × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
 - **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/794) 
@@ -32,7 +32,7 @@
   - Rock-Cutter 
 - **Equipment:** 
   - Lift Hoist × 2 
-  - Cargo × 5 
+  - Cargo × 2 
 - **Design Quirks:** 
   - Difficult to Maintain 
 - **Sources:** Historical: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/795) 

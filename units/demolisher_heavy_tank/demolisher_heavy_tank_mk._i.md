@@ -1,8 +1,8 @@
-# Demolisher Heavy Tank (Standard Mk. I) 
+# Demolisher Heavy Tank (Mk. I) 
 
 [Other Demolisher Heavy Tank variants](../demolisher_heavy_tank.md) 
 
-## Demolisher Heavy Tank (Standard Mk. I) 
+## Demolisher Heavy Tank (Mk. I) 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (2803) 

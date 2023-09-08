@@ -15,7 +15,7 @@
   - Chainsaw 
 - **Equipment:** 
   - Lift Hoist 
-  - Cargo × 2 
+  - Cargo 
 - **Sources:** Record Sheets: Operation Klondike , [Master Unit List](http://masterunitlist.info/Unit/Details/741) 
 - **Battle Value:** 223 
 

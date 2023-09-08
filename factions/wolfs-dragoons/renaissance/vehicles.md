@@ -311,8 +311,8 @@
 
 #### [Demolisher Heavy Tank](../../../units/demolisher_heavy_tank.md) 
 
-- [**Demolisher Heavy Tank (Standard Mk. I)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._i.md) *Undefined (2803)* 
-- [**Demolisher Heavy Tank (Standard Mk. II)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
+- [**Demolisher Heavy Tank (Mk. I)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_mk._i.md) *Undefined (2803)* 
+- [**Demolisher Heavy Tank (Mk. II)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_mk._ii.md) *Undefined (2823)* 
 
 #### [Partisan Heavy Tank](../../../units/partisan_heavy_tank.md) 
 

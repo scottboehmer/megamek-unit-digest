@@ -13,8 +13,8 @@
   - Chainsaw 
 - **Equipment:** 
   - Lift Hoist 
-  - Cargo × 8 
   - Dumper 
+  - Cargo 
 - **Sources:** Record Sheets: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/4545) 
 - **Battle Value:** 311 
 - [*More Info*](lumberjack/lumberjack_lm1_a.md) 
@@ -33,7 +33,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Dumper × 2 
-  - Cargo × 20 
+  - Cargo × 2 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1960) 
 - **Battle Value:** 316 
 - [*More Info*](lumberjack/lumberjack_lm4_c.md) 
@@ -52,7 +52,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Dumper 
-  - Cargo × 5 
+  - Cargo 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1961) 
 - **Battle Value:** 651 
 - [*More Info*](lumberjack/lumberjack_lm4_p.md) 

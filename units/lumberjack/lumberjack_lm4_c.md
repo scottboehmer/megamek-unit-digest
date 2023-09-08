@@ -16,7 +16,7 @@
 - **Equipment:** 
   - Lift Hoist 
   - Dumper × 2 
-  - Cargo × 20 
+  - Cargo × 2 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/1960) 
 - **Battle Value:** 316 
 

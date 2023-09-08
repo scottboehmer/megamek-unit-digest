@@ -247,7 +247,7 @@
 
 #### [Demolisher Heavy Tank](../../../units/demolisher_heavy_tank.md) 
 
-- [**Demolisher Heavy Tank (Standard Mk. II)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_standard_mk._ii.md) *Juggernaut (2823)* 
+- [**Demolisher Heavy Tank (Mk. II)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_mk._ii.md) *Undefined (2823)* 
 - [**Demolisher Heavy Tank (Clan)**](../../../units/demolisher_heavy_tank/demolisher_heavy_tank_clan.md) *Juggernaut (3058)* 
 
 #### [Fury Command Tank](../../../units/fury_command_tank.md) 

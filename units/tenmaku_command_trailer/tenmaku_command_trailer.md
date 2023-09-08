@@ -1,10 +1,10 @@
-# Tenmaku Command Trailer (Standard 
+# Tenmaku Command Trailer 
 
 [Other Tenmaku Command Trailer variants](../tenmaku_command_trailer.md) 
 
-## Tenmaku Command Trailer (Standard 
+## Tenmaku Command Trailer 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3086) 
 - **Chassis:** 75 tons Wheeled 
 - **Movement:** 0 / 0, Fusion 

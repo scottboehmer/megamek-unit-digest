@@ -16,8 +16,8 @@
 - **Equipment:** 
   - Searchlight × 4 
   - Lift Hoist × 2 
-  - Cargo × 2 
   - Ejection Seat 
+  - Cargo × 2 
 - **Sources:** TRO: Irregulars , [Master Unit List](http://masterunitlist.info/Unit/Details/4529) 
 - **Battle Value:** 433 
 

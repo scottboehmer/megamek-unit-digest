@@ -87,7 +87,7 @@
 - **Weapons:** 
   - Clan Gauss Rifle (ammo: 16) 
   - Clan ER Large Laser × 2 
-  - LRM 20 w/ Artemis IV (ammo: 0) 
+  - LRM 20 w/ Artemis IV (ammo: 12) 
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
@@ -96,7 +96,7 @@
   - Reinforced Legs 
   - Difficult Ejection 
 - **Sources:** Operational Turning Points: Widowmaker , [Master Unit List](http://masterunitlist.info/Unit/Details/7309) 
-- **Battle Value:** 2481 
+- **Battle Value:** 2533 
 - [*More Info*](highlander/highlander_hgn-732_jorgensson.md) 
 
 ## Highlander HGN-733 

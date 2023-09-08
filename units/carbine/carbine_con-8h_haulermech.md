@@ -14,8 +14,8 @@
 - **Heat Sinks:** 0 (0) 
 - **Equipment:** 
   - Lift Hoist × 2 
-  - Cargo × 2 
   - Extended Fuel Tank 
+  - Cargo × 2 
 - **Sources:** TRO: Vehicle Annex (Revised) , [Master Unit List](http://masterunitlist.info/Unit/Details/7162) 
 - **Battle Value:** 190 
 

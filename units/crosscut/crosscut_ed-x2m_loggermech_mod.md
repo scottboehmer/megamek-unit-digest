@@ -15,7 +15,7 @@
   - Chainsaw 
   - Vehicle Flamer (ammo: 20) 
 - **Equipment:** 
-  - Cargo × 2 
+  - Cargo 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/7167) 
 - **Battle Value:** 244 
 

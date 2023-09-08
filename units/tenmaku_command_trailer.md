@@ -1,8 +1,8 @@
 # Tenmaku Command Trailer 
 
-## Tenmaku Command Trailer (Standard 
+## Tenmaku Command Trailer 
 
-- **Role:** Juggernaut 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3086) 
 - **Chassis:** 75 tons Wheeled 
 - **Movement:** 0 / 0, Fusion 
@@ -22,5 +22,5 @@
   - Infantry (8.0 tons) 
 - **Sources:** TRO: 3085 Supplemental , [Master Unit List](http://masterunitlist.info/Unit/Details/5206) 
 - **Battle Value:** 866 
-- [*More Info*](tenmaku_command_trailer/tenmaku_command_trailer_standard.md) 
+- [*More Info*](tenmaku_command_trailer/tenmaku_command_trailer.md) 
 

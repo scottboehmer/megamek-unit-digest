@@ -56,14 +56,14 @@
 ## Naga II B 
 
 - **Role:** Missile Boat 
-- **Tech Base:** Clan Mixed (2866) 
+- **Tech Base:** Clan (2866) 
 - **Chassis:** 80 tons (Endo Steel) 
 - **Movement:** 5 / 8, XL 
 - **Armor:** 144 
 - **Heat Sinks:** 12 (24) 
 - **Weapons:** 
   - LRM 20 × 4 (ammo: 36) 
-  - Narc (ammo: 0) 
+  - Narc (ammo: 12) 
 - **Equipment:** 
   - Anti-Missile System (ammo: 24) 
   - CASE 

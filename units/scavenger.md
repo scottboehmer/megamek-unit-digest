@@ -10,11 +10,11 @@
 - **Cockpit:** Industrial 
 - **Heat Sinks:** 2 (2) 
 - **Equipment:** 
-  - Cargo × 12 
   - Searchlight 
   - Mech Sprayer 
   - Light Fluid Suction System 
   - Liquid Cargo × 2 
+  - Cargo × 3 
 - **Sources:** Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons , [Master Unit List](http://masterunitlist.info/Unit/Details/4987) 
 - **Battle Value:** 582 
 - [*More Info*](scavenger/scavenger_sc-v_salvagemech.md) 
