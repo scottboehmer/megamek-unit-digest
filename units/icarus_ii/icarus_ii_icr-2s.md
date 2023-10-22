@@ -71,4 +71,5 @@
 - Free Worlds League 
 - Marian Hegemony 
 - Mercenary 
+- Pirate 
 

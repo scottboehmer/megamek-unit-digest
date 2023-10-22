@@ -46,18 +46,21 @@
 
 ### Early Republic 
 
+- Clan Jade Falcon 
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Clan Jade Falcon 
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Jade Falcon 
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 

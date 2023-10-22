@@ -24,6 +24,7 @@
 
 - Draconis Combine 
 - Rim Worlds Republic - Terran Corps 
+- Star League 
 - Star League - Royal Divisions 
 
 ### Early Succession Wars 
@@ -49,6 +50,7 @@
 - Clan Wolf 
 - Clan Wolverine 
 - Draconis Combine 
+- Star League-in-Exile 
 
 ### Late Succession Wars - LosTech 
 

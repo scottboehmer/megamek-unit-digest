@@ -18,7 +18,21 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Medium Pulse Laser) 
+  - Modular Weapon (AP Gauss Rifle) 
+  - Modular Weapon (ER Medium Pulse Laser) 
+  - Modular Weapon (AP Gauss Rifle) 
+  - Modular Weapon (AP Gauss Rifle) 
+  - Jettison-Capable Weapon (ER Large Pulse Laser) 
+  - Modular Weapon (ER Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7544) 
 - **Battle Value:** 1849 
 
@@ -39,6 +53,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
 - Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 

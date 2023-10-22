@@ -41,6 +41,7 @@
 ### Late Republic 
 
 - Clan Hell's Horses 
+- Clan Wolf 
 - Clan Wolf-in-Exile 
 - Republic of the Sphere 
 - Wolf's Dragoons 
@@ -48,6 +49,8 @@
 ### Dark Ages 
 
 - Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Wolf 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
 - Republic of the Sphere 

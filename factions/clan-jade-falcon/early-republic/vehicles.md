@@ -142,6 +142,10 @@
 - [**DI Multipurpose VTOL**](../../../units/di_multipurpose_vtol/di_multipurpose_vtol.md) *Scout (3097)* `Active Probe` , `TAG` , `Transport:4.0` 
 - [**DI Multipurpose VTOL (Gunship)**](../../../units/di_multipurpose_vtol/di_multipurpose_vtol_gunship.md) *Striker (3097)* 
 
+#### [J. Edgar Light Hover Tank](../../../units/j._edgar_light_hover_tank.md) 
+
+- [**J. Edgar Light Hover Tank**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank.md) *Scout (2722)* 
+
 #### [Kestrel VTOL](../../../units/kestrel_vtol.md) 
 
 - [**Kestrel VTOL (Clan)**](../../../units/kestrel_vtol/kestrel_vtol_clan.md) *Scout (2880)* `Transport:4.0` 
@@ -179,6 +183,10 @@
 - [**Gun Trailer (Stronghold)**](../../../units/gun_trailer/gun_trailer_stronghold.md) *Ambusher (3092)* `Transport:4.0` 
 - [**Gun Trailer (Artillery/AA)**](../../../units/gun_trailer/gun_trailer_artillery_aa.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
+
+#### [Hunter Light Support Tank](../../../units/hunter_light_support_tank.md) 
+
+- [**Hunter Light Support Tank**](../../../units/hunter_light_support_tank/hunter_light_support_tank.md) *Missile Boat (2937)* 
 
 #### [Indra Infantry Transport](../../../units/indra_infantry_transport.md) 
 

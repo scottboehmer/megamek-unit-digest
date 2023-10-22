@@ -25,5 +25,7 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Republic (Unique) 
+
+- Solaris 7 
 

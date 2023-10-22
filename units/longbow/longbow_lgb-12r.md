@@ -37,27 +37,33 @@
 
 ### Late Republic 
 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Clan Sea Fox 
 - Draconis Combine 
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
 - Star League (Wolf) 
 - Vesper Marches 
 

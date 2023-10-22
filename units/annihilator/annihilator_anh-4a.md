@@ -31,6 +31,7 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
@@ -42,6 +43,7 @@
 ### Late Republic 
 
 - Clan Hell's Horses 
+- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
@@ -52,6 +54,7 @@
 ### Dark Ages 
 
 - Clan Hell's Horses 
+- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
@@ -62,6 +65,7 @@
 ### ilClan 
 
 - Clan Hell's Horses 
+- Clan Sea Fox 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 

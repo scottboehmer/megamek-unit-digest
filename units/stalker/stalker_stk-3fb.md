@@ -175,6 +175,7 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Clan Diamond Shark 
 - Duchy of Andurien 
 - Magistracy of Canopus 
 - Mercenary 
@@ -185,6 +186,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Duchy of Andurien 
 - Magistracy of Canopus 
 - Mercenary 
@@ -195,6 +197,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Duchy of Andurien 
 - Free Worlds League 
 - Magistracy of Canopus 
@@ -206,6 +209,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Duchy of Andurien 
 - Free Worlds League 
 - Magistracy of Canopus 

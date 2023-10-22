@@ -29,6 +29,10 @@
 
 - [**Howler 6**](../../../units/howler/howler_6.md) *Striker (3086)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -45,6 +49,10 @@
 - [**CattleMaster CTL-3R 'Herder' IndustrialMech**](../../../units/cattlemaster/cattlemaster_ctl-3r_herder_industrialmech.md) *Undefined (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R2 'Hunter' IndustrialMech**](../../../units/cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) *Ambusher (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R3 SecurityMech**](../../../units/cattlemaster/cattlemaster_ctl-3r3_securitymech.md) *Striker (3072)* `IndustrialMech` 
+
+#### [Crimson Hawk](../../../units/crimson_hawk.md) 
+
+- [**Crimson Hawk**](../../../units/crimson_hawk/crimson_hawk.md) *Sniper (3071)* 
 
 #### [Fire Falcon](../../../units/fire_falcon.md) 
 
@@ -243,6 +251,10 @@
 
 ### 40 Tons 
 
+#### [Arctic Wolf](../../../units/arctic_wolf.md) 
+
+- [**Arctic Wolf**](../../../units/arctic_wolf/arctic_wolf.md) *Striker (3059)* 
+
 #### [Corvis](../../../units/corvis.md) 
 
 - [**Corvis**](../../../units/corvis/corvis.md) *Brawler (2845)* 
@@ -268,6 +280,7 @@
 #### [Sentinel](../../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
+- [**Sentinel STN-3Lb**](../../../units/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
 
 #### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
@@ -383,6 +396,10 @@
 - [**Black Lanner H**](../../../units/black_lanner/black_lanner_h.md) *Skirmisher (3061)* `ECM` 
 - [**Black Lanner E**](../../../units/black_lanner/black_lanner_e.md) *Skirmisher (3062)* 
 - [**Black Lanner X**](../../../units/black_lanner/black_lanner_x.md) *Skirmisher (3075)* 
+
+#### [Kintaro](../../../units/kintaro.md) 
+
+- [**Kintaro KTO-19b**](../../../units/kintaro/kintaro_kto-19b.md) *Skirmisher (2731)* 
 
 #### [Stormcrow](../../../units/stormcrow.md) 
 
@@ -618,6 +635,7 @@
 
 #### [Highlander IIC](../../../units/highlander_iic.md) 
 
+- [**Highlander IIC**](../../../units/highlander_iic/highlander_iic.md) *Missile Boat (2858)* 
 - [**Highlander IIC 3**](../../../units/highlander_iic/highlander_iic_3.md) *Missile Boat (3077)* `ECM` 
 
 #### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 

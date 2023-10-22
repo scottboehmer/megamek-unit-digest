@@ -18,6 +18,10 @@
 
 - [**Locust C**](../../../units/locust/locust_c.md) *Striker (2836)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -270,7 +274,7 @@
 - [**Stormcrow P**](../../../units/stormcrow/stormcrow_p.md) *Striker (3049)* 
 - [**Stormcrow TC**](../../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
-- [**Stormcrow (Kotare)**](../../../units/stormcrow/stormcrow_kotare.md) *Skirmisher (3059)* 
+- [**Stormcrow (Kotare)**](../../../units/stormcrow/stormcrow_kotare.md) *Skirmisher (3059)* `Unique` 
 - [**Stormcrow H**](../../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](../../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
 

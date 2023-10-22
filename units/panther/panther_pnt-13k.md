@@ -36,15 +36,18 @@
 ### Late Republic 
 
 - Draconis Combine 
+- Mercenary 
 - Rasalhague Dominion 
 
 ### Dark Ages 
 
 - Draconis Combine 
+- Mercenary 
 - Rasalhague Dominion 
 
 ### ilClan 
 
 - Draconis Combine 
+- Mercenary 
 - Rasalhague Dominion 
 

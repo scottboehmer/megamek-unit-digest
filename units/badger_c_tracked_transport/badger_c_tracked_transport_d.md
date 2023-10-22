@@ -20,6 +20,18 @@
 
 ## Availability 
 
+### Early Succession Wars (Unique) 
+
+- Clan Wolf 
+
+### Late Succession Wars - LosTech (Unique) 
+
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance (Unique) 
+
+- Clan Wolf 
+
 ### Clan Invasion 
 
 - Wolf's Dragoons 

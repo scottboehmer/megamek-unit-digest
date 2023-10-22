@@ -44,6 +44,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Wolf 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
@@ -55,4 +56,5 @@
 - Capellan Confederation 
 - Free Worlds League 
 - Mercenary 
+- Wolf Empire 
 

@@ -28,14 +28,17 @@
 
 - Calderon Protectorate 
 - Fronc Reaches 
+- Taurian Concordat 
 
 ### Dark Ages 
 
 - Calderon Protectorate 
 - Fronc Reaches 
+- Taurian Concordat 
 
 ### ilClan 
 
 - Calderon Protectorate 
 - Fronc Reaches 
+- Taurian Concordat 
 

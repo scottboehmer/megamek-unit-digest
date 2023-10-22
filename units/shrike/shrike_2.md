@@ -43,5 +43,6 @@
 ### ilClan 
 
 - Clan Hell's Horses 
+- Clan Jade Falcon 
 - Star League (Jade Falcon) 
 

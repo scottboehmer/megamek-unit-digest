@@ -76,6 +76,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Jade Falcon 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

@@ -27,6 +27,7 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+- Clan Sea Fox 
 - Scorpion Empire 
 
 ### ilClan 

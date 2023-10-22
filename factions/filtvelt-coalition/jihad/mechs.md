@@ -64,6 +64,10 @@
 - [**Commando COM-5S**](../../../units/commando/commando_com-5s.md) *Striker (3050)* 
 - [**Commando COM-2Dr**](../../../units/commando/commando_com-2dr.md) *Striker (3075)* 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -147,6 +151,7 @@
 
 #### [Ostscout](../../../units/ostscout.md) 
 
+- [**Ostscout OTT-7J**](../../../units/ostscout/ostscout_ott-7j.md) *Scout (2600)* 
 - [**Ostscout OTT-7K**](../../../units/ostscout/ostscout_ott-7k.md) *Scout (3049)* `TAG` 
 
 #### [Panther](../../../units/panther.md) 

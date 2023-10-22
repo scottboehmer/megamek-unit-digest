@@ -37,14 +37,17 @@
 
 ### Jihad 
 
+- Clan Nova Cat 
 - Draconis Combine 
 - Free Rasalhague Republic 
 
 ### Early Republic 
 
+- Clan Nova Cat 
 - Draconis Combine 
 
 ### Late Republic 
 
+- Clan Nova Cat 
 - Draconis Combine 
 

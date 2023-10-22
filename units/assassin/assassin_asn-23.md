@@ -56,17 +56,41 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Late Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Duchy of Andurien 
+- Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Rim Commonality 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Fronc Reaches 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Fronc Reaches 
+- Taurian Concordat 
 

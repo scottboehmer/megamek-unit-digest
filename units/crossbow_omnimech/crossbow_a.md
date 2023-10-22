@@ -23,6 +23,26 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Steel Viper 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Steel Viper 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Steel Viper 
+
 ### Clan Invasion 
 
 - Clan Blood Spirit 
@@ -78,6 +98,7 @@
 
 ### ilClan 
 
+- Clan Jade Falcon 
 - Clan Protectorate 
 - Lyran Commonwealth 
 - Raven Alliance 

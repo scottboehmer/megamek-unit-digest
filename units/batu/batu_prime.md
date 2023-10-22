@@ -67,7 +67,6 @@
 - Clan Steel Viper 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
-- Draconis Combine 
 
 ### Jihad 
 
@@ -86,7 +85,6 @@
 - Clan Stone Lion 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
-- Draconis Combine 
 - Escorpión Imperio 
 - Society 
 
@@ -98,7 +96,6 @@
 - Clan Nova Cat 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
-- Draconis Combine 
 - Escorpión Imperio 
 - Rasalhague Dominion 
 
@@ -109,7 +106,6 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf 
-- Draconis Combine 
 - Escorpión Imperio 
 - Rasalhague Dominion 
 

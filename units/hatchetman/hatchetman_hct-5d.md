@@ -62,6 +62,7 @@
 ### ilClan 
 
 - Calderon Protectorate 
+- Clan Protectorate 
 - Filtvelt Coalition 
 - Mercenary 
 

@@ -116,6 +116,7 @@
 - Escorpión Imperio 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
@@ -127,6 +128,7 @@
 - Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
@@ -137,6 +139,7 @@
 - Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 

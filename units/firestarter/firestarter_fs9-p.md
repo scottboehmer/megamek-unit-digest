@@ -63,4 +63,10 @@
 
 - Marian Hegemony 
 - Pirate 
+- Taurian Concordat 
+
+### ilClan 
+
+- Marian Hegemony 
+- Taurian Concordat 
 

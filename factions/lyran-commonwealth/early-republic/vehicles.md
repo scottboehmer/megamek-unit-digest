@@ -445,6 +445,10 @@
 - [**Scimitar Medium Hover Tank (Missile)**](../../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_missile.md) *Missile Boat (2957)* 
 - [**Scimitar Medium Hover Tank (C3)**](../../../units/scimitar_medium_hover_tank/scimitar_medium_hover_tank_c3.md) *Scout (3073)* `C3 Support` 
 
+#### [Sea Hunter Maritime Tank](../../../units/sea_hunter_maritime_tank.md) 
+
+- [**Sea Hunter Maritime Tank**](../../../units/sea_hunter_maritime_tank/sea_hunter_maritime_tank.md) *Missile Boat (3068)* 
+
 #### [Striker Light Tank](../../../units/striker_light_tank.md) 
 
 - [**Striker Light Tank**](../../../units/striker_light_tank/striker_light_tank.md) *Missile Boat (3006)* 
@@ -797,6 +801,10 @@
 #### [Monitor Naval Vessel](../../../units/monitor_naval_vessel.md) 
 
 - [**Monitor Naval Vessel**](../../../units/monitor_naval_vessel/monitor_naval_vessel.md) *Juggernaut (2910)* `Transport:1.5` 
+
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
 
 #### [Zhukov Heavy Tank](../../../units/zhukov_heavy_tank.md) 
 

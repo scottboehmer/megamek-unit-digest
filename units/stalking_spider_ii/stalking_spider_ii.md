@@ -60,6 +60,7 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### ilClan 
 
@@ -73,5 +74,6 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Tamar Pact 
+- Taurian Concordat 
 - Vesper Marches 
 

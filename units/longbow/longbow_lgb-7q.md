@@ -39,6 +39,9 @@
 ### Early Succession Wars 
 
 - Capellan Confederation 
+- Clan Sea Fox 
+- Clan Snow Raven 
+- Clan Wolverine 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

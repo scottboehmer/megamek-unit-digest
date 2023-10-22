@@ -8,15 +8,7 @@
 
 - [**Ground Car**](../../../units/ground_car/ground_car.md) *Undefined (1950)* `Transport:0.5` 
 
-#### [Jet Sled](../../../units/jet_sled.md) 
-
-- [**Jet Sled**](../../../units/jet_sled/jet_sled.md) *Undefined (2300)* `Transport:0.5` 
-
 ### 5 Tons 
-
-#### [Jeep](../../../units/jeep.md) 
-
-- [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
 
 #### [Skimmer](../../../units/skimmer.md) 
 

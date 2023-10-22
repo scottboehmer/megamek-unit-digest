@@ -24,6 +24,22 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Goliath Scorpion 
+
+### Late Succession Wars - LosTech 
+
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+
 ### Clan Invasion 
 
 - Clan Goliath Scorpion 

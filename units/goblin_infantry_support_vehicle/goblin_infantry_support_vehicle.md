@@ -80,6 +80,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Jade Falcon 
 - Federated Suns 
 - Filtvelt Coalition 
 - Lyran Commonwealth 

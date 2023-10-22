@@ -24,6 +24,7 @@
 ### Star League 
 
 - Rim Worlds Republic - Terran Corps 
+- Star League 
 - Star League - Royal Divisions 
 
 ### Early Succession Wars 
@@ -161,8 +162,10 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Clan Jade Falcon 
 - Clan Nova Cat 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -178,6 +181,8 @@
 
 - Clan Jade Falcon 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -192,6 +197,8 @@
 
 - Clan Jade Falcon 
 - Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -205,6 +212,7 @@
 
 ### ilClan 
 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Free Worlds League 

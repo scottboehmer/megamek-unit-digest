@@ -36,14 +36,17 @@
 
 ### Early Republic 
 
+- Clan Nova Cat 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Clan Nova Cat 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Nova Cat 
 - Pirate 
 - Republic of the Sphere 
 

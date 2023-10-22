@@ -41,6 +41,8 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Coyote 
+- Clan Ice Hellion 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

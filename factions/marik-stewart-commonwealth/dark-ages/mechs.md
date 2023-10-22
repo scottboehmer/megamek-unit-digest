@@ -35,6 +35,7 @@
 - [**Locust LCT-3V**](../../../units/locust/locust_lct-3v.md) *Scout (3004)* 
 - [**Locust LCT-3M**](../../../units/locust/locust_lct-3m.md) *Scout (3050)* 
 - [**Locust LCT-5M**](../../../units/locust/locust_lct-5m.md) *Striker (3066)* 
+- [**Locust LCT-6M**](../../../units/locust/locust_lct-6m.md) *Striker (3071)* 
 - [**Locust LCT-5W2**](../../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Support` , `ECM` , `TAG` 
 - [**Locust LCT-5M2**](../../../units/locust/locust_lct-5m2.md) *Scout (3087)* 
 - [**Locust LCT-5M3**](../../../units/locust/locust_lct-5m3.md) *Scout (3088)* 
@@ -513,6 +514,18 @@
 - [**Mad Cat III 4**](../../../units/mad_cat_iii/mad_cat_iii_4.md) *Skirmisher (3095)* 
 - [**Mad Cat III 5**](../../../units/mad_cat_iii/mad_cat_iii_5.md) *Skirmisher (3097)* 
 - [**Mad Cat III (Dark Age RS)**](../../../units/mad_cat_iii/mad_cat_iii_dark_age_rs.md) *Undefined (3132)* 
+
+#### [Men Shen](../../../units/men_shen.md) 
+
+- [**Men Shen MS1-O**](../../../units/men_shen/men_shen_ms1-o.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OA**](../../../units/men_shen/men_shen_ms1-oa.md) *Striker (3060)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OB**](../../../units/men_shen/men_shen_ms1-ob.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OC**](../../../units/men_shen/men_shen_ms1-oc.md) *Striker (3060)* `Active Probe` , `ECM` 
+- [**Men Shen MS1-OD**](../../../units/men_shen/men_shen_ms1-od.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OE**](../../../units/men_shen/men_shen_ms1-oe.md) *Striker (3070)* `Active Probe` 
+- [**Men Shen MS1-OF**](../../../units/men_shen/men_shen_ms1-of.md) *Striker (3076)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OU**](../../../units/men_shen/men_shen_ms1-ou.md) *Striker (3077)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OG**](../../../units/men_shen/men_shen_ms1-og.md) *Scout (3134)* `Active Probe` 
 
 #### [Scorpion](../../../units/scorpion.md) 
 

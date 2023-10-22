@@ -56,4 +56,17 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
+
+### Late Republic 
+
+- Magistracy of Canopus 
+
+### Dark Ages 
+
+- Magistracy of Canopus 
+
+### ilClan 
+
+- Magistracy of Canopus 
 

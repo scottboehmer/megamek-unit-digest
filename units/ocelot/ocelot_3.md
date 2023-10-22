@@ -46,6 +46,7 @@
 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- Draconis Combine 
 
 ### ilClan 
 

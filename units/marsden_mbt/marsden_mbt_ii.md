@@ -48,5 +48,6 @@
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
+- Star League-in-Exile 
 - Taurian Concordat 
 

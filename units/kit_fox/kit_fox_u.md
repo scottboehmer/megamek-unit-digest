@@ -69,6 +69,7 @@
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - ComStar 
@@ -82,6 +83,7 @@
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Sea Fox 
 - Mercenary 
 - Raven Alliance 
 - Scorpion Empire 

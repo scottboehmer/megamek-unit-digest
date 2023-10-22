@@ -28,13 +28,8 @@
 
 ## Availability 
 
-### Early Republic 
-
-- Raven Alliance 
-
 ### Late Republic 
 
-- Rasalhague Dominion 
 - Raven Alliance 
 
 ### Dark Ages 

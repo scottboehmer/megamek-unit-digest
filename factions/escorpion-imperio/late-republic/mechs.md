@@ -692,7 +692,6 @@
 #### [Spartan](../../../units/spartan.md) 
 
 - [**Spartan SPT-N2**](../../../units/spartan/spartan_spt-n2.md) *Skirmisher (2765)* `TAG` 
-- [**Spartan C**](../../../units/spartan/spartan_c.md) *Skirmisher (2865)* 
 
 #### [Thug](../../../units/thug.md) 
 

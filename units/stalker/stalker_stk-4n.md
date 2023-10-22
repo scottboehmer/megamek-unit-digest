@@ -168,3 +168,13 @@
 - Rim Commonality 
 - Taurian Concordat 
 
+### Late Republic 
+
+- Mercenary 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Mercenary 
+- Taurian Concordat 
+

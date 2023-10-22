@@ -46,6 +46,7 @@
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
+- Star League-in-Exile 
 - Taurian Concordat 
 
 ### Late Succession Wars - LosTech 
@@ -163,6 +164,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### Late Republic 
@@ -174,14 +176,31 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### Dark Ages 
 
+- Calderon Protectorate 
 - Escorpión Imperio 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Raven Alliance 
 - Scorpion Empire 
+- Taurian Concordat 
 
 ### ilClan 
 
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Raven Alliance 
 - Scorpion Empire 
+- Taurian Concordat 
 

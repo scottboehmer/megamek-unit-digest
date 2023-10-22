@@ -32,32 +32,67 @@
 
 ### Early Succession Wars 
 
+- Clan Blood Spirit 
 - Clan Coyote 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Nova Cat 
+- Clan Wolf 
 - ComStar 
 - Free Worlds League 
 - Star League-in-Exile 
 
 ### Late Succession Wars - LosTech 
 
+- Clan Blood Spirit 
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Nova Cat 
+- Clan Wolf 
 - ComStar 
 
 ### Late Succession Wars - Renaissance 
 
+- Clan Blood Spirit 
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Nova Cat 
+- Clan Wolf 
 - ComStar 
 
 ### Clan Invasion 
 
+- Clan Blood Spirit 
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Nova Cat 
+- Clan Wolf 
 - ComStar 
 - Word of Blake 
 
 ### Civil War 
 
+- Clan Blood Spirit 
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Nova Cat 
+- Clan Wolf 
 - ComStar 
 - Free Worlds League 
 - Word of Blake 
 
 ### Jihad 
 
+- Clan Blood Spirit 
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Nova Cat 
+- Clan Wolf 
 - ComStar 
 - Escorpión Imperio 
 - Free Worlds League 
@@ -65,6 +100,8 @@
 
 ### Early Republic 
 
+- Clan Nova Cat 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -77,6 +114,8 @@
 
 ### Late Republic 
 
+- Clan Nova Cat 
+- Clan Wolf 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Escorpión Imperio 
@@ -86,6 +125,8 @@
 
 ### Dark Ages 
 
+- Clan Nova Cat 
+- Clan Wolf 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Escorpión Imperio 

@@ -37,6 +37,7 @@
 
 - Clan Diamond Shark 
 - Clan Ice Hellion 
+- Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Wolf 
 - Clan Wolf-in-Exile 

@@ -33,6 +33,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Protectorate 
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 

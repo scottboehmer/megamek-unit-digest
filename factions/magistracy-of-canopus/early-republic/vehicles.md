@@ -287,6 +287,7 @@
 #### [Pegasus Scout Hover Tank](../../../units/pegasus_scout_hover_tank.md) 
 
 - [**Pegasus Scout Hover Tank**](../../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank.md) *Striker (2791)* 
+- [**Pegasus Scout Hover Tank (3058 Upgrade)**](../../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_3058_upgrade.md) *Striker (3058)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Plainsman Medium Hovertank](../../../units/plainsman_medium_hovertank.md) 
 
@@ -603,6 +604,7 @@
 
 - [**Schrek PPC Carrier**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier.md) *Sniper (2813)* 
 - [**Schrek PPC Carrier (XL)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_xl.md) *Sniper (3058)* 
+- [**Schrek PPC Carrier (Armor)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_armor.md) *Sniper (3072)* 
 
 ### 85 Tons 
 
@@ -638,9 +640,4 @@
 - [**Behemoth Heavy Tank**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Flamer)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) *Juggernaut (2981)* 
 - [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
-
-#### [Behemoth II Heavy Tank](../../../units/behemoth_ii_heavy_tank.md) 
-
-- [**Behemoth II Heavy Tank**](../../../units/behemoth_ii_heavy_tank/behemoth_ii_heavy_tank.md) *Missile Boat (3102)* 
-- [**Behemoth II Heavy Tank (Support)**](../../../units/behemoth_ii_heavy_tank/behemoth_ii_heavy_tank_support.md) *Sniper (3102)* 
 

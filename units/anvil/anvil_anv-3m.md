@@ -88,6 +88,7 @@
 
 ### ilClan 
 
+- Duchy of Andurien 
 - Free Worlds League 
 - Mercenary 
 

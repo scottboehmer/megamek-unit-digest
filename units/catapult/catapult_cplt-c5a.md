@@ -41,6 +41,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
@@ -48,18 +49,28 @@
 
 ### Dark Ages 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Clan Sea Fox 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Taurian Concordat 
 - Wolf's Dragoons 
 
 ### ilClan 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Clan Sea Fox 
+- Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Taurian Concordat 
 

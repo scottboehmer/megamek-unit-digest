@@ -63,8 +63,19 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Mercenary 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Filtvelt Coalition 
+- Taurian Concordat 
+
+### ilClan 
+
+- Filtvelt Coalition 
 - Taurian Concordat 
 

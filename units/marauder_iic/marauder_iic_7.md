@@ -39,9 +39,11 @@
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Rasalhague Dominion 
 
 ### ilClan 
 
+- Clan Hell's Horses 
 - Rasalhague Dominion 
 

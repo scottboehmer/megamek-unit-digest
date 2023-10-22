@@ -88,18 +88,21 @@
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Nova Cat 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Clan Hell's Horses 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- Republic of the Sphere 
 
 ### ilClan 
 

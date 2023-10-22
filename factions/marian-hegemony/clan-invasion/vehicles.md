@@ -257,6 +257,7 @@
 #### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
 
 - [**Chaparral Missile Artillery Tank**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank.md) *Missile Boat (2611)* 
+- [**Chaparral Missile Artillery Tank (SRM)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (2614)* 
 
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 

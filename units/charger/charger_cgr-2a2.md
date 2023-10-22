@@ -46,6 +46,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### Late Republic 
@@ -56,6 +57,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### Dark Ages 
@@ -66,6 +68,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### ilClan 
@@ -76,5 +79,6 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 

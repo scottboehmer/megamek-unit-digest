@@ -26,6 +26,10 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Ice Hellion 
+
 ### Late Succession Wars - LosTech 
 
 - Clan Blood Spirit 
@@ -160,4 +164,5 @@
 - Clan Sea Fox 
 - Raven Alliance 
 - Scorpion Empire 
+- Wolf Empire 
 

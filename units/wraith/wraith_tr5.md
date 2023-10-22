@@ -27,6 +27,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Duchy of Andurien 
 - Free Worlds League 
 - Mercenary 
@@ -34,6 +35,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Duchy of Andurien 
 - Free Worlds League 
 - Mercenary 

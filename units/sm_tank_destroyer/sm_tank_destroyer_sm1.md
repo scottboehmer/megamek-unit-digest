@@ -1,23 +1,22 @@
-# SM Tank Destroyer SM3 
+# SM Tank Destroyer SM1 
 
 [Other SM Tank Destroyer variants](../sm_tank_destroyer.md) 
 
-## SM3 Tank Destroyer SM3 
+## SM Tank Destroyer SM1 
 
-- **Role:** Striker 
-- **Tech Base:** Clan (3074) 
+- **Role:** Undefined 
+- **Tech Base:** Clan (3068) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 8 / 12, Fusion 
 - **Armor:** 144 (Ferro Fibrous) 
 - **Heat Sinks:** 10 (10) 
 - **Weapons:** 
-  - Gauss Rifle (ammo: 32) 
-  - Medium Pulse Laser 
+  - Ultra AC/20 (ammo: 30) 
   - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - CASE 
-- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2973) 
-- **Battle Value:** 1593 
+- **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2971) 
+- **Battle Value:** 1585 
 
 ## Availability 
 

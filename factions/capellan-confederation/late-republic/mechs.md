@@ -249,6 +249,18 @@
 - [**Ostscout OTT-7K**](../../../units/ostscout/ostscout_ott-7k.md) *Scout (3049)* `TAG` 
 - [**Ostscout OTT-9S**](../../../units/ostscout/ostscout_ott-9s.md) *Scout (3065)* `Active Probe` , `ECM` , `TAG` 
 
+#### [Owens](../../../units/owens.md) 
+
+- [**Owens OW-1**](../../../units/owens/owens_ow-1.md) *Missile Boat (3056)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1A**](../../../units/owens/owens_ow-1a.md) *Scout (3056)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1B**](../../../units/owens/owens_ow-1b.md) *Scout (3056)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1C**](../../../units/owens/owens_ow-1c.md) *Striker (3056)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1D**](../../../units/owens/owens_ow-1d.md) *Scout (3056)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1R**](../../../units/owens/owens_ow-1r.md) *Striker (3059)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1E**](../../../units/owens/owens_ow-1e.md) *Striker (3060)* `Active Probe` , `C3 Support` , `TAG` 
+- [**Owens OW-1F**](../../../units/owens/owens_ow-1f.md) *Striker (3076)* `Active Probe` , `C3 Support` , `ECM` , `TAG` 
+- [**Owens OW-1G**](../../../units/owens/owens_ow-1g.md) *Scout (3125)* `Active Probe` , `C3 Support` , `TAG` 
+
 #### [Powerman](../../../units/powerman.md) 
 
 - [**Powerman SC XV HaulerMech**](../../../units/powerman/powerman_sc_xv_haulermech.md) *Ambusher (2895)* `IndustrialMech` 
@@ -456,6 +468,7 @@
 #### [Hunchback](../../../units/hunchback.md) 
 
 - [**Hunchback HBK-5N**](../../../units/hunchback/hunchback_hbk-5n.md) *Juggernaut (3057)* 
+- [**Hunchback HBK-6N**](../../../units/hunchback/hunchback_hbk-6n.md) *Juggernaut (3059)* 
 
 #### [Huron Warrior](../../../units/huron_warrior.md) 
 
@@ -630,6 +643,7 @@
 
 #### [Catapult](../../../units/catapult.md) 
 
+- [**Catapult CPLT-C1**](../../../units/catapult/catapult_cplt-c1.md) *Missile Boat (2561)* 
 - [**Catapult CPLT-C3**](../../../units/catapult/catapult_cplt-c3.md) *Missile Boat (3049)* 
 - [**Catapult CPLT-C4C**](../../../units/catapult/catapult_cplt-c4c.md) *Missile Boat (3055)* `Active Probe` 
 - [**Catapult CPLT-C5**](../../../units/catapult/catapult_cplt-c5.md) *Missile Boat (3061)* 

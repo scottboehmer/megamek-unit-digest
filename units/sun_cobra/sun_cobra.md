@@ -33,12 +33,14 @@
 
 ### Late Republic 
 
+- Clan Jade Falcon 
 - Clan Sea Fox 
 - Clan Wolf 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
+- Clan Jade Falcon 
 - Clan Sea Fox 
 - Clan Wolf 
 - Federated Suns 

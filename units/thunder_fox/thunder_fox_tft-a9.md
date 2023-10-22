@@ -46,12 +46,14 @@
 
 - Draconis Combine 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Draconis Combine 
 - Lyran Commonwealth 
+- Mercenary 
 - Star League (Wolf) 
 - Vesper Marches 
 

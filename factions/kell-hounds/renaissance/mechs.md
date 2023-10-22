@@ -35,6 +35,10 @@
 
 - [**Spider SDR-5V**](../../../units/spider/spider_sdr-5v.md) *Scout (2650)* 
 
+#### [UrbanMech](../../../units/urbanmech.md) 
+
+- [**UrbanMech UM-R60**](../../../units/urbanmech/urbanmech_um-r60.md) *Ambusher (2675)* 
+
 #### [Valkyrie](../../../units/valkyrie.md) 
 
 - [**Valkyrie VLK-QA**](../../../units/valkyrie/valkyrie_vlk-qa.md) *Missile Boat (2787)* 

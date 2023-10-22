@@ -27,6 +27,7 @@
 
 ### Early Republic 
 
+- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
@@ -38,6 +39,7 @@
 
 ### Late Republic 
 
+- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
@@ -49,6 +51,7 @@
 
 ### Dark Ages 
 
+- Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
@@ -63,6 +66,7 @@
 
 ### ilClan 
 
+- Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 
 - Free Worlds League 

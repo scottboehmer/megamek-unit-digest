@@ -58,6 +58,7 @@
 
 ### Late Republic 
 
+- Federated Suns 
 - Filtvelt Coalition 
 - Mercenary 
 

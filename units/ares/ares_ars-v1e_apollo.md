@@ -31,5 +31,10 @@
 
 ## Availability 
 
-Availability Unknown 
+### ilClan 
+
+- Clan Sea Fox 
+- Federated Suns 
+- Free Worlds League 
+- Star League (Wolf) 
 

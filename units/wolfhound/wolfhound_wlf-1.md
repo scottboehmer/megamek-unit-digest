@@ -71,11 +71,22 @@
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
-- Republic of the Sphere 
+- Taurian Concordat 
 
 ### Late Republic 
 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Marian Hegemony 
+- Taurian Concordat 
+
+### ilClan 
+
+- Marian Hegemony 
+- Taurian Concordat 
 

@@ -30,12 +30,15 @@
 
 - Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
 
 ### Dark Ages 
 
 - Clan Wolf 
 - Free Worlds League 
+- Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
 
 ### ilClan 
 

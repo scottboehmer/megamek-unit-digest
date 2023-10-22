@@ -19,5 +19,23 @@
 
 ## Availability 
 
-Availability Unknown 
+### Star League 
+
+- Draconis Combine 
+
+### Early Succession Wars 
+
+- Draconis Combine 
+
+### Late Republic 
+
+- Calderon Protectorate 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+
+### ilClan 
+
+- Calderon Protectorate 
 

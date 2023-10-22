@@ -36,6 +36,7 @@
 
 ### Early Republic 
 
+- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -44,6 +45,7 @@
 
 ### Late Republic 
 
+- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -52,6 +54,7 @@
 
 ### Dark Ages 
 
+- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
@@ -62,6 +65,7 @@
 ### ilClan 
 
 - Clan Protectorate 
+- Duchy of Andurien 
 - Free Worlds League 
 - Mercenary 
 

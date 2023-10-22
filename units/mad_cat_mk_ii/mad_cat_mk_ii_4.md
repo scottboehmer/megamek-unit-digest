@@ -71,6 +71,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf 
@@ -94,6 +95,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
 - Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 

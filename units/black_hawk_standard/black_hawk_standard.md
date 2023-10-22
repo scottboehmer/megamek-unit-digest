@@ -28,9 +28,9 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Nova Cat 
-- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -61,6 +61,7 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -68,6 +69,7 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 - Wolf's Dragoons 
 
 ### Dark Ages 
@@ -85,6 +87,7 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -92,6 +95,7 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 - Wolf's Dragoons 
 
 ### ilClan 
@@ -107,8 +111,10 @@
 - Free Worlds League 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Mercenary 
 - Rasalhague Dominion 
 - Tamar Pact 
+- Taurian Concordat 
 - Vesper Marches 
 

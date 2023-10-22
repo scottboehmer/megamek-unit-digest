@@ -49,16 +49,19 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Magistracy of Canopus 
+- Mercenary 
 
 ### Dark Ages 
 
 - Capellan Confederation 
 - Duchy of Andurien 
 - Magistracy of Canopus 
+- Mercenary 
 
 ### ilClan 
 
 - Capellan Confederation 
 - Duchy of Andurien 
 - Magistracy of Canopus 
+- Mercenary 
 

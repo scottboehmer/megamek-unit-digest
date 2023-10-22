@@ -15,7 +15,7 @@
   - Squad Support ER Medium Laser 
   - Heavy Machine Gun 
 - **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9445) 
-- **Battle Value:** 198 (453 for 5 suits) 
+- **Battle Value:** 198 (532 for 6 suits) 
 
 ## Availability 
 

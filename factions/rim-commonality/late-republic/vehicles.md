@@ -444,7 +444,7 @@
 - [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 #### [Ranger Armored Fighting Vehicle](../../../units/ranger_armored_fighting_vehicle.md) 
 
@@ -698,6 +698,10 @@
 #### [SM2 Heavy Artillery Vehicle](../../../units/sm2_heavy_artillery_vehicle.md) 
 
 - [**SM2 Heavy Artillery Vehicle**](../../../units/sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle.md) *Missile Boat (3093)* 
+
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
 
 #### [Zhukov Heavy Tank](../../../units/zhukov_heavy_tank.md) 
 

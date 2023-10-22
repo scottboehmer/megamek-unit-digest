@@ -111,3 +111,43 @@
 - Lyran Alliance 
 - Word of Blake 
 
+### Early Republic 
+
+- Duchy of Andurien 
+- Escorpión Imperio 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Pirate 
+- Rasalhague Dominion 
+- Rim Commonality 
+
+### Late Republic 
+
+- Duchy of Andurien 
+- Escorpión Imperio 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Pirate 
+- Rasalhague Dominion 
+- Rim Commonality 
+
+### Dark Ages 
+
+- Duchy of Andurien 
+- Escorpión Imperio 
+- Free Worlds League 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Rim Commonality 
+- Scorpion Empire 
+
+### ilClan 
+
+- Alyina Mercantile League 
+- Clan Jade Falcon 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Scorpion Empire 
+- Tamar Pact 
+- Vesper Marches 
+

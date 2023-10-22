@@ -102,6 +102,7 @@
 
 #### [Kestrel VTOL](../../../units/kestrel_vtol.md) 
 
+- [**Kestrel VTOL (Clan)**](../../../units/kestrel_vtol/kestrel_vtol_clan.md) *Scout (2880)* `Transport:4.0` 
 - [**Kestrel VTOL**](../../../units/kestrel_vtol/kestrel_vtol.md) *Scout (3007)* `Transport:3.5` 
 - [**Kestrel VTOL (SL)**](../../../units/kestrel_vtol/kestrel_vtol_sl.md) *Scout (3017)* `Transport:1.5` 
 - [**Kestrel VTOL (MedEvac)**](../../../units/kestrel_vtol/kestrel_vtol_medevac.md) *Undefined (3022)* `Transport:3.5` 

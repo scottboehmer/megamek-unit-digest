@@ -56,6 +56,7 @@
 - Federated Commonwealth 
 - Federated Suns 
 - Lyran Alliance 
+- Mercenary 
 - Outworlds Alliance 
 - St. Ives Compact 
 
@@ -63,5 +64,16 @@
 
 - Federated Suns 
 - Lyran Alliance 
+- Mercenary 
 - Outworlds Alliance 
+
+### Early Republic 
+
+- Federated Suns 
+- Mercenary 
+
+### Late Republic 
+
+- Federated Suns 
+- Mercenary 
 

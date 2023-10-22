@@ -40,6 +40,11 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Blood Spirit 
+- Clan Ghost Bear 
+- Clan Ice Hellion 
+- Clan Snow Raven 
+- Clan Wolf 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

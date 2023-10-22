@@ -28,8 +28,50 @@
 
 ### Early Succession Wars 
 
+- Clan Fire Mandrill 
 - Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Sea Fox 
+- Clan Snow Raven 
 - Star League-in-Exile 
+
+### Late Succession Wars - LosTech 
+
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Clan Invasion 
+
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Civil War 
+
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Jihad 
+
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
 

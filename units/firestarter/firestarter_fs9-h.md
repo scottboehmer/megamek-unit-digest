@@ -43,6 +43,8 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Fire Mandrill 
+- Clan Hell's Horses 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

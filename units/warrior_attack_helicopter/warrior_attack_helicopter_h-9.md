@@ -27,14 +27,17 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Lyran Commonwealth 
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Lyran Commonwealth 
 
 ### ilClan 
 
+- Capellan Confederation 
 - Lyran Commonwealth 
 - Tamar Pact 
 - Vesper Marches 

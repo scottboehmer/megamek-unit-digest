@@ -78,8 +78,6 @@
 #### [Brigand](../../../units/brigand.md) 
 
 - [**Brigand LDT-1**](../../../units/brigand/brigand_ldt-1.md) *Striker (3065)* 
-- [**Brigand LDT-X1**](../../../units/brigand/brigand_ldt-x1.md) *Striker (3066)* 
-- [**Brigand LDT-X2**](../../../units/brigand/brigand_ldt-x2.md) *Striker (3066)* 
 
 #### [CattleMaster](../../../units/cattlemaster.md) 
 
@@ -96,6 +94,7 @@
 
 - [**Dart DRT-3S**](../../../units/dart/dart_drt-3s.md) *Scout (3051)* 
 - [**Dart DRT-4S**](../../../units/dart/dart_drt-4s.md) *Scout (3053)* 
+- [**Dart DRT-6S**](../../../units/dart/dart_drt-6s.md) *Scout (3053)* 
 - [**Dart DRT-6T**](../../../units/dart/dart_drt-6t.md) *Scout (3077)* 
 
 #### [Eagle](../../../units/eagle.md) 
@@ -182,6 +181,7 @@
 #### [Hammer](../../../units/hammer.md) 
 
 - [**Hammer HMR-3M**](../../../units/hammer/hammer_hmr-3m.md) *Striker (3053)* 
+- [**Hammer HMR-3C 'Claw-Hammer'**](../../../units/hammer/hammer_hmr-3c_claw-hammer.md) *Striker (3056)* 
 - [**Hammer HMR-3P 'Pein-Hammer'**](../../../units/hammer/hammer_hmr-3p_pein-hammer.md) *Brawler (3060)* `TAG` 
 
 #### [Hitman](../../../units/hitman.md) 
@@ -283,6 +283,10 @@
 
 - [**Falcon Hawk FNHK-9K**](../../../units/falcon_hawk/falcon_hawk_fnhk-9k.md) *Brawler (3057)* 
 - [**Falcon Hawk FNHK-9K1A**](../../../units/falcon_hawk/falcon_hawk_fnhk-9k1a.md) *Brawler (3057)* 
+
+#### [Firebee](../../../units/firebee.md) 
+
+- [**Firebee FRB-1E (WAM-B)**](../../../units/firebee/firebee_frb-1e_wam-b.md) *Brawler (2483)* 
 
 #### [Firestarter](../../../units/firestarter.md) 
 
@@ -593,6 +597,7 @@
 - [**Blackjack BJ2-OB**](../../../units/blackjack_omnimech/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
 - [**Blackjack BJ2-OC**](../../../units/blackjack_omnimech/blackjack_bj2-oc.md) *Brawler (3057)* 
 - [**Blackjack BJ2-OD**](../../../units/blackjack_omnimech/blackjack_bj2-od.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OE**](../../../units/blackjack_omnimech/blackjack_bj2-oe.md) *Sniper (3059)* 
 - [**Blackjack BJ2-OR**](../../../units/blackjack_omnimech/blackjack_bj2-or.md) *Brawler (3059)* 
 - [**Blackjack BJ2-OF**](../../../units/blackjack_omnimech/blackjack_bj2-of.md) *Sniper (3061)* 
 - [**Blackjack BJ2-OX**](../../../units/blackjack_omnimech/blackjack_bj2-ox.md) *Brawler (3074)* 
@@ -870,6 +875,7 @@
 - [**Black Hawk-KU BHKU-OB**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ob.md) *Skirmisher (3055)* 
 - [**Black Hawk-KU BHKU-OC**](../../../units/black_hawk-ku/black_hawk-ku_bhku-oc.md) *Sniper (3055)* 
 - [**Black Hawk-KU BHKU-OD**](../../../units/black_hawk-ku/black_hawk-ku_bhku-od.md) *Missile Boat (3055)* 
+- [**Black Hawk-KU BHKU-OX**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ox.md) *Skirmisher (3058)* `C3 Support` 
 - [**Black Hawk-KU BHKU-OR**](../../../units/black_hawk-ku/black_hawk-ku_bhku-or.md) *Skirmisher (3059)* `C3 Support` 
 - [**Black Hawk-KU BHKU-OE**](../../../units/black_hawk-ku/black_hawk-ku_bhku-oe.md) *Skirmisher (3063)* 
 - [**Black Hawk-KU BHKU-OF**](../../../units/black_hawk-ku/black_hawk-ku_bhku-of.md) *Sniper (3069)* `C3 Support` 
@@ -886,6 +892,10 @@
 - [**Dragon DRG-1N**](../../../units/dragon/dragon_drg-1n.md) *Skirmisher (2754)* 
 - [**Dragon DRG-5N**](../../../units/dragon/dragon_drg-5n.md) *Skirmisher (3047)* 
 - [**Dragon DRG-7N**](../../../units/dragon/dragon_drg-7n.md) *Skirmisher (3063)* 
+
+#### [Grand Dragon](../../../units/grand_dragon.md) 
+
+- [**Grand Dragon DRG-1G**](../../../units/grand_dragon/grand_dragon_drg-1g.md) *Skirmisher (3024)* 
 
 #### [Griffin](../../../units/griffin.md) 
 
@@ -940,6 +950,7 @@
 - [**Rifleman RFL-5D**](../../../units/rifleman/rifleman_rfl-5d.md) *Brawler (3050)* 
 - [**Rifleman RFL-6X**](../../../units/rifleman/rifleman_rfl-6x.md) *Sniper (3063)* 
 - [**Rifleman RFL-8X**](../../../units/rifleman/rifleman_rfl-8x.md) *Skirmisher (3068)* 
+- [**Rifleman RFL-6D**](../../../units/rifleman/rifleman_rfl-6d.md) *Skirmisher (3069)* `C3 Support` 
 
 #### [Yeoman](../../../units/yeoman.md) 
 
@@ -1064,6 +1075,7 @@
 - [**Avatar AV1-OB**](../../../units/avatar/avatar_av1-ob.md) *Missile Boat (3056)* 
 - [**Avatar AV1-OC**](../../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Main` , `TAG` 
 - [**Avatar AV1-OG**](../../../units/avatar/avatar_av1-og.md) *Sniper (3056)* 
+- [**Avatar AV1-OR**](../../../units/avatar/avatar_av1-or.md) *Brawler (3059)* 
 - [**Avatar AV1-OD**](../../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Support` 
 - [**Avatar AV1-OF**](../../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
 - [**Avatar AV1-OH**](../../../units/avatar/avatar_av1-oh.md) *Sniper (3069)* 
@@ -1092,6 +1104,10 @@
 #### [Daikyu](../../../units/daikyu.md) 
 
 - [**Daikyu DAI-01 (Tabitha)**](../../../units/daikyu/daikyu_dai-01_tabitha.md) *Sniper (3064)* `Unique` 
+
+#### [Excalibur](../../../units/excalibur.md) 
+
+- [**Excalibur EXC-B2**](../../../units/excalibur/excalibur_exc-b2.md) *Skirmisher (2620)* 
 
 #### [Gallant](../../../units/gallant.md) 
 
@@ -1273,6 +1289,7 @@
 
 #### [Charger](../../../units/charger.md) 
 
+- [**Charger CGR-1A1**](../../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
 - [**Charger CGR-1A5**](../../../units/charger/charger_cgr-1a5.md) *Juggernaut (3023)* 
 - [**Charger CGR-SB 'Challenger'**](../../../units/charger/charger_cgr-sb_challenger.md) *Juggernaut (3025)* 
 - [**Charger CGR-3K**](../../../units/charger/charger_cgr-3k.md) *Skirmisher (3049)* 
@@ -1348,6 +1365,7 @@
 #### [Zeus](../../../units/zeus.md) 
 
 - [**Zeus ZEU-6S**](../../../units/zeus/zeus_zeu-6s.md) *Sniper (2898)* 
+- [**Zeus ZEU-6T**](../../../units/zeus/zeus_zeu-6t.md) *Sniper (3026)* 
 - [**Zeus ZEU-9S**](../../../units/zeus/zeus_zeu-9s.md) *Sniper (3048)* 
 - [**Zeus ZEU-9S2**](../../../units/zeus/zeus_zeu-9s2.md) *Sniper (3051)* 
 - [**Zeus ZEU-9T**](../../../units/zeus/zeus_zeu-9t.md) *Brawler (3062)* 
@@ -1429,6 +1447,7 @@
 #### [Highlander](../../../units/highlander.md) 
 
 - [**Highlander HGN-732**](../../../units/highlander/highlander_hgn-732.md) *Sniper (2592)* 
+- [**Highlander HGN-733**](../../../units/highlander/highlander_hgn-733.md) *Juggernaut (2866)* 
 - [**Highlander HGN-734**](../../../units/highlander/highlander_hgn-734.md) *Juggernaut (3062)* 
 
 #### [Kingfisher](../../../units/kingfisher.md) 
@@ -1522,6 +1541,7 @@
 - [**Atlas AS7-S3**](../../../units/atlas/atlas_as7-s3.md) *Sniper (3062)* `ECM` 
 - [**Atlas AS7-S3-DC**](../../../units/atlas/atlas_as7-s3-dc.md) *Sniper (3064)* `Command Console` 
 - [**Atlas AS7-Dr**](../../../units/atlas/atlas_as7-dr.md) *Juggernaut (3070)* `C3 Support` , `ECM` 
+- [**Atlas AS8-D**](../../../units/atlas/atlas_as8-d.md) *Juggernaut (3074)* 
 
 #### [Berserker](../../../units/berserker.md) 
 

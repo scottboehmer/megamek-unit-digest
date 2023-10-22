@@ -26,5 +26,7 @@
 
 ## Availability 
 
-Availability Unknown 
+### Jihad (Unique) 
+
+- Wolf's Dragoons 
 

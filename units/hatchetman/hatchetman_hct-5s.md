@@ -50,6 +50,7 @@
 
 ### Jihad 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Rasalhague Republic 
@@ -61,6 +62,7 @@
 ### Early Republic 
 
 - Calderon Protectorate 
+- Clan Wolf-in-Exile 
 - Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
@@ -74,6 +76,7 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Clan Wolf-in-Exile 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 

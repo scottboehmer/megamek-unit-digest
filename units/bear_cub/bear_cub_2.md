@@ -36,15 +36,18 @@
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Clan Hell's Horses 
 - Rasalhague Dominion 
 

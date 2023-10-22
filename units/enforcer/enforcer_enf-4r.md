@@ -115,3 +115,13 @@
 - Fronc Reaches 
 - Taurian Concordat 
 
+### Dark Ages 
+
+- Calderon Protectorate 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Taurian Concordat 
+

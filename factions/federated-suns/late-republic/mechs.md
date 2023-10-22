@@ -32,10 +32,6 @@
 - [**Pompier GM-3CD FireMech**](../../../units/pompier/pompier_gm-3cd_firemech.md) *Undefined (3062)* `Active Probe` , `IndustrialMech` 
 - [**Pompier GM-4P PoliceMech**](../../../units/pompier/pompier_gm-4p_policemech.md) *Undefined (3085)* `IndustrialMech` 
 
-#### [Prey Seeker](../../../units/prey_seeker.md) 
-
-- [**Prey Seeker PY-SR10**](../../../units/prey_seeker/prey_seeker_py-sr10.md) *Striker (3136)* 
-
 ### 20 Tons 
 
 #### [Fireball](../../../units/fireball.md) 
@@ -108,10 +104,6 @@
 - [**Dart DRT-4S**](../../../units/dart/dart_drt-4s.md) *Scout (3053)* 
 - [**Dart DRT-6S**](../../../units/dart/dart_drt-6s.md) *Scout (3053)* 
 - [**Dart DRT-6T**](../../../units/dart/dart_drt-6t.md) *Scout (3077)* 
-
-#### [Gunsmith](../../../units/gunsmith.md) 
-
-- [**Gunsmith CH11-NG**](../../../units/gunsmith/gunsmith_ch11-ng.md) *Striker (3131)* 
 
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
@@ -197,6 +189,10 @@
 - [**Scarabus SCB-9A**](../../../units/scarabus/scarabus_scb-9a.md) *Scout (3053)* `ECM` , `TAG` 
 - [**Scarabus SCB-9T**](../../../units/scarabus/scarabus_scb-9t.md) *Scout (3054)* `ECM` , `TAG` 
 
+#### [SuburbanMech](../../../units/suburbanmech.md) 
+
+- [**SuburbanMech UM-R90**](../../../units/suburbanmech/suburbanmech_um-r90.md) *Ambusher (3018)* 
+
 #### [UrbanMech](../../../units/urbanmech.md) 
 
 - [**UrbanMech UM-R69**](../../../units/urbanmech/urbanmech_um-r69.md) *Sniper (3063)* 
@@ -230,6 +226,7 @@
 
 #### [Blade](../../../units/blade.md) 
 
+- [**Blade BLD-XL**](../../../units/blade/blade_bld-xl.md) *Striker (3087)* 
 - [**Blade BLD-XR**](../../../units/blade/blade_bld-xr.md) *Sniper (3125)* 
 
 #### [Cougar](../../../units/cougar.md) 
@@ -410,6 +407,7 @@
 #### [Phoenix Hawk](../../../units/phoenix_hawk.md) 
 
 - [**Phoenix Hawk PXH-1**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)* 
+- [**Phoenix Hawk PXH-3D**](../../../units/phoenix_hawk/phoenix_hawk_pxh-3d.md) *Striker (3048)* 
 - [**Phoenix Hawk PXH-3PL**](../../../units/phoenix_hawk/phoenix_hawk_pxh-3pl.md) *Striker (3067)* 
 - [**Phoenix Hawk PXH-6D**](../../../units/phoenix_hawk/phoenix_hawk_pxh-6d.md) *Striker (3067)* 
 
@@ -491,6 +489,10 @@
 - [**Chameleon CLN-7Z**](../../../units/chameleon/chameleon_cln-7z.md) *Striker (3058)* 
 - [**Chameleon CLN-8V**](../../../units/chameleon/chameleon_cln-8v.md) *Striker (3086)* 
 - [**Chameleon CLN-9V**](../../../units/chameleon/chameleon_cln-9v.md) *Striker (3120)* 
+
+#### [Enforcer](../../../units/enforcer.md) 
+
+- [**Enforcer ENF-5D**](../../../units/enforcer/enforcer_enf-5d.md) *Skirmisher (3050)* 
 
 #### [Enforcer III](../../../units/enforcer_iii.md) 
 
@@ -702,6 +704,7 @@
 - [**Rifleman RFL-6X**](../../../units/rifleman/rifleman_rfl-6x.md) *Sniper (3063)* 
 - [**Rifleman RFL-8D**](../../../units/rifleman/rifleman_rfl-8d.md) *Skirmisher (3064)* 
 - [**Rifleman RFL-7M**](../../../units/rifleman/rifleman_rfl-7m.md) *Brawler (3066)* `ECM` 
+- [**Rifleman RFL-6D**](../../../units/rifleman/rifleman_rfl-6d.md) *Skirmisher (3069)* `C3 Support` 
 - [**Rifleman RFL-3Cr**](../../../units/rifleman/rifleman_rfl-3cr.md) *Brawler (3071)* 
 
 ### 65 Tons 
@@ -835,6 +838,10 @@
 
 - [**Guillotine GLT-5M**](../../../units/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)* 
 - [**Guillotine GLT-8D**](../../../units/guillotine/guillotine_glt-8d.md) *Skirmisher (3062)* 
+
+#### [Hound](../../../units/hound.md) 
+
+- [**Hound HD-2F**](../../../units/hound/hound_hd-2f.md) *Sniper (3098)* 
 
 #### [JagerMech](../../../units/jagermech.md) 
 

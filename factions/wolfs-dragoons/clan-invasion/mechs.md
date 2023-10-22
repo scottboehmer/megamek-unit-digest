@@ -70,6 +70,7 @@
 - [**Mist Lynx D**](../../../units/mist_lynx/mist_lynx_d.md) *Striker (2926)* `Active Probe` 
 - [**Mist Lynx E**](../../../units/mist_lynx/mist_lynx_e.md) *Striker (3054)* `Active Probe` 
 - [**Mist Lynx H**](../../../units/mist_lynx/mist_lynx_h.md) *Striker (3059)* `Active Probe` 
+- [**Mist Lynx P**](../../../units/mist_lynx/mist_lynx_p.md) *Scout (3061)* `Active Probe` 
 
 #### [Mongoose](../../../units/mongoose.md) 
 
@@ -346,6 +347,8 @@
 - [**Blackjack BJ2-OB**](../../../units/blackjack_omnimech/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
 - [**Blackjack BJ2-OC**](../../../units/blackjack_omnimech/blackjack_bj2-oc.md) *Brawler (3057)* 
 - [**Blackjack BJ2-OD**](../../../units/blackjack_omnimech/blackjack_bj2-od.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OE**](../../../units/blackjack_omnimech/blackjack_bj2-oe.md) *Sniper (3059)* 
+- [**Blackjack BJ2-OR**](../../../units/blackjack_omnimech/blackjack_bj2-or.md) *Brawler (3059)* 
 - [**Blackjack BJ2-OF**](../../../units/blackjack_omnimech/blackjack_bj2-of.md) *Sniper (3061)* 
 
 #### [Centurion](../../../units/centurion.md) 
@@ -490,6 +493,7 @@
 - [**Black Hawk-KU BHKU-OB**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ob.md) *Skirmisher (3055)* 
 - [**Black Hawk-KU BHKU-OC**](../../../units/black_hawk-ku/black_hawk-ku_bhku-oc.md) *Sniper (3055)* 
 - [**Black Hawk-KU BHKU-OD**](../../../units/black_hawk-ku/black_hawk-ku_bhku-od.md) *Missile Boat (3055)* 
+- [**Black Hawk-KU BHKU-OX**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ox.md) *Skirmisher (3058)* `C3 Support` 
 - [**Black Hawk-KU BHKU-OR**](../../../units/black_hawk-ku/black_hawk-ku_bhku-or.md) *Skirmisher (3059)* `C3 Support` 
 
 #### [Champion](../../../units/champion.md) 
@@ -880,7 +884,7 @@
 
 - [**Nightstar NSR-9J**](../../../units/nightstar/nightstar_nsr-9j.md) *Juggernaut (2767)* 
 - [**Nightstar NSR-9FC**](../../../units/nightstar/nightstar_nsr-9fc.md) *Juggernaut (3057)* 
-- [**Nightstar NSR-9J (Brubaker)**](../../../units/nightstar/nightstar_nsr-9j_brubaker.md) *Sniper (3057)* 
+- [**Nightstar NSR-9J (Brubaker)**](../../../units/nightstar/nightstar_nsr-9j_brubaker.md) *Sniper (3057)* `Unique` 
 
 #### [Sirocco](../../../units/sirocco.md) 
 

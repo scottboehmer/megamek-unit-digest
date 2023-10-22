@@ -23,14 +23,6 @@
 
 ## Availability 
 
-### Clan Invasion 
-
-- Clan Ice Hellion 
-
-### Civil War 
-
-- Clan Ice Hellion 
-
 ### Jihad 
 
 - Clan Burrock 

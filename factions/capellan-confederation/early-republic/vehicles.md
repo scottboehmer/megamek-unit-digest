@@ -127,6 +127,10 @@
 
 ### 20 Tons 
 
+#### [Asshur Artillery Spotter](../../../units/asshur_artillery_spotter.md) 
+
+- [**Asshur Artillery Spotter**](../../../units/asshur_artillery_spotter/asshur_artillery_spotter.md) *Striker (2893)* `TAG` 
+
 #### [Heavy Hover APC](../../../units/heavy_hover_apc.md) 
 
 - [**Heavy Hover APC**](../../../units/heavy_hover_apc/heavy_hover_apc.md) *Scout (2470)* `Transport:6.0` 
@@ -813,11 +817,6 @@
 - [**Behemoth Heavy Tank (Flamer)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) *Juggernaut (2981)* 
 - [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 - [**Behemoth Heavy Tank (Kurita)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_kurita.md) *Juggernaut (3062)* 
-
-#### [Behemoth II Heavy Tank](../../../units/behemoth_ii_heavy_tank.md) 
-
-- [**Behemoth II Heavy Tank**](../../../units/behemoth_ii_heavy_tank/behemoth_ii_heavy_tank.md) *Missile Boat (3102)* 
-- [**Behemoth II Heavy Tank (Support)**](../../../units/behemoth_ii_heavy_tank/behemoth_ii_heavy_tank_support.md) *Sniper (3102)* 
 
 #### [DI Morgan Assault Tank](../../../units/di_morgan_assault_tank.md) 
 

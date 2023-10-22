@@ -18,7 +18,23 @@
   - Talons 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER PPC) 
+  - Jettison-Capable Weapon (SRM 6) 
+  - Modular Weapon (SRM 6) 
 - **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8008) 
 - **Battle Value:** 1578 
 

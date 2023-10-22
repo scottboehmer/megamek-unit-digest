@@ -42,6 +42,7 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
@@ -49,6 +50,7 @@
 
 ### Late Republic 
 
+- Clan Sea Fox 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
@@ -56,6 +58,7 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
@@ -63,6 +66,7 @@
 
 ### ilClan 
 
+- Clan Sea Fox 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 

@@ -26,6 +26,7 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

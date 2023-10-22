@@ -77,3 +77,13 @@
 - Pirate 
 - Taurian Concordat 
 
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+

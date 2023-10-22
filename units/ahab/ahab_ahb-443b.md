@@ -24,6 +24,7 @@
 
 ### Star League 
 
+- Star League 
 - Star League - Royal Divisions 
 
 ### Early Succession Wars 

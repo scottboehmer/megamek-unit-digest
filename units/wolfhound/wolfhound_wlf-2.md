@@ -32,6 +32,7 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Civil War 
@@ -42,6 +43,7 @@
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Jihad 
@@ -56,26 +58,27 @@
 
 ### Early Republic 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
 - Filtvelt Coalition 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
-- Republic of the Sphere 
 - Wolf's Dragoons 
 
 ### Late Republic 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
 - Filtvelt Coalition 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
-- Republic of the Sphere 
 - Wolf's Dragoons 
 
 ### Dark Ages 
 
+- Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 

@@ -215,6 +215,11 @@
 
 ### 55 Tons 
 
+#### [Bushwacker](../../../units/bushwacker.md) 
+
+- [**Bushwacker BSW-X2**](../../../units/bushwacker/bushwacker_bsw-x2.md) *Skirmisher (3054)* 
+- [**Bushwacker BSW-X4**](../../../units/bushwacker/bushwacker_bsw-x4.md) *Sniper (3125)* 
+
 #### [Hoplite](../../../units/hoplite.md) 
 
 - [**Hoplite HOP-5C**](../../../units/hoplite/hoplite_hop-5c.md) *Brawler (3138)* 

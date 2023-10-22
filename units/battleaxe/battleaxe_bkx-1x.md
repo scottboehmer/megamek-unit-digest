@@ -34,4 +34,13 @@
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Mercenary 
+
+### Dark Ages 
+
+- Mercenary 
 

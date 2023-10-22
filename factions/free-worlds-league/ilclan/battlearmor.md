@@ -64,6 +64,10 @@
 - [**Achileus Light Battle Armor (TAG)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_tagsqd4.md) *Ambusher (3059)* `Stealth` , `TAG` 
 - [**Achileus Light Battle Armor (David)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_davidsqd4.md) *Ambusher (3064)* `Stealth` 
 
+#### [Spectre Stealth Battle Armor](../../../units/spectre_stealth_battle_armor.md) 
+
+- [**Spectre Stealth Battle Armor (Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd4.md) *Scout (3097)* `Stealth` 
+
 ### 1 Tons 
 
 #### [Angerona Scout Suit](../../../units/angerona_scout_suit.md) 
@@ -107,6 +111,12 @@
 - [**Longinus Battle Armor (MG)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_mgsqd4.md) *Ambusher (3057)* 
 - [**Longinus Battle Armor (David)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_davidsqd4.md) *Ambusher (3063)* 
 - [**Longinus Battle Armor (Magnetic)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_magneticsqd4.md) *Ambusher (3069)* 
+
+#### [Longinus C Battle Armor](../../../units/longinus_c_battle_armor.md) 
+
+- [**Longinus C Battle Armor (MMR)(Sqd4)**](../../../units/longinus_c_battle_armor/longinus_c_battle_armor_mmrsqd4.md) *Undefined (3144)* 
+- [**Longinus C Battle Armor (PPC)(Sqd4)**](../../../units/longinus_c_battle_armor/longinus_c_battle_armor_ppcsqd4.md) *Undefined (3144)* 
+- [**Longinus C Battle Armor (PPC)(Sqd5)**](../../../units/longinus_c_battle_armor/longinus_c_battle_armor_ppcsqd5.md) *Undefined (3144)* 
 
 #### [Purifier Adaptive Battle Armor](../../../units/purifier_adaptive_battle_armor.md) 
 

@@ -27,6 +27,10 @@
 - [**Locust C**](../../../units/locust/locust_c.md) *Striker (2836)* 
 - [**Locust LCT-5W2**](../../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Support` , `ECM` , `TAG` 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -38,6 +42,7 @@
 #### [Thorn](../../../units/thorn.md) 
 
 - [**Thorn THE-N**](../../../units/thorn/thorn_the-n.md) *Striker (2549)* 
+- [**Thorn THE-Nb**](../../../units/thorn/thorn_the-nb.md) *Striker (2743)* 
 
 ### 25 Tons 
 
@@ -243,6 +248,7 @@
 #### [Sentinel](../../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
+- [**Sentinel STN-3Lb**](../../../units/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
 
 #### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
@@ -490,6 +496,7 @@
 #### [Exterminator](../../../units/exterminator.md) 
 
 - [**Exterminator EXT-4D**](../../../units/exterminator/exterminator_ext-4d.md) *Skirmisher (2630)* 
+- [**Exterminator EXT-4Db**](../../../units/exterminator/exterminator_ext-4db.md) *Skirmisher (2718)* 
 
 #### [Hellbringer](../../../units/hellbringer.md) 
 
@@ -568,7 +575,7 @@
 - [**Summoner F**](../../../units/summoner/summoner_f.md) *Skirmisher (3054)* 
 - [**Summoner H**](../../../units/summoner/summoner_h.md) *Skirmisher (3059)* 
 - [**Summoner G**](../../../units/summoner/summoner_g.md) *Skirmisher (3068)* 
-- [**Summoner Q**](../../../units/summoner/summoner_q.md) *Skirmisher (3069)* `Unique` 
+- [**Summoner Q**](../../../units/summoner/summoner_q.md) *Skirmisher (3069)* 
 - [**Summoner HH**](../../../units/summoner/summoner_hh.md) *Skirmisher (3070)* 
 - [**Summoner U**](../../../units/summoner/summoner_u.md) *Sniper (3078)* 
 
@@ -749,6 +756,10 @@
 - [**Kingfisher H**](../../../units/kingfisher/kingfisher_h.md) *Brawler (3061)* 
 - [**Kingfisher E**](../../../units/kingfisher/kingfisher_e.md) *Brawler (3063)* 
 - [**Kingfisher F**](../../../units/kingfisher/kingfisher_f.md) *Brawler (3069)* `ECM` 
+
+#### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 
+
+- [**Mad Cat Mk II**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii.md) *Brawler (3062)* 
 
 #### [Supernova](../../../units/supernova.md) 
 

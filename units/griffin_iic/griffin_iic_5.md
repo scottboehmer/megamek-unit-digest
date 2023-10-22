@@ -32,19 +32,23 @@
 
 - Clan Diamond Shark 
 - Clan Nova Cat 
+- Lyran Commonwealth 
 
 ### Late Republic 
 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- Lyran Commonwealth 
 
 ### Dark Ages 
 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- Lyran Commonwealth 
 
 ### ilClan 
 
 - Clan Protectorate 
 - Clan Sea Fox 
+- Lyran Commonwealth 
 

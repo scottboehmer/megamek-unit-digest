@@ -193,6 +193,11 @@
 
 ### 55 Tons 
 
+#### [Bushwacker](../../../units/bushwacker.md) 
+
+- [**Bushwacker BSW-X2**](../../../units/bushwacker/bushwacker_bsw-x2.md) *Skirmisher (3054)* 
+- [**Bushwacker BSW-X4**](../../../units/bushwacker/bushwacker_bsw-x4.md) *Sniper (3125)* 
+
 #### [Hyena](../../../units/hyena.md) 
 
 - [**Hyena HYN-4A SalvageMech**](../../../units/hyena/hyena_hyn-4a_salvagemech.md) *Scout (3066)* `IndustrialMech` 

@@ -27,23 +27,27 @@
 ### Early Republic 
 
 - Draconis Combine 
+- Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
 
 - Draconis Combine 
+- Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Draconis Combine 
+- Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Draconis Combine 
+- Magistracy of Canopus 
 - Mercenary 
 

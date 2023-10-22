@@ -111,6 +111,7 @@
 
 #### [Mongoose](../../../units/mongoose.md) 
 
+- [**Mongoose MON-68**](../../../units/mongoose/mongoose_mon-68.md) *Scout (3039)* 
 - [**Mongoose MON-76**](../../../units/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM` 
 - [**Mongoose MON-86**](../../../units/mongoose/mongoose_mon-86.md) *Striker (3078)* `Active Probe` 
 
@@ -624,6 +625,7 @@
 - [**Stormcrow TC**](../../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
+- [**Stormcrow I**](../../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
 - [**Stormcrow G**](../../../units/stormcrow/stormcrow_g.md) *Striker (3068)* 
 - [**Stormcrow F**](../../../units/stormcrow/stormcrow_f.md) *Striker (3069)* 
 
@@ -867,6 +869,10 @@
 - [**Grasshopper GHR-7K**](../../../units/grasshopper/grasshopper_ghr-7k.md) *Skirmisher (3068)* `C3 Support` , `ECM` 
 - [**Grasshopper GHR-8K**](../../../units/grasshopper/grasshopper_ghr-8k.md) *Skirmisher (3091)* 
 
+#### [Guillotine](../../../units/guillotine.md) 
+
+- [**Guillotine GLT-7M**](../../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
+
 #### [Lumberjack](../../../units/lumberjack.md) 
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
@@ -900,6 +906,10 @@
 
 - [**Black Knight BL-6-KNT**](../../../units/black_knight/black_knight_bl-6-knt.md) *Brawler (2578)* `Active Probe` 
 - [**Black Knight BL-6b-KNT**](../../../units/black_knight/black_knight_bl-6b-knt.md) *Brawler (2751)* `Active Probe` 
+
+#### [Dragon Fire](../../../units/dragon_fire.md) 
+
+- [**Dragon Fire DGR-3F**](../../../units/dragon_fire/dragon_fire_dgr-3f.md) *Brawler (3058)* `ECM` 
 
 #### [Helepolis](../../../units/helepolis.md) 
 
@@ -948,6 +958,7 @@
 
 #### [Charger](../../../units/charger.md) 
 
+- [**Charger CGR-1A9**](../../../units/charger/charger_cgr-1a9.md) *Skirmisher (3034)* 
 - [**Charger CGR-3K**](../../../units/charger/charger_cgr-3k.md) *Skirmisher (3049)* 
 - [**Charger CGR-C**](../../../units/charger/charger_cgr-c.md) *Skirmisher (3052)* `C3 Support` 
 - [**Charger CGR-SA5**](../../../units/charger/charger_cgr-sa5.md) *Juggernaut (3063)* 

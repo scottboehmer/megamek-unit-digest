@@ -2,25 +2,11 @@
 
 ## Combat Vehicles 
 
-### 3 Tons 
-
-#### [Jet Sled](../../../units/jet_sled.md) 
-
-- [**Jet Sled**](../../../units/jet_sled/jet_sled.md) *Undefined (2300)* `Transport:0.5` 
-
 ### 5 Tons 
-
-#### [Jeep](../../../units/jeep.md) 
-
-- [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
 
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
-
-#### [Speeder](../../../units/speeder.md) 
-
-- [**Speeder**](../../../units/speeder/speeder.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -91,6 +77,7 @@
 
 #### [Heavy Tracked APC](../../../units/heavy_tracked_apc.md) 
 
+- [**Heavy Tracked APC**](../../../units/heavy_tracked_apc/heavy_tracked_apc.md) *Scout (2470)* `Transport:6.0` 
 - [**Heavy Tracked APC (LRM)**](../../../units/heavy_tracked_apc/heavy_tracked_apc_lrm.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Tracked APC (MG)**](../../../units/heavy_tracked_apc/heavy_tracked_apc_mg.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Tracked APC (SRM)**](../../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* `Transport:3.0` 
@@ -183,6 +170,7 @@
 #### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
 
 - [**Chaparral Missile Artillery Tank**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank.md) *Missile Boat (2611)* 
+- [**Chaparral Missile Artillery Tank (SRM)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (2614)* 
 
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
@@ -312,6 +300,7 @@
 #### [Rhino Fire Support Tank](../../../units/rhino_fire_support_tank.md) 
 
 - [**Rhino Fire Support Tank**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank.md) *Missile Boat (2669)* 
+- [**Rhino Fire Support Tank (SL)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_sl.md) *Missile Boat (2724)* 
 - [**Rhino Fire Support Tank (MG)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_mg.md) *Missile Boat (2725)* 
 
 ### 95 Tons 

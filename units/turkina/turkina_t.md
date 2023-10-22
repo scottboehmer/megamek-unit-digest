@@ -29,6 +29,7 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
+- Clan Wolf 
 - Scorpion Empire 
 
 ### ilClan 

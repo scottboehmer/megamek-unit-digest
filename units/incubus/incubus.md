@@ -17,7 +17,14 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
   - Jettison-Capable Weapon (Large Pulse Laser) 
+  - Modular Weapon (Large Pulse Laser) 
 - **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3441) 
 - **Battle Value:** 1596 
 

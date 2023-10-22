@@ -35,9 +35,10 @@
 - Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
-- Outworlds Alliance 
+- Pirate 
 - Raven Alliance 
 - Taurian Concordat 
 
@@ -46,8 +47,10 @@
 - Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Raven Alliance 
 - Taurian Concordat 
 
@@ -56,8 +59,10 @@
 - Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Raven Alliance 
 - Taurian Concordat 
 
@@ -66,8 +71,10 @@
 - Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Raven Alliance 
 - Taurian Concordat 
 

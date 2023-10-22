@@ -24,15 +24,15 @@
 
 ## Availability 
 
-### Clan Invasion 
+### Clan Invasion (Unique) 
 
 - Wolf's Dragoons 
 
-### Civil War 
+### Civil War (Unique) 
 
 - Wolf's Dragoons 
 
-### Jihad 
+### Jihad (Unique) 
 
 - Wolf's Dragoons 
 

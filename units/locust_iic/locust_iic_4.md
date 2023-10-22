@@ -47,18 +47,21 @@
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Sea Fox 
 - Clan Wolf 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Sea Fox 
 - Clan Wolf 
 
 ### ilClan 
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Sea Fox 
 - Star League (Wolf) 
 - Wolf Empire 
 

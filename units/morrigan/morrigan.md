@@ -44,6 +44,7 @@
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Draconis Combine 
+- Raven Alliance 
 - Republic of the Sphere 
 
 ### ilClan 
@@ -51,4 +52,5 @@
 - Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 
+- Raven Alliance 
 

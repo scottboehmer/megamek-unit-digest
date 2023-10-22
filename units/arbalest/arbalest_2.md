@@ -47,6 +47,7 @@
 
 - Clan Nova Cat 
 - Clan Sea Fox 
+- Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 
 
@@ -54,5 +55,6 @@
 
 - Clan Protectorate 
 - Clan Sea Fox 
+- Draconis Combine 
 - Mercenary 
 

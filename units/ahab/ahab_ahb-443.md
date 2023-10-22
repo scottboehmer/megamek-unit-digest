@@ -32,11 +32,16 @@
 - Mercenary 
 - Rim Worlds Republic - Terran Corps 
 - Star League 
+- Star League - Royal Divisions 
 - Terran Hegemony 
 
 ### Early Succession Wars 
 
 - Capellan Confederation 
+- Clan Cloud Cobra 
+- Clan Goliath Scorpion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

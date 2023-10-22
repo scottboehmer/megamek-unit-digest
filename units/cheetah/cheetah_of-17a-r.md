@@ -34,12 +34,14 @@
 ### Late Republic 
 
 - Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### ilClan 

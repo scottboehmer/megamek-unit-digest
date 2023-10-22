@@ -46,6 +46,7 @@
 
 ### ilClan 
 
+- Clan Protectorate 
 - Free Worlds League 
 - Mercenary 
 

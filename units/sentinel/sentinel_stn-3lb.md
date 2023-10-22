@@ -31,7 +31,85 @@
 - Clan Blood Spirit 
 - Clan Cloud Cobra 
 - Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Sea Fox 
+- Clan Snow Raven 
 - Star League-in-Exile 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
+- Clan Snow Raven 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Clan Invasion 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Civil War 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Jihad 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Early Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+
+### Late Republic 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+
+### Dark Ages 
+
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+
+### ilClan 
+
+- Clan Hell's Horses 
 

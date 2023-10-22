@@ -23,6 +23,10 @@
 - [**Howler 5**](../../../units/howler/howler_5.md) *Striker (3053)* 
 - [**Howler 2**](../../../units/howler/howler_2.md) *Striker (3063)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -379,6 +383,10 @@
 - [**Glass Spider**](../../../units/glass_spider/glass_spider.md) *Sniper (2834)* 
 - [**Glass Spider 2**](../../../units/glass_spider/glass_spider_2.md) *Sniper (2952)* 
 
+#### [Hellfire](../../../units/hellfire.md) 
+
+- [**Hellfire**](../../../units/hellfire/hellfire.md) *Brawler (3058)* 
+
 #### [Lancelot](../../../units/lancelot.md) 
 
 - [**Lancelot LNC25-01**](../../../units/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)* 
@@ -604,6 +612,7 @@
 
 - [**Phoenix Hawk IIC**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic.md) *Sniper (2851)* 
 - [**Phoenix Hawk IIC 2**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_2.md) *Missile Boat (2852)* 
+- [**Phoenix Hawk IIC 9**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_9.md) *Sniper (2853)* 
 - [**Phoenix Hawk IIC 3**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_3.md) *Skirmisher (3062)* 
 - [**Phoenix Hawk IIC 4**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic_4.md) *Skirmisher (3065)* 
 

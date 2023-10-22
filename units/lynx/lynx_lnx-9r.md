@@ -49,16 +49,19 @@
 
 - Lyran Commonwealth 
 - Mercenary 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Lyran Commonwealth 
 - Mercenary 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Lyran Commonwealth 
 - Mercenary 
+- Republic of the Sphere 
 
 ### ilClan 
 

@@ -319,6 +319,7 @@
 #### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
 
 - [**Chaparral Missile Artillery Tank**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank.md) *Missile Boat (2611)* 
+- [**Chaparral Missile Artillery Tank (SRM)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (2614)* 
 
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
@@ -501,6 +502,14 @@
 - [**Schiltron Mobile Fire-Support Platform B**](../../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_b.md) *Missile Boat (3059)* `C3 Main` , `ECM` , `TAG` 
 - [**Schiltron Mobile Fire-Support Platform C**](../../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_c.md) *Juggernaut (3059)* `C3 Main` , `ECM` , `TAG` 
 
+#### [Schrek AC Carrier](../../../units/schrek_ac_carrier.md) 
+
+- [**Schrek AC Carrier**](../../../units/schrek_ac_carrier/schrek_ac_carrier.md) *Sniper (2916)* 
+
+#### [Schrek PPC Carrier](../../../units/schrek_ppc_carrier.md) 
+
+- [**Schrek PPC Carrier**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier.md) *Sniper (2813)* 
+
 ### 85 Tons 
 
 #### [Mauna Kea Command Vessel](../../../units/mauna_kea_command_vessel.md) 
@@ -533,6 +542,7 @@
 
 #### [Ontos Heavy Tank](../../../units/ontos_heavy_tank.md) 
 
+- [**Ontos Heavy Tank**](../../../units/ontos_heavy_tank/ontos_heavy_tank.md) *Juggernaut (2832)* 
 - [**Ontos Heavy Tank (3053 Upgrade)**](../../../units/ontos_heavy_tank/ontos_heavy_tank_3053_upgrade.md) *Juggernaut (3053)* 
 
 ### 100 Tons 

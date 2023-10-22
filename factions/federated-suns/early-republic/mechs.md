@@ -182,6 +182,10 @@
 - [**Scarabus SCB-9A**](../../../units/scarabus/scarabus_scb-9a.md) *Scout (3053)* `ECM` , `TAG` 
 - [**Scarabus SCB-9T**](../../../units/scarabus/scarabus_scb-9t.md) *Scout (3054)* `ECM` , `TAG` 
 
+#### [SuburbanMech](../../../units/suburbanmech.md) 
+
+- [**SuburbanMech UM-R90**](../../../units/suburbanmech/suburbanmech_um-r90.md) *Ambusher (3018)* 
+
 #### [UrbanMech](../../../units/urbanmech.md) 
 
 - [**UrbanMech UM-R69**](../../../units/urbanmech/urbanmech_um-r69.md) *Sniper (3063)* 
@@ -211,6 +215,10 @@
 #### [Arbiter](../../../units/arbiter.md) 
 
 - [**Arbiter ARB-001 SecurityMech**](../../../units/arbiter/arbiter_arb-001_securitymech.md) *Undefined (3074)* `IndustrialMech` 
+
+#### [Blade](../../../units/blade.md) 
+
+- [**Blade BLD-XL**](../../../units/blade/blade_bld-xl.md) *Striker (3087)* 
 
 #### [DemolitionMech](../../../units/demolitionmech.md) 
 
@@ -670,6 +678,7 @@
 - [**Rifleman RFL-6X**](../../../units/rifleman/rifleman_rfl-6x.md) *Sniper (3063)* 
 - [**Rifleman RFL-8D**](../../../units/rifleman/rifleman_rfl-8d.md) *Skirmisher (3064)* 
 - [**Rifleman RFL-7M**](../../../units/rifleman/rifleman_rfl-7m.md) *Brawler (3066)* `ECM` 
+- [**Rifleman RFL-6D**](../../../units/rifleman/rifleman_rfl-6d.md) *Skirmisher (3069)* `C3 Support` 
 - [**Rifleman RFL-3Cr**](../../../units/rifleman/rifleman_rfl-3cr.md) *Brawler (3071)* 
 
 ### 65 Tons 
@@ -1025,6 +1034,7 @@
 - [**Stalker STK-3H**](../../../units/stalker/stalker_stk-3h.md) *Missile Boat (2638)* 
 - [**Stalker STK-4N**](../../../units/stalker/stalker_stk-4n.md) *Juggernaut (2876)* 
 - [**Stalker STK-5M**](../../../units/stalker/stalker_stk-5m.md) *Juggernaut (3050)* 
+- [**Stalker STK-5S**](../../../units/stalker/stalker_stk-5s.md) *Juggernaut (3050)* 
 - [**Stalker STK-7D**](../../../units/stalker/stalker_stk-7d.md) *Juggernaut (3062)* 
 - [**Stalker STK-7C3BS**](../../../units/stalker/stalker_stk-7c3bs.md) *Juggernaut (3075)* `C3 Support` 
 

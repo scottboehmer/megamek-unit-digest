@@ -18,6 +18,10 @@
 
 - [**Locust C**](../../../units/locust/locust_c.md) *Striker (2836)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -29,6 +33,7 @@
 #### [Thorn](../../../units/thorn.md) 
 
 - [**Thorn THE-N**](../../../units/thorn/thorn_the-n.md) *Striker (2549)* 
+- [**Thorn THE-Nb**](../../../units/thorn/thorn_the-nb.md) *Striker (2743)* 
 
 ### 25 Tons 
 
@@ -428,6 +433,7 @@
 #### [Black Knight](../../../units/black_knight.md) 
 
 - [**Black Knight BL-6-KNT**](../../../units/black_knight/black_knight_bl-6-knt.md) *Brawler (2578)* `Active Probe` 
+- [**Black Knight BL-6b-KNT**](../../../units/black_knight/black_knight_bl-6b-knt.md) *Brawler (2751)* `Active Probe` 
 
 #### [Flashman](../../../units/flashman.md) 
 

@@ -28,6 +28,7 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+- Republic of the Sphere 
 
 ### ilClan 
 

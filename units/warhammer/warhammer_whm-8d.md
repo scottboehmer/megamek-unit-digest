@@ -78,6 +78,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
@@ -98,6 +99,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
@@ -119,6 +121,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
@@ -137,6 +140,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Tamar Pact 
 - Vesper Marches 

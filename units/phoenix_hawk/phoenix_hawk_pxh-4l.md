@@ -53,6 +53,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 
 ### Late Republic 
 
@@ -60,6 +61,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 
 ### Dark Ages 
 
@@ -67,6 +69,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 
 ### ilClan 
 
@@ -74,4 +77,5 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 

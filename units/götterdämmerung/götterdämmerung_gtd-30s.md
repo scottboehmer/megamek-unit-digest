@@ -1,8 +1,8 @@
-# Gotterdammerung GTD-30S 
+# Götterdämmerung GTD-30S 
 
-[Other Gotterdammerung variants](../gotterdammerung.md) 
+[Other Götterdämmerung variants](../götterdämmerung.md) 
 
-## Gotterdammerung GTD-30S 
+## Götterdämmerung GTD-30S 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3138) 

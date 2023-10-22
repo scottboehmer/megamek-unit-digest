@@ -435,7 +435,6 @@
 - [Gossamer VTOL](units/gossamer_vtol.md) 
 - [Goth](units/goth.md) 
 - [Gotha](units/gotha.md) 
-- [Gotterdammerung](units/gotterdammerung.md) 
 - [Götterdämmerung](units/götterdämmerung.md) 
 - [Grand Crusader](units/grand_crusader.md) 
 - [Grand Crusader II](units/grand_crusader_ii.md) 

@@ -22,10 +22,6 @@
 
 ## Availability 
 
-### Early Republic 
-
-- Draconis Combine 
-
 ### Dark Ages 
 
 - Draconis Combine 
@@ -35,6 +31,8 @@
 
 ### ilClan 
 
+- Alyina Mercantile League 
+- Clan Jade Falcon 
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 

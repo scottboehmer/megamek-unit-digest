@@ -44,6 +44,7 @@
 - Marian Hegemony 
 - Regulan Fiefs 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### ilClan 
 
@@ -51,5 +52,6 @@
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Tamar Pact 
+- Taurian Concordat 
 - Vesper Marches 
 

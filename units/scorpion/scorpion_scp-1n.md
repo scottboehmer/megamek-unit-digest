@@ -37,6 +37,7 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Goliath Scorpion 
 - ComStar 
 - Draconis Combine 
 - Free Worlds League 
@@ -45,6 +46,7 @@
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
+- Star League-in-Exile 
 - Taurian Concordat 
 
 ### Late Succession Wars - LosTech 

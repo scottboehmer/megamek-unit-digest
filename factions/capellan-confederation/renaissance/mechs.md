@@ -29,6 +29,10 @@
 
 ### 25 Tons 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -160,6 +164,7 @@
 
 - [**Vindicator VND-1R**](../../../units/vindicator/vindicator_vnd-1r.md) *Brawler (2826)* 
 - [**Vindicator VND-1X**](../../../units/vindicator/vindicator_vnd-1x.md) *Brawler (2826)* 
+- [**Vindicator VND-1AA 'Avenging Angel'**](../../../units/vindicator/vindicator_vnd-1aa_avenging_angel.md) *Skirmisher (2863)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
 

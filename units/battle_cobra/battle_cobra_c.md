@@ -75,6 +75,7 @@
 
 ### ilClan 
 
+- Clan Jade Falcon 
 - Kell Hounds 
 - Scorpion Empire 
 - Star League (Jade Falcon) 

@@ -285,10 +285,6 @@
 
 ### 95 Tons 
 
-#### [Alacorn Heavy Tank](../../../units/alacorn_heavy_tank.md) 
-
-- [**Alacorn Heavy Tank Mk VI**](../../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) *Sniper (2590)* 
-
 #### [Puma Assault Tank](../../../units/puma_assault_tank.md) 
 
 - [**Puma Assault Tank PAT-005**](../../../units/puma_assault_tank/puma_assault_tank_pat-005.md) *Missile Boat (2681)* 

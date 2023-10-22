@@ -34,18 +34,21 @@
 
 ### Early Republic 
 
+- Clan Wolf 
 - Draconis Combine 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Clan Wolf 
 - Draconis Combine 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Draconis Combine 
 - Rasalhague Dominion 
 - Republic of the Sphere 

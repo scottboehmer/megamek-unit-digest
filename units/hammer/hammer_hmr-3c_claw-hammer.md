@@ -34,6 +34,7 @@
 ### Jihad 
 
 - Free Worlds League 
+- Mercenary 
 - Word of Blake 
 
 ### Early Republic 

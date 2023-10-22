@@ -59,6 +59,7 @@
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Star League-in-Exile 
 
 ### Late Succession Wars - LosTech 
 

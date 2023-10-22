@@ -161,6 +161,7 @@
 
 #### [Anubis](../../../units/anubis.md) 
 
+- [**Anubis ABS-3T**](../../../units/anubis/anubis_abs-3t.md) *Striker (3067)* `ECM` , `Stealth` 
 - [**Anubis ABS-5Y**](../../../units/anubis/anubis_abs-5y.md) *Missile Boat (3121)* `ECM` , `Stealth` 
 - [**Anubis ABS-5Z**](../../../units/anubis/anubis_abs-5z.md) *Striker (3124)* `ECM` , `Stealth` , `TAG` 
 
@@ -317,6 +318,7 @@
 
 - [**Raven RVN-3M**](../../../units/raven/raven_rvn-3m.md) *Missile Boat (3053)* 
 - [**Raven RVN-4LC**](../../../units/raven/raven_rvn-4lc.md) *Scout (3062)* `C3 Support` , `ECM` , `Stealth` , `TAG` 
+- [**Raven RVN-4L**](../../../units/raven/raven_rvn-4l.md) *Scout (3063)* `Active Probe` , `ECM` , `Stealth` , `TAG` 
 - [**Raven RVN-4Lr**](../../../units/raven/raven_rvn-4lr.md) *Scout (3073)* `Active Probe` , `ECM` , `Stealth` , `TAG` 
 - [**Raven RVN-5L**](../../../units/raven/raven_rvn-5l.md) *Scout (3125)* `ECM` , `Stealth` , `TAG` 
 
@@ -559,6 +561,10 @@
 #### [Hellcat](../../../units/hellcat.md) 
 
 - [**Hellcat**](../../../units/hellcat/hellcat.md) *Skirmisher (3133)* 
+
+#### [Hunchback](../../../units/hunchback.md) 
+
+- [**Hunchback HBK-6N**](../../../units/hunchback/hunchback_hbk-6n.md) *Juggernaut (3059)* 
 
 #### [Huron Warrior](../../../units/huron_warrior.md) 
 

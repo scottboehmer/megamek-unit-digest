@@ -1250,7 +1250,7 @@
 - [**Longshot LNG-3**](units/longshot/longshot_lng-3.md) *Striker (3062)* 
 - [**Longshot LNG-3C**](units/longshot/longshot_lng-3c.md) *Striker (3064)* 
 - [**Longshot LNG-4**](units/longshot/longshot_lng-4.md) *Striker (3068)* 
-- [**Longshot LNG-2 (Reskov)**](units/longshot/longshot_lng-2_reskov.md) *Striker (3084)* 
+- [**Longshot LNG-2 (Reskov)**](units/longshot/longshot_lng-2_reskov.md) *Striker (3084)* `Unique` 
 
 #### [Morrigan](units/morrigan.md) 
 
@@ -3010,7 +3010,7 @@
 
 #### [Mad Cat III](units/mad_cat_iii.md) 
 
-- [**Mad Cat III X**](units/mad_cat_iii/mad_cat_iii_x.md) *Missile Boat (3076)* 
+- [**Mad Cat III X**](units/mad_cat_iii/mad_cat_iii_x.md) *Missile Boat (3076)* `Unique` 
 - [**Mad Cat III**](units/mad_cat_iii/mad_cat_iii.md) *Missile Boat (3086)* 
 - [**Mad Cat III (Eve)**](units/mad_cat_iii/mad_cat_iii_eve.md) *Sniper (3086)* `TAG` , `Unique` 
 - [**Mad Cat III 2**](units/mad_cat_iii/mad_cat_iii_2.md) *Undefined (3089)* 
@@ -3198,7 +3198,7 @@
 - [**Stormcrow Attwater**](units/stormcrow/stormcrow_attwater.md) *Sniper (3052)* `Unique` 
 - [**Stormcrow TC**](units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
-- [**Stormcrow (Kotare)**](units/stormcrow/stormcrow_kotare.md) *Skirmisher (3059)* 
+- [**Stormcrow (Kotare)**](units/stormcrow/stormcrow_kotare.md) *Skirmisher (3059)* `Unique` 
 - [**Stormcrow H**](units/stormcrow/stormcrow_h.md) *Striker (3059)* 
 - [**Stormcrow I**](units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
 - [**Stormcrow G**](units/stormcrow/stormcrow_g.md) *Striker (3068)* 
@@ -4438,7 +4438,7 @@
 - [**Summoner F**](units/summoner/summoner_f.md) *Skirmisher (3054)* 
 - [**Summoner H**](units/summoner/summoner_h.md) *Skirmisher (3059)* 
 - [**Summoner G**](units/summoner/summoner_g.md) *Skirmisher (3068)* 
-- [**Summoner Q**](units/summoner/summoner_q.md) *Skirmisher (3069)* `Unique` 
+- [**Summoner Q**](units/summoner/summoner_q.md) *Skirmisher (3069)* 
 - [**Summoner HH**](units/summoner/summoner_hh.md) *Skirmisher (3070)* 
 - [**Summoner Z**](units/summoner/summoner_z.md) *Skirmisher (3072)* `Active Probe` , `ECM` , `NovaC3` 
 - [**Summoner U**](units/summoner/summoner_u.md) *Sniper (3078)* 
@@ -4603,14 +4603,11 @@
 - [**Flashman FLS-9M**](units/flashman/flashman_fls-9m.md) *Brawler (3070)* 
 - [**Flashman FLS-10E**](units/flashman/flashman_fls-10e.md) *Skirmisher (3144)* 
 
-#### [Gotterdammerung](units/gotterdammerung.md) 
-
-- [**Gotterdammerung GTD-20C**](units/gotterdammerung/gotterdammerung_gtd-20c.md) *Undefined (3138)* 
-- [**Gotterdammerung GTD-30S**](units/gotterdammerung/gotterdammerung_gtd-30s.md) *Undefined (3138)* 
-
 #### [Götterdämmerung](units/götterdämmerung.md) 
 
+- [**Götterdämmerung GTD-20C**](units/götterdämmerung/götterdämmerung_gtd-20c.md) *Undefined (3138)* 
 - [**Götterdämmerung GTD-20S**](units/götterdämmerung/götterdämmerung_gtd-20s.md) *Brawler (3138)* 
+- [**Götterdämmerung GTD-30S**](units/götterdämmerung/götterdämmerung_gtd-30s.md) *Undefined (3138)* 
 
 #### [Grommet](units/grommet.md) 
 
@@ -5916,7 +5913,7 @@
 
 - [**Nightstar NSR-9J**](units/nightstar/nightstar_nsr-9j.md) *Juggernaut (2767)* 
 - [**Nightstar NSR-9FC**](units/nightstar/nightstar_nsr-9fc.md) *Juggernaut (3057)* 
-- [**Nightstar NSR-9J (Brubaker)**](units/nightstar/nightstar_nsr-9j_brubaker.md) *Sniper (3057)* 
+- [**Nightstar NSR-9J (Brubaker)**](units/nightstar/nightstar_nsr-9j_brubaker.md) *Sniper (3057)* `Unique` 
 - [**Nightstar NSR-9J (Holt)**](units/nightstar/nightstar_nsr-9j_holt.md) *Sniper (3063)* `ECM` , `Unique` 
 - [**Nightstar NSR-9SS**](units/nightstar/nightstar_nsr-9ss.md) *Juggernaut (3065)* 
 - [**Nightstar NSR-10D**](units/nightstar/nightstar_nsr-10d.md) *Sniper (3144)* 

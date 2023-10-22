@@ -59,6 +59,7 @@
 
 - Capellan Confederation 
 - Clan Hell's Horses 
+- Clan Jade Falcon 
 - Clan Sea Fox 
 - Kell Hounds 
 - Mercenary 

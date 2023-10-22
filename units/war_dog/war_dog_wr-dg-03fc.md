@@ -54,16 +54,19 @@
 
 ### Early Republic 
 
+- Clan Wolf-in-Exile 
 - Mercenary 
 - Wolf's Dragoons 
 
 ### Late Republic 
 
+- Clan Wolf-in-Exile 
 - Mercenary 
 - Wolf's Dragoons 
 
 ### Dark Ages 
 
+- Clan Wolf-in-Exile 
 - Mercenary 
 - Wolf's Dragoons 
 

@@ -33,6 +33,11 @@
 
 - [**Sparrowhawk SPR-H5**](../../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 
 
+#### [Star Dagger](../../../units/star_dagger.md) 
+
+- [**Star Dagger S-2**](../../../units/star_dagger/star_dagger_s-2.md) *Fast Dogfighter (2330)* 
+- [**Star Dagger S-2B**](../../../units/star_dagger/star_dagger_s-2b.md) *Fast Dogfighter (2525)* 
+
 ### 35 Tons 
 
 #### [Zero](../../../units/zero.md) 

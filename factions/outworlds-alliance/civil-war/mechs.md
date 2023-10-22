@@ -32,6 +32,10 @@
 
 - [**Commando COM-2D**](../../../units/commando/commando_com-2d.md) *Striker (2486)* 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Gulon](../../../units/gulon.md) 
 
 - [**Gulon GLN-1A MiningMech**](../../../units/gulon/gulon_gln-1a_miningmech.md) *Ambusher (3000)* `IndustrialMech` 
@@ -86,6 +90,10 @@
 #### [Night Hawk](../../../units/night_hawk.md) 
 
 - [**Night Hawk NTK-2Q**](../../../units/night_hawk/night_hawk_ntk-2q.md) *Striker (2656)* 
+
+#### [Ostscout](../../../units/ostscout.md) 
+
+- [**Ostscout OTT-7J**](../../../units/ostscout/ostscout_ott-7j.md) *Scout (2600)* 
 
 #### [Panther](../../../units/panther.md) 
 
@@ -212,6 +220,10 @@
 - [**Wolverine WVR-6R**](../../../units/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)* 
 
 ### 60 Tons 
+
+#### [Dragon](../../../units/dragon.md) 
+
+- [**Dragon DRG-1C**](../../../units/dragon/dragon_drg-1c.md) *Skirmisher (2752)* 
 
 #### [Heavy Forester](../../../units/heavy_forester.md) 
 

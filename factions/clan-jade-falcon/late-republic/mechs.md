@@ -259,6 +259,7 @@
 
 #### [Lobo](../../../units/lobo.md) 
 
+- [**Lobo**](../../../units/lobo/lobo.md) *Striker (3059)* 
 - [**Lobo 2**](../../../units/lobo/lobo_2.md) *Striker (3072)* 
 
 #### [Phantom](../../../units/phantom.md) 
@@ -285,7 +286,26 @@
 - [**Pouncer F**](../../../units/pouncer/pouncer_f.md) *Scout (3069)* `Active Probe` 
 - [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
 
+#### [Sentinel](../../../units/sentinel.md) 
+
+- [**Sentinel STN-3Lb**](../../../units/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
+
 ### 45 Tons 
+
+#### [Firestarter OmniMech](../../../units/firestarter_omnimech.md) 
+
+- [**Firestarter FS9-O**](../../../units/firestarter_omnimech/firestarter_fs9-o.md) *Striker (3056)* `Active Probe` 
+- [**Firestarter FS9-OA**](../../../units/firestarter_omnimech/firestarter_fs9-oa.md) *Striker (3057)* 
+- [**Firestarter FS9-OB**](../../../units/firestarter_omnimech/firestarter_fs9-ob.md) *Striker (3057)* `C3 Support` , `TAG` 
+- [**Firestarter FS9-OC**](../../../units/firestarter_omnimech/firestarter_fs9-oc.md) *Missile Boat (3057)* `C3 Support` 
+- [**Firestarter FS9-OD**](../../../units/firestarter_omnimech/firestarter_fs9-od.md) *Sniper (3057)* `C3 Support` , `ECM` 
+- [**Firestarter FS9-OE**](../../../units/firestarter_omnimech/firestarter_fs9-oe.md) *Striker (3058)* 
+- [**Firestarter FS9-OR**](../../../units/firestarter_omnimech/firestarter_fs9-or.md) *Sniper (3059)* 
+- [**Firestarter FS9-OX**](../../../units/firestarter_omnimech/firestarter_fs9-ox.md) *Striker (3059)* `Active Probe` , `ECM` 
+- [**Firestarter FS9-OF**](../../../units/firestarter_omnimech/firestarter_fs9-of.md) *Sniper (3060)* 
+- [**Firestarter FS9-OG**](../../../units/firestarter_omnimech/firestarter_fs9-og.md) *Striker (3063)* 
+- [**Firestarter FS9-OH**](../../../units/firestarter_omnimech/firestarter_fs9-oh.md) *Striker (3069)* `Active Probe` , `ECM` 
+- [**Firestarter FS9-OU**](../../../units/firestarter_omnimech/firestarter_fs9-ou.md) *Striker (3077)* 
 
 #### [Grendel](../../../units/grendel.md) 
 
@@ -363,6 +383,10 @@
 
 - [**Hellcat-P**](../../../units/hellcat-p/hellcat-p.md) *Skirmisher (3065)* 
 
+#### [Hunchback IIC](../../../units/hunchback_iic.md) 
+
+- [**Hunchback IIC**](../../../units/hunchback_iic/hunchback_iic.md) *Ambusher (2856)* 
+
 #### [Nova](../../../units/nova.md) 
 
 - [**Nova Prime**](../../../units/nova/nova_prime.md) *Skirmisher (2870)* 
@@ -404,6 +428,10 @@
 
 - [**Lynx C**](../../../units/lynx/lynx_c.md) *Skirmisher (2848)* 
 
+#### [Shadow Hawk](../../../units/shadow_hawk.md) 
+
+- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (2826)* 
+
 #### [Stormcrow](../../../units/stormcrow.md) 
 
 - [**Stormcrow Prime**](../../../units/stormcrow/stormcrow_prime.md) *Striker (2930)* 
@@ -420,6 +448,10 @@
 - [**Stormcrow F**](../../../units/stormcrow/stormcrow_f.md) *Striker (3069)* 
 - [**Stormcrow K**](../../../units/stormcrow/stormcrow_k.md) *Striker (3120)* 
 - [**Stormcrow J**](../../../units/stormcrow/stormcrow_j.md) *Striker (3130)* 
+
+#### [Sun Cobra](../../../units/sun_cobra.md) 
+
+- [**Sun Cobra**](../../../units/sun_cobra/sun_cobra.md) *Sniper (3074)* 
 
 #### [Vapor Eagle](../../../units/vapor_eagle.md) 
 
@@ -494,9 +526,11 @@
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 
 - [**Rifleman IIC 5**](../../../units/rifleman_iic/rifleman_iic_5.md) *Skirmisher (3069)* 
+- [**Rifleman IIC 8**](../../../units/rifleman_iic/rifleman_iic_8.md) *Skirmisher (3078)* `ECM` 
 
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
+- [**Thunderbolt C**](../../../units/thunderbolt/thunderbolt_c.md) *Sniper (2832)* 
 - [**Thunderbolt C 2**](../../../units/thunderbolt/thunderbolt_c_2.md) *Juggernaut (3054)* 
 
 ### 70 Tons 
@@ -549,7 +583,15 @@
 - [**Thunderbolt IIC**](../../../units/thunderbolt_iic/thunderbolt_iic.md) *Brawler (3085)* 
 - [**Thunderbolt IIC 2**](../../../units/thunderbolt_iic/thunderbolt_iic_2.md) *Skirmisher (3088)* `ECM` 
 
+#### [Warhammer](../../../units/warhammer.md) 
+
+- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (2825)* 
+
 ### 75 Tons 
+
+#### [Marauder](../../../units/marauder.md) 
+
+- [**Marauder C**](../../../units/marauder/marauder_c.md) *Sniper (2827)* 
 
 #### [Night Gyr](../../../units/night_gyr.md) 
 
@@ -583,6 +625,10 @@
 - [**Timber Wolf F**](../../../units/timber_wolf/timber_wolf_f.md) *Missile Boat (3069)* 
 - [**Timber Wolf U**](../../../units/timber_wolf/timber_wolf_u.md) *Sniper (3077)* 
 - [**Timber Wolf W**](../../../units/timber_wolf/timber_wolf_w.md) *Juggernaut (3100)* 
+
+#### [Tundra Wolf](../../../units/tundra_wolf.md) 
+
+- [**Tundra Wolf**](../../../units/tundra_wolf/tundra_wolf.md) *Brawler (3076)* `ECM` 
 
 ### 80 Tons 
 
@@ -638,6 +684,7 @@
 
 #### [BattleMaster](../../../units/battlemaster.md) 
 
+- [**BattleMaster BLR-4S**](../../../units/battlemaster/battlemaster_blr-4s.md) *Brawler (3062)* 
 - [**BattleMaster C**](../../../units/battlemaster/battlemaster_c.md) *Brawler (3070)* 
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
@@ -649,6 +696,10 @@
 - [**Marauder IIC 5**](../../../units/marauder_iic/marauder_iic_5.md) *Sniper (3070)* 
 - [**Marauder IIC 6**](../../../units/marauder_iic/marauder_iic_6.md) *Skirmisher (3077)* 
 
+#### [Stalker](../../../units/stalker.md) 
+
+- [**Stalker STK-5S**](../../../units/stalker/stalker_stk-5s.md) *Juggernaut (3050)* 
+
 ### 90 Tons 
 
 #### [Highlander IIC](../../../units/highlander_iic.md) 
@@ -658,6 +709,10 @@
 #### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 
 
 - [**Mad Cat Mk II Enhanced**](../../../units/mad_cat_mk_ii/mad_cat_mk_ii_enhanced.md) *Sniper (3083)* 
+
+#### [Night Wolf](../../../units/night_wolf.md) 
+
+- [**Night Wolf**](../../../units/night_wolf/night_wolf.md) *Skirmisher (3084)* `ECM` 
 
 #### [Onager](../../../units/onager.md) 
 

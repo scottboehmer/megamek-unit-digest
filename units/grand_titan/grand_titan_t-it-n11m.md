@@ -49,35 +49,44 @@
 
 - Capellan Confederation 
 - Draconis Combine 
+- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Late Republic 
 
 - Capellan Confederation 
 - Draconis Combine 
+- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Dark Ages 
 
 - Capellan Confederation 
 - Draconis Combine 
+- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### ilClan 
 
@@ -86,4 +95,5 @@
 - Free Worlds League 
 - Magistracy of Canopus 
 - Mercenary 
+- Taurian Concordat 
 

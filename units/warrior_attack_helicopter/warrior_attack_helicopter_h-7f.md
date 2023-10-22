@@ -192,8 +192,10 @@
 
 ### ilClan 
 
+- Alyina Mercantile League 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Clan Jade Falcon 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 

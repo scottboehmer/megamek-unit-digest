@@ -29,23 +29,30 @@
 
 - Circinus Federation 
 - Marian Hegemony 
-- Mercenary 
 - Pirate 
 - Taurian Concordat 
 
 ### Early Republic 
 
+- Marian Hegemony 
 - Pirate 
+- Taurian Concordat 
 
 ### Late Republic 
 
+- Marian Hegemony 
 - Pirate 
+- Taurian Concordat 
 
 ### Dark Ages 
 
+- Marian Hegemony 
 - Pirate 
+- Taurian Concordat 
 
 ### ilClan 
 
+- Marian Hegemony 
 - Pirate 
+- Taurian Concordat 
 

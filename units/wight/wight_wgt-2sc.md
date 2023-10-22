@@ -30,6 +30,7 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
@@ -44,6 +45,7 @@
 
 ### Late Republic 
 
+- Clan Sea Fox 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
@@ -58,6 +60,7 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
@@ -74,6 +77,7 @@
 ### ilClan 
 
 - Calderon Protectorate 
+- Clan Sea Fox 
 - Duchy of Andurien 
 - Filtvelt Coalition 
 - Free Worlds League 

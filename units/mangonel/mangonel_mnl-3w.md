@@ -37,10 +37,12 @@
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Lyran Commonwealth 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Kell Hounds 
+- Lyran Commonwealth 
 - Star League (Wolf) 
 

@@ -146,7 +146,7 @@
   - ER Medium Laser 
   - SRM 2 (ammo: 50) 
 - **Equipment:** 
-  - Infantry (8.0 tons) 
+  - Infantry (4.0 tons) × 2 
 - **Sources:** TRO: 3058 , [Master Unit List](http://masterunitlist.info/Unit/Details/237) 
 - **Battle Value:** 708 
 - [*More Info*](bandit_hovercraft/bandit_hovercraft_h.md) 

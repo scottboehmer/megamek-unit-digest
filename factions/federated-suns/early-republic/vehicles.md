@@ -491,6 +491,10 @@
 - [**Ranger Armored Fighting Vehicle VV22**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv22.md) *Striker (3082)* 
 - [**Ranger Armored Fighting Vehicle VV1 (Interdictor)**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv1_interdictor.md) *Scout (3087)* `ECM` 
 
+#### [Regulator Hovertank](../../../units/regulator_hovertank.md) 
+
+- [**Regulator Hovertank**](../../../units/regulator_hovertank/regulator_hovertank.md) *Sniper (3057)* 
+
 #### [Sortek Assault Craft](../../../units/sortek_assault_craft.md) 
 
 - [**Sortek Assault Craft**](../../../units/sortek_assault_craft/sortek_assault_craft.md) *Striker (3098)* 

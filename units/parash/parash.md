@@ -32,15 +32,19 @@
 ### Late Republic 
 
 - Clan Hell's Horses 
+- Clan Wolf 
 - Rasalhague Dominion 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
+- Clan Wolf 
 - Rasalhague Dominion 
+- Raven Alliance 
 
 ### ilClan 
 
 - Clan Hell's Horses 
 - Rasalhague Dominion 
+- Raven Alliance 
 

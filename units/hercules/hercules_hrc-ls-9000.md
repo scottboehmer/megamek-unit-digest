@@ -69,6 +69,7 @@
 - Oriente Protectorate 
 - Outworlds Alliance 
 - Pirate 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -87,6 +88,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -106,6 +108,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -122,5 +125,6 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 

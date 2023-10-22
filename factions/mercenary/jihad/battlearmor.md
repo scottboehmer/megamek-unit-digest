@@ -29,6 +29,15 @@
 
 ### 0.75 Tons 
 
+#### [Achileus Light Battle Armor](../../../units/achileus_light_battle_armor.md) 
+
+- [**Achileus Light Battle Armor (Flamer)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_flamersqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (Laser)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_laser.md) *Undefined (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (Laser)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_lasersqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (MG)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_mgsqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (TAG)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_tagsqd4.md) *Ambusher (3059)* `Stealth` , `TAG` 
+- [**Achileus Light Battle Armor (David)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_davidsqd4.md) *Ambusher (3064)* `Stealth` 
+
 #### [Gray Death Scout Suit](../../../units/gray_death_scout_suit.md) 
 
 - [**Gray Death Scout Suit (Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_sqd4.md) *Scout (3052)* `Active Probe` 

@@ -40,6 +40,10 @@
 - [**Locust IIC**](../../../units/locust_iic/locust_iic.md) *Striker (2832)* 
 - [**Locust IIC 3**](../../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
 
+#### [Mjolnir](../../../units/mjolnir.md) 
+
+- [**Mjolnir MLR-B2**](../../../units/mjolnir/mjolnir_mlr-b2.md) *Scout (3077)* 
+
 #### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
 - [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
@@ -171,8 +175,11 @@
 
 #### [Wolfhound](../../../units/wolfhound.md) 
 
+- [**Wolfhound WLF-2**](../../../units/wolfhound/wolfhound_wlf-2.md) *Striker (3052)* 
+- [**Wolfhound WLF-3S**](../../../units/wolfhound/wolfhound_wlf-3s.md) *Striker (3064)* 
 - [**Wolfhound WLF-4W**](../../../units/wolfhound/wolfhound_wlf-4w.md) *Sniper (3069)* 
 - [**Wolfhound WLF-4WA**](../../../units/wolfhound/wolfhound_wlf-4wa.md) *Sniper (3071)* `ECM` 
+- [**Wolfhound WLF-5**](../../../units/wolfhound/wolfhound_wlf-5.md) *Striker (3079)* 
 - [**Wolfhound WLF-2H**](../../../units/wolfhound/wolfhound_wlf-2h.md) *Striker (3082)* 
 
 ### 40 Tons 
@@ -226,6 +233,25 @@
 - [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
 
 ### 45 Tons 
+
+#### [Firestarter OmniMech](../../../units/firestarter_omnimech.md) 
+
+- [**Firestarter FS9-O**](../../../units/firestarter_omnimech/firestarter_fs9-o.md) *Striker (3056)* `Active Probe` 
+- [**Firestarter FS9-OA**](../../../units/firestarter_omnimech/firestarter_fs9-oa.md) *Striker (3057)* 
+- [**Firestarter FS9-OB**](../../../units/firestarter_omnimech/firestarter_fs9-ob.md) *Striker (3057)* `C3 Support` , `TAG` 
+- [**Firestarter FS9-OC**](../../../units/firestarter_omnimech/firestarter_fs9-oc.md) *Missile Boat (3057)* `C3 Support` 
+- [**Firestarter FS9-OD**](../../../units/firestarter_omnimech/firestarter_fs9-od.md) *Sniper (3057)* `C3 Support` , `ECM` 
+- [**Firestarter FS9-OE**](../../../units/firestarter_omnimech/firestarter_fs9-oe.md) *Striker (3058)* 
+- [**Firestarter FS9-OR**](../../../units/firestarter_omnimech/firestarter_fs9-or.md) *Sniper (3059)* 
+- [**Firestarter FS9-OX**](../../../units/firestarter_omnimech/firestarter_fs9-ox.md) *Striker (3059)* `Active Probe` , `ECM` 
+- [**Firestarter FS9-OF**](../../../units/firestarter_omnimech/firestarter_fs9-of.md) *Sniper (3060)* 
+- [**Firestarter FS9-OG**](../../../units/firestarter_omnimech/firestarter_fs9-og.md) *Striker (3063)* 
+- [**Firestarter FS9-OH**](../../../units/firestarter_omnimech/firestarter_fs9-oh.md) *Striker (3069)* `Active Probe` , `ECM` 
+- [**Firestarter FS9-OU**](../../../units/firestarter_omnimech/firestarter_fs9-ou.md) *Striker (3077)* 
+
+#### [Hatchetman](../../../units/hatchetman.md) 
+
+- [**Hatchetman HCT-5S**](../../../units/hatchetman/hatchetman_hct-5s.md) *Brawler (3049)* 
 
 #### [Ice Ferret](../../../units/ice_ferret.md) 
 
@@ -313,6 +339,11 @@
 - [**Ursus II**](../../../units/ursus_ii/ursus_ii.md) *Skirmisher (3078)* `ECM` 
 
 ### 55 Tons 
+
+#### [Bushwacker](../../../units/bushwacker.md) 
+
+- [**Bushwacker BSW-X2**](../../../units/bushwacker/bushwacker_bsw-x2.md) *Skirmisher (3054)* 
+- [**Bushwacker BSW-X4**](../../../units/bushwacker/bushwacker_bsw-x4.md) *Sniper (3125)* 
 
 #### [Mad Cat III](../../../units/mad_cat_iii.md) 
 
@@ -471,6 +502,10 @@
 
 - [**Black Knight BLK-NT-4D**](../../../units/black_knight/black_knight_blk-nt-4d.md) *Juggernaut (3127)* `ECM` 
 
+#### [Falconer](../../../units/falconer.md) 
+
+- [**Falconer FLC-8R**](../../../units/falconer/falconer_flc-8r.md) *Skirmisher (3053)* 
+
 #### [Orion IIC](../../../units/orion_iic.md) 
 
 - [**Orion IIC**](../../../units/orion_iic/orion_iic.md) *Sniper (2841)* 
@@ -497,6 +532,10 @@
 - [**Tundra Wolf**](../../../units/tundra_wolf/tundra_wolf.md) *Brawler (3076)* `ECM` 
 - [**Tundra Wolf 2**](../../../units/tundra_wolf/tundra_wolf_2.md) *Brawler (3076)* 
 - [**Tundra Wolf 4**](../../../units/tundra_wolf/tundra_wolf_4.md) *Brawler (3077)* `ECM` 
+
+#### [War Dog](../../../units/war_dog.md) 
+
+- [**War Dog WR-DG-03FC**](../../../units/war_dog/war_dog_wr-dg-03fc.md) *Brawler (3064)* `C3 Support` 
 
 ### 80 Tons 
 
@@ -547,6 +586,10 @@
 - [**Warhammer IIC 8**](../../../units/warhammer_iic/warhammer_iic_8.md) *Skirmisher (3079)* 
 - [**Warhammer IIC 10**](../../../units/warhammer_iic/warhammer_iic_10.md) *Sniper (3120)* 
 - [**Warhammer IIC 11**](../../../units/warhammer_iic/warhammer_iic_11.md) *Juggernaut (3124)* 
+
+#### [Zeus-X](../../../units/zeus-x.md) 
+
+- [**Zeus-X ZEU-9WD**](../../../units/zeus-x/zeus-x_zeu-9wd.md) *Brawler (3067)* 
 
 ### 85 Tons 
 

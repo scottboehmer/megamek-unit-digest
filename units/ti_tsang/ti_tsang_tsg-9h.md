@@ -43,21 +43,33 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 
 ### Late Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 
 ### Dark Ages 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 
 ### ilClan 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 

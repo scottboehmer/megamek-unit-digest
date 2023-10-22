@@ -136,6 +136,10 @@
 
 - [**Incubus II**](../../../units/incubus_ii/incubus_ii.md) *Striker (3085)* `Active Probe` 
 
+#### [Jackalope](../../../units/jackalope.md) 
+
+- [**Jackalope JLP-BD**](../../../units/jackalope/jackalope_jlp-bd.md) *Striker (3134)* `Active Probe` 
+
 #### [Nyx](../../../units/nyx.md) 
 
 - [**Nyx NX-80**](../../../units/nyx/nyx_nx-80.md) *Striker (3076)* `Active Probe` 
@@ -222,6 +226,7 @@
 #### [Powerman](../../../units/powerman.md) 
 
 - [**Powerman SC XV HaulerMech**](../../../units/powerman/powerman_sc_xv_haulermech.md) *Ambusher (2895)* `IndustrialMech` 
+- [**Powerman SC XVI HaulerMech**](../../../units/powerman/powerman_sc_xvi_haulermech.md) *Ambusher (3068)* `IndustrialMech` 
 
 #### [StrongArm](../../../units/strongarm.md) 
 
@@ -569,6 +574,10 @@
 - [**Linebacker I**](../../../units/linebacker/linebacker_i.md) *Scout (3142)* `Active Probe` 
 - [**Linebacker T**](../../../units/linebacker/linebacker_t.md) *Skirmisher (3142)* `Active Probe` 
 
+#### [Rifleman IIC](../../../units/rifleman_iic.md) 
+
+- [**Rifleman IIC 8**](../../../units/rifleman_iic/rifleman_iic_8.md) *Skirmisher (3078)* `ECM` 
+
 ### 70 Tons 
 
 #### [Archer](../../../units/archer.md) 
@@ -898,6 +907,7 @@
 - [**Ares ARS-V1B Hades**](../../../units/ares/ares_ars-v1b_hades.md) *Juggernaut (3136)* 
 - [**Ares ARS-V1C Aphrodite**](../../../units/ares/ares_ars-v1c_aphrodite.md) *Juggernaut (3136)* `C3 Main` , `ECM` , `TAG` 
 - [**Ares ARS-V1D Hephaestus**](../../../units/ares/ares_ars-v1d_hephaestus.md) *Juggernaut (3136)* `C3 Support` 
+- [**Ares ARS-V1E Apollo**](../../../units/ares/ares_ars-v1e_apollo.md) *Juggernaut (3151)* 
 
 ### 150 Tons 
 

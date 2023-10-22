@@ -8,6 +8,10 @@
 
 - [**Locust LCT-1Vb**](../../../units/locust/locust_lct-1vb.md) *Striker (2610)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Stinger](../../../units/stinger.md) 
 
 - [**Stinger STG-3Gb**](../../../units/stinger/stinger_stg-3gb.md) *Striker (2720)* 
@@ -43,6 +47,10 @@
 - [**Crosscut ED-X1 LoggerMech**](../../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
 - [**Crosscut ED-X2 LoggerMech**](../../../units/crosscut/crosscut_ed-x2_loggermech.md) *Ambusher (2715)* `IndustrialMech` 
 
+#### [Firefly](../../../units/firefly.md) 
+
+- [**Firefly FFL-3SLE**](../../../units/firefly/firefly_ffl-3sle.md) *Striker (2790)* `ECM` 
+
 #### [Hermes](../../../units/hermes.md) 
 
 - [**Hermes HER-1S**](../../../units/hermes/hermes_her-1s.md) *Scout (2632)* 
@@ -52,6 +60,10 @@
 
 - [**Hussar HSR-200-D**](../../../units/hussar/hussar_hsr-200-d.md) *Scout (2620)* 
 - [**Hussar HSR-200-Db**](../../../units/hussar/hussar_hsr-200-db.md) *Scout (2735)* `Active Probe` , `ECM` 
+
+#### [UrbanMech IIC](../../../units/urbanmech_iic.md) 
+
+- [**UrbanMech IIC**](../../../units/urbanmech_iic/urbanmech_iic.md) *Sniper (2849)* 
 
 ### 35 Tons 
 
@@ -94,6 +106,10 @@
 
 ### 45 Tons 
 
+#### [Great Wyrm](../../../units/great_wyrm.md) 
+
+- [**Great Wyrm**](../../../units/great_wyrm/great_wyrm.md) *Brawler (2844)* 
+
 #### [Kyudo](../../../units/kyudo.md) 
 
 - [**Kyudo KY2-D-02**](../../../units/kyudo/kyudo_ky2-d-02.md) *Missile Boat (2625)* 
@@ -134,6 +150,10 @@
 
 ### 55 Tons 
 
+#### [Dervish](../../../units/dervish.md) 
+
+- [**Dervish DV-6M**](../../../units/dervish/dervish_dv-6m.md) *Missile Boat (2570)* 
+
 #### [Griffin](../../../units/griffin.md) 
 
 - [**Griffin GRF-2N**](../../../units/griffin/griffin_grf-2n.md) *Skirmisher (2751)* `ECM` 
@@ -166,6 +186,7 @@
 #### [Champion](../../../units/champion.md) 
 
 - [**Champion CHP-1N**](../../../units/champion/champion_chp-1n.md) *Skirmisher (2602)* 
+- [**Champion C**](../../../units/champion/champion_c.md) *Skirmisher (2867)* 
 
 #### [Lancelot](../../../units/lancelot.md) 
 
@@ -201,6 +222,7 @@
 
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
+- [**Thunderbolt TDR-5S**](../../../units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
 - [**Thunderbolt TDR-5Sb**](../../../units/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)* 
 - [**Thunderbolt C**](../../../units/thunderbolt/thunderbolt_c.md) *Sniper (2832)* 
 
@@ -234,6 +256,7 @@
 #### [Black Knight](../../../units/black_knight.md) 
 
 - [**Black Knight BL-6-KNT**](../../../units/black_knight/black_knight_bl-6-knt.md) *Brawler (2578)* `Active Probe` 
+- [**Black Knight BL-6b-KNT**](../../../units/black_knight/black_knight_bl-6b-knt.md) *Brawler (2751)* `Active Probe` 
 
 #### [Flashman](../../../units/flashman.md) 
 
@@ -271,10 +294,16 @@
 #### [Crockett](../../../units/crockett.md) 
 
 - [**Crockett CRK-5003-1**](../../../units/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
+- [**Crockett CRK-5003-1b**](../../../units/crockett/crockett_crk-5003-1b.md) *Juggernaut (2752)* 
+
+#### [Marauder IIC](../../../units/marauder_iic.md) 
+
+- [**Marauder IIC**](../../../units/marauder_iic/marauder_iic.md) *Brawler (2828)* 
 
 #### [Shogun](../../../units/shogun.md) 
 
 - [**Shogun SHG-2H**](../../../units/shogun/shogun_shg-2h.md) *Missile Boat (2777)* 
+- [**Shogun C**](../../../units/shogun/shogun_c.md) *Missile Boat (2850)* 
 
 #### [Stalker](../../../units/stalker.md) 
 
@@ -290,6 +319,11 @@
 
 - [**Highlander HGN-732**](../../../units/highlander/highlander_hgn-732.md) *Sniper (2592)* 
 - [**Highlander HGN-732b**](../../../units/highlander/highlander_hgn-732b.md) *Sniper (2598)* 
+- [**Highlander HGN-732 (Colleen)**](../../../units/highlander/highlander_hgn-732_colleen.md) *Juggernaut (2801)* `Unique` 
+
+#### [Highlander IIC](../../../units/highlander_iic.md) 
+
+- [**Highlander IIC**](../../../units/highlander_iic/highlander_iic.md) *Missile Boat (2858)* 
 
 ### 95 Tons 
 
@@ -304,6 +338,7 @@
 
 #### [Atlas](../../../units/atlas.md) 
 
+- [**Atlas AS7-D**](../../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 - [**Atlas C 2**](../../../units/atlas/atlas_c_2.md) *Juggernaut (2840)* 
 - [**Atlas C 3**](../../../units/atlas/atlas_c_3.md) *Sniper (2842)* 
 

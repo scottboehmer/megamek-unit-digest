@@ -183,7 +183,9 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Capellan Confederation 
 - Draconis Combine 
+- Duchy of Andurien 
 - Escorpión Imperio 
 - Federated Suns 
 - Filtvelt Coalition 
@@ -192,12 +194,15 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
+- Oriente Protectorate 
 - Pirate 
+- Republic of the Sphere 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Calderon Protectorate 
+- Duchy of Andurien 
 - Escorpión Imperio 
 - Federated Suns 
 - Filtvelt Coalition 
@@ -207,6 +212,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
+- Oriente Protectorate 
 - Pirate 
 - Scorpion Empire 
 - Taurian Concordat 

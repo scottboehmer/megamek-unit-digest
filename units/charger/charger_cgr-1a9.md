@@ -32,12 +32,14 @@
 
 - Draconis Combine 
 - Free Rasalhague Republic 
+- St. Ives Compact 
 
 ### Civil War 
 
 - Draconis Combine 
 - Free Rasalhague Republic 
 - Outworlds Alliance 
+- St. Ives Compact 
 
 ### Jihad 
 
@@ -49,6 +51,7 @@
 ### Early Republic 
 
 - Calderon Protectorate 
+- Draconis Combine 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
@@ -60,6 +63,7 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Draconis Combine 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
@@ -71,11 +75,13 @@
 ### Dark Ages 
 
 - Calderon Protectorate 
+- Draconis Combine 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### ilClan 
@@ -86,5 +92,6 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 

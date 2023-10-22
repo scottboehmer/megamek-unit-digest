@@ -29,16 +29,24 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Duchy of Andurien 
+- Magistracy of Canopus 
 - Mercenary 
 - Star League (Jade Falcon) 
 - Star League (Smoke Jaguar) 

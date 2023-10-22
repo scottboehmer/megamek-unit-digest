@@ -31,13 +31,17 @@
 ### Late Republic 
 
 - Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 
 ### ilClan 
 
 - Free Worlds League 
+- Wolf Empire 
 

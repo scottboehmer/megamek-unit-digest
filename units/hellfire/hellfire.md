@@ -41,4 +41,5 @@
 - Clan Burrock 
 - Clan Cloud Cobra 
 - Clan Star Adder 
+- Clan Steel Viper 
 

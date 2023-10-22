@@ -153,6 +153,7 @@
 #### [Stuka](../../../units/stuka.md) 
 
 - [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Undefined (2571)* 
+- [**Stuka STU-K10**](../../../units/stuka/stuka_stu-k10.md) *Undefined (2711)* 
 - [**Stuka STU-D6**](../../../units/stuka/stuka_stu-d6.md) *Undefined (3051)* 
 
 #### [Thunderbird](../../../units/thunderbird.md) 

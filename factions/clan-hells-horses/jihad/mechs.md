@@ -20,6 +20,10 @@
 
 - [**Locust C**](../../../units/locust/locust_c.md) *Striker (2836)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -107,6 +111,7 @@
 #### [Hermes](../../../units/hermes.md) 
 
 - [**Hermes HER-1S**](../../../units/hermes/hermes_her-1s.md) *Scout (2632)* 
+- [**Hermes HER-1Sb**](../../../units/hermes/hermes_her-1sb.md) *Striker (2740)* `Active Probe` 
 
 #### [Hussar](../../../units/hussar.md) 
 
@@ -226,6 +231,7 @@
 #### [Sentinel](../../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
+- [**Sentinel STN-3Lb**](../../../units/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
 
 #### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
@@ -389,6 +395,7 @@
 #### [Glass Spider](../../../units/glass_spider.md) 
 
 - [**Glass Spider**](../../../units/glass_spider/glass_spider.md) *Sniper (2834)* 
+- [**Glass Spider 2**](../../../units/glass_spider/glass_spider_2.md) *Sniper (2952)* 
 
 #### [Hellfire](../../../units/hellfire.md) 
 
@@ -663,6 +670,7 @@
 #### [Crockett](../../../units/crockett.md) 
 
 - [**Crockett CRK-5003-1**](../../../units/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
+- [**Crockett CRK-5003-1b**](../../../units/crockett/crockett_crk-5003-1b.md) *Juggernaut (2752)* 
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
 

@@ -16,9 +16,17 @@
 - [**Fire Moth F**](../../../units/fire_moth/fire_moth_f.md) *Striker (3070)* `Active Probe` 
 - [**Fire Moth K**](../../../units/fire_moth/fire_moth_k.md) *Striker (3071)* 
 
+#### [Howler](../../../units/howler.md) 
+
+- [**Howler**](../../../units/howler/howler.md) *Missile Boat (2871)* 
+
 #### [Locust](../../../units/locust.md) 
 
 - [**Locust C**](../../../units/locust/locust_c.md) *Striker (2836)* 
+
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
 
 #### [Piranha](../../../units/piranha.md) 
 
@@ -231,6 +239,7 @@
 #### [Sentinel](../../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
+- [**Sentinel STN-3Lb**](../../../units/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
 
 #### [Viper OmniMech](../../../units/viper_omnimech.md) 
 

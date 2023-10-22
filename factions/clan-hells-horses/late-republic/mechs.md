@@ -31,6 +31,10 @@
 
 - [**Howler 6**](../../../units/howler/howler_6.md) *Striker (3086)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -42,11 +46,20 @@
 
 ### 25 Tons 
 
+#### [Bear Cub](../../../units/bear_cub.md) 
+
+- [**Bear Cub**](../../../units/bear_cub/bear_cub.md) *Striker (3068)* 
+- [**Bear Cub 2**](../../../units/bear_cub/bear_cub_2.md) *Striker (3070)* 
+
 #### [CattleMaster](../../../units/cattlemaster.md) 
 
 - [**CattleMaster CTL-3R 'Herder' IndustrialMech**](../../../units/cattlemaster/cattlemaster_ctl-3r_herder_industrialmech.md) *Undefined (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R2 'Hunter' IndustrialMech**](../../../units/cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) *Ambusher (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R3 SecurityMech**](../../../units/cattlemaster/cattlemaster_ctl-3r3_securitymech.md) *Striker (3072)* `IndustrialMech` 
+
+#### [Crimson Hawk](../../../units/crimson_hawk.md) 
+
+- [**Crimson Hawk**](../../../units/crimson_hawk/crimson_hawk.md) *Sniper (3071)* 
 
 #### [Fire Falcon](../../../units/fire_falcon.md) 
 
@@ -59,7 +72,6 @@
 - [**Fire Falcon H**](../../../units/fire_falcon/fire_falcon_h.md) *Striker (3062)* 
 - [**Fire Falcon F**](../../../units/fire_falcon/fire_falcon_f.md) *Striker (3072)* `Active Probe` 
 - [**Fire Falcon G**](../../../units/fire_falcon/fire_falcon_g.md) *Striker (3113)* 
-- [**Fire Falcon R**](../../../units/fire_falcon/fire_falcon_r.md) *Striker (3142)* 
 
 #### [Icestorm](../../../units/icestorm.md) 
 
@@ -252,10 +264,18 @@
 
 ### 40 Tons 
 
+#### [Arctic Wolf](../../../units/arctic_wolf.md) 
+
+- [**Arctic Wolf**](../../../units/arctic_wolf/arctic_wolf.md) *Striker (3059)* 
+
 #### [Corvis](../../../units/corvis.md) 
 
 - [**Corvis**](../../../units/corvis/corvis.md) *Brawler (2845)* 
 - [**Corvis 2**](../../../units/corvis/corvis_2.md) *Brawler (3075)* 
+
+#### [Dasher II](../../../units/dasher_ii.md) 
+
+- [**Dasher II 2**](../../../units/dasher_ii/dasher_ii_2.md) *Striker (3084)* 
 
 #### [Griffin IIC](../../../units/griffin_iic.md) 
 
@@ -289,6 +309,10 @@
 - [**Pouncer H**](../../../units/pouncer/pouncer_h.md) *Striker (3062)* 
 - [**Pouncer F**](../../../units/pouncer/pouncer_f.md) *Scout (3069)* `Active Probe` 
 - [**Pouncer W**](../../../units/pouncer/pouncer_w.md) *Sniper (3089)* 
+
+#### [Sentinel](../../../units/sentinel.md) 
+
+- [**Sentinel STN-3Lb**](../../../units/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
 
 #### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
@@ -405,7 +429,15 @@
 
 - [**Ursus 2**](../../../units/ursus/ursus_2.md) *Striker (3074)* 
 
+#### [Ursus II](../../../units/ursus_ii.md) 
+
+- [**Ursus II**](../../../units/ursus_ii/ursus_ii.md) *Skirmisher (3078)* `ECM` 
+
 ### 55 Tons 
+
+#### [Kintaro](../../../units/kintaro.md) 
+
+- [**Kintaro KTO-19b**](../../../units/kintaro/kintaro_kto-19b.md) *Skirmisher (2731)* 
 
 #### [Stormcrow](../../../units/stormcrow.md) 
 
@@ -460,6 +492,10 @@
 - [**Thresher 2**](../../../units/thresher/thresher_2.md) *Skirmisher (2858)* 
 
 ### 65 Tons 
+
+#### [Arcas](../../../units/arcas.md) 
+
+- [**Arcas**](../../../units/arcas/arcas.md) *Skirmisher (3061)* 
 
 #### [Balius](../../../units/balius.md) 
 
@@ -533,6 +569,10 @@
 
 ### 70 Tons 
 
+#### [Blood Reaper](../../../units/blood_reaper.md) 
+
+- [**Blood Reaper**](../../../units/blood_reaper/blood_reaper.md) *Skirmisher (3079)* 
+
 #### [Bowman](../../../units/bowman.md) 
 
 - [**Bowman 4**](../../../units/bowman/bowman_4.md) *Missile Boat (2923)* `ECM` 
@@ -580,9 +620,18 @@
 
 #### [Ryoken II](../../../units/ryoken_ii.md) 
 
+- [**Ryoken II**](../../../units/ryoken_ii/ryoken_ii.md) *Sniper (3075)* 
 - [**Ryoken II 3**](../../../units/ryoken_ii/ryoken_ii_3.md) *Sniper (3076)* 
 
+#### [Tundra Wolf](../../../units/tundra_wolf.md) 
+
+- [**Tundra Wolf**](../../../units/tundra_wolf/tundra_wolf.md) *Brawler (3076)* `ECM` 
+
 ### 80 Tons 
+
+#### [Bruin](../../../units/bruin.md) 
+
+- [**Bruin**](../../../units/bruin/bruin.md) *Skirmisher (3081)* 
 
 #### [Gargoyle](../../../units/gargoyle.md) 
 
@@ -658,6 +707,7 @@
 
 #### [Highlander IIC](../../../units/highlander_iic.md) 
 
+- [**Highlander IIC**](../../../units/highlander_iic/highlander_iic.md) *Missile Boat (2858)* 
 - [**Highlander IIC 3**](../../../units/highlander_iic/highlander_iic_3.md) *Missile Boat (3077)* `ECM` 
 
 #### [Mad Cat Mk II](../../../units/mad_cat_mk_ii.md) 
@@ -739,6 +789,10 @@
 #### [Bane](../../../units/bane.md) 
 
 - [**Bane 7**](../../../units/bane/bane_7.md) *Sniper (3122)* 
+
+#### [Jupiter](../../../units/jupiter.md) 
+
+- [**Jupiter**](../../../units/jupiter/jupiter.md) *Sniper (3068)* 
 
 #### [Scylla](../../../units/scylla.md) 
 

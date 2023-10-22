@@ -75,6 +75,7 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Republic of the Sphere 
 
 ### Late Republic 
 
@@ -86,6 +87,7 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
@@ -97,6 +99,7 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Republic of the Sphere 
 
 ### ilClan 
 

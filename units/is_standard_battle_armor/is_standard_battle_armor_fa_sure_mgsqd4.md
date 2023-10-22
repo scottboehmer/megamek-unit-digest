@@ -23,5 +23,13 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Duchy of Andurien 
+- Mercenary 
+
+### ilClan 
+
+- Duchy of Andurien 
+- Mercenary 
 

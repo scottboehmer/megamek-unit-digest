@@ -165,7 +165,6 @@
 
 - [Early Succession Wars](clan-sea-fox/early-succession-wars.md) 
 - [Late Succession Wars - LosTech](clan-sea-fox/lostech.md) 
-- [Early Republic](clan-sea-fox/early-republic.md) 
 - [Late Republic](clan-sea-fox/late-republic.md) 
 - [Dark Ages](clan-sea-fox/dark-ages.md) 
 - [ilClan](clan-sea-fox/ilclan.md) 

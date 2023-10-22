@@ -77,6 +77,7 @@
 
 #### [Commando](../../../units/commando.md) 
 
+- [**Commando COM-2D**](../../../units/commando/commando_com-2d.md) *Striker (2486)* 
 - [**Commando COM-5S**](../../../units/commando/commando_com-5s.md) *Striker (3050)* 
 - [**Commando COM-7S**](../../../units/commando/commando_com-7s.md) *Striker (3060)* 
 - [**Commando COM-7B**](../../../units/commando/commando_com-7b.md) *Striker (3068)* 
@@ -433,6 +434,7 @@
 
 - [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 - [**Griffin IIC 4**](../../../units/griffin_iic/griffin_iic_4.md) *Striker (3060)* 
+- [**Griffin IIC 5**](../../../units/griffin_iic/griffin_iic_5.md) *Striker (3071)* 
 - [**Griffin IIC 8**](../../../units/griffin_iic/griffin_iic_8.md) *Striker (3078)* `ECM` 
 
 #### [Harvester](../../../units/harvester.md) 
@@ -855,6 +857,7 @@
 
 #### [Axman](../../../units/axman.md) 
 
+- [**Axman AXM-1N**](../../../units/axman/axman_axm-1n.md) *Skirmisher (3048)* 
 - [**Axman AXM-3S**](../../../units/axman/axman_axm-3s.md) *Skirmisher (3060)* `ECM` 
 - [**Axman AXM-3Sr**](../../../units/axman/axman_axm-3sr.md) *Skirmisher (3069)* `C3 Support` , `ECM` 
 - [**Axman AXM-6T**](../../../units/axman/axman_axm-6t.md) *Missile Boat (3083)* 
@@ -1007,6 +1010,7 @@
 
 #### [Mangonel](../../../units/mangonel.md) 
 
+- [**Mangonel MNL-3W**](../../../units/mangonel/mangonel_mnl-3w.md) *Skirmisher (3082)* `ECM` 
 - [**Mangonel MNL-4S**](../../../units/mangonel/mangonel_mnl-4s.md) *Brawler (3088)* 
 
 #### [MuckRaker](../../../units/muckraker.md) 
@@ -1068,14 +1072,11 @@
 
 - [**Flashman FLS-10E**](../../../units/flashman/flashman_fls-10e.md) *Skirmisher (3144)* 
 
-#### [Gotterdammerung](../../../units/gotterdammerung.md) 
-
-- [**Gotterdammerung GTD-20C**](../../../units/gotterdammerung/gotterdammerung_gtd-20c.md) *Undefined (3138)* 
-- [**Gotterdammerung GTD-30S**](../../../units/gotterdammerung/gotterdammerung_gtd-30s.md) *Undefined (3138)* 
-
 #### [Götterdämmerung](../../../units/götterdämmerung.md) 
 
+- [**Götterdämmerung GTD-20C**](../../../units/götterdämmerung/götterdämmerung_gtd-20c.md) *Undefined (3138)* 
 - [**Götterdämmerung GTD-20S**](../../../units/götterdämmerung/götterdämmerung_gtd-20s.md) *Brawler (3138)* 
+- [**Götterdämmerung GTD-30S**](../../../units/götterdämmerung/götterdämmerung_gtd-30s.md) *Undefined (3138)* 
 
 #### [Helepolis](../../../units/helepolis.md) 
 

@@ -37,22 +37,26 @@
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 

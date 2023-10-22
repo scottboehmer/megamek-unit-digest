@@ -43,6 +43,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
 - Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -62,6 +63,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
 - Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -82,6 +84,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
 - Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 

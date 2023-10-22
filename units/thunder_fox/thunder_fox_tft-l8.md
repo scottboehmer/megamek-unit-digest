@@ -33,10 +33,12 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### ilClan 
 
 - Lyran Commonwealth 
+- Mercenary 
 - Tamar Pact 
 - Vesper Marches 
 

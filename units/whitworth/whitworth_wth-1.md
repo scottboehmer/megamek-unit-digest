@@ -33,6 +33,8 @@
 
 ### Early Succession Wars 
 
+- Clan Burrock 
+- Clan Widowmaker 
 - ComStar 
 - Draconis Combine 
 - Magistracy of Canopus 

@@ -78,6 +78,14 @@
 
 ### 45 Tons 
 
+#### [Dagger](../../../units/dagger.md) 
+
+- [**Dagger DARO-1**](../../../units/dagger/dagger_daro-1.md) *Fast Dogfighter (3062)* 
+- [**Dagger DARO-1A**](../../../units/dagger/dagger_daro-1a.md) *Fast Dogfighter (3062)* 
+- [**Dagger DARO-1B**](../../../units/dagger/dagger_daro-1b.md) *Fast Dogfighter (3062)* 
+- [**Dagger DARO-1C**](../../../units/dagger/dagger_daro-1c.md) *Fast Dogfighter (3068)* 
+- [**Dagger DARO-1D**](../../../units/dagger/dagger_daro-1d.md) *Fast Dogfighter (3068)* `Active Probe` , `ECM` 
+
 #### [Tomahawk Aerospace Fighter](../../../units/tomahawk_aerospace_fighter.md) 
 
 - [**Tomahawk THK-63CS**](../../../units/tomahawk_aerospace_fighter/tomahawk_thk-63cs.md) *Fire Support (3069)* 
@@ -98,6 +106,7 @@
 #### [Lancer](../../../units/lancer.md) 
 
 - [**Lancer LX-2**](../../../units/lancer/lancer_lx-2.md) *Fast Dogfighter (3064)* 
+- [**Lancer LX-3**](../../../units/lancer/lancer_lx-3.md) *Fast Dogfighter (3074)* `ECM` 
 
 #### [Lightning Aerospace Fighter](../../../units/lightning_aerospace_fighter.md) 
 
@@ -105,6 +114,7 @@
 - [**Lightning LTN-G15b**](../../../units/lightning_aerospace_fighter/lightning_ltn-g15b.md) *Dogfighter (2721)* 
 - [**Lightning LTN-G16L**](../../../units/lightning_aerospace_fighter/lightning_ltn-g16l.md) *Dogfighter (3067)* 
 - [**Lightning LTN-G16D**](../../../units/lightning_aerospace_fighter/lightning_ltn-g16d.md) *Dogfighter (3068)* 
+- [**Lightning LTN-G16S**](../../../units/lightning_aerospace_fighter/lightning_ltn-g16s.md) *Dogfighter (3068)* 
 
 ### 55 Tons 
 
@@ -163,6 +173,12 @@
 - [**Troika CMT-3T**](../../../units/troika/troika_cmt-3t.md) *Fire Support (3065)* 
 - [**Troika CMT-4U**](../../../units/troika/troika_cmt-4u.md) *Dogfighter (3066)* 
 - [**Troika CMT-6T**](../../../units/troika/troika_cmt-6t.md) *Dogfighter (3079)* `Transport:4.0` 
+
+### 70 Tons 
+
+#### [Cutlass](../../../units/cutlass.md) 
+
+- [**Cutlass CUT-01D**](../../../units/cutlass/cutlass_cut-01d.md) *Fast Dogfighter (3102)* `Active Probe` , `ECM` 
 
 ### 75 Tons 
 

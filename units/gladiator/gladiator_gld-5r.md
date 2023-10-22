@@ -46,6 +46,7 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Lyran Commonwealth 
@@ -56,6 +57,7 @@
 
 ### ilClan 
 
+- Clan Sea Fox 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Marian Hegemony 

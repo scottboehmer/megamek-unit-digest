@@ -42,6 +42,10 @@
 - [**Crosscut ED-X1 LoggerMech**](../../../units/crosscut/crosscut_ed-x1_loggermech.md) *Ambusher (2650)* `IndustrialMech` 
 - [**Crosscut ED-X2 LoggerMech**](../../../units/crosscut/crosscut_ed-x2_loggermech.md) *Ambusher (2715)* `IndustrialMech` 
 
+#### [Firefly](../../../units/firefly.md) 
+
+- [**Firefly FFL-3SLE**](../../../units/firefly/firefly_ffl-3sle.md) *Striker (2790)* `ECM` 
+
 #### [Hermes](../../../units/hermes.md) 
 
 - [**Hermes HER-1S**](../../../units/hermes/hermes_her-1s.md) *Scout (2632)* 
@@ -80,6 +84,10 @@
 
 - [**Clint CLNT-1-2R**](../../../units/clint/clint_clnt-1-2r.md) *Striker (2607)* 
 
+#### [Mercury II](../../../units/mercury_ii.md) 
+
+- [**Mercury II MCY-100**](../../../units/mercury_ii/mercury_ii_mcy-100.md) *Striker (2823)* `Active Probe` , `ECM` 
+
 #### [Sentinel](../../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
@@ -93,6 +101,14 @@
 #### [Phoenix Hawk](../../../units/phoenix_hawk.md) 
 
 - [**Phoenix Hawk PXH-1b (Special)**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1b_special.md) *Skirmisher (2760)* `ECM` 
+
+#### [Stag](../../../units/stag.md) 
+
+- [**Stag ST-14G**](../../../units/stag/stag_st-14g.md) *Striker (2823)* `Active Probe` 
+
+#### [Stag II](../../../units/stag_ii.md) 
+
+- [**Stag II ST-24G**](../../../units/stag_ii/stag_ii_st-24g.md) *Striker (2823)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
 
@@ -168,6 +184,7 @@
 
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
+- [**Thunderbolt TDR-5S**](../../../units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
 - [**Thunderbolt TDR-5Sb**](../../../units/thunderbolt/thunderbolt_tdr-5sb.md) *Brawler (2753)* 
 
 ### 70 Tons 
@@ -226,6 +243,10 @@
 
 - [**Crockett CRK-5003-1**](../../../units/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
 
+#### [Longbow](../../../units/longbow.md) 
+
+- [**Longbow LGB-7Q**](../../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
+
 #### [Stalker](../../../units/stalker.md) 
 
 - [**Stalker STK-3Fb**](../../../units/stalker/stalker_stk-3fb.md) *Juggernaut (2705)* `ECM` 
@@ -247,6 +268,10 @@
 - [**Pulverizer PUL-3R**](../../../units/pulverizer/pulverizer_pul-3r.md) *Brawler (2823)* `ECM` 
 
 ### 100 Tons 
+
+#### [Atlas](../../../units/atlas.md) 
+
+- [**Atlas AS7-D**](../../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 
 #### [Atlas II](../../../units/atlas_ii.md) 
 

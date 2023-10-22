@@ -58,4 +58,5 @@
 - Calderon Protectorate 
 - Federated Suns 
 - Filtvelt Coalition 
+- Mercenary 
 

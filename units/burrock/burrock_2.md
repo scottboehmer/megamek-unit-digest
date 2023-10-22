@@ -25,5 +25,6 @@
 
 ### Jihad 
 
+- Clan Burrock 
 - Clan Star Adder 
 

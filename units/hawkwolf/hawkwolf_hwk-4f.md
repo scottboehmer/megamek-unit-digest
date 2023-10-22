@@ -34,24 +34,37 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
+- Mercenary 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Calderon Protectorate 
+- Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 
 ### ilClan 
 
 - Calderon Protectorate 
+- Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
+- Pirate 
 - Taurian Concordat 
 

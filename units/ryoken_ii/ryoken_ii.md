@@ -47,6 +47,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
 - Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -58,6 +59,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -65,6 +67,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
 - Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -77,6 +80,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -84,6 +88,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
 - Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -92,6 +97,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Tamar Pact 
 - Vesper Marches 
 

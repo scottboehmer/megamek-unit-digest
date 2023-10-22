@@ -41,17 +41,24 @@
 
 ### Late Republic 
 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
 - Clan Wolf 
+- Clan Wolf-in-Exile 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
 - Star League (Wolf) 
 - Wolf Empire 
 

@@ -14,6 +14,10 @@
 - [**Fire Moth E**](../../../units/fire_moth/fire_moth_e.md) *Scout (3055)* 
 - [**Fire Moth H**](../../../units/fire_moth/fire_moth_h.md) *Striker (3060)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -502,6 +506,7 @@
 #### [Black Knight](../../../units/black_knight.md) 
 
 - [**Black Knight BL-6-KNT**](../../../units/black_knight/black_knight_bl-6-knt.md) *Brawler (2578)* `Active Probe` 
+- [**Black Knight BL-6b-KNT**](../../../units/black_knight/black_knight_bl-6b-knt.md) *Brawler (2751)* `Active Probe` 
 
 #### [Black Python](../../../units/black_python.md) 
 
@@ -587,6 +592,7 @@
 #### [Crockett](../../../units/crockett.md) 
 
 - [**Crockett CRK-5003-1**](../../../units/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
+- [**Crockett CRK-5003-1b**](../../../units/crockett/crockett_crk-5003-1b.md) *Juggernaut (2752)* 
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
 

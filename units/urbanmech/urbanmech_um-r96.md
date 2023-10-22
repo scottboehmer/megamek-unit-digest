@@ -26,8 +26,10 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Mercenary 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Mercenary 
 

@@ -29,6 +29,10 @@
 - [**Commando COM-2D**](../../../units/commando/commando_com-2d.md) *Striker (2486)* 
 - [**Commando COM-5S**](../../../units/commando/commando_com-5s.md) *Striker (3050)* 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -239,6 +243,8 @@
 - [**Blackjack BJ2-OB**](../../../units/blackjack_omnimech/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
 - [**Blackjack BJ2-OC**](../../../units/blackjack_omnimech/blackjack_bj2-oc.md) *Brawler (3057)* 
 - [**Blackjack BJ2-OD**](../../../units/blackjack_omnimech/blackjack_bj2-od.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OE**](../../../units/blackjack_omnimech/blackjack_bj2-oe.md) *Sniper (3059)* 
+- [**Blackjack BJ2-OR**](../../../units/blackjack_omnimech/blackjack_bj2-or.md) *Brawler (3059)* 
 - [**Blackjack BJ2-OF**](../../../units/blackjack_omnimech/blackjack_bj2-of.md) *Sniper (3061)* 
 
 #### [Buster](../../../units/buster.md) 
@@ -332,6 +338,7 @@
 - [**Black Hawk-KU BHKU-OB**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ob.md) *Skirmisher (3055)* 
 - [**Black Hawk-KU BHKU-OC**](../../../units/black_hawk-ku/black_hawk-ku_bhku-oc.md) *Sniper (3055)* 
 - [**Black Hawk-KU BHKU-OD**](../../../units/black_hawk-ku/black_hawk-ku_bhku-od.md) *Missile Boat (3055)* 
+- [**Black Hawk-KU BHKU-OX**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ox.md) *Skirmisher (3058)* `C3 Support` 
 - [**Black Hawk-KU BHKU-OR**](../../../units/black_hawk-ku/black_hawk-ku_bhku-or.md) *Skirmisher (3059)* `C3 Support` 
 
 #### [Champion](../../../units/champion.md) 
@@ -445,6 +452,7 @@
 - [**Avatar AV1-OB**](../../../units/avatar/avatar_av1-ob.md) *Missile Boat (3056)* 
 - [**Avatar AV1-OC**](../../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Main` , `TAG` 
 - [**Avatar AV1-OG**](../../../units/avatar/avatar_av1-og.md) *Sniper (3056)* 
+- [**Avatar AV1-OR**](../../../units/avatar/avatar_av1-or.md) *Brawler (3059)* 
 - [**Avatar AV1-OD**](../../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Support` 
 
 #### [Gallowglas](../../../units/gallowglas.md) 
@@ -484,6 +492,7 @@
 
 - [**Black Knight BL-6-KNT**](../../../units/black_knight/black_knight_bl-6-knt.md) *Brawler (2578)* `Active Probe` 
 - [**Black Knight BL-7-KNT**](../../../units/black_knight/black_knight_bl-7-knt.md) *Brawler (2809)* 
+- [**Black Knight BL-9-KNT**](../../../units/black_knight/black_knight_bl-9-knt.md) *Brawler (3052)* 
 
 #### [Dragon Fire](../../../units/dragon_fire.md) 
 

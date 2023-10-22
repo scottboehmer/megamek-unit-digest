@@ -7,6 +7,7 @@
 #### [Trident](../../../units/trident.md) 
 
 - [**Trident TRN-3T**](../../../units/trident/trident_trn-3t.md) *Interceptor (2717)* 
+- [**Trident TRN-3Tb**](../../../units/trident/trident_trn-3tb.md) *Interceptor (2718)* 
 
 ### 25 Tons 
 
@@ -18,6 +19,7 @@
 
 - [**Sabre SB-26**](../../../units/sabre/sabre_sb-26.md) *Fast Dogfighter (2314)* 
 - [**Sabre SB-27**](../../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
+- [**Sabre SB-27b**](../../../units/sabre/sabre_sb-27b.md) *Interceptor (2722)* 
 
 #### [Swift](../../../units/swift.md) 
 
@@ -49,6 +51,7 @@
 
 - [**Rogue RGU-133E**](../../../units/rogue/rogue_rgu-133e.md) *Undefined (2631)* 
 - [**Rogue RGU-133F**](../../../units/rogue/rogue_rgu-133f.md) *Fast Dogfighter (2639)* 
+- [**Rogue RGU-133Eb**](../../../units/rogue/rogue_rgu-133eb.md) *Fast Dogfighter (2710)* 
 
 ### 45 Tons 
 
@@ -71,6 +74,7 @@
 #### [Lightning Aerospace Fighter](../../../units/lightning_aerospace_fighter.md) 
 
 - [**Lightning LTN-G15**](../../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
+- [**Lightning LTN-G15b**](../../../units/lightning_aerospace_fighter/lightning_ltn-g15b.md) *Dogfighter (2721)* 
 
 #### [Samurai](../../../units/samurai.md) 
 
@@ -83,6 +87,7 @@
 
 - [**Gotha GTHA-100**](../../../units/gotha/gotha_gtha-100.md) *Undefined (2657)* 
 - [**Gotha GTHA-500**](../../../units/gotha/gotha_gtha-500.md) *Undefined (2657)* 
+- [**Gotha GTHA-500b**](../../../units/gotha/gotha_gtha-500b.md) *Undefined (2703)* 
 
 #### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
@@ -119,6 +124,7 @@
 
 - [**Rapier RPR-100**](../../../units/rapier/rapier_rpr-100.md) *Dogfighter (2596)* 
 - [**Rapier RPR-101**](../../../units/rapier/rapier_rpr-101.md) *Dogfighter (2635)* 
+- [**Rapier RPR-100b**](../../../units/rapier/rapier_rpr-100b.md) *Dogfighter (2743)* 
 
 ### 90 Tons 
 
@@ -126,6 +132,7 @@
 
 - [**Ahab AHB-X**](../../../units/ahab/ahab_ahb-x.md) *Undefined (2697)* 
 - [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
+- [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Undefined (2703)* 
 
 #### [Chippewa](../../../units/chippewa.md) 
 

@@ -18,9 +18,11 @@
 - **Equipment:** 
   - Anti-Personnel Mount 
 - **Sources:** TRO: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8030) 
-- **Battle Value:** 65 (452 for 5 suits) 
+- **Battle Value:** 65 (336 for 4 suits) 
 
 ## Availability 
 
-Availability Unknown 
+### ilClan 
+
+- Free Worlds League 
 

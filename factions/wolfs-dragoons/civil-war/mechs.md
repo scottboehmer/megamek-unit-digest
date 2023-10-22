@@ -361,6 +361,7 @@
 - [**Blackjack BJ2-OB**](../../../units/blackjack_omnimech/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
 - [**Blackjack BJ2-OC**](../../../units/blackjack_omnimech/blackjack_bj2-oc.md) *Brawler (3057)* 
 - [**Blackjack BJ2-OD**](../../../units/blackjack_omnimech/blackjack_bj2-od.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OE**](../../../units/blackjack_omnimech/blackjack_bj2-oe.md) *Sniper (3059)* 
 - [**Blackjack BJ2-OR**](../../../units/blackjack_omnimech/blackjack_bj2-or.md) *Brawler (3059)* 
 - [**Blackjack BJ2-OF**](../../../units/blackjack_omnimech/blackjack_bj2-of.md) *Sniper (3061)* 
 
@@ -515,6 +516,7 @@
 - [**Black Hawk-KU BHKU-OB**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ob.md) *Skirmisher (3055)* 
 - [**Black Hawk-KU BHKU-OC**](../../../units/black_hawk-ku/black_hawk-ku_bhku-oc.md) *Sniper (3055)* 
 - [**Black Hawk-KU BHKU-OD**](../../../units/black_hawk-ku/black_hawk-ku_bhku-od.md) *Missile Boat (3055)* 
+- [**Black Hawk-KU BHKU-OX**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ox.md) *Skirmisher (3058)* `C3 Support` 
 - [**Black Hawk-KU BHKU-OR**](../../../units/black_hawk-ku/black_hawk-ku_bhku-or.md) *Skirmisher (3059)* `C3 Support` 
 - [**Black Hawk-KU BHKU-OE**](../../../units/black_hawk-ku/black_hawk-ku_bhku-oe.md) *Skirmisher (3063)* 
 
@@ -924,7 +926,7 @@
 
 - [**Nightstar NSR-9J**](../../../units/nightstar/nightstar_nsr-9j.md) *Juggernaut (2767)* 
 - [**Nightstar NSR-9FC**](../../../units/nightstar/nightstar_nsr-9fc.md) *Juggernaut (3057)* 
-- [**Nightstar NSR-9J (Brubaker)**](../../../units/nightstar/nightstar_nsr-9j_brubaker.md) *Sniper (3057)* 
+- [**Nightstar NSR-9J (Brubaker)**](../../../units/nightstar/nightstar_nsr-9j_brubaker.md) *Sniper (3057)* `Unique` 
 - [**Nightstar NSR-9SS**](../../../units/nightstar/nightstar_nsr-9ss.md) *Juggernaut (3065)* 
 
 #### [Sirocco](../../../units/sirocco.md) 

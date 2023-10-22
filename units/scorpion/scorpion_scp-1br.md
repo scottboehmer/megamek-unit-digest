@@ -53,6 +53,7 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
+- Pirate 
 - Tamar Pact 
 - Vesper Marches 
 

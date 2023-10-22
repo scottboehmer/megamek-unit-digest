@@ -81,6 +81,7 @@
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 - Federated Suns 
+- Free Worlds League 
 - Lyran Commonwealth 
 - Rasalhague Dominion 
 - Raven Alliance 
@@ -93,6 +94,7 @@
 - Clan Sea Fox 
 - Draconis Combine 
 - Federated Suns 
+- Free Worlds League 
 - Lyran Commonwealth 
 - Rasalhague Dominion 
 - Raven Alliance 

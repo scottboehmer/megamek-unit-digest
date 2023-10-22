@@ -45,18 +45,21 @@
 
 ### Early Republic 
 
+- Clan Nova Cat 
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Clan Nova Cat 
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Nova Cat 
 - Mercenary 
 - Rasalhague Dominion 
 - Republic of the Sphere 

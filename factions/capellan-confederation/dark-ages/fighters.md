@@ -27,6 +27,18 @@
 - [**Thrush TR-8**](../../../units/thrush/thrush_tr-8.md) *Interceptor (3065)* 
 - [**Thrush TR-9**](../../../units/thrush/thrush_tr-9.md) *Undefined (3143)* 
 
+### 30 Tons 
+
+#### [Centurion Aerospace Fighter](../../../units/centurion_aerospace_fighter.md) 
+
+- [**Centurion CNT-1D**](../../../units/centurion_aerospace_fighter/centurion_cnt-1d.md) *Interceptor (2473)* 
+
+### 35 Tons 
+
+#### [Poignard](../../../units/poignard.md) 
+
+- [**Poignard PGD-Y3**](../../../units/poignard/poignard_pgd-y3.md) *Fast Dogfighter (3083)* 
+
 ### 40 Tons 
 
 #### [Yun](../../../units/yun.md) 
@@ -71,6 +83,10 @@
 
 ### 65 Tons 
 
+#### [Ammon](../../../units/ammon.md) 
+
+- [**Ammon**](../../../units/ammon/ammon.md) *Dogfighter (3064)* 
+
 #### [Troika](../../../units/troika.md) 
 
 - [**Troika CMT-3T**](../../../units/troika/troika_cmt-3t.md) *Fire Support (3065)* 
@@ -106,6 +122,7 @@
 
 #### [Riever](../../../units/riever.md) 
 
+- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Undefined (2815)* 
 - [**Riever F-700**](../../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
 - [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Undefined (3050)* 
 - [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 

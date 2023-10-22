@@ -37,3 +37,11 @@
 - Wolf's Dragoons 
 - Word of Blake 
 
+### Early Republic 
+
+- Mercenary 
+
+### Late Republic 
+
+- Mercenary 
+

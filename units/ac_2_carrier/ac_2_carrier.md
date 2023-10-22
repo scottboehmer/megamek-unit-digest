@@ -19,6 +19,9 @@
 
 ### Star League 
 
+- Draconis Combine 
+- Federated Suns 
+- Lyran Commonwealth 
 - Rim Worlds Republic - Terran Corps 
 - Star League 
 - Star League - Royal Divisions 

@@ -57,7 +57,33 @@
 - Free Worlds League 
 - Star League-in-Exile 
 
+### Late Succession Wars - LosTech 
+
+- Clan Burrock 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Burrock 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+
+### Clan Invasion 
+
+- Clan Burrock 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+
+### Civil War 
+
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+
 ### Jihad 
 
+- Clan Burrock 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
 - Society 
 

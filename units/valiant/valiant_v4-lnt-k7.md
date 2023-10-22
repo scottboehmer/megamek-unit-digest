@@ -101,4 +101,5 @@
 - Mercenary 
 - Tamar Pact 
 - Vesper Marches 
+- Wolf Empire 
 

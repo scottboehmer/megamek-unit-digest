@@ -45,6 +45,10 @@
 
 - [**Duan Gung D9-G9**](../../../units/duan_gung/duan_gung_d9-g9.md) *Missile Boat (3058)* 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -109,6 +113,10 @@
 
 - [**Jenner JR7-D**](../../../units/jenner/jenner_jr7-d.md) *Striker (2785)* 
 - [**Jenner JR7-K**](../../../units/jenner/jenner_jr7-k.md) *Striker (3047)* 
+
+#### [Ostscout](../../../units/ostscout.md) 
+
+- [**Ostscout OTT-7J**](../../../units/ostscout/ostscout_ott-7j.md) *Scout (2600)* 
 
 #### [Panther](../../../units/panther.md) 
 

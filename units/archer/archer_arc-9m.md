@@ -51,10 +51,12 @@
 
 ### Late Republic 
 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -64,11 +66,13 @@
 
 ### Dark Ages 
 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -78,10 +82,12 @@
 
 ### ilClan 
 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Mercenary 
 - Tamar Pact 
 

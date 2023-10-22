@@ -12,6 +12,7 @@
 
 #### [Cheetah](../../../units/cheetah.md) 
 
+- [**Cheetah F-10**](../../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
 - [**Cheetah F-11-R**](../../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
 - [**Cheetah F-11**](../../../units/cheetah/cheetah_f-11.md) *Interceptor (3051)* 
 - [**Cheetah F-14-S**](../../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
@@ -111,6 +112,10 @@
 - [**Shiva SHV-OD**](../../../units/shiva/shiva_shv-od.md) *Undefined (3073)* `ECM` 
 
 ### 90 Tons 
+
+#### [Chippewa](../../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Undefined (2584)* 
 
 #### [Shikra](../../../units/shikra.md) 
 

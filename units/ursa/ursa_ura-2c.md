@@ -27,6 +27,7 @@
 
 ### Late Republic 
 
+- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
@@ -36,6 +37,7 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
@@ -45,6 +47,7 @@
 
 ### ilClan 
 
+- Clan Sea Fox 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 

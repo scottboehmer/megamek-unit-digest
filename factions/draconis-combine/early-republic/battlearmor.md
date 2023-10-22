@@ -72,6 +72,11 @@
 
 ### 1 Tons 
 
+#### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
+
+- [**IS Standard Battle Armor (Baka) (LRR)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd4.md) *Ambusher (3086)* 
+- [**IS Standard Battle Armor (Baka) (SL)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_baka_slsqd4.md) *Ambusher (3086)* 
+
 #### [Raiden Battle Armor](../../../units/raiden_battle_armor.md) 
 
 - [**Raiden Battle Armor (Flamer)(Sqd4)**](../../../units/raiden_battle_armor/raiden_battle_armor_flamersqd4.md) *Ambusher (3055)* 

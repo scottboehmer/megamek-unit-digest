@@ -21,7 +21,9 @@
 
 ### Star League 
 
+- Capellan Confederation 
 - Rim Worlds Republic - Terran Corps 
+- Star League 
 - Terran Hegemony 
 
 ### Jihad 

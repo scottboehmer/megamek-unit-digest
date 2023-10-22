@@ -31,8 +31,10 @@
 ### Early Succession Wars 
 
 - Capellan Confederation 
+- Clan Smoke Jaguar 
 - Draconis Combine 
 - Mercenary 
+- Star League-in-Exile 
 
 ### Late Succession Wars - LosTech 
 
@@ -129,23 +131,31 @@
 ### Early Republic 
 
 - Calderon Protectorate 
+- Clan Wolf 
 - Draconis Combine 
 - Filtvelt Coalition 
 - Mercenary 
 - Pirate 
+- Rasalhague Dominion 
+- Republic of the Sphere 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Calderon Protectorate 
+- Clan Wolf 
 - Draconis Combine 
 - Mercenary 
 - Pirate 
+- Rasalhague Dominion 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Draconis Combine 
 - Pirate 
+- Republic of the Sphere 
 
 ### ilClan 
 

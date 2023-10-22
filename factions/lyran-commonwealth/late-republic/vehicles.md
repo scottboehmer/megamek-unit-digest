@@ -482,6 +482,10 @@
 
 - [**Scimitar Mk II HCV**](../../../units/scimitar_mk_ii_hcv/scimitar_mk_ii_hcv.md) *Scout (3105)* `ECM` 
 
+#### [Sea Hunter Maritime Tank](../../../units/sea_hunter_maritime_tank.md) 
+
+- [**Sea Hunter Maritime Tank**](../../../units/sea_hunter_maritime_tank/sea_hunter_maritime_tank.md) *Missile Boat (3068)* 
+
 #### [Skanda Light Tank](../../../units/skanda_light_tank.md) 
 
 - [**Skanda Light Tank**](../../../units/skanda_light_tank/skanda_light_tank.md) *Striker (3094)* 
@@ -677,9 +681,9 @@
 
 #### [SM Tank Destroyer](../../../units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-- [**SM1A Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-- [**SM3 Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1.md) *Undefined (3068)* 
+- [**SM Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1a.md) *Undefined (3070)* `Active Probe` 
+- [**SM Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm3.md) *Undefined (3074)* 
 
 #### [Sokar Urban Combat Unit](../../../units/sokar_urban_combat_unit.md) 
 
@@ -877,6 +881,10 @@
 #### [Monitor Naval Vessel](../../../units/monitor_naval_vessel.md) 
 
 - [**Monitor Naval Vessel**](../../../units/monitor_naval_vessel/monitor_naval_vessel.md) *Juggernaut (2910)* `Transport:1.5` 
+
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
 
 #### [Zhukov Heavy Tank](../../../units/zhukov_heavy_tank.md) 
 

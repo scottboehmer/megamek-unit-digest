@@ -36,6 +36,7 @@
 
 - Federated Suns 
 - Lyran Alliance 
+- Mercenary 
 
 ### Early Republic 
 

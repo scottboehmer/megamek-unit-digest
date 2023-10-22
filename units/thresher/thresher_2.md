@@ -26,6 +26,18 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Hell's Horses 
+
+### Late Succession Wars - LosTech 
+
+- Clan Hell's Horses 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Hell's Horses 
+
 ### Clan Invasion 
 
 - Clan Hell's Horses 
@@ -47,6 +59,10 @@
 - Clan Hell's Horses 
 
 ### Dark Ages 
+
+- Clan Hell's Horses 
+
+### ilClan 
 
 - Clan Hell's Horses 
 

@@ -32,6 +32,7 @@
 
 ### Jihad 
 
+- Clan Burrock 
 - Clan Ghost Bear 
 
 ### Early Republic 

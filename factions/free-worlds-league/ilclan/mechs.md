@@ -363,6 +363,10 @@
 
 ### 40 Tons 
 
+#### [Assassin](../../../units/assassin.md) 
+
+- [**Assassin ASN-109**](../../../units/assassin/assassin_asn-109.md) *Scout (3140)* `ECM` , `Stealth` 
+
 #### [Chimera](../../../units/chimera.md) 
 
 - [**Chimera CMA-1S**](../../../units/chimera/chimera_cma-1s.md) *Striker (3063)* 
@@ -712,6 +716,18 @@
 - [**Mad Cat III 5**](../../../units/mad_cat_iii/mad_cat_iii_5.md) *Skirmisher (3097)* 
 - [**Mad Cat III (Dark Age RS)**](../../../units/mad_cat_iii/mad_cat_iii_dark_age_rs.md) *Undefined (3132)* 
 
+#### [Men Shen](../../../units/men_shen.md) 
+
+- [**Men Shen MS1-O**](../../../units/men_shen/men_shen_ms1-o.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OA**](../../../units/men_shen/men_shen_ms1-oa.md) *Striker (3060)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OB**](../../../units/men_shen/men_shen_ms1-ob.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OC**](../../../units/men_shen/men_shen_ms1-oc.md) *Striker (3060)* `Active Probe` , `ECM` 
+- [**Men Shen MS1-OD**](../../../units/men_shen/men_shen_ms1-od.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OE**](../../../units/men_shen/men_shen_ms1-oe.md) *Striker (3070)* `Active Probe` 
+- [**Men Shen MS1-OF**](../../../units/men_shen/men_shen_ms1-of.md) *Striker (3076)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OU**](../../../units/men_shen/men_shen_ms1-ou.md) *Striker (3077)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OG**](../../../units/men_shen/men_shen_ms1-og.md) *Scout (3134)* `Active Probe` 
+
 #### [Quasimodo](../../../units/quasimodo.md) 
 
 - [**Quasimodo QSM-3D**](../../../units/quasimodo/quasimodo_qsm-3d.md) *Skirmisher (3140)* 
@@ -832,6 +848,7 @@
 #### [Rifleman](../../../units/rifleman.md) 
 
 - [**Rifleman RFL-7M**](../../../units/rifleman/rifleman_rfl-7m.md) *Brawler (3066)* `ECM` 
+- [**Rifleman RFL-7X**](../../../units/rifleman/rifleman_rfl-7x.md) *Skirmisher (3081)* 
 - [**Rifleman C 3**](../../../units/rifleman/rifleman_c_3.md) *Sniper (3132)* 
 - [**Rifleman RFL-7N**](../../../units/rifleman/rifleman_rfl-7n.md) *Sniper (3133)* 
 - [**Rifleman RFL-7N2**](../../../units/rifleman/rifleman_rfl-7n2.md) *Sniper (3133)* 
@@ -902,6 +919,7 @@
 
 #### [Koschei](../../../units/koschei.md) 
 
+- [**Koschei KSC-5MC**](../../../units/koschei/koschei_ksc-5mc.md) *Skirmisher (3068)* 
 - [**Koschei KSC-5I**](../../../units/koschei/koschei_ksc-5i.md) *Skirmisher (3071)* `ECM` 
 
 #### [Ostwar](../../../units/ostwar.md) 
@@ -1151,6 +1169,7 @@
 - [**Warhammer IIC**](../../../units/warhammer_iic/warhammer_iic.md) *Brawler (2829)* 
 - [**Warhammer IIC 2**](../../../units/warhammer_iic/warhammer_iic_2.md) *Missile Boat (2920)* 
 - [**Warhammer IIC 3**](../../../units/warhammer_iic/warhammer_iic_3.md) *Brawler (3060)* 
+- [**Warhammer IIC 4**](../../../units/warhammer_iic/warhammer_iic_4.md) *Brawler (3062)* 
 - [**Warhammer IIC 5**](../../../units/warhammer_iic/warhammer_iic_5.md) *Brawler (3070)* 
 - [**Warhammer IIC 8**](../../../units/warhammer_iic/warhammer_iic_8.md) *Skirmisher (3079)* 
 - [**Warhammer IIC 10**](../../../units/warhammer_iic/warhammer_iic_10.md) *Sniper (3120)* 
@@ -1343,4 +1362,5 @@
 - [**Ares ARS-V1B Hades**](../../../units/ares/ares_ars-v1b_hades.md) *Juggernaut (3136)* 
 - [**Ares ARS-V1C Aphrodite**](../../../units/ares/ares_ars-v1c_aphrodite.md) *Juggernaut (3136)* `C3 Main` , `ECM` , `TAG` 
 - [**Ares ARS-V1D Hephaestus**](../../../units/ares/ares_ars-v1d_hephaestus.md) *Juggernaut (3136)* `C3 Support` 
+- [**Ares ARS-V1E Apollo**](../../../units/ares/ares_ars-v1e_apollo.md) *Juggernaut (3151)* 
 

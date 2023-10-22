@@ -85,6 +85,7 @@
 
 #### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
 
+- [**Hellcat HCT-213**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213.md) *Dogfighter (2671)* 
 - [**Hellcat HCT-213R**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213r.md) *Dogfighter (2675)* 
 - [**Hellcat HCT-213S**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213s.md) *Dogfighter (2683)* 
 - [**Hellcat HCT-213D**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213d.md) *Dogfighter (2701)* 

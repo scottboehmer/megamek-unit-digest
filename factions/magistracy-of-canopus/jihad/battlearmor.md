@@ -27,6 +27,17 @@
 - [**Tunnel Rat II Mining Exoskeleton (Armored Glove)(Sqd4)**](../../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_armored_glovesqd4.md) *Undefined (3055)* 
 - [**Tunnel Rat II Mining Exoskeleton (Industrial Drill)(Sqd4)**](../../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_industrial_drillsqd4.md) *Undefined (3058)* 
 
+### 0.75 Tons 
+
+#### [Achileus Light Battle Armor](../../../units/achileus_light_battle_armor.md) 
+
+- [**Achileus Light Battle Armor (Flamer)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_flamersqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (Laser)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_laser.md) *Undefined (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (Laser)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_lasersqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (MG)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_mgsqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (TAG)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_tagsqd4.md) *Ambusher (3059)* `Stealth` , `TAG` 
+- [**Achileus Light Battle Armor (David)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_davidsqd4.md) *Ambusher (3064)* `Stealth` 
+
 ### 1 Tons 
 
 #### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 

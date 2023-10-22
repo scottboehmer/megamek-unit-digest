@@ -40,8 +40,10 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 

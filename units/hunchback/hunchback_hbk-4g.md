@@ -40,6 +40,10 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Burrock 
+- Clan Coyote 
+- Clan Smoke Jaguar 
+- Clan Steel Viper 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

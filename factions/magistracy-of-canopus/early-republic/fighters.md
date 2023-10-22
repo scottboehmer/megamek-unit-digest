@@ -103,6 +103,7 @@
 #### [Shilone](../../../units/shilone.md) 
 
 - [**Shilone SL-17**](../../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
+- [**Shilone SL-18**](../../../units/shilone/shilone_sl-18.md) *Dogfighter (3068)* 
 
 #### [Troika](../../../units/troika.md) 
 

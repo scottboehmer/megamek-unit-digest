@@ -113,6 +113,10 @@
 
 - [**MASH Truck**](../../../units/mash_truck/mash_truck.md) *Undefined (2671)* 
 
+#### [Nacon Armored Scout](../../../units/nacon_armored_scout.md) 
+
+- [**Nacon Armored Scout**](../../../units/nacon_armored_scout/nacon_armored_scout.md) *Scout (3096)* 
+
 #### [Odin Scout Tank](../../../units/odin_scout_tank.md) 
 
 - [**Odin Scout Tank**](../../../units/odin_scout_tank/odin_scout_tank.md) *Striker (2844)* `Active Probe` 
@@ -217,6 +221,17 @@
 - [**Joust Medium Tank BE701**](../../../units/joust_medium_tank/joust_medium_tank_be701.md) *Skirmisher (3086)* 
 
 ### 45 Tons 
+
+#### [Cizin Hover Tank](../../../units/cizin_hover_tank.md) 
+
+- [**Cizin Hover Tank**](../../../units/cizin_hover_tank/cizin_hover_tank.md) *Striker (3097)* 
+
+#### [R10 Mechanized ICV](../../../units/r10_mechanized_icv.md) 
+
+- [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
+- [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
+- [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 #### [Tyr Infantry Support Tank](../../../units/tyr_infantry_support_tank.md) 
 

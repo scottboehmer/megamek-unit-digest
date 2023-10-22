@@ -83,6 +83,7 @@
 ### Early Republic 
 
 - Calderon Protectorate 
+- Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Taurian Concordat 
@@ -90,6 +91,7 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Taurian Concordat 

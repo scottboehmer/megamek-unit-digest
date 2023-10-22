@@ -34,6 +34,7 @@
 - Clan Ice Hellion 
 - Clan Star Adder 
 - Clan Wolf 
+- Society 
 
 ### Early Republic 
 

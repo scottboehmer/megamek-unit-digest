@@ -27,6 +27,7 @@
 ### Early Succession Wars 
 
 - Capellan Confederation 
+- Clan Wolf 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -34,6 +35,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Outworlds Alliance 
+- Star League-in-Exile 
 - Taurian Concordat 
 
 ### Late Succession Wars - LosTech 

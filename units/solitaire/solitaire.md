@@ -32,6 +32,7 @@
 
 ### Jihad 
 
+- Clan Burrock 
 - Clan Cloud Cobra 
 - Clan Diamond Shark 
 - Clan Ghost Bear 

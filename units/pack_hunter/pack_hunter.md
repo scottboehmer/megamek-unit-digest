@@ -106,6 +106,7 @@
 - Clan Hell's Horses 
 - Clan Sea Fox 
 - Kell Hounds 
+- Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Wolf's Dragoons 

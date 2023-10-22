@@ -51,11 +51,13 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Magistracy of Canopus 
 
 ### ilClan 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Magistracy of Canopus 
 

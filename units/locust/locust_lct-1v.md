@@ -183,6 +183,8 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -207,6 +209,8 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
+- Rasalhague Dominion 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 

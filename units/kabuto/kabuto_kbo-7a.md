@@ -30,20 +30,27 @@
 ### Jihad 
 
 - Draconis Combine 
+- Free Rasalhague Republic 
 
 ### Early Republic 
 
+- Clan Nova Cat 
 - Draconis Combine 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Clan Nova Cat 
 - Draconis Combine 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Nova Cat 
 - Draconis Combine 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### ilClan 

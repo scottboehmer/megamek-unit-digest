@@ -308,6 +308,7 @@
 
 - [**Raven RVN-3M**](../../../units/raven/raven_rvn-3m.md) *Missile Boat (3053)* 
 - [**Raven RVN-4LC**](../../../units/raven/raven_rvn-4lc.md) *Scout (3062)* `C3 Support` , `ECM` , `Stealth` , `TAG` 
+- [**Raven RVN-4L**](../../../units/raven/raven_rvn-4l.md) *Scout (3063)* `Active Probe` , `ECM` , `Stealth` , `TAG` 
 - [**Raven RVN-4Lr**](../../../units/raven/raven_rvn-4lr.md) *Scout (3073)* `Active Probe` , `ECM` , `Stealth` , `TAG` 
 - [**Raven RVN-5L**](../../../units/raven/raven_rvn-5l.md) *Scout (3125)* `ECM` , `Stealth` , `TAG` 
 
@@ -458,6 +459,7 @@
 
 #### [Vindicator](../../../units/vindicator.md) 
 
+- [**Vindicator VND-1R**](../../../units/vindicator/vindicator_vnd-1r.md) *Brawler (2826)* 
 - [**Vindicator VND-5L**](../../../units/vindicator/vindicator_vnd-5l.md) *Skirmisher (3060)* 
 - [**Vindicator VND-4L**](../../../units/vindicator/vindicator_vnd-4l.md) *Skirmisher (3063)* `ECM` , `Stealth` 
 - [**Vindicator VND-6L**](../../../units/vindicator/vindicator_vnd-6l.md) *Skirmisher (3068)* `ECM` , `Stealth` 
@@ -533,6 +535,10 @@
 #### [Hellcat](../../../units/hellcat.md) 
 
 - [**Hellcat**](../../../units/hellcat/hellcat.md) *Skirmisher (3133)* 
+
+#### [Hunchback](../../../units/hunchback.md) 
+
+- [**Hunchback HBK-6N**](../../../units/hunchback/hunchback_hbk-6n.md) *Juggernaut (3059)* 
 
 #### [Huron Warrior](../../../units/huron_warrior.md) 
 
@@ -760,6 +766,7 @@
 
 #### [Catapult](../../../units/catapult.md) 
 
+- [**Catapult CPLT-C1**](../../../units/catapult/catapult_cplt-c1.md) *Missile Boat (2561)* 
 - [**Catapult CPLT-C4C**](../../../units/catapult/catapult_cplt-c4c.md) *Missile Boat (3055)* `Active Probe` 
 - [**Catapult CPLT-C5**](../../../units/catapult/catapult_cplt-c5.md) *Missile Boat (3061)* 
 - [**Catapult CPLT-C2**](../../../units/catapult/catapult_cplt-c2.md) *Missile Boat (3062)* 

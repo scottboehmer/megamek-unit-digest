@@ -31,6 +31,7 @@
 
 ### Civil War 
 
+- Federated Suns 
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
@@ -38,6 +39,7 @@
 
 ### Jihad 
 
+- Federated Suns 
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
@@ -45,12 +47,14 @@
 
 ### Early Republic 
 
+- Federated Suns 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 
 ### Late Republic 
 
+- Federated Suns 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 

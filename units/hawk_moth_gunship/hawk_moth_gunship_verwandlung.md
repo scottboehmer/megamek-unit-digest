@@ -1,10 +1,10 @@
-# Hawk Moth Gunship 'Vedwandlung' 
+# Hawk Moth Gunship 'Verwandlung' 
 
 [Other Hawk Moth Gunship variants](../hawk_moth_gunship.md) 
 
-## Hawk Moth Gunship 'Vedwandlung' 
+## Hawk Moth Gunship 'Verwandlung' 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3081) 
 - **Chassis:** 25 tons VTOL 
 - **Movement:** 8 / 12, Fuel Cell 

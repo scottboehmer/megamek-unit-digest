@@ -32,4 +32,15 @@
 ### Jihad 
 
 - Circinus Federation 
+- Marian Hegemony 
+
+### Early Republic 
+
+- Marian Hegemony 
+- Pirate 
+
+### Late Republic 
+
+- Marian Hegemony 
+- Pirate 
 

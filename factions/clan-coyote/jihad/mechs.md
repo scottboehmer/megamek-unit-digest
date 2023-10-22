@@ -16,6 +16,10 @@
 - [**Fire Moth F**](../../../units/fire_moth/fire_moth_f.md) *Striker (3070)* `Active Probe` 
 - [**Fire Moth K**](../../../units/fire_moth/fire_moth_k.md) *Striker (3071)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -221,6 +225,10 @@
 - [**Griffin IIC 3**](../../../units/griffin_iic/griffin_iic_3.md) *Striker (3060)* 
 - [**Griffin IIC 4**](../../../units/griffin_iic/griffin_iic_4.md) *Striker (3060)* 
 
+#### [Lobo](../../../units/lobo.md) 
+
+- [**Lobo**](../../../units/lobo/lobo.md) *Striker (3059)* 
+
 #### [Phantom](../../../units/phantom.md) 
 
 - [**Phantom Prime**](../../../units/phantom/phantom_prime.md) *Scout (3052)* `Active Probe` , `ECM` , `TAG` 
@@ -379,6 +387,7 @@
 #### [Rabid Coyote](../../../units/rabid_coyote.md) 
 
 - [**Rabid Coyote**](../../../units/rabid_coyote/rabid_coyote.md) *Skirmisher (3066)* `ECM` 
+- [**Rabid Coyote 2**](../../../units/rabid_coyote/rabid_coyote_2.md) *Skirmisher (3071)* `Active Probe` , `ECM` 
 
 #### [Septicemia](../../../units/septicemia.md) 
 
@@ -583,6 +592,7 @@
 #### [Black Knight](../../../units/black_knight.md) 
 
 - [**Black Knight BL-6-KNT**](../../../units/black_knight/black_knight_bl-6-knt.md) *Brawler (2578)* `Active Probe` 
+- [**Black Knight BL-6b-KNT**](../../../units/black_knight/black_knight_bl-6b-knt.md) *Brawler (2751)* `Active Probe` 
 
 #### [Black Python](../../../units/black_python.md) 
 
@@ -688,6 +698,7 @@
 #### [Crockett](../../../units/crockett.md) 
 
 - [**Crockett CRK-5003-1**](../../../units/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
+- [**Crockett CRK-5003-1b**](../../../units/crockett/crockett_crk-5003-1b.md) *Juggernaut (2752)* 
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
 

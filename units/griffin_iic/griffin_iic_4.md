@@ -90,7 +90,6 @@
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
-- Republic of the Sphere 
 
 ### Late Republic 
 
@@ -99,7 +98,6 @@
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
-- Republic of the Sphere 
 
 ### Dark Ages 
 
@@ -108,7 +106,6 @@
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
-- Republic of the Sphere 
 
 ### ilClan 
 

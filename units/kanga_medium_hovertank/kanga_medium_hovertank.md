@@ -31,6 +31,7 @@
 ### Early Succession Wars 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

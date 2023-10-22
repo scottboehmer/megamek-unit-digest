@@ -36,4 +36,6 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
 

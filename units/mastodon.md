@@ -16,7 +16,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
-  - EM Interference (All Weapons) 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8342) 
 - **Battle Value:** 3109 
 - [*More Info*](mastodon/mastodon_prime.md) 
@@ -39,7 +39,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
-  - EM Interference (All Weapons) 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8343) 
 - **Battle Value:** 2856 
 - [*More Info*](mastodon/mastodon_a.md) 
@@ -62,7 +62,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
-  - EM Interference (All Weapons) 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8344) 
 - **Battle Value:** 2793 
 - [*More Info*](mastodon/mastodon_b.md) 
@@ -86,7 +86,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
-  - EM Interference (All Weapons) 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8345) 
 - **Battle Value:** 3092 
 - [*More Info*](mastodon/mastodon_c.md) 
@@ -109,7 +109,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
-  - EM Interference (All Weapons) 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8346) 
 - **Battle Value:** 2961 
 - [*More Info*](mastodon/mastodon_d.md) 

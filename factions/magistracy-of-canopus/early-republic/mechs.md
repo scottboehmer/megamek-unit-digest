@@ -209,6 +209,10 @@
 
 - [**Jenner JR7-D**](../../../units/jenner/jenner_jr7-d.md) *Striker (2785)* 
 
+#### [Ostscout](../../../units/ostscout.md) 
+
+- [**Ostscout OTT-7J**](../../../units/ostscout/ostscout_ott-7j.md) *Scout (2600)* 
+
 #### [Powerman](../../../units/powerman.md) 
 
 - [**Powerman SC XV HaulerMech**](../../../units/powerman/powerman_sc_xv_haulermech.md) *Ambusher (2895)* `IndustrialMech` 
@@ -231,10 +235,16 @@
 - [**StrongArm SC CV ConstructionMech**](../../../units/strongarm/strongarm_sc_cv_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 - [**StrongArm SC CVI ConstructionMech**](../../../units/strongarm/strongarm_sc_cvi_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 
+#### [Toro](../../../units/toro.md) 
+
+- [**Toro TR-A-1**](../../../units/toro/toro_tr-a-1.md) *Brawler (2481)* 
+
 ### 40 Tons 
 
 #### [Assassin](../../../units/assassin.md) 
 
+- [**Assassin ASN-21**](../../../units/assassin/assassin_asn-21.md) *Scout (2676)* 
+- [**Assassin ASN-23**](../../../units/assassin/assassin_asn-23.md) *Striker (3050)* 
 - [**Assassin ASN-99**](../../../units/assassin/assassin_asn-99.md) *Scout (3068)* `ECM` , `Stealth` , `TAG` 
 
 #### [Cicada](../../../units/cicada.md) 
@@ -294,10 +304,12 @@
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
 - [**Vulcan VL-5T**](../../../units/vulcan/vulcan_vl-5t.md) *Striker (2778)* 
+- [**Vulcan VT-5M**](../../../units/vulcan/vulcan_vt-5m.md) *Striker (3050)* 
 
 #### [Whitworth](../../../units/whitworth.md) 
 
 - [**Whitworth WTH-1**](../../../units/whitworth/whitworth_wth-1.md) *Missile Boat (2689)* 
+- [**Whitworth WTH-2**](../../../units/whitworth/whitworth_wth-2.md) *Missile Boat (3050)* 
 - [**Whitworth WTH-1H**](../../../units/whitworth/whitworth_wth-1h.md) *Juggernaut (3066)* 
 
 ### 45 Tons 
@@ -515,6 +527,7 @@
 
 - [**Merlin MLN-1A**](../../../units/merlin/merlin_mln-1a.md) *Brawler (3010)* 
 - [**Merlin MLN-1B**](../../../units/merlin/merlin_mln-1b.md) *Brawler (3053)* 
+- [**Merlin MLN-1C**](../../../units/merlin/merlin_mln-1c.md) *Brawler (3068)* 
 
 #### [Ostroc](../../../units/ostroc.md) 
 
@@ -654,6 +667,7 @@
 
 - [**Warhammer WHM-6R**](../../../units/warhammer/warhammer_whm-6r.md) *Brawler (2515)* 
 - [**Warhammer WHM-6Rb**](../../../units/warhammer/warhammer_whm-6rb.md) *Brawler (2599)* 
+- [**Warhammer WHM-6L**](../../../units/warhammer/warhammer_whm-6l.md) *Brawler (2825)* 
 - [**Warhammer WHM-7M**](../../../units/warhammer/warhammer_whm-7m.md) *Brawler (3047)* 
 - [**Warhammer WHM-8D**](../../../units/warhammer/warhammer_whm-8d.md) *Brawler (3066)* `C3 Support` 
 - [**Warhammer WHM-4L**](../../../units/warhammer/warhammer_whm-4l.md) *Brawler (3067)* `ECM` , `Stealth` 
@@ -721,6 +735,7 @@
 
 #### [Charger](../../../units/charger.md) 
 
+- [**Charger CGR-1A1**](../../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
 - [**Charger CGR-1L**](../../../units/charger/charger_cgr-1l.md) *Skirmisher (3022)* 
 - [**Charger CGR-1A5**](../../../units/charger/charger_cgr-1a5.md) *Juggernaut (3023)* 
 - [**Charger CGR-1A9**](../../../units/charger/charger_cgr-1a9.md) *Skirmisher (3034)* 
@@ -798,6 +813,7 @@
 #### [Cyclops](../../../units/cyclops.md) 
 
 - [**Cyclops CP-10-Z**](../../../units/cyclops/cyclops_cp-10-z.md) *Juggernaut (2710)* 
+- [**Cyclops CP-10-Q**](../../../units/cyclops/cyclops_cp-10-q.md) *Missile Boat (2801)* 
 - [**Cyclops CP-11-A**](../../../units/cyclops/cyclops_cp-11-a.md) *Sniper (3045)* 
 - [**Cyclops CP-11-G**](../../../units/cyclops/cyclops_cp-11-g.md) *Sniper (3058)* 
 - [**Cyclops CP-11-H**](../../../units/cyclops/cyclops_cp-11-h.md) *Juggernaut (3064)* 
@@ -840,6 +856,7 @@
 - [**Atlas AS7-RS**](../../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K**](../../../units/atlas/atlas_as7-k.md) *Sniper (3049)* 
 - [**Atlas AS7-S**](../../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
+- [**Atlas AS7-Dr**](../../../units/atlas/atlas_as7-dr.md) *Juggernaut (3070)* `C3 Support` , `ECM` 
 - [**Atlas AS7-K2**](../../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Diomede](../../../units/diomede.md) 

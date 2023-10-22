@@ -145,3 +145,15 @@
 - Pirate 
 - Taurian Concordat 
 
+### Late Republic 
+
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Taurian Concordat 
+
+### ilClan 
+
+- Taurian Concordat 
+

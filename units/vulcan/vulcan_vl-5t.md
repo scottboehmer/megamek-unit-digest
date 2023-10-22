@@ -173,9 +173,11 @@
 
 - Escorpión Imperio 
 - Pirate 
+- Taurian Concordat 
 
 ### Dark Ages 
 
 - Escorpión Imperio 
 - Scorpion Empire 
+- Taurian Concordat 
 

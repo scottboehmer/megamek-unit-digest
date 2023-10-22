@@ -64,6 +64,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
@@ -80,6 +81,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
@@ -99,6 +101,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
@@ -115,6 +118,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Scorpion Empire 
 - Taurian Concordat 

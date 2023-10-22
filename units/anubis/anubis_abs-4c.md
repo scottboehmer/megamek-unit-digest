@@ -35,15 +35,18 @@
 - Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Mercenary 
 
 ### Dark Ages 
 
 - Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Mercenary 
 
 ### ilClan 
 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Mercenary 
 

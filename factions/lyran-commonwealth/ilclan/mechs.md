@@ -423,6 +423,7 @@
 
 - [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 - [**Griffin IIC 4**](../../../units/griffin_iic/griffin_iic_4.md) *Striker (3060)* 
+- [**Griffin IIC 5**](../../../units/griffin_iic/griffin_iic_5.md) *Striker (3071)* 
 - [**Griffin IIC 8**](../../../units/griffin_iic/griffin_iic_8.md) *Striker (3078)* `ECM` 
 
 #### [Harvester](../../../units/harvester.md) 
@@ -998,6 +999,7 @@
 
 #### [Mangonel](../../../units/mangonel.md) 
 
+- [**Mangonel MNL-3W**](../../../units/mangonel/mangonel_mnl-3w.md) *Skirmisher (3082)* `ECM` 
 - [**Mangonel MNL-4S**](../../../units/mangonel/mangonel_mnl-4s.md) *Brawler (3088)* 
 
 #### [MuckRaker](../../../units/muckraker.md) 
@@ -1057,14 +1059,11 @@
 
 - [**Flashman FLS-10E**](../../../units/flashman/flashman_fls-10e.md) *Skirmisher (3144)* 
 
-#### [Gotterdammerung](../../../units/gotterdammerung.md) 
-
-- [**Gotterdammerung GTD-20C**](../../../units/gotterdammerung/gotterdammerung_gtd-20c.md) *Undefined (3138)* 
-- [**Gotterdammerung GTD-30S**](../../../units/gotterdammerung/gotterdammerung_gtd-30s.md) *Undefined (3138)* 
-
 #### [Götterdämmerung](../../../units/götterdämmerung.md) 
 
+- [**Götterdämmerung GTD-20C**](../../../units/götterdämmerung/götterdämmerung_gtd-20c.md) *Undefined (3138)* 
 - [**Götterdämmerung GTD-20S**](../../../units/götterdämmerung/götterdämmerung_gtd-20s.md) *Brawler (3138)* 
+- [**Götterdämmerung GTD-30S**](../../../units/götterdämmerung/götterdämmerung_gtd-30s.md) *Undefined (3138)* 
 
 #### [Helepolis](../../../units/helepolis.md) 
 

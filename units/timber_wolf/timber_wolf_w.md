@@ -38,6 +38,7 @@
 - Kell Hounds 
 - Mercenary 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Republic of the Sphere 
 - Wolf's Dragoons 
 

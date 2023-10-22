@@ -32,17 +32,20 @@
 ### Late Republic 
 
 - Draconis Combine 
+- Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Draconis Combine 
+- Federated Suns 
 - Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Draconis Combine 
+- Federated Suns 
 - Mercenary 
 

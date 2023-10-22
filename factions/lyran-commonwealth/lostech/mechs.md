@@ -27,6 +27,10 @@
 - [**Commando COM-2D**](../../../units/commando/commando_com-2d.md) *Striker (2486)* 
 - [**Commando COM-1B**](../../../units/commando/commando_com-1b.md) *Striker (3015)* 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 

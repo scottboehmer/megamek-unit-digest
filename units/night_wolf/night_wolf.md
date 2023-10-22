@@ -35,11 +35,13 @@
 
 ### Late Republic 
 
+- Clan Jade Falcon 
 - Clan Wolf 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
+- Clan Jade Falcon 
 - Clan Wolf 
 
 ### ilClan 

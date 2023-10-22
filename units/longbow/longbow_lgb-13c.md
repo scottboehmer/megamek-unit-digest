@@ -37,51 +37,75 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Pirate 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Late Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 
+- Filtvelt Coalition 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Pirate 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Dark Ages 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Pirate 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### ilClan 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
+- Taurian Concordat 
 

@@ -34,6 +34,7 @@
 
 - Draconis Combine 
 - Free Worlds League 
+- Mercenary 
 
 ### Clan Invasion 
 

@@ -27,7 +27,7 @@
 
 ### Early Republic 
 
-- Clan Sea Fox 
+- Clan Diamond Shark 
 
 ### Late Republic 
 

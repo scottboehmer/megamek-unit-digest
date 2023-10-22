@@ -58,6 +58,7 @@
 
 ### Early Republic 
 
+- Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -71,6 +72,7 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

@@ -17,7 +17,22 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Jettison-Capable Weapon (Streak SRM 6) 
+  - Modular Weapon (Streak SRM 6) 
 - **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3443) 
 - **Battle Value:** 1324 
 

@@ -13,9 +13,18 @@
 
 ### 25 Tons 
 
+#### [Chaeronea](../../../units/chaeronea.md) 
+
+- [**Chaeronea**](../../../units/chaeronea/chaeronea.md) *Interceptor (2849)* 
+- [**Chaeronea 2**](../../../units/chaeronea/chaeronea_2.md) *Interceptor (2883)* 
+
 #### [Sabre](../../../units/sabre.md) 
 
 - [**Sabre SB-27b**](../../../units/sabre/sabre_sb-27b.md) *Interceptor (2722)* 
+
+#### [Swift](../../../units/swift.md) 
+
+- [**Swift C**](../../../units/swift/swift_c.md) *Interceptor (2834)* 
 
 ### 30 Tons 
 
@@ -27,6 +36,13 @@
 - [**Vandal C**](../../../units/vandal_omnifighter/vandal_c.md) *Interceptor (2941)* 
 
 ### 35 Tons 
+
+#### [Avar](../../../units/avar.md) 
+
+- [**Avar Prime**](../../../units/avar/avar_prime.md) *Interceptor (2878)* 
+- [**Avar A**](../../../units/avar/avar_a.md) *Interceptor (2878)* 
+- [**Avar B**](../../../units/avar/avar_b.md) *Interceptor (2878)* 
+- [**Avar C**](../../../units/avar/avar_c.md) *Interceptor (2878)* 
 
 #### [Zero](../../../units/zero.md) 
 
@@ -40,6 +56,10 @@
 - [**Batu A**](../../../units/batu/batu_a.md) *Fast Dogfighter (2987)* 
 - [**Batu B**](../../../units/batu/batu_b.md) *Fast Dogfighter (2987)* 
 - [**Batu C**](../../../units/batu/batu_c.md) *Fast Dogfighter (2987)* 
+
+#### [Issus](../../../units/issus.md) 
+
+- [**Issus**](../../../units/issus/issus.md) *Fast Dogfighter (2842)* 
 
 #### [Rogue](../../../units/rogue.md) 
 
@@ -57,6 +77,7 @@
 #### [Tomahawk Aerospace Fighter](../../../units/tomahawk_aerospace_fighter.md) 
 
 - [**Tomahawk THK-63b**](../../../units/tomahawk_aerospace_fighter/tomahawk_thk-63b.md) *Fast Dogfighter (2751)* 
+- [**Tomahawk 'C'**](../../../units/tomahawk_aerospace_fighter/tomahawk_c.md) *Fast Dogfighter (2833)* 
 
 ### 50 Tons 
 
@@ -115,6 +136,10 @@
 
 - [**Rapier RPR-100b**](../../../units/rapier/rapier_rpr-100b.md) *Dogfighter (2743)* 
 
+#### [Xerxes](../../../units/xerxes.md) 
+
+- [**Xerxes**](../../../units/xerxes/xerxes.md) *Dogfighter (2827)* 
+
 ### 90 Tons 
 
 #### [Ahab](../../../units/ahab.md) 
@@ -128,7 +153,20 @@
 - [**Scytha B**](../../../units/scytha/scytha_b.md) *Fire Support (2968)* 
 - [**Scytha C**](../../../units/scytha/scytha_c.md) *Dogfighter (2968)* 
 
+### 95 Tons 
+
+#### [Hydaspes](../../../units/hydaspes.md) 
+
+- [**Hydaspes**](../../../units/hydaspes/hydaspes.md) *Undefined (2840)* 
+
 ### 100 Tons 
+
+#### [Kirghiz](../../../units/kirghiz.md) 
+
+- [**Kirghiz Prime**](../../../units/kirghiz/kirghiz_prime.md) *Undefined (2874)* 
+- [**Kirghiz A**](../../../units/kirghiz/kirghiz_a.md) *Undefined (2874)* 
+- [**Kirghiz B**](../../../units/kirghiz/kirghiz_b.md) *Undefined (2874)* 
+- [**Kirghiz C**](../../../units/kirghiz/kirghiz_c.md) *Undefined (2874)* `Transport:10.0` 
 
 #### [Stuka](../../../units/stuka.md) 
 

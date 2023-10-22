@@ -24,15 +24,22 @@
 
 ### Late Republic 
 
+- Federated Suns 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Capellan Confederation 
+- Federated Suns 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Capellan Confederation 
 - Draconis Combine 
+- Federated Suns 
+- Rasalhague Dominion 
 - Star League (Smoke Jaguar) 
 - Wolf's Dragoons 
 

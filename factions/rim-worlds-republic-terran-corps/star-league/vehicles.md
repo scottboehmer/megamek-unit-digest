@@ -14,10 +14,6 @@
 
 ### 20 Tons 
 
-#### [Heavy Tracked APC](../../../units/heavy_tracked_apc.md) 
-
-- [**Heavy Tracked APC**](../../../units/heavy_tracked_apc/heavy_tracked_apc.md) *Scout (2470)* `Transport:6.0` 
-
 #### [Rotunda Scout Vehicle](../../../units/rotunda_scout_vehicle.md) 
 
 - [**Rotunda Scout Vehicle RND-J-1-11**](../../../units/rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11.md) *Scout (2725)* 

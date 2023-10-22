@@ -86,6 +86,10 @@
 - [**Eagle EGL-1M**](../../../units/eagle/eagle_egl-1m.md) *Brawler (3058)* 
 - [**Eagle EGL-2M**](../../../units/eagle/eagle_egl-2m.md) *Brawler (3058)* `TAG` 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -573,6 +577,7 @@
 - [**Black Hawk-KU BHKU-OB**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ob.md) *Skirmisher (3055)* 
 - [**Black Hawk-KU BHKU-OC**](../../../units/black_hawk-ku/black_hawk-ku_bhku-oc.md) *Sniper (3055)* 
 - [**Black Hawk-KU BHKU-OD**](../../../units/black_hawk-ku/black_hawk-ku_bhku-od.md) *Missile Boat (3055)* 
+- [**Black Hawk-KU BHKU-OX**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ox.md) *Skirmisher (3058)* `C3 Support` 
 - [**Black Hawk-KU BHKU-OR**](../../../units/black_hawk-ku/black_hawk-ku_bhku-or.md) *Skirmisher (3059)* `C3 Support` 
 - [**Black Hawk-KU BHKU-OE**](../../../units/black_hawk-ku/black_hawk-ku_bhku-oe.md) *Skirmisher (3063)* 
 - [**Black Hawk-KU BHKU-OF**](../../../units/black_hawk-ku/black_hawk-ku_bhku-of.md) *Sniper (3069)* `C3 Support` 
@@ -718,6 +723,7 @@
 - [**Avatar AV1-OB**](../../../units/avatar/avatar_av1-ob.md) *Missile Boat (3056)* 
 - [**Avatar AV1-OC**](../../../units/avatar/avatar_av1-oc.md) *Sniper (3056)* `C3 Main` , `TAG` 
 - [**Avatar AV1-OG**](../../../units/avatar/avatar_av1-og.md) *Sniper (3056)* 
+- [**Avatar AV1-OR**](../../../units/avatar/avatar_av1-or.md) *Brawler (3059)* 
 - [**Avatar AV1-OD**](../../../units/avatar/avatar_av1-od.md) *Brawler (3060)* `C3 Support` 
 - [**Avatar AV1-OF**](../../../units/avatar/avatar_av1-of.md) *Brawler (3064)* 
 - [**Avatar AV1-OH**](../../../units/avatar/avatar_av1-oh.md) *Sniper (3069)* 

@@ -27,6 +27,12 @@
 
 - [**Thrush TR-7**](../../../units/thrush/thrush_tr-7.md) *Interceptor (2798)* 
 
+### 30 Tons 
+
+#### [Centurion Aerospace Fighter](../../../units/centurion_aerospace_fighter.md) 
+
+- [**Centurion CNT-1D**](../../../units/centurion_aerospace_fighter/centurion_cnt-1d.md) *Interceptor (2473)* 
+
 ### 50 Tons 
 
 #### [Corsair](../../../units/corsair.md) 

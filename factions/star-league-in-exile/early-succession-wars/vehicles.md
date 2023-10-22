@@ -2,25 +2,11 @@
 
 ## Combat Vehicles 
 
-### 3 Tons 
-
-#### [Jet Sled](../../../units/jet_sled.md) 
-
-- [**Jet Sled**](../../../units/jet_sled/jet_sled.md) *Undefined (2300)* `Transport:0.5` 
-
 ### 5 Tons 
-
-#### [Jeep](../../../units/jeep.md) 
-
-- [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
 
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
-
-#### [Speeder](../../../units/speeder.md) 
-
-- [**Speeder**](../../../units/speeder/speeder.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -225,6 +211,7 @@
 #### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
 
 - [**Chaparral Missile Artillery Tank**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank.md) *Missile Boat (2611)* 
+- [**Chaparral Missile Artillery Tank (SRM)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (2614)* 
 
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
@@ -278,6 +265,10 @@
 #### [Manticore Heavy Tank](../../../units/manticore_heavy_tank.md) 
 
 - [**Manticore Heavy Tank**](../../../units/manticore_heavy_tank/manticore_heavy_tank.md) *Brawler (2575)* 
+
+#### [Marsden MBT](../../../units/marsden_mbt.md) 
+
+- [**Marsden MBT II**](../../../units/marsden_mbt/marsden_mbt_ii.md) *Undefined (2473)* 
 
 #### [SRM Carrier](../../../units/srm_carrier.md) 
 

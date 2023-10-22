@@ -30,6 +30,8 @@
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
+- Star League 
+- Star League - Royal Divisions 
 - Taurian Concordat 
 - Terran Hegemony 
 

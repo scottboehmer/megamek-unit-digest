@@ -46,6 +46,7 @@
 
 - Draconis Combine 
 - Duchy of Andurien 
+- Magistracy of Canopus 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
@@ -56,6 +57,7 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Free Worlds League 
+- Magistracy of Canopus 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
@@ -66,5 +68,6 @@
 - Draconis Combine 
 - Duchy of Andurien 
 - Free Worlds League 
+- Magistracy of Canopus 
 - Mercenary 
 

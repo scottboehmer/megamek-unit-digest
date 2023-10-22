@@ -70,6 +70,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
+- Republic of the Sphere 
 - Rim Commonality 
 
 ### Late Republic 
@@ -78,10 +79,12 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
+- Republic of the Sphere 
 - Rim Commonality 
 
 ### Dark Ages 
@@ -90,14 +93,17 @@
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
+- Republic of the Sphere 
 - Rim Commonality 
 
 ### ilClan 
 
 - Free Worlds League 
+- Magistracy of Canopus 
 - Mercenary 
 

@@ -326,7 +326,7 @@
 - [**Bandit Hovercraft E**](../../../units/bandit_hovercraft/bandit_hovercraft_e.md) *Missile Boat (3008)* `Transport:4.0` 
 - [**Bandit Hovercraft F**](../../../units/bandit_hovercraft/bandit_hovercraft_f.md) *Striker (3008)* `Transport:4.0` 
 - [**Bandit Hovercraft G**](../../../units/bandit_hovercraft/bandit_hovercraft_g.md) *Striker (3008)* `Transport:4.0` 
-- [**Bandit Hovercraft H**](../../../units/bandit_hovercraft/bandit_hovercraft_h.md) *Skirmisher (3058)* `Transport:8.0` 
+- [**Bandit Hovercraft H**](../../../units/bandit_hovercraft/bandit_hovercraft_h.md) *Skirmisher (3058)* `Transport:4.0` 
 - [**Bandit Hovercraft I**](../../../units/bandit_hovercraft/bandit_hovercraft_i.md) *Striker (3070)* `Transport:4.0` 
 
 #### [BattleMech Recovery Vehicle](../../../units/battlemech_recovery_vehicle.md) 

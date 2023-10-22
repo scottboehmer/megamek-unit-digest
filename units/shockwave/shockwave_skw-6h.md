@@ -39,6 +39,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
@@ -54,4 +55,5 @@
 - Draconis Combine 
 - Federated Suns 
 - Free Worlds League 
+- Wolf Empire 
 

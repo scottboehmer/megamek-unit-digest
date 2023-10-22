@@ -30,15 +30,52 @@
 
 ### Early Succession Wars 
 
-- Clan Coyote 
-- Clan Jade Falcon 
-- Clan Nova Cat 
-- Clan Star Adder 
-- Clan Steel Viper 
+- Clan Burrock 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Widowmaker 
+- Clan Wolf 
 - Star League-in-Exile 
+
+### Late Succession Wars - LosTech 
+
+- Clan Burrock 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Burrock 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Wolf 
+
+### Clan Invasion 
+
+- Clan Burrock 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Wolf 
+
+### Civil War 
+
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Wolf 
 
 ### Jihad 
 
+- Clan Burrock 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Wolf 
 - ComStar 
 - Draconis Combine 
 - Word of Blake 

@@ -36,14 +36,17 @@
 
 - Capellan Confederation 
 - Magistracy of Canopus 
+- Mercenary 
 
 ### Dark Ages 
 
 - Capellan Confederation 
 - Magistracy of Canopus 
+- Mercenary 
 
 ### ilClan 
 
 - Capellan Confederation 
 - Magistracy of Canopus 
+- Mercenary 
 

@@ -45,6 +45,7 @@
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Mercenary 
 - St. Ives Compact 
 
 ### Clan Invasion 

@@ -21,6 +21,10 @@
 - [**Locust C**](../../../units/locust/locust_c.md) *Striker (2836)* 
 - [**Locust LCT-5W2**](../../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Support` , `ECM` , `TAG` 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -262,6 +266,10 @@
 #### [Great Wyrm](../../../units/great_wyrm.md) 
 
 - [**Great Wyrm**](../../../units/great_wyrm/great_wyrm.md) *Brawler (2844)* 
+
+#### [Hatchetman](../../../units/hatchetman.md) 
+
+- [**Hatchetman HCT-5S**](../../../units/hatchetman/hatchetman_hct-5s.md) *Brawler (3049)* 
 
 #### [Ice Ferret](../../../units/ice_ferret.md) 
 

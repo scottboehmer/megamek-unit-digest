@@ -133,6 +133,10 @@
 
 ### 20 Tons 
 
+#### [Asshur Artillery Spotter](../../../units/asshur_artillery_spotter.md) 
+
+- [**Asshur Artillery Spotter**](../../../units/asshur_artillery_spotter/asshur_artillery_spotter.md) *Striker (2893)* `TAG` 
+
 #### [Fox Armored Car](../../../units/fox_armored_car.md) 
 
 - [**Fox Armored Car**](../../../units/fox_armored_car/fox_armored_car.md) *Scout (3084)* 
@@ -198,6 +202,7 @@
 #### [Warrior Attack Helicopter](../../../units/warrior_attack_helicopter.md) 
 
 - [**Warrior Attack Helicopter H-8**](../../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
+- [**Warrior Attack Helicopter H-9**](../../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-9.md) *Scout (3068)* 
 
 #### [Wheeled Scout](../../../units/wheeled_scout.md) 
 
@@ -369,6 +374,10 @@
 
 - [**Skadi Swift Attack VTOL**](../../../units/skadi_swift_attack_vtol/skadi_swift_attack_vtol.md) *Striker (3099)* 
 
+#### [Strix Stealth VTOL](../../../units/strix_stealth_vtol.md) 
+
+- [**Strix Stealth VTOL**](../../../units/strix_stealth_vtol/strix_stealth_vtol.md) *Scout (3117)* `Active Probe` , `ECM` , `Stealth` 
+
 #### [Tribune Mobile Tactical Command HQ](../../../units/tribune_mobile_tactical_command_hq.md) 
 
 - [**Tribune Mobile Tactical Command HQ**](../../../units/tribune_mobile_tactical_command_hq/tribune_mobile_tactical_command_hq.md) *Scout (3091)* `Active Probe` , `ECM` 
@@ -376,6 +385,7 @@
 #### [Yasha VTOL](../../../units/yasha_vtol.md) 
 
 - [**Yasha VTOL**](../../../units/yasha_vtol/yasha_vtol.md) *Scout (3085)* `C3 Support` 
+- [**Yasha VTOL 'Spectre'**](../../../units/yasha_vtol/yasha_vtol_spectre.md) *Scout (3085)* `ECM` , `Stealth` 
 - [**Yasha VTOL (Interdictor)**](../../../units/yasha_vtol/yasha_vtol_interdictor.md) *Missile Boat (3085)* `Active Probe` , `ECM` 
 
 #### [Yellow Jacket Gunship](../../../units/yellow_jacket_gunship.md) 
@@ -538,7 +548,7 @@
 - [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 #### [Regulator Hovertank](../../../units/regulator_hovertank.md) 
 
@@ -571,6 +581,10 @@
 - [**Condor Heavy Hover Tank**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank.md) *Striker (2564)* 
 - [**Condor Heavy Hover Tank (Upgrade) (Laser)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) *Missile Boat (3068)* `ECM` 
 - [**Condor Heavy Hover Tank (Ultra)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_ultra.md) *Striker (3113)* `TAG` 
+
+#### [Drillson Heavy Hover Tank](../../../units/drillson_heavy_hover_tank.md) 
+
+- [**Drillson Heavy Hover Tank (Streak)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_streak.md) *Striker (3053)* 
 
 #### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
 
@@ -625,9 +639,9 @@
 
 #### [SM Tank Destroyer](../../../units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-- [**SM1A Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-- [**SM3 Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1.md) *Undefined (3068)* 
+- [**SM Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1a.md) *Undefined (3070)* `Active Probe` 
+- [**SM Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm3.md) *Undefined (3074)* 
 
 #### [Vedette Medium Tank](../../../units/vedette_medium_tank.md) 
 

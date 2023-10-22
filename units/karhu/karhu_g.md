@@ -32,13 +32,19 @@
 
 ### Late Republic 
 
+- Clan Wolf 
 - Rasalhague Dominion 
 
 ### Dark Ages 
 
+- Clan Sea Fox 
+- Clan Wolf 
 - Rasalhague Dominion 
+- Raven Alliance 
 
 ### ilClan 
 
+- Clan Sea Fox 
 - Rasalhague Dominion 
+- Raven Alliance 
 

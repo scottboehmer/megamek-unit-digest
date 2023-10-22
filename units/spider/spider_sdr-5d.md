@@ -50,3 +50,15 @@
 - Federated Suns 
 - Filtvelt Coalition 
 
+### Early Republic 
+
+- Filtvelt Coalition 
+
+### Late Republic 
+
+- Filtvelt Coalition 
+
+### Dark Ages 
+
+- Filtvelt Coalition 
+

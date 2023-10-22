@@ -58,7 +58,9 @@
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -73,7 +75,9 @@
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -89,7 +93,9 @@
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -103,6 +109,8 @@
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Mercenary 
 - Tamar Pact 
 - Vesper Marches 
 

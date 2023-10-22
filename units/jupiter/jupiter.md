@@ -37,17 +37,23 @@
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Wolf 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Wolf 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Clan Hell's Horses 
+- Clan Jade Falcon 
 - Clan Sea Fox 
 - Lyran Commonwealth 
 - Mercenary 

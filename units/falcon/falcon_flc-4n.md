@@ -53,12 +53,14 @@
 ### Late Succession Wars - LosTech 
 
 - ComStar 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Late Succession Wars - Renaissance 
 
 - ComStar 
 - Draconis Combine 
+- Mercenary 
 - Wolf's Dragoons 
 
 ### Clan Invasion 

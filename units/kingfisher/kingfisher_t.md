@@ -29,6 +29,7 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 
@@ -36,6 +37,7 @@
 ### ilClan 
 
 - Clan Protectorate 
+- Clan Sea Fox 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 

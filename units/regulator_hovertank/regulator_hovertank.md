@@ -42,10 +42,12 @@
 - Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
@@ -57,9 +59,11 @@
 - Clan Sea Fox 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Federated Suns 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
@@ -72,11 +76,13 @@
 - Clan Sea Fox 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Federated Suns 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
@@ -88,9 +94,11 @@
 - Capellan Confederation 
 - Clan Sea Fox 
 - Duchy of Andurien 
+- Federated Suns 
 - Free Worlds League 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Mercenary 
 - Taurian Concordat 
 - Wolf's Dragoons 
 

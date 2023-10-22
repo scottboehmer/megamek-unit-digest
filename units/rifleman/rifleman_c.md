@@ -136,18 +136,27 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
+- Clan Wolf 
 - Escorpión Imperio 
+- Raven Alliance 
 
 ### Late Republic 
 
+- Clan Sea Fox 
+- Clan Wolf 
 - Escorpión Imperio 
+- Raven Alliance 
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Escorpión Imperio 
+- Raven Alliance 
 - Scorpion Empire 
 
 ### ilClan 
 
+- Raven Alliance 
 - Scorpion Empire 
 

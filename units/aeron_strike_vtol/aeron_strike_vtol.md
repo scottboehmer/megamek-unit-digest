@@ -30,16 +30,19 @@
 
 - Duchy of Andurien 
 - Federated Suns 
+- Magistracy of Canopus 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Duchy of Andurien 
 - Federated Suns 
+- Magistracy of Canopus 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Duchy of Andurien 
 - Federated Suns 
+- Magistracy of Canopus 
 

@@ -265,6 +265,7 @@
 #### [Sentinel](../../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
+- [**Sentinel STN-3Lb**](../../../units/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
 
 ### 45 Tons 
 
@@ -379,6 +380,10 @@
 
 - [**Lynx C**](../../../units/lynx/lynx_c.md) *Skirmisher (2848)* 
 
+#### [Shadow Hawk](../../../units/shadow_hawk.md) 
+
+- [**Shadow Hawk C**](../../../units/shadow_hawk/shadow_hawk_c.md) *Skirmisher (2826)* 
+
 #### [Stormcrow](../../../units/stormcrow.md) 
 
 - [**Stormcrow Prime**](../../../units/stormcrow/stormcrow_prime.md) *Striker (2930)* 
@@ -456,9 +461,11 @@
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 
 - [**Rifleman IIC 5**](../../../units/rifleman_iic/rifleman_iic_5.md) *Skirmisher (3069)* 
+- [**Rifleman IIC 8**](../../../units/rifleman_iic/rifleman_iic_8.md) *Skirmisher (3078)* `ECM` 
 
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
+- [**Thunderbolt C**](../../../units/thunderbolt/thunderbolt_c.md) *Sniper (2832)* 
 - [**Thunderbolt C 2**](../../../units/thunderbolt/thunderbolt_c_2.md) *Juggernaut (3054)* 
 
 ### 70 Tons 
@@ -502,7 +509,7 @@
 - [**Summoner F**](../../../units/summoner/summoner_f.md) *Skirmisher (3054)* 
 - [**Summoner H**](../../../units/summoner/summoner_h.md) *Skirmisher (3059)* 
 - [**Summoner G**](../../../units/summoner/summoner_g.md) *Skirmisher (3068)* 
-- [**Summoner Q**](../../../units/summoner/summoner_q.md) *Skirmisher (3069)* `Unique` 
+- [**Summoner Q**](../../../units/summoner/summoner_q.md) *Skirmisher (3069)* 
 - [**Summoner HH**](../../../units/summoner/summoner_hh.md) *Skirmisher (3070)* 
 - [**Summoner U**](../../../units/summoner/summoner_u.md) *Sniper (3078)* 
 - [**Summoner AA**](../../../units/summoner/summoner_aa.md) *Sniper (3086)* 
@@ -512,11 +519,19 @@
 - [**Thunderbolt IIC**](../../../units/thunderbolt_iic/thunderbolt_iic.md) *Brawler (3085)* 
 - [**Thunderbolt IIC 2**](../../../units/thunderbolt_iic/thunderbolt_iic_2.md) *Skirmisher (3088)* `ECM` 
 
+#### [Warhammer](../../../units/warhammer.md) 
+
+- [**Warhammer C**](../../../units/warhammer/warhammer_c.md) *Brawler (2825)* 
+
 ### 75 Tons 
 
 #### [Flashman](../../../units/flashman.md) 
 
 - [**Flashman FLS-8K**](../../../units/flashman/flashman_fls-8k.md) *Skirmisher (2701)* 
+
+#### [Marauder](../../../units/marauder.md) 
+
+- [**Marauder C**](../../../units/marauder/marauder_c.md) *Sniper (2827)* 
 
 #### [Night Gyr](../../../units/night_gyr.md) 
 
@@ -595,6 +610,7 @@
 
 #### [BattleMaster](../../../units/battlemaster.md) 
 
+- [**BattleMaster BLR-4S**](../../../units/battlemaster/battlemaster_blr-4s.md) *Brawler (3062)* 
 - [**BattleMaster C**](../../../units/battlemaster/battlemaster_c.md) *Brawler (3070)* 
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
@@ -605,6 +621,10 @@
 - [**Marauder IIC 3**](../../../units/marauder_iic/marauder_iic_3.md) *Brawler (3064)* 
 - [**Marauder IIC 5**](../../../units/marauder_iic/marauder_iic_5.md) *Sniper (3070)* 
 - [**Marauder IIC 6**](../../../units/marauder_iic/marauder_iic_6.md) *Skirmisher (3077)* 
+
+#### [Stalker](../../../units/stalker.md) 
+
+- [**Stalker STK-5S**](../../../units/stalker/stalker_stk-5s.md) *Juggernaut (3050)* 
 
 ### 90 Tons 
 

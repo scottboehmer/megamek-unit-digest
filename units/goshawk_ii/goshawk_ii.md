@@ -38,6 +38,7 @@
 
 - Capellan Confederation 
 - Clan Sea Fox 
+- Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
@@ -48,6 +49,7 @@
 
 - Capellan Confederation 
 - Clan Sea Fox 
+- Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 

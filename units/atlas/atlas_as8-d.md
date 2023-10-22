@@ -33,25 +33,30 @@
 ### Jihad 
 
 - Federated Suns 
+- Mercenary 
 
 ### Early Republic 
 
 - Federated Suns 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
 
 - Federated Suns 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Draconis Combine 
 - Federated Suns 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Draconis Combine 
 - Federated Suns 
+- Mercenary 
 

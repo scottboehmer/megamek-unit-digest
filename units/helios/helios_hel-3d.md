@@ -45,6 +45,7 @@
 
 ### Jihad 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - ComStar 
 - Federated Suns 
@@ -55,6 +56,7 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
@@ -63,6 +65,7 @@
 
 ### Late Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
@@ -71,6 +74,7 @@
 
 ### Dark Ages 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Fronc Reaches 
 - Mercenary 
@@ -78,6 +82,7 @@
 
 ### ilClan 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Fronc Reaches 
 - Mercenary 

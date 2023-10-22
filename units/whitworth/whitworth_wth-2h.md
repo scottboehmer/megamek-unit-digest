@@ -37,6 +37,7 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
+- Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 

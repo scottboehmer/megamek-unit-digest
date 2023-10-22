@@ -374,6 +374,14 @@
 - [**Rhino Fire Support Tank (MG)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_mg.md) *Missile Boat (2725)* 
 - [**Rhino Fire Support Tank (Flamer)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_flamer.md) *Missile Boat (2835)* 
 
+#### [Schrek AC Carrier](../../../units/schrek_ac_carrier.md) 
+
+- [**Schrek AC Carrier**](../../../units/schrek_ac_carrier/schrek_ac_carrier.md) *Sniper (2916)* 
+
+#### [Schrek PPC Carrier](../../../units/schrek_ppc_carrier.md) 
+
+- [**Schrek PPC Carrier**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier.md) *Sniper (2813)* 
+
 ### 85 Tons 
 
 #### [Mauna Kea Command Vessel](../../../units/mauna_kea_command_vessel.md) 
@@ -381,11 +389,20 @@
 - [**Mauna Kea Command Vessel (LRM)**](../../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrm.md) *Missile Boat (2515)* 
 - [**Mauna Kea Command Vessel (LRT)**](../../../units/mauna_kea_command_vessel/mauna_kea_command_vessel_lrt.md) *Missile Boat (2515)* 
 
+#### [SturmFeur Heavy Tank](../../../units/sturmfeur_heavy_tank.md) 
+
+- [**SturmFeur Heavy Tank**](../../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank.md) *Undefined (3018)* 
+- [**SturmFeur Heavy Tank (Cell)**](../../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_cell.md) *Missile Boat (3149)* 
+
 ### 95 Tons 
 
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
 - [**Mobile Long Tom Artillery (+Carriages)(Unofficial)**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_+carriagesunofficial.md) *Missile Boat (2602)* 
+
+#### [Ontos Heavy Tank](../../../units/ontos_heavy_tank.md) 
+
+- [**Ontos Heavy Tank**](../../../units/ontos_heavy_tank/ontos_heavy_tank.md) *Juggernaut (2832)* 
 
 ### 100 Tons 
 

@@ -28,18 +28,22 @@
 
 ### Early Republic 
 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Clan Wolf 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Mercenary 
 - Wolf Empire 
 

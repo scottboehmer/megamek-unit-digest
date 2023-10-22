@@ -24,17 +24,24 @@
 
 ### Early Republic 
 
+- Duchy of Tamarind-Abbey 
 - Mercenary 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Duchy of Tamarind-Abbey 
 - Mercenary 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
 - Mercenary 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### ilClan 
@@ -43,4 +50,5 @@
 - Draconis Combine 
 - Free Worlds League 
 - Mercenary 
+- Rasalhague Dominion 
 

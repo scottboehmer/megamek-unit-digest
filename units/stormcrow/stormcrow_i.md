@@ -101,6 +101,7 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Draconis Combine 
 - Escorpión Imperio 
 - Mercenary 
 - Rasalhague Dominion 
@@ -114,6 +115,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Draconis Combine 
 - Escorpión Imperio 
 - Mercenary 
 - Rasalhague Dominion 

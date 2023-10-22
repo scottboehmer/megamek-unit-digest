@@ -31,6 +31,7 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
+- Republic of the Sphere 
 - Wolf's Dragoons 
 
 ### Late Republic 
@@ -39,6 +40,7 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
+- Republic of the Sphere 
 - Wolf's Dragoons 
 
 ### Dark Ages 
@@ -47,6 +49,7 @@
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
+- Republic of the Sphere 
 - Wolf's Dragoons 
 
 ### ilClan 

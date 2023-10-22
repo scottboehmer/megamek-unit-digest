@@ -14,6 +14,10 @@
 
 ### 5 Tons 
 
+#### [Gabriel Reconnaissance Hovercraft](../../../units/gabriel_reconnaissance_hovercraft.md) 
+
+- [**Gabriel Reconnaissance Hovercraft**](../../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft.md) *Scout (2712)* 
+
 #### [Jeep](../../../units/jeep.md) 
 
 - [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
@@ -195,6 +199,14 @@
 
 ### 50 Tons 
 
+#### [Bandit (C) Hovercraft](../../../units/bandit_c_hovercraft.md) 
+
+- [**Bandit (C) Hovercraft Prime**](../../../units/bandit_c_hovercraft/bandit_c_hovercraft_prime.md) *Striker (2875)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft A**](../../../units/bandit_c_hovercraft/bandit_c_hovercraft_a.md) *Striker (2875)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft B**](../../../units/bandit_c_hovercraft/bandit_c_hovercraft_b.md) *Missile Boat (2875)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft C**](../../../units/bandit_c_hovercraft/bandit_c_hovercraft_c.md) *Striker (2875)* `Transport:5.0` 
+- [**Bandit (C) Hovercraft D**](../../../units/bandit_c_hovercraft/bandit_c_hovercraft_d.md) *Striker (2875)* `Transport:5.0` 
+
 #### [BattleMech Recovery Vehicle](../../../units/battlemech_recovery_vehicle.md) 
 
 - [**BattleMech Recovery Vehicle**](../../../units/battlemech_recovery_vehicle/battlemech_recovery_vehicle.md) *Undefined (2500)* 
@@ -271,9 +283,17 @@
 
 - [**Athena Combat Vehicle**](../../../units/athena_combat_vehicle/athena_combat_vehicle.md) *Juggernaut (3008)* 
 
+#### [Burke Defense Tank](../../../units/burke_defense_tank.md) 
+
+- [**Burke Defense Tank (Royal)**](../../../units/burke_defense_tank/burke_defense_tank_royal.md) *Sniper (2713)* 
+
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
 - [**Mobile Long Tom Artillery LT-MOB-25**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
+
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank (Royal)**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_royal.md) *Sniper (2761)* 
 
 ### 80 Tons 
 
@@ -296,6 +316,10 @@
 - [**Huitzilopochtli Assault Tank 'Huey'**](../../../units/huitzilopochtli_assault_tank_huey/huitzilopochtli_assault_tank_huey.md) *Missile Boat (2845)* `ECM` 
 
 ### 95 Tons 
+
+#### [Alacorn Heavy Tank](../../../units/alacorn_heavy_tank.md) 
+
+- [**Alacorn Heavy Tank Mk VI**](../../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) *Sniper (2590)* 
 
 #### [Heimdall Ground Monitor Tank](../../../units/heimdall_ground_monitor_tank.md) 
 

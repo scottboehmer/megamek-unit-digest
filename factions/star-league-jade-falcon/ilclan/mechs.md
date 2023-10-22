@@ -427,6 +427,10 @@
 - [**Hel A**](../../../units/hel_omnimech/hel_a.md) *Brawler (3121)* `ECM` 
 - [**Hel B**](../../../units/hel_omnimech/hel_b.md) *Brawler (3121)* 
 
+#### [Rifleman IIC](../../../units/rifleman_iic.md) 
+
+- [**Rifleman IIC 8**](../../../units/rifleman_iic/rifleman_iic_8.md) *Skirmisher (3078)* `ECM` 
+
 ### 70 Tons 
 
 #### [Archer](../../../units/archer.md) 

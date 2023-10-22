@@ -29,3 +29,8 @@
 
 - Star League - Royal Divisions 
 
+### Early Succession Wars 
+
+- Clan Ghost Bear 
+- Star League-in-Exile 
+

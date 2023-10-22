@@ -21,10 +21,6 @@
 
 ## Availability 
 
-### Late Republic 
-
-- Federated Suns 
-
 ### Dark Ages 
 
 - Federated Suns 

@@ -60,6 +60,7 @@
 
 ### Early Republic 
 
+- Federated Suns 
 - Filtvelt Coalition 
 - Magistracy of Canopus 
 - Mercenary 
@@ -67,6 +68,19 @@
 
 ### Late Republic 
 
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### Dark Ages 
+
+- Federated Suns 
+- Filtvelt Coalition 
+- Mercenary 
+
+### ilClan 
+
+- Federated Suns 
 - Filtvelt Coalition 
 - Mercenary 
 

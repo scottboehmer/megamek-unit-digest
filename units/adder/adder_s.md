@@ -165,6 +165,7 @@
 ### ilClan 
 
 - Clan Hell's Horses 
+- Clan Jade Falcon 
 - Clan Sea Fox 
 - Federated Suns 
 - Kell Hounds 

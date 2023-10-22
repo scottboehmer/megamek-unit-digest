@@ -33,6 +33,7 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Solaris 7 
+- St. Ives Compact 
 
 ### Civil War 
 
@@ -41,6 +42,7 @@
 - Lyran Alliance 
 - Mercenary 
 - Solaris 7 
+- St. Ives Compact 
 
 ### Jihad 
 

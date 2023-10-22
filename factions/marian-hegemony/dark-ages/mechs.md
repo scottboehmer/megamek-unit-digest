@@ -53,6 +53,7 @@
 
 - [**Wasp WSP-1A**](../../../units/wasp/wasp_wsp-1a.md) *Scout (2471)* 
 - [**Wasp WSP-3M**](../../../units/wasp/wasp_wsp-3m.md) *Scout (3051)* 
+- [**Wasp WSP-8T**](../../../units/wasp/wasp_wsp-8t.md) *Scout (3075)* 
 - [**Wasp WSP-3P**](../../../units/wasp/wasp_wsp-3p.md) *Scout (3086)* 
 - [**Wasp WSP-5A**](../../../units/wasp/wasp_wsp-5a.md) *Scout (3114)* 
 
@@ -61,6 +62,8 @@
 #### [Brigand](../../../units/brigand.md) 
 
 - [**Brigand LDT-1**](../../../units/brigand/brigand_ldt-1.md) *Striker (3065)* 
+- [**Brigand LDT-X1**](../../../units/brigand/brigand_ldt-x1.md) *Striker (3066)* 
+- [**Brigand LDT-X2**](../../../units/brigand/brigand_ldt-x2.md) *Striker (3066)* 
 
 #### [CattleMaster](../../../units/cattlemaster.md) 
 
@@ -132,6 +135,10 @@
 - [**Crosscut ED-X4M-A LoggerMech MOD**](../../../units/crosscut/crosscut_ed-x4m-a_loggermech_mod.md) *Sniper (3131)* `IndustrialMech` 
 - [**Crosscut ED-X4M-E LoggerMech MOD**](../../../units/crosscut/crosscut_ed-x4m-e_loggermech_mod.md) *Sniper (3131)* `IndustrialMech` 
 - [**Crosscut ED-X4M-L LoggerMech MOD**](../../../units/crosscut/crosscut_ed-x4m-l_loggermech_mod.md) *Sniper (3131)* `IndustrialMech` 
+
+#### [Hammer](../../../units/hammer.md) 
+
+- [**Hammer HMR-3M**](../../../units/hammer/hammer_hmr-3m.md) *Striker (3053)* 
 
 #### [Harvester](../../../units/harvester.md) 
 
@@ -214,10 +221,18 @@
 - [**StrongArm SC CV ConstructionMech**](../../../units/strongarm/strongarm_sc_cv_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 - [**StrongArm SC CVI ConstructionMech**](../../../units/strongarm/strongarm_sc_cvi_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 
+#### [Toro](../../../units/toro.md) 
+
+- [**Toro TR-A-1**](../../../units/toro/toro_tr-a-1.md) *Brawler (2481)* 
+
 #### [Wight](../../../units/wight.md) 
 
 - [**Wight WGT-2SC**](../../../units/wight/wight_wgt-2sc.md) *Brawler (3069)* 
 - [**Wight WGT-3SC**](../../../units/wight/wight_wgt-3sc.md) *Brawler (3076)* 
+
+#### [Wolfhound](../../../units/wolfhound.md) 
+
+- [**Wolfhound WLF-1**](../../../units/wolfhound/wolfhound_wlf-1.md) *Striker (3028)* 
 
 ### 40 Tons 
 
@@ -266,6 +281,7 @@
 #### [Vulcan](../../../units/vulcan.md) 
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
+- [**Vulcan VT-5M**](../../../units/vulcan/vulcan_vt-5m.md) *Striker (3050)* 
 - [**Vulcan VT-5S**](../../../units/vulcan/vulcan_vt-5s.md) *Striker (3050)* 
 - [**Vulcan VT-5Sr**](../../../units/vulcan/vulcan_vt-5sr.md) *Scout (3075)* 
 
@@ -301,6 +317,7 @@
 
 - [**Phoenix Hawk PXH-1**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)* 
 - [**Phoenix Hawk PXH-3M**](../../../units/phoenix_hawk/phoenix_hawk_pxh-3m.md) *Striker (3045)* 
+- [**Phoenix Hawk PXH-4L**](../../../units/phoenix_hawk/phoenix_hawk_pxh-4l.md) *Striker (3066)* `ECM` , `Stealth` 
 - [**Phoenix Hawk PXH-4M**](../../../units/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)* 
 
 #### [Quasit](../../../units/quasit.md) 
@@ -485,6 +502,7 @@
 #### [Catapult](../../../units/catapult.md) 
 
 - [**Catapult CPLT-H2**](../../../units/catapult/catapult_cplt-h2.md) *Skirmisher (3064)* 
+- [**Catapult CPLT-C5A**](../../../units/catapult/catapult_cplt-c5a.md) *Missile Boat (3068)* 
 
 #### [Crusader](../../../units/crusader.md) 
 
@@ -502,6 +520,10 @@
 - [**Ground Pounder DVM-2 MiningMech**](../../../units/ground_pounder/ground_pounder_dvm-2_miningmech.md) *Ambusher (3125)* `IndustrialMech` 
 - [**Ground Pounder DVM-2M MiningMech MOD**](../../../units/ground_pounder/ground_pounder_dvm-2m_miningmech_mod.md) *Ambusher (3133)* `IndustrialMech` 
 
+#### [Ha Otoko](../../../units/ha_otoko.md) 
+
+- [**Ha Otoko**](../../../units/ha_otoko/ha_otoko.md) *Missile Boat (3060)* 
+
 #### [JagerMech](../../../units/jagermech.md) 
 
 - [**JagerMech JM6-DGr**](../../../units/jagermech/jagermech_jm6-dgr.md) *Sniper (3058)* 
@@ -511,12 +533,17 @@
 
 - [**Rifleman IIC**](../../../units/rifleman_iic/rifleman_iic.md) *Sniper (2845)* `Active Probe` 
 
+#### [Scourge](../../../units/scourge.md) 
+
+- [**Scourge SCG-WD1**](../../../units/scourge/scourge_scg-wd1.md) *Skirmisher (3131)* 
+
 #### [Tempest](../../../units/tempest.md) 
 
 - [**Tempest TMP-3M**](../../../units/tempest/tempest_tmp-3m.md) *Brawler (3055)* 
 
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
+- [**Thunderbolt TDR-5S**](../../../units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
 - [**Thunderbolt TDR-7M**](../../../units/thunderbolt/thunderbolt_tdr-7m.md) *Brawler (3049)* 
 - [**Thunderbolt TDR-8M**](../../../units/thunderbolt/thunderbolt_tdr-8m.md) *Brawler (3058)* 
 - [**Thunderbolt TDR-10SE**](../../../units/thunderbolt/thunderbolt_tdr-10se.md) *Missile Boat (3067)* `ECM` 
@@ -539,6 +566,10 @@
 #### [Cataphract](../../../units/cataphract.md) 
 
 - [**Cataphract CTF-3D**](../../../units/cataphract/cataphract_ctf-3d.md) *Sniper (3050)* 
+
+#### [Gallant](../../../units/gallant.md) 
+
+- [**Gallant GLT-7-0**](../../../units/gallant/gallant_glt-7-0.md) *Skirmisher (3078)* 
 
 #### [Grasshopper](../../../units/grasshopper.md) 
 
@@ -600,6 +631,10 @@
 - [**Orion ON1-MA**](../../../units/orion/orion_on1-ma.md) *Brawler (3052)* 
 - [**Orion ON2-M**](../../../units/orion/orion_on2-m.md) *Brawler (3063)* 
 
+#### [Stalker](../../../units/stalker.md) 
+
+- [**Stalker STK-4P**](../../../units/stalker/stalker_stk-4p.md) *Juggernaut (2998)* 
+
 #### [Thanatos](../../../units/thanatos.md) 
 
 - [**Thanatos TNS-4S**](../../../units/thanatos/thanatos_tns-4s.md) *Skirmisher (3061)* `C3 Support` , `ECM` 
@@ -614,6 +649,7 @@
 
 #### [Charger](../../../units/charger.md) 
 
+- [**Charger CGR-1A1**](../../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
 - [**Charger CGR-1A9**](../../../units/charger/charger_cgr-1a9.md) *Skirmisher (3034)* 
 - [**Charger CGR-2A2**](../../../units/charger/charger_cgr-2a2.md) *Scout (3064)* 
 
@@ -626,6 +662,7 @@
 #### [HawkWolf](../../../units/hawkwolf.md) 
 
 - [**HawkWolf HWK-3F**](../../../units/hawkwolf/hawkwolf_hwk-3f.md) *Missile Boat (3076)* 
+- [**HawkWolf HWK-4F**](../../../units/hawkwolf/hawkwolf_hwk-4f.md) *Missile Boat (3100)* 
 
 #### [Thug](../../../units/thug.md) 
 
@@ -637,12 +674,14 @@
 
 #### [Victor](../../../units/victor.md) 
 
+- [**Victor VTR-9A**](../../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
 - [**Victor VTR-9K**](../../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-9Ka**](../../../units/victor/victor_vtr-9ka.md) *Skirmisher (3076)* 
 
 #### [Zeus](../../../units/zeus.md) 
 
+- [**Zeus ZEU-6S**](../../../units/zeus/zeus_zeu-6s.md) *Sniper (2898)* 
 - [**Zeus ZEU-9S**](../../../units/zeus/zeus_zeu-9s.md) *Sniper (3048)* 
 
 ### 85 Tons 
@@ -666,6 +705,7 @@
 - [**Longbow LGB-10C**](../../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-12C**](../../../units/longbow/longbow_lgb-12c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-0H**](../../../units/longbow/longbow_lgb-0h.md) *Sniper (3065)* 
+- [**Longbow LGB-13C**](../../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14Q**](../../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
 
@@ -678,6 +718,7 @@
 
 #### [Cyclops](../../../units/cyclops.md) 
 
+- [**Cyclops CP-10-Q**](../../../units/cyclops/cyclops_cp-10-q.md) *Missile Boat (2801)* 
 - [**Cyclops CP-11-G**](../../../units/cyclops/cyclops_cp-11-g.md) *Sniper (3058)* 
 - [**Cyclops CP-11-H**](../../../units/cyclops/cyclops_cp-11-h.md) *Juggernaut (3064)* 
 
@@ -696,6 +737,7 @@
 
 #### [Banshee](../../../units/banshee.md) 
 
+- [**Banshee BNC-3E**](../../../units/banshee/banshee_bnc-3e.md) *Sniper (2475)* 
 - [**Banshee BNC-5S**](../../../units/banshee/banshee_bnc-5s.md) *Sniper (3053)* 
 
 #### [Cerberus](../../../units/cerberus.md) 
@@ -712,6 +754,7 @@
 - [**Atlas AS7-S2**](../../../units/atlas/atlas_as7-s2.md) *Sniper (3061)* `ECM` 
 - [**Atlas AS7-S3**](../../../units/atlas/atlas_as7-s3.md) *Sniper (3062)* `ECM` 
 - [**Atlas AS7-S3-DC**](../../../units/atlas/atlas_as7-s3-dc.md) *Sniper (3064)* `Command Console` 
+- [**Atlas AS7-Dr**](../../../units/atlas/atlas_as7-dr.md) *Juggernaut (3070)* `C3 Support` , `ECM` 
 - [**Atlas AS7-K2**](../../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Diomede](../../../units/diomede.md) 
@@ -731,4 +774,8 @@
 #### [Marauder II](../../../units/marauder_ii.md) 
 
 - [**Marauder II MAD-4H**](../../../units/marauder_ii/marauder_ii_mad-4h.md) *Sniper (3067)* 
+
+#### [Xanthos](../../../units/xanthos.md) 
+
+- [**Xanthos XNT-4O**](../../../units/xanthos/xanthos_xnt-4o.md) *Sniper (3068)* `ECM` , `Stealth` 
 

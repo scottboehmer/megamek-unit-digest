@@ -36,14 +36,17 @@
 ### Early Republic 
 
 - Federated Suns 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Federated Suns 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Federated Suns 
+- Republic of the Sphere 
 
 ### ilClan 
 

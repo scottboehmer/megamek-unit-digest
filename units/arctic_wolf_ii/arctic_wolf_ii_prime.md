@@ -31,18 +31,26 @@
 
 ### Late Republic 
 
+- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
+- Rasalhague Dominion 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
 
 ### ilClan 
 
+- Clan Hell's Horses 
+- Clan Sea Fox 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Rasalhague Dominion 
 - Star League (Wolf) 
 

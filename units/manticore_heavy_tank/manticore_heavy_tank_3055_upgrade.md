@@ -44,37 +44,44 @@
 
 ### Early Republic 
 
+- Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
+- Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
+- Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
+- Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Duchy of Andurien 
 - Federated Suns 
 - Filtvelt Coalition 
 - Free Worlds League 

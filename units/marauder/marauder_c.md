@@ -110,3 +110,26 @@
 - Federated Suns 
 - Lyran Alliance 
 
+### Early Republic 
+
+- Clan Jade Falcon 
+- Clan Wolf 
+- Raven Alliance 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+- Clan Wolf 
+- Raven Alliance 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Clan Wolf 
+- Raven Alliance 
+
+### ilClan 
+
+- Clan Jade Falcon 
+- Raven Alliance 
+

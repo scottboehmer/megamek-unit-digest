@@ -27,23 +27,43 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Steel Viper 
+
+### Late Succession Wars - LosTech 
+
+- Clan Diamond Shark 
+- Clan Jade Falcon 
+- Clan Steel Viper 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Diamond Shark 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Steel Viper 
+
 ### Clan Invasion 
 
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Steel Viper 
 
 ### Civil War 
 
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Steel Viper 
 
 ### Jihad 
 
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Steel Viper 
 
 ### Early Republic 
 
@@ -67,5 +87,6 @@
 
 - Alyina Mercantile League 
 - Clan Hell's Horses 
+- Clan Protectorate 
 - Clan Sea Fox 
 

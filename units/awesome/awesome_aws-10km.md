@@ -40,6 +40,7 @@
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Republic of the Sphere 
 
@@ -48,15 +49,18 @@
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Republic of the Sphere 
 
@@ -64,4 +68,6 @@
 
 - Draconis Combine 
 - Free Worlds League 
+- Mercenary 
+- Wolf Empire 
 

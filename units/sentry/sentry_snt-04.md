@@ -34,6 +34,7 @@
 - Federated Suns 
 - Kell Hounds 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Civil War 
@@ -42,6 +43,7 @@
 - Federated Suns 
 - Kell Hounds 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Jihad 

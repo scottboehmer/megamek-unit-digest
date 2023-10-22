@@ -21,9 +21,18 @@
 
 ### Star League 
 
+- Capellan Confederation 
+- Draconis Combine 
+- Federated Suns 
+- Free Worlds League 
+- Lyran Commonwealth 
+- Magistracy of Canopus 
+- Outworlds Alliance 
+- Pirate 
 - Rim Worlds Republic - Terran Corps 
 - Star League 
 - Star League - Royal Divisions 
+- Taurian Concordat 
 - Terran Hegemony 
 
 ### Early Succession Wars 

@@ -56,16 +56,20 @@
 
 ### Early Republic 
 
+- Clan Nova Cat 
+- Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 
 
 ### Late Republic 
 
+- Clan Nova Cat 
 - Lyran Commonwealth 
 - Mercenary 
 
 ### Dark Ages 
 
+- Clan Nova Cat 
 - Mercenary 
 
 ### ilClan 

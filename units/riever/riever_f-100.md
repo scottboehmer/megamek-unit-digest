@@ -126,6 +126,7 @@
 ### Early Republic 
 
 - Calderon Protectorate 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
@@ -136,29 +137,34 @@
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
+- Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Calderon Protectorate 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
+- Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Calderon Protectorate 
+- Capellan Confederation 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Pirate 
+- Republic of the Sphere 
 - Taurian Concordat 
 
 ### ilClan 

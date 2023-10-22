@@ -503,6 +503,10 @@
 - [**Lament LMT-3R**](../../../units/lament/lament_lmt-3r.md) *Brawler (3135)* 
 - [**Lament LMT-4RC**](../../../units/lament/lament_lmt-4rc.md) *Brawler (3137)* `C3 Support` 
 
+#### [Rifleman IIC](../../../units/rifleman_iic.md) 
+
+- [**Rifleman IIC 8**](../../../units/rifleman_iic/rifleman_iic_8.md) *Skirmisher (3078)* `ECM` 
+
 ### 70 Tons 
 
 #### [Archer](../../../units/archer.md) 

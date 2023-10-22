@@ -10,6 +10,11 @@
 - [**Cheetah F-14-S**](../../../units/cheetah/cheetah_f-14-s.md) *Interceptor (3052)* 
 - [**Cheetah F-11-RR**](../../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
 - [**Cheetah F-13**](../../../units/cheetah/cheetah_f-13.md) *Interceptor (3069)* 
+- [**Cheetah OF-17A-R**](../../../units/cheetah/cheetah_of-17a-r.md) *Interceptor (3080)* `ECM` , `Stealth` 
+
+#### [Sabre](../../../units/sabre.md) 
+
+- [**Sabre SB-27**](../../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
 
 #### [Thrush](../../../units/thrush.md) 
 

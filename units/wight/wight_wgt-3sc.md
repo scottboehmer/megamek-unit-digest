@@ -40,6 +40,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
+- Republic of the Sphere 
 - Rim Commonality 
 
 ### Late Republic 
@@ -54,6 +55,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
+- Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
 
@@ -70,6 +72,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
+- Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
 

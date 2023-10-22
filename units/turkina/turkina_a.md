@@ -66,6 +66,7 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
+- Clan Wolf 
 - Escorpión Imperio 
 
 ### Dark Ages 
@@ -73,6 +74,7 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
+- Clan Wolf 
 - Escorpión Imperio 
 - Scorpion Empire 
 

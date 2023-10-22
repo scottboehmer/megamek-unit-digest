@@ -79,6 +79,8 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 
@@ -86,6 +88,9 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 
@@ -93,6 +98,9 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Jade Falcon 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 

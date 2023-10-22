@@ -28,18 +28,26 @@
 
 ### Early Republic 
 
+- Federated Suns 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Federated Suns 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Federated Suns 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Federated Suns 
+- Mercenary 
 

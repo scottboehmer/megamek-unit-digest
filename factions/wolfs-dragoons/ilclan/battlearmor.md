@@ -100,6 +100,10 @@
 - [**Grenadier II Battle Armor C(Sqd5)**](../../../units/grenadier_ii_battle_armor/grenadier_ii_battle_armor_csqd5.md) *Ambusher (3137)* `Stealth` 
 - [**Grenadier II Battle Armor D(Sqd5)**](../../../units/grenadier_ii_battle_armor/grenadier_ii_battle_armor_dsqd5.md) *Missile Boat (3137)* `Stealth` 
 
+#### [Stormbird Battle Armor](../../../units/stormbird_battle_armor.md) 
+
+- [**Stormbird Battle Armor (Jade Falcon)(Sqd5)**](../../../units/stormbird_battle_armor/stormbird_battle_armor_jade_falconsqd5.md) *Ambusher (3092)* 
+
 ### 2 Tons 
 
 #### [Ironhold Assault Battle Armor](../../../units/ironhold_assault_battle_armor.md) 

@@ -38,7 +38,3 @@
 
 - Republic of the Sphere 
 
-### Late Republic (Unique) 
-
-- Republic of the Sphere 
-

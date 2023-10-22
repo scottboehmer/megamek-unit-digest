@@ -27,6 +27,10 @@
 
 ## Availability 
 
+### Early Republic 
+
+- Raven Alliance 
+
 ### Late Republic 
 
 - Raven Alliance 

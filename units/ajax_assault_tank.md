@@ -88,14 +88,15 @@
 - **Weapons:** 
   - Arrow IV (ammo: 20) 
   - ER Medium Laser × 2 
-  - Light Machine Gun × 3 (ammo: 100) 
+  - Light Machine Gun × 4 (ammo: 100) 
 - **Equipment:** 
   - Guardian ECM Suite 
   - CASE 
   - Infantry (4.0 tons) 
+  - Cargo 
   - Drone Control System 
 - **Sources:** TRO: 3067 , [Master Unit List](http://masterunitlist.info/Unit/Details/5741) 
-- **Battle Value:** 1502 
+- **Battle Value:** 1507 
 - [*More Info*](ajax_assault_tank/ajax_assault_tank_d.md) 
 
 ## Ajax Assault Tank (Sealed) 

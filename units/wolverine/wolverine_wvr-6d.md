@@ -26,6 +26,10 @@
 
 ## Availability 
 
+### Star League 
+
+- Federated Suns 
+
 ### Early Succession Wars 
 
 - Federated Suns 

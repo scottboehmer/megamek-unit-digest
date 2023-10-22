@@ -23,5 +23,14 @@
 
 ## Availability 
 
-Availability Unknown 
+### Dark Ages 
+
+- Clan Wolf-in-Exile 
+- Kell Hounds 
+- Lyran Commonwealth 
+
+### ilClan 
+
+- Kell Hounds 
+- Lyran Commonwealth 
 

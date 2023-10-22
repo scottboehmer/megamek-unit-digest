@@ -64,6 +64,7 @@
 
 ### ilClan 
 
+- Clan Protectorate 
 - Draconis Combine 
 - Duchy of Andurien 
 - Free Worlds League 

@@ -31,6 +31,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Clan Diamond Shark 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -45,6 +46,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
+- Rasalhague Dominion 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -54,6 +56,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Clan Sea Fox 
 - ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -69,6 +72,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
+- Rasalhague Dominion 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -78,6 +82,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Clan Sea Fox 
 - ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -94,6 +99,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
+- Rasalhague Dominion 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -103,6 +109,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 
@@ -114,6 +121,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Rasalhague Dominion 
 - Tamar Pact 
 - Taurian Concordat 
 - Vesper Marches 

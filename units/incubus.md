@@ -15,7 +15,14 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
   - Jettison-Capable Weapon (Large Pulse Laser) 
+  - Modular Weapon (Large Pulse Laser) 
 - **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3441) 
 - **Battle Value:** 1596 
 - [*More Info*](incubus/incubus.md) 
@@ -35,7 +42,22 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Jettison-Capable Weapon (ER PPC) 
+  - Modular Weapon (ER PPC) 
 - **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3442) 
 - **Battle Value:** 1913 
 - [*More Info*](incubus/incubus_2.md) 
@@ -55,7 +77,22 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Jettison-Capable Weapon (Ultra AC/2) 
+  - Modular Weapon (Ultra AC/2) 
 - **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7541) 
 - **Battle Value:** 1175 
 - [*More Info*](incubus/incubus_7.md) 
@@ -75,7 +112,22 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Jettison-Capable Weapon (LRM 20) 
+  - Modular Weapon (LRM 20) 
 - **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7543) 
 - **Battle Value:** 1557 
 - [*More Info*](incubus/incubus_8.md) 
@@ -95,7 +147,22 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Jettison-Capable Weapon (Streak SRM 6) 
+  - Modular Weapon (Streak SRM 6) 
 - **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3443) 
 - **Battle Value:** 1324 
 - [*More Info*](incubus/incubus_3.md) 
@@ -114,7 +181,22 @@
   - Micro Pulse Laser × 2 
   - ER Micro Laser × 2 
 - **Design Quirks:** 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Micro Pulse Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Micro Pulse Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Jettison-Capable Weapon (Heavy Large Laser) 
+  - Modular Weapon (Heavy Large Laser) 
 - **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3444) 
 - **Battle Value:** 1581 
 - [*More Info*](incubus/incubus_4.md) 
@@ -134,7 +216,22 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Light Machine Gun) 
+  - Modular Weapon (Light Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Light Machine Gun) 
+  - Modular Weapon (Light Machine Gun) 
+  - Jettison-Capable Weapon (ATM 6) 
+  - Modular Weapon (ATM 6) 
 - **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3445) 
 - **Battle Value:** 1364 
 - [*More Info*](incubus/incubus_5.md) 
@@ -155,7 +252,23 @@
   - Talons 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (ER PPC) 
+  - Jettison-Capable Weapon (SRM 6) 
+  - Modular Weapon (SRM 6) 
 - **Sources:** Record Sheets: 3150 , [Master Unit List](http://masterunitlist.info/Unit/Details/8008) 
 - **Battle Value:** 1578 
 - [*More Info*](incubus/incubus_6.md) 
@@ -176,7 +289,21 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Medium Pulse Laser) 
+  - Modular Weapon (AP Gauss Rifle) 
+  - Modular Weapon (ER Medium Pulse Laser) 
+  - Modular Weapon (AP Gauss Rifle) 
+  - Modular Weapon (AP Gauss Rifle) 
+  - Jettison-Capable Weapon (ER Large Pulse Laser) 
+  - Modular Weapon (ER Large Pulse Laser) 
 - **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/7544) 
 - **Battle Value:** 1849 
 - [*More Info*](incubus/incubus_9.md) 

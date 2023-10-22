@@ -30,6 +30,18 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Ghost Bear 
+
+### Late Succession Wars - LosTech 
+
+- Clan Ghost Bear 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Ghost Bear 
+
 ### Clan Invasion 
 
 - Wolf's Dragoons 

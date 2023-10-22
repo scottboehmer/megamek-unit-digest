@@ -40,6 +40,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Kell Hounds 
+- Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Wolf's Dragoons 

@@ -37,14 +37,19 @@
 
 ### Late Republic 
 
+- Duchy of Andurien 
+- Oriente Protectorate 
 - Regulan Fiefs 
 
 ### Dark Ages 
 
+- Duchy of Andurien 
 - Free Worlds League 
+- Oriente Protectorate 
 - Regulan Fiefs 
 
 ### ilClan 
 
+- Duchy of Andurien 
 - Free Worlds League 
 

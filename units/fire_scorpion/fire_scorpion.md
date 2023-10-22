@@ -23,6 +23,18 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Goliath Scorpion 
+
+### Late Succession Wars - LosTech 
+
+- Clan Goliath Scorpion 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Goliath Scorpion 
+
 ### Clan Invasion 
 
 - Clan Goliath Scorpion 

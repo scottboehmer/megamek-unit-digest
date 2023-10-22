@@ -570,7 +570,13 @@
 
 #### [Savage Coyote](../../../units/savage_coyote.md) 
 
+- [**Savage Coyote Prime**](../../../units/savage_coyote/savage_coyote_prime.md) *Juggernaut (3059)* 
+- [**Savage Coyote A**](../../../units/savage_coyote/savage_coyote_a.md) *Juggernaut (3059)* 
+- [**Savage Coyote B**](../../../units/savage_coyote/savage_coyote_b.md) *Juggernaut (3059)* 
+- [**Savage Coyote C**](../../../units/savage_coyote/savage_coyote_c.md) *Juggernaut (3064)* 
 - [**Savage Coyote Z**](../../../units/savage_coyote/savage_coyote_z.md) *Juggernaut (3072)* `Active Probe` , `ECM` , `NovaC3` 
+- [**Savage Coyote J**](../../../units/savage_coyote/savage_coyote_j.md) *Brawler (3073)* 
+- [**Savage Coyote W**](../../../units/savage_coyote/savage_coyote_w.md) *Sniper (3073)* `Active Probe` , `TAG` 
 
 #### [Shogun](../../../units/shogun.md) 
 

@@ -40,6 +40,8 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Ice Hellion 
+- Clan Mongoose 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -49,6 +51,7 @@
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
+- Star League-in-Exile 
 - Taurian Concordat 
 
 ### Late Succession Wars - LosTech 
@@ -142,30 +145,35 @@
 ### Early Republic 
 
 - Calderon Protectorate 
+- Duchy of Andurien 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
+- Oriente Protectorate 
 - Pirate 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Calderon Protectorate 
+- Duchy of Andurien 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
+- Oriente Protectorate 
 - Pirate 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Calderon Protectorate 
+- Duchy of Andurien 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
@@ -177,6 +185,7 @@
 ### ilClan 
 
 - Calderon Protectorate 
+- Duchy of Andurien 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 

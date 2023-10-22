@@ -40,6 +40,7 @@
 - [**Locust LCT-3V**](../../../units/locust/locust_lct-3v.md) *Scout (3004)* 
 - [**Locust LCT-3M**](../../../units/locust/locust_lct-3m.md) *Scout (3050)* 
 - [**Locust LCT-5M**](../../../units/locust/locust_lct-5m.md) *Striker (3066)* 
+- [**Locust LCT-6M**](../../../units/locust/locust_lct-6m.md) *Striker (3071)* 
 - [**Locust LCT-5W2**](../../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Support` , `ECM` , `TAG` 
 - [**Locust LCT-7V**](../../../units/locust/locust_lct-7v.md) *Scout (3102)* 
 - [**Locust LCT-7V2**](../../../units/locust/locust_lct-7v2.md) *Sniper (3112)* 
@@ -178,6 +179,7 @@
 #### [Spider](../../../units/spider.md) 
 
 - [**Spider SDR-8M**](../../../units/spider/spider_sdr-8m.md) *Striker (3060)* 
+- [**Spider SDR-8R**](../../../units/spider/spider_sdr-8r.md) *Scout (3084)* 
 - [**Spider SDR-9M**](../../../units/spider/spider_sdr-9m.md) *Scout (3096)* 
 
 #### [UrbanMech](../../../units/urbanmech.md) 
@@ -607,6 +609,7 @@
 
 - [**Rifleman RFL-5M**](../../../units/rifleman/rifleman_rfl-5m.md) *Brawler (3049)* 
 - [**Rifleman RFL-7M**](../../../units/rifleman/rifleman_rfl-7m.md) *Brawler (3066)* `ECM` 
+- [**Rifleman RFL-7X**](../../../units/rifleman/rifleman_rfl-7x.md) *Skirmisher (3081)* 
 - [**Rifleman C 3**](../../../units/rifleman/rifleman_c_3.md) *Sniper (3132)* 
 - [**Rifleman RFL-7N**](../../../units/rifleman/rifleman_rfl-7n.md) *Sniper (3133)* 
 - [**Rifleman RFL-7N2**](../../../units/rifleman/rifleman_rfl-7n2.md) *Sniper (3133)* 

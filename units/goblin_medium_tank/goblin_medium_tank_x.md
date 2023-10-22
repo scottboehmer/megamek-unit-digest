@@ -21,5 +21,7 @@
 
 ## Availability 
 
-Availability Unknown 
+### Jihad (Unique) 
+
+- Federated Suns 
 

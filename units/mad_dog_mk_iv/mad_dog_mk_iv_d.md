@@ -50,6 +50,7 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 - Wolf's Dragoons 
 
 ### ilClan 
@@ -73,6 +74,7 @@
 - Star League (Smoke Jaguar) 
 - Star League (Wolf) 
 - Tamar Pact 
+- Taurian Concordat 
 - Vesper Marches 
 - Wolf Empire 
 - Wolf's Dragoons 

@@ -40,6 +40,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
@@ -54,6 +55,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
@@ -69,6 +71,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
@@ -78,7 +81,9 @@
 ### ilClan 
 
 - Calderon Protectorate 
+- Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Mercenary 
 - Taurian Concordat 
 

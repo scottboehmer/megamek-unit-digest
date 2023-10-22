@@ -16,6 +16,10 @@
 - [**Fire Moth F**](../../../units/fire_moth/fire_moth_f.md) *Striker (3070)* `Active Probe` 
 - [**Fire Moth K**](../../../units/fire_moth/fire_moth_k.md) *Striker (3071)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 

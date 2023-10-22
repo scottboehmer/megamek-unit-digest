@@ -75,6 +75,18 @@
 
 - [**Kage Light Battle Armor (Space)(Sqd4)**](../../../units/kage_light_battle_armor/kage_light_battle_armor_spacesqd4.md) *Scout (3067)* `Stealth` 
 
+#### [Kobold Battle Armor](../../../units/kobold_battle_armor.md) 
+
+- [**Kobold Battle Armor (MicroGL/Flamer)(Sqd4)**](../../../units/kobold_battle_armor/kobold_battle_armor_microgl_flamersqd4.md) *Ambusher (3069)* `Stealth` 
+- [**Kobold Battle Armor (MicroGL/SPL)(Sqd4)**](../../../units/kobold_battle_armor/kobold_battle_armor_microgl_splsqd4.md) *Ambusher (3069)* `Stealth` 
+- [**Kobold Battle Armor (MicroGL/TAG)(Sqd4)**](../../../units/kobold_battle_armor/kobold_battle_armor_microgl_tagsqd4.md) *Ambusher (3069)* `Stealth` , `TAG` 
+- [**Kobold Battle Armor (SL/Flamer)(Sqd4)**](../../../units/kobold_battle_armor/kobold_battle_armor_sl_flamersqd4.md) *Ambusher (3069)* `Stealth` 
+- [**Kobold Battle Armor (SL/TAG)(Sqd4)**](../../../units/kobold_battle_armor/kobold_battle_armor_sl_tagsqd4.md) *Ambusher (3069)* `Stealth` , `TAG` 
+
+#### [Spectre Stealth Battle Armor](../../../units/spectre_stealth_battle_armor.md) 
+
+- [**Spectre Stealth Battle Armor (Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd4.md) *Scout (3097)* `Stealth` 
+
 ### 1 Tons 
 
 #### [Angerona Scout Suit](../../../units/angerona_scout_suit.md) 
@@ -174,6 +186,15 @@
 - [**Taranis Battle Armor (Sqd4)**](../../../units/taranis_battle_armor/taranis_battle_armor_sqd4.md) *Ambusher (3123)* `Stealth` 
 
 ### 2 Tons 
+
+#### [Grenadier Battle Armor](../../../units/grenadier_battle_armor.md) 
+
+- [**Grenadier Battle Armor (Flamer)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_flamersqd4.md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor (LRR)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_lrrsqd4.md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor (MagShot)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_magshotsqd4.md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor (SRM/SL)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_srm_slsqd4.md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor (TAG)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_tagsqd4.md) *Ambusher (3065)* `Stealth` , `TAG` 
+- [**Grenadier Battle Armor (Heavy Flamer)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_heavy_flamersqd4.md) *Ambusher (3097)* `Stealth` 
 
 #### [Hauberk Battle Armor](../../../units/hauberk_battle_armor.md) 
 

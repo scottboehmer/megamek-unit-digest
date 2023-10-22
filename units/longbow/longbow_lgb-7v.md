@@ -85,6 +85,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -101,6 +102,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
@@ -117,6 +119,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
@@ -133,6 +136,7 @@
 - Calderon Protectorate 
 - Duchy of Andurien 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Magistracy of Canopus 

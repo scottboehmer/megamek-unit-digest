@@ -20,6 +20,7 @@
 - [**Sabre SB-27**](../../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
 - [**Sabre SB-27b**](../../../units/sabre/sabre_sb-27b.md) *Interceptor (2722)* 
 - [**Sabre SB-28**](../../../units/sabre/sabre_sb-28.md) *Interceptor (2753)* 
+- [**Sabre SB-29**](../../../units/sabre/sabre_sb-29.md) *Interceptor (3068)* 
 
 #### [Thrush](../../../units/thrush.md) 
 
@@ -60,6 +61,7 @@
 #### [Lightning Aerospace Fighter](../../../units/lightning_aerospace_fighter.md) 
 
 - [**Lightning LTN-G16D**](../../../units/lightning_aerospace_fighter/lightning_ltn-g16d.md) *Dogfighter (3068)* 
+- [**Lightning LTN-G16S**](../../../units/lightning_aerospace_fighter/lightning_ltn-g16s.md) *Dogfighter (3068)* 
 
 ### 55 Tons 
 

@@ -20,6 +20,26 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Steel Viper 
+
+### Late Succession Wars - LosTech 
+
+- Clan Cloud Cobra 
+- Clan Fire Mandrill 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Steel Viper 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Cloud Cobra 
+- Clan Fire Mandrill 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Steel Viper 
+
 ### Clan Invasion 
 
 - Clan Blood Spirit 
@@ -85,6 +105,7 @@
 
 ### ilClan 
 
+- Clan Jade Falcon 
 - Kell Hounds 
 - Scorpion Empire 
 - Star League (Jade Falcon) 

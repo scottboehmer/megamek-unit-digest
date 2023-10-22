@@ -266,6 +266,10 @@
 
 - [**Burke Defense Tank**](../../../units/burke_defense_tank/burke_defense_tank.md) *Sniper (2580)* 
 
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
+
 ### 80 Tons 
 
 #### [Demolisher Heavy Tank](../../../units/demolisher_heavy_tank.md) 

@@ -53,7 +53,6 @@
 - Clan Widowmaker 
 - Clan Wolf 
 - Clan Wolverine 
-- ComStar 
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 

@@ -23,7 +23,7 @@
 
 ## Availability 
 
-### Clan Invasion 
+### Clan Invasion (Unique) 
 
 - Clan Smoke Jaguar 
 

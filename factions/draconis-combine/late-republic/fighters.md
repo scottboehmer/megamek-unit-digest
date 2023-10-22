@@ -20,10 +20,6 @@
 
 ### 40 Tons 
 
-#### [Batu](../../../units/batu.md) 
-
-- [**Batu Prime**](../../../units/batu/batu_prime.md) *Fast Dogfighter (2987)* 
-
 #### [Sai](../../../units/sai.md) 
 
 - [**Sai S-4C**](../../../units/sai/sai_s-4c.md) *Fast Dogfighter (3052)* 

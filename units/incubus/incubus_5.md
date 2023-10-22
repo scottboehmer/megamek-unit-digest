@@ -17,7 +17,22 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Light Machine Gun) 
+  - Modular Weapon (Light Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Light Machine Gun) 
+  - Modular Weapon (Light Machine Gun) 
+  - Jettison-Capable Weapon (ATM 6) 
+  - Modular Weapon (ATM 6) 
 - **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3445) 
 - **Battle Value:** 1364 
 

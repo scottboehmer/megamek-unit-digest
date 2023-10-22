@@ -46,6 +46,7 @@
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Rasalhague Dominion 
 - Regulan Fiefs 
@@ -61,6 +62,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Rasalhague Dominion 
 - Regulan Fiefs 
@@ -77,6 +79,7 @@
 - Federated Suns 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Rasalhague Dominion 
 - Regulan Fiefs 
@@ -91,5 +94,6 @@
 - Duchy of Andurien 
 - Federated Suns 
 - Free Worlds League 
+- Mercenary 
 - Rasalhague Dominion 
 

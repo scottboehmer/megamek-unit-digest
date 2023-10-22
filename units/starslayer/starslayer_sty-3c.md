@@ -75,6 +75,7 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Late Republic 
 
@@ -88,6 +89,7 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Dark Ages 
 
@@ -102,6 +104,7 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### ilClan 
 
@@ -114,4 +117,5 @@
 - Magistracy of Canopus 
 - Mercenary 
 - Tamar Pact 
+- Taurian Concordat 
 

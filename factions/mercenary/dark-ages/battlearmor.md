@@ -37,6 +37,15 @@
 
 ### 0.75 Tons 
 
+#### [Achileus Light Battle Armor](../../../units/achileus_light_battle_armor.md) 
+
+- [**Achileus Light Battle Armor (Flamer)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_flamersqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (Laser)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_laser.md) *Undefined (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (Laser)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_lasersqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (MG)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_mgsqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (TAG)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_tagsqd4.md) *Ambusher (3059)* `Stealth` , `TAG` 
+- [**Achileus Light Battle Armor (David)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_davidsqd4.md) *Ambusher (3064)* `Stealth` 
+
 #### [Gray Death Scout Suit](../../../units/gray_death_scout_suit.md) 
 
 - [**Gray Death Scout Suit (Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_sqd4.md) *Scout (3052)* `Active Probe` 
@@ -94,6 +103,10 @@
 - [**IS Standard Battle Armor (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (SRM)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (LRR)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd4.md) *Ambusher (3061)* 
+- [**IS Standard Battle Armor (Baka) (LRR)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd4.md) *Ambusher (3086)* 
+- [**IS Standard Battle Armor (Baka) (SL)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_baka_slsqd4.md) *Ambusher (3086)* 
+- [**IS Standard Battle Armor (Fa Sure) (David)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_fa_sure_davidsqd4.md) *Ambusher (3140)* 
+- [**IS Standard Battle Armor (Fa Sure) (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_fa_sure_mgsqd4.md) *Ambusher (3140)* 
 - [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Ambusher (3141)* 
 
 #### [Leonidas Battle Armor](../../../units/leonidas_battle_armor.md) 
@@ -162,6 +175,15 @@
 #### [Fusilier Battle Armor](../../../units/fusilier_battle_armor.md) 
 
 - [**Fusilier Battle Armor (Sqd4)**](../../../units/fusilier_battle_armor/fusilier_battle_armor_sqd4.md) *Juggernaut (3121)* `Stealth` 
+
+#### [Grenadier Battle Armor](../../../units/grenadier_battle_armor.md) 
+
+- [**Grenadier Battle Armor (Flamer)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_flamersqd4.md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor (LRR)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_lrrsqd4.md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor (MagShot)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_magshotsqd4.md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor (SRM/SL)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_srm_slsqd4.md) *Ambusher (3065)* `Stealth` 
+- [**Grenadier Battle Armor (TAG)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_tagsqd4.md) *Ambusher (3065)* `Stealth` , `TAG` 
+- [**Grenadier Battle Armor (Heavy Flamer)(Sqd4)**](../../../units/grenadier_battle_armor/grenadier_battle_armor_heavy_flamersqd4.md) *Ambusher (3097)* `Stealth` 
 
 #### [Kopis Assault Battle Armor](../../../units/kopis_assault_battle_armor.md) 
 

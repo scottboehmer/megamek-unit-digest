@@ -38,6 +38,7 @@
 ### ilClan 
 
 - Clan Sea Fox 
+- Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
 

@@ -22,9 +22,9 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Clan Jade Falcon 
 - Clan Nova Cat 
-- Clan Sea Fox 
 - Draconis Combine 
 - Mercenary 
 - Republic of the Sphere 

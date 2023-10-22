@@ -141,6 +141,7 @@
 #### [Ahab](../../../units/ahab.md) 
 
 - [**Ahab AHB-X**](../../../units/ahab/ahab_ahb-x.md) *Undefined (2697)* 
+- [**Ahab AHB-443**](../../../units/ahab/ahab_ahb-443.md) *Undefined (2703)* 
 - [**Ahab AHB-443b**](../../../units/ahab/ahab_ahb-443b.md) *Undefined (2703)* 
 
 #### [Chippewa](../../../units/chippewa.md) 

@@ -560,6 +560,10 @@
 
 - [**Devastator Heavy Tank**](../../../units/devastator_heavy_tank/devastator_heavy_tank.md) *Juggernaut (3003)* 
 
+#### [Fortune Wheeled Assault Vehicle](../../../units/fortune_wheeled_assault_vehicle.md) 
+
+- [**Fortune Wheeled Assault Vehicle**](../../../units/fortune_wheeled_assault_vehicle/fortune_wheeled_assault_vehicle.md) *Juggernaut (3067)* 
+
 #### [Heavy LRM Carrier](../../../units/heavy_lrm_carrier.md) 
 
 - [**Heavy LRM Carrier**](../../../units/heavy_lrm_carrier/heavy_lrm_carrier.md) *Missile Boat (3058)* 

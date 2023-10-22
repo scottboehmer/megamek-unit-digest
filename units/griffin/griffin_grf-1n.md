@@ -44,6 +44,9 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Cloud Cobra 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -53,6 +56,7 @@
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
+- Star League-in-Exile 
 - Taurian Concordat 
 
 ### Late Succession Wars - LosTech 
@@ -183,6 +187,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -198,6 +203,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
 - Taurian Concordat 
 
 ### Dark Ages 
@@ -210,6 +216,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
 - Scorpion Empire 
 - Taurian Concordat 
 
@@ -222,6 +229,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Raven Alliance 
 - Scorpion Empire 
 - Taurian Concordat 
 

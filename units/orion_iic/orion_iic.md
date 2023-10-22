@@ -26,6 +26,18 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Wolf 
+
+### Late Succession Wars - LosTech 
+
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Wolf 
+
 ### Clan Invasion 
 
 - Clan Wolf 
@@ -38,6 +50,7 @@
 
 ### Jihad 
 
+- Clan Burrock 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 

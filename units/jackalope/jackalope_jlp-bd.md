@@ -28,6 +28,7 @@
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Mercenary 
@@ -37,8 +38,10 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Protectorate 
 - Federated Suns 
 - Free Worlds League 
 - Mercenary 
 - Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 

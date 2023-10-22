@@ -504,6 +504,17 @@
 - [**Mad Cat III 5**](../../../units/mad_cat_iii/mad_cat_iii_5.md) *Skirmisher (3097)* 
 - [**Mad Cat III (Dark Age RS)**](../../../units/mad_cat_iii/mad_cat_iii_dark_age_rs.md) *Undefined (3132)* 
 
+#### [Men Shen](../../../units/men_shen.md) 
+
+- [**Men Shen MS1-O**](../../../units/men_shen/men_shen_ms1-o.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OA**](../../../units/men_shen/men_shen_ms1-oa.md) *Striker (3060)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OB**](../../../units/men_shen/men_shen_ms1-ob.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OC**](../../../units/men_shen/men_shen_ms1-oc.md) *Striker (3060)* `Active Probe` , `ECM` 
+- [**Men Shen MS1-OD**](../../../units/men_shen/men_shen_ms1-od.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OE**](../../../units/men_shen/men_shen_ms1-oe.md) *Striker (3070)* `Active Probe` 
+- [**Men Shen MS1-OF**](../../../units/men_shen/men_shen_ms1-of.md) *Striker (3076)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OU**](../../../units/men_shen/men_shen_ms1-ou.md) *Striker (3077)* `Active Probe` , `TAG` 
+
 #### [Scorpion](../../../units/scorpion.md) 
 
 - [**Scorpion SCP-10M**](../../../units/scorpion/scorpion_scp-10m.md) *Sniper (3080)* 

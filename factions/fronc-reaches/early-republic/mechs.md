@@ -216,6 +216,7 @@
 
 #### [Assassin](../../../units/assassin.md) 
 
+- [**Assassin ASN-21**](../../../units/assassin/assassin_asn-21.md) *Scout (2676)* 
 - [**Assassin ASN-23**](../../../units/assassin/assassin_asn-23.md) *Striker (3050)* 
 
 #### [Cicada](../../../units/cicada.md) 
@@ -247,6 +248,7 @@
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
 - [**Vulcan VL-5T**](../../../units/vulcan/vulcan_vl-5t.md) *Striker (2778)* 
+- [**Vulcan VT-5M**](../../../units/vulcan/vulcan_vt-5m.md) *Striker (3050)* 
 
 #### [Whitworth](../../../units/whitworth.md) 
 
@@ -471,6 +473,11 @@
 - [**Rifleman RFL-3N**](../../../units/rifleman/rifleman_rfl-3n.md) *Sniper (2770)* 
 - [**Rifleman RFL-9T**](../../../units/rifleman/rifleman_rfl-9t.md) *Brawler (3071)* `ECM` , `Stealth` 
 
+#### [Ti Ts'ang](../../../units/ti_tsang.md) 
+
+- [**Ti Ts'ang TSG-9H**](../../../units/ti_tsang/ti_tsang_tsg-9h.md) *Skirmisher (3059)* `TAG` 
+- [**Ti Ts'ang TSG-9J**](../../../units/ti_tsang/ti_tsang_tsg-9j.md) *Skirmisher (3060)* 
+
 ### 65 Tons 
 
 #### [Catapult](../../../units/catapult.md) 
@@ -590,6 +597,7 @@
 
 #### [Charger](../../../units/charger.md) 
 
+- [**Charger CGR-1A1**](../../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
 - [**Charger CGR-1L**](../../../units/charger/charger_cgr-1l.md) *Skirmisher (3022)* 
 - [**Charger CGR-1A5**](../../../units/charger/charger_cgr-1a5.md) *Juggernaut (3023)* 
 - [**Charger CGR-1A9**](../../../units/charger/charger_cgr-1a9.md) *Skirmisher (3034)* 
@@ -637,6 +645,7 @@
 - [**Longbow LGB-7Q**](../../../units/longbow/longbow_lgb-7q.md) *Missile Boat (2610)* 
 - [**Longbow LGB-8C**](../../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 - [**Longbow LGB-10C**](../../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
+- [**Longbow LGB-13C**](../../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 
 #### [Stalker](../../../units/stalker.md) 
@@ -650,6 +659,7 @@
 #### [Cyclops](../../../units/cyclops.md) 
 
 - [**Cyclops CP-10-Z**](../../../units/cyclops/cyclops_cp-10-z.md) *Juggernaut (2710)* 
+- [**Cyclops CP-10-Q**](../../../units/cyclops/cyclops_cp-10-q.md) *Missile Boat (2801)* 
 - [**Cyclops CP-11-A**](../../../units/cyclops/cyclops_cp-11-a.md) *Sniper (3045)* 
 - [**Cyclops CP-11-G**](../../../units/cyclops/cyclops_cp-11-g.md) *Sniper (3058)* 
 - [**Cyclops CP-11-H**](../../../units/cyclops/cyclops_cp-11-h.md) *Juggernaut (3064)* 
@@ -657,6 +667,7 @@
 #### [Emperor](../../../units/emperor.md) 
 
 - [**Emperor EMP-1A**](../../../units/emperor/emperor_emp-1a.md) *Juggernaut (2442)* 
+- [**Emperor EMP-6A**](../../../units/emperor/emperor_emp-6a.md) *Juggernaut (2612)* 
 
 #### [Ymir](../../../units/ymir.md) 
 
@@ -688,6 +699,7 @@
 - [**Atlas AS7-RS**](../../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K**](../../../units/atlas/atlas_as7-k.md) *Sniper (3049)* 
 - [**Atlas AS7-S**](../../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
+- [**Atlas AS7-Dr**](../../../units/atlas/atlas_as7-dr.md) *Juggernaut (3070)* `C3 Support` , `ECM` 
 - [**Atlas AS7-K2**](../../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Devastator](../../../units/devastator.md) 
@@ -699,6 +711,10 @@
 - [**Diomede D-M3D-3 ConstructionMech**](../../../units/diomede/diomede_d-m3d-3_constructionmech.md) *Missile Boat (3084)* `IndustrialMech` 
 - [**Diomede D-M3D-4 DemolitionMech**](../../../units/diomede/diomede_d-m3d-4_demolitionmech.md) *Missile Boat (3084)* `IndustrialMech` 
 - [**Diomede D-M3D-M**](../../../units/diomede/diomede_d-m3d-m.md) *Juggernaut (3092)* `IndustrialMech` 
+
+#### [Pillager](../../../units/pillager.md) 
+
+- [**Pillager PLG-3Z**](../../../units/pillager/pillager_plg-3z.md) *Juggernaut (2594)* 
 
 #### [Xanthos](../../../units/xanthos.md) 
 

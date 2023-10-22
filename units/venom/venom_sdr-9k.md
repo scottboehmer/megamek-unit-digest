@@ -31,6 +31,7 @@
 - Free Worlds League 
 - Kell Hounds 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Civil War 
@@ -44,6 +45,7 @@
 - Free Worlds League 
 - Kell Hounds 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Jihad 

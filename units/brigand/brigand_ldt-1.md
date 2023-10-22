@@ -38,22 +38,26 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Taurian Concordat 
 
 ### Late Republic 
 
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Taurian Concordat 
 
 ### Dark Ages 
 
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Taurian Concordat 
 
 ### ilClan 
 
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Taurian Concordat 
 

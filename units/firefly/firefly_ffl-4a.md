@@ -22,6 +22,10 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Star League-in-Exile 
+
 ### Late Succession Wars - LosTech 
 
 - Wolf's Dragoons 

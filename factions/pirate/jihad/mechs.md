@@ -72,6 +72,10 @@
 - [**Commando COM-7S2 (Freyr)**](../../../units/commando/commando_com-7s2_freyr.md) *Striker (3070)* `Unique` 
 - [**Commando COM-2Dr**](../../../units/commando/commando_com-2dr.md) *Striker (3075)* 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -129,6 +133,10 @@
 #### [Jenner](../../../units/jenner.md) 
 
 - [**Jenner JR7-D**](../../../units/jenner/jenner_jr7-d.md) *Striker (2785)* 
+
+#### [Ostscout](../../../units/ostscout.md) 
+
+- [**Ostscout OTT-7J**](../../../units/ostscout/ostscout_ott-7j.md) *Scout (2600)* 
 
 #### [Panther](../../../units/panther.md) 
 
@@ -271,6 +279,10 @@
 - [**Wolverine WVR-6M**](../../../units/wolverine/wolverine_wvr-6m.md) *Skirmisher (2816)* 
 
 ### 60 Tons 
+
+#### [Dragon](../../../units/dragon.md) 
+
+- [**Dragon DRG-1C**](../../../units/dragon/dragon_drg-1c.md) *Skirmisher (2752)* 
 
 #### [Heavy Forester](../../../units/heavy_forester.md) 
 

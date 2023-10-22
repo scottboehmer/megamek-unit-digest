@@ -46,6 +46,7 @@
 - Mercenary 
 - Regulan Fiefs 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Dark Ages 
 
@@ -56,6 +57,7 @@
 - Mercenary 
 - Regulan Fiefs 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### ilClan 
 
@@ -65,4 +67,5 @@
 - Magistracy of Canopus 
 - Mercenary 
 - Tamar Pact 
+- Taurian Concordat 
 

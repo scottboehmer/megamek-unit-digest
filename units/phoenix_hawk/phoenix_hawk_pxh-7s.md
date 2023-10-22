@@ -43,14 +43,12 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Regulan Fiefs 
-- Republic of the Sphere 
 
 ### Late Republic 
 
 - Lyran Commonwealth 
 - Mercenary 
 - Regulan Fiefs 
-- Republic of the Sphere 
 
 ### Dark Ages 
 
@@ -58,7 +56,6 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Regulan Fiefs 
-- Republic of the Sphere 
 
 ### ilClan 
 

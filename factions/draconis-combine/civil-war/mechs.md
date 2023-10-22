@@ -51,6 +51,10 @@
 
 ### 25 Tons 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -66,6 +70,10 @@
 - [**Mist Lynx H**](../../../units/mist_lynx/mist_lynx_h.md) *Striker (3059)* `Active Probe` 
 - [**Mist Lynx P**](../../../units/mist_lynx/mist_lynx_p.md) *Scout (3061)* `Active Probe` 
 - [**Mist Lynx F**](../../../units/mist_lynx/mist_lynx_f.md) *Scout (3063)* `Active Probe` , `ECM` , `TAG` 
+
+#### [Mongoose](../../../units/mongoose.md) 
+
+- [**Mongoose MON-68**](../../../units/mongoose/mongoose_mon-68.md) *Scout (3039)* 
 
 #### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
@@ -387,6 +395,7 @@
 - [**Blackjack BJ2-OB**](../../../units/blackjack_omnimech/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
 - [**Blackjack BJ2-OC**](../../../units/blackjack_omnimech/blackjack_bj2-oc.md) *Brawler (3057)* 
 - [**Blackjack BJ2-OD**](../../../units/blackjack_omnimech/blackjack_bj2-od.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OE**](../../../units/blackjack_omnimech/blackjack_bj2-oe.md) *Sniper (3059)* 
 - [**Blackjack BJ2-OR**](../../../units/blackjack_omnimech/blackjack_bj2-or.md) *Brawler (3059)* 
 - [**Blackjack BJ2-OF**](../../../units/blackjack_omnimech/blackjack_bj2-of.md) *Sniper (3061)* 
 
@@ -551,6 +560,7 @@
 
 #### [Dragon](../../../units/dragon.md) 
 
+- [**Dragon DRG-1C**](../../../units/dragon/dragon_drg-1c.md) *Skirmisher (2752)* 
 - [**Dragon DRG-1N**](../../../units/dragon/dragon_drg-1n.md) *Skirmisher (2754)* 
 - [**Dragon DRG-5N**](../../../units/dragon/dragon_drg-5n.md) *Skirmisher (3047)* 
 - [**Dragon DRG-7N**](../../../units/dragon/dragon_drg-7n.md) *Skirmisher (3063)* 

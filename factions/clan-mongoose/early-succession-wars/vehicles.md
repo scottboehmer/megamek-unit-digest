@@ -2,29 +2,15 @@
 
 ## Combat Vehicles 
 
-### 3 Tons 
-
-#### [Jet Sled](../../../units/jet_sled.md) 
-
-- [**Jet Sled**](../../../units/jet_sled/jet_sled.md) *Undefined (2300)* `Transport:0.5` 
-
 ### 5 Tons 
 
 #### [Gabriel Reconnaissance Hovercraft](../../../units/gabriel_reconnaissance_hovercraft.md) 
 
 - [**Gabriel Reconnaissance Hovercraft**](../../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft.md) *Scout (2712)* 
 
-#### [Jeep](../../../units/jeep.md) 
-
-- [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
-
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
-
-#### [Speeder](../../../units/speeder.md) 
-
-- [**Speeder**](../../../units/speeder/speeder.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -62,6 +48,10 @@
 
 ### 15 Tons 
 
+#### [Beagle Hover Scout](../../../units/beagle_hover_scout.md) 
+
+- [**Beagle Hover Scout**](../../../units/beagle_hover_scout/beagle_hover_scout.md) *Scout (2666)* `Active Probe` 
+
 #### [Command Van](../../../units/command_van.md) 
 
 - [**Command Van**](../../../units/command_van/command_van.md) *Scout (2577)* 
@@ -97,6 +87,10 @@
 
 - [**MASH Truck**](../../../units/mash_truck/mash_truck.md) *Undefined (2671)* 
 
+#### [Rotunda Scout Vehicle](../../../units/rotunda_scout_vehicle.md) 
+
+- [**Rotunda Scout Vehicle RND-J-1-11**](../../../units/rotunda_scout_vehicle/rotunda_scout_vehicle_rnd-j-1-11.md) *Scout (2725)* 
+
 #### [Wheeled Scout](../../../units/wheeled_scout.md) 
 
 - [**Wheeled Scout (Standard)**](../../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
@@ -117,6 +111,10 @@
 - [**Nightshade ECM VTOL (Royal)**](../../../units/nightshade_ecm_vtol/nightshade_ecm_vtol_royal.md) *Scout (2717)* `ECM` 
 
 ### 30 Tons 
+
+#### [Anhur Transport](../../../units/anhur_transport.md) 
+
+- [**Anhur Transport**](../../../units/anhur_transport/anhur_transport.md) *Striker (2840)* `Transport:7.0` 
 
 #### [Cobra Transport VTOL](../../../units/cobra_transport_vtol.md) 
 
@@ -140,6 +138,10 @@
 #### [Lightning Attack Hovercraft](../../../units/lightning_attack_hovercraft.md) 
 
 - [**Lightning Attack Hovercraft (Royal)**](../../../units/lightning_attack_hovercraft/lightning_attack_hovercraft_royal.md) *Striker (2720)* `TAG` 
+
+#### [Svantovit Infantry Fighting Vehicle](../../../units/svantovit_infantry_fighting_vehicle.md) 
+
+- [**Svantovit Infantry Fighting Vehicle (Original)**](../../../units/svantovit_infantry_fighting_vehicle/svantovit_infantry_fighting_vehicle_original.md) *Striker (2843)* `Transport:3.0` 
 
 ### 40 Tons 
 
@@ -166,6 +168,11 @@
 #### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
 
 - [**Chaparral Missile Artillery Tank**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank.md) *Missile Boat (2611)* 
+- [**Chaparral Missile Artillery Tank (SRM)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (2614)* 
+
+#### [Maxim Heavy Hover Transport](../../../units/maxim_heavy_hover_transport.md) 
+
+- [**Maxim Heavy Hover Transport**](../../../units/maxim_heavy_hover_transport/maxim_heavy_hover_transport.md) *Striker (2689)* `Transport:3.0` 
 
 ### 55 Tons 
 
@@ -215,13 +222,22 @@
 
 ### 75 Tons 
 
+#### [Burke Defense Tank](../../../units/burke_defense_tank.md) 
+
+- [**Burke Defense Tank (Royal)**](../../../units/burke_defense_tank/burke_defense_tank_royal.md) *Sniper (2713)* 
+
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
 - [**Mobile Long Tom Artillery LT-MOB-25**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
 
+#### [Padilla Heavy Artillery Tank](../../../units/padilla_heavy_artillery_tank.md) 
+
+- [**Padilla Heavy Artillery Tank**](../../../units/padilla_heavy_artillery_tank/padilla_heavy_artillery_tank.md) *Missile Boat (2620)* `TAG` 
+
 #### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
 
 - [**Von Luckner Heavy Tank (Star League)**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_star_league.md) *Brawler (2683)* 
+- [**Von Luckner Heavy Tank (Royal)**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_royal.md) *Sniper (2761)* 
 
 ### 80 Tons 
 
@@ -235,6 +251,10 @@
 - [**Rhino Fire Support Tank (Royal)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* `ECM` 
 
 ### 95 Tons 
+
+#### [Alacorn Heavy Tank](../../../units/alacorn_heavy_tank.md) 
+
+- [**Alacorn Heavy Tank Mk VI**](../../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) *Sniper (2590)* 
 
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 

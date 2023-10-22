@@ -508,6 +508,7 @@
 #### [Quickdraw](../../../units/quickdraw.md) 
 
 - [**Quickdraw QKD-5Mr**](../../../units/quickdraw/quickdraw_qkd-5mr.md) *Missile Boat (3070)* `ECM` 
+- [**Quickdraw QKD-9G**](../../../units/quickdraw/quickdraw_qkd-9g.md) *Skirmisher (3144)* 
 
 #### [Rifleman](../../../units/rifleman.md) 
 

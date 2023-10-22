@@ -119,6 +119,7 @@
 ### Civil War 
 
 - Capellan Confederation 
+- Circinus Federation 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -127,23 +128,57 @@
 - Free Worlds League 
 - Kell Hounds 
 - Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Outworlds Alliance 
+- Pirate 
 - Second Star League 
 - St. Ives Compact 
+- Taurian Concordat 
 - Wolf's Dragoons 
 - Word of Blake 
 
 ### Jihad 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Circinus Federation 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
+- Filtvelt Coalition 
 - Free Rasalhague Republic 
 - Free Worlds League 
+- Fronc Reaches 
 - Kell Hounds 
 - Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Outworlds Alliance 
+- Pirate 
+- Taurian Concordat 
 - Wolf's Dragoons 
 - Word of Blake 
+
+### Early Republic 
+
+- Magistracy of Canopus 
+- Mercenary 
+
+### Late Republic 
+
+- Magistracy of Canopus 
+- Mercenary 
+
+### Dark Ages 
+
+- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
+
+- Magistracy of Canopus 
+- Mercenary 
 

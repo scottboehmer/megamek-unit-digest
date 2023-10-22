@@ -141,7 +141,7 @@
   - Squad Support ER Medium Laser 
   - Heavy Machine Gun 
 - **Sources:** Rec Guide:ilClan #31 , [Master Unit List](http://masterunitlist.info/Unit/Details/9445) 
-- **Battle Value:** 198 (453 for 5 suits) 
+- **Battle Value:** 198 (532 for 6 suits) 
 - [*More Info*](callisto_battle_armor/callisto_battle_armor_a_hmgsqd6.md) 
 
 ## Callisto Battle Armor B (MRR)(Sqd4) 

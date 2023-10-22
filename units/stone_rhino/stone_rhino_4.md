@@ -29,6 +29,30 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Smoke Jaguar 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Diamond Shark 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Diamond Shark 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Wolf 
+
 ### Clan Invasion 
 
 - Clan Blood Spirit 

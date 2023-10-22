@@ -28,19 +28,24 @@
 
 ### Late Republic 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 
 ### Dark Ages 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 
 ### ilClan 
 
 - Federated Suns 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 - Tamar Pact 

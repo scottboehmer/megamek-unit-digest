@@ -44,6 +44,7 @@
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -59,6 +60,7 @@
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -72,6 +74,7 @@
 - Duchy of Andurien 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Mercenary 
 - Tamar Pact 
 - Vesper Marches 

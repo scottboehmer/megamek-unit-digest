@@ -85,6 +85,10 @@
 
 - [**Koshi (Standard)**](../../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
 
+#### [Mongoose](../../../units/mongoose.md) 
+
+- [**Mongoose MON-76**](../../../units/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM` 
+
 #### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
 - [**Peacekeeper PK-6 SecurityMech**](../../../units/peacekeeper_securitymech/peacekeeper_pk-6_securitymech.md) *Brawler (2522)* `IndustrialMech` 
@@ -563,6 +567,10 @@
 - [**Jinggau JN-G7Lr**](../../../units/jinggau/jinggau_jn-g7lr.md) *Skirmisher (3078)* 
 - [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
 
+#### [Koschei](../../../units/koschei.md) 
+
+- [**Koschei KSC-5MC**](../../../units/koschei/koschei_ksc-5mc.md) *Skirmisher (3068)* 
+
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 
 - [**Rifleman IIC 5**](../../../units/rifleman_iic/rifleman_iic_5.md) *Skirmisher (3069)* 
@@ -572,6 +580,7 @@
 
 - [**Tempest TMP-3M**](../../../units/tempest/tempest_tmp-3m.md) *Brawler (3055)* 
 - [**Tempest TMP-3G**](../../../units/tempest/tempest_tmp-3g.md) *Brawler (3056)* 
+- [**Tempest TMP-3M2 'Storm Tempest'**](../../../units/tempest/tempest_tmp-3m2_storm_tempest.md) *Brawler (3067)* 
 
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
@@ -838,6 +847,7 @@
 #### [Grand Titan](../../../units/grand_titan.md) 
 
 - [**Grand Titan T-IT-N10M**](../../../units/grand_titan/grand_titan_t-it-n10m.md) *Brawler (3054)* 
+- [**Grand Titan T-IT-N11M**](../../../units/grand_titan/grand_titan_t-it-n11m.md) *Brawler (3058)* `ECM` 
 - [**Grand Titan T-IT-N13M**](../../../units/grand_titan/grand_titan_t-it-n13m.md) *Sniper (3091)* 
 
 #### [King Crab](../../../units/king_crab.md) 

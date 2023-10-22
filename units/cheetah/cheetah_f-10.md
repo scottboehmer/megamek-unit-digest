@@ -37,6 +37,10 @@
 ### Early Succession Wars 
 
 - Capellan Confederation 
+- Clan Cloud Cobra 
+- Clan Ghost Bear 
+- Clan Nova Cat 
+- Clan Sea Fox 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -45,6 +49,7 @@
 - Magistracy of Canopus 
 - Mercenary 
 - Outworlds Alliance 
+- Star League-in-Exile 
 
 ### Late Succession Wars - LosTech 
 
@@ -156,22 +161,28 @@
 - Oriente Protectorate 
 - Pirate 
 - Regulan Fiefs 
+- Republic of the Sphere 
 - Rim Commonality 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Duchy of Andurien 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Oriente Protectorate 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
+- Duchy of Andurien 
 - Magistracy of Canopus 
 - Marian Hegemony 
 
 ### ilClan 
 
+- Duchy of Andurien 
 - Magistracy of Canopus 
 - Marian Hegemony 
 

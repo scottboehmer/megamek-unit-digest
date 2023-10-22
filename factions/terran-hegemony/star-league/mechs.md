@@ -330,6 +330,7 @@
 
 #### [Helepolis](../../../units/helepolis.md) 
 
+- [**Helepolis HEP-2X**](../../../units/helepolis/helepolis_hep-2x.md) *Missile Boat (2488)* 
 - [**Helepolis HEP-2H**](../../../units/helepolis/helepolis_hep-2h.md) *Missile Boat (2567)* 
 - [**Helepolis HEP-3H**](../../../units/helepolis/helepolis_hep-3h.md) *Missile Boat (2625)* 
 

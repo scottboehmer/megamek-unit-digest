@@ -79,6 +79,12 @@
 - [**Cavalier Battle Armor (MG)(Sqd4)**](../../../units/cavalier_battle_armor/cavalier_battle_armor_mgsqd4.md) *Ambusher (3058)* 
 - [**Cavalier Battle Armor (SRM)(Sqd4)**](../../../units/cavalier_battle_armor/cavalier_battle_armor_srmsqd4.md) *Ambusher (3058)* 
 
+#### [Cavalier II Battle Armor](../../../units/cavalier_ii_battle_armor.md) 
+
+- [**Cavalier II Battle Armor (MRR)(Sqd4)**](../../../units/cavalier_ii_battle_armor/cavalier_ii_battle_armor_mrrsqd4.md) *Ambusher (3150)* `Stealth` 
+- [**Cavalier II Battle Armor (PPC)(Sqd4)**](../../../units/cavalier_ii_battle_armor/cavalier_ii_battle_armor_ppcsqd4.md) *Ambusher (3150)* `Stealth` 
+- [**Cavalier II Battle Armor (SRM)(Sqd4)**](../../../units/cavalier_ii_battle_armor/cavalier_ii_battle_armor_srmsqd4.md) *Ambusher (3150)* `Stealth` 
+
 #### [Clan Medium Battle Armor](../../../units/clan_medium_battle_armor.md) 
 
 - [**Clan Medium Battle Armor (Rabid)(Sqd4)**](../../../units/clan_medium_battle_armor/clan_medium_battle_armor_rabidsqd4.md) *Scout (3067)* 

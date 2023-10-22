@@ -227,6 +227,10 @@
 
 - [**Spider SDR-8M**](../../../units/spider/spider_sdr-8m.md) *Striker (3060)* 
 
+#### [SuburbanMech](../../../units/suburbanmech.md) 
+
+- [**SuburbanMech UM-R90**](../../../units/suburbanmech/suburbanmech_um-r90.md) *Ambusher (3018)* 
+
 #### [UrbanMech](../../../units/urbanmech.md) 
 
 - [**UrbanMech UM-R69**](../../../units/urbanmech/urbanmech_um-r69.md) *Sniper (3063)* 
@@ -275,6 +279,7 @@
 
 #### [Blade](../../../units/blade.md) 
 
+- [**Blade BLD-XL**](../../../units/blade/blade_bld-xl.md) *Striker (3087)* 
 - [**Blade BLD-XR**](../../../units/blade/blade_bld-xr.md) *Sniper (3125)* 
 
 #### [Cougar](../../../units/cougar.md) 
@@ -444,6 +449,10 @@
 - [**Watchman WTC-4M**](../../../units/watchman/watchman_wtc-4m.md) *Skirmisher (3055)* 
 - [**Watchman WTC-4DM**](../../../units/watchman/watchman_wtc-4dm.md) *Skirmisher (3063)* 
 - [**Watchman WTC-4DM2**](../../../units/watchman/watchman_wtc-4dm2.md) *Undefined (3145)* 
+
+#### [Whitworth](../../../units/whitworth.md) 
+
+- [**Whitworth WTH-3**](../../../units/whitworth/whitworth_wth-3.md) *Missile Boat (3069)* `C3 Support` 
 
 ### 45 Tons 
 
@@ -645,6 +654,7 @@
 #### [Centurion](../../../units/centurion.md) 
 
 - [**Centurion CN10-B**](../../../units/centurion/centurion_cn10-b.md) *Brawler (3057)* 
+- [**Centurion CN10-J**](../../../units/centurion/centurion_cn10-j.md) *Brawler (3057)* 
 - [**Centurion CN10-D**](../../../units/centurion/centurion_cn10-d.md) *Sniper (3121)* 
 
 #### [Dervish](../../../units/dervish.md) 
@@ -822,6 +832,7 @@
 - [**Rifleman RFL-6X**](../../../units/rifleman/rifleman_rfl-6x.md) *Sniper (3063)* 
 - [**Rifleman RFL-8D**](../../../units/rifleman/rifleman_rfl-8d.md) *Skirmisher (3064)* 
 - [**Rifleman RFL-7M**](../../../units/rifleman/rifleman_rfl-7m.md) *Brawler (3066)* `ECM` 
+- [**Rifleman RFL-6D**](../../../units/rifleman/rifleman_rfl-6d.md) *Skirmisher (3069)* `C3 Support` 
 - [**Rifleman RFL-3Cr**](../../../units/rifleman/rifleman_rfl-3cr.md) *Brawler (3071)* 
 - [**Rifleman C 3**](../../../units/rifleman/rifleman_c_3.md) *Sniper (3132)* 
 - [**Rifleman RFL-7N**](../../../units/rifleman/rifleman_rfl-7n.md) *Sniper (3133)* 
@@ -954,6 +965,7 @@
 
 #### [Caesar](../../../units/caesar.md) 
 
+- [**Caesar CES-3S**](../../../units/caesar/caesar_ces-3s.md) *Brawler (3067)* `ECM` 
 - [**Caesar CES-4R**](../../../units/caesar/caesar_ces-4r.md) *Skirmisher (3067)* 
 - [**Caesar CES-5D**](../../../units/caesar/caesar_ces-5d.md) *Undefined (3148)* 
 - [**Caesar CES-5R**](../../../units/caesar/caesar_ces-5r.md) *Brawler (3148)* 
@@ -979,6 +991,10 @@
 - [**Guillotine GLT-5M**](../../../units/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)* 
 - [**Guillotine GLT-8D**](../../../units/guillotine/guillotine_glt-8d.md) *Skirmisher (3062)* 
 - [**Guillotine GLT-7M**](../../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
+
+#### [Hound](../../../units/hound.md) 
+
+- [**Hound HD-2F**](../../../units/hound/hound_hd-2f.md) *Sniper (3098)* 
 
 #### [JagerMech](../../../units/jagermech.md) 
 

@@ -70,6 +70,7 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Draconis Combine 
 - Free Worlds League 
 - Mercenary 
 - Rasalhague Dominion 
@@ -83,6 +84,7 @@
 - Clan Jade Falcon 
 - Clan Protectorate 
 - Clan Sea Fox 
+- Draconis Combine 
 - Free Worlds League 
 - Mercenary 
 - Rasalhague Dominion 

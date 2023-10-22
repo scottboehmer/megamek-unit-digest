@@ -27,6 +27,11 @@
 
 ### Early Succession Wars 
 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Hell's Horses 
+- Clan Mongoose 
+- Clan Steel Viper 
 - Free Worlds League 
 - Star League-in-Exile 
 

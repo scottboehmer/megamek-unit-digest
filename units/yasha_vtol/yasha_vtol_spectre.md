@@ -28,18 +28,25 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Clan Nova Cat 
 - Draconis Combine 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Clan Nova Cat 
 - Draconis Combine 
+- Free Worlds League 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Capellan Confederation 
 - Clan Protectorate 
 - Draconis Combine 
+- Free Worlds League 
 

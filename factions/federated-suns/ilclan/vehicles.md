@@ -204,6 +204,8 @@
 - [**Pandion Combat WiGE**](../../../units/pandion_combat_wige/pandion_combat_wige.md) *Striker (3078)* `Active Probe` 
 - [**Pandion Combat WiGE (C3)**](../../../units/pandion_combat_wige/pandion_combat_wige_c3.md) *Scout (3078)* `Active Probe` , `C3 Support` , `TAG` 
 - [**Pandion Combat WiGE (Infantry)**](../../../units/pandion_combat_wige/pandion_combat_wige_infantry.md) *Scout (3078)* `Active Probe` , `Transport:4.0` 
+- [**Pandion Combat WiGE (3135 Upgrade)**](../../../units/pandion_combat_wige/pandion_combat_wige_3135_upgrade.md) *Striker (3135)* 
+- [**Pandion Combat WiGE (3140 Upgrade)**](../../../units/pandion_combat_wige/pandion_combat_wige_3140_upgrade.md) *Striker (3140)* 
 
 #### [Skulker Wheeled Scout Tank](../../../units/skulker_wheeled_scout_tank.md) 
 
@@ -355,6 +357,10 @@
 #### [Skadi Swift Attack VTOL](../../../units/skadi_swift_attack_vtol.md) 
 
 - [**Skadi Swift Attack VTOL**](../../../units/skadi_swift_attack_vtol/skadi_swift_attack_vtol.md) *Striker (3099)* 
+
+#### [Strix Stealth VTOL](../../../units/strix_stealth_vtol.md) 
+
+- [**Strix Stealth VTOL**](../../../units/strix_stealth_vtol/strix_stealth_vtol.md) *Scout (3117)* `Active Probe` , `ECM` , `Stealth` 
 
 #### [Tribune Mobile Tactical Command HQ](../../../units/tribune_mobile_tactical_command_hq.md) 
 
@@ -513,6 +519,10 @@
 - [**Ranger Armored Fighting Vehicle VV22**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv22.md) *Striker (3082)* 
 - [**Ranger Armored Fighting Vehicle VV1 (Interdictor)**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv1_interdictor.md) *Scout (3087)* `ECM` 
 
+#### [Regulator Hovertank](../../../units/regulator_hovertank.md) 
+
+- [**Regulator Hovertank**](../../../units/regulator_hovertank/regulator_hovertank.md) *Sniper (3057)* 
+
 #### [Sortek Assault Craft](../../../units/sortek_assault_craft.md) 
 
 - [**Sortek Assault Craft**](../../../units/sortek_assault_craft/sortek_assault_craft.md) *Striker (3098)* 
@@ -634,9 +644,9 @@
 
 #### [SM Tank Destroyer](../../../units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-- [**SM1A Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-- [**SM3 Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1.md) *Undefined (3068)* 
+- [**SM Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1a.md) *Undefined (3070)* `Active Probe` 
+- [**SM Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm3.md) *Undefined (3074)* 
 
 #### [Vedette Medium Tank](../../../units/vedette_medium_tank.md) 
 

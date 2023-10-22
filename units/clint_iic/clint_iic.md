@@ -24,6 +24,20 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Snow Raven 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Snow Raven 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Snow Raven 
+
 ### Clan Invasion 
 
 - Clan Blood Spirit 

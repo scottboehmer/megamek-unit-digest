@@ -23,9 +23,9 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Nova Cat 
-- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 

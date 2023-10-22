@@ -25,6 +25,25 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+
+### Late Succession Wars - LosTech 
+
+- Clan Diamond Shark 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Snow Raven 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Diamond Shark 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Snow Raven 
+
 ### Clan Invasion 
 
 - Clan Hell's Horses 

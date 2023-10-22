@@ -32,6 +32,10 @@
 
 - [**Commando COM-2D**](../../../units/commando/commando_com-2d.md) *Striker (2486)* 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Gulon](../../../units/gulon.md) 
 
 - [**Gulon GLN-1A MiningMech**](../../../units/gulon/gulon_gln-1a_miningmech.md) *Ambusher (3000)* `IndustrialMech` 

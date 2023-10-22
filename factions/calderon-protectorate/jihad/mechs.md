@@ -54,6 +54,14 @@
 - [**Commando COM-2D**](../../../units/commando/commando_com-2d.md) *Striker (2486)* 
 - [**Commando COM-2Dr**](../../../units/commando/commando_com-2dr.md) *Striker (3075)* 
 
+#### [Duan Gung](../../../units/duan_gung.md) 
+
+- [**Duan Gung D9-G9**](../../../units/duan_gung/duan_gung_d9-g9.md) *Missile Boat (3058)* 
+
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -114,6 +122,10 @@
 #### [Jenner](../../../units/jenner.md) 
 
 - [**Jenner JR7-D**](../../../units/jenner/jenner_jr7-d.md) *Striker (2785)* 
+
+#### [Ostscout](../../../units/ostscout.md) 
+
+- [**Ostscout OTT-7J**](../../../units/ostscout/ostscout_ott-7j.md) *Scout (2600)* 
 
 #### [Panther](../../../units/panther.md) 
 
@@ -249,6 +261,10 @@
 #### [Heavy Forester](../../../units/heavy_forester.md) 
 
 - [**Heavy Forester HFL-1 LoggerMech**](../../../units/heavy_forester/heavy_forester_hfl-1_loggermech.md) *Undefined (2700)* `IndustrialMech` 
+
+#### [Helios](../../../units/helios.md) 
+
+- [**Helios HEL-3D**](../../../units/helios/helios_hel-3d.md) *Skirmisher (3058)* 
 
 #### [Merlin](../../../units/merlin.md) 
 
@@ -408,6 +424,7 @@
 #### [Cyclops](../../../units/cyclops.md) 
 
 - [**Cyclops CP-10-Z**](../../../units/cyclops/cyclops_cp-10-z.md) *Juggernaut (2710)* 
+- [**Cyclops CP-10-Q**](../../../units/cyclops/cyclops_cp-10-q.md) *Missile Boat (2801)* 
 - [**Cyclops CP-11-A**](../../../units/cyclops/cyclops_cp-11-a.md) *Sniper (3045)* 
 - [**Cyclops CP-11-H**](../../../units/cyclops/cyclops_cp-11-h.md) *Juggernaut (3064)* 
 
@@ -428,4 +445,8 @@
 - [**Atlas AS7-RS**](../../../units/atlas/atlas_as7-rs.md) *Juggernaut (2892)* 
 - [**Atlas AS7-K**](../../../units/atlas/atlas_as7-k.md) *Sniper (3049)* 
 - [**Atlas AS7-S**](../../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
+
+#### [Devastator](../../../units/devastator.md) 
+
+- [**Devastator DVS-1D**](../../../units/devastator/devastator_dvs-1d.md) *Juggernaut (3036)* 
 

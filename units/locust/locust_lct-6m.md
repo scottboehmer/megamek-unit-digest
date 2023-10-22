@@ -35,19 +35,27 @@
 
 ### Early Republic 
 
+- Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
+- Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### ilClan 

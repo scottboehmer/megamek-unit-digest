@@ -37,6 +37,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Mercenary 
 
 ### Dark Ages 
 
@@ -44,6 +45,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Mercenary 
 
 ### ilClan 
 
@@ -51,4 +53,5 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Mercenary 
 

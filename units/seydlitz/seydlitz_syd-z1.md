@@ -78,6 +78,7 @@
 ### Early Republic 
 
 - Calderon Protectorate 
+- Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Lyran Commonwealth 
@@ -91,6 +92,7 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Lyran Commonwealth 

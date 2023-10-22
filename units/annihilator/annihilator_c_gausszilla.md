@@ -21,5 +21,19 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Succession Wars 
+
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Star Adder 
+
+### Late Succession Wars - LosTech 
+
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Star Adder 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Star Adder 
 

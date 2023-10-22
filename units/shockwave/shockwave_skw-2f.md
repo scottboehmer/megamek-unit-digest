@@ -32,6 +32,7 @@
 - Federated Suns 
 - Free Worlds League - Non-Aligned Worlds 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -45,6 +46,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -59,6 +61,7 @@
 - Federated Suns 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -71,4 +74,5 @@
 - Duchy of Andurien 
 - Federated Suns 
 - Free Worlds League 
+- Mercenary 
 

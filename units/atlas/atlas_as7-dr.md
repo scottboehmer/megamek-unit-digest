@@ -35,23 +35,51 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Late Republic 
 
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Dark Ages 
 
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### ilClan 
 
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
+- Taurian Concordat 
 

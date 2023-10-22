@@ -30,6 +30,7 @@
 
 ### Early Republic 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
@@ -41,6 +42,7 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
@@ -52,6 +54,7 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
@@ -64,6 +67,7 @@
 
 ### ilClan 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Free Worlds League 
 

@@ -355,6 +355,10 @@
 
 - [**Skadi Swift Attack VTOL**](../../../units/skadi_swift_attack_vtol/skadi_swift_attack_vtol.md) *Striker (3099)* 
 
+#### [Strix Stealth VTOL](../../../units/strix_stealth_vtol.md) 
+
+- [**Strix Stealth VTOL**](../../../units/strix_stealth_vtol/strix_stealth_vtol.md) *Scout (3117)* `Active Probe` , `ECM` , `Stealth` 
+
 #### [Tribune Mobile Tactical Command HQ](../../../units/tribune_mobile_tactical_command_hq.md) 
 
 - [**Tribune Mobile Tactical Command HQ**](../../../units/tribune_mobile_tactical_command_hq/tribune_mobile_tactical_command_hq.md) *Scout (3091)* `Active Probe` , `ECM` 
@@ -523,6 +527,10 @@
 - [**Ranger Armored Fighting Vehicle VV2**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv2.md) *Striker (3082)* 
 - [**Ranger Armored Fighting Vehicle VV22**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv22.md) *Striker (3082)* 
 - [**Ranger Armored Fighting Vehicle VV1 (Interdictor)**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv1_interdictor.md) *Scout (3087)* `ECM` 
+
+#### [Regulator Hovertank](../../../units/regulator_hovertank.md) 
+
+- [**Regulator Hovertank**](../../../units/regulator_hovertank/regulator_hovertank.md) *Sniper (3057)* 
 
 #### [Sortek Assault Craft](../../../units/sortek_assault_craft.md) 
 

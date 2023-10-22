@@ -54,6 +54,7 @@
 
 ### Early Republic 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
@@ -61,6 +62,7 @@
 
 ### Late Republic 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
@@ -68,6 +70,7 @@
 
 ### Dark Ages 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 

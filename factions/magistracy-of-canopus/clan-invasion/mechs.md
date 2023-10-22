@@ -44,6 +44,10 @@
 - [**Eagle EGL-1M**](../../../units/eagle/eagle_egl-1m.md) *Brawler (3058)* 
 - [**Eagle EGL-2M**](../../../units/eagle/eagle_egl-2m.md) *Brawler (3058)* `TAG` 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 

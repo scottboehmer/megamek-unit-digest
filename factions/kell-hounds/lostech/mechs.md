@@ -35,6 +35,10 @@
 
 - [**Spider SDR-5V**](../../../units/spider/spider_sdr-5v.md) *Scout (2650)* 
 
+#### [UrbanMech](../../../units/urbanmech.md) 
+
+- [**UrbanMech UM-R60**](../../../units/urbanmech/urbanmech_um-r60.md) *Ambusher (2675)* 
+
 #### [Valkyrie](../../../units/valkyrie.md) 
 
 - [**Valkyrie VLK-QA**](../../../units/valkyrie/valkyrie_vlk-qa.md) *Missile Boat (2787)* 
@@ -74,6 +78,10 @@
 - [**Vulcan VL-5T**](../../../units/vulcan/vulcan_vl-5t.md) *Striker (2778)* 
 
 ### 45 Tons 
+
+#### [Blackjack](../../../units/blackjack.md) 
+
+- [**Blackjack BJ-1**](../../../units/blackjack/blackjack_bj-1.md) *Sniper (2757)* 
 
 #### [Phoenix Hawk](../../../units/phoenix_hawk.md) 
 

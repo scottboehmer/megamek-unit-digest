@@ -39,9 +39,11 @@
 ### Dark Ages 
 
 - Free Worlds League 
+- Mercenary 
 - Regulan Fiefs 
 
 ### ilClan 
 
 - Free Worlds League 
+- Mercenary 
 

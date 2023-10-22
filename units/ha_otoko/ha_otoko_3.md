@@ -32,6 +32,7 @@
 - Clan Nova Cat 
 - Draconis Combine 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
@@ -41,6 +42,7 @@
 - Clan Sea Fox 
 - Draconis Combine 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
@@ -50,6 +52,7 @@
 - Clan Sea Fox 
 - Draconis Combine 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
@@ -59,5 +62,6 @@
 - Clan Sea Fox 
 - Draconis Combine 
 - Lyran Commonwealth 
+- Mercenary 
 - Vesper Marches 
 

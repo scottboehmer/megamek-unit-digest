@@ -26,17 +26,53 @@
 ### Clan Invasion 
 
 - Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
 - Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- Second Star League 
+- St. Ives Compact 
+- Wolf's Dragoons 
+- Word of Blake 
 
 ### Civil War 
 
 - Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
 - Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Second Star League 
+- St. Ives Compact 
+- Wolf's Dragoons 
+- Word of Blake 
 
 ### Jihad 
 
 - Capellan Confederation 
+- ComStar 
+- Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
 - Free Worlds League 
+- Kell Hounds 
+- Lyran Alliance 
+- Magistracy of Canopus 
+- Mercenary 
+- Wolf's Dragoons 
+- Word of Blake 
 
 ### Early Republic 
 

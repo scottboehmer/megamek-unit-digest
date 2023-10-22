@@ -230,6 +230,10 @@
 
 - [**Spider SDR-8M**](../../../units/spider/spider_sdr-8m.md) *Striker (3060)* 
 
+#### [SuburbanMech](../../../units/suburbanmech.md) 
+
+- [**SuburbanMech UM-R90**](../../../units/suburbanmech/suburbanmech_um-r90.md) *Ambusher (3018)* 
+
 #### [UrbanMech](../../../units/urbanmech.md) 
 
 - [**UrbanMech UM-R70**](../../../units/urbanmech/urbanmech_um-r70.md) *Ambusher (3066)* 
@@ -277,6 +281,7 @@
 
 #### [Blade](../../../units/blade.md) 
 
+- [**Blade BLD-XL**](../../../units/blade/blade_bld-xl.md) *Striker (3087)* 
 - [**Blade BLD-XR**](../../../units/blade/blade_bld-xr.md) *Sniper (3125)* 
 
 #### [Cougar](../../../units/cougar.md) 
@@ -455,6 +460,11 @@
 - [**Watchman WTC-4M**](../../../units/watchman/watchman_wtc-4m.md) *Skirmisher (3055)* 
 - [**Watchman WTC-4DM**](../../../units/watchman/watchman_wtc-4dm.md) *Skirmisher (3063)* 
 - [**Watchman WTC-4DM2**](../../../units/watchman/watchman_wtc-4dm2.md) *Undefined (3145)* 
+
+#### [Whitworth](../../../units/whitworth.md) 
+
+- [**Whitworth WTH-3**](../../../units/whitworth/whitworth_wth-3.md) *Missile Boat (3069)* `C3 Support` 
+- [**Whitworth WTH-2H**](../../../units/whitworth/whitworth_wth-2h.md) *Brawler (3139)* 
 
 ### 45 Tons 
 
@@ -657,6 +667,7 @@
 #### [Centurion](../../../units/centurion.md) 
 
 - [**Centurion CN10-B**](../../../units/centurion/centurion_cn10-b.md) *Brawler (3057)* 
+- [**Centurion CN10-J**](../../../units/centurion/centurion_cn10-j.md) *Brawler (3057)* 
 - [**Centurion CN10-D**](../../../units/centurion/centurion_cn10-d.md) *Sniper (3121)* 
 
 #### [Dervish](../../../units/dervish.md) 
@@ -789,6 +800,10 @@
 - [**Black Hawk-KU BHKU-OU**](../../../units/black_hawk-ku/black_hawk-ku_bhku-ou.md) *Skirmisher (3077)* 
 - [**Black Hawk-KU BHKU-OG**](../../../units/black_hawk-ku/black_hawk-ku_bhku-og.md) *Skirmisher (3089)* `Active Probe` , `ECM` , `TAG` 
 
+#### [Champion](../../../units/champion.md) 
+
+- [**Champion CHP-3N**](../../../units/champion/champion_chp-3n.md) *Skirmisher (3052)* 
+
 #### [Heavy Forester](../../../units/heavy_forester.md) 
 
 - [**Heavy Forester HFL-1 LoggerMech**](../../../units/heavy_forester/heavy_forester_hfl-1_loggermech.md) *Undefined (2700)* `IndustrialMech` 
@@ -821,6 +836,7 @@
 - [**Ostsol OTL-6D**](../../../units/ostsol/ostsol_otl-6d.md) *Skirmisher (3064)* 
 - [**Ostsol OTL-8D**](../../../units/ostsol/ostsol_otl-8d.md) *Skirmisher (3069)* 
 - [**Ostsol OTL-8E**](../../../units/ostsol/ostsol_otl-8e.md) *Skirmisher (3144)* 
+- [**Ostsol OTL-8F**](../../../units/ostsol/ostsol_otl-8f.md) *Skirmisher (3145)* 
 - [**Ostsol OTL-8E3**](../../../units/ostsol/ostsol_otl-8e3.md) *Skirmisher (3149)* 
 
 #### [Quickdraw](../../../units/quickdraw.md) 
@@ -966,6 +982,7 @@
 
 #### [Caesar](../../../units/caesar.md) 
 
+- [**Caesar CES-3S**](../../../units/caesar/caesar_ces-3s.md) *Brawler (3067)* `ECM` 
 - [**Caesar CES-4R**](../../../units/caesar/caesar_ces-4r.md) *Skirmisher (3067)* 
 - [**Caesar CES-5D**](../../../units/caesar/caesar_ces-5d.md) *Undefined (3148)* 
 - [**Caesar CES-5R**](../../../units/caesar/caesar_ces-5r.md) *Brawler (3148)* 
@@ -991,6 +1008,10 @@
 - [**Guillotine GLT-5M**](../../../units/guillotine/guillotine_glt-5m.md) *Skirmisher (3049)* 
 - [**Guillotine GLT-8D**](../../../units/guillotine/guillotine_glt-8d.md) *Skirmisher (3062)* 
 - [**Guillotine GLT-7M**](../../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
+
+#### [Hound](../../../units/hound.md) 
+
+- [**Hound HD-2F**](../../../units/hound/hound_hd-2f.md) *Sniper (3098)* 
 
 #### [JagerMech](../../../units/jagermech.md) 
 
@@ -1290,6 +1311,19 @@
 
 - [**St. Florian FLN-366 FireMech**](../../../units/st._florian/st._florian_fln-366_firemech.md) *Undefined (3100)* `IndustrialMech` 
 
+#### [Star Adder (Blood Asp)](../../../units/star_adder_blood_asp.md) 
+
+- [**Star Adder (Blood Asp) Prime**](../../../units/star_adder_blood_asp/star_adder_blood_asp_prime.md) *Brawler (3060)* 
+- [**Star Adder (Blood Asp) A**](../../../units/star_adder_blood_asp/star_adder_blood_asp_a.md) *Brawler (3060)* `ECM` 
+- [**Star Adder (Blood Asp) B**](../../../units/star_adder_blood_asp/star_adder_blood_asp_b.md) *Missile Boat (3060)* `ECM` 
+- [**Star Adder (Blood Asp) C**](../../../units/star_adder_blood_asp/star_adder_blood_asp_c.md) *Brawler (3060)* 
+- [**Star Adder (Blood Asp) D**](../../../units/star_adder_blood_asp/star_adder_blood_asp_d.md) *Brawler (3060)* 
+- [**Star Adder (Blood Asp) E**](../../../units/star_adder_blood_asp/star_adder_blood_asp_e.md) *Skirmisher (3063)* 
+- [**Star Adder (Blood Asp) F**](../../../units/star_adder_blood_asp/star_adder_blood_asp_f.md) *Brawler (3071)* 
+- [**Star Adder (Blood Asp) G**](../../../units/star_adder_blood_asp/star_adder_blood_asp_g.md) *Brawler (3074)* 
+- [**Star Adder (Blood Asp) T**](../../../units/star_adder_blood_asp/star_adder_blood_asp_t.md) *Brawler (3142)* 
+- [**Star Adder (Blood Asp) I**](../../../units/star_adder_blood_asp/star_adder_blood_asp_i.md) *Brawler (3148)* 
+
 #### [Sunder](../../../units/sunder.md) 
 
 - [**Sunder SD1-O**](../../../units/sunder/sunder_sd1-o.md) *Brawler (3056)* 
@@ -1412,4 +1446,5 @@
 - [**Ares ARS-V1B Hades**](../../../units/ares/ares_ars-v1b_hades.md) *Juggernaut (3136)* 
 - [**Ares ARS-V1C Aphrodite**](../../../units/ares/ares_ars-v1c_aphrodite.md) *Juggernaut (3136)* `C3 Main` , `ECM` , `TAG` 
 - [**Ares ARS-V1D Hephaestus**](../../../units/ares/ares_ars-v1d_hephaestus.md) *Juggernaut (3136)* `C3 Support` 
+- [**Ares ARS-V1E Apollo**](../../../units/ares/ares_ars-v1e_apollo.md) *Juggernaut (3151)* 
 

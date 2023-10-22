@@ -56,9 +56,11 @@
 ### Dark Ages 
 
 - Clan Jade Falcon 
+- Clan Sea Fox 
 
 ### ilClan 
 
 - Clan Jade Falcon 
+- Clan Sea Fox 
 - Star League (Jade Falcon) 
 

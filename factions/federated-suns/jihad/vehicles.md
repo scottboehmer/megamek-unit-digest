@@ -415,6 +415,7 @@
 - [**Goblin Medium Tank**](../../../units/goblin_medium_tank/goblin_medium_tank.md) *Brawler (2500)* `Transport:1.0` 
 - [**Goblin Medium Tank (LRM)**](../../../units/goblin_medium_tank/goblin_medium_tank_lrm.md) *Missile Boat (2500)* `Transport:1.0` 
 - [**Goblin Medium Tank (SRM)**](../../../units/goblin_medium_tank/goblin_medium_tank_srm.md) *Juggernaut (2500)* `Transport:1.0` 
+- [**Goblin Medium Tank X**](../../../units/goblin_medium_tank/goblin_medium_tank_x.md) *Brawler (3073)* `Transport:8.0` , `Unique` 
 
 #### [Ranger Armored Fighting Vehicle](../../../units/ranger_armored_fighting_vehicle.md) 
 

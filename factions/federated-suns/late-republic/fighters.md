@@ -7,6 +7,7 @@
 #### [Seydlitz](../../../units/seydlitz.md) 
 
 - [**Seydlitz SYD-Z2A**](../../../units/seydlitz/seydlitz_syd-z2a.md) *Interceptor (3050)* 
+- [**Seydlitz SYD-Z1**](../../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
 - [**Seydlitz SYD-Z3A**](../../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
 - [**Seydlitz SYD-Z4**](../../../units/seydlitz/seydlitz_syd-z4.md) *Interceptor (3065)* 
 
@@ -21,6 +22,7 @@
 - [**Sabre SB-27**](../../../units/sabre/sabre_sb-27.md) *Interceptor (2519)* 
 - [**Sabre SB-27b**](../../../units/sabre/sabre_sb-27b.md) *Interceptor (2722)* 
 - [**Sabre SB-28**](../../../units/sabre/sabre_sb-28.md) *Interceptor (2753)* 
+- [**Sabre SB-29**](../../../units/sabre/sabre_sb-29.md) *Interceptor (3068)* 
 
 #### [Thrush](../../../units/thrush.md) 
 
@@ -67,6 +69,7 @@
 
 - [**Lightning LTN-G15**](../../../units/lightning_aerospace_fighter/lightning_ltn-g15.md) *Dogfighter (2511)* 
 - [**Lightning LTN-G16D**](../../../units/lightning_aerospace_fighter/lightning_ltn-g16d.md) *Dogfighter (3068)* 
+- [**Lightning LTN-G16S**](../../../units/lightning_aerospace_fighter/lightning_ltn-g16s.md) *Dogfighter (3068)* 
 
 ### 55 Tons 
 
@@ -75,6 +78,10 @@
 - [**Rondel RDL-01C**](../../../units/rondel/rondel_rdl-01c.md) *Fast Dogfighter (3095)* 
 
 ### 60 Tons 
+
+#### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
+
+- [**Hellcat HCT-213**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213.md) *Dogfighter (2671)* 
 
 #### [Stingray](../../../units/stingray.md) 
 
@@ -113,6 +120,13 @@
 
 - [**Vulcan VLC-8N**](../../../units/vulcan_aerospace_fighter/vulcan_vlc-8n.md) *Undefined (3074)* 
 
+### 90 Tons 
+
+#### [Chippewa](../../../units/chippewa.md) 
+
+- [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Undefined (2735)* 
+- [**Chippewa CHP-W10**](../../../units/chippewa/chippewa_chp-w10.md) *Undefined (2953)* 
+
 ### 95 Tons 
 
 #### [Eisensturm](../../../units/eisensturm.md) 
@@ -123,7 +137,9 @@
 
 #### [Stuka](../../../units/stuka.md) 
 
+- [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Undefined (2571)* 
 - [**Stuka STU-K5b2**](../../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
+- [**Stuka STU-K10**](../../../units/stuka/stuka_stu-k10.md) *Undefined (2711)* 
 - [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Undefined (2751)* 
 - [**Stuka STU-D6**](../../../units/stuka/stuka_stu-d6.md) *Undefined (3051)* 
 - [**Stuka STU-D7**](../../../units/stuka/stuka_stu-d7.md) *Undefined (3070)* 

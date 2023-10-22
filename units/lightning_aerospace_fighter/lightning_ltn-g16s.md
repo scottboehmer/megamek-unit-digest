@@ -30,15 +30,21 @@
 
 ### Late Republic 
 
+- Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### Dark Ages 
 
+- Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### ilClan 
 
+- Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 - Tamar Pact 
 - Vesper Marches 
 

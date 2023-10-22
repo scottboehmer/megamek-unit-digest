@@ -41,12 +41,15 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 

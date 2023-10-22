@@ -53,16 +53,22 @@
 
 ### Early Republic 
 
+- Clan Wolf-in-Exile 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 
 ### Late Republic 
 
+- Clan Wolf-in-Exile 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 
 ### Dark Ages 
 
+- Clan Wolf-in-Exile 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 
 

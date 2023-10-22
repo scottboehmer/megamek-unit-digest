@@ -76,6 +76,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Protectorate 
 - Duchy of Andurien 
 - Free Worlds League 
 - Magistracy of Canopus 

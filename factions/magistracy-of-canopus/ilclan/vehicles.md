@@ -181,6 +181,7 @@
 
 #### [Aeron Strike VTOL](../../../units/aeron_strike_vtol.md) 
 
+- [**Aeron Strike VTOL**](../../../units/aeron_strike_vtol/aeron_strike_vtol.md) *Undefined (3082)* `ECM` 
 - [**Aeron Strike VTOL (BAP)**](../../../units/aeron_strike_vtol/aeron_strike_vtol_bap.md) *Scout (3084)* `Active Probe` , `ECM` 
 
 #### [Blizzard Hover Transport](../../../units/blizzard_hover_transport.md) 
@@ -284,6 +285,10 @@
 - [**Main Gauche Light Support Tank (XL)**](../../../units/main_gauche_light_support_tank/main_gauche_light_support_tank_xl.md) *Sniper (3066)* 
 - [**Main Gauche Light Support Tank (IFV)**](../../../units/main_gauche_light_support_tank/main_gauche_light_support_tank_ifv.md) *Striker (3081)* `Transport:4.0` 
 
+#### [Yasha VTOL](../../../units/yasha_vtol.md) 
+
+- [**Yasha VTOL**](../../../units/yasha_vtol/yasha_vtol.md) *Scout (3085)* `C3 Support` 
+
 #### [Yellow Jacket Gunship](../../../units/yellow_jacket_gunship.md) 
 
 - [**Yellow Jacket Gunship**](../../../units/yellow_jacket_gunship/yellow_jacket_gunship.md) *Sniper (3058)* 
@@ -322,6 +327,7 @@
 #### [Pegasus Scout Hover Tank](../../../units/pegasus_scout_hover_tank.md) 
 
 - [**Pegasus Scout Hover Tank**](../../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank.md) *Striker (2791)* 
+- [**Pegasus Scout Hover Tank (3058 Upgrade)**](../../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_3058_upgrade.md) *Striker (3058)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Plainsman Medium Hovertank](../../../units/plainsman_medium_hovertank.md) 
 
@@ -457,6 +463,10 @@
 #### [Partisan AA Vehicle](../../../units/partisan_aa_vehicle.md) 
 
 - [**Partisan AA Vehicle**](../../../units/partisan_aa_vehicle/partisan_aa_vehicle.md) *Sniper (3110)* 
+
+#### [Regulator II Hovertank](../../../units/regulator_ii_hovertank.md) 
+
+- [**Regulator II Hovertank**](../../../units/regulator_ii_hovertank/regulator_ii_hovertank.md) *Sniper (3076)* 
 
 #### [Sheriff Infantry Support Tank](../../../units/sheriff_infantry_support_tank.md) 
 
@@ -664,6 +674,7 @@
 
 - [**Schrek PPC Carrier**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier.md) *Sniper (2813)* 
 - [**Schrek PPC Carrier (XL)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_xl.md) *Sniper (3058)* 
+- [**Schrek PPC Carrier (Armor)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_armor.md) *Sniper (3072)* 
 
 #### [Sniper Artillery](../../../units/sniper_artillery.md) 
 

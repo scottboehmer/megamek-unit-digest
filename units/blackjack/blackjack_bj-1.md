@@ -44,6 +44,7 @@
 - Draconis Combine 
 - Federated Suns 
 - Free Worlds League 
+- Kell Hounds 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -158,13 +159,16 @@
 
 - Escorpión Imperio 
 - Pirate 
+- Taurian Concordat 
 
 ### Dark Ages 
 
 - Escorpión Imperio 
 - Scorpion Empire 
+- Taurian Concordat 
 
 ### ilClan 
 
 - Scorpion Empire 
+- Taurian Concordat 
 

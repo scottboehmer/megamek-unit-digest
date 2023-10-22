@@ -30,6 +30,7 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Duchy of Tamarind-Abbey 
 - Marik-Stewart Commonwealth 
 - Mercenary 
@@ -38,6 +39,7 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
@@ -47,6 +49,7 @@
 
 ### ilClan 
 
+- Capellan Confederation 
 - Clan Protectorate 
 - Free Worlds League 
 - Mercenary 

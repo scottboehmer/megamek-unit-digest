@@ -54,7 +54,6 @@
 - Clan Widowmaker 
 - Clan Wolf 
 - Clan Wolverine 
-- ComStar 
 - Draconis Combine 
 - Federated Suns 
 - Star League-in-Exile 
@@ -167,6 +166,11 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - ComStar 
+- Mercenary 
 - Society 
 - Word of Blake 
+
+### Early Republic 
+
+- Mercenary 
 

@@ -375,7 +375,7 @@
 - [**Bandit Hovercraft E**](../../../units/bandit_hovercraft/bandit_hovercraft_e.md) *Missile Boat (3008)* `Transport:4.0` 
 - [**Bandit Hovercraft F**](../../../units/bandit_hovercraft/bandit_hovercraft_f.md) *Striker (3008)* `Transport:4.0` 
 - [**Bandit Hovercraft G**](../../../units/bandit_hovercraft/bandit_hovercraft_g.md) *Striker (3008)* `Transport:4.0` 
-- [**Bandit Hovercraft H**](../../../units/bandit_hovercraft/bandit_hovercraft_h.md) *Skirmisher (3058)* `Transport:8.0` 
+- [**Bandit Hovercraft H**](../../../units/bandit_hovercraft/bandit_hovercraft_h.md) *Skirmisher (3058)* `Transport:4.0` 
 - [**Bandit Hovercraft I**](../../../units/bandit_hovercraft/bandit_hovercraft_i.md) *Striker (3070)* `Transport:4.0` 
 
 #### [BattleMech Recovery Vehicle](../../../units/battlemech_recovery_vehicle.md) 
@@ -607,8 +607,13 @@
 - [**Schiltron Mobile Fire-Support Platform E**](../../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_e.md) *Missile Boat (3068)* `C3 Main` , `ECM` , `TAG` 
 - [**Schiltron Mobile Fire-Support Platform F**](../../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_f.md) *Missile Boat (3072)* `C3 Main` , `ECM` , `TAG` 
 
+#### [Schrek AC Carrier](../../../units/schrek_ac_carrier.md) 
+
+- [**Schrek AC Carrier**](../../../units/schrek_ac_carrier/schrek_ac_carrier.md) *Sniper (2916)* 
+
 #### [Schrek PPC Carrier](../../../units/schrek_ppc_carrier.md) 
 
+- [**Schrek PPC Carrier**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier.md) *Sniper (2813)* 
 - [**Schrek PPC Carrier (XL)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_xl.md) *Sniper (3058)* 
 - [**Schrek PPC Carrier (Armor)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_armor.md) *Sniper (3072)* 
 - [**Schrek PPC Carrier (C3M)**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier_c3m.md) *Sniper (3076)* `C3 Main` , `ECM` , `TAG` 
@@ -654,6 +659,7 @@
 
 #### [Ontos Heavy Tank](../../../units/ontos_heavy_tank.md) 
 
+- [**Ontos Heavy Tank**](../../../units/ontos_heavy_tank/ontos_heavy_tank.md) *Juggernaut (2832)* 
 - [**Ontos Heavy Tank (3053 Upgrade)**](../../../units/ontos_heavy_tank/ontos_heavy_tank_3053_upgrade.md) *Juggernaut (3053)* 
 - [**Ontos Heavy Tank (Light Gauss)**](../../../units/ontos_heavy_tank/ontos_heavy_tank_light_gauss.md) *Sniper (3065)* 
 - [**Ontos Heavy Tank (MML)**](../../../units/ontos_heavy_tank/ontos_heavy_tank_mml.md) *Sniper (3074)* 

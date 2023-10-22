@@ -47,6 +47,7 @@
 - Federated Suns 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -61,6 +62,7 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -73,6 +75,7 @@
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
 - Tamar Pact 
 - Vesper Marches 
 

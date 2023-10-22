@@ -47,11 +47,13 @@
 - Clan Jade Falcon 
 - Clan Protectorate 
 - Clan Sea Fox 
+- Free Worlds League 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Star League (Jade Falcon) 
 - Star League (Smoke Jaguar) 
 - Star League (Wolf) 
+- Tamar Pact 
 - Wolf Empire 
 

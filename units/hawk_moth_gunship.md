@@ -44,9 +44,9 @@
 - **Battle Value:** 745 
 - [*More Info*](hawk_moth_gunship/hawk_moth_gunship_thunderbolt.md) 
 
-## Hawk Moth Gunship 'Vedwandlung' 
+## Hawk Moth Gunship 'Verwandlung' 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Inner Sphere (3081) 
 - **Chassis:** 25 tons VTOL 
 - **Movement:** 8 / 12, Fuel Cell 
@@ -57,5 +57,5 @@
   - Machine Gun (ammo: 100) 
 - **Sources:** XTR: Most Wanted , [Master Unit List](http://masterunitlist.info/Unit/Details/5786) 
 - **Battle Value:** 749 
-- [*More Info*](hawk_moth_gunship/hawk_moth_gunship_vedwandlung.md) 
+- [*More Info*](hawk_moth_gunship/hawk_moth_gunship_verwandlung.md) 
 

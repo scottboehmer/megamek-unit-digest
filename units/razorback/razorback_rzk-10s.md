@@ -37,15 +37,21 @@
 
 ### Late Republic 
 
+- Clan Sea Fox 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### Dark Ages 
 
+- Clan Sea Fox 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### ilClan 
 
+- Clan Sea Fox 
 - Lyran Commonwealth 
+- Mercenary 
 - Tamar Pact 
 - Vesper Marches 
 

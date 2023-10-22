@@ -67,6 +67,10 @@
 - [**Eagle EGL-1M**](../../../units/eagle/eagle_egl-1m.md) *Brawler (3058)* 
 - [**Eagle EGL-2M**](../../../units/eagle/eagle_egl-2m.md) *Brawler (3058)* `TAG` 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -124,11 +128,16 @@
 - [**Firestarter FS9-H**](../../../units/firestarter/firestarter_fs9-h.md) *Scout (2703)* 
 - [**Firestarter FS9-S**](../../../units/firestarter/firestarter_fs9-s.md) *Scout (3049)* `Active Probe` 
 - [**Firestarter FS9-S1**](../../../units/firestarter/firestarter_fs9-s1.md) *Scout (3049)* `ECM` 
+- [**Firestarter FS9-C**](../../../units/firestarter/firestarter_fs9-c.md) *Striker (3064)* 
 - [**Firestarter FS9-P**](../../../units/firestarter/firestarter_fs9-p.md) *Striker (3064)* 
 
 #### [Jenner](../../../units/jenner.md) 
 
 - [**Jenner JR7-D**](../../../units/jenner/jenner_jr7-d.md) *Striker (2785)* 
+
+#### [Ostscout](../../../units/ostscout.md) 
+
+- [**Ostscout OTT-7J**](../../../units/ostscout/ostscout_ott-7j.md) *Scout (2600)* 
 
 #### [Panther](../../../units/panther.md) 
 
@@ -465,6 +474,7 @@
 #### [Cyclops](../../../units/cyclops.md) 
 
 - [**Cyclops CP-10-Z**](../../../units/cyclops/cyclops_cp-10-z.md) *Juggernaut (2710)* 
+- [**Cyclops CP-10-Q**](../../../units/cyclops/cyclops_cp-10-q.md) *Missile Boat (2801)* 
 - [**Cyclops CP-11-H**](../../../units/cyclops/cyclops_cp-11-h.md) *Juggernaut (3064)* 
 
 #### [Emperor](../../../units/emperor.md) 

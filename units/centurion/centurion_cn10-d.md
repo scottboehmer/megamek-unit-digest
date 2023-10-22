@@ -45,4 +45,5 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Lyran Commonwealth 
+- Mercenary 
 

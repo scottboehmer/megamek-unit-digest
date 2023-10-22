@@ -35,6 +35,7 @@
 - [**Locust LCT-3V**](../../../units/locust/locust_lct-3v.md) *Scout (3004)* 
 - [**Locust LCT-3M**](../../../units/locust/locust_lct-3m.md) *Scout (3050)* 
 - [**Locust LCT-5M**](../../../units/locust/locust_lct-5m.md) *Striker (3066)* 
+- [**Locust LCT-6M**](../../../units/locust/locust_lct-6m.md) *Striker (3071)* 
 - [**Locust LCT-5W2**](../../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Support` , `ECM` , `TAG` 
 
 #### [Mercury](../../../units/mercury.md) 
@@ -80,6 +81,10 @@
 #### [Locust IIC](../../../units/locust_iic.md) 
 
 - [**Locust IIC 3**](../../../units/locust_iic/locust_iic_3.md) *Striker (2853)* 
+
+#### [Mongoose](../../../units/mongoose.md) 
+
+- [**Mongoose MON-76**](../../../units/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM` 
 
 #### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
@@ -873,6 +878,7 @@
 #### [Grand Titan](../../../units/grand_titan.md) 
 
 - [**Grand Titan T-IT-N10M**](../../../units/grand_titan/grand_titan_t-it-n10m.md) *Brawler (3054)* 
+- [**Grand Titan T-IT-N11M**](../../../units/grand_titan/grand_titan_t-it-n11m.md) *Brawler (3058)* `ECM` 
 - [**Grand Titan T-IT-N13M**](../../../units/grand_titan/grand_titan_t-it-n13m.md) *Sniper (3091)* 
 
 #### [King Crab](../../../units/king_crab.md) 

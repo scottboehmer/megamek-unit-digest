@@ -28,12 +28,14 @@
 - Federated Commonwealth 
 - Federated Suns 
 - Mercenary 
+- St. Ives Compact 
 
 ### Civil War 
 
 - Federated Commonwealth 
 - Federated Suns 
 - Mercenary 
+- St. Ives Compact 
 
 ### Jihad 
 

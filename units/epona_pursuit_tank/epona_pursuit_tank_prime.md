@@ -20,6 +20,26 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Hell's Horses 
+
+### Late Succession Wars - LosTech 
+
+- Clan Cloud Cobra 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Cloud Cobra 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+
 ### Clan Invasion 
 
 - Clan Cloud Cobra 

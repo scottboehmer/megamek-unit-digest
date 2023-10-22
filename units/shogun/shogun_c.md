@@ -26,6 +26,30 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Star Adder 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Star Adder 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Star Adder 
+
 ### Clan Invasion 
 
 - Clan Blood Spirit 

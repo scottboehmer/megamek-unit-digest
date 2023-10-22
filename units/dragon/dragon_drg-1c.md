@@ -44,3 +44,22 @@
 - Draconis Combine 
 - Free Rasalhague Republic 
 
+### Civil War 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Outworlds Alliance 
+- Pirate 
+
+### Jihad 
+
+- Draconis Combine 
+- Free Rasalhague Republic 
+- Outworlds Alliance 
+- Pirate 
+
+### Early Republic 
+
+- Outworlds Alliance 
+- Pirate 
+

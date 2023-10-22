@@ -463,7 +463,7 @@
 - [**Hawk Moth Gunship**](units/hawk_moth_gunship/hawk_moth_gunship.md) *Sniper (3060)* 
 - [**Hawk Moth Gunship (Armor)**](units/hawk_moth_gunship/hawk_moth_gunship_armor.md) *Sniper (3060)* 
 - [**Hawk Moth Gunship (Thunderbolt)**](units/hawk_moth_gunship/hawk_moth_gunship_thunderbolt.md) *Missile Boat (3072)* 
-- [**Hawk Moth Gunship 'Vedwandlung'**](units/hawk_moth_gunship/hawk_moth_gunship_vedwandlung.md) *Striker (3081)* `Unique` 
+- [**Hawk Moth Gunship 'Verwandlung'**](units/hawk_moth_gunship/hawk_moth_gunship_verwandlung.md) *Undefined (3081)* `Unique` 
 
 #### [Hawk Moth II Gunship](units/hawk_moth_ii_gunship.md) 
 
@@ -881,7 +881,7 @@
 
 #### [Sea Hunter Maritime Tank](units/sea_hunter_maritime_tank.md) 
 
-- [**Sea Hunter Maritime Tank**](units/sea_hunter_maritime_tank/sea_hunter_maritime_tank.md) *Missile Boat (3068)* `Unique` 
+- [**Sea Hunter Maritime Tank**](units/sea_hunter_maritime_tank/sea_hunter_maritime_tank.md) *Missile Boat (3068)* 
 
 #### [Skanda Light Tank](units/skanda_light_tank.md) 
 
@@ -1107,7 +1107,7 @@
 - [**R10 Mechanized ICV (A)**](units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 #### [Ranger Armored Fighting Vehicle](units/ranger_armored_fighting_vehicle.md) 
 
@@ -1173,7 +1173,7 @@
 - [**Bandit Hovercraft E**](units/bandit_hovercraft/bandit_hovercraft_e.md) *Missile Boat (3008)* `Transport:4.0` 
 - [**Bandit Hovercraft F**](units/bandit_hovercraft/bandit_hovercraft_f.md) *Striker (3008)* `Transport:4.0` 
 - [**Bandit Hovercraft G**](units/bandit_hovercraft/bandit_hovercraft_g.md) *Striker (3008)* `Transport:4.0` 
-- [**Bandit Hovercraft H**](units/bandit_hovercraft/bandit_hovercraft_h.md) *Skirmisher (3058)* `Transport:8.0` 
+- [**Bandit Hovercraft H**](units/bandit_hovercraft/bandit_hovercraft_h.md) *Skirmisher (3058)* `Transport:4.0` 
 - [**Bandit Hovercraft I**](units/bandit_hovercraft/bandit_hovercraft_i.md) *Striker (3070)* `Transport:4.0` 
 - [**Bandit Hovercraft 'Warthog'**](units/bandit_hovercraft/bandit_hovercraft_warthog.md) *Scout (3077)* `Unique` 
 - [**Bandit Hovercraft Mk 2**](units/bandit_hovercraft/bandit_hovercraft_mk_2.md) *Scout (3084)* 
@@ -1401,9 +1401,9 @@
 
 #### [SM Tank Destroyer](units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-- [**SM1A Tank Destroyer SM1A**](units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-- [**SM3 Tank Destroyer SM3**](units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM Tank Destroyer SM1**](units/sm_tank_destroyer/sm_tank_destroyer_sm1.md) *Undefined (3068)* 
+- [**SM Tank Destroyer SM1A**](units/sm_tank_destroyer/sm_tank_destroyer_sm1a.md) *Undefined (3070)* `Active Probe` 
+- [**SM Tank Destroyer SM3**](units/sm_tank_destroyer/sm_tank_destroyer_sm3.md) *Undefined (3074)* 
 - [**SM Tank Destroyer SM1 'Telos'**](units/sm_tank_destroyer/sm_tank_destroyer_sm1_telos.md) *Undefined (3077)* `ECM` , `Stealth` 
 - [**SM5 Field Commander Prime**](units/sm_tank_destroyer/sm5_field_commander_prime.md) *Striker (3151)* `Unique` 
 

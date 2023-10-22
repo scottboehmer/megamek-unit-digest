@@ -273,7 +273,7 @@
 - [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 ### 50 Tons 
 
@@ -401,6 +401,9 @@
 - [**Fensalir Combat WiGE (HAG)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_hag.md) *Skirmisher (3084)* `Transport:5.0` 
 - [**Fensalir Combat WiGE (Infantry)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_infantry.md) *Skirmisher (3084)* `Transport:16.0` 
 - [**Fensalir Combat WiGE (XXL)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_xxl.md) *Skirmisher (3084)* 
+- [**Fensalir Combat WiGE (3132 Upgrade)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_3132_upgrade.md) *Skirmisher (3132)* `ECM` 
+- [**Fensalir Combat WiGE (3137 Upgrade)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_3137_upgrade.md) *Sniper (3137)* `ECM` 
+- [**Fensalir Combat WiGE (Stealth)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_stealth.md) *Sniper (3141)* `ECM` , `Stealth` 
 
 #### [Gurzil Support Tank](../../../units/gurzil_support_tank.md) 
 

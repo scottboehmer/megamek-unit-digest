@@ -63,6 +63,10 @@
 - [**Achileus Light Battle Armor (TAG)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_tagsqd4.md) *Ambusher (3059)* `Stealth` , `TAG` 
 - [**Achileus Light Battle Armor (David)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_davidsqd4.md) *Ambusher (3064)* `Stealth` 
 
+#### [Spectre Stealth Battle Armor](../../../units/spectre_stealth_battle_armor.md) 
+
+- [**Spectre Stealth Battle Armor (Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd4.md) *Scout (3097)* `Stealth` 
+
 ### 1 Tons 
 
 #### [Amazon Battle Armor](../../../units/amazon_battle_armor.md) 
@@ -77,6 +81,8 @@
 - [**IS Standard Battle Armor (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (SRM)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd4.md) *Ambusher (3052)* 
 - [**IS Standard Battle Armor (LRR)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lrrsqd4.md) *Ambusher (3061)* 
+- [**IS Standard Battle Armor (Fa Sure) (David)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_fa_sure_davidsqd4.md) *Ambusher (3140)* 
+- [**IS Standard Battle Armor (Fa Sure) (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_fa_sure_mgsqd4.md) *Ambusher (3140)* 
 - [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Ambusher (3141)* 
 
 #### [Longinus Battle Armor](../../../units/longinus_battle_armor.md) 

@@ -21,16 +21,23 @@
 ### Early Republic 
 
 - Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Federated Suns 
+- Mercenary 
+- Republic of the Sphere 
 
 ### ilClan 
 
 - Federated Suns 
+- Mercenary 
 

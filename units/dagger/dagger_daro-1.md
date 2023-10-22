@@ -36,13 +36,16 @@
 ### Late Republic 
 
 - Federated Suns 
+- Mercenary 
 
 ### Dark Ages 
 
 - Federated Suns 
+- Mercenary 
 
 ### ilClan 
 
 - Federated Suns 
+- Mercenary 
 - Taurian Concordat 
 

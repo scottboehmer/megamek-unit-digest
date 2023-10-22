@@ -39,7 +39,6 @@
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
 
 ### Late Republic 
@@ -49,7 +48,6 @@
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
 
 ### Dark Ages 
@@ -60,7 +58,6 @@
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
-- Republic of the Sphere 
 - Rim Commonality 
 
 ### ilClan 

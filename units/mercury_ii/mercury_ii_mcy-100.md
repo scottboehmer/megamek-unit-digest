@@ -27,5 +27,8 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Succession Wars 
+
+- Clan Coyote 
+- Clan Wolverine 
 

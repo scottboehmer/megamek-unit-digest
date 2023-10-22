@@ -27,3 +27,11 @@
 
 - Free Worlds League 
 
+### Late Succession Wars - LosTech 
+
+- Free Worlds League 
+
+### Late Succession Wars - Renaissance 
+
+- Free Worlds League 
+

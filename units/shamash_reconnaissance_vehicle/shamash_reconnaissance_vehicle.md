@@ -17,6 +17,28 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Snow Raven 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Star Adder 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Star Adder 
+
 ### Clan Invasion 
 
 - Clan Blood Spirit 

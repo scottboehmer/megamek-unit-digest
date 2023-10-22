@@ -181,6 +181,8 @@
 - [**Pandion Combat WiGE**](../../../units/pandion_combat_wige/pandion_combat_wige.md) *Striker (3078)* `Active Probe` 
 - [**Pandion Combat WiGE (C3)**](../../../units/pandion_combat_wige/pandion_combat_wige_c3.md) *Scout (3078)* `Active Probe` , `C3 Support` , `TAG` 
 - [**Pandion Combat WiGE (Infantry)**](../../../units/pandion_combat_wige/pandion_combat_wige_infantry.md) *Scout (3078)* `Active Probe` , `Transport:4.0` 
+- [**Pandion Combat WiGE (3135 Upgrade)**](../../../units/pandion_combat_wige/pandion_combat_wige_3135_upgrade.md) *Striker (3135)* 
+- [**Pandion Combat WiGE (3140 Upgrade)**](../../../units/pandion_combat_wige/pandion_combat_wige_3140_upgrade.md) *Striker (3140)* 
 
 #### [Skulker Wheeled Scout Tank Mk II](../../../units/skulker_wheeled_scout_tank_mk_ii.md) 
 
@@ -408,6 +410,7 @@
 #### [Pegasus Scout Hover Tank](../../../units/pegasus_scout_hover_tank.md) 
 
 - [**Pegasus Scout Hover Tank**](../../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank.md) *Striker (2791)* 
+- [**Pegasus Scout Hover Tank (3058 Upgrade)**](../../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_3058_upgrade.md) *Striker (3058)* `Active Probe` , `ECM` , `TAG` 
 - [**Pegasus Scout Hover Tank (Upgrade)**](../../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_upgrade.md) *Scout (3091)* `Active Probe` 
 
 #### [Plainsman Medium Hovertank](../../../units/plainsman_medium_hovertank.md) 
@@ -481,11 +484,16 @@
 - [**Hetzer Wheeled Assault Gun (AC10)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_ac10.md) *Ambusher (2893)* 
 - [**Hetzer Wheeled Assault Gun (SRM)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_srm.md) *Ambusher (2957)* 
 - [**Hetzer Wheeled Assault Gun (LRM)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lrm.md) *Missile Boat (3001)* 
+- [**Hetzer Wheeled Assault Gun (LB-X)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_lb-x.md) *Ambusher (3063)* 
 - [**Hetzer Wheeled Assault Gun (Cell)**](../../../units/hetzer_wheeled_assault_gun/hetzer_wheeled_assault_gun_cell.md) *Ambusher (3090)* 
 
 #### [Joust Medium Tank](../../../units/joust_medium_tank.md) 
 
 - [**Joust Medium Tank BE701**](../../../units/joust_medium_tank/joust_medium_tank_be701.md) *Skirmisher (3086)* 
+
+#### [Light SRM Carrier](../../../units/light_srm_carrier.md) 
+
+- [**Light SRM Carrier**](../../../units/light_srm_carrier/light_srm_carrier.md) *Ambusher (3058)* 
 
 #### [Myrmidon Medium Tank](../../../units/myrmidon_medium_tank.md) 
 
@@ -516,6 +524,10 @@
 - [**Cizin Hover Tank**](../../../units/cizin_hover_tank/cizin_hover_tank.md) *Striker (3097)* 
 - [**Cizin Hover Tank (Support)**](../../../units/cizin_hover_tank/cizin_hover_tank_support.md) *Striker (3124)* `ECM` 
 
+#### [Danai Support Vehicle](../../../units/danai_support_vehicle.md) 
+
+- [**Danai Support Vehicle**](../../../units/danai_support_vehicle/danai_support_vehicle.md) *Missile Boat (3073)* 
+
 #### [Goblin Infantry Support Vehicle](../../../units/goblin_infantry_support_vehicle.md) 
 
 - [**Goblin Infantry Support Vehicle**](../../../units/goblin_infantry_support_vehicle/goblin_infantry_support_vehicle.md) *Juggernaut (3053)* `Transport:3.0` 
@@ -530,13 +542,17 @@
 - [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 #### [Ranger Armored Fighting Vehicle](../../../units/ranger_armored_fighting_vehicle.md) 
 
 - [**Ranger Armored Fighting Vehicle VV1**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv1.md) *Scout (3076)* 
 - [**Ranger Armored Fighting Vehicle VV1 (MG)**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv1_mg.md) *Scout (3076)* 
 - [**Ranger Armored Fighting Vehicle VV2**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv2.md) *Striker (3082)* 
+
+#### [Regulator Hovertank](../../../units/regulator_hovertank.md) 
+
+- [**Regulator Hovertank**](../../../units/regulator_hovertank/regulator_hovertank.md) *Sniper (3057)* 
 
 #### [Sortek Assault Craft](../../../units/sortek_assault_craft.md) 
 
@@ -592,6 +608,7 @@
 
 - [**Drillson Heavy Hover Tank**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
+- [**Drillson Heavy Hover Tank (Streak)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_streak.md) *Striker (3053)* 
 - [**Drillson Heavy Hover Tank (MML)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_mml.md) *Striker (3087)* 
 
 #### [Eldingar Hover Sled](../../../units/eldingar_hover_sled.md) 
@@ -658,6 +675,10 @@
 
 - [**Partisan AA Vehicle**](../../../units/partisan_aa_vehicle/partisan_aa_vehicle.md) *Sniper (3110)* 
 
+#### [Regulator II Hovertank](../../../units/regulator_ii_hovertank.md) 
+
+- [**Regulator II Hovertank**](../../../units/regulator_ii_hovertank/regulator_ii_hovertank.md) *Sniper (3076)* 
+
 #### [Schildkröte Line Tank](../../../units/schildkröte_line_tank.md) 
 
 - [**Schildkröte Line Tank**](../../../units/schildkröte_line_tank/schildkröte_line_tank.md) *Undefined (3122)* 
@@ -671,9 +692,9 @@
 
 #### [SM Tank Destroyer](../../../units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-- [**SM1A Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-- [**SM3 Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1.md) *Undefined (3068)* 
+- [**SM Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1a.md) *Undefined (3070)* `Active Probe` 
+- [**SM Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm3.md) *Undefined (3074)* 
 
 #### [Vedette Medium Tank](../../../units/vedette_medium_tank.md) 
 
@@ -762,6 +783,10 @@
 
 - [**Po Heavy Tank**](../../../units/po_heavy_tank/po_heavy_tank.md) *Brawler (3031)* 
 - [**Po Heavy Tank (LB-X)**](../../../units/po_heavy_tank/po_heavy_tank_lb-x.md) *Brawler (3069)* 
+
+#### [Po II Heavy Tank](../../../units/po_ii_heavy_tank.md) 
+
+- [**Po II Heavy Tank (Arrow IV)**](../../../units/po_ii_heavy_tank/po_ii_heavy_tank_arrow_iv.md) *Missile Boat (3085)* 
 
 #### [SRM Carrier](../../../units/srm_carrier.md) 
 
@@ -976,6 +1001,7 @@
 #### [Challenger MBT](../../../units/challenger_mbt.md) 
 
 - [**Challenger MBT X**](../../../units/challenger_mbt/challenger_mbt_x.md) *Juggernaut (3057)* 
+- [**Challenger MBT XII**](../../../units/challenger_mbt/challenger_mbt_xii.md) *Juggernaut (3065)* `C3 Support` , `ECM` 
 
 ### 95 Tons 
 
@@ -1027,6 +1053,7 @@
 #### [Demolisher II Heavy Tank](../../../units/demolisher_ii_heavy_tank.md) 
 
 - [**Demolisher II Heavy Tank**](../../../units/demolisher_ii_heavy_tank/demolisher_ii_heavy_tank.md) *Juggernaut (3059)* 
+- [**Demolisher II Heavy Tank (Thunderbolt)**](../../../units/demolisher_ii_heavy_tank/demolisher_ii_heavy_tank_thunderbolt.md) *Missile Boat (3074)* 
 
 #### [DI Morgan Assault Tank](../../../units/di_morgan_assault_tank.md) 
 

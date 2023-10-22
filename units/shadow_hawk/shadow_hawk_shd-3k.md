@@ -37,16 +37,19 @@
 
 - Draconis Combine 
 - Rasalhague Dominion 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Draconis Combine 
 - Rasalhague Dominion 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Draconis Combine 
 - Rasalhague Dominion 
+- Republic of the Sphere 
 
 ### ilClan 
 

@@ -40,17 +40,20 @@
 
 - Federated Suns 
 - Mercenary 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Federated Suns 
 - Filtvelt Coalition 
 - Mercenary 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Filtvelt Coalition 
 - Mercenary 
+- Republic of the Sphere 
 
 ### ilClan 
 

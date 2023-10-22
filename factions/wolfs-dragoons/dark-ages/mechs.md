@@ -172,6 +172,7 @@
 #### [Blackjack](../../../units/blackjack.md) 
 
 - [**Blackjack BJ-5**](../../../units/blackjack/blackjack_bj-5.md) *Sniper (3107)* 
+- [**Blackjack C**](../../../units/blackjack/blackjack_c.md) *Sniper (3150)* 
 
 #### [Grendel](../../../units/grendel.md) 
 
@@ -515,6 +516,25 @@
 - [**War Dog WR-DG-03FC**](../../../units/war_dog/war_dog_wr-dg-03fc.md) *Brawler (3064)* `C3 Support` 
 
 ### 80 Tons 
+
+#### [Gargoyle](../../../units/gargoyle.md) 
+
+- [**Gargoyle Prime**](../../../units/gargoyle/gargoyle_prime.md) *Skirmisher (2945)* 
+- [**Gargoyle A**](../../../units/gargoyle/gargoyle_a.md) *Skirmisher (2945)* 
+- [**Gargoyle B**](../../../units/gargoyle/gargoyle_b.md) *Sniper (2945)* 
+- [**Gargoyle C**](../../../units/gargoyle/gargoyle_c.md) *Skirmisher (2945)* 
+- [**Gargoyle D**](../../../units/gargoyle/gargoyle_d.md) *Skirmisher (2945)* 
+- [**Gargoyle H**](../../../units/gargoyle/gargoyle_h.md) *Skirmisher (3059)* 
+- [**Gargoyle E**](../../../units/gargoyle/gargoyle_e.md) *Skirmisher (3060)* 
+- [**Gargoyle M**](../../../units/gargoyle/gargoyle_m.md) *Sniper (3068)* 
+- [**Gargoyle G**](../../../units/gargoyle/gargoyle_g.md) *Skirmisher (3069)* 
+- [**Gargoyle P**](../../../units/gargoyle/gargoyle_p.md) *Skirmisher (3093)* 
+- [**Gargoyle I**](../../../units/gargoyle/gargoyle_i.md) *Sniper (3113)* 
+- [**Gargoyle F**](../../../units/gargoyle/gargoyle_f.md) *Brawler (3127)* 
+- [**Gargoyle X**](../../../units/gargoyle/gargoyle_x.md) *Skirmisher (3128)* 
+- [**Gargoyle J**](../../../units/gargoyle/gargoyle_j.md) *Skirmisher (3133)* 
+- [**Gargoyle K**](../../../units/gargoyle/gargoyle_k.md) *Skirmisher (3140)* `Active Probe` 
+- [**Gargoyle T**](../../../units/gargoyle/gargoyle_t.md) *Skirmisher (3142)* 
 
 #### [Phoenix Hawk IIC](../../../units/phoenix_hawk_iic.md) 
 

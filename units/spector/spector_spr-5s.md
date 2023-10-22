@@ -48,6 +48,7 @@
 - Capellan Confederation 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
@@ -55,6 +56,7 @@
 - Capellan Confederation 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
@@ -62,6 +64,7 @@
 - Capellan Confederation 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 - Tamar Pact 
 - Vesper Marches 
 

@@ -52,6 +52,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -62,6 +63,7 @@
 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -73,6 +75,7 @@
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Marian Hegemony 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -82,5 +85,6 @@
 ### ilClan 
 
 - Free Worlds League 
+- Marian Hegemony 
 - Mercenary 
 

@@ -39,6 +39,7 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Star Adder 
+- Clan Steel Viper 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 

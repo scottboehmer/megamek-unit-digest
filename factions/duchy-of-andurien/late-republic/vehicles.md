@@ -268,6 +268,10 @@
 
 - [**Mobile Headquarters**](../../../units/mobile_headquarters/mobile_headquarters.md) *Undefined (2620)* 
 
+#### [Red Kite Attack VTOL](../../../units/red_kite_attack_vtol.md) 
+
+- [**Red Kite Attack VTOL**](../../../units/red_kite_attack_vtol/red_kite_attack_vtol.md) *Striker (3093)* 
+
 #### [Scorpion Light Tank](../../../units/scorpion_light_tank.md) 
 
 - [**Scorpion Light Tank**](../../../units/scorpion_light_tank/scorpion_light_tank.md) *Brawler (2807)* 
@@ -468,7 +472,7 @@
 - [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 #### [Ranger Armored Fighting Vehicle](../../../units/ranger_armored_fighting_vehicle.md) 
 
@@ -560,6 +564,10 @@
 
 - [**Partisan AA Vehicle**](../../../units/partisan_aa_vehicle/partisan_aa_vehicle.md) *Sniper (3110)* 
 
+#### [Regulator II Hovertank](../../../units/regulator_ii_hovertank.md) 
+
+- [**Regulator II Hovertank**](../../../units/regulator_ii_hovertank/regulator_ii_hovertank.md) *Sniper (3076)* 
+
 #### [Sheriff Infantry Support Tank](../../../units/sheriff_infantry_support_tank.md) 
 
 - [**Sheriff Infantry Support Tank**](../../../units/sheriff_infantry_support_tank/sheriff_infantry_support_tank.md) *Brawler (3098)* 
@@ -628,6 +636,7 @@
 #### [Manticore Heavy Tank](../../../units/manticore_heavy_tank.md) 
 
 - [**Manticore Heavy Tank**](../../../units/manticore_heavy_tank/manticore_heavy_tank.md) *Brawler (2575)* 
+- [**Manticore Heavy Tank (3055 Upgrade)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_3055_upgrade.md) *Brawler (3055)* 
 - [**Manticore Heavy Tank (XL)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_xl.md) *Undefined (3117)* 
 
 #### [Marsden MBT](../../../units/marsden_mbt.md) 
@@ -729,6 +738,10 @@
 #### [SM2 Heavy Artillery Vehicle](../../../units/sm2_heavy_artillery_vehicle.md) 
 
 - [**SM2 Heavy Artillery Vehicle**](../../../units/sm2_heavy_artillery_vehicle/sm2_heavy_artillery_vehicle.md) *Missile Boat (3093)* 
+
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
 
 #### [Zhukov Heavy Tank](../../../units/zhukov_heavy_tank.md) 
 

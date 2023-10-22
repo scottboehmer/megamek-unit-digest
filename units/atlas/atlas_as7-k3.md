@@ -42,12 +42,14 @@
 
 ### Dark Ages 
 
+- Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Draconis Combine 
 - Lyran Commonwealth 
 - Mercenary 
 - Vesper Marches 

@@ -34,15 +34,18 @@
 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### ilClan 
 
 - Lyran Commonwealth 
+- Mercenary 
 - Star League (Wolf) 
 - Tamar Pact 
 - Vesper Marches 

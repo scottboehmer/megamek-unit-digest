@@ -60,11 +60,13 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### ilClan 
 
 - Duchy of Andurien 
 - Free Worlds League 
 - Mercenary 
+- Taurian Concordat 
 - Wolf Empire 
 

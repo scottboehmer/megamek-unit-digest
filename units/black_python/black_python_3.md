@@ -32,5 +32,6 @@
 
 ### Jihad 
 
+- Clan Burrock 
 - Clan Steel Viper 
 

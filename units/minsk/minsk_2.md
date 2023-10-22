@@ -32,5 +32,6 @@
 
 ### ilClan 
 
+- Mercenary 
 - Rasalhague Dominion 
 

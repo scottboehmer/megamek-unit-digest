@@ -889,6 +889,7 @@
 
 #### [Banshee](../../../units/banshee.md) 
 
+- [**Banshee BNC-3Q**](../../../units/banshee/banshee_bnc-3q.md) *Juggernaut (2915)* 
 - [**Banshee BNC-8S**](../../../units/banshee/banshee_bnc-8s.md) *Brawler (3070)* `C3 Support` , `ECM` 
 - [**Banshee BNC-9S**](../../../units/banshee/banshee_bnc-9s.md) *Juggernaut (3071)* 
 - [**Banshee BNC-3Mr**](../../../units/banshee/banshee_bnc-3mr.md) *Sniper (3073)* 

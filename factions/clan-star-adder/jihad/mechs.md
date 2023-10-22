@@ -21,6 +21,10 @@
 - [**Howler**](../../../units/howler/howler.md) *Missile Boat (2871)* 
 - [**Howler 4**](../../../units/howler/howler_4.md) *Scout (2877)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 

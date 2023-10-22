@@ -36,23 +36,30 @@
 
 - Federated Suns 
 - Fronc Reaches 
+- Mercenary 
+- Republic of the Sphere 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Federated Suns 
 - Fronc Reaches 
+- Mercenary 
+- Republic of the Sphere 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Federated Suns 
 - Fronc Reaches 
+- Mercenary 
+- Republic of the Sphere 
 - Taurian Concordat 
 
 ### ilClan 
 
 - Federated Suns 
 - Fronc Reaches 
+- Mercenary 
 - Taurian Concordat 
 

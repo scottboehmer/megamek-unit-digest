@@ -160,21 +160,25 @@
 
 ### Early Republic 
 
+- Clan Hell's Horses 
 - Escorpión Imperio 
 - Federated Suns 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Federated Suns 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Federated Suns 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Clan Hell's Horses 
 - Federated Suns 
 

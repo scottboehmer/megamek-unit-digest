@@ -33,13 +33,6 @@
 
 ### 1 Tons 
 
-#### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
-
-- [**IS Standard Battle Armor (Flamer)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_flamersqd4.md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor (Laser)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lasersqd4.md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd4.md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor (SRM)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd4.md) *Ambusher (3052)* 
-
 #### [Longinus Battle Armor](../../../units/longinus_battle_armor.md) 
 
 - [**Longinus Battle Armor (Flamer)(Sqd6)**](../../../units/longinus_battle_armor/longinus_battle_armor_flamersqd6.md) *Ambusher (3061)* 

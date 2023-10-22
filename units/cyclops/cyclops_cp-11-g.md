@@ -67,6 +67,7 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Rasalhague Dominion 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -90,6 +91,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
+- Rasalhague Dominion 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -114,6 +116,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Pirate 
+- Rasalhague Dominion 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -134,6 +137,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Rasalhague Dominion 
 - Tamar Pact 
 - Taurian Concordat 
 - Vesper Marches 

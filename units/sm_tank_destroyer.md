@@ -1,8 +1,8 @@
 # SM Tank Destroyer 
 
-## SM1 Tank Destroyer SM1 
+## SM Tank Destroyer SM1 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3068) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 8 / 12, Fusion 
@@ -15,11 +15,11 @@
   - CASE 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2971) 
 - **Battle Value:** 1585 
-- [*More Info*](sm_tank_destroyer/sm1_tank_destroyer_sm1.md) 
+- [*More Info*](sm_tank_destroyer/sm_tank_destroyer_sm1.md) 
 
-## SM1A Tank Destroyer SM1A 
+## SM Tank Destroyer SM1A 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3070) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 8 / 12, Fusion 
@@ -34,11 +34,11 @@
   - Machine Gun Array 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2972) 
 - **Battle Value:** 1214 
-- [*More Info*](sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) 
+- [*More Info*](sm_tank_destroyer/sm_tank_destroyer_sm1a.md) 
 
-## SM3 Tank Destroyer SM3 
+## SM Tank Destroyer SM3 
 
-- **Role:** Striker 
+- **Role:** Undefined 
 - **Tech Base:** Clan (3074) 
 - **Chassis:** 50 tons Hover 
 - **Movement:** 8 / 12, Fusion 
@@ -52,7 +52,7 @@
   - CASE 
 - **Sources:** TRO: 3075 , [Master Unit List](http://masterunitlist.info/Unit/Details/2973) 
 - **Battle Value:** 1593 
-- [*More Info*](sm_tank_destroyer/sm3_tank_destroyer_sm3.md) 
+- [*More Info*](sm_tank_destroyer/sm_tank_destroyer_sm3.md) 
 
 ## SM Tank Destroyer SM1 'Telos' 
 

@@ -46,9 +46,11 @@
 
 ### Early Republic 
 
+- Lyran Commonwealth 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Lyran Commonwealth 
 - Republic of the Sphere 
 

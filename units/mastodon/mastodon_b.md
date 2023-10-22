@@ -20,7 +20,7 @@
 - **Design Quirks:** 
   - Improved Targeting (Long) 
   - Rugged (×2) 
-  - EM Interference (All Weapons) 
+  - Difficult to Maintain 
 - **Sources:** Rec Guide:ilClan #20 , [Master Unit List](http://masterunitlist.info/Unit/Details/8344) 
 - **Battle Value:** 2793 
 

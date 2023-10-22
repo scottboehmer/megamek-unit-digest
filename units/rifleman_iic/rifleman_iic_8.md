@@ -40,6 +40,8 @@
 
 - Capellan Confederation 
 - Clan Diamond Shark 
+- Clan Jade Falcon 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -57,7 +59,9 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Jade Falcon 
 - Clan Sea Fox 
+- Clan Wolf 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -75,7 +79,12 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
+- Clan Nova Cat 
 - Clan Sea Fox 
+- Clan Wolf 
+- Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -87,6 +96,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -94,7 +104,10 @@
 
 ### ilClan 
 
+- Alyina Mercantile League 
 - Capellan Confederation 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
 - Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 
@@ -104,7 +117,12 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Rasalhague Dominion 
+- Raven Alliance 
+- Star League (Jade Falcon) 
+- Star League (Smoke Jaguar) 
+- Star League (Wolf) 
 - Tamar Pact 
 - Vesper Marches 
+- Wolf Empire 
 - Wolf's Dragoons 
 

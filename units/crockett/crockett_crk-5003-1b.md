@@ -30,8 +30,55 @@
 
 ### Early Succession Wars 
 
+- Clan Blood Spirit 
 - Clan Burrock 
 - Clan Coyote 
-- Clan Nova Cat 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Wolf 
 - Star League-in-Exile 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Wolf 
+
+### Clan Invasion 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Wolf 
+
+### Civil War 
+
+- Clan Blood Spirit 
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Wolf 
+
+### Jihad 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Coyote 
+- Clan Ghost Bear 
+- Clan Hell's Horses 
+- Clan Wolf 
 

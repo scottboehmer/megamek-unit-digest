@@ -31,6 +31,7 @@
 
 ### Jihad 
 
+- Clan Burrock 
 - Clan Cloud Cobra 
 - Clan Coyote 
 

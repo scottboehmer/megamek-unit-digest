@@ -175,6 +175,7 @@
 - Mercenary 
 - Oriente Protectorate 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Late Republic 
 
@@ -186,6 +187,7 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Dark Ages 
 
@@ -195,6 +197,7 @@
 - Fronc Reaches 
 - Marian Hegemony 
 - Mercenary 
+- Taurian Concordat 
 
 ### ilClan 
 
@@ -204,5 +207,6 @@
 - Marian Hegemony 
 - Mercenary 
 - Star League (Wolf) 
+- Taurian Concordat 
 - Wolf Empire 
 

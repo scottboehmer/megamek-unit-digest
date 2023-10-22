@@ -22,12 +22,3 @@
 - [**Tunnel Rat II Mining Exoskeleton (Armored Glove)(Sqd4)**](../../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_armored_glovesqd4.md) *Undefined (3055)* 
 - [**Tunnel Rat II Mining Exoskeleton (Industrial Drill)(Sqd4)**](../../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_industrial_drillsqd4.md) *Undefined (3058)* 
 
-### 1 Tons 
-
-#### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
-
-- [**IS Standard Battle Armor (Flamer)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_flamersqd4.md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor (Laser)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_lasersqd4.md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor (MG)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_mgsqd4.md) *Ambusher (3052)* 
-- [**IS Standard Battle Armor (SRM)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_srmsqd4.md) *Ambusher (3052)* 
-

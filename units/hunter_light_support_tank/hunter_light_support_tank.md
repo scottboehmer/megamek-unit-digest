@@ -58,6 +58,7 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Jade Falcon 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -81,6 +82,7 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Jade Falcon 
 - ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
@@ -104,6 +106,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Jade Falcon 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -126,6 +129,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Clan Jade Falcon 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -197,8 +201,10 @@
 
 ### ilClan 
 
+- Alyina Mercantile League 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Clan Jade Falcon 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 

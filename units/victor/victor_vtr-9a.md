@@ -46,6 +46,7 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 
+- Star League-in-Exile 
 
 ### Late Succession Wars - LosTech 
 
@@ -104,6 +105,7 @@
 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
@@ -112,6 +114,7 @@
 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Marian Hegemony 
 - Mercenary 
 - Pirate 
 - Taurian Concordat 
@@ -120,9 +123,11 @@
 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Marian Hegemony 
 - Pirate 
 
 ### ilClan 
 
+- Marian Hegemony 
 - Pirate 
 

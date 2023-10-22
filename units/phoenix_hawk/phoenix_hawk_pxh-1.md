@@ -44,6 +44,9 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Ghost Bear 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -201,6 +204,7 @@
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Dark Ages 
 

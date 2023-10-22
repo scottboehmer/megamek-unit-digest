@@ -46,8 +46,15 @@
 - Federated Suns 
 - Filtvelt Coalition 
 - Lyran Alliance 
+- Mercenary 
 
 ### Early Republic 
 
+- Filtvelt Coalition 
 - Lyran Commonwealth 
+- Mercenary 
+
+### Late Republic 
+
+- Mercenary 
 

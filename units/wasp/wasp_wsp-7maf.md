@@ -34,6 +34,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 
 ### Late Republic 
 
@@ -41,6 +42,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 
 ### Dark Ages 
 
@@ -48,6 +50,7 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 
 ### ilClan 
 
@@ -55,4 +58,5 @@
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 

@@ -40,6 +40,7 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Star Adder 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

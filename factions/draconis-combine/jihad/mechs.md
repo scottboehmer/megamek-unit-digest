@@ -69,6 +69,10 @@
 - [**CattleMaster CTL-3R 'Herder' IndustrialMech**](../../../units/cattlemaster/cattlemaster_ctl-3r_herder_industrialmech.md) *Undefined (3024)* `IndustrialMech` 
 - [**CattleMaster CTL-3R2 'Hunter' IndustrialMech**](../../../units/cattlemaster/cattlemaster_ctl-3r2_hunter_industrialmech.md) *Ambusher (3024)* `IndustrialMech` 
 
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
+
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
 - [**Harvester Ant KIC-3 AgroMech**](../../../units/harvester_ant/harvester_ant_kic-3_agromech.md) *Ambusher (2650)* `IndustrialMech` 
@@ -92,6 +96,7 @@
 
 #### [Mongoose](../../../units/mongoose.md) 
 
+- [**Mongoose MON-68**](../../../units/mongoose/mongoose_mon-68.md) *Scout (3039)* 
 - [**Mongoose MON-76**](../../../units/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM` 
 - [**Mongoose MON-86**](../../../units/mongoose/mongoose_mon-86.md) *Striker (3078)* `Active Probe` 
 
@@ -496,6 +501,7 @@
 - [**Blackjack BJ2-OB**](../../../units/blackjack_omnimech/blackjack_bj2-ob.md) *Sniper (3057)* `C3 Support` 
 - [**Blackjack BJ2-OC**](../../../units/blackjack_omnimech/blackjack_bj2-oc.md) *Brawler (3057)* 
 - [**Blackjack BJ2-OD**](../../../units/blackjack_omnimech/blackjack_bj2-od.md) *Brawler (3057)* 
+- [**Blackjack BJ2-OE**](../../../units/blackjack_omnimech/blackjack_bj2-oe.md) *Sniper (3059)* 
 - [**Blackjack BJ2-OR**](../../../units/blackjack_omnimech/blackjack_bj2-or.md) *Brawler (3059)* 
 - [**Blackjack BJ2-OF**](../../../units/blackjack_omnimech/blackjack_bj2-of.md) *Sniper (3061)* 
 - [**Blackjack BJ2-OX**](../../../units/blackjack_omnimech/blackjack_bj2-ox.md) *Brawler (3074)* 
@@ -707,6 +713,7 @@
 
 #### [Dragon](../../../units/dragon.md) 
 
+- [**Dragon DRG-1C**](../../../units/dragon/dragon_drg-1c.md) *Skirmisher (2752)* 
 - [**Dragon DRG-1N**](../../../units/dragon/dragon_drg-1n.md) *Skirmisher (2754)* 
 - [**Dragon DRG-5N**](../../../units/dragon/dragon_drg-5n.md) *Skirmisher (3047)* 
 - [**Dragon DRG-7N**](../../../units/dragon/dragon_drg-7n.md) *Skirmisher (3063)* 

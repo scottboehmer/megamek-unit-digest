@@ -1,8 +1,8 @@
-# Gotterdammerung GTD-20C 
+# Götterdämmerung GTD-20C 
 
-[Other Gotterdammerung variants](../gotterdammerung.md) 
+[Other Götterdämmerung variants](../götterdämmerung.md) 
 
-## Gotterdammerung GTD-20C 
+## Götterdämmerung GTD-20C 
 
 - **Role:** Undefined 
 - **Tech Base:** Inner Sphere Mixed (3138) 

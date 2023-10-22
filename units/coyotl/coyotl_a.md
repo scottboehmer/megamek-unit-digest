@@ -76,6 +76,7 @@
 
 - Capellan Confederation 
 - Clan Hell's Horses 
+- Clan Sea Fox 
 - Federated Suns 
 - Lyran Commonwealth 
 - Rasalhague Dominion 
@@ -89,6 +90,7 @@
 - Clan Sea Fox 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 - Rasalhague Dominion 
 - Star League (Smoke Jaguar) 
 - Tamar Pact 

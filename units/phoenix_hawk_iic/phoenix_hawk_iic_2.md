@@ -29,6 +29,28 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Snow Raven 
+- Clan Steel Viper 
+
+### Late Succession Wars - LosTech 
+
+- Clan Fire Mandrill 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Steel Viper 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Nova Cat 
+- Clan Snow Raven 
+- Clan Steel Viper 
+
 ### Clan Invasion 
 
 - Clan Cloud Cobra 

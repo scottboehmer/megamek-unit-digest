@@ -64,6 +64,7 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -72,6 +73,7 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 - Wolf's Dragoons 
 
 ### Dark Ages 
@@ -91,6 +93,7 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -99,6 +102,7 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 - Wolf's Dragoons 
 
 ### ilClan 
@@ -115,6 +119,7 @@
 - Free Worlds League 
 - Kell Hounds 
 - Lyran Commonwealth 
+- Magistracy of Canopus 
 - Mercenary 
 - Rasalhague Dominion 
 - Raven Alliance 
@@ -122,6 +127,7 @@
 - Star League (Smoke Jaguar) 
 - Star League (Wolf) 
 - Tamar Pact 
+- Taurian Concordat 
 - Vesper Marches 
 - Wolf Empire 
 

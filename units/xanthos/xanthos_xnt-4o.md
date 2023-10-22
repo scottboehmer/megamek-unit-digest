@@ -45,13 +45,25 @@
 
 ### Dark Ages 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 
 ### ilClan 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Filtvelt Coalition 
+- Fronc Reaches 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

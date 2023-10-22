@@ -569,6 +569,10 @@
 
 - [**Ha Otoko**](../../../units/ha_otoko/ha_otoko.md) *Missile Boat (3060)* 
 
+#### [Koschei](../../../units/koschei.md) 
+
+- [**Koschei KSC-5MC**](../../../units/koschei/koschei_ksc-5mc.md) *Skirmisher (3068)* 
+
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 
 - [**Rifleman IIC 5**](../../../units/rifleman_iic/rifleman_iic_5.md) *Skirmisher (3069)* 

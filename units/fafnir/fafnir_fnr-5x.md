@@ -42,10 +42,12 @@
 ### Dark Ages 
 
 - Lyran Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Lyran Commonwealth 
+- Mercenary 
 - Vesper Marches 
 

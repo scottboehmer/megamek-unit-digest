@@ -39,6 +39,7 @@
 - Clan Wolf 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### ilClan 

@@ -2,29 +2,15 @@
 
 ## Combat Vehicles 
 
-### 3 Tons 
-
-#### [Jet Sled](../../../units/jet_sled.md) 
-
-- [**Jet Sled**](../../../units/jet_sled/jet_sled.md) *Undefined (2300)* `Transport:0.5` 
-
 ### 5 Tons 
 
 #### [Gabriel Reconnaissance Hovercraft](../../../units/gabriel_reconnaissance_hovercraft.md) 
 
 - [**Gabriel Reconnaissance Hovercraft**](../../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft.md) *Scout (2712)* 
 
-#### [Jeep](../../../units/jeep.md) 
-
-- [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
-
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
-
-#### [Speeder](../../../units/speeder.md) 
-
-- [**Speeder**](../../../units/speeder/speeder.md) *Undefined (2300)* 
 
 ### 8 Tons 
 
@@ -289,6 +275,7 @@
 #### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
 
 - [**Chaparral Missile Artillery Tank**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank.md) *Missile Boat (2611)* 
+- [**Chaparral Missile Artillery Tank (SRM)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (2614)* 
 
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 

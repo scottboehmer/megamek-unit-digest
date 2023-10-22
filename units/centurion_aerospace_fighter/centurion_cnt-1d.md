@@ -40,6 +40,7 @@
 - Mercenary 
 - Outworlds Alliance 
 - Pirate 
+- Star League-in-Exile 
 - Taurian Concordat 
 
 ### Late Succession Wars - LosTech 
@@ -82,9 +83,11 @@
 
 ### Civil War 
 
+- Capellan Confederation 
 - Circinus Federation 
 - Federated Commonwealth 
 - Federated Suns 
+- Free Worlds League 
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
@@ -96,9 +99,11 @@
 ### Jihad 
 
 - Calderon Protectorate 
+- Capellan Confederation 
 - Circinus Federation 
 - Federated Suns 
 - Filtvelt Coalition 
+- Free Worlds League 
 - Fronc Reaches 
 - Lyran Alliance 
 - Magistracy of Canopus 
@@ -119,11 +124,13 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Regulan Fiefs 
 - Taurian Concordat 
 
 ### Late Republic 
 
 - Calderon Protectorate 
+- Capellan Confederation 
 - Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
@@ -138,6 +145,7 @@
 ### Dark Ages 
 
 - Calderon Protectorate 
+- Capellan Confederation 
 - Escorpión Imperio 
 - Filtvelt Coalition 
 - Free Worlds League 

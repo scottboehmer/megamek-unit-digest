@@ -53,6 +53,7 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Clan Diamond Shark 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -67,6 +68,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -80,6 +82,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -94,6 +97,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Duchy of Andurien 
 - Free Worlds League 
 - Fronc Reaches 

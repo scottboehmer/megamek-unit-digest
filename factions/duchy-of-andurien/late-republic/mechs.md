@@ -47,6 +47,7 @@
 #### [Stinger](../../../units/stinger.md) 
 
 - [**Stinger STG-3R**](../../../units/stinger/stinger_stg-3r.md) *Scout (2479)* 
+- [**Stinger STG-3G**](../../../units/stinger/stinger_stg-3g.md) *Scout (2581)* 
 - [**Stinger STG-3Gb**](../../../units/stinger/stinger_stg-3gb.md) *Striker (2720)* 
 - [**Stinger STG-5M**](../../../units/stinger/stinger_stg-5m.md) *Scout (3050)* 
 - [**Stinger STG-6L**](../../../units/stinger/stinger_stg-6l.md) *Scout (3067)* `ECM` , `Stealth` 
@@ -478,6 +479,10 @@
 - [**Cronus CNS-3M**](../../../units/cronus/cronus_cns-3m.md) *Skirmisher (3031)* 
 - [**Cronus CNS-5M**](../../../units/cronus/cronus_cns-5m.md) *Skirmisher (3060)* `C3 Support` 
 
+#### [Eyleuka](../../../units/eyleuka.md) 
+
+- [**Eyleuka EYL-45B**](../../../units/eyleuka/eyleuka_eyl-45b.md) *Striker (3075)* `ECM` , `Stealth` , `TAG` 
+
 #### [Griffin](../../../units/griffin.md) 
 
 - [**Griffin GRF-3M**](../../../units/griffin/griffin_grf-3m.md) *Sniper (3049)* 
@@ -499,6 +504,17 @@
 - [**Mad Cat III 4**](../../../units/mad_cat_iii/mad_cat_iii_4.md) *Skirmisher (3095)* 
 - [**Mad Cat III 5**](../../../units/mad_cat_iii/mad_cat_iii_5.md) *Skirmisher (3097)* 
 - [**Mad Cat III (Dark Age RS)**](../../../units/mad_cat_iii/mad_cat_iii_dark_age_rs.md) *Undefined (3132)* 
+
+#### [Men Shen](../../../units/men_shen.md) 
+
+- [**Men Shen MS1-O**](../../../units/men_shen/men_shen_ms1-o.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OA**](../../../units/men_shen/men_shen_ms1-oa.md) *Striker (3060)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OB**](../../../units/men_shen/men_shen_ms1-ob.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OC**](../../../units/men_shen/men_shen_ms1-oc.md) *Striker (3060)* `Active Probe` , `ECM` 
+- [**Men Shen MS1-OD**](../../../units/men_shen/men_shen_ms1-od.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OE**](../../../units/men_shen/men_shen_ms1-oe.md) *Striker (3070)* `Active Probe` 
+- [**Men Shen MS1-OF**](../../../units/men_shen/men_shen_ms1-of.md) *Striker (3076)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OU**](../../../units/men_shen/men_shen_ms1-ou.md) *Striker (3077)* `Active Probe` , `TAG` 
 
 #### [Scorpion](../../../units/scorpion.md) 
 
@@ -611,6 +627,10 @@
 - [**Jinggau JN-G8Ar**](../../../units/jinggau/jinggau_jn-g8ar.md) *Skirmisher (3078)* `ECM` 
 - [**Jinggau JN-G9CCr**](../../../units/jinggau/jinggau_jn-g9ccr.md) *Skirmisher (3137)* `Active Probe` , `Command Console` , `ECM` , `Stealth` 
 
+#### [Koschei](../../../units/koschei.md) 
+
+- [**Koschei KSC-5MC**](../../../units/koschei/koschei_ksc-5mc.md) *Skirmisher (3068)* 
+
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 
 - [**Rifleman IIC 5**](../../../units/rifleman_iic/rifleman_iic_5.md) *Skirmisher (3069)* 
@@ -620,6 +640,7 @@
 
 - [**Tempest TMP-3M**](../../../units/tempest/tempest_tmp-3m.md) *Brawler (3055)* 
 - [**Tempest TMP-3G**](../../../units/tempest/tempest_tmp-3g.md) *Brawler (3056)* 
+- [**Tempest TMP-3M2 'Storm Tempest'**](../../../units/tempest/tempest_tmp-3m2_storm_tempest.md) *Brawler (3067)* 
 
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
@@ -673,6 +694,10 @@
 - [**Hercules HRC-LS-9000**](../../../units/hercules/hercules_hrc-ls-9000.md) *Skirmisher (3054)* 
 - [**Hercules HRC-LS-9001**](../../../units/hercules/hercules_hrc-ls-9001.md) *Skirmisher (3056)* 
 
+#### [Hound](../../../units/hound.md) 
+
+- [**Hound HD-2F**](../../../units/hound/hound_hd-2f.md) *Sniper (3098)* 
+
 #### [Lumberjack](../../../units/lumberjack.md) 
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
@@ -697,6 +722,7 @@
 - [**Warhammer WHM-7M**](../../../units/warhammer/warhammer_whm-7m.md) *Brawler (3047)* 
 - [**Warhammer WHM-7M-DC**](../../../units/warhammer/warhammer_whm-7m-dc.md) *Brawler (3052)* `Command Console` 
 - [**Warhammer WHM-8D**](../../../units/warhammer/warhammer_whm-8d.md) *Brawler (3066)* `C3 Support` 
+- [**Warhammer WHM-8M**](../../../units/warhammer/warhammer_whm-8m.md) *Sniper (3069)* 
 - [**Warhammer WHM-8K**](../../../units/warhammer/warhammer_whm-8k.md) *Sniper (3073)* `C3 Support` 
 - [**Warhammer WHM-8R**](../../../units/warhammer/warhammer_whm-8r.md) *Brawler (3090)* 
 
@@ -763,6 +789,10 @@
 
 - [**Goliath GOL-3M2**](../../../units/goliath/goliath_gol-3m2.md) *Sniper (3052)* 
 - [**Goliath GOL-6M**](../../../units/goliath/goliath_gol-6m.md) *Sniper (3083)* 
+
+#### [HawkWolf](../../../units/hawkwolf.md) 
+
+- [**HawkWolf HWK-4F**](../../../units/hawkwolf/hawkwolf_hwk-4f.md) *Missile Boat (3100)* 
 
 #### [Phoenix Hawk IIC](../../../units/phoenix_hawk_iic.md) 
 
@@ -881,6 +911,7 @@
 #### [Grand Titan](../../../units/grand_titan.md) 
 
 - [**Grand Titan T-IT-N10M**](../../../units/grand_titan/grand_titan_t-it-n10m.md) *Brawler (3054)* 
+- [**Grand Titan T-IT-N11M**](../../../units/grand_titan/grand_titan_t-it-n11m.md) *Brawler (3058)* `ECM` 
 - [**Grand Titan T-IT-N13M**](../../../units/grand_titan/grand_titan_t-it-n13m.md) *Sniper (3091)* 
 
 #### [King Crab](../../../units/king_crab.md) 

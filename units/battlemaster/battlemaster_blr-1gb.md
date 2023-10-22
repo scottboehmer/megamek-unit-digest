@@ -177,6 +177,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Wolf 
 - Draconis Combine 
 - Federated Suns 
 - Free Worlds League 
@@ -191,4 +192,5 @@
 - Federated Suns 
 - Free Worlds League 
 - Mercenary 
+- Wolf Empire 
 

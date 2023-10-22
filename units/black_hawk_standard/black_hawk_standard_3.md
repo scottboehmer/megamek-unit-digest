@@ -21,9 +21,9 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Nova Cat 
-- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -55,6 +55,7 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 - Wolf's Dragoons 
 
 ### Dark Ages 
@@ -78,6 +79,7 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 - Wolf's Dragoons 
 
 ### ilClan 
@@ -93,5 +95,6 @@
 - Lyran Commonwealth 
 - Mercenary 
 - Tamar Pact 
+- Taurian Concordat 
 - Vesper Marches 
 

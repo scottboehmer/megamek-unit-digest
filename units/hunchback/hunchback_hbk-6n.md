@@ -43,6 +43,7 @@
 
 ### Early Republic 
 
+- Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -57,6 +58,7 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -71,6 +73,7 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
@@ -85,6 +88,8 @@
 
 ### ilClan 
 
+- Capellan Confederation 
+- Clan Protectorate 
 - Duchy of Andurien 
 - Free Worlds League 
 - Marian Hegemony 

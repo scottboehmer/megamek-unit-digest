@@ -109,6 +109,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Republic of the Sphere 
 - Taurian Concordat 
 
 ### Late Republic 
@@ -121,6 +122,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Republic of the Sphere 
 - Taurian Concordat 
 
 ### Dark Ages 
@@ -133,6 +135,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Republic of the Sphere 
 - Scorpion Empire 
 - Taurian Concordat 
 

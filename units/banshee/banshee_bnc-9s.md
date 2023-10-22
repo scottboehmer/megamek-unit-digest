@@ -36,17 +36,20 @@
 ### Early Republic 
 
 - Lyran Commonwealth 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Lyran Commonwealth 
 - Regulan Fiefs 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Regulan Fiefs 
+- Republic of the Sphere 
 
 ### ilClan 
 

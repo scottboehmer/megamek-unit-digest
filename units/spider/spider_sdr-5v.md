@@ -37,6 +37,7 @@
 ### Early Succession Wars 
 
 - Capellan Confederation 
+- Clan Widowmaker 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

@@ -21,8 +21,8 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Clan Nova Cat 
-- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

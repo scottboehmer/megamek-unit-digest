@@ -67,7 +67,8 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-  - Infantry (12.0 tons) 
+  - Infantry (4.0 tons) 
+  - Infantry (8.0 tons) 
 - **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6490) 
 - **Battle Value:** 746 
 - [*More Info*](r10_mechanized_icv/r10_mechanized_icv_prime.md) 

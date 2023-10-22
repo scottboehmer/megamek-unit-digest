@@ -10,6 +10,10 @@
 
 ### 5 Tons 
 
+#### [Gabriel Reconnaissance Hovercraft](../../../units/gabriel_reconnaissance_hovercraft.md) 
+
+- [**Gabriel Reconnaissance Hovercraft**](../../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft.md) *Scout (2712)* 
+
 #### [Jeep](../../../units/jeep.md) 
 
 - [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
@@ -180,6 +184,10 @@
 
 - [**BattleMech Recovery Vehicle**](../../../units/battlemech_recovery_vehicle/battlemech_recovery_vehicle.md) *Undefined (2500)* 
 
+#### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
+
+- [**Chaparral Missile Artillery Tank (SRM)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (2614)* 
+
 #### [Hachiman Fire Support Tank](../../../units/hachiman_fire_support_tank.md) 
 
 - [**Hachiman Fire Support Tank**](../../../units/hachiman_fire_support_tank/hachiman_fire_support_tank.md) *Missile Boat (2842)* 
@@ -240,9 +248,17 @@
 
 ### 75 Tons 
 
+#### [Burke Defense Tank](../../../units/burke_defense_tank.md) 
+
+- [**Burke Defense Tank (Royal)**](../../../units/burke_defense_tank/burke_defense_tank_royal.md) *Sniper (2713)* 
+
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
 - [**Mobile Long Tom Artillery LT-MOB-25**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
+
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank (Royal)**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_royal.md) *Sniper (2761)* 
 
 ### 80 Tons 
 

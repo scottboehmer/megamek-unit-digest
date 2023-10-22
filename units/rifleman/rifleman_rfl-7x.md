@@ -27,22 +27,27 @@
 
 ### Early Republic 
 
+- Duchy of Tamarind-Abbey 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Duchy of Tamarind-Abbey 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Duchy of Tamarind-Abbey 
+- Free Worlds League 
 - Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Free Worlds League 
 - Mercenary 
 

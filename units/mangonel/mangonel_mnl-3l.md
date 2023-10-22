@@ -36,15 +36,18 @@
 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Kell Hounds 
+- Mercenary 
 

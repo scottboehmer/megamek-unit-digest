@@ -28,6 +28,7 @@
 - Federated Suns 
 - Free Rasalhague Republic 
 - Lyran Commonwealth 
+- Mercenary 
 - St. Ives Compact 
 
 ### Clan Invasion 
@@ -111,6 +112,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Jade Falcon 
 - Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 

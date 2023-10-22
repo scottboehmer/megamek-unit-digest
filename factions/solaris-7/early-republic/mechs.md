@@ -45,6 +45,7 @@
 
 - [**Longshot LNG-1B**](../../../units/longshot/longshot_lng-1b.md) *Striker (3054)* 
 - [**Longshot LNG-2**](../../../units/longshot/longshot_lng-2.md) *Striker (3058)* 
+- [**Longshot LNG-2 (Reskov)**](../../../units/longshot/longshot_lng-2_reskov.md) *Striker (3084)* `Unique` 
 
 #### [Rattlesnake](../../../units/rattlesnake.md) 
 

@@ -23,6 +23,18 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Fire Mandrill 
+
+### Late Succession Wars - LosTech 
+
+- Clan Fire Mandrill 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Fire Mandrill 
+
 ### Clan Invasion 
 
 - Clan Fire Mandrill 

@@ -419,7 +419,7 @@
 - [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 #### [Ranger Armored Fighting Vehicle](../../../units/ranger_armored_fighting_vehicle.md) 
 
@@ -565,6 +565,7 @@
 #### [Manticore Heavy Tank](../../../units/manticore_heavy_tank.md) 
 
 - [**Manticore Heavy Tank**](../../../units/manticore_heavy_tank/manticore_heavy_tank.md) *Brawler (2575)* 
+- [**Manticore Heavy Tank (3055 Upgrade)**](../../../units/manticore_heavy_tank/manticore_heavy_tank_3055_upgrade.md) *Brawler (3055)* 
 
 #### [Marsden MBT](../../../units/marsden_mbt.md) 
 
@@ -649,6 +650,10 @@
 #### [Monitor Naval Vessel](../../../units/monitor_naval_vessel.md) 
 
 - [**Monitor Naval Vessel**](../../../units/monitor_naval_vessel/monitor_naval_vessel.md) *Juggernaut (2910)* `Transport:1.5` 
+
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
 
 #### [Zhukov Heavy Tank](../../../units/zhukov_heavy_tank.md) 
 
@@ -771,11 +776,6 @@
 
 - [**Behemoth Heavy Tank**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
-
-#### [Behemoth II Heavy Tank](../../../units/behemoth_ii_heavy_tank.md) 
-
-- [**Behemoth II Heavy Tank**](../../../units/behemoth_ii_heavy_tank/behemoth_ii_heavy_tank.md) *Missile Boat (3102)* 
-- [**Behemoth II Heavy Tank (Support)**](../../../units/behemoth_ii_heavy_tank/behemoth_ii_heavy_tank_support.md) *Sniper (3102)* 
 
 #### [DI Morgan Assault Tank](../../../units/di_morgan_assault_tank.md) 
 

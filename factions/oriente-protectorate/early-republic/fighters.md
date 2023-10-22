@@ -87,6 +87,12 @@
 - [**Shiva SHV-OC**](../../../units/shiva/shiva_shv-oc.md) *Undefined (3060)* 
 - [**Shiva SHV-OD**](../../../units/shiva/shiva_shv-od.md) *Undefined (3073)* `ECM` 
 
+### 90 Tons 
+
+#### [Chippewa](../../../units/chippewa.md) 
+
+- [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Undefined (2584)* 
+
 ### 100 Tons 
 
 #### [Riever](../../../units/riever.md) 

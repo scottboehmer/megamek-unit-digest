@@ -78,6 +78,7 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Sea Fox 
+- Clan Wolf 
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
 - Kell Hounds 

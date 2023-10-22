@@ -233,6 +233,10 @@
 
 - [**Skadi Swift Attack VTOL**](../../../units/skadi_swift_attack_vtol/skadi_swift_attack_vtol.md) *Striker (3099)* 
 
+#### [Strix Stealth VTOL](../../../units/strix_stealth_vtol.md) 
+
+- [**Strix Stealth VTOL**](../../../units/strix_stealth_vtol/strix_stealth_vtol.md) *Scout (3117)* `Active Probe` , `ECM` , `Stealth` 
+
 ### 35 Tons 
 
 #### [Gun Trailer](../../../units/gun_trailer.md) 
@@ -319,7 +323,7 @@
 - [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 #### [Tyr Infantry Support Tank](../../../units/tyr_infantry_support_tank.md) 
 

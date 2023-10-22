@@ -141,6 +141,11 @@
 
 - [**Donar Assault Helicopter**](../../../units/donar_assault_helicopter/donar_assault_helicopter.md) *Striker (3017)* 
 
+#### [Warrior Attack Helicopter](../../../units/warrior_attack_helicopter.md) 
+
+- [**Warrior Attack Helicopter H-7**](../../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7.md) *Scout (2957)* 
+- [**Warrior Attack Helicopter H-7F**](../../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-7f.md) *Undefined (3143)* `TAG` 
+
 ### 25 Tons 
 
 #### [Balac Strike VTOL](../../../units/balac_strike_vtol.md) 
@@ -159,6 +164,14 @@
 
 - [**DI Multipurpose VTOL**](../../../units/di_multipurpose_vtol/di_multipurpose_vtol.md) *Scout (3097)* `Active Probe` , `TAG` , `Transport:4.0` 
 - [**DI Multipurpose VTOL (Gunship)**](../../../units/di_multipurpose_vtol/di_multipurpose_vtol_gunship.md) *Striker (3097)* 
+
+#### [Harasser Missile Platform](../../../units/harasser_missile_platform.md) 
+
+- [**Harasser Missile Platform**](../../../units/harasser_missile_platform/harasser_missile_platform.md) *Striker (2811)* 
+
+#### [J. Edgar Light Hover Tank](../../../units/j._edgar_light_hover_tank.md) 
+
+- [**J. Edgar Light Hover Tank**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank.md) *Scout (2722)* 
 
 ### 30 Tons 
 
@@ -200,6 +213,10 @@
 - [**Gun Trailer (Thumper)**](../../../units/gun_trailer/gun_trailer_thumper.md) *Missile Boat (3096)* 
 - [**Gun Trailer (Sniper Cannon)**](../../../units/gun_trailer/gun_trailer_sniper_cannon.md) *Ambusher (3101)* 
 
+#### [Hunter Light Support Tank](../../../units/hunter_light_support_tank.md) 
+
+- [**Hunter Light Support Tank**](../../../units/hunter_light_support_tank/hunter_light_support_tank.md) *Missile Boat (2937)* 
+
 #### [Indra Infantry Transport](../../../units/indra_infantry_transport.md) 
 
 - [**Indra Infantry Transport**](../../../units/indra_infantry_transport/indra_infantry_transport.md) *Sniper (2842)* `Transport:3.0` 
@@ -216,6 +233,10 @@
 #### [MIT24 MASH Vehicle](../../../units/mit24_mash_vehicle.md) 
 
 - [**MIT24 MASH Vehicle**](../../../units/mit24_mash_vehicle/mit24_mash_vehicle.md) *Undefined (3086)* 
+
+#### [Saladin Assault Hover Tank](../../../units/saladin_assault_hover_tank.md) 
+
+- [**Saladin Assault Hover Tank**](../../../units/saladin_assault_hover_tank/saladin_assault_hover_tank.md) *Striker (2942)* 
 
 #### [Saxon APC](../../../units/saxon_apc.md) 
 
@@ -267,7 +288,7 @@
 - [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 ### 50 Tons 
 
@@ -283,6 +304,7 @@
 
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
+- [**Condor Heavy Hover Tank**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank.md) *Striker (2564)* 
 - [**Condor Heavy Hover Tank C**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_c.md) *Striker (3082)* 
 
 #### [Drillson Heavy Hover Tank](../../../units/drillson_heavy_hover_tank.md) 
@@ -332,6 +354,10 @@
 - [**Thor Artillery Vehicle (Clan)**](../../../units/thor_artillery_vehicle/thor_artillery_vehicle_clan.md) *Missile Boat (2870)* 
 
 ### 60 Tons 
+
+#### [Bulldog Medium Tank](../../../units/bulldog_medium_tank.md) 
+
+- [**Bulldog Medium Tank**](../../../units/bulldog_medium_tank/bulldog_medium_tank.md) *Brawler (2673)* 
 
 #### [Demon Tank](../../../units/demon_tank.md) 
 
@@ -410,6 +436,11 @@
 
 - [**Mobile Long Tom Artillery LT-MOB-25**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
 
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
+- [**Von Luckner Heavy Tank VNL-K85N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k85n.md) *Juggernaut (3135)* 
+
 ### 80 Tons 
 
 #### [Carnivore Assault Tank](../../../units/carnivore_assault_tank.md) 
@@ -429,6 +460,10 @@
 
 - [**Morrigu Fire Support Vehicle**](../../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle.md) *Missile Boat (3064)* `ECM` 
 - [**Morrigu Fire Support Vehicle (Laser)**](../../../units/morrigu_fire_support_vehicle/morrigu_fire_support_vehicle_laser.md) *Sniper (3067)* 
+
+#### [Partisan Heavy Tank](../../../units/partisan_heavy_tank.md) 
+
+- [**Partisan Heavy Tank**](../../../units/partisan_heavy_tank/partisan_heavy_tank.md) *Sniper (2791)* 
 
 ### 85 Tons 
 
@@ -456,6 +491,7 @@
 
 #### [Behemoth Heavy Tank](../../../units/behemoth_heavy_tank.md) 
 
+- [**Behemoth Heavy Tank**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank.md) *Juggernaut (2952)* 
 - [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 
 #### [Mars Assault Vehicle](../../../units/mars_assault_vehicle.md) 

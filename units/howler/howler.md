@@ -23,15 +23,43 @@
 
 ## Availability 
 
-### Clan Invasion 
+### Early Succession Wars 
 
 - Clan Fire Mandrill 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Fire Mandrill 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Fire Mandrill 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Clan Invasion 
+
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
+- Clan Fire Mandrill 
+- Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Snow Raven 
 
 ### Civil War 
 
+- Clan Blood Spirit 
+- Clan Cloud Cobra 
 - Clan Fire Mandrill 
+- Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Snow Raven 
 - Clan Star Adder 
@@ -39,8 +67,11 @@
 
 ### Jihad 
 
+- Clan Blood Spirit 
 - Clan Burrock 
+- Clan Cloud Cobra 
 - Clan Fire Mandrill 
+- Clan Ice Hellion 
 - Clan Jade Falcon 
 - Clan Snow Raven 
 - Clan Star Adder 

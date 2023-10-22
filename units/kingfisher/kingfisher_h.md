@@ -103,6 +103,7 @@
 ### Late Republic 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Raven Alliance 
@@ -111,6 +112,7 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Raven Alliance 
@@ -119,6 +121,7 @@
 ### ilClan 
 
 - Clan Protectorate 
+- Clan Sea Fox 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 

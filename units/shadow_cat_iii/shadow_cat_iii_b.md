@@ -44,5 +44,6 @@
 - Clan Protectorate 
 - Clan Sea Fox 
 - Draconis Combine 
+- Mercenary 
 - Rasalhague Dominion 
 

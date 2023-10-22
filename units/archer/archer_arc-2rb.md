@@ -183,6 +183,7 @@
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
@@ -200,4 +201,5 @@
 - Free Worlds League 
 - Mercenary 
 - Rasalhague Dominion 
+- Wolf Empire 
 

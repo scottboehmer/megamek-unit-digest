@@ -17,7 +17,22 @@
 - **Equipment:** 
   - CASE 
 - **Design Quirks:** 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (ER Medium Laser) 
+  - Modular Weapon (Machine Gun) 
+  - Modular Weapon (Machine Gun) 
+  - Jettison-Capable Weapon (ER PPC) 
+  - Modular Weapon (ER PPC) 
 - **Sources:** Rec Guide:ilClan #7 , [Master Unit List](http://masterunitlist.info/Unit/Details/3442) 
 - **Battle Value:** 1913 
 

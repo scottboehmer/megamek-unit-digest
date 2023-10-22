@@ -44,9 +44,9 @@
 
 ### 60 Tons 
 
-#### [Merlin](../../../units/merlin.md) 
+#### [Dragon](../../../units/dragon.md) 
 
-- [**Merlin MLN-1C**](../../../units/merlin/merlin_mln-1c.md) *Brawler (3068)* 
+- [**Dragon DRG-1C**](../../../units/dragon/dragon_drg-1c.md) *Skirmisher (2752)* 
 
 ### 65 Tons 
 

@@ -26,18 +26,21 @@
 
 ### Late Republic 
 
+- Clan Sea Fox 
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Sea Fox 
 - Lyran Commonwealth 
 - Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Clan Sea Fox 
 - Lyran Commonwealth 
 - Mercenary 
 - Tamar Pact 

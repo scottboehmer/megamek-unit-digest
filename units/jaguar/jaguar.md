@@ -36,10 +36,12 @@
 - Clan Wolf-in-Exile 
 - Federated Suns 
 - Lyran Commonwealth 
+- Raven Alliance 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Clan Jade Falcon 
 - Federated Suns 
 - Kell Hounds 
 - Lyran Commonwealth 

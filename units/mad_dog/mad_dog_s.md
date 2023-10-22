@@ -114,6 +114,7 @@
 - Clan Wolf-in-Exile 
 - Escorpión Imperio 
 - Mercenary 
+- Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
 - Scorpion Empire 
@@ -122,6 +123,7 @@
 ### ilClan 
 
 - Clan Hell's Horses 
+- Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 
 - Star League (Smoke Jaguar) 

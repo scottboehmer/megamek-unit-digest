@@ -47,9 +47,14 @@
 
 ### Early Republic 
 
+- Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
 - Rim Commonality 
+
+### Late Republic 
+
+- Duchy of Andurien 
 

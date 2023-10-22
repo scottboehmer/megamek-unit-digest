@@ -33,6 +33,7 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 
+- Star League-in-Exile 
 
 ### Late Succession Wars - LosTech 
 
@@ -94,6 +95,7 @@
 
 ### Jihad 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - ComStar 
 - Draconis Combine 
@@ -101,5 +103,48 @@
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Alliance 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Taurian Concordat 
 - Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 

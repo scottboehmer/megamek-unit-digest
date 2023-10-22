@@ -20,21 +20,6 @@
 
 ## Availability 
 
-### Early Republic 
-
-- Capellan Confederation 
-- Duchy of Andurien 
-- Duchy of Tamarind-Abbey 
-- Free Worlds League - Non-Aligned Worlds 
-- Magistracy of Canopus 
-- Marik-Stewart Commonwealth 
-- Mercenary 
-- Oriente Protectorate 
-- Regulan Fiefs 
-- Republic of the Sphere 
-- Rim Commonality 
-- Taurian Concordat 
-
 ### Late Republic 
 
 - Capellan Confederation 

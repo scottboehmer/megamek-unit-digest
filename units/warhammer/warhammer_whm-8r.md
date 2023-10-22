@@ -75,6 +75,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Protectorate 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 

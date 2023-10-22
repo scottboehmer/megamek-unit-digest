@@ -127,6 +127,10 @@
 
 ### 20 Tons 
 
+#### [Asshur Artillery Spotter](../../../units/asshur_artillery_spotter.md) 
+
+- [**Asshur Artillery Spotter**](../../../units/asshur_artillery_spotter/asshur_artillery_spotter.md) *Striker (2893)* `TAG` 
+
 #### [Heavy Hover APC](../../../units/heavy_hover_apc.md) 
 
 - [**Heavy Hover APC**](../../../units/heavy_hover_apc/heavy_hover_apc.md) *Scout (2470)* `Transport:6.0` 
@@ -184,6 +188,7 @@
 #### [Warrior Attack Helicopter](../../../units/warrior_attack_helicopter.md) 
 
 - [**Warrior Attack Helicopter H-8**](../../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-8.md) *Striker (3054)* 
+- [**Warrior Attack Helicopter H-9**](../../../units/warrior_attack_helicopter/warrior_attack_helicopter_h-9.md) *Scout (3068)* 
 
 #### [Wheeled Scout](../../../units/wheeled_scout.md) 
 
@@ -345,6 +350,7 @@
 #### [Yasha VTOL](../../../units/yasha_vtol.md) 
 
 - [**Yasha VTOL**](../../../units/yasha_vtol/yasha_vtol.md) *Scout (3085)* `C3 Support` 
+- [**Yasha VTOL 'Spectre'**](../../../units/yasha_vtol/yasha_vtol_spectre.md) *Scout (3085)* `ECM` , `Stealth` 
 - [**Yasha VTOL (Interdictor)**](../../../units/yasha_vtol/yasha_vtol_interdictor.md) *Missile Boat (3085)* `Active Probe` , `ECM` 
 
 #### [Yellow Jacket Gunship](../../../units/yellow_jacket_gunship.md) 
@@ -494,7 +500,7 @@
 - [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 #### [Regulator Hovertank](../../../units/regulator_hovertank.md) 
 
@@ -525,6 +531,7 @@
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
 - [**Condor Heavy Hover Tank**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank.md) *Striker (2564)* 
+- [**Condor Heavy Hover Tank (Liao)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_liao.md) *Striker (2878)* 
 - [**Condor Heavy Hover Tank (Upgrade) (Laser)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_upgrade_laser.md) *Missile Boat (3068)* `ECM` 
 - [**Condor Heavy Hover Tank (Ultra)**](../../../units/condor_heavy_hover_tank/condor_heavy_hover_tank_ultra.md) *Striker (3113)* `TAG` 
 

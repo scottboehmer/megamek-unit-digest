@@ -38,6 +38,7 @@
 - Capellan Confederation 
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -49,6 +50,7 @@
 - Duchy of Tamarind-Abbey 
 - Federated Suns 
 - Free Worlds League 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
@@ -60,5 +62,6 @@
 - Clan Protectorate 
 - Federated Suns 
 - Free Worlds League 
+- Magistracy of Canopus 
 - Mercenary 
 

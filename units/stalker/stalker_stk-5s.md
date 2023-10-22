@@ -67,12 +67,15 @@
 
 ### Early Republic 
 
+- Clan Jade Falcon 
+- Federated Suns 
 - Filtvelt Coalition 
 - Lyran Commonwealth 
 - Mercenary 
 
 ### Late Republic 
 
+- Clan Jade Falcon 
 - Lyran Commonwealth 
 - Mercenary 
 

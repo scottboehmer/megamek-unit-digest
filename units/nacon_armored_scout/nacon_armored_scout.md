@@ -20,8 +20,8 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Clan Jade Falcon 
-- Clan Sea Fox 
 - Mercenary 
 - Republic of the Sphere 
 

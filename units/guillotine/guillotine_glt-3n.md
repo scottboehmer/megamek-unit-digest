@@ -97,4 +97,21 @@
 ### Early Republic 
 
 - Escorpión Imperio 
+- Mercenary 
+- Pirate 
+
+### Late Republic 
+
+- Mercenary 
+- Pirate 
+
+### Dark Ages 
+
+- Mercenary 
+- Pirate 
+
+### ilClan 
+
+- Mercenary 
+- Pirate 
 

@@ -26,11 +26,16 @@
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Sea Fox 
+- Clan Wolf 
+- Rasalhague Dominion 
 
 ### ilClan 
 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
+- Clan Sea Fox 
+- Rasalhague Dominion 
 - Star League (Jade Falcon) 
 - Wolf's Dragoons 
 

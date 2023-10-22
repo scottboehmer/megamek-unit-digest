@@ -36,12 +36,15 @@
 ### Early Succession Wars 
 
 - Capellan Confederation 
+- Clan Blood Spirit 
+- Clan Sea Fox 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 
+- Star League-in-Exile 
 - Taurian Concordat 
 
 ### Late Succession Wars - LosTech 

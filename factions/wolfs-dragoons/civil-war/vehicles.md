@@ -177,6 +177,7 @@
 
 #### [Kestrel VTOL](../../../units/kestrel_vtol.md) 
 
+- [**Kestrel VTOL (Clan)**](../../../units/kestrel_vtol/kestrel_vtol_clan.md) *Scout (2880)* `Transport:4.0` 
 - [**Kestrel VTOL**](../../../units/kestrel_vtol/kestrel_vtol.md) *Scout (3007)* `Transport:3.5` 
 - [**Kestrel VTOL (SL)**](../../../units/kestrel_vtol/kestrel_vtol_sl.md) *Scout (3017)* `Transport:1.5` 
 - [**Kestrel VTOL (MedEvac)**](../../../units/kestrel_vtol/kestrel_vtol_medevac.md) *Undefined (3022)* `Transport:3.5` 
@@ -332,7 +333,7 @@
 - [**Bandit Hovercraft E**](../../../units/bandit_hovercraft/bandit_hovercraft_e.md) *Missile Boat (3008)* `Transport:4.0` 
 - [**Bandit Hovercraft F**](../../../units/bandit_hovercraft/bandit_hovercraft_f.md) *Striker (3008)* `Transport:4.0` 
 - [**Bandit Hovercraft G**](../../../units/bandit_hovercraft/bandit_hovercraft_g.md) *Striker (3008)* `Transport:4.0` 
-- [**Bandit Hovercraft H**](../../../units/bandit_hovercraft/bandit_hovercraft_h.md) *Skirmisher (3058)* `Transport:8.0` 
+- [**Bandit Hovercraft H**](../../../units/bandit_hovercraft/bandit_hovercraft_h.md) *Skirmisher (3058)* `Transport:4.0` 
 
 #### [BattleMech Recovery Vehicle](../../../units/battlemech_recovery_vehicle.md) 
 

@@ -134,3 +134,18 @@
 - Federated Suns 
 - Lyran Alliance 
 
+### Early Republic 
+
+- Clan Wolf 
+- Raven Alliance 
+
+### Late Republic 
+
+- Clan Wolf 
+- Raven Alliance 
+
+### Dark Ages 
+
+- Clan Wolf 
+- Raven Alliance 
+

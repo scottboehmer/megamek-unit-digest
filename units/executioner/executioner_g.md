@@ -63,6 +63,7 @@
 ### ilClan 
 
 - Clan Hell's Horses 
+- Clan Jade Falcon 
 - Clan Sea Fox 
 - Mercenary 
 - Rasalhague Dominion 

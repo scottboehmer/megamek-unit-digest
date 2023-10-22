@@ -33,6 +33,7 @@
 
 ### Early Republic 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
 - Kell Hounds 
 - Lyran Commonwealth 
@@ -41,6 +42,7 @@
 
 ### Late Republic 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
 - Kell Hounds 
 - Lyran Commonwealth 
@@ -49,6 +51,7 @@
 
 ### Dark Ages 
 
+- Clan Wolf-in-Exile 
 - Federated Suns 
 - Kell Hounds 
 - Lyran Commonwealth 

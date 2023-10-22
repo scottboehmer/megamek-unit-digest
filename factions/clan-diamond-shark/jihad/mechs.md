@@ -20,6 +20,10 @@
 
 - [**Locust C**](../../../units/locust/locust_c.md) *Striker (2836)* 
 
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -28,6 +32,7 @@
 #### [Thorn](../../../units/thorn.md) 
 
 - [**Thorn THE-N**](../../../units/thorn/thorn_the-n.md) *Striker (2549)* 
+- [**Thorn THE-Nb**](../../../units/thorn/thorn_the-nb.md) *Striker (2743)* 
 
 ### 25 Tons 
 
@@ -192,6 +197,7 @@
 #### [Sentinel](../../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
+- [**Sentinel STN-3Lb**](../../../units/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
 
 #### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
@@ -334,7 +340,7 @@
 
 #### [Mad Cat III](../../../units/mad_cat_iii.md) 
 
-- [**Mad Cat III X**](../../../units/mad_cat_iii/mad_cat_iii_x.md) *Missile Boat (3076)* 
+- [**Mad Cat III X**](../../../units/mad_cat_iii/mad_cat_iii_x.md) *Missile Boat (3076)* `Unique` 
 
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
@@ -441,6 +447,7 @@
 #### [Exterminator](../../../units/exterminator.md) 
 
 - [**Exterminator EXT-4D**](../../../units/exterminator/exterminator_ext-4d.md) *Skirmisher (2630)* 
+- [**Exterminator EXT-4Db**](../../../units/exterminator/exterminator_ext-4db.md) *Skirmisher (2718)* 
 
 #### [Ha Otoko](../../../units/ha_otoko.md) 
 

@@ -16,6 +16,7 @@
 
 #### [Cheetah](../../../units/cheetah.md) 
 
+- [**Cheetah F-10**](../../../units/cheetah/cheetah_f-10.md) *Interceptor (2630)* 
 - [**Cheetah F-11**](../../../units/cheetah/cheetah_f-11.md) *Interceptor (3051)* 
 - [**Cheetah F-13**](../../../units/cheetah/cheetah_f-13.md) *Interceptor (3069)* 
 - [**Cheetah OF-17**](../../../units/cheetah/cheetah_of-17.md) *Interceptor (3076)* `ECM` , `Stealth` , `Unique` 
@@ -80,6 +81,10 @@
 - [**Zero ZRO-115**](../../../units/zero/zero_zro-115.md) *Dogfighter (3055)* 
 
 ### 40 Tons 
+
+#### [Issus](../../../units/issus.md) 
+
+- [**Issus**](../../../units/issus/issus.md) *Fast Dogfighter (2842)* 
 
 #### [Sai](../../../units/sai.md) 
 
@@ -148,6 +153,10 @@
 
 ### 65 Tons 
 
+#### [Ammon](../../../units/ammon.md) 
+
+- [**Ammon**](../../../units/ammon/ammon.md) *Dogfighter (3064)* 
+
 #### [Lucifer II](../../../units/lucifer_ii.md) 
 
 - [**Lucifer II LCF-R16KR**](../../../units/lucifer_ii/lucifer_ii_lcf-r16kr.md) *Dogfighter (3051)* 
@@ -158,6 +167,7 @@
 
 #### [Shilone](../../../units/shilone.md) 
 
+- [**Shilone SL-17**](../../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
 - [**Shilone SL-17R**](../../../units/shilone/shilone_sl-17r.md) *Fire Support (3042)* 
 - [**Shilone SL-18**](../../../units/shilone/shilone_sl-18.md) *Dogfighter (3068)* 
 
@@ -267,14 +277,28 @@
 - [**Eisensturm EST-OC**](../../../units/eisensturm/eisensturm_est-oc.md) *Dogfighter (3066)* 
 - [**Eisensturm EST-OD**](../../../units/eisensturm/eisensturm_est-od.md) *Dogfighter (3076)* 
 
+#### [Hydaspes](../../../units/hydaspes.md) 
+
+- [**Hydaspes**](../../../units/hydaspes/hydaspes.md) *Undefined (2840)* 
+
 ### 100 Tons 
 
 #### [Aeshna Heavy Drone Fighter](../../../units/aeshna_heavy_drone_fighter.md) 
 
 - [**Aeshna Heavy Drone Fighter**](../../../units/aeshna_heavy_drone_fighter/aeshna_heavy_drone_fighter.md) *Undefined (3072)* `Drone` 
 
+#### [Kirghiz](../../../units/kirghiz.md) 
+
+- [**Kirghiz Prime**](../../../units/kirghiz/kirghiz_prime.md) *Undefined (2874)* 
+- [**Kirghiz A**](../../../units/kirghiz/kirghiz_a.md) *Undefined (2874)* 
+- [**Kirghiz B**](../../../units/kirghiz/kirghiz_b.md) *Undefined (2874)* 
+- [**Kirghiz C**](../../../units/kirghiz/kirghiz_c.md) *Undefined (2874)* `Transport:10.0` 
+- [**Kirghiz D**](../../../units/kirghiz/kirghiz_d.md) *Undefined (3067)* 
+- [**Kirghiz E**](../../../units/kirghiz/kirghiz_e.md) *Undefined (3069)* `Active Probe` , `ECM` 
+
 #### [Riever](../../../units/riever.md) 
 
+- [**Riever F-100**](../../../units/riever/riever_f-100.md) *Undefined (2815)* 
 - [**Riever F-700**](../../../units/riever/riever_f-700.md) *Dogfighter (3050)* 
 - [**Riever F-700a**](../../../units/riever/riever_f-700a.md) *Undefined (3050)* 
 - [**Riever F-700b**](../../../units/riever/riever_f-700b.md) *Undefined (3068)* 

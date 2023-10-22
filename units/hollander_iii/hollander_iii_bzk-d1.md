@@ -39,6 +39,7 @@
 - Lyran Commonwealth 
 - Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Taurian Concordat 
 - Vesper Marches 
 

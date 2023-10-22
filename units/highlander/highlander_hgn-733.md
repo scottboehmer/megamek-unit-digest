@@ -63,10 +63,27 @@
 
 - Capellan Confederation 
 - Lyran Alliance 
+- Mercenary 
 
 ### Early Republic 
 
 - Capellan Confederation 
 - Lyran Commonwealth 
 - Magistracy of Canopus 
+- Mercenary 
+
+### Late Republic 
+
+- Magistracy of Canopus 
+- Mercenary 
+
+### Dark Ages 
+
+- Magistracy of Canopus 
+- Mercenary 
+
+### ilClan 
+
+- Magistracy of Canopus 
+- Mercenary 
 

@@ -26,6 +26,7 @@
 - Capellan Confederation 
 - Draconis Combine 
 - Magistracy of Canopus 
+- Mercenary 
 - Outworlds Alliance 
 
 ### Early Succession Wars 
@@ -34,6 +35,7 @@
 - Draconis Combine 
 - Free Worlds League 
 - Magistracy of Canopus 
+- Mercenary 
 - Outworlds Alliance 
 - Solaris 7 
 
@@ -42,6 +44,7 @@
 - Draconis Combine 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
 - Solaris 7 
 
 ### Late Succession Wars - Renaissance 
@@ -50,6 +53,7 @@
 - Free Rasalhague Republic 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
 - Solaris 7 
 
 ### Clan Invasion 
@@ -63,6 +67,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Solaris 7 
@@ -77,6 +82,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Solaris 7 
@@ -95,6 +101,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Outworlds Alliance 
 - Pirate 
 - Solaris 7 
@@ -102,9 +109,39 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
 - Escorpión Imperio 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
 
 ### Late Republic 
 
+- Calderon Protectorate 
 - Escorpión Imperio 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
+
+- Calderon Protectorate 
+- Fronc Reaches 
+- Pirate 
 

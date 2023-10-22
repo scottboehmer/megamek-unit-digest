@@ -35,9 +35,13 @@
 
 ### Dark Ages 
 
+- Mercenary 
+- Rasalhague Dominion 
 - Raven Alliance 
 
 ### ilClan 
 
+- Mercenary 
+- Rasalhague Dominion 
 - Raven Alliance 
 

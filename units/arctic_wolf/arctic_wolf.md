@@ -41,18 +41,21 @@
 
 ### Early Republic 
 
+- Clan Hell's Horses 
 - Clan Nova Cat 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Clan Nova Cat 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Nova Cat 
 - Clan Wolf-in-Exile 
 - Kell Hounds 

@@ -42,6 +42,7 @@
 - [**Locust LCT-3V**](../../../units/locust/locust_lct-3v.md) *Scout (3004)* 
 - [**Locust LCT-3M**](../../../units/locust/locust_lct-3m.md) *Scout (3050)* 
 - [**Locust LCT-5M**](../../../units/locust/locust_lct-5m.md) *Striker (3066)* 
+- [**Locust LCT-6M**](../../../units/locust/locust_lct-6m.md) *Striker (3071)* 
 - [**Locust LCT-5W2**](../../../units/locust/locust_lct-5w2.md) *Scout (3079)* `C3 Support` , `ECM` , `TAG` 
 - [**Locust LCT-5M2**](../../../units/locust/locust_lct-5m2.md) *Scout (3087)* 
 - [**Locust LCT-5M3**](../../../units/locust/locust_lct-5m3.md) *Scout (3088)* 
@@ -217,6 +218,7 @@
 #### [Spider](../../../units/spider.md) 
 
 - [**Spider SDR-8M**](../../../units/spider/spider_sdr-8m.md) *Striker (3060)* 
+- [**Spider SDR-8R**](../../../units/spider/spider_sdr-8r.md) *Scout (3084)* 
 - [**Spider SDR-9M**](../../../units/spider/spider_sdr-9m.md) *Scout (3096)* 
 
 #### [UrbanMech](../../../units/urbanmech.md) 
@@ -709,6 +711,18 @@
 - [**Mad Cat III 5**](../../../units/mad_cat_iii/mad_cat_iii_5.md) *Skirmisher (3097)* 
 - [**Mad Cat III (Dark Age RS)**](../../../units/mad_cat_iii/mad_cat_iii_dark_age_rs.md) *Undefined (3132)* 
 
+#### [Men Shen](../../../units/men_shen.md) 
+
+- [**Men Shen MS1-O**](../../../units/men_shen/men_shen_ms1-o.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OA**](../../../units/men_shen/men_shen_ms1-oa.md) *Striker (3060)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OB**](../../../units/men_shen/men_shen_ms1-ob.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OC**](../../../units/men_shen/men_shen_ms1-oc.md) *Striker (3060)* `Active Probe` , `ECM` 
+- [**Men Shen MS1-OD**](../../../units/men_shen/men_shen_ms1-od.md) *Striker (3060)* `Active Probe` 
+- [**Men Shen MS1-OE**](../../../units/men_shen/men_shen_ms1-oe.md) *Striker (3070)* `Active Probe` 
+- [**Men Shen MS1-OF**](../../../units/men_shen/men_shen_ms1-of.md) *Striker (3076)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OU**](../../../units/men_shen/men_shen_ms1-ou.md) *Striker (3077)* `Active Probe` , `TAG` 
+- [**Men Shen MS1-OG**](../../../units/men_shen/men_shen_ms1-og.md) *Scout (3134)* `Active Probe` 
+
 #### [Quasimodo](../../../units/quasimodo.md) 
 
 - [**Quasimodo QSM-3D**](../../../units/quasimodo/quasimodo_qsm-3d.md) *Skirmisher (3140)* 
@@ -831,6 +845,7 @@
 
 - [**Rifleman RFL-5M**](../../../units/rifleman/rifleman_rfl-5m.md) *Brawler (3049)* 
 - [**Rifleman RFL-7M**](../../../units/rifleman/rifleman_rfl-7m.md) *Brawler (3066)* `ECM` 
+- [**Rifleman RFL-7X**](../../../units/rifleman/rifleman_rfl-7x.md) *Skirmisher (3081)* 
 - [**Rifleman C 3**](../../../units/rifleman/rifleman_c_3.md) *Sniper (3132)* 
 - [**Rifleman RFL-7N**](../../../units/rifleman/rifleman_rfl-7n.md) *Sniper (3133)* 
 - [**Rifleman RFL-7N2**](../../../units/rifleman/rifleman_rfl-7n2.md) *Sniper (3133)* 
@@ -902,6 +917,7 @@
 
 #### [Koschei](../../../units/koschei.md) 
 
+- [**Koschei KSC-5MC**](../../../units/koschei/koschei_ksc-5mc.md) *Skirmisher (3068)* 
 - [**Koschei KSC-5I**](../../../units/koschei/koschei_ksc-5i.md) *Skirmisher (3071)* `ECM` 
 
 #### [Ostwar](../../../units/ostwar.md) 
@@ -1158,6 +1174,7 @@
 - [**Warhammer IIC**](../../../units/warhammer_iic/warhammer_iic.md) *Brawler (2829)* 
 - [**Warhammer IIC 2**](../../../units/warhammer_iic/warhammer_iic_2.md) *Missile Boat (2920)* 
 - [**Warhammer IIC 3**](../../../units/warhammer_iic/warhammer_iic_3.md) *Brawler (3060)* 
+- [**Warhammer IIC 4**](../../../units/warhammer_iic/warhammer_iic_4.md) *Brawler (3062)* 
 - [**Warhammer IIC 5**](../../../units/warhammer_iic/warhammer_iic_5.md) *Brawler (3070)* 
 - [**Warhammer IIC 8**](../../../units/warhammer_iic/warhammer_iic_8.md) *Skirmisher (3079)* 
 - [**Warhammer IIC 10**](../../../units/warhammer_iic/warhammer_iic_10.md) *Sniper (3120)* 

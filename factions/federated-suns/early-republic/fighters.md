@@ -7,6 +7,7 @@
 #### [Seydlitz](../../../units/seydlitz.md) 
 
 - [**Seydlitz SYD-Z2A**](../../../units/seydlitz/seydlitz_syd-z2a.md) *Interceptor (3050)* 
+- [**Seydlitz SYD-Z1**](../../../units/seydlitz/seydlitz_syd-z1.md) *Interceptor (3057)* 
 - [**Seydlitz SYD-Z2B**](../../../units/seydlitz/seydlitz_syd-z2b.md) *Interceptor (3062)* 
 - [**Seydlitz SYD-Z3A**](../../../units/seydlitz/seydlitz_syd-z3a.md) *Interceptor (3063)* 
 - [**Seydlitz SYD-Z4**](../../../units/seydlitz/seydlitz_syd-z4.md) *Interceptor (3065)* 
@@ -80,6 +81,10 @@
 
 ### 60 Tons 
 
+#### [Hellcat Aerospace Fighter](../../../units/hellcat_aerospace_fighter.md) 
+
+- [**Hellcat HCT-213**](../../../units/hellcat_aerospace_fighter/hellcat_hct-213.md) *Dogfighter (2671)* 
+
 #### [Stingray](../../../units/stingray.md) 
 
 - [**Stingray F-92**](../../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
@@ -122,6 +127,7 @@
 #### [Chippewa](../../../units/chippewa.md) 
 
 - [**Chippewa CHP-W7**](../../../units/chippewa/chippewa_chp-w7.md) *Undefined (2735)* 
+- [**Chippewa CHP-W10**](../../../units/chippewa/chippewa_chp-w10.md) *Undefined (2953)* 
 
 ### 95 Tons 
 
@@ -135,6 +141,7 @@
 
 - [**Stuka STU-K5**](../../../units/stuka/stuka_stu-k5.md) *Undefined (2571)* 
 - [**Stuka STU-K5b2**](../../../units/stuka/stuka_stu-k5b2.md) *Undefined (2709)* 
+- [**Stuka STU-K10**](../../../units/stuka/stuka_stu-k10.md) *Undefined (2711)* 
 - [**Stuka STU-K5b**](../../../units/stuka/stuka_stu-k5b.md) *Undefined (2751)* 
 - [**Stuka STU-D6**](../../../units/stuka/stuka_stu-d6.md) *Undefined (3051)* 
 - [**Stuka STU-D7**](../../../units/stuka/stuka_stu-d7.md) *Undefined (3070)* 

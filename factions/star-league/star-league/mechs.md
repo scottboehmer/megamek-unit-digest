@@ -27,6 +27,7 @@
 
 - [**Thorn THE-F**](../../../units/thorn/thorn_the-f.md) *Striker (2490)* 
 - [**Thorn THE-N**](../../../units/thorn/thorn_the-n.md) *Striker (2549)* 
+- [**Thorn THE-Nb**](../../../units/thorn/thorn_the-nb.md) *Striker (2743)* 
 
 #### [Wasp](../../../units/wasp.md) 
 
@@ -189,6 +190,7 @@
 #### [Crab](../../../units/crab.md) 
 
 - [**Crab CRB-27**](../../../units/crab/crab_crb-27.md) *Skirmisher (2719)* 
+- [**Crab CRB-27b**](../../../units/crab/crab_crb-27b.md) *Sniper (2719)* 
 - [**Crab CRB-27sl**](../../../units/crab/crab_crb-27sl.md) *Skirmisher (2719)* 
 
 #### [Galahad](../../../units/galahad.md) 
@@ -253,6 +255,7 @@
 #### [Shadow Hawk](../../../units/shadow_hawk.md) 
 
 - [**Shadow Hawk SHD-2H**](../../../units/shadow_hawk/shadow_hawk_shd-2h.md) *Skirmisher (2550)* 
+- [**Shadow Hawk SHD-2Hb**](../../../units/shadow_hawk/shadow_hawk_shd-2hb.md) *Skirmisher (2752)* 
 
 #### [Wolverine](../../../units/wolverine.md) 
 

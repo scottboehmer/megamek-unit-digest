@@ -31,18 +31,21 @@
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+- Republic of the Sphere 
 
 ### ilClan 
 

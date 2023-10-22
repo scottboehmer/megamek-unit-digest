@@ -33,11 +33,13 @@
 ### Late Republic 
 
 - Clan Hell's Horses 
+- Clan Wolf 
 - Clan Wolf-in-Exile 
 
 ### Dark Ages 
 
 - Clan Hell's Horses 
+- Clan Wolf 
 - Clan Wolf-in-Exile 
 
 ### ilClan 

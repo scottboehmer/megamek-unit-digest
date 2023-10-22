@@ -34,24 +34,34 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Duchy of Andurien 
 - Magistracy of Canopus 
 - Mercenary 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Duchy of Andurien 
 - Magistracy of Canopus 
 - Mercenary 
+- Rim Commonality 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
 - Magistracy of Canopus 
 - Mercenary 
+- Rim Commonality 
+- Taurian Concordat 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Duchy of Andurien 
+- Free Worlds League 
 - Magistracy of Canopus 
 - Mercenary 
+- Taurian Concordat 
 

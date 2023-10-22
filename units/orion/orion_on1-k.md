@@ -41,6 +41,7 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Wolf 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -192,15 +193,18 @@
 - Marian Hegemony 
 - Mercenary 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Dark Ages 
 
 - Escorpión Imperio 
 - Marian Hegemony 
 - Mercenary 
+- Taurian Concordat 
 
 ### ilClan 
 
 - Marian Hegemony 
 - Mercenary 
+- Taurian Concordat 
 

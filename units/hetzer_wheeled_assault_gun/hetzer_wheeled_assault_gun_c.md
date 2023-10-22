@@ -33,6 +33,7 @@
 - Clan Jade Falcon 
 - Clan Protectorate 
 - Clan Sea Fox 
+- Free Worlds League 
 - Rasalhague Dominion 
 - Raven Alliance 
 - Star League (Jade Falcon) 

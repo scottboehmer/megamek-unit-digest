@@ -2,29 +2,15 @@
 
 ## Combat Vehicles 
 
-### 3 Tons 
-
-#### [Jet Sled](../../../units/jet_sled.md) 
-
-- [**Jet Sled**](../../../units/jet_sled/jet_sled.md) *Undefined (2300)* `Transport:0.5` 
-
 ### 5 Tons 
 
 #### [Gabriel Reconnaissance Hovercraft](../../../units/gabriel_reconnaissance_hovercraft.md) 
 
 - [**Gabriel Reconnaissance Hovercraft**](../../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft.md) *Scout (2712)* 
 
-#### [Jeep](../../../units/jeep.md) 
-
-- [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
-
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
-
-#### [Speeder](../../../units/speeder.md) 
-
-- [**Speeder**](../../../units/speeder/speeder.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -33,6 +19,7 @@
 - [**Armored Personnel Carrier (Hover LRM)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_hover_lrm.md) *Missile Boat (2500)* 
 - [**Armored Personnel Carrier (Hover MG)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_hover_mg.md) *Scout (2500)* 
 - [**Armored Personnel Carrier (Hover SRM)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_hover_srm.md) *Scout (2500)* `Transport:1.0` 
+- [**Armored Personnel Carrier (Hover)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_hover.md) *Scout (2500)* `Transport:1.0` 
 - [**Armored Personnel Carrier (Tracked LRM)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_tracked_lrm.md) *Missile Boat (2500)* 
 - [**Armored Personnel Carrier (Tracked MG)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_tracked_mg.md) *Scout (2500)* 
 - [**Armored Personnel Carrier (Tracked SRM)**](../../../units/armored_personnel_carrier/armored_personnel_carrier_tracked_srm.md) *Scout (2500)* `Transport:1.0` 
@@ -95,6 +82,7 @@
 
 #### [Heavy Tracked APC](../../../units/heavy_tracked_apc.md) 
 
+- [**Heavy Tracked APC**](../../../units/heavy_tracked_apc/heavy_tracked_apc.md) *Scout (2470)* `Transport:6.0` 
 - [**Heavy Tracked APC (LRM)**](../../../units/heavy_tracked_apc/heavy_tracked_apc_lrm.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Tracked APC (MG)**](../../../units/heavy_tracked_apc/heavy_tracked_apc_mg.md) *Scout (2470)* `Transport:3.0` 
 - [**Heavy Tracked APC (SRM)**](../../../units/heavy_tracked_apc/heavy_tracked_apc_srm.md) *Scout (2470)* `Transport:3.0` 
@@ -189,6 +177,7 @@
 #### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
 
 - [**Chaparral Missile Artillery Tank**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank.md) *Missile Boat (2611)* 
+- [**Chaparral Missile Artillery Tank (SRM)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (2614)* 
 
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
@@ -201,6 +190,10 @@
 #### [Hawk Hover Tank](../../../units/hawk_hover_tank.md) 
 
 - [**Hawk Hover Tank (LTV-4)**](../../../units/hawk_hover_tank/hawk_hover_tank_ltv-4.md) *Striker (2470)* 
+
+#### [Korvin Tank](../../../units/korvin_tank.md) 
+
+- [**Korvin Tank KRV-3**](../../../units/korvin_tank/korvin_tank_krv-3.md) *Missile Boat (2544)* 
 
 #### [LTV-4 Hover Tank](../../../units/ltv-4_hover_tank.md) 
 
@@ -318,6 +311,7 @@
 #### [Rhino Fire Support Tank](../../../units/rhino_fire_support_tank.md) 
 
 - [**Rhino Fire Support Tank**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank.md) *Missile Boat (2669)* 
+- [**Rhino Fire Support Tank (SL)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_sl.md) *Missile Boat (2724)* 
 - [**Rhino Fire Support Tank (MG)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_mg.md) *Missile Boat (2725)* 
 
 ### 85 Tons 

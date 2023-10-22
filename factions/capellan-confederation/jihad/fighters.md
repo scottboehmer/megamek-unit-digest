@@ -24,6 +24,10 @@
 
 ### 30 Tons 
 
+#### [Centurion Aerospace Fighter](../../../units/centurion_aerospace_fighter.md) 
+
+- [**Centurion CNT-1D**](../../../units/centurion_aerospace_fighter/centurion_cnt-1d.md) *Interceptor (2473)* 
+
 #### [Sparrowhawk](../../../units/sparrowhawk.md) 
 
 - [**Sparrowhawk SPR-H5**](../../../units/sparrowhawk/sparrowhawk_spr-h5.md) *Interceptor (2520)* 

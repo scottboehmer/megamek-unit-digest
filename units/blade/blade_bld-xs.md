@@ -30,18 +30,22 @@
 
 ### Early Republic 
 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Late Republic 
 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Mercenary 
 

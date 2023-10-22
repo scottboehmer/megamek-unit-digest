@@ -38,6 +38,10 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

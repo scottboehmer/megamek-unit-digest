@@ -18,6 +18,7 @@
   - Medium Pulse Laser 
   - Small Pulse Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - AES 
   - Partial Wing 
   - TAG 

@@ -363,6 +363,7 @@
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Scorpion Empire 
 - Taurian Concordat 
 - Wolf's Dragoons 
 
@@ -389,6 +390,7 @@
 - Pirate 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Scorpion Empire 
 - Star League (Jade Falcon) 
 - Star League (Smoke Jaguar) 
 - Star League (Wolf) 

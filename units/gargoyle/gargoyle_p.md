@@ -26,6 +26,8 @@
 - Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Mercenary 
+- Wolf's Dragoons 
 
 ### Late Republic 
 
@@ -34,6 +36,8 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Mercenary 
+- Wolf's Dragoons 
 
 ### Dark Ages 
 
@@ -41,10 +45,14 @@
 - Clan Sea Fox 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Mercenary 
+- Wolf's Dragoons 
 
 ### ilClan 
 
 - Clan Hell's Horses 
 - Clan Sea Fox 
+- Mercenary 
 - Star League (Wolf) 
+- Wolf's Dragoons 
 

@@ -33,6 +33,7 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Civil War 
@@ -43,6 +44,7 @@
 - Kell Hounds 
 - Lyran Alliance 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 
 ### Jihad 
@@ -56,24 +58,30 @@
 
 ### Early Republic 
 
+- Clan Nova Cat 
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
+- Republic of the Sphere 
 
 ### Late Republic 
 
+- Clan Nova Cat 
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Nova Cat 
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
+- Republic of the Sphere 
 
 ### ilClan 
 

@@ -50,6 +50,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Taurian Concordat 
 
@@ -60,14 +61,19 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Marian Hegemony 
+- Mercenary 
+- Pirate 
 
 ### ilClan 
 
 - Marian Hegemony 
+- Mercenary 
+- Pirate 
 

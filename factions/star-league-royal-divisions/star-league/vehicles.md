@@ -2,29 +2,15 @@
 
 ## Combat Vehicles 
 
-### 3 Tons 
-
-#### [Jet Sled](../../../units/jet_sled.md) 
-
-- [**Jet Sled**](../../../units/jet_sled/jet_sled.md) *Undefined (2300)* `Transport:0.5` 
-
 ### 5 Tons 
 
 #### [Gabriel Reconnaissance Hovercraft](../../../units/gabriel_reconnaissance_hovercraft.md) 
 
 - [**Gabriel Reconnaissance Hovercraft**](../../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft.md) *Scout (2712)* 
 
-#### [Jeep](../../../units/jeep.md) 
-
-- [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
-
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
-
-#### [Speeder](../../../units/speeder.md) 
-
-- [**Speeder**](../../../units/speeder/speeder.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -232,6 +218,7 @@
 #### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
 
 - [**Chaparral Missile Artillery Tank**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank.md) *Missile Boat (2611)* 
+- [**Chaparral Missile Artillery Tank (SRM)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (2614)* 
 
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
@@ -284,6 +271,10 @@
 #### [Thor Artillery Vehicle](../../../units/thor_artillery_vehicle.md) 
 
 - [**Thor Artillery Vehicle**](../../../units/thor_artillery_vehicle/thor_artillery_vehicle.md) *Missile Boat (2680)* 
+
+#### [Tiger Medium Tank](../../../units/tiger_medium_tank.md) 
+
+- [**Tiger Medium Tank T-12**](../../../units/tiger_medium_tank/tiger_medium_tank_t-12.md) *Brawler (2478)* 
 
 ### 60 Tons 
 
@@ -394,6 +385,7 @@
 
 - [**Rhino Fire Support Tank**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank.md) *Missile Boat (2669)* 
 - [**Rhino Fire Support Tank (Royal)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* `ECM` 
+- [**Rhino Fire Support Tank (SL)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_sl.md) *Missile Boat (2724)* 
 - [**Rhino Fire Support Tank (MG)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_mg.md) *Missile Boat (2725)* 
 
 ### 85 Tons 

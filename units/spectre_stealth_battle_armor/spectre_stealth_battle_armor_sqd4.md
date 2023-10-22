@@ -31,24 +31,39 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
 - Filtvelt Coalition 
 - Fronc Reaches 
+- Magistracy of Canopus 
 - Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
 - Taurian Concordat 
 
 ### Dark Ages 
 
 - Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
 - Filtvelt Coalition 
+- Free Worlds League 
 - Fronc Reaches 
+- Magistracy of Canopus 
 - Mercenary 
+- Oriente Protectorate 
+- Republic of the Sphere 
 - Taurian Concordat 
 
 ### ilClan 
 
 - Calderon Protectorate 
+- Capellan Confederation 
+- Duchy of Andurien 
 - Filtvelt Coalition 
+- Free Worlds League 
 - Fronc Reaches 
+- Magistracy of Canopus 
 - Mercenary 
 - Taurian Concordat 
 

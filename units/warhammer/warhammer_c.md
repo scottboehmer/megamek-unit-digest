@@ -139,5 +139,17 @@
 
 ### Early Republic 
 
+- Clan Jade Falcon 
+- Clan Wolf 
 - Escorpión Imperio 
+
+### Late Republic 
+
+- Clan Jade Falcon 
+- Clan Wolf 
+
+### Dark Ages 
+
+- Clan Jade Falcon 
+- Clan Wolf 
 

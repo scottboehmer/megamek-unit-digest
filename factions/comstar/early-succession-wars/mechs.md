@@ -19,10 +19,6 @@
 - [**Stinger STG-3G**](../../../units/stinger/stinger_stg-3g.md) *Scout (2581)* 
 - [**Stinger STG-3Gb**](../../../units/stinger/stinger_stg-3gb.md) *Striker (2720)* 
 
-#### [Thorn](../../../units/thorn.md) 
-
-- [**Thorn THE-N**](../../../units/thorn/thorn_the-n.md) *Striker (2549)* 
-
 #### [Wasp](../../../units/wasp.md) 
 
 - [**Wasp WSP-1A**](../../../units/wasp/wasp_wsp-1a.md) *Scout (2471)* 
@@ -32,6 +28,10 @@
 #### [Copper](../../../units/copper.md) 
 
 - [**Copper CPK-19 SecurityMech**](../../../units/copper/copper_cpk-19_securitymech.md) *Undefined (2619)* `IndustrialMech` 
+
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
 
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 
@@ -140,10 +140,6 @@
 #### [Clint](../../../units/clint.md) 
 
 - [**Clint CLNT-2-3T**](../../../units/clint/clint_clnt-2-3t.md) *Striker (2608)* 
-
-#### [Sentinel](../../../units/sentinel.md) 
-
-- [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
 
 #### [Vulcan](../../../units/vulcan.md) 
 
@@ -315,10 +311,6 @@
 #### [Archer](../../../units/archer.md) 
 
 - [**Archer ARC-2R**](../../../units/archer/archer_arc-2r.md) *Missile Boat (2474)* 
-
-#### [Excalibur](../../../units/excalibur.md) 
-
-- [**Excalibur EXC-B2**](../../../units/excalibur/excalibur_exc-b2.md) *Skirmisher (2620)* 
 
 #### [Grasshopper](../../../units/grasshopper.md) 
 

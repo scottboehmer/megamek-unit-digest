@@ -39,15 +39,18 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Magistracy of Canopus 
 - Star League (Wolf) 
 

@@ -35,4 +35,5 @@
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
 

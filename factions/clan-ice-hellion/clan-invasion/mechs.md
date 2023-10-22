@@ -14,6 +14,14 @@
 - [**Fire Moth E**](../../../units/fire_moth/fire_moth_e.md) *Scout (3055)* 
 - [**Fire Moth H**](../../../units/fire_moth/fire_moth_h.md) *Striker (3060)* 
 
+#### [Howler](../../../units/howler.md) 
+
+- [**Howler**](../../../units/howler/howler.md) *Missile Boat (2871)* 
+
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -31,6 +39,7 @@
 #### [Thorn](../../../units/thorn.md) 
 
 - [**Thorn THE-N**](../../../units/thorn/thorn_the-n.md) *Striker (2549)* 
+- [**Thorn THE-Nb**](../../../units/thorn/thorn_the-nb.md) *Striker (2743)* 
 
 ### 25 Tons 
 
@@ -365,6 +374,7 @@
 #### [Exterminator](../../../units/exterminator.md) 
 
 - [**Exterminator EXT-4D**](../../../units/exterminator/exterminator_ext-4d.md) *Skirmisher (2630)* 
+- [**Exterminator EXT-4Db**](../../../units/exterminator/exterminator_ext-4db.md) *Skirmisher (2718)* 
 
 #### [Hellbringer](../../../units/hellbringer.md) 
 
@@ -384,7 +394,6 @@
 - [**Linebacker C**](../../../units/linebacker/linebacker_c.md) *Skirmisher (3052)* 
 - [**Linebacker D**](../../../units/linebacker/linebacker_d.md) *Skirmisher (3052)* 
 - [**Linebacker E**](../../../units/linebacker/linebacker_e.md) *Skirmisher (3061)* `Active Probe` 
-- [**Linebacker F**](../../../units/linebacker/linebacker_f.md) *Skirmisher (3068)* 
 
 #### [Rifleman IIC](../../../units/rifleman_iic.md) 
 

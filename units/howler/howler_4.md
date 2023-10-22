@@ -24,13 +24,31 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Fire Mandrill 
+
+### Late Succession Wars - LosTech 
+
+- Clan Fire Mandrill 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Fire Mandrill 
+- Clan Jade Falcon 
+- Clan Snow Raven 
+
 ### Clan Invasion 
 
+- Clan Fire Mandrill 
 - Clan Jade Falcon 
 - Clan Snow Raven 
 
 ### Civil War 
 
+- Clan Fire Mandrill 
 - Clan Jade Falcon 
 - Clan Snow Raven 
 - Clan Star Adder 
@@ -39,6 +57,7 @@
 ### Jihad 
 
 - Clan Burrock 
+- Clan Fire Mandrill 
 - Clan Jade Falcon 
 - Clan Snow Raven 
 - Clan Star Adder 

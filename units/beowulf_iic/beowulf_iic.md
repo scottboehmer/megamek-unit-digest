@@ -36,13 +36,18 @@
 
 ### Late Republic 
 
+- Clan Wolf 
 - Rasalhague Dominion 
+- Raven Alliance 
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Rasalhague Dominion 
+- Raven Alliance 
 
 ### ilClan 
 
 - Rasalhague Dominion 
+- Raven Alliance 
 

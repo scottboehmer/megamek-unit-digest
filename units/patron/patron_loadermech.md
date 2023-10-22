@@ -29,6 +29,14 @@
 
 - Free Worlds League 
 
+### Late Succession Wars - LosTech 
+
+- Free Worlds League 
+
+### Late Succession Wars - Renaissance 
+
+- Free Worlds League 
+
 ### Clan Invasion 
 
 - Free Worlds League 

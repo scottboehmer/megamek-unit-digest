@@ -37,4 +37,6 @@
 ### ilClan 
 
 - Clan Jade Falcon 
+- Star League (Jade Falcon) 
+- Wolf's Dragoons 
 

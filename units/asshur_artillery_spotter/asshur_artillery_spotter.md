@@ -21,6 +21,55 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Coyote 
+- Clan Ice Hellion 
+- Clan Snow Raven 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+
 ### Clan Invasion 
 
 - Clan Blood Spirit 
@@ -86,6 +135,7 @@
 
 ### Early Republic 
 
+- Capellan Confederation 
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
@@ -98,6 +148,7 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
@@ -110,6 +161,7 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
@@ -124,6 +176,7 @@
 ### ilClan 
 
 - Alyina Mercantile League 
+- Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Protectorate 

@@ -40,6 +40,9 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Hell's Horses 
+- Clan Sea Fox 
+- Clan Widowmaker 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 

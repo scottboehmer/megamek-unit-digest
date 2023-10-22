@@ -40,6 +40,10 @@
 - Clan Snow Raven 
 - Clan Wolf 
 
+### Jihad 
+
+- Clan Burrock 
+
 ### Dark Ages 
 
 - Clan Wolf 

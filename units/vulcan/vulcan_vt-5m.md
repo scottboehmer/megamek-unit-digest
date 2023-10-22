@@ -49,15 +49,45 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
+- Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Late Republic 
 
+- Calderon Protectorate 
+- Filtvelt Coalition 
 - Free Worlds League - Non-Aligned Worlds 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Regulan Fiefs 
 - Rim Commonality 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### ilClan 
+
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Taurian Concordat 
 

@@ -45,4 +45,5 @@
 
 - Clan Protectorate 
 - Clan Sea Fox 
+- Mercenary 
 

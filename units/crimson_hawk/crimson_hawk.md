@@ -29,6 +29,7 @@
 ### Early Republic 
 
 - Clan Diamond Shark 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Wolf-in-Exile 
@@ -38,16 +39,19 @@
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Federated Suns 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Jade Falcon 
 - Clan Nova Cat 
 - Clan Sea Fox 
@@ -55,15 +59,18 @@
 - Federated Suns 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Alyina Mercantile League 
+- Clan Hell's Horses 
 - Clan Protectorate 
 - Clan Sea Fox 
 - Federated Suns 
 - Free Worlds League 
+- Mercenary 
 - Star League (Smoke Jaguar) 
 - Star League (Wolf) 
 

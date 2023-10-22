@@ -74,6 +74,10 @@
 
 - [**Odin Scout Tank**](../../../units/odin_scout_tank/odin_scout_tank.md) *Striker (2844)* `Active Probe` 
 
+#### [Wheeled Scout](../../../units/wheeled_scout.md) 
+
+- [**Wheeled Scout (Standard)**](../../../units/wheeled_scout/wheeled_scout_standard.md) *Undefined (2500)* 
+
 ### 21 Tons 
 
 #### [Donar Assault Helicopter](../../../units/donar_assault_helicopter.md) 
@@ -85,6 +89,7 @@
 
 #### [Mithras Light Tank](../../../units/mithras_light_tank.md) 
 
+- [**Mithras Light Tank**](../../../units/mithras_light_tank/mithras_light_tank.md) *Striker (2845)* 
 - [**Mithras Light Tank (ERLL)**](../../../units/mithras_light_tank/mithras_light_tank_erll.md) *Sniper (3075)* 
 
 #### [Scorpion Light Tank](../../../units/scorpion_light_tank.md) 
@@ -242,6 +247,10 @@
 #### [Athena Combat Vehicle](../../../units/athena_combat_vehicle.md) 
 
 - [**Athena Combat Vehicle**](../../../units/athena_combat_vehicle/athena_combat_vehicle.md) *Juggernaut (3008)* 
+
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
 
 ### 80 Tons 
 

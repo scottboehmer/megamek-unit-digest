@@ -2,29 +2,15 @@
 
 ## Combat Vehicles 
 
-### 3 Tons 
-
-#### [Jet Sled](../../../units/jet_sled.md) 
-
-- [**Jet Sled**](../../../units/jet_sled/jet_sled.md) *Undefined (2300)* `Transport:0.5` 
-
 ### 5 Tons 
 
 #### [Gabriel Reconnaissance Hovercraft](../../../units/gabriel_reconnaissance_hovercraft.md) 
 
 - [**Gabriel Reconnaissance Hovercraft**](../../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft.md) *Scout (2712)* 
 
-#### [Jeep](../../../units/jeep.md) 
-
-- [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
-
 #### [Skimmer](../../../units/skimmer.md) 
 
 - [**Skimmer**](../../../units/skimmer/skimmer.md) *Scout (2577)* 
-
-#### [Speeder](../../../units/speeder.md) 
-
-- [**Speeder**](../../../units/speeder/speeder.md) *Undefined (2300)* 
 
 ### 10 Tons 
 
@@ -228,6 +214,7 @@
 #### [Chaparral Missile Artillery Tank](../../../units/chaparral_missile_artillery_tank.md) 
 
 - [**Chaparral Missile Artillery Tank**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank.md) *Missile Boat (2611)* 
+- [**Chaparral Missile Artillery Tank (SRM)**](../../../units/chaparral_missile_artillery_tank/chaparral_missile_artillery_tank_srm.md) *Missile Boat (2614)* 
 
 #### [Condor Heavy Hover Tank](../../../units/condor_heavy_hover_tank.md) 
 
@@ -244,6 +231,10 @@
 #### [Kanga Medium Hovertank](../../../units/kanga_medium_hovertank.md) 
 
 - [**Kanga Medium Hovertank**](../../../units/kanga_medium_hovertank/kanga_medium_hovertank.md) *Striker (2653)* 
+
+#### [Korvin Tank](../../../units/korvin_tank.md) 
+
+- [**Korvin Tank KRV-3**](../../../units/korvin_tank/korvin_tank_krv-3.md) *Missile Boat (2544)* 
 
 #### [LTV-4 Hover Tank](../../../units/ltv-4_hover_tank.md) 
 
@@ -280,6 +271,10 @@
 #### [Thor Artillery Vehicle](../../../units/thor_artillery_vehicle.md) 
 
 - [**Thor Artillery Vehicle**](../../../units/thor_artillery_vehicle/thor_artillery_vehicle.md) *Missile Boat (2680)* 
+
+#### [Tiger Medium Tank](../../../units/tiger_medium_tank.md) 
+
+- [**Tiger Medium Tank T-12**](../../../units/tiger_medium_tank/tiger_medium_tank_t-12.md) *Brawler (2478)* 
 
 ### 60 Tons 
 
@@ -375,6 +370,7 @@
 
 - [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
 - [**Von Luckner Heavy Tank (Star League)**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_star_league.md) *Brawler (2683)* 
+- [**Von Luckner Heavy Tank (Royal)**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_royal.md) *Sniper (2761)* 
 
 ### 80 Tons 
 
@@ -386,6 +382,8 @@
 #### [Rhino Fire Support Tank](../../../units/rhino_fire_support_tank.md) 
 
 - [**Rhino Fire Support Tank**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank.md) *Missile Boat (2669)* 
+- [**Rhino Fire Support Tank (Royal)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_royal.md) *Missile Boat (2708)* `ECM` 
+- [**Rhino Fire Support Tank (SL)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_sl.md) *Missile Boat (2724)* 
 - [**Rhino Fire Support Tank (MG)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_mg.md) *Missile Boat (2725)* 
 - [**Rhino Fire Support Tank (Hagar)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_hagar.md) *Missile Boat (2765)* `Unique` 
 
@@ -414,6 +412,7 @@
 - [**Puma Assault Tank PAT-001**](../../../units/puma_assault_tank/puma_assault_tank_pat-001.md) *Undefined (2650)* 
 - [**Puma Assault Tank PAT-002**](../../../units/puma_assault_tank/puma_assault_tank_pat-002.md) *Undefined (2657)* 
 - [**Puma Assault Tank PAT-005**](../../../units/puma_assault_tank/puma_assault_tank_pat-005.md) *Missile Boat (2681)* 
+- [**Puma Assault Tank PAT-005b**](../../../units/puma_assault_tank/puma_assault_tank_pat-005b.md) *Missile Boat (2751)* 
 
 ### 140 Tons 
 

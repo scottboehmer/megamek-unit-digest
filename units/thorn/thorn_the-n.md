@@ -58,7 +58,6 @@
 - Clan Widowmaker 
 - Clan Wolf 
 - Clan Wolverine 
-- ComStar 
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 

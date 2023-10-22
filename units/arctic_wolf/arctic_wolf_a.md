@@ -30,12 +30,14 @@
 
 ### Jihad 
 
+- Clan Ghost Bear 
 - Clan Wolf-in-Exile 
 
 ### Early Republic 
 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 - Wolf's Dragoons 
 
@@ -43,17 +45,21 @@
 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 - Wolf's Dragoons 
 
 ### Dark Ages 
 
+- Clan Jade Falcon 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 - Wolf's Dragoons 
 
 ### ilClan 
 
+- Clan Jade Falcon 
 - Star League (Wolf) 
 

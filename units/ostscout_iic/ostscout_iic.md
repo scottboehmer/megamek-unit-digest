@@ -38,7 +38,3 @@
 - Clan Diamond Shark 
 - Clan Jade Falcon 
 
-### Early Republic (Unique) 
-
-- Clan Diamond Shark 
-

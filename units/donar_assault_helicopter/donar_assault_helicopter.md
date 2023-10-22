@@ -120,6 +120,7 @@
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Republic of the Sphere 
 
 ### Late Republic 
 
@@ -130,6 +131,7 @@
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Republic of the Sphere 
 - Wolf's Dragoons 
 
 ### Dark Ages 
@@ -141,6 +143,7 @@
 - Escorpión Imperio 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Republic of the Sphere 
 - Scorpion Empire 
 - Wolf's Dragoons 
 

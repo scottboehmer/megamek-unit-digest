@@ -43,20 +43,28 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
+- Taurian Concordat 
 

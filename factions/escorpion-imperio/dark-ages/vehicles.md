@@ -247,6 +247,10 @@
 
 - [**Athena Combat Vehicle**](../../../units/athena_combat_vehicle/athena_combat_vehicle.md) *Juggernaut (3008)* 
 
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
+
 ### 80 Tons 
 
 #### [Demolisher Heavy Tank](../../../units/demolisher_heavy_tank.md) 

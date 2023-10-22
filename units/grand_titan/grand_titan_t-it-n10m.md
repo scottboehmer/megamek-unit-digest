@@ -123,6 +123,7 @@
 
 ### ilClan 
 
+- Duchy of Andurien 
 - Free Worlds League 
 - Magistracy of Canopus 
 - Marian Hegemony 

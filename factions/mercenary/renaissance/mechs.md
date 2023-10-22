@@ -35,6 +35,10 @@
 
 ### 30 Tons 
 
+#### [Falcon](../../../units/falcon.md) 
+
+- [**Falcon FLC-4N**](../../../units/falcon/falcon_flc-4n.md) *Scout (2582)* 
+
 #### [Javelin](../../../units/javelin.md) 
 
 - [**Javelin JVN-10N**](../../../units/javelin/javelin_jvn-10n.md) *Striker (2751)* 
@@ -120,6 +124,10 @@
 #### [Phoenix Hawk](../../../units/phoenix_hawk.md) 
 
 - [**Phoenix Hawk PXH-1**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)* 
+
+#### [Vindicator](../../../units/vindicator.md) 
+
+- [**Vindicator VND-1R**](../../../units/vindicator/vindicator_vnd-1r.md) *Brawler (2826)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
 
@@ -231,6 +239,10 @@
 
 - [**Crusader CRD-3R**](../../../units/crusader/crusader_crd-3r.md) *Missile Boat (2752)* 
 
+#### [JagerMech](../../../units/jagermech.md) 
+
+- [**JagerMech JM6-S**](../../../units/jagermech/jagermech_jm6-s.md) *Sniper (2774)* 
+
 #### [Thunderbolt](../../../units/thunderbolt.md) 
 
 - [**Thunderbolt TDR-5S**](../../../units/thunderbolt/thunderbolt_tdr-5s.md) *Brawler (2505)* 
@@ -293,6 +305,7 @@
 
 #### [Charger](../../../units/charger.md) 
 
+- [**Charger CGR-1A1**](../../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
 - [**Charger CGR-1A5**](../../../units/charger/charger_cgr-1a5.md) *Juggernaut (3023)* 
 - [**Charger CGR-SB 'Challenger'**](../../../units/charger/charger_cgr-sb_challenger.md) *Juggernaut (3025)* 
 
@@ -303,6 +316,10 @@
 #### [Scavenger](../../../units/scavenger.md) 
 
 - [**Scavenger SC-V SalvageMech**](../../../units/scavenger/scavenger_sc-v_salvagemech.md) *Undefined (2613)* `IndustrialMech` 
+
+#### [Thug](../../../units/thug.md) 
+
+- [**Thug THG-10E**](../../../units/thug/thug_thg-10e.md) *Brawler (2835)* 
 
 #### [Victor](../../../units/victor.md) 
 

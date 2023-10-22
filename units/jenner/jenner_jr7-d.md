@@ -140,6 +140,7 @@
 ### Early Republic 
 
 - Calderon Protectorate 
+- Clan Nova Cat 
 - Draconis Combine 
 - Escorpión Imperio 
 - Federated Suns 
@@ -155,6 +156,7 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Clan Nova Cat 
 - Escorpión Imperio 
 - Filtvelt Coalition 
 - Fronc Reaches 

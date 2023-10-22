@@ -40,6 +40,8 @@
 
 - Capellan Confederation 
 - Circinus Federation 
+- Clan Sea Fox 
+- Clan Wolf 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -162,6 +164,7 @@
 ### Early Republic 
 
 - Calderon Protectorate 
+- Capellan Confederation 
 - Escorpión Imperio 
 - Filtvelt Coalition 
 - Fronc Reaches 
@@ -173,6 +176,7 @@
 ### Late Republic 
 
 - Calderon Protectorate 
+- Capellan Confederation 
 - Escorpión Imperio 
 - Filtvelt Coalition 
 - Fronc Reaches 
@@ -183,6 +187,7 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Escorpión Imperio 
 - Scorpion Empire 
 

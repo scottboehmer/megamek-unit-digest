@@ -15,7 +15,8 @@
   - SRM 6 × 2 (ammo: 30) 
 - **Equipment:** 
   - CASE 
-  - Infantry (12.0 tons) 
+  - Infantry (4.0 tons) 
+  - Infantry (8.0 tons) 
 - **Sources:** TRO: 3145 Free Worlds League , [Master Unit List](http://masterunitlist.info/Unit/Details/6490) 
 - **Battle Value:** 746 
 
@@ -23,8 +24,8 @@
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Clan Nova Cat 
-- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 

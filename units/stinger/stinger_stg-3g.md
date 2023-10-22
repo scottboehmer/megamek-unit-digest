@@ -190,6 +190,7 @@
 - Calderon Protectorate 
 - Capellan Confederation 
 - Draconis Combine 
+- Duchy of Andurien 
 - Escorpión Imperio 
 - Federated Suns 
 - Filtvelt Coalition 
@@ -198,6 +199,7 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
+- Oriente Protectorate 
 - Pirate 
 - Taurian Concordat 
 

@@ -194,6 +194,7 @@
 - [**Wolverine WVR-1R**](../../../units/wolverine/wolverine_wvr-1r.md) *Skirmisher (2471)* 
 - [**Wolverine WVR-3R**](../../../units/wolverine/wolverine_wvr-3r.md) *Skirmisher (2490)* 
 - [**Wolverine WVR-6R**](../../../units/wolverine/wolverine_wvr-6r.md) *Skirmisher (2575)* 
+- [**Wolverine WVR-6D**](../../../units/wolverine/wolverine_wvr-6d.md) *Skirmisher (2834)* 
 
 ### 60 Tons 
 

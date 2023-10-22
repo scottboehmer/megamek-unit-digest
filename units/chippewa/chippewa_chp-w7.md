@@ -102,6 +102,7 @@
 
 ### Late Republic 
 
+- Federated Suns 
 - Lyran Commonwealth 
 - Mercenary 
 - Rasalhague Dominion 

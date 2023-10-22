@@ -44,6 +44,7 @@
 
 - Clan Coyote 
 - Clan Goliath Scorpion 
+- Clan Hell's Horses 
 - Clan Star Adder 
 - Clan Wolf 
 
@@ -55,6 +56,7 @@
 - Clan Coyote 
 - Clan Fire Mandrill 
 - Clan Goliath Scorpion 
+- Clan Hell's Horses 
 - Clan Ice Hellion 
 - Clan Star Adder 
 - Clan Steel Viper 

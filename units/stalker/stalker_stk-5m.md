@@ -145,5 +145,6 @@
 - Magistracy of Canopus 
 - Marian Hegemony 
 - Mercenary 
+- Pirate 
 - Taurian Concordat 
 

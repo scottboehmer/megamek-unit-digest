@@ -57,6 +57,7 @@
 ### Late Republic 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
@@ -67,6 +68,7 @@
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Clan Sea Fox 
 - Clan Wolf-in-Exile 
 - Kell Hounds 
 - Lyran Commonwealth 
@@ -76,6 +78,7 @@
 
 ### ilClan 
 
+- Clan Sea Fox 
 - Kell Hounds 
 - Lyran Commonwealth 
 - Mercenary 

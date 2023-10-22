@@ -39,6 +39,7 @@
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
 - Pirate 
 - St. Ives Compact 
 
@@ -50,6 +51,7 @@
 - Free Worlds League 
 - Lyran Alliance 
 - Lyran Commonwealth 
+- Mercenary 
 - Pirate 
 - St. Ives Compact 
 
@@ -63,6 +65,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - St. Ives Compact 
 - Taurian Concordat 
 
@@ -76,6 +79,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Taurian Concordat 
 
 ### Early Republic 

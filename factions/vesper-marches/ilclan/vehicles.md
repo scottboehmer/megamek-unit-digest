@@ -626,9 +626,9 @@
 
 #### [SM Tank Destroyer](../../../units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-- [**SM1A Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-- [**SM3 Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1.md) *Undefined (3068)* 
+- [**SM Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1a.md) *Undefined (3070)* `Active Probe` 
+- [**SM Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm3.md) *Undefined (3074)* 
 
 #### [Vedette Medium Tank](../../../units/vedette_medium_tank.md) 
 
@@ -842,6 +842,7 @@
 
 #### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
 
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
 - [**Von Luckner Heavy Tank VNL-K85N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k85n.md) *Juggernaut (3135)* 
 
 #### [Zhukov Heavy Tank](../../../units/zhukov_heavy_tank.md) 

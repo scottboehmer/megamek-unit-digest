@@ -656,8 +656,11 @@
 - [**Stormcrow TC**](../../../units/stormcrow/stormcrow_tc.md) *Skirmisher (3052)* 
 - [**Stormcrow E**](../../../units/stormcrow/stormcrow_e.md) *Striker (3054)* `Active Probe` 
 - [**Stormcrow H**](../../../units/stormcrow/stormcrow_h.md) *Striker (3059)* 
+- [**Stormcrow I**](../../../units/stormcrow/stormcrow_i.md) *Sniper (3059)* `Active Probe` 
 - [**Stormcrow G**](../../../units/stormcrow/stormcrow_g.md) *Striker (3068)* 
 - [**Stormcrow F**](../../../units/stormcrow/stormcrow_f.md) *Striker (3069)* 
+- [**Stormcrow K**](../../../units/stormcrow/stormcrow_k.md) *Striker (3120)* 
+- [**Stormcrow J**](../../../units/stormcrow/stormcrow_j.md) *Striker (3130)* 
 
 #### [Thunder Fox](../../../units/thunder_fox.md) 
 
@@ -885,6 +888,10 @@
 - [**Grasshopper GHR-7K**](../../../units/grasshopper/grasshopper_ghr-7k.md) *Skirmisher (3068)* `C3 Support` , `ECM` 
 - [**Grasshopper GHR-8K**](../../../units/grasshopper/grasshopper_ghr-8k.md) *Skirmisher (3091)* 
 
+#### [Guillotine](../../../units/guillotine.md) 
+
+- [**Guillotine GLT-7M**](../../../units/guillotine/guillotine_glt-7m.md) *Brawler (3099)* 
+
 #### [Lumberjack](../../../units/lumberjack.md) 
 
 - [**Lumberjack LM4/C**](../../../units/lumberjack/lumberjack_lm4_c.md) *Ambusher (2489)* `IndustrialMech` 
@@ -966,6 +973,7 @@
 
 #### [Charger](../../../units/charger.md) 
 
+- [**Charger CGR-1A9**](../../../units/charger/charger_cgr-1a9.md) *Skirmisher (3034)* 
 - [**Charger CGR-3K**](../../../units/charger/charger_cgr-3k.md) *Skirmisher (3049)* 
 - [**Charger CGR-C**](../../../units/charger/charger_cgr-c.md) *Skirmisher (3052)* `C3 Support` 
 - [**Charger CGR-SA5**](../../../units/charger/charger_cgr-sa5.md) *Juggernaut (3063)* 

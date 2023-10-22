@@ -196,28 +196,40 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Late Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### Dark Ages 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
 - Republic of the Sphere 
+- Taurian Concordat 
 
 ### ilClan 
 
+- Calderon Protectorate 
 - Capellan Confederation 
+- Fronc Reaches 
 - Magistracy of Canopus 
 - Mercenary 
+- Taurian Concordat 
 

@@ -27,6 +27,7 @@
 
 - Capellan Confederation 
 - Clan Nova Cat 
+- Clan Sea Fox 
 - Draconis Combine 
 - Free Worlds League 
 - Mercenary 
@@ -35,6 +36,7 @@
 
 - Capellan Confederation 
 - Clan Protectorate 
+- Clan Sea Fox 
 - Draconis Combine 
 - Free Worlds League 
 - Mercenary 

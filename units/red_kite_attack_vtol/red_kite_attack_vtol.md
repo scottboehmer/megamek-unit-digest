@@ -23,17 +23,22 @@
 
 ### Late Republic 
 
+- Duchy of Andurien 
 - Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 
 ### Dark Ages 
 
 - Clan Wolf 
+- Duchy of Andurien 
 - Free Worlds League 
 - Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 
 ### ilClan 
 
 - Clan Protectorate 
+- Duchy of Andurien 
 - Free Worlds League 
 - Wolf Empire 
 

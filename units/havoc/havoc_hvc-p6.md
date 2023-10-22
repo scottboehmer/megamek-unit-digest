@@ -26,6 +26,7 @@
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - ComStar 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -34,6 +35,7 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -41,6 +43,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - ComStar 
 - Draconis Combine 
 - Duchy of Andurien 
@@ -52,6 +55,7 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Raven Alliance 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -60,12 +64,14 @@
 
 - Capellan Confederation 
 - Clan Protectorate 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 
+- Raven Alliance 
 - Tamar Pact 
 - Vesper Marches 
 

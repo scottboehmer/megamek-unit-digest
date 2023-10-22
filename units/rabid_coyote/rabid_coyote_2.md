@@ -27,5 +27,6 @@
 
 ### Jihad 
 
+- Clan Coyote 
 - Clan Wolf 
 

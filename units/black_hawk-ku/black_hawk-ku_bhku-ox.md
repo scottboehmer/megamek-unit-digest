@@ -25,24 +25,53 @@
 
 ### Clan Invasion 
 
+- Capellan Confederation 
 - Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Lyran Commonwealth 
+- Mercenary 
+- St. Ives Compact 
+- Wolf's Dragoons 
 
 ### Civil War 
 
+- Capellan Confederation 
 - Draconis Combine 
+- Federated Commonwealth 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- St. Ives Compact 
+- Wolf's Dragoons 
 
 ### Jihad 
 
+- Capellan Confederation 
 - Draconis Combine 
+- Federated Suns 
+- Free Rasalhague Republic 
+- Kell Hounds 
+- Lyran Alliance 
+- Mercenary 
+- Wolf's Dragoons 
 
 ### Early Republic 
 
+- Clan Diamond Shark 
 - Draconis Combine 
 - Federated Suns 
+- Rasalhague Dominion 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -50,7 +79,9 @@
 - Free Worlds League - Non-Aligned Worlds 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
+- Rasalhague Dominion 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -58,6 +89,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -68,6 +100,7 @@
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
+- Rasalhague Dominion 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
@@ -75,12 +108,14 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 
 - Free Worlds League 
 - Lyran Commonwealth 
 - Mercenary 
+- Rasalhague Dominion 
 - Tamar Pact 
 - Taurian Concordat 
 - Vesper Marches 

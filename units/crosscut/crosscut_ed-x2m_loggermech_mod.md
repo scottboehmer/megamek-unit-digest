@@ -24,6 +24,7 @@
 ### Early Succession Wars 
 
 - Pirate 
+- Star League-in-Exile 
 
 ### Late Succession Wars - LosTech 
 

@@ -35,16 +35,20 @@
 ### Early Republic 
 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### Late Republic 
 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### Dark Ages 
 
 - Lyran Commonwealth 
+- Mercenary 
 
 ### ilClan 
 
 - Lyran Commonwealth 
+- Mercenary 
 

@@ -38,14 +38,17 @@
 ### Early Republic 
 
 - Draconis Combine 
+- Republic of the Sphere 
 
 ### Late Republic 
 
 - Draconis Combine 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Draconis Combine 
+- Republic of the Sphere 
 
 ### ilClan 
 

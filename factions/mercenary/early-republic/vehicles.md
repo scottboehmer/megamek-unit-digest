@@ -364,6 +364,7 @@
 #### [Pegasus Scout Hover Tank](../../../units/pegasus_scout_hover_tank.md) 
 
 - [**Pegasus Scout Hover Tank**](../../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank.md) *Striker (2791)* 
+- [**Pegasus Scout Hover Tank (3058 Upgrade)**](../../../units/pegasus_scout_hover_tank/pegasus_scout_hover_tank_3058_upgrade.md) *Striker (3058)* `Active Probe` , `ECM` , `TAG` 
 
 #### [Plainsman Medium Hovertank](../../../units/plainsman_medium_hovertank.md) 
 
@@ -458,13 +459,17 @@
 - [**R10 Mechanized ICV (A)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_a.md) *Brawler (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (B)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_b.md) *Sniper (3097)* `Transport:4.0` 
 - [**R10 Mechanized ICV (Coolant Truck)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_coolant_truck.md) *Undefined (3097)* 
-- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:12.0` 
+- [**R10 Mechanized ICV (Prime)**](../../../units/r10_mechanized_icv/r10_mechanized_icv_prime.md) *Brawler (3097)* `Transport:4.0` , `Transport:8.0` 
 
 #### [Ranger Armored Fighting Vehicle](../../../units/ranger_armored_fighting_vehicle.md) 
 
 - [**Ranger Armored Fighting Vehicle VV1**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv1.md) *Scout (3076)* 
 - [**Ranger Armored Fighting Vehicle VV1 (MG)**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv1_mg.md) *Scout (3076)* 
 - [**Ranger Armored Fighting Vehicle VV2**](../../../units/ranger_armored_fighting_vehicle/ranger_armored_fighting_vehicle_vv2.md) *Striker (3082)* 
+
+#### [Regulator Hovertank](../../../units/regulator_hovertank.md) 
+
+- [**Regulator Hovertank**](../../../units/regulator_hovertank/regulator_hovertank.md) *Sniper (3057)* 
 
 #### [Swallow Attack WIGE](../../../units/swallow_attack_wige.md) 
 
@@ -505,6 +510,7 @@
 
 - [**Drillson Heavy Hover Tank**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank.md) *Striker (3025)* 
 - [**Drillson Heavy Hover Tank (SRM)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_srm.md) *Striker (3028)* 
+- [**Drillson Heavy Hover Tank (Streak)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_streak.md) *Striker (3053)* 
 - [**Drillson Heavy Hover Tank (MML)**](../../../units/drillson_heavy_hover_tank/drillson_heavy_hover_tank_mml.md) *Striker (3087)* 
 
 #### [Falcon Hover Tank](../../../units/falcon_hover_tank.md) 
@@ -774,6 +780,10 @@
 - [**Schiltron Mobile Fire-Support Platform E**](../../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_e.md) *Missile Boat (3068)* `C3 Main` , `ECM` , `TAG` 
 - [**Schiltron Mobile Fire-Support Platform F**](../../../units/schiltron_mobile_fire-support_platform/schiltron_mobile_fire-support_platform_f.md) *Missile Boat (3072)* `C3 Main` , `ECM` , `TAG` 
 
+#### [Schrek AC Carrier](../../../units/schrek_ac_carrier.md) 
+
+- [**Schrek AC Carrier**](../../../units/schrek_ac_carrier/schrek_ac_carrier.md) *Sniper (2916)* 
+
 #### [Schrek PPC Carrier](../../../units/schrek_ppc_carrier.md) 
 
 - [**Schrek PPC Carrier**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier.md) *Sniper (2813)* 
@@ -808,6 +818,7 @@
 #### [Challenger MBT](../../../units/challenger_mbt.md) 
 
 - [**Challenger MBT X**](../../../units/challenger_mbt/challenger_mbt_x.md) *Juggernaut (3057)* 
+- [**Challenger MBT XII**](../../../units/challenger_mbt/challenger_mbt_xii.md) *Juggernaut (3065)* `C3 Support` , `ECM` 
 
 ### 95 Tons 
 
@@ -848,11 +859,6 @@
 - [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 - [**Behemoth Heavy Tank (Kurita)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_kurita.md) *Juggernaut (3062)* 
 - [**Behemoth Heavy Tank (Davion)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_davion.md) *Undefined (3087)* 
-
-#### [Behemoth II Heavy Tank](../../../units/behemoth_ii_heavy_tank.md) 
-
-- [**Behemoth II Heavy Tank**](../../../units/behemoth_ii_heavy_tank/behemoth_ii_heavy_tank.md) *Missile Boat (3102)* 
-- [**Behemoth II Heavy Tank (Support)**](../../../units/behemoth_ii_heavy_tank/behemoth_ii_heavy_tank_support.md) *Sniper (3102)* 
 
 #### [Demolisher II Heavy Tank](../../../units/demolisher_ii_heavy_tank.md) 
 

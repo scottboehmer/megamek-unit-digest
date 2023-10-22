@@ -22,7 +22,6 @@
 ### Clan Invasion 
 
 - Capellan Confederation 
-- ComStar 
 - Draconis Combine 
 - Federated Commonwealth 
 - Federated Suns 
@@ -34,7 +33,6 @@
 - Mercenary 
 - Second Star League 
 - St. Ives Compact 
-- Word of Blake 
 
 ### Civil War 
 

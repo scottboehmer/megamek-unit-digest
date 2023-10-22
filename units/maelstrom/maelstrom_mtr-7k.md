@@ -26,10 +26,12 @@
 
 ### Late Republic 
 
+- Clan Nova Cat 
 - Draconis Combine 
 
 ### Dark Ages 
 
+- Clan Nova Cat 
 - Draconis Combine 
 
 ### ilClan 

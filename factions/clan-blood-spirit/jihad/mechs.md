@@ -16,6 +16,14 @@
 - [**Fire Moth F**](../../../units/fire_moth/fire_moth_f.md) *Striker (3070)* `Active Probe` 
 - [**Fire Moth K**](../../../units/fire_moth/fire_moth_k.md) *Striker (3071)* 
 
+#### [Howler](../../../units/howler.md) 
+
+- [**Howler**](../../../units/howler/howler.md) *Missile Boat (2871)* 
+
+#### [Mercury](../../../units/mercury.md) 
+
+- [**Mercury MCY-99**](../../../units/mercury/mercury_mcy-99.md) *Scout (2742)* 
+
 #### [Piranha](../../../units/piranha.md) 
 
 - [**Piranha**](../../../units/piranha/piranha.md) *Striker (3051)* 
@@ -191,6 +199,7 @@
 #### [Sentinel](../../../units/sentinel.md) 
 
 - [**Sentinel STN-3L**](../../../units/sentinel/sentinel_stn-3l.md) *Striker (2652)* 
+- [**Sentinel STN-3Lb**](../../../units/sentinel/sentinel_stn-3lb.md) *Sniper (2715)* 
 
 #### [Viper OmniMech](../../../units/viper_omnimech.md) 
 
@@ -362,6 +371,10 @@
 - [**Glass Spider**](../../../units/glass_spider/glass_spider.md) *Sniper (2834)* 
 - [**Glass Spider 2**](../../../units/glass_spider/glass_spider_2.md) *Sniper (2952)* 
 
+#### [Hellfire](../../../units/hellfire.md) 
+
+- [**Hellfire 2**](../../../units/hellfire/hellfire_2.md) *Skirmisher (3067)* 
+
 #### [Lancelot](../../../units/lancelot.md) 
 
 - [**Lancelot LNC25-01**](../../../units/lancelot/lancelot_lnc25-01.md) *Skirmisher (2581)* 
@@ -518,6 +531,7 @@
 #### [Black Knight](../../../units/black_knight.md) 
 
 - [**Black Knight BL-6-KNT**](../../../units/black_knight/black_knight_bl-6-knt.md) *Brawler (2578)* `Active Probe` 
+- [**Black Knight BL-6b-KNT**](../../../units/black_knight/black_knight_bl-6b-knt.md) *Brawler (2751)* `Active Probe` 
 
 #### [Black Python](../../../units/black_python.md) 
 
@@ -620,6 +634,7 @@
 #### [Crockett](../../../units/crockett.md) 
 
 - [**Crockett CRK-5003-1**](../../../units/crockett/crockett_crk-5003-1.md) *Sniper (2735)* 
+- [**Crockett CRK-5003-1b**](../../../units/crockett/crockett_crk-5003-1b.md) *Juggernaut (2752)* 
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
 

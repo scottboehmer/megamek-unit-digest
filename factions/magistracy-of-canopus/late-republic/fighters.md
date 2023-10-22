@@ -19,6 +19,7 @@
 - [**Cheetah F-11-R**](../../../units/cheetah/cheetah_f-11-r.md) *Interceptor (2802)* 
 - [**Cheetah F-11**](../../../units/cheetah/cheetah_f-11.md) *Interceptor (3051)* 
 - [**Cheetah F-11-RR**](../../../units/cheetah/cheetah_f-11-rr.md) *Interceptor (3054)* 
+- [**Cheetah F-13**](../../../units/cheetah/cheetah_f-13.md) *Interceptor (3069)* 
 
 #### [Sabre](../../../units/sabre.md) 
 
@@ -98,12 +99,14 @@
 
 - [**Stingray F-90**](../../../units/stingray/stingray_f-90.md) *Dogfighter (2762)* 
 - [**Stingray F-92**](../../../units/stingray/stingray_f-92.md) *Fire Support (3050)* 
+- [**Stingray F-95**](../../../units/stingray/stingray_f-95.md) *Fire Support (3069)* 
 
 ### 65 Tons 
 
 #### [Shilone](../../../units/shilone.md) 
 
 - [**Shilone SL-17**](../../../units/shilone/shilone_sl-17.md) *Fire Support (2796)* 
+- [**Shilone SL-18**](../../../units/shilone/shilone_sl-18.md) *Dogfighter (3068)* 
 
 #### [Troika](../../../units/troika.md) 
 
@@ -139,6 +142,7 @@
 #### [Chippewa](../../../units/chippewa.md) 
 
 - [**Chippewa CHP-W5**](../../../units/chippewa/chippewa_chp-w5.md) *Undefined (2584)* 
+- [**Chippewa CHP-W7T**](../../../units/chippewa/chippewa_chp-w7t.md) *Undefined (3069)* 
 
 ### 95 Tons 
 

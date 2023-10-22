@@ -42,18 +42,24 @@
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
+- Clan Jade Falcon 
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Clan Hell's Horses 
 - Kell Hounds 
 - Rasalhague Dominion 
+- Raven Alliance 
 

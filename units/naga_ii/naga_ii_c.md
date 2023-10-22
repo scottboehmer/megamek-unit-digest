@@ -61,6 +61,7 @@
 - Clan Jade Falcon 
 - Clan Snow Raven 
 - Clan Star Adder 
+- Clan Steel Viper 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 

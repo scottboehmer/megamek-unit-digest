@@ -11,7 +11,7 @@
 - **Weapons:** 
   - Vehicle Flamer × 2 (ammo: 40) 
 - **Equipment:** 
-  - Insulated Cargo 
+  - Insulated Cargo × 2 
 - **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/689) 
 - **Battle Value:** 321 
 - [*More Info*](coolant_truck/coolant_truck_135-k.md) 
@@ -27,7 +27,7 @@
 - **Weapons:** 
   - Vehicle Flamer × 2 (ammo: 40) 
 - **Equipment:** 
-  - Insulated Cargo 
+  - Insulated Cargo × 2 
 - **Sources:** TRO: 3039 , [Master Unit List](http://masterunitlist.info/Unit/Details/688) 
 - **Battle Value:** 357 
 - [*More Info*](coolant_truck/coolant_truck_tracked.md) 

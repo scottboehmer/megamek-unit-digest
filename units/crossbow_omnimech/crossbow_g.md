@@ -28,6 +28,7 @@
 
 ### ilClan 
 
+- Clan Jade Falcon 
 - Clan Protectorate 
 - Lyran Commonwealth 
 - Raven Alliance 

@@ -116,6 +116,7 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Rasalhague Dominion 
 - Republic of the Sphere 
 - Taurian Concordat 
 
@@ -125,13 +126,20 @@
 - Marian Hegemony 
 - Mercenary 
 - Pirate 
+- Rasalhague Dominion 
 - Taurian Concordat 
 
 ### Dark Ages 
 
+- Calderon Protectorate 
+- Marian Hegemony 
+- Pirate 
+- Rasalhague Dominion 
 - Scorpion Empire 
+- Taurian Concordat 
 
 ### ilClan 
 
+- Pirate 
 - Scorpion Empire 
 

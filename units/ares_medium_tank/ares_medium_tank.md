@@ -21,6 +21,58 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Burrock 
+- Clan Coyote 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Jade Falcon 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Wolf 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Sea Fox 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Cloud Cobra 
+- Clan Coyote 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Ghost Bear 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Ice Hellion 
+- Clan Jade Falcon 
+- Clan Nova Cat 
+- Clan Smoke Jaguar 
+- Clan Snow Raven 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+
 ### Clan Invasion 
 
 - Clan Blood Spirit 
@@ -93,6 +145,7 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Republic of the Sphere 
 
 ### Late Republic 
 
@@ -104,6 +157,7 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
@@ -115,6 +169,7 @@
 - Clan Wolf-in-Exile 
 - Rasalhague Dominion 
 - Raven Alliance 
+- Republic of the Sphere 
 
 ### ilClan 
 

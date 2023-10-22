@@ -62,6 +62,10 @@
 
 ### 0.75 Tons 
 
+#### [Gray Death Scout Suit](../../../units/gray_death_scout_suit.md) 
+
+- [**Gray Death Scout Suit (Sqd4)**](../../../units/gray_death_scout_suit/gray_death_scout_suit_sqd4.md) *Scout (3052)* `Active Probe` 
+
 #### [Infiltrator Mk. I Battle Armor](../../../units/infiltrator_mk._i_battle_armor.md) 
 
 - [**Infiltrator Mk. I Battle Armor 'Waddle'(Sqd4)**](../../../units/infiltrator_mk._i_battle_armor/infiltrator_mk._i_battle_armor_waddlesqd4.md) *Ambusher (3050)* `Stealth` 

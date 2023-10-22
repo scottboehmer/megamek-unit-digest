@@ -59,6 +59,7 @@
 - Clan Hell's Horses 
 - Clan Jade Falcon 
 - Duchy of Andurien 
+- Federated Suns 
 - Filtvelt Coalition 
 - Magistracy of Canopus 
 - Mercenary 

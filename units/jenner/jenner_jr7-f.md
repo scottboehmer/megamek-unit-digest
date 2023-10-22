@@ -35,10 +35,12 @@
 ### Clan Invasion 
 
 - Draconis Combine 
+- St. Ives Compact 
 
 ### Civil War 
 
 - Draconis Combine 
+- St. Ives Compact 
 
 ### Jihad 
 

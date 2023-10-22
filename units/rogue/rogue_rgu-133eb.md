@@ -23,6 +23,7 @@
 
 - Capellan Confederation 
 - Rim Worlds Republic - Terran Corps 
+- Star League 
 - Star League - Royal Divisions 
 
 ### Early Succession Wars 

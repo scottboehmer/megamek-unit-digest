@@ -28,14 +28,20 @@
 
 ### Jihad 
 
+- Capellan Confederation 
 - Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
 
 ### Early Republic 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -43,10 +49,13 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -54,11 +63,14 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
+- Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
@@ -66,6 +78,9 @@
 
 ### ilClan 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Free Worlds League 
+- Magistracy of Canopus 
+- Mercenary 
 

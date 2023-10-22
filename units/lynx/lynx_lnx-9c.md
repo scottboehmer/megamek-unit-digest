@@ -47,19 +47,16 @@
 
 - Draconis Combine 
 - Mercenary 
-- Republic of the Sphere 
 
 ### Late Republic 
 
 - Draconis Combine 
 - Mercenary 
-- Republic of the Sphere 
 
 ### Dark Ages 
 
 - Draconis Combine 
 - Mercenary 
-- Republic of the Sphere 
 
 ### ilClan 
 

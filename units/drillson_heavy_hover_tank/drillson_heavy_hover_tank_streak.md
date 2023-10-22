@@ -43,27 +43,38 @@
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### Late Republic 
 
 - Federated Suns 
 - Lyran Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Clan Jade Falcon 
 - Federated Suns 
+- Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
+- Regulan Fiefs 
 - Republic of the Sphere 
 
 ### ilClan 
 
 - Alyina Mercantile League 
+- Capellan Confederation 
 - Clan Jade Falcon 
 - Federated Suns 
+- Free Worlds League 
 - Lyran Commonwealth 
+- Mercenary 
 - Tamar Pact 
 - Vesper Marches 
 

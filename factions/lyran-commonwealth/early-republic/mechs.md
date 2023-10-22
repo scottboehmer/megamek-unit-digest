@@ -68,6 +68,7 @@
 #### [Commando](../../../units/commando.md) 
 
 - [**Commando COM-1A**](../../../units/commando/commando_com-1a.md) *Scout (2463)* 
+- [**Commando COM-2D**](../../../units/commando/commando_com-2d.md) *Striker (2486)* 
 - [**Commando COM-3A**](../../../units/commando/commando_com-3a.md) *Striker (3025)* 
 - [**Commando COM-5S**](../../../units/commando/commando_com-5s.md) *Striker (3050)* 
 - [**Commando COM-7S**](../../../units/commando/commando_com-7s.md) *Striker (3060)* 
@@ -107,6 +108,10 @@
 
 - [**Mjolnir MLR-B2**](../../../units/mjolnir/mjolnir_mlr-b2.md) *Scout (3077)* 
 - [**Mjolnir MLR-BX**](../../../units/mjolnir/mjolnir_mlr-bx.md) *Striker (3078)* 
+
+#### [Mongoose](../../../units/mongoose.md) 
+
+- [**Mongoose MON-76**](../../../units/mongoose/mongoose_mon-76.md) *Striker (3077)* `ECM` 
 
 #### [Pathfinder](../../../units/pathfinder.md) 
 
@@ -162,6 +167,7 @@
 #### [Hussar](../../../units/hussar.md) 
 
 - [**Hussar HSR-200-D**](../../../units/hussar/hussar_hsr-200-d.md) *Scout (2620)* 
+- [**Hussar HSR-400-D**](../../../units/hussar/hussar_hsr-400-d.md) *Scout (3052)* 
 
 #### [Javelin](../../../units/javelin.md) 
 
@@ -343,6 +349,7 @@
 
 - [**Griffin IIC**](../../../units/griffin_iic/griffin_iic.md) *Missile Boat (2852)* 
 - [**Griffin IIC 4**](../../../units/griffin_iic/griffin_iic_4.md) *Striker (3060)* 
+- [**Griffin IIC 5**](../../../units/griffin_iic/griffin_iic_5.md) *Striker (3071)* 
 - [**Griffin IIC 8**](../../../units/griffin_iic/griffin_iic_8.md) *Striker (3078)* `ECM` 
 
 #### [Icarus](../../../units/icarus.md) 
@@ -676,6 +683,7 @@
 
 #### [Axman](../../../units/axman.md) 
 
+- [**Axman AXM-1N**](../../../units/axman/axman_axm-1n.md) *Skirmisher (3048)* 
 - [**Axman AXM-2N**](../../../units/axman/axman_axm-2n.md) *Skirmisher (3049)* 
 - [**Axman AXM-3S**](../../../units/axman/axman_axm-3s.md) *Skirmisher (3060)* `ECM` 
 - [**Axman AXM-3Sr**](../../../units/axman/axman_axm-3sr.md) *Skirmisher (3069)* `C3 Support` , `ECM` 

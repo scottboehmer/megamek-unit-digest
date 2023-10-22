@@ -47,27 +47,35 @@
 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### Dark Ages 
 
+- Clan Wolf 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Mercenary 
 - Oriente Protectorate 
 - Regulan Fiefs 
 - Republic of the Sphere 
 - Rim Commonality 
+- Taurian Concordat 
 
 ### ilClan 
 
 - Free Worlds League 
+- Magistracy of Canopus 
 - Mercenary 
+- Taurian Concordat 
+- Wolf Empire 
 

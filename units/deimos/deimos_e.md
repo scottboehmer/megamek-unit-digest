@@ -32,6 +32,7 @@
 
 ### Dark Ages 
 
+- Clan Nova Cat 
 - Clan Sea Fox 
 - Rasalhague Dominion 
 - Raven Alliance 

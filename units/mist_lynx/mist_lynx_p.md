@@ -42,6 +42,7 @@
 - Clan Steel Viper 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
+- Wolf's Dragoons 
 
 ### Civil War 
 

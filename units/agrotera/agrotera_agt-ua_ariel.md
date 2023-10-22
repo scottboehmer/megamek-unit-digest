@@ -15,6 +15,7 @@
   - Clan ER Large Laser × 2 
   - Clan ER Medium Laser × 2 
 - **Equipment:** 
+  - Full Head Ejection System 
   - Clan HarJel III × 3 
 - **Sources:** XTR: Royal Fantasy , [Master Unit List](http://masterunitlist.info/Unit/Details/8365) 
 - **Battle Value:** 1917 

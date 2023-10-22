@@ -16,7 +16,22 @@
   - Micro Pulse Laser × 2 
   - ER Micro Laser × 2 
 - **Design Quirks:** 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
   - Jettison-Capable Weapon (Unknown Component) 
+  - Modular Weapon (Unknown Component) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Micro Pulse Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Modular Weapon (Medium Pulse Laser) 
+  - Modular Weapon (Micro Pulse Laser) 
+  - Modular Weapon (ER Micro Laser) 
+  - Jettison-Capable Weapon (Heavy Large Laser) 
+  - Modular Weapon (Heavy Large Laser) 
 - **Sources:** TRO: 3055 , [Master Unit List](http://masterunitlist.info/Unit/Details/3444) 
 - **Battle Value:** 1581 
 

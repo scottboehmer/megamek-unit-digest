@@ -45,6 +45,7 @@
 
 ### ilClan 
 
+- Clan Jade Falcon 
 - Lyran Commonwealth 
 - Tamar Pact 
 

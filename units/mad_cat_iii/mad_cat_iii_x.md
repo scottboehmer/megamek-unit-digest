@@ -27,7 +27,7 @@
 
 ## Availability 
 
-### Jihad 
+### Jihad (Unique) 
 
 - Clan Diamond Shark 
 

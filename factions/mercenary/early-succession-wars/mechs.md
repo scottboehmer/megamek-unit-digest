@@ -280,6 +280,10 @@
 - [**Awesome AWS-8Q**](../../../units/awesome/awesome_aws-8q.md) *Sniper (2665)* 
 - [**Awesome AWS-8T**](../../../units/awesome/awesome_aws-8t.md) *Missile Boat (2815)* 
 
+#### [Charger](../../../units/charger.md) 
+
+- [**Charger CGR-1A1**](../../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
+
 #### [Goliath](../../../units/goliath.md) 
 
 - [**Goliath GOL-1H**](../../../units/goliath/goliath_gol-1h.md) *Sniper (2652)* 

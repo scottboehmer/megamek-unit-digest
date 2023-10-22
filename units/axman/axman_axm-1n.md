@@ -68,10 +68,16 @@
 
 - Federated Suns 
 - Filtvelt Coalition 
+- Lyran Commonwealth 
 - Mercenary 
 
 ### Late Republic 
 
 - Filtvelt Coalition 
+- Lyran Commonwealth 
 - Mercenary 
+
+### Dark Ages 
+
+- Lyran Commonwealth 
 

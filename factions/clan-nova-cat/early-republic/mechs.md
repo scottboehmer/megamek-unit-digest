@@ -12,6 +12,10 @@
 
 ### 20 Tons 
 
+#### [Kabuto](../../../units/kabuto.md) 
+
+- [**Kabuto KBO-7A**](../../../units/kabuto/kabuto_kbo-7a.md) *Striker (3059)* 
+
 #### [Locust](../../../units/locust.md) 
 
 - [**Locust C**](../../../units/locust/locust_c.md) *Striker (2836)* 
@@ -140,6 +144,10 @@
 
 - [**Horned Owl**](../../../units/horned_owl/horned_owl.md) *Striker (2835)* 
 
+#### [Jenner](../../../units/jenner.md) 
+
+- [**Jenner JR7-D**](../../../units/jenner/jenner_jr7-d.md) *Striker (2785)* 
+
 #### [Jenner IIC](../../../units/jenner_iic.md) 
 
 - [**Jenner IIC**](../../../units/jenner_iic/jenner_iic.md) *Striker (3042)* 
@@ -248,6 +256,7 @@
 - [**Conjurer 2**](../../../units/conjurer/conjurer_2.md) *Skirmisher (3062)* 
 - [**Conjurer 6**](../../../units/conjurer/conjurer_6.md) *Skirmisher (3063)* 
 - [**Conjurer 3**](../../../units/conjurer/conjurer_3.md) *Skirmisher (3064)* 
+- [**Conjurer 4**](../../../units/conjurer/conjurer_4.md) *Skirmisher (3065)* 
 - [**Conjurer 5**](../../../units/conjurer/conjurer_5.md) *Skirmisher (3067)* 
 
 #### [Crab](../../../units/crab.md) 
@@ -368,9 +377,21 @@
 
 ### 75 Tons 
 
+#### [Black Knight](../../../units/black_knight.md) 
+
+- [**Black Knight BL-6b-KNT**](../../../units/black_knight/black_knight_bl-6b-knt.md) *Brawler (2751)* `Active Probe` 
+
+#### [Dragon Fire](../../../units/dragon_fire.md) 
+
+- [**Dragon Fire DGR-3F**](../../../units/dragon_fire/dragon_fire_dgr-3f.md) *Brawler (3058)* `ECM` 
+
 #### [Flashman](../../../units/flashman.md) 
 
 - [**Flashman FLS-8K**](../../../units/flashman/flashman_fls-8k.md) *Skirmisher (2701)* 
+
+#### [Maelstrom](../../../units/maelstrom.md) 
+
+- [**Maelstrom MTR-5K**](../../../units/maelstrom/maelstrom_mtr-5k.md) *Skirmisher (3056)* `TAG` 
 
 #### [Sphinx](../../../units/sphinx.md) 
 
@@ -397,6 +418,10 @@
 
 ### 80 Tons 
 
+#### [Hatamoto](../../../units/hatamoto.md) 
+
+- [**Hatamoto-Ku HTM-27W**](../../../units/hatamoto/hatamoto-ku_htm-27w.md) *Sniper (3048)* 
+
 #### [Phoenix Hawk IIC](../../../units/phoenix_hawk_iic.md) 
 
 - [**Phoenix Hawk IIC**](../../../units/phoenix_hawk_iic/phoenix_hawk_iic.md) *Sniper (2851)* 
@@ -419,7 +444,13 @@
 
 #### [Deimos](../../../units/deimos.md) 
 
+- [**Deimos Prime**](../../../units/deimos/deimos_prime.md) *Sniper (3085)* 
+- [**Deimos A**](../../../units/deimos/deimos_a.md) *Brawler (3085)* `ECM` 
+- [**Deimos B**](../../../units/deimos/deimos_b.md) *Sniper (3085)* `ECM` 
 - [**Deimos H**](../../../units/deimos/deimos_h.md) *Sniper (3085)* 
+- [**Deimos C**](../../../units/deimos/deimos_c.md) *Sniper (3086)* `ECM` 
+- [**Deimos S**](../../../units/deimos/deimos_s.md) *Sniper (3086)* 
+- [**Deimos D**](../../../units/deimos/deimos_d.md) *Sniper (3119)* 
 
 #### [Marauder IIC](../../../units/marauder_iic.md) 
 
@@ -460,6 +491,10 @@
 - [**Supernova 2**](../../../units/supernova/supernova_2.md) *Juggernaut (3062)* 
 - [**Supernova 3**](../../../units/supernova/supernova_3.md) *Sniper (3064)* 
 - [**Supernova 4**](../../../units/supernova/supernova_4.md) *Juggernaut (3067)* 
+
+#### [Viking](../../../units/viking.md) 
+
+- [**Viking VKG-2G**](../../../units/viking/viking_vkg-2g.md) *Juggernaut (3060)* `ECM` 
 
 ### 95 Tons 
 

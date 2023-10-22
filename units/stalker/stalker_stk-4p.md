@@ -133,3 +133,15 @@
 - Pirate 
 - Taurian Concordat 
 
+### Late Republic 
+
+- Marian Hegemony 
+
+### Dark Ages 
+
+- Marian Hegemony 
+
+### ilClan 
+
+- Marian Hegemony 
+

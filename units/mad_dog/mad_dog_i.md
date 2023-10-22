@@ -28,6 +28,7 @@
 - Clan Jade Falcon 
 - Clan Wolf-in-Exile 
 - Mercenary 
+- Rasalhague Dominion 
 - Raven Alliance 
 - Republic of the Sphere 
 - Scorpion Empire 
@@ -36,6 +37,7 @@
 ### ilClan 
 
 - Clan Hell's Horses 
+- Rasalhague Dominion 
 - Raven Alliance 
 - Scorpion Empire 
 - Star League (Smoke Jaguar) 

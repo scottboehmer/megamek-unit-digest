@@ -593,8 +593,3 @@
 - [**Behemoth Heavy Tank (Flamer)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_flamer.md) *Juggernaut (2981)* 
 - [**Behemoth Heavy Tank (Refit)**](../../../units/behemoth_heavy_tank/behemoth_heavy_tank_refit.md) *Undefined (3060)* 
 
-#### [Behemoth II Heavy Tank](../../../units/behemoth_ii_heavy_tank.md) 
-
-- [**Behemoth II Heavy Tank**](../../../units/behemoth_ii_heavy_tank/behemoth_ii_heavy_tank.md) *Missile Boat (3102)* 
-- [**Behemoth II Heavy Tank (Support)**](../../../units/behemoth_ii_heavy_tank/behemoth_ii_heavy_tank_support.md) *Sniper (3102)* 
-

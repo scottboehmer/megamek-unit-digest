@@ -35,6 +35,10 @@
 
 ### 30 Tons 
 
+#### [Falcon](../../../units/falcon.md) 
+
+- [**Falcon FLC-4N**](../../../units/falcon/falcon_flc-4n.md) *Scout (2582)* 
+
 #### [Javelin](../../../units/javelin.md) 
 
 - [**Javelin JVN-10N**](../../../units/javelin/javelin_jvn-10n.md) *Striker (2751)* 
@@ -112,6 +116,10 @@
 #### [Phoenix Hawk](../../../units/phoenix_hawk.md) 
 
 - [**Phoenix Hawk PXH-1**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)* 
+
+#### [Vindicator](../../../units/vindicator.md) 
+
+- [**Vindicator VND-1R**](../../../units/vindicator/vindicator_vnd-1r.md) *Brawler (2826)* 
 
 #### [Wyvern](../../../units/wyvern.md) 
 
@@ -274,6 +282,10 @@
 
 - [**Awesome AWS-8Q**](../../../units/awesome/awesome_aws-8q.md) *Sniper (2665)* 
 - [**Awesome AWS-8T**](../../../units/awesome/awesome_aws-8t.md) *Missile Boat (2815)* 
+
+#### [Charger](../../../units/charger.md) 
+
+- [**Charger CGR-1A1**](../../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
 
 #### [Goliath](../../../units/goliath.md) 
 

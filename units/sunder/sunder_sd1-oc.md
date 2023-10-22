@@ -81,6 +81,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 
@@ -91,6 +92,7 @@
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Draconis Combine 
 - Federated Suns 
 - Lyran Commonwealth 

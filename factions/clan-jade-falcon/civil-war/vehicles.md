@@ -10,6 +10,10 @@
 
 ### 5 Tons 
 
+#### [Gabriel Reconnaissance Hovercraft](../../../units/gabriel_reconnaissance_hovercraft.md) 
+
+- [**Gabriel Reconnaissance Hovercraft**](../../../units/gabriel_reconnaissance_hovercraft/gabriel_reconnaissance_hovercraft.md) *Scout (2712)* 
+
 #### [Jeep](../../../units/jeep.md) 
 
 - [**Jeep**](../../../units/jeep/jeep.md) *Undefined (1950)* `Transport:2.0` 
@@ -115,6 +119,10 @@
 
 ### 25 Tons 
 
+#### [J. Edgar Light Hover Tank](../../../units/j._edgar_light_hover_tank.md) 
+
+- [**J. Edgar Light Hover Tank**](../../../units/j._edgar_light_hover_tank/j._edgar_light_hover_tank.md) *Scout (2722)* 
+
 #### [Kestrel VTOL](../../../units/kestrel_vtol.md) 
 
 - [**Kestrel VTOL (Clan)**](../../../units/kestrel_vtol/kestrel_vtol_clan.md) *Scout (2880)* `Transport:4.0` 
@@ -150,6 +158,10 @@
 - [**Cyrano Gunship (Royal)**](../../../units/cyrano_gunship/cyrano_gunship_royal.md) *Scout (2721)* `Active Probe` , `TAG` 
 
 ### 35 Tons 
+
+#### [Hunter Light Support Tank](../../../units/hunter_light_support_tank.md) 
+
+- [**Hunter Light Support Tank**](../../../units/hunter_light_support_tank/hunter_light_support_tank.md) *Missile Boat (2937)* 
 
 #### [Indra Infantry Transport](../../../units/indra_infantry_transport.md) 
 
@@ -258,9 +270,17 @@
 
 - [**Athena Combat Vehicle**](../../../units/athena_combat_vehicle/athena_combat_vehicle.md) *Juggernaut (3008)* 
 
+#### [Burke Defense Tank](../../../units/burke_defense_tank.md) 
+
+- [**Burke Defense Tank (Royal)**](../../../units/burke_defense_tank/burke_defense_tank_royal.md) *Sniper (2713)* 
+
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 
 - [**Mobile Long Tom Artillery LT-MOB-25**](../../../units/mobile_long_tom_artillery/mobile_long_tom_artillery_lt-mob-25.md) *Undefined (2602)* 
+
+#### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
+
+- [**Von Luckner Heavy Tank (Royal)**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_royal.md) *Sniper (2761)* 
 
 ### 80 Tons 
 
@@ -288,6 +308,10 @@
 - [**SturmFeur Heavy Tank (Cell)**](../../../units/sturmfeur_heavy_tank/sturmfeur_heavy_tank_cell.md) *Missile Boat (3149)* 
 
 ### 95 Tons 
+
+#### [Alacorn Heavy Tank](../../../units/alacorn_heavy_tank.md) 
+
+- [**Alacorn Heavy Tank Mk VI**](../../../units/alacorn_heavy_tank/alacorn_heavy_tank_mk_vi.md) *Sniper (2590)* 
 
 #### [Mobile Long Tom Artillery](../../../units/mobile_long_tom_artillery.md) 
 

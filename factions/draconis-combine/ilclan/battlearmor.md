@@ -82,6 +82,8 @@
 
 #### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
 
+- [**IS Standard Battle Armor (Baka) (LRR)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_baka_lrrsqd4.md) *Ambusher (3086)* 
+- [**IS Standard Battle Armor (Baka) (SL)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_baka_slsqd4.md) *Ambusher (3086)* 
 - [**IS Standard Battle Armor (Magnetic)(Sqd4)**](../../../units/is_standard_battle_armor/is_standard_battle_armor_magneticsqd4.md) *Ambusher (3141)* 
 
 #### [Oni Battle Armor](../../../units/oni_battle_armor.md) 
@@ -139,6 +141,7 @@
 - [**Kanazuchi Assault Battle Armor (Industrial Drill)(Sqd4)**](../../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_industrial_drillsqd4.md) *Juggernaut (3058)* 
 - [**Kanazuchi Assault Battle Armor (Salvage Arm)(Sqd4)**](../../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_salvage_armsqd4.md) *Juggernaut (3058)* 
 - [**Kanazuchi Assault Battle Armor (Upgrade) (Battle Claw)(Sqd4)**](../../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_upgrade_battle_clawsqd4.md) *Juggernaut (3070)* 
+- [**Kanazuchi Assault Battle Armor (Support)(Sqd4)**](../../../units/kanazuchi_assault_battle_armor/kanazuchi_assault_battle_armor_supportsqd4.md) *Juggernaut (3145)* 
 
 #### [Ravager Assault Battle Armor](../../../units/ravager_assault_battle_armor.md) 
 

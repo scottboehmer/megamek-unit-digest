@@ -27,6 +27,22 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Steel Viper 
+
+### Late Succession Wars - LosTech 
+
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Steel Viper 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Jade Falcon 
+- Clan Snow Raven 
+- Clan Steel Viper 
+
 ### Clan Invasion 
 
 - Clan Jade Falcon 

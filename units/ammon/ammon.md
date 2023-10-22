@@ -55,6 +55,7 @@
 - Clan Wolf 
 - Escorpión Imperio 
 - Rasalhague Dominion 
+- Republic of the Sphere 
 
 ### Late Republic 
 
@@ -64,19 +65,23 @@
 - Clan Wolf 
 - Escorpión Imperio 
 - Rasalhague Dominion 
+- Republic of the Sphere 
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Nova Cat 
 - Clan Sea Fox 
 - Clan Wolf 
 - Escorpión Imperio 
 - Rasalhague Dominion 
+- Republic of the Sphere 
 - Scorpion Empire 
 
 ### ilClan 
 
+- Capellan Confederation 
 - Clan Hell's Horses 
 - Clan Protectorate 
 - Clan Sea Fox 

@@ -42,8 +42,14 @@
 
 - Draconis Combine 
 - Free Rasalhague Republic 
+- Mercenary 
 
 ### Early Republic 
 
 - Draconis Combine 
+- Mercenary 
+
+### Late Republic 
+
+- Mercenary 
 

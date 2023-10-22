@@ -8,6 +8,11 @@
 
 - [**Flea FLE-14**](../../../units/flea/flea_fle-14.md) *Scout (2519)* 
 
+#### [Patron](../../../units/patron.md) 
+
+- [**Patron PTN-1 LoaderMech**](../../../units/patron/patron_ptn-1_loadermech.md) *Ambusher (2470)* `IndustrialMech` 
+- [**Patron LoaderMech**](../../../units/patron/patron_loadermech.md) *Ambusher (2550)* `IndustrialMech` 
+
 ### 20 Tons 
 
 #### [Flea](../../../units/flea.md) 
@@ -30,6 +35,10 @@
 - [**Wasp WSP-1A**](../../../units/wasp/wasp_wsp-1a.md) *Scout (2471)* 
 
 ### 25 Tons 
+
+#### [ForestryMech](../../../units/forestrymech.md) 
+
+- [**ForestryMech ED-X3**](../../../units/forestrymech/forestrymech_ed-x3.md) *Ambusher (2865)* `IndustrialMech` 
 
 #### [Harvester Ant](../../../units/harvester_ant.md) 
 

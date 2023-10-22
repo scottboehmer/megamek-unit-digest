@@ -36,9 +36,11 @@
 
 ### Early Republic 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
 - Regulan Fiefs 
@@ -47,9 +49,11 @@
 
 ### Late Republic 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
 - Regulan Fiefs 
@@ -58,10 +62,12 @@
 
 ### Dark Ages 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
 - Free Worlds League - Non-Aligned Worlds 
+- Magistracy of Canopus 
 - Marik-Stewart Commonwealth 
 - Oriente Protectorate 
 - Regulan Fiefs 
@@ -70,6 +76,8 @@
 
 ### ilClan 
 
+- Capellan Confederation 
 - Duchy of Andurien 
 - Free Worlds League 
+- Magistracy of Canopus 
 

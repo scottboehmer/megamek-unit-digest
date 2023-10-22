@@ -42,6 +42,7 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
@@ -50,6 +51,7 @@
 
 ### Late Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Fronc Reaches 
 - Magistracy of Canopus 
@@ -58,6 +60,7 @@
 
 ### Dark Ages 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Duchy of Andurien 
 - Fronc Reaches 
@@ -66,6 +69,7 @@
 
 ### ilClan 
 
+- Calderon Protectorate 
 - Duchy of Andurien 
 - Fronc Reaches 
 - Magistracy of Canopus 

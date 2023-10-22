@@ -36,6 +36,7 @@
 - Lyran Alliance 
 - Lyran Commonwealth 
 - Mercenary 
+- St. Ives Compact 
 - Wolf's Dragoons 
 - Word of Blake 
 
@@ -50,6 +51,7 @@
 - Lyran Alliance 
 - Magistracy of Canopus 
 - Mercenary 
+- St. Ives Compact 
 - Taurian Concordat 
 - Wolf's Dragoons 
 - Word of Blake 

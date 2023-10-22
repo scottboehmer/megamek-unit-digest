@@ -76,6 +76,8 @@
 ### Dark Ages 
 
 - Calderon Protectorate 
+- Draconis Combine 
+- Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 
@@ -87,6 +89,8 @@
 ### ilClan 
 
 - Calderon Protectorate 
+- Draconis Combine 
+- Federated Suns 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Magistracy of Canopus 

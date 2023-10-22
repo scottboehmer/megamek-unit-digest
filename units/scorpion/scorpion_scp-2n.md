@@ -10,10 +10,10 @@
 - **Movement:** 6 / 9 (12), Light 
 - **Armor:** 184 
 - **Gyroscope:** XL Gyro 
-- **Heat Sinks:** 10 (10) 
+- **Heat Sinks:** 10 (20) 
 - **Weapons:** 
   - Plasma Rifle (ammo: 20) 
-  - MML 3 × 2 (ammo: 40 LRM, 33 SRM) 
+  - MML 3 × 2 (ammo: 33 SRM, 40 LRM) 
 - **Equipment:** 
   - TAG 
   - Supercharger 

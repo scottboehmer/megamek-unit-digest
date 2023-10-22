@@ -26,6 +26,7 @@
 
 ### Jihad 
 
+- Clan Burrock 
 - Clan Diamond Shark 
 - Clan Hell's Horses 
 - Clan Star Adder 

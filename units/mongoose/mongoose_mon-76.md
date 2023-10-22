@@ -35,11 +35,20 @@
 
 ### Early Republic 
 
+- Capellan Confederation 
 - Draconis Combine 
+- Duchy of Andurien 
+- Duchy of Tamarind-Abbey 
 - Federated Suns 
+- Free Worlds League - Non-Aligned Worlds 
+- Lyran Commonwealth 
+- Marik-Stewart Commonwealth 
 - Mercenary 
+- Oriente Protectorate 
 - Rasalhague Dominion 
+- Regulan Fiefs 
 - Republic of the Sphere 
+- Rim Commonality 
 
 ### Late Republic 
 
@@ -81,6 +90,7 @@
 
 - Capellan Confederation 
 - Draconis Combine 
+- Duchy of Andurien 
 - Federated Suns 
 - Mercenary 
 

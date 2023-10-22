@@ -34,6 +34,7 @@
 
 ### Late Succession Wars - Renaissance 
 
+- Capellan Confederation 
 - Free Rasalhague Republic 
 - St. Ives Compact 
 

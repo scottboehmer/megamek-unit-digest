@@ -27,6 +27,12 @@
 - [**Thrush TR-8**](../../../units/thrush/thrush_tr-8.md) *Interceptor (3065)* 
 - [**Thrush TR-9**](../../../units/thrush/thrush_tr-9.md) *Undefined (3143)* 
 
+### 35 Tons 
+
+#### [Poignard](../../../units/poignard.md) 
+
+- [**Poignard PGD-Y3**](../../../units/poignard/poignard_pgd-y3.md) *Fast Dogfighter (3083)* 
+
 ### 40 Tons 
 
 #### [Yun](../../../units/yun.md) 
@@ -70,6 +76,10 @@
 - [**Stingray F-95**](../../../units/stingray/stingray_f-95.md) *Fire Support (3069)* 
 
 ### 65 Tons 
+
+#### [Ammon](../../../units/ammon.md) 
+
+- [**Ammon**](../../../units/ammon/ammon.md) *Dogfighter (3064)* 
 
 #### [Troika](../../../units/troika.md) 
 

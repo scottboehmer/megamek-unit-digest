@@ -70,6 +70,7 @@
 
 ### Early Republic 
 
+- Calderon Protectorate 
 - Capellan Confederation 
 - Federated Suns 
 - Filtvelt Coalition 
@@ -81,8 +82,15 @@
 
 ### Late Republic 
 
+- Calderon Protectorate 
 - Filtvelt Coalition 
 - Fronc Reaches 
 - Marian Hegemony 
 - Mercenary 
+- Taurian Concordat 
+
+### Dark Ages 
+
+- Calderon Protectorate 
+- Taurian Concordat 
 

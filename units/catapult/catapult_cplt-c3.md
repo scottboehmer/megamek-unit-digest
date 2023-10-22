@@ -29,6 +29,7 @@
 - Draconis Combine 
 - Federated Commonwealth 
 - Federated Suns 
+- St. Ives Compact 
 - Word of Blake 
 
 ### Civil War 
@@ -39,6 +40,7 @@
 - Federated Commonwealth 
 - Federated Suns 
 - Magistracy of Canopus 
+- St. Ives Compact 
 - Taurian Concordat 
 - Word of Blake 
 

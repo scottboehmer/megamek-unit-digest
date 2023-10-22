@@ -37,6 +37,7 @@
 - Free Worlds League 
 - Lyran Commonwealth 
 - Marik-Stewart Commonwealth 
+- Republic of the Sphere 
 
 ### ilClan 
 

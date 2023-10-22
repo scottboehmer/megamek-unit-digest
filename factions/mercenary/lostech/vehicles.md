@@ -340,6 +340,14 @@
 - [**Rhino Fire Support Tank (MG)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_mg.md) *Missile Boat (2725)* 
 - [**Rhino Fire Support Tank (Flamer)**](../../../units/rhino_fire_support_tank/rhino_fire_support_tank_flamer.md) *Missile Boat (2835)* 
 
+#### [Schrek AC Carrier](../../../units/schrek_ac_carrier.md) 
+
+- [**Schrek AC Carrier**](../../../units/schrek_ac_carrier/schrek_ac_carrier.md) *Sniper (2916)* 
+
+#### [Schrek PPC Carrier](../../../units/schrek_ppc_carrier.md) 
+
+- [**Schrek PPC Carrier**](../../../units/schrek_ppc_carrier/schrek_ppc_carrier.md) *Sniper (2813)* 
+
 ### 85 Tons 
 
 #### [Mauna Kea Command Vessel](../../../units/mauna_kea_command_vessel.md) 

@@ -31,12 +31,37 @@
 - [**Tunnel Rat II Mining Exoskeleton (Armored Glove)(Sqd4)**](../../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_armored_glovesqd4.md) *Undefined (3055)* 
 - [**Tunnel Rat II Mining Exoskeleton (Industrial Drill)(Sqd4)**](../../../units/tunnel_rat_ii_mining_exoskeleton/tunnel_rat_ii_mining_exoskeleton_industrial_drillsqd4.md) *Undefined (3058)* 
 
+### 0.75 Tons 
+
+#### [Achileus Light Battle Armor](../../../units/achileus_light_battle_armor.md) 
+
+- [**Achileus Light Battle Armor (Flamer)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_flamersqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (Laser)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_laser.md) *Undefined (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (Laser)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_lasersqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (MG)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_mgsqd4.md) *Ambusher (3057)* `Stealth` 
+- [**Achileus Light Battle Armor (TAG)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_tagsqd4.md) *Ambusher (3059)* `Stealth` , `TAG` 
+- [**Achileus Light Battle Armor (David)(Sqd4)**](../../../units/achileus_light_battle_armor/achileus_light_battle_armor_davidsqd4.md) *Ambusher (3064)* `Stealth` 
+
+#### [Spectre Stealth Battle Armor](../../../units/spectre_stealth_battle_armor.md) 
+
+- [**Spectre Stealth Battle Armor (Sqd4)**](../../../units/spectre_stealth_battle_armor/spectre_stealth_battle_armor_sqd4.md) *Scout (3097)* `Stealth` 
+
 ### 1 Tons 
 
 #### [Amazon Battle Armor](../../../units/amazon_battle_armor.md) 
 
 - [**Amazon Battle Armor (MRR)(Sqd4)**](../../../units/amazon_battle_armor/amazon_battle_armor_mrrsqd4.md) *Ambusher (3101)* 
 - [**Amazon Battle Armor (Support PPC)(Sqd4)**](../../../units/amazon_battle_armor/amazon_battle_armor_support_ppcsqd4.md) *Ambusher (3101)* 
+
+#### [Fa Shih Battle Armor](../../../units/fa_shih_battle_armor.md) 
+
+- [**Fa Shih Battle Armor (Flamer)(Sqd4)**](../../../units/fa_shih_battle_armor/fa_shih_battle_armor_flamersqd4.md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor (Laser)(Sqd4)**](../../../units/fa_shih_battle_armor/fa_shih_battle_armor_lasersqd4.md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor (LRR)(Sqd4)**](../../../units/fa_shih_battle_armor/fa_shih_battle_armor_lrrsqd4.md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor (MG)(Sqd4)**](../../../units/fa_shih_battle_armor/fa_shih_battle_armor_mgsqd4.md) *Ambusher (3062)* 
+- [**Fa Shih Battle Armor (TAG)(Sqd4)**](../../../units/fa_shih_battle_armor/fa_shih_battle_armor_tagsqd4.md) *Ambusher (3062)* `TAG` 
+- [**Fa Shih Battle Armor (Support) (King David)(Sqd4)**](../../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_king_davidsqd4.md) *Ambusher (3074)* 
+- [**Fa Shih Battle Armor (Support) (Plasma)(Sqd4)**](../../../units/fa_shih_battle_armor/fa_shih_battle_armor_support_plasmasqd4.md) *Ambusher (3074)* 
 
 #### [IS Standard Battle Armor](../../../units/is_standard_battle_armor.md) 
 
@@ -55,9 +80,17 @@
 - [**Leonidas Battle Armor (Sensor)(Sqd4)**](../../../units/leonidas_battle_armor/leonidas_battle_armor_sensorsqd4.md) *Scout (3096)* `Active Probe` , `ECM` , `Stealth` 
 - [**Leonidas Battle Armor (TAG)(Sqd4)**](../../../units/leonidas_battle_armor/leonidas_battle_armor_tagsqd4.md) *Scout (3096)* `ECM` , `Stealth` , `TAG` 
 
+#### [Longinus Battle Armor](../../../units/longinus_battle_armor.md) 
+
+- [**Longinus Battle Armor (Flamer)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_flamersqd4.md) *Ambusher (3057)* 
+- [**Longinus Battle Armor (Laser)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_lasersqd4.md) *Ambusher (3057)* 
+- [**Longinus Battle Armor (MG)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_mgsqd4.md) *Ambusher (3057)* 
+- [**Longinus Battle Armor (David)(Sqd4)**](../../../units/longinus_battle_armor/longinus_battle_armor_davidsqd4.md) *Ambusher (3063)* 
+
 #### [Trinity Medium Battle Armor](../../../units/trinity_medium_battle_armor.md) 
 
 - [**Trinity Medium Battle Armor (Theseus)(MRR)(Sqd4)**](../../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseusmrrsqd4.md) *Ambusher (3065)* 
+- [**Trinity Medium Battle Armor (Ying Long)(Plasma)(Sqd4)**](../../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_ying_longplasmasqd4.md) *Ambusher (3065)* `Stealth` 
 - [**Trinity Medium Battle Armor (Theseus RL)(LRR)(Sqd4)**](../../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseus_rllrrsqd4.md) *Ambusher (3069)* 
 - [**Trinity Medium Battle Armor (Theseus Support)'Killshot'(Sqd4)**](../../../units/trinity_medium_battle_armor/trinity_medium_battle_armor_theseus_supportkillshotsqd4.md) *Ambusher (3073)* 
 

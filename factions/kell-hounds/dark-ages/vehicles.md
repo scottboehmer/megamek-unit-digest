@@ -187,9 +187,9 @@
 
 #### [SM Tank Destroyer](../../../units/sm_tank_destroyer.md) 
 
-- [**SM1 Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm1_tank_destroyer_sm1.md) *Striker (3068)* 
-- [**SM1A Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm1a_tank_destroyer_sm1a.md) *Striker (3070)* `Active Probe` 
-- [**SM3 Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm3_tank_destroyer_sm3.md) *Striker (3074)* 
+- [**SM Tank Destroyer SM1**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1.md) *Undefined (3068)* 
+- [**SM Tank Destroyer SM1A**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm1a.md) *Undefined (3070)* `Active Probe` 
+- [**SM Tank Destroyer SM3**](../../../units/sm_tank_destroyer/sm_tank_destroyer_sm3.md) *Undefined (3074)* 
 
 ### 70 Tons 
 
@@ -220,6 +220,9 @@
 
 - [**Fensalir Combat WiGE (HAG)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_hag.md) *Skirmisher (3084)* `Transport:5.0` 
 - [**Fensalir Combat WiGE (XXL)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_xxl.md) *Skirmisher (3084)* 
+- [**Fensalir Combat WiGE (3132 Upgrade)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_3132_upgrade.md) *Skirmisher (3132)* `ECM` 
+- [**Fensalir Combat WiGE (3137 Upgrade)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_3137_upgrade.md) *Sniper (3137)* `ECM` 
+- [**Fensalir Combat WiGE (Stealth)**](../../../units/fensalir_combat_wige/fensalir_combat_wige_stealth.md) *Sniper (3141)* `ECM` , `Stealth` 
 
 #### [Partisan Air Defense Tank](../../../units/partisan_air_defense_tank.md) 
 

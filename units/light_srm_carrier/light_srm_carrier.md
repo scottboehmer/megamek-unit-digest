@@ -67,6 +67,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Raven Alliance 
 - Taurian Concordat 
@@ -79,6 +80,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Raven Alliance 
 - Taurian Concordat 
@@ -91,6 +93,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Pirate 
 - Raven Alliance 
 - Taurian Concordat 

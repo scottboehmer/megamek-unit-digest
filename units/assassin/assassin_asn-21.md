@@ -38,6 +38,8 @@
 ### Early Succession Wars 
 
 - Capellan Confederation 
+- Clan Cloud Cobra 
+- Clan Ice Hellion 
 - ComStar 
 - Draconis Combine 
 - Federated Suns 
@@ -45,6 +47,7 @@
 - Lyran Commonwealth 
 - Magistracy of Canopus 
 - Mercenary 
+- Star League-in-Exile 
 - Taurian Concordat 
 
 ### Late Succession Wars - LosTech 
@@ -144,4 +147,29 @@
 - Taurian Concordat 
 - Wolf's Dragoons 
 - Word of Blake 
+
+### Early Republic 
+
+- Calderon Protectorate 
+- Filtvelt Coalition 
+- Fronc Reaches 
+- Magistracy of Canopus 
+- Marian Hegemony 
+- Pirate 
+- Taurian Concordat 
+
+### Late Republic 
+
+- Filtvelt Coalition 
+- Pirate 
+
+### Dark Ages 
+
+- Filtvelt Coalition 
+- Pirate 
+
+### ilClan 
+
+- Filtvelt Coalition 
+- Pirate 
 

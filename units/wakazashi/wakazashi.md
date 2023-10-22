@@ -25,5 +25,15 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Succession Wars 
+
+- Clan Jade Falcon 
+
+### Late Succession Wars - LosTech 
+
+- Clan Jade Falcon 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Jade Falcon 
 

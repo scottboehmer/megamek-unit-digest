@@ -44,18 +44,26 @@
 
 ### Late Republic 
 
+- Clan Hell's Horses 
 - Clan Sea Fox 
+- Clan Wolf 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
+- Clan Hell's Horses 
 - Clan Sea Fox 
+- Clan Wolf 
 - Rasalhague Dominion 
+- Raven Alliance 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Clan Hell's Horses 
 - Clan Sea Fox 
 - Rasalhague Dominion 
+- Raven Alliance 
 

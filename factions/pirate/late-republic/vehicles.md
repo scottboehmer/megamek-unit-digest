@@ -440,6 +440,7 @@
 
 #### [Von Luckner Heavy Tank](../../../units/von_luckner_heavy_tank.md) 
 
+- [**Von Luckner Heavy Tank VNL-K65N**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-k65n.md) *Juggernaut (2612)* 
 - [**Von Luckner Heavy Tank VNL-X71 (Yakuza)**](../../../units/von_luckner_heavy_tank/von_luckner_heavy_tank_vnl-x71_yakuza.md) *Juggernaut (3076)* 
 
 #### [Zhukov Heavy Tank](../../../units/zhukov_heavy_tank.md) 

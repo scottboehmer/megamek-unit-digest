@@ -33,13 +33,16 @@
 
 ### Late Republic 
 
+- Magistracy of Canopus 
 - Taurian Concordat 
 
 ### Dark Ages 
 
+- Magistracy of Canopus 
 - Taurian Concordat 
 
 ### ilClan 
 
+- Magistracy of Canopus 
 - Taurian Concordat 
 

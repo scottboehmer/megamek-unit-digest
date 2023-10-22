@@ -49,6 +49,7 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Regulan Fiefs 
 - Taurian Concordat 
 
@@ -60,6 +61,8 @@
 - Free Worlds League 
 - Fronc Reaches 
 - Magistracy of Canopus 
+- Marian Hegemony 
+- Mercenary 
 - Regulan Fiefs 
 - Taurian Concordat 
 
@@ -72,5 +75,6 @@
 - Fronc Reaches 
 - Magistracy of Canopus 
 - Marian Hegemony 
+- Mercenary 
 - Taurian Concordat 
 

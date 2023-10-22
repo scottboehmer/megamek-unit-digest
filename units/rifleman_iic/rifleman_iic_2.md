@@ -23,6 +23,10 @@
 
 ## Availability 
 
+### Late Succession Wars - LosTech 
+
+- Clan Smoke Jaguar 
+
 ### Late Succession Wars - Renaissance 
 
 - Clan Burrock 
@@ -105,20 +109,24 @@
 ### Early Republic 
 
 - Clan Nova Cat 
+- Mercenary 
 - Raven Alliance 
 
 ### Late Republic 
 
 - Clan Nova Cat 
+- Mercenary 
 - Raven Alliance 
 
 ### Dark Ages 
 
 - Clan Nova Cat 
+- Mercenary 
 - Raven Alliance 
 
 ### ilClan 
 
 - Clan Protectorate 
+- Mercenary 
 - Raven Alliance 
 

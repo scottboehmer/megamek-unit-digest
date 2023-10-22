@@ -44,6 +44,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Jade Falcon 
 - Clan Wolf 
 - Clan Wolf-in-Exile 
 - Duchy of Andurien 

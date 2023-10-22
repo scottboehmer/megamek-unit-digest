@@ -24,6 +24,20 @@
 
 ## Availability 
 
+### Early Succession Wars 
+
+- Clan Ice Hellion 
+
+### Late Succession Wars - LosTech 
+
+- Clan Ice Hellion 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Ice Hellion 
+- Clan Wolf 
+
 ### Clan Invasion 
 
 - Clan Ice Hellion 

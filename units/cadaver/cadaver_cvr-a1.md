@@ -72,6 +72,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
@@ -96,6 +97,7 @@
 
 - Calderon Protectorate 
 - Capellan Confederation 
+- Clan Sea Fox 
 - Draconis Combine 
 - Duchy of Andurien 
 - Federated Suns 

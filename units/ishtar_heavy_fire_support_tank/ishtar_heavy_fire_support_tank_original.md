@@ -21,5 +21,27 @@
 
 ## Availability 
 
-Availability Unknown 
+### Early Succession Wars 
+
+- Clan Hell's Horses 
+- Clan Steel Viper 
+
+### Late Succession Wars - LosTech 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Diamond Shark 
+- Clan Fire Mandrill 
+- Clan Goliath Scorpion 
+- Clan Hell's Horses 
+- Clan Star Adder 
+- Clan Steel Viper 
+- Clan Wolf 
+
+### Late Succession Wars - Renaissance 
+
+- Clan Blood Spirit 
+- Clan Burrock 
+- Clan Fire Mandrill 
+- Clan Hell's Horses 
 

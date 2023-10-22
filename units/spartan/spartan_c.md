@@ -49,10 +49,6 @@
 
 - Clan Fire Mandrill 
 
-### Late Republic 
-
-- Escorpión Imperio 
-
 ### Dark Ages 
 
 - Escorpión Imperio 

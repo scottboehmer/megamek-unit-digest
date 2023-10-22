@@ -54,11 +54,18 @@
 - [**Wasp WSP-1A**](../../../units/wasp/wasp_wsp-1a.md) *Scout (2471)* 
 - [**Wasp WSP-3M**](../../../units/wasp/wasp_wsp-3m.md) *Scout (3051)* 
 - [**Wasp WSP-3L**](../../../units/wasp/wasp_wsp-3l.md) *Scout (3067)* `ECM` , `Stealth` 
+- [**Wasp WSP-7MAF**](../../../units/wasp/wasp_wsp-7maf.md) *Scout (3071)* 
 - [**Wasp WSP-8T**](../../../units/wasp/wasp_wsp-8t.md) *Scout (3075)* 
 - [**Wasp WSP-3P**](../../../units/wasp/wasp_wsp-3p.md) *Scout (3086)* 
 - [**Wasp WSP-5A**](../../../units/wasp/wasp_wsp-5a.md) *Scout (3114)* 
 
 ### 25 Tons 
+
+#### [Brigand](../../../units/brigand.md) 
+
+- [**Brigand LDT-1**](../../../units/brigand/brigand_ldt-1.md) *Striker (3065)* 
+- [**Brigand LDT-X1**](../../../units/brigand/brigand_ldt-x1.md) *Striker (3066)* 
+- [**Brigand LDT-X2**](../../../units/brigand/brigand_ldt-x2.md) *Striker (3066)* 
 
 #### [CattleMaster](../../../units/cattlemaster.md) 
 
@@ -91,6 +98,10 @@
 - [**Hermit Crab HMC-13**](../../../units/hermit_crab/hermit_crab_hmc-13.md) *Scout (3104)* 
 - [**Hermit Crab HMC-14**](../../../units/hermit_crab/hermit_crab_hmc-14.md) *Striker (3108)* 
 - [**Hermit Crab HMC-15**](../../../units/hermit_crab/hermit_crab_hmc-15.md) *Striker (3108)* 
+
+#### [Koshi (Standard)](../../../units/koshi_standard.md) 
+
+- [**Koshi (Standard)**](../../../units/koshi_standard/koshi_standard.md) *Striker (3091)* `Active Probe` , `TAG` 
 
 #### [Peacekeeper SecurityMech](../../../units/peacekeeper_securitymech.md) 
 
@@ -138,6 +149,7 @@
 
 - [**Javelin JVN-10N**](../../../units/javelin/javelin_jvn-10n.md) *Striker (2751)* 
 - [**Javelin JVN-10A**](../../../units/javelin/javelin_jvn-10a.md) *Striker (2752)* 
+- [**Javelin JVN-10F 'Fire Javelin'**](../../../units/javelin/javelin_jvn-10f_fire_javelin.md) *Striker (2819)* 
 - [**Javelin JVN-10P**](../../../units/javelin/javelin_jvn-10p.md) *Striker (3049)* 
 
 #### [Spider](../../../units/spider.md) 
@@ -215,12 +227,25 @@
 - [**StrongArm SC CV ConstructionMech**](../../../units/strongarm/strongarm_sc_cv_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 - [**StrongArm SC CVI ConstructionMech**](../../../units/strongarm/strongarm_sc_cvi_constructionmech.md) *Undefined (3094)* `IndustrialMech` 
 
+#### [Toro](../../../units/toro.md) 
+
+- [**Toro TR-A-1**](../../../units/toro/toro_tr-a-1.md) *Brawler (2481)* 
+- [**Toro TR-A-6**](../../../units/toro/toro_tr-a-6.md) *Missile Boat (2548)* 
+
 #### [Wight](../../../units/wight.md) 
 
 - [**Wight WGT-2SC**](../../../units/wight/wight_wgt-2sc.md) *Brawler (3069)* 
 - [**Wight WGT-3SC**](../../../units/wight/wight_wgt-3sc.md) *Brawler (3076)* 
 
+#### [Wolfhound](../../../units/wolfhound.md) 
+
+- [**Wolfhound WLF-1**](../../../units/wolfhound/wolfhound_wlf-1.md) *Striker (3028)* 
+
 ### 40 Tons 
+
+#### [Assassin](../../../units/assassin.md) 
+
+- [**Assassin ASN-23**](../../../units/assassin/assassin_asn-23.md) *Striker (3050)* 
 
 #### [Cicada](../../../units/cicada.md) 
 
@@ -251,17 +276,21 @@
 #### [Vulcan](../../../units/vulcan.md) 
 
 - [**Vulcan VL-2T**](../../../units/vulcan/vulcan_vl-2t.md) *Scout (2777)* 
+- [**Vulcan VL-5T**](../../../units/vulcan/vulcan_vl-5t.md) *Striker (2778)* 
+- [**Vulcan VT-5M**](../../../units/vulcan/vulcan_vt-5m.md) *Striker (3050)* 
 - [**Vulcan VT-7T**](../../../units/vulcan/vulcan_vt-7t.md) *Scout (3091)* 
 
 #### [Whitworth](../../../units/whitworth.md) 
 
 - [**Whitworth WTH-1**](../../../units/whitworth/whitworth_wth-1.md) *Missile Boat (2689)* 
+- [**Whitworth WTH-2**](../../../units/whitworth/whitworth_wth-2.md) *Missile Boat (3050)* 
 - [**Whitworth WTH-1H**](../../../units/whitworth/whitworth_wth-1h.md) *Juggernaut (3066)* 
 
 ### 45 Tons 
 
 #### [Blackjack](../../../units/blackjack.md) 
 
+- [**Blackjack BJ-1**](../../../units/blackjack/blackjack_bj-1.md) *Sniper (2757)* 
 - [**Blackjack BJ-3**](../../../units/blackjack/blackjack_bj-3.md) *Brawler (3042)* 
 
 #### [Eisenfaust](../../../units/eisenfaust.md) 
@@ -275,6 +304,7 @@
 
 #### [Phoenix Hawk](../../../units/phoenix_hawk.md) 
 
+- [**Phoenix Hawk PXH-1**](../../../units/phoenix_hawk/phoenix_hawk_pxh-1.md) *Skirmisher (2568)* 
 - [**Phoenix Hawk PXH-4W**](../../../units/phoenix_hawk/phoenix_hawk_pxh-4w.md) *Striker (3079)* `ECM` 
 - [**Phoenix Hawk PXH-4M**](../../../units/phoenix_hawk/phoenix_hawk_pxh-4m.md) *Striker (3087)* 
 
@@ -295,6 +325,11 @@
 - [**Vindicator VND-3Lr**](../../../units/vindicator/vindicator_vnd-3lr.md) *Skirmisher (3077)* 
 
 ### 50 Tons 
+
+#### [Black Hawk (Standard)](../../../units/black_hawk_standard.md) 
+
+- [**Black Hawk (Standard)**](../../../units/black_hawk_standard/black_hawk_standard.md) *Skirmisher (3073)* 
+- [**Black Hawk (Standard) 3**](../../../units/black_hawk_standard/black_hawk_standard_3.md) *Skirmisher (3092)* 
 
 #### [Buster](../../../units/buster.md) 
 
@@ -348,6 +383,11 @@
 
 - [**Phoenix PX-1R**](../../../units/phoenix/phoenix_px-1r.md) *Brawler (2474)* 
 
+#### [Starslayer](../../../units/starslayer.md) 
+
+- [**Starslayer STY-3C**](../../../units/starslayer/starslayer_sty-3c.md) *Skirmisher (3056)* 
+- [**Starslayer STY-3Dr**](../../../units/starslayer/starslayer_sty-3dr.md) *Sniper (3075)* `ECM` 
+
 #### [Trebuchet](../../../units/trebuchet.md) 
 
 - [**Trebuchet TBT-5N**](../../../units/trebuchet/trebuchet_tbt-5n.md) *Missile Boat (2799)* 
@@ -380,6 +420,7 @@
 #### [Griffin](../../../units/griffin.md) 
 
 - [**Griffin GRF-1N**](../../../units/griffin/griffin_grf-1n.md) *Sniper (2492)* 
+- [**Griffin GRF-2N**](../../../units/griffin/griffin_grf-2n.md) *Skirmisher (2751)* `ECM` 
 - [**Griffin GRF-4N**](../../../units/griffin/griffin_grf-4n.md) *Striker (3083)* 
 - [**Griffin GRF-3N**](../../../units/griffin/griffin_grf-3n.md) *Sniper (3093)* 
 
@@ -443,6 +484,7 @@
 
 - [**Ostroc OSR-2C**](../../../units/ostroc/ostroc_osr-2c.md) *Skirmisher (2511)* 
 - [**Ostroc OSR-2Cb**](../../../units/ostroc/ostroc_osr-2cb.md) *Skirmisher (2729)* 
+- [**Ostroc OSR-3C**](../../../units/ostroc/ostroc_osr-3c.md) *Skirmisher (2876)* 
 - [**Ostroc OSR-2D**](../../../units/ostroc/ostroc_osr-2d.md) *Skirmisher (3050)* 
 - [**Ostroc OSR-4C**](../../../units/ostroc/ostroc_osr-4c.md) *Skirmisher (3066)* 
 - [**Ostroc OSR-5C**](../../../units/ostroc/ostroc_osr-5c.md) *Skirmisher (3082)* 
@@ -455,6 +497,7 @@
 #### [Quickdraw](../../../units/quickdraw.md) 
 
 - [**Quickdraw QKD-4G**](../../../units/quickdraw/quickdraw_qkd-4g.md) *Skirmisher (2779)* 
+- [**Quickdraw QKD-4H**](../../../units/quickdraw/quickdraw_qkd-4h.md) *Skirmisher (2847)* 
 - [**Quickdraw QKD-5A**](../../../units/quickdraw/quickdraw_qkd-5a.md) *Skirmisher (3002)* 
 - [**Quickdraw QKD-5M**](../../../units/quickdraw/quickdraw_qkd-5m.md) *Skirmisher (3049)* 
 - [**Quickdraw QKD-5Mr**](../../../units/quickdraw/quickdraw_qkd-5mr.md) *Missile Boat (3070)* `ECM` 
@@ -464,6 +507,11 @@
 - [**Rifleman RFL-3N**](../../../units/rifleman/rifleman_rfl-3n.md) *Sniper (2770)* 
 - [**Rifleman RFL-7M**](../../../units/rifleman/rifleman_rfl-7m.md) *Brawler (3066)* `ECM` 
 - [**Rifleman RFL-9T**](../../../units/rifleman/rifleman_rfl-9t.md) *Brawler (3071)* `ECM` , `Stealth` 
+
+#### [Ti Ts'ang](../../../units/ti_tsang.md) 
+
+- [**Ti Ts'ang TSG-9H**](../../../units/ti_tsang/ti_tsang_tsg-9h.md) *Skirmisher (3059)* `TAG` 
+- [**Ti Ts'ang TSG-9J**](../../../units/ti_tsang/ti_tsang_tsg-9j.md) *Skirmisher (3060)* 
 
 ### 65 Tons 
 
@@ -498,6 +546,10 @@
 
 - [**Ground Pounder DVM-2 MiningMech**](../../../units/ground_pounder/ground_pounder_dvm-2_miningmech.md) *Ambusher (3125)* `IndustrialMech` 
 
+#### [Ha Otoko](../../../units/ha_otoko.md) 
+
+- [**Ha Otoko**](../../../units/ha_otoko/ha_otoko.md) *Missile Boat (3060)* 
+
 #### [JagerMech](../../../units/jagermech.md) 
 
 - [**JagerMech JM6-S**](../../../units/jagermech/jagermech_jm6-s.md) *Sniper (2774)* 
@@ -527,6 +579,7 @@
 
 #### [Cataphract](../../../units/cataphract.md) 
 
+- [**Cataphract CTF-1X**](../../../units/cataphract/cataphract_ctf-1x.md) *Brawler (3025)* 
 - [**Cataphract CTF-2X**](../../../units/cataphract/cataphract_ctf-2x.md) *Brawler (3027)* 
 - [**Cataphract CTF-3L**](../../../units/cataphract/cataphract_ctf-3l.md) *Sniper (3050)* 
 - [**Cataphract CTF-3LL**](../../../units/cataphract/cataphract_ctf-3ll.md) *Skirmisher (3068)* 
@@ -587,6 +640,7 @@
 
 #### [Orion](../../../units/orion.md) 
 
+- [**Orion ON1-K**](../../../units/orion/orion_on1-k.md) *Brawler (2525)* 
 - [**Orion ON1-V**](../../../units/orion/orion_on1-v.md) *Brawler (2799)* 
 - [**Orion ON2-M**](../../../units/orion/orion_on2-m.md) *Brawler (3063)* 
 
@@ -605,6 +659,7 @@
 
 #### [Charger](../../../units/charger.md) 
 
+- [**Charger CGR-1A1**](../../../units/charger/charger_cgr-1a1.md) *Scout (2665)* 
 - [**Charger CGR-1A5**](../../../units/charger/charger_cgr-1a5.md) *Juggernaut (3023)* 
 - [**Charger CGR-1A9**](../../../units/charger/charger_cgr-1a9.md) *Skirmisher (3034)* 
 - [**Charger CGR-2A2**](../../../units/charger/charger_cgr-2a2.md) *Scout (3064)* 
@@ -628,6 +683,7 @@
 #### [Victor](../../../units/victor.md) 
 
 - [**Victor VTR-9A**](../../../units/victor/victor_vtr-9a.md) *Skirmisher (2508)* 
+- [**Victor VTR-9A1**](../../../units/victor/victor_vtr-9a1.md) *Skirmisher (2508)* 
 - [**Victor VTR-9B**](../../../units/victor/victor_vtr-9b.md) *Skirmisher (2510)* 
 - [**Victor VTR-9K**](../../../units/victor/victor_vtr-9k.md) *Skirmisher (3049)* 
 - [**Victor VTR-9Ka**](../../../units/victor/victor_vtr-9ka.md) *Skirmisher (3076)* 
@@ -658,6 +714,7 @@
 - [**Longbow LGB-8C**](../../../units/longbow/longbow_lgb-8c.md) *Missile Boat (2615)* 
 - [**Longbow LGB-10C**](../../../units/longbow/longbow_lgb-10c.md) *Missile Boat (3061)* 
 - [**Longbow LGB-12C**](../../../units/longbow/longbow_lgb-12c.md) *Missile Boat (3061)* 
+- [**Longbow LGB-13C**](../../../units/longbow/longbow_lgb-13c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14C**](../../../units/longbow/longbow_lgb-14c.md) *Missile Boat (3070)* 
 - [**Longbow LGB-14Q**](../../../units/longbow/longbow_lgb-14q.md) *Missile Boat (3101)* 
 
@@ -665,6 +722,7 @@
 
 - [**Stalker STK-3F**](../../../units/stalker/stalker_stk-3f.md) *Juggernaut (2594)* 
 - [**Stalker STK-3H**](../../../units/stalker/stalker_stk-3h.md) *Missile Boat (2638)* 
+- [**Stalker STK-4N**](../../../units/stalker/stalker_stk-4n.md) *Juggernaut (2876)* 
 - [**Stalker STK-5M**](../../../units/stalker/stalker_stk-5m.md) *Juggernaut (3050)* 
 
 ### 90 Tons 
@@ -672,6 +730,7 @@
 #### [Cyclops](../../../units/cyclops.md) 
 
 - [**Cyclops CP-10-Z**](../../../units/cyclops/cyclops_cp-10-z.md) *Juggernaut (2710)* 
+- [**Cyclops CP-10-Q**](../../../units/cyclops/cyclops_cp-10-q.md) *Missile Boat (2801)* 
 - [**Cyclops CP-11-A**](../../../units/cyclops/cyclops_cp-11-a.md) *Sniper (3045)* 
 - [**Cyclops CP-11-G**](../../../units/cyclops/cyclops_cp-11-g.md) *Sniper (3058)* 
 - [**Cyclops CP-11-H**](../../../units/cyclops/cyclops_cp-11-h.md) *Juggernaut (3064)* 
@@ -695,6 +754,10 @@
 
 ### 95 Tons 
 
+#### [Albatross](../../../units/albatross.md) 
+
+- [**Albatross ALB-3Ur**](../../../units/albatross/albatross_alb-3ur.md) *Brawler (3076)* 
+
 #### [Banshee](../../../units/banshee.md) 
 
 - [**Banshee BNC-3E**](../../../units/banshee/banshee_bnc-3e.md) *Sniper (2475)* 
@@ -713,6 +776,7 @@
 - [**Atlas AS7-D**](../../../units/atlas/atlas_as7-d.md) *Juggernaut (2755)* 
 - [**Atlas AS7-K**](../../../units/atlas/atlas_as7-k.md) *Sniper (3049)* 
 - [**Atlas AS7-S**](../../../units/atlas/atlas_as7-s.md) *Juggernaut (3050)* 
+- [**Atlas AS7-Dr**](../../../units/atlas/atlas_as7-dr.md) *Juggernaut (3070)* `C3 Support` , `ECM` 
 - [**Atlas AS7-K2**](../../../units/atlas/atlas_as7-k2.md) *Sniper (3082)* `ECM` 
 
 #### [Devastator](../../../units/devastator.md) 
@@ -723,9 +787,17 @@
 
 - [**Diomede D-M3D-M**](../../../units/diomede/diomede_d-m3d-m.md) *Juggernaut (3092)* `IndustrialMech` 
 
+#### [Grand Titan](../../../units/grand_titan.md) 
+
+- [**Grand Titan T-IT-N11M**](../../../units/grand_titan/grand_titan_t-it-n11m.md) *Brawler (3058)* `ECM` 
+
 #### [King Crab](../../../units/king_crab.md) 
 
 - [**King Crab KGC-001**](../../../units/king_crab/king_crab_kgc-001.md) *Juggernaut (3052)* 
+
+#### [Pillager](../../../units/pillager.md) 
+
+- [**Pillager PLG-3Z**](../../../units/pillager/pillager_plg-3z.md) *Juggernaut (2594)* 
 
 #### [Xanthos](../../../units/xanthos.md) 
 

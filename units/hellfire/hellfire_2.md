@@ -33,6 +33,7 @@
 
 ### Jihad 
 
+- Clan Blood Spirit 
 - Clan Burrock 
 - Clan Cloud Cobra 
 - Clan Star Adder 

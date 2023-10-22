@@ -41,6 +41,7 @@
 #### [Star Dagger](../../../units/star_dagger.md) 
 
 - [**Star Dagger S-2**](../../../units/star_dagger/star_dagger_s-2.md) *Fast Dogfighter (2330)* 
+- [**Star Dagger S-2B**](../../../units/star_dagger/star_dagger_s-2b.md) *Fast Dogfighter (2525)* 
 
 ### 35 Tons 
 

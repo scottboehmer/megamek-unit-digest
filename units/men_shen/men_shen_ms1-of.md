@@ -33,20 +33,35 @@
 ### Early Republic 
 
 - Capellan Confederation 
+- Clan Diamond Shark 
 - Magistracy of Canopus 
 
 ### Late Republic 
 
 - Capellan Confederation 
+- Clan Sea Fox 
+- Duchy of Andurien 
 - Magistracy of Canopus 
+- Marik-Stewart Commonwealth 
+- Oriente Protectorate 
 
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Sea Fox 
+- Duchy of Andurien 
+- Free Worlds League 
 - Magistracy of Canopus 
+- Marik-Stewart Commonwealth 
+- Mercenary 
+- Oriente Protectorate 
 
 ### ilClan 
 
 - Capellan Confederation 
+- Clan Sea Fox 
+- Duchy of Andurien 
+- Free Worlds League 
 - Magistracy of Canopus 
+- Mercenary 
 

@@ -36,16 +36,20 @@
 
 - Clan Wolf-in-Exile 
 - Lyran Commonwealth 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### Dark Ages 
 
 - Clan Wolf-in-Exile 
+- Free Worlds League 
 - Lyran Commonwealth 
+- Oriente Protectorate 
 - Republic of the Sphere 
 
 ### ilClan 
 
+- Free Worlds League 
 - Lyran Commonwealth 
 - Tamar Pact 
 - Vesper Marches 

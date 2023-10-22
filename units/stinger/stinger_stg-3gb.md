@@ -192,6 +192,7 @@
 ### Dark Ages 
 
 - Capellan Confederation 
+- Clan Wolf 
 - Duchy of Andurien 
 - Duchy of Tamarind-Abbey 
 - Free Worlds League 
@@ -208,4 +209,5 @@
 - Duchy of Andurien 
 - Free Worlds League 
 - Mercenary 
+- Wolf Empire 
 
