@@ -18,7 +18,7 @@
 - **Design Quirks:** 
   - Narrow/Low Profile 
 - **Sources:** Rec Guide:ilClan #3 , [Master Unit List](http://masterunitlist.info/Unit/Details/7478) 
-- **Battle Value:** 1765 
+- **Battle Value:** 2182 
 
 ## Availability 
 
